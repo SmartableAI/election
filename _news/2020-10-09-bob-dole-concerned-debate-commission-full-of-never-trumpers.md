@@ -29,21 +29,37 @@ images:
     isCached: true
 
 related:
-  - title: "Debate commission co-chair defends virtual move after Trump pulls out: 'We will be guided by the medicine'"
-    excerpt: "Commission on Presidential Debates (CPD) co-chair Frank Fahrenkopf has defended the organization's decision to move the second presidential debate, slated for Oct. 15, to a virtual setting after President Trump dismissed the idea as a \"waste\" of time. "
-    publishedDateTime: 2020-10-09T02:28:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf"
-    ampWebUrl: "https://www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp"
+  - title: "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue"
+    excerpt: "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis."
+    publishedDateTime: 2020-10-04T16:32:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9f4375-e6af-4667-81a1-d8564e2cd2f6/7133e21f-a8e0-418b-b911-a6323c249384/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump signs short-term spending bill to prevent government shutdown"
+    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
+    publishedDateTime: 2020-10-01T06:43:00Z
+    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
+    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "3D0hzC2j/srNzMC5719t+ilNySYrmG/wRJ78e6b6e70gFrPsCdRnApOlPJDhR2yIjI9hW4DomY3oMoXcZiW4WJ1e7m3tRGGVjLEY59jprs3NQtu/kEdNiQaqfWaJXTcnWaMxyp0Mwrqiu1l7LEDS/K2QTiyEE0rmz3kSuk0GdMlk2wU12e7FxUFX0mna3WiUKgVUOlMCf5gS8XTnWsckytUxROCNnVLebdz2Tz8xP+Xez73GI3uBhuwjJ4gCAZSTYgvrE3mGkd6t81GhHFZ4HEwXU0R1lDhYnFHxJynzMl0JuIViV48MdJ9mor/axnD8Q7Q5K6npFrL77zAq5Q5eatOzQXmY9dG9SicKrswH4AA=;abs0Oiy7lMeuI5BMkfcFJA=="

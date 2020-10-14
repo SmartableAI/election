@@ -135,6 +135,22 @@ related:
         width: 520
         height: 816
         isCached: true
+  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
+    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
+    publishedDateTime: 2020-10-13T20:44:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 75
+    images:
+      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
     excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
     publishedDateTime: 2020-10-13T20:01:00Z

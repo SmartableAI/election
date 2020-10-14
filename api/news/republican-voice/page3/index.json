@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-06-trump-deploying-high-risk-strategy-by-leaving-hospital-so-early-rollins-says.md",
+      "title": "Trump deploying 'high-risk strategy' by leaving hospital so early, Rollins says",
+      "excerpt": "The president is deploying a \"high-risk strategy\" by leaving Walter Reed hospital earlier than expected, Republican strategist Ed Rollins told NYT.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dq72gKYBHzY/trump-high-risk-strategy-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dq72gKYBHzY/trump-high-risk-strategy-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20279838236015.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-high-risk-strategy-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-high-risk-strategy-campaign.amp",
+      "publishedDateTime": "2020-10-06T07:08:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-dont-underestimate-mike-pence.md",
       "title": "Don’t Underestimate Mike Pence",
       "excerpt": "A soothing dose of Hoosier calm might be just what the Trump campaign needed.",
@@ -395,6 +451,62 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-hundreds-of-trump-supporters-gather-outside-trump-tower-in-nyc-briefly-shut-down-fifth-avenue.md",
+      "title": "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue",
+      "excerpt": "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp",
+      "publishedDateTime": "2020-10-04T09:32:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -1549,118 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-media-comey-russia-investigation-senate-jason-chaffetz.amp",
       "publishedDateTime": "2020-10-01T07:11:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-calls-first-debate-embarrassing-for-the-country-wonders-how-many-people-took-kids-away-from-the-television.md",
-      "title": "Biden calls first debate 'embarrassing for the country,' wonders how many people took 'kids away from the television'",
-      "excerpt": "Democratic presidential nominee Joe Biden on Wednesday called the first presidential debate \"embarrassing for the country\" and speculated that some parents took their children away from the television as President Trump regularly interrupted the former vice president and moderator Chris Wallace and hammered",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tTSxeg_17nQ/biden-calls-first-debate-embarrassing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tTSxeg_17nQ/biden-calls-first-debate-embarrassing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-calls-first-debate-embarrassing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-first-debate-embarrassing.amp",
-      "publishedDateTime": "2020-10-01T04:27:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-mr-rogers-widow-joanne-hold-virtual-call-during-pennsylvania-campaign-stop.md",
-      "title": "Biden, Mr. Rogers' widow Joanne hold virtual call during Pennsylvania campaign stop",
-      "excerpt": "Rogers, 92, is an outspoken critic of President Trump and supporter of the Biden campaign.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZhMH2EpasXA/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Facetime-Rogers-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mr-rogers-widow-virtual-call-latrobe-pennsylvania.amp",
-      "publishedDateTime": "2020-09-30T17:46:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

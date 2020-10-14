@@ -2,6 +2,175 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-07-trumps-declassifying-order-wont-erase-his-wrongdoing-swalwell-says.md",
+      "title": "Trump's declassifying order won't erase his wrongdoing, Swalwell says",
+      "excerpt": "Rep. Eric Swalwell calls Trump move a 'sloppy sleight of hand'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgvXIU38pFo/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mgvXIU38pFo/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/marisaschultzupd.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp",
+      "publishedDateTime": "2020-10-06T19:26:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trump-says-itll-be-fast-and-easy-to-confirm-amy-coney-barrett.md",
+      "title": "Trump says it'll be 'fast and easy' to confirm Amy Coney Barrett",
+      "excerpt": "President Trump declared on Twitter Tuesday evening that the Senate battle to confirm Amy Coney Barrett to the Supreme Court “will be fast and easy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20273529004578.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp",
+      "publishedDateTime": "2020-10-06T18:57:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
+      "title": "Pence preps for debate as chances to shake up the race dwindle",
+      "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html",
+      "publishedDateTime": "2020-10-06T18:33:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-puerto-rico-gov-wanda-vazquez-garced-endorses-trump-re-election-bid.md",
       "title": "Puerto Rico Gov. Wanda Vázquez Garced endorses Trump re-election bid",
       "excerpt": "Last month, the Trump administration unveiled a $13 billion aid package to help Puerto Rico in its ongoing recovery from Hurricane Maria.",
@@ -772,62 +941,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-06-phil-murphy-slams-trump-over-new-jersey-fundraiser-says-event-is-under-investigation.md",
-      "title": "Phil Murphy slams Trump over New Jersey fundraiser, says event is under investigation",
-      "excerpt": "New Jersey Gov. Phil Murphy slammed President Trump for holding a high-dollar fundraiser in the state less than one day before he tested positive for COVID-19, accusing the president of needlessly exposing attendees to the virus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYO6oOPq4EU/nj-governor-says-trumps-bedminster-fundraiser-under-investigation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYO6oOPq4EU/nj-governor-says-trumps-bedminster-fundraiser-under-investigation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bb84f88-e2a0-4bdd-bfd5-635cba70b0c7/2e932280-87d8-4787-bc3c-5dc98bfdc624/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp",
-      "publishedDateTime": "2020-10-06T10:54:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-06-fact-check-trump-falsely-tweets-that-covid-19-is-less-lethal-than-the-flu.md",
       "title": "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu",
       "excerpt": "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n",
@@ -1253,115 +1366,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-trump-accuser-e-jean-carroll-files-motion-against-justice-department.md",
-      "title": "Trump accuser E. Jean Carroll files motion against Justice Department",
-      "excerpt": "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "originalUrl": "https://abcnews.go.com/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/E-Jean-Carroll-01-AP-ib-200807_1596832650350_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-accuser-jean-carroll-files-motion-justice-department/story?id=73444015",
-      "publishedDateTime": "2020-10-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-dont-underestimate-mike-pence.md",
-      "title": "Don’t Underestimate Mike Pence",
-      "excerpt": "A soothing dose of Hoosier calm might be just what the Trump campaign needed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
-      "originalUrl": "https://www.wsj.com/articles/dont-underestimate-mike-pence-11601938848",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-240708/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/dont-underestimate-mike-pence-11601938848",
-      "publishedDateTime": "2020-10-05T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

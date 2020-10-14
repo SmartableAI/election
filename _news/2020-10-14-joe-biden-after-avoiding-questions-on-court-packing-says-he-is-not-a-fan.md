@@ -151,7 +151,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
+    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
+    publishedDateTime: 2020-10-13T20:44:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 75
+    images:
+      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
-secured: "UQAOruKsu9/qT4HfXCo+wUc3mcJFwatwgezZl5HQbdKtUgrGEYHBG97ZT9T0pA98eqoogCf2i9RkL1F9hlVEmOKyiBwUui2tPphNaiM0P6K5JP4U0e8Sg6rBVr+cYCBmuGkxSfxX1SMD650l2yIru4zTDLBhRphTfhEoKTZreWkkT80ulgN8SSr7zXIOg6wCP+PpwJ5Oi6Ay4XQ/+3EN+W7CvM3kFeF7v7g4cs2WOGL7iZQf4cOBXQZxWQArRMF8HN8w/bR3sOhnHZDwGf9Kj84Fs86WlwYNPoO7ho2+GhBcth9nMJTRgUvXfxEZlMOTRO43ESDf3zinXafwbEhNCT7aveDf19c2rhNeKfA9pcU=;ODkrJKGO/PQdjQ04kHVIQA=="
+secured: "Lp+TBfBO+IXcBeq4hkaHeXu3ON8u8tJBp7CfynqE+Jum+TzXFe3s8OovcYWO21bBIY94lSmFWfKNxQxiBOLc9MZY0GSTGaKw3npozVc3sqQzgSczXE8+0lzBNicZVON2gBf6TWVHZrQNO81wMQWYpVAXGOlrKHTg7wejnbwfA6404ruPAqto0d/DIgJuzX629zT8yKFVIfFQZG8xm7JVX3iYD6A9v/c+0YGApwhTyfJg5EZZfdt4J8D0CbdH8nWtWCU0pYzGetjWT59cgfA03tV3WhHdhSqyrBTAe/RFx6AfXcfgKG8LDUg/hUUxYOXrNjUP9pFPDeedRXwgDUfSGZri0I07as+9eNDvBbjsyGcgsDbBv/LeFoLhRK0vaSjlAc65GFwhSg7lxAMpkPQdQgh/B9GhTturiSlGhgQ+o+fo1K+xMqYzx3I3gOqDDXyWqcfR9rw566F/j56WxMRvoWgkrjA9M+aTUlwU/IU8wzlEO9mO3ST7y2qLCNaHoy9lii7igmlVFkbNgqYhVT1BYw==;4ENRDsQNIKVNAbeME+JavA=="
 ---
 

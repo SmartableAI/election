@@ -43,6 +43,17 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
+    excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
+    publishedDateTime: 2020-10-13T22:24:00Z
+    webUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/"
+    ampWebUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
 
 secured: "QGR0963d8YqEUI0EiOfsMJpZm/sfUeqx0cwmX1h6KfYJl9AeIq4FMFV6QLo0u+nza8LNRl92R+wLrG2lSz1Xv4LmgzAm9c+S8mC6nG6L/h9StQOJps09rQl7/K6Izm6TQkQz5ZVUhKlJxYpJmGgtUywCO1jhfQACAA1xP0n8WOE1wVVkGJtjWssMETNzrC4ynrBdvBvCzmNYonyJUJfojYW3HcTokBADOuf/DFQT7XauzbiLp7RxdO4038W2i6+1AY2C5IV+H42Mf4/l0bgLWhmhcZ+pxYYAWglLgrs7e1ZUhBd12VNdq5151FGy0dCO86gnyn3WBpHBiBILqUXdsXmglaAySH9jYc/A1719IXs=;G2FmsAcyNJv9E1u0UpSeNQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-03-if-trumps-symptoms-started-before-friday-he-may-have-been-highly-infectious-during-the-debate.md",
+      "title": "If Trump's symptoms started before Friday, he may have been highly infectious during the debate",
+      "excerpt": "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
+      "publishedDateTime": "2020-10-03T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
       "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
       "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
@@ -1541,63 +1593,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
-      "title": "Matt Gorman: Trump has a new running mate now",
-      "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
-      "originalUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp",
-      "publishedDateTime": "2020-09-30T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

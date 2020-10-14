@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democrats attack Amy Coney Barrett for saying 'sexual preference,' but Biden used same term in May"
+    excerpt: "Democratic lawmakers hammered Supreme Court nominee Judge Amy Coney Barrett for her use of the term \"sexual preference\" to describe the LGBTQ community, but apparently the term isn't as outdated as some Democrats believe it is."
+    publishedDateTime: 2020-10-14T00:24:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oQYXzwUOfig/democrats-attack-amy-coney-barrett-sexual-preference-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be2bd71c-ae89-43cc-992b-cfcca9a23d4a/28bfbf47-fe2a-4ccf-9803-3c47ae558c95/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden refuses to say whether he would add seats to Supreme Court"
     excerpt: "Democratic presidential nominee Joe Biden on Monday refused to say whether he supports growing calls from his party to add more members to the Supreme Court if he wins the Nov. 3 election."
     publishedDateTime: 2020-09-22T14:03:39Z

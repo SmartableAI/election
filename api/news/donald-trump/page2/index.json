@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-11-in-interview-with-rush-limbaugh-donald-trump-calls-lebron-james-a-hater-and-nasty-spokesman.md",
+      "title": "In interview with Rush Limbaugh, Donald Trump calls LeBron James a 'hater' and 'nasty spokesman'",
+      "excerpt": "During an interview on Rush Limbaugh's radio show Friday, Donald Trump brought up LeBron James, calling him a \"hater\" and a \"nasty spokesman.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
+      "originalUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/05/USAT/8a356290-b295-48bd-9d34-e1011df5e5bc-2020-10-04_LeBron3.jpg?auto=webp&crop=2671,1502,x82,y59&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5955438002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5955438002",
+      "publishedDateTime": "2020-10-10T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-we-reject-their-support-trump-campaign-strongly-declines-taliban-endorsement-for-his-2020-reelection.md",
       "title": "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection",
       "excerpt": "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider.",
@@ -1114,7 +1166,7 @@
       "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -1529,58 +1581,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-fbi-director-chris-wray-and-top-us-intelligence-officials-release-video-countering-trumps-conspiracies-about-election-integrity.md",
-      "title": "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity",
-      "excerpt": "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result.",
-      "sourceUrl": null,
-      "webUrl": "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10",
-      "originalUrl": "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp",
-      "publishedDateTime": "2020-10-07T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

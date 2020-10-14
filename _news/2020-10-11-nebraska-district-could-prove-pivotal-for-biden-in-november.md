@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
+    excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
+    publishedDateTime: 2020-10-13T22:24:00Z
+    webUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/"
+    ampWebUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
   - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
     excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
     publishedDateTime: 2020-10-10T21:32:00Z

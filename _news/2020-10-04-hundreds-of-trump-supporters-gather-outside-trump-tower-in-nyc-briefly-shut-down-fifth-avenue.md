@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
 type: article
 quality: 163
-heat: -1
-published: false
+heat: 203
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Phil Murphy slams Trump over New Jersey fundraiser, says event is under investigation"
-    excerpt: "New Jersey Gov. Phil Murphy slammed President Trump for holding a high-dollar fundraiser in the state less than one day before he tested positive for COVID-19, accusing the president of needlessly exposing attendees to the virus."
-    publishedDateTime: 2020-10-06T17:54:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QYO6oOPq4EU/nj-governor-says-trumps-bedminster-fundraiser-under-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
+  - title: "Bob Dole 'concerned' debate commission full of never-Trumpers"
+    excerpt: "Former Sen. Bob Dole expressed concern on Friday that no one on the Commission on Presidential Debates (CPD) supports President Trump, though the commission claims to be nonpartisan. "
+    publishedDateTime: 2020-10-09T21:31:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErZrFpJRTTw/bob-dole-debate-commission-never-trumpers"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bb84f88-e2a0-4bdd-bfd5-635cba70b0c7/2e932280-87d8-4787-bc3c-5dc98bfdc624/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/990d89dc-ff60-4740-b234-940109e5ea79/fda33ddc-3839-4fe8-aa55-2686c8523ab5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump signs short-term spending bill to prevent government shutdown"
+    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
+    publishedDateTime: 2020-10-01T06:43:00Z
+    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
+    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "jm2PxbI4oj3oqyx8e8NsGL3V7SiPdIuM3PKwzRPTg7Vd5+5hHsPbAtu0S7mJwTEWYY6MjQa2HC3XSmabmkfJioxiFpFOQJh3cezP4sUTLaNLvg6f4XwQBQg+G0mQK12slO3cK7r+Mmty/+U6fFqwCbgxFAkH9D1rL7PoB2SK0r0YR9tMMJoO5qu5FF4BEjHL8g/oPYHMsoiugQham60qUz0Z4rjV+b1OmLRepoC05Zi1t6Y8E3lRJE7cXP73ElMwyCILTKmMfR6lihags1oKs0gm7MdFhsi+3ZynWkOTzKIkR1O8zPkO02BXFfHAFjVt8Wm/rsl6pPdB61iOfjTwMZCn2C3BYsnVzWTvjJ15o+8=;uxdTnCO3qvFvU5WHsZKmRw=="

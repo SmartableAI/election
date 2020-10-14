@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?am
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
 type: article
 quality: 139
-heat: 359
+heat: 379
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8609c584539e20a9353d59%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D217%26cropY2%3D1905"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Twitter suspends accounts of alleged Black Trump supporters over spam, manipulation"
+    excerpt: "Twitter Inc on Tuesday said it suspended a group of accounts that claimed to be owned by African-American supporters of President Donald Trump and his re-election campaign due to spam and platform manipulation."
+    publishedDateTime: 2020-10-14T01:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-twitter-disinformation-idUSKBN26Y2ZM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537348147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C1UL"
+        width: 817
+        height: 545
         isCached: true
   - title: "Bob Dole says none of his Republican friends on the presidential debate commission support Trump"
     excerpt: "The former GOP senator and presidential nominee called the nonpartisan organization \"biased\" after it canceled an upcoming debate amid health concerns."

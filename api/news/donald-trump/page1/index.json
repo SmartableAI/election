@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-fda-pushes-back-on-trump-administration-attempt-to-rebrand-emergency-authorization.md",
+      "title": "FDA pushes back on Trump administration attempt to rebrand ‘emergency authorization’",
+      "excerpt": "The administration proposed labeling a Covid-19 vaccine authorization a ‘pre-licensure,’ which FDA says would undermine its procedures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/13/fda-trump-covid-rebrand-429277",
+      "originalUrl": "https://www.politico.com/news/2020/10/13/fda-trump-covid-rebrand-429277",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/7a/99/6c5c2b9643dfb64dbe9ccc369246/201013-hahn-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/13/fda-trump-covid-rebrand-429277",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/fda-trump-covid-rebrand-429277",
+      "publishedDateTime": "2020-10-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-doj-trumps-total-declassification-of-russiagate-docs-has-no-effect.md",
       "title": "DOJ: Trump's 'total declassification' of Russiagate docs has no effect",
       "excerpt": "DOJ attorneys told a judge that the White House Counsel's Office effectively told DOJ to disregard Trump's tweets on the matter.",
@@ -958,7 +1015,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1067,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2775,
+      "heat": 2815,
       "tags": null,
       "images": [
         {
@@ -1171,7 +1228,7 @@
       "originalUrl": "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -1501,58 +1558,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5882077002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002",
       "publishedDateTime": "2020-10-10T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-in-interview-with-rush-limbaugh-donald-trump-calls-lebron-james-a-hater-and-nasty-spokesman.md",
-      "title": "In interview with Rush Limbaugh, Donald Trump calls LeBron James a 'hater' and 'nasty spokesman'",
-      "excerpt": "During an interview on Rush Limbaugh's radio show Friday, Donald Trump brought up LeBron James, calling him a \"hater\" and a \"nasty spokesman.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
-      "originalUrl": "https://www.usatoday.com/story/sports/nba/lakers/2020/10/10/donald-trump-tells-rush-limbaugh-lebron-hater-nasty-spokesman/5955438002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/05/USAT/8a356290-b295-48bd-9d34-e1011df5e5bc-2020-10-04_LeBron3.jpg?auto=webp&crop=2671,1502,x82,y59&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5955438002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5955438002",
-      "publishedDateTime": "2020-10-10T15:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

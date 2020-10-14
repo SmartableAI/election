@@ -30,65 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
-    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
-    publishedDateTime: 2020-10-08T02:50:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+  - title: "Judge rules Texas' Harris County can't send mail-in ballot applications to all 2.4M residents there"
+    excerpt: "The Texas Supreme Court ruled that Harris County cannot send ballot applications to all 2.4 million of its registered voters."
+    publishedDateTime: 2020-10-07T15:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGtcnbP7gA/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c3a614-9e59-4101-a0ee-1ba70ee3980c/5ec3e47b-4951-42b4-8649-77df6ec63756/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
-    excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
-    publishedDateTime: 2020-10-09T17:19:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbyP_z5lbDg/harris-open-packing-supreme-court-ny-times-reporter"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/17eb6749-AP20282098478486.jpg"
-        width: 1024
-        height: 695
-        isCached: true
-  - title: "Harris rips Barrett confirmation process as 'illegitimate,' claims nominee will 'undo' Ginsburg's legacy "
-    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, slammed the panel for carrying out what she called an “illegitimate” process to confirm Judge Amy Coney Barrett to the Supreme Court before Election Day, while warning President Trump’s nominee for the high"
-    publishedDateTime: 2020-10-12T17:39:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZA9VNP6jusQ/harris-rips-barrett-confirmation-process-as-illegitimate-claims-nominee-will-undo-ginsburgs-legacy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5b1135c-af2a-4186-b6c8-db47b4ebffe4/130aa47a-e67a-48cf-a64e-ef6d16d07d7f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240957/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
     excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
@@ -103,20 +59,6 @@ related:
       - url: "https://images.wsj.net/im-243696?size=1.5"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
-    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
-    publishedDateTime: 2020-10-11T22:42:00Z
-    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 97
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"

@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris' false 'Honest Abe' story and her misuse of American history"
+    excerpt: "Sen. Kamala Harris is the very embodiment of today’s progressives. She proved this again and again on the debate stage with Vice President Mike Pence, most clearly in her willingness to twist or rewrite history."
+    publishedDateTime: 2020-10-14T00:06:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/B1-keenew_c0-133-1800-1183_s1200x700.jpg?0f47a19364006e5f83b6c36f5a2c150dc0da5a84"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
     excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
     publishedDateTime: 2020-10-11T12:00:00Z

@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says it'll be 'fast and easy' to confirm Amy Coney Barrett"
-    excerpt: "President Trump declared on Twitter Tuesday evening that the Senate battle to confirm Amy Coney Barrett to the Supreme Court “will be fast and easy.”"
-    publishedDateTime: 2020-10-07T01:57:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s7qeKGpTq1Y/trump-fast-confirm-amy-coney-barrett"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
+  - title: "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views"
+    excerpt: "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\""
+    publishedDateTime: 2020-10-14T01:52:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VO16TvudxFM/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20273529004578.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fe1b608-f011-4a25-8ce0-630bc39c0be6/06de38c4-0483-4d6c-b470-3605a92e0835/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’"
+    excerpt: "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. "
+    publishedDateTime: 2020-10-13T17:01:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Barrett: I’ve had no conversation with Trump about how I’d rule on any case"
     excerpt: "Supreme Court nominee Amy Coney Barrett told the Senate Judiciary Committee on Tuesday that she has made \"no commitment\" to President Trump or other lawmakers on how she would rule on major cases regarding issues like abortion, health care, or a potential electoral dispute."
@@ -64,6 +80,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
+    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
+    publishedDateTime: 2020-10-08T02:50:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
+    excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
+    publishedDateTime: 2020-10-09T17:19:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbyP_z5lbDg/harris-open-packing-supreme-court-ny-times-reporter"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/17eb6749-AP20282098478486.jpg"
+        width: 1024
+        height: 695
+        isCached: true
   - title: "Kamala Harris says Amy Coney Barrett's faith shouldn't be scrutinized in confirmation hearings"
     excerpt: "Democratic vice presidential nominee Kamala Harris said Supreme Court nominee Amy Coney Barrett should \"absolutely not\" be questioned about her faith during her confirmation process. "
     publishedDateTime: 2020-10-10T16:47:51Z
@@ -78,47 +124,63 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Biden takes heat after saying confirming Barrett would not be 'constitutional’"
-    excerpt: "Democratic presidential candidate Joe Biden is facing pushback to his claim that Republican efforts to confirm Amy Coney Barrett to the Supreme Court are not “constitutional.”"
-    publishedDateTime: 2020-10-11T17:31:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oPgEw7X1SNE/biden-confirming-barrett-not-constitutional"
+  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
+    publishedDateTime: 2020-10-11T17:18:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fg91IhTV_c0/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 151
+    quality: 153
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284680998006-e1602437321641.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Harris rips Barrett confirmation process as 'illegitimate,' claims nominee will 'undo' Ginsburg's legacy "
+    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, slammed the panel for carrying out what she called an “illegitimate” process to confirm Judge Amy Coney Barrett to the Supreme Court before Election Day, while warning President Trump’s nominee for the high"
+    publishedDateTime: 2020-10-12T17:39:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZA9VNP6jusQ/harris-rips-barrett-confirmation-process-as-illegitimate-claims-nominee-will-undo-ginsburgs-legacy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5b1135c-af2a-4186-b6c8-db47b4ebffe4/130aa47a-e67a-48cf-a64e-ef6d16d07d7f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says Barrett's Catholic faith 'should not be considered' during confirmation process"
-    excerpt: "Democratic presidential nominee Joe Biden said that Amy Coney Barrett’s Catholic faith “should not be considered” as confirmation hearings for President Trump’s Supreme Court nominee get underway."
-    publishedDateTime: 2020-10-12T16:13:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rN9n5Va52g/biden-amy-coney-barrett-catholic-faith"
+  - title: "Kamala Harris’s American Example"
+    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
+    publishedDateTime: 2020-10-06T23:38:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286520134581-e1602518354123.jpg"
-        width: 2378
-        height: 1341
-        isCached: true
-  - title: "Trump complains Republicans giving Democrats 'great deal of time' to talk during Barrett hearing"
-    excerpt: "President Trump complained Monday morning that Republicans on the Senate Judiciary Committee were giving Democratic members a “great deal of time” to speak during Judge Amy Coney Barrett’s Supreme Court confirmation hearing, saying he would “pull back.”"
-    publishedDateTime: 2020-10-12T14:49:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sI501h3HP2U/trump-democrats-amy-coney-barrett-hearing-time-to-talk"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 142
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20286472723142-e1602512962193.jpg"
+      - url: "https://images.wsj.net/im-240957/social"
         width: 1280
-        height: 720
+        height: 640
+        isCached: true
+  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
+    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
+    publishedDateTime: 2020-10-09T19:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
+        width: 5472
+        height: 3648
         isCached: true
   - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
     excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
@@ -149,6 +211,61 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6efa3b6e-e72c-4aed-b985-e65c63c2ae50/00a37f4e-77a3-4ef4-9fd9-d3c300d9e39b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
+    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
+    publishedDateTime: 2020-10-11T17:42:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 103
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Judge Barrett Wrecks Kamala Harris Under SCOTUS Questioning"
+    excerpt: "It's been a long day on Capitol Hill but Democrat vice presidential nominee and Senator Kamala Harris finally got her turn to go after Judge Amy Coney Barrett during Supreme"
+    publishedDateTime: 2020-10-14T00:05:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019"
+    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "MSNBC still promoting Kamala Harris’s fabricated story about Abe Lincoln and court-packing"
+    excerpt: "MSNBC is still promoting Sen. Kamala Harris’s made-up story about Abraham Lincoln and court-packing. The Democratic Party surely appreciates the service: . \"But, Honest Abe said, it's not the right thing to do."
+    publishedDateTime: 2020-10-12T14:13:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 55
+  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
+    publishedDateTime: 2020-10-12T20:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 46
+    images:
+      - url: "https://assets.realclear.com/images/52/523854.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "RyUsTjCAmyxePLNXTL2nh2vPV6GxRc76DikYUsuL5uBlunydPOT8ceRlCj3KK94m/QPt6VcwWDnmYPAOwMQ1B+m9sUh+H2VNXIDOBRWjk+scT4Tg/J8WpduviuPKnMvVO76UaK5BGNclH1sV3kXFgdeUmltJf7TSOkYv161DAk5SGJOIOFAeZAlakjJv5LM057zoMW1N33OvUApR0L202pp9PG6wehki17ktkeyRb/ixx/tHuCK2/Qmmk6eYx8joIF/40DWJnIm/caakrJOze35nA2Mh3VO+qDhS+4HfIetkAG2mczp6/Bc6tJU4iXflVPkPgSkniUb+zOB2x4mrD156RQb9pzE/ohx2/hz7GGE=;TwyY/B2KD11z8+SBXx3ukw=="

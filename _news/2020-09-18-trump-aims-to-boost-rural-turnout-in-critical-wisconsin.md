@@ -265,6 +265,22 @@ related:
         width: 1200
         height: 706
         isCached: true
+  - title: "Watch Live: President Trump's Campaign Remarks From Johnstown PA"
+    excerpt: "Trailing in the polls, President Donald Trump returns to the battleground state Pennsylvania on Tuesday. Trump will speak at a rally at the John Murtha Johnstown-Cambria County Airport at 7 p.m. Trump has returned to the campaign trail after having tested positive for the coronavirus almost two weeks ago."
+    publishedDateTime: 2020-10-14T01:11:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/watch-live-president-trumps-campaign-remarks-johnstown-pa"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/ap/22920172/20201013/041125/styles/patch_image/public/ap20286856381385-1___13155747467.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
 
 secured: "6V8nbwmUiyUO9vNhK68SiOSPh/F63kuoAyAlX4r32OK5qvIA2BSrVkymB6wog6smWPJggvvKfQJSrxavvBFhX+cZ/PSJmt7aiYxCMYYZ4qu4nFOk5u47EZf/ZsALCOkCIoxcGUlADiHzKQHOAvxJs7a2IsnC4v6uB4V2TOoM0pDK/aPnCu/UQdl3fk+SuLA+yVTnKUzaD/QPm3tdg1ZucO8fowarOsEW0kyAjddKZRz2jeqGuOucrWcdpNW6Y0jL0M/q7CCHfv16Pgb0qDKHKIFNjT9YPVZ2OVtV1GRGmb2DZK4Pg05GG4ZYcIdn4kdfqL+UzczBPP3JDqPuIzXipBxNHdOPIA0ZQ4mE0NNIyq4hogBkX4BxulvliqC8bvCkwC1cv6/VD3tjMlRX6Xg+FOeIBpP4AHjAbZPX81c2/VqLy25ZVI1kk5j0p1UFzzipESl/1cYOKg/+EpoUq/aKgOebdb5S3OxrYMTTXPBUyHHbmkz79eRC2uP7JUyo6f0vlCY4bCQHWNTctpDQBwQhWA==;0N5K+JjcBEpIOoKu1Pby5g=="
 ---

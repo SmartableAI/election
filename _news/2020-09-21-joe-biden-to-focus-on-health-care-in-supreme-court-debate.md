@@ -2440,6 +2440,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence claims Joe Biden copied Donald Trump's COVID-19 plan. That's false."
+    excerpt: "Pence claimed the Biden plan to address the coronavirus pandemic was similar to the Trump administration’s plan 'every step of the way.'"
+    publishedDateTime: 2020-10-13T23:57:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/donald-trump-coronavirus-plan-joe-biden-mike-pence/3645484001/"
+    ampWebUrl: "https://amp.freep.com/amp/3645484001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3645484001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/545a587bf0fc28f50d07d6bb98449c33d6642571/c=332-224-3840-2206/local/-/media/2016/10/08/DetroitFreePress/DetroitFreePress/636115404323367333-GTY-AFP-GU7OI.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Manhattan prosecutor, in fight over Trump tax returns, says president could be investigated for fraud"
     excerpt: "The Manhattan District Attorney's office said \"mountainous\" allegations of misconduct against Trump could justify a grand jury probe into tax fraud."
     publishedDateTime: 2020-09-22T04:06:00Z
@@ -4054,6 +4070,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump, Biden Zero in on Swing States That Are Key to Victory"
+    excerpt: "With Election Day just three weeks away, President Donald Trump and Democratic challenger Joe Biden are concentrating on battleground states both see as critical to clinching an Electoral College victory."
+    publishedDateTime: 2020-10-14T01:11:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/trump-biden-trips-illustrate-electoral-college-calculations"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/trump-biden-trips-illustrate-electoral-college-calculations?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-13/trump-biden-trips-illustrate-electoral-college-calculations?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z

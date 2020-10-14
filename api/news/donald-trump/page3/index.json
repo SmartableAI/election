@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-08-fbi-director-chris-wray-and-top-us-intelligence-officials-release-video-countering-trumps-conspiracies-about-election-integrity.md",
+      "title": "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity",
+      "excerpt": "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10",
+      "originalUrl": "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp",
+      "publishedDateTime": "2020-10-07T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-the-relief-deal-blowup-what-are-pelosi-and-trump-thinking.md",
       "title": "The Relief Deal Blowup: What are Pelosi and Trump Thinking?",
       "excerpt": "It’s not just the president’s wild back-and-forth on Twitter. Both sides are looking irrational on a deal that the economy is going to need soon.",
@@ -1525,58 +1577,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-if-trumps-symptoms-started-before-friday-he-may-have-been-highly-infectious-during-the-debate.md",
-      "title": "If Trump's symptoms started before Friday, he may have been highly infectious during the debate",
-      "excerpt": "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

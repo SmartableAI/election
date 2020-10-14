@@ -911,6 +911,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump reacts to Kamala Harris' questioning of Amy Coney Barrett, calls it 'pathetic'"
+    excerpt: "President Trump called Sen. Harris' questioning of Judge Amy Coney Barrett at her Senate confirmation hearing \"so pathetic\" during a rally in Pennsylvania."
+    publishedDateTime: 2020-10-14T01:24:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-reacts-to-kamala-harris-questioning-of-amy-coney-barrett-calls-it-pathetic-93791301592"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93791301592"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93791301592"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 143
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/f_mo_trump_harris_201013_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Kamala Harris has stacked up as Joe Biden's No. 2"
     excerpt: "The California senator has been largely kept under wraps, to the frustration of her supporters. Will that change tonight against Mike Pence?"
     publishedDateTime: 2020-10-07T08:34:00Z
@@ -1224,6 +1240,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Douthat/10Douthat-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Kamala Harris stumps for Obamacare during Barrett questioning"
+    excerpt: "The Democratic vice presidential nominee urged Barrett to consider the impacts of ending the Affordable Care Act."
+    publishedDateTime: 2020-10-14T00:21:00Z
+    webUrl: "https://www.politico.com/news/2020/10/13/kamala-harris-stumps-for-obamacare-during-barrett-questioning-429369"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/13/kamala-harris-stumps-for-obamacare-during-barrett-questioning-429369"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/kamala-harris-stumps-for-obamacare-during-barrett-questioning-429369"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f4/3f/6df0c38b420a81a242ad91dec6f2/gettyimages-1229055860-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."

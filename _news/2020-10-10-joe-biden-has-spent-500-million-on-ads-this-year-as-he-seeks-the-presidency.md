@@ -347,6 +347,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Wall Street rolls the dice on Joe Biden-Kamala Harris ticket"
+    excerpt: "Wall Street’s biggest firms are cozying up to Democratic Presidential nominee Joe Biden and appear to be rolling the dice that if the former vice president wins the White House in November, his talk about raising taxes on investors and big corporations,"
+    publishedDateTime: 2020-10-14T01:00:00Z
+    webUrl: "https://www.foxbusiness.com/politics/wall-street-rolls-dice-on-joe-biden-kamala-harris"
+    ampWebUrl: "https://www.foxbusiness.com/politics/wall-street-rolls-dice-on-joe-biden-kamala-harris.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/politics/wall-street-rolls-dice-on-joe-biden-kamala-harris.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 100
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202010/238/854081161001_6200288924001_6200289306001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Did Mike Pence accuse Kamala Harris of receiving debate questions in advance? Nope"
     excerpt: "The tweet was made to look like it was sent from @VP, one of the Twitter accounts used by the vice president, and has the same photo as Pence’s actual account."
     publishedDateTime: 2020-10-10T23:31:00Z
@@ -506,6 +522,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump, Vice President Pence to Visit Miami Thursday in Bid to Sway Swing State Voters"
+    excerpt: "The election ball keeps on rolling throughout South Florida this week as President Trump and Vice President Mike Pence are scheduled to be in Miami Thursday in a push to sway swing state voters. Trump’s Miami visit will come just days after Democratic nominee Joe Biden is expected to attend a pair of events in Broward County Tuesday."
+    publishedDateTime: 2020-10-14T01:45:00Z
+    webUrl: "https://www.nbcmiami.com/news/politics/decision-2020/traffic-delays-road-closures-expected-for-president-trumps-miami-visit/2306245/"
+    ampWebUrl: "https://www.nbcmiami.com/news/politics/decision-2020/traffic-delays-road-closures-expected-for-president-trumps-miami-visit/2306245/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/politics/decision-2020/traffic-delays-road-closures-expected-for-president-trumps-miami-visit/2306245/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 78
+    images:
+      - url: "https://media.nbcmiami.com/2020/10/GettyImages-1279889013.jpg?fit=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
     excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
@@ -750,6 +782,20 @@ related:
       - url: "https://cdn.factcheck.org/UploadedFiles/lincolnportrait_thumb.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
+    excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
+    publishedDateTime: 2020-10-14T01:40:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/49d602b0-564c-4aa8-ad09-ee87ba89632c-BARRETT_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "wuPA6iVM6WhsWRVZgePm4bGXfasC4vMfhgc2PYL6CK0jH7VAgz2Wu5QrwBMshO2b6rqaPu3eW/Pwb2dOkGkCIkjkj+8GxyKFvG5VEsEJaqSehX/rEzfEjSt3M8K98rgXnFSjTfFeDoupT6KQk5F+c44Td+tkXsaBwoWVm7xvxvupWa0S6D97SJZOtzypONmXAf+mivlmrju8kqFcJMsudmLb9AEbdgB0M4rrU1VM2ivX8OK3JsCSvm46Lo8/5V8Tj7aB+vKikglQ4HZggtmM5Zjcc6OZwXqGCcrV9TOupM8vMCGxDmClAqxPXQBeboM/mZHJV1o0d1yTaEQz19Jlpz2BWkbdFEseBp3RnlTNdMA=;6SetSLwuzDfLIlhj+weD+w=="

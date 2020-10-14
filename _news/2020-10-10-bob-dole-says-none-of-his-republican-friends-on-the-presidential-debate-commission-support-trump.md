@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Twitter suspends accounts of alleged Black Trump supporters over spam, manipulation"
+    excerpt: "Twitter Inc on Tuesday said it suspended a group of accounts that claimed to be owned by African-American supporters of President Donald Trump and his re-election campaign due to spam and platform manipulation."
+    publishedDateTime: 2020-10-14T01:34:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-twitter-disinformation-idUSKBN26Y2ZM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537348147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C1UL"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump criticized for leaving hospital to greet supporters"
     excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
     publishedDateTime: 2020-10-05T11:28:00Z

@@ -2,6 +2,216 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-09-trump-will-take-a-medical-evaluation-administered-by-a-fox-news-doctor-on-tv-the-network-says.md",
+      "title": "Trump will take a 'medical evaluation' administered by a Fox News doctor on TV, the network says",
+      "excerpt": "The president will be interviewed by Tucker Carlson on Friday, Fox News said. It will be his first on-camera interview since his COVID-19 diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f805ff34c3b2e0019bba144?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp",
+      "publishedDateTime": "2020-10-09T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-kamala-harris-and-the-shameful-history-of-slamming-women-as-unlikable.md",
+      "title": "Kamala Harris and the shameful history of slamming women as 'unlikable’",
+      "excerpt": "President Trump also derided the Democratic vice-presidential candidate as ‘a monster’ — a term used to vilify suffragists more than a century ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
+      "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMXXG3QJGAI6XBYZBXYVTUKHSQ.jpg&w=1440",
+          "width": 1440,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
+      "publishedDateTime": "2020-10-09T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-the-note-trump-campaigns-in-a-bubble-amid-signs-of-gop-worry-about-race.md",
+      "title": "The Note: Trump campaigns in a bubble amid signs of GOP worry about race",
+      "excerpt": "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
+      "publishedDateTime": "2020-10-09T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
+      "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
+      "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5917943002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002",
+      "publishedDateTime": "2020-10-09T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-what-makes-mike-pences-complicity-so-chilling.md",
       "title": "What Makes Mike Pence’s Complicity So Chilling",
       "excerpt": "Somewhere under the cornfields and backyard hoop courts of Indiana is a small black box holding the conscience of Vice President Mike Pence. He buried it four years ago, when a tape emerged of Donald Trump boasting about sexually assaulting women.",
@@ -236,7 +446,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -556,7 +766,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2203,
+      "heat": 2243,
       "tags": null,
       "images": [
         {
@@ -1147,227 +1357,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-harris-says-she-is-a-person-of-faith-insulting-to-suggest-she-would-knock-anyone-for-religion.md",
-      "title": "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion",
-      "excerpt": "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 312,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "publishedDateTime": "2020-10-07T19:50:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-fact-check-trumps-hospital-records-weight-have-not-been-released.md",
-      "title": "Fact check: Trump's hospital records, weight have not been released",
-      "excerpt": "Social media posts claim President Donald Trump is underrepresenting his weight by nearly 80 pounds. His latest physical results reveal this is false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/07/NLED/2dddc1bf-c758-4a68-98cc-f4d5dc745c71-AP20280801146522.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5913031002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002",
-      "publishedDateTime": "2020-10-07T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-mcdaniel-slams-biden-over-despicable-politicization-of-coronavirus-in-first-interview-since-positive-test.md",
-      "title": "McDaniel slams Biden over 'despicable' politicization of coronavirus in first interview since positive test",
-      "excerpt": "The coronavirus pandemic has brought out the \"worst\" in Joe Biden and the Democratic Party, Republican National Committee Chairwoman Ronna McDaniel told \"Bill Hemmer Reports\" on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wVf6myPU25A/rnc-mcdaniel-biden-politicizing-coronavirus",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wVf6myPU25A/rnc-mcdaniel-biden-politicizing-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b5a355fd-dcbc-4859-88bc-65d72fb4a4e3/42f314ee-ce14-48bd-8c00-9e2d9a072753/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rnc-mcdaniel-biden-politicizing-coronavirus.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rnc-mcdaniel-biden-politicizing-coronavirus.amp",
-      "publishedDateTime": "2020-10-07T14:39:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-trump-campaign-cancels-ohio-iowa-tv-ads-amid-optimism-over-swing-state-election-chances.md",
-      "title": "Trump campaign cancels Ohio, Iowa TV ads amid optimism over swing state election chances",
-      "excerpt": "“President Trump and his campaign are extremely confident about our chances in these states,” a Trump campaign spokeswoman said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7wRtyKXITsc/trump-cancels-ohio-iowa-tv-ads",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29bfe935-daa8-4470-8854-e86a54083904/73b2af23-e387-4c77-bfc9-a57bce52aa82/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cancels-ohio-iowa-tv-ads.amp",
-      "publishedDateTime": "2020-10-07T12:39:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

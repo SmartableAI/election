@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/nj-governor-says-trumps-bedminster-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-governor-says-trumps-bedminster-fundraiser-under-investigation.amp"
 type: article
 quality: 168
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hundreds of Trump supporters gather outside Trump Tower in NYC, briefly shut down Fifth Avenue"
-    excerpt: "Hundreds of President Trump supporters lined up outside Trump Tower in New York City early Sunday, briefly shutting down Manhattan’s Fifth Avenue, to show support after the president’s recent coronavirus diagnosis."
-    publishedDateTime: 2020-10-04T16:32:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WpgNM9QjYI/trump-tower-supporters-coronavirus-nyc"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
+  - title: "New Jersey mayor's Facebook post blasting Trump and his supporters prompts outcry"
+    excerpt: "A New Jersey mayor has come under fire for a private Facebook post that condemned President Donald Trump and likened his supporters to “religious zealots” who want to “enact the Christian version of Sharia law.”"
+    publishedDateTime: 2020-10-14T00:40:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OAYvkukryMs/mayor-facebook-blasted-trump-zealots"
+    ampWebUrl: "https://www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/trump-supporters-walter-reed1.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287769111764.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

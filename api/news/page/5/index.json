@@ -2,6 +2,219 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-10-the-hunt-for-michigans-lost-democrats-can-biden-lure-them-back.md",
+      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
+      "excerpt": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_41/3418883/201009-michigan-democrats-mn-1304_e23e089ca533a52caa24227b46e84fd2.jpg",
+          "width": 8256,
+          "height": 5202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242711",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242711",
+      "publishedDateTime": "2020-10-10T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-trump-hosts-white-house-event-delta-threatens-louisiana-nba-finals-5-things-to-know-this-weekend.md",
+      "title": "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend",
+      "excerpt": "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3592092001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001",
+      "publishedDateTime": "2020-10-10T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-trumps-covid-prognosis-3-scenarios-based-on-sparse-facts-from-an-opaque-white-house.md",
+      "title": "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House",
+      "excerpt": "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5941684002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002",
+      "publishedDateTime": "2020-10-10T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-candace-owens-blexit-group-pays-for-some-attendees-travel-to-trumps-white-house-event.md",
+      "title": "Candace Owens' BLEXIT group pays for some attendees' travel to Trump's White House event",
+      "excerpt": "Some guests for Saturday's White House event featuring President Donald Trump had their travel and lodging paid for by Candace Owens' group, BLEXIT.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
+      "originalUrl": "https://abcnews.go.com/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Candace-gty-er-201009_1602289399379_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/candace-owens-blexit-group-pays-attendees-travel-trumps/story?id=73531036",
+      "publishedDateTime": "2020-10-10T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-the-president-is-likely-toast-trumps-woes-raise-gop-fears-of-a-blue-wave.md",
       "title": "'The president is likely toast': Trump's woes raise GOP fears of a blue wave",
       "excerpt": "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said.",
@@ -757,7 +970,7 @@
       "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 300,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -1017,7 +1230,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 304,
       "tags": null,
       "images": [
         {
@@ -1115,216 +1328,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-trump-will-take-a-medical-evaluation-administered-by-a-fox-news-doctor-on-tv-the-network-says.md",
-      "title": "Trump will take a 'medical evaluation' administered by a Fox News doctor on TV, the network says",
-      "excerpt": "The president will be interviewed by Tucker Carlson on Friday, Fox News said. It will be his first on-camera interview since his COVID-19 diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f805ff34c3b2e0019bba144?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp",
-      "publishedDateTime": "2020-10-09T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-kamala-harris-and-the-shameful-history-of-slamming-women-as-unlikable.md",
-      "title": "Kamala Harris and the shameful history of slamming women as 'unlikable’",
-      "excerpt": "President Trump also derided the Democratic vice-presidential candidate as ‘a monster’ — a term used to vilify suffragists more than a century ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
-      "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMXXG3QJGAI6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
-      "publishedDateTime": "2020-10-09T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-note-trump-campaigns-in-a-bubble-amid-signs-of-gop-worry-about-race.md",
-      "title": "The Note: Trump campaigns in a bubble amid signs of GOP worry about race",
-      "excerpt": "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "publishedDateTime": "2020-10-09T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
-      "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
-      "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5917943002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002",
-      "publishedDateTime": "2020-10-09T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Delivers Remarks on Senior Citizen Policy in Florida"
 excerpt: "Democratic presidential candidate Joe Biden delivered remarks in Pembroke Pines, FL on his campaign's policy proposals affecting senior citizens."
 publishedDateTime: 2020-10-13T23:25:00Z
-originalUrl: "https://www.c-span.org/video/?476884-1/joe-biden-takes-health-care-message-florida-seniors"
-webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-takes-health-care-message-florida-seniors"
+originalUrl: "https://www.c-span.org/event/?476884/c2020-joe-biden-delivers-remarks-senior-citizen-policy-fl"
+webUrl: "https://www.c-span.org/event/?476884/c2020-joe-biden-delivers-remarks-senior-citizen-policy-fl"
 type: article
 quality: 35
 heat: -1
@@ -130,16 +130,16 @@ related:
         height: 700
         isCached: true
   - title: "Joe Biden Campaigns in Florida"
-    excerpt: "Democratic Presidential Candidate Joe Biden speaks during a campaign event in Fort Lauderdale an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"
+    excerpt: "FL, wears a mask depicting Democratic Presidential Candidate Joe Biden as she introduces him during an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"
     publishedDateTime: 2020-10-13T20:16:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8399b4915010b9c9672918e96d2318b2/Joe-Biden-Campaigns-in-Florida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e978a68bb6b1304517246b9d3320d216/Joe-Biden-Campaigns-in-Florida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8399b4915010b9c9672918e96d2318b2/BIDEN-FLORIDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e978a68bb6b1304517246b9d3320d216/BIDEN-FLORIDA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -176,6 +176,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "eFoWKeMZDMNg5xIXQJly0N+ZIC2Jl1GB497fsOcT97RyKsYE1L7sMv230f2xE9/PCWHJ1jH5TVpA+sYDv2jkB6YhgzZbRqQicJd3B9HApguXfrBSiBPJgdxDcE3v49HlM60n/PTjiZ+yjdS5KUf6jDBHuz1Gj19VrNqR8F3FpigGPw+YxE+yy93HNjxVl+0H1dvypRDwPqFNIa4+XQeQkBHXvcPWY5WwqMNebqCOY8hmRkmTYme4e4bQ3zVRcq/xZ/Kuw8wsa9ihgq2t3fsPYur4ZZkwcWsMAVUMzodi32Eguv5dJEpcXN9BkGjJSU7Q6fqlGZ4r7rwCunGxaJMdb/6tCLKtqre5t+LZqYWauadH4NjXk5+CZpCOsxNYFsODfkJl1zcYjM1n2a7AYx0BUnRgsqcVrhSruc0kB58KL/IV9NKboJ2mUkOfVtlixbHWzA/Sp/tGh4ddFSrbMQpCh6IHPQvW5wHKi1E0jP2Sqnuc5w1DbeIb3SUlnM+K6SNYiU1cup5cGKLu3hJIQ1bzeQ==;6RWa8Cluh7l3Nc5AW5r6MQ=="
+secured: "B15Akp7ZiEz6T0HPe0Ig5gVtn2W1DRkNuAPR1pC/MxvKbB61YY09UVgls6beEXkP7DloN8PPEuOJBZRHjk2H1v7976Sdettd5NP3YsTM2fJcpogNNPh10H1lN6uKupgSGnZQRDS5e3+ywVrd861Uaz0UlQBfZpzSxuh439Tb7te8b84sZcrJezogOxQ3EJ0GVtbOly3zYGxbL0P+Tqs41d1oPsJ/GhGcRGS3MLQMmxYEp4khCAQjegY4aDls0rEqwQpfWK8stBVeoAuAz7EvQS/jihqZvTHEgtvPlcBEW/9urFhpzzeNo+m6ufZh5IkIyUODYC759W7EJ0ZTrC+Ea0yBPonzpnjbz9HH+R9l+kBcXw2UHMqpSabQPK+CRjhBapW+pdi998kLT5vIOB2r3t7UGKwcPgfxTi3ZSBghRaziNmipzic2N2lLTANfbocNzByDJhgGMHOzLmcFgcMQ/66F/fdwP3uDtADcl4zXD06uKmg4IHyh4rR9glXHjnVnMu698Z2pj2PWPXNdWXYrGA==;4NzzBEiidXdMJ2PS5J/pJw=="
 ---
 

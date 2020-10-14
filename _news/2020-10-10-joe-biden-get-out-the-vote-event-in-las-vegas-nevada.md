@@ -130,16 +130,16 @@ related:
         height: 700
         isCached: true
   - title: "Joe Biden Campaigns in Florida"
-    excerpt: "Democratic Presidential Candidate Joe Biden speaks during a campaign event in Fort Lauderdale an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"
+    excerpt: "FL, wears a mask depicting Democratic Presidential Candidate Joe Biden as she introduces him during an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"
     publishedDateTime: 2020-10-13T20:16:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/8399b4915010b9c9672918e96d2318b2/Joe-Biden-Campaigns-in-Florida/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e978a68bb6b1304517246b9d3320d216/Joe-Biden-Campaigns-in-Florida/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/8399b4915010b9c9672918e96d2318b2/BIDEN-FLORIDA.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e978a68bb6b1304517246b9d3320d216/BIDEN-FLORIDA.jpg"
         width: 650
         height: 433
         isCached: true
@@ -169,7 +169,7 @@ related:
   - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in Florida"
     excerpt: "Democratic presidential candidate Joe Biden delivered remarks in Pembroke Pines, FL on his campaign's policy proposals affecting senior citizens."
     publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-takes-health-care-message-florida-seniors"
+    webUrl: "https://www.c-span.org/event/?476884/c2020-joe-biden-delivers-remarks-senior-citizen-policy-fl"
     type: article
     provider:
       name: C-SPAN

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-say
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Mitch McConnell says Senate Republicans will vote on a slim coronavirus relief plan as Trump presses them to 'go big'"
+    excerpt: "Senate Republicans and Trump may be on a collision course as the president seeks another large stimulus package ahead of Election Day."
+    publishedDateTime: 2020-10-14T01:12:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f5a676fe6ff30001d4e819e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "QxqQ7sksixDmlkTT3Cg1JbRKsYq17QBqflVvlWjopsoxMaAMhsZdvAftxdfQoL3JKwfnIyLCkIPdZmPd1wtvdrtDTXeqGruAv+A9cM7f4nwE1o3IEs0haMMJ74swMc+xNLDI7s/0OrYo6bAI1AomUUjh4CNe6VdSXVQrT8HCSHnIuisSMwgnv1iTYQttJ5Uiiij7zPwPHbaU05kNdTbJN7UhDcZZSaUQHDwmNU2TmEhoAVuYpBTwAcdmpOobb85Ugp5qoArf7mrtraFGgZ7m3uH9IoP+wFSF8c5FyMclXZR8z7Pgqj8s1MzJ/wLQwYP2lztvatxqHFuoRsnzYshBt6SDR0Th9O3e59bEa2n3vzg=;BELRxSo8Ar3eRVZqPPtrvA=="
 ---

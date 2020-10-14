@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AP FACT CHECK: Trump falsifies Biden stance on fracking"
+    excerpt: "President Donald Trump is persisting with the myth that Democratic rival Joe Biden proposes to ban fracking. Biden doesn't. TRUMP: \"One of the most important issues for Pennsylvania is the survival of your fracking industry."
+    publishedDateTime: 2020-10-14T01:43:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_65f4bca9003f4cce9fbaa8fe89e6c1d7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election"
     excerpt: "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court."
     publishedDateTime: 2020-10-06T19:06:00Z
@@ -1586,6 +1602,22 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2020/10/Election_2020_Debate_52718-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "38 billion reasons to vote for Joe Biden"
+    excerpt: "Biden has proven that he is committed to Israel’s security, and under Biden, bipartisan support for Israel will increase and flourish."
+    publishedDateTime: 2020-10-13T20:51:00Z
+    webUrl: "https://forward.com/opinion/456397/38-billion-reasons-to-vote-for-joe-biden/"
+    ampWebUrl: "https://forward.com/opinion/456397/38-billion-reasons-to-vote-for-joe-biden/?gamp"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/opinion/456397/38-billion-reasons-to-vote-for-joe-biden/?gamp"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 75
+    images:
+      - url: "https://images.forwardcdn.com/image/303x227/center/images/cropped/gettyimages-1214821090-1602602241.jpg"
+        width: 303
+        height: 227
         isCached: true
   - title: "Donald Trump: Biden Better Take COVID-19 More Seriously or He Might Get It and Infect a Bunch of People"
     excerpt: "If you’re just tuning in to the latest edition of our long national nightmare, a brief recap: After downplaying COVID-19 for months, letting the virus gain a foothold in the country, and contributing to the deaths of over 200,"

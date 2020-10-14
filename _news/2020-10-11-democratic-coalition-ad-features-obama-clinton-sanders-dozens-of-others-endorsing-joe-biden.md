@@ -52,22 +52,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’"
-    excerpt: "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. "
-    publishedDateTime: 2020-10-13T17:01:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cruz warns 'radical' Democrats won't push back against Biden packing Supreme Court"
     excerpt: "Democrats' opening statements during Supreme Court nominee Amy Coney Barrett's confirmation hearing Monday showed their intent to expand the size of the highest court in the land, Senate Judiciary Committee member Ted Cruz, R-Texas, told \"Tucker Carlson Tonight.\""
     publishedDateTime: 2020-10-13T02:19:39Z
@@ -114,34 +98,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
-    publishedDateTime: 2020-10-11T17:18:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fg91IhTV_c0/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
-    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
-    publishedDateTime: 2020-10-09T19:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
-        width: 5472
-        height: 3648
-        isCached: true
   - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
     excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
     publishedDateTime: 2020-10-10T21:07:00Z
@@ -172,20 +128,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
-    publishedDateTime: 2020-10-11T17:42:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 103
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Flashback: When Biden Called Court Packing a 'Bonehead Idea'"
     excerpt: "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so"
     publishedDateTime: 2020-10-12T11:35:00Z
@@ -213,20 +155,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 61
-  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
-    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
-    publishedDateTime: 2020-10-12T20:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 46
-    images:
-      - url: "https://assets.realclear.com/images/52/523854.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "XLCbB+gvP8OpTGToazpvyLUL11xDEygrTZLZ9nRS2WzTmoF4zJ1ET+F9UpsAEUkAvjJj9bXfP0gq8RmaXh3mmSlRbzuRv3n12OLVBVBjY1NguX7UXwOf73VX3SCAw5hFfJ1FRzx9O4A/aBTKSb0Xkml0NxbGt+WeYboDS1POw7cbiXgX5aF3zqEPwDtO3AE/ylU7VjoG3LDwpAldeQYOnecZsc9QVyN0GiLDV/Bov96BiaM3pyTcBrjZ/aOKBV6efTuMHcW4+msY3ad/ugNIoEsrIe5XHr/8UMmYhH5pCHuhPimAf8/XdbUdu8oAkJ+TTYBmpgAJt8NiCCUNjAXUwJHJycu3Smqb9k9vbh553CPjsRSerf51tJhRakJbukdaQWaIZ7tFruj5A5p5w4t4vlkODjv+vtZ7kiSwWRacRD1po0kwhbJYGTl6WMQyCAI2XOUOWUDQKKwVYRtChaAtKKHsenFxp6k2kdUwByHkKwG165rMQQDqJjFUResXltEzz4gEZt8aenHFIyDaZQgYqg==;oNqkg0Orhg0SSHI5lwZUyA=="
 ---

@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-harris-tells-barrett-that-ginsburg-was-far-more-forthcoming-about-abortion-views.md",
+      "title": "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views",
+      "excerpt": "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VO16TvudxFM/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VO16TvudxFM/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 499,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fe1b608-f011-4a25-8ce0-630bc39c0be6/06de38c4-0483-4d6c-b470-3605a92e0835/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp",
+      "publishedDateTime": "2020-10-13T18:52:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-kamala-harris-battles-with-amy-coney-barrett-on-whether-she-knew-trump-wanted-anti-obamacare-judges.md",
       "title": "Kamala Harris Battles With Amy Coney Barrett on Whether She Knew Trump Wanted Anti-Obamacare Judges",
       "excerpt": "The California senator and Democratic vice presidential nominee questioned Judge Barrett on Tuesday, during the second of four confirmation hearings.",
@@ -154,6 +211,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-12-miami-herald-defends-kamala-harris-from-comparison-to-clinton-claims-shes-been-labeled-the-black-hilary.md",
+      "title": "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'",
+      "excerpt": "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton",
+      "originalUrl": "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too.md",
       "title": "How Kamala Harris Stopped Pence’s Manterruptions (And How You Can Stop Them, Too)",
       "excerpt": "Assert your power like Senator Harris so that you are not interrupted. Take note of how Harris stopped Pence from interrupting her by following these four tips: Senator Harris told Vice President Pence that she is speaking.",
@@ -301,7 +415,7 @@
       "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -353,7 +467,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1102,
+      "heat": 1162,
       "tags": null,
       "images": [
         {
@@ -411,7 +525,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2203,
+      "heat": 2243,
       "tags": null,
       "images": [
         {
@@ -567,63 +681,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-08-harris-says-she-is-a-person-of-faith-insulting-to-suggest-she-would-knock-anyone-for-religion.md",
-      "title": "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion",
-      "excerpt": "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 312,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp",
-      "publishedDateTime": "2020-10-07T19:50:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-ed-rollins-vp-debate-harris-pence-faceoff-in-utah-and-america-should-look-to-hear-this-one-word.md",
       "title": "Ed Rollins: VP debate –Harris, Pence faceoff in Utah and America should look to hear this one word",
       "excerpt": "It is not unrealistic to think that Pence or Harris could be America’s president in the not-too-distant future",
@@ -694,7 +751,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 171,
+      "heat": 231,
       "tags": null,
       "images": [
         {
