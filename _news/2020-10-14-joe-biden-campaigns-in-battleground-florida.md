@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden campaigns in battleground Florida"
 excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-14T05:00:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201014084120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
-webUrl: "https://www.cbsnews.com/live/video/20201014084120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+originalUrl: "https://www.cbsnews.com/live/video/20201014104120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+webUrl: "https://www.cbsnews.com/live/video/20201014104120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247869_1602665044.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247485_1602672244.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -204,6 +204,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9NZoArSYzL6Wth0B4iDDxXEn42igk93RxnSYVwp0NU2raGjIM8kpiPqzyXxe5kPglVdV4Fawj7deykTjtpXidSjdJcjt3/X15j33j0io5WarrQBOWGm6U9FMh+6CYVKZgvFTBbzEGb+zFxeuZUKwZQO83kxUcPLm6yvaD7SnFUV44MD39MYCFsApMQBZKy2x9GeLXKSluez5YNWI4qiVn57sQsICqS3/Rr/SD8oG7m9RstzfxPjsaczZ6LO/P7CASw1nBPHCQsJwIEbXg206E2VabAKCp2KMJ7GQFAK5/lVKcao0aMFUHiUa/nd4W5j1J/Q8EtRev6iG82Axe27SGxLpIlAj1tBLLuFoAe/rIhg=;Iao5XYYA0WSq2n6PHCpAIw=="
+secured: "tSNkSPXtK8HmWFquCJUiKdMT1ej88axRUx/lC9Py9z5uaotk8Z1pJe/V4RZQ+NIHgwbAx3utk/AnFggGS5/M5xtLUEysM0nB7PhJBntSkz/Y6A4JCH8+HbsP6/Gu/HMVvJaV3XkMlKENY8UDjGoWGAghjKRpACcFFO5T5ToNLX/jcaKYMmG0duAF8gvu6Pm2ZWSeRW/oS9wFg3joq9GjC0HmF9xHPNzFffesOvgA30vSUP3Zut8a+ICu+/smHgvCOBYxA3fKisO0bcLRWFzOw5uROtBVMP2BJZnvRCpYMJ3oSGfPxo/YJs6uVBiUxr1PuoWWJ4+hAYSOYaXACuY8ncIdxtMw5v4mEMvsYCU1ud0=;hC9/7YjzyWMVqXkDH9lmfw=="
 ---
 

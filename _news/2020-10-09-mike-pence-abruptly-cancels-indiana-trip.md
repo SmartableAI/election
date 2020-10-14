@@ -171,6 +171,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to hold rally near GR today"
+    excerpt: "Vice President Mike Pence will be hosting a rally in metro Grand Rapids Wednesday. He will be hosting a “Make America Great Again” rally at the Lacks Enterprises, Inc. facility on Kraft Avenue, which is near the Gerald R."
+    publishedDateTime: 2020-10-14T11:20:00Z
+    webUrl: "https://www.woodtv.com/news/kent-county/vice-president-mike-pence-to-hold-rally-near-gr-today/"
+    ampWebUrl: "https://www.woodtv.com/news/kent-county/vice-president-mike-pence-to-hold-rally-near-gr-today/amp/"
+    cdnAmpWebUrl: "https://www-woodtv-com.cdn.ampproject.org/c/s/www.woodtv.com/news/kent-county/vice-president-mike-pence-to-hold-rally-near-gr-today/amp/"
+    type: article
+    provider:
+      name: WOOD-TV
+      domain: woodtv.com
+    quality: 75
+    images:
+      - url: "https://www.woodtv.com/wp-content/uploads/sites/51/2020/06/AP20170710025164.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to make Pa. campaign stop near Lehigh Valley"
+    excerpt: "The president is also visiting Pennsylvania, in the same town recently visited by Democratic challenger Joe Biden visited."
+    publishedDateTime: 2020-10-14T10:50:00Z
+    webUrl: "https://www.pennlive.com/news/2020/10/vice-president-mike-pence-to-make-pa-campaign-stop-near-lehigh-valley.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/10/vice-president-mike-pence-to-make-pa-campaign-stop-near-lehigh-valley.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/vice-president-mike-pence-to-make-pa-campaign-stop-near-lehigh-valley.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TGNMQKR7PNB6TFJYUVFCLHPDOU.JPG"
+        width: 3335
+        height: 2228
+        isCached: true
   - title: "Vice President Mike Pence to rally in Selma, NC on Friday"
     excerpt: "Vice President Mike Pence will rally in North Carolina on Friday, Oct. 16. According to a release, Pence will speak to supporters at a 'Make America Great Again!' event in Selma, which is in Johnston County."
     publishedDateTime: 2020-10-13T22:28:00Z

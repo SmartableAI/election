@@ -198,7 +198,7 @@ related:
     provider:
       name: Madison.com
       domain: madison.com
-    quality: 90
+    quality: 100
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
         width: 512

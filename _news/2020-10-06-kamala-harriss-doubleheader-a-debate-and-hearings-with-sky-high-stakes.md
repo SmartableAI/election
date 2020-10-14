@@ -1272,6 +1272,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "What Kamala Harris Learned About Power at Howard"
+    excerpt: "As a college student, she wanted to have an impact. The answer she landed on — working inside institutions — set her on the path to the vice-presidential nomination."
+    publishedDateTime: 2020-10-14T10:11:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/00harris-howard-promo/00harris-howard-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Likability, Authenticity, Smiles: The Debate Tightrope for Kamala Harris"
     excerpt: "After a disastrous first presidential debate, all eyes will be on a vice-presidential debate that’s rife with gendered and racial challenges."
     publishedDateTime: 2020-10-06T23:17:00Z

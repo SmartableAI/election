@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
 type: article
 quality: 178
-heat: 498
+heat: 518
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922102900-04-romney-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and Biden will participate in competing town halls on Thursday night after cancellation of second debate"
+    excerpt: "President Donald Trump will participate in a town hall with NBC News on Thursday night, the network announced.\n    \n"
+    publishedDateTime: 2020-10-14T11:56:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HteDxxoN3xo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -123,6 +123,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "2 arrested for stealing Trump-Pence campaign signs in Tucson"
+    excerpt: "Authorities in Tucson have arrested two people for allegedly stealing signs supporting President Donald Trump’s campaign. The Pima County Sheriff’s Department said the arrests were made Sunday night after someone called into 911 to report the taking of a Trump-Pence sign."
+    publishedDateTime: 2020-10-14T11:43:00Z
+    webUrl: "https://www.12news.com/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+    ampWebUrl: "https://www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 100
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/601274649/601274649_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
     excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
     publishedDateTime: 2020-10-07T02:35:00Z

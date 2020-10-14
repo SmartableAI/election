@@ -813,6 +813,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Minnesota coronavirus cases traced to Trump, Biden campaign events: reports"
+    excerpt: "More than two dozen cases of coronavirus have been traced to Minnesota campaign events for President Trump and Democratic nominee Joe Biden, state officials said this week."
+    publishedDateTime: 2020-10-14T11:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ren1AnFeVqM/minnesota-coronavirus-cases-traced-trump-biden-campaign-events"
+    ampWebUrl: "https://www.foxnews.com/politics/minnesota-coronavirus-cases-traced-trump-biden-campaign-events.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minnesota-coronavirus-cases-traced-trump-biden-campaign-events.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b44405f-bba6-4488-b5d1-0b568bb97020/d4f32897-b495-437e-b40b-e58eb4551a80/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden refuses to bash Trump Supreme Court nominee Amy Coney Barrett in debate"
     excerpt: "Democratic nominee Joe Biden took the high road at Tuesday night's debate, refusing to bash President Trump's pick for Supreme Court, Judge Amy Coney Barrett, instead, saying she seems like a \"very fine person.\" "
     publishedDateTime: 2020-09-30T17:06:38Z

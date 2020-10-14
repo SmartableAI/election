@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden will participate in competing town halls on Thursday night after cancellation of second debate"
+    excerpt: "President Donald Trump will participate in a town hall with NBC News on Thursday night, the network announced.\n    \n"
+    publishedDateTime: 2020-10-14T11:56:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HteDxxoN3xo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden hits Trump on trade, economy in Ohio speech: 'He's let you down'"
     excerpt: "Joe Biden on Monday slammed President Donald Trump for having \"let down\" American workers and unions, while pledging to utilize a \"trade strategy\" that \"gets results.\" Speaking to a group of autoworkers Biden claimed Trump’s \"chaotic trade threats,"
     publishedDateTime: 2020-10-12T20:11:00Z

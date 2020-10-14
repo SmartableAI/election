@@ -168,6 +168,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Mass. middle schooler who supports Trump asks for staff training"
+    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
+    publishedDateTime: 2020-10-14T11:48:00Z
+    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
     excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
     publishedDateTime: 2020-10-06T14:54:00Z

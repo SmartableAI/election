@@ -107,6 +107,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "2 arrested for stealing Trump-Pence campaign signs in Tucson"
+    excerpt: "Authorities in Tucson have arrested two people for allegedly stealing signs supporting President Donald Trump’s campaign. The Pima County Sheriff’s Department said the arrests were made Sunday night after someone called into 911 to report the taking of a Trump-Pence sign."
+    publishedDateTime: 2020-10-14T11:43:00Z
+    webUrl: "https://www.12news.com/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+    ampWebUrl: "https://www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 100
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/601274649/601274649_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Donald Trump Did Not Win This Year's Nobel Peace Prize"
     excerpt: "President Donald Trump didn't win this year's Nobel Peace Prize after scoring another nomination from his supporters. On Friday, the Norwegian Nobel Committee announced that the prize has been awarded to the U."
     publishedDateTime: 2020-10-11T03:42:00Z

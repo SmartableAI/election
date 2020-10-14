@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2243
+heat: 2263
 published: true
 
 provider:
@@ -1256,6 +1256,22 @@ related:
       - url: "https://static.politico.com/f4/3f/6df0c38b420a81a242ad91dec6f2/gettyimages-1229055860-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "What Kamala Harris Learned About Power at Howard"
+    excerpt: "As a college student, she wanted to have an impact. The answer she landed on — working inside institutions — set her on the path to the vice-presidential nomination."
+    publishedDateTime: 2020-10-14T10:11:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/kamala-harris-howard.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/00harris-howard-promo/00harris-howard-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."

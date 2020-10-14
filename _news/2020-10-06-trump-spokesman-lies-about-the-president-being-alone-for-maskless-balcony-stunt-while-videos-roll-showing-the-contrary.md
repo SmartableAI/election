@@ -184,6 +184,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Mass. middle schooler who supports Trump asks for staff training"
+    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
+    publishedDateTime: 2020-10-14T11:48:00Z
+    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump Goes After Dr. Fauci, Trashing Him Over Masks: ‘Tony’s Pitching Arm is Far More Accurate Than His Prognostications’"
     excerpt: "President Donald Trump is going after Dr. Anthony Fauci one day after the infectious disease expert blasted the Trump campaign for taking him out of context in an ad."
     publishedDateTime: 2020-10-13T12:51:00Z

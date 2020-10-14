@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-g
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.wsbtv.com/resizer/tOVgVIvOp1TkdA8ZzYfZxN8ornY=/1200x628/d1hfln2sfez66z.cloudfront.net/10-12-2020/t_34ff7305edb54255b37a3168b934545f_name_Trump_tests_negative_for_COVID_19_Poster.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "John Paulson and Donald Trump at Economic Club Luncheon"
+    excerpt: "American hedge fund manager John Paulson speaks with Republican Candidate for President Donald Trump at the Economic Club of New York Luncheon on September 15, 2016 at the Waldorf Astoria in New York City."
+    publishedDateTime: 2020-10-13T20:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3dea318fcc4751b3003889c6ef766bd9/John-Paulson-and-Donald-Trump-at-Economic-Club-Luncheon/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3dea318fcc4751b3003889c6ef766bd9/TRUMP-ECONOMIC-CLUB.jpg"
+        width: 650
+        height: 429
         isCached: true
 
 secured: "yu1KxFMKxcdTILkXvPiQN2vUx/y6DDL+rYaNpE7kEqQNxt6pFtm96h/UWM/11hzEQf7CEYb4WQ9E3vsTxk8/hVNXxL0TRQf0jMtS0BLLXQetEwVK0dIaJz2iInlNKgiO9tuwwVpWiDjqIffMk8dM66PxTp/2aJgsympyJKZEm9hvxPsryoqSr74mye3v7wyIC8cKYxKzEWIZejfXZ0bZHwge8hYP6U35KURlOvNNjZHonUpapBWU9CHBr/Ju2snIjMvBhkl9oSrC3DBBg21tuoEqur+B6GxaOsZUt/gmz5HEzZag2oavSs8aLaClJAHJsChl/2jF5Nz9SUmqJHdM+QpspeEGJn0134XEJf34ymW7Pkk5glhhNiVqZ4sKUmMP5JiMVRAn4VFygZOU11GWLLEl+ck0CePbBTd3X7bFDOMG1sXXjjTkcZ9fETiAc7pRNpJcNhDsB78MI6ThA5dKgwIjVewv3WBpyQEQ8H4OlclptN3M8Sond2v4ynSkUdGbjBhIc2XGtexcgs8KrPtQVA==;UzKcSVKktmeSsa8J0bYkWw=="

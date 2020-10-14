@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "John Paulson and Donald Trump at Economic Club Luncheon"
+    excerpt: "American hedge fund manager John Paulson speaks with Republican Candidate for President Donald Trump at the Economic Club of New York Luncheon on September 15, 2016 at the Waldorf Astoria in New York City."
+    publishedDateTime: 2020-10-13T20:03:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/3dea318fcc4751b3003889c6ef766bd9/John-Paulson-and-Donald-Trump-at-Economic-Club-Luncheon/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/3dea318fcc4751b3003889c6ef766bd9/TRUMP-ECONOMIC-CLUB.jpg"
+        width: 650
+        height: 429
+        isCached: true
 
 secured: "jEUkeTXaer1xuo6OClPV7ubrzIEFFxEnsj+Rsp+DiQxDxrGHFCDJQQeCQt5OUzkvknkJGPfLmfLdmlofDMfo/lN80o+IjzmoKf9tMnoUKvu+ISj/YNHW9G3ZF3dvhe19tj277P6HT/4ToW3nbzPgebbIwV32EdC6RKnoJWlw5Udk7q0IdBNjD5nDma4ELbdW1wl8CynLxGtlU7rpaOMkluEGmE4HyaA6kx2M2nbSTVLixUbBIttcQaS7uMzfdt/88uYrmrPsno/2aO7FDPB3TB51JJmHjBj65S66Fb0Hl5uLa1lTAC6JVpIRtuNUYPFyfdU6CN2msA3aNzY65lREohBYhEPmOdZ8zJ07F0v6IzM=;XoccNhgnEZsMXFRKAAJLfQ=="
 ---

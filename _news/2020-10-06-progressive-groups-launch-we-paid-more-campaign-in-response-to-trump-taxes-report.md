@@ -47,6 +47,22 @@ related:
         width: 941
         height: 470
         isCached: true
+  - title: "President Donald Trump to visit Muskegon for campaign rally Saturday"
+    excerpt: "President Donald Trump will hold a campaign rally in Muskegon Saturday, Oct. 17. The president’s reelection campaign announced he will deliver a speech focused on “supporting law enforcement” at a West Michigan charter airport."
+    publishedDateTime: 2020-10-14T10:40:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2DPE722DAJAGDKSZZ7NP7452WE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider."
     excerpt: "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well."
     publishedDateTime: 2020-10-13T23:25:00Z

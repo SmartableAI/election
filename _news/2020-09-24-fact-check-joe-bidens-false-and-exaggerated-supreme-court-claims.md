@@ -169,6 +169,22 @@ related:
         width: 371
         height: 250
         isCached: true
+  - title: "Column: Why hasn’t Joe Biden said no to Democratic threats to pack the Supreme Court?"
+    excerpt: "Will Joe Biden’s stubborn insistence that Americans “don’t deserve” to know where he stands on packing the Supreme Court cost the Democrats in the Nov. 3 election? At issue are numerous Democratic threats — if they win the White House and control of the Senate — to increase the number of Supreme Court justices and ram liberal policy into law that they otherwise couldn’t dream of getting through Congress."
+    publishedDateTime: 2020-10-14T10:11:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-supreme-court-packing-kass-20201014-mjrk3l5jrfhr7gxcek5hpmw4mi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
+    images:
+      - url: "https://www.chicagotribune.com/resizer/EFpE-l1_doR_Krl2sN4pfnfCxzU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DIVH4UMLJTUVGP4FLOOPFCY3GQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden's plans to hike taxes for rich Americans will be key for markets if he wins the election, a strategist says"
     excerpt: "Robertson said markets will factor in whether Biden's tax plans pressure domestic equities and credit markets at the expense of foreign markets."
     publishedDateTime: 2020-09-30T11:31:00Z

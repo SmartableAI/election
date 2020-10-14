@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-declines-taliban-endo
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "President Donald Trump to visit Muskegon for campaign rally Saturday"
+    excerpt: "President Donald Trump will hold a campaign rally in Muskegon Saturday, Oct. 17. The president’s reelection campaign announced he will deliver a speech focused on “supporting law enforcement” at a West Michigan charter airport."
+    publishedDateTime: 2020-10-14T10:40:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2DPE722DAJAGDKSZZ7NP7452WE.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider."
     excerpt: "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well."

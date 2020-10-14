@@ -61,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "President Donald Trump to visit Muskegon for campaign rally Saturday"
+    excerpt: "President Donald Trump will hold a campaign rally in Muskegon Saturday, Oct. 17. The president’s reelection campaign announced he will deliver a speech focused on “supporting law enforcement” at a West Michigan charter airport."
+    publishedDateTime: 2020-10-14T10:40:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2DPE722DAJAGDKSZZ7NP7452WE.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "/6Wd89lZYYdpX+ui40rnaRsaj9z8vrvy5rk9DZqXuyJDj7CAlFKPfEtbn/jpdNrQm9UgPvWR5tSbK4xxrBTXJnCvvHvmQWQrYMbubMKvSzPA9ZYtAgD5b1hKhR/c1qu0Zw2bbi0BBYsh1+aqtQC0OzFO2m/ytbHXjNr12+U8IqLmE6pr/UErQG6K2DECgM450Dt1Rs1vExvdex1SgpIkAiE7r4p5uRf7QHEmMWScXfkMc9Ng6lMpn3xImO0o/XYfugDd2KlisJGqoaZtSSmBWLfn0mtgRymA4it9qlcCCJ5tD3Ja46afZvVHVx7H0yCTrhmL0y2c4GR8Bhsv9kylP9G1FRT/QCPqjkyEg1YlO5OT+68JfGFqTd5r4N2VumQZjaEcGE7Yqw4iyWJq7mNO9Ud7OoWw2pX07gG7qggQ1rUzs+iXSL4WO0zwJKCodbRnPfHeLq753xPCe8EOzfgAKT5WwXc8cC/wD8yrti3NviSdsKUhs1XVRUyB5r8olKfEMLk+kKV0lugrvcghhpuxqQ==;taqmGnDW0ZDbOhIl5UeH0Q=="
 ---

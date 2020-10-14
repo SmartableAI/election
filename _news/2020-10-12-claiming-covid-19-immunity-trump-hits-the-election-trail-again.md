@@ -205,6 +205,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
+    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
+    publishedDateTime: 2020-10-14T01:32:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54527265"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
     publishedDateTime: 2020-10-10T11:13:00Z
@@ -948,6 +964,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Biden reaches out to Catholics like himself, embracing a key group in big 2020 states"
+    excerpt: "President Trump has maligned Biden’s faith, but Biden is seeking to firm up a connection that reverberates in the upper Midwest and the Sun Belt while avoiding religious overtones in the Supreme Court nomination fight."
+    publishedDateTime: 2020-10-14T01:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACMVNGALCYI6XG7GZ4S7WQU7DI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
     excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
     publishedDateTime: 2020-10-06T11:57:00Z
@@ -1265,22 +1297,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
-    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
-    publishedDateTime: 2020-10-14T01:31:00Z
-    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54527265"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54527265"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54527265"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 90
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/142F7/production/_114897628_celebrityposter2.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
     excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
     publishedDateTime: 2020-10-05T15:32:00Z
@@ -1505,6 +1521,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NBC to host Trump town hall at same time as Biden’s ABC event, instead of presidential debate"
+    excerpt: "NBC News will host a town hall with President Donald Trump at the same time that Democratic presidential candidate Joe Biden will be doing a similar event on ABC News. NBC announced Wednesday that “Today” anchor Savannah Guthrie will moderate a one-hour conversation between Trump and Florida voters in Miami starting at 8 p."
+    publishedDateTime: 2020-10-14T11:38:00Z
+    webUrl: "https://www.syracuse.com/politics/2020/10/nbc-to-host-trump-town-hall-at-same-time-as-bidens-abc-event-instead-of-presidential-debate.html"
+    ampWebUrl: "https://www.syracuse.com/politics/2020/10/nbc-to-host-trump-town-hall-at-same-time-as-bidens-abc-event-instead-of-presidential-debate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/politics/2020/10/nbc-to-host-trump-town-hall-at-same-time-as-bidens-abc-event-instead-of-presidential-debate.html?outputType=amp"
+    type: article
+    provider:
+      name: syracuse.com
+      domain: syracuse.com
+    quality: 79
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W7M5NT7TFBGDJGOF6FH7CT6XVM.jpg"
+        width: 1024
+        height: 526
+        isCached: true
   - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
     excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
     publishedDateTime: 2020-10-06T03:18:00Z
@@ -1520,6 +1552,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'The Simpsons' ding Donald Trump ahead of Election Day with 50 reasons not to reelect president"
+    excerpt: "The Simpsons” offers dozens of reasons not to vote to reelect President Trump in a scene appearing in the annual Halloween-themed episode of the long-running animated series airing this Sunday."
+    publishedDateTime: 2020-10-14T02:05:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/the-simpsons-ding-donald-trump-ahead-of-election-d/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/the-simpsons-ding-donald-trump-ahead-of-election-d/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/the-simpsons-ding-donald-trump-ahead-of-election-d/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 78
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2014/12/17/987ffeee6e5c7531680f6a706700e765_c0-643-2000-1809_s1200x700.jpg?2a5a0c24ca6b2b59abc695c481ff1dea9e2284c1"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Trump campaign attacks Joe Biden for lack of ‘firsthand experience’ being infected with COVID-19"
     excerpt: "Trump campaign aide Erin Perrine on Monday suggested that President Donald Trump is a better leader than Democratic candidate Joe Biden because he has the “firsthand experience” of being infected with COVID-19."
@@ -1902,6 +1950,22 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 65
+  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
+    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
+    publishedDateTime: 2020-10-14T11:42:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 64
+    images:
+      - url: "https://www.baltimoresun.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "In year of surprises, a win by Joe Biden should not be one"
     excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
     publishedDateTime: 2020-10-07T13:54:00Z
@@ -2028,6 +2092,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CGJ4W3UYFHSTNRONOK576OUFM.jpg"
         width: 4999
         height: 3123
+        isCached: true
+  - title: "President Donald Trump departs the White House"
+    excerpt: "United States President Donald Trump departs the White House, headed for a political event in Johnstown, Pennsylvania on Tuesday, October 13, 2020. Photo by Chris Kleponis/UPI"
+    publishedDateTime: 2020-10-13T22:49:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/65f743de2b0617eb464759e6a3902b28/President-Donald-Trump-departs-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/65f743de2b0617eb464759e6a3902b28/TRUMP-DEPARTS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"

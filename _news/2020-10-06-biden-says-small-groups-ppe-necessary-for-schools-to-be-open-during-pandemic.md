@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Is Not Out of the Woods"
+    excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
+    publishedDateTime: 2020-10-14T09:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/opinion/14edsall1/14edsall1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden flip-flops on door-knocking with just 33 days left"
     excerpt: "Biden's campaign announced plans to start door-to-door campaigning after insisting for months the strategy wasn't necessary."
     publishedDateTime: 2020-10-01T23:16:00Z
