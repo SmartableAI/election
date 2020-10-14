@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Supreme Court temporarily allows Trump administration to end census head count"
+    excerpt: "The early completion date likely will result in undercounting racial and ethnic minorities and others in hard-to-reach communities."
+    publishedDateTime: 2020-10-13T22:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/2020-census-supreme-court-lets-administration-end-head-count-now/5975298002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5975298002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5975298002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/29c99289-a9bf-437a-8521-d282b629793c-GTY_1228773157.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
     excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
     publishedDateTime: 2020-10-11T22:13:00Z

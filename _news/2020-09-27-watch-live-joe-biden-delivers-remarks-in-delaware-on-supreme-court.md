@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92653637692"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692"
 type: article
 quality: 135
-heat: 175
+heat: 155
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
     quality: 135
     images:
       - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch live: Biden delivers remarks in Ohio"
-    excerpt: "Watch live coverage as Democratic presidential nominee Joe Biden makes a campaign stop and delivers remarks in Cincinnati, Ohio."
-    publishedDateTime: 2020-10-12T19:32:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-delivers-remarks-in-ohio-93675589765"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93675589765"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93675589765"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_ohio_remarks.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

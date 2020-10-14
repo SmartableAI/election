@@ -681,6 +681,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Supreme Court Ends Democratic Lawmakers' Anti-Graft Lawsuit Against Trump"
+    excerpt: "The Supreme Court on Tuesday put an end to a lawsuit brought by congressional Democrats that accused President Donald Trump of violating anti-corruption provisions in the U.S. Constitution with his business dealings."
+    publishedDateTime: 2020-10-13T23:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "TbdD3t4oJCOFbAcpaPgHKVcGtcMYbQl7NpAiEozGpuoaWV3RiiXsyL55GHK7vK6eZrLFXDYPyDtmlUOE8JAuMdS+PNl5PF3EOWLcrIxA3CqggnU61xujYQC7hgEquIp528zgDOcu2ffjbz/E5v2J1VcPPVpIG/iNdMn2wmDiFX+Z6DzScWHXrrHQEq4Aj3RGfjzd/HsndJS56hZ9tHYTUp92i90Dgy3xQl+xSkoCw05UQ7RlOnXiKBDYeL2XOOYIrybEOm+KTjptbK9QsFr0B32zYFl3YUtBLBdbPW2KdxNonlNEBfZQ1wDcRFK3CyjgpV/sY5TAU0EoMdGieQtUK2a6J9g65vxgq4yrp2RKuTs=;vVgy9trA48Rj5Z52W1ysJA=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-11-we-reject-their-support-trump-campaign-strongly-declines-taliban-endorsement-for-his-2020-reelection.md",
+      "title": "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection",
+      "excerpt": "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f82146b642e9400180b530d?width=1200&format=jpeg",
+          "width": 941,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp",
+      "publishedDateTime": "2020-10-10T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-victor-davis-hanson-trump-must-make-election-about-class-not-race.md",
       "title": "Victor Davis Hanson: Trump must make election about class, not race",
       "excerpt": "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose.",
@@ -1275,7 +1327,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1396,58 +1448,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5913031002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002",
       "publishedDateTime": "2020-10-07T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-donald-trump-would-repeal-and-replace-obamacare-with-nothingburger.md",
-      "title": "Donald Trump would repeal and replace Obamacare with nothingburger",
-      "excerpt": "Affordable Care Act set to reach the Supreme Court after election. COVID-19 layoffs only underscore what a lifeline the ACA is to millions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/f1d418be-3261-4701-8f66-cba4f6986254-Obamacare.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3629112001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001",
-      "publishedDateTime": "2020-10-07T12:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

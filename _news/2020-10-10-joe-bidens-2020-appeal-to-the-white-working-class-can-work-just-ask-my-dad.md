@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241727"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727"
 type: article
 quality: 132
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,88 @@ images:
     width: 2404
     height: 1533
     isCached: true
+
+related:
+  - title: "Obama to hit the campaign trail for Biden in final stretch"
+    excerpt: "Former President Barack Obama is expected to hit the campaign trail next week, Democratic officials tell CNN, as he looks to step up his work in support of his one-time partner -- former Vice President Joe Biden -- in the final stretch of the election.\n    \n"
+    publishedDateTime: 2020-10-13T23:27:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922125352-barack-obama-0819-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
+    excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
+    publishedDateTime: 2020-10-07T23:51:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Michelle Obama releases closing campaign message: Vote for Biden 'like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama is making her closing message to Americans in a campaign video released less than one month until Election Day, imploring people to vote as she shares why she believes the stakes are so high this year.\n    \n"
+    publishedDateTime: 2020-10-06T13:48:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002172437-michelle-obama-dnc-august-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign mulls possible 'climate czar' position"
+    excerpt: "A Biden administration would seek to rejoin the Paris Climate Accord. This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media,"
+    publishedDateTime: 2020-10-07T20:02:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fe/16/ebeda94544409667c33b3c956052/201007-biden-wisc-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Watch live: Biden delivers remarks in Ohio"
+    excerpt: "Watch live coverage as Democratic presidential nominee Joe Biden makes a campaign stop and delivers remarks in Cincinnati, Ohio."
+    publishedDateTime: 2020-10-12T19:32:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-live-biden-delivers-remarks-in-ohio-93675589765"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93675589765"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93675589765"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_ohio_remarks.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yCM30PB6o7zOiXwseq2JjJd8CADvat6lZllGvV0HZes/bZcwqGbGtqF38umI5haOE26hbaLi8Llrup1BtjBQje8GlXaNLs5cy8LpHQmlqci5vpMyxyGPUhyaHnlW5YUAyEjwjeVV8PrvfBbPQFzUCm5u+21WNk4n6zcrRIurg8bujvuqwubAA4Ukx/5p87W/Jt5i+8zaLI97E6ncg4XqD98iDEp0lubwwNsOPe/zKLNcNzB64rchg5iwgYeMiQsrsZ5VdpWhrL9TkMC6ziIqhy6AEU81aXMvUw/VB1bQkjcvmER3DnixRue7aTsU/sWnhamvNOCNr9OwyVWso3RgWtcbkhn04arjUk6jDq9sWAmk6h2+ZKfpJJruaYCEafCbL7figvSXEmnqreLs9ef6d2gSP5wmR2CvWSOohJnPy0qq6Q5mV+HibTXA/JPKcOh2mTXI4CFq66OPUqUn6Z5/UAhTsWHXyUl9oH/Bd8ZK8pXbkkvc0MssigC+OT1P5M3Dcfa3kCtQo0qF4rfxNTa5Rg==;o7KmpH1zuugeCuCvkdBHUA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp"
 type: article
 quality: 101
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Chicago Tribune
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer"
-    excerpt: "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer."
-    publishedDateTime: 2020-10-10T14:07:00Z
-    webUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/"
-    ampWebUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+  - title: "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue"
+    excerpt: "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing."
+    publishedDateTime: 2020-10-13T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 54
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg"
+      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden says Barrett's Catholic faith shouldn't be factor in her confirmation hearings"
+    excerpt: "Biden expressed the same sentiment as Democratic senators who are so far focusing on the threat they feel Barrett's confirmation to the Supreme Court would pose to Obamacare."
+    publishedDateTime: 2020-10-12T21:12:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-amy-coney-barrett-confirmation-hearings/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/498f145a-b39f-4e4c-8082-5a8fc675accc/thumbnail/1200x630g2/a226aaf6d83d6cbf0a3c183f724b6c40/gettyimages-1229009797.jpg"
         width: 1200
         height: 630
         isCached: true

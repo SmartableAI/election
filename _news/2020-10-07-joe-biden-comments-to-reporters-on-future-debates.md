@@ -1930,6 +1930,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 51
+  - title: "User Clip: Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
+    excerpt: "Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
+    publishedDateTime: 2020-10-13T23:27:00Z
+    webUrl: "https://www.c-span.org/video/?c4914763/user-clip-joe-biden-lies-seniors-trump-coronavirus-veterans"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 44
   - title: "Joe Biden Comments to Reporters"
     excerpt: "Democratic 2020 presidential nominee Joe Biden answered a couple of reporters' questions before boarding vice president… White House Chief of Staff Mark Meadows talked to reporters about President Trump and the First Lady’s testing"
     publishedDateTime: 2020-10-07T23:52:00Z

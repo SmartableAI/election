@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-mike-pence-brought-conservatives-home-what-if-they-dont-need-him-anymore.md",
+      "title": "Mike Pence Brought Conservatives Home. What If They Don’t Need Him Anymore?",
+      "excerpt": "Evangelical Christians were drawn to the vice president because he shared their values. But Trump’s style has made defiance of political norms, not a Pence specialty, seem appealing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/us/politics/06Pence-GOP1/06Pence-GOP1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.amp.html",
+      "publishedDateTime": "2020-10-07T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-pence-preps-for-debate-as-chances-to-shake-up-the-race-dwindle.md",
       "title": "Pence preps for debate as chances to shake up the race dwindle",
       "excerpt": "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n",
@@ -622,7 +679,7 @@
       "originalUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1464,49 +1521,6 @@
       "provider": {
         "name": "Milwaukee Journal Sentinel",
         "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence.md",
-      "title": "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence",
-      "excerpt": "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
-      "originalUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
-      "publishedDateTime": "2020-09-23T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
         "images": null,
         "publishers": null,
         "authors": null

@@ -59,6 +59,6 @@ related:
       domain: washingtonexaminer.com
     quality: 65
 
-secured: "RQWIX8xhcoJt4fcfBm2GwkTjFpr4YCk6m8FzEqNwzFz1n/qhRuZVIbUk9YVyu+Mi+PfqV3kg2wsGt5LwvKmIi+QU4ZQXdThIhFEDBN9wQIG2eP/7RBUmxY53U+vFmuugpFjctr9p2GdXlDzb+H3p0BKHo7cst6O2AoWVIi1rL+xlQZZDaZRzXgZunfcuRUl0kykmdIjrNdU7GNB+S+IL0QKo//+xgsxFAmKu+lIpROZfTNiOJrtTqyVTKR4bXlxmyyGMt9caVN5KwKMxltu6tYR1wQEUUcUT9DDzgp7CPWOlKqOdIjPaRl0oizwMiOx/Z96XAhx0WMNe7aPs4efyfMMuAIVs8hxMUP4vXvDiV1s=;3jwbjSHiOo5g4A9aRCDu2g=="
+secured: "8KimvWM0Z8jp6CJ0YN+8MbwzBGqeeNqOvtFx96SN0TzeAv+Ic0Ed8MPzXrcBewOdMGw7jgsKJ5TVDD5G0OFU4ltcR5oWePvb2jiNw5PjJ8eD4LLqI/wMWFdy7Uor2d/w+YHxYPDziiuZVz3/jTBVgqypNRjakhzW4TnuCU3LXB5njUD8Xogdud6T2zFptydkB3+aGtLbld5JmCSxtTY1A6ZL2mD2JIQ9e5AmEMGqx+SZwBMgqlrZaijk/618a/0Yif8WxqFQZDJNwo8O5SpXYwxta+eEYaLbYKm7drUHZAiVRcIBpd8uFKv5quYnR+lKZZOFbiz93hhvTrTm2gx87PCjjBvN9MOSRlSL75+6SFs=;6Tuup66epMb1CUtTwB722Q=="
 ---
 

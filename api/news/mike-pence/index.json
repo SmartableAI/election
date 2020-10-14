@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-13-trump-runs-retro-clip-of-mike-pence-honoring-veterans-on-memorial-day.md",
+      "title": "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day",
+      "excerpt": "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
+      "originalUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
+      "publishedDateTime": "2020-10-13T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-ex-ohio-state-qb-cardale-jones-says-pence-rally-appearance-had-no-political-or-social-attachment.md",
       "title": "Ex-Ohio State QB Cardale Jones says Pence rally appearance had 'no political or social attachment'",
       "excerpt": "In tweets after the event, Jones said he declined to be interviewed at the event because he was there to support a local business, not endorse a political candidate.",
@@ -611,7 +659,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 302,
+      "heat": 322,
       "tags": null,
       "images": [
         {
@@ -886,7 +934,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 3968,
+      "heat": 4008,
       "tags": null,
       "images": [
         {
@@ -1581,63 +1629,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-mike-pence-brought-conservatives-home-what-if-they-dont-need-him-anymore.md",
-      "title": "Mike Pence Brought Conservatives Home. What If They Don’t Need Him Anymore?",
-      "excerpt": "Evangelical Christians were drawn to the vice president because he shared their values. But Trump’s style has made defiance of political norms, not a Pence specialty, seem appealing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/06/us/politics/06Pence-GOP1/06Pence-GOP1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.amp.html",
-      "publishedDateTime": "2020-10-07T00:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

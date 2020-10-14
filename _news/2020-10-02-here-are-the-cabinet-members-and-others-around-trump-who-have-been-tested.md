@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump shuns opportunity to change tack on coronavirus approach"
+    excerpt: "Contracting coronavirus a month before the election was not in President Donald Trump's political playbook.\n    \n"
+    publishedDateTime: 2020-10-13T22:03:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kp7iI3wWtjs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/trump-coronavirus-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/trump-coronavirus-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's who has tested positive and negative for Covid-19 in Trump's circle"
     excerpt: "A least 10 people in President Donald Trump's family, the US government and circle of advisers and recent contacts have recently tested positive for Covid-19.\n    \n"
     publishedDateTime: 2020-10-04T19:39:57Z

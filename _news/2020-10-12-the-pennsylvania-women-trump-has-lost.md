@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 355
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blitzer presses Pelosi on why she hasn't taken Trump stimulus deal"
+    excerpt: "CNN's Wolf Blitzer speaks with House Speaker Nancy Pelosi about why she has not accepted President Donald Trump's roughly $1.8 trillion stimulus offer.\n    \n"
+    publishedDateTime: 2020-10-13T22:21:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7gtWDfc3w/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013175114-wolf-blitzer-nancy-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's doctor says the President has tested negative on consecutive days"
     excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
     publishedDateTime: 2020-10-12T23:39:44Z
@@ -60,6 +76,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
+    excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
+    publishedDateTime: 2020-10-13T22:56:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKnx-i26VuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003190039-16-trump-covid-circle-melania-trump-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

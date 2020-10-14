@@ -2,58 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-09-15-michael-cohen-trumps-former-attorney-calls-him-absolutely-morally-bankrupt.md",
-      "title": "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'",
-      "excerpt": "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "originalUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/theview/michael-cohen-ap-jt-200914_1600102519796_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "publishedDateTime": "2020-09-14T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-14-fact-check-trump-makes-four-false-claims-in-one-sentence.md",
       "title": "Fact check: Trump makes four false claims in one sentence",
       "excerpt": "In what may be a new record for President Donald Trump, he made four false claims in one sentence of a tweet on Saturday.\n    \n",
@@ -912,6 +860,57 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-14-ted-cruz-is-honored-trump-is-considering-him-for-a-supreme-court-seat-but-he-said-hes-not-interested-in-leaving-the-senate.md",
+      "title": "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate",
+      "excerpt": "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
+      "originalUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
+      "publishedDateTime": "2020-09-13T13:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election"
       ]
     },
     {

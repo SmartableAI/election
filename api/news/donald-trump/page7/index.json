@@ -1115,6 +1115,58 @@
       ]
     },
     {
+      "path": "_news/2020-09-19-trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source.md",
+      "title": "Trump mulling Appeals Court judges Barbara Lagoa, Amy Coney Barrett for Supreme Court - source",
+      "excerpt": "Two female U.S. Appeals Court judges are on President Donald Trump's short list of candidates to fill the Supreme Court vacancy opened up by the death on Friday of Justice Ruth Bader Ginsburg, a source said on Saturday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8",
+      "originalUrl": "https://www.reuters.com/article/usa-courts-ginsburg-candidates/trump-mulling-appeals-court-judges-barbara-lagoa-amy-coney-barrett-for-supreme-court-source-idUSKCN26A0S8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20200919&t=2&i=1534134972&r=LYNXNPEG8I0NV&w=800",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-19T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
       "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
       "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-says-confederate-general-robert-e-lee-would-have-won-except-for-gettysburg.md",
-      "title": "Trump Says Confederate General Robert E. Lee 'Would Have Won Except for Gettysburg'",
-      "excerpt": "\"They're ripping down our history,\" President Donald Trump said of U.S. protesters. \"That's where these guys begin. They take away your history.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765",
-      "originalUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1638821/donald-trump.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1",
-      "publishedDateTime": "2020-09-18T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

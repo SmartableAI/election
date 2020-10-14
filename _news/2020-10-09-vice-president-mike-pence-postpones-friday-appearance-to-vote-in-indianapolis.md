@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5911905002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002"
 type: article
 quality: 122
-heat: 302
+heat: 322
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/10/NDAC/060cfb7e-55ac-4251-a36e-00d717dee960-FL_LEE_pence_0529.JPG?auto=webp&crop=3255,1831,x0,y540&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to rally in Selma, NC on Friday"
+    excerpt: "Vice President Mike Pence will rally in North Carolina on Friday, Oct. 16. According to a release, Pence will speak to supporters at a 'Make America Great Again!' event in Selma, which is in Johnston County."
+    publishedDateTime: 2020-10-13T22:28:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-rally-in-selma-north-carolina/83-c3af79fe-f78c-4769-a365-2e8f83b734ea"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-selma-north-carolina/83-c3af79fe-f78c-4769-a365-2e8f83b734ea"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-selma-north-carolina/83-c3af79fe-f78c-4769-a365-2e8f83b734ea"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
+    images:
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."

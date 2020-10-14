@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negativ
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -359,6 +359,15 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 102
+  - title: "Pro-Trump Group Closes Campaign by Shopping Dirt on the Lincoln Project"
+    excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"
+    publishedDateTime: 2020-10-13T22:32:00Z
+    webUrl: "https://www.thedailybeast.com/pro-trump-group-closes-campaign-by-shopping-dirt-on-the-lincoln-project"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
   - title: "Trump Conceals COVID Test Info During Fake Fox News ‘Medical Evaluation’"
     excerpt: "In one of his stranger spectacles to date, President Trump underwent a “medical evaluation” on Fox News Friday night that consisted of him boasting about how great he feels."
     publishedDateTime: 2020-10-10T05:02:00Z

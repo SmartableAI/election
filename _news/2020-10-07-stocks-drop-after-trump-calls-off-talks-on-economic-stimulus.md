@@ -668,6 +668,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Supreme Court Ends Democratic Lawmakers' Anti-Graft Lawsuit Against Trump"
+    excerpt: "The Supreme Court on Tuesday put an end to a lawsuit brought by congressional Democrats that accused President Donald Trump of violating anti-corruption provisions in the U.S. Constitution with his business dealings."
+    publishedDateTime: 2020-10-13T23:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
   - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
     excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
     publishedDateTime: 2020-10-07T00:29:00Z

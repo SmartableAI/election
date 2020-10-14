@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/barrett-recuse-president
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/barrett-recuse-presidential-election/index.html"
 type: article
 quality: 189
-heat: 929
+heat: 969
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Russia dismisses Trump administration efforts to secure nuclear arms deal before election"
+    excerpt: "The Kremlin on Tuesday rejected assertions by the Trump administration that the US and Russia had come to a \"gentlemen's agreement\" on extending a key arms control agreement and dismissed the idea that a deal would be reached before the US presidential election.\n    \n"
+    publishedDateTime: 2020-10-13T23:14:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtzMt22YlD8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200608165352-usa-russia-flags-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: How Trump's losing among seniors at a historic rate"
     excerpt: "Former Vice President Joe Biden has jumped out to an 11-point lead over President Donald Trump in CNN's poll of polls. While Biden is doing better with pretty much all groups compared with 2016 Democratic nominee Hillary Clinton, one group jumps out: seniors.\n    \n"
     publishedDateTime: 2020-10-06T19:44:58Z
@@ -576,6 +592,20 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2017_18/1990471/170505-health-care-ac-1105p_8fb4cd185e3ce3950d80b19eca9d6066.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Another pro-Trump ad uses footage from Russia"
+    excerpt: "Trump super PAC ad uses stock footage from Russia and Belarus in a major ad buy that’s airing in three swing states. It’s the fourth time in three months that an ad promoting President Donald Trump’s reelection has used footage from Russia."
+    publishedDateTime: 2020-10-13T22:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/13/trump-ad-russian-footage-429263"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fe/0c/945fad50494481cbf08d22e4e620/1013trump.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
     excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."

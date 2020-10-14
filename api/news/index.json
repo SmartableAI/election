@@ -2,6 +2,270 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-kamala-harris-battles-with-amy-coney-barrett-on-whether-she-knew-trump-wanted-anti-obamacare-judges.md",
+      "title": "Kamala Harris Battles With Amy Coney Barrett on Whether She Knew Trump Wanted Anti-Obamacare Judges",
+      "excerpt": "The California senator and Democratic vice presidential nominee questioned Judge Barrett on Tuesday, during the second of four confirmation hearings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863",
+      "originalUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 566,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1651266/kamala-harris.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863?amp=1",
+      "publishedDateTime": "2020-10-13T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-obama-to-hit-the-campaign-trail-for-biden-in-final-stretch.md",
+      "title": "Obama to hit the campaign trail for Biden in final stretch",
+      "excerpt": "Former President Barack Obama is expected to hit the campaign trail next week, Democratic officials tell CNN, as he looks to step up his work in support of his one-time partner -- former Vice President Joe Biden -- in the final stretch of the election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922125352-barack-obama-0819-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html",
+      "publishedDateTime": "2020-10-13T16:27:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-government-sues-melania-trumps-former-best-friend-over-scathing-tell-all.md",
+      "title": "Government sues Melania Trump’s former best friend over ‘scathing tell-all’",
+      "excerpt": "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPNjwshtALo/government-sues-melania-trump-best-friend",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPNjwshtALo/government-sues-melania-trump-best-friend",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ab45625-a326-4a1c-82c6-af5cd7f05f08/5467e445-6504-4c44-b26f-c96e16ddc911/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp",
+      "publishedDateTime": "2020-10-13T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg.md",
+      "title": "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg",
+      "excerpt": "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/",
+      "originalUrl": "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662",
+          "width": 1024,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/",
+      "publishedDateTime": "2020-10-13T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-doj-trumps-total-declassification-of-russiagate-docs-has-no-effect.md",
+      "title": "DOJ: Trump's 'total declassification' of Russiagate docs has no effect",
+      "excerpt": "DOJ attorneys told a judge that the White House Counsel's Office effectively told DOJ to disregard Trump's tweets on the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/13/doj-trumps-declassification-russiagate-429257",
+      "originalUrl": "https://www.politico.com/news/2020/10/13/doj-trumps-declassification-russiagate-429257",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/55/75/cf3d86ee411bac5950cd3e79c807/gettyimages-803354590-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/13/doj-trumps-declassification-russiagate-429257",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/doj-trumps-declassification-russiagate-429257",
+      "publishedDateTime": "2020-10-13T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-ex-white-house-doctor-questions-bidens-mental-capacity-to-be-president.md",
       "title": "Ex-White House doctor questions Biden's 'mental capacity' to be president",
       "excerpt": "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said.",
@@ -111,6 +375,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-joe-biden-says-hes-not-a-fan-of-court-packing-as-scotus-hearings-continue.md",
+      "title": "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue",
+      "excerpt": "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "publishedDateTime": "2020-10-13T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -715,7 +1031,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 929,
+      "heat": 969,
       "tags": null,
       "images": [
         {
@@ -1021,322 +1337,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-joe-biden-once-again-says-hes-not-a-fan-of-expanding-supreme-court-says-gop-court-packing-by-rushing-to-fill-seat.md",
-      "title": "Joe Biden once again says he’s ‘not a fan’ of expanding Supreme Court, says GOP ‘court-packing’ by rushing to fill seat",
-      "excerpt": "Joe Biden says he is “not a fan” of adding seats to the Supreme Court, after weeks of avoiding questions about the idea that’s been pushed by progressives and used by Republicans to attack him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/lhpLP6O2R93TguuCfUGToqd2e14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFXRSDUWO5GW3D4KZJPC77LCIM.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-13T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-palestinian-premier-god-help-us-if-trump-wins-reelection.md",
-      "title": "Palestinian premier: God help us if Trump wins reelection",
-      "excerpt": "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/13/palestinian-premier-trump-reelection-429151",
-      "originalUrl": "https://www.politico.com/news/2020/10/13/palestinian-premier-trump-reelection-429151",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b0/75/45a81c794c91ac4282804a3be528/201013-palestine-prime-minister-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-california-republicans-refuse-to-remove-ballot-boxes-slam-states-35-million-team-biden-contract.md",
-      "title": "California Republicans refuse to remove ballot boxes, slam state's $35 million 'Team Biden' contract",
-      "excerpt": "The California Republican Party responded Monday to criticism over unofficial ballot drop-off boxes in counties with highly competitive U.S. House races, arguing that state law allows “ballot harvesting,” and also slamming a $35 million contract the state’s top election official awarded to a “Team Biden”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
-      "publishedDateTime": "2020-10-13T06:28:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-biden-again-dodges-court-packing-question-hints-he-is-not-a-fan.md",
-      "title": "Biden again dodges court-packing question, hints he is 'not a fan'",
-      "excerpt": "Democratic nominee Joe Biden again dodged questions on court-packing, this time at campaign stops in Ohio on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xk7PKOtHGYU/joe-biden-supreme-court-packing-not-a-fan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xk7PKOtHGYU/joe-biden-supreme-court-packing-not-a-fan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287061931086.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-supreme-court-packing-not-a-fan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-supreme-court-packing-not-a-fan.amp",
-      "publishedDateTime": "2020-10-13T05:08:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-joe-bidens-tax-plan-would-likely-hit-wealthy-californians-hard-heres-why.md",
-      "title": "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why",
-      "excerpt": "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
-      "originalUrl": "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
-      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
-      "publishedDateTime": "2020-10-13T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sacramento Bee",
-        "domain": "sacbee.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-sean-hannity-attacks-joe-bidens-mental-fitness-despite-tucker-carlson-saying-tactic-wont-work.md",
-      "title": "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work",
-      "excerpt": "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587",
-      "originalUrl": "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1580304/sean-hannity.jpg",
-          "width": 2500,
-          "height": 1662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587?amp=1",
-      "publishedDateTime": "2020-10-13T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -47,6 +47,20 @@ related:
         width: 941
         height: 470
         isCached: true
+  - title: "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider."
+    excerpt: "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well."
+    publishedDateTime: 2020-10-13T23:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
+    images:
+      - url: "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "0VFvUed6WpOjkxlC6YJ2H9VnizJAO5NPUPcR93GiJRYMLWAD38ZiEG+jMfo1DcsqjWZTWOiqQFhEzQwqzbpcIZ8oIMz/xnT5Z+0Ni6VD0LqjCgt8ZF+F7dNfVZashmi314ENcfIl0oVW5N6gdM0SAQ6V71jcf/9QrJFFQoaqHRuOt6p5PKKNljvuNSp0YjdGyvOjc39DoGyXYAqrl9/R6UnA1yAcAigubiPLVlGbuuk/5RzF6NzJkY5ro52KH9boo8bF1GIMKd4FJHRVxR4nP8n4TsIGwINdvsoNWem3FtgLPJpmIsiNIirhWL+HuQhznb0HgjRXpa3iIivkNQlxkvhEuWWywYZbsNMVdTYIL2w=;/Eb6LN/buuVrwwTSICpRLQ=="
 ---

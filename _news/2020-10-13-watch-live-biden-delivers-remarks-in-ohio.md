@@ -32,37 +32,85 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Joe Biden delivers remarks in Delaware on Supreme Court"
-    excerpt: "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-09-27T15:02:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92653637692"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692"
+  - title: "Obama to hit the campaign trail for Biden in final stretch"
+    excerpt: "Former President Barack Obama is expected to hit the campaign trail next week, Democratic officials tell CNN, as he looks to step up his work in support of his one-time partner -- former Vice President Joe Biden -- in the final stretch of the election.\n    \n"
+    publishedDateTime: 2020-10-13T23:27:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922125352-barack-obama-0819-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Watch live: Biden delivers remarks in Delaware on Supreme Court"
-    excerpt: "Watch live coverage of Joe Biden as he delivers remarks in Wilmington, Del., on the U.S. Supreme Court.Sept. 27, 2020 © 2020 NBC UNIVERSAL"
-    publishedDateTime: 2020-09-28T00:21:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-joe-biden-delivers-remarks-in-delaware-on-supreme-court-92653637692"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo92653637692"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92653637692"
+  - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
+    excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
+    publishedDateTime: 2020-10-07T23:51:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Michelle Obama releases closing campaign message: Vote for Biden 'like your lives depend on it'"
+    excerpt: "Former first lady Michelle Obama is making her closing message to Americans in a campaign video released less than one month until Election Day, imploring people to vote as she shares why she believes the stakes are so high this year.\n    \n"
+    publishedDateTime: 2020-10-06T13:48:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002172437-michelle-obama-dnc-august-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign mulls possible 'climate czar' position"
+    excerpt: "A Biden administration would seek to rejoin the Paris Climate Accord. This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media,"
+    publishedDateTime: 2020-10-07T20:02:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fe/16/ebeda94544409667c33b3c956052/201007-biden-wisc-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
+    excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
+    publishedDateTime: 2020-10-09T21:39:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241727"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 132
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden1.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg"
+        width: 2404
+        height: 1533
         isCached: true
 
 secured: "x+kRY/H3/83OhvtlODzMoNzxePJR7Q8UmavDzPsfqNjl/b3EqisOtyuu5kIe96R/X+bKHdpltWSWDvg6megxvAkUFOFhlJ4CWCabBtVsEBMdpLgpJ4ygDYOfLUP500CRrj0EXb0CdNMCOXlSvP4M01p44v5+w+oxlGB9cSSKzwLafTfo7pS2G106DqUblSZF9MmaEc8LmY2hyAu8vowWjTgqtg913ANPV45KeoTXWfS/cAxU+aYLhrqBtSRPU8eNPts+RHCUOUXSkF2Rob/OInJuJvlGyGtPzDFMeuR105zsov3qMGBNRY+j2DVk8r6G2aRUoe6nGL2EU0PD3amF2gDJd7J1eUezaKosqi+oj5I2FRm+4mEecVs3ypkz5rt1NlH0XR8qyzDruiDVLKZg73hBqj1R8vIayRFD2LWxI5Al1k0P/Q9kBV7+gVhr9YrivJ4VuBci+1HOJQRFPto9CuaBpAtVPXSNw7I0cff8HyEC1TYp8fPUGicaA/zDehM58TklCjRLh58qvEEfrzsi0g==;PnTOIYU+/uPTxnXTjKRVqQ=="

@@ -2,58 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
-      "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
-      "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/01/gettyimages-1273384685_wide-e24471991c8648589f4ed71dda06062f7b5c082f.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-pelosi-warns-trump-aint-no-light-at-the-end-of-the-tunnel-should-election-be-decided-in-house.md",
       "title": "Pelosi warns Trump 'ain't no light at the end of the tunnel' should election be decided in House",
       "excerpt": "Speaker Nancy Pelosi spelled out a dire prediction for President Trump should the election come down to the House to be decided.",
@@ -1317,6 +1265,62 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-biden-says-at-debate-he-doesnt-support-green-new-deal-but-his-campaign-website-calls-it-crucial-framework.md",
+      "title": "Biden says at debate he doesn't support Green New Deal, but his campaign website calls it 'crucial framework'",
+      "excerpt": "Joe Biden said Tuesday night at the first presidential debate that he does not support the Green New Deal, but his campaign website calls it a “crucial framework” for meeting climate change challenges.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qijxEV3llBk/biden-presidential-debate-green-new-deal-crucial-framework",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a7770338-6f00-45d5-b73c-f483671ead37/96618aa6-16e0-4aa8-b103-de0e0b8c3bce/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-presidential-debate-green-new-deal-crucial-framework.amp",
+      "publishedDateTime": "2020-09-30T10:46:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/us-trade-deficit-grows-august-import
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10?amp"
 type: article
 quality: 131
-heat: 671
+heat: 691
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_b359d4e42260491db174b54d30b232cb_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The final two weeks — key factors Trump needs to keep the White House"
+    excerpt: "Can Donald Trump pull another victory out of the jaws of defeat and overcome significant obstacles fomented by social unrest, an economic downturn driven by COVID-19, and chaos on Capitol Hill?"
+    publishedDateTime: 2020-10-14T00:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_093020upi2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."

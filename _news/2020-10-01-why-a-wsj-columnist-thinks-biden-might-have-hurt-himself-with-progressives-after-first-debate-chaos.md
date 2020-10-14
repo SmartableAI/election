@@ -768,6 +768,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden charges that Trump sees seniors as ‘expendable.. virtually nobody’"
+    excerpt: "Democratic presidential nominee Joe Biden on Tuesday claimed that President Trump sees seniors as “forgettable” and used the president’s own words against him as he courted older voters in Florida, the crucial general election battleground state."
+    publishedDateTime: 2020-10-13T22:36:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eyEIihi7FL4/biden-trump-seniors-expendable-virtually-nobody"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-seniors-expendable-virtually-nobody.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-seniors-expendable-virtually-nobody.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287755235807.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump in Minnesota, Biden in Ohio and Pennsylvania: The 2020 campaign trail"
     excerpt: "Here's where the candidates will be traveling­­ and how they'll be spending their time on Wednesday, Sept. 30, 2020, "
     publishedDateTime: 2020-09-30T12:40:38Z
@@ -2751,6 +2767,22 @@ related:
     quality: 82
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/281/14b6f240-8fb4-4425-957b-ea597ebdb1ab.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "The Commission on Presidential Debates Should Go Ahead And Endorse Joe Biden"
+    excerpt: "You can’t debate your opponent if you have to debate the debate commission first.The privately-run Commission on Presidential Debates has decided to protect Joe Biden by any means necessary. Despite"
+    publishedDateTime: 2020-10-13T22:30:00Z
+    webUrl: "https://townhall.com/columnists/michaelglassner/2020/10/13/the-commission-on-presidential-debates-should-go-ahead-and-endorse-joe-biden-n2578012"
+    ampWebUrl: "https://townhall.com/columnists/michaelglassner/2020/10/13/the-commission-on-presidential-debates-should-go-ahead-and-endorse-joe-biden-n2578012?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/michaelglassner/2020/10/13/the-commission-on-presidential-debates-should-go-ahead-and-endorse-joe-biden-n2578012?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 82
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/99737bff-a3b3-4fda-8f05-edaaafd875d3.jpg"
         width: 650
         height: 340
         isCached: true

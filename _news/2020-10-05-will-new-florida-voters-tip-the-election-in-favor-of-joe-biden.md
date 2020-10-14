@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -166,6 +166,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden appeals to members of the Latino community at a “Get-Out-The-Vote” event in Las Vegas, Nevada. Pete Buttigieg, a 2020 Democratic presidential candidate, spoke to supporters in Las Vegas after the close of"
     publishedDateTime: 2020-10-09T21:08:00Z
     webUrl: "https://www.c-span.org/video/?476841-1/joe-biden-vote-event-las-vegas-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in Florida"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks in Pembroke Pines, FL on his campaign's policy proposals affecting senior citizens."
+    publishedDateTime: 2020-10-13T23:25:00Z
+    webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-takes-health-care-message-florida-seniors"
     type: article
     provider:
       name: C-SPAN

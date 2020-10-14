@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-campaign-leaves-ticket-for-tup
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-leaves-ticket-for-tupac-at-vp-debate-2020-10?amp"
 type: article
 quality: 93
-heat: 113
+heat: 93
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 720
     height: 359
     isCached: true
-
-related:
-  - title: "Tupac's Brother Blasts Trump Over \"Disrespectful\" Shot At Kamala Harris"
-    excerpt: "Mopreme Shakur says Trump's campaign was 'clearly disrespectful' for leaving a ticket for Tupac at the Vice Presidential debate. The stepbrother of the late Tupac Shakur has stepped forth with a response to Trump campaign's prank on Kamala Harris at the Vice Presidential debate."
-    publishedDateTime: 2020-10-11T13:55:00Z
-    webUrl: "https://www.hotnewhiphop.com/tupacs-brother-blasts-trump-over-disrespectful-shot-at-kamala-harris-news.119403.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/tupacs-brother-blasts-trump-over-disrespectful-shot-at-kamala-harris-news.119403.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/tupacs-brother-blasts-trump-over-disrespectful-shot-at-kamala-harris-news.119403.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 90
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602424117_136b91339f31243a9f8350fb0122d3a5.jpg/2a67791a55e85b27aa896cfa189c72d7/1602424117_5d87e59bbdb63dd0f64142259bbc0a87.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "w58CwGQKFGI3lcv5+SXDOlmMEhBgUE/dVA5eLv1yaaPyVrKh/1KK9rIjgcaZXiR035XN4jTx+asBH4UoLvZL+GjbkLW5bn+FaJOPQr/vFgonGFofjV5Vghif5lCXVypdU0lFxWof2zULQsss08UNy3ZtCvYNE6kod3IXhrWn8mxm6ymRDPtpGDLwzPnZVDUpXZEIrZXFpP3URNAiqLwF7JO0ztcuEG7CaVldmoRcH4m8w7SLLR7N29THCQKJVXzy5UWH/tOAQMz9JFJz8MlULd/FM+QxK22SwKp7smhGPzDsJu3wC6ppXNlamtJ2Uc6J24pGa0j9gwAkgLtOvM5we4tfZ0grZGDlax3PH5ckTAz+AHeozZi8KMjpkCAVj2jjk++5+MLF5JDHN08znlnmQIAqdpG6xbxNEZGPn1HgZ6yZ/o8BXF6yfsd042dfq5eQn4MvSe5K+1LeIE/IbAKDHQa8XOeWvYhM9Xq9TURdIuR03YNNzdW1HwX/+bo8V+n+CQtlS56K4FRIEr0tfV7RyQ==;/MBi5rgj3zx4JKBFTZPGGA=="
 ---

@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to rally in Selma, NC on Friday"
+    excerpt: "Vice President Mike Pence will rally in North Carolina on Friday, Oct. 16. According to a release, Pence will speak to supporters at a 'Make America Great Again!' event in Selma, which is in Johnston County."
+    publishedDateTime: 2020-10-13T22:28:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-rally-in-selma-north-carolina/83-c3af79fe-f78c-4769-a365-2e8f83b734ea"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-selma-north-carolina/83-c3af79fe-f78c-4769-a365-2e8f83b734ea"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-selma-north-carolina/83-c3af79fe-f78c-4769-a365-2e8f83b734ea"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
+    images:
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Vice President Pence Campaigns in Ohio"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus. President Trump spoke at a campaign rally in Newport News, Virginia. He was introduced by Vice President Mike Pence."
     publishedDateTime: 2020-10-12T17:23:00Z

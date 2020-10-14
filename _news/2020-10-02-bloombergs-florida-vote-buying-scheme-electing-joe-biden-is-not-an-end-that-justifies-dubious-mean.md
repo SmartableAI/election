@@ -167,6 +167,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in Florida"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks in Pembroke Pines, FL on his campaign's policy proposals affecting senior citizens."
+    publishedDateTime: 2020-10-13T23:25:00Z
+    webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-takes-health-care-message-florida-seniors"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "52zqoiO/W79vvawHcKzqVAxfXAZuVK0l/F2GkoLqhrf7nLq84UxdvO7GTrRfGdMNfJbIB9RxEU0INeSDAR5Ojvs3XxY6XpuSM0onNeomta/5cCtrKSJEXWOI+vBbn1iYT0R5vu7q4Lvf2wIAvyWUQZEIvKW1q/iKoHSQ0K3GCDIJrv//9UGXxDUzoLRN3dcUVfyHyNv85fpP2uZ3DOkdJlPKcB1F2TCT0WxPT6NPSWl+x0Ev0gLxjVx+0DW+JsTZBGSCCyjUJkvLp/dJotAV3Tmz5LB8iPM+gWGs6cLtVrmFP29AOaMKLUUSvin0xN9k2i5xq1XkfAEPyF49p7/Tor4AqaeGaUTQCud22yFrk7E=;hsfzb+w9VJASAUyODF6C/w=="
 ---

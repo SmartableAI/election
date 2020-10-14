@@ -2,6 +2,318 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-13-palestinian-premier-god-help-us-if-trump-wins-reelection.md",
+      "title": "Palestinian premier: God help us if Trump wins reelection",
+      "excerpt": "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/13/palestinian-premier-trump-reelection-429151",
+      "originalUrl": "https://www.politico.com/news/2020/10/13/palestinian-premier-trump-reelection-429151",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b0/75/45a81c794c91ac4282804a3be528/201013-palestine-prime-minister-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-california-republicans-refuse-to-remove-ballot-boxes-slam-states-35-million-team-biden-contract.md",
+      "title": "California Republicans refuse to remove ballot boxes, slam state's $35 million 'Team Biden' contract",
+      "excerpt": "The California Republican Party responded Monday to criticism over unofficial ballot drop-off boxes in counties with highly competitive U.S. House races, arguing that state law allows “ballot harvesting,” and also slamming a $35 million contract the state’s top election official awarded to a “Team Biden”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
+      "publishedDateTime": "2020-10-13T06:28:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-trump-runs-retro-clip-of-mike-pence-honoring-veterans-on-memorial-day.md",
+      "title": "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day",
+      "excerpt": "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
+      "originalUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
+      "publishedDateTime": "2020-10-13T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-biden-again-dodges-court-packing-question-hints-he-is-not-a-fan.md",
+      "title": "Biden again dodges court-packing question, hints he is 'not a fan'",
+      "excerpt": "Democratic nominee Joe Biden again dodged questions on court-packing, this time at campaign stops in Ohio on Monday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xk7PKOtHGYU/joe-biden-supreme-court-packing-not-a-fan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xk7PKOtHGYU/joe-biden-supreme-court-packing-not-a-fan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287061931086.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-supreme-court-packing-not-a-fan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-supreme-court-packing-not-a-fan.amp",
+      "publishedDateTime": "2020-10-13T05:08:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-joe-bidens-tax-plan-would-likely-hit-wealthy-californians-hard-heres-why.md",
+      "title": "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why",
+      "excerpt": "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
+      "originalUrl": "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
+      "cdnAmpWebUrl": "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html",
+      "publishedDateTime": "2020-10-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sacramento Bee",
+        "domain": "sacbee.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-sean-hannity-attacks-joe-bidens-mental-fitness-despite-tucker-carlson-saying-tactic-wont-work.md",
+      "title": "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work",
+      "excerpt": "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587",
+      "originalUrl": "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1580304/sean-hannity.jpg",
+          "width": 2500,
+          "height": 1662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587?amp=1",
+      "publishedDateTime": "2020-10-13T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-bipartisan-christian-group-forms-super-pac-to-oppose-trump.md",
       "title": "Bipartisan Christian group forms super PAC to oppose Trump",
       "excerpt": "A group of prominent Christians from both sides of the aisle, including a past faith adviser to former President Barack Obama, is forming a political action committee designed to chip away at Christia",
@@ -381,7 +693,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -853,58 +1165,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
-      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
-      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "publishedDateTime": "2020-10-12T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-13-trump-chief-of-staff-mark-meadows-refuses-to-speak-to-reporters-with-mask-on.md",
       "title": "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on",
       "excerpt": "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease.",
@@ -1068,278 +1328,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-claims-nov-3-will-be-the-most-exciting-day-in-us-election-history.md",
-      "title": "Trump claims Nov. 3 'will be the most exciting day in US election history'",
-      "excerpt": "President Trump on Monday said this Election Day will be “the most exciting” in U.S. history, touting the “tremendous excitement and enthusiasm” among the electorate, while mocking his Democratic rival Joe Biden, saying “nobody” shows up to his events.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G22ntFKhKm8/trump-nov-3-most-exciting-day-in-us-election-history",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G22ntFKhKm8/trump-nov-3-most-exciting-day-in-us-election-history",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284697508156-e1602516298978.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T08:43:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ross-douthat-column-there-will-be-no-trump-coup.md",
-      "title": "Ross Douthat column: There will be no Trump coup",
-      "excerpt": "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-has-been-a-champion-for-the-black-community-paris-dennard.md",
-      "title": "Trump 'has been a champion' for the Black community: Paris Dennard",
-      "excerpt": "“There’s no doubt” that President Trump “will go down as the greatest champion for the Black community since Abraham Lincoln,” Black Voices for Trump Advisory Board member Paris Dennard told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/paris.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:30:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus.md",
-      "title": "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus",
-      "excerpt": "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8465264f2e188304012e3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5438%26cropY1%3D0%26cropY2%3D3057",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/",
-      "publishedDateTime": "2020-10-12T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-rails-against-portlands-biden-fools-antifa-radicals-after-lincoln-roosevelt-statues-toppled.md",
-      "title": "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled",
-      "excerpt": "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-1229022717.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:12:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

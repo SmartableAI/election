@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg.md",
+      "title": "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg",
+      "excerpt": "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/",
+      "originalUrl": "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662",
+          "width": 1024,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/",
+      "publishedDateTime": "2020-10-13T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-joe-biden-says-hes-not-a-fan-of-court-packing-as-scotus-hearings-continue.md",
+      "title": "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue",
+      "excerpt": "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "publishedDateTime": "2020-10-13T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-joe-bidens-anti-segregation-crusade-from-black-church-story-just-took-a-punch-to-the-mouth.md",
       "title": "Joe Biden's Anti-Segregation Crusade From Black Church Story Just Took a Punch to the Mouth",
       "excerpt": "At his age, Joe Biden’s lying problems can be masked as memory problems. It still doesn’t negate the issue. If he’s lying, it’s only in keeping with his past screw-ups",
@@ -89,58 +184,6 @@
         "name": "al.com",
         "domain": "al.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-joe-biden-once-again-says-hes-not-a-fan-of-expanding-supreme-court-says-gop-court-packing-by-rushing-to-fill-seat.md",
-      "title": "Joe Biden once again says he’s ‘not a fan’ of expanding Supreme Court, says GOP ‘court-packing’ by rushing to fill seat",
-      "excerpt": "Joe Biden says he is “not a fan” of adding seats to the Supreme Court, after weeks of avoiding questions about the idea that’s been pushed by progressives and used by Republicans to attack him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/lhpLP6O2R93TguuCfUGToqd2e14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFXRSDUWO5GW3D4KZJPC77LCIM.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-13T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -333,58 +376,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
-      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
-      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "publishedDateTime": "2020-10-12T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -657,63 +648,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-joe-bidens-2020-appeal-to-the-white-working-class-can-work-just-ask-my-dad.md",
-      "title": "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad.",
-      "excerpt": "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg",
-          "width": 2404,
-          "height": 1533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1241727",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727",
-      "publishedDateTime": "2020-10-09T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-record-breaking-group-of-faith-leaders-endorses-biden.md",
       "title": "'Record-breaking group' of faith leaders endorses Biden",
       "excerpt": "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group.",
@@ -774,7 +708,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 284,
       "tags": null,
       "images": [
         {
@@ -1032,63 +966,6 @@
         "Joe Biden",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-biden-campaign-mulls-possible-climate-czar-position.md",
-      "title": "Biden campaign mulls possible 'climate czar' position",
-      "excerpt": "A Biden administration would seek to rejoin the Paris Climate Accord. This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392",
-      "originalUrl": "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/fe/16/ebeda94544409667c33b3c956052/201007-biden-wisc-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392",
-      "publishedDateTime": "2020-10-07T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1427,7 +1304,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -1582,6 +1459,120 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-joe-bidens-other-questionable-chinese-concern-and-involvement-hollywood-part-two.md",
+      "title": "Joe Biden’s OTHER Questionable Chinese Concern and Involvement - Hollywood (Part Two)",
+      "excerpt": "This piece is part two in a series. You can read the first installment here.SELF-CENSORING THEIR OWN SELF-INTERESTSThe pandemic has created a constant stream of challenges for the studios",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
+      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2016/63/90ca6ef4-d0ce-4729-9c4a-0b1df4f8db40.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us.md",
+      "title": "Will Biden ‘Condemn’ the Stalinist Regime Whose Lifelong Obsession Is the Destruction of the US?",
+      "excerpt": "Are you willing tonight to condemn white supremacists and militia groups…” President Trump: “Sure…What do you want to call them? Give me a name.”Chris Wallace: “White supremacists and right-wing",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "originalUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

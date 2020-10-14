@@ -191,6 +191,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The final two weeks — key factors Trump needs to keep the White House"
+    excerpt: "Can Donald Trump pull another victory out of the jaws of defeat and overcome significant obstacles fomented by social unrest, an economic downturn driven by COVID-19, and chaos on Capitol Hill?"
+    publishedDateTime: 2020-10-14T00:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_093020upi2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump did condemn white supremacists, too bad so many people won't listen"
     excerpt: "Can we once and for all kill off the distortion that Donald Trump called white supremacists “very fine people?” In the very same comments people are always quoting, Trump said \"I'm not talking about the neo-Nazis and the White nationalists."
     publishedDateTime: 2020-10-02T08:44:00Z

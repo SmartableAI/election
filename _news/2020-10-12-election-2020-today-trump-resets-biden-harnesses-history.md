@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
 type: article
 quality: 155
-heat: 2755
+heat: 2775
 published: true
 
 provider:
@@ -1926,6 +1926,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 51
+  - title: "User Clip: Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
+    excerpt: "Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
+    publishedDateTime: 2020-10-13T23:27:00Z
+    webUrl: "https://www.c-span.org/video/?c4914763/user-clip-joe-biden-lies-seniors-trump-coronavirus-veterans"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 44
   - title: "Joe Biden Comments to Reporters on Future Debates"
     excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
     publishedDateTime: 2020-10-07T03:32:00Z

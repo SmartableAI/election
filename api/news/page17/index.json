@@ -2,62 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2020-09-25-trump-unveils-platinum-plan-for-black-americans.md",
-      "title": "Trump unveils 'Platinum Plan' for Black Americans",
-      "excerpt": "President Donald Trump unveiled a plan aimed at winning over Black Americans on Friday, less than two months before Election Day, largely expanding upon the existing economic-related initiatives the President established in his first term.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923212353-01-trump-presser-0923-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html",
-      "publishedDateTime": "2020-09-25T13:48:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-09-26-karen-pence-rallies-with-evangelicals-in-holland.md",
       "title": "Karen Pence rallies with evangelicals in Holland",
       "excerpt": "Second Lady Karen Pence rallied in Holland Friday in an effort to energize the evangelical base which played a key role in elevating",
@@ -1326,6 +1270,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-donald-trump-vs-meghan-markle-4-times-the-president-has-slammed-the-duchess.md",
+      "title": "Donald Trump Vs. Meghan Markle: 4 Times The President Has Slammed The Duchess",
+      "excerpt": "Donald Trump’s recent comments about Meghan Markle are only the latest ones he has made which appear to levy criticism at the Duchess of Sussex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236",
+      "originalUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/24/donald-trump-vs-meghan-markle.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-meghan-markle-4-times-president-has-slammed-duchess-3051236?amp=1",
+      "publishedDateTime": "2020-09-24T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

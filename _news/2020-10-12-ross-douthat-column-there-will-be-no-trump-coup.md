@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-n
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJNV5QQJ44I6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Supreme Court temporarily allows Trump administration to end census head count"
+    excerpt: "The early completion date likely will result in undercounting racial and ethnic minorities and others in hard-to-reach communities."
+    publishedDateTime: 2020-10-13T22:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/2020-census-supreme-court-lets-administration-end-head-count-now/5975298002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5975298002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5975298002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/29c99289-a9bf-437a-8521-d282b629793c-GTY_1228773157.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "On Columbus Day in 1963, Trump marched up Fifth Avenue in New York City’s parade"
     excerpt: "When Trump was a 17-year-old senior at New York Military Academy, there was no talk of Indigenous People’s Day, no beheading of statues and no pandemic canceling parades."

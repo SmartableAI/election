@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch live: Biden delivers remarks in Ohio"
-    excerpt: "Watch live coverage as Democratic presidential nominee Joe Biden makes a campaign stop and delivers remarks in Cincinnati, Ohio."
-    publishedDateTime: 2020-10-12T19:32:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-delivers-remarks-in-ohio-93675589765"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93675589765"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93675589765"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_ohio_remarks.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ys/6thLWwBp7h96P6Q8w5rKWFonmJCqGKsv8f+btV4WaE3NClh497fq/GBfX6YgwwsDenphjDZ7J08gtCwk993wE/ooEhOmnA0F7SxaOJeyadLsPNlN0HIj9cCL+j9N6GvfPuPqN0MLv0+nG8F2ZeG4/IC4BuHmZu5aDhWKTnos1+VphOTkfXBhuZsgl0jRO/VTknhChFCMqJm0Tc+KV6swP9ke7TPwW/n1fLsAy7GuTBhgrm1pgL0RnxxOC8ZyUS5DReUqytlNUKkeqI8SYfzzI51bkhB+wKnrrnspzkwDDSXCBw48pgdkrTb80HGAc8sqjIzgHNEAJLRgo5ysDlRh4QwChlu0ajWkJ1TNX++6/KtlshKDMyehzZa4BIOX/WIgkuvCPfuzd79U9eInzNARqoenTsWQfxauqWcvPaB/iCAQIzRSVeiQEGc6RrrYvxs/EPDBmIKErMYh3krgTefJMdzwSiGHTrhL51gJaFUHl8WVewYyi6S8afg73Jwn+xDvD3FpE1C21dC6A8nOrmw==;EcRgYAF/JI810m1beZFG/A=="
 ---

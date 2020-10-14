@@ -665,6 +665,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. Supreme Court Ends Democratic Lawmakers' Anti-Graft Lawsuit Against Trump"
+    excerpt: "The Supreme Court on Tuesday put an end to a lawsuit brought by congressional Democrats that accused President Donald Trump of violating anti-corruption provisions in the U.S. Constitution with his business dealings."
+    publishedDateTime: 2020-10-13T23:32:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-ends-democratic-lawmakers-anti-corruption-lawsuit-against-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
   - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
     excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
     publishedDateTime: 2020-10-07T00:29:00Z
@@ -682,6 +693,6 @@ related:
         height: 627
         isCached: true
 
-secured: "AWKotF837ehw4Ps8MguAy1YAjoiS/5s2cwaObQxtR8H+B4H3lBV4PVs8HMFqto+fKYonTSFQvwMcPxyn00sBUemOvE+yKH0Vmel+YPOkCEjleCODkq2vZTIjN6ZlPlwisQslEt1O9pK1/KPUzyt9YEXXk15gQ2YQ8WdDsewJHSNrUMNf2clHNJP3QWeiWqLA6ltC8F/AtYrb+/pdw8eQK9X3oWWgBpvxzuNb+zgHslofGt9cU2tsDW38E5rg57UpFWSS0VWyyQHYkf2UmUj+y3uiJz5+bJ0twfPOkhbip3YWF1mmFTJoPiJ5T48PfUGap+RM9RFPyh+XCL1VWknEPql0v7cOihTAGPSJGfJGP7M=;yGbmxvKoZlfy1vSjGZO94g=="
+secured: "DnjuL8C5fb3uHpMzor4jGaCkaKyIuU29WKSvV4aI4WpekJmOxtmgyS3z5lxa7+7WKN3wwzPKBr+uQ6KpM36UB2fl7VZ1rhRlo4OF8k40TYz7f0o6GBvG4pWDkamACeCNl5nFH7O3tSc9eGA7cx+OEGFTIw0yWJxKRs4rLqlGyO1iB8e3d5h5ZB50iOBz3vyqyd6/YmsqA9w6eBr7Yuw4R+Y858Egl5nq+ri0wEaVPekGCVZNXvLU5nvHRCAlp0aHA+maaGJucsDS7mEbiEJkndWDus/8KFnZ6WITBk8sHcno/+vimyZyFi0YAzrahptc/fyvCRLfJhuFCApnkG64S7+GJpjBgD0mD+aAOB/S9PyRA36mobk3+bYKb2vfi/Pj8VhHNtUlP/F3k2//O/JD1KFlp4GUc+R8WqYs4IRFrDoGs6ADaGHKkeOvZCLGc5JevH4YRcl1Z6ZP8KQDETlZ0WB1zqYj20WHyzh/xjCoFNI/bwASlOsE5LlQ0qO5Afj+nn1n1h5VnFnsXtBV1fjdXw==;0Z66A0I/AQ54OB1+efZchw=="
 ---
 

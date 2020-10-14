@@ -57,6 +57,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's first public address since COVID-19 diagnosis had hallmarks of a campaign event at the White House"
     excerpt: "White House spokesman Judd Deere said the event was an \"official\" event, and \"the campaign is not involved in this.\""
     publishedDateTime: 2020-10-10T21:23:00Z
@@ -100,6 +116,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Donald Trump Did Not Win This Year's Nobel Peace Prize"
+    excerpt: "President Donald Trump didn't win this year's Nobel Peace Prize after scoring another nomination from his supporters. On Friday, the Norwegian Nobel Committee announced that the prize has been awarded to the U."
+    publishedDateTime: 2020-10-11T03:42:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
     excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
