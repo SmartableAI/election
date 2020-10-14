@@ -376,6 +376,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump, Joe Biden to hold competing town halls Thursday instead of a debate"
+    excerpt: "After a canceled debate, Trump will meet with voters at an NBC town hall in Miami while Biden does the same at an ABC event in Philadelphia."
+    publishedDateTime: 2020-10-14T13:19:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/10/14/donald-trump-joe-biden-hold-competing-town-halls-thursday/3649396001/"
+    ampWebUrl: "https://amp.freep.com/amp/3649396001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3649396001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence attacks Biden's economic vision: 'Day One Joe Biden is going to raise your taxes'"
     excerpt: "Vice President Mike Pence on Wednesday delivered a blistering critique of Joseph R. Biden’s economic vision, warning that the Democrat is poised to raise taxes and enact policies that would cost hundreds of thousands of jobs."
     publishedDateTime: 2020-10-08T02:37:00Z

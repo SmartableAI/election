@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 4108
+heat: 4128
 published: true
 
 provider:
@@ -1214,6 +1214,22 @@ related:
     quality: 181
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0b4ffc97-e106-4ffb-b303-717a227738f8/2160ddeb-4a0e-4645-87d8-6ef8610e8ff2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump heads to Iowa as Biden holds virtual campaign fundraiser with 'The West Wing' cast"
+    excerpt: "With the November election just three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden are making their final pitch to voters in vital swing states."
+    publishedDateTime: 2020-10-14T12:19:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/J7vMnQcsZW8/trump-iowa-biden-virtual-fundraiser-2020-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-iowa-biden-virtual-fundraiser-2020-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-iowa-biden-virtual-fundraiser-2020-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

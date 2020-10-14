@@ -95,6 +95,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "VzRvVpKVTyORxyUQY3jqSOCdhk5j3HWkvlLqvNublYAdC7Z0PBDANTzLw3jUuxHbxfVZQ8YjHtWitBfk1/ghLA0THyDHLE9nPpg+O/YmLd7aKnr8Bud9Tling6gsOzyPzZ/0HBqrRsnav/bkRf2r8nOar4sfTyeDMpaw3zIhjbycK7mrtwDY4I0QylMj96QjWXpZIeOntZN5Jz7cW3sEf/FLCpdkmfiFV5moL+TqeIn5VXnrOpTD/GD1bYPrN7IHV/PnbVm6XkA9KilN6AZ3cBYB2oGTH7LmU3Ec1WrIuAciupuingyQ11dDXH4r8K0/90ty/pDnOOjK6Yy4xmuLvyHw16NVhc8tiSFyNDF87hs=;Y33OD7FgdM/waMtl6zMNWw=="
 ---

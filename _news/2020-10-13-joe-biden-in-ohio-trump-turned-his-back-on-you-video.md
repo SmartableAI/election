@@ -966,6 +966,36 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
+    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
+    publishedDateTime: 2020-10-14T11:39:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 114
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Democratic presidential nominee Joe Biden leads President Trump nationally among seniors"
+    excerpt: "Several polls have former Vice President Joe Biden ahead of President Trump among senior citizens and voters over 65 years old. Ben Tracy reports."
+    publishedDateTime: 2020-10-14T13:08:00Z
+    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-leads-president-trump-nationally-among-seniors/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 111
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/14/6a076afd-bd1a-46f2-a755-59c90c42967d/thumbnail/1200x630/bbfeb471a720237168ecfd9f277fcff7/cbsn-fusion-democratic-presidential-nominee-joe-biden-leads-president-trump-nationally-among-seniors-thumbnail-565702-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
     excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
     publishedDateTime: 2020-10-06T11:57:00Z
@@ -1475,6 +1505,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Free Press poll: Joe Biden up by 9 points in Michigan, Donald Trump stuck in neutral"
+    excerpt: "Trump has been stuck at around the same level of support and been unable to break through against his Democratic rival according to the polls."
+    publishedDateTime: 2020-10-14T10:07:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/14/trump-biden-free-press-michigan-poll/3638236001/"
+    ampWebUrl: "https://amp.freep.com/amp/3638236001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3638236001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/media/2017/11/15/DetroitFreeP/DetroitFreePress/636463403819050776-trump-biden.jpg?auto=webp&crop=4000,2260,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Joe Biden: 'Throughline from President Trump’s dog whistles' to Whitmer kidnapping plot"
     excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
     publishedDateTime: 2020-10-09T03:16:00Z
@@ -1570,6 +1616,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/smith-perrine-1-791x430.jpg"
         width: 791
         height: 430
+        isCached: true
+  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
+    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
+    publishedDateTime: 2020-10-14T12:14:00Z
+    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
+    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 77
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
+        width: 1024
+        height: 741
         isCached: true
   - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
     excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
@@ -1950,22 +2012,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 65
-  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
-    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
-    publishedDateTime: 2020-10-14T11:42:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 64
-    images:
-      - url: "https://www.baltimoresun.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "In year of surprises, a win by Joe Biden should not be one"
     excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
     publishedDateTime: 2020-10-07T13:54:00Z
@@ -2096,14 +2142,14 @@ related:
   - title: "President Donald Trump departs the White House"
     excerpt: "United States President Donald Trump departs the White House, headed for a political event in Johnstown, Pennsylvania on Tuesday, October 13, 2020. Photo by Chris Kleponis/UPI"
     publishedDateTime: 2020-10-13T22:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/65f743de2b0617eb464759e6a3902b28/President-Donald-Trump-departs-the-White-House/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c51f119c45d2f5578adac1b361ef9fb4/President-Donald-Trump-departs-the-White-House/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/65f743de2b0617eb464759e6a3902b28/TRUMP-DEPARTS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c51f119c45d2f5578adac1b361ef9fb4/TRUMP-DEPARTS.jpg"
         width: 650
         height: 433
         isCached: true

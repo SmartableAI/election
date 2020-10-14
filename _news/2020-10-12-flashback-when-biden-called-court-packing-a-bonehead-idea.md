@@ -156,6 +156,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Why Hasn't Joe Biden Said No To Democratic Threats To Pack the Supreme Court?"
+    excerpt: "Will Joe Biden's stubborn insistence that Americans \"don't deserve\" to know where he stands on packing the Supreme Court cost the Democrats in the Nov. 3 election? Yes. At issue are numerous Democratic threats -- if they win the White House and control of the Senate -- to increase the number of Supreme Court justices and ram liberal policy into law that they otherwise couldn't dream of getting through Congress."
+    publishedDateTime: 2020-10-14T13:45:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/14/why_hasnt_joe_biden_said_no_to_democratic_threats_to_pack_the_supreme_court_144445.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/14/why_hasnt_joe_biden_said_no_to_democratic_threats_to_pack_the_supreme_court_144445.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/14/why_hasnt_joe_biden_said_no_to_democratic_threats_to_pack_the_supreme_court_144445.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/52/524046_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
     excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
     publishedDateTime: 2020-10-07T13:30:00Z

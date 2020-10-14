@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
 type: article
 quality: 123
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "6gqWFHtpPXnXk8sk5SlN/tcg8iX4t50ZB3h97tgdQQCF5izo3YxXxeR/xsSZkFVWTyojfNgd/OEKko4gFnKZOLC1VlDgezYEl8tT3YG45Idg7hhE8M51yni3TUW31e+2ljs3lvx8phYFvcnsufAZWTZ+yWQNB69TY5NEFQZsYNZPEA1xY9l+vOrS5W0w+zqEhK8NDl0vWXKQUnWNH9QZVh/Zb+vJTvQ6wqOO4h8viDEL1tbZhMskUq6hPFl0X9EaiO6zmoknTgLnMpidFJHAdpUP0l2WvKduWTG+miEhnOT20uFIsgbu3BvgDRTAaD/p8B81DOCA1/fPFX0rPc4p9JlnHrl0vp8hkL8Y+9euaPo0Nz9TRMBD3AiJxZVHjeKPjF2li2mWD0aGyrT8uUYOEKbF6KxEJFRpXlysfJ+ZIK6GwmUcZn2PbD+qkjWvV7h0vCT5x2DsmwWd6AW/69np3udm1Fgk2UI3temnQ3FYYsEwJN8unPYkO4HqpLvF+O5FzXGwmFvIQcB9ve7zND7w4A==;R2pDoCc6SvBB3T7M6zDs2Q=="
 ---

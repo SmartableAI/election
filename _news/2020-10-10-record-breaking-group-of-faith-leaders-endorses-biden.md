@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-o
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5f81d732642e9400180b52ca?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Finance 202: Joe Biden's tax plan would barely dent growth, conservative group finds"
+    excerpt: "President Trump says Joe Biden’s tax plan would bring about a depression and destroy the country. Independent studies have found no support for that claim. And the latest, an updated examination of the Biden proposal from the right-leaning American Enterprise Institute,"
+    publishedDateTime: 2020-10-14T12:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SXMCJFAN2QI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 983
         isCached: true
   - title: "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts"
     excerpt: "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said."

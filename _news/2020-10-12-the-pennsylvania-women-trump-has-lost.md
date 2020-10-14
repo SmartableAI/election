@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 435
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Virginia governor says Trump's rhetoric emboldened foiled kidnappers"
+    excerpt: "Virginia Gov. Ralph Northam on Wednesday said President Donald Trump's rhetoric is \"emboldening\" white supremacists such as the individuals involved in an alleged plot to kidnap him and Michigan Gov. Gretchen Whitmer.\n    \n"
+    publishedDateTime: 2020-10-14T13:41:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SzYu4eRFGO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190204192854-04-northam-presser-0202-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's doctor says the President has tested negative on consecutive days"
     excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
     publishedDateTime: 2020-10-12T23:39:44Z
@@ -60,6 +76,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump continues dishonesty bombardment at Pennsylvania rally"
+    excerpt: "President Donald Trump has returned to the campaign trail with all of his usual campaign dishonesty.\n    \n"
+    publishedDateTime: 2020-10-14T13:12:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPtUa3640eM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013201442-01-trump-rally-pa-1013-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

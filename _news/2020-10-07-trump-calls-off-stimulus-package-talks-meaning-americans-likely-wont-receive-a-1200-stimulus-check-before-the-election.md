@@ -440,6 +440,22 @@ related:
         width: 4432
         height: 2497
         isCached: true
+  - title: "South Florida Worker Suspended for Flying Trump Flag From Government Truck"
+    excerpt: "A Florida municipal worker was suspended without pay for flying a flag supporting President Donald Trump’s re-election from his government truck"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/"
+    ampWebUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 73
+    images:
+      - url: "https://media.nbcmiami.com/2020/09/Trump-flag.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
     excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
     publishedDateTime: 2020-10-05T03:18:00Z
