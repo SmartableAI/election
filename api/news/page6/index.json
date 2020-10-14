@@ -2,6 +2,214 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-09-trump-hits-back-at-pelosis-25th-amendment-move-says-her-real-target-is-sleepy-joe.md",
+      "title": "Trump hits back at Pelosi's 25th Amendment move, says her real target is 'Sleepy Joe'",
+      "excerpt": "The White House pounced on Speaker Nancy Pelosi's 25th Amendment talk Friday, hitting her for her own mental fitness for office and also suggesting she was trying to target Democrat Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGHDYKpM_Ao/trump-pelosis-25th-amendment-move-dem-target-really-sleepy-joe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGHDYKpM_Ao/trump-pelosis-25th-amendment-move-dem-target-really-sleepy-joe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T09:52:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.md",
+      "title": "Fans want Jeff Goldblum to play ‘the fly’ on Mike Pence’s head on ‘SNL’",
+      "excerpt": "Senator Kamala Harris and Vice President Mike Pence’s vice presidential debate was broken up into nine segments with topics ranging from the Covid-19 pandemic to climate change to the economy. Though,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html",
+      "originalUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/6JE352O3GVGF5I3VP5IVMPMVFA.jpg",
+          "width": 4958,
+          "height": 3487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/10/fans-want-jeff-goldblum-to-play-the-fly-on-mike-pences-head-on-snl.html?outputType=amp",
+      "publishedDateTime": "2020-10-09T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-donald-trump-is-a-tyrant-and-not-your-friend-says-suspect-in-governor-whitmer-kidnapping-plot.md",
+      "title": "Donald Trump is a 'Tyrant' and 'Not Your Friend', Says Suspect in Governor Whitmer Kidnapping Plot",
+      "excerpt": "\"Trump is not your friend dude and it amazes me that people actually like believe that,\" Brandon Caserta, one of the men charged with conspiring to kidnap Whitmer, said in a video posted to Twitter by American producer and director Robby Starbuck.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821",
+      "originalUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1648606/gretchen-whitmer.jpg",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1",
+      "publishedDateTime": "2020-10-09T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
+      "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
+      "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "originalUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/3-wishes-fly-wig-.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/halloween-store-selling-wig-bug-mike-pence-debate.amp",
+      "publishedDateTime": "2020-10-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-bidens-first-step-on-taxes-may-be-cracking-down-on-cheats-democrats-say.md",
       "title": "Biden's first step on taxes may be cracking down on cheats, Democrats say",
       "excerpt": "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate.",
@@ -386,7 +594,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 342,
+      "heat": 402,
       "tags": null,
       "images": [
         {
@@ -659,7 +867,7 @@
       "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1137,225 +1345,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.md",
-      "title": "AOC to VP Pence: ‘It’s Congresswoman Ocasio-Cortez to you’",
-      "excerpt": "U.S. Rep. Alexandria Ocasio-Cortez appeared to be closely watching the vice presidential debate Wednesday night, tweeting several responses to comments by Vice President Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1YEsGrTirgU/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Pence-AOC_AP-Getty.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-to-vp-pence-its-congresswoman-ocasio-cortez-to-you.amp",
-      "publishedDateTime": "2020-10-07T21:07:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-to-you.md",
-      "title": "AOC Corrects Mike Pence During VP Debate: 'It's Congresswoman Ocasio-Cortez to You'",
-      "excerpt": "Cortez tweeted to Vice President Mike Pence as he referred to her as \"AOC\" during his debate with Senator Kamala Harris. \"It's Congresswoman Ocasio-Cortez to you.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301",
-      "originalUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1647767/rep-alexandria-ocasio-cortez.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/aoc-corrects-mike-pence-during-vp-debate-its-congresswoman-ocasio-cortez-you-1537301?amp=1",
-      "publishedDateTime": "2020-10-07T21:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to-debate.md",
-      "title": "Pence targets Biden over ISIS hostages, brings family of executed aid worker to debate",
-      "excerpt": "Vice President Pence invoked slain ISIS hostage Kayla Mueller on Wednesday as he sought to tout what he described as President Trump’s foreign policy accomplishments in his debate against Sen. Kamala Harris (D-Calif.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
-      "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 782,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to?amp",
-      "publishedDateTime": "2020-10-07T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-a-fly-landed-on-mike-pence.md",
-      "title": "A Fly Landed on Mike Pence",
-      "excerpt": "A local TV news reporter from California clocked the fly’s screen time on Mr. Pence’s head at 2 minutes, 3 seconds. While Mr. Pence spent most of the 90-minute debate avoiding direct questions posed by the moderator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "publishedDateTime": "2020-10-07T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

@@ -64,14 +64,14 @@ related:
   - title: "Joe Biden campaigns in battleground Florida"
     excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-14T05:00:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201014034120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+    webUrl: "https://www.cbsnews.com/live/video/20201014064120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07244490_1602647045.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247382_1602657844.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -189,6 +189,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden delivered remarks in Pembroke Pines, FL on his campaign's policy proposals affecting senior citizens."
     publishedDateTime: 2020-10-13T23:25:00Z
     webUrl: "https://www.c-span.org/event/?476884/c2020-joe-biden-delivers-remarks-senior-citizen-policy-fl"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Florida"
+    excerpt: "Democratic presidential candidate Joe Biden speaks at a voter mobilization event in Miramar, Florida. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati."
+    publishedDateTime: 2020-10-14T00:11:00Z
+    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-speaks-voter-mobilization-event-florida"
     type: article
     provider:
       name: C-SPAN

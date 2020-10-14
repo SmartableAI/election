@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
 type: article
 quality: 155
-heat: 2875
+heat: 2895
 published: true
 
 provider:
@@ -414,6 +414,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/dcskaC9ANlmN76VeWgkvsX--0NQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2WQI32VOHZD4VHOZP447C3LXK4.aspx"
         width: 1200
         height: 819
+        isCached: true
+  - title: "As he pleads for seniors’ votes, Trump tweets a meme mocking Biden as elderly and disabled"
+    excerpt: "The president on Tuesday night shared a meme of Joe Biden Photoshopped into what appears to be a nursing home, sitting in a wheelchair and surrounded by elderly people."
+    publishedDateTime: 2020-10-14T07:48:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUJDSHANRUI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe"
     excerpt: "President Trump's America First policy has done serious damage to the United States' longstanding alliances."

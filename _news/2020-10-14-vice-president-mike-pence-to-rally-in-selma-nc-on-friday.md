@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former Ohio State QB Cardale Jones says his presence at Vice President Mike Pence's rally in Columbus is not a political statement"
+    excerpt: "Vice President Mike Pence made a campaign stop in Columbus on Monday and gave a shout out to former Ohio State QB Cardale Jones,"
+    publishedDateTime: 2020-10-12T19:58:00Z
+    webUrl: "https://www.usatoday.com/story/sports/ncaaf/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-mike-pence-rally/5971673002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5971673002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5971673002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/NCOD/37bc8937-e0d5-424e-8b6a-18133a358b79-pence_inside_ac_02.JPG?auto=webp&crop=3384,1904,x0,y243&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence to visit Phoenix on Friday"
     excerpt: "Vice President Pence will be headed to Phoenix to participate in a Libre Initiative Roundtable for Hispanic Heritage Month, according to White House officials. He will also take place in a Veterans for Trump event before returning to Washington D."
     publishedDateTime: 2020-09-14T14:32:00Z
@@ -155,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence headed to Selma, NC for MAGA event Friday"
+    excerpt: "Vice President Mike Pence is returning to North Carolina for another campaign event. Pence is scheduled to arrive in Selma, North Carolina, on Friday Oct. 17. The event will be held at The Farm at 95."
+    publishedDateTime: 2020-10-13T18:21:00Z
+    webUrl: "https://abc11.com/mike-pence-selma-north-carolina-campaign-event-the-farm-at-95/6998777/"
+    ampWebUrl: "https://abc11.com/amp/mike-pence-selma-north-carolina-campaign-event-the-farm-at-95/6998777/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-selma-north-carolina-campaign-event-the-farm-at-95/6998777/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7001601_101320-wtvd-4pm-Pence-event-Selma-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
     publishedDateTime: 2020-10-10T08:16:00Z
@@ -191,7 +223,21 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Bern Township police, Berks County sheriff’s office prep for Vice President Mike Pence's visit to Reading Regional Airport"
+    excerpt: "Bern Township police, the main Secret Service contact for the event, and sheriff's deputies and others will gather to be briefed prior to the VP's arrival."
+    publishedDateTime: 2020-10-14T02:30:00Z
+    webUrl: "https://www.wfmz.com/news/area/berks/bern-township-police-berks-county-sheriff-s-office-prep-for-vice-president-mike-pences-visit/article_384b830c-0db6-11eb-a621-b3f6aa913886.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/f4/8f4c415c-c5d7-5113-8533-53d1f7b22f17/5f866a3ebb535.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
-secured: "7RAYXtnA6JHQB4S244nzQxFl/ePi4MsWpXPqmJuCGnYNo1D+6dmZQO+XCSZhriFlvpyBvEfkqJgsuNI73F6Sbj2eP2cGnKNSrpVp8O3scyd0IgHfRiad2qUhTO8rdfVe3rM5Tf+rlVX32Vudy1h7FTY31zYfeJAmx4+DUXS54qYZcB1NKF782T8Z3Yur9H5Ks5KAJ9oo9bNPiC4/m32OKXAov+IeCSRXDiHUaA1NwvWlKC1HxmrefkNiw79mKXbDrQDx70Fm8PWFzE26xpxIsivkrIlGpcs/0fDFtqt9iX4PSOGD1O1W1cdPLzl8pacruDbJYzDD3s3CNhV+7jjMkDndYsevoF9gkNdnzEyH8X0=;vnUAP53bdnwkzje4ebwqKQ=="
+secured: "1D/rMKZFrDLBmSgVduBZMHnOZJfvejXFtT4YnFkhLAKBexElgSDF03pR9aEulT/yyYooB9XOuYnfR7KIfWJBJry4ZW33x+Vj3YLT53H3urxoOoTTjSD1EioCtqKu/mEyy3R6ookVl1Av1sepe5iPtOGcHvF08/EW8WObCi6DD2RQnkQLztthK5y6tFLxZURCraplbomp3GgxIxgn4MhlSetpSvQFv892GM3jCojlwlpiFnZf7dZ2t+U53jJJ486LoI4DP9M/X/aafFAOvK2sycLX5aVdyRzUYSyV6yO19b4/VHIBNCvH7W5g6PZFqkDC3Owy4mLshdOtOguzOKBck3IgRzg4N4jEywScfIfr9PNkCBw2OGnQ8902BNBU1onnsLfvBwPr3KxXBphRKvaieuHI/jSE5nSrzX06JEnZ0RI2jm9RBIyBsiblT6qan5qzzl2Tkjyhmrjeqm86iLaGVUpkBVw1r+Z3OebHZfaiz9djdK2/7QnVvdJWfjlEq2QeflEyBIfu1HLWGK8M+vG7dA==;zZe+4sKR8+bQTr2nNnwFng=="
 ---
 

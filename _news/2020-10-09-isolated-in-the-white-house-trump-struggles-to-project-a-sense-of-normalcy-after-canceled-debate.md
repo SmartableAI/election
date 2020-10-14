@@ -170,6 +170,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Supreme Court Allows Trump to Wind Down Census Early"
+    excerpt: "The U.S. Supreme Court on Tuesday allowed President Donald Trump's administration to wind down population counting for the 2020 U.S. census earlier than planned, in a blow to civil rights groups concerned about an undercount,"
+    publishedDateTime: 2020-10-14T07:22:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-allows-trump-to-wind-down-census-early"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "RwVxywsW1IjpzyeytjR8qp3N8hMAsJ+7jabrmGPLaVvBHyjy4Kyl9QSFIBNplYjD0C4eDl0LbFQ1KbVnAicO+RrYKAK1CCk/LwjIqcNel8NpEEQw5ygJPRQNYIVKeDy/mhK8kSxLh2tbhtS3Mo3zE8yidI4DkY/V1ETlwus6BlV9UsYuIEVZgxPhNPGzo4tCKPDArDGhe77I57odDsODWWkfqUSfHKCjZh37kJ1nc7lAA333jQM5y6dduFW8gnUFFgThaTvtfZ7LEH536fqtUnyLRnBtkSrglg9xlQJo3SDlRl0zREBPCyCaw+Bv2TPvTLL+2XbfRxp/ogcboDyOeBIRm5vfPUJtZYAktHFYg2/4JABAeZOO+zOy8ovpbkoS4nNqRvc2ELNtsZJoysI3p0F4ldqyci1XEyoUv6S+ulYviOysAvFdFd96BQQFCbNPYU+DW8oUPhU7q7B/siAh81zjFA1escamECAawptgOtSljmVEOqEyPJqZrt3N+fZH3CJ5u55sid+HhhD6U60zIg==;R3wkyIpfqaLuCX9zc0Vr1w=="
 ---

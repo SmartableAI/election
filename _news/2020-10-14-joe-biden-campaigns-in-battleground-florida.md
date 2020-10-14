@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden campaigns in battleground Florida"
 excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-14T05:00:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201014034120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
-webUrl: "https://www.cbsnews.com/live/video/20201014034120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+originalUrl: "https://www.cbsnews.com/live/video/20201014064120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+webUrl: "https://www.cbsnews.com/live/video/20201014064120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07244490_1602647045.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247382_1602657844.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -194,7 +194,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Florida"
+    excerpt: "Democratic presidential candidate Joe Biden speaks at a voter mobilization event in Miramar, Florida. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati."
+    publishedDateTime: 2020-10-14T00:11:00Z
+    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-speaks-voter-mobilization-event-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "vw/c3wrv12u3CF8P1jOUAMOvzAhlM6IMVb7TcputwFGdcXmP9tJNdCXuBOiKJSyHOMOjgEKd8vdkT17NsRDy0BR0XSui02xFSLy9HjDLs/pcfmc4CZ9Bs8CWLLYJN/auOq6nK74/KkE8BmzfWz7pgRO6WTUXey+PQfQRed6usOp4kinykNPxQnyXOO52WmmINWxI2plV2kFAOgswHvhxvraAtfNPtQ5/p2ZYxoPhnJFleT3fpieABY+RT8G2v4Frw0ELQE/ryaBJfk6/wkPPNILIZiZEx1lTOdzB3qVWKbuXRa3kysOsMnVE7u8meYg61Ehf/S4FQBt4ZGK0CsBkBghtInbc4jKfYy2AUiT202U=;V+DgMo3k9o70zFz3F9A4Nw=="
+secured: "ql0warSQpSCERQyvBudk1AV981kkZX7tQmIpgfknyI3BPw0DnigDSKZvLrZLmAST2WqDmo32c2/Ft+znIp4Gb7kYGLqbdVTHUVFIu5h445V9m6DdejM5HdELZDboDx2Y6b1l0pyrvg/B4DYXd7buEzbqN5B46ROkU0we0CdxaGCFNEwnJs10SbCFUXv04a2gdS1A+U9vaE8/R0CIaYt5aivNmmDnIeP7+awriOAFicGppecrf027y1HGg4u92geC57sdKKmqQjiu/C5r472oXeVJR1kg+EuhCTeEX/wAa7MRVe98b5WHR2vMVno/MuaPGfypQYa+vvcda145hbPHjdMsVr4aqOczD/IP859RDyA=;ML7icW2L7sQFMR/4+NuzvA=="
 ---
 

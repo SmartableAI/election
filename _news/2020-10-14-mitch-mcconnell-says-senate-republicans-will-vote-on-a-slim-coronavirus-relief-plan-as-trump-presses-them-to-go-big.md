@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
+    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
+    publishedDateTime: 2020-10-14T07:37:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VRbMHlD97KOiovS1rNoZ73a86xeqlOwm5fcdGpDt51DAan/KIti7/omp4IcG0/FGrOO6psdD1+f2H43lP7vyZOcy9x99ZsbFS6BBaKLg9SK8FXkRb74PjgBmsFg++JfZJwZr0PyNOt6YY2xi2DEhgqdwQRZ+okv0zDilRoBLHNfzHZLlydaC6OfgGSQ2p2VvtfV9AU/bPh5ypixQEq4rxprtBn8x9KnEN5Q0Khev4UPHLBrhlmvQY4li6IUuRdMvajg3JJhanFNj+hF8X2mCOm0KmVFgJMKbwCyBegorAFFLXDQHhRWsJETovirrbu18MUafSmUX+lAyRCFK4J/qu2PT/1KLB83VbLWNbNRPfCLlfVliftdtUhrCSjd4CI4nmFEzn9t3cvMP3iE5cIDqBV+igmhRLyGzikI1x+6gw9hiKvSD85fZmn/p7yw56UCI5nxMQ5RPuKmTk1dKwNPYY+prlvOrKMK1QOepsEvqP/jtVaaMJ2hmt1eJ0publz5/0tliYc9R41htoudl8297jw==;p2N/QwnlnX4d6FhD+xSJvQ=="
 ---

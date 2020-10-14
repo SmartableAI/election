@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-09-29-pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing.md",
+      "title": "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing",
+      "excerpt": "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing-92734533538",
+      "originalUrl": "https://www.nbcnews.com/video/pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing-92734533538",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_dc_pence_cases_rise_200928_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92734533538",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533538",
+      "publishedDateTime": "2020-09-28T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-engage-or-proceed-debating-trump-the-unpredictable-aggressor.md",
       "title": "Engage or Proceed? Debating Trump, the Unpredictable Aggressor",
       "excerpt": "Joe Biden has the scouting report of the president’s past debates and four years in office. One way to use it? Respond to unpredictability with a simple, “Here’s my stability plan.”",
@@ -1633,63 +1690,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.md",
-      "title": "Trump will go to Pittsburgh and Pence to New Hampshire as Harris visits Flint and Detroit.",
-      "excerpt": "Delivers remarks at a campaign rally in a hangar at Pittsburgh International Airport. Afternoon — Tours small businesses that have been affected by the coronavirus pandemic in Flint, Mich. 4:30 p.m. — Participates in “Shop Talk” round-table conversation with Black men in Detroit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/us/politics/trump-will-go-to-pittsburgh-and-pence-to-new-hampshire-as-harris-visits-flint-and-detroit.amp.html",
-      "publishedDateTime": "2020-09-22T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

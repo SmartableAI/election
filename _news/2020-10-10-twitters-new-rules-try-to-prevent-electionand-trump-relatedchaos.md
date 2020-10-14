@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rul
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
 type: article
 quality: 140
-heat: 320
+heat: 340
 published: true
 
 provider:
@@ -170,6 +170,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 54
+  - title: "Supreme Court Allows Trump to Wind Down Census Early"
+    excerpt: "The U.S. Supreme Court on Tuesday allowed President Donald Trump's administration to wind down population counting for the 2020 U.S. census earlier than planned, in a blow to civil rights groups concerned about an undercount,"
+    publishedDateTime: 2020-10-14T07:22:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-allows-trump-to-wind-down-census-early"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "4kABbK7LRMN57gq2owH3gwuGOiSkmje9iznzvqj5pfjiSu/rPaGVFJG1Wa8KDVHM6nWkIYMK1CzJUVIpbPmHDQTcpyMQc7x3CoyJp9GD6fJNyf4GJUGvPJJFKUud+btQSzPL9fN4ECR8Bh7uHtAXkZ0WC/1Ng+Z1YlJThGwrtywSV8iiucaKL5GibbCJNZWwI42LP/X5IvB0E8H0Nlbz68666MBLyHhblBSsbFqGyUwRsrqufIHDCO5NnB2vP1aoenUzAKY6iGXw9WgFEN92NCgRtf3XNzpUIjJzR7rJyZ278tTbU0EfQEYA8N4DBGmRfL27K6VQ2xSJzWf53jB+CqgDGk1LkCur0lfdW5DYy24=;tdFhXLa87ictj/wAXdFR9Q=="
 ---

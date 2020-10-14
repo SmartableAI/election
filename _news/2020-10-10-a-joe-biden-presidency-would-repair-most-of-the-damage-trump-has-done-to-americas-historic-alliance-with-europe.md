@@ -432,6 +432,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "As he pleads for seniors’ votes, Trump tweets a meme mocking Biden as elderly and disabled"
+    excerpt: "The president on Tuesday night shared a meme of Joe Biden Photoshopped into what appears to be a nursing home, sitting in a wheelchair and surrounded by elderly people."
+    publishedDateTime: 2020-10-14T07:48:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUJDSHANRUI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "It's not just Trump and Biden on the ballot. America's commitment to truth and democracy is too."
     excerpt: "The election will determine America's ability to contain the pandemic, heal the economy, retake our place in the world, and advocate for truth."
     publishedDateTime: 2020-10-11T13:35:00Z

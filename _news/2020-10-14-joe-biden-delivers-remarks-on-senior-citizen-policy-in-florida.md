@@ -54,14 +54,14 @@ related:
   - title: "Joe Biden campaigns in battleground Florida"
     excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-14T05:00:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201014034120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
+    webUrl: "https://www.cbsnews.com/live/video/20201014064120-joe-biden-campaigns-in-battleground-florida-ahead-of-election-day/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07244490_1602647045.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247382_1602657844.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -184,6 +184,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden appeals to members of the Latino community at a “Get-Out-The-Vote” event in Las Vegas, Nevada. Pete Buttigieg, a 2020 Democratic presidential candidate, spoke to supporters in Las Vegas after the close of"
     publishedDateTime: 2020-10-09T21:08:00Z
     webUrl: "https://www.c-span.org/video/?476841-1/joe-biden-vote-event-las-vegas-nevada"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Florida"
+    excerpt: "Democratic presidential candidate Joe Biden speaks at a voter mobilization event in Miramar, Florida. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati."
+    publishedDateTime: 2020-10-14T00:11:00Z
+    webUrl: "https://www.c-span.org/video/?476883-1/joe-biden-speaks-voter-mobilization-event-florida"
     type: article
     provider:
       name: C-SPAN

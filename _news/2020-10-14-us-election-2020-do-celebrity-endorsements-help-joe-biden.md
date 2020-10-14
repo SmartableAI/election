@@ -427,6 +427,22 @@ related:
         width: 1200
         height: 819
         isCached: true
+  - title: "As he pleads for seniors’ votes, Trump tweets a meme mocking Biden as elderly and disabled"
+    excerpt: "The president on Tuesday night shared a meme of Joe Biden Photoshopped into what appears to be a nursing home, sitting in a wheelchair and surrounded by elderly people."
+    publishedDateTime: 2020-10-14T07:48:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 130
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUJDSHANRUI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe"
     excerpt: "President Trump's America First policy has done serious damage to the United States' longstanding alliances."
     publishedDateTime: 2020-10-10T10:58:00Z
@@ -2057,6 +2073,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "QL4GIMzn236Ot8UvGp0P0A/NrWzbH5jf0Kh9yrLO7ovf4Mur4TvSFTR83b2qkFRZ5w7lIXuAZpFurcs+wAW4oQYorhclJYTfZvp1Gcx0RYHzREW5NIKoF18xhyIeDC4d1kug2ZyFYRq3QVx9lsWYvZRl+h2yumEvkycjF3Ktovr764KD3SAJ/Wq4BTspzKwMQNAFkRO2nb3/m5pIm3zFvyWK6SKw5iiU3e1GneOS7wJ0BS+FlZU3pLLQ7KTENpYWuGDqUfmWO5xsMksjFVjYOrZwYoxotQWe3e6fYU/nSzhE+pem2LHTqohtJqTiIPrrp30ogfgaaiwZgFfTRYAIczwweT6K2YXIBrk+Mniu5lM=;aqAsbBNSyPHk+heYZgn3Vg=="
+secured: "pKgfvbrLS8+JMqE76pyL+VLITUuP48YPqYokaJaAweZBVfskQVb8jM7PRIx641DGmJ+wPPMhtee7nuGq9KCCKK9FW66Q/YoXNmjzZXXaWs8IuTkRKroqZ8Io9fQAQrBGIxNd/0EgfFoRiVntnbwVOvYoOiOf/ly1YZSjbR+4tISf2IZjUfkCrEVUGmi1j6IgBemklJtmb7kWWdQqWRDDCVdQs6Ubx+EoGSKP5X6yaSFm19CBwI3EB2KoeKokZAegsCMS81rLDqCYUfvSfLUn9BT4YNDqmaDrkcKJeJ0qwzta2vf1PaEkQn/o1BVMYHI2uRqk/S3tn6N+d3R+BAYXY1UdzW+Z8+olbN53tGct/UxXmvKIKQhiuHiDLvHn5wMjEKGD/ng28sMHsu9tXFsRhQhnfBmMkt0TZJ3bFvw2kTcEvVbjUbY2fIb2fo2DlhQGWNVzjee+6tvDkCa4vQzRpSVXpNnLDQTWEKvMPQHtuTCXN0EMXHP/DDRGq/BMaEZCMLCjAc9UQNZP4cdfH4TVUw==;SzNin6tn7iHSlhSvKbkbsw=="
 ---
 

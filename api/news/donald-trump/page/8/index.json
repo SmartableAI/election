@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-19-behind-trumps-turkish-bromance-lev-parnas-oligarchs-and-a-lucrative-lobbying-deal.md",
+      "title": "Behind Trump's Turkish 'bromance': Lev Parnas, oligarchs and a lucrative lobbying deal",
+      "excerpt": "Turkey’s effort to influence the Trump White House began at the Watergate, in a meeting brokered by a figure from the Ukraine impeachment saga, Lev Parnas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3041266/191007-donald-trump-recep-tayyip-erdogan-cs-114p_e50a56b00063d241c350af03f1bc4205.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240374",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240374",
+      "publishedDateTime": "2020-09-19T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-current-events-electric-fence-deters-trump-sign-thieves.md",
       "title": "Current events: Electric fence deters Trump sign thieves",
       "excerpt": "A Massachusetts man tired of people stealing his Donald Trump campaign sign has come up with a shocking solution: an electrified fence",
@@ -711,7 +768,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
