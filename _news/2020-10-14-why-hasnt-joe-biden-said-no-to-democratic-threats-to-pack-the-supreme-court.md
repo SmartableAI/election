@@ -189,6 +189,6 @@ related:
       domain: realclearpolitics.com
     quality: 33
 
-secured: "5TVce+JTLeq5m5br4KTkFnx760u9stAPZkgQAONqht/Yf7mE/xQfy+aWZUyx3WEZSOe67nJPJvCCHLgVj5aJsB2OEoY0awmGwDs9bV/KqnaxDP1if8f9u5cKby6Ou/TzavCMMftZxeSypsTl6wZUW3jeBJIkAsVCNVLPjZaBzX2XtAih6ioOEyvJrTIVN48/Og2qOGrAGRr5gH+4+v1GNV54Zg2uRmqSOjjlGTmPw+Tb4V0Si/+XX/8cxySgRe2ccfxuIB+0fXDBlvJk2B58ygv967Y4djcURYnkn7T9rXunwQrbcbkVQ4SAwpwS4WhNcmT3upx5IcFJr59VEK0MFTimNKTD+8urv38XUOtiCQE=;PZs7ocQa+VWYPGpwbfWm4Q=="
+secured: "r7X/xOQVudiaEXqM+cV7C/isoOKBO/h+aealEdrdYVHKTxqX3FUkodSclaotTX2q7Zk43lPMaM/xBsc7sXRA+qb+tbiDP+5J0M1JCXrF7Iay4pRzY/9aAWTUkmyVF4dTys78Ektqx5NheD9Rx8Fij+nIJn59OKaJcMBpsthcwL8GFpE+6Sttp8oyDgJURBrVI7f+jnZ/hT2q5wZSdhsf5lE+LngfcXqnE0PfQlue/hy8O0CGMOo/Kg7vDXDAjuYobq3baF2YodyVXlhdVv4Ef8XKf21pgdsqCXG4m7F0d8OovBGcCV5gT3/cZWwm36WzF7e4sd7t09w6BmeVjZJ2CozH/UiKwBbKdj5Vvpkbsq8UDWSS/wRT+z/ePhwmY2Ycp3MzVZo61o6lCm7voAmk12dwaBS3HIVLd4qV7lDtcC9ogPffM0zvDvmEIE1pgNu+t3SgrdbqiIbkuyHVB/WtOWWdo23+TTN9WusxdpJD313fMyars/X+9CK+tbVHSTj+C2AHp4Nv36Jlfqv96cZ38w==;BUey8bYyVArXBc5eZEZ8GA=="
 ---
 
