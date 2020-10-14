@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
+    excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
+    publishedDateTime: 2020-10-14T14:59:00Z
+    webUrl: "https://www.foxnews.com/media/joe-biden-media-scrutiny"
+    ampWebUrl: "https://www.foxnews.com/media/joe-biden-media-scrutiny.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-media-scrutiny.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
     excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
     publishedDateTime: 2020-10-12T09:56:00Z

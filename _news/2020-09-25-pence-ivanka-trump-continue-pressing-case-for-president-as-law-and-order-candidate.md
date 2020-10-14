@@ -789,6 +789,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Meet The Billionaire Couple Who’s Donated To Trump And Biden"
+    excerpt: "There's only one billionaire couple that Forbes has found, who has donated directly to both Biden's and Trump's campaigns."
+    publishedDateTime: 2020-10-14T19:19:00Z
+    webUrl: "https://www.forbes.com/sites/michelatindera/2020/10/14/meet-the-only-billionaire-couple-whos-given-to-trump-and-biden-ronald-lauder/"
+    ampWebUrl: "https://www.forbes.com/sites/michelatindera/2020/10/14/meet-the-only-billionaire-couple-whos-given-to-trump-and-biden-ronald-lauder/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelatindera/2020/10/14/meet-the-only-billionaire-couple-whos-given-to-trump-and-biden-ronald-lauder/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84759dfed6b0ce6e552a14%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D0%26cropY2%3D1969"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -3172,6 +3188,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Would Joe Biden really manage COVID-19 better than Donald Trump?"
+    excerpt: "Joe Biden wants the election to be, in significant part, a referendum on how Donald Trump has managed the COVID-19 outbreak. Fair enough. COVID-19 was the big event in Trump’s first term, and there is a lot of valid criticism to be made about how he has responded."
+    publishedDateTime: 2020-10-14T14:47:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/robertrobb/2020/10/14/would-joe-biden-manage-coronavirus-better-than-trump-moving-forward/3641085001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3641085001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3641085001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/PMOH/8c65713e-8162-4144-ab9d-5e5ecaf77281-AP20274746652240.jpg?auto=webp&crop=5969,3358,x0,y306&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
     publishedDateTime: 2020-09-24T21:01:00Z
@@ -4095,6 +4127,20 @@ related:
       - url: "https://stmedia.stimg.co/ows_d15296a1-4229-4c53-870d-428a065d7c7c.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump, Biden Plan Dueling Town Halls Instead Of Scrapped Debate"
+    excerpt: "Donald Trump and White House challenger Joe Biden will duel for airtime in rival televised town hall events Thursday night, after their second head-to-head debate was scrapped following the president's Covid-19 diagnosis."
+    publishedDateTime: 2020-10-14T16:26:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-plan-dueling-town-halls-instead-scrapped-debate-3062130"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/their-second-head-to-head-debate-was-cancelled.jpg"
+        width: 1024
+        height: 725
         isCached: true
   - title: "Trump, Biden Zero in on Swing States That Are Key to Victory"
     excerpt: "With Election Day just three weeks away, President Donald Trump and Democratic challenger Joe Biden are concentrating on battleground states both see as critical to clinching an Electoral College victory."

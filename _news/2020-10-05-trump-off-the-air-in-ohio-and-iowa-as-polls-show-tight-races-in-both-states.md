@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Task force warns against small gatherings as Trump rallies with thousands"
+    excerpt: "The White House coronavirus task force expressed concern about virus spread stemming from small household gatherings as coronavirus cases rise across the country and colder months approach. The warnings come as President Donald Trump continues ignoring precautions as he gathers thousands of mostly maskless"
+    publishedDateTime: 2020-10-14T17:02:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVmjGsHcLbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013013829-us-coronavirus-coming-surge-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "With Covid back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
     excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
     publishedDateTime: 2020-10-11T08:33:00Z

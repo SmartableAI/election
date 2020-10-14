@@ -8,6 +8,9 @@ webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corn
 ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: The Raw Story

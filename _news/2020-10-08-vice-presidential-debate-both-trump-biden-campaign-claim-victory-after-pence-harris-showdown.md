@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 4128
+heat: 4228
 published: true
 
 provider:
@@ -673,6 +673,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Leading Trump in polls, Biden tries to run down the clock"
+    excerpt: "Most national polls have the former vice president maintaining a lead even in usually red-leaning battleground states like Arizona and Florida."
+    publishedDateTime: 2020-10-14T15:24:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JGmBF3cWaXQ/in-the-weeks-before-the-election-biden-runs-out-the-clock"
+    ampWebUrl: "https://www.foxnews.com/politics/in-the-weeks-before-the-election-biden-runs-out-the-clock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-the-weeks-before-the-election-biden-runs-out-the-clock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump super PAC spending $1M to target Biden over Antifa"
+    excerpt: "A super PAC backing President Trump’s re-election bid is taking aim at Joe Biden for what they say is the Democratic presidential nominee’s refusal to recognize “the threat Antifa poses to American society.”"
+    publishedDateTime: 2020-10-14T15:12:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7aItrAaD_Sg/pro-trump-super-pac-launching-ads-targeting-biden-over-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-launching-ads-targeting-biden-over-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-launching-ads-targeting-biden-over-antifa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ca88c95-513f-474c-811e-3c537e51653c/3a77df1d-328f-4377-81c6-2ad45e60bc49/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
     excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
     publishedDateTime: 2020-09-30T10:38:45Z
@@ -1262,6 +1294,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump campaign blasts Biden over new Hunter Biden-Ukraine story, claims it shows he ‘lied’"
+    excerpt: "The Trump campaign on Wednesday blasted Democratic presidential nominee Joe Biden after the New York Post published an email indicating the former vice president met with a top executive for Ukrainian natural gas firm Burisma Holdings in 2015 at son Hunter Biden’s request."
+    publishedDateTime: 2020-10-14T15:56:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IjkdJSB_sQ4/trump-campaign-biden-hunters-business-deal-story"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-biden-hunters-business-deal-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-biden-hunters-business-deal-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McCarthy slams mute button suggestion for presidential debates, urges Trump to let Biden talk"
     excerpt: "House Minority Leader Kevin McCarthy, R-Ca., slammed the use of a \"mute button\" in reaction to the unruly first presidential debate on \"Fox & Friends.\""
@@ -2631,6 +2679,22 @@ related:
         width: 2290
         height: 1322
         isCached: true
+  - title: "Leftists Lose Their Minds Over Trump Landing Dueling Town Hall Against Biden"
+    excerpt: "The second presidential debate between President Donald Trump and former Vice President Joe Biden was canceled last week, but both candidates will still face off in dueling town hall events"
+    publishedDateTime: 2020-10-14T14:30:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/14/president-trump-biden-to-face-off-in-dueling-town-halls-thursday-n2578045"
+    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/14/president-trump-biden-to-face-off-in-dueling-town-halls-thursday-n2578045?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/14/president-trump-biden-to-face-off-in-dueling-town-halls-thursday-n2578045?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 97
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/270/353ab6b3-0314-4bf7-b8ee-4698360167ea.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "NBC's Hallie Jackson: Kamala Harris Worked to Speak \"Past Pence,\" And At President Trump"
     excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
     publishedDateTime: 2020-10-08T12:26:00Z
@@ -3013,6 +3077,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 63
+  - title: "Warren Makes Clucking Sound To Mock \"Chicken\" Trump For Declining Virtual Debate"
+    excerpt: "Sen. Elizabeth Warren (D-MA) mocked President Donald Trump as a chicken for pulling out of a second presidential debate with Joe Biden. Warren clucked like a chicken in an appearance on the daytime talk show \"The Real\" as she poked fun at the president for turning down a virtual debate with the Democratic presidential nominee."
+    publishedDateTime: 2020-10-14T19:28:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/warren_makes_clucking_sound_as_she_mocks_trump_as_a_chicken_for_declining_virtual_debate.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/524022.jpg"
+        width: 978
+        height: 732
+        isCached: true
   - title: "President Trump: Nancy Pelosi's 25 Amendment Bill Is About Joe Biden, Not Me"
     excerpt: "President Trump told FNC's \"Sunday Morning Futures\" with Maria Bartiromo that Nancy Pelosi preparing a bill regarding the 25th Amendment is about using it against Joe Biden if he is elected, not against Trump before the election."
     publishedDateTime: 2020-10-11T15:14:00Z

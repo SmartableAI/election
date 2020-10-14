@@ -286,6 +286,22 @@ related:
         width: 2048
         height: 1366
         isCached: true
+  - title: "Mike Pence told a whopper about Joe Biden’s pandemic plan: analysis"
+    excerpt: "During last week’s vice presidential debate, moderator Susan Page, USA Today’s Washington bureau chief, asked Vice President Mike Pence about the U.S. COVID-19 death toll. Pence replied by touting the Trump administration’s actions to combat the pandemic,"
+    publishedDateTime: 2020-10-14T14:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/mike-pence-told-a-whopper-about-joe-bidens-plan-analysis/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/mike-pence-told-a-whopper-about-joe-bidens-plan-analysis/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/mike-pence-told-a-whopper-about-joe-bidens-plan-analysis/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 90
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Fly-on-Mike-Pences-head-793x430.jpg"
+        width: 793
+        height: 430
+        isCached: true
   - title: "Biden campaign sees opportunity in military women, spouses and people of color"
     excerpt: "With Trump’s popularity declining among active-duty service members, Democratic presidential candidate Joe Biden looks to win part of that voting bloc."
     publishedDateTime: 2020-10-03T11:16:00Z

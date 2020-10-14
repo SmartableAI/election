@@ -484,6 +484,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
+    excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
+    publishedDateTime: 2020-10-14T18:50:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 59
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Ryan-Dennistonindian-river-sheriffs-office-.jpeg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump Restarting Campaign With White House, Florida Events"
     excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
     publishedDateTime: 2020-10-10T04:25:00Z

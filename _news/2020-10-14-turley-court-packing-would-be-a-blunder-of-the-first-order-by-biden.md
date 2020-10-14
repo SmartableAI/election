@@ -8,6 +8,9 @@ webUrl: "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blun
 ampWebUrl: "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp"
 type: article
+quality: 135
+heat: 135
+published: true
 
 provider:
   name: Fox News
@@ -28,6 +31,6 @@ images:
     height: 720
     isCached: true
 
-secured: "R5LGp1rR/yaqWkUlB+RMe3Ue9Wndx1oJ7ikJlNf9rgpspTMMWDhs1jgrvPmaObfXwV/dtjCVsKECDCmYVh597Mu9PfRkWblIZPI+tRdFzWkbr+u4O06Q6wtYGPnFLoXalJVg0DyejTamSZZ0r7QPjo+A7/zxJf4L+6VxwI0fE8GrEaT5yHIWoCmIJTpdGO3P2IGhv8+kyrDSfmZ3a5hX25KsxfRgWs9f/WYKsDiCt1njtTGrn8/yM8D8z6eEAvgOmSr6b8Z/kib5j2YQfgzwukJjU7RokpVLyMs7N+siKedJldousYD3XK8YhuBDjfIvASE8TA+QfynAFY9Yc6pTX7L2uhpodYEC/RkZ1iZdzB8=;XKiBGf/O3MXLEPzZpqWsJg=="
+secured: "k8f/GIBe2DUiCLyQLchr/hVKwLnW673+HUcz/nTTcbq94AmfiNziM9Ha6zeAYgzrV/r+vGyaI2Bzfy4RFPeOcrqPfP7mNAWGQVx5CMZj5ux1P2TtNt0QTH00iPwK135cS4oODYSoQzq/PHSorSTacEV8NA7xvTJC5PHrPbB/A40tWhkN1sFZBkY5G0fUx43iJsdHgF7pl/aTOmT5ew5s0Yw2R+NT6UOXhFMx8xkheChvVJgx9ddGsQBPVlWGFtRoofvTlleLCFhbwGI9g6GCTYspC5MA8oK2BJsTnUF6J5ck4Ry43EcZgDdp1JdsDZ4JZ4yxfA0OBeTx4G0PTYHMdSe2pJKsq9OLWkDQhlcz2QeUEF7POPRx9UfdtyFkMMgkNXGQP7CbVZR+EUGdCPJ5PAvhhDjEJV4I776MCIpZp0UVVZGswoJcnDcPHEze4IBFF8aDY5X6OEgnQtMulHf71xnCLEU4haITljmNGnZUCPkABWFddC8gtE/9Y5nrgHvTbVY6i9Bppt18qIKJzI+drQ==;88GFTSdw7EXCixUlbg+V2w=="
 ---
 

@@ -138,6 +138,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Stresses Economic Record in Virtual Speech"
+    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
+    publishedDateTime: 2020-10-14T17:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-244852/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
     excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
     publishedDateTime: 2020-10-10T21:27:00Z
@@ -149,6 +165,20 @@ related:
     quality: 115
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Jimmy Kimmel mocks Donald Trump for holding rallies that could potentially infect his supporters"
+    excerpt: "Jimmy Kimmel took aim at Donald Trump for continuing to campaign after his positive COVID-19 diagnosis and subsequent treatment."
+    publishedDateTime: 2020-10-14T14:08:00Z
+    webUrl: "https://www.foxnews.com/entertainment/jimmy-kimmel-donald-trump-rallies-infect-supporters"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kimmel-trump-ap.jpg"
         width: 1280
         height: 720
         isCached: true

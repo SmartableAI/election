@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Task force warns against small gatherings as Trump rallies with thousands"
+    excerpt: "The White House coronavirus task force expressed concern about virus spread stemming from small household gatherings as coronavirus cases rise across the country and colder months approach. The warnings come as President Donald Trump continues ignoring precautions as he gathers thousands of mostly maskless"
+    publishedDateTime: 2020-10-14T17:02:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVmjGsHcLbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013013829-us-coronavirus-coming-surge-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump off the air in Ohio and Iowa as polls show tight races in both states"
     excerpt: "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n"
     publishedDateTime: 2020-10-05T23:27:36Z

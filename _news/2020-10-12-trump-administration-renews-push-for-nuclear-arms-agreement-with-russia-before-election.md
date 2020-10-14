@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "After spike in 2019, border encounters return to levels seen throughout Trump administration"
+    excerpt: "Customs and Border Protection encountered more than 458,000 people in fiscal year 2020, marking a sharp decline from 2019 but not straying far from previous years despite the Trump administration's increasingly aggressive immigration enforcement posture.\n    \n"
+    publishedDateTime: 2020-10-14T17:30:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CTp_43iJPO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/us-mexico-border-encounters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/us-mexico-border-encounters/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181031174426-01-border-patrol-agent-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court grants Trump administration's request to halt census count while appeal plays out"
     excerpt: "The Supreme Court granted a request from the Trump administration to halt the census count while an appeal over a lower court's order that it continue plays out.\n    \n"
     publishedDateTime: 2020-10-13T21:33:10Z

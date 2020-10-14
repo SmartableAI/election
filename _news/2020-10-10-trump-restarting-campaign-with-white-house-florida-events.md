@@ -498,6 +498,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
+    excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
+    publishedDateTime: 2020-10-14T18:50:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 59
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Ryan-Dennistonindian-river-sheriffs-office-.jpeg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "ylM0P6446xOzxxjnuiTsjG38BOToZMcWgFNGImFjtJ5HmSnnUpmMrMNkSElJvpj8mT1raZ9Jy+my0lg+/qe9ydt7ZIZkUu5BcwrLqqwSAZs2wjtwCvGv5T6QsbpoxblorFgjwdrvJ+mcoPUOjxQHiNwWZcgDwsZ1iZRZfbcB712aat20F+W/KnsL4lw19UOBnUASQfbMJC7bYNy5iDITuYwSad/LJIVu4ISQJ3MX++e65djtb7abw5uF4LcweXD83LPfJBlShHAQ5LVkh0WkOPIZUE8pdZR+HG8aXO9jeOh9dBUZ5tTG+lF3NLVRVI9fscBNx6aEU74BVvRV6uFMvwTgVel3snTewLY/I+n3ft88d2zl5B+gA/u/40sgbB6MK1a2WBDdTt93winWFDcLpBxf+Mogj4r4Fga8nmtTJ2ZUq2FUrTareV0LyhYvzs0QjyWQz/qDQM4byE1yslch/kYZjxZ7Q/9d66PraQC1Sw/5Lb6uvMsm5cKmenZjoWeCbB5SWUiiOviwQI379MSHwQ==;XljPiby5HnAqNofJR9F+Ow=="
 ---

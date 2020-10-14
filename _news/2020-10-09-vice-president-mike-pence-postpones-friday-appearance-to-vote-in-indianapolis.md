@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5911905002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002"
 type: article
 quality: 122
-heat: 442
+heat: 462
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "Former Ohio State QB Cardale Jones says his presence at Vice President Mike Pence's rally in Columbus is not a political statement"
     excerpt: "Vice President Mike Pence made a campaign stop in Columbus on Monday and gave a shout out to former Ohio State QB Cardale Jones,"
     publishedDateTime: 2020-10-12T19:58:00Z
-    webUrl: "https://www.usatoday.com/story/sports/ncaaf/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-mike-pence-rally/5971673002/"
+    webUrl: "https://www.usatoday.com/story/sports/ncaaf/2020/10/12/former-ohio-state-qb-cardale-jones-attendance-mike-pence-rally/5971673002/?ref=hvper.com"
     ampWebUrl: "https://amp.usatoday.com/amp/5971673002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5971673002"
     type: article
@@ -222,6 +222,22 @@ related:
       - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Vice President Mike Pence hosts campaign event near Grand Rapids"
+    excerpt: "The event takes place a few days before an event in Muskegon Saturday where President Donald Trump will speak."
+    publishedDateTime: 2020-10-14T19:39:00Z
+    webUrl: "https://www.clickondetroit.com/decision-2020/2020/10/14/vice-president-mike-pence-hosts-campaign-event-near-grand-rapids/"
+    ampWebUrl: "https://www.clickondetroit.com/decision-2020/2020/10/14/vice-president-mike-pence-hosts-campaign-event-near-grand-rapids/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/decision-2020/2020/10/14/vice-president-mike-pence-hosts-campaign-event-near-grand-rapids/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 75
+    images:
+      - url: "https://www.clickondetroit.com/resizer/694Ig8rfla_DDz5kmwb0aQEmNcI=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-14-2020/t_cd6eb39fe23649fb9a66325264ebf19b_name_image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."

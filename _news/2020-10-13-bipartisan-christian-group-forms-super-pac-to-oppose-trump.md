@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-g
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -107,6 +107,28 @@ related:
         width: 650
         height: 429
         isCached: true
+  - title: "Supreme Court TV? Trump Nominee Has Open Mind on Cameras"
+    excerpt: "Neither video nor still cameras are allowed in the Supreme Court chamber. But the court, in a break with precedent, allowed live audio of its oral arguments at the end of its most"
+    publishedDateTime: 2020-10-14T15:36:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Tries to Shore up Support From Big Business, Iowans"
+    excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa."
+    publishedDateTime: 2020-10-14T19:07:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "yu1KxFMKxcdTILkXvPiQN2vUx/y6DDL+rYaNpE7kEqQNxt6pFtm96h/UWM/11hzEQf7CEYb4WQ9E3vsTxk8/hVNXxL0TRQf0jMtS0BLLXQetEwVK0dIaJz2iInlNKgiO9tuwwVpWiDjqIffMk8dM66PxTp/2aJgsympyJKZEm9hvxPsryoqSr74mye3v7wyIC8cKYxKzEWIZejfXZ0bZHwge8hYP6U35KURlOvNNjZHonUpapBWU9CHBr/Ju2snIjMvBhkl9oSrC3DBBg21tuoEqur+B6GxaOsZUt/gmz5HEzZag2oavSs8aLaClJAHJsChl/2jF5Nz9SUmqJHdM+QpspeEGJn0134XEJf34ymW7Pkk5glhhNiVqZ4sKUmMP5JiMVRAn4VFygZOU11GWLLEl+ck0CePbBTd3X7bFDOMG1sXXjjTkcZ9fETiAc7pRNpJcNhDsB78MI6ThA5dKgwIjVewv3WBpyQEQ8H4OlclptN3M8Sond2v4ynSkUdGbjBhIc2XGtexcgs8KrPtQVA==;UzKcSVKktmeSsa8J0bYkWw=="
 ---

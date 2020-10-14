@@ -107,6 +107,28 @@ related:
         width: 650
         height: 429
         isCached: true
+  - title: "Supreme Court TV? Trump Nominee Has Open Mind on Cameras"
+    excerpt: "Neither video nor still cameras are allowed in the Supreme Court chamber. But the court, in a break with precedent, allowed live audio of its oral arguments at the end of its most"
+    publishedDateTime: 2020-10-14T15:36:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Tries to Shore up Support From Big Business, Iowans"
+    excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa."
+    publishedDateTime: 2020-10-14T19:07:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "jEUkeTXaer1xuo6OClPV7ubrzIEFFxEnsj+Rsp+DiQxDxrGHFCDJQQeCQt5OUzkvknkJGPfLmfLdmlofDMfo/lN80o+IjzmoKf9tMnoUKvu+ISj/YNHW9G3ZF3dvhe19tj277P6HT/4ToW3nbzPgebbIwV32EdC6RKnoJWlw5Udk7q0IdBNjD5nDma4ELbdW1wl8CynLxGtlU7rpaOMkluEGmE4HyaA6kx2M2nbSTVLixUbBIttcQaS7uMzfdt/88uYrmrPsno/2aO7FDPB3TB51JJmHjBj65S66Fb0Hl5uLa1lTAC6JVpIRtuNUYPFyfdU6CN2msA3aNzY65lREohBYhEPmOdZ8zJ07F0v6IzM=;XoccNhgnEZsMXFRKAAJLfQ=="
 ---

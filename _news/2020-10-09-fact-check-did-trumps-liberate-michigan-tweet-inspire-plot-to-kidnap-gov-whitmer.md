@@ -173,6 +173,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Headed For Trouble -- And Not Changing Course"
+    excerpt: "President Donald Trump is down in the polls, running out of time, and facing a resurgent coronavirus across the United States. Yet seemingly headed for defeat, he is doing nothing to change course. Proud of his status as a non-politician who won the White House in his first shot,"
+    publishedDateTime: 2020-10-14T17:09:00Z
+    webUrl: "https://www.ibtimes.com/trump-headed-trouble-not-changing-course-3062172"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/president-donald-trump-has-begun-a-punishing-cycle.jpg"
+        width: 1024
+        height: 656
+        isCached: true
 
 secured: "Ib15aF45uFmIbyFLhB9FD4DA9vloiQh512owl98yfRn11dcmXSrMEilM6pkhxpdo/EpGKTOP6gc+8eKF25oNPMn5K7schR9/G4LwBylSVjMS0vYXdHkTJJx20jjSqiKIuM1OXTpcQ4Xrw2xMnr3BVVT8AGU/4dvf3yzzBmZVooqJZFkzO+OBYKNQqbZTQUFy1SY4Yx4HGj1cU4NqsasvbpFhM9+CEglPo3Wp57I2uZ2/RG5zplQ02+ErZrz0i1SO88ScLnMZr2nQkG+WHQ/f1OwS8XVrmSRNzXXh/CGuw5pKsW4RrITZXvD4td9oBUmYtxkN1+WYCNLXFRhj82iz3hfMFBz6/p3E4lramgekEyk=;tBAtvJl8gnZeXutYlpd7tg=="
 ---

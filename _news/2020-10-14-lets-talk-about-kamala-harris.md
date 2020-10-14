@@ -2545,6 +2545,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris proves her mettle"
+    excerpt: "Kamala D. Harris (D-Calif.) to the Democratic presidential ticket — even after her error-free rollout, an impressive convention speech and a winning debate performance — the nominee for vice president put on an impressive display Tuesday evening at the Supreme Court confirmation hearing for Judge Amy Coney Barrett."
+    publishedDateTime: 2020-10-14T14:45:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
   - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
     excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
     publishedDateTime: 2020-10-04T15:57:00Z

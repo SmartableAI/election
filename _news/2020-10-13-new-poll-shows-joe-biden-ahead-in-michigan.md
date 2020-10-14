@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-bat
 webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
 type: article
 quality: 105
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -29,51 +29,69 @@ images:
     isCached: true
 
 related:
-  - title: "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'"
-    excerpt: "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden."
-    publishedDateTime: 2020-10-10T19:33:00Z
-    webUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
+  - title: "George Floyd's sister calls for change in new Biden ad"
+    excerpt: "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
+        width: 780
+        height: 551
+        isCached: true
+  - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
+    excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
+    publishedDateTime: 2020-10-14T18:44:00Z
+    webUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 104
+    quality: 120
     images:
-      - url: "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
-  - title: "Bankole: Joe Biden claims he is campaigning in Michigan, but can voters really tell?"
-    excerpt: "When you drive around Detroit's most underserved areas to the most stabilized there are few Biden signs dotting those neighborhoods, Bankole writes."
-    publishedDateTime: 2020-09-21T03:12:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2020/09/21/bankole-can-voters-tell-joe-biden-campaigning-detroit-michigan-election-trump/5824238002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5824238002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5824238002"
+  - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
+    excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
+    publishedDateTime: 2020-10-14T14:17:00Z
+    webUrl: "https://www.cnbc.com/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 68
+      name: CNBC
+      domain: cnbc.com
+    quality: 110
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/10/PDTN/3b2b9265-56f7-494e-97c1-b3598e58d1f5-Biden_Detroit.jpg?auto=webp&crop=3795,2135,x0,y165&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://image.cnbcfm.com/api/v1/image/106742672-1602619695489-Former_Vice_President_and_presidential_nominee_Joe_Biden.jpg?v=1602619788"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Taylor Swift Totally Belongs With Joe Biden in 'Late Show' Spoof"
-    excerpt: "After offering up her first-ever presidential endorsement, Taylor Swift went a big step further and actually wrote a custom song about Democratic candidate Joe Biden. Okay, she didn't, but on Thursday night (Oct."
-    publishedDateTime: 2020-10-09T13:37:00Z
-    webUrl: "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/"
+  - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
+    excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
+    publishedDateTime: 2020-10-13T22:05:00Z
+    webUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/"
+    ampWebUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
+    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
     type: article
     provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 55
+      name: Los Angeles Daily News
+      domain: dailynews.com
+    quality: 71
     images:
-      - url: "https://static.billboard.com/files/2020/10/Taylor-Swift-jan-23-park-city-2020-billboard-1548-1602169134-1024x677.jpg"
+      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662"
         width: 1024
-        height: 677
+        height: 662
         isCached: true
   - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
     excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
@@ -86,20 +104,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
-  - title: "Bernie Sanders to Michigan young voters: 'Not enough to complain,' must vote for Joe Biden"
-    excerpt: "The Sanders visit comes with less than 30 days before Election Day and as both presidential contenders vie for Michigan voters."
-    publishedDateTime: 2020-10-05T19:02:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?crop=5081,2858,x0,y335&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
-        isCached: true
 
 secured: "iw9KMCiKSevTLuxwzv8JJk7HsgkqMq4mOsVUYtCtOZS0153Q0zqVE6kBIHkcgGnIA+d4wk91smQKTjSfSD6OWh4tQINd6nyLmxRmK7U4iRN8Ug0gOi9/0eTvjPlwwDZCk3uLMA2jGZ6/NYli7NNq2zb5fYsHeNFrXQ0+XwV+ydhc7nisxGxRde2QXf4CcKm0dN+Cw3F9isN0VojbzCmCfswLj3YlBNCkGhVszqxqD0I0qyO+I/lHJkLXO4zJAcilnXlG7ykVyISWnUWfQPa94zKcCr4NkzEHS9udhxdQqXUfDKd16sngznqv79I6iu5PBezXAicqohXLayK66Ea3LoNkHgYwlc+PaIVvloDwNXY=;iUQ2kwPejggyfmJWE1HX/w=="
 ---

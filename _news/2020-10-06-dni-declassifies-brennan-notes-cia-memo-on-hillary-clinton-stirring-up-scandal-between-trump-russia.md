@@ -45,22 +45,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
-    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
-    publishedDateTime: 2020-10-07T00:54:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Putin Criticizes Joe Biden’s ‘Sharp Anti-Russian Rhetoric’"
     excerpt: "In Vladimir Putin’s first substantive comments on the U.S. election, the Russian president praised President Trump and said he was reassured by Joe Biden’s support for arms control."
     publishedDateTime: 2020-10-07T17:01:00Z

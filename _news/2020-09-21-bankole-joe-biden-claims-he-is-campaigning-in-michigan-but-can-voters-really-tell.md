@@ -27,75 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "New poll shows Joe Biden ahead in Michigan"
-    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-12T18:55:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+  - title: "EXCLUSIVE-Russian state hackers suspected in targeting Biden campaign firm – sources"
+    excerpt: "Microsoft Corp recently alerted one of Democratic presidential candidate Joe Biden’s main election campaign advisory firms that it had been targeted by suspected Russian state-backed hackers, according to three people briefed on the matter."
+    publishedDateTime: 2020-09-13T17:20:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-cyber-biden-idUKL1N2G70AW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2G70AW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2G70AW"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Cindy McCain praises Joe Biden in a new campaign ad, calling him a president who would 'put service before self'"
-    excerpt: "\"Joe will always fight for the American people, just like John did,\" Cindy McCain, wife of late Arizona Senator John McCain, said in the ad supporting Biden."
-    publishedDateTime: 2020-10-10T19:33:00Z
-    webUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Taylor Swift Totally Belongs With Joe Biden in 'Late Show' Spoof"
-    excerpt: "After offering up her first-ever presidential endorsement, Taylor Swift went a big step further and actually wrote a custom song about Democratic candidate Joe Biden. Okay, she didn't, but on Thursday night (Oct."
-    publishedDateTime: 2020-10-09T13:37:00Z
-    webUrl: "https://www.billboard.com/articles/news/television/9463137/taylor-swift-you-belong-with-me-spoof-joe-biden-late-show/"
-    type: article
-    provider:
-      name: Billboard
-      domain: billboard.com
-    quality: 55
-    images:
-      - url: "https://static.billboard.com/files/2020/10/Taylor-Swift-jan-23-park-city-2020-billboard-1548-1602169134-1024x677.jpg"
-        width: 1024
-        height: 677
-        isCached: true
-  - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
-    excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
-    publishedDateTime: 2020-10-10T20:25:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "Bernie Sanders to Michigan young voters: 'Not enough to complain,' must vote for Joe Biden"
-    excerpt: "The Sanders visit comes with less than 30 days before Election Day and as both presidential contenders vie for Michigan voters."
-    publishedDateTime: 2020-10-05T19:02:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/05/bernie-sanders-job-biden-donald-trump-presidential-campaign/3623526001/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 45
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/03/07/PDTF/2d58c6fc-fe03-4840-9bf9-e210c3ff5ccf-AP_Election_2020_Bernie_Sand.jpg?crop=5081,2858,x0,y335&width=3200&height=1680&fit=bounds"
-        width: 2987
-        height: 1680
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 98
 
 secured: "/qLQwUYCFmlhy7FC5Nul/g3KLm/Jbud+yiKZh1Fmfn7XZOaCO2wJpH0wKDKMFR6+Gt6e9hsCQCdH6gGfQ0jCQPEaLqg0Iw/Xm3YLjxuN6G9++jTJWFL6zayahHdGoKkHQy7uHU74yO7zr4kVbHtHqvMgvs34g+awWWscdLoiwK3mN7F7kDlQk95lnY1JeBwkLQ0PrPZ7xJlkNEP7U2kvoRz90YwOE+WHpj75kEqSB3CRYwTIksi86++fb5U3GsDs49LyZEgtPCVHZ6wEriq+C9qNu2CWD+47Bt5+DfrXm84gpEPxafMTHg/VPqzg9XptII7kLLax4E9gqayDZNrKrC5Oe6ohpGk/7JWB74g4YSVTsExbqaY+ssRHVq1vOfcHiGadTIFt1lMIwXXs2CGckxz4yN2GXlaoBXf+d+W4iKRUgBE+sFfKykPPzS8VlQBkHSJ9OZkq+ASTUnh96bQ3FVilIHbnhvhW7OiYUjMoIlWmymvBZ0Gk/42Byt+fBeWIx0qOeovTwJL4PYDDPcjtmQ==;Sj//u+bikHjmgmgXbsHWMA=="
 ---

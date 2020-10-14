@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 735
+heat: 755
 published: true
 
 provider:
@@ -485,6 +485,22 @@ related:
     quality: 67
     images:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-14.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
+    excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
+    publishedDateTime: 2020-10-14T18:50:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 59
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Ryan-Dennistonindian-river-sheriffs-office-.jpeg"
         width: 800
         height: 430
         isCached: true

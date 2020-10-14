@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2020/10/13/doj-trumps-declassifica
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/doj-trumps-declassification-russiagate-429257"
 type: article
 quality: 135
-heat: 136
+heat: 156
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Team Trump uses Russian footage in its advertising (again)"
+    excerpt: "Given recent history, and Trump's unfortunate history with Russia, these are amateur missteps the Republican operation probably ought to avoid."
+    publishedDateTime: 2020-10-14T19:03:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-uses-russian-footage-its-advertising-again-ncna1243328"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_23/3380581/200605-moscow-red-square-se-1149a_7b70cb7ba2f8575b68f08f408688cb6e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hay09eMvbTjX0HLfDMb9YKGOQjbSq/symFAblBrxUHWxjXafu/DJ6FsxVxFskcNpmYmXFE/krCAmPkNdy8do+06ar5f8UPF6AQlMSxNrnGtwjjtmUjKmQkq0DN7J0Pi5iQWIL/VZieajEKPYCmITFWd09JoSCJPwLv5cWBtGY4irnNqigT+7jD2Y6LLkaLlng+ANsyT4hpoZRMwYtjRtpQRq1T5WZ99u4TijBKJmRUs18zq4mHDYnfHmd5Y7TVXopjyCqbV+YRLV6tqSKWPjjkJ6KsgtSU+1Hv2QWIkLg7SlXqCFZXlcJh52tHU3nM9sYO70ZK6GE2YzC0E+Mvod40u7kWBa9Rk+BDvnKhbOflK2CDfOltNp5lUhB02nkJZ79vcg+zrOQxowNb+KKmuCZu/oD15ZKldueVo1Xqbvg3ZLIh61s3zTJnwnEwy4uPYL6kDnOTvu6/Gyvu0OlrBseANdI7VuqXZN4DQBON2tNm+yOXtOhzIvbYkPTWkbOxxbvFFDJh5593aKNMRK2bDwwg==;d4lXbPnUg8LukFMZb5bdMg=="
 ---

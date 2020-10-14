@@ -496,6 +496,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump talks up economic progress, after Harris-Pence debate focused on job losses"
+    excerpt: "The American economy — the American comeback — is on the ballot,” Vice President Mike Pence said during Wednesday's debate."
+    publishedDateTime: 2020-10-13T01:19:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-talks-economic-progress-after-harris-pence-debate-focused-job-n1242662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 170
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418586/201008-mike-pence-ew-325p_fe41637c7e0ddd795336c29dc5a7e634.jpg"
+        width: 2500
+        height: 1693
+        isCached: true
   - title: "Federal appeals court rules Trump can't block New York subpoena for his tax returns"
     excerpt: "The Manhattan district attorney can obtain President Donald Trump's tax returns, a federal appeals court ruled on Wednesday, dealing the President another setback in his effort to shield his tax returns from investigators but the case is likely to head to the Supreme Court.\n    \n"
     publishedDateTime: 2020-10-07T15:46:46Z

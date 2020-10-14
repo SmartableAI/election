@@ -509,6 +509,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump talks up economic progress, after Harris-Pence debate focused on job losses"
+    excerpt: "The American economy — the American comeback — is on the ballot,” Vice President Mike Pence said during Wednesday's debate."
+    publishedDateTime: 2020-10-13T01:19:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-talks-economic-progress-after-harris-pence-debate-focused-job-n1242662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 170
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418586/201008-mike-pence-ew-325p_fe41637c7e0ddd795336c29dc5a7e634.jpg"
+        width: 2500
+        height: 1693
+        isCached: true
   - title: "Harris worked to speak 'past Pence, at President Trump and to the American people'"
     excerpt: "NBC's Hallie Jackson breaks down the Vice Presidential Debate between Sen. Kamala Harris and Vice President Mike Pence, and describes how Harris was speaking \"past Pence, at President Trump and to the American people."
     publishedDateTime: 2020-10-08T03:16:00Z

@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Barrett declines to answer if Trump can pardon himself"
+    excerpt: "Sen. Patrick Leahy (D-VT) questions Supreme Court nominee Amy Coney Barrett on whether the president of the United States has the power to pardon themselves of a crime. CNN's Manu Raju tells us more.\n    \n"
+    publishedDateTime: 2020-10-14T16:04:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/exEsfdCiy9E/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014114644-09-barrett-hearing-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
     excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
     publishedDateTime: 2020-10-13T15:48:26Z
@@ -496,6 +512,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "He Built a Trump Shrine and Prayed for His Health. Then He Collapsed."
+    excerpt: "Bussa Krishna, a farmer who called President Trump his god, stopped eating after Mr. Trump became infected with the coronavirus, his family said. He died on Sunday."
+    publishedDateTime: 2020-10-14T14:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/world/14virus-india-trump-1/14virus-india-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Barrett suggests Obamacare might survive Trump challenge"
+    excerpt: "Supreme Court nominee Amy Coney Barrett on Wednesday suggested that the Affordable Care Act might be able to withstand a challenge from the Trump administration, placing Obamacare once again at the forefront of the Supreme Court confirmation fight."
+    publishedDateTime: 2020-10-14T17:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/amy-coney-barrett-obamacare-trump-challenge-429420"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/amy-coney-barrett-obamacare-trump-challenge-429420"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/amy-coney-barrett-obamacare-trump-challenge-429420"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f3/ca/ead8a3484edc84a98342189bdd0a/201014-acb-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
     excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
     publishedDateTime: 2020-10-08T16:28:00Z
@@ -639,6 +687,20 @@ related:
       - url: "https://static.politico.com/fe/0c/945fad50494481cbf08d22e4e620/1013trump.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump's conspiracy theorizing reaches unsettling new depths"
+    excerpt: "To know anything about Donald Trump is to recognize his preoccupation with conspiracy theories. In fact, the Republican relied on a racist conspiracy theory as part of his rise to political prominence,"
+    publishedDateTime: 2020-10-14T15:52:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-conspiracy-theorizing-reaches-unsettling-new-depths-ncna1243338"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
     excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."

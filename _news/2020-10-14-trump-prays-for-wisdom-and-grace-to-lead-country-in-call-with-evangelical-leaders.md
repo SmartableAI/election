@@ -8,6 +8,9 @@ webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-praye
 ampWebUrl: "https://www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp"
 type: article
+quality: 169
+heat: 169
+published: true
 
 provider:
   name: Fox News

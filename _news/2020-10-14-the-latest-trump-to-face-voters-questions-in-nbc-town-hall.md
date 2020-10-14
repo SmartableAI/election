@@ -8,6 +8,9 @@ webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-tru
 ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: U.S. News & World Report

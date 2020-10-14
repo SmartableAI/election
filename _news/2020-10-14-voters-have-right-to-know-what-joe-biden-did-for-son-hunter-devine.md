@@ -44,6 +44,70 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings"
+    excerpt: "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings."
+    publishedDateTime: 2020-10-14T19:10:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Fox News obtains email sent to Hunter Biden requesting his help as Ukrainian gas company was being probed"
+    excerpt: ""
+    publishedDateTime: 2020-10-14T18:07:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xi16cImlSg/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Giuliani's lawyer says he has hard drive with Hunter Biden texts, emails, videos of 'compromising positions'"
+    excerpt: "A lawyer for President Trump's personal attorney, Rudy Giuliani, told Fox News on Wednesday he has obtained a hard drive containing some 40,000 emails, thousands of text messages, and photographs and videos of Hunter Biden – the son of former Vice President Joe Biden – in \"very compromising positions.\""
+    publishedDateTime: 2020-10-14T15:45:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-iTlRbASiY/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hunter Biden emails under investigation by Senate Homeland Security Committee after hard-drive report emerges"
+    excerpt: "The Senate Homeland Security and Governmental Affairs Committee is investigating newly released emails which revealed that Hunter Biden introduced his father, former Vice President Joe Biden, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request. "
+    publishedDateTime: 2020-10-14T15:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B90Gv0NbL1Q/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "/MHctpi1yAaMxMXvucsa1aSJua6foBOXYCb1zCoXK7HCTNoNvoLEQxe+jae/NRY65gO9Lx6ZfMI247ekgdCdwJ7IDNj8CnJRQga2Qg68nK/DsFbD6I4BfjgmkeQkyrDNnvEV1V+zI7tXviA+7KVFAnhKoP79lyXZ9N+0f4BTgHN5MLxJDNpKl5P5jddSXTi98UxzxR+ixKApJ9XbV7Fe7cxnmbbE7uUyuCDxsuODON1Di8x5UQJw5NVdfVosEmeQsGjloXe3QHbAZ7JHfEONlOInKfsDVTVn/70ygKybsNOKq8uUlbBqszb+bBPB4qo1lmwbgxKm7kpLyNuzQPRvH2pp1g2hSk4BUAdlQXyb2m4=;2jjqbJn6KH8kKJWMdtBcOw=="
 ---

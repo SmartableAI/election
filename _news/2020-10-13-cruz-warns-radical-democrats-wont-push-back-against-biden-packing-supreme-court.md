@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Durbin says Trump administration case against ObamaCare is 'orange cloud' over Barrett nomination"
+    excerpt: "Sen. Dick Durbin, D-Ill., continued Democrats' claims that the real reason why Republicans are rushing to confirm Judge Amy Coney Barrett to the Supreme Court is so that she can be on the bench for an upcoming ObamaCare case, but he had a particularly colorful way of putting it."
+    publishedDateTime: 2020-10-14T15:45:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case"
+    ampWebUrl: "https://www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288542482521-e1602689531456.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Barrett says she won’t give issues 'thumbs up or thumbs down' as Dems grill nominee on ObamaCare, Trump"
     excerpt: "Barrett repeatedly refused to commit to a certain outcome in cases on specific issues when asked by Democrats on Tuesday."
     publishedDateTime: 2020-10-13T17:40:26Z
@@ -124,6 +140,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfabcf7a-727f-4aef-8c23-877b26f8f323/89e3af1b-7506-40cc-b496-3b7c255b1a27/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Conflict-of-interest alarms raised over Joe Biden's son-in-law"
+    excerpt: "Meanwhile, his opponent Joe Biden can barely cross the Delaware state line without becoming, let's say, confused and sleepy and irritated. Former White House physician Dr. Ronny Jackson is sounding the alarm,"
+    publishedDateTime: 2020-10-14T16:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law"
+    ampWebUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef7092af-a23d-4680-9bce-01e170733e29/ba5c14eb-16e0-46a2-afb9-fcef6cefb2b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 712
         isCached: true
   - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
     excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."

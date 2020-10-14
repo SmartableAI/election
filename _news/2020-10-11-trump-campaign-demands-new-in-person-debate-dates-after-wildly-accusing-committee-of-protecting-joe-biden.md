@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President's job approval is surest sign Trump will lose reelection"
+    excerpt: "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him."
+    publishedDateTime: 2020-10-14T15:30:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png"
+        width: 980
+        height: 551
+        isCached: true
   - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
     excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
     publishedDateTime: 2020-10-14T01:32:00Z
@@ -216,6 +232,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Trump says \"China will own the United States\" if Biden is elected"
+    excerpt: "Mr. Trump said in a speech from the White House streamed online by economic clubs around the country that the economy was the strongest on record before the coronavirus pandemic, again promising vigorous economic growth if he is given another four years in office."
+    publishedDateTime: 2020-10-14T18:38:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-economic-club-new-york-recovery-jobs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-economic-club-new-york-recovery-jobs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-economic-club-new-york-recovery-jobs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/14/500ca2e0-966f-4d32-bece-aed7f0099b35/thumbnail/1200x630/5a4c313b6f376a71f2d6b58ea7c1187f/2020-10-14t005837z-385100757-rc20ij9bomgo-rtrmadp-3-usa-election-trump.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
     excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
@@ -841,6 +873,38 @@ related:
         width: 797
         height: 551
         isCached: true
+  - title: "Joe Biden's Battle Rap Video Has Not Gone Down Well"
+    excerpt: "The Biden Harris campaign has implemented an unusual tactic and has recruited the help of a well-known battle rap league."
+    publishedDateTime: 2020-10-14T16:07:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-battle-rap-video-response-1539092"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-battle-rap-video-response-1539092?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-battle-rap-video-response-1539092?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1651742/joe-biden.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "How to watch ABC News' Joe Biden town hall"
+    excerpt: "Democratic nominee Joe Biden had been scheduled to debate the president on Thursday, but will now appear in an ABC News town hall. Here's how to watch."
+    publishedDateTime: 2020-10-14T19:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-town-hall-01-gty-llr-201013_1602630940640_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -960,6 +1024,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 120
+  - title: "Election 2020 Today: Barrett hearings, Trump's road trek"
+    excerpt: "Supreme Court nominee Amy Coney Barrett returns to Capitol Hill for a third day of confirmation hearings by the Senate Judiciary Committee"
+    publishedDateTime: 2020-10-14T13:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-barrett-hearings-trumps-road-trek-73604547"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a2da9a643e3a48f7b79d88551722c6f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden reaches out to Catholics like himself, embracing a key group in big 2020 states"
     excerpt: "President Trump has maligned Biden’s faith, but Biden is seeking to firm up a connection that reverberates in the upper Midwest and the Sun Belt while avoiding religious overtones in the Supreme Court nomination fight."
     publishedDateTime: 2020-10-14T01:17:00Z
@@ -1898,6 +1976,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ELZZLJQ6LVAZZA3TRT3LXEZ32U.jpg"
         width: 5482
         height: 3655
+        isCached: true
+  - title: "WATCH: Captain Janeway and Counselor Troi Explain What They’d Do to Trump at Star Trek-Themed Biden Event"
+    excerpt: "At a Star Trek-themed campaign event for Joe Biden and Kamala Harris, iconic stars Kate Mulgrew and Marina Sirtis explained what their characters would do to President Donald Trump were he to inhabit the show's fictional universe."
+    publishedDateTime: 2020-10-14T15:55:00Z
+    webUrl: "https://www.mediaite.com/news/watch-captain-janeway-and-counselor-troi-explain-what-theyd-do-to-trump-at-star-trek-themed-biden-event/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-captain-janeway-and-counselor-troi-explain-what-theyd-do-to-trump-at-star-trek-themed-biden-event/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-captain-janeway-and-counselor-troi-explain-what-theyd-do-to-trump-at-star-trek-themed-biden-event/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 73
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Marina-Sirtis-Kate-Mulgrew.jpg"
+        width: 1200
+        height: 624
         isCached: true
   - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
     excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."

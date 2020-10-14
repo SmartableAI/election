@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
 type: article
 quality: 179
-heat: 519
+heat: 539
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
+    excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn., appearing to suggest that Barrett was publicly lobbying for a judicial job from Trump by writing"
+    publishedDateTime: 2020-10-14T18:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7N0kkQA-2LE/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
     excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "

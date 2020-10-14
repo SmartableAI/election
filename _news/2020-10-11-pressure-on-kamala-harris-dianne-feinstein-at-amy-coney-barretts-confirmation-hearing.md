@@ -75,6 +75,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Fact check: Viral post is fake Trump quote about Amy Coney Barrett"
+    excerpt: "A post claims the president said he picked the Supreme Court nominee based on her looks. He never said that. We rate this claim false."
+    publishedDateTime: 2020-10-14T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/14/fact-check-post-misquotes-donald-trump-why-he-chose-amy-coney-barrett/3642654001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3642654001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3642654001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/7978c3d8-a7cc-4264-8321-eeb1886ea47c-AFP_AFP_8QT6KT.jpg?auto=webp&crop=4479,2519,x1,y24&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat"
     excerpt: "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates."
     publishedDateTime: 2020-09-19T01:12:00Z
@@ -231,6 +247,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris Grills Amy Coney Barrett Over Donald Trump’s Vow To Eliminate Obamacare"
+    excerpt: "The long, repetitive confirmation hearing of Judge Amy Coney Barrett wound down on Tuesday with one of the more consequential interactions: questioning from Sen. Kamala Harris (D-CA), the vice"
+    publishedDateTime: 2020-10-14T01:42:00Z
+    webUrl: "https://deadline.com/2020/10/kamala-harris-amy-coney-barrett-confirmation-hearings-1234597019/#!"
+    ampWebUrl: "https://deadline.com/2020/10/kamala-harris-amy-coney-barrett-confirmation-hearings-1234597019/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/kamala-harris-amy-coney-barrett-confirmation-hearings-1234597019/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 83
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20287836772028.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden: Amy Coney Barrett is a threat to Obamacare"
     excerpt: "Joseph R. Biden warned Saturday Obamacare is doomed if Amy Coney Barrett wins confirmation to the Supreme Court."
     publishedDateTime: 2020-09-27T00:17:00Z
@@ -358,6 +390,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/12/Election_2020_Biden_96935.jpg-16fc0_c0-0-5926-3456_s1200x700.jpg?e885779a9796061107f5b31234b49be1eeead7a2"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Claire McCaskill Says Kamala Harris Grilling Was First to ‘Hurt’ Amy Coney Barrett’s Credibility"
+    excerpt: "Claire McCaskill said that Senator and vice-presidential nominee Kamala Harris was the first questioner to hurt Judge Amy Coney Barrett's credibility at the ongoing Supreme Court confirmation hearings."
+    publishedDateTime: 2020-10-14T16:53:00Z
+    webUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/"
+    ampWebUrl: "https://www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/claire-mccaskill-says-kamala-harris-grilling-was-first-to-hurt-amy-coney-barretts-credibility/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 62
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joy-Reid-Claire-McCaskill.jpg"
+        width: 1200
+        height: 624
         isCached: true
   - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
     excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."

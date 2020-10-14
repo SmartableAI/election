@@ -8,6 +8,9 @@ webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightm
 ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/"
 type: article
+quality: 117
+heat: 117
+published: true
 
 provider:
   name: Forbes
@@ -27,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "UQAH0VdDCcwIhHG9WguSPsRgndQ1AdymDHAql1NR6kziRbUSLz1eiuAkCmeH4O77KmnjVUG0Qh/1fhqFoZQpGvpxY5szBHXfOFp9vUWVfoxIaCwJT3/gMHSvhFMIkD3f7ukMLjSWifVJYNw3w2XKJhX91Tn/nPRlWdsQLVCPqm/zbHd7VRLcvPU5GEICbhxhS6MwZCp62RQF4oP843+WO7XC6uK7eUltJAjbUCRNayIrvTR6lL92U16SpBBxirVhbrQCbSeQ0dXxbxKpI0RAKW/oIEWqBoCbh2ceSNaRQgfDKSusmuAvlervtU63CwvA61MmwWm/rw033g5VrQW+RGVAm9C1pHXHyssle4DjyVE=;IHM5YB4gJS/Nhs1BH56vfg=="
+secured: "dxW2xt68PyAuNyuMWPVy67CS051yTciRLX2xLWdEzcdTwx1Z5LWEFb4BB+BmILYu/jhowpLBQEFdy7BDdJTXbowp3DpPADOMMY1UWwSswUVurlnQTQUkSc6/VAjIRAW8TL8jHiNt32m19GU2HC2MzaP/T7vDYL0byuxnWd23NdoEXwXr2WLOnpq5X7KLJj9DeeZd9fNySNA1KVvYd7Fn341fBqYv3BYj/S+4+xM5U+lR0JAAVEpq3FFTbRFzzzWfTd4/VBXQMBM/DqQKlfHNpK3kdWq0o+RM4Vy4EE0tKGVK4KOscJxI9L3MbOlUurNciEIALPiStaifffWEeYbHFc8kxrCgOW6dhj4a2e8WyGI2Et8+eNvdjUSMO8CKo5lXtyBv0ZM+vQciHB1sJw4nyZT6HyBX5q6VDIK2EKTMZwc1Uow23cjWQwBKC0YZpndv6euTEfHJhpmhyh5QbOn5nACJSBVO2BIZEHW9fZYGESByh1njx7Ef/h78ZLjXe9dfsD6lzu0ZJMykiQLu/Y6Z+A==;DQHkx//lp5vReOV986/raQ=="
 ---
 

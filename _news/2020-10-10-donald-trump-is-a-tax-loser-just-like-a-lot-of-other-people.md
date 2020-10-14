@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5f8371d5e4b04d445762fba5-1602449877042?location=LANDSCAPE"
         width: 1200
         height: 675
+        isCached: true
+  - title: "More than a third of Michigan Trump voters don’t even like him"
+    excerpt: "A new poll out of Michigan doesn’t just show Democratic presidential nominee Joe Biden beating President Donald Trump — it also shows that a large chunk of Trump’s own voters don’t like his behavior."
+    publishedDateTime: 2020-10-14T17:02:00Z
+    webUrl: "https://www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Trump-supporter.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "Pi+gHmIPcz8XaT72TuDnhHl1qkqj5wAC83qqvICoWo5pHi+zrfLfFiHNzheDKwK2fCqtpQCpdCPZvAL1hP6u9T+sJiLez89SDR6WH9pLl1RoDQE7I30YNbV/uTgaq5WcZpATfaGDNITyLLeKJYAdnYQPpyIDxDSX4A0TSg2shizC3WFoSwXX9bjjwIHBb7AmzYV5pkvVOdOF9j393K4m9+HQcV3vu5xzxhSNhjw2XyM/MNsfZyISNxjad8uTwCpj12FejlL2OSk3Lztvyxv/dzj2Y16JgYSRujgV3QBhUOVaoTpqBzMUE75zjdsHEnaOg9npXwZzUqHV02srVN1J+KTTMLEJ3/J+Db0UnNXQipQhbaA/qp8y+Q0rPABr4+zmah/CM1pcRe6QsMDVCTQO9w25CMSYI1Sk3blooHsPDPooVL2sTg9aVtEmzx+rnVNJ7cwm74rKaYiAxruND8p3xpQsfI+uDBObe5KzytGXNhA6mDc1wwhR+rjh+nUbvsj6HvwMesanD3kwy0NU7hzSBw==;/zTj8/Gd9VWeX9ygWi5xOg=="

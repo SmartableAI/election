@@ -223,6 +223,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Indian-Americans Overwhelmingly Support Joe Biden, New Poll Shows"
+    excerpt: "Americans plan to cast ballots for the Democratic ticket of former Vice President Joseph R. Biden Jr. and Senator Kamala Harris, according to a survey released Wednesday, despite elaborate overtures by the Trump White House to win their support."
+    publishedDateTime: 2020-10-14T14:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14indians-survey/14indians-survey-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "How Joe Biden Became the Unlikeliest of Online Fund-Raising Superstars"
+    excerpt: "Four inflection points transformed Mr. Biden from a pauper during the primaries to a powerhouse against President Trump."
+    publishedDateTime: 2020-10-14T18:26:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/13/us/-promo-1602638834025/-promo-1602638834025-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
     excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
     publishedDateTime: 2020-10-06T01:04:00Z

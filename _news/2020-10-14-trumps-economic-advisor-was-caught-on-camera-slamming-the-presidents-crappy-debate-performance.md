@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wrestling champion Dan Gable will receive Presidential Medal of Freedom from Donald Trump"
+    excerpt: "Dan Gable, a collegiate and Olympic wrestling legend from Iowa, said he will receive the Presidential Medal of Freedom from Donald Trump."
+    publishedDateTime: 2020-10-14T18:06:00Z
+    webUrl: "https://www.usatoday.com/story/sports/olympics/2020/10/14/dan-gable-wrestling-receive-medal-freedom-donald-trump/3653651001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3653651001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3653651001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/07e71269-2272-423a-9a21-0e48ae6ab8bc-gable.jpg?auto=webp&crop=2476,1393,x950,y690&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
     excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
     publishedDateTime: 2020-10-09T16:24:00Z

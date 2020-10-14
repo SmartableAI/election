@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-bid
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
 type: article
 quality: 174
-heat: 334
+heat: 354
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49fb02d7-42d4-4cda-b4d8-23f4c137a0bf/ec1a6b40-1aa9-4451-bf81-d543fe7d2cc1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden camp hits back at Hunter Biden email report suggesting then-VP met with Burisma exec"
+    excerpt: "The Biden campaign hit back Wednesday after the New York Post reported that newly uncovered emails suggested Hunter Biden introduced his father, then the vice president, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request."
+    publishedDateTime: 2020-10-14T17:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fkQxoQA9hZI/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Kim Strassel: New report reveals Biden's 'wink-nod' approach to Hunter's business dealings overseas"
     excerpt: "The Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden raises \"the many and disturbing conflicts of interests\" surrounding Joe Biden's time as vice president."

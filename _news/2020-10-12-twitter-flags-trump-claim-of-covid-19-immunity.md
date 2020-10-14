@@ -45,6 +45,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "More than a third of Michigan Trump voters don’t even like him"
+    excerpt: "A new poll out of Michigan doesn’t just show Democratic presidential nominee Joe Biden beating President Donald Trump — it also shows that a large chunk of Trump’s own voters don’t like his behavior."
+    publishedDateTime: 2020-10-14T17:02:00Z
+    webUrl: "https://www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Trump-supporter.png"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "e+/sEd6zz51QwvdjY6vur2PMLGYMBR2KucPjiM9kev8XdLNhTnLM3Vr3ylnlWytA1FlCTJZP0azYJ+HNzC5OtnPydju2TY2Sl0aYSyEYZPhJBz/agAZtQL0zHVhO0yp9ZhFz76vacVrIRHRtoNyBoRbnKBQZcfOmHTB7BDJkHnqNnc6EwVWNGVJ4RbJyZamerix/mOmsReDvGSWC0/rB+KnXafc+HV6o5PEFJkm57+q9T25kqRmPJBhTOtTEeQGRGSOEdvgnivMQvX3Xcb6FmMNDS0fcfnJHK6zKfipc6Y6mjjdqtwnFspmWyzTAfYx218J/tfB9dT69BjMNPqfu/FD6a8EvSia31lSYtopokCs=;7+s9r0Q2lPjD8y15aiv3DQ=="
 ---

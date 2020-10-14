@@ -2529,6 +2529,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris proves her mettle"
+    excerpt: "Kamala D. Harris (D-Calif.) to the Democratic presidential ticket — even after her error-free rollout, an impressive convention speech and a winning debate performance — the nominee for vice president put on an impressive display Tuesday evening at the Supreme Court confirmation hearing for Judge Amy Coney Barrett."
+    publishedDateTime: 2020-10-14T14:45:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
   - title: "Let's Talk About Kamala Harris"
     excerpt: "The VP candidate's biography and heritage allow people to project all kinds of ideas onto her, and to see what they want to see. But Kamala Harris's identity is a very important lens into not just her own politics,"
     publishedDateTime: 2020-10-14T04:31:00Z

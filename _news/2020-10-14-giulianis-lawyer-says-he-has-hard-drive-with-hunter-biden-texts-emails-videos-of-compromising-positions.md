@@ -8,6 +8,9 @@ webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-iTlRbASiY/hunter-bide
 ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions.amp"
 type: article
+quality: 156
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -26,6 +29,88 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Hunter Biden introduced Burisma adviser to VP dad before Ukraine pressure, email shows"
+    excerpt: "Hunter Biden introduced his father, then-Vice President Joe Biden, to a top executive at a Ukrainian energy firm less than a year before the elder Biden pressured government officials in Ukraine into firing a prosecutor who was investigating the company, according to emails obtained by The Post."
+    publishedDateTime: 2020-10-14T10:34:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNyVsxUf6_U/hunter-biden-ukraine-burisma-adviser-email"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings"
+    excerpt: "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings."
+    publishedDateTime: 2020-10-14T19:10:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Fox News obtains email sent to Hunter Biden requesting his help as Ukrainian gas company was being probed"
+    excerpt: ""
+    publishedDateTime: 2020-10-14T18:07:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xi16cImlSg/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hunter Biden emails under investigation by Senate Homeland Security Committee after hard-drive report emerges"
+    excerpt: "The Senate Homeland Security and Governmental Affairs Committee is investigating newly released emails which revealed that Hunter Biden introduced his father, former Vice President Joe Biden, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request. "
+    publishedDateTime: 2020-10-14T15:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B90Gv0NbL1Q/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Voters have right to know what Joe Biden did for son Hunter: Devine"
+    excerpt: "Joe Biden repeatedly has denied knowing anything about son Hunter’s lucrative work on the board of Ukrainian energy company Burisma. “Hunter Biden is a private citizen and a lawyer. The former"
+    publishedDateTime: 2020-10-14T09:33:00Z
+    webUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/"
+    ampWebUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "oqRFj+i0al1ANcMWcKFbtwGFeVGV9aC1GwQqO0kwMQ5jxp7hVXFlq3DsY0ZccpYbWG0HM/aQv4RzBouOd8RYxV4kVFzpX2d05gg+vI/Eyv37zll2S++tS0DCyRI7RUb0/s4EnwKHv6u1hB5pgF/4+6Gx5KBbdXMJfxzjm1vm5p9vaJLif2kHu43x9eeCSXBl9m/hE0KHM6AR+Asj174UZ+F8WunzS1wih1GABfFVxaH5l8eriKHBZo/oa/8vwEk2brNTCjhOy8gLcHqsH8S5KhmTdpNNk30unxh1s3X6HJ3U6Q405GvERHg9J6BoZS1E4gbIWVgf1yiXhvvrm5SpXHIy4UcopLuT1Wu9KhJwwT0=;i8kWVlGuiIuE/6hmsyFcTQ=="
 ---

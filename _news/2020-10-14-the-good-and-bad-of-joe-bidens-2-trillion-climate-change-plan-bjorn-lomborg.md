@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-
 cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Los Angeles Daily News
@@ -25,6 +25,81 @@ images:
     width: 1024
     height: 662
     isCached: true
+
+related:
+  - title: "George Floyd's sister calls for change in new Biden ad"
+    excerpt: "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
+        width: 780
+        height: 551
+        isCached: true
+  - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
+    excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
+    publishedDateTime: 2020-10-14T18:44:00Z
+    webUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
+    excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
+    publishedDateTime: 2020-10-14T14:17:00Z
+    webUrl: "https://www.cnbc.com/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 110
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106742672-1602619695489-Former_Vice_President_and_presidential_nominee_Joe_Biden.jpg?v=1602619788"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "New poll shows Joe Biden ahead in Michigan"
+    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-12T18:55:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
+    excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
+    publishedDateTime: 2020-10-10T20:25:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "hbpTXNJNEwz3bt85vvY+kYW9y5O4CBPljglLi0c/j6B+DzGpRIq4jrwlCwdj5rc+/6CNHbZRe3lLjLSvvnOtDc4uxiXZqh9sJO7uxJNdK8msQDl/OnYj3m9A8v8AogwRslfUddDj9KOgDv0mE1R3nuQFe0MVguUXt3qNKUQk7pDQEv95fEhVblr0vY9CfEhIaxG2mYPrVwD2p/s6Vm7zrXIqzv5YY6LGOFpHI6sXogSn726SLci/dnqgxMzPmJkCIvZwlljtN7z6dk2Rio5E9GyK5+Lf6hllo6ZjFvITAo+3Ldjw6RhANJ+5IEyWGMOKV+sTuZvF9HLtSsAm2C+XOqZ3SSXWBlfKCq7eTRM+F/erkC0Z/emT3lzZ+ZgJIS/54xBkWRZnDHjitnc5axOpBhNxbabMpJlHriTivPg+tCULAw42qjcmyfQmZP7bflmOZxuI0kxCZA7B5PkaS7D/4gcLKCFGZoZuJxvekWPtXbCQuPb8LPdSKVmfM3thev01oUelGt5jZjfcDlgq9D/IZQ==;NblPYtR1tkYI4KY05AANWQ=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump needs this pivotal county and its rural voters to win Pennsylvania"
+    excerpt: "Women and men of all ages arrive well before opening. It is midmorning in the middle of the week, but a lengthy line of people patiently waiting forms outside a country home painted to look like an American flag, near a 14-foot Donald Trump cutout on the front lawn.\n    \n"
+    publishedDateTime: 2020-10-14T19:29:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D0PGgFo3BIY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014150337-02-trump-house-pennsylvania-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
     excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
     publishedDateTime: 2020-10-13T22:56:34Z
@@ -206,6 +222,22 @@ related:
       - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
         width: 1160
         height: 773
+        isCached: true
+  - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
+    excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
+    publishedDateTime: 2020-10-14T18:11:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/st-louis-couple-who-waved-guns-protest-have-spoken-trump-n1243391"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243391"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243391"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
     excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"

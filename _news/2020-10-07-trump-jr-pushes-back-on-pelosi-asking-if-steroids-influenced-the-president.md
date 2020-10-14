@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519978-trump-jr-pushes-b
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519978-trump-jr-pushes-back-on-pelosi-asking-if-steroids-influenced-the?amp"
 type: article
 quality: 123
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 116
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Wrestling champion Dan Gable will receive Presidential Medal of Freedom from Donald Trump"
+    excerpt: "Dan Gable, a collegiate and Olympic wrestling legend from Iowa, said he will receive the Presidential Medal of Freedom from Donald Trump."
+    publishedDateTime: 2020-10-14T18:06:00Z
+    webUrl: "https://www.usatoday.com/story/sports/olympics/2020/10/14/dan-gable-wrestling-receive-medal-freedom-donald-trump/3653651001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3653651001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3653651001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/07e71269-2272-423a-9a21-0e48ae6ab8bc-gable.jpg?auto=webp&crop=2476,1393,x950,y690&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

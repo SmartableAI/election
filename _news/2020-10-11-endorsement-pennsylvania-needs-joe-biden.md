@@ -121,6 +121,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Joe Biden Has 74 Percent Chance of Winning Pennsylvania, According to Bookmakers"
+    excerpt: "Biden has a 74 percent implied chance of taking the must-win state, while Trump is trailing with an implied chance of 28 per cent."
+    publishedDateTime: 2020-10-14T16:22:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-odds-win-pennsylvania-bookmakers-1539101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1651800/joe-biden-pennsylvania.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
     excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
     publishedDateTime: 2020-09-25T21:38:00Z

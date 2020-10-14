@@ -677,6 +677,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to make campaign stop in Cleveland this Friday"
+    excerpt: "The Democratic nominee for vice president is expected to make her first campaign stop in Northeast Ohio later this week. U.S. Sen. Kamala Harris will travel to Cleveland on Friday, the Biden-Harris campaign announced Wednesday morning."
+    publishedDateTime: 2020-10-14T14:53:00Z
+    webUrl: "https://www.wkyc.com/article/news/politics/elections/kamala-harris-campaign-cleveland-friday/95-e16e57cc-2556-4dbc-943c-2e1336491323"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/elections/kamala-harris-campaign-cleveland-friday/95-e16e57cc-2556-4dbc-943c-2e1336491323"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/elections/kamala-harris-campaign-cleveland-friday/95-e16e57cc-2556-4dbc-943c-2e1336491323"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 75
+    images:
+      - url: "https://media.wkyc.com/assets/WXIA/images/79891cf9-0953-4d51-b48d-8436c279895c/79891cf9-0953-4d51-b48d-8436c279895c_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Vice Presidential Candidate Kamala Harris Coming To Cleveland"
+    excerpt: "Vice presidential candidate Kamala Harris will be in Cleveland on Friday. Details on Harris' visit are scarce at the moment, but the campaign will release more information soon. Recent polls show the race in Ohio tightening into a toss-up,"
+    publishedDateTime: 2020-10-14T16:19:00Z
+    webUrl: "https://patch.com/ohio/cleveland/vice-presidential-candidate-kamala-harris-coming-cleveland"
+    ampWebUrl: "https://patch.com/ohio/cleveland/amp/29018806/vice-presidential-candidate-kamala-harris-coming-to-cleveland"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/ohio/cleveland/amp/29018806/vice-presidential-candidate-kamala-harris-coming-to-cleveland"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22896693/20201014/111440/styles/patch_image/public/gettyimages-1145493381___14111419288.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
   - title: "Mike Pence and Kamala Harris face off — pointedly but civilly — in vice presidential debate"
     excerpt: "Senator Kamala Harris tied Vice President Mike Pence to a “disaster” of an economy, a “failure” of a coronavirus response, and a “weird obsession” with undoing the achievements of the Obama administration in a tense but civil debate between the two candidates Wednesday night that avoided the chaos of last week’s presidential debate."
     publishedDateTime: 2020-10-09T20:20:00Z
