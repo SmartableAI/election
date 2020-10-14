@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Vulnerable Senate Republicans tie themselves to Barrett with Trump's numbers eroding "
+    excerpt: "Endangered Senate Republicans have a new running mate in the battle to keep their narrow majority: Amy Coney Barrett.\n    \n"
+    publishedDateTime: 2020-10-14T02:59:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnev-xi5RxM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092118-04-barrett-hearing-1013-graham-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former CIA director accuses intel chief of selectively declassifying documents to help Trump"
     excerpt: "Former CIA director John Brennan on Tuesday accused current intelligence chief John Ratcliffe of selectively declassifying documents ahead of the November election that benefit President Donald Trump, telling CNN that the decision to release materials gathered by the agency on Russian allegations that"
     publishedDateTime: 2020-10-06T22:11:56Z
@@ -494,6 +510,22 @@ related:
       - url: "https://static.politico.com/f9/8b/3ab7a55f40caacae2c7f314a0e1d/ap20279851367783.jpg"
         width: 4145
         height: 2763
+        isCached: true
+  - title: "Wife of Trump's labor secretary, who was at Barrett Rose Garden event, tests positive for Covid"
+    excerpt: "Secretary Eugene Scalia, the son of late Supreme Court Justice Antonin Scalia, tested negative on Friday night, according to the department."
+    publishedDateTime: 2020-10-14T02:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/wife-trump-s-labor-secretary-who-was-barrett-rose-garden-n1243291"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243291"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243291"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3419981/201013-eugene-scalia-patricia-scalia-ac-955p_ab824d5d28cb8a48892546505d3f8cb0.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "As Trump returns, West Wing becomes 'a ghost town'"
     excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."

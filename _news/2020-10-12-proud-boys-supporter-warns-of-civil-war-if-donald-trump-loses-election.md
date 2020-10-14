@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?am
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
 type: article
 quality: 139
-heat: 379
+heat: 399
 published: true
 
 provider:
@@ -220,6 +220,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
+    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
+    publishedDateTime: 2020-10-14T03:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "arQIreZ8heoDc1yYAoKqBDeAmyFEQyKCSBWa1uiSfEMXNPk7hSDon9hnk9l+uRK4lRp9WtUFFblL4v9Qr0qV8Yyk2LapQGRcrePC8J1w/qqV03uvP+h13Tg9IykILBqSvhV4jkOXCUIL/icGmMbmgw065c9i6QGAWOsox3LxyWHyxggdM/vvU2z4PtFnOxWtJFugel5EbObWUQkxMrJE+qa1e1uND8V9Y+SL1kJCTnsrlXcOeHskouzyV5PEqjQI7LAI8lDVeItcBOluNzb25AoHkutA7GOUNCan4j2WcVQ6oMEbh0v9VPLlAW65oZ/TmHq7cUZg7PoXTOWSPFQ2ISt+Gxv8IAV3nyIzGFkuHAtg1tjp+V3ROa5mX8Ni0gezApoS72I4Z3MVgGQ9ZuxkCQm90J/Ae1g4dpMEGca7z0vPPdAh2iqNPs44c5m8xHnmSjC97hfJKUTJRhCA+MjqcDLfQ4Oyrqv8mYQksrCFGH98C6V9VXmXDA+7ZhnYR4V5vvUExNOGmPtAvQl3gLazJw==;xboa3+kutOOD1+NBaWKbCA=="

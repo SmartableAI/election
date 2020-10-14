@@ -3242,6 +3242,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Trump, Joe Biden zero in on swing states that are key to victory"
+    excerpt: "With Election Day just three weeks away, President Donald Trump and Democratic challenger Joe Biden are concentrating on battleground states both see as critical to clinching an Electoral College victory."
+    publishedDateTime: 2020-10-14T01:51:00Z
+    webUrl: "https://www.wbaltv.com/article/president-trump-joe-biden-zero-in-on-swing-states-that-are-key-to-victory/34364123"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/president-trump-joe-biden-zero-in-on-swing-states-that-are-key-to-victory/34364123"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/president-trump-joe-biden-zero-in-on-swing-states-that-are-key-to-victory/34364123"
+    type: article
+    provider:
+      name: WBALTV11
+      domain: wbaltv.com
+    quality: 88
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/trump-air-force-one-getty-1602639516.jpg?crop=0.795xw:0.695xh;0.0926xw,0.0929xh&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump’s attacks on Biden as ‘senile’ have ‘backfired’ spectacularly: Morning Joe"
     excerpt: "Addressing Donald Trump’s early attacks on former Vice President Joe Biden as being “senile,” MSNBC host Joe Scarborough and “Morning Joe” regular John Heilemann stated the president’s campaign has backed off that talking point because it ‘backfired” on the president — particularly with the senior voters he desperately needs."
     publishedDateTime: 2020-09-18T12:28:00Z

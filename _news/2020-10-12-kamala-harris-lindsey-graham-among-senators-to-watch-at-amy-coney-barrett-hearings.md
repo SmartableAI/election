@@ -373,6 +373,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
+    excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
+    publishedDateTime: 2020-10-14T02:45:00Z
+    webUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/"
+    ampWebUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 48
 
 secured: "OYykccTK9kXeaN0sSSQG6j/uXpth9NwOkpZ/Im3f0btFbeTczAsHGrQP8SeNd6NOlFC8aFtij/KaI93tLHtRHHnn+PPc+RPJiwatN8MFczHJPjff8A8yNDCZrv/93Q9JTwFA/k3Wzd5gtWTc/39+KMQZT4XIfetwoAhDplnQPfRn7PBZBwe9F5QvUHE3GDGzjGUF9on+njs6onvByCQMhnv5r+Mv9knW86hrKf/RuEB0zxJByMlsWmUFOUW8EyU3+KJqvG6pYzVDk9gM0wMl7AoQ5huOn6jA0x8DCLJ2bvFkAvIrq5M5diCWIs1ADf2qXZfluGVxnY/Bacfb5ayrOCVBiNQvapHIXRyquj/NfRc=;qjTI7Bbns1UoXikBNo8Qeg=="
 ---

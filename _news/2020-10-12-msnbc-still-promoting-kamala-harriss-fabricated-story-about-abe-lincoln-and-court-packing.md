@@ -252,6 +252,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Sen. Kamala Harris Questions Supreme Court Nominee Amy Coney Barrett"
+    excerpt: "Calif., questioned Judge Amy Coney Barrett on the second day of the Senate Judiciary Committee’s Supreme Court confirmation hearing. Harris laid out the stakes surrounding the survival of the Affordable Care Act,"
+    publishedDateTime: 2020-10-13T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/sen_kamala_harris_questions_supreme_court_nominee_amy_coney_barrett.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524015.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
     publishedDateTime: 2020-10-12T20:16:00Z

@@ -3247,6 +3247,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Trump, Joe Biden zero in on swing states that are key to victory"
+    excerpt: "With Election Day just three weeks away, President Donald Trump and Democratic challenger Joe Biden are concentrating on battleground states both see as critical to clinching an Electoral College victory."
+    publishedDateTime: 2020-10-14T01:51:00Z
+    webUrl: "https://www.wbaltv.com/article/president-trump-joe-biden-zero-in-on-swing-states-that-are-key-to-victory/34364123"
+    ampWebUrl: "https://www.wbaltv.com/amp/article/president-trump-joe-biden-zero-in-on-swing-states-that-are-key-to-victory/34364123"
+    cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/president-trump-joe-biden-zero-in-on-swing-states-that-are-key-to-victory/34364123"
+    type: article
+    provider:
+      name: WBALTV11
+      domain: wbaltv.com
+    quality: 88
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/trump-air-force-one-getty-1602639516.jpg?crop=0.795xw:0.695xh;0.0926xw,0.0929xh&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump, Joe Biden absorb news of Ruth Bader Ginsburg’s death on the fly"
     excerpt: "Minutes into the latest Donald Trump campaign rally, the world got word that Justice Ruth Bader Ginsburg had died. But no one told the president."
     publishedDateTime: 2020-09-19T17:12:00Z

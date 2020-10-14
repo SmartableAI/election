@@ -2,17 +2,17 @@
 category: news
 title: "Sen. Kamala Harris talks women's right to an abortion on second day of Barrett hearings"
 excerpt: "Sen. Kamala Harris highlighted the impact Barrett could have on a woman's right to an abortion on the second day of confirmation hearings."
-publishedDateTime: 2020-10-14T01:40:00Z
-originalUrl: "https://www.azcentral.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
-webUrl: "https://www.azcentral.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
+publishedDateTime: 2020-10-14T02:18:00Z
+originalUrl: "https://www.freep.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
+webUrl: "https://www.freep.com/videos/news/politics/2020/10/14/barrett-hearing-sen-kamala-harris-talks-womens-right-abortion/3646996001/"
 type: article
 quality: 47
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -794,6 +794,6 @@ related:
         height: 600
         isCached: true
 
-secured: "dr7GTliVIhf1IfZMapJboDMD+06gi/8aOfVcGzBsvYmzz0Q+35FWNoa5BGlHZD90F56xVDX/Lrtk+mxrZu/1LxweTRqxO8eNaBIUhcWAbAiFjMeTNWSXk2qda3xvfWgym/HbdjiPVUCyYHkJRLxKiSEgYj95Bkm5edbt6FOkNcRldzQRRJSBdZL+f6Q88fBBFTgQEMXvxMD5HceedDRZCWbWQfcVa63oZf0DJksTcxJ8XWarz6oxvSyWLr9BE0Dunvzc40Q5Ues6ecg+spN20Gg96Homm2CbfMwcQjSytRa1+Dpolj0vpEX+FJPL+flZTZ3rRNbkdCyrA1gxcz5nJnmihl/MWmWxKl7lwxK1LCw=;Hj00cJ4rFZAzkNKziHCmHg=="
+secured: "YinceDFlGdRDjlfH5Qd31OVQzp5tKg4BMhhmLmIzsGsfCqh6wDfodggrac+3/itY64E+Npde/06BdORH1Yv5UmT6oYMMHbbIiavgEqElZ8Tvyhy2t/pJEtAkwwqjoV6AH4wJEYxUwsqfW29cjxQ1At04gwNW+Sv4NAt0YUGLgIGM3gzSmMbxhKUnD7eWHo7JtHoH6BxFXRomVQveiTM+4VorxUY6f5uC0CVBpCu9LUMBdWwQnadgg9R0dUxUhFZTIDHpsxOfGHOE4Cq5e37u3VIoYB+1sDbUOsyDE3k08Iz3jfY1UtubutGJfbq7OYIMsYnYHjv1WAYfQzQoVm/3Z9XvAfDaO/s54/oWb3ixIAA=;q9/+NKlkvC3LLxmsl6CYDw=="
 ---
 

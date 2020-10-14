@@ -171,6 +171,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence To Campaign In Miami"
+    excerpt: "Vice President Mike Pence will make appearances Thursday in Miami, as President Donald Trump’s re-election campaign ratchets up its focus on Florida."
+    publishedDateTime: 2020-10-14T01:49:00Z
+    webUrl: "https://miami.cbslocal.com/2020/10/13/mike-pence-campaign-miami/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/10/13/mike-pence-campaign-miami/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/13/mike-pence-campaign-miami/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
   - title: "Vice President Pence Campaigns in Ohio"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus. President Trump spoke at a campaign rally in Newport News, Virginia. He was introduced by Vice President Mike Pence."
     publishedDateTime: 2020-10-12T17:23:00Z

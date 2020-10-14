@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
 type: article
 quality: 179
-heat: 499
+heat: 519
 published: true
 
 provider:
@@ -241,6 +241,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Sen. Kamala Harris Questions Supreme Court Nominee Amy Coney Barrett"
+    excerpt: "Calif., questioned Judge Amy Coney Barrett on the second day of the Senate Judiciary Committee’s Supreme Court confirmation hearing. Harris laid out the stakes surrounding the survival of the Affordable Care Act,"
+    publishedDateTime: 2020-10-13T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/sen_kamala_harris_questions_supreme_court_nominee_amy_coney_barrett.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524015.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "MSNBC still promoting Kamala Harris’s fabricated story about Abe Lincoln and court-packing"
     excerpt: "MSNBC is still promoting Sen. Kamala Harris’s made-up story about Abraham Lincoln and court-packing. The Democratic Party surely appreciates the service: . \"But, Honest Abe said, it's not the right thing to do."

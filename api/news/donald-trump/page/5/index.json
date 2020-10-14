@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-30-people-who-follow-trumps-advice-and-hang-around-watching-polling-places-will-be-prosecuted-nevadas-attorney-general-says.md",
+      "title": "People who follow Trump's advice and hang around watching polling places will be prosecuted, Nevada's attorney general says",
+      "excerpt": "Trump refused to commit to accepting the results of the 2020 election, instead telling supporters to \"go into the polls and watch very carefully.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9",
+      "originalUrl": "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7471ad0ab50d00184ad361?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp",
+      "publishedDateTime": "2020-09-30T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-said-portlands-sheriff-supports-him-the-sheriff-disputes-that.md",
+      "title": "Trump said Portland's sheriff supports him. The sheriff disputes that.",
+      "excerpt": "\"In tonight's presidential debate the President said the 'Portland Sheriff' supports him. As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,\" Sheriff Mike Reese tweeted.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "originalUrl": "https://www.cbsnews.com/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/dbf8d5f7-cc73-41b9-81a0-053b416b4ac2/thumbnail/1200x630/55135e432af3c30438ab4da906fbdd7a/ap-20274041554822.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/",
+      "publishedDateTime": "2020-09-30T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-matt-gorman-trump-has-a-new-running-mate-now.md",
       "title": "Matt Gorman: Trump has a new running mate now",
       "excerpt": "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass.",
@@ -1467,110 +1571,6 @@
       "ampWebUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
       "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
       "publishedDateTime": "2020-09-26T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-four-years-ago-trump-survived-access-hollywood-and-a-media-myth-of-indestructibility-was-born.md",
-      "title": "Four years ago, Trump survived ‘Access Hollywood’ — and a media myth of indestructibility was born",
-      "excerpt": "In the warped sense of time born of the Trump presidency and the pandemic pause, it seems both eons ago and only yesterday that the “Access Hollywood” story rocked the mediasphere. In fact, it was just about four years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AIEDKYHZ6II6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-26T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-claimed-he-would-mail-200-cards-to-millions-of-older-americans-weeks-before-the-election-but-its-not-clear-he-can-actually-do-it.md",
-      "title": "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it",
-      "excerpt": "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
-      "publishedDateTime": "2020-09-26T03:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

@@ -242,6 +242,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Sen. Kamala Harris Questions Supreme Court Nominee Amy Coney Barrett"
+    excerpt: "Calif., questioned Judge Amy Coney Barrett on the second day of the Senate Judiciary Committee’s Supreme Court confirmation hearing. Harris laid out the stakes surrounding the survival of the Affordable Care Act,"
+    publishedDateTime: 2020-10-13T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/sen_kamala_harris_questions_supreme_court_nominee_amy_coney_barrett.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524015.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "MSNBC still promoting Kamala Harris’s fabricated story about Abe Lincoln and court-packing"
     excerpt: "MSNBC is still promoting Sen. Kamala Harris’s made-up story about Abraham Lincoln and court-packing. The Democratic Party surely appreciates the service: . \"But, Honest Abe said, it's not the right thing to do."
     publishedDateTime: 2020-10-12T14:13:00Z
@@ -268,6 +282,6 @@ related:
         height: 562
         isCached: true
 
-secured: "JOTkUCWujGWxol7b3QotknydV3gdnVUNobAyPD29eSmLGaWcFBZHavI0TfV7p/8dDpdIQ5YH3c18EtTuW0U3dM55Zc3s5on0FXxqxkMyIp89+7rbyimPGIXuk5vjrhWNt0c/vOL5LzFToGNHDKiUQ3f3kXeCS1L8Nf/E8vZ/Cmg/cgNbEqUDKK7ph796P+Y+8ftKD0h8VrhWgmH6FUK/TFYTfG8GQgP2mWUseXTiEmE5q1KHz5U/6q03SLkBl5IqSgKChD1UTKcIIZYe6K/5MUSV6UOZGoRs5uXVAGxkka0bVUHVs/9A+XV13tuQ6mw6Y+bkKvTtvl0qTsSvfpxKs7jjBkYeh1Y5eaTVQyttthw=;N719XEMsgp4CfirCTkZkXw=="
+secured: "+6xxHhCivMG1eUSRBjR4Cag6LC3cOflWthW9yH7VV1ELlwijFQrEyd196pTq8VC0qrDlv5pfaf8JM5k+4PNZ6R3SFc1G1by2EeFFMSzrd4UGjnYYFkyxyVLYplDh3FZilqDpFE+J43zIWIVv0Tk/y5BEonmXltXjcpCG3leclXs/ZYQcEj7b1DEOsmeXsdXtpoiXihRk5DkPKoBU22eAkl6XfwloItfM3N5QnF+US5NW/M16FuaDer2sviHJAFod5fi7+us7fe3UP+x6Q3YFeCz4rDcil7UOrTK2nUMON2hQiyVuqHSlGhDOSIf2RsvVI8oHcY2Sm7UwfBXS16t2AdpWDnHbW9dLdMFd5i0sjr5n8Bu0TxaqhMMGnBeucfZBntnrfjUqA359f7jgomXGajfcpMAa2PVfFapiZAx+XtHN01RHqbNxg+Qq18g8eGlmiSggl1vWBYfdYONugjoCIHGOsTofyJfHLbPDeSrfHNCf/AyI5pe6n6/PRgKBrMyLfL7/29y5gj4j5SQKsmJdwg==;DxSMhEnxHfWtnk0IukvFRg=="
 ---
 

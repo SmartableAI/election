@@ -398,6 +398,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "The Latest: Trump holds 2nd rally since contracting virus"
+    excerpt: "WASHINGTON (AP) — The Latest on the 2020 presidential race (all times local): 8:55 p.m. President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a Democratic administration could threaten the suburbs."
+    publishedDateTime: 2020-10-14T01:41:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Romney-wants-election-rhetoric-toned-15644042.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Romney-wants-election-rhetoric-toned-15644042.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Romney-wants-election-rhetoric-toned-15644042.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "President Donald Trump, First Lady test positive for COVID-19"
     excerpt: "President Donald Trump announced early Friday that he and First Lady Melania Trump had tested positive for Covid-19, shortly after one of his closest aides, Hope Hicks, had fallen ill with the coronavirus."
     publishedDateTime: 2020-10-02T11:17:00Z

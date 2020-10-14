@@ -221,6 +221,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
+    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
+    publishedDateTime: 2020-10-14T03:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "n/IP0iE/0S1XoEXmsUIRZApYJEmqK0vd32181+xcg19/fNqKAqxX+/iS8fRkUlP6vv9QIshO//RxCiY7RdKzMmbwOkpwfQWw4Y57bSQWdBy9BAYVIcp0TTBlx2qvIv5FU1mK9gZOB5/FNF1V1gF5N5stsHPvNycQN0VC6/cEMipHkSegWbPbi4oaCNXSVmFMhVnXNm9PTWaKgqQStFcIKAiYE4c4gZsLCO30w4XgE3Lcn4496eXMnmlr4GxuFAAQkCIUvbf3XkW2WS5U+IbPuTuZiCRxMvU7Bh8FlayL2NrKL8wFJMACaQJZopdl4DuZMjUEor/4XQCflp/S+6XEARwfQ9gNgY4UjNWTv09BlGI=;E/YsdW/+9GjYXw0gNRUIfQ=="
 ---

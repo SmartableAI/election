@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Trump Makes Water Demand of Farms Priority for New Office"
+title: "Trump makes water demand of farms priority for new office"
 excerpt: "President Donald Trump on Tuesday created what he called a “subcabinet” for federal water issues, with a mandate that includes water-use changes sought by corporate farm interests and oil and gas. An executive order from Trump put Interior Secretary David Bernhardt and Environmental Protection Agency Administrator Andrew Wheeler in charge of the interagency water body."
-publishedDateTime: 2020-10-14T01:11:00Z
-originalUrl: "https://www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office"
-webUrl: "https://www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office"
-ampWebUrl: "https://www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office?context=amp"
+publishedDateTime: 2020-10-14T03:05:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_947d61939cc946fca02d39436612c252_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos"
@@ -165,6 +171,6 @@ related:
       domain: usnews.com
     quality: 54
 
-secured: "xvlRiXNcJpuvOGP0cCihZmSoIiX2HROvFNqB+Ah0T8h1WRmt5PNynCqdrjff1lYuXV1LlocMSc8R2b5Qg8/VhAkBCmTcznHsfoWEKvCwdHK6venGEiTdY5kKUYFlvCXFV79bLEIFlt/IKTtQLFLK4WKox8QBgH2gsUL/bGMS9iwRG6aqUiQFrrdnVt0e20g3HmS8qUXg6FH9nwSjpSZjrEQ6v6pSsikUlLKkEs0as8GWCc7GBtfLPq2OE2E+EgEqEBKUPvywUmEO4XH4fKJvzRu6tzn5Ul1UcPGbr2NzSugfrxk2cjxG0+8eVXOxQaDS5aR4d4atgI7C9nqdfjYayB7JSlrO/uWs0BW4qQ1KrWGJb8dOtA8K1pjyqxYZdfcam2qclCiJU4SfrCTe0Xx35n2ZBNPhNLHGE6FdH92yAS0/BmfRpo4SZIiKYYXZhMErMte/hU1S0wUjgIZyWUOe9RQMb/bhw76QBaRvmsYhWeMVVhVgKVyiS5Avk1fB1Ym1eCdvY5i3jPxRn3lCNpdJlg==;EsGrsg9eZhjyhNzK8flIwQ=="
+secured: "JkW9vnIfXPhs1GWE7UfK+qBHG39+6uKndVsT+I1PSxwW4CJ7nIq2xqfHsVli0D6OgyIR6uhqg+plZeAl04sfBmWHA/5gh8E6fX/ruL9UIlH3Ub2BSCHKsKAKc4KoXz96wt4AOaaVFxazCP5ri+Q4CuaokszERbPuTYNuAvSvc319vEaW7C0pDlIbmTElzGVjlxaA9F9c/z6rpLveJR8CWFfyp9jEiuHevBzORDdiaUbzqYfPjDOSxmQMPzY+X4uGwpVT2ua+Aqti5sljbDID/NezRjztesgOTLOTn4PhT17pkgPqFhRkgAYYmhpc+U8RXbc8+vJ5yxnTHcvZGgX3ZaqhEnMIyT+yJBpxpxm3VAo=;YFc3yNLFpFN1cnyqwLy3Rg=="
 ---
 

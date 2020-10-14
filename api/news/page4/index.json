@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-11-saturday-night-live-jim-carrey-mike-pence-and-a-very-pesky-fly.md",
+      "title": "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly",
+      "excerpt": "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4b91b1911c3a57a16fabcf48c5c1a68186077354/0_100_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab91fc335b64e343b497ddd0d450cacc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-sasse-its-grotesque-biden-and-dems-wont-discuss-suicide-bombing-court-packing.md",
+      "title": "Sasse: 'It's grotesque' Biden and Dems won't discuss 'suicide bombing' court packing",
+      "excerpt": "What they’re really talking about — or refusing to talk about — is the suicide bombing of two branches of government.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "originalUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b6/9e/daa9bbd04e869f2f46bb5dcf784c/20201011-bensasse-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "publishedDateTime": "2020-10-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-joe-biden-to-campaign-in-cincinnati-and-toledo-on-monday.md",
       "title": "Joe Biden to campaign in Cincinnati and Toledo on Monday",
       "excerpt": "Joe Biden returns to Ohio on Monday, with stops in Cincinnati and Toledo, as Vice President Mike Pence campaigns in Columbus.",
@@ -1211,114 +1320,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-moved-millions-from-jointly-owned-hotel-to-campaign-tax-free-times-tax-documents-suggest.md",
-      "title": "Trump Moved Millions From Jointly Owned Hotel To Campaign Tax-Free, Times' Tax Documents Suggest",
-      "excerpt": "A New York Times report showed that $21 million was billed to a shell company for expenses right as Donald Trump needed cash for a floundering campaign, and right before a $10 million surprise campaign boost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793",
-      "originalUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/no-gambling-on-health-the-hotels-of-the.jpg",
-          "width": 1024,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1",
-      "publishedDateTime": "2020-10-10T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-in-georgia.md",
-      "title": "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?",
-      "excerpt": "It’s been nearly three decades since a Democrat carried Georgia in a presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T04:28:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

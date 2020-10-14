@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden: I'm 'not a fan' of court-packing"
+    excerpt: "Democratic presidential nominee Joseph R. Biden partially ended his stonewalling on Supreme Court-packing this week, saying he’s “not a fan” of the practice that liberals are calling for as payback for confirming Judge Amy Coney Barrett for the Supreme Court."
+    publishedDateTime: 2020-10-14T02:19:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2019/03/15/Supreme_Court_37806.jpg-5e141_c0-89-5568-3337_s1200x700.jpg?0c80d9a17edda4869c69b2190de84c73868e539b"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "z6ODUGpL5ELHADxKS+X5aa62CKwtgGHy1Voq+1AnBBFHTlBKib2kGaRrbXvVJ05J6BKU5v+vV01wrHmyfyO5VxbXE+VtdT3BCpj0czGRzO4rTU2febThN1lDw9UxfGF/vDsIQkX4Xxbjma5rpKSTb/tSLvPpLxmzY5NFfzEMqPQNGftfV3B3HTbg1C1ISiD1VNIzfcSHMAo1ITc1D3gvjVFPOhc2H/6gvlz/kwYXo2lb5N1My73xQ3fNx58N7Pjf9+XNvRYLe8Xfr3pkGP6S2kUen846I0VMzLuLCgIjesZqv/ZrUlh2BQYZLytHan5K/w3BNdRzXrrVHGIyvqmPJb0v9t7j3MunX8G2Axc0+L3rVXYVU13p+C14APKrCVGnhDsQES5jPYkusZqeqwscpNaefaRKRms/g9WKQCdv7b/MnY2/PqWQUEiHYRzs9f3yWs5/8/ELpfgvm4/ax76cnSyQuAlZfgUfVe+GvNqjix/v0UN4/ENAkiGjw+NsZRlOXClgFYg9H8aD6O1p6/5E3Q==;5RJHRO5nYdAsxMQszg3QQQ=="
 ---

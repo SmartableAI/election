@@ -179,6 +179,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence To Campaign In Miami"
+    excerpt: "Vice President Mike Pence will make appearances Thursday in Miami, as President Donald Trump’s re-election campaign ratchets up its focus on Florida."
+    publishedDateTime: 2020-10-14T01:49:00Z
+    webUrl: "https://miami.cbslocal.com/2020/10/13/mike-pence-campaign-miami/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/10/13/mike-pence-campaign-miami/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/13/mike-pence-campaign-miami/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
 
 secured: "BbkavTPiPgRNRldbUar+JliA0sBRVn3ArGptl3xYhNRZsHCba9xorXkLp5XM4ZHcRL1lPcMXVAfoGlkpFd+sM0mq1JGXEj1xbkkASh/d0LmK7Rj26bA5gF5HQt0LUk5Ij8Ea7qzicqnCHf30Bpis1DKZxtzRsZ/6tZ62AKWgaT3N8pbFIiC8tYuXqe6VLGkjH5XSYYmVGAwQuIium/JOWp43d5pRy1tIRBnSOScuKep6bD8BUuL5addajHuHPJm9ucu5dnUldnTmkYsXFR4YsFQvGu4q1aUsvc6HSVJEcadNPi0SZCKkSnVytH4IbWwIT77H867VztU1Mdt0KUlwnn4zftfNBxtQId30T8ixwSus6AOumk7ZQaTcFjTfFxhkYT3u6YrbyARa3azlwVDgO66iIbplYBaNdK6pIDewya9JG5a5CtSB4tNWcs53lpvE+mzlLisM70KDlHh+Uv8aQP7ttUFE21Fzpqs+QOc3j7cftMU5wz6hHwpnEU5wHxZjIpSOEmGWkXkOUI/k7dl2lg==;Y8JUMV7DWxwV0YSA8bxv4g=="
 ---

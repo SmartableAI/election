@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-06-an-embarrassment-trump-tweet-angers-pandemic-survivors.md",
+      "title": "'An embarrassment': Trump tweet angers pandemic survivors",
+      "excerpt": "Some survivors of COVID-19 and people who have lost loved ones to the pandemic are angry over President Donald Trump's advice not to fear the disease",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "originalUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Health/WireAP_0c3ded261d674c6b8dfbbb215da83719_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
+      "publishedDateTime": "2020-10-05T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it.md",
+      "title": "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'",
+      "excerpt": "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
+      "originalUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400",
+          "width": 1400,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-trump-accuser-e-jean-carroll-files-motion-against-justice-department.md",
       "title": "Trump accuser E. Jean Carroll files motion against Justice Department",
       "excerpt": "Former Elle columnist E. Jean Carroll is fighting the Justice Department’s attempt to substitute for President Donald Trump as the defendant in her defamation lawsuit.",
@@ -1250,119 +1354,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-senior-adviser-biden-to-be-tested-again-sunday.md",
-      "title": "Senior adviser: Biden to be tested again Sunday",
-      "excerpt": "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
-      "originalUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
-      "publishedDateTime": "2020-10-04T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-04-dr-sanjay-gupta-trump-shouldnt-be-discharged-tomorrow.md",
-      "title": "Dr. Sanjay Gupta: Trump shouldn't be discharged tomorrow",
-      "excerpt": "CNN's Dr. Sanjay Gupta reacts to a presser given by President Trump's medical team in which one of the doctors said Trump might be discharged from Walter Reed medical center as early as tomorrow, despite the fact that the President has had at least two concerning drops in oxygen levels.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FQQGDZdKZeM/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201004121844-gupta-10042020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/04/trump-coronavirus-doctor-presser-gupta-reax-discharge-sotu-vpx.cnn",
-      "publishedDateTime": "2020-10-04T09:41:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

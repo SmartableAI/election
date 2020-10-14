@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-14-trump-to-coronavirus-victims-i-feel-your-pain-because-ive-felt-your-pain.md",
+      "title": "Trump to coronavirus victims: 'I feel your pain because I've felt your pain'",
+      "excerpt": "The president told a crowd in Johnstown, Pennsylvania, that he \"felt like Superman\" after getting an experimental drug treatment for Covid-19 and that he's now \"immune.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-coronavirus-victims-i-feel-your-pain-because-i-ve-n1243288",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419974/201013-donald-trump-rally-ac-910p_e23b1abe2187633878e526f64d203010.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243288",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243288",
+      "publishedDateTime": "2020-10-13T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-pleas-with-suburban-women-please-like-me.md",
+      "title": "Trump pleas with suburban women: 'Please like me'",
+      "excerpt": "President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a vote for him is a vote to protect the suburbs. He also issued an appeal to suburban women: \"Will you please like me?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/999762f7-db8f-45b1-bb6f-e87ec522a0c5_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-harris-tells-barrett-that-ginsburg-was-far-more-forthcoming-about-abortion-views.md",
       "title": "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views",
       "excerpt": "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\"",
@@ -14,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 499,
+      "heat": 519,
       "tags": null,
       "images": [
         {
@@ -180,7 +289,7 @@
       "originalUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863",
       "featuredContent": null,
       "highlight": null,
-      "heat": 566,
+      "heat": 586,
       "tags": null,
       "images": [
         {
@@ -556,7 +665,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 182,
       "tags": null,
       "images": [
         {
@@ -1201,7 +1310,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 969,
+      "heat": 1009,
       "tags": null,
       "images": [
         {
@@ -1242,115 +1351,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-2020-election-live-updates-trump-is-back-on-the-trail-he-still-faces-an-uphill-battle.md",
-      "title": "2020 Election Live Updates: Trump Is Back on the Trail. He Still Faces an Uphill Battle.",
-      "excerpt": "President Trump will hold a rally in Pennsylvania, as Joe Biden campaigns in Florida. Virginia’s online voter registration portal went down on the final day to register before the Nov. 3 election. Judges in Texas upheld an order limiting ballot drop boxes to one per county.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden",
-      "originalUrl": "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/13/multimedia/13elections-briefing-VA2/13elections-briefing-VA2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html",
-      "publishedDateTime": "2020-10-13T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-betting-on-the-base-can-trump-win-again.md",
-      "title": "Betting on the 'base' — can Trump win again?",
-      "excerpt": "President Trump has said he intends to win the 2020 election the same way he won the 2016 election. Not with a popular vote strategy. With an electoral vote strategy. He expects his vaunted “base” — concentrated in a few crucial states — to deliver an electoral vote majority for him just as it did four years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trump_supporter_rally_101020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
-      "publishedDateTime": "2020-10-13T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

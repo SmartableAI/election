@@ -1007,6 +1007,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump can beat Biden on issue of 'who can better restart the economy,' Karl Rove says"
+    excerpt: "More than half of all Americans think they are better off now than they were in 2016, despite the economic devastation wrought by the coronavirus pandemic, according to a recent Gallup Poll."
+    publishedDateTime: 2020-10-14T03:47:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3NEyTpQ4txw/trump-biden-economy-karl-rove"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-economy-karl-rove.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-economy-karl-rove.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f532fd-66e7-4031-86f3-241a87b3c93e/3482ecb1-8578-440c-b78b-2e94e0884344/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democrats press Biden to resume negative campaign ads, despite Trump's hospitalization"
     excerpt: "With the election less than one month away and early voting begun in some states, Democratic strategists have argued that Biden should resume his critiques of the president."
     publishedDateTime: 2020-10-05T17:42:03Z

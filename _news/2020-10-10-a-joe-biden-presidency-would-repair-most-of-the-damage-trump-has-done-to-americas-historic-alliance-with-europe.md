@@ -416,6 +416,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With Election Day just 3 weeks away, Trump and Biden zero in on swing states that are key to Electoral College victory"
+    excerpt: "Biden went to Florida to court seniors, looking to deliver a knockout blow in a state Trump needs to win, while Trump visited Pennsylvania, arguably the most important state on the electoral map."
+    publishedDateTime: 2020-10-13T16:35:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-electoral-college-calculations-20201013-wii7vdyfmfdi5ij7axx5m4t6wi-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-electoral-college-calculations-20201013-wii7vdyfmfdi5ij7axx5m4t6wi-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-electoral-college-calculations-20201013-wii7vdyfmfdi5ij7axx5m4t6wi-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 131
+    images:
+      - url: "https://www.chicagotribune.com/resizer/dcskaC9ANlmN76VeWgkvsX--0NQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2WQI32VOHZD4VHOZP447C3LXK4.aspx"
+        width: 1200
+        height: 819
+        isCached: true
   - title: "It's not just Trump and Biden on the ballot. America's commitment to truth and democracy is too."
     excerpt: "The election will determine America's ability to contain the pandemic, heal the economy, retake our place in the world, and advocate for truth."
     publishedDateTime: 2020-10-11T13:35:00Z
@@ -1107,6 +1123,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6QCKDAM5EI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 959
+        isCached: true
+  - title: "Election 2020: How Much Are Trump And Biden Spending On TV Ads?"
+    excerpt: "The Nov. 3 election is just three weeks away as a data analysis shows Biden continues to outspend the Trump campaign in six battleground states."
+    publishedDateTime: 2020-10-14T03:17:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-how-much-are-trump-biden-spending-tv-ads-3061738"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-how-much-are-trump-biden-spending-tv-ads-3061738?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-how-much-are-trump-biden-spending-tv-ads-3061738?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 105
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/us-president-donald-trump-right-accused-the-bipartisan.jpg"
+        width: 1024
+        height: 725
         isCached: true
   - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
     excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whe
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863?amp=1"
 type: article
 quality: 126
-heat: 566
+heat: 586
 published: true
 
 provider:
@@ -377,6 +377,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
+    excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
+    publishedDateTime: 2020-10-14T02:45:00Z
+    webUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/"
+    ampWebUrl: "https://reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2020/10/13/amy-coney-barrett-sexual-preference-joe-biden-confirmation-hearings-hirono/?amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 48
 
 secured: "tyamErm1YJS71osHtWLS4DEXZ+hEFVZ/9YRQZNOVpx8VymX71Jltjp9xTkw3wx7MRUiJhu9+GiW1NWXKvZnISkWmBLTYswejP+9UjLOt8XZmM+TESqssKlWM+EtICxTEyCKCfqRb/YKirsXb0EmrnumwqQFv9Nq4fDteWZdr4yljmS7McKHHljVLAGbXOZPoaK9uCfB0xN0Nhgrl24P+lghf5U5qXxkMB5yUA5M/sqoDu30+g2rKUl0DEOfwy5XUQiQiz/rwq1CrRnOhv355ewA7sJwK+quzCE/HA1NP9aVZ+ewRG2qt/0bgMd8O61chcWGSz3+pxaSjEGKooUdwUvvsTIilOnUfO4R/WzOgMbA=;yIsiZ5OFdJ6qDRpArw8mJw=="
 ---

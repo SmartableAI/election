@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump makes water demand of farms priority for new office"
+    excerpt: "President Donald Trump on Tuesday created what he called a “subcabinet” for federal water issues, with a mandate that includes water-use changes sought by corporate farm interests and oil and gas. An executive order from Trump put Interior Secretary David Bernhardt and Environmental Protection Agency Administrator Andrew Wheeler in charge of the interagency water body."
+    publishedDateTime: 2020-10-14T03:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_947d61939cc946fca02d39436612c252_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
     excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
     publishedDateTime: 2020-10-04T00:37:00Z
@@ -143,17 +159,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Makes Water Demand of Farms Priority for New Office"
-    excerpt: "President Donald Trump on Tuesday created what he called a “subcabinet” for federal water issues, with a mandate that includes water-use changes sought by corporate farm interests and oil and gas. An executive order from Trump put Interior Secretary David Bernhardt and Environmental Protection Agency Administrator Andrew Wheeler in charge of the interagency water body."
-    publishedDateTime: 2020-10-14T01:11:00Z
-    webUrl: "https://www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office"
-    ampWebUrl: "https://www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/california/articles/2020-10-13/trump-makes-water-demand-of-farms-priority-for-new-office?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "U.S. Agency Shows No Sign of Quick Action on Trump Social Media Petition"
     excerpt: "The Federal Communications Commission has given no indication it will move quickly on an effort by President Donald Trump to narrow the ability of social media companies to remove objectionable content and require new transparency rules."
     publishedDateTime: 2020-10-07T10:18:00Z

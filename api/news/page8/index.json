@@ -2,6 +2,119 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-07-mike-pence-brought-conservatives-home-what-if-they-dont-need-him-anymore.md",
+      "title": "Mike Pence Brought Conservatives Home. What If They Don’t Need Him Anymore?",
+      "excerpt": "Evangelical Christians were drawn to the vice president because he shared their values. But Trump’s style has made defiance of political norms, not a Pence specialty, seem appealing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/06/us/politics/06Pence-GOP1/06Pence-GOP1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/mike-pence-debate.amp.html",
+      "publishedDateTime": "2020-10-07T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.md",
+      "title": "'Spygate' author Bongino cheers Trump declassification move while awaiting surgery",
+      "excerpt": "Dan Bongino has lived Russiagate for nearly four years, but he learned of President Trump’s sweeping order to declassify relevant documents on the eve of an event even more serious and personal to him.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbsKA6TtQ_M/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbsKA6TtQ_M/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/d0a5d77d-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp",
+      "publishedDateTime": "2020-10-06T20:32:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-trumps-declassifying-order-wont-erase-his-wrongdoing-swalwell-says.md",
       "title": "Trump's declassifying order won't erase his wrongdoing, Swalwell says",
       "excerpt": "Rep. Eric Swalwell calls Trump move a 'sloppy sleight of hand'",
@@ -1005,7 +1118,7 @@
       "originalUrl": "https://www.businessinsider.com/us-trade-deficit-grows-august-imports-exports-election-trump-tariffs-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 691,
+      "heat": 711,
       "tags": null,
       "images": [
         {
@@ -1262,110 +1375,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-an-embarrassment-trump-tweet-angers-pandemic-survivors.md",
-      "title": "'An embarrassment': Trump tweet angers pandemic survivors",
-      "excerpt": "Some survivors of COVID-19 and people who have lost loved ones to the pandemic are angry over President Donald Trump's advice not to fear the disease",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_0c3ded261d674c6b8dfbbb215da83719_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/embarrassment-trump-tweet-angers-pandemic-survivors-73445496",
-      "publishedDateTime": "2020-10-05T22:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it.md",
-      "title": "Michelle Obama Makes Final Pitch: 'Vote For Joe Biden Like Your Lives Depend On It'",
-      "excerpt": "President Trump \"continues to gaslight the American people by acting like this pandemic is not a real threat,\" Michelle Obama says in video remarks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
-      "originalUrl": "https://www.npr.org/2020/10/06/920684113/michelle-obama-makes-final-pitch-vote-for-joe-biden-like-your-lives-depend-on-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/06/michelle-obama-closing-argument_wide-53ba9b0b61da569863ffca9af3caba3915ebbbfe.png?s=1400",
-          "width": 1400,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-05T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
