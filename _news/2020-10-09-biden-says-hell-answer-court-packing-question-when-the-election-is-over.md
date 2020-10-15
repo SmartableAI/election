@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
 type: article
 quality: 188
-heat: 528
+heat: 548
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14indians-survey/14indians-survey-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Allegation on Biden Prompts Pushback From Social Media Companies"
+    excerpt: "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform."
+    publishedDateTime: 2020-10-15T02:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14biden1/14biden1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

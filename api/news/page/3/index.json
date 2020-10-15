@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-13-trump-hits-fauci-says-his-pitching-arm-is-far-more-accurate-than-his-prognostications.md",
+      "title": "Trump hits Fauci, says his 'pitching arm' is 'far more accurate than his prognostications'",
+      "excerpt": "President Trump on Tuesday took a swipe at Dr. Anthony Fauci, saying his “pitching arm” is “far more accurate than his prognostications,” as the World Health Organization has warned against lockdowns to combat the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
+      "publishedDateTime": "2020-10-13T09:31:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-romney-rips-trump-pelosi-keith-olbermann-says-politics-now-a-vile-vituperative-hate-filled-morass.md",
       "title": "Romney rips Trump, Pelosi, Keith Olbermann, says politics now ‘a vile, vituperative, hate-filled morass'",
       "excerpt": "Republican Sen. Mitt Romney of Utah is stressing that the country’s politics has “moved away from the spirited debate to a vile, vituperative, hate-filled morass that is unbecoming of any free nation.”",
@@ -444,7 +500,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6400,
+      "heat": 6500,
       "tags": null,
       "images": [
         {
@@ -1068,7 +1124,7 @@
       "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 279,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1264,49 +1320,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.md",
-      "title": "Democrats must ‘leave no doubt on election day’ Kamala Harris' husband says in Michigan",
-      "excerpt": "Michigan Democrats urged voters to get involved in the effort to elect Joe Biden during campaign events across the state Monday. Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html",
-      "originalUrl": "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUAFEIVJXRE23JICAW4FRWYUUI.JPG",
-          "width": 1300,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

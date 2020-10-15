@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden appeals to voters in Florida"
 excerpt: "Watch \"Joe Biden appeals to senior voters in Florida ahead of the election\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-14T23:22:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201014231332-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
-webUrl: "https://www.cbsnews.com/live/video/20201014231332-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+originalUrl: "https://www.cbsnews.com/live/video/20201015051330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+webUrl: "https://www.cbsnews.com/live/video/20201015051330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07259629_1602717425.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265015_1602739024.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -296,6 +296,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "s7VtGUAP7KnIKTfGxA6IA0ds8wT1u6yoXyjH87I1ky7NbY3obc5XvG+hGPdCxkQEIa2tG/DnEslYqXZiBg+jUtAxbPZqiTvE0qGs35lfou0qZq58cU31idGGxdM46xE62HZOJUQkLyoSqm2szgaWBxmT+4E2aeewKqcdfdCLiH7Z/n4v52YcEpoVfh4xGhzGT0YjCMx46lMeHfOt4pWefBAy5RU+NQdA28ttIbw4d18UVGb+A+R4UG6hCJbQkVeketebc/rQvV5HZhTepFun+ljCiDr0+9OPPEXocO71wqlP5hv+IK35TXKxMHP9+jMz5Tg1lqU2vzkilnB58UFVIs7TYXL1jbepnCmlOZO5LZA=;MrWSFYdz3J1FmZPC6X3aZQ=="
+secured: "7L+JRDX5DSUjxHxHYTFaPi8uj4Tty+YB/u9QLSfb9JClm/RnnudKliyjalE9AuXzcPw/kSTTYx1dAPat7wHuYxRa9wtI7pZ6keYSi2xnxApJPiYiU4oNV4gc6zFsWKv+kjDEClOcupUgl4ERbDKwMrc4FggGHidWvY4bVPdzOIHSvLaFFxspo4/emgH2uNmYPam3n3anNoeIoQoVxn91cd7y9ihO8s5erTMqDhb79DW87CGYIzidMD13nowVVtllJNJvO4fQl5ZGJOAD/OFmrlDMhfuIOmneeslRvop3dbSxk1pBdQkpLQ4tv4ru4PX9al0GMHQlkvZDS8lywSRojdSZzFHhw0kAneXJOYgY6T8=;LVOcX04ap2Yq6ei+eLQLnQ=="
 ---
 

@@ -106,22 +106,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Voters have right to know what Joe Biden did for son Hunter: Devine"
-    excerpt: "Joe Biden repeatedly has denied knowing anything about son Hunter’s lucrative work on the board of Ukrainian energy company Burisma. “Hunter Biden is a private citizen and a lawyer. The former"
-    publishedDateTime: 2020-10-14T09:33:00Z
-    webUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/"
-    ampWebUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "QTPzUzybMIBXuUPRwb8697vxoeSSiHBRo4IWoqtFODx1v9TnjdRARUeZ0ERHqxQPryYcU/FHy2RWiNd64zY8u+WX9AdL9DEHbVZIXoi9aC8YNpkYNDU0q580sfEOcvfQTy+Wpa7DzQlhz+eq7+9p/S0zVRrHdB9eWItmt498lze/qYqzZTX1OFwp1WmzvDh2OX+yP4FXCklsIjzaW+wS3+8arBauGoU/NAtOjGVKc8FK12/CF4/dLPO1R6DUS8/JPkuhSgancLMvR+ktNCoU+jiCQv6GpYCr4eoQHzB2K2rSOSlpWBTk9oh7ga9lc8yRD8JO4BO35nw70KS0KIOdLM5e7RXkXpnldnJI6hpbst/lmMHjNSVtsiSg5FnTI4BpH7Ououes7Thich/gBh+D3QSJc7l/vgtMiMhGtVdc0R9kqGkkCAZrdANstKjPZNtEjTsYnxsjKoqV8VCAbuBfBfgRPg0Zdc8qvZghzU1GSL3uUS2SzDDnu1UA9KgxzFOlp65MSw8EyEUiqsojPdbJuw==;aTK7CTsEWkFidGur4uNSCA=="
 ---

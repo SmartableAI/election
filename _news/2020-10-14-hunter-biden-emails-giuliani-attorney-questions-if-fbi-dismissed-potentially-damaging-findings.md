@@ -95,22 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Voters have right to know what Joe Biden did for son Hunter: Devine"
-    excerpt: "Joe Biden repeatedly has denied knowing anything about son Hunter’s lucrative work on the board of Ukrainian energy company Burisma. “Hunter Biden is a private citizen and a lawyer. The former"
-    publishedDateTime: 2020-10-14T09:33:00Z
-    webUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/"
-    ampWebUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
     excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
     publishedDateTime: 2020-10-14T15:12:00Z

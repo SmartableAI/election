@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sendin
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp"
 type: article
 quality: 58
-heat: 58
-published: false
+heat: 78
+published: true
 
 provider:
   name: Dallas Morning News
@@ -25,6 +25,19 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Joe Biden raises record $383 million in September"
+    excerpt: "The haul, announced Wednesday night, leaves him with $432 million in the bank just weeks before the Nov. 3 election."
+    publishedDateTime: 2020-10-15T05:25:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/joe-biden-raises-record-383-million-september/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
 
 secured: "x0UyZJjAL4QBoqc6u3PlQAXzeJQtB9gMLP6/lDNzmpKNUcwEKQuFIRalwppbmFy3/D3yC2G5vVo5hfwHkv6IcOppXyWGs77Iu2KrhQc3CvZROCdbN6uH1COJSawnnpxmTQk0NnhAFeoBjdeoT/jMs8t/eYmbakwXIV6ZXZOtM6jrU4LSZVDWzYuCqpSVzGBMJox04qa0GwK21AciHCDKPWyURQwexam+4bdpuZ35LMyoVhF0TKKFL4IkDnWZ+DwHTPkXwc0IITYN8TKGUIIWQtqHzAIt4HWEcBoNAdwLNDVp8pizqmpGs1dhZKZ43BJtUA1H3ekLoLj6bl/5FXiEV6RKTQlV0gNygCAxvgYTeDEcwCT8iTvmvZl2OqNuo9cFw8fFiP0LmH0kckTQQBxPE50xc3bZBCU/P7S3HqJirqzoHxU2BZrscKMjszAMjcM80NFqBd50I222wFPlNFO8HpEod+S2DOZlWpA5xK0wJyxWh/2bPPuZ1VCRc4EjbqePenNSbGJ4sB/C7hjJtk2o6w==;OLyE2gTUD9whttZN86E2mw=="
 ---

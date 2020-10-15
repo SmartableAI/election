@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/kamala-harris-calls-supreme-court-he
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp"
 type: article
 quality: 119
-heat: 279
+heat: 299
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08vb7l0.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
+    excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
+    publishedDateTime: 2020-10-15T05:06:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Amy-Coney-Barrett-Harris-climate-change-15648374.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/53/24/20100396/7/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
     excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."

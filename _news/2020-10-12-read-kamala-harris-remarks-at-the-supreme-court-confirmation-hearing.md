@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-re
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html"
 type: article
 quality: 185
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200226171621-02-jaime-harrison-0120-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Full interview: Senator Kamala Harris talks with Rachel Maddow"
+    excerpt: "Senator Kamala Harris, Democratic vice presidential nominee, talks with Rachel Maddow about the campaign, the coronavirus, the Supreme Court, and a certain fly."
+    publishedDateTime: 2020-10-15T04:58:00Z
+    webUrl: "https://www.msnbc.com/rachel-maddow/watch/full-interview-senator-kamala-harris-talks-with-rachel-maddow-93870149913?cid=sm_npd_ms_tw_ma"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93870149913"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93870149913"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_maddow_fullharris_201014_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Kamala Harris’ Debate Win: The Redemption of the American Woman Has Begun"
     excerpt: "It’s been a long, nightmarish four years for the American woman. But we’re coming back, and the Democratic veep is leading the way."

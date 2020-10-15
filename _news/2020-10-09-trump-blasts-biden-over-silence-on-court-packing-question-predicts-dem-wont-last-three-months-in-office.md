@@ -1627,6 +1627,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Live Updates: 2020 presidential race heats up following Trump rally in Iowa"
+    excerpt: "The 2020 presidential race is heating up after President Trump held a campaign rally in Des Moines, Iowa on Wednesday night."
+    publishedDateTime: 2020-10-15T03:54:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7QTwBHjoCA/live-updates-2020-presidential-race-heats-up-following-trump-rally-in-iowa"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-presidential-race-heats-up-following-trump-rally-in-iowa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-presidential-race-heats-up-following-trump-rally-in-iowa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca4b3cc7-8e6c-46a4-a197-bca618eb6e89/af1a0100-c042-4763-9112-1ef8b071b5d0/1280x720/match/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Biden on Trump saying he won't do a virtual debate: 'You never know what's going to come out of his mouth'"
     excerpt: "Democratic presidential nominee Joe Biden is shining a spotlight on President Trump’s unpredictable nature."
     publishedDateTime: 2020-10-08T15:03:13Z
@@ -2038,6 +2054,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/image-2020-10-12T155041.203.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris won’t address buzz over fly on Mike Pence’s head during VP debate"
+    excerpt: "Sen. Kamala Harris refused to address the buzz surrounding the fly that landed on Vice President Mike Pence’s head during their debate. The Democratic vice presidential nominee tried in vain"
+    publishedDateTime: 2020-10-14T16:50:00Z
+    webUrl: "https://nypost.com/2020/10/14/kamala-harris-wont-address-fly-that-landed-on-mike-pences-head/"
+    ampWebUrl: "https://nypost.com/2020/10/14/kamala-harris-wont-address-fly-that-landed-on-mike-pences-head/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/kamala-harris-wont-address-fly-that-landed-on-mike-pences-head/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 156
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Mike_pence_fly.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Taylor Swift endorses Joe Biden, Kamala Harris ahead of vice presidential debate"
     excerpt: "The country-pop music superstar issued a public declaration to her followers to cast their vote for Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris in November's election."

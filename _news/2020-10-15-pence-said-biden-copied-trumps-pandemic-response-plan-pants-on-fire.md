@@ -969,6 +969,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Split screen: Trump and Biden to headline dueling town halls"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
+    publishedDateTime: 2020-10-15T05:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2700H7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2700H7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2700H7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537533258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0AU"
+        width: 819
+        height: 545
+        isCached: true
   - title: "Trump says \"China will own the United States\" if Biden is elected"
     excerpt: "Mr. Trump said in a speech from the White House streamed online by economic clubs around the country that the economy was the strongest on record before the coronavirus pandemic, again promising vigorous economic growth if he is given another four years in office."
     publishedDateTime: 2020-10-14T18:38:00Z
@@ -3340,6 +3356,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Poll of Ohio doesn't show Trump 'leaving Joe Biden in the dust'"
+    excerpt: "President Donald Trump has left former Vice President Joe Biden 'in the dust' in the swing state of Ohio, according to recent polling data. No Republican has won the White House without carrying Ohio,"
+    publishedDateTime: 2020-10-15T05:05:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/14/fact-check-new-poll-of-ohioans-doesnt-show-what-donald-trump-backers-say-about-beating-joe-biden/5953446002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5953446002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5953446002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 88
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/14/USAT/f36bd5b6-665b-4691-bb39-ee2e740263e2-trump_ohio.jpg?auto=webp&crop=5567,3131,x1,y39&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Watch here: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-07T15:11:00Z
@@ -4137,6 +4169,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Kamala Harris coming to campaign in Texas"
+    excerpt: "Democratic Vice Presidential candidate Kamala Harris is coming to campaign in Texas.In an appearance on the Rachel Maddow Show on MSNBC, Harris confirmed"
+    publishedDateTime: 2020-10-15T04:18:00Z
+    webUrl: "https://www.statesman.com/news/20201014/kamala-harris-coming-to-campaign-in-texas"
+    ampWebUrl: "https://www.statesman.com/news/20201014/kamala-harris-coming-to-campaign-in-texas?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201014/kamala-harris-coming-to-campaign-in-texas?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201014&Category=NEWS&ArtNo=201019572&Ref=AR"
+        width: 3513
+        height: 2342
+        isCached: true
   - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
     publishedDateTime: 2020-10-07T21:41:00Z
@@ -4225,6 +4273,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/50/04/20087094/5/rawImage.jpg"
         width: 2048
         height: 1363
+        isCached: true
+  - title: "MSNBC’s Maddow Dings NBC, Asks Kamala Harris If She’s ‘As Mad as Everybody Else Is’ About the Trump Town Hall"
+    excerpt: "MSNBC's Rachel Maddow tweaks her own parent network, asks Kamala Harris if she's 'as mad as everybody else is' about NBC News' Trump town hall"
+    publishedDateTime: 2020-10-15T04:56:00Z
+    webUrl: "https://www.mediaite.com/election-2020/msnbcs-maddow-dings-nbc-asks-kamala-harris-if-shes-as-mad-as-everybody-else-is-about-the-trump-town-hall/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/msnbcs-maddow-dings-nbc-asks-kamala-harris-if-shes-as-mad-as-everybody-else-is-about-the-trump-town-hall/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/msnbcs-maddow-dings-nbc-asks-kamala-harris-if-shes-as-mad-as-everybody-else-is-about-the-trump-town-hall/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Kamala-Harris-Ducks-Rachel-Maddows-Question-about-NBC-News-Hosting-Donald-Trump-Town-Hall-1200x672.jpg"
+        width: 1200
+        height: 672
         isCached: true
   - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
     excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
@@ -4460,6 +4524,20 @@ related:
       - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/10/01/11/bidentrumpdebate0110.jpg"
         width: 2467
         height: 1645
+        isCached: true
+  - title: "Meet Meena Harris, the niece of Kamala Harris who's blazing a trail as a Harvard-taught lawyer, former Uber exec, and activist children's author"
+    excerpt: "Meena Harris is a social-justice activist, an entrepreneur, and a children's author. She wants young girls to celebrate — not fear — their dreams."
+    publishedDateTime: 2020-10-15T04:18:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-niece-meena-harris-childrens-book-celebrate-womens-ambition-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 68
+    images:
+      - url: "https://i.insider.com/5ed418be5af6cc3fec676b94?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Joe Biden Widens Lead Over President Trump in Florida, Pennsylvania, Poll Finds"
     excerpt: "Democratic presidential nominee Joe Biden is widening his lead over President Donald Trump in the critical battleground states of Florida and Pennsylvania with less than a month until the election. A Quinnipiac University poll published Wednesday found that 51% of voters in Florida support the former vice president,"

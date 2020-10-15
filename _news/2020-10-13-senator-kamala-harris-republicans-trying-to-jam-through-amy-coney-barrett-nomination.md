@@ -59,6 +59,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
+    excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
+    publishedDateTime: 2020-10-15T05:06:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Amy-Coney-Barrett-Harris-climate-change-15648374.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/53/24/20100396/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act."
     publishedDateTime: 2020-10-12T22:17:00Z

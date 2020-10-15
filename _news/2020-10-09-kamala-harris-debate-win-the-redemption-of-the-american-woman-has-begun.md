@@ -56,6 +56,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Full interview: Senator Kamala Harris talks with Rachel Maddow"
+    excerpt: "Senator Kamala Harris, Democratic vice presidential nominee, talks with Rachel Maddow about the campaign, the coronavirus, the Supreme Court, and a certain fly."
+    publishedDateTime: 2020-10-15T04:58:00Z
+    webUrl: "https://www.msnbc.com/rachel-maddow/watch/full-interview-senator-kamala-harris-talks-with-rachel-maddow-93870149913?cid=sm_npd_ms_tw_ma"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93870149913"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93870149913"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_maddow_fullharris_201014_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "bMKItcKAd7VVcAs1Tu3FwvGmGVNAfdlIjZtLnejV10abKTKF2iQP+2JNsPzo53Zh6a32zor5AlyJg/QOyi6XSulel9DaWbgoOAmjkH6diNGBe64K6Vg4BWzGuJS+PQm1mQBvyTdXRU8D2XEyipxYCs0XxYTH9W/3m05Dh8cu62M17oP8TlA/jVSJrztHgqt2v/Sac96iB56qpKO1+FI6zSRrh7K/TlZwMNIEHTDuGjhz6oDAeng11XuQDPHPw1lY/HxOmKpv+0HQJvIa0qG8SRXaZPKZtL2z5ATQ0yV1M41DMaThYED4Xz3xW7/Klhg/imXo++N0hRIytD/VPUFHzKWO+4xIWLGtfK/Flx19eg64hnqiDeAIcXFSje6qmDQpBzDJjdc8O3yn2ee0sVlLIcUPPoFMxco5svDgio9rfjyyL3pEFLNvFdsvryi1YZWQKI4TjUKwAD289uRYlymPJ33J6xfX+G2r42nCb/7hVyIS+/rys5PXMrus6I83adusfPbE1HLinbmyLoykJA98IQ==;5wI3yY+L0GYNDqNju81tkg=="
 ---

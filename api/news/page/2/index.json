@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-14-watch-live-president-trump-participates-in-nbc-news-town-hall-in-miami.md",
+      "title": "Watch live: President Trump participates in NBC News town hall in Miami",
+      "excerpt": "NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/watch-live-president-trump-participates-in-nbc-news-town-hall-in-miami-93820997571",
+      "originalUrl": "https://www.nbcnews.com/video/watch-live-president-trump-participates-in-nbc-news-town-hall-in-miami-93820997571",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/101320_Trump_Town_Hall-Twitter-FS-NBC_Thu.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93820997571",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93820997571",
+      "publishedDateTime": "2020-10-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing.md",
       "title": "Trump Promotes Baseless, QAnon-Endorsed Conspiracy Theory Alleging Obama Staged Bin Laden’s Killing",
       "excerpt": "President Trump promoted a baseless conspiracy theory on Tuesday alleging the Obama administration covered up a plot to stage Osama Bin Laden’s death, a wild accusation that was pushed by Twitter accounts linked to the QAnon conspiracy theory.",
@@ -226,7 +283,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 287,
+      "heat": 267,
       "tags": null,
       "images": [
         {
@@ -1313,62 +1370,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-hits-fauci-says-his-pitching-arm-is-far-more-accurate-than-his-prognostications.md",
-      "title": "Trump hits Fauci, says his 'pitching arm' is 'far more accurate than his prognostications'",
-      "excerpt": "President Trump on Tuesday took a swipe at Dr. Anthony Fauci, saying his “pitching arm” is “far more accurate than his prognostications,” as the World Health Organization has warned against lockdowns to combat the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp",
-      "publishedDateTime": "2020-10-13T09:31:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

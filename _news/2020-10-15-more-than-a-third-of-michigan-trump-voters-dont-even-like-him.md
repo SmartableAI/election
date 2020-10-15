@@ -1249,6 +1249,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Did The Taliban Really Endorse Trump For Presidency?"
+    excerpt: "The claims were made by a WGA-awarded screenwriter and author Bess Kalb, whose work was featured on \"Jimmy Kimmel Live\" for eight years."
+    publishedDateTime: 2020-10-15T04:12:00Z
+    webUrl: "https://www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386"
+    ampWebUrl: "https://www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/the-taliban-declared-victory-after-signing-the-deal.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
     publishedDateTime: 2020-10-10T15:53:00Z

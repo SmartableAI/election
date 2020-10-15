@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 2200
+heat: 2220
 published: true
 
 provider:
@@ -1232,6 +1232,22 @@ related:
       - url: "https://patch.com/img/cdn20/ap/22920172/20201013/041125/styles/patch_image/public/ap20286856381385-1___13155747467.jpg?width=984"
         width: 984
         height: 738
+        isCached: true
+  - title: "Did The Taliban Really Endorse Trump For Presidency?"
+    excerpt: "The claims were made by a WGA-awarded screenwriter and author Bess Kalb, whose work was featured on \"Jimmy Kimmel Live\" for eight years."
+    publishedDateTime: 2020-10-15T04:12:00Z
+    webUrl: "https://www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386"
+    ampWebUrl: "https://www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/the-taliban-declared-victory-after-signing-the-deal.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "More than a third of Michigan Trump voters don’t even like him"
     excerpt: "A new poll out of Michigan doesn’t just show Democratic presidential nominee Joe Biden beating President Donald Trump — it also shows that a large chunk of Trump’s own voters don’t like his behavior."

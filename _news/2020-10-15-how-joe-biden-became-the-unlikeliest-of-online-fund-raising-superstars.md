@@ -256,6 +256,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Allegation on Biden Prompts Pushback From Social Media Companies"
+    excerpt: "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform."
+    publishedDateTime: 2020-10-15T02:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/hunter-biden-ukraine-facebook-twitter.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14biden1/14biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
     excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
     publishedDateTime: 2020-10-06T01:04:00Z

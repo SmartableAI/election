@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
 type: article
 quality: 113
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump: Barron 'free' of coronavirus"
+    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
+    publishedDateTime: 2020-10-15T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
     excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
