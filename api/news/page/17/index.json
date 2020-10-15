@@ -2,6 +2,62 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-09-27-analysis-what-americas-european-allies-want-from-a-biden-presidency.md",
+      "title": "Analysis: What America's European allies want from a Biden presidency",
+      "excerpt": "Should Joe Biden win the upcoming US presidential election, his first and overwhelming foreign policy challenge will be winning back the trust of America's allies. With the planet in its most chaotic period since World War II, a steady Biden leadership could potentially reset the world order -- but only",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-7juHUcZjg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e-7juHUcZjg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923145318-01-biden-nc-0923-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/biden-americas-european-allies-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/biden-americas-european-allies-analysis-intl/index.html",
+      "publishedDateTime": "2020-09-27T06:30:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-27-pompeo-claims-trump-foreign-policy-has-made-world-safer-americans-lives-more-secure.md",
       "title": "Pompeo claims Trump foreign policy has made world safer, Americans' lives 'more secure'",
       "excerpt": "The idea that President Trump is \"anti-military\" and is suspicious of U.S. intelligence agencies is an untrue \"media narrative,\" Secretary of State Mike Pompeo told Fox News' \"Life, Liberty & Levin\" in an interview airing Sunday night.",
@@ -1249,62 +1305,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-unveils-platinum-plan-for-black-americans.md",
-      "title": "Trump unveils 'Platinum Plan' for Black Americans",
-      "excerpt": "President Donald Trump unveiled a plan aimed at winning over Black Americans on Friday, less than two months before Election Day, largely expanding upon the existing economic-related initiatives the President established in his first term.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eTAwLcwEVjg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200923212353-01-trump-presser-0923-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/donald-trump-black-empowerment-platinum-plan/index.html",
-      "publishedDateTime": "2020-09-25T13:48:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

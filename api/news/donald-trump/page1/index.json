@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-15-donald-trump-threatened-facebook-and-twitter-again-after-they-throttled-the-spread-of-a-dubious-new-york-post-story-about-hunter-biden.md",
+      "title": "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden",
+      "excerpt": "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10",
+      "originalUrl": "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp",
+      "publishedDateTime": "2020-10-15T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
       "title": "Trump tries to shore up support from big business, Iowans",
       "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
@@ -114,7 +166,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2241,
+      "heat": 2281,
       "tags": null,
       "images": [
         {
@@ -1246,7 +1298,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 423,
+      "heat": 463,
       "tags": null,
       "images": [
         {
@@ -1552,58 +1604,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-cuban-americans-hold-huge-pro-trump-parade-in-south-florida-as-elections-approach.md",
-      "title": "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach",
-      "excerpt": "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
-      "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 755,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg",
-          "width": 594,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
-      "publishedDateTime": "2020-10-11T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

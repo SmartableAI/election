@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://static.politico.com/3e/8e/8776f73b488ba55987c853611cd9/biden.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "'Hamilton' cast to host virtual fundraiser for Joe Biden's campaign"
+    excerpt: "The world may be turned upside down, but the “Hamilton” cast is not letting Joe Biden throw away his shot. Biden’s presidential campaign announced Monday night that it will be holding a virtual grassroots fundraiser with the cast of the hit musical on Oct."
+    publishedDateTime: 2020-10-15T08:50:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/hamilton-cast-host-virtual-fundraiser-joe-biden-s-campaign-n1243226"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243226"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243226"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_20/3346401/200512-hamilton-al-1112_c856a6acd5b1adf1863e270d3441f211.jpg"
+        width: 2500
+        height: 1839
         isCached: true
   - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
     excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."

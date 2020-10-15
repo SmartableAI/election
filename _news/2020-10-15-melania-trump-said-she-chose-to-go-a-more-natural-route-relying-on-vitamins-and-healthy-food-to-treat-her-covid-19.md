@@ -216,6 +216,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
+    excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
+    publishedDateTime: 2020-10-15T09:42:00Z
+    webUrl: "https://www.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    ampWebUrl: "https://amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 75
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1600176/barron-trump-melania-trump.jpg"
+        width: 1600
+        height: 1099
+        isCached: true
   - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
     excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
     publishedDateTime: 2020-10-14T20:09:00Z
@@ -256,6 +272,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
         width: 1024
         height: 651
+        isCached: true
+  - title: "Donald Trump news – Son Barron, 14, only had covid ‘for like TWO SECONDS’, President claims as he demands schools reopen"
+    excerpt: "DONALD Trump has played down his son’s coronavirus infection insisted he recovered in “like two seconds”. Describing Barron Trump’s covid diagnosis, the President said:"
+    publishedDateTime: 2020-10-15T09:46:00Z
+    webUrl: "https://www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/"
+    ampWebUrl: "https://www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 50
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/10/COMP_RR_US-ELECTIONS-LIVE_TRUMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "LBeDIBlYoLEJdMO9SYVqNf6xtrLBV8wh+TiSfwbB6kcFevuM1pE3YSEtj0GSYlmcKghu3H9m6Q9XDuIjrRBmK08KtLBOEu6S8ekDyMl3kNp0781BMn5MNRCRNsoZr5LvsgsEpv5U9LsCZMTh/S3l3rHZHKbYc1oIv2nzdoHjuzfKrbqdwy1UKPdBtu503GmvohHN1Ty9u7rB7PwFPLa/bMwIZtMt8ZjSkXK76IU6lPV/o24EYawbwL+mCjKN73ByVSZh8U30guYvPHBx+42UYpkvxUacjvFCnBUcVHUzireJNxbUurzHa91/QRWaF/VSiQx1VQRpuR1e6qCtD4AbRmsOHvfM9Bg7SyQzK5frckk=;8EHaMdOnLGAm6D2AAjoP1A=="

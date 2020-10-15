@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
 type: article
 quality: 140
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07190842_1602257232.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "With Debate Canceled, Joe Biden Appeals To Voters Via Town Hall"
+    excerpt: "For a preview of Joe Biden's town hall, NPR's Steve Inskeep talks to Democratic strategist Jennifer Palmieri about the stakes and goals of the campaign with less than three weeks to the election."
+    publishedDateTime: 2020-10-15T09:03:00Z
+    webUrl: "https://www.npr.org/2020/10/15/923885869/with-debate-canceled-joe-biden-appeals-to-voters-via-town-hall"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."

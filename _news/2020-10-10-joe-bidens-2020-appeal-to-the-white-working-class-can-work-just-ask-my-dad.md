@@ -144,6 +144,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "'Hamilton' cast to host virtual fundraiser for Joe Biden's campaign"
+    excerpt: "The world may be turned upside down, but the “Hamilton” cast is not letting Joe Biden throw away his shot. Biden’s presidential campaign announced Monday night that it will be holding a virtual grassroots fundraiser with the cast of the hit musical on Oct."
+    publishedDateTime: 2020-10-15T08:50:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/hamilton-cast-host-virtual-fundraiser-joe-biden-s-campaign-n1243226"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243226"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243226"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_20/3346401/200512-hamilton-al-1112_c856a6acd5b1adf1863e270d3441f211.jpg"
+        width: 2500
+        height: 1839
+        isCached: true
 
 secured: "yCM30PB6o7zOiXwseq2JjJd8CADvat6lZllGvV0HZes/bZcwqGbGtqF38umI5haOE26hbaLi8Llrup1BtjBQje8GlXaNLs5cy8LpHQmlqci5vpMyxyGPUhyaHnlW5YUAyEjwjeVV8PrvfBbPQFzUCm5u+21WNk4n6zcrRIurg8bujvuqwubAA4Ukx/5p87W/Jt5i+8zaLI97E6ncg4XqD98iDEp0lubwwNsOPe/zKLNcNzB64rchg5iwgYeMiQsrsZ5VdpWhrL9TkMC6ziIqhy6AEU81aXMvUw/VB1bQkjcvmER3DnixRue7aTsU/sWnhamvNOCNr9OwyVWso3RgWtcbkhn04arjUk6jDq9sWAmk6h2+ZKfpJJruaYCEafCbL7figvSXEmnqreLs9ef6d2gSP5wmR2CvWSOohJnPy0qq6Q5mV+HibTXA/JPKcOh2mTXI4CFq66OPUqUn6Z5/UAhTsWHXyUl9oH/Bd8ZK8pXbkkvc0MssigC+OT1P5M3Dcfa3kCtQo0qF4rfxNTa5Rg==;o7KmpH1zuugeCuCvkdBHUA=="
 ---

@@ -1146,6 +1146,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
+    excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
+    publishedDateTime: 2020-10-15T09:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's big tax breaks could make it easier for Biden to sell tax hikes on wealthy"
     excerpt: "Biden has floated trillions of dollars in new taxes on the rich to pay for policies like student debt forgiveness and expanded childcare."
     publishedDateTime: 2020-09-30T00:48:00Z

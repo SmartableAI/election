@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-report-ron-john
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
 type: article
 quality: 168
-heat: 208
+heat: 228
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
+    excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"
+    publishedDateTime: 2020-10-15T08:06:00Z
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine"
+    ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5522171a-998f-4edc-ba59-f45674dca7e1/9e5da789-dbe6-4cd8-ab23-4e3ce91b42a5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xfkF+gx0PBlD+mWHr6Uw12FauLSHEchf2iSQDkUsn9f3poVgYTWHUmyynhLvohqHglVvcnaMMAjErhghDFbMrnpClLFWHgENALifS4kJuSSwvaYBKS6gyFmSlOB2v6s5u/A7TySfarxpR5O2DMJHXma1rAb7aru11a2ieMps9Gnho99zJKlMi/Id45e5gUKQtNxUIpO2AhlYphyMQpJKHQZQSX2d2wvOOC0rlQ7P87PgJv7Xu/1Mocb55s/9L/b6MdUGFbm9WWcPhMU25AYuvjBGskZNexPZpWjQ0gx+XTM5NagBbpq8ygQKdwwgMN8smyHf3xte3US7j68LlnwQCnL3BDnqeWWLGGN/f1/Asc0=;KbVcKbZ4+wFgl4XoUA2H/g=="

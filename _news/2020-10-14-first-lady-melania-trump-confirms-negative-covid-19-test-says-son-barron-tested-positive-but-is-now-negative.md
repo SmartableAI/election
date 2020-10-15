@@ -213,6 +213,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Watch: Trump Holds First 'MAGA' Rally Since Coronavirus Recovery"
+    excerpt: "President Trump delivers remarks at a Make America Great Again event in Sanford, Florida. Judge Amy Coney Barrett said during her confirmation hearing opening statement that she was honored to accept President Donald Trump’s nomination to the Supreme Court,"
+    publishedDateTime: 2020-10-15T09:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/watch_live_trump_holds_first_maga_rally_since_coronavirus.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/521215.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "eqPVuEWm9kH2+xk7fh0Cilo5a6DDDgrsaZJzHRSBdDdutZLbKpkkos1re4d1jSiyi8nN9VSoYxZFBYmuh9Ct+kMzdnj/fOdeJhFX/dMLmJccV/UAX5ktTHWqWznO9A0op8kQoQcHhPkm2xXnBNix6lbDpoLt+k+JSPe4GJxzDpFjBcz6tyXkn+pBtafmxUURsBhtRoHPM/HAB6MF2Wosc2ru5b+i5rn2a3RIYOpyHfmvFMOe3O6AsH7sXHQeKUuNAKVZLz02rFEdumg1Iy5WbrqSB4jrTvvvhjlCgN6uNXU4JqC6J/UImYHTFBpDiIJ5ofpWeBBL7aENdy5hgBzXFEXEkk3txa/SPOH5HHHH8Yg=;Lknl/rDYOA8bahkiGYKCTw=="
 ---

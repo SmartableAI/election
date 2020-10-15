@@ -99,6 +99,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "With Debate Canceled, Joe Biden Appeals To Voters Via Town Hall"
+    excerpt: "For a preview of Joe Biden's town hall, NPR's Steve Inskeep talks to Democratic strategist Jennifer Palmieri about the stakes and goals of the campaign with less than three weeks to the election."
+    publishedDateTime: 2020-10-15T09:03:00Z
+    webUrl: "https://www.npr.org/2020/10/15/923885869/with-debate-canceled-joe-biden-appeals-to-voters-via-town-hall"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
     excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
     publishedDateTime: 2020-10-06T22:21:00Z

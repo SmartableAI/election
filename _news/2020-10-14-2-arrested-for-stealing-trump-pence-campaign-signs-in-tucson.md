@@ -1537,6 +1537,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Ice Cube Offers Explanation For Working With The Trump Administration"
+    excerpt: "With the 2020 election season in its final days, Ice Cube created a political stir online yesterday. A large section of the Twitterverse was shocked to learn that the N.W.A. member has been working with the Republican Donald Trump Administration."
+    publishedDateTime: 2020-10-15T09:44:00Z
+    webUrl: "https://allhiphop.com/news/ice-cube-offers-explanation-for-working-with-the-trump-administration/"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 55
+    images:
+      - url: "https://s34449.pcdn.co/wp-content/uploads/2020/10/Ice-Cube-1.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Trump Headed For Trouble -- And Not Changing Course"
     excerpt: "President Donald Trump is down in the polls, running out of time, and facing a resurgent coronavirus across the United States. Yet seemingly headed for defeat, he is doing nothing to change course. Proud of his status as a non-politician who won the White House in his first shot,"
     publishedDateTime: 2020-10-14T17:09:00Z
@@ -1564,6 +1578,20 @@ related:
       - url: "https://media.salon.com/2020/07/donald-trump-0730202.jpg"
         width: 846
         height: 571
+        isCached: true
+  - title: "Massachusetts' Republican governor 'cannot support Donald Trump for president'"
+    excerpt: "Massachusetts' Republican governor is diverging from his party this election cycle. In a Wednesday statement, Gov. Charlie Baker declared through a spokesperson that he \"cannot support Donald Trump for president\" and will \"leave the election analysis to the pundits."
+    publishedDateTime: 2020-10-14T22:05:00Z
+    webUrl: "https://theweek.com/speedreads/943775/massachusetts-republican-governor-cannot-support-donald-trump-president"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 51
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-861048400.jpg?itok=1JI_xk-v"
+        width: 840
+        height: 560
         isCached: true
   - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
     excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."

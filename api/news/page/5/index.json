@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-12-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places.md",
+      "title": "Biden: The 'only way' I'll lose is through 'chicanery' at polling places",
+      "excerpt": "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
+      "originalUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp",
+      "publishedDateTime": "2020-10-11T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-pelosi-calls-latest-trump-stimulus-proposal-grossly-inadequate-as-trump-revives-push.md",
       "title": "Pelosi calls latest Trump stimulus proposal 'grossly inadequate' as Trump revives push",
       "excerpt": "\"It is hard to understand who is shaping their approach,\" Pelosi said of the Trump administration, \"which to date has been a miserable and deadly failure.\"",
@@ -1277,49 +1320,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-joe-biden-scales-back-rare-democratic-investment-in-texas-but-dispatches-jill-biden-to-stoke-the-embers.md",
-      "title": "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers",
-      "excerpt": "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/",
-      "originalUrl": "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/ZvCr4APszKnYx5_p2sPqxbo8mb0=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/CYH7CODPP2EWWRO7Y2VL6QDFKU.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/09/joe-biden-sending-jill-biden-to-texas-as-dems-ramp-up-investment-in-long-neglected-state/?outputType=amp",
-      "publishedDateTime": "2020-10-09T20:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

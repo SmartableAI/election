@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Hamilton' cast to host virtual fundraiser for Joe Biden's campaign"
+    excerpt: "The world may be turned upside down, but the “Hamilton” cast is not letting Joe Biden throw away his shot. Biden’s presidential campaign announced Monday night that it will be holding a virtual grassroots fundraiser with the cast of the hit musical on Oct."
+    publishedDateTime: 2020-10-15T08:50:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/hamilton-cast-host-virtual-fundraiser-joe-biden-s-campaign-n1243226"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243226"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243226"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_20/3346401/200512-hamilton-al-1112_c856a6acd5b1adf1863e270d3441f211.jpg"
+        width: 2500
+        height: 1839
+        isCached: true
   - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
     excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
     publishedDateTime: 2020-10-09T21:39:00Z
@@ -145,6 +161,6 @@ related:
         height: 1533
         isCached: true
 
-secured: "fDC8Vbi3tGQiu3X6habVQhSix2piluhNpADT2QpgOpz1M1+MExmfgBTnFg7L0LjnzRWvrnasP/cLcj+iNONm99o9NNwTD91N0YcRf4E3aE72OdsC4QvXg122caQLegBuXrgCvWn2CwjfK2sYJgyf/efVrQx9jdT9pxs40gUSr0ZQdjKQEI4TqrJNrg9SQ2Qjl3aIZ1nyBMkI8Apx9AptX33VMNscl432HfIXQuOORVhcsNJ/nKr9KqBB11T3XMWU/CmuqoeL5VMIWTGJ4OZnI0eDjSLUZnEmRn3WZDDaI3d9C24IVnDjRx1d1+e234wSZJIdGRzZlt4Yifw4HTWCu4eigoOeyOWFZ1NGIOOpBG0=;LZih3qDDZ8hvMblEOsQI0A=="
+secured: "+z/TD25EyNRnURD79eZrJiyOKrgcp8wuT5hr9v2ME8swgh6JbSnyQ6k7mqOz+BJI6TcTJ0qQ/9VsqbSB5nM6fnaw/0Y1GnPMdStG6qHHGtjMrt6dGooq0gq+Uv6Vd7M98GwlnFQk5+g6DD4kKbDgxsXdDrz2UcOMx4w3UfisZ8XYdBFy6o7GGDohdKF99ObFxCjSJNCdc8Rt1rnlKN1phSVufcIVIRwfM0jTR9V0lXr+u/9Bb9rZquqVOyKQl5nEpb5ze7lwupRdv36WP2Eg5nY6y8vodDS4QI6mu1GK5lIfTVAjvX84TuKTO48xx/JcK2JXxg1+dnkt7eqRs7KojWc/kAOnuL/VKBgagsYVMvNvuOiF1HG9fhTpj49/F+L78dvdtHvPgQjL1ZHbFDNAXjkqlKUkzVUlRchTIghRlhWh6uXQYMp5x8Oy/o9ARpJfikHbm8xXbAfdj1Fb7Fas+nljxYSLgnWd7mi/p85fLO3BBUTlBQFSN3rxFtKz2Cm0eY3ajjipf2JoNeH2/Zpfbw==;ph2V2PEDRHQ0uC0lQM1Yfg=="
 ---
 

@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Biden: The 'only way' I'll lose is through 'chicanery' at polling places"
-    excerpt: "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election."
-    publishedDateTime: 2020-10-11T17:40:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp"
+  - title: "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden"
+    excerpt: "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do."
+    publishedDateTime: 2020-10-15T09:30:00Z
+    webUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden: 'Through line from President Trump’s dog whistles' to Whitmer kidnapping plot"
     excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
     publishedDateTime: 2020-10-10T23:28:00Z

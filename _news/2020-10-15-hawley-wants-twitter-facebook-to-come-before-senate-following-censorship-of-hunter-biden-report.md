@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
+    excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"
+    publishedDateTime: 2020-10-15T08:06:00Z
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine"
+    ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5522171a-998f-4edc-ba59-f45674dca7e1/9e5da789-dbe6-4cd8-ab23-4e3ce91b42a5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TJIdos8rGUw4sXCr++uJJ6Wi+GvNx1AT0QvhZCxKNVpi0TOb8U6ZjSCSweIX3ZGTLVY+shye2KXk2fJBHD37rcb9CVCpd25q/Zd9Ufu9FHAQ7fibv/yOcqkuXP3k/5lGQ6ab4nAFoTO3LSjUdp+YdRQmBlqlLSidPHuahXS3xvJE52rO5T3YQf9PEmjEB9nvsqKwZ07sosXj5P53ulEemalQYxTarTV1P/wWIoq/qbXvTyYHxzcNUxrk9j2UlCHLiSAKRyDHwr+WoPH2HlwPjy4Edvber5KBoQnywSighFCVgR6lJUTeu/tymf9zBMDei4KHt86EmcXCtM+ZmR1+tu2FRwQI4kBOZ/l2nhtxu+M=;KpU6iethrFf0UMHeA/ly1w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-tre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -212,6 +212,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Watch: Trump Holds First 'MAGA' Rally Since Coronavirus Recovery"
+    excerpt: "President Trump delivers remarks at a Make America Great Again event in Sanford, Florida. Judge Amy Coney Barrett said during her confirmation hearing opening statement that she was honored to accept President Donald Trump’s nomination to the Supreme Court,"
+    publishedDateTime: 2020-10-15T09:42:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/watch_live_trump_holds_first_maga_rally_since_coronavirus.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/521215.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "HsGSr70i5y/v/txZWAuZ7XEe+lItQS62pdMNDe8RflrC6tKaVMembEnOn72L7QI1X9KUAxtbfhBuR1bYbqEwyZLOPDmZoOLJ0m03WWtaxNbbfo0XJFkxCuuy5iJCYdgXVKaP/var0QqY3ouJVxOqo6K4XfyJw3BwtEGcBvuW/WRooFwvCzSc8tedHlSdDk0G+9F7cqnXw7x4ZQvBrBRfBIOM9+CBdBRRpyrqQgAflK+u8pMKrQ9wJLyNKKtBPJMYb0av3qR/ezf4w/P/Vt9VtRMJZtxDta/mJBdYfqrJ+RkC8z931QkXruSC4lMKSZSHyi/yRm4Z+K+JdpnJdITK1MYPDRWiIbTwzggfKKarjII=;52whw1ZgC7DOivsLdAwhWw=="

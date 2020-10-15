@@ -2,21 +2,21 @@
 category: news
 title: "Would Joe Biden really manage COVID-19 better than Donald Trump?"
 excerpt: "Joe Biden wants the election to be, in significant part, a referendum on how Donald Trump has managed the COVID-19 outbreak. Fair enough. COVID-19 was the big event in Trump’s first term, and there is a lot of valid criticism to be made about how he has responded."
-publishedDateTime: 2020-10-15T01:29:00Z
-originalUrl: "https://www.indystar.com/story/opinion/op-ed/robertrobb/2020/10/14/would-joe-biden-manage-coronavirus-better-than-trump-moving-forward/3641085001/"
-webUrl: "https://www.indystar.com/story/opinion/op-ed/robertrobb/2020/10/14/would-joe-biden-manage-coronavirus-better-than-trump-moving-forward/3641085001/"
+publishedDateTime: 2020-10-15T06:21:00Z
+originalUrl: "https://www.freep.com/story/opinion/op-ed/robertrobb/2020/10/14/would-joe-biden-manage-coronavirus-better-than-trump-moving-forward/3641085001/"
+webUrl: "https://www.freep.com/story/opinion/op-ed/robertrobb/2020/10/14/would-joe-biden-manage-coronavirus-better-than-trump-moving-forward/3641085001/"
 type: article
 quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -3666,6 +3666,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Here's what to know about the Joe Biden, Donald Trump competing town halls tonight"
+    excerpt: "With only 19 days until the Nov. 3 election, the competing events will act as one of the final moments for each candidate to swing undecided voters."
+    publishedDateTime: 2020-10-15T06:19:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/15/2020-election-what-know-joe-biden-donald-trumps-town-halls/3653523001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3653523001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3653523001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z
@@ -4436,6 +4452,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Dueling Town Halls for Trump, Biden After Debate Plan Nixed"
+    excerpt: "President Donald Trump and challenger Joe Biden will compete for TV audiences in dueling town halls instead of meeting face-to-face for their second debate as originally planned."
+    publishedDateTime: 2020-10-15T09:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/dueling-town-halls-for-trump-biden-after-debate-plan-nixed"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/dueling-town-halls-for-trump-biden-after-debate-plan-nixed?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-15/dueling-town-halls-for-trump-biden-after-debate-plan-nixed?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Split Screen: Trump and Biden to Headline Dueling Town Halls"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
     publishedDateTime: 2020-10-15T05:45:00Z
@@ -4846,6 +4873,6 @@ related:
       domain: c-span.org
     quality: 44
 
-secured: "r5RT8i6DQf9hJi3W9s3xPYOqEcaYc33YaC9PgnTxMmzsFTxUexWWjMTrz55tl2E1VMJ4J2UxP2X3zEODLtM3RoRFZ4VMfX8DHC0N9En29OQJCeA7TydAAyzDjT3PY/ieI2S7a3xia37oby2K0Y6rOcgCyWLDB0GciQelGsHkb2yLzFLkpYE4c4i02niGY8kTyKc9TwdXfAoimnwSe+IABMbg4Td36aUOHxDnXA2NM9/7FGWUBFmW5jPilkwX/iF9WuxT7WrndXSj55XcCP+XKHrDAcueB8y6qam0l8/0CRhKApR6TF7CYBlCMHHjS2fwKhy60zEIk4fHVtQ3TDDCwxsBwhRx+1gf1Ljej31Pc1NYpzFifDLF10zGy17/tQLfLzeaMZVve6FV6dsVkHfWyP/quZFmwmbcw8TXbUz+tjsaJ3ZcCAbWBVuEjMix8XNKsiCUucLddRpqf4tiNARUrsQtYG/LGLg5ZTI16+czsiuqoeC6ifFJkeWfptHZb28HncudsCFEW6Fj9rVkGAIlnw==;607eQQP9NdgKfGWSHaSQvA=="
+secured: "zW1HHJp3BhRZklDe5xapDsome1nbSQLQUCOhEdqD1eKHnt0bf4GfZ+MjWOHXsbL9/XWNJV0pmPcTILDKMl0D4XMoJC4WpFt/1p1nCg0miDaKe2gPQnRaFx9rb/5xgLxtAiy3jp5YYdNQJZrQuGkCjD9uTle2V01rKAg+72EiB4OgmX7NeXuajdDh1CQKbDLFbhw0pYh52Ce/BuFDF4g/55/JpsvAbAGAFo0Jex3kfLcYWpW/wFTD+wqnzWDFuuYHQNWoQuIV0xQWuA7LhyX8vLsiK+USwteII9OFTk4ICJgXCKyDpKlNHPIiEOMY65r2B0g7Lc4IJK4W8jxQaiHtAqn7sG3Pg3TNlUUvKi7vPQV30TaDukpuesXvyX8APAVrThxFohiGD1Tin9uTqFIthaq+ZUiAczellZqxV3GcBKiiBAyUfAI0CUSWLwaWEXD08y6YuHwfhvTmDW4lX1/zJMVTN94qDfRfIDz/bJDliwwrI05oyh0gi4ppJEGm1GoKjcAAxZaxNCTuLYMWQKzHHw==;lgYCHX333bWvEZKcX8s3AQ=="
 ---
 

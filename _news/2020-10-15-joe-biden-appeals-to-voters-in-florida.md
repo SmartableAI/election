@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden appeals to voters in Florida"
 excerpt: "Watch \"Joe Biden appeals to senior voters in Florida ahead of the election\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-14T23:22:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201015061330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
-webUrl: "https://www.cbsnews.com/live/video/20201015061330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+originalUrl: "https://www.cbsnews.com/live/video/20201015081330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+webUrl: "https://www.cbsnews.com/live/video/20201015081330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265097_1602743404.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265630_1602749824.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -296,6 +296,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "SaZrOo0n1EtcKTwxpV2iIBpzX4rc9EMMgWAv3Nza8lPTS9w84f+4jpYQglM/pqrd8+QgvdCDlt6Ro1pxmHObfgapUVSeNhWEWGgzqK3tzZqwuNColnO4uaW7Aa8KEIxuHx4IEs7t3fzGvL7kjPKrQIaQjp3CQoKUxFgdy0kZ6lfaPVNVWFW5lIhhEPQdwGQSA1fzT0vMElSrVs/9sn1W+3RqlAxJJKWy0NocE7cCrNx0lXjpGglqEzxq+nCY7u886hezKmIYdv0b8amLebzT8NP+Dl4ktNx5GAC9A6wT7Q1RJTb/QloXxW9cdZhqmCUcYtgZzi2RseHr7GIpLn9RU3Ba77Ap6UbkR0F6NgpQpcM=;4giO8hNHIT5rpbpSrnW46w=="
+secured: "2Q1AJVTMOT31esANmxdylf6vKZe2qBMBjDYrD+vLic8NGbNtOsV+QV7WzctRhZ5JuveyklquceIGHJt55Enj4l/R79MBgvv2IzdjjyKiYMqBV7Q+cjc7CcZrB7BsPNvCOh2JuxcXdI5QypjkmnoErejkUBybcgxVFP8qoFVNldsr7jJdEUA7WqjymgHyOdWkscnggl09m7YNG6MCBPjMzu8IxV9QEkTekNHJQD3zHfqD81yG8vVDVJfI5SHpI2B8540/LyxUkgZ8OuewsqO17mFZJib2VfGprnmroFkWqYL38X42sjtRLNefXwCjLvmiboRnjG3a9GB1140Zw+530xmtRfmcEPZLqTknMa+X3AM=;RgFO8z1RRcrOyjU3T0bkAg=="
 ---
 
