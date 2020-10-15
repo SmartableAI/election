@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris and the shameful history of slamming women as 'unlikable’"
-    excerpt: "President Trump also derided the Democratic vice-presidential candidate as ‘a monster’ — a term used to vilify suffragists more than a century ago."
-    publishedDateTime: 2020-10-09T11:08:00Z
-    webUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
+  - title: "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers"
+    excerpt: "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents."
+    publishedDateTime: 2020-10-07T21:37:00Z
+    webUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176"
+    ampWebUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "Kamala Harris is on the cover of Elle magazine's November issue"
+    excerpt: "Democratic Vice Presidential nominee Senator Kamala Harris is the former attorney general of California. She was the second Black woman to be elected to the U.S. Senate, and this year became the first Black vice presidential nominee."
+    publishedDateTime: 2020-10-06T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-elle-magazine-cover-november/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMXXG3QJGAI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 1080
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/06/b65ecbdd-02b1-439d-9bc1-bd0a602c7fda/thumbnail/1200x630/f2287b22c7438d7d45e031861c7f2800/gettyimages-1228018304.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fact check: Kamala Harris did not say these remarks about American churches"
     excerpt: "A copy-paste social media post that appears to have been circulating on Facebook since October 8 makes the false claim that the Democratic vice president nominee Kamala Harris lashed out at churches and pastors for promoting intolerance,"
@@ -59,85 +75,53 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic"
-    excerpt: "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package."
-    publishedDateTime: 2020-10-13T03:30:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp"
+  - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
+    excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
+    publishedDateTime: 2020-10-08T15:35:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
+      name: The Hill
+      domain: thehill.com
+    quality: 113
     images:
-      - url: "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Fox News cut ties with a frequent guest after he called Kamala Harris an 'insufferable lying b----' on Twitter"
-    excerpt: "Harlan Hill, who has ties to President Donald Trump's reelection campaign, was a frequent guest on Fox News until he tweeted an insult about Harris."
-    publishedDateTime: 2020-10-10T20:26:00Z
-    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+  - title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
+    excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
+    publishedDateTime: 2020-10-04T21:55:00Z
+    webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: Axios
+      domain: axios.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.axios.com/BzhhevCANjFvRDPxSiQwbeCSBDE=/fit-in/1366x1366/2020/10/04/1601842365580.jpg"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter"
-    excerpt: "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris."
-    publishedDateTime: 2020-10-09T09:49:00Z
-    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fact-check: Does Kamala Harris support police defunding?"
-    excerpt: "As vice president, Kamala Harris would \"defund, dismantle, and dissolve police departments.\"PolitiFact’s ruling:"
-    publishedDateTime: 2020-10-09T16:57:00Z
-    webUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding"
-    ampWebUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
+  - title: "How will Kamala Harris affect Asian Americans voting in Texas?"
+    excerpt: "For Jashmin Patel, who moved to Austin in February, Joe Biden naming U.S. Sen. Kamala Harris as his running mate resonated on a personal level. “I"
+    publishedDateTime: 2020-10-07T10:24:00Z
+    webUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas"
+    ampWebUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
     type: article
     provider:
       name: Austin American-Statesman
       domain: statesman.com
     quality: 75
     images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201009&Category=NEWS&ArtNo=201008973&Ref=AR"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
-    excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
-    publishedDateTime: 2020-10-14T21:00:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/kamala-harris-remarks-george-floyd-s-47th-birthday"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201007&Category=NEWS&ArtNo=201009257&Ref=AR"
+        width: 3000
+        height: 1882
         isCached: true
   - title: "Kamala Harris' false 'Honest Abe' story and her misuse of American history"
     excerpt: "Sen. Kamala Harris is the very embodiment of today’s progressives. She proved this again and again on the debate stage with Vice President Mike Pence, most clearly in her willingness to twist or rewrite history."
@@ -155,49 +139,37 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
-    excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
-    publishedDateTime: 2020-10-11T12:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
+  - title: "Kamala Harris says 'I'm answering the question' as she dodges on court-packing"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Thursday she was answering the question on whether Democrats should try to pack the U.S. Supreme Court as she declined to take a position on the issue."
+    publishedDateTime: 2020-10-09T20:23:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Supreme_Court_34010.jpg-13433_c0-0-4500-2625_s1200x700.jpg?27c25af2ea4591cbd287e099859ceda78efd15e3"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Jamaicans in Florida energised by Kamala Harris on 2020 ticket"
-    excerpt: "President Donald Trump and Joe Biden are entering the final stretch of the campaign in a fierce battle for Latino voters who could sway the results in Florida and determine who wins the White House. B"
-    publishedDateTime: 2020-10-11T19:49:00Z
-    webUrl: "https://www.dailypioneer.com/2020/world/jamaicans-in-florida-energised-by-kamala-harris-on-2020-ticket.html"
+  - title: "'Saturday Night Live': Maya Rudolph's Kamala Harris Declares That America Needs a 'WAP' - 'Woman as President'"
+    excerpt: "The Emmy Award-winning comedian stated that America needs a 'woman as president' during the 'SNL' season 46 premiere cold open."
+    publishedDateTime: 2020-10-04T05:33:00Z
+    webUrl: "https://www.etonline.com/saturday-night-live-maya-rudolphs-kamala-harris-declares-that-america-needs-a-wap-woman-as"
+    ampWebUrl: "https://www.etonline.com/saturday-night-live-maya-rudolphs-kamala-harris-declares-that-america-needs-a-wap-woman-as?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/saturday-night-live-maya-rudolphs-kamala-harris-declares-that-america-needs-a-wap-woman-as?amp"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
+      name: Entertainment Tonight
+      domain: etonline.com
     quality: 55
     images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
-  - title: "Kamala Harris Just Slammed the Senate GOP for “Reckless” Endangerment of Capitol Staff"
-    excerpt: "\"Senate Republicans have made it crystal clear that rushing a Supreme Court nomination is more important than helping and supporting the American people.\""
-    publishedDateTime: 2020-10-12T18:40:00Z
-    webUrl: "https://www.motherjones.com/politics/2020/10/kamala-harris-just-slammed-the-senate-gop-for-reckless-endangerment-of-capitol-staff/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 47
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/20200821_sha_z03_372.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-10/Screen%20Shot%202020-10-03%20at%208.39.22%20PM.png?h=79fc098b&itok=bI13Njdd"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "At5puyGJX53G1MLcTVLXulqkEmhwTaNNjwLOaPIBKN/ZzIP7pd/gdpRSAcn7su1uRfwTajVm1cFS3qqSnizs6GlOWJgrDoQgVHRFhKnqw3Ld5F9hL3eEJU7FVNUd5A3iroeZh7NxuHS+/cEaqHdMMPS66T/UFab/GGTc6NapPlvWwONzFkWU50nnXFG5AifpCMgvZCXfAVkQ3C8J9YTQereOyATp5AisSZe2/AkL2k7DQTKyVkUdt+/3DSVpV526Jbx5hJW6Jr8xZ+AsG4/rny7jANXmcwpAtPQ01XZaD/GpJ0Xiwe6LWlKk4sFCtAGQVmcXJKl0mpNrdRQINVwd64ynO50QI1hOmMqiOihQBBaR/ktIKQqWkAYRutYBnUNy/ptJP4esxpb1oEyWCIEnk6hbbFy3sxmJPDs5s1gXROLYwdRPJqIdQiPrmKHas22mMRhyrOB5gMR4qYnCXT0HaECy0ZzaRlFS0EDJo5ZJoV2pdK15lxZjrnWSfl/4zogTiF1/RSONvC568cv2zsYTQg==;Gb9FbHbQyZ7mLsenXQvL8Q=="

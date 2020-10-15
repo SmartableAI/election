@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
 type: article
 quality: 113
-heat: 153
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,37 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear"
-    excerpt: "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases."
-    publishedDateTime: 2020-10-03T20:51:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp"
+  - title: "Schiff: If Trump wanted more infections 'would he be doing anything different'?"
+    excerpt: "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness."
+    publishedDateTime: 2020-10-10T02:54:00Z
+    webUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different"
+    ampWebUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: The Hill
+      domain: thehill.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/5f6c734ae3e76700117163ed?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump, who has a highly contagious infectious disease, left Walter Reed to pay a 'surprise visit' to cheering 'fans' outside the hospital"
-    excerpt: "He was moved to the hospital on Friday for a \"few days.\""
-    publishedDateTime: 2020-10-04T22:20:00Z
-    webUrl: "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-left-hospital-surprise-visit-supporters-covid-2020-10?amp"
+  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
+    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
+    publishedDateTime: 2020-10-03T02:31:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
     images:
-      - url: "https://i.insider.com/5f7a437d282c500018c787e0?width=1200&format=jpeg"
-        width: 1004
-        height: 502
+      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
+        width: 2500
+        height: 1535
+        isCached: true
+  - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
+    excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
+    publishedDateTime: 2020-10-04T05:42:00Z
+    webUrl: "https://www.ibtimes.com/wh-chief-staff-trump-improving-doctors-were-very-concerned-3056365"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-chief-of-staff-mark-meadows-speaks.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "BC16ziJ1ca746Ya40EHoFvab2vrwfQ3nqPj92BBOaBBlkfbEgnRpffniWfXjmW26Y2uWrD0Jqn7HLSSu6r0SPPHxrz/hCqasQ81B2/b1VosOQduNGaOLkD51paN97/3mLHulQ/71EJ1z4InQGbUDowWYTxnSmsD+x/PMIpSWaictt4qkhYlimFtPwqzH5I9s6HtFZl/qrvl55tU/oKfjtNKJf19ag+UXIjE7t94Hs92gqsKmABQ5X+FdvG+zW/jv7+dwl5nA+H7KFc5L+i9LSlNX9WlNDRCGyualfEblyZIyPy5sdg42CfKOIfKEXc9oOeoFvx8714DG5NHg2QH7YULEcRCpiYt4pM2ycYtYapw=;w82hOINOTL/E7EqlG/jloQ=="

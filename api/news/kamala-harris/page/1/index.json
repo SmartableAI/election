@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-15-kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video.md",
+      "title": "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video",
+      "excerpt": "Coney Barrett faces second day of Senate judiciary committee",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video",
+      "originalUrl": "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/70d23c3b973042cab2d1b7b6a7e2b527cd1b5e4c/0_168_4835_2903/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84234382a5a7db8e7a6d8265e63a8328",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-harris-tells-barrett-that-ginsburg-was-far-more-forthcoming-about-abortion-views.md",
       "title": "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views",
       "excerpt": "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\"",
@@ -14,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 539,
+      "heat": 579,
       "tags": null,
       "images": [
         {
@@ -59,21 +111,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-kamala-harris-battles-with-amy-coney-barrett-on-whether-she-knew-trump-wanted-anti-obamacare-judges.md",
-      "title": "Kamala Harris Battles With Amy Coney Barrett on Whether She Knew Trump Wanted Anti-Obamacare Judges",
-      "excerpt": "The California senator and Democratic vice presidential nominee questioned Judge Barrett on Tuesday, during the second of four confirmation hearings.",
+      "path": "_news/2020-10-13-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it.md",
+      "title": "Biden and Harris would end Trump's China policy — Pence would extend it",
+      "excerpt": "Pence’s clear-eyed vision on the China threat matches Trump’s instincts and would make for a seamless presidential transition, if necessary.",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863",
-      "originalUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863",
+      "webUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
+      "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 726,
+      "heat": 6400,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1651266/kamala-harris.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,16 +133,69 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-battles-amy-coney-barrett-whether-she-knew-trump-wanted-anti-obamacare-judges-1538863?amp=1",
-      "publishedDateTime": "2020-10-13T16:28:00-07:00",
+      "ampWebUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
+      "publishedDateTime": "2020-10-13T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-kamala-harris-says-its-reckless-to-hold-supreme-court-hearings-during-a-pandemic.md",
+      "title": "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic",
+      "excerpt": "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "publishedDateTime": "2020-10-12T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -211,21 +316,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too.md",
-      "title": "How Kamala Harris Stopped Pence’s Manterruptions (And How You Can Stop Them, Too)",
-      "excerpt": "Assert your power like Senator Harris so that you are not interrupted. Take note of how Harris stopped Pence from interrupting her by following these four tips: Senator Harris told Vice President Pence that she is speaking.",
+      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary.md",
+      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’",
+      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
-      "originalUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
+      "webUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -233,16 +338,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
-      "publishedDateTime": "2020-10-11T05:23:00-07:00",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/election/article246337265.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html",
+      "publishedDateTime": "2020-10-11T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
+      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
+      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -261,198 +409,6 @@
         "Election",
         "Kamala Harris",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary-charlotte-observer.md",
-      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’ | Charlotte Observer",
-      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html",
-      "originalUrl": "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.charlotteobserver.com/news/politics-government/election/article246337265.html",
-      "cdnAmpWebUrl": "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246337265.html",
-      "publishedDateTime": "2020-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Charlotte Observer",
-        "domain": "charlotteobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-snl-maya-rudolph-gives-one-her-best-kamala-harris-impressions-yet-in-debate-skit.md",
-      "title": "SNL: Maya Rudolph Gives One Her Best Kamala Harris Impressions Yet in Debate Skit",
-      "excerpt": "Maya Rudolph is back at it again with her hilarious Kamala Harris impressions on Saturday Night Live. On the Oct. 10 episode, the comedian channeled the vice",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222",
-      "originalUrl": "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.popsugar-assets.com/files/thumbor/irGmy4DjAtFtzK2EUdheYTs-2KE/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/10/271/n/1922283/5f257ac75f82988cd12da9.12583556_.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp",
-      "cdnAmpWebUrl": "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp",
-      "publishedDateTime": "2020-10-10T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PopSugar",
-        "domain": "popsugar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-kamala-harris-and-the-shameful-history-of-slamming-women-as-unlikable.md",
-      "title": "Kamala Harris and the shameful history of slamming women as 'unlikable’",
-      "excerpt": "President Trump also derided the Democratic vice-presidential candidate as ‘a monster’ — a term used to vilify suffragists more than a century ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
-      "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMXXG3QJGAI6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
-      "publishedDateTime": "2020-10-09T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
-      "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
-      "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5917943002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002",
-      "publishedDateTime": "2020-10-09T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     },
     {
@@ -509,6 +465,59 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-rick-santorum-cut-off-female-co-panelist-gloria-borger-while-she-was-talking-about-mike-pence-interrupting-kamala-harris-at-the-vp-debate.md",
+      "title": "Rick Santorum cut off female co-panelist Gloria Borger while she was talking about Mike Pence interrupting Kamala Harris at the VP debate",
+      "excerpt": "Pence interrupted Harris twice as often during Wednesday night's vice-presidential debate, prompting criticism from the CNN analyst Borger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "originalUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7ed3e0c655f6001969ed92?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "publishedDateTime": "2020-10-08T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence",
         "Kamala Harris"
       ]
@@ -578,7 +587,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 4248,
+      "heat": 4308,
       "tags": null,
       "images": [
         {
@@ -619,6 +628,59 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-as-harris-prepares-for-pence-debate-asian-american-women-pay-tribute-to-their-immigrant-mothers-grandmothers.md",
+      "title": "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers",
+      "excerpt": "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "originalUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "publishedDateTime": "2020-10-07T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Mike Pence",
         "Kamala Harris"
       ]
@@ -739,21 +801,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
-      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
-      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
+      "path": "_news/2020-10-07-kamala-harris-featured-on-cover-of-elle-magazines-november-issue.md",
+      "title": "Kamala Harris featured on cover of Elle magazine's November issue",
+      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris (D-Calif.) is on the cover for Elle magazine’s November issue, in which the senator participates in a broad interview spanning racial inequality,",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "webUrl": "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue",
+      "originalUrl": "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6975,
+      "heat": 425,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://thehill.com/sites/default/files/harriskamala_10022020_1.jpg",
+          "width": 980,
+          "height": 552,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -761,16 +823,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "publishedDateTime": "2020-10-01T09:45:00-07:00",
+      "ampWebUrl": "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp",
+      "publishedDateTime": "2020-10-06T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-06-kamala-harris-and-mike-pence-will-reportedly-be-separated-by-plexiglass-in-debate-on-wednesday-night.md",
+      "title": "Kamala Harris and Mike Pence will reportedly be separated by plexiglass in debate on Wednesday night",
+      "excerpt": "The highest profile use of plexiglass so far this election cycle came from Democrat Jaime Harrison in his debate against Republican South Carolina Sen. Lindsey Graham.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp",
+      "publishedDateTime": "2020-10-05T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -788,8 +902,7 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Mike Pence",
-        "Donald Trump"
+        "Mike Pence"
       ]
     },
     {
@@ -846,6 +959,59 @@
       "topics": [
         "Election",
         "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
+      "title": "Harris to voters: Don't give up as Trump rushes court pick",
+      "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "publishedDateTime": "2020-09-28T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Kamala Harris"
       ]
     },
@@ -972,7 +1138,7 @@
       "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3400,
+      "heat": 4220,
       "tags": null,
       "images": [
         {
@@ -1072,6 +1238,187 @@
         "Kamala Harris",
         "Republican Voice",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.md",
+      "title": "Did Kamala Harris’ family move to Jamaica to engage in the slave trade? No",
+      "excerpt": "The elder Harris did write that his paternal grandmother descended from a slave owner. That part of his essay has been distorted repeatedly to fuel misleading claims on social media about the Harris family’s connections to slavery in Jamaica.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E7EWO7O5E5HUXDEI4UH7XZ46OE.jpg",
+          "width": 2961,
+          "height": 1974,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html?outputType=amp",
+      "publishedDateTime": "2020-09-26T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-25-kamala-harris-path-to-victory-runs-straight-through-michigan.md",
+      "title": "Kamala Harris: Path to victory 'runs straight through' Michigan",
+      "excerpt": "Democratic vice presidential nominee Kamala Harris visited Flint and later warned Black voters in Detroit about Russian election meddling",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/politics/2020/09/22/kamala-harris-visits-small-businesses-flint-detroit/5867934002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/f95df250-a68a-49f1-8def-6a9599be9e2a-AP20266760989174.jpg?auto=webp&crop=5769,3245,x0,y243&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/5867934002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5867934002",
+      "publishedDateTime": "2020-09-25T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-opinion-south-asians-should-celebrate-kamala-harris-nomination-and-confront-our-own-racism.md",
+      "title": "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism",
+      "excerpt": "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/24/12/20005524/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "publishedDateTime": "2020-09-24T01:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-09-22-maya-rudolph-wins-emmy-as-kamala-harris-jason-bateman-given-ron-cephas-jones-award.md",
+      "title": "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award",
+      "excerpt": "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
+      "originalUrl": "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.desmoinesregister.com/amp/5844167002",
+      "cdnAmpWebUrl": "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5844167002",
+      "publishedDateTime": "2020-09-22T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Des Moines Register",
+        "domain": "desmoinesregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -1216,102 +1563,7 @@
         "Election",
         "Kamala Harris"
       ]
-    },
-    {
-      "path": "_news/2020-09-15-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win.md",
-      "title": "In her three elections, Kamala Harris has learned to adapt — and win",
-      "excerpt": "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
-      "originalUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/harriskamala_08122020_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/515874-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win?amp",
-      "publishedDateTime": "2020-09-14T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-11-kamala-harris-calls-trumps-downplaying-of-covid-19-outrageous-in-florida-visit.md",
-      "title": "Kamala Harris calls Trump's downplaying of COVID-19 'outrageous' in Florida visit",
-      "excerpt": "Democratic vice presidential nominee Kamala Harris traveled to Florida Thursday, where she condemned President Donald Trump's downplaying of the COVID-19 pandemic as \"outrageous.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
-      "originalUrl": "https://www.upi.com/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/7621599746200/2020/1/56ed1fc76e5d4fb989dfb3a0ed6d7631/v1.5/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/10/Kamala-Harris-calls-Trumps-downplaying-of-COVID-19-outrageous-in-Florida-visit/7621599746200/",
-      "publishedDateTime": "2020-09-10T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

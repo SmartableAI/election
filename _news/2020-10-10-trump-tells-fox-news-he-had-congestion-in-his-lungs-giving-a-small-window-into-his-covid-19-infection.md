@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "'Operation MAGA': Trump campaign to resume in-person events with Pence Ariz. trip as president battles COVID-19"
-    excerpt: "The trip will begin what the campaign is calling \"Operation MAGA\" – a return of in-person campaign events led by top surrogates as Trump is sidelined."
-    publishedDateTime: 2020-10-04T01:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3608249001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001"
+  - title: "Trump Says Scans Found 'Congestion' In His Lungs, Doesn’t Know If He’s Virus-Free Yet"
+    excerpt: "Trump's physician Dr. Sean Conley, who has given conflicting reports on Trump's health, previously said that scans resulted in \"expected findings.\""
+    publishedDateTime: 2020-10-10T01:44:00Z
+    webUrl: "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/"
+    ampWebUrl: "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Forbes
+      domain: forbes.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f810fff2be6434eedee24f9%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4808%26cropY1%3D211%26cropY2%3D2916"
         width: 1200
         height: 675
         isCached: true

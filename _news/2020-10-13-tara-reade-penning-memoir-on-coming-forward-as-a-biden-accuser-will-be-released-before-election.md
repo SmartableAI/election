@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tara-reade-penning-memoir-on-coming
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release.amp"
 type: article
 quality: 177
-heat: 297
+heat: 337
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Joe Biden Raised $383 Million in September, Breaking Earlier Record"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign surpasses the record-breaking haul it collected a month earlier, raising funds that will allow it to run a large advertising campaign in the final weeks before the Nov."
+    publishedDateTime: 2020-10-15T02:17:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-245257/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
     excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
@@ -122,6 +138,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "The Type of Leader We Can Expect Joe Biden to Be"
+    excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
+    publishedDateTime: 2020-10-14T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/14/the-type-of-leader-we-can-expect-joe-biden-to-be-n2578085"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "QoRZJWHjfQvQV/k6mQoAY7PE8lszJhLWbnCV1QBsDFu32R5i6oA7T+Xx8yYGURJG8mlrMrycu0sBDaLX1LgZ9ZVyuePcWTHRmL0VSiOaiM/1BDQIRZWzR1V6VEeG+1u0PxPLjrChA2l+FcFYrK08PUJn0WJewvGxEqx02Mf4Bn/eoybXZTKYr/5U9D89mp27WGneYeFu0QfIemNjEUy0H3EH8qVEHLo9zAWF69PyoR5xe08qAbHk96haeUU8h1CSSFOKTq8Gn/IAUkZzVS3EAa2xYhw/Xv25n35WpwrM2ZMDRY+5VNZtOlz0EoweqSAo+XGA+JqNdFmyd8wEt36mmQXXjH4vxaXIr5zTJvW1UVU=;r9+WU/+OeB67dKD5muL7kg=="

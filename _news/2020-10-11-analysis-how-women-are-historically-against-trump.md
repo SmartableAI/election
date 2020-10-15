@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Trump's efforts to divide the left will likely fall flat"
-    excerpt: "President Donald Trump seems to be trying to cause a rift between former Vice President Joe Biden and those on the left. For example, when Biden said he was not in favor of The Green New Deal at last week's debate, Trump responded, \"Oh you don't? Well, that's a big statement. You just lost the radical"
-    publishedDateTime: 2020-10-10T17:40:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWtuk3FmnoI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212319-16-debate-cleveland-trump-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Trump's war on Obamacare is coming back to bite him"
     excerpt: "Americans don't yet know whether doctors have protected President Donald Trump from the effects of Covid-19. They do know his gold-standard care is beyond their reach.\n    \n"
     publishedDateTime: 2020-10-11T21:19:56Z

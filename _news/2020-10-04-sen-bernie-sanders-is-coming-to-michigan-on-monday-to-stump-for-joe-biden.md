@@ -107,6 +107,54 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "When is the Mike Pence–Kamala Harris debate?"
+    excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
+    publishedDateTime: 2020-09-30T20:15:00Z
+    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 150
+    images:
+      - url: "https://s.marketwatch.com/public/resources/images/MW-IP742_vp_deb_ZG_20200930125912.jpg"
+        width: 1320
+        height: 742
+        isCached: true
+  - title: "See what they paid: Joe Biden and Kamala Harris release 2019 tax returns"
+    excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
+    publishedDateTime: 2020-09-29T23:15:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 149
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec592ed/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F82%2Fca%2F029f27374a97b03c9146222a66e7%2Fca-times.trump-tax-thumb.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
+    excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi"
+    publishedDateTime: 2020-10-05T11:05:00Z
+    webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 146
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump, Biden Are Potential ‘Super Agers’ Whose Age Is ‘Not Relevant’ To Election, Study Finds"
     excerpt: "An analysis finds both presidential candidates are “likely to survive the next presidential term with their mental and physical attributes intact.”"
     publishedDateTime: 2020-09-25T14:13:00Z
@@ -379,6 +427,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Plexiglass and 12 feet apart: Mike Pence, Kamala Harris have new rules for vice presidential debate"
+    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
+    publishedDateTime: 2020-10-05T23:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3630292001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3630292001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Dwayne \"The Rock\" Johnson endorses Joe Biden and Kamala Harris in first public presidential endorsement"
     excerpt: "\"In this critical election, I believe Joe Biden and Kamala Harris are the best to lead our country,\" Johnson wrote in social media posts."
     publishedDateTime: 2020-09-28T00:48:00Z
@@ -410,6 +474,80 @@ related:
       - url: "https://www.chicagotribune.com/resizer/LMAQTGqQE4scYPll0uWQ6AZT_jE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3HHMZLMI6BOFQG5KXU4N4KK53M.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
+    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
+    publishedDateTime: 2020-10-03T00:08:00Z
+    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 130
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
+        width: 810
+        height: 285
+        isCached: true
+  - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
+    excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
+    publishedDateTime: 2020-10-05T11:15:00Z
+    webUrl: "https://www.cnbc.com/video/2020/10/05/vice-president-pence-sen-kamala-harris-set-to-face-off-in-vp-debate.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 130
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Mike Pence and Kamala Harris vice presidential debate to have plexiglass barrier because of coronavirus concerns"
+    excerpt: "President Donald Trump has the coronavirus. And number of his people in his orbit have been diagnosed with Covid-19 since his debate with Joe Biden."
+    publishedDateTime: 2020-10-05T22:03:00Z
+    webUrl: "https://www.cnbc.com/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 129
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106730748-1601931141982-AP20279684793202.jpg?v=1601931215"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
+    excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
+    publishedDateTime: 2020-10-04T05:23:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/tv/h-aqttywddi-123"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 127
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cc38a37/2147483647/strip/true/crop/480x252+0+54/resize/1200x630!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh-aqTtywDDI%2Fhqdefault.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-05T14:23:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615416001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 127
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Supreme Court fight could elevate Kamala Harris' profile"
     excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick"
@@ -571,6 +709,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
+    publishedDateTime: 2020-09-25T11:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden promises U.S. mayors he will be a partner in the White House"
     excerpt: "Democratic presidential candidate Joe Biden assured U.S. mayors on Saturday he would be an active partner in the White House in helping them respond to racial justice protests and the economic fallout from the coronavirus pandemic."
     publishedDateTime: 2020-09-27T01:10:00Z
@@ -586,6 +740,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535042891&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0L1"
         width: 817
         height: 545
+        isCached: true
+  - title: "What Kamala Harris' VP nomination means to us"
+    excerpt: "America has been given a gift in Kamala Harris Kamala Harris Texas Democratic official urges Biden to visit state: 'I thought he had his own plane' The Hill's Campaign Report: Bid"
+    publishedDateTime: 2020-09-26T23:12:00Z
+    webUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us"
+    ampWebUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_getty08122020.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden, fellow Democrats focus on healthcare in Supreme Court fight"
     excerpt: "Democratic presidential candidate Joe Biden and fellow Democrats made it clear on Sunday that their opposition to President Donald Trump's Supreme Court nominee, Amy Coney Barrett, would focus on the possibility she could cast a decisive vote to strike down the"
@@ -939,6 +1109,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
+    excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
+    publishedDateTime: 2020-09-27T12:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Cindy McCain crosses party lines, formally endorses Joe Biden for president"
     excerpt: "I've known Joe for over 40 years, and my husband and I were good friends with them. And I just felt like it was time to take a stand on this,” she said. McCain first offered"
     publishedDateTime: 2020-09-23T14:46:00Z
@@ -1002,6 +1188,36 @@ related:
       - url: "https://d.newsweek.com/en/full/1641825/joe-biden.jpg"
         width: 3101
         height: 2067
+        isCached: true
+  - title: "Can Kamala Harris be president? How about Mike Pence? That’s what’s at stake in VP debate"
+    excerpt: "With President Trump having been hospitalized after contracting COVID-19 and Democratic presidential nominee Joe Biden risking exposure to the virus by traveling far more than most Americans, Wednesday’s debate between the vice president and the Democratic nominee will be anything but an afterthought."
+    publishedDateTime: 2020-10-06T01:09:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Can-Kamala-Harris-be-president-How-about-Mike-15623377.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 121
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/42/40/20064307/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Kamala Harris should boost the ratings of this year’s vice presidential debate"
+    excerpt: "If the vice presidential debate happens, TV networks will have to thank Kamala Harris for what will likely be an improvement in ratings from prior years."
+    publishedDateTime: 2020-10-05T19:51:00Z
+    webUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/"
+    ampWebUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+    type: article
+    provider:
+      name: Quartz
+      domain: qz.com
+    quality: 121
+    images:
+      - url: "https://cms.qz.com/wp-content/uploads/2020/10/kamala-harris-2020-vp-e1601914206329.jpg?quality=75&strip=all&w=1400"
+        width: 1400
+        height: 788
         isCached: true
   - title: "A retired Air Force general who served as a senior military advisor to Trump just endorsed Biden for president"
     excerpt: "Former Vice Chairman of the Joint Chiefs of Staff Gen. Paul Selva was among 489 former national security leaders who endorsed Biden."
@@ -1147,6 +1363,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sen Kamala Harris and her husband reported earning nearly $3.1 million last year"
+    excerpt: "Public financial records show Kamala Harris and her husband's combined assets to be worth $2.8 million to $6.3 million."
+    publishedDateTime: 2020-09-29T23:38:00Z
+    webUrl: "https://www.cnbc.com/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 120
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106693918-1599577154420-gettyimages-1271222751-cn9i9686_2020090755022086.jpeg?v=1599577261"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "The full first debate between President Trump and Joe Biden"
     excerpt: "At the first of three presidential debates between President Trump and former Vice President Joe Biden, the candidates were asked about a wide range of topics, including the coronavirus pandemic, the economy and ongoing protests against police brutality and racism."
     publishedDateTime: 2020-09-30T05:33:00Z
@@ -1158,6 +1390,20 @@ related:
     quality: 120
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/30/26c64d8f-0ac2-4db6-8a8c-f4d63ec66f2f/thumbnail/1200x630/105ee779ce2e6d0b2a23c2a4b9b4eb4d/0929-cbsn-firstpresidentialdebate-full-556665-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Biden face off in first presidential debate"
+    excerpt: "After months of long-distance attacks, President Trump and former Vice President Joe Biden are facing off in Cleveland for their first presidential debate. Ed O'Keefe reports."
+    publishedDateTime: 2020-09-29T23:53:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-and-biden-face-off-in-first-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/29/daf5b565-8cd2-4f1e-930b-b9b320374df1/thumbnail/1200x630/838c7ceca12060ee70bf086a2627041a/0929-en-okeefe-556382-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -1206,6 +1452,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IQNTMCDHGRAFLB23P4WVRXX4JM.jpg"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Kamala Harris said President Trump \"denigrated the office\" with his performance at first debate"
+    excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance. Watch her full reaction here."
+    publishedDateTime: 2020-09-30T03:41:00Z
+    webUrl: "https://www.cbsnews.com/video/kamala-harris-reacts-to-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 108
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/30e5a4ab-eb90-4d61-85e7-06f1fc733b46/thumbnail/1200x630/1dcf9a131367124f7b84356ca90adf71/cbsn-fusion-kamala-harris-reacts-to-presidential-debate-thumbnail-556621-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cindy McCain endorses Joe Biden for president..."
     excerpt: "Watch \"Wife of late senator Cindy McCain endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -1316,6 +1576,22 @@ related:
         width: 1485
         height: 880
         isCached: true
+  - title: "Faith, state leaders hold Biden-Harris counter rally during Vice President Pence visit to Atlanta"
+    excerpt: "It happened only about five minutes away from the Cobb Galleria, where Pence held a campaign luncheon and speaking event."
+    publishedDateTime: 2020-10-01T01:02:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 102
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/d5fbace7-3409-41d7-809a-c8125bcc322a/d5fbace7-3409-41d7-809a-c8125bcc322a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "FACTBOX-Here are rules liberals think they could reverse under Biden presidency"
     excerpt: "Influential liberal think tanks are starting to identify Wall Street-friendly rule changes made by the Trump administration that could be scrapped using the Congressional Review Act if presidential candidate Joe Biden wins the White House and Democrats retake the"
     publishedDateTime: 2020-09-21T11:28:00Z
@@ -1327,6 +1603,97 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 101
+  - title: "Mike Pence vs. Kamala Harris: When Is The Vice Presidential Debate?"
+    excerpt: "After the first presidential debate Tuesday night between President Donald Trump and Democratic nominee Joe Biden, Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will square off on Oct. 7. The vice presidential debate will ..."
+    publishedDateTime: 2020-09-30T00:50:00Z
+    webUrl: "https://www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961"
+    ampWebUrl: "https://www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 100
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Vice Presidential Debate: What to Expect When Harris, Pence Face Off"
+    excerpt: "As the nation looks forward to the 2020 vice presidential debate between Kamala Harris and Mike Pence next week, here’s what you need to know."
+    publishedDateTime: 2020-09-30T21:52:00Z
+    webUrl: "https://www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/"
+    ampWebUrl: "https://www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 100
+    images:
+      - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Fabricated Kamala Harris tweet on removing cop account from Instagram"
+    excerpt: "Social media users are circulating a fabricated tweet allegedly from vice presidential candidate Kamala Harris, in which she asks for an account called “@cops.page” to be removed and says the focus should be on defunding the police,"
+    publishedDateTime: 2020-10-05T14:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-police-tweet-idUSKBN26Q220"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q220"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q220"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+  - title: "Vice President Pence, Harris prep for debate with higher stakes"
+    excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
+    publishedDateTime: 2020-10-05T13:43:00Z
+    webUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/"
+    ampWebUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 100
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2020/10/kamala-and-pence.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
+    excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
+    publishedDateTime: 2020-10-05T14:36:00Z
+    webUrl: "https://www.tvguide.com/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    ampWebUrl: "https://www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    cdnAmpWebUrl: "https://www-tvguide-com.cdn.ampproject.org/c/s/www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
+    type: article
+    provider:
+      name: TV Guide
+      domain: tvguide.com
+    quality: 98
+    images:
+      - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/03/c84537b1-beee-4623-a0a7-4004673e3f92/thumbnail/1300x867/c5cc7998a0ff8ddeb925ee4019f1fda3/201002-mikepencekamalaharris-news.jpg"
+        width: 1300
+        height: 867
+        isCached: true
+  - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
+    excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
+    publishedDateTime: 2020-10-04T15:12:00Z
+    webUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142"
+    ampWebUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 96
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-09-28T194007Z_595349806_RC2V7J9A8LUP_RTRMADP_3_USA-ELECTION-HARRIS.JPG"
+        width: 1200
+        height: 837
+        isCached: true
   - title: "Cindy McCain, wife of late Republican Senator John McCain, endorses Joe Biden for president"
     excerpt: "Cindy McCain, wife of late Republican Senator John McCain, joins \"CBS This Morning\" to discuss what led her to endorse Joe Biden, why she thinks he would be the right person for president and how she feels about the Republican party."
     publishedDateTime: 2020-09-23T13:02:00Z
@@ -1389,6 +1756,22 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
+    excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
+    publishedDateTime: 2020-10-02T17:40:00Z
+    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
+    ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 94
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2FJoJo.jpg"
+        width: 1500
+        height: 783
+        isCached: true
   - title: "Joe Biden: Kamala Harris ready to step in 'if somebody pushed me off a roof or something'"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Wednesday that Sen. Kamala Harris, his running mate, would be ready to step in on “day one” as president if he was met with an unfortunate accident like getting pushed off a roof."
     publishedDateTime: 2020-09-23T23:35:00Z
@@ -1404,6 +1787,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/08/15/election_2020_joe_biden_vp_24376_c0-74-3184-1931_s1200x700.jpg?3825a4029ad950c99627cb4154096dc27a887288"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Plexiglass will divide Mike Pence, Kamala Harris at Wednesday's vice presidential debate"
+    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
+    publishedDateTime: 2020-10-05T23:28:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3630292001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3630292001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Cindy McCain endorses Joe Biden for president in rebuke of Donald Trump"
     excerpt: "Cindy McCain endorsed Democrat Joe Biden for president Tuesday in a rebuke of President Donald Trump by the widow of the GOP’s 2008 nominee."
@@ -1452,6 +1851,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "The Latest: Kamala Harris previews Biden's focus for debate"
+    excerpt: "The Latest on the 2020 presidential election (all times local): 5:50 p.m. Kamala Harris says her running mate, Joe Biden, will share his vision for tackling the coronavirus and rebuilding the nation’s economy during his presidential debate against President Donald Trump."
+    publishedDateTime: 2020-09-30T00:45:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_15782_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Election 2020: How to watch NBC Joe Biden town hall on Monday night"
     excerpt: "NBC on Monday night will host Democratic presidential nominee Joe Biden in a town hall event in the battleground state of Florida. Biden’s event also comes two days before a scheduled vice presidential debate between Vice President Mike Pence and Biden’s running mate,"
@@ -1581,6 +1996,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "\"SNL\" Gives Sneak-Peek Of Jim Carrey As Joe Biden, Maya Rudolph As Kamala Harris"
+    excerpt: "Ahead of tomorrow's 'Saturday Night Live' season premiere, the show shared a teaser clip featuring Jim Carrey and Maya Rudolph as Joe Biden and Kamala Harris. S.N.L is returning tomorrow night for its first live episode since the start of the COVID-19 pandemic in March,"
+    publishedDateTime: 2020-10-03T02:53:00Z
+    webUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/snl-gives-sneak-peek-of-jim-carrey-as-joe-biden-maya-rudolph-as-kamala-harris-news.118904.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 85
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601661847_d2b1086c31d907151d23dce6970a5e02.jpg/0232a7f3f125a3597b97b33ed1941b66/1601661847_8938d8a81a9303511c14efe9777758ba.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Election 2020: With polls favoring Joe Biden as debate looms, President Donald Trump suggests pair take drug tests"
     excerpt: "President Donald Trump, heading into a Tuesday night debate against a Democratic challenger who leads in both national and key swing state polls released on Sunday, repeated attacks on Joe Biden’s mental fitness by demanding the former vice president take a drug test and pledging to take one himself either before or after they take the stage in Cleveland,"
     publishedDateTime: 2020-09-27T17:22:00Z
@@ -1661,6 +2092,20 @@ related:
         width: 1400
         height: 1050
         isCached: true
+  - title: "These Kamala Harris Quotes About Mike Pence Don't Hold Back"
+    excerpt: "As soon as Sen. Kamala Harris (D-California) was announced as former Vice President Joe Biden’s running mate for the 2020 presidential election, it was quickly followed by discussion of the vice presidential debate."
+    publishedDateTime: 2020-10-05T18:54:00Z
+    webUrl: "https://www.elitedaily.com/p/these-kamala-harris-quotes-about-mike-pence-dont-hold-back-33860669"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 80
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
     excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"
     publishedDateTime: 2020-09-26T10:08:00Z
@@ -1724,6 +2169,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/0e32aD7nMJhR5A4-HXXQ9fDNYag=/0x0:7000x6000/1400x1050/filters:focal(2940x2440:4060x3560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67553607/1228768908.jpg.0.jpg"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Jim Carrey makes shaky Joe Biden debut on 'SNL,' Maya Rudolph's Kamala Harris cracks a 'WAP' joke"
+    excerpt: "In the \"SNL\" premiere, Jim Carrey made his debut as Joe Biden in the opening debate parody, while Maya Rudolph's Kamala Harris cracked a \"WAP\" joke."
+    publishedDateTime: 2020-10-04T14:23:00Z
+    webUrl: "https://www.jsonline.com/story/entertainment/tv/2020/10/04/snl-jim-carrey-makes-shaky-debut-joe-biden-debate-cold-open/3615416001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3615416001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3615416001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 77
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/43719426-36e6-4bcb-9689-806ea43d9cc7-NUP_191888_0003.JPG?auto=webp&crop=999,562,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Citing family friendship and character, Cindy McCain endorses Joe Biden"
     excerpt: "\"It had nothing to do with John McCain at all,\" Cindy McCain said of her decision to endorse Joe Biden. This was about her."
@@ -1869,6 +2330,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Sen. Kamala Harris dodges question on packing Supreme Court"
+    excerpt: "Democratic vice-presidential candidate Sen. Kamala D. Harris on Monday dodged a question on whether Democrats should expand the number of seats on the U.S. Supreme Court if they control the House, Senate and White House next year."
+    publishedDateTime: 2020-09-29T14:14:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-240-4265-2727_s1200x700.jpg?b4e540afe8cd79dee7891d2432e1b6dcf9ea66bb"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "'I don't know Beau': Trump attacks Joe Biden as former vice president reflects on late son Beau Biden"
     excerpt: "My son was in Iraq. He spent a year there,\" said Biden, referring to his late son Beau Biden. \"He was not a loser.\""
     publishedDateTime: 2020-09-30T08:51:00Z
@@ -1981,6 +2458,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "‘SNL’ season premiere with Chris Rock: See Jim Carrey as Joe Biden and Maya Rudolph as Kamala Harris"
+    excerpt: "This weekend, “SNL” is live once again and back onstage at Studio 8H with host Chris Rock. Here’s what to expect for the 46th season premiere of “SNL.\" For Chris Rock, “Saturday Night Live” is always something of a homecoming."
+    publishedDateTime: 2020-10-03T20:37:00Z
+    webUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html"
+    ampWebUrl: "https://www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/entertainment/2020/10/snl-season-premiere-with-chris-rock-see-jim-carrey-as-joe-biden-and-maya-rudolph-as-kamala-harris.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VTRDUHBP3FDJHMGJDGVL46HLOA.jpg"
+        width: 1260
+        height: 846
+        isCached: true
   - title: "What would your tax rate be under Joe Biden's proposed plan?"
     excerpt: "Presidential candidate Joe Biden has announced that, if elected, his goal will be to make major changes to tax rules, mostly by raising taxes on the wealthy as well as on corporations. In fact, the Penn Wharton model,"
     publishedDateTime: 2020-10-04T16:00:00Z
@@ -2061,6 +2554,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
+    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
+    publishedDateTime: 2020-09-29T10:00:00Z
+    webUrl: "https://www.miamiherald.com/article246083820.html"
+    ampWebUrl: "https://amp.miamiherald.com/article246083820.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246083820.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 73
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0354de2-2fc7-422c-89df-cc7516e2f05e/01b86a55-d427-45ba-b8a6-369275b0a37f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Donald Trump and Joe Biden brace for vicious matchup in first presidential debate in Cleveland"
     excerpt: "Analysts expect a bruising first presidential debate hinged on personal attacks as the Biden and Trump face off for the first time in Cleveland."
     publishedDateTime: 2020-09-29T17:49:00Z
@@ -2076,6 +2585,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
+    excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
+    publishedDateTime: 2020-09-26T02:48:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 71
+    images:
+      - url: "https://media.kvue.com/assets/ETONLINE/images/dc48a308-3b2f-426e-943e-cd305056efde/dc48a308-3b2f-426e-943e-cd305056efde_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "President Donald Trump and challenger Joe Biden clashed in first TV debate of US election campaign"
     excerpt: "It got heated last night as President Donald Trump and challenger Joe Biden clashed in first TV debate of US election campaign."
@@ -2198,6 +2723,38 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/eX4eH1FqUvdZILA7P1L5_5nqHJg=/0x0:2942x2052/1400x1050/filters:focal(1224x531:1694x1001):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67577730/Screen_Shot_2020_10_03_at_11.20.33_PM.7.png"
         width: 1400
         height: 1050
+        isCached: true
+  - title: "Kamala Harris wants to speak to the Black community. Are we ready to listen? | Solomon Jones"
+    excerpt: "Kamala Harris can’t be symbolic like Obama. She must be substantive, and she must be able to answer the tough questions so many of us have."
+    publishedDateTime: 2020-09-30T12:45:00Z
+    webUrl: "https://www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html"
+    ampWebUrl: "https://www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 64
+    images:
+      - url: "https://www.inquirer.com/resizer/Nj16sen8k4pmCLliM6pAXX7yilM=/1200x0/center/middle/www.inquirer.com/resizer/JAJ8DHISe_rGAL1UYat0HKLWGYU=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/SB7UQBXWD5B3XJHOKICRAMSWBA.png"
+        width: 1200
+        height: 704
+        isCached: true
+  - title: "Kamala Harris faces intense pressure, double standards leading into vice presidential debate"
+    excerpt: "Those who know California Sen. Kamala Harris say she will come prepared to face off with Vice President Mike Pence."
+    publishedDateTime: 2020-10-05T13:00:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 64
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/Election_2020_Biden_Harris_27250-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "VIDEO: Debuting Joe Biden impression on ‘SNL,’ Jim Carrey hesitates, rallies for self-control"
     excerpt: "The former VP, in Carrey’s take, urges himself ‘to just stand here and look lucid.’  NBC Jim Carrey unveiled his take on Joe Biden on Saturday, playing the presidential nominee as subdued, hesitant and determined not to lose his temper when provoked by his combative opponent."
@@ -2449,6 +3006,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris in Conversation Hosted by the NAACP"
+    excerpt: "Sen. Kamala Harris (D-CA) participated in a virtual conversation on race and the 2020 election as part of the NAACP's National Convention."
+    publishedDateTime: 2020-09-25T19:08:00Z
+    webUrl: "https://www.c-span.org/event/?476243/campaign-2020-sen-kamala-harris-conversation-hosted-naacp"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Joe Biden Candidate Profile"
     excerpt: "Bob Cusack, executive editor of [The Hill], and Susan Ferrechio, chief congressional correspondent for the [Washington Examiner], joined C-SPAN to discuss the political career of 2020 Democratic presidential candidate Joe Biden."
     publishedDateTime: 2020-09-26T18:29:00Z
@@ -2457,6 +3023,42 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris Campaigns Remarks in Michigan"
+    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
+    publishedDateTime: 2020-09-27T22:03:00Z
+    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Sen. Kamala Harris Delivers Remarks on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:53:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-delivers-remarks-supreme-court"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Delivers Remarks on the Supreme Court"
+    excerpt: "T14:42:26-04:00 vice presidential candidate Senator Kamala Harris (D-CA) warns that the Affordable Care Act and Roe v. Wade are at stake with President Trump’s nomination of Judge Amy Coney Barrett to the Supreme Court following the death of Justice Ginsburg."
+    publishedDateTime: 2020-09-28T18:14:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/senator-harris-warns-health-care-law-stake-supreme-court-fight"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Views & Voices: Community Perspectives on Kamala Harris"
+    excerpt: "Kamala Harris, how she represents communities across California and beyond, and what her vice presidential candidacy means to those communities. Keiona Williamson, editor of The Bee’s new Equity Lab,"
+    publishedDateTime: 2020-09-30T01:43:00Z
+    webUrl: "https://www.sacbee.com/news/equity-lab/article246061000.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 35
   - title: "Senator Bernie Sanders Campaigns for Joe Biden in New Hampshire"
     excerpt: "Sen. Bernie Sanders (I-VT) held a get-out-the-vote rally in Lebanon, NH, in support of 2020 Democratic presidential candidate Joe Biden. Before his remarks on health care and the economy, the senator began by wishing President Trump and the First Lady a speedy recovery after they tested positive for coronavirus,"

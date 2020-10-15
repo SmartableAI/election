@@ -2,6 +2,366 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-11-saturday-night-live-jim-carrey-mike-pence-and-a-very-pesky-fly.md",
+      "title": "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly",
+      "excerpt": "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly",
+      "originalUrl": "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4b91b1911c3a57a16fabcf48c5c1a68186077354/0_100_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab91fc335b64e343b497ddd0d450cacc",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-sasse-its-grotesque-biden-and-dems-wont-discuss-suicide-bombing-court-packing.md",
+      "title": "Sasse: 'It's grotesque' Biden and Dems won't discuss 'suicide bombing' court packing",
+      "excerpt": "What they’re really talking about — or refusing to talk about — is the suicide bombing of two branches of government.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "originalUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b6/9e/daa9bbd04e869f2f46bb5dcf784c/20201011-bensasse-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
+      "publishedDateTime": "2020-10-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-joe-biden-to-campaign-in-cincinnati-and-toledo-on-monday.md",
+      "title": "Joe Biden to campaign in Cincinnati and Toledo on Monday",
+      "excerpt": "Joe Biden returns to Ohio on Monday, with stops in Cincinnati and Toledo, as Vice President Mike Pence campaigns in Columbus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
+      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/5960275002",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5960275002",
+      "publishedDateTime": "2020-10-11T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-trump-packing-supreme-court-would-permanently-destroy-the-court.md",
+      "title": "Trump: Packing Supreme Court would 'permanently destroy the Court'",
+      "excerpt": "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T05:33:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary.md",
+      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’",
+      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/election/article246337265.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html",
+      "publishedDateTime": "2020-10-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-twitter-reacts-to-jim-carreys-joe-biden-impersonation-on-snl.md",
+      "title": "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'",
+      "excerpt": "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "publishedDateTime": "2020-10-11T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-mike-pences-fly-takes-center-stage-on-saturday-night-live.md",
+      "title": "Mike Pence's fly takes center stage on 'Saturday Night Live'",
+      "excerpt": "The vice president, played by Beck Bennett, assured the nation: \"The president is doing amazing, thanks to his team of terrified doctors.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
+      "originalUrl": "https://www.nbcnews.com/pop-culture/tv/mike-pence-s-fly-takes-center-stage-saturday-night-live-n1242839",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_41/3419131/201010-snl-er-1156pm_44fa640d7c35014b2f0e1dcede030b7a.png",
+          "width": 1917,
+          "height": 1075,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242839",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242839",
+      "publishedDateTime": "2020-10-10T22:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-trump-has-met-cdc-criteria-to-end-isolation-and-is-cleared-to-return-to-an-active-schedule-by-his-physician.md",
       "title": "Trump has met CDC criteria to end isolation and is cleared to return to an active schedule by his physician",
       "excerpt": "President Donald Trump has been cleared to return to an active schedule, according to a new memo from his physician, Dr. Sean Conley, released Saturday night.\n    \n",
@@ -179,7 +539,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -332,110 +692,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-we-reject-their-support-trump-campaign-strongly-declines-taliban-endorsement-for-his-2020-reelection.md",
-      "title": "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection",
-      "excerpt": "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f82146b642e9400180b530d?width=1200&format=jpeg",
-          "width": 941,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp",
-      "publishedDateTime": "2020-10-10T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-nebraska-district-could-prove-pivotal-for-biden-in-november.md",
-      "title": "Nebraska district could prove pivotal for Biden in November",
-      "excerpt": "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
-      "originalUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
-      "publishedDateTime": "2020-10-10T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-11-victor-davis-hanson-trump-must-make-election-about-class-not-race.md",
       "title": "Victor Davis Hanson: Trump must make election about class, not race",
       "excerpt": "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose.",
@@ -550,21 +806,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-trump-tells-rush-limbaugh-he-might-not-have-recovered-from-covid-19-without-regeneron-antibody-cocktail.md",
-      "title": "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail",
-      "excerpt": "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization.",
+      "path": "_news/2020-10-11-joe-biden-tests-negative-for-coronavirus-sixth-time-since-debate.md",
+      "title": "Joe Biden tests negative for coronavirus sixth time since debate",
+      "excerpt": "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
+      "webUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
+      "originalUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg",
+          "width": 769,
+          "height": 433,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -572,23 +828,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-10T14:24:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T12:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -598,7 +845,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Joe Biden"
       ]
     },
     {
@@ -610,7 +857,7 @@
       "originalUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -651,110 +898,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-turned-his-hotels-resorts-into-beltways-new-back-rooms-new-york-times-reports.md",
-      "title": "Trump turned his hotels, resorts into 'Beltway's new back rooms,' New York Times reports",
-      "excerpt": "The New York Times has released a staggering report,</a> the fourth in its series, based on President Donald Trump's federal tax returns.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/trump-gty-rc-201010_1602342464487_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "publishedDateTime": "2020-10-10T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-yard-sign-taped-with-razor-blades-sliced-a-michigan-town-workers-hand-and-left-him-needing-13-stitches.md",
-      "title": "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches",
-      "excerpt": "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp",
-      "publishedDateTime": "2020-10-10T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -847,110 +990,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people.md",
-      "title": "Donald Trump is a (tax) loser, just like a lot of other people",
-      "excerpt": "Regardless of whether one may change their view of Trump as a businessperson in light of the losses he’s taken, the fact remains that deducting losses against income is no crime.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people",
-      "originalUrl": "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_040120getty_tax-returns.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people?amp",
-      "publishedDateTime": "2020-10-10T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-moved-millions-from-jointly-owned-hotel-to-campaign-tax-free-times-tax-documents-suggest.md",
-      "title": "Trump Moved Millions From Jointly Owned Hotel To Campaign Tax-Free, Times' Tax Documents Suggest",
-      "excerpt": "A New York Times report showed that $21 million was billed to a shell company for expenses right as Donald Trump needed cash for a floundering campaign, and right before a $10 million surprise campaign boost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793",
-      "originalUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/no-gambling-on-health-the-hotels-of-the.jpg",
-          "width": 1024,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1",
-      "publishedDateTime": "2020-10-10T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1084,110 +1123,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-trump-hosts-white-house-event-delta-threatens-louisiana-nba-finals-5-things-to-know-this-weekend.md",
-      "title": "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend",
-      "excerpt": "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3592092001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001",
-      "publishedDateTime": "2020-10-10T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trumps-covid-prognosis-3-scenarios-based-on-sparse-facts-from-an-opaque-white-house.md",
-      "title": "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House",
-      "excerpt": "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5941684002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002",
-      "publishedDateTime": "2020-10-10T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-candace-owens-blexit-group-pays-for-some-attendees-travel-to-trumps-white-house-event.md",
       "title": "Candace Owens' BLEXIT group pays for some attendees' travel to Trump's White House event",
       "excerpt": "Some guests for Saturday's White House event featuring President Donald Trump had their travel and lodging paid for by Candace Owens' group, BLEXIT.",
@@ -1294,6 +1229,58 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-10-schiff-if-trump-wanted-more-infections-would-he-be-doing-anything-different.md",
+      "title": "Schiff: If Trump wanted more infections 'would he be doing anything different'?",
+      "excerpt": "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
+      "originalUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
+      "publishedDateTime": "2020-10-09T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

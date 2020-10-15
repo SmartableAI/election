@@ -2,6 +2,63 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-29-end-the-filibuster-pack-the-court-the-left-is-pushing-biden.md",
+      "title": "End the Filibuster? Pack the Court? The Left Is Pushing Biden",
+      "excerpt": "A party that is increasingly seeking to play by different rules is led by a figure who helped create the current ones. The outcome of the fight will help define the Democratic Party going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html",
+      "originalUrl": "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/09/28/us/politics/28progressives-top/28progressives-top-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/28/us/politics/democrats-filibuster-supreme-court-biden.amp.html",
+      "publishedDateTime": "2020-09-28T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-former-florida-supreme-court-chief-justice-during-2000-recount-warns-trump-poses-grave-and-real-threat-to-democracy.md",
       "title": "Former Florida Supreme Court chief justice during 2000 recount warns Trump poses 'grave and real threat to democracy'",
       "excerpt": "The former chief justice of the Florida Supreme Court is warning that President Donald Trump poses a \"grave and real threat to our democracy\" because of his threat to not accept the outcome of the election.\n    \n",
@@ -111,58 +168,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-says-he-will-approve-permit-for-canada-to-alaska-railway-to-free-landlocked-oil.md",
-      "title": "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil",
-      "excerpt": "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "publishedDateTime": "2020-09-28T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -278,6 +283,58 @@
       ]
     },
     {
+      "path": "_news/2020-09-28-the-note-stagnant-race-battleground-deficits-highlight-trump-debate-season-challenges.md",
+      "title": "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges",
+      "excerpt": "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
+      "originalUrl": "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215",
+      "publishedDateTime": "2020-09-28T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election.md",
       "title": "Dwayne Johnson endorses Joe Biden and Kamala Harris for US presidential election",
       "excerpt": "The Rock has posted his support on social media for the Democratic candidates, including an interview with both",
@@ -286,7 +343,7 @@
       "originalUrl": "https://www.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3400,
+      "heat": 4220,
       "tags": null,
       "images": [
         {
@@ -331,58 +388,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself.md",
-      "title": "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself",
-      "excerpt": "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
-      "originalUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/",
-      "publishedDateTime": "2020-09-28T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-28-trump-taxes-california-wildfires-stanley-cup-5-things-to-know-monday.md",
       "title": "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday",
       "excerpt": "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday.",
@@ -391,7 +396,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -447,7 +452,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 555,
+      "heat": 535,
       "tags": null,
       "images": [
         {
@@ -488,6 +493,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-reports-former-donald-trump-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself.md",
+      "title": "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself",
+      "excerpt": "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3557987001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001",
+      "publishedDateTime": "2020-09-27T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -758,49 +815,6 @@
       ]
     },
     {
-      "path": "_news/2020-09-28-joe-biden-vacancy-about-health-law-not-court-expansion-raleigh-news-observer.md",
-      "title": "Joe Biden: Vacancy about health law, not court expansion | Raleigh News & Observer",
-      "excerpt": "Democratic presidential candidate Joe Biden says the GOP’s push for a speedy Supreme Court confirmation is really an effort to overturn the 2010 health care law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/business/article246048190.html",
-      "originalUrl": "https://www.newsobserver.com/news/business/article246048190.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/7d5e9510-8587-4c57-9893-705790042a29/main/1280x720/22s304ms/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.newsobserver.com/news/business/article246048190.html",
-      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article246048190.html",
-      "publishedDateTime": "2020-09-27T16:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-09-28-trump-says-he-did-not-discuss-election-with-court-nominee-barrett.md",
       "title": "Trump says he did not discuss election with court nominee Barrett",
       "excerpt": "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S.",
@@ -809,7 +823,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-court-barrett-trump/trump-says-he-did-not-discuss-election-with-court-nominee-barrett-idUSKBN26I128",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2280,
+      "heat": 1460,
       "tags": null,
       "images": [
         {
@@ -917,7 +931,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/ny-times-trump-paid-750-us-income-taxes-73280930",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 365,
       "tags": null,
       "images": [
         {

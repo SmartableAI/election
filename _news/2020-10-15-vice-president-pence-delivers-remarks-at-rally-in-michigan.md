@@ -19,37 +19,131 @@ topics:
   - Mike Pence
 
 related:
-  - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
-    excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
-    publishedDateTime: 2020-10-14T19:55:00Z
-    webUrl: "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+  - title: "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week"
+    excerpt: "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters."
+    publishedDateTime: 2020-10-14T23:48:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
     type: article
     provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 85
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
     images:
-      - url: "https://media.wzzm13.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Pence rallies in Grand Rapids: ‘Friends don’t let friends vote alone’"
-    excerpt: "Vice President Mike Pence urged Michiganders to vote during a rally near the state’s second-largest city, as Michigan remains key for both the Democratic and Republican campaigns’ bid for the White House."
-    publishedDateTime: 2020-10-14T21:09:00Z
-    webUrl: "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/"
-    ampWebUrl: "https://amp.lansingstatejournal.com/amp/3656442001"
-    cdnAmpWebUrl: "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001"
+  - title: "2020 Watch: Is it too late for Trump to turn things around?"
+    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
+    publishedDateTime: 2020-10-12T10:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
     type: article
     provider:
-      name: Lansing State Journal
-      domain: lansingstatejournal.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PLSJ/6aa2c2e5-b4b6-41a0-959a-9e8af3bce6dc-Pence_Grand_Rapids.jpg?auto=webp&crop=3007,1692,x0,y150&format=pjpg&width=1200"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
+    excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."
+    publishedDateTime: 2020-10-14T23:35:00Z
+    webUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers"
+    ampWebUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
+    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
+    publishedDateTime: 2020-10-08T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches"
+    excerpt: "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance."
+    publishedDateTime: 2020-10-10T19:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "New poll shows Joe Biden ahead in Michigan"
+    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-12T18:55:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Western Michigan, a longtime GOP stronghold, is now a battleground: \"We see all that's developed in the Trump era\""
+    excerpt: "President Trump narrowly won the pivotal state in 2016. Western Michigan has long been a Republican stronghold, but Democrats have had success in recent elections, making the region a premier battleground."
+    publishedDateTime: 2020-10-12T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-biden-election-2020-michigan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/47c08c1c-39cb-46e7-88f4-80ae1669c548/thumbnail/1200x630/5b23c924c7d2c9513b8263d4dea9e0fc/1602510920768.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Michigan's attorney general talks Trump, far-right violence, the role of Facebook, and the alleged plot to kidnap Gov. Whitmer"
+    excerpt: "Michigan Attorney General Dana Nessel spoke to Business Insider about members of a paramiltitary group accused of plotting to kidnap the governor."
+    publishedDateTime: 2020-10-09T07:16:00Z
+    webUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "72RsPcc7a5uqSFqt+MTsq4OY+N5+1tz+AHiQUE1xG7JkgVX9pKkQDjx77Kjotc/FX51BSB0Pj3eJiwfDSdJ59KeZed6Z7DDAp9nsRGzjNmNfQAhaBVJ2R3jmzZqz3otVoa74JrdsgcB3jLEyzzraih2PNQiboONuN46O6QTF8w81Q5A8D8HPVC2HzbgHoWvA8bNHWQdO/DRCdNp+JvM6MSfkZGNrxLzTuN+3S4RlVDPc0OxHKwUHOSHFdF0ldZcWWFdi5bchrKHQUcAhks+7I/wp4uzgtCmguxQ8soaOo3xCqPJW166TIWq0bT4eEH1J/ZSjvnoOwSrDfmdTppSpatui2L4eX62PocyU7LtdXkNmEzuh8WLOpxBgpASKsFGhTUCioeuT05CxRP6/yMVs5Iz8gDG8uMeV4v3gRKg5O2CewpZgkqWfkrwezuOAMlodJ2nXpk3J9fGSfmZKwDfjSiLuqnPBqM1Wn/YHFRRBCp5R0PeRxYyNkWAWjPHmh7oAfB124CCAy/pvklw+vaBQ9Q==;lEIyL/H7T7gM29VwLkL5zw=="

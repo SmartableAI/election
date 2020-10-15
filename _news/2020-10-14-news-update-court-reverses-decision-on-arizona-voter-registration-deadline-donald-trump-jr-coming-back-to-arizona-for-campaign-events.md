@@ -69,6 +69,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
     excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
     publishedDateTime: 2020-10-12T00:45:00Z
@@ -85,22 +101,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
-    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
-    publishedDateTime: 2020-10-08T16:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
+  - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
+    excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
+    publishedDateTime: 2020-10-04T15:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "1B0YyiBf6kKy/FKj7HgiG5+ITy4VkpnsyIao4HFNuU1UMkVJy0WbOKfHf60J4ijFpDNepDs+mLQVzmaCflN9xO98KdAR20QTQmxNqygL9db7KDyb0r7Z1Cy945isoNezwkXLgErzNhlcKWJshzp7yEFtS+XIOax/+HAVEJkziVKI5w6h2+v4LqKobXmx44kT5vL5n4CV0BTqh8fpQEe4InDhbQCmZX7IhH3dSIVCBEBhEcumc4GqTp/Q5pjRzsV+seRRHASqkkn+KfAbJXaUFCNbcvTjR+FiUrR71CTOMMYylrg9BerxP+kNGZobvRxz+MbENNyoa+s7qxvrgYP1PaieP4ulNqhc13VUGmMcVf41tfWYwVYFbsJFkSuSA9yep63sXgeVctnZvN2gyUBrjl+J9u6aMK3OBlG8FdenC8/Aflrk17UnsgXGWwHdjEDacjp0kPnVKY+h1YIHtM4+jJIZtdrVDOBIUVIrLBdZIci+q6qHJ7qajXQKmg801jkwstzKJZPUfqWKbGVLBydAXQ==;lYX4XEBtwOagB8YwGWHKkg=="
 ---

@@ -25,243 +25,102 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump went even further than other uber-rich to shrink taxes"
-    excerpt: "The tax-avoidance strategies that President Donald Trump capitalized on to shrink his tax burden to essentially zero are surprisingly common among major real estate developers and other uber-wealthy A"
-    publishedDateTime: 2020-09-28T20:43:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
+    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
+    publishedDateTime: 2020-09-26T05:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Donald Trump's tax returns has many wondering what they're doing wrong"
+    excerpt: "Tax breaks for businesses likely helped cushion the tax bill for President Donald Trump, as the speculation continues about Trump's tax audit and tax returns."
+    publishedDateTime: 2020-09-29T11:18:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/09/29/donald-trump-tax-returns-income/3570417001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3570417001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3570417001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump gets experimental drug aimed at curbing severe illness"
+    excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
+    publishedDateTime: 2020-10-02T23:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_80af834ae16d4dd1a690ca20179de75e_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Asian shares rise on optimism about Trump's recovery"
-    excerpt: "Shares have started the week with gains as investors were encouraged by positive reports about President Donald Trump’s health after he tested positive for the coronavirus"
-    publishedDateTime: 2020-10-05T04:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_1bab98e3e97245cf91895708f72aab50_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Dan Rather criticizes Trump over Walter Reed 'photo ops'"
-    excerpt: "Veteran news anchor Dan Rather on Sunday issued a pair of tweets criticizing President Trump for his brief appearance in an SUV outside Walter Reed Medical Center as just the latest in a series of what Rather referred to as “photo ops."
-    publishedDateTime: 2020-10-05T15:56:00Z
-    webUrl: "https://thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops"
-    ampWebUrl: "https://thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump trip from hospital to wave at fans endangers others, doctor warns"
-    excerpt: "U.S. President Donald Trump briefly left the military hospital where he is being treated for COVID-19 in a motorcade on Sunday to wave to supporters gathered outside, sparking criticism that he was putting others at risk for a political stunt."
-    publishedDateTime: 2020-10-05T05:52:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-motorcade-idUSL1N2GV0CB"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q01T"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q01T"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536150501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400V"
-        width: 885
-        height: 545
-        isCached: true
-  - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
-    excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
-    publishedDateTime: 2020-09-28T07:29:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/09/28/donald-trump-disastrous-record-2020-election-referendum-column/3517533001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3517533001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3517533001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/de4cfbdd-28ba-44c0-996c-54de93022efb-AP_Mary_Trump_Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
-    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
-    publishedDateTime: 2020-09-24T19:01:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
-    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
-    publishedDateTime: 2020-09-25T12:26:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
-    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
-    publishedDateTime: 2020-09-29T05:56:00Z
-    webUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
+  - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
+    excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
+    publishedDateTime: 2020-09-23T17:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 99
-  - title: "Mueller issues a rare public statement disputing his former right-hand man's claim that he didn't pursue Trump hard enough"
-    excerpt: "\"When important decisions had to be made, I made them,\" former special counsel Robert Mueller said about his investigation."
-    publishedDateTime: 2020-09-29T19:13:00Z
-    webUrl: "https://www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9?amp"
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "People who follow Trump's advice and hang around watching polling places will be prosecuted, Nevada's attorney general says"
+    excerpt: "Trump refused to commit to accepting the results of the 2020 election, instead telling supporters to \"go into the polls and watch very carefully.\""
+    publishedDateTime: 2020-09-30T13:14:00Z
+    webUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
     images:
-      - url: "https://i.insider.com/5f737fcb0ab50d00184ad126?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7471ad0ab50d00184ad361?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
-    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
-    publishedDateTime: 2020-09-28T21:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
-  - title: "Rose Garden announcement of Supreme Court nominee potential 'super spreader' event, with Trump plus seven others getting COVID"
-    excerpt: "Trump and Hicks may have exposed scores of other people to COVID-19, including his top advisers, his campaign donors and his Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-03T02:59:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/how-did-trump-get-covid-and-who-has-he-infected/3590490001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3590490001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590490001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/e509f056-849b-436d-aad7-f0614261ba9a-Amy_Coney_Barrett_05.JPG?auto=webp&crop=4766,2681,x0,y7&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
-    excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
-    publishedDateTime: 2020-10-03T17:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/marine-one-helicopter-departs-white-house-trump-heads-walter-reed-medical-center/3608338001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/5124ab15-79cd-4d4c-bf59-b5a33c547c73-9ecb0a46-2323-4cec-9c65-7f78604a1968_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
-  - title: "Why Donald Trump's Former Housekeeper—and Millions of Other American Workers—Paid More in Federal Taxes Than Her Boss"
-    excerpt: "Sandra Diaz, Donald Trump's former housekeeper, is not alone in paying more federal income taxes than Trump before his presidency."
-    publishedDateTime: 2020-09-30T21:04:00Z
-    webUrl: "https://time.com/5894381/tax-code-wealthy/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 82
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-tax-wealthy.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Man arrested for punching another person in apparent argument over Trump: police"
-    excerpt: "Police said the incident occurred Saturday outside a Buc-ees convenience store and gas station in Denton, Texas."
-    publishedDateTime: 2020-10-04T16:59:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 70
-    images:
-      - url: "https://www.nydailynews.com/resizer/s5uzKQOxZlQ4CUG5P2Ogxpu-IyM=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QX7BX6UVRGLBGOLUK7OZI6SEA.jpg"
-        width: 1200
-        height: 774
-        isCached: true
-  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
-    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
-    publishedDateTime: 2020-10-05T20:46:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 65
-    images:
-      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
-        width: 2000
-        height: 1281
-        isCached: true
-  - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
-    excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."
-    publishedDateTime: 2020-10-03T21:31:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "SxNZErlA+ZJm90c+ELyI+mrs+qa0o4d1M2mk8//ua9O6iCdIWLXgzFQwHG+M+rVSyR/QQkEQvEx8iN4mXiTzA7NWqvoEWRYRT9tCrI8f56wr8f0ViNebbuEp8exMP8V0kUNS42ugmOkmXyf+7oc8WXK4Uwg3Xc0IrRTapEXZjA/dY2qNLH1nPqfBLjWuAyzTEsEI74mT+NyNYT83eavyE/f+rVTfHKoTvXuYyQ97XkSDkBaHuBD2dyRnl3hoE5pVr1t1zz8+Yt3nGzj3kPadMjQJx2BSaE/G/VhlDqwOcXm+53ovinkO3rZwunqzr7z363rSmY+WUIeJTZ61Dz0rB+yHi6rSFLi1fX2ghAkzfMKPvZ4U27+v5LdBu1iaC2qugQbQP9FqLgq7VrQUSn8sQAqQCi/dBVLGBpxsPH+DTWydtfsXAyR5Q6mxnEB1Pp41+vqxWV5vDkWdrh94yC38y1alMqt4enrKw1c3etR0T5HjT4VqTNoW3whsjJpEexhZKKkFD0qmWSbSbtHo44vSRg==;b/yI5QlEbJ9nondmwFgJbw=="
 ---

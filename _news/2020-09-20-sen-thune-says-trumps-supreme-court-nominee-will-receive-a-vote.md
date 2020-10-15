@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5832607002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5832607002"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -90,22 +90,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/af0167b9-5c3a-4c3f-a640-f882bfbb2735_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
-    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
-    publishedDateTime: 2020-09-22T20:08:00Z
-    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
-    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
-        width: 597
-        height: 419
         isCached: true
 
 secured: "IoJnzUhgnZWi/QLVlgWV40B8D2ViJOQtcISPCLFfc+g4U9O3jgCGj5wVnfMvm93h0am7jrw1hyoCnEu8SlHx6fC/TBVboHpzHUjArJ8gc29kx1/KHengqe1mIiIlJOeWUmD9aEbjmieLxxf6828nBy9ZHzPIwQzF5BvwMDH5dvTxZLWXClCXeCuYnASzI/kIYq/3dzwh27oWYSzcm7OZ7ZkIt5Ya8OYuexOACKWC3iyfY7CrCFD4uD1bQUisbWw5Du/uz3m9QQg3A95N9Xusb7BQTOd0qbBNWB51qZXgt/gjwoso7vG25BTCKiuunL9+0y+r3vteqgI7ubwOZEG/N1dZxbta1btW5pdSvWWJaxQ4S3ysmWlikm+WNz9ncDrejGwUFrSH7qhjgR23TdkMC8nJ/aQ5Ye3XWNkMh9mKbKoJnOQLe39B8aHUTTquH14oHYSTZvpkL5vMo2fZsjmQzeBG6Axa96q5J4NSepOdcwSPG/WHu3ldvZZ4p7bG8hHpSPHpbaeD5GOfIfJ5kN8QJQ==;dpVNmdSk0lE93J+uUYLgNw=="

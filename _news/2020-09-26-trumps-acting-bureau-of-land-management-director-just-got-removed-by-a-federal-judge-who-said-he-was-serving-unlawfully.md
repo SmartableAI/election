@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-managem
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
 type: article
 quality: 100
-heat: 100
+heat: 120
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "The Proud Boys are using Trump's 'stand by' remark as a recruiting tool, rebranding to incorporate what they see as his call to action"
+    excerpt: "On social media members of the far-right group celebrated the president's comments, and launched a renewed recruitment drive."
+    publishedDateTime: 2020-09-30T15:00:00Z
+    webUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/proud-boys-are-use-trump-remark-to-rebrand-recruit-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f748ee40ab50d00184ad3ba?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "P5JrtFFrzB+bBsaBWd+rGQ3+8ghhjq4296SjLgTpus3ecPhL6KYDZtvnQrz5LT03Gi3b4eRgHzEmVgq1Hogum1MF1YsYDs7dG3u4U3z9WuJwHTdvE9x/Ju1vVYCxoukTIg0nZuTYMfT735SnLYBkRdZ9QwIQKzwIK0J8Wvrpc9nyc4NSbZfFVCUQb4Tmj1EjUn+eFpbJryMiQyKPz3tFF0QSFd9WM2Ww3ASEZTmN42CiY681cDi9K2hWsghHUQ/sPHPh1A/lxevUj5zwrXNzi+RAJSaGoamBZ0HF9g0t7CptH8uWuk6K5QdtEtk16kdnoJhNG3pzTS+uWS87Zfar16Mbp6xI6hvSnyLyZ9YWlS4=;o1FiLq+602d9fWHGPXh4Pg=="
 ---

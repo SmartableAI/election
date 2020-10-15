@@ -25,377 +25,329 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH LIVE: Vice President Pence speaks at Iowa rallies"
-    excerpt: "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state."
-    publishedDateTime: 2020-10-01T17:01:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies"
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T11:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
     type: article
     provider:
-      name: PBS
-      domain: pbs.org
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "One month out, battered Trump campaign faces big challenges"
+    excerpt: "President Donald Trump and his reelection campaign have had one challenging week: His long-hidden tax returns leaked out"
+    publishedDateTime: 2020-10-05T07:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg"
-        width: 1024
+      - url: "https://s.abcnews.com/images/Health/WireAP_f70a4a123ffc4358a91b7bfa117e0ce8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pence tests negative for virus on Thursday"
+    excerpt: "U.S. Vice President Mike Pence tested negative for the coronavirus on Thursday, a senior administration official said."
+    publishedDateTime: 2020-10-08T15:46:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-pence-idUSKBN26T2S7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T2S7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T2S7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536724769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG971QB"
+        width: 784
+        height: 545
+        isCached: true
+  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
+    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
+    publishedDateTime: 2020-09-30T23:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "President Trump could be released from hospital as early as Monday, doctors say"
+    excerpt: "The President is reported to be stable and in good spirits at Walter Reed Medical Hospital, while continuing to take doses of the drug, remdesivir."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f79f55b2400440019129dc3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil"
+    excerpt: "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U."
+    publishedDateTime: 2020-09-28T16:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-08T16:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913390002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "2020 Daily Trail Markers: Trump plans to head back to campaign trail with Monday rally in Florida"
+    excerpt: "The president is slated to deliver remarks at an airport hangar at 7 p.m. ET, 12 days after he disclosed his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-09T23:46:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Vice President Mike Pence tests negative for Covid-19"
-    excerpt: "CNBC's Eamon Javers reports on Vice President Mike Pence's negative coronavirus test and former FDA commissioner Dr. Scott Gottlieb offers insight into how the White House may proceed with screenings and testing."
-    publishedDateTime: 2020-10-02T12:18:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/02/vice-president-mike-pence-tests-negative-for-covid-19.html"
+  - title: "Former Trump 2020 campaign manager Brad Parscale hospitalized after threatening to harm himself, police say"
+    excerpt: "Brad Parscale, who served as President Trump's 2020 campaign manager until July, was taken to a mental health facility Sunday night after barricading himself in his home with weapons and threatening to harm himself,"
+    publishedDateTime: 2020-09-28T02:43:00Z
+    webUrl: "https://www.cbsnews.com/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/16/46ed62a6-d21e-4da4-9294-4e4cb6a1fd03/thumbnail/1200x630/61375f5315b9085385468e3dada55714/gettyimages-1168366652.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
+    excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
+    publishedDateTime: 2020-09-28T04:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106679939-1598497365582-abcc.jpg?v=1598497410"
-        width: 1041
-        height: 694
-        isCached: true
-  - title: "Pence returning to Iowa"
-    excerpt: "Vice President Mike Pence will return to Iowa on Oct. 1 to speak at 'Faith in Leadership, America's Need for Revival.' It will be his fifth visit this year."
-    publishedDateTime: 2020-09-25T01:29:00Z
-    webUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924"
-    ampWebUrl: "https://www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
-    cdnAmpWebUrl: "https://www-thegazette-com.cdn.ampproject.org/c/s/www.thegazette.com/subject/news/government/pence-returning-to-iowa-20200924?template=amphtml"
+  - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
+    publishedDateTime: 2020-09-29T05:56:00Z
+    webUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
     type: article
     provider:
-      name: The Gazette
-      domain: thegazette.com
-    quality: 75
-    images:
-      - url: "https://www.thegazette.com/storyimage/GA/20200924/ARTICLE/200929835/AR/0/AR-200929835.jpg&MaxH=300&MaxW=500"
-        width: 449
-        height: 300
-        isCached: true
-  - title: "Vice President Mike Pence to host debate watch party in Lititz"
-    excerpt: "Vice President Mike Pence will travel to Lititz on Tuesday, September 29 to host a 'Make America Great Again!' watch party of the Presidential Debate."
-    publishedDateTime: 2020-09-25T09:04:00Z
-    webUrl: "https://www.fox43.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
+    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
+    publishedDateTime: 2020-10-04T14:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
     type: article
     provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 75
-    images:
-      - url: "https://media.tegna-media.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-26T12:44:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
+    publishedDateTime: 2020-09-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
-    images:
-      - url: "https://media.11alive.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-27T06:10:00Z
-    webUrl: "https://www.ksdk.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+  - title: "Doctors Say President Donald Trump Suffered Two Bouts of Low Oxygen, But Could Leave Hospital Monday"
+    excerpt: "White House physician Sean Conley continued to avoid directly answering a few crucial questions about Trump's health"
+    publishedDateTime: 2020-10-05T03:13:00Z
+    webUrl: "https://time.com/5896203/trump-covid-19-physician-white-house-briefing-oxygen-dexamethasone/"
     type: article
     provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 75
+      name: Time
+      domain: time.com
+    quality: 90
     images:
-      - url: "https://media.ksdk.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://api.time.com/wp-content/uploads/2020/10/Conley-trump.jpg"
+        width: 5568
+        height: 3712
         isCached: true
-  - title: "Here's what to know about Vice President Mike Pence's visit to Atlanta"
-    excerpt: "The finish line for the Nov. 3 presidential election is rapidly approaching, and campaigning is ramping up - especially here in Georgia, which is showing signs of becoming competitive for Democrats in 2020."
-    publishedDateTime: 2020-09-30T02:45:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/elections/mike-pence-visit-atlanta/85-7daabf71-0a8c-418f-903b-d2278a3e9973"
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T23:01:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 75
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 79
     images:
-      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Mike Pence to host debate watch party in Lititz"
-    excerpt: "LITITZ, Pa. — Vice President Mike Pence is traveling to Lancaster County next week to host a 'Make America Great Again!' watch party of the Presidential Debate. On Tuesday, September 29, Pence will travel to Meadow Spring Farm in Lititz ahead of the ..."
-    publishedDateTime: 2020-09-30T21:22:00Z
-    webUrl: "https://www.wbir.com/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/local/vice-president-mike-pence-debate-watch-party-lititz-lancaster-county/521-5e68aaf8-51bb-4252-a718-2fa97df2d433"
-    type: article
-    provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 75
-    images:
-      - url: "https://media.wbir.com/assets/WPMT/images/be32be9e-bda1-4af1-8b52-19e59bf6215e/be32be9e-bda1-4af1-8b52-19e59bf6215e_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Vice President Pence speaks at debate campaign watch party"
-    excerpt: "LITITZ, Pa. — Vice President Mike Pence attended a debate watch party at Meadow Spring Farm in Ephrata Township Sept. 29. His visit comes amid a tight contest in the battleground state of Pennsylvania, which played a major role in deciding the 2016 ..."
-    publishedDateTime: 2020-09-30T21:07:00Z
-    webUrl: "https://www.wbir.com/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
-    ampWebUrl: "https://www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
-    cdnAmpWebUrl: "https://www-wbir-com.cdn.ampproject.org/c/s/www.wbir.com/amp/article/news/politics/elections/vice-president-pence-speaks-at-debate-campaign-watch-party/521-d1e690ce-a1b1-486e-9681-32f1ce6007b0"
-    type: article
-    provider:
-      name: 10 News
-      domain: wbir.com
-    quality: 75
-    images:
-      - url: "https://media.wbir.com/assets/WPMT/images/63353a4c-348a-4005-a9fd-4955d7c4ad81/63353a4c-348a-4005-a9fd-4955d7c4ad81_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Photos: Vice President Pence visits Carter Lake"
-    excerpt: "Vice President Mike Pence makes a campaign stop in Carter Lake, Iowa on Thursday. Vice President Mike Pence arrives at Eppley Airfield in Omaha on Thursday, Oct. 1, 2020. The vice president also spoke at PVS Structures,"
-    publishedDateTime: 2020-10-02T01:18:00Z
-    webUrl: "https://omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.html"
-    ampWebUrl: "https://omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/photos-vice-president-pence-visits-carter-lake/collection_a63db07c-1383-5e56-a28f-a8291614013b.amp.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 75
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/c/b7/cb745a3a-a374-509a-b39a-9cfaa3ecedc8/5f76176ae246b.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "INTERVIEW: 5 EYEWITNESS NEWS speaks with Vice President Mike Pence 1-on-1"
-    excerpt: "KSTP political reporter Tom Hauser spoke with Vice President Mike Pence on Thursday on policing and what's next for the United States Supreme"
-    publishedDateTime: 2020-09-25T03:52:00Z
-    webUrl: "https://kstp.com/politics/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1/5873738/"
-    ampWebUrl: "https://amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/interview-5-eyewitness-news-speaks-with-vice-president-mike-pence-1-on-1-5873738.html"
-    type: article
-    provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 74
-    images:
-      - url: "https://kstp.com/kstpImages/repository/2020-09/800MikePenceMinneapolisAP.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Vice President Mike Pence to return to Des Moines for Family Leader event"
-    excerpt: "The Oct. 1 event will be Pence's fifth visit to the state this year. Polling shows a tight presidential race between Donald Trump and Joe Biden."
-    publishedDateTime: 2020-09-24T22:21:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/09/24/vice-president-mike-pence-return-des-moines-christian-family-leader-event/3523396001/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/3523396001"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3523396001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 74
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Carter Lake this week"
-    excerpt: "Vice President Mike Pence will visit Carter Lake on Thursday. The visit comes as a poll released Monday shows former Vice President Joe Biden leading President Donald Trump in Nebraska’s"
-    publishedDateTime: 2020-09-28T19:04:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-carter-lake-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+  - title: "Trump criticized for leaving hospital to greet supporters"
+    excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
+    publishedDateTime: 2020-10-05T11:28:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 74
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP-1.jpg"
+        width: 619
+        height: 413
         isCached: true
-  - title: "Vice President Mike Pence to hold presidential debate watch party in Lititz"
-    excerpt: "Vice President Mike Pence will be back in the Susquehanna Valley next week.He plans to hold a presidential debate watch party Tuesday night in Lititz, Lancaster County.The event w"
-    publishedDateTime: 2020-09-25T16:41:00Z
-    webUrl: "https://www.wgal.com/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
-    ampWebUrl: "https://www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
-    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/vice-president-mike-pence-to-hold-presidential-debate-watch-party-in-lititz-lancaster-county/34162616"
+  - title: "Vice President Mike Pence should be in quarantine not visiting Arizona"
+    excerpt: "The president has COVID-19 and the vice president needs to stay safe and keep others safe. Campaigning should be a distant second."
+    publishedDateTime: 2020-10-05T14:25:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/05/vice-president-mike-pence-should-quarantine-not-visiting-arizona/3619318001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3619318001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3619318001"
     type: article
     provider:
-      name: WGAL
-      domain: wgal.com
-    quality: 73
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/96bdbcd0-d328-4919-add6-7c1e3714e8c5/96bdbcd0-d328-4919-add6-7c1e3714e8c5_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Borat 2 sequel full title hints at a connection to Vice President Mike Pence"
-    excerpt: "The rumored full title of Sacha Baron Cohen's sequel to his wildly successful 2006 comedy Borat hints at a connection to Vice President Mike Pence."
-    publishedDateTime: 2020-09-28T01:49:00Z
-    webUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    ampWebUrl: "https://www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/tvshowbiz/article-8779601/amp/Borat-2-sequel-title-hints-connection-Vice-President-Mike-Pence.html"
+  - title: "In Peoria, Mike Pence rallies Arizona supporters, vows to back police"
+    excerpt: "Vice President Mike Pence visited a Peoria tactical gear supply shop on Thursday during his fourth visit to Arizona in 2020."
+    publishedDateTime: 2020-10-10T01:50:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/trump-campaign-hobbled-mike-pence-makes-fourth-arizona-stop/5917080002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5917080002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917080002"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 72
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/09/28/04/33702662-0-image-a-4_1601263306386.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Vice President Mike Pence lands in Des Moines to speak at Family Leader event"
-    excerpt: "Vice President Mike Pence landed in Des Moines Thursday afternoon and immediately headed to speak at an event hosted by the Family Leader Foundation. The trip is Pence's fifth to Iowa this year and comes just days before early voting begins Oct."
-    publishedDateTime: 2020-10-01T20:02:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/2020/10/01/vp-mike-pence-lands-des-moines-iowa-speak-family-leader/5878444002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5878444002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5878444002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/13/PDEM/ce6f9ca5-c73b-4a43-a480-ecd6c5c64004-4C4050C9-41C4-40A3-8064-3E10A427FBDB.jpeg?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/458aca1a-332f-4f80-b4b5-3379ac04e496-VicePresidentPence_Peoria_Oct8_2.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence visiting Atlanta next week"
-    excerpt: "Pence will be delivering remarks at a Faith & Freedom Coalition Policy Conference highlighting the “Trump Administration’s continued efforts to support religious freedom and every American’s right to worship."
-    publishedDateTime: 2020-09-25T16:13:00Z
-    webUrl: "https://www.wsbtv.com/news/local/vice-president-mike-pence-visiting-atlanta-next-week/HS7FVCTR5NBVPCC366K4VGGX5I/"
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-10T06:09:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5913390002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’"
+    excerpt: "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre."
+    publishedDateTime: 2020-10-01T05:43:00Z
+    webUrl: "https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/"
     type: article
     provider:
       name: WSB-TV
       domain: wsbtv.com
-    quality: 55
+    quality: 61
     images:
-      - url: "https://www.wsbtv.com/resizer/cVtib_f5nbLdndrX5T-fqm997Fs=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/KLEJHYU4DW4B65I7BBSA3B2UGY.jpg"
+      - url: "https://www.wsbtv.com/resizer/3cU1r-TzlbfDb1z2UP0tv7fNz6s=/1200x628/d1hfln2sfez66z.cloudfront.net/09-30-2020/t_e8de92d95b634a1d89c08251ce986ed7_name_RAW_RE_PENCE_INTERVIEW_frame_27575.jpg"
         width: 1200
         height: 628
         isCached: true
-  - title: "Vice President Mike Pence's visit to Atlanta"
-    excerpt: "As part of the campaigning, Vice President Mike Pence will make a swing back through Georgia to energize Republican voters, less than a week after Pre"
-    publishedDateTime: 2020-09-30T16:12:00Z
-    webUrl: "https://www.11alive.com/video/news/live_breaking/mike-pence-in-atlanta-why-and-when-is-he-here/85-6e9ac6c4-9964-470e-bdf9-e19bce1f79bd"
+  - title: "Judge Throws Out Trump Campaign's Pennsylvania Lawsuit"
+    excerpt: "A federal judge in Pennsylvania is throwing threw out a lawsuit filed by President Donald Trump’s campaign, dismissing its challenges to the battleground state’s poll-watching law and its efforts to limit how mail-in ballots can be collected and which of them can be counted."
+    publishedDateTime: 2020-10-10T17:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9/f03b1dd0-d6b4-466f-bb22-7b05e2503bf9_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Yes, That Is Vice President Mike Pence In The Borat 2 Trailer"
-    excerpt: "And, before you ask, yes, that does appear to be Vice President Pence himself in the trailer. The clip includes footage of Cohen crashing the Conservative Political Action Conference while dressed as Trump back in February."
-    publishedDateTime: 2020-10-01T16:55:00Z
-    webUrl: "https://www.bustle.com/entertainment/the-borat-2-trailer-tackles-covid-19-the-trump-administration"
+  - title: "Trump Failed to Tell Sean Hannity About His Coronavirus Status During Thursday Interview — After Testing Positive"
+    excerpt: "President Donald Trump reportedly failed to tell Fox News host Sean Hannity about his coronavirus test status on Thursday just hours after he tested positive."
+    publishedDateTime: 2020-10-05T14:36:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
     type: article
     provider:
-      name: Bustle
-      domain: bustle.com
-    quality: 55
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
     images:
-      - url: "https://imgix.bustle.com/uploads/image/2020/10/1/8adc0f40-5596-4678-ac6b-9a5bec6336c5-screen-shot-2020-10-01-at-95021-am.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in western Iowa"
-    excerpt: "CARTER LAKE, Iowa (KTIV) -- Vice President Mike Pence is hosting a campaign event in western Iowa Thursday. Pence is holding a \"Make America Great Again\" event in Council Bluffs with him expected ..."
-    publishedDateTime: 2020-10-01T16:48:00Z
-    webUrl: "https://ktiv.com/2020/10/01/watch-live-vice-president-mike-pence-holds-campaign-event-in-western-iowa/"
-    type: article
-    provider:
-      name: KTIV
-      domain: ktiv.com
-    quality: 53
-    images:
-      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/4/2020/01/Mike-Pence-Hedshot.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Full coverage from Vice President Mike Pence's visit to Lititz for presidential debate watch party"
-    excerpt: "Vice President Mike Pence is in Lancaster County, as President Donald Trump and his Democratic challenger, former Vice President Joe Biden, debate for the first time. Pence touched down in Lititz ..."
-    publishedDateTime: 2020-09-30T07:12:00Z
-    webUrl: "https://lancasteronline.com/news/politics/full-coverage-from-vice-president-mike-pences-visit-to-lititz-for-presidential-debate-watch-party/article_96f78616-0286-11eb-abe2-5f363f07154b.html"
-    type: article
-    provider:
-      name: Lancaster Online
-      domain: lancasteronline.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/7c/37c4bdfa-02b1-11eb-9eec-9714b1336c56/5f73cccba1934.image.jpg?resize=849%2C630"
-        width: 849
-        height: 630
-        isCached: true
-  - title: "Exclusive: Vice President Mike Pence Talks About Pennsylvania Battleground, Philadelphia Gun Violence"
-    excerpt: "Eyewitness News spoke exclusively one-on-one with Pence, asking him about polling which shows President Trump behind 9 percentage points in Pennsylvania."
-    publishedDateTime: 2020-09-30T03:26:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/09/29/exclusive-vice-president-mike-pence-talks-about-pennsylvania-battleground-philadelphia-gun-violence/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 40
-  - title: "Vice President Pence Holds Rally in Council Bluffs, IA"
-    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
-    publishedDateTime: 2020-10-01T09:01:00Z
-    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-rally-council-bluffs-ia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Carter Lake, Iowa"
-    excerpt: "2020-10-01T16:33:13-04:00https://images.c-span.org/Files/a9a/20201001164553002_hd.jpgVice President Mike Pence delivered remarks at a rally in support of his and President Trump’s reelection campaign held in Carter Lake, Iowa. Vice President Mike Pence ..."
-    publishedDateTime: 2020-10-02T01:53:00Z
-    webUrl: "https://www.c-span.org/event/?476385/c2020-vice-president-pence-holds-rally-carter-lake-ia"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Campaign Rally in Council Bluffs, Iowa"
-    excerpt: "President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs, IA. Vice President Pence delivers remarks at a rally in support of his and President Trump’s reelection campaign held in Council Bluffs,"
-    publishedDateTime: 2020-10-01T18:07:00Z
-    webUrl: "https://www.c-span.org/video/?476385-1/vice-president-pence-holds-campaign-rally-council-bluffs-iowa"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Vice President Pence Remarks in Des Moines, Iowa"
-    excerpt: "President Mike Pence addresses a gathering in Des Moines, Iowa, hosted by the Family Leader Foundation. He’s introduced by Housing and Urban Development Secretary Dr. Ben Carson. Vice President Mike Pence addresses a gathering in Des Moines,"
-    publishedDateTime: 2020-10-01T21:30:00Z
-    webUrl: "https://www.c-span.org/video/?476509-1/vice-president-pence-remarks-des-moines-iowa"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "/TtDQnffQ5NmodWb8hI8ESjLb6oHD8SFkzmA21o0R6UyEfE7nIaGWtpYSMYLausop+xFGFd8dHBnKPbrUdGycpVuINHJ2OHIamjH/BVbP+HCrJ2aZePiIGJUUhiiBzpi38kePg0n/u+Sn/SxxCqrOUtKoFiVumhHpsFyxpzk9LON6FOL61qgCNkyW6vjxNRsEVMoVvnBPgTRCoFIkOJ8Wx0NuUm2y02SmLhJ6oSoktzQqsWSznDFHzHJafRMwHWJzt5GmPPsrF8NchIJEdwjEKUW7tYwEwfiXBJ3F74/of8OAEedCNDnE/dFPJFS+4vcsqm1SwDo8azkdbDX0cet/eM7Hv/Bi3yKgJ6KYowBCHY=;dsh9SQyLRE8gmtANfztcRA=="
 ---

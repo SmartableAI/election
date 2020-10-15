@@ -79,22 +79,33 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
-    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
-    publishedDateTime: 2020-10-08T16:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 106
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "The Latest: Doctor Giving Trump Health Update Sunday Morning"
+    excerpt: "President Donald Trump’s doctors are set to brief the public on his condition late Sunday morning after he spent a second night hospitalized with COVID-19."
+    publishedDateTime: 2020-10-04T15:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/the-latest-doctor-giving-trump-health-update-sunday-morning?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
     excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
     publishedDateTime: 2020-10-14T13:00:00Z

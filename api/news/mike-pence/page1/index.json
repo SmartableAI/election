@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-15-2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week.md",
+      "title": "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week",
+      "excerpt": "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "publishedDateTime": "2020-10-14T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-pence-in-michigan-says-road-to-victory-runs-through-state.md",
       "title": "Pence in Michigan says 'road to victory' runs through state",
       "excerpt": "Vice President Mike Pence told a Michigan crowd Wednesday that enthusiasm on the campaign trial doesn't match polls that have Joe Biden ahead of President Donald Trump. Pence spoke outdoors to about 300 people at Lacks Enterprises in Cascade Township,",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -128,6 +180,59 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it.md",
+      "title": "Biden and Harris would end Trump's China policy — Pence would extend it",
+      "excerpt": "Pence’s clear-eyed vision on the China threat matches Trump’s instincts and would make for a seamless presidential transition, if necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
+      "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 6400,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
+      "publishedDateTime": "2020-10-13T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
       ]
     },
     {
@@ -370,59 +475,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too.md",
-      "title": "How Kamala Harris Stopped Pence’s Manterruptions (And How You Can Stop Them, Too)",
-      "excerpt": "Assert your power like Senator Harris so that you are not interrupted. Take note of how Harris stopped Pence from interrupting her by following these four tips: Senator Harris told Vice President Pence that she is speaking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
-      "originalUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/",
-      "publishedDateTime": "2020-10-11T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Mike Pence"
       ]
     },
@@ -755,60 +807,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
-      "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
-      "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5917943002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002",
-      "publishedDateTime": "2020-10-09T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-what-makes-mike-pences-complicity-so-chilling.md",
       "title": "What Makes Mike Pence’s Complicity So Chilling",
       "excerpt": "Somewhere under the cornfields and backyard hoop courts of Indiana is a small black box holding the conscience of Vice President Mike Pence. He buried it four years ago, when a tape emerged of Donald Trump boasting about sexually assaulting women.",
@@ -874,7 +872,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 462,
+      "heat": 522,
       "tags": null,
       "images": [
         {
@@ -975,21 +973,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-mike-pence-avoided-roe-v-wade-in-wednesdays-debate-heres-why.md",
-      "title": "Mike Pence avoided Roe v. Wade in Wednesday’s debate. Here’s why.",
-      "excerpt": "Both parties are out of touch on abortion. But most voters support Roe, and conservatives already trust Pence on social issues.",
+      "path": "_news/2020-10-09-at-debate-mike-pence-didnt-say-what-he-has-before-he-supports-overturning-roe-v-wade.md",
+      "title": "At debate, Mike Pence didn’t say what he has before: He supports overturning Roe v. Wade",
+      "excerpt": "Vice President Mike Pence artfully sidestepped the chance to talk about banning abortion before a national audience at Wednesday’s debate.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/",
+      "webUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "originalUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VAOULYLK6ZFUNBMPCG2V62YPXA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://s.abcnews.com/images/Politics/pence-vp-debate-04-rt-jef-201007_1602126711944_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -997,16 +995,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/mike-pence-avoided-roe-v-wade-wednesdays-debate-heres-why/?outputType=amp",
-      "publishedDateTime": "2020-10-08T18:49:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "publishedDateTime": "2020-10-08T16:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1023,6 +1021,59 @@
       ],
       "topics": [
         "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
+      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
+      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
         "Mike Pence"
       ]
     },
@@ -1137,6 +1188,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-08-rick-santorum-cut-off-female-co-panelist-gloria-borger-while-she-was-talking-about-mike-pence-interrupting-kamala-harris-at-the-vp-debate.md",
+      "title": "Rick Santorum cut off female co-panelist Gloria Borger while she was talking about Mike Pence interrupting Kamala Harris at the VP debate",
+      "excerpt": "Pence interrupted Harris twice as often during Wednesday night's vice-presidential debate, prompting criticism from the CNN analyst Borger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "originalUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7ed3e0c655f6001969ed92?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "publishedDateTime": "2020-10-08T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
       "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
       "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
@@ -1149,7 +1253,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 4248,
+      "heat": 4308,
       "tags": null,
       "images": [
         {
@@ -1421,7 +1525,7 @@
       "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
       "featuredContent": null,
       "highlight": null,
-      "heat": 802,
+      "heat": 1282,
       "tags": null,
       "images": [
         {
@@ -1462,121 +1566,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-a-fly-landed-on-mike-pence.md",
-      "title": "A Fly Landed on Mike Pence",
-      "excerpt": "A local TV news reporter from California clocked the fly’s screen time on Mr. Pence’s head at 2 minutes, 3 seconds. While Mr. Pence spent most of the 90-minute debate avoiding direct questions posed by the moderator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
-      "publishedDateTime": "2020-10-07T20:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-pence-attacks-biden-for-failing-to-rescue-kayla-mueller-who-was-held-hostage-by-isis.md",
-      "title": "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS.",
-      "excerpt": "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
-      "publishedDateTime": "2020-10-07T20:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice",
         "Mike Pence"
       ]
     }

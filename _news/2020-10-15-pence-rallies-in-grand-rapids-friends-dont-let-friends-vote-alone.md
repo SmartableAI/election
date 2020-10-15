@@ -43,15 +43,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
-    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-10-14T21:18:00Z
-    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "zjktFjlVWNqy2Jk8mawoIwztspYlkoEnZSFX9GUNOfZEJBMFLzaPBfkFM4fIGHq4Ikwaoq3JHEjAPND5Z++qKn/XjSanSuUgZILOaf8CSR8QHq3hrxlf0HBi5vQ9Af/qbQGIBQ75jfJ+0CiFEEVHelNROflgSmXcMFQoZBumdgGzFCPmyISbQvlQAkQrwqAp0SbdI2TUqPQd08aOe5QxWw/dw/iEL7Ym23kSdqHnEFtIB2CxBZ/Pqt2aXYsBPWdFi3qADIhj6lFAsWNCxhWh9hMnqZsp/Khpxpi3bKUOgg73btDsV22zMTqL8lzqKoemOO+oHvbsKVZ5SfxTSRWkUUwypb7/pDycNrG4ANBSK14=;2ZJSqS9+PQP7cjed4O1zTA=="
 ---

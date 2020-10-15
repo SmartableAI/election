@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "White House adviser Hope Hicks tests positive for COVID after traveling with Trump"
-    excerpt: "White House adviser Hope Hicks has coronavirus after she traveled with President Donald Trump in the last few days. A person familiar with Hicks' situation but who was not authorized to discuss it confirmed to USA TODAY she tested positive."
-    publishedDateTime: 2020-10-02T01:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/01/hope-hicks-tests-positive-covid-after-traveling-trump/5889312002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5889312002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5889312002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f10e562b-768c-4849-974c-63f4edf662dd-Donald_Trump_Melania_Trump.jpg?auto=webp&crop=3503,1970,x0,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "McConnell pushes back at Trump's refusal to commit to peaceful transfer of power if he loses"
     excerpt: "Senate Majority Leader Mitch McConnell on Thursday pushed back at President Trump's refusal to commit to a peaceful transfer of power if he loses the November election."
     publishedDateTime: 2020-09-24T14:54:00Z

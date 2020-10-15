@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
+    publishedDateTime: 2020-10-15T02:16:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
+    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "AGjB/uUBiTw7fTeaXSzZxir5VU1y4qszJU1n2/E97ln19uftL9BxN9Cb3vTT6QV8zVNHefS8hTL7FEJGl6kAbiV9a0PBueDOY1Azw2R4kTPsaCj+NV26tZPYKKJOmRZMYOSRxvIcFwYqxhVmksI1zeCxY3om4Kz9nSXKsYLEtfhCZbS8FvNCC367fiTxBFkMzi+WoF1NbQ3fAwOPvEnDtlxqPM/VH2wsLgck1LbZLbNhmCXayqgHzwuYwvKFXhy/TPyDwGixnvT/iTl/gbCiPLB3NL54Ro/yWsuHjMu76zSdDDQ4e8GlZ1HbmG1KOjB89aamic20DBQq+LMtxmFyzOcEEwC+2IiM55v/D40ZV0M=;5x80oyh9GKFAIKKwQdsBVA=="
 ---

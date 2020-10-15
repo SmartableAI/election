@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "As Donald Trump Heads Back to Work in the Oval Office, His Colleagues Face 'A Dangerous Moment'"
-    excerpt: "Trump's decision to work from his office was seen by many as another example of the President's disregard for those around him."
-    publishedDateTime: 2020-10-07T22:46:00Z
-    webUrl: "https://time.com/5897557/donald-trump-oval-office-coronavirus/"
+  - title: "Trump, Biden continue sniping during Midwest campaigning: ‘He will destroy our Country!' vs. ‘a national embarrassment’"
+    excerpt: "Donald Trump and Joe Biden continued their debate-stage clash from afar on Wednesday as they competed for working-class voters in the Midwest."
+    publishedDateTime: 2020-10-01T02:09:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-debate-presidential-campaign-updates-20200930-v63ivhdknbeu7igudz3ufkq2b4-story.html?outputType=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 93
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 116
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/donald-trump-back-in-the-oval-office-02.jpg"
-        width: 2400
-        height: 1550
+      - url: "https://www.chicagotribune.com/resizer/CUXWmibDR1lhvT3RdDLyxUF79QI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/EWGHWBIVKP357WKLXCVR75ND4M.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "97nJ8no+VKlhk7GrfkqBN27k4bwxnJuWaFfv6NZWjce6/SezlCRailP96podDd0fzuc5vPdeZJceztmyy4vFovkBu/EjxJAKxp1qcdGbuvcbDzAcbhWdnY1QMVzNgbdVnyvzY+Xrko38js8Wwk8nD3EGQgCeBrc9NXdSIIqIj+4EVjipsbjdQav6b3MZSFDRZOLfyoMUaBvdqWQloZp43XMmsAcckaD89KLhTilTGQMdDres7EYJGj7YT1ywNcSCxW9wrarr1ZifkY/FP6NxDyZcVlTyU9hfvu9wUrdkEZyxlskfs50fLo7jjjCke45E9vA9jfC9UMO7c+5RW9lLQTYTsYguLhCC0YvbjWJr6qM=;2g8fNbtlYFBrquATW4GBxg=="

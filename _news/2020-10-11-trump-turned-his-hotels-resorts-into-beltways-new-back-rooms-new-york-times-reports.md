@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-belt
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
 type: article
 quality: 116
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: ABC
@@ -31,17 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Key takeaways from the New York Times' investigation into Trump's taxes while in office"
-    excerpt: "The Times investigation found Trump's properties were a center of lobbying and during the president's first term, with the president often profiting."
-    publishedDateTime: 2020-10-11T17:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/11/key-takeaways-nyt-look-into-trumps-taxes-while-office/5960622002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5960622002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960622002"
+  - title: "Progressive groups launch 'We Paid More' campaign in response to Trump taxes report"
+    excerpt: "A coalition of progressive groups on Monday launched an initiative to make the case that the tax code is too favorable to the wealthy, after The New York Times reported last week that President Trump"
+    publishedDateTime: 2020-10-05T17:42:00Z
+    webUrl: "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on"
+    ampWebUrl: "https://thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/519654-progressive-groups-launch-we-paid-more-campaign-in-response-to-report-on?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 97
+      name: The Hill
+      domain: thehill.com
+    quality: 119
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092920getty_memo.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
+    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
+    publishedDateTime: 2020-09-28T09:08:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 109
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6hrCdrAkKPwcUM/lwD4JSg5F0u+2WulTFrLjVr2RYBsnfUp3bz6fGZherFtqJs/NFs+cSPqf6lRhW14Tq+w7gWuXkZjqzPytSnjOXcncK1tmdiqJd9+x8gD/ZmRppgPEsraBtQu1x4L+CGPEFQ+ugYDVOLB/+4P9wdzcG2bmIxGC/EoSnV2XDA7TvnM9dhmB6yMVyEChbD6QWPamAdkkHgTycOGDkzPQvrPjVi6/ODC5cTRdzF/HIeYv7KhyARX7FbTALkMMR1nF+BBCqe38mPNCSDjZI0FMYHGQ2M+kffBMes1X/xHI3TKV2I0XRr9mOCqMATneu8ljUtTDm+ku+FRYWkCtGPMrDPD8JSo8XkU=;ENPA4ljuSIc7N+mSYcybUw=="
 ---

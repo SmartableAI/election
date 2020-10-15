@@ -31,37 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Asks Supreme Court To Block Tax Records From NY Prosecutor—Again"
-    excerpt: "President Donald Trump has filed an emergency request with the Supreme Court to block a prosecutor from obtaining his tax records, after a federal Appeals Court ruled last week that the Manhattan District Attorney could retrieve the highly sought after records as part of an investigation into the president’s financial history."
-    publishedDateTime: 2020-10-13T18:42:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/"
+  - title: "Trump tries to shore up support from big business, Iowans"
+    excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa"
+    publishedDateTime: 2020-10-15T01:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85f2bdb9f4e00cf0b32ef3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D205%26cropY2%3D1893"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
+    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
+    images:
+      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
         width: 1200
         height: 675
         isCached: true
-  - title: "Eric Trump answers questions from NY investigators in examination of family business"
-    excerpt: "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,"
-    publishedDateTime: 2020-10-06T13:35:00Z
-    webUrl: "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
+  - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
+    excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
+    publishedDateTime: 2020-10-13T17:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 72
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg"
-        width: 1200
-        height: 630
+      - url: "https://media.vanityfair.com/photos/5f85d3d4b13a7bb1006f71b8/master/pass/donaldtrumprally.jpg"
+        width: 2000
+        height: 1348
+        isCached: true
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
+        isCached: true
+  - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
+    excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
+    publishedDateTime: 2020-10-14T14:41:00Z
+    webUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Mass. middle schooler who supports Trump asks for staff training"
+    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
+    publishedDateTime: 2020-10-14T11:48:00Z
+    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "7VrisZlgZZ1dOUME+EZA4V7F6HrQlK0Zldds//bHGCF8LnSwCoEzzJW2SV9Yl7jTCuyEwuEJQhZWWmbNH8BIqFIKp8EpYbhDTYaDErar3PRobRIdvxcLuX1bv3bd+6//RVlB1CmGHLRscEppknpGB1HS8N/1xB6XiIyqv1WcdtfuJcHah7T5hY4PNK/17yToJqAFOjhb4GwobZ27pIX5ivEc5cYp685d1xCl8M+N12MYtmIZOQK1mSOHwNCBihjHMd8Bt3ss75KzMOsL2QQlu9axTmnt952RXAM6KH/YjONFahuvAey2qdinLPfB37K4eVkPhZ17j17uRZ8i22umWlmYeJd6vK85wYthcw/DcgQ=;AVliFWfuYre5mP2wySC5Kg=="

@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 1240
         isCached: true
+  - title: "‘Saturday Night Live’ returns with Jim Carrey as Joe Biden (video)"
+    excerpt: "Jim Carrey took on the role of Democratic candidate Joe Biden with Alec Baldwin returning to play Trump — a role that earned him an Emmy Award and the president’s ire. “I’ve got the beginning of 46 good ideas that I may or may not have access to."
+    publishedDateTime: 2020-10-04T04:31:00Z
+    webUrl: "https://www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html"
+    ampWebUrl: "https://www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/entertainment/2020/10/saturday-night-live-returns-with-jim-carrey-as-joe-biden-video.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6GG27TJQZGGVBF4DD7R5XZX4Q.jpg"
+        width: 2576
+        height: 1427
+        isCached: true
 
 secured: "wlotUYAWVvIEG0YcysW60/xbv6OmlCKc3cYW4wnnfPs+IevR2PQ8B22JYAxn0JD3fT4i/6jBnYDeBYY0jJiVRyoOmBjCagbX4QPYQT2yhRhAMPAGv31Bs86H0Pa8TW26OyCTh3bW0hnQlqEXpSx8E3Zh4Yli2W5pzC9Raro7MOSdYoEBaOilg0+zDCyeDODUEI9Bq6mXuuBz4iylNjyFRj41cUARZ2NybxSd78Vx/Q4d3qtolNVM6lNRqjavYyXZDHSJZGUMeDnjiPkDqLJ/SdOXOC1A3yNoGPNjzJwtUfjKtBhq+kKkl60Q/Re0CpPAcgROiLnw3MFFlhO3vxsjSmekehQH1tkh8KbxzKbjgJs=;EpSBu682shnkDgHF5o0H7A=="
 ---

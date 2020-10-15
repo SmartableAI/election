@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5874449002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002"
 type: article
 quality: 116
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 672
     isCached: true
-
-related:
-  - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
-    excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
-    publishedDateTime: 2020-10-04T05:42:00Z
-    webUrl: "https://www.ibtimes.com/wh-chief-staff-trump-improving-doctors-were-very-concerned-3056365"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-chief-of-staff-mark-meadows-speaks.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "L+42GHo+W77Nj3Wi/GjbfwM+QILXVN4JMn9hG3A5Um6a5bhGyq8eeBZoUDxaRg4aaS4iV4wq7VPZzK6Mn5D3k8M8RfGvaxJIN2LebTN2VTKHkuD0t0jQaqrvVzozTFXy/ljhpHjMionaC7zskVNGbKy6rx0yLvaqFUvwB99oJ3/ub0H9MZTYRyNOSwIyjQ0lMhrDmt+zhoKq7x1rkat+iQHuQ7ByyGhqLwKUbIutV+ZQxH9N1flUnNdhObZZAQqUntiVDe64GOJ7jgxnBM3bkSXyfBtJIpQcJAsNrhwvOrvsiIzhzmLsv0oQVjzNSmh622I2e7bRnpQHRvrcC9qh0qQ3kGdvJ0GFWaJHFScf43Y=;jgV4HjIjZLLVXZdHoh/7GA=="
 ---

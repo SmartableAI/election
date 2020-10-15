@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
+    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
+    publishedDateTime: 2020-10-01T13:10:00Z
+    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 82
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
 
 secured: "YzJEjGIV2qDrHLqWGPSkE9EqDYS2BWVrPgsnSnkxphKZteIEuTp8d8zJxObqGXcbxP1AKT6c3siveh5OK39cf6xx/XHHp8YqSl81qL2qsVtbX603GwgoD48vfo+EFy0X1MQJ07CIik09qYOKAqx7ETNJziyCbANBA3ZO7uksvwz2+BvC/aKn8BymOgaj6eoMo5mbQtQSIltqrsdqBD8k0bou96TXYsMUe7OcCx8jMSkP3HWJwswqvCc3etSPQCRbxebreM1bI69C0/uPAfpDBtVk/Av9EvvPSrGR9FCve7JpQCg4A6kKrrQ9pH68C7S4tWGxMFnwR+LcWq5jsX630nqm2jXpavpwQNxZT0o5XiA=;4XtSt8ancgopa0OtXsf4XA=="
 ---

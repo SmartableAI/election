@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris and the shameful history of slamming women as 'unlikable’"
-    excerpt: "President Trump also derided the Democratic vice-presidential candidate as ‘a monster’ — a term used to vilify suffragists more than a century ago."
-    publishedDateTime: 2020-10-09T11:08:00Z
-    webUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMXXG3QJGAI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
-  - title: "Fact check: Kamala Harris did not say these remarks about American churches"
-    excerpt: "A copy-paste social media post that appears to have been circulating on Facebook since October 8 makes the false claim that the Democratic vice president nominee Kamala Harris lashed out at churches and pastors for promoting intolerance,"
-    publishedDateTime: 2020-10-11T23:43:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-churches-idUSKBN26W0XY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0XY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0XY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537059064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0NI"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic"
     excerpt: "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package."
     publishedDateTime: 2020-10-13T03:30:00Z
@@ -73,132 +41,105 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fox News cut ties with a frequent guest after he called Kamala Harris an 'insufferable lying b----' on Twitter"
-    excerpt: "Harlan Hill, who has ties to President Donald Trump's reelection campaign, was a frequent guest on Fox News until he tweeted an insult about Harris."
-    publishedDateTime: 2020-10-10T20:26:00Z
-    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+  - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
+    excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
+    publishedDateTime: 2020-10-15T00:44:00Z
+    webUrl: "https://www.bbc.com/news/av/world-us-canada-54549447"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: BBC
+      domain: bbc.com
+    quality: 99
     images:
-      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08vb7l0.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter"
-    excerpt: "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris."
-    publishedDateTime: 2020-10-09T09:49:00Z
-    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+  - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
+    excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."
+    publishedDateTime: 2020-10-12T17:40:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/2d5e0841-796e-493e-9f04-f3bf44d13c2c/thumbnail/1200x630/819834dc9a7096ad7a6913e7d8141769/cbsn-fusion-senator-kamala-harris-republicans-jam-through-amy-coney-barrett-nomination-thumbnail-564550-640x360.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Fact-check: Does Kamala Harris support police defunding?"
-    excerpt: "As vice president, Kamala Harris would \"defund, dismantle, and dissolve police departments.\"PolitiFact’s ruling:"
-    publishedDateTime: 2020-10-09T16:57:00Z
-    webUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding"
-    ampWebUrl: "https://www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201009/fact-check-does-kamala-harris-support-police-defunding?template=ampart"
+  - title: "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act."
+    publishedDateTime: 2020-10-12T22:17:00Z
+    webUrl: "https://www.latimes.com/politics/00000175-1ed1-de05-a9f7-7ffb61bc0000-123"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 75
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 87
     images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201009&Category=NEWS&ArtNo=201008973&Ref=AR"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/e36e9f8/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F32%2F51%2F615392c94bf7861703acda7c66b2%2Fharris-comfirmation-amy-coney-barrett-la-thmb.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris Grills Supreme Court Nominee Amy Coney Barrett Over Obamacare"
+    excerpt: "Amy Coney Barrett faced tough questions from Kamala Harris on how she would rule on Obamacare SCOTUS case but avoided giving a straight answer several times"
+    publishedDateTime: 2020-10-14T19:30:00Z
+    webUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/"
+    ampWebUrl: "https://www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/kamala-harris-grills-supreme-court-nominee-amy-coney-barrett-over-obamacare/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 73
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2019/05/4H3A0250-e1558377946157.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
+    excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
+    publishedDateTime: 2020-10-11T16:12:00Z
+    webUrl: "https://www.wltx.com/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 69
+    images:
+      - url: "https://media.wltx.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
-    excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
-    publishedDateTime: 2020-10-14T21:00:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/kamala-harris-remarks-george-floyd-s-47th-birthday"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
+  - title: "Kamala Harris, Lindsey Graham among senators to watch at Amy Coney Barrett hearings"
+    excerpt: "Graham hopes a strong performance will help in his tight re-election race. Harris hopes doing the same will give a boost to the Biden-Harris ticket."
+    publishedDateTime: 2020-10-12T03:47:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/amy-coney-barrett-graham-harris-senators-to-watch/507-698eb0ac-dabc-468b-9fb8-bafe41e72e30"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: KING5
+      domain: king5.com
+    quality: 69
     images:
-      - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://media.king5.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Kamala Harris' false 'Honest Abe' story and her misuse of American history"
-    excerpt: "Sen. Kamala Harris is the very embodiment of today’s progressives. She proved this again and again on the debate stage with Vice President Mike Pence, most clearly in her willingness to twist or rewrite history."
-    publishedDateTime: 2020-10-14T00:06:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+  - title: "Tal Kopan Discusses Sen. Kamala Harris' Record"
+    excerpt: "San Francisco Chronicle's Tal Kopan discusses Sen. Kamala Harris' record ahead of Wednesday night's Vice Presidential debate."
+    publishedDateTime: 2020-10-06T16:23:00Z
+    webUrl: "https://www.c-span.org/video/?476609-3/washington-journal-tal-kopan-discusses-sen-kamala-harris-record"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 73
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/B1-keenew_c0-133-1800-1183_s1200x700.jpg?0f47a19364006e5f83b6c36f5a2c150dc0da5a84"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’"
-    excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
-    publishedDateTime: 2020-10-11T12:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246337265.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246337265.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
-    excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
-    publishedDateTime: 2020-10-09T13:13:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 65
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Jamaicans in Florida energised by Kamala Harris on 2020 ticket"
-    excerpt: "President Donald Trump and Joe Biden are entering the final stretch of the campaign in a fierce battle for Latino voters who could sway the results in Florida and determine who wins the White House. B"
-    publishedDateTime: 2020-10-11T19:49:00Z
-    webUrl: "https://www.dailypioneer.com/2020/world/jamaicans-in-florida-energised-by-kamala-harris-on-2020-ticket.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 55
-    images:
-      - url: "https://www.dailypioneer.com/images/logo.jpg"
-        width: 325
-        height: 325
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "bqamTJqs/h7xDG8lcmw2hP8FKh/r+5HbgOtpgIUb0bkLShaLBSZwaDZVeSqWkbLO5GZfqFCsSci/lNFXbmGk6QV7ajPdJxTeLr3JlwU0/v0zxMuc7k5F58CJV6kPs9PY2RpbjpWSmMK9eKiWbGtXDrHbVvreH+k67tP+ZBTQspOoVfqG20LUGt2Et66m4gEjGoEo9nUDHAbdfpKAXdBhyhl7CL0/bbLAmkZhv7USH86ifqw0kQulNtSQcSTTgLocrJFWBNfmaH/LBnLSDZ0tzqxxnMBXPuaomkJkDBKyD+AlEYI2gfvtWUDOyzRlEk5YID85s51ur6HpElf3QJoLRa1kS7AnnQdVIXteboAReXEFagjVIfBZLKg5NkTe3cpmhUAWCCb6FXqbVqMCoKeOUjJXxRpPcaKbhTuusZp9kTWsBpet0eU4FZ2e0QEM/yI5sAt0JsVpzn72c2E1u7qCiObtQL+7Oa4Wh0M6ounnDJao++NAf6dGDqllV3S7NIynSpW6oOLTQRmNuEj9xxXGgw==;4pBZh7IXt7fpD6U6OHXWNA=="
 ---

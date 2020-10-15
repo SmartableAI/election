@@ -111,21 +111,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-joe-biden-says-hes-not-a-fan-of-court-packing-as-scotus-hearings-continue.md",
-      "title": "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue",
-      "excerpt": "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing.",
+      "path": "_news/2020-10-14-us-election-2020-do-celebrity-endorsements-help-joe-biden.md",
+      "title": "US election 2020: Do celebrity endorsements help Joe Biden?",
+      "excerpt": "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
-      "originalUrl": "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
+      "webUrl": "https://www.bbc.com/news/election-us-2020-54527265",
+      "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 300,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -133,16 +133,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081",
-      "publishedDateTime": "2020-10-13T14:01:00-07:00",
+      "ampWebUrl": "https://www.bbc.com/news/amp/election-us-2020-54527265",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265",
+      "publishedDateTime": "2020-10-13T18:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "BBC",
+        "domain": "bbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -228,7 +228,7 @@
       "originalUrl": "https://www.al.com/news/2020/10/doug-jones-as-joe-bidens-attorney-general-alabama-senator-name-thrown-into-mix.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -358,49 +358,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-coronavirus-updates-first-american-to-get-covid-twice-13-states-set-case-records-joe-biden-tests-negative-again.md",
-      "title": "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again",
-      "excerpt": "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
-      "originalUrl": "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.tennessean.com/amp/5966027002",
-      "cdnAmpWebUrl": "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002",
-      "publishedDateTime": "2020-10-13T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tennessean",
-        "domain": "tennessean.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
       "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
       "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
@@ -409,7 +366,7 @@
       "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -453,6 +410,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
+      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
+      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
+      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
+      "publishedDateTime": "2020-10-12T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places.md",
       "title": "Biden: The 'only way' I'll lose is through 'chicanery' at polling places",
       "excerpt": "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election.",
@@ -461,7 +470,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 144,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -596,21 +605,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-nebraska-district-could-prove-pivotal-for-biden-in-november.md",
-      "title": "Nebraska district could prove pivotal for Biden in November",
-      "excerpt": "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district.",
+      "path": "_news/2020-10-11-twitter-reacts-to-jim-carreys-joe-biden-impersonation-on-snl.md",
+      "title": "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'",
+      "excerpt": "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
-      "originalUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november",
+      "webUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
+      "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -618,16 +627,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp",
-      "publishedDateTime": "2020-10-10T15:05:00-07:00",
+      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
+      "publishedDateTime": "2020-10-11T03:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -635,6 +644,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-joe-biden-tests-negative-for-coronavirus-sixth-time-since-debate.md",
+      "title": "Joe Biden tests negative for coronavirus sixth time since debate",
+      "excerpt": "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
+      "originalUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg",
+          "width": 769,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -656,7 +708,7 @@
       "originalUrl": "https://www.businessinsider.com/cindy-mccain-biden-will-honor-our-fallen-heroes-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -757,164 +809,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-record-breaking-group-of-faith-leaders-endorses-biden.md",
-      "title": "'Record-breaking group' of faith leaders endorses Biden",
-      "excerpt": "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
-      "originalUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
-      "publishedDateTime": "2020-10-09T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-bidens-first-step-on-taxes-may-be-cracking-down-on-cheats-democrats-say.md",
-      "title": "Biden's first step on taxes may be cracking down on cheats, Democrats say",
-      "excerpt": "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536855212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG980WM",
-          "width": 786,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26U1IU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U1IU",
-      "publishedDateTime": "2020-10-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
-      "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
-      "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5917943002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002",
-      "publishedDateTime": "2020-10-09T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-08-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to-debate.md",
       "title": "Pence targets Biden over ISIS hostages, brings family of executed aid worker to debate",
       "excerpt": "Vice President Pence invoked slain ISIS hostage Kayla Mueller on Wednesday as he sought to tout what he described as President Trump’s foreign policy accomplishments in his debate against Sen. Kamala Harris (D-Calif.",
@@ -923,7 +817,7 @@
       "originalUrl": "https://thehill.com/policy/defense/520134-pence-targets-biden-over-isis-hostages-brings-family-of-executed-aid-worker-to",
       "featuredContent": null,
       "highlight": null,
-      "heat": 802,
+      "heat": 1282,
       "tags": null,
       "images": [
         {
@@ -1026,6 +920,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-07-joe-biden-should-stop-ducking-the-court-packing-issue.md",
+      "title": "Joe Biden should stop ducking the court-packing issue",
+      "excerpt": "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 885,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-russias-vladimir-putin-says-he-has-noted-joe-bidens-sharp-anti-russian-rhetoric.md",
       "title": "Russia's Vladimir Putin says he has noted Joe Biden's 'sharp anti-Russian rhetoric'",
       "excerpt": "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from Democratic presidential candidate Joe Biden, but that he had been encouraged by Biden’s comments on arms control.",
@@ -1091,7 +1037,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1244,6 +1190,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-goldmans-chief-economist-breaks-down-why-a-biden-led-blue-wave-would-prompt-an-upgrade-in-growth-forecasts.md",
+      "title": "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts",
+      "excerpt": "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
+      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg",
+          "width": 2886,
+          "height": 1443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp",
+      "publishedDateTime": "2020-10-05T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-joe-biden-enlists-artists-like-ludacris-dupri-jeezy-and-monica-for-voting-ads-in-battleground-states.md",
       "title": "Joe Biden enlists artists like Ludacris, Dupri, Jeezy and Monica for voting ads in battleground states",
       "excerpt": "Joe Biden has tapped popular music artists like Ludacris, Monica, Jermaine Dupri and Jeezy to encourage Black citizens in battleground states to vote in the upcoming presidential election.",
@@ -1353,6 +1351,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-05-joe-biden-moves-ahead-of-president-trump-among-miami-dade-hispanic-voters-poll-finds.md",
+      "title": "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds",
+      "excerpt": "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,",
+      "sourceUrl": null,
+      "webUrl": "https://www.miamiherald.com/news/politics-government/article246216955.html",
+      "originalUrl": "https://www.miamiherald.com/news/politics-government/article246216955.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/article246216955.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html",
+      "publishedDateTime": "2020-10-05T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden.md",
       "title": "Will new Florida voters tip the election in favor of Joe Biden?",
       "excerpt": "Are we there yet? After the first debate, and the news about Donald Trump, many Americans are wondering when the election will end.",
@@ -1361,7 +1402,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden",
       "featuredContent": null,
       "highlight": null,
-      "heat": 400,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -1516,63 +1557,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-joe-bidens-other-questionable-chinese-concern-and-involvement-hollywood-part-two.md",
-      "title": "Joe Biden’s OTHER Questionable Chinese Concern and Involvement - Hollywood (Part Two)",
-      "excerpt": "This piece is part two in a series. You can read the first installment here.SELF-CENSORING THEIR OWN SELF-INTERESTSThe pandemic has created a constant stream of challenges for the studios",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
-      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2016/63/90ca6ef4-d0ce-4729-9c4a-0b1df4f8db40.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
-      "publishedDateTime": "2020-10-02T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

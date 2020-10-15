@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/the-crises-of-americas-sick-preside
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815"
 type: article
 quality: 131
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,6 +30,56 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Trump administration secures release of two American hostages from Yemen"
+    excerpt: "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday. "
+    publishedDateTime: 2020-10-14T23:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S48r0oidbz4/trump-release-american-hostages-yemen"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Governor Cuomo claims Trump convinced American their loved ones died due to nursing home policy"
+    excerpt: "New York Gov. Andrew Cuomo on Wednesday blamed President Donald Trump for convincing people that the governor’s controversial March 25 nursing home mandate was responsible for 6,600 deaths"
+    publishedDateTime: 2020-10-14T21:56:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288757069959.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump administration secures release of two American hostages from Yemen"
+    excerpt: "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday."
+    publishedDateTime: 2020-10-14T23:22:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yemen"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "DgrMMgwWizGiYrQl1MXeF7An2PD0lvFDzxyx6NCoQr3nESj5YXMNnXsFynHn/1jNlOpDAYcqVGNiuSCoH1NbNyt4JKOy+3BA/7lLbaQi/YO8EpiasGBQAEaE+qNzln2ESsjaV75HRLfPbTmNQea76uYntweqVAvMx/jUJdbPcfhrvbtmfKJeuvTtVwiom+HlA0sASWJKXcDDJhvDSN8DBE05RHpeHaVmqQ4W2072cbTKAycKlKLW79b5nLbJRnVUG5z9EAs1ar5zwuNQJ0sgrCfJaOBYoXpPH0S94l+T+RI1SL2whshiFpQPtHPZ5vwn/jNn5/DvXeocst0H8vRamxohJgGrtRL9jXBwTmBhzl2Ljb7qjJ+qErMViLRUSPBK1y+y9Uh9EaxJsYoudV+N3Y4hj+71W+p1KrM2R6PN4wJdJyZcYZqqXxeRdPmC4XeChoG9nihgpIm6CdxsdQdaYpjlNMLWKZzJsXOsxMHRs5cppL/NpXAnAyOrV4Z/1TJ6ldpz7iDFt/fEvIiyB9HdpA==;wg+KyywsOjkL2GVO+vvdbw=="
 ---

@@ -2,6 +2,119 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-24-trump-blasts-ballots-when-asked-about-election-aftermath-the-ballots-are-a-disaster.md",
+      "title": "Trump blasts ballots when asked about election aftermath: 'The ballots are a disaster'",
+      "excerpt": "President Trump Wednesday told reporters he would have to “see what happens” with election results before committing to a peaceful transfer of power. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SfTlAcoL428/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8f70bc34-e0c7-4eb0-be55-5432ed5834e4/603d59ec-ab59-4b24-8d70-20b04de0c8a3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pressed-on-peaceful-transfer-of-power-have-to-see-what-happens.amp",
+      "publishedDateTime": "2020-09-24T01:47:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-24-this-is-the-ultimate-base-play-trump-looks-for-catholic-vote-from-court-fight.md",
+      "title": "‘This is the ultimate base play’: Trump looks for Catholic vote from Court fight",
+      "excerpt": "Democratic nominee Joe Biden, a Catholic, has been drawing swaths of white Catholic voters who picked Trump in 2016. Now, Trump allies see an opening in the battle over a Court seat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "originalUrl": "https://www.politico.com/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/da/17/89268b77457c8792773636190c2c/gettyimages-1269389480-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/24/donald-trump-catholic-vote-court-fight-420935",
+      "publishedDateTime": "2020-09-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-opinion-im-a-christian-veteran-texas-republican-and-i-support-joe-biden.md",
       "title": "Opinion: I’m a Christian, veteran, Texas Republican and I support Joe Biden",
       "excerpt": "I am casting my vote for Joe Biden because of, not in spite of, my beliefs and experiences as a veteran, a Christian, a conservative and a native rural Texan. In many ways, the president sits atop what sociologist Robert Bellah called our American “civil religion,",
@@ -54,21 +167,21 @@
       ]
     },
     {
-      "path": "_news/2020-09-24-kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence.md",
-      "title": "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence",
-      "excerpt": "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates.",
+      "path": "_news/2020-09-24-opinion-south-asians-should-celebrate-kamala-harris-nomination-and-confront-our-own-racism.md",
+      "title": "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism",
+      "excerpt": "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans.",
       "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
-      "originalUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881",
+      "webUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "originalUrl": "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg",
-          "width": 620,
-          "height": 349,
+          "url": "https://s.hdnux.com/photos/01/14/24/12/20005524/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +189,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html",
-      "publishedDateTime": "2020-09-23T22:32:00-07:00",
+      "ampWebUrl": "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php",
+      "publishedDateTime": "2020-09-24T01:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -93,7 +215,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Kamala Harris"
       ]
     },
     {
@@ -591,7 +713,7 @@
       "originalUrl": "https://www.cbsnews.com/news/court-orders-eric-trump-to-testify-before-new-york-attorney-general-ahead-of-election/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 693,
+      "heat": 573,
       "tags": null,
       "images": [
         {
@@ -719,58 +841,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-trump-said-jews-are-only-in-it-for-themselves-and-stick-together-according-to-a-new-report.md",
-      "title": "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report",
-      "excerpt": "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp",
-      "publishedDateTime": "2020-09-23T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1286,62 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-say-in-new-book.md",
-      "title": "Gorsuch, Kavanaugh 'didn't really tip' Supreme Court balance, Trump advisers say in new book",
-      "excerpt": "Because both Gorsuch and Kavanaugh replaced Republican-appointed justices, David Bossie and Cory Lewandowski say, a second Trump term in which he may have the chance to replace Democrat-appointed justices could be more impactful.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FEwMp4l55IQ/gorsuch-kavanaugh-didnt-really-tip-supreme-court-balance-trump-advisers-book",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/33ad9880-1024-preview.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T06:07:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

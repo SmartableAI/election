@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Patch
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Minnesota congressmen flew Delta after flying with Trump"
+    excerpt: "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U."
+    publishedDateTime: 2020-10-03T22:53:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/201003_abcnl_spev_trump_6pm_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Minneapolis restaurant quarantines 13 who worked Trump event"
+    excerpt: "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week"
+    publishedDateTime: 2020-10-05T22:05:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
     excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
     publishedDateTime: 2020-09-26T03:10:00Z

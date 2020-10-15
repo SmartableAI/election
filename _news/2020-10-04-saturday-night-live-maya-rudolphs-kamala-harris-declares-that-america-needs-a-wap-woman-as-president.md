@@ -27,37 +27,149 @@ images:
     isCached: true
 
 related:
-  - title: "SNL: Maya Rudolph Gives One Her Best Kamala Harris Impressions Yet in Debate Skit"
-    excerpt: "Maya Rudolph is back at it again with her hilarious Kamala Harris impressions on Saturday Night Live. On the Oct. 10 episode, the comedian channeled the vice"
-    publishedDateTime: 2020-10-11T06:22:00Z
-    webUrl: "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222"
-    ampWebUrl: "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp"
-    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp"
+  - title: "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers"
+    excerpt: "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents."
+    publishedDateTime: 2020-10-07T21:37:00Z
+    webUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176"
+    ampWebUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
     type: article
     provider:
-      name: PopSugar
-      domain: popsugar.com
-    quality: 70
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
     images:
-      - url: "https://media1.popsugar-assets.com/files/thumbor/irGmy4DjAtFtzK2EUdheYTs-2KE/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/10/271/n/1922283/5f257ac75f82988cd12da9.12583556_.jpg"
+      - url: "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg"
+        width: 594
+        height: 396
+        isCached: true
+  - title: "Kamala Harris is on the cover of Elle magazine's November issue"
+    excerpt: "Democratic Vice Presidential nominee Senator Kamala Harris is the former attorney general of California. She was the second Black woman to be elected to the U.S. Senate, and this year became the first Black vice presidential nominee."
+    publishedDateTime: 2020-10-06T17:38:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-elle-magazine-cover-november/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/06/b65ecbdd-02b1-439d-9bc1-bd0a602c7fda/thumbnail/1200x630/f2287b22c7438d7d45e031861c7f2800/gettyimages-1228018304.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Maya Rudolph Talks About Playing Kamala Harris On ‘SNL’ After Winning An Emmy For It"
-    excerpt: "Maya Rudolph said she was honored to play Kamala Harris on \"Saturday Night Live\" and she hopes that she could still play the political figure in the years to come."
-    publishedDateTime: 2020-09-28T07:20:00Z
-    webUrl: "https://www.ibtimes.com/maya-rudolph-talks-about-playing-kamala-harris-snl-after-winning-emmy-it-3052851"
-    ampWebUrl: "https://www.ibtimes.com/maya-rudolph-talks-about-playing-kamala-harris-snl-after-winning-emmy-it-3052851?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/maya-rudolph-talks-about-playing-kamala-harris-snl-after-winning-emmy-it-3052851?amp=1"
+  - title: "Fact check: Kamala Harris did not say these remarks about American churches"
+    excerpt: "A copy-paste social media post that appears to have been circulating on Facebook since October 8 makes the false claim that the Democratic vice president nominee Kamala Harris lashed out at churches and pastors for promoting intolerance,"
+    publishedDateTime: 2020-10-11T23:43:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-churches-idUSKBN26W0XY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0XY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0XY"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 68
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/12/kamala-harris-maya-rudolph-snl.jpg"
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537059064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A0NI"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
+    excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
+    publishedDateTime: 2020-10-08T15:35:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 113
+    images:
+      - url: "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
+    excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
+    publishedDateTime: 2020-10-04T21:55:00Z
+    webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 75
+    images:
+      - url: "https://images.axios.com/BzhhevCANjFvRDPxSiQwbeCSBDE=/fit-in/1366x1366/2020/10/04/1601842365580.jpg"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "How will Kamala Harris affect Asian Americans voting in Texas?"
+    excerpt: "For Jashmin Patel, who moved to Austin in February, Joe Biden naming U.S. Sen. Kamala Harris as his running mate resonated on a personal level. “I"
+    publishedDateTime: 2020-10-07T10:24:00Z
+    webUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas"
+    ampWebUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 75
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201007&Category=NEWS&ArtNo=201009257&Ref=AR"
+        width: 3000
+        height: 1882
+        isCached: true
+  - title: "Kamala Harris' false 'Honest Abe' story and her misuse of American history"
+    excerpt: "Sen. Kamala Harris is the very embodiment of today’s progressives. She proved this again and again on the debate stage with Vice President Mike Pence, most clearly in her willingness to twist or rewrite history."
+    publishedDateTime: 2020-10-14T00:06:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/kamala-harris-false-honest-abe-story-and-her-misus/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 73
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/B1-keenew_c0-133-1800-1183_s1200x700.jpg?0f47a19364006e5f83b6c36f5a2c150dc0da5a84"
         width: 1200
-        height: 750
+        height: 700
+        isCached: true
+  - title: "Kamala Harris says 'I'm answering the question' as she dodges on court-packing"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Thursday she was answering the question on whether Democrats should try to pack the U.S. Supreme Court as she declined to take a position on the issue."
+    publishedDateTime: 2020-10-09T20:23:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/kamala-harris-says-im-answering-question-she-dodge/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 71
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/Supreme_Court_34010.jpg-13433_c0-0-4500-2625_s1200x700.jpg?27c25af2ea4591cbd287e099859ceda78efd15e3"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "The VP debate is over. Did Sen. Kamala Harris’ performance light a fire under women voters?"
+    excerpt: "With the gender gap widening when it comes to presidential preferences, the power of the women’s vote, especially if the election is close, is all the more consequential."
+    publishedDateTime: 2020-10-09T13:13:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/09/the-vp-debate-is-over-did-sen-kamala-harris-performance-light-a-fire-under-women-voters/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 65
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "b8FqroVA1FqW/vFT8nYKY1YcCw41QcmOaTCGicBHA89rHowrqjlTLOYs08wnoyWHSgtH8Ug4hNztkRzAPxoXZDdNapWyi1oQXXPnyN2DMBI0SAcGklfG1L3m7iW6UkHQ9f4ZcvcrfHiMdif6w51mCqR3bWPrO70Fl2JdZgDIGnxf6H7Sge3eka2jReu3h8luS5Lf91y7FDTuF355BJec1tH8YnJqm9x7qRmKYM8n0LB9XT57XINf1lDsWSsZD8lTnKkWdVEvxeBEQejqnQ9nQ6+HIqsRVc4UmhxsSP02h9r4jurHunMv4N9as0gPJfMqfYjO+yOPcsBh5PSAVravhjSQLAFSKhAha8p3Rczr9t72OWxNvsCrQ3h8jTQHiENpExAUEQaD4/i/ZUIS7RASH08dC/TIjzexUnpBsTk7dDPmM0ISoY+VRYlQC0ShC6LaZ5+H6hExQraqsrvHV2vWPycgcsHTJUWwJB9hkcxvSvcLbh+V57zS7Vg+fAqEZYQ2HGAw8Riou2t6YRSdKsvuHA==;MpmgjSrGsduVgNnRXTa1tg=="

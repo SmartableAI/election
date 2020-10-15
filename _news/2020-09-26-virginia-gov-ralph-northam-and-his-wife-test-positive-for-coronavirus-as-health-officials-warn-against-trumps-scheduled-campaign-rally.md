@@ -63,70 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Factbox: Reactions to Donald Trump testing positive for coronavirus"
-    excerpt: "U.S. President Donald Trump said in a tweet on Friday he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
-    publishedDateTime: 2020-10-02T06:55:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-for-coronavirus-idUSKBN26N0SW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814584&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IY"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Oil drops 4% after Trump's positive coronavirus test"
-    excerpt: "Oil prices were down 4% on Friday after U.S. President Donald Trump tested positive for COVID-19 and negotiators failed to agree a U.S. stimulus package just as rising global oil output threatens to overwhelm a weak price recovery."
-    publishedDateTime: 2020-10-02T11:17:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int/oil-drops-3-after-trump-tests-positive-for-covid-19-idUSKBN26N05I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535810745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9103Q"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Putin Wishes Trump A Speedy Recovery From Coronavirus"
-    excerpt: "The Russian president, Vladimir Putin, has sent President Donald Trump his good wishes after learning that Trump had tested positive for coronavirus."
-    publishedDateTime: 2020-10-02T13:16:00Z
-    webUrl: "https://www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/"
-    ampWebUrl: "https://www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f771c4a9b861ba98e59a859%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump and his wife Melania test positive for coronavirus"
-    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
-    publishedDateTime: 2020-10-02T11:34:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-int-idUSKBN26N0LW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0LW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0LW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535811132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910FI"
-        width: 826
-        height: 545
-        isCached: true
   - title: "Vice President Mike Pence, second lady test negative for coronavirus"
     excerpt: "Spokesman Devin O’Malley says Vice President Pence “remains in good health and wishes the Trumps well in their recovery.”"
     publishedDateTime: 2020-10-02T12:59:00Z
@@ -174,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/25a42ce0e9f290e768851aa1e37a3c8bc3e792a6/0_157_3272_1963/master/3272.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a5491efcfbf99560e98a5e2e6edb1f10"
         width: 600
         height: 360
+        isCached: true
+  - title: "Joe Biden and his wife test negative for coronavirus"
+    excerpt: "Biden recently attended a presidential debate against President Donald Trump, and Trump later tested positive for the virus."
+    publishedDateTime: 2020-10-03T01:11:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-tests-negative-for-coronavirus-after-trump-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f77304f0ab50d00184adc56?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "GOP faces reckoning over Trump's virus strategy, diagnosis"
     excerpt: "President Donald Trump ’s coronavirus diagnosis was a moment of reckoning for his Republican Party, whose leaders largely adopted his strategy of playing down the disease but are now confronted with a stark political nightmare a month from Election Day."
@@ -223,22 +175,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Wall Street closes sharply lower as Trump tests positive for coronavirus"
-    excerpt: "U.S. stocks closed lower on Friday as news that U.S. President Donald Trump tested positive for COVID-19 put investors in a risk-off mood and added to mounting uncertainties surrounding the looming election."
-    publishedDateTime: 2020-10-03T01:21:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN26N1W8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1W8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1W8"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535864109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9116Y"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Analysts' view: Trump goes into quarantine, awaits coronavirus test results"
     excerpt: "U.S. stock futures dipped on Friday after President Donald Trump said he and his wife will quarantine after a close aide, Hope Hicks, tested positive for the coronavirus. Trump said they are awaiting test results."
     publishedDateTime: 2020-10-02T05:16:00Z
@@ -286,22 +222,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KHKHD5QEJEI6XN7NCQO5RBLA5I.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Factbox: Trump visited seven states in week before novel coronavirus diagnosis"
-    excerpt: "U.S. President Donald Trump's diagnosis for the novel coronavirus came in the midst of a particularly hectic time for the Republican president, who is campaigning for re-election on Nov. 3 and working to appoint a new justice to the Supreme Court."
-    publishedDateTime: 2020-10-02T17:40:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-events-factb-idUSKBN26N2ZW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2ZW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2ZW"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535908172&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911V6"
-        width: 817
-        height: 545
         isCached: true
   - title: "CDC director contradicts Trump on coronavirus: 'We're nowhere near the end' - NBC"
     excerpt: "The head of a top U.S. government health agency gave a grim assessment of the coronavirus pandemic that contradicts that of President Donald Trump, saying \"We're nowhere near the end,\" NBC News reported on Monday."
@@ -399,22 +319,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "President Donald Trump's coronavirus infection draws international sympathy from Putin, Merkel"
-    excerpt: "\"I am certain that your inherent vitality, good spirits and optimism will help you cope,\" said Russia President Vladimir Putin."
-    publishedDateTime: 2020-10-02T10:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/world/2020/10/02/trumps-coronavirus-infection-draws-sympathy-putin-merkel/5892529002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5892529002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892529002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump, Melania tests positive for coronavirus, president vows to bring quarantine 'immediately'"
     excerpt: "The revelation Trump and first lady Melania Trump tested positive for coronavirus came after a top aide announced she also had a positive test result."
     publishedDateTime: 2020-10-02T05:04:00Z
@@ -431,22 +335,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump seemed to defy the laws of science and disease. Then, the coronavirus caught up with him."
-    excerpt: "Mask-wearing had become rare among the president’s staff, and he rejected precautions before he tested positive."
-    publishedDateTime: 2020-10-02T23:18:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-seemed-to-defy-the-laws-of-science-and-disease-then-the-coronavirus-caught-up-with-him/2020/10/02/5b4c5232-04bf-11eb-897d-3a6201d6643f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-seemed-to-defy-the-laws-of-science-and-disease-then-the-coronavirus-caught-up-with-him/2020/10/02/5b4c5232-04bf-11eb-897d-3a6201d6643f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-seemed-to-defy-the-laws-of-science-and-disease-then-the-coronavirus-caught-up-with-him/2020/10/02/5b4c5232-04bf-11eb-897d-3a6201d6643f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 113
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5REJBQDR4I6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Biden tests negative for coronavirus"
     excerpt: "Democratic presidential nominee Joe Biden said he and his wife Jill tested negative for coronavirus on Friday. “I’m happy to report that Jill and I have tested negative,” Biden said on Twitter. “Thank you to everyone for your messages of concern."
     publishedDateTime: 2020-10-03T12:22:00Z
@@ -460,20 +348,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/37/26/20051343/5/rawImage.jpg"
         width: 2048
         height: 1365
-        isCached: true
-  - title: "Relying on testing to ward off COVID put Trump White House at risk"
-    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
-    publishedDateTime: 2020-10-04T03:24:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-testing-insi-idCAKBN26O0FR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1536018686&r=LYNXMPEG9209A&w=800"
-        width: 800
-        height: 527
         isCached: true
   - title: "Trump tests positive for COVID-19 after his adviser and confidant Hope Hicks tested positive for the coronavirus"
     excerpt: "Hicks was also in the vicinity of several senior White House aides as well as Trump campaign advisers. The first lady also tested positive."
@@ -599,22 +473,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "White House physician says Trump is fever-free but dodged questions of whether he has ever received supplemental oxygen during coronavirus treatment"
-    excerpt: "Sean Conley on Saturday offered unclear answers about whether Trump had used supplemental oxygen since testing positive for COVID-19."
-    publishedDateTime: 2020-10-03T17:07:00Z
-    webUrl: "https://www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/5f78a48b282c500018c78734?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'That makes no sense': Doctors say Trump is either getting overtreated for coronavirus, which could be risky, or he's more seriously ill than we know"
     excerpt: "The decision to give the president steroids raises questions about how severe his coronavirus infection is, doctors say."
     publishedDateTime: 2020-10-05T17:29:00Z
@@ -631,15 +489,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Relying on testing to ward off COVID put Trump White House at risk"
-    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
-    publishedDateTime: 2020-10-03T11:30:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-testing-insi-idUSKBN26O0G5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
   - title: "A Fox News host has cast Trump as a war hero who got the coronavirus because he 'put himself on the line'"
     excerpt: "Fox News host Greg Gutfeld compared Trump's coronavirus diagnosis to a solider's sacrifice on the battlefield while speaking on \"The Five\" talk."
     publishedDateTime: 2020-10-03T11:31:00Z
@@ -665,22 +514,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump's Coronavirus Joyride Angered Don Jr., Thinks President Is 'Acting Crazy,' Sources Say"
-    excerpt: "President Donald Trump announced he tested positive for the coronavirus Friday. He has since received treatment and has been discharged from the hospital Monday night."
-    publishedDateTime: 2020-10-06T02:05:00Z
-    webUrl: "https://www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148"
-    ampWebUrl: "https://www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/images-and-soundbites-completes-vidi1wq3mv_endonald-trump-jr-says.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Kanye West Sends Prayers To Donald And Melania Trump After Both Tested Positive For Coronavirus"
     excerpt: "Kanye West sent well-wishes to President Donald Trump and first lady Melania Trump after they tested positive for COVID-19."
     publishedDateTime: 2020-10-04T09:40:00Z
@@ -697,21 +530,19 @@ related:
         width: 1024
         height: 759
         isCached: true
-  - title: "Trump Failed to Tell Sean Hannity About His Coronavirus Status During Thursday Interview — After Testing Positive"
-    excerpt: "President Donald Trump reportedly failed to tell Fox News host Sean Hannity about his coronavirus test status on Thursday just hours after he tested positive."
-    publishedDateTime: 2020-10-05T14:36:00Z
-    webUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/"
-    ampWebUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
+  - title: "The Coronavirus Cases In Trump's Inner Circle"
+    excerpt: "The coronavirus has not only reached the White House, infecting President Donald Trump, but it has also spread among members of his family, inner circle and his Republican allies. The following is a list of some of the people surrounding the American president who have tested positive for Covid-19: Trump,"
+    publishedDateTime: 2020-10-06T01:25:00Z
+    webUrl: "https://www.ibtimes.com/coronavirus-cases-trumps-inner-circle-3057171"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 54
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/this-combination-of-file-pictures-shows-l-r.jpg"
+        width: 768
+        height: 768
         isCached: true
   - title: "Mike Pence, Karen Pence test negative as White House coronavirus cases climb"
     excerpt: "Vice President Mike Pence and second lady Karen Pence both tested negative Monday as a number of new cases were confirmed in the nation's capital."

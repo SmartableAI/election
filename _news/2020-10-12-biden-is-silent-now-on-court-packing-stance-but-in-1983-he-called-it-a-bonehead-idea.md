@@ -59,6 +59,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden Raised $383 Million in September, Breaking Earlier Record"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign surpasses the record-breaking haul it collected a month earlier, raising funds that will allow it to run a large advertising campaign in the final weeks before the Nov."
+    publishedDateTime: 2020-10-15T02:17:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-245257/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
     excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
     publishedDateTime: 2020-10-14T14:59:00Z
@@ -122,6 +138,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "The Type of Leader We Can Expect Joe Biden to Be"
+    excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
+    publishedDateTime: 2020-10-14T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/14/the-type-of-leader-we-can-expect-joe-biden-to-be-n2578085"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "6pXCel92ktAGS+X14HpHO57T7awc2BwgZjqwc6RwxKppcwoLghRpUSJ4wtBd70qJFRvhWmRWCfPq/TAHShcTcqEQkXpvV2LSwUZsgFq54dXd4B5dii+gXXbMZpSvorNZaIoIaMbUCcbmzhUjHD+2qRXsdvDAoY6rIHYoLX6YE1EEMlaQie4h0ntBqWx25afzvzxHBkCJ676eWiJ1267bfOSYIgUuvVskw0M99x8IEBmtXVYN309lPC+CLx1BvpWZolCc1cHgk/exYKBxOCxh31qsHEfkdZfn+ANzdfoGkDwnXgcoSNH0sUoHQjIPI520vRVS8ClEY52TnuQQLIO1BZiXoX9YYhEZGfpHzcok3/I=;hN1U0ZRZGExGxVGlZyjJtw=="

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Trump is still falsely claiming that Mexico is paying for his border wall"
+    excerpt: "In 2016, President Donald Trump promised at his campaign rallies that Mexico would pay for the giant wall he planned to build on its border.\n    \n"
+    publishedDateTime: 2020-10-15T01:35:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0Z-4YjqP5NQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-mexico-paying-for-the-wall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013104016-primera-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump says his coronavirus deception was Churchillian. Scholars of Churchill say he's wrong"
     excerpt: "President Donald Trump argued Thursday that his decision to mislead Americans about the severity of the coronavirus threat wasn't just the right thing to do -- it was positively Churchillian.\n    \n"
     publishedDateTime: 2020-09-13T14:26:21Z

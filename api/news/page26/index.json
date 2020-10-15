@@ -283,7 +283,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -378,7 +378,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -640,57 +640,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-ted-cruz-is-honored-trump-is-considering-him-for-a-supreme-court-seat-but-he-said-hes-not-interested-in-leaving-the-senate.md",
-      "title": "Ted Cruz is 'honored' Trump is considering him for a Supreme Court seat, but he said he's not interested in leaving the Senate",
-      "excerpt": "Trump announced 20 possible appointments that included three conservative senators: Cruz of Texas, Tom Cotton of Arizona, and Josh Hawley of Missouri.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "originalUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f5e7703e6ff30001d4e885b?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ted-cruz-not-interested-in-serving-on-supreme-court-2020-9?amp",
-      "publishedDateTime": "2020-09-13T13:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election"
       ]
     },
     {
@@ -1243,7 +1192,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {
@@ -1340,6 +1289,54 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-11-joe-biden-and-mike-pence-exchange-elbow-bump-at-nyc-911-memorial-event.md",
+      "title": "Joe Biden And Mike Pence Exchange Elbow Bump At NYC 9/11 Memorial Event",
+      "excerpt": "Vice President Mike Pence and former Vice President Joe Biden greeted each other at the annual ceremony commemorating 9/11 in New York, a calm respite from a bitter 2020 election campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html",
+      "originalUrl": "https://www.realclearpolitics.com/video/2020/09/11/joe_biden_and_mike_pence_exchange_elbow_bump_at_nyc_911_memorial_event.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/521025.jpg",
+          "width": 750,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-11T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
       ]
     }
   ],

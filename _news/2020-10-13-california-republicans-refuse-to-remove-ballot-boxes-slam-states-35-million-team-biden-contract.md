@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/california-republicans-unofficial-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp"
 type: article
 quality: 160
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Trump directs California GOP to 'fight hard' in court over ballot boxes despite prosecution threat"
+    excerpt: "President Trump on Tuesday directed Republicans to “fight hard” in court after California’s top election and law enforcement officials, both Democrats, ordered the state GOP to remove unofficial ballot boxes from various locations in three counties by later this week or face prosecution.  "
+    publishedDateTime: 2020-10-15T01:54:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q9Pjxn8pf8/trump-california-gop-ballot-boxes-fight-hard"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "9ZRoU6/HUSdq1skNud+/inSk+UQaFbr9tzIDdRsAsuirsZ35ZWNMTAmQXo9q35rA33NdRcNWBWGHnWyWFWTqyHlVmk1ptlmxNVq4/aRPceDarXsj0222HA8hoZpprjH+x8WAtZr2Rx/3wyXOLQfr2GuEXdCfY6OqMlQMvN33q6aBJkjnmrfhi8KzEMyKPC5DXZxkcMA1MXsB469lzS1Dn41UFbo6EULRDteYpluSP3BQYbdLU7teoQw+e1f9AKcv+B4X1PCdcvlgDNg+S/9V3tigNWG2KsHiN7dgCWVhZ058FRrAOmOTJZHrBBS1NK4GU7gnEGCvHOcEGo1n9uoNpqmyPp4gtkl24A3bjqfByro=;1trd6uI50ZrNspxY4lyvFA=="
 ---

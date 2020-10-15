@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
+    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
+    publishedDateTime: 2020-10-14T01:32:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54527265"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 140
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
     excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."
     publishedDateTime: 2020-10-09T13:40:00Z
@@ -47,146 +63,81 @@ related:
         width: 786
         height: 545
         isCached: true
-  - title: "Biden campaign co-chair says Supreme Court packing question is 'hypothetical'"
-    excerpt: "\"I think it's a legitimate question for you to ask, but it is a distraction with 22 days before the election,\" Richmond said on ABC's \"This Week.\" Speaking with guest host Jon Karl, the congressman was asked where Biden stood on the issue of court-packing."
-    publishedDateTime: 2020-10-11T15:26:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
+  - title: "The Finance 202: Joe Biden's tax plan would barely dent growth, conservative group finds"
+    excerpt: "President Trump says Joe Biden’s tax plan would bring about a depression and destroy the country. Independent studies have found no support for that claim. And the latest, an updated examination of the Biden proposal from the right-leaning American Enterprise Institute,"
+    publishedDateTime: 2020-10-14T12:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
     images:
-      - url: "https://thehill.com/sites/default/files/richmondcedric_061020gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SXMCJFAN2QI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 983
         isCached: true
-  - title: "Did Joe Biden really say he was running for the Senate?"
-    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
-    publishedDateTime: 2020-10-14T01:28:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
+  - title: "Connie Chung endorses Joe Biden for president..."
+    excerpt: "Watch \"Connie Chung endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-09T15:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201009152108-connie-chung-endorses-joe-biden-for-president/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
-    excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
-    publishedDateTime: 2020-10-10T00:11:00Z
-    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 96
-    images:
-      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
-    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
-    publishedDateTime: 2020-10-09T17:43:00Z
-    webUrl: "https://heavy.com/news/biden-taxes/"
-    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
-  - title: "Opinion/Chidester: Joe Biden’s credibility issue"
-    excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
-    publishedDateTime: 2020-10-10T15:44:00Z
-    webUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue"
-    ampWebUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
-    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
-    type: article
-    provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 75
-    images:
-      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
-        width: 520
-        height: 816
-        isCached: true
-  - title: "Joe Biden's tax returns: 3 things we can learn about Social Security"
-    excerpt: "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed."
-    publishedDateTime: 2020-10-11T00:23:00Z
-    webUrl: "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/"
-    ampWebUrl: "https://amp.azcentral.com/amp/114243008"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114243008"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/09/27/USATODAY/usatsports/joe-biden-whitehousegov.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
-    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
-    publishedDateTime: 2020-10-13T20:44:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    type: article
-    provider:
-      name: KING5
-      domain: king5.com
-    quality: 75
-    images:
-      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
-    excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
-    publishedDateTime: 2020-10-13T20:01:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
-    ampWebUrl: "https://amp.freep.com/amp/5979046002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5979046002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coming soon to gas station TV screens in battleground states: Ads for Joe Biden"
-    excerpt: "Flush with a recent surge of cash, the Democratic National Committee is launching a wave of unconventional ads encouraging people to vote."
-    publishedDateTime: 2020-10-14T09:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246431365.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246431365.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246431365.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 71
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/9c976b97-2305-4a0f-b21c-31d6d1115dc7/48a910bf-c782-4ffc-ba75-d0603b5c4817/1280x720/match/image.jpg"
-        width: 1080
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07190842_1602257232.jpg"
+        width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
+    excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
+    publishedDateTime: 2020-10-13T22:24:00Z
+    webUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/"
+    ampWebUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
+  - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
+    excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
+    publishedDateTime: 2020-10-06T22:21:00Z
+    webUrl: "https://www.c-span.org/video/?c4912952/joe-biden-appeals-national-unity-return-bipartisanship"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4912952"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4912952"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "Endorsement: Pennsylvania needs Joe Biden"
+    excerpt: "From COVID-19 to the environment to racial justice, Donald Trump has failed. Joe Biden and Kamala Harris can set us on a new course. The stakes for Pennsylvanians could not be higher."
+    publishedDateTime: 2020-10-11T09:16:00Z
+    webUrl: "https://www.inquirer.com/opinion/editorials/a/philadelphia-inquirer-2020-endorsements-biden-trump-20201011.html"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 55
+    images:
+      - url: "https://www.inquirer.com/resizer/xv0aCzajDcue01kI6g9qRH2zP5Q=/1200x0/center/middle/www.inquirer.com/resizer/58G0AwdvoBWhoRhhb87lE6fkog8=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/4ZLGKDUXCZE6BHWZOQFEF4FPEY.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Joe Biden Delivers Remarks in Toledo on the Economy"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy. 2020 Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy."
+    publishedDateTime: 2020-10-12T17:26:00Z
+    webUrl: "https://www.c-span.org/video/?476873-1/joe-biden-delivers-remarks-toledo-economy&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "6ou6ubcexffjW+X57TSMaKuCe5CARj1TQTPGxTek9aZ3dewwh7F0BOy7Bmsn1URuZ1Ytq1tVTMYB155XDd3irWVMQyIh6ByDAHX0YovIwqwiQO100dRkYFYZCS8dazwW4vCKJakyChZTSPzXA3SOO+eloCRlfFiUoh1nwXmMc1NCbSGWZK6E0zqANqStV30JE9bJO2Zo+HfsgTvDXFq7gmopcnXLvJezM8cgW4ciJnWs08s43u35vMjiZ6lm5KsMaENYqV0x8SB+ZJeLxoDJgEha+KsK1PKS+za2p/e7lTmP/oCwygAaGGb/j9xK24Qh2F9KUMlDowuJ9apF1mGKzXWifWXfkFUtnwRgwW67AR4lGF5DDSNK1I17Nk+PKpjKlUHmpbnmB8/utSSasGkbtvtZDSUJR836vhK8fbHrmKPFQG49eCGBU/zcGlVFxqgUuYbbhuoqcsurC4oGl9HlaXzostBlQzzCg8Nig1BQQ+xpJIQTeQlbbi2GREwvN4j78Lu003+Oh1hKP/rFcZEV5g==;80Hgl5q61wV6R7a3ezl2UQ=="
 ---

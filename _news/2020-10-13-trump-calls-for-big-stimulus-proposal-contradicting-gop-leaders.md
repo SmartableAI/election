@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/business/on-small-business/trump-ca
 webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: Washington Post
@@ -29,115 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "The Note: Trump campaigns in a bubble amid signs of GOP worry about race"
-    excerpt: "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all."
-    publishedDateTime: 2020-10-09T10:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
+  - title: "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less"
+    excerpt: "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here."
+    publishedDateTime: 2020-10-08T09:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
-    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-13T08:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
-    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-13T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump's first public address since COVID-19 diagnosis had hallmarks of a campaign event at the White House"
-    excerpt: "White House spokesman Judd Deere said the event was an \"official\" event, and \"the campaign is not involved in this.\""
-    publishedDateTime: 2020-10-10T21:23:00Z
-    webUrl: "https://www.cbsnews.com/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/8edbe822-2635-4cdf-83fd-290898f33e7e/thumbnail/1200x630/ceb27539b1ede26b1d98e19256853537/gettyimages-1228998575.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Doctors: Trump 'not entirely be out of the woods'"
-    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
-    publishedDateTime: 2020-10-05T20:59:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "2 arrested for stealing Trump-Pence campaign signs in Tucson"
-    excerpt: "Authorities in Tucson have arrested two people for allegedly stealing signs supporting President Donald Trump’s campaign. The Pima County Sheriff’s Department said the arrests were made Sunday night after someone called into 911 to report the taking of a Trump-Pence sign."
-    publishedDateTime: 2020-10-14T11:43:00Z
-    webUrl: "https://www.12news.com/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    ampWebUrl: "https://www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    type: article
-    provider:
-      name: KPNX
-      domain: 12news.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 100
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/601274649/601274649_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Donald Trump Did Not Win This Year's Nobel Peace Prize"
-    excerpt: "President Donald Trump didn't win this year's Nobel Peace Prize after scoring another nomination from his supporters. On Friday, the Norwegian Nobel Committee announced that the prize has been awarded to the U."
-    publishedDateTime: 2020-10-11T03:42:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+      - url: "https://i.insider.com/5f63d42757b7da001ee125e3?width=1200&format=jpeg"
         width: 1024
-        height: 682
+        height: 512
         isCached: true
   - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
     excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
@@ -155,17 +61,22 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Judge Throws Out Trump Campaign's Pennsylvania Lawsuit"
-    excerpt: "A federal judge in Pennsylvania is throwing threw out a lawsuit filed by President Donald Trump’s campaign, dismissing its challenges to the battleground state’s poll-watching law and its efforts to limit how mail-in ballots can be collected and which of them can be counted."
-    publishedDateTime: 2020-10-10T17:29:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania"
-    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
+    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 56
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
+        width: 787
+        height: 430
+        isCached: true
 
 secured: "2ceA4akh74Rg0lk76NL+8UX2RTEut2JvroyHimJTG/eNwXgyFvxvhupfhKqFrhNO6BRKTl4ZIn5o/gUtjxPGneZwe5U1j445TLyM5774KcNPBcl8Tis0E8SiKStzLFZ3vZVwtxk0lMzS0Pw9WMrlN4qnSvkRU2OUD0opHBkIJvLnA3UecuL1eFBxqeRZj9EEvm5buEqC15kQaK56nGh/nWn1I76gOFJxX+VZrytye+XtAVkihV4NNDqSll/q6XRWVsXGz4urdgDypLM6wJuq9raxx4oeE5cK/vTSQrpjlVzr6m26XNb0b3xefNGkgvwzLYuj5DMfM43+DJjz3H2kl1+CBTPfnbOoWPf7WQvOTy4TcrIzRxA1zj7DYM6zMHvSfWhvYvYvbOGiM82u15jfoqXtMo7ft32gvIotegT0V8cSP0wzCaYrbVUN1EvzgpN/Hc0Ijtso1/og7G9t20P90Egt8K+J/Fm1OS2+1C0xf5azdXjSxiu7JJE2UK/b+WfZMRBbKWI0m/toQMnY3wd/DQ==;lAnig38zVq693L/90UryrQ=="
 ---

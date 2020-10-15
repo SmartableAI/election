@@ -63,19 +63,37 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "New poll shows Joe Biden ahead in Michigan"
-    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-12T18:55:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+  - title: "Joe Biden Opens Up Lead in Florida, Has Increased Chance of Winning With Bookmakers"
+    excerpt: "\"It seems that the books believe Biden is hitting stride at just the right time,\" said betting comparison website Oddschecker."
+    publishedDateTime: 2020-10-14T15:46:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d.newsweek.com/en/full/1651724/biden-campaign-florida.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
+    excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
+    publishedDateTime: 2020-10-14T21:00:00Z
+    webUrl: "https://patch.com/minnesota/southwestminneapolis/kamala-harris-remarks-george-floyd-s-47th-birthday"
+    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
   - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
     excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
@@ -93,17 +111,6 @@ related:
         width: 1024
         height: 662
         isCached: true
-  - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
-    excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
-    publishedDateTime: 2020-10-10T20:25:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
 
 secured: "2Dqxvwubirg5SrmYwmCMD/S0KdBy84rShfnjDbDlBpf8LARgCSJM0XQ5wehA6dS0iBO38dTifyhn6FxVhMzP1AGF9szNTA+cgGRt5pPeeu/BdY3C6eJFeHvEKGSqv9fDsRaKa30GYAUum+Li7OeD7+N7B6DW03vy+HL0GRwIvmjiZZdoDL3xJ0kSexmQ2rI8WZJyYXLu5uaQwOnyssX1uFC82v0XvvCudxS/14UcUIOZ7gdssbyck1lF9jTuqYFduCeG9aMXkp4N5KKBOQRWaRNYV6yCfwB0xR+NGj3o6AEfwvo6aJAFgA828b5UgTreEwQe99JqndiiaoRkkK594J5YN3j1bJvLlK1l2yBje2Y=;Rl8yaYQ4HHS4LbLFtgSgrw=="
 ---

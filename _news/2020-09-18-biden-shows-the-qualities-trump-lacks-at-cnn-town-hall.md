@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1750
+heat: 1770
 published: true
 
 provider:
@@ -1230,6 +1230,15 @@ related:
     excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
     publishedDateTime: 2020-10-05T20:01:00Z
     webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
+    excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
+    publishedDateTime: 2020-10-14T22:25:00Z
+    webUrl: "https://www.thedailybeast.com/nbc-staffers-seethe-as-trump-gleefully-uses-the-network-against-biden"
     type: article
     provider:
       name: The Daily Beast

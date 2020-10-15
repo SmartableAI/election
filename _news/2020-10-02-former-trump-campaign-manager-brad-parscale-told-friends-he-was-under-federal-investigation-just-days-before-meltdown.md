@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Former Trump Campaign Manager Brad Parscale Taken To Hospital After Threatening To Harm Himself"
-    excerpt: "Fort Lauderdale Police confirmed that they detained a man later identified as Parscale on Sunday, after his wife called 911."
-    publishedDateTime: 2020-09-28T09:08:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/09/28/report-former-trump-campaign-manager-brad-parscale-taken-to-hospital-after-threatening-to-harm-himself/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 109
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f71a691c6f01c499a6126d4%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D152%26cropY2%3D1839"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Former Trump 2020 campaign manager Brad Parscale hospitalized after threatening to harm himself, police say"
-    excerpt: "Brad Parscale, who served as President Trump's 2020 campaign manager until July, was taken to a mental health facility Sunday night after barricading himself in his home with weapons and threatening to harm himself,"
-    publishedDateTime: 2020-09-28T02:43:00Z
-    webUrl: "https://www.cbsnews.com/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/16/46ed62a6-d21e-4da4-9294-4e4cb6a1fd03/thumbnail/1200x630/61375f5315b9085385468e3dada55714/gettyimages-1168366652.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself"
     excerpt: "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called."
     publishedDateTime: 2020-09-28T02:24:00Z
@@ -76,6 +44,33 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Police: Friend convinced Trump ex-campaign boss to surrender"
+    excerpt: "A standoff between South Florida police and President Donald Trump’s former campaign manager Brad Parscale ended after an officer who was friends with Parscale convinced him to surrender, officials said."
+    publishedDateTime: 2020-09-29T07:57:00Z
+    webUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/police-friend-convinced-trump-ex-campaign-boss-to-surrender-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border"
+    excerpt: "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said."
+    publishedDateTime: 2020-09-21T00:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840290002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "Body-camera footage shows Trump's former campaign manager Brad Parscale being tackled by police outside his Florida home"
     excerpt: "Candice Parscale called 911 on Sunday, saying her husband had loaded a firearm and threatened to hurt himself, according to a police report."
@@ -93,21 +88,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Ignores Reporter Questions on Being a ‘Super Spreader’ as He Leaves Walter Reed Hospital"
-    excerpt: "Trump doesn't answer when reporter asks if he is a 'potential super spreader' during discharge walk out of Walter Reed Medical Center"
-    publishedDateTime: 2020-10-05T23:50:00Z
-    webUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-ignores-reporter-questions-on-being-a-super-spreader-as-he-leaves-walter-reed-hospital/amp/"
+  - title: "Staten Island Ridiculed On Twitter For Pro-Trump ‘Super Spreader’ Rally"
+    excerpt: "Staten Island was mocked on Twitter for a rally to support President Trump, after he was hospitalized with COVID-19."
+    publishedDateTime: 2020-10-03T22:11:00Z
+    webUrl: "https://ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238"
+    ampWebUrl: "https://www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 63
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump_ignores_reporter_questions_on_being_a__super_spreader__as_he_leaves_walter_reed_hospital.jpg"
-        width: 799
-        height: 444
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-fires-up-his-supporters-at-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "ebsFCGQdJz69y4ZwYTZZCHWjpt2ydznrsFRU56fu11OoWaWpkWWm+2V0CGAKN1G2W4YTuXAFufqvLoYY6de2bZfLMFmM90q25hS7K1tun91MABeQgoDaELgz7r0Y64db4XfYyISsCNOyQLjBM6Y80EKWxj6rVoJmxbofngX0gctBh9tpOYxUOPN6WKv6JfRHafSjdQSMDHbc/8OS6hyO405ZYJh8Z84FLQHsyy1b9rmk1IW2ZaS/FwK3auAm2RnE/IHFA/s5KSk63X0Mz5L0lnuH5Rb+MUOdvsa4PIqVTh80JF9/xj0TUPJE5KlWx72s1oRb8pF6tfhUCtGgZ11fazWfg9tw5oY3jKfUj1uzTq+FkZiukMErhGjPiYshc1C6gqEEQA9FZ/XYIISimw3zTSP2iuVJhxs3nrjRiV/q5wnDrFQYHSO7knejjF/v8Thrxt+aMr+tYbzaR/8BQOOlTgQ/R/o06ItZKNreZxUsZ8Oo7iXsMyh4BBlkum6bR65aHVvV5r+nplDEEPaFh0FkuA==;dXRooFIDv3Lh+Oy2QDxJUw=="

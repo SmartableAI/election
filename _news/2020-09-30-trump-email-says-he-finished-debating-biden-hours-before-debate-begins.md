@@ -576,6 +576,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump hits Biden over unverified report on his son Hunter"
+    excerpt: "Trump, at a rally in Des Moines and in an interview with Newsmax, seized on an unverified report in the New York Post about Hunter Biden."
+    publishedDateTime: 2020-10-15T02:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-hits-biden-over-unverified-report-his-son-hunter-n1243491"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243491"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243491"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420307/201014-iowa-donald-trump-maga-rally-ac-1016p_0b68f878a47d50536363cc5541f72026.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z

@@ -2,6 +2,342 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-15-mcenany-claims-twitter-holding-her-at-gunpoint-until-she-deletes-new-york-posts-hunter-biden-report.md",
+      "title": "McEnany claims Twitter holding her 'at gunpoint' until she deletes New York Post's Hunter Biden report",
+      "excerpt": "White House Press Secretary Kayleigh McEnany told \"Hannity\" Wednesday that Twitter's administrators \"essentially have me at gunpoint\" and won't allow her to access to her personal account until she deletes a link to the explosive New York Post report on Hunter Biden that she shared with her one million",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l9SKIPPnsak/mcenany-twitter-account-locked-hunter-biden-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l9SKIPPnsak/mcenany-twitter-account-locked-hunter-biden-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25330c19-40d5-4a69-8e2b-d759d3ca11ce/1e1cc6ba-b7cc-419a-8884-795d9644687b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-twitter-account-locked-hunter-biden-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-twitter-account-locked-hunter-biden-report.amp",
+      "publishedDateTime": "2020-10-14T20:40:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.md",
+      "title": "Biden once again shatters fundraising record with eyepopping $383 million haul last month",
+      "excerpt": "Joe Biden shattered the monthly record for fundraising during a presidential campaign when he hauled in a massive $364.5 million in August.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
+      "publishedDateTime": "2020-10-14T19:43:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-trump-directs-california-gop-to-fight-hard-in-court-over-ballot-boxes-despite-prosecution-threat.md",
+      "title": "Trump directs California GOP to 'fight hard' in court over ballot boxes despite prosecution threat",
+      "excerpt": "President Trump on Tuesday directed Republicans to “fight hard” in court after California’s top election and law enforcement officials, both Democrats, ordered the state GOP to remove unofficial ballot boxes from various locations in three counties by later this week or face prosecution.  ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q9Pjxn8pf8/trump-california-gop-ballot-boxes-fight-hard",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q9Pjxn8pf8/trump-california-gop-ballot-boxes-fight-hard",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp",
+      "publishedDateTime": "2020-10-14T18:54:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-hunter-biden-email-story-computer-repair-store-owner-describes-handing-over-laptop-to-fbi.md",
+      "title": "Hunter Biden email story: Computer repair store owner describes handing over laptop to FBI",
+      "excerpt": "The man, John Paul Mac Isaac, said he has a condition that affects his vision and “can’t be 100 percent sure” it was Hunter Biden who dropped off the computer for repair.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7WfoHO2NuM/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7WfoHO2NuM/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp",
+      "publishedDateTime": "2020-10-14T18:46:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-sen-john-kennedy-new-hunter-biden-report-as-serious-as-four-heart-attacks-and-a-stroke.md",
+      "title": "Sen. John Kennedy: New Hunter Biden report as serious as 'four heart attacks and a stroke'",
+      "excerpt": "A New York Post report involving newly unearthed emails between Hunter Biden and an executive at Ukrainian energy company Burisma is as serious \"as four heart attacks and a stroke,\"  Senate Judiciary Committee member John Kennedy, R-La., told \"Special Report\" Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y1by3rakFxk/sen-kennedy-hunter-biden-email-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y1by3rakFxk/sen-kennedy-hunter-biden-email-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f147042-3332-4900-ae05-407d98afa463/3e051905-effc-4c18-b6f3-4b7e5a68c214/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-kennedy-hunter-biden-email-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kennedy-hunter-biden-email-report.amp",
+      "publishedDateTime": "2020-10-14T16:24:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-administration-secures-release-of-two-american-hostages-from-yemen.md",
+      "title": "Trump administration secures release of two American hostages from Yemen",
+      "excerpt": "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S48r0oidbz4/trump-release-american-hostages-yemen",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S48r0oidbz4/trump-release-american-hostages-yemen",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp",
+      "publishedDateTime": "2020-10-14T16:16:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-determined-to-avoid-hillary-clintons-fatal-campaign-blunder.md",
       "title": "Trump determined to avoid Hillary Clinton's fatal campaign blunder",
       "excerpt": "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there.",
@@ -70,7 +406,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 187,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -295,7 +631,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 267,
+      "heat": 287,
       "tags": null,
       "images": [
         {
@@ -351,7 +687,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 539,
+      "heat": 579,
       "tags": null,
       "images": [
         {
@@ -632,7 +968,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 297,
+      "heat": 337,
       "tags": null,
       "images": [
         {
@@ -688,7 +1024,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 270,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -874,62 +1210,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp",
       "publishedDateTime": "2020-10-13T09:28:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-california-republicans-refuse-to-remove-ballot-boxes-slam-states-35-million-team-biden-contract.md",
-      "title": "California Republicans refuse to remove ballot boxes, slam state's $35 million 'Team Biden' contract",
-      "excerpt": "The California Republican Party responded Monday to criticism over unofficial ballot drop-off boxes in counties with highly competitive U.S. House races, arguing that state law allows “ballot harvesting,” and also slamming a $35 million contract the state’s top election official awarded to a “Team Biden”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp",
-      "publishedDateTime": "2020-10-13T06:28:49-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1371,286 +1651,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-claims-nov-3-will-be-the-most-exciting-day-in-us-election-history.md",
-      "title": "Trump claims Nov. 3 'will be the most exciting day in US election history'",
-      "excerpt": "President Trump on Monday said this Election Day will be “the most exciting” in U.S. history, touting the “tremendous excitement and enthusiasm” among the electorate, while mocking his Democratic rival Joe Biden, saying “nobody” shows up to his events.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G22ntFKhKm8/trump-nov-3-most-exciting-day-in-us-election-history",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G22ntFKhKm8/trump-nov-3-most-exciting-day-in-us-election-history",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284697508156-e1602516298978.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T08:43:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-has-been-a-champion-for-the-black-community-paris-dennard.md",
-      "title": "Trump 'has been a champion' for the Black community: Paris Dennard",
-      "excerpt": "“There’s no doubt” that President Trump “will go down as the greatest champion for the Black community since Abraham Lincoln,” Black Voices for Trump Advisory Board member Paris Dennard told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/paris.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:30:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-rails-against-portlands-biden-fools-antifa-radicals-after-lincoln-roosevelt-statues-toppled.md",
-      "title": "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled",
-      "excerpt": "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-1229022717.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:12:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-biden-considering-controversial-ny-governor-cuomo-as-ag-report.md",
-      "title": "Biden considering controversial NY Governor Cuomo as AG: report",
-      "excerpt": "New York Gov. Andrew Cuomo is being mulled as an attorney general within a potential Joe Biden administration, according to a Sunday report. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pS5nsrwtjRA/biden-considering-ny-governor-cuomo-attorney-general",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pS5nsrwtjRA/biden-considering-ny-governor-cuomo-attorney-general",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276771469052.jpg",
-          "width": 1024,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-11T16:02:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.md",
-      "title": "Trump calls C-SPAN's Scully 'a fraud,' mocks claims that Twitter account was hacked",
-      "excerpt": "President Trump on Sunday lambasted C-SPAN political editor Steve Scully over claims that his Twitter account was hacked.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_rQvDmxUgiQ/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d52599-b966-4bf1-85d7-cb77a41ad33b/15422c29-d504-46cc-b568-fd89117f76a0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-calls-c-spans-scully-a-fraud-mocks-claims-that-twitter-account-was-hacked.amp",
-      "publishedDateTime": "2020-10-11T12:54:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

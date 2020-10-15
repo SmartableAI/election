@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypos
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/05-igsharing-friction-07.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
+    publishedDateTime: 2020-10-15T02:16:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
+    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2KhBm1HUxiZwlxV1XyWwm2QVAitgnEP/uFi8IYKw5RYIE2vl47TU8cbA8H9385OYzxTbth3tePEbkAsPXeI2Bb6jGQLhT10A9wgPf8C+dX1t9nCTKFkDkKUmk7yISu8tmlEeJUId2RairfLkWfsm2oNpFTL6oXxuqDsjc64S1mWtHjRcAxzPXhK7QzLNYOepu3h0S6ay/YOvZcLdN0kUsm97k4+0QaSVfo/MRstUSkSGUyC3j7lOOdiJbfATJCDZkKY02rbfXci1ltgLCCC3wZTecaLaLolONQzgf50P6X1pRJi07gYYcVR89trrNFmG7sfmTiqn1YE/xKYy5nEbzds6SN/WNrqnCh7HaE5Ahfk=;saWkd6+TWx+VKke9ppFvmQ=="

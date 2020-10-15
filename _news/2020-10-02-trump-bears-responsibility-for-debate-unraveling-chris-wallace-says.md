@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-res
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/amp/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chris Christie says no one was wearing masks during debate prep with Trump"
+    excerpt: "Christie made his statements after President Donald Trump announced he had tested positive for COVID-19."
+    publishedDateTime: 2020-10-02T13:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f7724600ab50d00184adbfc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Chris Wallace says he wants to be ‘invisible’ as debate moderator. Will Trump let him?"
     excerpt: "The two have a history. But Democrats don’t expect the famously independent Fox anchor to go easy on Biden either."
     publishedDateTime: 2020-09-29T12:44:00Z

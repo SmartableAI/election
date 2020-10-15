@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Chris Christie says no one was wearing masks during debate prep with Trump"
+    excerpt: "Christie made his statements after President Donald Trump announced he had tested positive for COVID-19."
+    publishedDateTime: 2020-10-02T13:48:00Z
+    webUrl: "https://www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-debate-prep-no-masks-worn-chris-christie-says-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f7724600ab50d00184adbfc?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "zm1bjIyJGC4M2/6vaHtrGQlsxhYqnKQYqBVo2e9uYHSO2/9+FiFLx+rxw3JLmxf6R5LIJRAB+eDswWGwmBxBPISaxJa+BALfuf+CfdNoXWyPN9VlT+evlWTK+umP0QreTx2JO+EMVESAMKrK2UhrRn2LBwBvIBOY99KV9jHOP6sMdvwQE29egb3sn8/bUKP6dpJKFUYtwv3H6UYfz0aLD5PiQC5bAbtw/gKC0i+zk8uiaeOd/ofgxcjo44CtCgfAttRG6HARo6qQE4Z4xlVEdcys9XtLdkRixolG/ATMcXko+aqtKu4mkgQBq6/Uczr8S+T2QVDCQduoJai+g1Kt5bu+rGB0eRt+qlzxrsZGWk7HlBIyEG7o5fppNopdduQo3j38MDqRpKh1mRV9sjW7ag8Tf/UNXf78EdZHQGYogLnbILU5H4Z08oikFdsh7m/+dqZvSzWH3PCh9GdndFoBS6fLM0bcCLOCJF5XdjlzbomSSmkedxOkpe+5v3npFsL94Fod3h7ZRjn92dro5VXqOA==;NTzfmrvAPixevifFYvNgKQ=="
 ---

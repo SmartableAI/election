@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
+    excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
+    publishedDateTime: 2020-10-14T15:12:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
 
 secured: "YGx4P0z1bXvjI9+DypxikNepvWxiXlwJTOa5N0XzdMOcBHim2ZvhUkvuG30iqU9KV/NPaRuZztZbcyLeYwqcWkXL+oKhxfWppMp7Fw1YyWIRfMalu8vSpgNacK/cj/B8vJJEj/4EFQcGGxBP3d+PgjQX7hdCAKNoY+KGkuOygjUinjAd52+BvhSJwIQmgLBpI2iCfR/Bm1NaHIxHYrrXTbg54ChG1ijE0N6U+e4E/zediz3DV+isAo6IgqLEkk+RDaoMYxQExWulvJbQXQHrakEPmwkb9BsjdMywCtpBgkkxTloqiewxmDWaz5BbkSZS55jBO8eeC+xmrnbNaF9oNtBXWz7bSnB4IowPx/O7euE=;z+zXx4aGKxmPOf4/I7jRag=="
 ---

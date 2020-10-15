@@ -2,63 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-10-02-mike-pence-and-his-wife-tested-negative-friday-morning.md",
-      "title": "Mike Pence and his wife tested negative Friday morning.",
-      "excerpt": "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/02/multimedia/02elections-briefing-pence/02elections-briefing-pence-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
-      "publishedDateTime": "2020-10-02T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-boris-johnson-wishes-trump-speedy-recovery-from-covid-19.md",
       "title": "Boris Johnson wishes Trump 'speedy recovery' from COVID-19",
       "excerpt": "UK Prime Minister Boris Johnson wished President Trump a \"speedy recovery\" Friday, hours after he and First Lady Melania Trump tested positive for COVID-19. ",
@@ -180,7 +123,7 @@
       "originalUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -497,58 +440,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins.md",
-      "title": "Democratic Armed Services chairman predicts defense budget fight if Biden wins",
-      "excerpt": "The chairman of the House Armed Services Committee is predicting a fight among Democrats over the defense budget should the party’s presidential nominee, Joe Biden, win.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins",
-      "originalUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/smithadam_070920gn2_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/519250-democratic-armed-services-chairman-predicts-defense-budget-fight-if-biden-wins?amp",
-      "publishedDateTime": "2020-10-01T16:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-trump-slams-navy-seal-orders-to-use-gender-neutral-language-calls-it-ridiculous.md",
       "title": "Trump slams Navy SEAL orders to use gender-neutral language, calls it 'ridiculous'",
       "excerpt": "The change would have altered the Navy SEAL creed from \"a common man\" to \"common citizens.\"",
@@ -714,6 +605,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-borat-sequel-trailer-sacha-baron-cohen-returns-to-terrorize-yankeeland-mike-pence.md",
+      "title": "‘Borat’ Sequel Trailer: Sacha Baron Cohen Returns to Terrorize ‘Yankeeland,’ Mike Pence",
+      "excerpt": "“The Democrats,” they reply. The preview also features a scene where Borat — in a Trump costume — attempts to deliver his daughter to a confused Mike Pence mid-speech. Along with the trailer, Amazon Prime — which recently acquired the comedy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/",
+      "originalUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2020/10/borat-sequel-amazon.jpg",
+          "width": 1800,
+          "height": 1013,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/",
+      "publishedDateTime": "2020-10-01T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-bears-responsibility-for-debate-unraveling-chris-wallace-says.md",
       "title": "Trump ‘Bears Responsibility’ For Debate Unraveling, Chris Wallace Says",
       "excerpt": "Wallace cited a Fox News’ analysis that found President Trump interrupted Joe Biden’s answers or Wallace’s questions 145 times during the debate on Tuesday.",
@@ -722,7 +656,7 @@
       "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/01/trump-bears-responsibility-for-debate-unraveling-chris-wallace-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1046,49 +980,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-borat-2-trailer-sacha-baron-cohen-dresses-as-trump-to-prank-mike-pence.md",
-      "title": "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence",
-      "excerpt": "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again.",
-      "sourceUrl": null,
-      "webUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "originalUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.toofab.com/image/5a/16by9/2020/10/01/5aaded4cdb5145c0ada0b1c570b0b3b1_xl.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "publishedDateTime": "2020-10-01T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TooFab",
-        "domain": "toofab.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
       "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
       "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
@@ -1313,7 +1204,7 @@
       "originalUrl": "https://www.businessinsider.com/nato-trump-tax-debt-blackmail-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1354,6 +1245,115 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-watch-live-vice-president-pence-speaks-at-iowa-rallies.md",
+      "title": "WATCH LIVE: Vice President Pence speaks at Iowa rallies",
+      "excerpt": "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 625,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg",
+          "width": 1024,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "publishedDateTime": "2020-10-01T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PBS",
+        "domain": "pbs.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
+      "title": "Former commander of US forces in Afghanistan endorses Biden",
+      "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2018_52/2699456/1812230-_stanley-mcchrystal-se-1239p_976e1254705613d2cb950f20ea8c4696.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-01T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

@@ -76,38 +76,6 @@ related:
         width: 1440
         height: 941
         isCached: true
-  - title: "Trump is counting on the Supreme Court to help him steal the election"
-    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
-    publishedDateTime: 2020-09-23T17:54:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump Already Has Plans To Undermine Election Results"
-    excerpt: "Donald Trump has stated that he will not commit to a peaceful transfer of power in the White House. On its own, that’s a threat to the U.S. — but add to that utter silence from Republicans about this unacceptable behavior."
-    publishedDateTime: 2020-09-25T01:05:00Z
-    webUrl: "https://www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/"
-    ampWebUrl: "https://www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6d3ee7c8e0bb8fd9849743%2F0x0.jpg"
-        width: 1200
-        height: 876
-        isCached: true
   - title: "White House Says Trump Will Only Accept 'Free And Fair' Election"
     excerpt: "The statement comes as Trump has continued to decry mail-in ballots, which he has said will lead to a ‘rigged’ election."
     publishedDateTime: 2020-09-24T19:02:00Z
@@ -139,22 +107,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/pompeo-wisc-ap-rc-200923_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Intercepted GOP robocalls expose how Trump hopes to corrupt the election"
-    excerpt: "If Trump keeps saying that vote-by-mail is fraudulent, even as his operatives urge supporters to use it by relying on this fake distinction wi"
-    publishedDateTime: 2020-09-25T14:28:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 139
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/437RIOX67UI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Top U.S. Republicans pledge peaceful transition as Trump sows election doubts"
     excerpt: "U.S. Senate Majority Leader Mitch McConnell and other top Republicans on Thursday repudiated President Donald Trump's refusal to commit to a peaceful transfer of power, assuring American voters the lawmakers would accept the outcome of November's election."
@@ -445,22 +397,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e0e1fe33-5801-44bc-86f8-44366425eb8b_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
-    excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
-    publishedDateTime: 2020-09-22T03:44:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Trump Shifts on Puerto Rico, Releases Aid as Election Nears"
     excerpt: "President Donald Trump has announced the release of $13 billion in assistance to repair the damage in Puerto Rico from Hurricane Maria three years ago, and has pledged to restore its economy."

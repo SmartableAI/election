@@ -41,22 +41,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Asian shares rise on optimism about Trump's recovery"
-    excerpt: "Shares have started the week with gains as investors were encouraged by positive reports about President Donald Trump’s health after he tested positive for the coronavirus"
-    publishedDateTime: 2020-10-05T04:29:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_1bab98e3e97245cf91895708f72aab50_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Dan Rather criticizes Trump over Walter Reed 'photo ops'"
     excerpt: "Veteran news anchor Dan Rather on Sunday issued a pair of tweets criticizing President Trump for his brief appearance in an SUV outside Walter Reed Medical Center as just the latest in a series of what Rather referred to as “photo ops."
     publishedDateTime: 2020-10-05T15:56:00Z
@@ -87,6 +71,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536150501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400V"
         width: 885
+        height: 545
+        isCached: true
+  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
+    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
+    publishedDateTime: 2020-10-02T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
+        width: 877
         height: 545
         isCached: true
   - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
@@ -137,17 +137,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
-    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
-    publishedDateTime: 2020-09-29T05:56:00Z
-    webUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
   - title: "Mueller issues a rare public statement disputing his former right-hand man's claim that he didn't pursue Trump hard enough"
     excerpt: "\"When important decisions had to be made, I made them,\" former special counsel Robert Mueller said about his investigation."
     publishedDateTime: 2020-09-29T19:13:00Z
@@ -164,17 +153,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
-    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
-    publishedDateTime: 2020-09-28T21:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 97
   - title: "Rose Garden announcement of Supreme Court nominee potential 'super spreader' event, with Trump plus seven others getting COVID"
     excerpt: "Trump and Hicks may have exposed scores of other people to COVID-19, including his top advisers, his campaign donors and his Democratic rival Joe Biden."
     publishedDateTime: 2020-10-03T02:59:00Z
@@ -191,20 +169,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
-    excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
-    publishedDateTime: 2020-10-03T17:31:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/marine-one-helicopter-departs-white-house-trump-heads-walter-reed-medical-center/3608338001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/5124ab15-79cd-4d4c-bf59-b5a33c547c73-9ecb0a46-2323-4cec-9c65-7f78604a1968_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
   - title: "Why Donald Trump's Former Housekeeper—and Millions of Other American Workers—Paid More in Federal Taxes Than Her Boss"
     excerpt: "Sandra Diaz, Donald Trump's former housekeeper, is not alone in paying more federal income taxes than Trump before his presidency."
     publishedDateTime: 2020-09-30T21:04:00Z
@@ -219,49 +183,22 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Man arrested for punching another person in apparent argument over Trump: police"
-    excerpt: "Police said the incident occurred Saturday outside a Buc-ees convenience store and gas station in Denton, Texas."
-    publishedDateTime: 2020-10-04T16:59:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
+  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
+    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
+    publishedDateTime: 2020-10-05T22:54:00Z
+    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
+    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 70
+      name: Mediaite
+      domain: mediaite.com
+    quality: 66
     images:
-      - url: "https://www.nydailynews.com/resizer/s5uzKQOxZlQ4CUG5P2Ogxpu-IyM=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QX7BX6UVRGLBGOLUK7OZI6SEA.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
         width: 1200
-        height: 774
+        height: 675
         isCached: true
-  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
-    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
-    publishedDateTime: 2020-10-05T20:46:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 65
-    images:
-      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
-        width: 2000
-        height: 1281
-        isCached: true
-  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
-    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
-    publishedDateTime: 2020-09-29T06:26:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 51
 
 secured: "VbVh7+Jlwraw8+hEC1r8PE9D86C9Dtv5TyLGioKX62XYbi8goHSWSWrN4f1YqUgz1fVejElAA68iGRc+C7DbpHZVsEL5nrAp5iQRdyvowkq6VtEEkgpMSRUgOEl0qvwlqjjUIcjJ138/Wmkg6jwI0mEojkuSfi6SPiW4zKsEJyEvJt6+auR8G5nokNhg0y9hkNHGzlntgQy+r3gjO6Ap2FBU4dpVTMx4EwwYJlfvraQQfuSeZyDow0YXTrofUNaeD1aH4cMyJVt/0nVAOc48qJif+6fsI1o9EGNAXmjAasPqkvsdp94w2tRn3pZrJFlBgYkWpPWwL/aVS4Q6C45lDQclAD1H2n/S/TM43xGtrfWIxrtWqkL0PP0tSLWKaT/G63a8ut65fPRHHm/u/LHFzst2rbCoThXnu6YNinJ5QjZOxktlim/ubEXvqK9qDo8gvV8LyhGtCVl+hN3GOfNnyosZ8Sqo1H4kwsGJ3Mf68PJ+tHA4zEXS2BkoOVICRpOwtHNpbgvJiagcChkPCOzkJA==;1vfn+dM5Q3QAPIf0NW3NdA=="
 ---

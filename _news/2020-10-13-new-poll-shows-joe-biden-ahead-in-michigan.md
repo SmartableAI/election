@@ -29,81 +29,127 @@ images:
     isCached: true
 
 related:
-  - title: "George Floyd's sister calls for change in new Biden ad"
-    excerpt: "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+  - title: "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week"
+    excerpt: "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters."
+    publishedDateTime: 2020-10-14T23:48:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2020 Watch: Is it too late for Trump to turn things around?"
+    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
+    publishedDateTime: 2020-10-12T10:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
+    excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."
+    publishedDateTime: 2020-10-14T23:35:00Z
+    webUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers"
+    ampWebUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
-        width: 780
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
+        width: 980
         height: 551
         isCached: true
-  - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
-    excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
-    publishedDateTime: 2020-10-14T18:44:00Z
-    webUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
+  - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
+    excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
+    publishedDateTime: 2020-10-08T16:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2020/10/08/coronavirus-live-updates-new-england-medical-journal-editorial-trump/5921817002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5921817002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921817002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/e004a8a5-a3e3-485a-940b-bf63aab39775-NYC_Orthodox_jewish_coronavirus_protest_02.JPG?auto=webp&crop=5098,2868,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches"
+    excerpt: "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance."
+    publishedDateTime: 2020-10-10T19:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 120
+    quality: 106
     images:
-      - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
-    excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
-    publishedDateTime: 2020-10-14T14:17:00Z
-    webUrl: "https://www.cnbc.com/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
+  - title: "Western Michigan, a longtime GOP stronghold, is now a battleground: \"We see all that's developed in the Trump era\""
+    excerpt: "President Trump narrowly won the pivotal state in 2016. Western Michigan has long been a Republican stronghold, but Democrats have had success in recent elections, making the region a premier battleground."
+    publishedDateTime: 2020-10-12T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-biden-election-2020-michigan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 110
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106742672-1602619695489-Former_Vice_President_and_presidential_nominee_Joe_Biden.jpg?v=1602619788"
-        width: 2000
-        height: 1333
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/47c08c1c-39cb-46e7-88f4-80ae1669c548/thumbnail/1200x630/5b23c924c7d2c9513b8263d4dea9e0fc/1602510920768.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
-    excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
-    publishedDateTime: 2020-10-13T22:05:00Z
-    webUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/"
-    ampWebUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
+  - title: "Michigan's attorney general talks Trump, far-right violence, the role of Facebook, and the alleged plot to kidnap Gov. Whitmer"
+    excerpt: "Michigan Attorney General Dana Nessel spoke to Business Insider about members of a paramiltitary group accused of plotting to kidnap the governor."
+    publishedDateTime: 2020-10-09T07:16:00Z
+    webUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662"
-        width: 1024
-        height: 662
+      - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
-    excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
-    publishedDateTime: 2020-10-10T20:25:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
+  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
+    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-10-14T21:18:00Z
+    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "iw9KMCiKSevTLuxwzv8JJk7HsgkqMq4mOsVUYtCtOZS0153Q0zqVE6kBIHkcgGnIA+d4wk91smQKTjSfSD6OWh4tQINd6nyLmxRmK7U4iRN8Ug0gOi9/0eTvjPlwwDZCk3uLMA2jGZ6/NYli7NNq2zb5fYsHeNFrXQ0+XwV+ydhc7nisxGxRde2QXf4CcKm0dN+Cw3F9isN0VojbzCmCfswLj3YlBNCkGhVszqxqD0I0qyO+I/lHJkLXO4zJAcilnXlG7ykVyISWnUWfQPa94zKcCr4NkzEHS9udhxdQqXUfDKd16sngznqv79I6iu5PBezXAicqohXLayK66Ea3LoNkHgYwlc+PaIVvloDwNXY=;iUQ2kwPejggyfmJWE1HX/w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/challenge-coin-features-as-exp
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/challenge-coin-features-as-expence-adviser-olivia-troye-rebuts-keith-kelloggs-story-of-her-being-fired-and-marched-out-of-white-house-2020-09-23"
 type: article
 quality: 93
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/09/New-Day-With-Alisyn-Camerota-and-John-Berman-8_21_34-AM-8_28_14-AM-08_06_40-AM-1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ex-Pence Aide Fires Back After White House Attacked Her in Briefing: ‘Telling a Bald Faced Lie to Protect the President’"
+    excerpt: "Olivia Troye, who served as a former top advisor to Vice President Mike Pence's until she left last month, took to Twitter to fact check General Keith Kellogg after he said he fired her, calling"
+    publishedDateTime: 2020-09-22T20:50:00Z
+    webUrl: "https://www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/"
+    ampWebUrl: "https://www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/politics/ex-pence-aide-fires-back-after-white-house-attacked-her-in-briefing-telling-a-bald-faced-lie-to-protect-the-president/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 50
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-18-at-6.51.19-AM-1200x700.jpg"
+        width: 1200
+        height: 700
         isCached: true
 
 secured: "3GrB571TRLYAoNFX73COMTW0wwf5xs9ksqqgy1d6G7boO0L+eMcEPJW3mb3B/HbROYyZY6nqUeT/aYPmPlCU1qMUnS8Y5zEHfijbo6VpQhlYW2qn3MdsEH9sHvPA8tRduP0RZpUjwsQEn9ljt+mB9WdUEnDzzO90z9zoLfruR0Wl8TcCDDhupBp6myldrLcoqd3hxpbJdtybQCupTuSLI3fTUOeVtQMakHoEDGXSyUhW5c1YIHGzN35l2YISLL++LSgF7CWRlWtxv6ZPDORXOFQ4FucFwbOo42Asyb+emE6PFY22KeQxR4VsQpnqOUeWc0T4noQ4f0Zbw3mW2TvwJIda6KNqAUbYDyMdUUJa1ZU=;QjFmNsCJG795m366CUFxuw=="

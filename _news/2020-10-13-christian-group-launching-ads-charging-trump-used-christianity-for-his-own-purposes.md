@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bipartisan Christian group forms super PAC to oppose Trump"
-    excerpt: "A group of prominent Christians from both sides of the aisle, including a past faith adviser to former President Barack Obama, is forming a political action committee designed to chip away at Christia"
-    publishedDateTime: 2020-10-13T11:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_31b82ad74ee34ba98f415b10c89ac659_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC"
     excerpt: "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election."
     publishedDateTime: 2020-10-13T15:26:00Z
@@ -63,72 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach"
-    excerpt: "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday."
-    publishedDateTime: 2020-10-14T04:45:00Z
-    webUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump tests negative for COVID-19, White House physician says"
-    excerpt: "U.S. President Donald Trump’s personal physician Dr. Sean Conley confirmed late Monday that the president has tested negative for the novel coronavirus “on consecutive days.”"
-    publishedDateTime: 2020-10-13T02:36:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/donald-trump-tests-negative-covid-19/6MH5D5K2IBATFLQG7HO5QQGIIY/"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 55
-    images:
-      - url: "https://www.wsbtv.com/resizer/tOVgVIvOp1TkdA8ZzYfZxN8ornY=/1200x628/d1hfln2sfez66z.cloudfront.net/10-12-2020/t_34ff7305edb54255b37a3168b934545f_name_Trump_tests_negative_for_COVID_19_Poster.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "John Paulson and Donald Trump at Economic Club Luncheon"
-    excerpt: "American hedge fund manager John Paulson speaks with Republican Candidate for President Donald Trump at the Economic Club of New York Luncheon on September 15, 2016 at the Waldorf Astoria in New York City."
-    publishedDateTime: 2020-10-13T20:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3dea318fcc4751b3003889c6ef766bd9/John-Paulson-and-Donald-Trump-at-Economic-Club-Luncheon/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/3dea318fcc4751b3003889c6ef766bd9/TRUMP-ECONOMIC-CLUB.jpg"
-        width: 650
-        height: 429
-        isCached: true
-  - title: "Supreme Court TV? Trump Nominee Has Open Mind on Cameras"
-    excerpt: "Neither video nor still cameras are allowed in the Supreme Court chamber. But the court, in a break with precedent, allowed live audio of its oral arguments at the end of its most"
-    publishedDateTime: 2020-10-14T15:36:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Tries to Shore up Support From Big Business, Iowans"
-    excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa."
-    publishedDateTime: 2020-10-14T19:07:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Aj3bIpWrxxUvLzz6F3z0GnGDw/oWJeoUkIMGhQ0KaqmVRpkqQXlgGuFo4xa27QFVYB28zHNJd80ZA/J4R5doXFMrGeIPY7RVfYPhF3/Lq2vMpsTRRZEIlgUl2ldMcU8qOaoav6Us1LBsHOfhVNZRC5L7OILro+394DBAEa05ZEo/LggHqtjrV8ZHGteYIjeeedW3gzVZfRYfsa2qOkz0RmXIGxOTqmJG47xcoUKnrOqetSd3XVHRdFPcX1gMY8qqozXpmRDhapBzD1ceZrx6x7UjUmFSJjDj+vtcNJJtd53ZmfhKnNgftNVckejZpT78DGeFyYN9WEpFlBhdtkxyWCBZrslU/9XS+uBuCSY6+frkz3BTZn17YOl6nekHiXQLf63S0qZS9YIHIAVuuOI4CVjtXpXtMqrp9dJjC1lRvMYs/mZTvkAoK0cYfGWR/s/8Pxrxr20qrRn/3GbwYPEgX8hNG8Z93HAfCxb1JKMFEgkdgxGApaZZYH317F0SGTiGSn9J5fo9dxUiLauWzfSZ6g==;gRF7DKPy/yfD9S3UhB+P1g=="
 ---

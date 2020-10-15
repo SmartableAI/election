@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.courierpress.com/amp/5891503002"
 cdnAmpWebUrl: "https://amp-courierpress-com.cdn.ampproject.org/c/s/amp.courierpress.com/amp/5891503002"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Judge Amy Coney Barrett Meets with Vice President Pence and Majority Leader McConnell"
-    excerpt: "Senate Majority Leader Mitch McConnell (R-KY) met with Supreme Court nominee Judge Amy Coney Barrett on Capitol Hill. As part of the confirmation process, it is customary for the nominee to meet with senators individually."
-    publishedDateTime: 2020-09-29T14:50:00Z
-    webUrl: "https://www.c-span.org/event/?476354/supreme-court-nominee-amy-coney-barrett-meets-senators-capitol-hill"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 28
 
 secured: "E/p4Y5B9Y5swcby8a0zp0QBmDrA0CO2S1Ol2pl25qM3aztQ8rfFo0GFSytnVfukln72OUK0+eMdpSgdC57a45N981J21RmFcE7uEAQROxShSJOxpTOXQbXeASg0zCfcUKOtQzEzt6j4Pv9kwNc3LuZH0rhIcDkzsLXaEA5tuP7qxH/8cZos3ggtsvNn/6Tef5fLm5DGlJ3VbHAfvt2TzMpdobN1WtsSdjTs/fEFLUj2uP4uFBgenRM7AihF6QNztji5H0ZGPwvpySmKP1bW1iFni3xEOiCr1ql14KbwurWwvJ4bY2NfMMrlEcm8aQeXhzCgI37/ZekRpt/6V++PcPTEpcGGQBUhtZh01j2DI52c=;uye1jk2RkouCWZYZ1WEQ7A=="
 ---

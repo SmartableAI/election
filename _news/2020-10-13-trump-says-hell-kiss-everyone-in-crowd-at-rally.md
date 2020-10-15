@@ -29,117 +29,117 @@ images:
     isCached: true
 
 related:
-  - title: "As Trump holds rally, Fauci urges masks, avoiding mass gatherings"
-    excerpt: "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face"
-    publishedDateTime: 2020-10-13T06:00:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2K4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2K4"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 123
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537204245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C019"
-        width: 818
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
         height: 545
         isCached: true
-  - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
-    excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
-    publishedDateTime: 2020-10-14T12:39:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 122
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump, still facing health questions, holds first public event since COVID-19 diagnosis"
-    excerpt: "U.S. President Donald Trump will on Saturday hold his first public event since being diagnosed with COVID-19 more than a week ago, aiming to show he has beaten the virus and is ready to resume campaigning,"
-    publishedDateTime: 2020-10-10T17:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26V09I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26V09I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26V09I"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 117
+    quality: 123
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201010&t=2&i=1536938601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG99050"
-        width: 819
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
         height: 545
         isCached: true
-  - title: "Fauci: Trump ad taking him out of context 'really disappointing', should be taken down"
-    excerpt: "Asked by \"The Lead\" anchor Jake Tapper whether he believes the ad should be taken down, Fauci said, \"I think so.\""
-    publishedDateTime: 2020-10-12T22:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5972629002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002"
+  - title: "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns"
+    excerpt: "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,"
+    publishedDateTime: 2020-10-11T13:36:00Z
+    webUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138"
+    ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
+        width: 3000
+        height: 1933
+        isCached: true
+  - title: "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House"
+    excerpt: "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information."
+    publishedDateTime: 2020-10-10T08:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5941684002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/5f4edcd4-b446-4136-8cf7-987c080931fd-GTY_1228670944.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump returns to campaign trail after bout with covid-19, amid criticism he is still not taking pandemic seriously"
-    excerpt: "President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month, as part of an intense effort to demonstrate that his bout with covid-19 is behind him and that he is the more vigorous of the two septuagenarian candidates vying for the presidency."
-    publishedDateTime: 2020-10-13T02:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
+    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
+    publishedDateTime: 2020-10-14T07:37:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEO3FNQM4AI6XCRVEN7PD2ZO64.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
-    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
-    publishedDateTime: 2020-10-13T12:03:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
-    images:
-      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
-    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
-    publishedDateTime: 2020-10-06T09:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+  - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
+    excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
+    publishedDateTime: 2020-10-10T21:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 91
+    quality: 108
     images:
-      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
-        width: 1024
-        height: 512
+      - url: "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
+    excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
     excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
@@ -157,21 +157,48 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
-    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
+  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
+    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
+    publishedDateTime: 2020-10-13T01:14:00Z
+    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
-        width: 800
-        height: 430
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
+    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
+    publishedDateTime: 2020-10-14T20:09:00Z
+    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
+    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
+        width: 1024
+        height: 735
         isCached: true
   - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
     excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
@@ -184,67 +211,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Mass. middle schooler who supports Trump asks for staff training"
-    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
-    publishedDateTime: 2020-10-14T11:48:00Z
-    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
+  - title: "Trump Tells Fans On Post-Covid Comeback Tour: 'I Feel So Powerful'"
+    excerpt: "US President Donald Trump is embarking on a tour of swing states Photo: AFP / MANDEL NGAN \"I feel so powerful. I'll walk in there, I'll kiss everyone in that audience. I'll kiss t"
+    publishedDateTime: 2020-10-13T02:06:00Z
+    webUrl: "https://www.ibtimes.com/trump-tells-fans-post-covid-comeback-tour-i-feel-so-powerful-3060877"
     type: article
     provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 55
     images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
         width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump spokesman lies about the president being alone for maskless balcony stunt while videos roll showing the contrary"
-    excerpt: "President Donald Trump’s deputy press secretary lied on Fox News again while videos were showing the truth. According to Hogan Gidley, the president is social distancing and following all of the CDC guidelines and the Coronavirus Task Force."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-spokesman-lies-about-the-president-being-alone-for-maskless-balcony-stunt-while-videos-roll-showing-the-contrary/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-06-at-10.19.46-AM.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Trump Goes After Dr. Fauci, Trashing Him Over Masks: ‘Tony’s Pitching Arm is Far More Accurate Than His Prognostications’"
-    excerpt: "President Donald Trump is going after Dr. Anthony Fauci one day after the infectious disease expert blasted the Trump campaign for taking him out of context in an ad."
-    publishedDateTime: 2020-10-13T12:51:00Z
-    webUrl: "https://www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/"
-    ampWebUrl: "https://www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 50
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/04/fauci-trump-coronavirus-GettyImages-1209801792.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Trump Doubles Down on Campaign Ad Using Dr. Fauci’s Words Out of Context: ‘We Have Done a Phenomenal Job…Many People Agree’"
-    excerpt: "Trump is doubling down on an ad using Dr. Fauci's words out of context, insisting in a tweet that it was fine because \"they are indeed Dr. Fauci's own words.\""
-    publishedDateTime: 2020-10-12T01:56:00Z
-    webUrl: "https://www.mediaite.com/donald-trump/trump-doubles-down-on-ad-using-faucis-words-out-of-context-we-have-done-a-phenomenal-job-many-people-agree/"
-    ampWebUrl: "https://www.mediaite.com/donald-trump/trump-doubles-down-on-ad-using-faucis-words-out-of-context-we-have-done-a-phenomenal-job-many-people-agree/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/trump-doubles-down-on-ad-using-faucis-words-out-of-context-we-have-done-a-phenomenal-job-many-people-agree/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 49
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/03/GettyImages-1212251376-scaled-e1584135551879-1.jpg"
-        width: 1200
-        height: 627
+        height: 651
         isCached: true
 
 secured: "YNCdw4f3IOjxoqbyUXvYBAyTgQFFTcRCpPyF+cuPWnUduofp5zSYfMaViTWscSJDWahmDEbMfo9uGehHodBDFYknqvyVFPtRNyrVBszD+2BUEdq49kcKO0VOB1Tl0nTQeE5nkJrM25LcyXWM0bThg2LE5bdpBBTljkA73J6iR37cYuWNnj3XfRXgGt5Lm5wffOn0NXo/gXLHHMAGmmRdAG2oUOOc6oXH+21TZ4NvIVelP42qbhjYcjCO949/Vb/kXThImArgfg8qw/vofbL+Rt/bLSt+zZCBtLA5m+7c+gFFTQVW/3SgD0Uih7xbQpc0obSe9SZXIvQG5mcjsX2ib4Bd8oRNI8xgk32nT4vzbchnDlP7vpHilI+PTg8bzj72t9kVbqdN8A5bMDcS5hG53kMaC6Dx+d6eS/gxxQbuCX0EKWYnKEEfIBXaP+WB5NJVzFjIQ8ajGUELgAANbYrXdI3TwX9f3tBuRZoano6Z4ef8cEjx/BgJqXHpPSDIn1jMhSpRGI7deCIbpQ9Fmo9Y2A==;qcVkVp2Xl59YS2guMK/C8A=="

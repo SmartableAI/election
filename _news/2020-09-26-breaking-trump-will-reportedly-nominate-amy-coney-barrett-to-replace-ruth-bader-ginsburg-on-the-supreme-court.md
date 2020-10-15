@@ -43,38 +43,6 @@ related:
         width: 838
         height: 545
         isCached: true
-  - title: "Trump seizes on small election issues to spread concern"
-    excerpt: "In the run-up to Election Day, President Donald Trump is seizing on small, potentially routine voting issues to suggest the election is rigged"
-    publishedDateTime: 2020-10-05T05:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Trump doubles down on questioning the transfer of power if he loses the election"
-    excerpt: "The president continued to spin a narrative of ballot fraud. \"We're not going to stand for it,\" he told supporters."
-    publishedDateTime: 2020-09-26T14:06:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 135
-    images:
-      - url: "https://i.insider.com/5f6f40d074fe5b0018a8da4f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Trump Positive Covid Test Upends Key Reelection Arguments Shortly Before Election"
     excerpt: "Trump has frequently claimed the pandemic is in its final stages and that the economy is surging, but his diagnosis and its aftermath contradict both claims."
     publishedDateTime: 2020-10-02T09:48:00Z
@@ -91,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett"
-    excerpt: "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them."
-    publishedDateTime: 2020-09-27T10:21:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I0DG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I0DG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 134
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535111044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Some in China are worrying Trump will start a war to win reelection, US-China expert says"
     excerpt: "US allies don't trust China, but they also don't like Trump's unilateral approach, according to Michael Green, a former NSC senior director for Asia."
     publishedDateTime: 2020-09-25T13:16:00Z
@@ -122,6 +74,22 @@ related:
       - url: "https://i.insider.com/5dd6f8cffd9db2191b20d696?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Barrett must recuse from 2020 election cases, shield Supreme Court from Trump corruption"
+    excerpt: "Barrett will be a fine justice. But Trump has had a corrupting influence on Congress and she'd put the court on a similar path if she rules on his fate."
+    publishedDateTime: 2020-10-12T07:29:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/12/barrett-protect-supreme-court-recuse-2020-election-cases-column/5915556002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5915556002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5915556002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'I hope it's a fair election': Trump won't commit to not declaring election win prematurely"
     excerpt: "President Donald Trump also said he would challenge an election dispute about mail ballots to the Supreme Court."
@@ -235,54 +203,6 @@ related:
         width: 711
         height: 400
         isCached: true
-  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
-    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
-    publishedDateTime: 2020-09-27T09:43:00Z
-    webUrl: "https://www.reuters.com/article/idUSKBN26H0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Watch live: Trump announces Supreme Court nominee"
-    excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-26T19:54:00Z
-    webUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee"
-    ampWebUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "AP Explains: What's next for Trump's Supreme Court pick?"
-    excerpt: "President Donald Trump has chosen Judge Amy Coney Barrett to replace the late Ruth Bader Ginsburg, sending the nomination to the Senate with hopes of a quick confirmation fewer than 40 days before the"
-    publishedDateTime: 2020-09-27T18:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_694dfa4136de40b2b3e6bed00581bbb5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Donald Trump's Tax Returns Raise Deutsche Bank Loan Questions"
     excerpt: "Revelations about the president's taxes have raised serious questions about decisions made at one of the world's largest banks."
     publishedDateTime: 2020-09-28T09:10:00Z
@@ -299,54 +219,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump's tax revelation could tarnish image that fueled rise"
-    excerpt: "The bombshell revelations that President Donald Trump paid just $750 in federal income taxes the year he ran for office and paid no income taxes at all in many others threaten to undercut a pillar of"
-    publishedDateTime: 2020-09-28T05:10:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_af3522a8da5c4a25894a0bd8a2c78a94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "With five weeks left, Trump plays defense in states he won in 2016"
-    excerpt: "Democratic nominee Joe Biden, awash in campaign money, is spending freely in contested states and pressing his advantage among targeted groups."
-    publishedDateTime: 2020-09-28T00:06:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NO2WEXAAKEI6XMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "After New York Times revelations, Trump says he paid millions in taxes"
-    excerpt: "U.S. President Donald Trump said on Monday he paid \"many millions of dollars in taxes\" and that he had many more assets than debt, but did not provide evidence or promise to release any financial statements before the Nov."
-    publishedDateTime: 2020-09-29T00:23:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26J2CR"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2CR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2CR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535256440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1WS"
-        width: 777
-        height: 545
-        isCached: true
   - title: "Trump the disrupter has lost his novelty"
     excerpt: "When political newcomer Donald Trump joined a stage full of other Republican candidates in August 2015 for the first presidential primary debate of the 2016 cycle, it was widely predicted that while Trump had been an entertaining diversion,"
     publishedDateTime: 2020-09-30T09:08:00Z
@@ -362,70 +234,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NF5N6OQCZQI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump says he and first lady tested positive for coronavirus"
-    excerpt: "President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus, a stunning announcement that plunges the country deeper into uncertainty just a month before the presidential election."
-    publishedDateTime: 2020-10-02T11:50:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_7d01df0f67d6429b92ebbe0b734721de_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Misinformation spikes as Trump confirms COVID-19 diagnosis"
-    excerpt: "News that President Donald Trump and first lady Melania Trump had tested positive for COVID-19 sparked an explosion of rumors, misinformation and conspiracy theories that littered social media feeds"
-    publishedDateTime: 2020-10-02T19:45:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_24e551a62c8d4ccf87770478bfb59991_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "What Trump's COVID-19 diagnosis could mean for his campaign"
-    excerpt: "All previously announced campaign events involving the president’s participation are in the process of being moved to virtual events or are being temporarily postponed."
-    publishedDateTime: 2020-10-03T03:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Video/trump-duluth-ap-rc-201002_1601644038745_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "What Trump's COVID-19 diagnosis means for the election, his presidency, and the Supreme Court opening"
-    excerpt: "The US is in uncharted territory, and Trump's diagnosis raises a slew of questions coming a month before Election Day."
-    publishedDateTime: 2020-10-02T17:33:00Z
-    webUrl: "https://www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5b32bb4642e1cc29bb040f3f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump says next days of COVID-19 treatment will be 'real test'"
     excerpt: "President Donald Trump said in a video from his hospital room on Saturday that he felt \"much better\" and hoped to be \"back soon,\" after a day of contradictory messages from the White House about his condition following his COVID-19 diagnosis."
@@ -475,38 +283,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
-    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
-    publishedDateTime: 2020-09-26T01:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-rulings-factbox-idUSKCN26G37S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G37S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G37S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534976349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O22L"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "New adviser giving Trump bad information on virus, top U.S. officials say"
-    excerpt: "Two senior U.S. public health experts have raised concerns that White House adviser Scott Atlas is providing misleading or incorrect information on the coronavirus pandemic to President Donald Trump,"
-    publishedDateTime: 2020-09-29T01:57:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser-idUSKBN26J21A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J21A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J21A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535289642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S03M"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Donald Trump says he'll 'probably' announce Supreme Court pick by Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
     publishedDateTime: 2020-09-21T23:24:00Z
@@ -522,38 +298,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/30/USAT/07efd4e8-7b3d-4bb2-bb28-527bfd33d118-GTY_1269433756.jpg?auto=webp&crop=2505,1409,x487,y306&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
-    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
-    publishedDateTime: 2020-09-26T10:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535009563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P09N"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Donald Trump Doing 'Well,' But 'Not Yet Out of the Woods,' White House Says"
-    excerpt: "The president's physician sent a memo Saturday night with updates on Trump's condition, saying he's fever-free, and has completed his second dose of Remdesivir."
-    publishedDateTime: 2020-10-04T01:41:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1645785/donald-trump.jpg"
-        width: 3525
-        height: 2350
         isCached: true
   - title: "Trump Uses Curve Gesture While Saying He'll Nominate a Woman to Supreme Court"
     excerpt: "President Donald Trump said Saturday that he will \"most likely\" nominate a woman as his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg—but it's a hand gesture he made that drew his critics to accuse him of misogyny."
@@ -603,22 +347,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Senate confirmation hearings likely to start Oct. 12 for Barrett, Trump says"
-    excerpt: "U.S. President Donald Trump said the Senate will likely open hearings on his third Supreme Court nominee, Amy Coney Barrett, on Oct. 12 and he expected a full Senate vote before the Nov. 3 election."
-    publishedDateTime: 2020-09-27T00:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-senate-idUSKBN26H13E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H13E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H13E"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535059150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0NW"
-        width: 855
-        height: 545
-        isCached: true
   - title: "Nancy Pelosi won't rule out impeachment to block a Trump Supreme Court nominee"
     excerpt: "With President Trump expected to nominate a Supreme Court pick sometime this week, Pelosi is considering ways to prevent a vote on the nomination."
     publishedDateTime: 2020-09-20T18:08:00Z
@@ -651,22 +379,6 @@ related:
         width: 819
         height: 545
         isCached: true
-  - title: "Election live updates: Trump to deliver remarks on the coronavirus amid fallout from report he avoided taxes"
-    excerpt: "Democratic presidential nominee has no events scheduled Monday but is dispatching his running mate to North Carolina to highlight the battle over the president's Supreme Court nominee."
-    publishedDateTime: 2020-09-28T11:55:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/28/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/28/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/28/trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-28-2020/t_8b4c82a8ce314936b2fa210e9412321c_name_2232561e_0117_11eb_b92e_029676f9ebec.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "'This is all about your healthcare': Biden says Trump nominated Amy Coney Barrett to end Affordable Care Act"
     excerpt: "Biden decried Trump nominating Barrett \"before Justice Ginsburg could be laid to rest\" and after hundreds of thousands of Americans already voted."
     publishedDateTime: 2020-09-27T21:25:00Z
@@ -698,36 +410,6 @@ related:
       - url: "https://i.insider.com/5f77531774fe5b0018a8ebfc?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump's medical status unclear as doctors say he could be discharged on Monday"
-    excerpt: "President Donald Trump could be discharged from the hospital where he is being treated for COVID-19 as soon as Monday, according to his doctors, although his condition remains unclear and outside experts warn that his case may be severe."
-    publishedDateTime: 2020-10-05T04:30:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int-idUSKBN26Q0DQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536164705&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9407O"
-        width: 785
-        height: 545
-        isCached: true
-  - title: "Trump: Election will 'end up in the Supreme Court'"
-    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
-    publishedDateTime: 2020-09-23T21:37:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Trump says he will ‘always’ protect those with preexisting conditions. He hasn’t."
     excerpt: "In speeches, in tweets, in media interviews, President Donald Trump keeps promising that he will preserve protections for Americans with preexisting health conditions. It’s a crowd-pleaser of a policy,"
@@ -793,6 +475,20 @@ related:
         width: 798
         height: 545
         isCached: true
+  - title: "Election 2020 Today: Barrett hearings, Trump's road trek"
+    excerpt: "Supreme Court nominee Amy Coney Barrett returns to Capitol Hill for a third day of confirmation hearings by the Senate Judiciary Committee"
+    publishedDateTime: 2020-10-14T13:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-barrett-hearings-trumps-road-trek-73604547"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a2da9a643e3a48f7b79d88551722c6f0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump says he'll probably announce Supreme Court pick on Friday or Saturday"
     excerpt: "Appeals court Judges Amy Coney Barrett and Barbara Lagoa are among the candidates on President Trump's list to replace Ruth Bader Ginsburg on the Supreme Court."
     publishedDateTime: 2020-09-21T20:45:00Z
@@ -856,22 +552,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/26/USAT/1ac222a9-8977-4977-bbbb-7c793d7ad7ee-nomination_1.jpg?auto=webp&crop=2896,1629,x1,y385&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Supreme Court live updates: Trump nominates Amy Coney Barrett at White House event"
-    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
-    publishedDateTime: 2020-09-26T20:49:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 974
         isCached: true
   - title: "Trump hit with COVID-19: Anyone can get sick. Anyone can spread the deadly disease."
     excerpt: "As we surge towards a quarter-million COVID-19 deaths, some Americans believe prevention strategies like masks are not worth it. They're wrong."
@@ -937,22 +617,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What the White House and Trump allies said about his condition over the course of the day"
-    excerpt: "For the public, though, the scale of Trump’s illness only became apparent Friday afternoon, when the White House announced that the president would be headed to Walter Reed for several days. Since the diagnosis was made public early that morning,"
-    publishedDateTime: 2020-10-03T07:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALK34XQFAUI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Senate to begin confirmation hearings for Trump's Supreme Court nominee Amy Coney Barrett"
     excerpt: "\"Courts are not designed to solve every problem or right every wrong in our public life,\" Barrett says in her planned remarks."
     publishedDateTime: 2020-10-12T11:04:00Z
@@ -985,22 +649,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
-    excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
-    publishedDateTime: 2020-09-24T17:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKDUIBH6OQI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 1006
-        isCached: true
   - title: "Trump announced Amy Coney Barrett as his Supreme Court pick Saturday. Here's what we know."
     excerpt: "\"They say the biggest thing you can do (as president) is the appointment of judges, but especially the appointment of Supreme Court justices,\" Trump said Friday."
     publishedDateTime: 2020-09-28T08:01:00Z
@@ -1014,54 +662,6 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Supreme Court live updates: Trump expected to nominate Amy Coney Barrett at White House event"
-    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
-    publishedDateTime: 2020-09-26T18:42:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 974
-        isCached: true
-  - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
-    excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
-    publishedDateTime: 2020-09-22T15:52:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Analysis: With nothing else working, Trump races to make a new Supreme Court justice the issue"
-    excerpt: "Even as Trump presses ahead, Republicans remain uncertain whether it would be better to hold a confirmation vote before the election or announce the nomination and start hearings but leave the final d"
-    publishedDateTime: 2020-09-23T02:01:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/C02dXLP_KsYAn5nvvmiUpeKJTtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5SUSY55DFAAXIN5G4KESKJNGA.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -1172,73 +772,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump's top contenders to take RBG's court seat"
-    excerpt: "President Donald Trump's has said he would nominate a conservative woman to replace Supreme Court Justice Ruth Bader Ginsburg, but some disagree on whether the pick should cement the conservative court majority,"
-    publishedDateTime: 2020-09-23T17:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trumps-top-contenders-take-rbgs-court-seat/3505402001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ba9fae9-d0ce-4470-a85e-011affbf3ff4_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump to Court Skeptical Black Voters With Small Business Plan"
-    excerpt: "President Donald Trump will make an appeal to Black Americans, a group poised to vote overwhelmingly against him in November, with offers of aid to expand small businesses and further criminal justice reforms."
-    publishedDateTime: 2020-09-25T04:12:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-court-skeptical-black-voters-with-small-business-plan/2020/09/25/6c0e169a-fee4-11ea-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFXMR5X64QI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 959
-        isCached: true
-  - title: "Trump plays coy on Barrett pick for Supreme Court"
-    excerpt: "President Donald Trump played coy about his pick for the Supreme Court, but Republicans are expecting him to announce that he is nominating Judge Amy Coney Barrett at the White House Saturday. (Sept."
-    publishedDateTime: 2020-09-25T23:49:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/25/trump-plays-coy-barrett-pick-supreme-court/3537791001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a29aa074-cf7d-4759-840a-eda18cf8268f_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Amy Coney Barrett Picked by Trump to Push Court Further to Right"
-    excerpt: "President Donald Trump said he’ll nominate Judge Amy Coney Barrett for the Supreme Court, moving to add his third justice to the bench and a fresh jolt to his faltering campaign just weeks before Americans vote on whether to give him a second term."
-    publishedDateTime: 2020-09-27T02:53:00Z
-    webUrl: "https://www.washingtonpost.com/business/amy-coney-barrett-picked-by-trump-to-push-court-further-to-right/2020/09/26/ffedbdac-0060-11eb-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "GOP invests in boosting Trump with Barrett confirmation"
-    excerpt: "The Republican National Committee is putting Amy Coney Barrett's Supreme Court confirmation fight front and center with voters just weeks before Election Day."
-    publishedDateTime: 2020-09-27T00:25:00Z
-    webUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Trump boasts at Pennsylvania rally that Supreme Court nominee Amy Coney Barrett will defend 'God-given rights'"
     excerpt: "Donald Trump traveled to battleground Pennsylvania for a campaign rally after formally choosing Amy Coney Barrett as his nominee for Supreme Court."
     publishedDateTime: 2020-09-27T01:45:00Z
@@ -1271,59 +804,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump picks conservative Barrett for Supreme Court"
-    excerpt: "Capping a dramatic reshaping of the federal judiciary that will resonate for a generation and that he hopes will provide a needed boost to his reelection effort, President Donald Trump nominates Judge Amy Coney Barrett to the Supreme Court."
-    publishedDateTime: 2020-09-26T23:25:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/26/trump-picks-conservative-barrett-supreme-court/3551728001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b582ce8-3d2c-43be-8463-2495e675a632_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump to be moved to hospital for treatment after COVID-19 diagnosis"
-    excerpt: "U.S. President Donald Trump is moving to a military hospital for treatment after being diagnosed with COVID-19, a White House official said on Friday, as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
-    publishedDateTime: 2020-10-02T21:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN26N0K4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535828951&r=LYNXMPEG910W2&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Trump making progress but not out of danger, doctor says"
-    excerpt: "U.S. President Donald Trump is free of fever and improving after being hospitalized with COVID-19 but is not yet out of danger, his physician, Dr. Sean Conley, said late on Saturday."
-    publishedDateTime: 2020-10-04T01:51:00Z
-    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-evening/trump-making-progress-but-not-out-of-danger-doctor-says-idUSKBN26P01Z"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536069379&r=LYNXMPEG93016&w=800"
-        width: 800
-        height: 499
-        isCached: true
-  - title: "Trump not yet on clear path to recovery, source says"
-    excerpt: "President Donald Trump is not yet on a clear path to recovery from COVID-19 and some of his vital signs over the last 24 hours were very concerning, a person familiar with the situation told reporters on Saturday."
-    publishedDateTime: 2020-10-03T17:08:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-conley/trump-doing-well-and-fever-free-after-positive-covid-19-test-white-house-medical-staff-idUSL1N2GU056"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0QZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0QZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "UK PM Johnson, who had COVID, says sure Trump will be fine"
     excerpt: "British Prime Minister Boris Johnson said on Sunday he was sure U.S. President Donald Trump, who has COVID-19, would be fine and was receiving the best possible care."
     publishedDateTime: 2020-10-04T09:48:00Z
@@ -1350,20 +830,6 @@ related:
       - url: "https://i.insider.com/5f69220357b7da001ee12f6d?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "President Donald Trump delivers update on his health as he fights COVID-19"
-    excerpt: "President Donald Trump thanked Walter Reed National Military Medical Center staff and even cracked a joke about his age."
-    publishedDateTime: 2020-10-04T00:22:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trump-delivers-update-his-health-he-fights-covid-19/3613477001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Trump is leaning toward Amy Coney Barrett as nominee to replace Ruth Bader Ginsburg on Supreme Court, GOP sources say"
     excerpt: "While Barrett, 48, has been the front-runner for the nomination all along, the sources said she has become the sole focus of the process."
@@ -1470,22 +936,6 @@ related:
         width: 482
         height: 430
         isCached: true
-  - title: "Trump Will Concede the Election If He Is ‘Blown Out of the Water,’ Son Eric Says"
-    excerpt: "Eric Trump, President Donald Trump's 36-year-old son and campaign surrogate, told local reporters on Thursday, September 24, that the president will concede the election to Joe Biden \"if he got blown out of the water."
-    publishedDateTime: 2020-09-25T16:31:00Z
-    webUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/"
-    ampWebUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 85
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-54-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
   - title: "Donald Trump Nominates Amy Coney Barrett to the Supreme Court"
     excerpt: "President Donald Trump has nominated Judge Amy Coney Barrett to the Supreme Court, igniting what is set to be a titanic fight in the Senate."
     publishedDateTime: 2020-09-27T02:10:00Z
@@ -1520,22 +970,6 @@ related:
         width: 940
         height: 490
         isCached: true
-  - title: "Donald Trump Has Nothing Left to Say. He Could Still Win Anyway"
-    excerpt: "Where do the Saturday-night faithful go next? I’ve seen enough of Donald Trump to know he has never wanted to build a movement even though the conditions are ripe; he wants fans, ratings ..."
-    publishedDateTime: 2020-09-21T16:31:00Z
-    webUrl: "https://www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/"
-    ampWebUrl: "https://www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 75
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2020/09/GettyImages-1228603872c.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Trump says he will name woman to succeed Ginsburg on Supreme Court"
     excerpt: "With less than two months to go before the US election, galvanized Democrats are pushing back furiously on Trump’s desire to ‘to move quickly’ on the nomination process US President Donald Trump on Saturday said he would nominate a woman to succeed late Supreme Court Justice Ruth Bader Ginsburg."
     publishedDateTime: 2020-09-20T22:40:00Z
@@ -1551,22 +985,6 @@ related:
       - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/02/Donald-Trump-5.jpg"
         width: 800
         height: 430
-        isCached: true
-  - title: "Trump hits battleground states courting key voters"
-    excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
-    publishedDateTime: 2020-09-25T16:54:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-hits-battleground-states-courting-key-voters-15597275.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Trump Shifts Focus to Pennsylvania to Shore up Reelection"
     excerpt: "With less than 40 days to go until the election, Pennsylvania is poised to emerge as the most crucial battleground on the map, one President Donald Trump may not be able to be win another term without."
@@ -1595,31 +1013,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Trump To Name Supreme Court Pick At End Of Week"
-    excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
-    publishedDateTime: 2020-09-22T05:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "No Course Correction for State Republicans After Trump Test"
-    excerpt: "Republican governors and lawmakers in many states have followed President Donald Trump’s lead on their response to the coronavirus, declining to impose mask mandates and pushing to lift restrictions on businesses and social gatherings as swiftly as possible."
-    publishedDateTime: 2020-10-03T14:21:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-03/no-course-correction-for-state-republicans-after-trump-test"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-03/no-course-correction-for-state-republicans-after-trump-test?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-03/no-course-correction-for-state-republicans-after-trump-test?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump Improving, Could Be Discharged Monday: Doctors"
     excerpt: "US President Donald Trump has \"continued to improve\" as he is treated for Covid-19, his doctors said Sunday, revealing he could be discharged as early as Monday. His medical team said his oxygen levels had dropped twice briefly in recent days and he is being treated with steroids,"
     publishedDateTime: 2020-10-04T17:01:00Z
@@ -1633,20 +1026,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-physician-sean-conley-answers-questions-surrounded.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Trump Set To Announce Supreme Court Pick, Republicans Eye Quick Confirmation"
-    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg -- and his Republican party vowed a quick vote to confirm the nominee."
-    publishedDateTime: 2020-09-22T20:16:00Z
-    webUrl: "https://www.ibtimes.com/trump-set-announce-supreme-court-pick-republicans-eye-quick-confirmation-3049951"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/the-vacancy-on-the-us-supreme-court-left.jpg"
-        width: 1024
-        height: 690
         isCached: true
   - title: "Trump Calls Swedish Lawmaker in Thanks for Nobel Nomination"
     excerpt: "A Swedish lawmaker who has nominated U.S. President Donald Trump for the 2021 Nobel Peace Prize for his efforts in the Middle East, said Tuesday he got a phone call of thanks from Trump."

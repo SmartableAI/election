@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/519554-will-new-florida-voters-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519554-will-new-florida-voters-tip-the-election-in-favor-of-joe-biden?amp"
 type: article
 quality: 140
-heat: 400
+heat: 520
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What a Joe Biden win could mean for the ETF industry"
+    excerpt: "As the 2020 presidential race intensifies, three market analysts assess what the possible outcomes could mean for exchange-traded funds."
+    publishedDateTime: 2020-10-10T15:23:00Z
+    webUrl: "https://www.cnbc.com/2020/10/10/etf-edge-gurdus-w.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/10/etf-edge-gurdus-w.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/10/etf-edge-gurdus-w.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 125
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106732745-1602017926075-joey.jpg?v=1602017961"
+        width: 2285
+        height: 1524
+        isCached: true
   - title: "Watch live: Biden holds event in Florida"
     excerpt: "Democratic presidential nominee Joe Biden on Tuesday afternoon is slated to give a speech in Miramar, Fla., on the importance of voting this election. The event is scheduled to begin at 4:40 p.m. EDT."
     publishedDateTime: 2020-10-13T20:06:00Z
@@ -47,6 +63,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Joe Biden has spent $500 million on ads this year as he seeks the presidency"
+    excerpt: "Joe Biden's campaign has spent over $500 million on TV, digital and radio ads this year. Biden's campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
+    publishedDateTime: 2020-10-09T22:40:00Z
+    webUrl: "https://www.cnbc.com/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 122
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106737489-1602243862399-bide.jpg?v=1602243936"
+        width: 1892
+        height: 1262
+        isCached: true
+  - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
+    excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
+    publishedDateTime: 2020-10-06T11:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/2020-election-trump-biden-each-have-45-support-new-florida-poll/3634560001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3634560001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634560001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NSHT/86c4aa48-14d2-4477-9ff2-8fc73515bc25-AP20276854230765.jpg?auto=webp&crop=5155,2900,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden campaigns in battleground Florida"
     excerpt: "Watch \"Joe Biden campaigns in battleground Florida ahead of election day\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-14T05:00:00Z
@@ -58,6 +106,20 @@ related:
     quality: 105
     images:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07247485_1602672244.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden appeals to voters in Florida"
+    excerpt: "Watch \"Joe Biden appeals to senior voters in Florida ahead of the election\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-14T23:22:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201014231332-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07259629_1602717425.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -90,6 +152,22 @@ related:
       - url: "https://www.inquirer.com/resizer/nZpMMGorg9v-vuCxpCjHpFCcfkM=/1200x0/center/middle/www.inquirer.com/resizer/VUZYN5WjJ8VyB-cOqWurM1DVYmg=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/Y74CB3CK6ZGDRIJW3TVMKNCQU4.jpg"
         width: 1200
         height: 864
+        isCached: true
+  - title: "Editorial: Weary nation needs Joe Biden as president"
+    excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
+    publishedDateTime: 2020-10-11T09:18:00Z
+    webUrl: "https://www.expressnews.com/opinion/editorials/article/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    ampWebUrl: "https://www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/50/23/20088055/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Save the Children? Extremist conspiracy movement QAnon fabricates pedophile claims against Joe Biden as election looms"
     excerpt: "QAnon has hijacked the Save the Children movement to push baseless pedophilia claims against Joe Biden and other Democrats before the election."
@@ -138,6 +216,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/02/26/election_2020_debate_13227_c0-212-5082-3176_s1200x700.jpg?db917b09d8cbb24332b5ca6852b875bd774a8b48"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Editorial: We recommend Joe Biden for president"
+    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
+    publishedDateTime: 2020-10-11T11:33:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Joe Biden Campaigns in Florida"
     excerpt: "FL, wears a mask depicting Democratic Presidential Candidate Joe Biden as she introduces him during an event in Fort Lauderdale, Florida on Tuesday, October 13, 2020. Pool Photo by Jim Watson/UPI"

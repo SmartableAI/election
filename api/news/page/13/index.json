@@ -2,21 +2,21 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-10-02-watch-live-vice-president-pence-speaks-at-iowa-rallies.md",
-      "title": "WATCH LIVE: Vice President Pence speaks at Iowa rallies",
-      "excerpt": "Vice President Mike Pence will visit Carter Lake and Des Moines, Iowa Oct. 1, where he will speak at political rallies being held in the state.",
+      "path": "_news/2020-10-01-kyle-rittenhouse-to-sue-joe-biden-after-campaign-ad-links-teen-to-white-supremacy.md",
+      "title": "Kyle Rittenhouse to sue Joe Biden after campaign ad links teen to white supremacy",
+      "excerpt": "The lawyer for accused Kenosha shooter Kyle Rittenhouse is suing Democratic presidential nominee Joe Biden for libel, accusing the candidate of connecting Rittenhouse to white supremacy in a campaign video.",
       "sourceUrl": null,
-      "webUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
-      "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
+      "webUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
+      "originalUrl": "https://www.miamiherald.com/news/nation-world/national/article246142010.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 110,
       "tags": null,
       "images": [
         {
-          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/vote2020_tape7-1024x630.jpg",
-          "width": 1024,
-          "height": 630,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/44135b3e-6a7b-4efe-8118-3277ff965138/8967d931-b311-4648-a10c-55a52c9f0dd5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 719,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
-      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
-      "publishedDateTime": "2020-10-01T10:01:00-07:00",
+      "ampWebUrl": "https://amp.miamiherald.com/news/nation-world/national/article246142010.html",
+      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article246142010.html",
+      "publishedDateTime": "2020-10-01T09:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PBS",
-        "domain": "pbs.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/pbs.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Miami Herald",
+        "domain": "miamiherald.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,118 +41,7 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
-      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
-      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 6975,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "publishedDateTime": "2020-10-01T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Mike Pence",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
-      "title": "Former commander of US forces in Afghanistan endorses Biden",
-      "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/former-commander-us-forces-afghanistan-endorses-biden-ncna1241706",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/j/newscms/2018_52/2699456/1812230-_stanley-mcchrystal-se-1239p_976e1254705613d2cb950f20ea8c4696.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
+        "Joe Biden"
       ]
     },
     {
@@ -214,6 +94,49 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-first-trailer-for-borat-2-is-a-whirlwind-of-crotch-masks-mike-pence-and-incest-jokes.md",
+      "title": "First trailer for Borat 2 is a whirlwind of crotch masks, Mike Pence, and incest jokes",
+      "excerpt": "Sacha Baron Cohen’s Borat character returns to induce cringeworthy terror upon unsuspecting interview subjects in a sequel to 2006’s Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan later this month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "originalUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/amdlzm6QSrDbXRBmiDhhegCmo14=/0x0:1280x800/1400x933/filters:focal(488x184:692x388):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67564749/BORAT2.0.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "publishedDateTime": "2020-10-01T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
       ]
     },
     {
@@ -394,7 +317,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -411,6 +334,58 @@
       "ampWebUrl": "https://abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
       "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/step-step-trumps-falsehoods-mail-voting-analysis/story?id=73354979",
       "publishedDateTime": "2020-10-01T02:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-getting-warmer-trump-concedes-human-role-in-climate-change.md",
+      "title": "Getting warmer: Trump concedes human role in climate change",
+      "excerpt": "At the first presidential debate, President Donald Trump publicly acknowledged some human blame for climate change",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "originalUrl": "https://abcnews.go.com/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Technology/WireAP_0062919532a148d4a6fd087944aa558e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/warmer-trump-concedes-human-role-climate-change-73348876",
+      "publishedDateTime": "2020-10-01T00:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ABC",
@@ -502,7 +477,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/gop-senators-criticize-trump-failing-condemn-white-supremacy/story?id=73342275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -705,7 +680,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -805,49 +780,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-livestream-donald-trump-rallies-in-duluth-minnesota-wednesday.md",
-      "title": "Livestream: Donald Trump Rallies In Duluth, Minnesota Wednesday",
-      "excerpt": "The Trump campaign is asking Minnesota rallygoers to \"please wear a mask while riding on the shuttle service.​\"",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
-      "originalUrl": "https://patch.com/minnesota/across-mn/livestream-donald-trump-rallies-duluth-minnesota-wednesday",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/getty/22887410/20200930/125243/styles/patch_image/public/gettyimages-979770508___30125124036.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/across-mn/amp/28991046/livestream-donald-trump-rallies-in-duluth-minnesota-wednesday",
-      "publishedDateTime": "2020-09-30T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-01-trump-has-repeatedly-been-endorsed-by-white-supremacist-groups-and-other-far-right-extremists-and-theyve-looked-to-him-as-a-source-of-encouragement.md",
       "title": "Trump has repeatedly been endorsed by white supremacist groups and other far-right extremists, and they've looked to him as a source of encouragement",
       "excerpt": "Trump's refusal to explicitly condemn white supremacist groups during Tuesday night's debate follows a similar pattern.",
@@ -908,7 +840,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823",
       "featuredContent": null,
       "highlight": null,
-      "heat": 553,
+      "heat": 513,
       "tags": null,
       "images": [
         {
@@ -1161,6 +1093,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-mark-cuban-says-idiot-donald-trump-once-told-him-to-run-for-president.md",
+      "title": "Mark Cuban says 'idiot' Donald Trump once told him to run for president",
+      "excerpt": "Dallas Mavericks owner Mark Cuban said President Donald Trump is an \"idiot\" for how he's run the country as president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/",
+      "originalUrl": "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/bb91078b-8ea8-4702-b16e-61c98afa0ed4-USP_NBA__Dallas_Mavericks_at_Indiana_Pacers_1.JPG?auto=webp&crop=2248,1265,x0,y310&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3587381001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587381001",
+      "publishedDateTime": "2020-09-30T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/portland-sheriff-trump-support-deni
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/portland-sheriff-trump-support-denies-mike-reese/"
 type: article
 quality: 125
-heat: 265
+heat: 225
 published: true
 
 provider:
@@ -31,81 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
-    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
-    publishedDateTime: 2020-10-01T01:15:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+  - title: "Trump family, aides flouted Cleveland hotel mask mandate ahead of debate"
+    excerpt: "Hours before they were seen watching Tuesday's presidential debate without masks in violation of safety protocols, members of President Donald Trump's family, campaign staff and White House team also flouted a mask mandate at a hotel frequented by visitors to Cleveland Clinic."
+    publishedDateTime: 2020-10-04T00:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-family-aides-flouted-cleveland-hotel-mask-mandate/story?id=73409582"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 962
+      - url: "https://s.abcnews.com/images/Politics/trump-mask_hpMain_20201003-193502_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump is symptom-free and stable, White House doctor says"
-    excerpt: "U.S. President Donald Trump has had no COVID-19 symptoms for the past 24 hours, with a physical examination and his vital signs showing his condition remains sable, White House physician Sean Conley said on Wednesday."
-    publishedDateTime: 2020-10-07T17:22:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-physician-idUSKBN26S2YF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S2YF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2YF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536569279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9620F"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Global shares and oil tumble after Donald Trump tests positive for COVID-19"
-    excerpt: "US stock futures dropped almost 2%, oil plunged 4%, while gold and Treasuries benefitted from investors fleeing risk assets."
-    publishedDateTime: 2020-10-02T06:41:00Z
-    webUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-futures-plunge-gold-up-positive-trump-covid-2020-10?amp"
+  - title: "7 crucial questions Trump's doctor has declined to answer — and what he said instead"
+    excerpt: "We don't know for sure when Trump's last negative test was, whether he's received supplemental oxygen, how how high his fever has gotten."
+    publishedDateTime: 2020-10-03T21:24:00Z
+    webUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/crucial-questions-trump-doctor-declined-to-answer-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 123
+    quality: 118
     images:
-      - url: "https://i.insider.com/5f365bbab4bb1c001df533d5?format=jpeg"
-        width: 4475
-        height: 2977
+      - url: "https://i.insider.com/5f78c360282c500018c78754?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
         isCached: true
-  - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
-    excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
-    publishedDateTime: 2020-10-02T19:20:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-voters-idUSKBN26N37J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N37J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N37J"
+  - title: "Trump and aides oppose debate rule changes and hint they could put future debates at risk"
+    excerpt: "Donald Trump's re-election campaign opposes plans to put in place new rules for his next two debates with Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-01T23:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/trump-campaign-president-may-boycott-debates-biden/5884750002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884750002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884750002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535926755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9122K"
-        width: 794
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/aa10e6f7-8da7-4efd-b579-d8a503f84d0f-AP_Election_2020_Debate.jpg?auto=webp&crop=5563,3130,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
-    excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
-    publishedDateTime: 2020-10-02T19:46:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-rally-int-idUSKBN26N39M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N39M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N39M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 102
   - title: "‘I have never supported Donald Trump’: Portland-area sheriff hits back after president claims his endorsement in debate"
     excerpt: "\"As the Multnomah County Sheriff I have never supported Donald Trump and will never support him,” Sheriff Mike Reese tweeted."
     publishedDateTime: 2020-09-30T07:33:00Z
@@ -122,17 +95,22 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
-    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
-    publishedDateTime: 2020-10-04T14:18:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+  - title: "Trump is down in the polls, and the debate was a fiasco. It was a wasted opportunity for Trump, who needs a win before he runs out of time."
+    excerpt: "Trump is down in the polls and there are 35 days to go. The debate was a fiasco. Tomorrow Trump will still be down, and there will be 34 days to go."
+    publishedDateTime: 2020-09-30T03:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-first-debate-strategy-wasted-time-biden-2020-9?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5f73f3d774fe5b0018a8e243?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "76s3bcrnIQbxgb2ulB9Kfw8LzyS+PRu2r7SW7vg2q1xvYtBIVTWujAE+ehBYU+udYGPBREgKpWe8L30YODep8S0Hcl4iF3VEMo5JNmg2m+VaScTcb5prB7EY0eRTi7riCsj3j9qR8qXZv1Fict5ekPtk+vVGZwRcEF523wypzKku0m85xZ2FIkxIwB8TirHhylceHxYxbRFQidk8ImAn0omfQYZMfl00Zkoup6zKrKBE1jlGJAgIU9BaIcJrpvd1xlzjQ5oHOEp9+nYj3nuQO96WzD9SBxUqBo/ql7Qy02K3NEb0DtE4csaTm2dlFmuxSS7rsMTDM7MfIjKM4jgWUR1zAtjlFCEsQwC9WzgaaBM=;DRwJ8E29Q7WDJx4nIofdnQ=="
 ---

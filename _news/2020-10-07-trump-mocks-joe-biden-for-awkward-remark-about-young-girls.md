@@ -1276,6 +1276,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump calls Hunter Biden emails a 'smoking gun,' calls on former VP to release more info"
+    excerpt: "President Trump told a crowd in Iowa Wednesday that newly-released emails were a \"smoking gun\" showing that former Vice President Joe Biden \"blatantly\" lied about his involvement with his son Hunter's business dealings in Ukraine."
+    publishedDateTime: 2020-10-15T00:51:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eu0CiPcyi2o/trump-hunter-biden-emails-smoking-gun"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hunter-biden-emails-smoking-gun.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hunter-biden-emails-smoking-gun.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a08854cb-15d8-4d47-9e60-76bea6f1d8f0/3b45eda4-a18f-4fa6-8c84-328c47f8e376/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump had to 'fight' during first presidential debate because of Biden's 'lies': Lara Trump"
     excerpt: "President Trump had to “fight” during the first presidential debate because of Democratic presidential nominee Joe Biden's “lies,” Trump 2020 senior adviser Lara Trump told “Fox & Friends” on Wednesday."
     publishedDateTime: 2020-09-30T16:52:57Z
@@ -1852,6 +1868,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House official pushes back on Trump's Barr critique, claiming AG ‘saved his presidency'"
+    excerpt: "The president said he is ‘not happy’ with how Barr's investigations are playing out."
+    publishedDateTime: 2020-10-14T22:03:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QuiZ9bs-RxY/trump-bill-barr-criticism-administration"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-bill-barr-criticism-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bill-barr-criticism-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0a3c3d3-c212-4b9e-804d-d692c7961e5f/6c78975e-350e-48a6-a0a5-9b5219607616/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden deflects Trump's demand at debate to 'name one' law enforcement group backing him"
     excerpt: "Both candidates have the backing of various law enforcement groups."
     publishedDateTime: 2020-09-30T15:50:46Z
@@ -2289,6 +2321,22 @@ related:
       - url: "https://images.wsj.net/im-243750/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Leading Trump in polls, Biden tries to run down the clock"
+    excerpt: "Most national polls have the former vice president maintaining a lead even in battleground states like Arizona and Florida."
+    publishedDateTime: 2020-10-15T00:09:00Z
+    webUrl: "https://www.foxnews.com/politics/in-the-weeks-before-the-election-biden-runs-out-the-clock"
+    ampWebUrl: "https://www.foxnews.com/politics/in-the-weeks-before-the-election-biden-runs-out-the-clock.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/in-the-weeks-before-the-election-biden-runs-out-the-clock.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Vice presidential debate: Harris hits Trump over tax returns, asks president who he owes money to"
     excerpt: "Vice presidential Democratic candidate Kamala Harris went after President Trump for not paying enough in taxes, and questioned who he might owe money to."

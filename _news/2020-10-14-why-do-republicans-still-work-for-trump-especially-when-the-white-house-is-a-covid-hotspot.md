@@ -31,37 +31,199 @@ images:
     isCached: true
 
 related:
-  - title: "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus"
-    excerpt: "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday."
-    publishedDateTime: 2020-10-12T14:26:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 120
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8465264f2e188304012e3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5438%26cropY1%3D0%26cropY2%3D3057"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns"
+    excerpt: "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,"
+    publishedDateTime: 2020-10-11T13:36:00Z
+    webUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138"
+    ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
+        width: 3000
+        height: 1933
+        isCached: true
+  - title: "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House"
+    excerpt: "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information."
+    publishedDateTime: 2020-10-10T08:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5941684002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Mitch McConnell says Senate Republicans will vote on a slim coronavirus relief plan as Trump presses them to 'go big'"
-    excerpt: "Senate Republicans and Trump may be on a collision course as the president seeks another large stimulus package ahead of Election Day."
-    publishedDateTime: 2020-10-14T01:12:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
+  - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
+    excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
+    publishedDateTime: 2020-10-10T21:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 108
     images:
-      - url: "https://i.insider.com/5f5a676fe6ff30001d4e819e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
+    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
+    publishedDateTime: 2020-10-13T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
+    excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
+    excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
+    publishedDateTime: 2020-10-13T14:41:00Z
+    webUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f850341c255d800190b97bf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
+  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
+    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
+    publishedDateTime: 2020-10-13T01:14:00Z
+    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
+    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
+    publishedDateTime: 2020-10-14T20:09:00Z
+    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
+    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
+        width: 1024
+        height: 735
+        isCached: true
+  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
+    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Tells Fans On Post-Covid Comeback Tour: 'I Feel So Powerful'"
+    excerpt: "US President Donald Trump is embarking on a tour of swing states Photo: AFP / MANDEL NGAN \"I feel so powerful. I'll walk in there, I'll kiss everyone in that audience. I'll kiss t"
+    publishedDateTime: 2020-10-13T02:06:00Z
+    webUrl: "https://www.ibtimes.com/trump-tells-fans-post-covid-comeback-tour-i-feel-so-powerful-3060877"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+        width: 1024
+        height: 651
         isCached: true
 
 secured: "/3QOnMmmm9GxdqgEc2Min8n34kA2wsyCPf8/CsKRvFVgiq9JNMfye1TbhuisNoYhgEX6MbsJas7Kyw36S5SlDwIrTr1DyqgWr8KtAKOJwJKUIEONglEGVWyN6t3YakLA15djCWWTTif6dqVT/rJTowxYYb2wduN30H/+ZMDg/u2rKjn0a+wFEOjRul0CNwHGgM5HTgPumjIhxVrNEY/d1SQBbchaBAuXvXaoxX5/cKcORvAzI2J4CHdX9FM/VZNLTUOisA8b5rVIprKurDL8XmYtZgL9mRj3BgvxmTHC0PfDYi+AWQIeKONNuGhRtZ1CQEAOy8KfHR30BV/fGKPbcfHihsFPqECf7dvJxHDRJog=;JdvQMM54oBTsv7egqAlg6w=="

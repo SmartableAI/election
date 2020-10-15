@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-burisma-advise
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
 type: article
 quality: 167
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
+    excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
+    publishedDateTime: 2020-10-14T15:12:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
 
 secured: "vxxF5goKUrIrGxz7p8HHq6+t9WRufXBI6bsf7qRWeG9oPfldtCAqeUDqRZ+1NTyUiLq4DIym8TvCcw52fU6soibX3QdrSTfJ/F2UdRtS+86IZtye3TnUTuelGuT4TsxCMVInKB2QAenjtZuGOolWRBlDfmbyEPVRVYMN/Iy1bO5EUXUM77PhUu8aqzi1DE91KCJLm1B/A1TcIDcPkw4Bqtf/HagFt4jgbN+8jKQvWPsjsrMoL6NNGA6qX6V3Mt3lhEcebyVhUzJnDDDJesE5bcZv2tTFxDiLUFeKoRVgcVsn6qzvtl4apIEJA1JqyKNndEqgBdyaq0d5tcEVkr/Tm2E06uqoxEm61h8jlVOdwt0=;8HX2oaj4AQpsR9FgT9WhoQ=="
 ---

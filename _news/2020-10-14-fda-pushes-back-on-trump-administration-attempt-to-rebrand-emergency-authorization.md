@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
-    excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
-    publishedDateTime: 2020-10-12T17:31:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-chief-staff-mark-meadows-refuses-speak-reporters-mask-n1242990"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242990"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242990"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3419420/201012-mark-meadows-se-100p_ffeb1013c4c4127403a6cc52d2414c26.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
 
 secured: "3WwqzmcROheYBfpcJlIun8at1l59vNpE88mEiktEuasmruDjJKyVVKy34gArAa3S0JFdySRPPiane9zzZeCaJYdu2doM/ndgerCefsGPBHnwhO6J5aSqhZQGpHDGTTyHcrMzXrUMbNTMWJm+g9h0UA0aBYI3ayTRr1gm4ejgBvjnUy2sOyRKGrD2lrS1KeKVhVReKKgGzWbuFsWCB7GYHxpN7kXUHgLdm3gAc07wCbhqPmihFsclaUuA0exwPkRSq7JPN/QWgUdwRDirof3/l/ejyQJi3azUbhQagiedfJGafLnDWpWnAiKAEX+Tf00S7BbH+WaXk570pRoR+vyugMURyhkN4KojSLMcEZyvgjE=;aeKNYNtawwfunRhlVoV5Ig=="
 ---

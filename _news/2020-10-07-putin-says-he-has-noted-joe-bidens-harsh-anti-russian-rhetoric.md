@@ -89,17 +89,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Biden hits the campaign trail after negative test for COVID-19"
-    excerpt: "Democratic presidential candidate Joe Biden said President Donald Trump's coronavirus diagnosis is a \"bracing reminder\" that the pandemic needs to be taken seriously, as he campaigned on Friday in the battleground state of Michigan."
-    publishedDateTime: 2020-10-02T18:50:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden/after-trumps-covid-19-diagnosis-biden-says-masks-not-about-being-a-tough-guy-idUSKBN26N2UZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
   - title: "Fact check: Will Joe Biden raise your taxes on day one?"
     excerpt: "On day one, Joe Biden’s going to raise your taxes,” Vice President Mike Pence said during his debate with Sen. Kamala Harris. Details: How much your taxes go up would depend on how much you make. Harris and Biden are pushing an economic plan that would impose much higher taxes on the wealthy,"
     publishedDateTime: 2020-10-08T01:45:00Z
@@ -132,33 +121,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Fact check: Allegations that Joe Biden wore an earpiece at town hall, debate are false"
-    excerpt: "Claims that Democratic presidential nominee Joe Biden cheated at a town hall with an earpiece — or that he would use one at a debate — are unfounded."
-    publishedDateTime: 2020-09-29T22:50:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/09/29/fact-check-allegations-joe-biden-wearing-earpiece-false/3578805001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3578805001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3578805001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "‘Bidin’ His Time': Joe Biden Battles Being Chronically Late"
-    excerpt: "With their packed schedules, relish for meeting people and natural tendency toward verbosity, most presidential candidates rarely get anywhere, or do anything, on time."
-    publishedDateTime: 2020-09-24T14:57:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-23/bidin-his-time-joe-biden-battles-being-chronically-late?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Joe Biden Campaigns in Charlotte, North Carolina"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte, North Carolina. 2020 Democratic presidential candidate Joe Biden delivers remarks on his plans for the economy at a campaign event in Charlotte,"
     publishedDateTime: 2020-09-23T23:14:00Z

@@ -253,6 +253,20 @@ related:
         width: 2320
         height: 1546
         isCached: true
+  - title: "Why Trump's desperate 'Bidengate' Hail Marys keep backfiring"
+    excerpt: "In trying to con the public and media into making “Bidengate” a thing, Giuliani has let himself get played time after time. For those of you who didn't live and breathe the Ukraine saga for nearly six months this time last year,"
+    publishedDateTime: 2020-10-14T22:26:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/why-trump-s-desperate-bidengate-hail-marys-keep-backfiring-ncna1243429"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3420200/201014-rudy-giuliani-hunter-biden-main-cover-cs_9000fe818c45c5264a1b2b19d0dece3d.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden Allies Ponder: Skip Debate or Let Trump Blow Himself Up Again?"
     excerpt: "If Trump is going to take his football and go home, I say good riddance to bad rubbish,” said one longtime Biden confidant."
     publishedDateTime: 2020-10-12T07:28:00Z

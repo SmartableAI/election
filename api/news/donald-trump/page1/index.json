@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-15-savannah-guthrie-compared-to-matt-lauer-after-nbc-announces-trump-town-hall.md",
-      "title": "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall",
-      "excerpt": "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event.",
+      "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
+      "title": "Trump tries to shore up support from big business, Iowans",
+      "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211",
-      "originalUrl": "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211",
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 245,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg",
-          "width": 1024,
-          "height": 735,
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1",
-      "publishedDateTime": "2020-10-14T13:09:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
+      "publishedDateTime": "2020-10-14T18:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -86,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-presidents-job-approval-is-surest-sign-trump-will-lose-reelection.md",
+      "title": "President's job approval is surest sign Trump will lose reelection",
+      "excerpt": "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
+      "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
+      "publishedDateTime": "2020-10-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -223,7 +275,7 @@
       "originalUrl": "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -267,21 +319,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-reckless-endangerment-trump-is-careless-with-sensitive-information.md",
-      "title": "Reckless endangerment: Trump is careless with sensitive information",
-      "excerpt": "With withering scorn, Donald Trump attacked Hillary Clinton during the 2016 presidential campaign for the former secretary of state’s use of a private email server, a practice Trump said showed Clinton “and her team ‘were extremely careless in their handling of very sensitive,",
+      "path": "_news/2020-10-14-trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious.md",
+      "title": "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious",
+      "excerpt": "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19.",
       "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html",
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 182,
       "tags": null,
       "images": [
         {
-          "url": "https://www.nydailynews.com/resizer/X5BOzoTEgn0qr906g-uVL0cNKo8=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/4AN7Z4T5HZAKHN5M4SOI5ZDM6Y.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -289,14 +341,127 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-99-reasons-trump-mishandling-classified-intelligence-20201014-dpleelwqovailgohptd4uxxw5m-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-14T01:07:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/",
+      "publishedDateTime": "2020-10-14T05:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-heads-to-iowa-amy-coney-barrett-confirmation-hearings-billboard-music-awards-5-things-to-know-wednesday.md",
+      "title": "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday",
+      "excerpt": "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5937767002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002",
+      "publishedDateTime": "2020-10-14T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-suburban-women-will-you-please-like-me-trump-attempts-to-appeal-to-voter-group-he-has-struggled-to-reach.md",
+      "title": "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach",
+      "excerpt": "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp",
+      "publishedDateTime": "2020-10-13T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -424,21 +589,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-trump-pleas-with-suburban-women-please-like-me.md",
-      "title": "Trump pleas with suburban women: 'Please like me'",
-      "excerpt": "President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a vote for him is a vote to protect the suburbs. He also issued an appeal to suburban women: \"Will you please like me?",
+      "path": "_news/2020-10-14-trumps-campaign-nearly-went-broke-for-the-2020-home-stretch-amid-brad-parscales-200-million-budgeting-misfire-republicans-tell-insider.md",
+      "title": "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider.",
+      "excerpt": "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/",
+      "webUrl": "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/999762f7-db8f-45b1-bb6f-e87ec522a0c5_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -448,14 +613,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T19:04:00-07:00",
+      "publishedDateTime": "2020-10-13T16:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -642,153 +807,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutoragain.md",
-      "title": "Trump Asks Supreme Court To Block Tax Records From NY Prosecutor—Again",
-      "excerpt": "President Donald Trump has filed an emergency request with the Supreme Court to block a prosecutor from obtaining his tax records, after a federal Appeals Court ruled last week that the Manhattan District Attorney could retrieve the highly sought after records as part of an investigation into the president’s financial history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85f2bdb9f4e00cf0b32ef3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D205%26cropY2%3D1893",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/",
-      "publishedDateTime": "2020-10-13T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-demands-that-puerto-rico-vote-for-him-theres-just-one-problem.md",
-      "title": "Trump demands that Puerto Rico vote for him — there’s just one problem",
-      "excerpt": "At his rally at Orlando Sanford International Airport on Monday, President Donald Trump devoted part of his speech to Puerto Rico — proclaiming he has been a terrific president for the island and demanding that its people vote for him for president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/trump-demands-that-puerto-rico-vote-for-him-theres-just-one-problem/",
-      "originalUrl": "https://www.rawstory.com/2020/10/trump-demands-that-puerto-rico-vote-for-him-theres-just-one-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/09/shutterstock_15852351731.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/trump-demands-that-puerto-rico-vote-for-him-theres-just-one-problem/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-demands-that-puerto-rico-vote-for-him-theres-just-one-problem/amp/",
-      "publishedDateTime": "2020-10-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-palestinian-premier-god-help-us-if-trump-wins-re-election.md",
-      "title": "Palestinian premier: 'God help us' if Trump wins re-election",
-      "excerpt": "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians. “If we are going to live another four years with President Trump, God help us,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "originalUrl": "https://www.chron.com/news/article/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/53/60/20102170/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "publishedDateTime": "2020-10-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-13-mitt-romney-criticizes-trump-democrats-as-he-decries-vile-and-hate-filled-state-of-american-politics.md",
       "title": "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics",
       "excerpt": "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi.",
@@ -797,7 +815,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -853,7 +871,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 141,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -906,7 +924,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -930,6 +948,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders.md",
+      "title": "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders",
+      "excerpt": "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1007,6 +1077,110 @@
       ]
     },
     {
+      "path": "_news/2020-10-13-not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac.md",
+      "title": "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC",
+      "excerpt": "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
+      "publishedDateTime": "2020-10-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst.md",
+      "title": "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst",
+      "excerpt": "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/",
+      "originalUrl": "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/",
+      "publishedDateTime": "2020-10-13T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-palestinian-premier-god-help-us-if-trump-wins-reelection.md",
       "title": "Palestinian premier: God help us if Trump wins reelection",
       "excerpt": "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians.",
@@ -1064,72 +1238,20 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-bipartisan-christian-group-forms-super-pac-to-oppose-trump.md",
-      "title": "Bipartisan Christian group forms super PAC to oppose Trump",
-      "excerpt": "A group of prominent Christians from both sides of the aisle, including a past faith adviser to former President Barack Obama, is forming a political action committee designed to chip away at Christia",
+      "path": "_news/2020-10-13-back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery.md",
+      "title": "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery",
+      "excerpt": "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491",
+      "webUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
+      "originalUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 383,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_31b82ad74ee34ba98f415b10c89ac659_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491",
-      "publishedDateTime": "2020-10-13T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-as-trump-holds-rally-fauci-urges-masks-avoiding-mass-gatherings.md",
-      "title": "As Trump holds rally, Fauci urges masks, avoiding mass gatherings",
-      "excerpt": "As President Donald Trump held his first campaign rally since disclosing he contracted the coronavirus this month, top U.S. infectious disease expert Anthony Fauci said the United States faced a \"whole lot of trouble\" if it did not encourage universal wearing of face",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-trump-fauci-idUSKBN26X2K4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537204245&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C019",
-          "width": 818,
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O",
+          "width": 817,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -1138,9 +1260,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X2K4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2K4",
-      "publishedDateTime": "2020-10-12T23:00:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X2PY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY",
+      "publishedDateTime": "2020-10-13T01:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -1168,21 +1290,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone.md",
-      "title": "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\"",
-      "excerpt": "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again.",
+      "path": "_news/2020-10-13-fauci-trump-ad-taking-him-out-of-context-really-disappointing-should-be-taken-down.md",
+      "title": "Fauci: Trump ad taking him out of context 'really disappointing', should be taken down",
+      "excerpt": "Asked by \"The Lead\" anchor Jake Tapper whether he believes the ad should be taken down, Fauci said, \"I think so.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html",
-      "originalUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/5f4edcd4-b446-4136-8cf7-987c080931fd-GTY_1228670944.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1190,14 +1312,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp",
-      "cdnAmpWebUrl": "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp",
-      "publishedDateTime": "2020-10-12T18:14:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5972629002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002",
+      "publishedDateTime": "2020-10-12T15:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "HotNewHipHop",
-        "domain": "hotnewhiphop.com",
-        "images": null,
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1323,7 +1454,7 @@
       "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1347,110 +1478,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus.md",
-      "title": "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus",
-      "excerpt": "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
-      "originalUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8465264f2e188304012e3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5438%26cropY1%3D0%26cropY2%3D3057",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/",
-      "publishedDateTime": "2020-10-12T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-election-2020-today-trump-resets-biden-harnesses-history.md",
-      "title": "Election 2020 Today: Trump resets, Biden harnesses history",
-      "excerpt": "Three weeks before Election Day, President Donald Trump’s campaign has been left reeling by a series of setbacks",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 3235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_537f36502ab84dcc956735340835a6fa_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928",
-      "publishedDateTime": "2020-10-12T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1528,21 +1555,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-12-our-goal-is-record-black-voter-turnout-to-fire-trump-and-save-black-lives-naacp-president.md",
-      "title": "Our goal is record Black voter turnout to fire Trump and save Black lives: NAACP president",
-      "excerpt": "It's not just Donald Trump and Joe Biden on the ballot, it’s a decision about the country we want. Honor John Lewis and Ruth Bader Ginsburg by voting.",
+      "path": "_news/2020-10-12-cuban-americans-hold-huge-pro-trump-parade-in-south-florida-as-elections-approach.md",
+      "title": "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach",
+      "excerpt": "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/12/black-voters-turn-out-fire-donald-trump-and-enablers-naacp-column/5960096002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/12/black-voters-turn-out-fire-donald-trump-and-enablers-naacp-column/5960096002/",
+      "webUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
+      "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 755,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/11/USAT/3552bc64-fdf6-4fba-97f5-8484fdd8cf22-AP_Voters_of_Color_Debate_Reaction.jpg?auto=webp&crop=5820,3274,x0,y296&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg",
+          "width": 594,
+          "height": 393,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1550,16 +1577,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5960096002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960096002",
-      "publishedDateTime": "2020-10-12T02:15:00-07:00",
+      "ampWebUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
+      "publishedDateTime": "2020-10-11T20:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Newsweek",
+        "domain": "newsweek.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

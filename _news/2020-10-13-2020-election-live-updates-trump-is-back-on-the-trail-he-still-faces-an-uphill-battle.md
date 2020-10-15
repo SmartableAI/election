@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html"
 type: article
 quality: 141
-heat: 141
+heat: 142
 published: true
 
 provider:

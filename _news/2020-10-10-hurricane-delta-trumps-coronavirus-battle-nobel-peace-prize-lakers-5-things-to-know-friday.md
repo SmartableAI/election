@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 173
+published: true
 
 provider:
   name: USA Today
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
+  - title: "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend"
+    excerpt: "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend."
+    publishedDateTime: 2020-10-10T08:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592092001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -63,30 +63,21 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
+    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
+    publishedDateTime: 2020-10-06T09:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "W4ozN4nm5f85fBX1fF9vW1gozG2aQ6sUeWu1gYpp0g4H3vS9PpXbe4zMoDVVMl+m6QYhmjVBOdjUU0KCUQsKtRS+6hn/vxnmY+HWhW6qZoMtqG7Aw50a3IxlijM5vTQUf3mEdPplUfNoAMfE2Z3YQWQRL4Qy/ZhUQwxA8McKdMf84lsrpIZNsWX00+iIsyefPj5DuUZrXE1NnYV2pUnXWZWV7dcrlGoQryWKTU4EzKdSQY9w3WFb+ShEHanKaRDWd/oipYoTHhxW12bKc5UBDCKk5mpaJO9lUN/fpK+ickRUlzzM25zcuMuuiVkwcGiYgtmNleWq/zXmz5iu+gsyJFlLw1hGz24ZCndULMDzc7Q=;PaoZWLswYPWD+oiYVxLHUA=="

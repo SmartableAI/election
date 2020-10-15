@@ -43,6 +43,22 @@ related:
         width: 594
         height: 393
         isCached: true
+  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
+    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
+    publishedDateTime: 2020-10-12T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
     excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
     publishedDateTime: 2020-09-19T23:33:00Z
@@ -106,22 +122,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WQGDHEAIY4I6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Trump returns to the campaign trail in critical Florida region"
-    excerpt: "President Donald Trump returns Monday night to Central Florida, a region that political operatives say will prove critical this fall in the battleground state."
-    publishedDateTime: 2020-10-12T20:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally-orlando-file-gty-jef-201011_1602440223003_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "WATCH LIVE: Trump holds campaign rally in Sanford, Florida"
     excerpt: "The White House doctor has said Trump is no longer at risk of transmitting the coronavirus but has not said explicitly whether Trump has tested negative for it."
@@ -251,22 +251,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2020 Daily Trail Markers: Trump plans to head back to campaign trail with Monday rally in Florida"
-    excerpt: "The president is slated to deliver remarks at an airport hangar at 7 p.m. ET, 12 days after he disclosed his COVID-19 diagnosis."
-    publishedDateTime: 2020-10-09T23:46:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Column: African-Americans can teach white liberals how to cope with their hatred for Donald Trump"
     excerpt: "My heart goes out to my liberal white friends who are struggling to deal with their hatred. I understand why the intense emotions you feel for Donald Trump seem foreign to you. America was established by your people and for your people,"
     publishedDateTime: 2020-10-12T10:08:00Z
@@ -298,6 +282,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump 'seemingly legitimizing' the rise in hate crimes against Asian Americans, according to a UN report"
+    excerpt: "Americans are at an \"alarming level,\" in part because of rhetoric from President Donald Trump."
+    publishedDateTime: 2020-10-15T02:34:00Z
+    webUrl: "https://www.businessinsider.com/un-report-trump-seemingly-legitimizing-hate-crimes-against-asian-americans-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/un-report-trump-seemingly-legitimizing-hate-crimes-against-asian-americans-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/un-report-trump-seemingly-legitimizing-hate-crimes-against-asian-americans-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f878f2cea23a5001903d77e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump signs Savanna's Act, 'a critical first step' to address missing and murdered Native Americans"
     excerpt: "President Donald Trump signed a bill Saturday aimed at addressing missing and murdered Native Americans. Savanna's Act will establish national law enforcement guidelines between the federal government and American Indian tribes to help track,"
@@ -347,22 +347,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
-    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
-    publishedDateTime: 2020-10-06T04:26:00Z
-    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Photos from Trump's Florida rally show supporters close together and not wearing masks even after Trump experienced COVID-19 first hand"
     excerpt: "The White House doctor said Trump tested negative on \"consecutive\" days and is no longer infectious but did not say which days he tested negative on."
     publishedDateTime: 2020-10-13T14:30:00Z
@@ -388,6 +372,22 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 85
+  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
+    excerpt: "German Americans paved Donald Trump’s road into the White House in 2016 through Iowa, Wisconsin, Michigan, Ohio and Pennsylvania. This ethnic group barely receives attention in American media and politics."
+    publishedDateTime: 2020-10-04T11:46:00Z
+    webUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/will-german-americans-again-put-donald-trump-over-the-top-in-the-presidential-election/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 82
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2018/10/Fred-and-Donald-Trump-687x430.jpg"
+        width: 687
+        height: 430
+        isCached: true
   - title: "Corporate America first: Trump fails to un-rig the U.S. economy"
     excerpt: "In the middle of the last century, a General Motors president told Congress that what was good for GM was good for America and vice versa. As U.S. president, Donald Trump — who as a candidate promised to put the economy back on the side of the little guy — has revised the old saw: What’s good for big business,"
     publishedDateTime: 2020-10-04T14:48:00Z
@@ -516,17 +516,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Trump Restarting Campaign With White House, Florida Events"
-    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
-    publishedDateTime: 2020-10-10T04:25:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "DkWkIfV7UiS9fszJDkXCeKVyx22yetdg8RMI+Xrzq0q6hvf2tHEd6LxKHLFiJTQ+uELWAMfqWoCIvKzO7+Rsp/3LE+D4Wn04+sgt5RCdvo2qzRVy3p+T5DG8qHlFfMm0mSiXrlk2HraTvxvUgDjhfseZpvYi2Cd08grOIlJ3RsTJd69Ru0evkkkninFlC2eRZLZ2s5YtplXhEMNrpQ0tR6Cca1L+9zLludkbm8lDDLio0MA5d86shFr83PTEaZ/hOCdcQ9xZonqceytdw8cgNXapGnTWaJ6NSYnIwuMqlHh+21Q1fDv7FPnKLO/Up3e2387rMunjhA71EVOv/Cmcva2AVlvd1jmaPZMRzz7CXd4=;eGUozfOdon9OIaz0z/j6eg=="
 ---

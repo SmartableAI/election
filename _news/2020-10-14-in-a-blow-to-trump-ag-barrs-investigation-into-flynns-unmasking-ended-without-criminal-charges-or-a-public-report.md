@@ -79,38 +79,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Trump Still Feuding With Dr. Fauci, Lashes Out At Pandemic Expert In Dispute Over Campaign Ad"
-    excerpt: "President Trump lashed out at Dr. Anthony Fauci on Tuesday after the nation’s top infectious disease expert criticized the president’s reelection campaign for featuring him in a political advertisement."
-    publishedDateTime: 2020-10-13T20:48:00Z
-    webUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595"
-    ampWebUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/13/us-president-donald-trump-at-his-first-campaign.jpg"
-        width: 1024
-        height: 643
-        isCached: true
-  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
-    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
-    publishedDateTime: 2020-10-07T02:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
-    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "C8q+4FdHP5fd4QVopHfAUCeoB3gBUu80Y61WcqwxlXWvLY5CYqPrjGmFcIxkYkEFB865Jpj146OpHlfN18yrTMJvz6+VICTsUYSFmSbZJFVckzYLxUXLw4unXl31aaQq8ZKTQGiE2yq1AGxfg3u7ZFqMAO0Sn4TzaV8sLfDuWy0FBSYt+zD94DVQ+Pb+fpd61zdbYUIeSQYlrXtx9xvOmNWGLR3A5OG8FOoXEiSXv0MipzVD80V4gM074/g686lpbFK8qt89bjqNFzFWus1MFFeGAejseRRfjI2u4FduCxCF421khShiez6KrkFe6ogBilLJvhvhK+SyvN707Jb7lscIyyn1gdSY/yE0LE/K3j0=;YNsh+M+NKyYVGIe0Y4em6Q=="
 ---

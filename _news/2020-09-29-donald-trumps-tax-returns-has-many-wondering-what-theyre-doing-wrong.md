@@ -31,100 +31,97 @@ images:
     isCached: true
 
 related:
-  - title: "Trump taxes, California wildfires, Stanley Cup: 5 things to know Monday"
-    excerpt: "Questions about President Trump's taxes continue, California braces for more wildfires and more news to start your Monday."
-    publishedDateTime: 2020-09-28T06:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/09/28/trump-taxes-california-wildfires-stanley-cup-5-things-know-monday/3530752001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3530752001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530752001"
+  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
+    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
+    publishedDateTime: 2020-09-26T05:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/59aff9ec-70a1-4434-b761-70d13b08116b-AFP_AFP_8QV4ZJ.jpg?auto=webp&crop=5567,3132,x0,y283&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "California prosecutor: Driver tried to kill Trump supporters"
-    excerpt: "The organizer of a Southern California rally against racism has been charged with attempted murder after driving her car into a crowd of counterprotesters"
-    publishedDateTime: 2020-09-30T15:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/woman-expected-court-driving-california-rally-73305487"
+  - title: "Trump gets experimental drug aimed at curbing severe illness"
+    excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
+    publishedDateTime: 2020-10-02T23:34:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_57290137ea1d4489bf90b58b7ef15c68_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "President Trump could be released from hospital as early as Monday, doctors say"
-    excerpt: "The President is reported to be stable and in good spirits at Walter Reed Medical Hospital, while continuing to take doses of the drug, remdesivir."
-    publishedDateTime: 2020-10-04T16:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
+  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
+    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
+    publishedDateTime: 2020-09-28T23:39:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 121
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f79f55b2400440019129dc3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Voter Registration Day, Trump's UN address, Tropical Storm Beta: 5 things to know Tuesday"
-    excerpt: "This is a good day to register to vote, President Trump's U.N. address will be released before his latest rally and more news to start your Tuesday."
-    publishedDateTime: 2020-09-22T08:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/09/22/voter-registration-day-trumps-un-address-5-things-know-tuesday/5824816002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5824816002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5824816002"
+  - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
+    excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
+    publishedDateTime: 2020-09-23T17:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/18/USAT/9dcbdbce-c6ee-4aef-8688-8b99680ca442-vote-by-mail.png?auto=webp&crop=1911,1075,x294,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "On Monday, Trump updated the nation on coronavirus strategy. By Friday, he tested positive."
-    excerpt: "Trump interacted with scores of staff members, donors and supporters this week. It is unclear how many other aides who had come into close contact with him had tested positive."
-    publishedDateTime: 2020-10-02T08:40:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+  - title: "People who follow Trump's advice and hang around watching polling places will be prosecuted, Nevada's attorney general says"
+    excerpt: "Trump refused to commit to accepting the results of the 2020 election, instead telling supporters to \"go into the polls and watch very carefully.\""
+    publishedDateTime: 2020-09-30T13:14:00Z
+    webUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://www.chicagotribune.com/resizer/7cuN1FZK5fALhAuqpH7vAFylQrs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCW4TW76LFBM3C2RAJC7UPNQY4.jpg"
+      - url: "https://i.insider.com/5f7471ad0ab50d00184ad361?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Doctors Say President Donald Trump Suffered Two Bouts of Low Oxygen, But Could Leave Hospital Monday"
-    excerpt: "White House physician Sean Conley continued to avoid directly answering a few crucial questions about Trump's health"
-    publishedDateTime: 2020-10-05T03:13:00Z
-    webUrl: "https://time.com/5896203/trump-covid-19-physician-white-house-briefing-oxygen-dexamethasone/"
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 90
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/Conley-trump.jpg"
-        width: 5568
-        height: 3712
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "0vDZ4N/j/+Bd8UUkCr7i1dHY35kxexfIsNBpiGgnyhKd/aiLeiDIMy1hBW+cqU3F7ICyvtpp+nUVsJw18Bawn3eOIgf/h+dnffn84FPRHMlpMptKwIj7zcin/TdecJqT5Mo3LtgCNJOhzFJ9dci7kxrq1bgAeGAyryyaQkxd+VAMd9ybnI38sMEeyvBOqFyBIkxnxj7bM19ocrgexNlJA7vaBBiFXCSbMzZVD2MpB3t8JAS+8FngSrbyD4e3pygL3KFltJkHn9QP1stSXjm1jWG1shGY8opXzMysMR5tPmH7fskkNNsdX6axD7hoZjF0kyfJh2ot1PsVNYDn2gw9XXfU0CHVmOHWMw9HU5B1/m2yN9JwdepKKffJpmK/wNH4EX8v9fI/uh9d2Q6o2yI2udXKtBVcbWPdjERaq//HmV6G0lY1y6fLpaNZ4ttnXvU4eHwwtgepR3OQPkpephmegjtwNZiEFNm1hVzxbI9L+GefW40uDq3dLcGtgqHRvcyteIFTb8HkkerW6p2QPk/B9A==;GTUSM2gwtqf9fX74WK8FFw=="
 ---

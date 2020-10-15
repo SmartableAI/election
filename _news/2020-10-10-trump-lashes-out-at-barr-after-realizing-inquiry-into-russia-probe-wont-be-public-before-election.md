@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
 type: article
 quality: 126
-heat: 226
+heat: 186
 published: true
 
 provider:
@@ -78,38 +78,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/53/20/20100142/3/375x250.jpg"
         width: 375
         height: 249
-        isCached: true
-  - title: "Trump Still Feuding With Dr. Fauci, Lashes Out At Pandemic Expert In Dispute Over Campaign Ad"
-    excerpt: "President Trump lashed out at Dr. Anthony Fauci on Tuesday after the nation’s top infectious disease expert criticized the president’s reelection campaign for featuring him in a political advertisement."
-    publishedDateTime: 2020-10-13T20:48:00Z
-    webUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595"
-    ampWebUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/13/us-president-donald-trump-at-his-first-campaign.jpg"
-        width: 1024
-        height: 643
-        isCached: true
-  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
-    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
-    publishedDateTime: 2020-10-07T02:17:00Z
-    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
-    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "DIStyq2lS7JpilJ4asddnEQsDOkJQl1LATVo1PuiYyl11j/QCU0mba3qQ1K52B+itZQw3cYILc8ZVPPoCK+NPu+6gJq8RaNK6jb7AgrmWSIKch04Mhb7RbT8dvIBS3OpE3To/ahoCwFxw87Etdy/DZwrTJiVpG/RRZKi+OPljlFsP3m5W0LjMK0sSNrP3nf9jv37cTfRgXhg4ayM4yR2WWxPQ5KJkue1vLxe6qI4F3C3CjyR8ncvrTPDTkf4C++R3ZaTYuKdiBHyE6u8Ngc9GbKRitv/IZNMHEsCn1hFN4TzCc/PQHku2i3Gh2/TSrMdD7RC+2k3/Ia/6TuFzHf6HAgaUWO8EHvH4unhtzY3rgg=;IQ/SXIH4oxu24h2j+jU5EA=="

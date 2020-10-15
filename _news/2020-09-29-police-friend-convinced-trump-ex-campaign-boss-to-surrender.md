@@ -25,37 +25,83 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Minneapolis restaurant quarantines 13 who worked Trump event"
-    excerpt: "Thirteen staff members from an iconic Minneapolis steakhouse are quarantining after the restaurant catered a fundraiser attended by President Donald Trump during his visit to Minnesota last week"
-    publishedDateTime: 2020-10-05T22:05:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minneapolis-restaurant-quarantines-13-worked-trump-event-73438803"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_fb2a9678ab914eb7a099cddf1c34340f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
-    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
-    publishedDateTime: 2020-09-30T23:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
+  - title: "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself"
+    excerpt: "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called."
+    publishedDateTime: 2020-09-28T02:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557987001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Reports: Woman suspected of sending ricin-tainted package to Donald Trump at White House arrested at US-Canada border"
+    excerpt: "The woman was taken into custody by U.S. Customs and Border Protection officers at the Peace Bridge border crossing near Buffalo, authorities said."
+    publishedDateTime: 2020-09-21T00:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/19/trump-ricin-package-white-house-poison/5840290002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5840290002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5840290002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/c1581992760bd8165680c7fc3167152f355fee81/c=0-162-2692-1683/local/-/media/2018/10/02/USATODAY/USATODAY/636741165177323522-GettyImages-974117584.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Body-camera footage shows Trump's former campaign manager Brad Parscale being tackled by police outside his Florida home"
+    excerpt: "Candice Parscale called 911 on Sunday, saying her husband had loaded a firearm and threatened to hurt himself, according to a police report."
+    publishedDateTime: 2020-09-29T05:12:00Z
+    webUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-trumps-former-campaign-manager-brad-parscale-tackled-by-police-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f7233ab74fe5b0018a8dd04?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Former Trump campaign manager Brad Parscale told friends he was under federal investigation just days before meltdown"
+    excerpt: "Brad Parscale told others he was under federal investigation, days before he was detained by police at his Florida home, Trump advisers told Insider"
+    publishedDateTime: 2020-10-02T01:03:00Z
+    webUrl: "https://www.businessinsider.com/brad-parscale-told-friends-under-federal-investigation-before-meltdown-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/5f767a250ab50d00184adb74?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Staten Island Ridiculed On Twitter For Pro-Trump ‘Super Spreader’ Rally"
+    excerpt: "Staten Island was mocked on Twitter for a rally to support President Trump, after he was hospitalized with COVID-19."
+    publishedDateTime: 2020-10-03T22:11:00Z
+    webUrl: "https://ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238"
+    ampWebUrl: "https://www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/staten-island-ridiculed-twitter-pro-trump-super-spreader-rally-3056238?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/26/donald-trump-fires-up-his-supporters-at-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "vvDlOdYmI2Gtmyn9lIfARI9iIWzB++xTmleeBCGx5iCYlIoMrFsshzs4YTQVCSdE872wtQTd++CsQhkLPvacq1kjtgdhDUoOw/qAH2zjYxpGs2tzuNbBd86NYl/Dr9fz+29JbUHvsW2OA1M1Vhh0UeP9XXg/OQcvQDmdRf9ZhNGpIJo+Vm9Q6O2jA+PPQ2m4gk3kc0HNmpjQstXBho61jBjyya2D7j8Q4EYW4bkbNGKnAWlCStQFlvuHfFYD3q4m2ADQRGVafMrsBFuoLf5CYredRPGda5G6D9rFO/c2BFkEyEFp729tvRoCIpjzbyQ5PV0Os+nW2lMj6TZ7laZBIHkrhe+1kO3azBTK4k52hWc=;qrd1ooJ9TNJyyUe51O6xfg=="

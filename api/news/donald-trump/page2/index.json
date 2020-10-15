@@ -2,110 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-12-proud-boys-supporter-warns-of-civil-war-if-donald-trump-loses-election.md",
-      "title": "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election",
-      "excerpt": "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208",
-      "originalUrl": "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 459,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649423/proud-boys.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1",
-      "publishedDateTime": "2020-10-12T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-cuban-americans-hold-huge-pro-trump-parade-in-south-florida-as-elections-approach.md",
-      "title": "Cuban-Americans Hold Huge Pro-Trump Parade in South Florida as Elections Approach",
-      "excerpt": "\"Together with our Latin American brothers, we have a very clear message: Our moral priority is to defend the United States, the liberation of Cuba and the hemisphere with love,\" one organizer said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
-      "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 775,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649359/pro-trump-caravan.jpg",
-          "width": 594,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1",
-      "publishedDateTime": "2020-10-11T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-12-tupacs-relative-says-the-trump-campaign-was-clearly-disrespectful-to-leave-a-ticket-for-the-late-rapper-at-vice-presidential-debate.md",
       "title": "Tupac's relative says the Trump campaign was 'clearly disrespectful' to leave a ticket for the late rapper at vice presidential debate",
       "excerpt": "The dig came after vice presidential nominee Kamala Harris said Tupac Shakur is the \"best rapper alive\" during a recent interview.",
@@ -206,58 +102,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-trump-says-all-his-friends-leaving-sad-place-new-york-city-due-to-covid-lockdowns.md",
-      "title": "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns",
-      "excerpt": "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138",
-      "originalUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg",
-          "width": 3000,
-          "height": 1933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1",
-      "publishedDateTime": "2020-10-11T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-11-trump-has-called-his-supporters-disgusting-do-they-care.md",
       "title": "Trump Has Called His Supporters ‘Disgusting.’ Do They Care?",
       "excerpt": "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.",
@@ -323,7 +167,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -399,58 +243,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-we-reject-their-support-trump-campaign-strongly-declines-taliban-endorsement-for-his-2020-reelection.md",
-      "title": "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection",
-      "excerpt": "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f82146b642e9400180b530d?width=1200&format=jpeg",
-          "width": 941,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp",
-      "publishedDateTime": "2020-10-10T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -585,162 +377,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-trump-tells-rush-limbaugh-he-might-not-have-recovered-from-covid-19-without-regeneron-antibody-cocktail.md",
-      "title": "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail",
-      "excerpt": "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-10T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-turned-his-hotels-resorts-into-beltways-new-back-rooms-new-york-times-reports.md",
-      "title": "Trump turned his hotels, resorts into 'Beltway's new back rooms,' New York Times reports",
-      "excerpt": "The New York Times has released a staggering report,</a> the fourth in its series, based on President Donald Trump's federal tax returns.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/trump-gty-rc-201010_1602342464487_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576",
-      "publishedDateTime": "2020-10-10T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-trump-yard-sign-taped-with-razor-blades-sliced-a-michigan-town-workers-hand-and-left-him-needing-13-stitches.md",
-      "title": "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches",
-      "excerpt": "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp",
-      "publishedDateTime": "2020-10-10T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-i-shouldnt-be-here-wisconsin-bar-owner-in-icu-with-covid-19-blames-trump-for-out-of-control-pandemic.md",
       "title": "'I shouldn't be here': Wisconsin bar owner in ICU with COVID-19 blames Trump for out-of-control pandemic",
       "excerpt": "The owner of a beloved Oshkosh bar is in the ICU with COVID-19 and blames the president for an out-of-control pandemic that has infected his family.",
@@ -766,214 +402,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5952206002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952206002",
       "publishedDateTime": "2020-10-10T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people.md",
-      "title": "Donald Trump is a (tax) loser, just like a lot of other people",
-      "excerpt": "Regardless of whether one may change their view of Trump as a businessperson in light of the losses he’s taken, the fact remains that deducting losses against income is no crime.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people",
-      "originalUrl": "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_040120getty_tax-returns.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people?amp",
-      "publishedDateTime": "2020-10-10T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-moved-millions-from-jointly-owned-hotel-to-campaign-tax-free-times-tax-documents-suggest.md",
-      "title": "Trump Moved Millions From Jointly Owned Hotel To Campaign Tax-Free, Times' Tax Documents Suggest",
-      "excerpt": "A New York Times report showed that $21 million was billed to a shell company for expenses right as Donald Trump needed cash for a floundering campaign, and right before a $10 million surprise campaign boost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793",
-      "originalUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/no-gambling-on-health-the-hotels-of-the.jpg",
-          "width": 1024,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1",
-      "publishedDateTime": "2020-10-10T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trump-hosts-white-house-event-delta-threatens-louisiana-nba-finals-5-things-to-know-this-weekend.md",
-      "title": "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend",
-      "excerpt": "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3592092001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001",
-      "publishedDateTime": "2020-10-10T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-trumps-covid-prognosis-3-scenarios-based-on-sparse-facts-from-an-opaque-white-house.md",
-      "title": "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House",
-      "excerpt": "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5941684002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002",
-      "publishedDateTime": "2020-10-10T01:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -1110,6 +538,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-10-schiff-if-trump-wanted-more-infections-would-he-be-doing-anything-different.md",
+      "title": "Schiff: If Trump wanted more infections 'would he be doing anything different'?",
+      "excerpt": "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
+      "originalUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp",
+      "publishedDateTime": "2020-10-09T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet.md",
       "title": "Trump Says Scans Found 'Congestion' In His Lungs, Doesn’t Know If He’s Virus-Free Yet",
       "excerpt": "Trump's physician Dr. Sean Conley, who has given conflicting reports on Trump's health, previously said that scans resulted in \"expected findings.\"",
@@ -1210,49 +690,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-ivanka-trump-coming-to-arizona-on-sunday-to-help-president-donald-trump-gop.md",
-      "title": "Ivanka Trump coming to Arizona on Sunday to help President Donald Trump, GOP",
-      "excerpt": "Ivanka Trump will headline a moderated discussion on Sunday about the Trump administration's policies and how they have affected Arizonans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/ffbf1acb-ff36-4c4b-a0b6-dae34b3c670f-b6b2a32c-e3c5-42c6-98ac-2fd216be7e30_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/5938960002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5938960002",
-      "publishedDateTime": "2020-10-09T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-trump-lashes-out-at-barr-after-realizing-inquiry-into-russia-probe-wont-be-public-before-election.md",
       "title": "Trump lashes out at Barr after realizing inquiry into Russia probe won't be public before election",
       "excerpt": "President Trump has ramped up his criticism of Attorney General Barr as he seeks to make the origins of the Russia probe a major election issue.",
@@ -1261,7 +698,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -1285,58 +722,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race.md",
-      "title": "NYT: Casino connections helped Trump engineer $21M windfall during 2016 race",
-      "excerpt": "President Trump's tax records reveal that the president engineered a windfall of more than $21 million during his 2016 presidential run,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race",
-      "originalUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp",
-      "publishedDateTime": "2020-10-09T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1409,63 +794,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump.md",
-      "title": "The Crises of America’s Sick Presidents, From George Washington to Donald Trump",
-      "excerpt": "The Founders didn’t anticipate how often presidential illness would become an issue",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "originalUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-242771/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "publishedDateTime": "2020-10-09T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-trump-steel-tariffs-raised-prices-shriveled-up-demand-led-to-job-losses-some-michigan-workers-say.md",
       "title": "Trump steel tariffs raised prices, shriveled up demand, led to job losses, some Michigan workers say",
       "excerpt": "\"I don't see any policy that helped us. We are losing our damn jobs here,\" said the head of a steelworker union.",
@@ -1523,21 +851,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-twitters-new-rules-try-to-prevent-electionand-trump-relatedchaos.md",
-      "title": "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos",
-      "excerpt": "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation.",
+      "path": "_news/2020-10-10-hurricane-delta-trumps-coronavirus-battle-nobel-peace-prize-lakers-5-things-to-know-friday.md",
+      "title": "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday",
+      "excerpt": "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1545,16 +873,722 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
-      "publishedDateTime": "2020-10-09T10:33:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3592077001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001",
+      "publishedDateTime": "2020-10-09T10:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-on-economic-aid-trump-seems-to-realize-he-messed-up-tactically.md",
+      "title": "On economic aid, Trump seems to realize he 'messed up tactically'",
+      "excerpt": "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/economic-aid-trump-seems-realize-he-messed-tactically-ncna1242704",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/j/newscms/2018_50/2679261/181211-trump-pence-pelosi-schumer-ew-1206p_98b6b0120df347aa6749aa6f649f6587.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-09T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-newsom-points-to-trump-to-defend-masking-between-bites-at-restaurants.md",
+      "title": "Newsom points to Trump to defend masking 'between bites' at restaurants",
+      "excerpt": "Gavin Newsom pushed back hard Wednesday against Republicans and conservative media slamming his recent tweet calling for masks in between restaurant bites, flipping it back on President Donald Trump by saying critics should \"soberly take a look at what's going on in the White House'' and consider the severe impact of the Covid-19 pandemic on Americans and the economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2020/10/07/newsom-pushes-back-on-gop-criticism-of-his-mask-tweet-1322262",
+      "originalUrl": "https://www.politico.com/states/california/story/2020/10/07/newsom-pushes-back-on-gop-criticism-of-his-mask-tweet-1322262",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/dd/98/543c5dcf457192472a4ec33989f6/ap20184626091205-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-07T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-fact-check-trumps-hospital-records-weight-have-not-been-released.md",
+      "title": "Fact check: Trump's hospital records, weight have not been released",
+      "excerpt": "Social media posts claim President Donald Trump is underrepresenting his weight by nearly 80 pounds. His latest physical results reveal this is false.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/07/NLED/2dddc1bf-c758-4a68-98cc-f4d5dc745c71-AP20280801146522.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5913031002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002",
+      "publishedDateTime": "2020-10-07T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-donald-trump-would-repeal-and-replace-obamacare-with-nothingburger.md",
+      "title": "Donald Trump would repeal and replace Obamacare with nothingburger",
+      "excerpt": "Affordable Care Act set to reach the Supreme Court after election. COVID-19 layoffs only underscore what a lifeline the ACA is to millions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/todaysdebate/2020/10/07/biden-improve-obamacare-trump-repeal-replace-with-nothingburger-editorials-debates/3629112001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/f1d418be-3261-4701-8f66-cba4f6986254-Obamacare.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3629112001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001",
+      "publishedDateTime": "2020-10-07T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-trump-tells-white-house-doctor-i-feel-great.md",
+      "title": "Trump tells White House doctor: ‘I feel great!’",
+      "excerpt": "The President this morning says ‘I feel great!’” Trump's physician, Sean Conley, wrote in a memo released by the White House press office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/07/trump-white-house-doctor-great-427258",
+      "originalUrl": "https://www.politico.com/news/2020/10/07/trump-white-house-doctor-great-427258",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/54/ca/74c914574613b7438bafc99eab5b/20201007-djtwh-gty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258",
+      "publishedDateTime": "2020-10-07T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-fbi-director-chris-wray-and-top-us-intelligence-officials-release-video-countering-trumps-conspiracies-about-election-integrity.md",
+      "title": "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity",
+      "excerpt": "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result.",
+      "sourceUrl": null,
+      "webUrl": "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10",
+      "originalUrl": "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp",
+      "publishedDateTime": "2020-10-07T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-the-relief-deal-blowup-what-are-pelosi-and-trump-thinking.md",
+      "title": "The Relief Deal Blowup: What are Pelosi and Trump Thinking?",
+      "excerpt": "It’s not just the president’s wild back-and-forth on Twitter. Both sides are looking irrational on a deal that the economy is going to need soon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
+      "originalUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d8/c9/e8e560a740a4b2b2ff92c74bec33/gettyimages-1277802613-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
+      "publishedDateTime": "2020-10-07T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-john-cusack-compares-donald-trump-to-adolf-hitler-claims-fascism-is-on-the-rise-its-happening-slowly.md",
+      "title": "John Cusack compares Donald Trump to Adolf Hitler, claims fascism is on the rise: ‘It’s happening slowly’",
+      "excerpt": "John Cusack briefly compared Donald Trump to Adolf Hitler during an interview with comedian Marc Maron. The actor, who is often an outspoken critic of Trump and supported Sen. Bernie Sanders in the Democratic primary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/john-cusack-donald-trump-adolf-hitler-facism-rise",
+      "originalUrl": "https://www.foxnews.com/entertainment/john-cusack-donald-trump-adolf-hitler-facism-rise",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/john-cusack-f21375c74bf04510VgnVCM100000d7c1a8c0____.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/john-cusack-donald-trump-adolf-hitler-facism-rise.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/john-cusack-donald-trump-adolf-hitler-facism-rise.amp",
+      "publishedDateTime": "2020-10-07T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trump-pisses-mcsally-off-with-mccain-comments-top-moments-from-debate-with-mark-kelly-in-battleground-arizona.md",
+      "title": "Trump 'pisses' McSally off with McCain comments: Top moments from debate with Mark Kelly in battleground Arizona",
+      "excerpt": "McSally makes her strongest comments to date about the feud between the late U.S. Sen. John McCain and Trump; Kelly talks about his wife, Gabby Giffords.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/07/martha-mcsally-trump-pisses-me-off-when-he-attacks-john-mccain-mark-kelly-debate/5909478002/?ref=hvper.com",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/07/martha-mcsally-trump-pisses-me-off-when-he-attacks-john-mccain-mark-kelly-debate/5909478002/?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/07/PPHX/87b17001-e9af-4f96-82a5-e6964304b08e-Sen._Martha_McSally_Mark_Kelly_Rob_Schumacher_The_Republic.jpg?auto=webp&crop=1749,984,x1,y10&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5909478002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5909478002",
+      "publishedDateTime": "2020-10-07T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-is-joy-reid-hoping-that-president-trump-dies-it-sure-seems-like-it-curtis-houck-wrote.md",
+      "title": "'Is Joy Reid hoping that President Trump dies? It sure seems like it,' Curtis Houck wrote",
+      "excerpt": "MSNBC host Joy Reid said President Trump looks like a “very sick elderly man” and was accused of hoping he dies from coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2019/05/13/694940094001_6036228258001_6036224895001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-joy-reid-trump-herman-cain.amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-trumps-tweets-turn-market-ibm-eyes-new-nyc-office-bankruptcy-consulting-booms.md",
+      "title": "Trump's tweets turn market — IBM eyes new NYC office — Bankruptcy consulting booms",
+      "excerpt": "The top finance stories for October 7, including the latest news on IBM's interest in NYC offices and law firms' recruitment of summer associates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "originalUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cc2e394fce90018f7b762?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-finance-stories-of-the-day-for-october-7-2020-10?amp",
+      "publishedDateTime": "2020-10-07T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-donald-trump-is-shown-gasping-for-air-in-white-house-return-video-twitter-users-claim.md",
+      "title": "Donald Trump Is Shown ‘Gasping For Air’ In White House Return Video, Twitter Users Claim",
+      "excerpt": "Shortly after the president was released from Walter Reed hospital, many noted he appeared to be gasping for air when he returned to the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
+      "originalUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/his-covid-19-diagnosis-has-left-president-donald.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1",
+      "publishedDateTime": "2020-10-06T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-07-exclusive-former-cia-director-john-brennan-says-the-biggest-threat-to-the-2020-election-is-trump-himself.md",
+      "title": "EXCLUSIVE: Former CIA director John Brennan says the biggest threat to the 2020 election is Trump himself",
+      "excerpt": "Russia got everything it could have hoped for from Donald Trump's presidency, the former CIA chief said in an interview.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
+      "originalUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7cacb6282c500018c78e83?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/exclusive-cia-john-brennan-book-trump-biggest-threat-to-election-2020-10?amp",
+      "publishedDateTime": "2020-10-06T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -125,22 +125,6 @@ related:
         width: 1200
         height: 1319
         isCached: true
-  - title: "More than half of Americans disapprove of President Trump's handling of race, survey says"
-    excerpt: "According to a survey from the Democracy Fund + UCLA Nationscape Project, 56% of Americans disapprove of the president's handling of race – a six-percentage point increase from February, When broken down by race and ethnicity,"
-    publishedDateTime: 2020-10-03T09:03:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/survey-more-than-half-americans-disapprove-trumps-handling-race/5881109002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5881109002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881109002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump went golfing 25 times as a virus swept across the US and killed over 200,000 Americans"
     excerpt: "As the virus swept across the US, Trump downplayed the threat, deflected blame to others, and routinely visited his properties to play golf."
     publishedDateTime: 2020-09-23T02:06:00Z
@@ -204,20 +188,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump to Make Appeal to Black Voters, Who Largely Oppose Him"
-    excerpt: "President Donald Trump will make an appeal Friday to Black voters to help re-elect him in November, promising them money to expand small businesses and further criminal sentencing reductions."
-    publishedDateTime: 2020-09-25T00:18:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 959
         isCached: true
   - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
     excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."

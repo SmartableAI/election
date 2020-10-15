@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commande
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1"
 type: article
 quality: 120
-heat: 140
+heat: 121
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2500
     height: 1667
     isCached: true
-
-related:
-  - title: "Demi Lovato calls out Donald Trump on political anthem Commander in Chief"
-    excerpt: "Demi Lovato has called out President Donald Trump on his handling of racial injustice and the coronavirus pandemic on her new politically-charged anthem 'Commander in Chief'."
-    publishedDateTime: 2020-10-14T08:00:00Z
-    webUrl: "https://tulsaworld.com/people/demi-lovato-calls-out-donald-trump-on-political-anthem-commander-in-chief/article_b035d3c4-7c88-5e29-bac0-cb701efa0806.html"
-    ampWebUrl: "https://tulsaworld.com/people/demi-lovato-calls-out-donald-trump-on-political-anthem-commander-in-chief/article_b035d3c4-7c88-5e29-bac0-cb701efa0806.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/people/demi-lovato-calls-out-donald-trump-on-political-anthem-commander-in-chief/article_b035d3c4-7c88-5e29-bac0-cb701efa0806.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 74
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/2b/52bdaeee-08a1-531e-84e4-d64f512b8d85/5f86b0636f75e.image.jpg"
-        width: 1000
-        height: 650
-        isCached: true
 
 secured: "hOK3+WBM/0G3eLs7EhM4Xp1syjzPjkO+pWNWIGTY5qc/Jm2wvz3c1do+hpc7eTDhDFBDbbUjAqJtAqUKCi7sWlPiRrH5UNSYvdjs5Qd3uctdyyRIqk7Q8KKnkFScU7xtFF3ZO+er+MX5XldmDPWvb8ABJIBhCi0DH+RCy4xhcfe/8nQEOi7bqepy34cNob0zv7gwR3nuJ2g1qxhid9lBavzfbU4IjB4rlHfoEGrKVhn1+2+9qrRbgEug9x8YH08DTpBwyJEMeD09WmvFtwORh/aZWe9krfQZpqeVvD9fwLGHI7eOuOqMGMMxT+z7uKvfrkKux/mofwD9UepHW1XpA7WArLWFzF2jQPXfQLD+EEx/Bv+4S1CxTWBnpfmFaReW6VODX9r+78a9mRdrynQmjPsicJEYzyBvHPmRf0Qw/wnEudxlYTqTX2Nb6FHSYpiU2YEGh3YBSuArTXcp7IXBEyjYeGukctKiYVR5qLtfJZtnpCz7JRQiX0lTb7gXjgqUP7htrKx1Vq/UtYHLYygfTQ==;Do5jxjEFwFtjbwLbE+ZrTw=="
 ---

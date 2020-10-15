@@ -31,81 +31,125 @@ images:
     isCached: true
 
 related:
-  - title: "Election updates: Trump deemed 'safe' to return to public engagements, won't say if he's tested negative"
-    excerpt: "Trump's aides are working to satisfy his desire to get back out on the campaign trail as early as Monday in Pittsburgh."
-    publishedDateTime: 2020-10-11T00:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
+  - title: "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week"
+    excerpt: "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters."
+    publishedDateTime: 2020-10-14T23:48:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "2020 election live updates: Trump tells crowd at White House he's 'feeling great'; Christie out of hospital"
-    excerpt: "\"I'm feeling great, I don't know about you,\" Trump said in a nearly 20-minute speech while standing on the Blue Room balcony overlooking the South Lawn. The event was billed as a \"peaceful protest for law and order."
-    publishedDateTime: 2020-10-10T19:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/election-updates-trump-holds-campaign-event-white-house/5952593002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5952593002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952593002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/e374f7a0-88b8-4ed8-a1dd-3a3703cb39d2-TRUMP_POSITIVE_CORONAVIRUS_14.JPG?auto=webp&crop=4270,2402,x1,y107&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
-    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
-    publishedDateTime: 2020-10-10T07:35:00Z
-    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
+  - title: "2020 Watch: Is it too late for Trump to turn things around?"
+    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
+    publishedDateTime: 2020-10-12T10:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 117
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump claims he no longer has COVID-19 as White House dodges questions on whether he has tested negative"
-    excerpt: "Trump did not say in the interview whether he has tested negative for COVID-19. A memo by his physician, Dr. Sean Conley, didn’t address that either."
-    publishedDateTime: 2020-10-12T00:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/11/trump-says-he-no-longer-has-covid-doesnt-say-if-he-tested-negative/5960497002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5960497002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960497002"
+  - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
+    excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."
+    publishedDateTime: 2020-10-14T23:35:00Z
+    webUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers"
+    ampWebUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
+      name: The Hill
+      domain: thehill.com
+    quality: 123
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches"
+    excerpt: "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance."
+    publishedDateTime: 2020-10-10T19:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
-    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
-    publishedDateTime: 2020-10-14T13:00:00Z
-    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
-    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+  - title: "New poll shows Joe Biden ahead in Michigan"
+    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-12T18:55:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
     type: article
     provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 22
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Western Michigan, a longtime GOP stronghold, is now a battleground: \"We see all that's developed in the Trump era\""
+    excerpt: "President Trump narrowly won the pivotal state in 2016. Western Michigan has long been a Republican stronghold, but Democrats have had success in recent elections, making the region a premier battleground."
+    publishedDateTime: 2020-10-12T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-biden-election-2020-michigan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/47c08c1c-39cb-46e7-88f4-80ae1669c548/thumbnail/1200x630/5b23c924c7d2c9513b8263d4dea9e0fc/1602510920768.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Michigan's attorney general talks Trump, far-right violence, the role of Facebook, and the alleged plot to kidnap Gov. Whitmer"
+    excerpt: "Michigan Attorney General Dana Nessel spoke to Business Insider about members of a paramiltitary group accused of plotting to kidnap the governor."
+    publishedDateTime: 2020-10-09T07:16:00Z
+    webUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
+    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-10-14T21:18:00Z
+    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "y3UPO/QWhbRln+DSXR4Lcdd6QPg18VVS+v4Za9o6tcdDFeWWZgi+QYL0BDAkbfch/HiJdUBNZ9l1u5sh/oqim5o02c86IKg92akNkKlBOZqh/7xGA4fGf2rKIPk9LxNzm6JSOmmqCDdqQx68jw8Kw7x0J8pDqt4kdW5VcO6NFtMQlwFMdduIDwVhnDbKYAiAVfb0Jc4c5IY4VaEJOAdfnGdFg1sPem9YQ78dgcj8DjwNPYg6/Nqm48jhp9VNpdHlEexhzyTWq4jLI9iGmpxtXYm20B5L+3sWEKaMCmFN/9N4qHYnXeo5ynyTW2FDavUVvLhtEzezYKxRk5TbL6za7/Vh0ZgZjfGxpI7Arfvhluc=;0K/ADeFe9Wixp+tJaU0Q1w=="
 ---

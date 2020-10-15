@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump, downplaying virus, has mocked wearing masks for months"
-    excerpt: "After months of downplaying the coronavirus and resisting wearing a mask, President Donald Trump wore one as he headed to the hospital Friday afternoon."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-6-gty-er-201002_1601677288519_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "How to Watch Donald Trump's Speech at the National Catholic Prayer Breakfast"
     excerpt: "Trump's appearance at the event comes at a crucial point in his re-election campaign, with less than 50 days remaining until the November 3 election date."
     publishedDateTime: 2020-09-23T09:00:00Z
@@ -186,6 +170,20 @@ related:
       - url: "https://media.foxbusiness.com/BrightCove/854081161001/202009/2641/854081161001_6193569987001_6193568158001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T17:37:00Z
+    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
   - title: "“This Nomination Is a F--k-You to the Left”: Trump Campaign Is Itching for a Culture-War Fight Over SCOTUS Pick"
     excerpt: "RBG’s death, and the opportunity to push the Supreme Court further right, is a Comey-level election game changer, Trump’s allies insist. “It just changed the calculus for any conservatives who were on the fence,"

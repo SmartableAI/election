@@ -41,20 +41,31 @@ related:
         width: 807
         height: 545
         isCached: true
-  - title: "President Donald Trump leads a strategic and policy CEO discussion"
-    excerpt: "US President Donald Trump flanked by Secretary of Transportation Elaine Chao (L) and Stephen A. Schwarzman, Chairman, CEO and Co-Founder of Blackstone speaks during a strategic and policy discussion with CEOs in the State Department Library in the Eisenhower Executive Office Building (EEOB) in Washington,"
-    publishedDateTime: 2020-10-10T13:12:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5f64d01f6512a41b5ca3e7677016737a/President-Donald-Trump-leads-a-strategic-and-policy-CEO-discussion/"
+  - title: "Oil prices rebound 2% as Trump doctors raise prospect of hospital discharge"
+    excerpt: "Oil prices rose more than 2% on Monday, lifted by comments from doctors for U.S. President Donald Trump suggesting he could be discharged from hospital as soon as Monday, just a few days after his positive coronavirus test sparked widespread alarm."
+    publishedDateTime: 2020-10-05T07:18:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int/oil-prices-rebound-2-as-trump-doctors-raise-prospect-of-hospital-discharge-idUSKBN26Q060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q054"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q054"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5f64d01f6512a41b5ca3e7677016737a/TRUMP-CEOS.jpg"
-        width: 650
-        height: 436
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536154811&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9402O"
+        width: 818
+        height: 545
         isCached: true
+  - title: "President Makes Progress, Not 'Out of the Woods': Trump Update"
+    excerpt: "President Donald Trump has made “substantial progress” but still isn’t “out of the woods,” his physician Sean Conley said in a Saturday evening update. Trump completed a second dose of Remdesivir and remains fever free,"
+    publishedDateTime: 2020-10-04T17:19:00Z
+    webUrl: "https://www.chron.com/business/article/Johnson-Becomes-Third-Senator-to-Test-Positive-15618806.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 35
 
 secured: "W5c4ZBggi8g4khgrNO+esyqhR+pIMx4MuIfi4CTYEzaZ4daO+wsXVvVXogN3siee7CdA5mBbiYGtw5SpJywWBlqNnDfgR6dRe+kaEmJ3ze+7OOPOaZLexrzi9lqVwprcIpIbF9jVWm0WtoZo+NSkDzdPL9zMzdJUTT+H87bs3ROFNKmr8LoGw/3UrBgVabLyVXWTKpfcfYYvsDXN3xcLIJunryG5j45nrtAHr7bin5PHgATnpg0kWOYg03jlr5rPFj/iEVS7MMfMaR+Qpk0nmFgUJFC2K5MuRlDYIHqcth/mYLcpotkL1d0OcG+6FG6tkQP4g5UZLEJe+4rDHxMckHeHgS8i8F2VOZ5B6SO+pic=;/f+rX5xFqIRucmBn4L5LEg=="
 ---

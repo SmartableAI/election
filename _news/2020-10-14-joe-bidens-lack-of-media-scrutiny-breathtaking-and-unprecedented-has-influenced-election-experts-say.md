@@ -76,6 +76,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Joe Biden Raised $383 Million in September, Breaking Earlier Record"
+    excerpt: "Democratic presidential nominee Joe Biden’s campaign surpasses the record-breaking haul it collected a month earlier, raising funds that will allow it to run a large advertising campaign in the final weeks before the Nov."
+    publishedDateTime: 2020-10-15T02:17:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-245257/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
     excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
     publishedDateTime: 2020-10-12T09:56:00Z
@@ -123,6 +139,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "The Type of Leader We Can Expect Joe Biden to Be"
+    excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
+    publishedDateTime: 2020-10-14T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/14/the-type-of-leader-we-can-expect-joe-biden-to-be-n2578085"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "zGbsmBJOTbnS1fLMk9An2DEivh+Sy+ZFA/ULtw6/a5YbZA29JRaceqzEhQUPHDDkxvvM4wBWF0+ujLzOkneGu96NnY1ysSQLhgx/REtMJw5yxc9E7+IOw4gYYQRev3+h7zkmIqa9yQymTGfKsRK9NPC+tUekj/uXhaGG+8B8DfiU0Zh+5shbVuii4vDVOq2N5p9wAxPOnzxi/h32bhqw6GKPpwyBu3+Ol3F471tqZyI5Dz0mr6txbtN7mVPh1ofY+dFtkwe6jb1UPxQca/aFGe3xqeakm2xH3oR9Ll+T+Z5JzF9cNjztlatKZWJf+yjIZysd7PDCWGJwnonWtUM08NE1ry7kh0B9HONVqING2y0=;ncxvF1dgTJjuJQx72NcTNw=="

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump makes grand entrance at Iowa campaign rally"
+    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
+    publishedDateTime: 2020-10-15T03:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
+        width: 600
+        height: 332
+        isCached: true
   - title: "Trump campaign rejects Taliban support for 2020 reelection"
     excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
     publishedDateTime: 2020-10-11T15:19:43Z

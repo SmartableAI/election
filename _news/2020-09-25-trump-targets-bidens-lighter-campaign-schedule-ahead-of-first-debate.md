@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1430
+heat: 1450
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/09/29/us/politics/29debate-assess3/29debate-assess3-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump hits Biden over unverified report on his son Hunter"
+    excerpt: "Trump, at a rally in Des Moines and in an interview with Newsmax, seized on an unverified report in the New York Post about Hunter Biden."
+    publishedDateTime: 2020-10-15T02:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-hits-biden-over-unverified-report-his-son-hunter-n1243491"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243491"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243491"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420307/201014-iowa-donald-trump-maga-rally-ac-1016p_0b68f878a47d50536363cc5541f72026.jpg"
+        width: 2500
+        height: 1669
         isCached: true
   - title: "Trump email says he ‘finished debating’ Biden hours before debate begins"
     excerpt: "The Trump campaign claimed the president \"finished debating Joe Biden\" and bragged about his performance hours before the debate even started Tuesday night. In a prematurely sent campaign email obtained by POLITICO,"

@@ -126,6 +126,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Emails to Hunter Biden show plans to meet with State Department officials about Burisma probe"
+    excerpt: "An adviser for Ukrainian natural gas firm Burisma Holdings in 2014 requested that Hunter Biden give “advice” on how the son of then-Vice President Joe Biden could use his “influence to convey a message” to “stop” what the company considered to be “politically motivated actions,” according to an email"
+    publishedDateTime: 2020-10-14T22:00:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5xqFcxSOGU/emails-to-hunter-biden-show-plans-to-meet-with-state-department-officials-about-burisma-probe"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden was briefed about son's involvement, according to Hunter Biden Burisma report: Hemingway"
     excerpt: "Joe Biden has \"not spoken accurately\" about his knowledge of his son Hunter Biden's involvement in Burisma, Fox News contributor Molly Hemingway said on \"Fox News @ Night.\""
     publishedDateTime: 2020-09-24T12:59:00Z

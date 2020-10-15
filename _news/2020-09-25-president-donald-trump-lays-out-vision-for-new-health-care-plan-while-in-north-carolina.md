@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump is either a tax fraud or the world’s worst businessman"
+    excerpt: "In a 2015 filing with the Federal Election Commission, then-candidate Donald Trump claimed his net worth was $10 billion. The financial press was skeptical of that claim, but nonetheless, Trump listed assets totaling $1."
+    publishedDateTime: 2020-09-28T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NZP45IABOAI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "The most essential books of the Trump era are barely about Trump at all"
     excerpt: "As the Washington Post’s nonfiction book critic, I’ve read well over 150 works covering Donald Trump and the major debates of his presidency, and that’s just a small fraction of the canon. Dissections of heartland voters."
     publishedDateTime: 2020-10-01T19:52:00Z
@@ -157,37 +173,21 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Donald Trump doesn’t really care about white supremacy and you’re not going to make him"
-    excerpt: "President Trump has been consistently clear about his view of white supremacists. If you expect him to spontaneously denounce them, you’ll be waiting for a while. If, however, you insist that he does so,"
-    publishedDateTime: 2020-09-30T18:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+  - title: "The Cybersecurity 202: Trump made a slew of false claims about mail voting during the first debate"
+    excerpt: "President Trump closed the first 2020 presidential debate with a barrage of false claims about mail voting that are sure to give heartburn to officials trying to run an orderly election amid extremely difficult circumstances."
+    publishedDateTime: 2020-09-30T11:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/cybersecurity-202-trump-made-slew-false-claims-about-mail-voting-during-first-debate/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 117
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DAO4XQAJQI6XMHEGUHE4YGMSE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SJEYTIQC3MI6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
-        height: 960
-        isCached: true
-  - title: "The Health 202: Trump tests positive for coronavirus, throwing into chaos final days of campaign"
-    excerpt: "President Trump and first lady Melania Trump have tested positive for the novel coronavirus. The situation is unprecedented and deeply ironic, as the virus Trump downplayed now threatens to upend the remaining 32 days of his campaign."
-    publishedDateTime: 2020-10-02T11:38:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQADIXAEUEI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
+        height: 971
         isCached: true
   - title: "Donald Trump's Much-Hyped Health Care Plan Isn't Much of a Plan at All"
     excerpt: "These are two of Americans’ biggest complaints with the country’s health care system. But neither of these orders will have any immediate effect on the problem at hand. The first non-binding executive order is simply a promise."
@@ -202,20 +202,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/09/Donald-Trump-Health-Care-Preexisting-Conditions.jpg"
         width: 3371
         height: 2247
-        isCached: true
-  - title: "Trump's COVID-19 diagnosis doesn't stop 2020 fundraising"
-    excerpt: "Partisans continue searching for every financial and political advantage possible despite President Trump's coronavirus diagnosis."
-    publishedDateTime: 2020-10-03T01:39:00Z
-    webUrl: "https://www.businessinsider.com/trump-covid-coronavirus-diagnosis-not-stopping-republicans-democrats-fundraising-money-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/5f775a7374fe5b0018a8ec3d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Donald Trump Isn’t Broke. He’s a Very Rich Guy Who Doesn’t Pay Enough Taxes."
     excerpt: "Some people are reading Trump’s taxes — or the New York Times’ account of what was in his taxes over the last 20 years — much too literally."

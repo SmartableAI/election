@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 383
+published: true
 
 provider:
   name: Reuters
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Note: Trump campaigns in a bubble amid signs of GOP worry about race"
-    excerpt: "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all."
-    publishedDateTime: 2020-10-09T10:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
     excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
     publishedDateTime: 2020-10-13T20:55:00Z
@@ -63,109 +47,184 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump's first public address since COVID-19 diagnosis had hallmarks of a campaign event at the White House"
-    excerpt: "White House spokesman Judd Deere said the event was an \"official\" event, and \"the campaign is not involved in this.\""
-    publishedDateTime: 2020-10-10T21:23:00Z
-    webUrl: "https://www.cbsnews.com/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trumps-first-public-address-since-covid-19-diagnosis-had-hallmarks-of-a-campaign-event-at-the-white-house/"
+  - title: "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns"
+    excerpt: "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,"
+    publishedDateTime: 2020-10-11T13:36:00Z
+    webUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138"
+    ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 107
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/10/8edbe822-2635-4cdf-83fd-290898f33e7e/thumbnail/1200x630/ceb27539b1ede26b1d98e19256853537/gettyimages-1228998575.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
+        width: 3000
+        height: 1933
         isCached: true
-  - title: "Doctors: Trump 'not entirely be out of the woods'"
-    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
-    publishedDateTime: 2020-10-05T20:59:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
+  - title: "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House"
+    excerpt: "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information."
+    publishedDateTime: 2020-10-10T08:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5941684002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
+    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
+    publishedDateTime: 2020-10-14T07:37:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
+    excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
+    publishedDateTime: 2020-10-10T21:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
+    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
+    publishedDateTime: 2020-10-13T01:40:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
-    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
-    publishedDateTime: 2020-10-13T15:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+  - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
+    excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "2 arrested for stealing Trump-Pence campaign signs in Tucson"
-    excerpt: "Authorities in Tucson have arrested two people for allegedly stealing signs supporting President Donald Trump’s campaign. The Pima County Sheriff’s Department said the arrests were made Sunday night after someone called into 911 to report the taking of a Trump-Pence sign."
-    publishedDateTime: 2020-10-14T11:43:00Z
-    webUrl: "https://www.12news.com/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    ampWebUrl: "https://www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+  - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
+    excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
+    publishedDateTime: 2020-10-13T14:41:00Z
+    webUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 100
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/601274649/601274649_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://i.insider.com/5f850341c255d800190b97bf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Donald Trump Did Not Win This Year's Nobel Peace Prize"
-    excerpt: "President Donald Trump didn't win this year's Nobel Peace Prize after scoring another nomination from his supporters. On Friday, the Norwegian Nobel Committee announced that the prize has been awarded to the U."
-    publishedDateTime: 2020-10-11T03:42:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-did-not-win-years-nobel-peace-prize-3059972?amp=1"
+  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
+    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T16:13:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 75
+  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
+    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
+    publishedDateTime: 2020-10-13T01:14:00Z
+    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
+    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
+    publishedDateTime: 2020-10-14T20:09:00Z
+    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
+    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 73
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
         width: 1024
-        height: 682
+        height: 735
         isCached: true
-  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
-    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
-    publishedDateTime: 2020-10-07T02:35:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 67
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Judge Throws Out Trump Campaign's Pennsylvania Lawsuit"
-    excerpt: "A federal judge in Pennsylvania is throwing threw out a lawsuit filed by President Donald Trump’s campaign, dismissing its challenges to the battleground state’s poll-watching law and its efforts to limit how mail-in ballots can be collected and which of them can be counted."
-    publishedDateTime: 2020-10-10T17:29:00Z
-    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania"
-    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
+    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Tells Fans On Post-Covid Comeback Tour: 'I Feel So Powerful'"
+    excerpt: "US President Donald Trump is embarking on a tour of swing states Photo: AFP / MANDEL NGAN \"I feel so powerful. I'll walk in there, I'll kiss everyone in that audience. I'll kiss t"
+    publishedDateTime: 2020-10-13T02:06:00Z
+    webUrl: "https://www.ibtimes.com/trump-tells-fans-post-covid-comeback-tour-i-feel-so-powerful-3060877"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+        width: 1024
+        height: 651
+        isCached: true
 
 secured: "LKwmeFNkJ+nUoPCupJdI0qJf58yqE92I+mH+ErADXwD2C1/1eTdfLayCEA0utvYsU/QO0/rcf5vjy70Bop6NedRDCrCUyj/HG9Qdc0dNvn8tmKei3GRJEWC1MhUtFLASngYXdTmKgDORIyeCTc+f+U5ZoRYFHljPOx6ySZKmRtsdXxgL8+lv+LxuNR+GuGX++Y6LA6QxKfynPMIzMQifhoSXPbYGgbIQ8Wea13wCjjdkif/0ID6Hk9A80RSraAJV+DfR4URzj16swbK8xWbiWgjPfgtVk8PCA54QYSedsG3uhm/ttje0GN9QfJ2HumHIZ2P6l4x4WEzYwpSL4T+spYOj0ciXdNsFj6Qsg1EUV5nPAJHk70zs/bs0wNoeJGEUI7ipyJPKVBaUQ03FKK5TLR54L2kz2L7YoI6kPAzzI8toRkMsW7vYvfKmiPrb9mJweOsiL7b5vkr7VJoxJEIhu4CXiO+SI3IuQP3NKbVHsoCQ29HlJWJwAd9jMwaf1Epeme/CVdA7qRV5jsbivjhNVw==;WXXTtcIgoHRXff3KjTWX+A=="
 ---

@@ -1236,6 +1236,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
+    excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
+    publishedDateTime: 2020-10-14T22:25:00Z
+    webUrl: "https://www.thedailybeast.com/nbc-staffers-seethe-as-trump-gleefully-uses-the-network-against-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "72mhJzLwtezCw25H1COPA/3bbmTo5WJ+d/80Gjko4ASqS3lol+TBJUmGjWVUbqRLj8EFySYcGx7ebTb5iDgpFBtRVyv5qoZFbsAN/NFU1209/TrnZTtlc7S1p4KLNv6b+XPNkJq0BWqtqcv7KoUzYcJsqBn+qF4CmI9zPt5HeHJWHHFOcDndUq+gW720E5Txk2VtIu87cwTSqf+EKscklWJ80zxn/5rXXNlrpG6stpXarLM0O9spygHbAPZMwkoDSR97kRP/Z8u2zbvMTmzi3SwHobCWpoEURfkHwPu8se55oIjEd5law3V0ZvIAozLm2TWLdUpY77KXOEI1YohHMXcYTos2ZmGTwuOzELZ2pXFQxYEyPddfu31JhSQC3RZrB9gmwSZj8EPq7tNqxI75R+W68d7wsPibPX4c9lTa3BBZmTQ12L915Sp1z4RzPji2B1B/xLpXo+K+kBjL3/XwPFsFVLfvbAWg5LrPAwp+7rnWmvwCqyPDxXMgrvEBMVYYNPEXL+rjc+hjMdEbV00VUw==;Lq5iDyTPNTY4ta7Fi59f7A=="
 ---

@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Harris asks Barrett if COVID-19 is infectious and if smoking causes cancer to make climate change point"
+    excerpt: "Sen. Kamala Harris asked Judge Amy Coney Barrett if smoking causes cancer and if coronavirus is infectious, in an effort to reveal the Supreme Court nominee’s thoughts on climate change. "
+    publishedDateTime: 2020-10-14T22:43:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7nawF0J1w/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
     excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
     publishedDateTime: 2020-10-09T17:19:29Z
@@ -213,6 +229,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
         width: 5472
         height: 3648
+        isCached: true
+  - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
+    excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn."
+    publishedDateTime: 2020-10-14T23:47:00Z
+    webUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2383d337-30dc-4cfd-85c4-2302a660ee26/053a12df-9ba3-45f7-bb58-79fa86291ba4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris has technical difficulties signing in to Amy Coney Barrett confirmation hearing"
     excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, had a tough time on Monday when she experienced technical issues while trying to remotely participate in Amy Coney Barrett’s Senate confirmation hearings."

@@ -50,49 +50,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-ivanka-trump-coming-to-arizona-on-sunday-to-help-president-donald-trump-gop.md",
-      "title": "Ivanka Trump coming to Arizona on Sunday to help President Donald Trump, GOP",
-      "excerpt": "Ivanka Trump will headline a moderated discussion on Sunday about the Trump administration's policies and how they have affected Arizonans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/",
-      "originalUrl": "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/ffbf1acb-ff36-4c4b-a0b6-dae34b3c670f-b6b2a32c-e3c5-42c6-98ac-2fd216be7e30_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.azcentral.com/amp/5938960002",
-      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5938960002",
-      "publishedDateTime": "2020-10-09T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Arizona Republic",
-        "domain": "azcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-trump-lashes-out-at-barr-after-realizing-inquiry-into-russia-probe-wont-be-public-before-election.md",
       "title": "Trump lashes out at Barr after realizing inquiry into Russia probe won't be public before election",
       "excerpt": "President Trump has ramped up his criticism of Attorney General Barr as he seeks to make the origins of the Russia probe a major election issue.",
@@ -101,7 +58,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/09/donald-trump-frustrated-william-barr-over-inquiry-into-russia-probe/5939328002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 186,
       "tags": null,
       "images": [
         {
@@ -202,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race.md",
-      "title": "NYT: Casino connections helped Trump engineer $21M windfall during 2016 race",
-      "excerpt": "President Trump's tax records reveal that the president engineered a windfall of more than $21 million during his 2016 presidential run,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race",
-      "originalUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_092820getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp",
-      "publishedDateTime": "2020-10-09T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-judge-rejects-trump-campaign-request-for-access-to-philadelphia-voter-offices.md",
       "title": "Judge rejects Trump campaign request for access to Philadelphia voter offices",
       "excerpt": "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,",
@@ -303,63 +208,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump.md",
-      "title": "The Crises of America’s Sick Presidents, From George Washington to Donald Trump",
-      "excerpt": "The Founders didn’t anticipate how often presidential illness would become an issue",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "originalUrl": "https://www.wsj.com/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-242771/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-crises-of-americas-sick-presidents-from-george-washington-to-donald-trump-11602272815",
-      "publishedDateTime": "2020-10-09T13:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {
@@ -416,58 +264,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-record-breaking-group-of-faith-leaders-endorses-biden.md",
-      "title": "'Record-breaking group' of faith leaders endorses Biden",
-      "excerpt": "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
-      "originalUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp",
-      "publishedDateTime": "2020-10-09T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -640,21 +436,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-10-twitters-new-rules-try-to-prevent-electionand-trump-relatedchaos.md",
-      "title": "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos",
-      "excerpt": "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation.",
+      "path": "_news/2020-10-10-hurricane-delta-trumps-coronavirus-battle-nobel-peace-prize-lakers-5-things-to-know-friday.md",
+      "title": "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday",
+      "excerpt": "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/",
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 340,
+      "heat": 173,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200",
           "width": 1200,
-          "height": 800,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -662,16 +458,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/",
-      "publishedDateTime": "2020-10-09T10:33:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3592077001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001",
+      "publishedDateTime": "2020-10-09T10:29:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -791,58 +587,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-donald-trump-is-a-tyrant-and-not-your-friend-says-suspect-in-governor-whitmer-kidnapping-plot.md",
-      "title": "Donald Trump is a 'Tyrant' and 'Not Your Friend', Says Suspect in Governor Whitmer Kidnapping Plot",
-      "excerpt": "\"Trump is not your friend dude and it amazes me that people actually like believe that,\" Brandon Caserta, one of the men charged with conspiring to kidnap Whitmer, said in a video posted to Twitter by American producer and director Robby Starbuck.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821",
-      "originalUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1648606/gretchen-whitmer.jpg",
-          "width": 2500,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1",
-      "publishedDateTime": "2020-10-09T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-halloween-store-selling-debate-fly-wig-inspired-by-bug-on-mike-pences-head-at-vp-debate.md",
       "title": "Halloween store selling 'Debate Fly Wig' inspired by bug on Mike Pence's head at VP debate",
       "excerpt": "Just in time for Halloween, an online shop is selling a bug-bedecked white wig inspired by the now-viral fly that landed in Vice President Mike Pence’s hair during the vice presidential debate on Wednesday night.",
@@ -900,58 +644,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-09-bidens-first-step-on-taxes-may-be-cracking-down-on-cheats-democrats-say.md",
-      "title": "Biden's first step on taxes may be cracking down on cheats, Democrats say",
-      "excerpt": "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536855212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG980WM",
-          "width": 786,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26U1IU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U1IU",
-      "publishedDateTime": "2020-10-09T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-09-on-economic-aid-trump-seems-to-realize-he-messed-up-tactically.md",
       "title": "On economic aid, Trump seems to realize he 'messed up tactically'",
       "excerpt": "It dawned on the oft-confused president that sabotaging himself in the final four weeks of re-election campaign wasn't such a good idea.",
@@ -1006,216 +698,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-trump-will-take-a-medical-evaluation-administered-by-a-fox-news-doctor-on-tv-the-network-says.md",
-      "title": "Trump will take a 'medical evaluation' administered by a Fox News doctor on TV, the network says",
-      "excerpt": "The president will be interviewed by Tucker Carlson on Friday, Fox News said. It will be his first on-camera interview since his COVID-19 diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f805ff34c3b2e0019bba144?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp",
-      "publishedDateTime": "2020-10-09T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-kamala-harris-and-the-shameful-history-of-slamming-women-as-unlikable.md",
-      "title": "Kamala Harris and the shameful history of slamming women as 'unlikable’",
-      "excerpt": "President Trump also derided the Democratic vice-presidential candidate as ‘a monster’ — a term used to vilify suffragists more than a century ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
-      "originalUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YMXXG3QJGAI6XBYZBXYVTUKHSQ.jpg&w=1440",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/09/unlikable-women-kamala-harris-trump/?outputType=amp",
-      "publishedDateTime": "2020-10-09T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-note-trump-campaigns-in-a-bubble-amid-signs-of-gop-worry-about-race.md",
-      "title": "The Note: Trump campaigns in a bubble amid signs of GOP worry about race",
-      "excerpt": "President Donald Trump is stuck at the White House-- sidelined by a COVID-19 diagnosis that turned out not to have upended his campaign messaging much at all.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "originalUrl": "https://abcnews.go.com/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/president-trump-rt-jef-201008_1602194061389_hpMain_2_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-campaigns-bubble-amid-signs-gop-worry/story?id=73494162",
-      "publishedDateTime": "2020-10-09T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-live-updates-arizona-in-the-spotlight-as-mike-pence-joe-biden-and-kamala-harris-visit-thursday.md",
-      "title": "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday",
-      "excerpt": "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1262,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/09/PPHX/396ce7e5-ea64-44a7-9ed8-f700212b8412-AP20282855874609.jpg?auto=webp&crop=999,562,x0,y51&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5917943002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917943002",
-      "publishedDateTime": "2020-10-09T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     },
     {
@@ -1284,7 +766,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 462,
+      "heat": 522,
       "tags": null,
       "images": [
         {
@@ -1325,6 +807,551 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-trump-suggests-he-may-hold-weekend-rallies-in-florida-pennsylvania-after-receiving-green-light-from-doctor.md",
+      "title": "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor",
+      "excerpt": "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp",
+      "publishedDateTime": "2020-10-08T20:23:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.md",
+      "title": "Karen Pence’s office says both sides agreed to no masks at end of debate",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aplWtDyy8c0/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aplWtDyy8c0/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1cce0175-a7be-420c-a6f4-6a820ce90d21/6ac1c14e-ff9e-4404-9fc2-423cb394a034/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karen-pences-office-says-both-sides-agreed-to-no-masks-at-end-of-debate.amp",
+      "publishedDateTime": "2020-10-08T20:18:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-debate-commission-co-chair-defends-virtual-move-after-trump-pulls-out-we-will-be-guided-by-the-medicine.md",
+      "title": "Debate commission co-chair defends virtual move after Trump pulls out: 'We will be guided by the medicine'",
+      "excerpt": "Commission on Presidential Debates (CPD) co-chair Frank Fahrenkopf has defended the organization's decision to move the second presidential debate, slated for Oct. 15, to a virtual setting after President Trump dismissed the idea as a \"waste\" of time. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WaohQlSRuas/virtual-debate-trump-biden-frank-fahrenkorpf",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d9f4375-e6af-4667-81a1-d8564e2cd2f6/7133e21f-a8e0-418b-b911-a6323c249384/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virtual-debate-trump-biden-frank-fahrenkorpf.amp",
+      "publishedDateTime": "2020-10-08T19:28:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-biden-says-hell-answer-court-packing-question-when-the-election-is-over.md",
+      "title": "Biden says he'll answer court-packing question 'when the election is over'",
+      "excerpt": "Democratic presidential nominee Joe Biden again ducked questions Thursday about whether he would seek to add seats to the Supreme Court, telling reporters he would not address the issue until after the November 3 election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0zHRjIHTFqs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 528,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201006165347-02-biden-gettysburg-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html",
+      "publishedDateTime": "2020-10-08T17:01:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-at-debate-mike-pence-didnt-say-what-he-has-before-he-supports-overturning-roe-v-wade.md",
+      "title": "At debate, Mike Pence didn’t say what he has before: He supports overturning Roe v. Wade",
+      "excerpt": "Vice President Mike Pence artfully sidestepped the chance to talk about banning abortion before a national audience at Wednesday’s debate.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "originalUrl": "https://abcnews.go.com/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/pence-vp-debate-04-rt-jef-201007_1602126711944_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-mike-pence-didnt-supports-overturning-roe-wade/story?id=73508629",
+      "publishedDateTime": "2020-10-08T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
+      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
+      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-09-karen-pences-office-defends-her-appearing-without-a-mask-at-debate.md",
+      "title": "Karen Pence's office defends her appearing without a mask at debate",
+      "excerpt": "Second lady Karen Pence’s office defended her appearance on the debate stage Wednesday night without wearing a mask.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate",
+      "originalUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencekaren_10082020_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520249-karen-pences-office-defends-her-appearing-without-a-mask-at-debate?amp",
+      "publishedDateTime": "2020-10-08T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-pence-does-his-best-but-harris-wont-let-him-explain-away-trumps-failures.md",
+      "title": "Pence does his best but Harris won't let him explain away Trump's failures",
+      "excerpt": "Vice President Mike Pence tried his best on Wednesday to recast the reality of Donald Trump's presidency, but Sen. Kamala Harris, the Democratic pick for his job, refused to let him spin away the nation's current dire plight during their single debate.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/125OZAHasvQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 2303,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007211332-split-vp-debate-harris-pence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html",
+      "publishedDateTime": "2020-10-08T04:09:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-rick-santorum-cut-off-female-co-panelist-gloria-borger-while-she-was-talking-about-mike-pence-interrupting-kamala-harris-at-the-vp-debate.md",
+      "title": "Rick Santorum cut off female co-panelist Gloria Borger while she was talking about Mike Pence interrupting Kamala Harris at the VP debate",
+      "excerpt": "Pence interrupted Harris twice as often during Wednesday night's vice-presidential debate, prompting criticism from the CNN analyst Borger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "originalUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7ed3e0c655f6001969ed92?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp",
+      "publishedDateTime": "2020-10-08T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-kanye-west-tweets-video-with-vote-kanye-hat-on-kamala-harris-head-during-vp-debate.md",
+      "title": "Kanye West Tweets Video With 'Vote Kanye' Hat on Kamala Harris' Head During VP Debate",
+      "excerpt": "Kanye West's name will appear on ballots in 11 states, but people have wondered whether his presidential campaign is sincere, a spoiler attempt or just a publicity stunt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319",
+      "originalUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647776/vote-kanye-west-hat-kamala-harris-tweet.jpg",
+          "width": 3000,
+          "height": 1935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319?amp=1",
+      "publishedDateTime": "2020-10-07T23:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     }
   ],

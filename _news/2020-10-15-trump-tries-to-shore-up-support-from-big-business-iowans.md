@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Tries to Shore up Support From Big Business, Iowans"
-excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa."
-publishedDateTime: 2020-10-14T19:07:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/fighting-in-swing-states-trump-also-forced-to-play-defense?context=amp"
+title: "Trump tries to shore up support from big business, Iowans"
+excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa"
+publishedDateTime: 2020-10-15T01:38:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
+webUrl: "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
 type: article
-quality: 55
-heat: -1
-published: false
+quality: 125
+heat: 245
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,111 +24,108 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
-  - title: "Bipartisan Christian group forms super PAC to oppose Trump"
-    excerpt: "A group of prominent Christians from both sides of the aisle, including a past faith adviser to former President Barack Obama, is forming a political action committee designed to chip away at Christia"
-    publishedDateTime: 2020-10-13T11:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_31b82ad74ee34ba98f415b10c89ac659_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC"
-    excerpt: "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election."
-    publishedDateTime: 2020-10-13T15:26:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/"
+  - title: "Trump Loses Latest Fight To Keep Tax Returns From Manhattan D.A., Supreme Court Battle Looms"
+    excerpt: "A federal appeals court rejected Donald Trump’s latest attempt to keep eight years of tax returns from Manhattan’s district attorney."
+    publishedDateTime: 2020-10-07T15:45:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 123
+    quality: 114
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596"
-        width: 1200
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de0dd33fa87183df1ec42%2F0x0.jpg%3FcropX1%3D28%26cropX2%3D2971%26cropY1%3D0%26cropY2%3D1963"
+        width: 1199
         height: 800
         isCached: true
-  - title: "Christian group launching ads charging Trump 'used Christianity for his own purposes'"
-    excerpt: "A bipartisan coalition of Christians is forming a political action committee that aims to weaken President Trump’s standing with evangelical voters."
-    publishedDateTime: 2020-10-13T15:33:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own?amp"
+  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
+    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonaldbible.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach"
-    excerpt: "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday."
-    publishedDateTime: 2020-10-14T04:45:00Z
-    webUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
-    images:
-      - url: "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Donald Trump tests negative for COVID-19, White House physician says"
-    excerpt: "U.S. President Donald Trump’s personal physician Dr. Sean Conley confirmed late Monday that the president has tested negative for the novel coronavirus “on consecutive days.”"
-    publishedDateTime: 2020-10-13T02:36:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/donald-trump-tests-negative-covid-19/6MH5D5K2IBATFLQG7HO5QQGIIY/"
+  - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
+    excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
+    publishedDateTime: 2020-10-13T17:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
     type: article
     provider:
-      name: WSB-TV
-      domain: wsbtv.com
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 72
+    images:
+      - url: "https://media.vanityfair.com/photos/5f85d3d4b13a7bb1006f71b8/master/pass/donaldtrumprally.jpg"
+        width: 2000
+        height: 1348
+        isCached: true
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
+        isCached: true
+  - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
+    excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
+    publishedDateTime: 2020-10-14T14:41:00Z
+    webUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 60
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Mass. middle schooler who supports Trump asks for staff training"
+    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
+    publishedDateTime: 2020-10-14T11:48:00Z
+    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
     quality: 55
     images:
-      - url: "https://www.wsbtv.com/resizer/tOVgVIvOp1TkdA8ZzYfZxN8ornY=/1200x628/d1hfln2sfez66z.cloudfront.net/10-12-2020/t_34ff7305edb54255b37a3168b934545f_name_Trump_tests_negative_for_COVID_19_Poster.jpg"
-        width: 1200
-        height: 628
+      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "John Paulson and Donald Trump at Economic Club Luncheon"
-    excerpt: "American hedge fund manager John Paulson speaks with Republican Candidate for President Donald Trump at the Economic Club of New York Luncheon on September 15, 2016 at the Waldorf Astoria in New York City."
-    publishedDateTime: 2020-10-13T20:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3dea318fcc4751b3003889c6ef766bd9/John-Paulson-and-Donald-Trump-at-Economic-Club-Luncheon/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/3dea318fcc4751b3003889c6ef766bd9/TRUMP-ECONOMIC-CLUB.jpg"
-        width: 650
-        height: 429
-        isCached: true
-  - title: "Supreme Court TV? Trump Nominee Has Open Mind on Cameras"
-    excerpt: "Neither video nor still cameras are allowed in the Supreme Court chamber. But the court, in a break with precedent, allowed live audio of its oral arguments at the end of its most"
-    publishedDateTime: 2020-10-14T15:36:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
-secured: "dzqHj99s71VRBpLuCbrKUFqJFobnZ15iy/xdJxp71raUQt+LHfIt6MYdW3QO7ag1bE/Xy9uGsTxCxyyx98UB2m0m/zrPYZzltUMKyCmvV5oGpc1jxQP43sOEuR26bm22wtmjc3NxEw9oz1hpcdLK0yYA2GdpQjCvaEKdeAzjnfHatJET8wMVDlVCgBlU0XdEkJquKoQ8XMJXsRMhdfppcwNpC81lVxObhGFbbKWgwS0tlYnB50/uCVg1sJgEu9YZeu6ybpEpXaZ1uh4zgFxyEMQBENAasXn7cS4ZT+bpk0E3IsxdMD8rYRCTizm7zS9wCNVGFg3uOKi6DjfQjyR97vyWh7k/tn9iid3OTqMuf1EPs150FrCOZXDVRO1f+UYOHS4KxP339BKLcxiT0HmEnwJOozLCmLhTkY7DgQ7BExr8yCA6ro54OyXazn0+5Eur1599BhNxXQsRW64BYro+43YpBDkkSzh1XaBkTo+VOlk55Z6Wvnnd+ciKLtiJ2GDWQqbXzX1MkC89YpLf0eC1/Q==;137a9+qvafDakQJkXtzT0A=="
+secured: "wQtaRkWVOzLR9zScn34w9o9PhIqYAd6IL7L+gMH/eEhtyAiCpe9GLh0ezR8zDsWRlc/CTb8bSvD8cJtLdc+EHzYYBWWv00KFl9QsfmOW8cu74AuUrwAsW7W7+mE4PweaJZHkL2Xg6k4SeNANQ/uZrsU7p6DD9Hl5ynDjhIJNTpDqQgkE2GSOzjdpjsF74it0b4/DXstSc+yZkQgvdXWk7NlfzUnB+sM4RXXlm2dfG+rzFttA14AimUKJSaLr/0gOIRSYfE55zUCJuEqwkh9vhwNt05AAfEs+vCk3s24Nlz+eiT+T2LAbTbOR+voLzrb8rlgek3WVZQf0IHlszZH/pdKyxoaB3ur3QgYczu4WXMg=;msTGHyiZ9034DfYRL/Ig0g=="
 ---
 

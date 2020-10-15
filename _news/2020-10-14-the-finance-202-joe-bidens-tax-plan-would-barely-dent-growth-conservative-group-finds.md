@@ -31,98 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "'Record-breaking group' of faith leaders endorses Biden"
-    excerpt: "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group."
-    publishedDateTime: 2020-10-09T19:47:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
+  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
+    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
+    publishedDateTime: 2020-10-14T01:32:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54527265"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: BBC
+      domain: bbc.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "17-year-old climate activist Greta Thunberg endorses Joe Biden"
-    excerpt: "\"I never engage in party politics. But the upcoming US elections is above and beyond all that,\" the 17-year-old climate activist from Sweden tweeted."
-    publishedDateTime: 2020-10-10T17:03:00Z
-    webUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f81d732642e9400180b52ca?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden Opens Up Lead in Florida, Has Increased Chance of Winning With Bookmakers"
-    excerpt: "\"It seems that the books believe Biden is hitting stride at just the right time,\" said betting comparison website Oddschecker."
-    publishedDateTime: 2020-10-14T15:46:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-lead-florida-chance-winning-bookmakers-1539020?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
-    images:
-      - url: "https://d.newsweek.com/en/full/1651724/biden-campaign-florida.jpg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
-  - title: "Goldman's chief economist breaks down why a Biden-led blue wave would prompt an upgrade in growth forecasts"
-    excerpt: "Longer-term economic growth forecasts would be lifted by spending increases on infrastructure, climate, healthcare, and education, Goldman said."
-    publishedDateTime: 2020-10-05T16:37:00Z
-    webUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-biden-blue-wave-boost-growth-goldman-sachs-2020-10?amp"
+  - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
+    excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."
+    publishedDateTime: 2020-10-09T13:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U1IU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U1IU"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://i.insider.com/5f7b3e7494fce90018f7b152?format=jpeg"
-        width: 2886
-        height: 1443
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536855212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG980WM"
+        width: 786
+        height: 545
         isCached: true
-  - title: "Examining Joe Biden's Record On Race: 1994 Crime Bill Sponsorship"
-    excerpt: "In the second part of a series on former Vice President Joe Biden's record on race, NPR's Steve Inskeep examines the long-term consequences of his sponsorship of the 1994 Crime Bill."
-    publishedDateTime: 2020-10-13T09:05:00Z
-    webUrl: "https://www.npr.org/2020/10/13/923170325/examining-joe-bidens-record-on-race-1994-crime-bill-sponsorship"
+  - title: "Powered by trust on the pandemic, Biden leads by 12 points nationwide: POLL"
+    excerpt: "Joe Biden holds a 17-point lead over Donald Trump in trust to handle the coronavirus pandemic in a new ABC News/Washington Post poll, powering the Democrat to a double-digit advantage in vote preference with the presidential election three weeks away."
+    publishedDateTime: 2020-10-11T04:39:00Z
+    webUrl: "https://abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-plumbers-main_hpMain_20201010-193754_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Connie Chung endorses Joe Biden for president..."
+    excerpt: "Watch \"Connie Chung endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-09T15:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201009152108-connie-chung-endorses-joe-biden-for-president/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07190842_1602257232.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Editorial: Joe Biden's leadership would benefit our country"
-    excerpt: "A Biden administration has an opportunity to demonstrate that the presidency can be — should be — about more than the chief executive’s vanity or need for constant attention."
-    publishedDateTime: 2020-10-11T11:14:00Z
-    webUrl: "https://omaha.com/opinion/editorial/editorial-joe-bidens-leadership-would-benefit-our-country/article_48cd10a0-0314-5bb3-adff-48779fe262cd.html"
+  - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
+    excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
+    publishedDateTime: 2020-10-13T22:24:00Z
+    webUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/"
+    ampWebUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
+  - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
+    excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
+    publishedDateTime: 2020-10-06T22:21:00Z
+    webUrl: "https://www.c-span.org/video/?c4912952/joe-biden-appeals-national-unity-return-bipartisanship"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4912952"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4912952"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 55
+  - title: "Endorsement: Pennsylvania needs Joe Biden"
+    excerpt: "From COVID-19 to the environment to racial justice, Donald Trump has failed. Joe Biden and Kamala Harris can set us on a new course. The stakes for Pennsylvanians could not be higher."
+    publishedDateTime: 2020-10-11T09:16:00Z
+    webUrl: "https://www.inquirer.com/opinion/editorials/a/philadelphia-inquirer-2020-endorsements-biden-trump-20201011.html"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
     quality: 55
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8c/48cd10a0-0314-5bb3-adff-48779fe262cd/5f80b9709c912.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://www.inquirer.com/resizer/xv0aCzajDcue01kI6g9qRH2zP5Q=/1200x0/center/middle/www.inquirer.com/resizer/58G0AwdvoBWhoRhhb87lE6fkog8=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/4ZLGKDUXCZE6BHWZOQFEF4FPEY.jpg"
+        width: 1200
+        height: 801
         isCached: true
+  - title: "Joe Biden Delivers Remarks in Toledo on the Economy"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy. 2020 Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation’s economy."
+    publishedDateTime: 2020-10-12T17:26:00Z
+    webUrl: "https://www.c-span.org/video/?476873-1/joe-biden-delivers-remarks-toledo-economy&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "ANVKXl06iqAKV/Y6nRcYqhsq6qx0X7t0XmVpQ4XA64jjqzM9vF6tCAGdLsnadhrmblOFgmpyFgQ0uwe9vcQ/J0TZbmsHAvN/wwcENu6HHqvQOvOtLoJtJJomiBe3hhp1YeYJ5rlRljKoLGNE4zbEqb2HJRaNUDxK7pvK09+zVmfizierWCHN5DjxCPl0YS2vWgxYZA8DfgjkngK4QeL8UOAGmsGfAQG2nP+wEulczwqzH0Zf0fzFcHBdawJTt/aWT2vG38yCVmt81OygUDkR+xgL+cvGYYDUwTo1L3MMMCpfljQ94Ug6Tabaf7xI41H9REN2Srea1X8NKru+FLTnkaROfvzXMi0I3o3WPxlXIL5aybo7bWldLMYnxGSfC/LD2BeKDhM9KHy4MLKcagKT0N5g2X3f0QKacvkeEIYMu1aPZu38x6/Tv7XMSO8ngCJATN31Ap+zVqnH7+jpm25z60390Bc6Xhzdtp+NBa0R51w9Q+6wEo+ZvrWJr6KyhVGOhlptL6Wl+6AR7nzLMjmZCg==;1erNBpIRwx+2+3jIPIm29A=="
 ---

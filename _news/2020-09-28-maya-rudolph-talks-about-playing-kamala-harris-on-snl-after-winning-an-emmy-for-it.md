@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "SNL: Maya Rudolph Gives One Her Best Kamala Harris Impressions Yet in Debate Skit"
-    excerpt: "Maya Rudolph is back at it again with her hilarious Kamala Harris impressions on Saturday Night Live. On the Oct. 10 episode, the comedian channeled the vice"
-    publishedDateTime: 2020-10-11T06:22:00Z
-    webUrl: "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222"
-    ampWebUrl: "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp"
-    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp"
+  - title: "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award"
+    excerpt: "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones."
+    publishedDateTime: 2020-09-22T08:02:00Z
+    webUrl: "https://www.desmoinesregister.com/story/entertainment/tv/2020/09/20/creative-arts-emmys-2020-maya-rudolph-wins-snl-kamala-harris/5844167002/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/5844167002"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5844167002"
     type: article
     provider:
-      name: PopSugar
-      domain: popsugar.com
-    quality: 70
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 68
     images:
-      - url: "https://media1.popsugar-assets.com/files/thumbor/irGmy4DjAtFtzK2EUdheYTs-2KE/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/10/271/n/1922283/5f257ac75f82988cd12da9.12583556_.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/380ab72e-f05f-4ca6-af75-415b9b632ae5-Harris_rudolph.jpg?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "'Saturday Night Live': Maya Rudolph's Kamala Harris Declares That America Needs a 'WAP' - 'Woman as President'"
-    excerpt: "The Emmy Award-winning comedian stated that America needs a 'woman as president' during the 'SNL' season 46 premiere cold open."
-    publishedDateTime: 2020-10-04T05:33:00Z
-    webUrl: "https://www.etonline.com/saturday-night-live-maya-rudolphs-kamala-harris-declares-that-america-needs-a-wap-woman-as"
-    ampWebUrl: "https://www.etonline.com/saturday-night-live-maya-rudolphs-kamala-harris-declares-that-america-needs-a-wap-woman-as?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/saturday-night-live-maya-rudolphs-kamala-harris-declares-that-america-needs-a-wap-woman-as?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 55
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-10/Screen%20Shot%202020-10-03%20at%208.39.22%20PM.png?h=79fc098b&itok=bI13Njdd"
-        width: 1280
-        height: 720
+        height: 675
         isCached: true
 
 secured: "Xz+BZgRnXIp4sUkymv5q+a/RD0o4hfA1I2wZMIlfFS/ds9eKDFPVVWWFOPXXxoTkcVGbSeujXUwCmQ9Vxikl7O2EmeH7i0jKi7ttPZ+MHSLeUGEphZxXXtfruZ1ZHjlcKkte7/DoISqG4EHWz3eCz3TD4kfLXkWKpaBfw3zQPRzLcu2bYMXtqSzmGwJxM5vMAZsXraKvVo8RRlzoIt5l97g7RU8GP/iDj3CKXdrWIkzA4uhJw4vsVZaeEdkBwzIeG77g3v19apqZpDZaq2j6pQ5p3xfby0DLTEGdImwuShLhL6eD2qaTbTKdkzAr5T2K2TmfMfd4N7WylGddBcoZKKpuTleB3JHGEoMI9Zw6CgA76MwDfIOYTgcPwerRXTxImJUzUKlQeKLTrSbkMS7Os1uf+/Rja25Hwiu4sQVwLgCq5M1Wi1/lmKWI0tz8S9AjIVLpY1hqxp7cOZwGJnbFJzucUkCgN4MoQ5rMLgXCBZTk5Zvh4XwjEnalZR9JW59s1qFntuwyPfncTDrYEZw76g==;qeOh3VB5S7T8lUH52hzE3w=="

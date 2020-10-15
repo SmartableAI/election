@@ -560,6 +560,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Delayed election, mail-in ballots and transfer of power: Barrett steers clear of Trump's strike zone"
+    excerpt: "The Supreme Court nominee was careful not to contradict legally dubious assertions by Trump or political controversies that he stokes on Twitter."
+    publishedDateTime: 2020-10-14T22:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/delayed-election-mail-ballots-transfer-power-barrett-steers-clear-trump-n1243448"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243448"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243448"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420225/201014-amy-coney-barrett-se-522p_58834173c76a9032c2cc27561368d9ba.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Michael Cohen writing book about DOJ and Trump world"
+    excerpt: "It is fair and accurate to state that President Trump has weaponized the Department of Justice,” the president’s former attorney said in an interview."
+    publishedDateTime: 2020-10-14T23:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9a/c7/dd3e9a91484dbaaee6008ab2b907/gettyimages-1147335350-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
     publishedDateTime: 2020-10-09T21:26:00Z
@@ -575,6 +607,22 @@ related:
       - url: "https://static.politico.com/2f/82/1d35ad4a4aee9069628e092332c8/201009-trump-mcentee-ap-773.jpg"
         width: 700
         height: 489
+        isCached: true
+  - title: "Trump 'not happy' with Barr, won't commit to keeping AG in potential second term"
+    excerpt: "The Justice Department found no evidence of wrongdoing and declined to release its report publicly or file any charges into Obama-era 'unmasking.'"
+    publishedDateTime: 2020-10-15T02:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/trump-not-happy-barr-won-t-commit-keeping-ag-potential-n1243489"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243489"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243489"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3420303/201014-donald-trump-bill-barr-ac-940p_7a76260149ecb50bdd6527d492d34205.jpg"
+        width: 2500
+        height: 1685
         isCached: true
   - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
     excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."

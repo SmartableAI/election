@@ -31,2317 +31,1548 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 Today: Trump resets, Biden harnesses history"
-    excerpt: "Three weeks before Election Day, President Donald Trump’s campaign has been left reeling by a series of setbacks"
-    publishedDateTime: 2020-10-12T14:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/election-2020-today-trump-resets-biden-harnesses-history-73560928"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 155
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_537f36502ab84dcc956735340835a6fa_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "AP FACT CHECK: Trump falsifies Biden stance on fracking"
-    excerpt: "President Donald Trump is persisting with the myth that Democratic rival Joe Biden proposes to ban fracking. Biden doesn't. TRUMP: \"One of the most important issues for Pennsylvania is the survival of your fracking industry."
-    publishedDateTime: 2020-10-14T01:43:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/ap-fact-check-trump-falsifies-biden-stance-fracking-73598736"
+  - title: "Harris to voters: Don't give up as Trump rushes court pick"
+    excerpt: "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election"
+    publishedDateTime: 2020-09-29T01:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 150
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_65f4bca9003f4cce9fbaa8fe89e6c1d7_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "WATCH: Joe Biden glad Trump is better, notes crisis is ‘far from over’"
-    excerpt: "Former Vice President Joe Biden delivered remarks about economic recovery for Latino communities amid the COVID-19 pandemic while visiting Little Havana in Miami on Monday."
-    publishedDateTime: 2020-10-05T20:56:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-joe-and-jill-biden-visit-little-haiti-cultural-center-in-miami"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 140
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/GettyImages-1228584412-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Hayden endorses Biden, says Trump 'doesn't care about facts'"
-    excerpt: "Michael Hayden, who served as director of both the CIA and the National Security Agency under multiple presidents, on Tuesday night endorsed Democratic presidential nominee Joe Biden, saying President Trump “doesn't care about facts” and “ doesn't keep the country safe."
-    publishedDateTime: 2020-10-07T13:24:00Z
-    webUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts"
-    ampWebUrl: "https://thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519940-hayden-endorses-biden-says-trump-doesnt-care-about-facts?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/article_images/haydenmichael_120316getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump halts COVID-19 relief talks until after election"
-    excerpt: "President Donald Trump says he has instructed aides to stop negotiating on another round of COVID-19 relief until after the election"
-    publishedDateTime: 2020-10-06T19:52:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_359bceaed01f4df7aaad003a6ba49153_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden vs. Trump: Here's where each candidate stands on debt"
-    excerpt: "According to the Federal Reserve, the total consumer debt burden currently stands at over $14 trillion. That's made up of mortgages, credit cards, personal loans, and other debts. So, where do the presidential candidates stand on debt?"
-    publishedDateTime: 2020-10-08T10:08:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/10/08/biden-vs-trump-where-each-candidate-stands-on-debt/114218012/"
-    ampWebUrl: "https://amp.usatoday.com/amp/114218012"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114218012"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden vs. Trump: Here's where each candidate stands on income"
-    excerpt: "Donald Trump and Joe Biden have differing views when it comes to the minimum wage and other income-related issues."
-    publishedDateTime: 2020-10-09T11:03:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/10/09/biden-vs-trump-heres-where-each-candidate-stands-on-income/114229982/"
-    ampWebUrl: "https://amp.usatoday.com/amp/114229982"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/114229982"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Donald Trump Supports Outdoor Debate Idea So Joe Biden Can't Read Answers 'Off a Computer'"
-    excerpt: "\"Joe has a tendency to get the answers and read them off a computer for when he's asked questions,\" Trump said."
-    publishedDateTime: 2020-10-10T01:38:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-supports-outdoor-debate-idea-so-joe-biden-cant-read-answers-off-computer-1538010?amp=1"
+  - title: "Kamala Harris Wishes Donald Trump a 'Full and Speedy' Recovery From COVID"
+    excerpt: "Following the president's announcement that he tested positive for COVID-19 on Thursday, Kamala Harris has wished him and the first lady her well-wishes."
+    publishedDateTime: 2020-10-02T14:37:00Z
+    webUrl: "https://www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960"
+    ampWebUrl: "https://www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 140
+    quality: 149
     images:
-      - url: "https://d.newsweek.com/en/full/1649128/donald-trump-debate-joe-biden-computer-outdoors.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Biden hits Trump on economy in critical Pennsylvania county"
-    excerpt: "Democratic presidential candidate Joe Biden is blistering President Donald Trump as only pretending to care about the working-class voters who helped flip the Rust Belt to the Republican column four y"
-    publishedDateTime: 2020-10-10T22:28:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-hits-trump-economy-critical-pennsylvania-county-73543380"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-hits-trump-economy-critical-pennsylvania-county-73543380"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-hits-trump-economy-critical-pennsylvania-county-73543380"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_867f90bf79d74c53b4ddd31d8d4350a4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden 'wants to debate Donald Trump again': National campaign co-chair"
-    excerpt: "Rep. Cedric Richmond, D-La., national co-chair of Joe Biden's presidential campaign, appeared on ABC's \"This Week.\""
-    publishedDateTime: 2020-10-11T15:39:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-debate-donald-trump-national-campaign-chair/story?id=73541834"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/cedric-richmond-gty-rc-201010_1602358539594_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump is trailing Biden by an average of 10.5 percentage points less than a month before Election Day"
-    excerpt: "At this point in the 2016 election, Democratic presidential nominee Hillary Clinton led Trump by 6.9 points, according to FiveThirtyEight."
-    publishedDateTime: 2020-10-12T16:59:00Z
-    webUrl: "https://www.businessinsider.com/trump-trails-biden-10-points-polls-3-weeks-before-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-trails-biden-10-points-polls-3-weeks-before-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-trails-biden-10-points-polls-3-weeks-before-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 140
-    images:
-      - url: "https://i.insider.com/5f84627bbab422001979ac11?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "President's job approval is surest sign Trump will lose reelection"
-    excerpt: "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him."
-    publishedDateTime: 2020-10-14T15:30:00Z
-    webUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection"
-    ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
-    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
-    publishedDateTime: 2020-10-14T01:32:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-54527265"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 140
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg"
+      - url: "https://d.newsweek.com/en/full/1645144/kamala-harris.jpg"
         width: 1024
-        height: 576
+        height: 703
         isCached: true
-  - title: "Trump says \"China will own the United States\" if Biden is elected"
-    excerpt: "Mr. Trump said in a speech from the White House streamed online by economic clubs around the country that the economy was the strongest on record before the coronavirus pandemic, again promising vigorous economic growth if he is given another four years in office."
-    publishedDateTime: 2020-10-14T18:38:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-economic-club-new-york-recovery-jobs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-economic-club-new-york-recovery-jobs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-economic-club-new-york-recovery-jobs/"
+  - title: "Trump is counting on the Supreme Court to help him steal the election"
+    excerpt: "To create uncertainty, anger, and chaos as the counting of an unprecedented number of mail ballots takes days or weeks, suppressing as many votes as possible and tossing around unfounded charges of fraud to delegitimize the results."
+    publishedDateTime: 2020-09-23T17:54:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/23/trump-is-counting-supreme-court-help-him-steal-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GA5UYYX5EQI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump Already Has Plans To Undermine Election Results"
+    excerpt: "Donald Trump has stated that he will not commit to a peaceful transfer of power in the White House. On its own, that’s a threat to the U.S. — but add to that utter silence from Republicans about this unacceptable behavior."
+    publishedDateTime: 2020-09-25T01:05:00Z
+    webUrl: "https://www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/"
+    ampWebUrl: "https://www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephaniesarkis/2020/09/24/trump-already-has-plans-to-undermine-election-results/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6d3ee7c8e0bb8fd9849743%2F0x0.jpg"
+        width: 1200
+        height: 876
+        isCached: true
+  - title: "Trump seizes on small election issues to spread concern"
+    excerpt: "In the run-up to Election Day, President Donald Trump is seizing on small, potentially routine voting issues to suggest the election is rigged"
+    publishedDateTime: 2020-10-05T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-seizes-on-small-election-issues-to-spread-concern/2020/10/05/658d9ffc-06c8-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Intercepted GOP robocalls expose how Trump hopes to corrupt the election"
+    excerpt: "If Trump keeps saying that vote-by-mail is fraudulent, even as his operatives urge supporters to use it by relying on this fake distinction wi"
+    publishedDateTime: 2020-09-25T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/25/intercepted-gop-robocalls-expose-how-trump-hopes-corrupt-election/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 139
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/437RIOX67UI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Senate Republicans ready quick push on Trump's Supreme Court pick Barrett"
+    excerpt: "U.S. Senate Republicans on Sunday prepared a concerted push toward quickly confirming President Donald Trump's third Supreme Court nominee, Amy Coney Barrett, despite strenuous objections by Democrats who appear powerless to stop them."
+    publishedDateTime: 2020-09-27T10:21:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN26I0DG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26I0DG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 134
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535111044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q0LV"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Kamala Harris slams Trump after first debate: \"What we saw was a dog whistle through a bullhorn\""
+    excerpt: "\"Donald Trump is not pretending to be anything other than what he is,\" said vice presidential candidate Senator Kamala Harris."
+    publishedDateTime: 2020-09-30T17:24:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-slams-trump-first-debate-what-we-saw-was-a-dog-whistle-through-a-bullhorn/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-slams-trump-first-debate-what-we-saw-was-a-dog-whistle-through-a-bullhorn/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-slams-trump-first-debate-what-we-saw-was-a-dog-whistle-through-a-bullhorn/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 140
+    quality: 127
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/14/500ca2e0-966f-4d32-bece-aed7f0099b35/thumbnail/1200x630/5a4c313b6f376a71f2d6b58ea7c1187f/2020-10-14t005837z-385100757-rc20ij9bomgo-rtrmadp-3-usa-election-trump.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/30e5a4ab-eb90-4d61-85e7-06f1fc733b46/thumbnail/1200x630/1dcf9a131367124f7b84356ca90adf71/cbsn-fusion-kamala-harris-reacts-to-presidential-debate-thumbnail-556621-640x360.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump has gutted LGBTQ+ rights. Could a Biden presidency undo the damage?"
-    excerpt: "Biden has promised action on LGBTQ+ issues starting on day one. But undoing four years of anti-LGBTQ+ policy may take decades."
-    publishedDateTime: 2020-10-10T11:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/10/trump-has-gutted-lgbtq-rights-biden-presidency-might-undo-damage/3608929001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3608929001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608929001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 139
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election"
-    excerpt: "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court."
-    publishedDateTime: 2020-10-06T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 138
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cbe4f10f70e944148f3f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3773%26cropY1%3D0%26cropY2%3D2123"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump tells his team to end stimulus negotiations until after the election"
-    excerpt: "Trump announced on Twitter that he's ending relief negotiations, accusing Democrats of \"not acting in good faith.\""
-    publishedDateTime: 2020-10-06T19:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 138
-    images:
-      - url: "https://i.insider.com/5f7cbde4282c500018c78f05?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The UK is telling ministers to cozy up to the Biden camp, as Boris Johnson is 'writing off Trump' in the upcoming US election"
-    excerpt: "Polls suggest that Joe Biden has a sustained lead over Trump with 23 days to go until the US election. The UK is keen to be on the winning side."
-    publishedDateTime: 2020-10-11T11:40:00Z
-    webUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uk-government-woos-biden-camp-abandoning-failing-trump-sunday-times-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 138
-    images:
-      - url: "https://i.insider.com/5f82cc04642e9400180b5349?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Analysis: President Donald Trump defectors help Joe Biden build leads in Wisconsin and Michigan"
-    excerpt: "Trump so far is failing to retain the overwhelming advantage he enjoyed among white voters there in 2016, according to surveys from The New York Times and Siena College."
-    publishedDateTime: 2020-10-12T19:18:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-wisconsin-michigan-trump-biden-polls-20201012-owwvtkuusfa6dfcvvpzqgzvgl4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-wisconsin-michigan-trump-biden-polls-20201012-owwvtkuusfa6dfcvvpzqgzvgl4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-wisconsin-michigan-trump-biden-polls-20201012-owwvtkuusfa6dfcvvpzqgzvgl4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 138
-    images:
-      - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
-        width: 1200
-        height: 838
-        isCached: true
-  - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
-    excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
-    publishedDateTime: 2020-10-08T20:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-court/biden-says-he-would-reveal-his-view-on-expanding-supreme-court-post-election-idUSKBN26T3H3"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3HA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3HA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 137
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536789549&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9725O"
-        width: 893
-        height: 545
-        isCached: true
-  - title: "Trump addresses supporters at White House event; Biden campaigns in Erie, Pa."
-    excerpt: "President Trump, who has yet to reveal results of his most recent coronavirus test, will address supporters at the White House from a balcony as they gather on the lawn."
-    publishedDateTime: 2020-10-10T22:52:00Z
-    webUrl: "https://www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/"
-    ampWebUrl: "https://www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/10/10/trump-biden-live-updates/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 137
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O5K4ZNAIGAI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden targets Trump voters in Pennsylvania with message of economic recovery, unity"
-    excerpt: "\"The choice couldn’t be more stark; the stakes couldn’t be higher,\" Biden told supporters in Erie, Pa., during his 11th trip to the battleground state."
-    publishedDateTime: 2020-10-11T02:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/10/biden-targets-trump-voters-pennsylvania-with-message-economic-recovery-unity/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 134
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5IEAIQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
-    excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
-    publishedDateTime: 2020-10-07T02:42:00Z
-    webUrl: "https://www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-he-trump-shouldnt-have-debate-if-trump-has-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 133
-    images:
-      - url: "https://i.insider.com/5f7b6d0594fce90018f7b2d8?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Campaign Says Biden Lacks 'Firsthand Experience' of Being Infected With COVID-19"
-    excerpt: "\"Those firsthand experiences are what are going to get President Trump four more years,\" Trump campaign spokesperson Erin Perrine told Fox News on Monday."
-    publishedDateTime: 2020-10-05T17:34:00Z
-    webUrl: "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440"
-    ampWebUrl: "https://www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-says-biden-lacks-firsthand-experience-being-infected-covid-19-1536440?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1646101/erin-perrnie.png"
-        width: 2560
-        height: 1600
-        isCached: true
-  - title: "Biden's Big Spend: Dem nominee hits half-billion-dollar mark for ads in Trump challenge"
-    excerpt: "Joe Biden’s campaign has spent over $500 million on TV, digital and radio ads this year. Biden’s campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
-    publishedDateTime: 2020-10-09T17:43:00Z
-    webUrl: "https://www.cnbc.com/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/09/joe-biden-hits-half-billion-dollar-mark-for-ads-in-trump-challenge.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 132
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106737489-1602243862399-bide.jpg?v=1602243936"
-        width: 1892
-        height: 1262
-        isCached: true
-  - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
-    excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
-    publishedDateTime: 2020-10-07T00:28:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-biden-idUSKBN26R3RF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R3RF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R3RF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536450412&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9526S"
-        width: 841
-        height: 545
-        isCached: true
-  - title: "Barrett must recuse from 2020 election cases, shield Supreme Court from Trump corruption"
-    excerpt: "Barrett will be a fine justice. But Trump has had a corrupting influence on Congress and she'd put the court on a similar path if she rules on his fate."
-    publishedDateTime: 2020-10-12T07:29:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/12/barrett-protect-supreme-court-recuse-2020-election-cases-column/5915556002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5915556002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5915556002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/ed744ff7-72cd-4880-ae81-15ebaab29853-AP_Supreme_Court_Barrett.jpg?auto=webp&crop=4499,2531,x0,y450&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "With Election Day just 3 weeks away, Trump and Biden zero in on swing states that are key to Electoral College victory"
-    excerpt: "Biden went to Florida to court seniors, looking to deliver a knockout blow in a state Trump needs to win, while Trump visited Pennsylvania, arguably the most important state on the electoral map."
-    publishedDateTime: 2020-10-13T16:35:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-2020-electoral-college-calculations-20201013-wii7vdyfmfdi5ij7axx5m4t6wi-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-2020-electoral-college-calculations-20201013-wii7vdyfmfdi5ij7axx5m4t6wi-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-2020-electoral-college-calculations-20201013-wii7vdyfmfdi5ij7axx5m4t6wi-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 131
-    images:
-      - url: "https://www.chicagotribune.com/resizer/dcskaC9ANlmN76VeWgkvsX--0NQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2WQI32VOHZD4VHOZP447C3LXK4.aspx"
-        width: 1200
-        height: 819
-        isCached: true
-  - title: "As he pleads for seniors’ votes, Trump tweets a meme mocking Biden as elderly and disabled"
-    excerpt: "The president on Tuesday night shared a meme of Joe Biden Photoshopped into what appears to be a nursing home, sitting in a wheelchair and surrounded by elderly people."
-    publishedDateTime: 2020-10-14T07:48:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2020/10/14/trump-biden-meme-elderly-disabled/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 130
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUJDSHANRUI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "A Joe Biden presidency would repair most of the damage Trump has done to America's historic alliance with Europe"
-    excerpt: "President Trump's America First policy has done serious damage to the United States' longstanding alliances."
-    publishedDateTime: 2020-10-10T10:58:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-donald-trump-us-europe-alliances-merkel-china-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-donald-trump-us-europe-alliances-merkel-china-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-donald-trump-us-europe-alliances-merkel-china-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 129
-    images:
-      - url: "https://i.insider.com/5f808bdd4c3b2e0019bba2cd?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "It's not just Trump and Biden on the ballot. America's commitment to truth and democracy is too."
-    excerpt: "The election will determine America's ability to contain the pandemic, heal the economy, retake our place in the world, and advocate for truth."
-    publishedDateTime: 2020-10-11T13:35:00Z
-    webUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/not-trump-biden-ballot-truth-justice-american-way-pandemic-economy-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 127
-    images:
-      - url: "https://i.insider.com/5f7f76b3ea74820019ca60e3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "One month out, battered Trump campaign faces big challenges"
-    excerpt: "President Donald Trump and his reelection campaign have had one challenging week: His long-hidden tax returns leaked out"
-    publishedDateTime: 2020-10-05T07:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_f70a4a123ffc4358a91b7bfa117e0ce8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Gold subdued after Trump's discharge, weak dollar cap losses"
-    excerpt: "Gold prices eased on Tuesday, as equities gained following U.S. President Donald Trump's discharge from hospital after treatment for a coronavirus infection, though a softer dollar cushioned the bullion's further decline."
-    publishedDateTime: 2020-10-06T09:18:00Z
-    webUrl: "https://www.reuters.com/article/global-precious-idUSKBN26R1BI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R1BI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R1BI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536339055&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950O3"
-        width: 872
-        height: 545
-        isCached: true
-  - title: "Oil prices up 3% on supply disruptions and Trump's return"
-    excerpt: "Oil prices rose more than 3% on Tuesday, supported by supply disruptions in Norway, a hurricane in the Gulf of Mexico and U.S. President Donald Trump's return to the White House from hospital."
-    publishedDateTime: 2020-10-06T15:09:00Z
-    webUrl: "https://www.reuters.com/article/global-oil-int/oil-prices-gain-on-supply-disruptions-trumps-hospital-exit-idUSKBN26R05G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501V"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Here's who would pay more under Joe Biden's tax plan"
-    excerpt: "Joe Biden's tax plan increases taxes on those earning at least $400,000 per year. But the burden will fall primarily on the highest earners, those making more than $1 million a year, according to an analysis from the Tax Policy Center."
-    publishedDateTime: 2020-10-07T16:16:00Z
-    webUrl: "https://www.cnbc.com/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/heres-who-would-pay-more-under-joe-bidens-tax-plan.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106732322-1602003544711-gettyimages-1278126590-cs026704_2020100245452297.jpeg?v=1602003584"
-        width: 5472
-        height: 3648
-        isCached: true
-  - title: "New York Times editorial board endorses Biden"
-    excerpt: "The New York Times editorial board endorsed Joe Biden's White House bid on Tuesday, throwing its support behind the former vice president&nb"
-    publishedDateTime: 2020-10-07T02:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519923-nyt-editorial-board-endorses-biden?amp"
+  - title: "Kamala Harris: From historic to invisible"
+    excerpt: "If Kamala Harris were to be campaigning aggressively, not only could it draw the spotlight from President Trump, but it would inadvertently put it on Biden."
+    publishedDateTime: 2020-09-21T16:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible"
+    ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe2_100620getty.jpg"
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe2_08120202getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Shares rebound from Trump's shock stimulus talks cancellation"
-    excerpt: "European shares rose on Wednesday, as initial dismay at U.S. President Donald Trump's decision to cancel fiscal stimulus negotiations with lawmakers in Washington was replaced by optimism about an aid package after the U."
-    publishedDateTime: 2020-10-07T11:28:00Z
-    webUrl: "https://www.reuters.com/article/us-global-markets-idINKBN26R3S6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R3S6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R3S6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536451760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95277"
-        width: 776
-        height: 545
-        isCached: true
-  - title: "Why are seniors breaking hard to Joe Biden?"
-    excerpt: "But one thing that plainly is happening is that seniors are moving to Biden in surprising numbers. If these polls are outliers, the impression of movement among seniors may be inflated, but we can be reasonably sure that this movement is in fact happening to some degree,"
-    publishedDateTime: 2020-10-06T21:46:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/06/why-are-seniors-breaking-hard-joe-biden/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GTCTYTQICMI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden pulls off a big speech at a sacred location"
-    excerpt: "The Democratic nominee is no Lincoln but, with Gettysburg as the backdrop, he delivers perhaps the best speech of his career."
-    publishedDateTime: 2020-10-07T18:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/biden-pulls-off-big-speech-sacred-location/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4SWWKPQIDMI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump says he will drop out of second presidential debate with Biden after organizers made it remote"
-    excerpt: "The second presidential debate plans are in chaos after organizers said it would be held remotely and Trump said he would not be taking part."
-    publishedDateTime: 2020-10-08T13:12:00Z
-    webUrl: "https://www.businessinsider.com/trump-second-debate-with-biden-will-be-remote-commission-says-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-second-debate-with-biden-will-be-remote-commission-says-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-second-debate-with-biden-will-be-remote-commission-says-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f73fa2f0ab50d00184ad303?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "ABC News announces town hall with Democratic nominee Joe Biden"
-    excerpt: "ABC News announced on Thursday that it will hold a town hall with Democratic presidential nominee and former vice president Joe Biden on Thursday, Oct. 15, allowing voters to ask questions to the former vice president less than a month before Election Day."
-    publishedDateTime: 2020-10-08T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/abc-news-announces-town-hall-democratic-nominee-joe/story?id=73506593"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-town-hall-2-rt-er-201005_1601944628741_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "How Joe Biden Can Change The World"
-    excerpt: "A Biden Presidency is seen by some as an 'interregnum' but climate change, human development and Latin America offer him a chance to make a lasting impact."
-    publishedDateTime: 2020-10-09T15:59:00Z
-    webUrl: "https://www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/"
-    ampWebUrl: "https://www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mikeosullivan/2020/10/09/how-joe-biden-can-change-the-world/amp/"
+  - title: "Fact Checkers: On Trade, Trump Has A Large Deficit With The Truth"
+    excerpt: "A book by Washington Post fact checkers finds many of Trump’s statements on trade may belong in the fiction section of a bookstore."
+    publishedDateTime: 2020-09-23T21:36:00Z
+    webUrl: "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/"
+    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2020/09/23/fact-checkers-on-trade-trump-has-a-large-deficit-with-the-truth/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8086f837a381a01f0a2999%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a822866b69bd85d38c534%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D9%26cropY2%3D1697"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Trump administration targets diversity hiring by contractors"
-    excerpt: "American companies promising to hire more Black employees in leadership roles and teach their workforce about racism are getting a message from President Donald Trump’s administration: Watch your step"
-    publishedDateTime: 2020-10-09T21:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+  - title: "Fight over Trump tax returns goes to appeals court — again"
+    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
+    publishedDateTime: 2020-09-25T05:21:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_c8e94ad396ef40b993b513caa4224bcd_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Voters know Trump isn’t just a bad president. He’s a bad person."
-    excerpt: "Donald Trump is not.” That one, jolting line gets to the bedrock issue of the 2020 campaign — and why the electorate now seems poised to reject an incumbent president for the first time in 28 years. It’s not that Trump and Biden don’t have ideological differences that matter;"
-    publishedDateTime: 2020-10-09T19:37:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWWNOYAJ4YI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "What a Joe Biden win could mean for the ETF industry"
-    excerpt: "As the 2020 presidential race intensifies, three market analysts assess what the possible outcomes could mean for exchange-traded funds."
-    publishedDateTime: 2020-10-10T15:23:00Z
-    webUrl: "https://www.cnbc.com/2020/10/10/etf-edge-gurdus-w.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/10/etf-edge-gurdus-w.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/10/etf-edge-gurdus-w.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 125
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106732745-1602017926075-joey.jpg?v=1602017961"
-        width: 2285
-        height: 1524
-        isCached: true
-  - title: "Biden maintains 12-point national lead: poll"
-    excerpt: "Democratic presidential nominee Joe Biden holds a 12-point lead among likely voters in a national poll released by The Washington Post and ABC News early Sunday. Biden is supported by 54 percent of likely voters while Trump is backed by 42 percent,"
-    publishedDateTime: 2020-10-11T11:32:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520505-biden-maintains-12-point-national-lead-poll"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520505-biden-maintains-12-point-national-lead-poll?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520505-biden-maintains-12-point-national-lead-poll?amp"
+  - title: "Obama to virtually fundraise with Kamala Harris: report"
+    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
+    publishedDateTime: 2020-09-25T13:17:00Z
+    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpbiden2.jpg"
+      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
         width: 980
         height: 551
         isCached: true
-  - title: "Trump says he's ready for rallies; doctor says therapy done"
-    excerpt: "President Donald Trump insists he is ready to resume campaign rallies and feels “perfect” one week after his diagnosis with the coronavirus that has killed more than 210,000 Americans"
-    publishedDateTime: 2020-10-11T04:19:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_a3e8cbcf458646c987a0d847ba3edfa0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "2020 Watch: Is it too late for Trump to turn things around?"
-    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
-    publishedDateTime: 2020-10-12T10:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Republicans are doing Joe Biden’s work for him"
-    excerpt: "He is helping former vice president Joe Biden, who has a double-digit national lead and comfortable leads in states that will get him beyond 270 electoral votes, run out the clock. This is as close to a unilateral surrender — both of visibility and incumbency — as we have ever seen in a presidential race."
-    publishedDateTime: 2020-10-13T11:51:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/13/republicans-have-gone-bad-worse/?outputType=amp"
+  - title: "As campaign heats up, Trump woos Latino, Black voters"
+    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
+    publishedDateTime: 2020-09-26T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6V43BMQMTAI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump heads to Sanford, Florida for first rally since COVID-19 diagnosis; Biden calls trip 'reckless'"
-    excerpt: "Trump's Florida rally, which will be followed this week by events in Pennsylvania and Iowa, takes place amid continuing questions about his health."
-    publishedDateTime: 2020-10-12T23:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/12/trump-holds-sanford-florida-rally-first-since-covid-19-diagnosis/5966416002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5966416002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966416002"
+  - title: "Trump picks Barrett as he moves to tilt U.S. Supreme Court rightward"
+    excerpt: "President Donald Trump on Saturday nominated Amy Coney Barrett to the Supreme Court, and she pledged to become a justice in the mold of the late staunch conservative Antonin Scalia, setting another milestone in Trump's rightward shift of the top U."
+    publishedDateTime: 2020-09-27T09:43:00Z
+    webUrl: "https://www.reuters.com/article/idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/0fb68168-57af-47e5-bbac-508549df02ad-Trump_Sanford_3.jpg?auto=webp&crop=5020,2824,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535060291&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8Q00V"
+        width: 817
+        height: 545
         isCached: true
-  - title: "We should listen to scientists sounding the alarm on Trump"
-    excerpt: "The fact that so many scientists are speaking out now is a testament to the damage that the Trump administration has done to our country and scientific institutions."
-    publishedDateTime: 2020-10-12T21:43:00Z
-    webUrl: "https://thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump"
-    ampWebUrl: "https://thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump?amp"
+  - title: "Watch live: Trump announces Supreme Court nominee"
+    excerpt: "President Trump on Saturday evening is slated to announce his Supreme Court pick to replace the late Justice Ruth Bader Ginsburg.The event is scheduled to begin at 5 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-09-26T19:54:00Z
+    webUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee"
+    ampWebUrl: "https://thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/518435-watch-live-trump-announces-scotus-nominee?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
-        width: 797
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden's Battle Rap Video Has Not Gone Down Well"
-    excerpt: "The Biden Harris campaign has implemented an unusual tactic and has recruited the help of a well-known battle rap league."
-    publishedDateTime: 2020-10-14T16:07:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-battle-rap-video-response-1539092"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-battle-rap-video-response-1539092?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-battle-rap-video-response-1539092?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1651742/joe-biden.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "A small business argument for Joe Biden"
-    excerpt: "Democratic presidential nominee Joe Biden's economic proposals are, on the surface, not very friendly to small business."
-    publishedDateTime: 2020-10-14T21:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden"
-    ampWebUrl: "https://thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521007-a-small-business-argument-for-joe-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
-        width: 580
-        height: 387
-        isCached: true
-  - title: "How to watch ABC News' Joe Biden town hall"
-    excerpt: "Democratic nominee Joe Biden had been scheduled to debate the president on Thursday, but will now appear in an ABC News town hall. Here's how to watch."
-    publishedDateTime: 2020-10-14T19:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
+  - title: "AP Explains: What's next for Trump's Supreme Court pick?"
+    excerpt: "President Donald Trump has chosen Judge Amy Coney Barrett to replace the late Ruth Bader Ginsburg, sending the nomination to the Senate with hopes of a quick confirmation fewer than 40 days before the"
+    publishedDateTime: 2020-09-27T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-explains-trumps-supreme-court-pick-73261226"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-town-hall-01-gty-llr-201013_1602630940640_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_694dfa4136de40b2b3e6bed00581bbb5_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump to resume public events, starting today on the White House balcony"
-    excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
-    publishedDateTime: 2020-10-10T17:45:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+  - title: "Campaign-approved responses to the Trump tax returns"
+    excerpt: "You may be wondering what line to take on the president’s tax returns! Everything Donald Trump does is, of course, wonderful and no fault can be found with it, but in what way, exactly, is this tax return development wonderful?"
+    publishedDateTime: 2020-09-28T20:56:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/28/campaign-approved-responses-trump-tax-returns/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/28/campaign-approved-responses-trump-tax-returns/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/28/campaign-approved-responses-trump-tax-returns/?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/cHJjzXPTqoLa50ZEN2bjroeMHQg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6TXVNEALUFFMJ7DLWG4S4CJ3BY.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RE5PGUABCQI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 932
         isCached: true
-  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
-    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
-    publishedDateTime: 2020-10-14T11:39:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+  - title: "Everything Trump touches dies — including his presidency"
+    excerpt: "Everything Trump touches dies,” Never Trumper and former Republican strategist Rick Wilson likes to say. That has never been more evident, as the New York Times’s blockbuster reporting proves that after making a small fortune on the reality TV show “The Apprentice,"
+    publishedDateTime: 2020-09-29T11:50:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/29/everything-trump-touches-especially-his-presidency-dies/?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 124
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IXPHROELCZH3PDIESOKRUAOR5M.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
-  - title: "The US's cold war with China won't disappear if Joe Biden becomes president"
-    excerpt: "A change of president would be a relief to progressives, but don’t expect a thaw in relations with Beijing, says Alex Doherty of the Politics Theory Other podcast"
-    publishedDateTime: 2020-10-12T07:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/oct/12/us-cold-war-china-disappear-joe-biden-president-beijing"
+  - title: "Any rich person could pay off Donald Trump"
+    excerpt: "Trump's tax returns show that he has hundreds of millions in debt coming due fast, and almost no cash on hand. This is valuable info for US enemies."
+    publishedDateTime: 2020-09-29T21:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/e878869e9ed518efec0643ff9e45eb7f392e4c18/0_8_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3aef1b480e517db9ef1a3119de0625b4"
-        width: 600
-        height: 360
+      - url: "https://i.insider.com/5f7210f474fe5b0018a8dc4b?width=1200&format=jpeg"
+        width: 833
+        height: 416
         isCached: true
-  - title: "Biden keeps slight edge over Trump in latest Florida poll as he heads to South Florida for campaign stops"
-    excerpt: "As expected, President Donald Trump and Democratic nominee Joe Biden are locked in a close battle in Florida with the latest poll showing a 4-point advantage for Biden."
-    publishedDateTime: 2020-10-13T15:00:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/fl-ne-joe-biden-broward-campaign-stop-20201013-sa3ugv7aw5f6pfitekyak5y4xq-story.html?outputType=amp"
+  - title: "Oil down more than 3% after Trump's positive coronavirus test"
+    excerpt: "Oil prices lost more than 3% on Friday after U.S. President Donald Trump tested positive for COVID-19 and negotiators failed to agree a U.S. stimulus package just as rising global oil output threatens to overwhelm a weak price recovery."
+    publishedDateTime: 2020-10-02T13:09:00Z
+    webUrl: "https://www.reuters.com/article/global-oil/update-6-oil-down-more-than-3-after-trumps-positive-coronavirus-test-idUSL4N2GT0QY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05V"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 123
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
-        width: 1200
-        height: 838
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535810745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9103Q"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Donald Trump: What you need to know about the Republican nominee for president"
-    excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
-    publishedDateTime: 2020-10-08T14:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/donald-trump-republican-nominee-president/story?id=67473973"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+  - title: "Oil drops 4% after Trump's positive coronavirus test"
+    excerpt: "Oil prices were down 4% on Friday after U.S. President Donald Trump tested positive for COVID-19 and negotiators failed to agree a U.S. stimulus package just as rising global oil output threatens to overwhelm a weak price recovery."
+    publishedDateTime: 2020-10-02T11:17:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int/oil-drops-3-after-trump-tests-positive-for-covid-19-idUSKBN26N05I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535810745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9103Q"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump debate comment pushing Black Americans, others to vote"
+    excerpt: "Black Americans and other people of color say President Donald Trump’s refusal to outright condemn white nationalists during this week’s debate has strengthened their resolve to vote"
+    publishedDateTime: 2020-10-02T07:12:00Z
+    webUrl: "https://www.washingtonpost.com/health/trump-debate-comment-pushing-black-americans-others-to-vote/2020/10/02/82517fb6-047d-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/trump-debate-comment-pushing-black-americans-others-to-vote/2020/10/02/82517fb6-047d-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/trump-debate-comment-pushing-black-americans-others-to-vote/2020/10/02/82517fb6-047d-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Misinformation spikes as Trump confirms COVID-19 diagnosis"
+    excerpt: "News that President Donald Trump and first lady Melania Trump had tested positive for COVID-19 sparked an explosion of rumors, misinformation and conspiracy theories that littered social media feeds"
+    publishedDateTime: 2020-10-02T19:45:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/misinformation-spikes-trump-confirms-covid-19-diagnosis-73392761"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_24e551a62c8d4ccf87770478bfb59991_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Wall Street trims losses after Trump’s positive virus test"
+    excerpt: "Stocks are pulling lower Friday, as Wall Street’s first reaction to President Donald Trump’s testing positive for the coronavirus was to retrench."
+    publishedDateTime: 2020-10-02T19:17:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-trump-coronavirus-stocks-20201002-zsl33ktddfdarpts7kvltuppri-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-trump-coronavirus-stocks-20201002-zsl33ktddfdarpts7kvltuppri-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-trump-coronavirus-stocks-20201002-zsl33ktddfdarpts7kvltuppri-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/kCkLsUm5I0CAV3Ot9jKuYoNyEdk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEAOMVAHSCW5GEM4BZEB3KU2BI.aspx"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "What Trump's COVID-19 diagnosis could mean for his campaign"
+    excerpt: "All previously announced campaign events involving the president’s participation are in the process of being moved to virtual events or are being temporarily postponed."
+    publishedDateTime: 2020-10-03T03:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-campaign-events-virtual-postponed-election-strategy-uncertain/story?id=73387105"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Video/trump-duluth-ap-rc-201002_1601644038745_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "What Trump's COVID-19 diagnosis means for the election, his presidency, and the Supreme Court opening"
+    excerpt: "The US is in uncharted territory, and Trump's diagnosis raises a slew of questions coming a month before Election Day."
+    publishedDateTime: 2020-10-02T17:33:00Z
+    webUrl: "https://www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-does-trump-coronavirus-mean-election-presidency-succession-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5b32bb4642e1cc29bb040f3f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Chris Christie is the latest in Trump orbit to get virus"
+    excerpt: "Chris Christie tested positive for COVID-19, he tweeted Saturday morning — the latest in a string of virus cases connected to President Donald Trump's inner circle. Christie said that he will be receiving medical attention and “will keep the necessary folks apprised of my condition."
+    publishedDateTime: 2020-10-03T17:15:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_947b45dfec594eaf9655cd8486013db8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House chief of staff says Trump is doing very well"
+    excerpt: "White House Chief of Staff Mark Meadows said on Saturday that President Donald Trump is doing \"very well\" and that doctors are pleased with his vital signs."
+    publishedDateTime: 2020-10-03T19:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-meadows-idUSKBN26O0WW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0WW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0WW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536044872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG920Q4"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Asian shares rise on optimism about Trump's recovery"
+    excerpt: "Shares have started the week with gains as investors were encouraged by positive reports about President Donald Trump’s health after he tested positive for the coronavirus"
+    publishedDateTime: 2020-10-05T04:29:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-rise-optimism-trumps-recovery-73424405"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_1bab98e3e97245cf91895708f72aab50_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Leaves Hospital To Greet Well-Wishers Outside"
+    excerpt: "Trump left Walter Reed Medical Center, where he is being treated for coronavirus, Sunday and was driven by Secret Service agents past well-wishers who had lined up outside the medical facility, as part of a spontaneous makeshift parade that occurred just hours after doctors disclosed the president had been treated with oxygen and steroids."
+    publishedDateTime: 2020-10-04T21:46:00Z
+    webUrl: "https://www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/"
+    ampWebUrl: "https://www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carlieporterfield/2020/10/04/trump-leaves-hospital-to-greet-well-wishers-outside/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7a3edb67b18f569170968c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D156%26cropY2%3D1844"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump takes to Twitter to make pitch to voters from Walter Reed"
+    excerpt: "President Trump on Monday fired off a string of tweets calling on his supporters to vote while he continues to receiving treatment at Walter Reed National Military Medical Center after testing positive for the coronavirus last week."
+    publishedDateTime: 2020-10-05T13:20:00Z
+    webUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed"
+    ampWebUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Lawyers: Trump can’t use job as a shield in defamation suit"
+    excerpt: "Lawyers for a woman who claims President Donald Trump raped her in a department store dressing room a quarter century ago say he can’t hurl insults at her and then replace himself with the government"
+    publishedDateTime: 2020-10-06T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/lawyers-trump-cant-use-job-as-a-shield-in-defamation-suit/2020/10/05/15b7c722-0778-11eb-8719-0df159d14794_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Notable legal opinions of Trump's planned U.S. Supreme Court pick Barrett"
+    excerpt: "Amy Coney Barrett, who President Donald Trump plans to pick for a lifetime job on the U.S. Supreme Court, has served as a federal appeals court judge since 2017 and has weighed in on cases involving several hot-button issues including abortion,"
+    publishedDateTime: 2020-09-26T01:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-rulings-factbox-idUSKCN26G37S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN26G37S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN26G37S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534976349&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O22L"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "A pug, a cat and a baby have paid more in taxes than Trump reportedly has"
+    excerpt: "Undocumented workers paid more than $11 billion in taxes the same year the president is said to have paid just $750."
+    publishedDateTime: 2020-09-28T22:26:00Z
+    webUrl: "https://www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XGNHHPXPQAI6TBUT6SD6IZ4EVI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Wall Street closes sharply lower as Trump tests positive for coronavirus"
+    excerpt: "U.S. stocks closed lower on Friday as news that U.S. President Donald Trump tested positive for COVID-19 put investors in a risk-off mood and added to mounting uncertainties surrounding the looming election."
+    publishedDateTime: 2020-10-03T01:21:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-stocks-idUSKBN26N1W8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N1W8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N1W8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535864109&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9116Y"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Trump names his next Supreme Court nominee, focus shifts towards Senate"
+    excerpt: "President Donald Trump on Saturday plans to name conservative appellate judge Amy Coney Barrett as his third U.S. Supreme Court appointment, setting off a scramble in the Republican-led Senate to confirm her before Election Day in 5-1/2 weeks."
+    publishedDateTime: 2020-09-26T10:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-trump-idUSKBN26H0GI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H0GI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200926&t=2&i=1535009563&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P09N"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "In her first race, Kamala Harris learned how to become a political brawler"
+    excerpt: "When Harris was attacked by her opponents in her run for San Francisco district attorney, she punched back — and won."
+    publishedDateTime: 2020-10-05T23:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XB74HSQFD4I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 909
+        isCached: true
+  - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
+    excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
+    publishedDateTime: 2020-10-01T19:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 121
     images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-mar-a-lago-01-gty-jc-191224_hpMain_2_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.insider.com/5f759d060ab50d00184ad7e7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump tied with Biden in Florida despite campaign setbacks, new Suffolk University/USA TODAY Network poll finds"
-    excerpt: "The presidential race is tied in Florida with less than 30 days to Election Day, according to a new Suffolk University/USA TODAY Network poll."
-    publishedDateTime: 2020-10-06T11:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/2020-election-trump-biden-each-have-45-support-new-florida-poll/3634560001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3634560001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3634560001"
+  - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
+    excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
+    publishedDateTime: 2020-09-24T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/09/24/donald-trump-mail-in-voting-florida-2020-election-column/3504237001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3504237001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3504237001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NSHT/86c4aa48-14d2-4477-9ff2-8fc73515bc25-AP20276854230765.jpg?auto=webp&crop=5155,2900,x0,y262&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden: shouldn't have debate if Trump still sick"
-    excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
-    publishedDateTime: 2020-10-07T04:01:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/biden-shouldnt-have-debate-if-trump-still-sick/5906265002/"
+  - title: "Trump: Election will 'end up in the Supreme Court'"
+    excerpt: "President Donald Trump predicted Wednesday the 2020 presidential election \"will end up in the Supreme Court.\" And he suggested that's one of the reasons he is pushing so strongly to fill the vacant seat before the Nov."
+    publishedDateTime: 2020-09-23T21:37:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trump-election-end-up-supreme-court/3509822001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/43cce496-bb12-4cbd-a52e-6d89017236ff_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/519abbfd-6b0d-4a53-ab5e-649b2c0e6168_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Joe Biden in Ohio: Trump 'turned his back on you' – video"
-    excerpt: "Joe Biden told a drive-in rally in Ohio that Donald Trump 'turned his back on you' during the pandemic and its economic fallout"
-    publishedDateTime: 2020-10-12T23:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/12/joe-biden-in-ohio-trump-turned-his-back-on-you-video"
+  - title: "Watch live: Trump gives update on coronavirus testing after bombshell report on taxes"
+    excerpt: "President Trump is set to deliver remarks Monday on the nation's coronavirus testing strategy, one day after a bombshell report from the New York Times provided an in-depth look at the president's finances and revealed that he only paid $750 in federal income taxes in 2017."
+    publishedDateTime: 2020-09-28T13:12:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-press-conference-coronavirus-testing-update-live-stream-today-2020-09-28/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/d38e761a6287263b88a9df260b957c9ce3525a1d/33_0_3434_2061/master/3434.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1685fe0d220e50f5b1e641172aa04309"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump, Biden try to line up by Fauci as they court voters"
-    excerpt: "President Donald Trump and Democrat Joe Biden are both looking to harness the credibility of America’s best-known infectious disease expert, Dr. Anthony Fauci, as they make their case to American voters."
-    publishedDateTime: 2020-10-13T03:15:00Z
-    webUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-try-to-line-up-by-fauci-as-they-court-voters-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-  - title: "Election 2020 Today: Barrett hearings, Trump's road trek"
-    excerpt: "Supreme Court nominee Amy Coney Barrett returns to Capitol Hill for a third day of confirmation hearings by the Senate Judiciary Committee"
-    publishedDateTime: 2020-10-14T13:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/election-2020-today-barrett-hearings-trumps-road-trek-73604547"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a2da9a643e3a48f7b79d88551722c6f0_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden reaches out to Catholics like himself, embracing a key group in big 2020 states"
-    excerpt: "President Trump has maligned Biden’s faith, but Biden is seeking to firm up a connection that reverberates in the upper Midwest and the Sun Belt while avoiding religious overtones in the Supreme Court nomination fight."
-    publishedDateTime: 2020-10-14T01:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACMVNGALCYI6XG7GZ4S7WQU7DI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Democratic presidential nominee Joe Biden leads President Trump nationally among seniors"
-    excerpt: "Several polls have former Vice President Joe Biden ahead of President Trump among senior citizens and voters over 65 years old. Ben Tracy reports."
-    publishedDateTime: 2020-10-14T13:08:00Z
-    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-leads-president-trump-nationally-among-seniors/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 111
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/14/6a076afd-bd1a-46f2-a755-59c90c42967d/thumbnail/1200x630/bbfeb471a720237168ecfd9f277fcff7/cbsn-fusion-democratic-presidential-nominee-joe-biden-leads-president-trump-nationally-among-seniors-thumbnail-565702-640x360.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/28/34d99e88-e073-4b73-95ae-06de3025a6b2/thumbnail/1200x630/e8ff21516f338894fbc4bdf08926669f/gettyimages-1228757134.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden pushes back at President Trump for downplaying masks, says wearing one is \"patriotic\""
-    excerpt: "After President Trump's mask photo op on the White House balcony, his Democratic rival is emphasizing the importance of masks. In a NBC News town hall, former Vice President Biden told the audience wearing a mask was a \"big deal\" and \"patriotic."
-    publishedDateTime: 2020-10-06T11:57:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-pushes-back-at-president-trump-for-downplaying-masks-says-wearing-one-is-patriotic/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 108
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/06/65bab58e-ce84-47b9-af85-cb833ad248f6/thumbnail/1200x630/27bff0ec5b290c871da3a9b790d2e3bd/cbsn-fusion-joe-biden-pushes-back-at-president-trump-for-downplaying-masks-says-wearing-one-is-patriotic-thumbnail-560431-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump and Biden's campaign websites are not entirely accessible for voters with disablities, potentially shutting out 61 million people"
-    excerpt: "A report by digital accessibility group Ablr found 17 violations spread across the campaign websites of Donald Trump and Joe Biden."
-    publishedDateTime: 2020-10-06T13:06:00Z
-    webUrl: "https://www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-and-biden-have-inaccessible-campaign-websites-report-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f5fb81157b7da001ee117a5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Poll after poll suggests Trump's chances of defeating Biden are rapidly dwindling after the debate and the president's COVID-19 diagnosis"
-    excerpt: "The election is less than four weeks away, and COVID-19 positive Trump is in the negative on multiple fronts."
-    publishedDateTime: 2020-10-07T21:13:00Z
-    webUrl: "https://www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/polling-suggests-trump-chances-of-defeating-biden-rapidly-dwindling-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5f7e230fc655f6001969eca1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Japanese shares edge higher as Trump returns to White House"
-    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
-    publishedDateTime: 2020-10-06T02:32:00Z
-    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Joe Biden campaigns in Miami"
-    excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-05T20:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201005202222-joe-biden-campaigns-in-miami/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/05/story_07124914_1601930944.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Connie Chung endorses Joe Biden for president..."
-    excerpt: "Watch \"Connie Chung endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-09T15:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201009152108-connie-chung-endorses-joe-biden-for-president/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07190842_1602257232.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump to resume campaigning; second debate canceled"
-    excerpt: "U.S. President Donald Trump will resume in-person campaigning on Saturday after being sidelined by a case of COVID-19, but a debate next week against his presidential election opponent Joe Biden was canceled because Trump refused to participate."
-    publishedDateTime: 2020-10-10T08:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U0F5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U0F5"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Joe Biden makes campaign stop in Erie, Pa."
-    excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-10T22:33:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201011121901-joe-biden-makes-campaign-stop-in-erie-pa/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/11/story_07205931_1602418924.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden on economy & working families"
-    excerpt: "Watch \"Joe Biden delivers on economy & working families\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-10T21:32:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201010210848-joe-biden-delivers-on-economy-working-families/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/10/story_07203810_1602365464.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "These Zip Codes Are Donating the Most Money to Donald Trump"
-    excerpt: "Though both Joe Biden and President Trump have similar numbers of donations overall, Biden received more money from his top 50 zip codes."
-    publishedDateTime: 2020-10-11T15:00:00Z
-    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-donald-trump-1537837"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 105
-    images:
-      - url: "https://d.newsweek.com/en/full/1648618/zip-codes-donating-most-money-donald-trump.jpg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "These Zip Codes Are Donating the Most Money to Joe Biden"
-    excerpt: "The top 50 zip codes that have been most generous toward the Biden for President campaign span nine states, although 14 were contained within the island of Manhattan alone."
-    publishedDateTime: 2020-10-11T14:02:00Z
-    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-joe-biden-1537886"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 105
-    images:
-      - url: "https://d.newsweek.com/en/full/1648835/zip-codes-donating-most-money-joe-biden.jpg"
-        width: 1010
-        height: 720
-        isCached: true
-  - title: "Donald Trump's illusion and reality"
-    excerpt: "Donald Trump Donald John Trump North Korea unveils large intercontinental ballistic missile at military parade Trump no longer considered a risk to transmit COVID-19, doctor says"
-    publishedDateTime: 2020-10-11T17:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/520515-donald-trumps-illusion-and-reality"
-    ampWebUrl: "https://thehill.com/opinion/campaign/520515-donald-trumps-illusion-and-reality?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520515-donald-trumps-illusion-and-reality?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 105
-  - title: "Why Big Oil Should Vote for Joe Biden"
-    excerpt: "A Biden administration would absolutely kill our industry. Such comments from oil and gas chiefs featured in the Dallas Fed’s latest sector survey. It is received wisdom that, if elected president alongside a few more Democratic senators,"
-    publishedDateTime: 2020-10-12T12:04:00Z
-    webUrl: "https://www.washingtonpost.com/business/energy/why-big-oilshould-vote-for-joe-biden/2020/10/12/949105a4-0c82-11eb-b404-8d1e675ec701_story.html"
+  - title: "The Daily 202: Trump says Supreme Court pick could decide election while refusing to commit to peaceful transfer of power"
+    excerpt: "Internal GOP polling suggests pushing to confirm a justice before the election could hurt the president more than help."
+    publishedDateTime: 2020-09-24T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/24/daily-202-trump-says-supreme-court-pick-could-decide-election-while-refusing-commit-peaceful-transfer-power/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SK242PAMQII6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden making a push in battleground states"
-    excerpt: "With less than a month to go before the election, Joe Biden is making a push in states he never expected to win. The former vice president is virtually tied with President Trump in Georgia, and Biden is making a concerted effort to court voters in Ohio,"
-    publishedDateTime: 2020-10-12T22:58:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-making-a-push-in-battleground-states/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/91384797-7a91-418c-adb9-04a1c5b2ec3e/thumbnail/1200x630/d8e2e8cbaf9082c02de755baee737022/1012-en-biden-okeefe-564742-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Currency Traders Are Betting Against Trump, Too"
-    excerpt: "This is certainly what traders are betting on. In recent weeks, the yuan has appreciated strongly against the U.S. dollar — so much so that over the weekend, the People’s Bank of China removed one of the signature tools it uses to stabilize a weaker currency."
-    publishedDateTime: 2020-10-13T00:19:00Z
-    webUrl: "https://www.washingtonpost.com/business/currency-traders-are-betting-against-trump-too/2020/10/12/3df6d0ea-0ce9-11eb-b404-8d1e675ec701_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6QCKDAM5EI6XNAERUPGOXWHAE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MKDUIBH6OQI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
-        height: 959
+        height: 1006
         isCached: true
-  - title: "Election 2020: How Much Are Trump And Biden Spending On TV Ads?"
-    excerpt: "The Nov. 3 election is just three weeks away as a data analysis shows Biden continues to outspend the Trump campaign in six battleground states."
-    publishedDateTime: 2020-10-14T03:17:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-how-much-are-trump-biden-spending-tv-ads-3061738"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-how-much-are-trump-biden-spending-tv-ads-3061738?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-how-much-are-trump-biden-spending-tv-ads-3061738?amp=1"
+  - title: "Republicans have votes to confirm Trump Supreme Court pick by Nov. 3, Sen. Lindsey Graham says"
+    excerpt: "Republicans have the votes to confirm President Donald Trump’s Supreme Court pick before the Nov. 3 presidential election, according to the Senate Judiciary chairman."
+    publishedDateTime: 2020-09-22T15:52:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-supreme-court-nomination-votes-20200922-6w5rvkvi3zffjfsm6asarzyu5a-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 105
+      name: The Baltimore Sun
+      domain: chicagotribune.com
+    quality: 113
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/us-president-donald-trump-right-accused-the-bipartisan.jpg"
-        width: 1024
-        height: 725
+      - url: "https://www.chicagotribune.com/resizer/6f5xKKHESy0lcsAMESSNRDyeRt0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5A2FDICAEPA7OBJJHQJDTC3YVU.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Joe Biden leads President Trump 57%-41% in new national CNN poll"
-    excerpt: "A new CNN/SSRS poll finds Joe Biden leading President Trump among likely voters nationally and on issues of the economy and health care."
-    publishedDateTime: 2020-10-06T14:54:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/trump-trails-biden-covid-economy-and-health-care-cnn-poll-says/3635336001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3635336001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3635336001"
+  - title: "Analysis: With nothing else working, Trump races to make a new Supreme Court justice the issue"
+    excerpt: "Even as Trump presses ahead, Republicans remain uncertain whether it would be better to hold a confirmation vote before the election or announce the nomination and start hearings but leave the final d"
+    publishedDateTime: 2020-09-23T02:01:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-trump-supreme-court-justice-20200923-f4eqtptl35bytoz4nit7j6drkm-story.html?outputType=amp"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 90
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/C02dXLP_KsYAn5nvvmiUpeKJTtA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X5SUSY55DFAAXIN5G4KESKJNGA.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/TT Poll finds"
-    excerpt: "The president leads the former vice president 50%-45% in Texas, according to the latest University of Texas/Texas Tribune Poll."
-    publishedDateTime: 2020-10-09T09:06:00Z
-    webUrl: "https://www.texastribune.org/2020/10/09/texas-poll-donald-trump-joe-biden/"
-    ampWebUrl: "https://www.texastribune.org/2020/10/09/texas-poll-donald-trump-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-texastribune-org.cdn.ampproject.org/c/s/www.texastribune.org/2020/10/09/texas-poll-donald-trump-joe-biden/amp/"
+  - title: "WATCH: Trump Deliberately Mispronounces Kamala Harris, Says She’s ‘No Mike Pence’"
+    excerpt: "President Donald Trump took a few shots at Senator Kamala Harris during a rally, deliberately butchering the pronunciation of her name and remarking that she's \"no Mike Pence.\""
+    publishedDateTime: 2020-09-26T14:02:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
     type: article
     provider:
-      name: Texas Tribune
-      domain: texastribune.org
-    quality: 90
+      name: Mediaite
+      domain: mediaite.com
+    quality: 110
     images:
-      - url: "https://thumbnails.texastribune.org/cZwCxr8gFfdXCUyY9IYLzlGKYVA=/1200x804/smart/filters:quality(95)/static.texastribune.org/media/files/8a1b9a5503a4eea54bd0e482a6a641d9/UT%20TT%20Trump%20Biden.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Pence-GettyImages-1228712934.jpg"
         width: 1200
-        height: 804
+        height: 630
         isCached: true
-  - title: "Trump, Biden teams debate debate: Virtual or not, next week?"
-    excerpt: "It's suddenly unclear whether President Donald Trump and Democratic challenger Joe Biden will square off in debate again, where they might do so and whether they would face each other in person or virtually,"
-    publishedDateTime: 2020-10-08T17:34:00Z
-    webUrl: "https://www.chron.com/news/article/Second-debate-with-Biden-going-virtual-amid-15630391.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Second-debate-with-Biden-going-virtual-amid-15630391.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Second-debate-with-Biden-going-virtual-amid-15630391.php"
+  - title: "GOP senators \"don't have to go lockstep\" with President Trump on Supreme Court pick, Amy Klobuchar says"
+    excerpt: "Democratic Senator Amy Klobuchar urged her Republican colleagues to \"look in their own souls\" and not consider a Supreme Court justice to replace Ruth Bader Ginsburg until after the November election."
+    publishedDateTime: 2020-09-21T17:35:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-supreme-court-pick-republican-senators-klobuchar/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
+      name: CBS News
+      domain: cbsnews.com
+    quality: 109
     images:
-      - url: "https://s.hdnux.com/photos/01/14/46/06/20079020/29/375x250.jpg"
-        width: 375
-        height: 249
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/21/477c31a7-11bc-4e33-98d5-2b3b1a10630c/thumbnail/1200x630/21442ad0dac4dae6509be91c16cb340c/cbsn-fusion-senator-klobuchar-on-justice-ruth-bader-ginsburg-and-upcoming-supreme-court-confirmation-battle-thumbnail-551043-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/TT Poll finds"
-    excerpt: "President Trump has the support of 50% percent of Texas' likely voters compared to Biden's 45% in the 2020 presidential race."
-    publishedDateTime: 2020-10-09T17:22:00Z
-    webUrl: "https://abc13.com/president-donald-trump-leading-in-texas-joe-biden-tribune-poll-voting-ballot-2020/6892031/"
-    ampWebUrl: "https://abc13.com/amp/president-donald-trump-leading-in-texas-joe-biden-tribune-poll-voting-ballot-2020/6892031/"
-    cdnAmpWebUrl: "https://abc13-com.cdn.ampproject.org/c/s/abc13.com/amp/president-donald-trump-leading-in-texas-joe-biden-tribune-poll-voting-ballot-2020/6892031/"
+  - title: "I've seen what happens when a president refuses to give up power, as Trump has repeatedly hinted he might"
+    excerpt: "It may seem extreme, but President Donald Trump has justifiably invited comparison with the dysfunctional, even dystopian, politics of Eastern Europe."
+    publishedDateTime: 2020-09-25T15:10:00Z
+    webUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-casting-doubt-power-transfer-like-belarus-2020-9?amp"
     type: article
     provider:
-      name: abc13.com
-      domain: abc13.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/6893237_100920-ap-split.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5f6df67c0f4d550011032488?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Election 2020: Trump Tweets Democratic States Are 'Going To Hell'"
-    excerpt: "Trump's tweets come amid new national polls indicated that he is trailing Democratic challenger Joe Biden by double-digits."
-    publishedDateTime: 2020-10-13T01:15:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+  - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
+    excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
+    publishedDateTime: 2020-09-11T23:16:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 90
+    quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
         width: 1024
-        height: 651
+        height: 682
         isCached: true
-  - title: "Oops: Biden says Trump won Ohio and Florida 'the last two times'"
-    excerpt: "Donald Trump has only run for president once, but that’s not how former Vice President Joseph R. Biden remembers it."
-    publishedDateTime: 2020-10-14T09:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-says-donald-trump-won-ohio-and-florida-l/"
+  - title: "Trump's top contenders to take RBG's court seat"
+    excerpt: "President Donald Trump's has said he would nominate a conservative woman to replace Supreme Court Justice Ruth Bader Ginsburg, but some disagree on whether the pick should cement the conservative court majority,"
+    publishedDateTime: 2020-09-23T17:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/23/trumps-top-contenders-take-rbgs-court-seat/3505402001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3ba9fae9-d0ce-4470-a85e-011affbf3ff4_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump to Court Skeptical Black Voters With Small Business Plan"
+    excerpt: "President Donald Trump will make an appeal to Black Americans, a group poised to vote overwhelmingly against him in November, with offers of aid to expand small businesses and further criminal justice reforms."
+    publishedDateTime: 2020-09-25T04:12:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-court-skeptical-black-voters-with-small-business-plan/2020/09/25/6c0e169a-fee4-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MFXMR5X64QI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump to Make Appeal to Black Voters, Who Largely Oppose Him"
+    excerpt: "President Donald Trump will make an appeal Friday to Black voters to help re-elect him in November, promising them money to expand small businesses and further criminal sentencing reductions."
+    publishedDateTime: 2020-09-25T00:18:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-to-make-appeal-to-black-voters-who-largely-oppose-him/2020/09/24/98d3b638-fec3-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLGSSFX6YMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
+  - title: "Trump plays coy on Barrett pick for Supreme Court"
+    excerpt: "President Donald Trump played coy about his pick for the Supreme Court, but Republicans are expecting him to announce that he is nominating Judge Amy Coney Barrett at the White House Saturday. (Sept."
+    publishedDateTime: 2020-09-25T23:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/25/trump-plays-coy-barrett-pick-supreme-court/3537791001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a29aa074-cf7d-4759-840a-eda18cf8268f_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amy Coney Barrett Picked by Trump to Push Court Further to Right"
+    excerpt: "President Donald Trump said he’ll nominate Judge Amy Coney Barrett for the Supreme Court, moving to add his third justice to the bench and a fresh jolt to his faltering campaign just weeks before Americans vote on whether to give him a second term."
+    publishedDateTime: 2020-09-27T02:53:00Z
+    webUrl: "https://www.washingtonpost.com/business/amy-coney-barrett-picked-by-trump-to-push-court-further-to-right/2020/09/26/ffedbdac-0060-11eb-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "GOP invests in boosting Trump with Barrett confirmation"
+    excerpt: "The Republican National Committee is putting Amy Coney Barrett's Supreme Court confirmation fight front and center with voters just weeks before Election Day."
+    publishedDateTime: 2020-09-27T00:25:00Z
+    webUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-invests-in-boosting-trump-with-barrett-confirmation-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump introduces his Supreme Court pick"
+    excerpt: "President Donald Trump officially announced federal judge Amy Coney Barrett to be his nominee for the nation's highest court, to fill the seat left open by the death of Supreme Court Justice Ruth Bader Ginsburg."
+    publishedDateTime: 2020-09-27T13:08:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-introduces-his-supreme-court-pick/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/5d8733ab-498c-4932-9043-0d62d52cf6cd/thumbnail/1200x630/d1a4e77a1bb03365d14bdff320860491/trump-amyconeybarrett-554993-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump picks conservative Barrett for Supreme Court"
+    excerpt: "Capping a dramatic reshaping of the federal judiciary that will resonate for a generation and that he hopes will provide a needed boost to his reelection effort, President Donald Trump nominates Judge Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-09-26T23:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/26/trump-picks-conservative-barrett-supreme-court/3551728001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2b582ce8-3d2c-43be-8463-2495e675a632_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris holds event in North Carolina"
+    excerpt: "Watch \"Kamala Harris holds campaign event in North Carolina\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-09-28T19:18:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20200928185126-kamala-harris-holds-campaign-event-in-north-carolina/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07027324_1601319784.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Futures sink as Trump tests positive for COVID-19"
+    excerpt: "U.S. stock index futures tumbled on Friday after President Donald Trump tested positive for COVID-19 weeks before the election, with Washington's failure to reach a new fiscal stimulus deal also hurting sentiment."
+    publishedDateTime: 2020-10-03T22:54:00Z
+    webUrl: "https://www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/futures-sink-as-trump-tests-positive-for-covid-19-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Risk assets rise on stimulus hopes and Trump's health progress"
+    excerpt: "Stocks and oil prices rose on Monday as stimulus hopes and suggestions Donald Trump's health was improving brought relief to markets after last week's rush to safety on uncertainty over the impact of the U."
+    publishedDateTime: 2020-10-05T14:15:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idUKKBN26Q00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q00L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "US President Donald Trump leaves hospital by car"
+    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. Earlier in the day, Trump's doctor said he \"continued to improve.\" (Oct. 4)"
+    publishedDateTime: 2020-10-04T23:30:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/04/us-president-donald-trump-leaves-hospital-car/3619782001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/87e0cb82-c9eb-4f5e-9fce-e85ac4be9bf8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "JGBs fall as risk-averse mood eases after Trump returns to White House"
+    excerpt: "Japanese government bond prices dropped on Tuesday as investor risk aversion, triggered on news of U.S. President Donald Trump's COVID-19 infection, eased after he returned to the White House, assuaging fears over political uncertainty."
+    publishedDateTime: 2020-10-06T05:31:00Z
+    webUrl: "https://www.reuters.com/article/japan-bonds/jgbs-fall-as-risk-averse-mood-eases-after-trump-returns-to-white-house-idUSL4N2GX11Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX11Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX11Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump stages dramatic White House return"
+    excerpt: "Donald Trump staged a dramatic return to the White House Monday night after leaving the military hospital where he has been receiving an unprecedented level of care for COVID-19. Trump entered the White House without wearing a protective mask."
+    publishedDateTime: 2020-10-06T00:25:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/06/trump-stages-dramatic-white-house-return/3632449001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9b34bac6-3caf-4530-b130-fcd9c4a967b8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
+    excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
+    publishedDateTime: 2020-10-04T15:57:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 104
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/kamala_pence.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Democrats hammer Trump's Supreme Court pick, say could jeopardize Obamacare"
+    excerpt: "Democratic presidential candidate Joe Biden and others in his party on Saturday blasted President Donald Trump's choice of conservative judge Amy Coney Barrett for the Supreme Court, focusing in particular on the threat they said she would pose to healthcare for"
+    publishedDateTime: 2020-09-27T04:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-court-barrett-healthcare/democrats-hammer-trumps-supreme-court-pick-say-could-jeopardize-obamacare-idUSKBN26I024"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I024"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I024"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "President Donald Trump delivers update on his health as he fights COVID-19"
+    excerpt: "President Donald Trump thanked Walter Reed National Military Medical Center staff and even cracked a joke about his age."
+    publishedDateTime: 2020-10-04T00:22:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/president-donald-trump-delivers-update-his-health-he-fights-covid-19/3613477001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "UPDATE 1-Doctors to weigh if Trump can leave hospital on Monday -Trump aide"
+    excerpt: "U.S. President Donald Trump's medical team will weigh whether he can leave the hospital later on Monday after being admitted last week for COVID-19, White House chief of staff Mark Meadows said, adding that he was optimistic Trump will be discharged."
+    publishedDateTime: 2020-10-05T13:35:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-condition-idUSL1N2GW0FF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GW0FF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GW0FF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 103
+  - title: "Acrimonious debate sparks calls for new rules to rein in Trump and questions about the format’s usefulness for voters"
+    excerpt: "Debate organizers pledged swift action to help “maintain order” going forward. One area of agreement? Something needs to change."
+    publishedDateTime: 2020-09-30T23:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 102
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBBGJPQCYEI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 957
+        isCached: true
+  - title: "VP debate will have plexiglass shield between Mike Pence, Kamala Harris"
+    excerpt: "Harris campaign requested a plexiglass shield for Wednesday's debate, and the Commission on Presidential Debates agreed to it."
+    publishedDateTime: 2020-10-06T03:33:00Z
+    webUrl: "https://abc7chicago.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
+    ampWebUrl: "https://abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 100
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/6669222_093020-cc-getty-debate-stage-img.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
+    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
+    publishedDateTime: 2020-09-21T12:59:00Z
+    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
+    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 96
+  - title: "Kamala Harris: We won't let Trump 'infection' spread to Supreme Court"
+    excerpt: "Democratic vice-presidential nominee Kamala D. Harris said Monday that the American people aren’t about to allow the “infection” President Trump has spread throughout the country to infiltrate the U.S."
+    publishedDateTime: 2020-09-28T19:57:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
     type: article
     provider:
       name: Washington Times
       domain: washingtontimes.com
     quality: 90
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/Election_2020_Biden_56432.jpg-f12f0_c0-349-4184-2789_s1200x700.jpg?5cbdeeb5b6580fa8f31c3cc4799e630285501e06"
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_02189_c0-66-4654-2780_s1200x700.jpg?c6d410f0f399346bfdeb569b924d599ad50af0d5"
         width: 1200
         height: 700
         isCached: true
-  - title: "Trump and Biden ads on Facebook and Instagram focus on rallying the base"
-    excerpt: "The campaigns of Donald Trump and Joe Biden together spent US$65.8 million on social media advertising between June 1 and Sept. 13, according to Syracuse University’s Illuminating 2020 project. The project,"
-    publishedDateTime: 2020-10-05T15:32:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-biden-ads-on-facebook-and-instagram-focus-on-rallying-the-base/amp/"
+  - title: "Mike Pence sends prayers to Trumps after COVID news"
+    excerpt: "Vice President Mike Pence says he and his wife, Karen, are sending their “love and prayers” to President Donald Trump and first lady Melania Trump after the Trumps announced early Friday that they had tested positive for the coronavirus."
+    publishedDateTime: 2020-10-02T07:03:00Z
+    webUrl: "https://www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news"
+    ampWebUrl: "https://www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news?_amp=true"
+    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news?_amp=true"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 89
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 90
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
-        width: 800
-        height: 430
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c09085f/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fmedia2.abc15.com%2Fphoto%2F2017%2F08%2F22%2FKNXV%20Trump%20and%20Pence%20in%20Phoenix_1503443555336_64666784_ver1.0_640_480.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Donald Trump vs. Joe Biden: Where they stand on COVID, education and more"
-    excerpt: "Amid the tumult of the 2020 presidential campaign, one dynamic has remained constant: The Nov. 3 election offers voters a choice between substantially different policy paths."
-    publishedDateTime: 2020-10-13T11:24:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/donald-trump-vs-joe-biden-where-they-stand-on-covid-education-and-more.html?outputType=amp"
+  - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
+    excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
+    publishedDateTime: 2020-09-22T03:44:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-trump-losing-white-voters-support-key-swing-states-3049582?amp=1"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 89
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TLJCNCQZYJG4NO2SDHZSCZWSXM.jpg"
-        width: 5433
-        height: 3793
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/as-leader-of-the-worlds-hardest-hit-country.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Biden Says He’ll Debate Trump on Oct. 15 ‘If the Scientists Say It’s Safe’"
-    excerpt: "Joe Biden told assembled members of the press that he still intended on debating President Trump on October 15th if doctors and scientists feel that it is safe."
-    publishedDateTime: 2020-10-05T17:03:00Z
-    webUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/joe-biden-says-hell-debate-trump-on-oct-15-if-the-scientists-say-its-safe/amp/"
+  - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
+    excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
+    publishedDateTime: 2020-09-21T22:55:00Z
+    webUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/"
+    ampWebUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 88
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 85
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-05-at-12.33.52-PM.jpg"
-        width: 934
-        height: 548
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Democrats’ poll shows a toss-up between Joe Biden and Donald Trump in Texas"
-    excerpt: "Former Vice President Joe Biden is leading President Donald Trump in a new poll by Public Policy Polling, a Democratic polling firm. The poll,"
-    publishedDateTime: 2020-10-09T02:48:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2020/10/08/democrats-poll-shows-a-toss-up-between-biden-and-trump-in-presidential-race-in-texas/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2020/10/08/democrats-poll-shows-a-toss-up-between-biden-and-trump-in-presidential-race-in-texas/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2020/10/08/democrats-poll-shows-a-toss-up-between-biden-and-trump-in-presidential-race-in-texas/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 88
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/zR6qPU6Wp4oloJvSEM_SnsnGnPc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/XYBLJ3PI2KMZVJ4TW7APTBYZ6A.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Election 2020: Joe Biden holds 12-point lead over President Donald Trump in latest ABC/Washington Post poll"
-    excerpt: "Biden picked up support from 54% of voters, while 42% said they’d vote for Trump if the election were held today. The results represent a 5% uptick in support for Biden and a drop of 1% for Trump since the Post’s and ABC News' last poll released in late September."
-    publishedDateTime: 2020-10-11T15:30:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/election-2020-joe-biden-holds-12-point-lead-over-president-donald-trump-in-latest-abcwashington-post-poll.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 87
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YIG4NCIBBNGP5NCC2ALVHF2FZM.jpg"
-        width: 5433
-        height: 3793
-        isCached: true
-  - title: "James Gill: Donald Trump and Joe Biden are fighting for votes. But not ours."
-    excerpt: "Voters in Florida or Pennsylvania, say, are bombarded with campaign propaganda, and, in normal circumstances, President Donald Trump and Joe Biden would be schmoozing up a storm in swing states right now."
-    publishedDateTime: 2020-10-11T11:00:00Z
-    webUrl: "https://www.nola.com/opinions/james_gill/article_573a6d74-0996-11eb-bbd8-7bc17d157cbb.html"
-    ampWebUrl: "https://www.nola.com/opinions/james_gill/article_573a6d74-0996-11eb-bbd8-7bc17d157cbb.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/opinions/james_gill/article_573a6d74-0996-11eb-bbd8-7bc17d157cbb.amp.html"
+  - title: "Mike Pence tests negative for coronavirus hours after Donald Trump tests positive"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the coronavirus."
+    publishedDateTime: 2020-10-02T12:29:00Z
+    webUrl: "https://www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.html"
+    ampWebUrl: "https://www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.amp.html"
+    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.amp.html"
     type: article
     provider:
       name: NOLA.com
       domain: nola.com
-    quality: 87
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/4/d0/4d009e1c-0961-11eb-9177-a784642d43c0/5f7f05466a9dd.image.jpg?resize=1024%2C526"
-        width: 1024
-        height: 526
-        isCached: true
-  - title: "Donald Trump leads Joe Biden by 5 points in Texas, UT/Texas Tribune poll finds"
-    excerpt: "Trump and his running mate, Vice President Mike Pence — had strong support from white (62%-34%) and male (55%-39%) voters, while the Democrats, Biden and U.S. Sen. Kamala Harris,"
-    publishedDateTime: 2020-10-09T12:54:00Z
-    webUrl: "https://www.kxan.com/news/us-politics/donald-trump-leads-joe-biden-by-5-points-in-texas-ut-texas-tribune-poll-finds/"
-    ampWebUrl: "https://www.kxan.com/news/us-politics/donald-trump-leads-joe-biden-by-5-points-in-texas-ut-texas-tribune-poll-finds/amp/"
-    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/us-politics/donald-trump-leads-joe-biden-by-5-points-in-texas-ut-texas-tribune-poll-finds/amp/"
-    type: article
-    provider:
-      name: KXAN
-      domain: kxan.com
-    quality: 86
-    images:
-      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2020/09/20274049843913.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden slams Trump for 'reckless personal conduct' since COVID-19 diagnosis"
-    excerpt: "Biden’s sympathy for a COVID-stricken Trump is apparently over. Mr. Biden on Friday condemned Mr. Trump for “reckless” personal conduct after the preside"
-    publishedDateTime: 2020-10-09T23:29:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/joe-biden-slams-trump-for-reckless-personal-conduc/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/joe-biden-slams-trump-for-reckless-personal-conduc/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/joe-biden-slams-trump-for-reckless-personal-conduc/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 86
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/09/Election_2020_Biden_24551.jpg-19bcd_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Mitt Romney Drops Statement on Trump-Biden Election, Gets Dragged For Equating President With Keith Olbermann"
-    excerpt: "Trump statement on the state of American politics, decrying how \"vile\" the election has become -- but is getting dragged for questionably equating President Donald Trump with Keith Olbermann."
-    publishedDateTime: 2020-10-13T17:41:00Z
-    webUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/"
-    ampWebUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 86
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/07/Mitt-Romney-Getty-1076859904.jpg"
-        width: 1200
-        height: 624
-        isCached: true
-  - title: "How to watch Tuesday night’s debate between President Donald Trump and Joe Biden"
-    excerpt: "President Donald Trump and former Vice President Joe Biden will take the debate stage in Cleveland, Ohio, on Tuesday night, the first of three chances for the Republican incumbent and Democratic challenger to square off publicly and make crucial pitches to millions of Americans before they head to the polls on Nov."
-    publishedDateTime: 2020-09-28T15:49:00Z
-    webUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html"
-    ampWebUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
     quality: 85
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
-        width: 1759
-        height: 1124
-        isCached: true
-  - title: "Joe Biden moves ahead of President Trump among Miami-Dade Hispanic voters, poll finds"
-    excerpt: "American voters continue to favor President Donald Trump over Joe Biden in Miami-Dade County, but more are moving toward the Democratic nominee, boosting Biden’s chances of winning battleground Florida,"
-    publishedDateTime: 2020-10-05T11:40:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article246216955.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246216955.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246216955.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 83
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f4761fca-22cf-457b-bb5b-25c8c5877932/dc6ba712-84ad-49d0-be23-fb3df9b27dff/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
-    excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
-    publishedDateTime: 2020-10-08T10:40:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/08/second-debate-with-biden-going-virtual-amid-trumps-covid-19/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 83
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/Virus_Outbreak_46522-2.jpg?w=1024&h=683"
+      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/44/b4461aea-04aa-11eb-a7cd-1fa88234cebc/5f771d9bdc596.image.jpg?resize=1024%2C685"
         width: 1024
-        height: 683
+        height: 685
         isCached: true
-  - title: "Free Press poll: Joe Biden up by 9 points in Michigan, Donald Trump stuck in neutral"
-    excerpt: "Trump has been stuck at around the same level of support and been unable to break through against his Democratic rival according to the polls."
-    publishedDateTime: 2020-10-14T10:07:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/14/trump-biden-free-press-michigan-poll/3638236001/"
-    ampWebUrl: "https://amp.freep.com/amp/3638236001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3638236001"
+  - title: "Donald Trump Has Nothing Left to Say. He Could Still Win Anyway"
+    excerpt: "Where do the Saturday-night faithful go next? I’ve seen enough of Donald Trump to know he has never wanted to build a movement even though the conditions are ripe; he wants fans, ratings ..."
+    publishedDateTime: 2020-09-21T16:31:00Z
+    webUrl: "https://www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/"
+    ampWebUrl: "https://www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/politics/politics-features/trump-rally-fayetteville-ginsburg-supreme-court-covid-2020-campaign-1064056/amp/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 83
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/media/2017/11/15/DetroitFreeP/DetroitFreePress/636463403819050776-trump-biden.jpg?auto=webp&crop=4000,2260,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 678
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/09/GettyImages-1228603872c.jpg"
+        width: 1800
+        height: 1200
         isCached: true
-  - title: "Joe Biden: 'Throughline from President Trump’s dog whistles' to Whitmer kidnapping plot"
-    excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
-    publishedDateTime: 2020-10-09T03:16:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/biden-trump-dog-whistles-whitmer-kidnapping-plot/5932432002/"
-    ampWebUrl: "https://amp.freep.com/amp/5932432002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5932432002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 82
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/24/PDTF/ce1d71ab-7580-4236-9ead-b6ed0bb426a2-biden_091218_05.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden: 'Through line from President Trump’s dog whistles' to Whitmer kidnapping plot"
-    excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
-    publishedDateTime: 2020-10-10T23:28:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/biden-trump-dog-whistles-whitmer-kidnapping-plot/5932432002/"
-    ampWebUrl: "https://amp.freep.com/amp/5932432002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5932432002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 81
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/24/PDTF/ce1d71ab-7580-4236-9ead-b6ed0bb426a2-biden_091218_05.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "NBC to host Trump town hall at same time as Biden’s ABC event, instead of presidential debate"
-    excerpt: "NBC News will host a town hall with President Donald Trump at the same time that Democratic presidential candidate Joe Biden will be doing a similar event on ABC News. NBC announced Wednesday that “Today” anchor Savannah Guthrie will moderate a one-hour conversation between Trump and Florida voters in Miami starting at 8 p."
-    publishedDateTime: 2020-10-14T11:38:00Z
-    webUrl: "https://www.syracuse.com/politics/2020/10/nbc-to-host-trump-town-hall-at-same-time-as-bidens-abc-event-instead-of-presidential-debate.html"
-    ampWebUrl: "https://www.syracuse.com/politics/2020/10/nbc-to-host-trump-town-hall-at-same-time-as-bidens-abc-event-instead-of-presidential-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-syracuse-com.cdn.ampproject.org/c/s/www.syracuse.com/politics/2020/10/nbc-to-host-trump-town-hall-at-same-time-as-bidens-abc-event-instead-of-presidential-debate.html?outputType=amp"
-    type: article
-    provider:
-      name: syracuse.com
-      domain: syracuse.com
-    quality: 79
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W7M5NT7TFBGDJGOF6FH7CT6XVM.jpg"
-        width: 1024
-        height: 526
-        isCached: true
-  - title: "Joe Biden opens 9-point lead over President Trump in Michigan, Detroit News/WDIV-TV poll finds"
-    excerpt: "Democratic presidential candidate Joe Biden's lead in Michigan over President Donald Trump now stands at 9 percentage points."
-    publishedDateTime: 2020-10-06T03:18:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/05/biden-leads-trump-9-points-michigan-detroit-news-wdiv-tv-poll/3627544001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3627544001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3627544001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 78
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PDTN/ec170626-d7fb-4b6b-9f06-9c9943acc2a2-debate_sbs.png?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'The Simpsons' ding Donald Trump ahead of Election Day with 50 reasons not to reelect president"
-    excerpt: "The Simpsons” offers dozens of reasons not to vote to reelect President Trump in a scene appearing in the annual Halloween-themed episode of the long-running animated series airing this Sunday."
-    publishedDateTime: 2020-10-14T02:05:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/the-simpsons-ding-donald-trump-ahead-of-election-d/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/the-simpsons-ding-donald-trump-ahead-of-election-d/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/the-simpsons-ding-donald-trump-ahead-of-election-d/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 78
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2014/12/17/987ffeee6e5c7531680f6a706700e765_c0-643-2000-1809_s1200x700.jpg?2a5a0c24ca6b2b59abc695c481ff1dea9e2284c1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Trump campaign attacks Joe Biden for lack of ‘firsthand experience’ being infected with COVID-19"
-    excerpt: "Trump campaign aide Erin Perrine on Monday suggested that President Donald Trump is a better leader than Democratic candidate Joe Biden because he has the “firsthand experience” of being infected with COVID-19."
-    publishedDateTime: 2020-10-05T17:29:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-campaign-s-joe-biden-for-lack-of-firsthand-experience-being-infected-with-19/amp/"
+  - title: "Trump to announce Supreme Court pick Saturday, Republicans close ranks"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg, as Republicans firmed up their majority to vote on the nominee."
+    publishedDateTime: 2020-09-22T20:08:00Z
+    webUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/"
+    ampWebUrl: "https://www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/09/trump-to-announce-supreme-court-pick-saturday-republicans-close-ranks/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 77
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/smith-perrine-1-791x430.jpg"
-        width: 791
-        height: 430
-        isCached: true
-  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
-    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
-    publishedDateTime: 2020-10-14T12:14:00Z
-    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
-    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 77
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
-        width: 1024
-        height: 741
-        isCached: true
-  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
-    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
-    publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
     quality: 75
     images:
-      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
-        width: 1200
-        height: 675
+      - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Donald-Trump-Mandel-NganAFP.jpg"
+        width: 597
+        height: 419
         isCached: true
-  - title: "Taylor Swift endorses Joe Biden"
-    excerpt: "Everyone deserves a government that takes global health risks seriously and puts the lives of its people first. The only way we can begin to make things better is to choose leaders who are"
-    publishedDateTime: 2020-10-08T04:37:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/taylor-swift-endorses-joe-biden/amp/"
+  - title: "Kamala Harris Downplays Debate Skills as Buttigieg Stands In for Pence"
+    excerpt: "Kamala Harris’s team is working to manage public expectations that her upcoming debate with Vice President Mike Pence will present her with an easy opponent, despite her withering attacks on Democratic rivals in earlier presidential primary debates."
+    publishedDateTime: 2020-09-24T05:32:00Z
+    webUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881"
+    ampWebUrl: "https://www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/kamala-harris-downplays-debate-skills-as-buttigieg-stands-in-for-pence-1.1497881.amp.html"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
     quality: 75
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/sjm-aylor-Swift-Stalker_76479750.jpg?w=1024&h=736"
-        width: 1024
-        height: 736
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1497882!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/pete-buttigieg-and-kamala-harris-photographers-martina-albertazzi-stefani-reynolds-bloomberg-photographer-martina-albertazzi-stefani-reynolds-bloomberg.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "Trump administration targets diversity hiring by contractors"
-    excerpt: "But advocates for corporate diversity initiatives worry that more cautious executives will halt or scale back efforts to make their workplaces more inclusive out of fear that a wrong step could jeopardize lucrative public contracts."
-    publishedDateTime: 2020-10-09T15:51:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-administration-targets-diversity-hiring-by-15633926.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
+  - title: "Kamala Harris visits Flint businesses affected by COVID-19 pandemic"
+    excerpt: "Democratic vice presidential nominee Kamala Harris attracted hundreds of supporters to downtown Flint on Tuesday while visiting Black-owned businesses affected by the COVID-19 pandemic. Harris stopped to talk with business owners and supporters as she walked along Second Street to the Flint Farmers Market,"
+    publishedDateTime: 2020-09-23T19:54:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/09/kamala-harris-visits-flint-businesses-affected-by-covid-19-pandemic.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZGTDFLUUNFFR5IUKOA55HRRVKU.JPG"
+        width: 1300
+        height: 853
+        isCached: true
+  - title: "Trump hits battleground states courting key voters"
+    excerpt: "President Donald Trump tried on Friday to chip away at his Democratic rival's support among Hispanic voters in Florida, who could determine the election outcome in this crucial battleground state. \"Joe Biden betrayed Hispanic Americans and I'm fighting for you,"
+    publishedDateTime: 2020-09-25T16:54:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-hits-battleground-states-courting-key-voters-15597275.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/47/54/20085552/3/375x250.jpg"
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
-        height: 249
+        height: 211
         isCached: true
-  - title: "Joe Biden for president"
-    excerpt: "America is in peril. Our nation is buffeted by crises, and the warning lights are flashing red. We need a president with experience and character, someone who can extinguish the flames and rebuild the"
-    publishedDateTime: 2020-10-10T11:06:00Z
-    webUrl: "https://www.newsday.com/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
-    ampWebUrl: "https://www.newsday.com/amp/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/opinion/editorial/2020-presidential-election-joe-biden-newsday-opinion-1.50032702"
+  - title: "VP candidate Kamala Harris coming to NC | Charlotte Observer"
+    excerpt: "This will be vice presidential candidate Kamala Harris’ first in-person visit to North Carolina since becoming the Democratic nominee."
+    publishedDateTime: 2020-09-25T22:22:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246005265.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
     type: article
     provider:
-      name: Newsday
-      domain: newsday.com
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 75
     images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.50032703.1602331572!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
         width: 1280
-        height: 719
+        height: 720
         isCached: true
-  - title: "Editorial: Weary nation needs Joe Biden as president"
-    excerpt: "Biden has grown in leadership and stature to meet the historic challenges under which President Donald Trump has shrunk."
-    publishedDateTime: 2020-10-11T09:18:00Z
-    webUrl: "https://www.expressnews.com/opinion/editorials/article/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
-    ampWebUrl: "https://www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
-    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/opinion/editorials/amp/Editorial-Weary-nation-needs-Joe-Biden-as-15635044.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/50/23/20088055/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Joe Biden Takes a Dark Turn on Blowing Up the Court"
-    excerpt: "Now voters “don’t deserve” to know his position. This transmutes an untenable position into a downright nefarious one."
-    publishedDateTime: 2020-10-10T18:30:00Z
-    webUrl: "https://www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/"
-    ampWebUrl: "https://www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/joe-biden-takes-a-dark-turn-on-blowing-up-the-court/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/biden-vegas.jpg?fit=1200%2C675&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'"
-    excerpt: "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more."
-    publishedDateTime: 2020-10-11T10:41:00Z
-    webUrl: "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325"
-    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The Trump Campaign’s Big Plan to Save Itself: More Trump"
-    excerpt: "The president is reportedly looking to reset the race at the last minute — by doubling down on the very approach that has brought his reelection bid to the brink."
-    publishedDateTime: 2020-10-12T16:20:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump/amp"
+  - title: "We Finally Know Just How Big a Fraud Trump Is"
+    excerpt: "In the early 2000s, Donald Trump found himself in a familiar position: down and out. The big-talking real estate developer was once again on the verge of bankruptcy—his business losses mounting, his prospects looking bleak."
+    publishedDateTime: 2020-09-29T17:26:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/09/we-finally-know-just-how-big-a-fraud-trump-is"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/09/we-finally-know-just-how-big-a-fraud-trump-is/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/we-finally-know-just-how-big-a-fraud-trump-is/amp"
     type: article
     provider:
       name: Vanity Fair
       domain: vanityfair.com
     quality: 75
     images:
-      - url: "https://media.vanityfair.com/photos/5f846f48b13a7bb1006f7180/master/pass/Trump10.12.jpg"
+      - url: "https://media.vanityfair.com/photos/5f73543cffc33aecb21a24bb/master/pass/Trump9.29.jpg"
         width: 2000
-        height: 1332
+        height: 1345
         isCached: true
-  - title: "Asian Doll Catches Heat For Endorsing Donald Trump For President"
-    excerpt: "The rapper apologized for offending anyone, but stood by her words. The President has millions of supporters, but for those who stand behind Donald Trump, the backlash can be swift. In less than one month,"
-    publishedDateTime: 2020-10-13T05:07:00Z
-    webUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
+  - title: "Kamala Harris made $464,500 from her writing last year"
+    excerpt: "Kamala Harris earned $464,500 from her books last year, as she and her husband reported a total of $3.02 million in taxable income. The couple paid $1.18 million in federal taxes, or about 39% of their earnings."
+    publishedDateTime: 2020-10-01T00:16:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Debate Squad: Meet Kamala Harris’s Closest Family Supporters"
+    excerpt: "Kamala Harris will debate Vice President Mike Pence—with six additional feet of distance between them—on Wednesday in Salt Lake City. Based on Harris's prosecutorial past and her tough lines of questioning for Brett Kavanaugh and attorney general Bill Barr in the Senate,"
+    publishedDateTime: 2020-10-05T15:30:00Z
+    webUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know"
+    ampWebUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
+    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
+    type: article
+    provider:
+      name: Vogue
+      domain: vogue.com
+    quality: 75
+    images:
+      - url: "https://assets.vogue.com/photos/5f79406417ef50f396f17d9b/master/pass/GettyImages-1267250943.jpg"
+        width: 6464
+        height: 4662
+        isCached: true
+  - title: "Kamala Harris Superfan Is Getting Plastic Surgery To Look More Like Her"
+    excerpt: "In other 2020 news... A 33 year old Houston woman named Cynthia Anne will be undergoing a series of procedures in order to make herself look more like Democratic vice presidential nominee Kamala Harris."
+    publishedDateTime: 2020-10-04T18:45:00Z
+    webUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
     type: article
     provider:
       name: HotNewHipHop
       domain: hotnewhiphop.com
     quality: 75
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602564536_352e5e27f27c7df6d612af935bc4631e.jpg/c2d42380cafbff355aec3f821f34215f/1602564536_042399b7a1c110bb889ca4458ce0e5c4.jpg"
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601835602_c78f4d7725bf01ada66dda7b037cc311.jpg/7bac4c72765958e3770472613f1ce7c4/1601835602_35a963e82449ae5c9c997e817819d6d0.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "Joe Biden should rebuke court-packing idea"
-    excerpt: "Democratic nominee Joe Biden’s refusal to answer a straightforward question about “court packing” not only is frustrating for voters, but undermines his main election theme of rolling back the"
-    publishedDateTime: 2020-10-12T20:08:00Z
-    webUrl: "https://www.dailynews.com/2020/10/12/joe-biden-should-rebuke-court-packing-idea/"
-    ampWebUrl: "https://www.dailynews.com/2020/10/12/joe-biden-should-rebuke-court-packing-idea/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/12/joe-biden-should-rebuke-court-packing-idea/amp/"
+  - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
+    publishedDateTime: 2020-09-28T20:51:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3563587001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3563587001"
     type: article
     provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 75
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/Election_2020_Debate_52718-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "38 billion reasons to vote for Joe Biden"
-    excerpt: "Biden has proven that he is committed to Israel’s security, and under Biden, bipartisan support for Israel will increase and flourish."
-    publishedDateTime: 2020-10-13T20:51:00Z
-    webUrl: "https://forward.com/opinion/456397/38-billion-reasons-to-vote-for-joe-biden/"
-    ampWebUrl: "https://forward.com/opinion/456397/38-billion-reasons-to-vote-for-joe-biden/?gamp"
-    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/opinion/456397/38-billion-reasons-to-vote-for-joe-biden/?gamp"
-    type: article
-    provider:
-      name: The Forward
-      domain: forward.com
-    quality: 75
-    images:
-      - url: "https://images.forwardcdn.com/image/303x227/center/images/cropped/gettyimages-1214821090-1602602241.jpg"
-        width: 303
-        height: 227
-        isCached: true
-  - title: "If history is a guide, Trump will either win bigger than 2016 — or lose"
-    excerpt: "As the first Republican since 1988 to win any of the Rust Belts states of Michigan, Pennsylvania and Wisconsin in 2016, Donald Trump’s best route to reelection appears to be winning by a smaller Electoral College margin than last time around."
-    publishedDateTime: 2020-10-14T09:11:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-history-trump-win-bigger-or-lose-20201014-7hlkqnwuvzbhzkb6edplb7psna-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/C1rWcpiBcX9rSZ74fZqmNds7vAs=/1200x0/left/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/OI6SWXX7XZGLNONBL2YBCXMATA.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Donald Trump: Biden Better Take COVID-19 More Seriously or He Might Get It and Infect a Bunch of People"
-    excerpt: "If you’re just tuning in to the latest edition of our long national nightmare, a brief recap: After downplaying COVID-19 for months, letting the virus gain a foothold in the country, and contributing to the deaths of over 200,"
-    publishedDateTime: 2020-10-12T23:13:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-joe-biden-masks/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 74
     images:
-      - url: "https://media.vanityfair.com/photos/5f4e6104b9d628c9983c85e1/master/pass/Trump9.1.jpg"
-        width: 2000
-        height: 1334
-        isCached: true
-  - title: "Doctor says President Donald Trump won’t transmit virus, stays mum on tests"
-    excerpt: "Navy Cmdr. Dr. Sean Conley says that by “currently recognized standards” Trump is no longer considered a transmission risk."
-    publishedDateTime: 2020-10-11T03:30:00Z
-    webUrl: "https://www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html"
-    ampWebUrl: "https://www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/coronavirus/2020/10/doctor-says-president-trump-no-longer-at-risk-of-transmitting-coronavirus.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KD4TNMBPSBGX3CIYM6XMFSJULU.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Joe Biden Missed Out on the Chance to Maximize His Social Security Benefits"
-    excerpt: "Presidential candidate Joe Biden is, like most older Americans, a recipient of Social Security benefits. In 2019, the Bidens collectively received a total of $52,595 from Social Security. The reality,"
-    publishedDateTime: 2020-10-12T10:01:00Z
-    webUrl: "https://tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.html"
-    ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/joe-biden-missed-out-on-the-chance-to-maximize-his-social-security-benefits/article_be969eee-21a3-5298-a7ec-b6416ae5864d.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 73
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/2/22/2225d0c4-76ae-598e-b10b-4edfab41be1d/5f842d6535d34.image.jpg"
-        width: 700
-        height: 465
-        isCached: true
-  - title: "Ohio voters divided on President Donald Trump’s job performance, poll shows"
-    excerpt: "Ohio voters are divided when it comes to President Donald Trump’s job performance, while majorities of voters in Michigan, Pennsylvania and Wisconsin disapprove, according to a new poll of Great Lakes states."
-    publishedDateTime: 2020-10-12T20:57:00Z
-    webUrl: "https://www.cleveland.com/open/2020/10/ohio-voters-divided-on-president-donald-trumps-job-performance-poll-shows.html"
-    ampWebUrl: "https://www.cleveland.com/open/2020/10/ohio-voters-divided-on-president-donald-trumps-job-performance-poll-shows.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2020/10/ohio-voters-divided-on-president-donald-trumps-job-performance-poll-shows.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ELZZLJQ6LVAZZA3TRT3LXEZ32U.jpg"
-        width: 5482
-        height: 3655
-        isCached: true
-  - title: "WATCH: Captain Janeway and Counselor Troi Explain What They’d Do to Trump at Star Trek-Themed Biden Event"
-    excerpt: "At a Star Trek-themed campaign event for Joe Biden and Kamala Harris, iconic stars Kate Mulgrew and Marina Sirtis explained what their characters would do to President Donald Trump were he to inhabit the show's fictional universe."
-    publishedDateTime: 2020-10-14T15:55:00Z
-    webUrl: "https://www.mediaite.com/news/watch-captain-janeway-and-counselor-troi-explain-what-theyd-do-to-trump-at-star-trek-themed-biden-event/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-captain-janeway-and-counselor-troi-explain-what-theyd-do-to-trump-at-star-trek-themed-biden-event/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-captain-janeway-and-counselor-troi-explain-what-theyd-do-to-trump-at-star-trek-themed-biden-event/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 73
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Marina-Sirtis-Kate-Mulgrew.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/5b18600b-4a23-423b-8b47-f98adc846425-kamala_1.jpg?auto=webp&crop=4653,2618,x0,y237&format=pjpg&width=1200"
         width: 1200
-        height: 624
+        height: 675
         isCached: true
-  - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
-    excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."
-    publishedDateTime: 2020-10-06T16:21:00Z
-    webUrl: "https://www.ibtimes.com/trump-tries-out-macho-covid-signs-election-defeat-3057581"
+  - title: "Kamala Harris to tour Flint small businesses Tuesday before events in Detroit"
+    excerpt: "Democrats need high voter turnout in Detroit and Flint to win Michigan, a state Trump won by 10,704 votes in 2016."
+    publishedDateTime: 2020-09-24T14:52:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/21/kamala-harris-flint-businesses-detroit-2020-election/5858822002/"
+    ampWebUrl: "https://amp.freep.com/amp/5858822002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5858822002"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.gannett-cdn.com/presto/2019/07/29/PDTF/082e2d80-3b15-4ccc-80a8-8f823ea612e0-Harris_072919_06_MW.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
-    excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
-    publishedDateTime: 2020-10-07T11:42:00Z
-    webUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/"
-    ampWebUrl: "https://www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/biden-says-no-debate-if-trump-still-has-covid-but-looks-forward-to-facing-president-if-and-when-he-shows-up/amp/"
+  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
+    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
+    publishedDateTime: 2020-09-21T16:15:00Z
+    webUrl: "https://www.newsobserver.com/news/article245896005.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 70
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-6.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "‘Dork’ Matt Gaetz goes down in flames after comparing Donald Trump to Chuck Norris"
+    excerpt: "Rep. Matt Gaetz (R-FL) joked that President Donald Trump was too tough to get seriously ill from the coronavirus, and was drowned in ridicule. The Florida Republican cracked a “Chuck Norris facts”-style joke about the president’s COVID-19 infection to imply the potentially deadly virus had more to fear from its obese,"
+    publishedDateTime: 2020-10-05T16:23:00Z
+    webUrl: "https://www.rawstory.com/2020/10/dork-matt-gaetz-goes-down-in-flames-after-comparing-donald-trump-to-chuck-norris/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/dork-matt-gaetz-goes-down-in-flames-after-comparing-donald-trump-to-chuck-norris/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dork-matt-gaetz-goes-down-in-flames-after-comparing-donald-trump-to-chuck-norris/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 69
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/gaetz.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Maya Rudolph Nails Her Return to SNL as Kamala Harris — Down to the Converse Sneakers"
+    excerpt: "Maya Rudolph is stepping into Sen. Kamala Harris's shoes once again for Saturday Night Live. Maya, a former SNL cast member, made her return to 30 Rockefeller Plaza on Oct. 3 to reprise her role as the Democratic vice presidential nominee. Naturally ..."
+    publishedDateTime: 2020-10-04T19:50:00Z
+    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
+    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 68
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Trump Restarts Public Speeches, Biden Calls It 'Reckless'"
-    excerpt: "US President Donald Trump will give a public speech at the White House Saturday for the first time since testing positive for Covid-19, as he prepares a dramatic campaign trail return just three weeks before the election."
-    publishedDateTime: 2020-10-10T01:34:00Z
-    webUrl: "https://www.ibtimes.com/trump-restarts-public-speeches-biden-calls-it-reckless-3059629"
+  - title: "Trump To Name Supreme Court Pick At End Of Week"
+    excerpt: "President Donald Trump said Monday he will announce his nominee for the empty Supreme Court seat at the end of this week, kickstarting a political fight set to upend the already nail-biting US election."
+    publishedDateTime: 2020-09-22T05:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-name-supreme-court-pick-end-week-3049259"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 70
+    quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/21/us-president-donald-trump-is-pushing-for-a.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Claiming Covid-19 Immunity, Trump Hits The Election Trail Again"
-    excerpt: "US President Donald Trump will launch a campaign marathon Monday, holding rallies in three key swing states over the next few days as his White House race against surging rival Joe Biden enters its critical final weeks."
-    publishedDateTime: 2020-10-12T05:40:00Z
-    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-hits-election-trail-again-3060417"
+  - title: "ZIP codes donating the most money to Donald Trump"
+    excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
+    publishedDateTime: 2020-10-01T11:22:00Z
+    webUrl: "https://www.chron.com/lavoz/news/article/Zip-codes-donating-the-most-money-to-Donald-Trump-15606027.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/32/77/20033524/3/rawImage.jpg"
+        width: 1010
+        height: 720
+        isCached: true
+  - title: "President Trump's Claim About McDonald's Is Hair-Raising"
+    excerpt: "McDonald's (NYSE:MCD) received a light-hearted \"endorsement\" from President Donald Trump yesterday when he retweeted a tweet about a supposed link between a chemical found in french fries and hair-loss prevention."
+    publishedDateTime: 2020-10-02T05:26:00Z
+    webUrl: "https://www.ibtimes.com/president-trumps-claim-about-mcdonalds-hair-raising-3055583"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/president-donald-trump-rallied-hundreds-of-supporters-for-AFP_8RV9UG.jpg"
-        width: 1024
-        height: 688
-        isCached: true
-  - title: "‘Decision 2020: Joe Biden Town Hall’ | How to watch, live stream, TV channel, time"
-    excerpt: "Lester Holt of NBC’s Nightly News will be hosting 'Decision 2020: Joe Biden Town Hall' with the democratic presidential candidate tonight at 8 p.m. ET."
-    publishedDateTime: 2020-10-05T19:55:00Z
-    webUrl: "https://www.cleveland.com/entertainment/2020/10/decision-2020-joe-biden-town-hall-how-to-watch-live-stream-tv-channel-time.html"
-    ampWebUrl: "https://www.cleveland.com/entertainment/2020/10/decision-2020-joe-biden-town-hall-how-to-watch-live-stream-tv-channel-time.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/entertainment/2020/10/decision-2020-joe-biden-town-hall-how-to-watch-live-stream-tv-channel-time.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
-        width: 6000
-        height: 4333
-        isCached: true
-  - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
-    excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
-    publishedDateTime: 2020-10-06T16:04:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/president-donald-trump-in-treatment-for-covid-says-hes-looking-forward-to-debate-against-joe-biden-next-week.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 69
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JW5CKWAEIVGDVBOGUUYRDN7VEA.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Reuters/Ipsos Poll Shows Biden Leading Trump in Florida; Tied in Arizona"
-    excerpt: "Democratic presidential candidate Joe Biden appeared to lead President Donald Trump among likely voters in Florida and the two were locked in a tight race in Arizona, according to Reuters/Ipsos opinion polls released on Wednesday."
-    publishedDateTime: 2020-10-07T19:14:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/reuters-ipsos-poll-shows-biden-leading-trump-in-florida-tied-in-arizona"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/reuters-ipsos-poll-shows-biden-leading-trump-in-florida-tied-in-arizona?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-07/reuters-ipsos-poll-shows-biden-leading-trump-in-florida-tied-in-arizona?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "Joe Biden Widens Lead Over President Trump in Florida, Pennsylvania, Poll Finds"
-    excerpt: "Democratic presidential nominee Joe Biden is widening his lead over President Donald Trump in the critical battleground states of Florida and Pennsylvania with less than a month until the election. A Quinnipiac University poll published Wednesday found that 51% of voters in Florida support the former vice president,"
-    publishedDateTime: 2020-10-07T19:42:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-07/joe-biden-widens-lead-over-president-trump-in-florida-pennsylvania-poll-finds"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-07/joe-biden-widens-lead-over-president-trump-in-florida-pennsylvania-poll-finds?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-07/joe-biden-widens-lead-over-president-trump-in-florida-pennsylvania-poll-finds?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 66
-  - title: "Joe Biden Hits President Donald Trump On Economy In Critical Pennsylvania County"
-    excerpt: "Biden blistered Trump as only pretending to care about the working-class voters who helped flip the Rust Belt to the GOP four years ago."
-    publishedDateTime: 2020-10-11T04:25:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/10/10/joe-biden-hits-president-donald-trump-on-economy-in-critical-pennsylvania-county/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/10/joe-biden-hits-president-donald-trump-on-economy-in-critical-pennsylvania-county/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/10/joe-biden-hits-president-donald-trump-on-economy-in-critical-pennsylvania-county/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 65
-  - title: "In year of surprises, a win by Joe Biden should not be one"
-    excerpt: "If President Donald Trump loses, it's not because of his COVID-19 diagnosis or should not be a surprise, elections analyst Nathan L. Gonzales writes."
-    publishedDateTime: 2020-10-07T13:54:00Z
-    webUrl: "https://www.rollcall.com/2020/10/07/in-year-of-surprises-a-win-by-joe-biden-should-not-be-one/"
-    type: article
-    provider:
-      name: Roll Call
-      domain: rollcall.com
     quality: 55
     images:
-      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/MAIL_IN_BALLOTS_004_10052020.jpg?resize=1200,600"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/22/gettyimages-672997214.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
-    excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
-    publishedDateTime: 2020-10-06T22:21:00Z
-    webUrl: "https://www.c-span.org/video/?c4912952/joe-biden-appeals-national-unity-return-bipartisanship"
-    ampWebUrl: "https://www.c-span.org/amp/video/?c4912952"
-    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4912952"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 55
-  - title: "Dear Joe Biden: Don’t attend the next debate"
-    excerpt: "Since the coronavirus pandemic arrived on America’s shores, Democratic presidential nominee Joe Biden has done what President Trump is seemingly incapable of doing: He’s consistently demonstrated how Americans should protect themselves and others from COVID-19."
-    publishedDateTime: 2020-10-07T21:35:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/opinion/dear-joe-biden-dont-attend-next-debate/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 55
-  - title: "The Latest: President Trump Returns to the Oval Office"
-    excerpt: "President Donald Trump has returned to the Oval Office for the first time since he was diagnosed with COVID-19."
-    publishedDateTime: 2020-10-07T21:21:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules?context=amp"
+  - title: "Reactions to Donald Trump Testing Positive for Coronavirus"
+    excerpt: "U.S. President Donald Trump said in a tweet on Friday that he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election. Trump's tweet revealing that America's First Couple had tested positive reverberated through world media and financial markets."
+    publishedDateTime: 2020-10-02T06:29:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
-    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
-    publishedDateTime: 2020-10-09T21:37:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+  - title: "No Course Correction for State Republicans After Trump Test"
+    excerpt: "Republican governors and lawmakers in many states have followed President Donald Trump’s lead on their response to the coronavirus, declining to impose mask mandates and pushing to lift restrictions on businesses and social gatherings as swiftly as possible."
+    publishedDateTime: 2020-10-03T14:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-03/no-course-correction-for-state-republicans-after-trump-test"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-03/no-course-correction-for-state-republicans-after-trump-test?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-03/no-course-correction-for-state-republicans-after-trump-test?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
-    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
-    publishedDateTime: 2020-10-09T23:24:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+  - title: "Trump Leaves Hospital Briefly to Greet Supporters Outside"
+    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. The president's visit came shortly after he promised his supporters “a surprise” in a video posted a video on social media."
+    publishedDateTime: 2020-10-04T21:47:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-04/doctor-trump-improving-but-not-out-of-the-woods-yet?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Editorial: We recommend Joe Biden for president"
-    excerpt: "Character, without question, is the starkest divide between President Donald Trump and former Vice President Joe Biden, the Houston Chronicle Editorial Board writes."
-    publishedDateTime: 2020-10-11T11:33:00Z
-    webUrl: "https://www.sfchronicle.com/opinion/editorials/article/endorsement-Joe-Biden-president-us-election-2020-15636598.php"
+  - title: "Don't Politicize the Virus, Pelosi Tells Trump"
+    excerpt: "U.S. President Donald Trump has no basis for claiming success battling the country's coronavirus crisis, Speaker of the House of Representatives Nancy Pelosi said on Monday, saying his policies had endangered Americans."
+    publishedDateTime: 2020-10-06T05:17:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today"
+    excerpt: "Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border,"
+    publishedDateTime: 2020-10-05T22:25:00Z
+    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
     type: article
     provider:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/14/51/05/20091246/7/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/14/42/07/20062665/12/rawImage.jpg"
         width: 2048
-        height: 1367
+        height: 1365
         isCached: true
-  - title: "Behind In Polls, Trump Launches Battleground State Swing"
-    excerpt: "President Donald Trump, trailing Democrat Joe Biden by double digits in the polls with the election just three weeks away, returns to the campaign trail on Monday after being hospitalized for coronavirus,"
-    publishedDateTime: 2020-10-12T19:38:00Z
-    webUrl: "https://www.ibtimes.com/behind-polls-trump-launches-battleground-state-swing-3060877"
+  - title: "Trump Set To Announce Supreme Court Pick, Republicans Eye Quick Confirmation"
+    excerpt: "President Donald Trump said Tuesday he will announce his pick on Saturday for the crucial Supreme Court seat left open by the death of justice Ruth Bader Ginsburg -- and his Republican party vowed a quick vote to confirm the nominee."
+    publishedDateTime: 2020-09-22T20:16:00Z
+    webUrl: "https://www.ibtimes.com/trump-set-announce-supreme-court-pick-republicans-eye-quick-confirmation-3049951"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 52
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/22/the-vacancy-on-the-us-supreme-court-left.jpg"
         width: 1024
-        height: 651
+        height: 690
         isCached: true
-  - title: "Behind In Polls, Trump Launches Swing State Blitz"
-    excerpt: "President Donald Trump, trailing in the polls with the election just three weeks away, returns to the campaign trail on Monday after being hospitalized for Covid-19, embarking on a sprint through key swing states."
-    publishedDateTime: 2020-10-12T17:09:00Z
-    webUrl: "https://www.ibtimes.com/behind-polls-trump-launches-swing-state-blitz-3060877"
+  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
+    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
+    publishedDateTime: 2020-09-25T02:38:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+  - title: "Kamala Harris wants to speak to the Black community — are we ready to listen?"
+    excerpt: "Hours before a presidential debate that erased the boundaries of political decorum, I spoke to the Democratic vice presidential nominee, Sen. Kamala Harris. I asked her about the concerns of Black Philadelphians — a community that could very well"
+    publishedDateTime: 2020-10-01T09:36:00Z
+    webUrl: "https://www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/"
+    ampWebUrl: "https://www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 52
+  - title: "'Let’s put our shoulders to the wheel': Sen. Kamala Harris arrives in Utah for VP debate"
+    excerpt: "The Democratic vice presidential nominee, California Sen. Kamala Harris, is already in Utah for Wednesday night’s debate with Vice President Mike Pence at the University of Utah."
+    publishedDateTime: 2020-10-03T20:46:00Z
+    webUrl: "https://www.ksl.com/article/50024554/lets-put-our-shoulders-to-the-wheel-sen-kamala-harris-arrives-in-utah-for-vp-debate"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 46
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
-        width: 1024
-        height: 651
+      - url: "https://img.ksl.com/slc/2540/254033/25403361.jpg?filter=ksl/responsive_story_lg"
+        width: 614
+        height: 345
         isCached: true
-  - title: "Mitt Romney denounces President Donald Trump, Democrats, media for igniting ‘conspiracy mongers’; credits Joe Biden for not ‘stooping as low’"
-    excerpt: "Mitt Romney has been one of few Republicans to publicly criticize Trump, and he was the only Republican senator to vote in favor of an impeachment charge against the president earlier this year."
-    publishedDateTime: 2020-10-13T17:36:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CGJ4W3UYFHSTNRONOK576OUFM.jpg"
-        width: 4999
-        height: 3123
-        isCached: true
-  - title: "President Donald Trump departs the White House"
-    excerpt: "United States President Donald Trump departs the White House, headed for a political event in Johnstown, Pennsylvania on Tuesday, October 13, 2020. Photo by Chris Kleponis/UPI"
-    publishedDateTime: 2020-10-13T22:49:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/c51f119c45d2f5578adac1b361ef9fb4/President-Donald-Trump-departs-the-White-House/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/c51f119c45d2f5578adac1b361ef9fb4/TRUMP-DEPARTS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
-    excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
-    publishedDateTime: 2020-10-11T11:12:00Z
-    webUrl: "https://theweek.com/speedreads/942651/trumps-campaign-wild-conspiracy-theory-about-why-next-debate-going-virtual"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 53
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1228794954.jpg?itok=3OW1dKsi"
-        width: 840
-        height: 560
-        isCached: true
-  - title: "Joe Biden has a history of keeping women safe from domestice violence | Opinion"
-    excerpt: "Many Floridians are wondering who the real Joe Biden beyond the public persona that we know well from his decades in public service. As a senior advisor to Vice President Biden in the White House from 2015-2017,"
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://www.miamiherald.com/opinion/op-ed/article246405055.html"
-    ampWebUrl: "https://amp.miamiherald.com/opinion/op-ed/article246405055.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article246405055.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 51
-  - title: "User Clip: Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
-    excerpt: "Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
-    publishedDateTime: 2020-10-13T23:27:00Z
-    webUrl: "https://www.c-span.org/video/?c4914763/user-clip-joe-biden-lies-seniors-trump-coronavirus-veterans"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 44
-  - title: "Joe Biden Comments to Reporters on Future Debates"
-    excerpt: "Democratic Presidential Candidate Joe Biden took a couple of reporters' questions before boarding a plane in Hagerstown, MD. The Former Vice President held an event earlier in the afternoon a short distance away in Gettysburg,"
-    publishedDateTime: 2020-10-07T03:32:00Z
-    webUrl: "https://www.c-span.org/video/?476654-1/joe-biden-debate-ahead-president-covid-19"
+  - title: "Sen. Kamala Harris (D-CA) Campaigns in Las Vegas"
+    excerpt: "Sen. Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, participated in a virtual conversation on"
+    publishedDateTime: 2020-10-02T16:51:00Z
+    webUrl: "https://www.c-span.org/video/?476524-1/sen-kamala-harris-d-ca-campaigns-las-vegas"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Joe Biden Comments to Reporters"
-    excerpt: "Democratic 2020 presidential nominee Joe Biden answered a couple of reporters' questions before boarding vice president… White House Chief of Staff Mark Meadows talked to reporters about President Trump and the First Lady’s testing"
-    publishedDateTime: 2020-10-07T23:52:00Z
-    webUrl: "https://www.c-span.org/event/?476723/"
+  - title: "Senator Kamala Harris Campaign Remarks in Las Vegas"
+    excerpt: "Sen. Kamala Harris (D-CA) campaigned at a drive-in voter mobilization event in Las Vegas."
+    publishedDateTime: 2020-10-02T16:41:00Z
+    webUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Joe Biden Remarks to Reporters"
-    excerpt: "Democratic vice presidential candidate Joe Biden congratulates Senator Harris for her performance at the debate. He also responds to a question on the second presidential debate after the CPD announced it would take place virtually."
-    publishedDateTime: 2020-10-08T14:22:00Z
-    webUrl: "https://www.c-span.org/event/?476765/"
+  - title: "Sen. Kamala Harris (D-CA) Delivers Remarks in Raleigh, NC on the Supreme Court"
+    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
+    publishedDateTime: 2020-09-28T12:29:00Z
+    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-d-ca-delivers-remarks-raleigh-nc-supreme-court"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Delivers Remarks on Senior Citizen Policy in FL"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Pembroke Pines, FL on his campaign’s policy proposals affecting senior citizens. 2020 Democratic presidential candidate Joe Biden delivers remarks in Pembroke Pines,"
-    publishedDateTime: 2020-10-13T04:22:00Z
-    webUrl: "https://www.c-span.org/video/?476884-1/joe-biden-delivers-remarks-senior-citizen-policy-fl"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Remarks to Reporters on Supreme Court Confirmation Hearing."
-    excerpt: "Joe Biden speaks briefly with reporters before departing for Ohio. Asked if the nominee’s faith should be considered, he responded “No. Her faith should not be considered...No one’s faith should be questioned."
-    publishedDateTime: 2020-10-12T23:08:00Z
-    webUrl: "https://www.c-span.org/event/?476830/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+    quality: 31
 
 secured: "O2PYP6e8hCNndV/QAhtBNV9uu2pwj8epXFEqxNEVDm+DsMo0GFF7ZNjRhL/iqF4TpFVdV0U4gB5cHT2uFv1XwSfvqpbtxNH6Rja9typSRW2zbdKah4nE9MLCKiU8f28akRvO2fAGikRZTNOkNpM2SItDe/IRwUYggN+AG5LQRCjYmmXCR+2q+ZTUJKGtCrCyWj2ABqTYugHOlwwmNKC62t9SrxKjqZQD5r23Q5EmRTZKV+P+1bp8RovK/mOWW6wJY/deN2Q/bwTkiaV32Yi7m6SaKAgePzQKoZ8nHJ4llrY/NDBWqkA7K2rESD4Xue0O1ii/8TjOOcxJ422UQV3EJo8rs0IfGgKHdMr8b3cjQOg=;SoU7hTWgG3aYc0s3ycqQ9A=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: Why Trump's efforts to divide the left will likely fall flat"
-    excerpt: "President Donald Trump seems to be trying to cause a rift between former Vice President Joe Biden and those on the left. For example, when Biden said he was not in favor of The Green New Deal at last week's debate, Trump responded, \"Oh you don't? Well, that's a big statement. You just lost the radical"
-    publishedDateTime: 2020-10-10T17:40:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lWtuk3FmnoI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/trump-biden-left-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200929212319-16-debate-cleveland-trump-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: How women are historically against Trump"
     excerpt: "Poll of the week: A new CNN/SSRS poll finds that former Vice President Joe Biden is at 57% to President Donald Trump's 41% among likely voters.\n    \n"
     publishedDateTime: 2020-10-11T12:07:07Z

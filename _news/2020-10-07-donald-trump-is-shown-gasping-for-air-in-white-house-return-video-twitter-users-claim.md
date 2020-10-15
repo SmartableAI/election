@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘Confusion from top to bottom’: Trump aides panic after president returns to the White House"
-    excerpt: "White House staffers who have seen over three years of bullying and firings under Donald Trump are fearful what will come next now that the president has been discharged from Walter Reed Medical Center while still exhibiting symptoms of COVID-19,"
-    publishedDateTime: 2020-10-06T11:09:00Z
-    webUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
+  - title: "Scaramucci Hits Trump Over White House Return: ‘The American Mussolini Standing on the Balcony’"
+    excerpt: "Anthony Scaramucci likened President Donald Trump to Mussolini in reacting to his return from Walter Reed Medical Center."
+    publishedDateTime: 2020-10-06T03:29:00Z
+    webUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/"
+    ampWebUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
+      name: Mediaite
+      domain: mediaite.com
+    quality: 63
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump_covid-789x430.jpg"
-        width: 789
-        height: 430
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/scaramucci.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6yZ1TTjSdOpO6ULe3xk3ztHnRFQfAs1cxgBeeWnplX5DvWUch1uu1TxgNX5wDiH0DVrehRhnby9o9FTmzEvpIwYnuVX7VIAI/JzWDNMA649U1gll2hoiR1l9d6tYRCZV61cXczDOhEhn4yfpu/dBIVkpEcgp6HnKhPsbwmU2eoOzhb7DDSOHSpLBFxpK6JbvWr1EvO3jBshqaT2x2KreELUljLUNnr6VfutmeBHv5lzOkLmhHS9HxVtwge147a7kCYQKxrPkF22v31ry4j5+IEVNqaDY2imxlpHaxAgT5ZFfnNZM1YfFkD/Nv0poIOpaH7xN6fhkQfcDRtvL61Any9v6SIIrcCytEswkR4ISfjgJSDzviaciXa6U0/U55c5+8WcZ5c1uk1qlFV5oU5feQu+hHxENAGo7/+XhcjGWvJSSQqy+Hg7nzFd3CPor8OBMnCgtW7RSz3e7GloBQqbsJmkJlKm6tjfC2195WyLbeA5Sk5J4QCV7O0JecYbfjB3kcs64WJ8kygPkprxoDAhrog==;xNLJsOb746dcBZtBsGb3Mg=="

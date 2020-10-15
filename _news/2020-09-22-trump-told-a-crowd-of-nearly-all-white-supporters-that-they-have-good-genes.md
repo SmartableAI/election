@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-told-crowd-of-white-supporters
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-told-crowd-of-white-supporters-they-have-good-genes-2020-9?amp"
 type: article
 quality: 122
-heat: 182
+heat: 162
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Supporters Clash With Protesters Over Supreme Court Vacancy at Lindsey Graham Rally"
-    excerpt: "Leading Republicans, including Graham, have previously argued that a sitting president should not consider a Supreme Court choice in the run-up to an election."
-    publishedDateTime: 2020-09-21T12:59:00Z
-    webUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264"
-    ampWebUrl: "https://www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-supporters-clash-protest-supreme-court-vacancy-lindsey-graham-rally-1533264?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 96
   - title: "Joe Scarborough Blasts Trump Supporters That Celebrated Ali Velshi Getting Shot: ‘What God Do They Pray To?’"
     excerpt: "Joe co-host Joe Scarborough blasted supporters of President Donald Trump who cheered on and laughed at the recent shooting of MSNBC's Ali Velshi by a rubber bullet while reporting on civi"
     publishedDateTime: 2020-09-21T11:40:00Z

@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-10-04-minnesota-congressmen-flew-delta-after-flying-with-trump.md",
+      "title": "Minnesota congressmen flew Delta after flying with Trump",
+      "excerpt": "Three Minnesota congressmen are facing backlash over taking a commercial flight home from Washington, D.C., on Friday night just two days after they shared Air Force One with President Donald Trump. U.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "originalUrl": "https://abcnews.go.com/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/201003_abcnl_spev_trump_6pm_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/minnesota-congressmen-flew-delta-flying-trump-73409585",
+      "publishedDateTime": "2020-10-03T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.md",
       "title": "Joe Biden says it's 'appalling' not to wear a mask on public transit",
       "excerpt": "Former Vice President Joe Biden touted mask-wearing as a form of patriotism on Saturday, criticizing the administration for not doing more to advance the practice during the coronavirus pandemic.",
@@ -111,6 +163,110 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-was-trump-ever-on-oxygen-health-security-experts-say-america-needs-total-honesty-on-presidents-condition.md",
+      "title": "Was Trump ever on oxygen? Health, security experts say America needs 'total honesty' on president's condition",
+      "excerpt": "Dr. Sean Conley created confusion about President Trump's COVID-19 diagnosis, which national security and health experts say is unnecessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/03/trump-coronavirus-condition-national-security-health-experts-urge-transparency/3609196001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/03/USAT/d224b2f6-0e48-445e-8fad-f60dcb191eaa-AP_Trump.jpg?auto=webp&crop=5999,3374,x0,y305&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3609196001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3609196001",
+      "publishedDateTime": "2020-10-03T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-doctors-say-giving-trump-the-antiviral-drug-remdesivir-is-a-sign-his-infection-may-be-serious-even-though-the-timeline-is-still-unclear.md",
+      "title": "Doctors say giving Trump the antiviral drug remdesivir is a sign his infection may be serious — even though the timeline is still unclear",
+      "excerpt": "Trump received an IV infusion of the antiviral drug remdesivir on Friday. The therapy is typically reserved for severe cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f6c734ae3e76700117163ed?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-treatment-timeline-remdesivir-antibody-drug-2020-10?amp",
+      "publishedDateTime": "2020-10-03T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -330,58 +486,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-if-trumps-symptoms-started-before-friday-he-may-have-been-highly-infectious-during-the-debate.md",
-      "title": "If Trump's symptoms started before Friday, he may have been highly infectious during the debate",
-      "excerpt": "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp",
-      "publishedDateTime": "2020-10-03T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-barack-obama-wishes-speedy-recovery-to-president-trump-melania-no-matter-our-party.md",
       "title": "Barack Obama wishes 'speedy recovery' to President Trump, Melania 'no matter our party'",
       "excerpt": "Former President Barack Obama is calling for unity and compassion following President Donald Trump's COVID-19 diagnosis.",
@@ -390,7 +494,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/03/president-trump-covid-19-barack-obama-speedy-recovery/3606381001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -717,58 +821,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-trump-gets-experimental-drug-aimed-at-curbing-severe-illness.md",
-      "title": "Trump gets experimental drug aimed at curbing severe illness",
-      "excerpt": "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767",
-      "publishedDateTime": "2020-10-02T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-03-commentary-what-happens-if-trump-is-unable-to-govern.md",
       "title": "Commentary: What happens if Trump is ‘unable’ to govern",
       "excerpt": "For some imaginable health outcomes, especially those associated with COVID-19, the 25th Amendment is ambiguous.",
@@ -777,7 +829,7 @@
       "originalUrl": "https://www.chicagotribune.com/opinion/commentary/ct-opinion-trump-coronavirus-25th-amendment-sunstein-20201002-vktgq3evtjgz7age7b6fsczzaq-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -877,58 +929,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-03-white-house-says-trump-remains-fatigued-amid-reports-he-has-fever.md",
-      "title": "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever",
-      "excerpt": "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
-      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/",
-      "publishedDateTime": "2020-10-02T14:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-02-trump-team-thinks-nevada-is-in-play-is-it.md",
       "title": "Trump team thinks Nevada is in play. Is it?",
       "excerpt": "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. ",
@@ -982,58 +982,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-biden-to-hit-the-campaign-trail-after-negative-test-for-covid-19.md",
-      "title": "Biden to hit the campaign trail after negative test for COVID-19",
-      "excerpt": "Democratic presidential candidate Joe Biden plans to head to the battleground state of Michigan and resume campaigning on Friday after testing negative for coronavirus, hours after President Donald Trump was sidelined by contracting the virus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idCAKBN26N2UZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 705,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535923179&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9120S",
-          "width": 900,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN26N2UZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN26N2UZ",
-      "publishedDateTime": "2020-10-02T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1214,7 +1162,7 @@
       "originalUrl": "https://www.forbes.com/sites/advisor/2020/10/02/trump-has-covid-what-could-it-mean-for-the-economy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1965,
+      "heat": 1605,
       "tags": null,
       "images": [
         {
@@ -1258,21 +1206,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-ap-photos-a-busy-week-for-trump-before-positive-virus-test.md",
-      "title": "AP PHOTOS: A busy week for Trump before positive virus test",
-      "excerpt": "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House.",
+      "path": "_news/2020-10-02-white-house-says-trump-not-incapacitated-working-from-isolation-pence-negative.md",
+      "title": "White House says Trump 'not incapacitated,' working from isolation; Pence negative",
+      "excerpt": "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX",
+      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 905,
+      "heat": 4464,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2",
+          "width": 817,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1280,16 +1228,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535",
-      "publishedDateTime": "2020-10-02T08:29:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26N0K4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N0K4",
+      "publishedDateTime": "2020-10-02T08:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1306,7 +1254,8 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Mike Pence"
       ]
     },
     {
@@ -1363,6 +1312,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-mike-pence-and-his-wife-tested-negative-friday-morning.md",
+      "title": "Mike Pence and his wife tested negative Friday morning.",
+      "excerpt": "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/02/multimedia/02elections-briefing-pence/02elections-briefing-pence-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/elections/mike-pence-and-his-wife-tested-negative-friday-morning.amp.html",
+      "publishedDateTime": "2020-10-02T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
       ]
     }
   ],

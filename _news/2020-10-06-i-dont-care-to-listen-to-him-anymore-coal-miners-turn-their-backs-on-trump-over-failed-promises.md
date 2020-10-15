@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Acrimonious debate sparks calls for new rules to rein in Trump and questions about the format’s usefulness for voters"
-    excerpt: "Debate organizers pledged swift action to help “maintain order” going forward. One area of agreement? Something needs to change."
-    publishedDateTime: 2020-09-30T23:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/debate-trump-biden-commission/2020/09/30/3385ff64-0334-11eb-897d-3a6201d6643f_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LBBGJPQCYEI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 957
-        isCached: true
 
 secured: "adKaRoWFlh7dl1j5P6VrOv7mDsd1gx1HnokVBhd90vZ+JoGLyxAcoKUM8i64f5q1LVjzdfCM5FZAoaw6PKFvD9sPA8RRA7ZLbCPTSbq/LH2268uWY+uuToYflEnpfuSHuVXLh3k61lHxBpoOQwk4MEqF1Qy8yAbHBlhNOpgncps2MecvQP1Wp+ecE5eYTM9tjmhxHQnoyOU42+a8WLn2zqgeWfJgls+fEhlO85iOkzDss/fdSmfLuEzTYbKY9C/HKqYtda54Par7r52lQ1dfyFhI+GgOXQMCuUtEbTJimcSiIp7uz3lWGYTAcTKc7Xd8+/+8phspKhnBh42g/o2lg7XaLSy/8jVuP23o/SUEI+U=;Z8+521gApsAXrIcKBCzZCw=="
 ---

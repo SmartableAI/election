@@ -2,6 +2,121 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-08-a-fly-landed-on-mike-pence.md",
+      "title": "A Fly Landed on Mike Pence",
+      "excerpt": "A local TV news reporter from California clocked the fly’s screen time on Mr. Pence’s head at 2 minutes, 3 seconds. While Mr. Pence spent most of the 90-minute debate avoiding direct questions posed by the moderator,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-38/07elections-briefing-07-22-38-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/the-fly-pence-head.amp.html",
+      "publishedDateTime": "2020-10-07T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-pence-attacks-biden-for-failing-to-rescue-kayla-mueller-who-was-held-hostage-by-isis.md",
+      "title": "Pence attacks Biden for failing to rescue Kayla Mueller, who was held hostage by ISIS.",
+      "excerpt": "Vice President Mike Pence brought the parents of Kayla Mueller, the human rights activist who was killed in 2015 by members of the Islamic State in Syria, to the debate hall and attacked Joseph R. Biden Jr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/07/us/politics/07elections-briefing-07-22-10/07elections-briefing-07-22-10-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/07/us/politics/who-is-kayla-mueller.amp.html",
+      "publishedDateTime": "2020-10-07T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-08-an-unexpected-guest-fly-lands-on-mike-pences-head-during-debate-goes-viral.md",
       "title": "An unexpected guest: Fly lands on Mike Pence's head during debate, goes viral",
       "excerpt": "The fly, which was on Mike Pence's head for several minutes, quickly went viral and created a buzz – pun intended – online.",
@@ -51,6 +166,59 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-08-as-harris-prepares-for-pence-debate-asian-american-women-pay-tribute-to-their-immigrant-mothers-grandmothers.md",
+      "title": "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers",
+      "excerpt": "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "originalUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1",
+      "publishedDateTime": "2020-10-07T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Kamala Harris"
       ]
     },
     {
@@ -109,58 +277,6 @@
         "Mike Pence",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate.md",
-      "title": "Mike Pence reluctantly agrees to plexiglass barriers in tonight’s V.P. debate.",
-      "excerpt": "From \"The Daily 202\" podcast: the Commission on Presidential Debates said the vice president dropped his objections to a plexiglass barricade on his side of the stage for today’s debate after viewing the setup during a walk-through of the debate hall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/podcasts/election-2020/mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate/",
-      "originalUrl": "https://www.washingtonpost.com/podcasts/election-2020/mike-pence-reluctantly-agrees-to-plexiglass-barriers-in-tonights-vp-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/pbox.php?url=https://podcast.posttv.com/podcast/20201007/t_1602074181394_name_Election2020.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     },
     {
@@ -605,6 +721,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-06-kamala-harris-and-mike-pence-will-reportedly-be-separated-by-plexiglass-in-debate-on-wednesday-night.md",
+      "title": "Kamala Harris and Mike Pence will reportedly be separated by plexiglass in debate on Wednesday night",
+      "excerpt": "The highest profile use of plexiglass so far this election cycle came from Democrat Jaime Harrison in his debate against Republican South Carolina Sen. Lindsey Graham.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 515,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp",
+      "publishedDateTime": "2020-10-05T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-pence-to-maintain-aggressive-schedule-as-trump-remains-in-hospital-campaign-adviser-says.md",
       "title": "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says",
       "excerpt": "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19.",
@@ -719,19 +888,19 @@
       ]
     },
     {
-      "path": "_news/2020-10-04-operation-maga-trump-campaign-to-resume-in-person-events-with-pence-ariz-trip-as-president-battles-covid-19.md",
-      "title": "'Operation MAGA': Trump campaign to resume in-person events with Pence Ariz. trip as president battles COVID-19",
-      "excerpt": "The trip will begin what the campaign is calling \"Operation MAGA\" – a return of in-person campaign events led by top surrogates as Trump is sidelined.",
+      "path": "_news/2020-10-04-with-trump-hospitalized-vp-mike-pence-will-visit-arizona-for-a-thursday-rally-campaign-says.md",
+      "title": "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says",
+      "excerpt": "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/",
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 579,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -741,9 +910,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3608249001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001",
-      "publishedDateTime": "2020-10-03T18:26:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3608558001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001",
+      "publishedDateTime": "2020-10-04T04:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -767,7 +936,8 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Mike Pence",
+        "Donald Trump"
       ]
     },
     {
@@ -880,6 +1050,59 @@
       ]
     },
     {
+      "path": "_news/2020-10-02-white-house-says-trump-not-incapacitated-working-from-isolation-pence-negative.md",
+      "title": "White House says Trump 'not incapacitated,' working from isolation; Pence negative",
+      "excerpt": "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX",
+      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-trump-idUKKBN26N0MX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 4464,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535828951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910W2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN26N0K4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N0K4",
+      "publishedDateTime": "2020-10-02T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-mike-pence-and-his-wife-tested-negative-friday-morning.md",
       "title": "Mike Pence and his wife tested negative Friday morning.",
       "excerpt": "Vice President Mike Pence announced Friday that he and his wife, Karen, had tested negative for the coronavirus, just hours after President Trump and the first lady announced they had both tested positive and were quarantining at the White House.",
@@ -945,7 +1168,7 @@
       "originalUrl": "https://www.courierpress.com/story/opinion/2020/10/01/brian-howey-barrett-confirmation-would-pence-achievement/5891503002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -980,21 +1203,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-02-borat-2-trailer-sacha-baron-cohen-dresses-as-trump-to-prank-mike-pence.md",
-      "title": "Borat 2 Trailer: Sacha Baron Cohen Dresses As Trump To Prank Mike Pence",
-      "excerpt": "The first trailer for the sequel to \"Borat\" dropped on Thursday and it appears Sacha Baron Cohen is up to his old tricks again.",
+      "path": "_news/2020-10-02-borat-sequel-trailer-sacha-baron-cohen-returns-to-terrorize-yankeeland-mike-pence.md",
+      "title": "‘Borat’ Sequel Trailer: Sacha Baron Cohen Returns to Terrorize ‘Yankeeland,’ Mike Pence",
+      "excerpt": "“The Democrats,” they reply. The preview also features a scene where Borat — in a Trump costume — attempts to deliver his daughter to a confused Mike Pence mid-speech. Along with the trailer, Amazon Prime — which recently acquired the comedy ...",
       "sourceUrl": null,
-      "webUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "originalUrl": "https://toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
+      "webUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/",
+      "originalUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 230,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://images.toofab.com/image/5a/16by9/2020/10/01/5aaded4cdb5145c0ada0b1c570b0b3b1_xl.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.rollingstone.com/wp-content/uploads/2020/10/borat-sequel-amazon.jpg",
+          "width": 1800,
+          "height": 1013,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1002,13 +1225,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "cdnAmpWebUrl": "https://amp-toofab-com.cdn.ampproject.org/c/s/amp.toofab.com/2020/10/01/borat-2-trailer-sacha-baron-cohen-daughter-punk-mike-pence/",
-      "publishedDateTime": "2020-10-01T12:01:00-07:00",
+      "ampWebUrl": "https://www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/movies/movie-news/borat-sequel-trailer-amazon-1069488/amp/",
+      "publishedDateTime": "2020-10-01T15:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TooFab",
-        "domain": "toofab.com",
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1031,7 +1254,7 @@
       "originalUrl": "https://www.pbs.org/newshour/politics/watch-live-vice-president-pence-speaks-at-iowa-rallies",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -1075,21 +1298,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-01-heres-how-kamala-harris-puts-the-nail-in-the-trump-pence-coffin.md",
-      "title": "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin",
-      "excerpt": "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest.",
+      "path": "_news/2020-10-01-first-trailer-for-borat-2-is-a-whirlwind-of-crotch-masks-mike-pence-and-incest-jokes.md",
+      "title": "First trailer for Borat 2 is a whirlwind of crotch masks, Mike Pence, and incest jokes",
+      "excerpt": "Sacha Baron Cohen’s Borat character returns to induce cringeworthy terror upon unsuspecting interview subjects in a sequel to 2006’s Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan later this month.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/",
+      "webUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "originalUrl": "https://www.polygon.com/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6975,
+      "heat": 127,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://cdn.vox-cdn.com/thumbor/amdlzm6QSrDbXRBmiDhhegCmo14=/0x0:1280x800/1400x933/filters:focal(488x184:692x388):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67564749/BORAT2.0.jpg",
+          "width": 1280,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1097,23 +1320,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp",
-      "publishedDateTime": "2020-10-01T09:45:00-07:00",
+      "ampWebUrl": "https://www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "cdnAmpWebUrl": "https://www-polygon-com.cdn.ampproject.org/c/s/www.polygon.com/platform/amp/2020/10/1/21496969/borat-2-trailer-release-date-amazon-prime-mike-pence-donald-trump-election",
+      "publishedDateTime": "2020-10-01T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Polygon",
+        "domain": "polygon.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1123,9 +1337,7 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
-        "Mike Pence",
-        "Donald Trump"
+        "Mike Pence"
       ]
     },
     {
@@ -1280,7 +1492,7 @@
       "originalUrl": "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1363,216 +1575,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing.md",
-      "title": "Pence tells Americans to 'anticipate that cases will rise' with more coronavirus testing",
-      "excerpt": "Vice President Mike Pence said that \"the American people should anticipate that cases will rise\" as efforts for increased coronavirus testing are implemented and states in the Midwest are experiencing a surge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing-92734533538",
-      "originalUrl": "https://www.nbcnews.com/video/pence-tells-americans-to-anticipate-that-cases-will-rise-with-more-coronavirus-testing-92734533538",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202009/f_mo_dc_pence_cases_rise_200928_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92734533538",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92734533538",
-      "publishedDateTime": "2020-09-28T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-borat-2-gets-official-title-targets-mike-pence-rudy-giuliani-and-more.md",
-      "title": "Borat 2 Gets Official Title, Targets Mike Pence, Rudy Giuliani and More",
-      "excerpt": "Sacha Baron Cohen's secretly-filmed sequel to Borat has a title in keeping with the original, and hints about its unwitting co-stars have surfaced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/",
-      "originalUrl": "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/08/Borat-Mockumentary.jpg",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/amp/",
-      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/sacha-baron-cohen-borat-2-official-title-mike-pence-rudy-giuliani/amp/",
-      "publishedDateTime": "2020-09-26T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBR",
-        "domain": "cbr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-former-pence-aide-says-staffers-discussed-trumps-potential-refusal-to-leave-the-white-house.md",
-      "title": "Former Pence aide says staffers discussed Trumps potential refusal to leave the White House",
-      "excerpt": "A former White House aide said Friday that staffers discussed the possibility that President Trump would refuse to peacefully leave his post and transfer power should he lose the Nov. 3 election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQZxR51cll4/former-pence-aide-trumps-refusal-leave-white-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 670,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4038064b-35fc-4824-99d4-216a9efd5066/d40d945d-725c-4ef8-93c4-939239bdd047/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-pence-aide-trumps-refusal-leave-white-house.amp",
-      "publishedDateTime": "2020-09-26T18:36:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-former-pence-adviser-it-does-not-surprise-her-trump-wouldt-commit-to-peaceful-transfer-of-power.md",
-      "title": "Former Pence adviser: 'It does not' surprise her Trump would't commit to peaceful transfer of power",
-      "excerpt": "President Trump has said \"we're going to have to see what happens,\" when asked if he would commit to a peaceful transition if he lost the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/26/olivia-troye-officials-discussed-trump-not-leaving-white-house/3547679001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 416,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/20/USAT/c4e7b672-eeca-4e1a-bd9c-abba2401577f-AP_Trump_3.jpg?auto=webp&crop=4076,2293,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3547679001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3547679001",
-      "publishedDateTime": "2020-09-26T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Mike Pence"
       ]
     }

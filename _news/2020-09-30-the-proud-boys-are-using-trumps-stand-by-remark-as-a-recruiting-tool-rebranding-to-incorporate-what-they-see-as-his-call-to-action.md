@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
-    excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
-    publishedDateTime: 2020-09-23T17:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
+  - title: "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully"
+    excerpt: "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights."
+    publishedDateTime: 2020-09-26T12:17:00Z
+    webUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 100
     images:
-      - url: "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f6e949874fe5b0018a8da33?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-presid
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
 type: article
 quality: 125
-heat: 465
+heat: 425
 published: true
 
 provider:
@@ -254,38 +254,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/96/496d4536-ec81-54cc-9113-70b14364a41d/5f5fce38a386e.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
-        isCached: true
-  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Virginia"
-    excerpt: "President Donald Trump is campaigning in Newport News, Virginia Friday night. The president’s latest campaign rally comes as a prelude to his much-expected announcement of Judge Amy Coney Barrett to the Supreme Court on Saturday."
-    publishedDateTime: 2020-09-26T02:00:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 75
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1228603949-1200x706.jpg"
-        width: 1200
-        height: 706
-        isCached: true
-  - title: "Watch Live: President Trump's Campaign Remarks From Johnstown PA"
-    excerpt: "Trailing in the polls, President Donald Trump returns to the battleground state Pennsylvania on Tuesday. Trump will speak at a rally at the John Murtha Johnstown-Cambria County Airport at 7 p.m. Trump has returned to the campaign trail after having tested positive for the coronavirus almost two weeks ago."
-    publishedDateTime: 2020-10-14T01:11:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/watch-live-president-trumps-campaign-remarks-johnstown-pa"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22920172/20201013/041125/styles/patch_image/public/ap20286856381385-1___13155747467.jpg?width=984"
-        width: 984
-        height: 738
         isCached: true
   - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
     excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."

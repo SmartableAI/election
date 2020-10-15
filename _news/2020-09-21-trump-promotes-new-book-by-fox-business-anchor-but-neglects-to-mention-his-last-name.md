@@ -111,22 +111,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "As campaign heats up, Trump woos Latino, Black voters"
-    excerpt: "President Donald Trump is trying to chip away at his Democratic rival’s advantage with Black and Hispanic voters, wrapping up a two-day campaign swing that is ticking off boxes, both geographically an"
-    publishedDateTime: 2020-09-26T02:53:00Z
-    webUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/as-campaign-heats-up-trump-woos-latino-black-voters/2020/09/25/1b5cd152-ff9b-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Students are in a lose-lose situation during the pandemic, and Trump is to blame"
     excerpt: "Trump's leadership during the pandemic has left students stuck between a rock and a hard place. Joe Biden has the skills necessary to succeed."
     publishedDateTime: 2020-09-20T14:11:00Z
@@ -189,6 +173,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Live updates: Vice President Mike Pence in Arizona"
+    excerpt: "The visit caps off a week-long flurry of appearances by President Trump, his daughter Ivanka, and his Pence's wife, Karen Pence."
+    publishedDateTime: 2020-09-18T15:02:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/09/18/mike-pence-arizona-vice-president-visits-state-reelection-campaign/3488195001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3488195001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3488195001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/PPHX/b102f244-f1ca-4c59-ad3e-827fdb5ac872-081220-news-pence_tucson-01.JPG?auto=webp&crop=1999,1125,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Canadian woman behind the poison sent to Trump"
     excerpt: "A letter was intercepted containing the poison ricin when it was on the way to President Donald Trump. Now some facts about the person who sent it are being known. CNN.com reported Sunday that it was a woman from Canada who was also trying to cross into New York state from Canada,"
     publishedDateTime: 2020-09-20T23:38:00Z
@@ -204,22 +204,6 @@ related:
       - url: "https://2d0yaz2jiom3c6vy7e7e5svk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/Donald-Trump-5.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "Donald Trump Jr. in Arizona this week for campaign event, pigeon shoot fundraiser"
-    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, will campaign on behalf of his father and the Republican ticket at a Wednesday event in Tucson.  A day later, the president's son, an avid hunter,"
-    publishedDateTime: 2020-10-13T07:25:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/12/donald-trump-jr-tucson-campaign-event-early-voting-has-begun/5970974002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5970974002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5970974002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/20/PPHX/a63c4d05-d9d8-426f-93a5-18f4242a63af-DW1_2561.JPG?auto=webp&crop=3676,2068,x0,y524&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Vice President Pence heads to Arizona on campaign swing"
     excerpt: "PHOENIX — Vice President Mike Pence is set to appear at two events in Arizona Friday as the reelection campaign of Republican President Donald Trump works to solidify its support in the battleground state. Pence’s visit comes at the end of a week that ..."

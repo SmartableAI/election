@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump makes grand entrance at Iowa campaign rally"
+    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
+    publishedDateTime: 2020-10-15T03:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
+        width: 600
+        height: 332
+        isCached: true
   - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
     excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
     publishedDateTime: 2020-10-10T15:30:27Z

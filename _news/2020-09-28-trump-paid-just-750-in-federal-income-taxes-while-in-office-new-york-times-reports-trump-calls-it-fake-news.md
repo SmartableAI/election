@@ -79,22 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top seven revelations from New York Times report on Trump income taxes"
-    excerpt: "Trump has had small federal tax bills and major financial losses in his career, and some of his moves have come under legal scrutiny."
-    publishedDateTime: 2020-09-28T01:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/top-revelations-report-trump-income-tax/3557530001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3557530001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557530001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/fccf0666-f818-411e-af8d-de32156cb7ac-AP_APTOPIX_Trump.jpg?auto=webp&crop=5896,3317,x1,y317&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump paid no income taxes in 10 of last 15 years - New York Times"
     excerpt: "President Donald Trump paid extremely little in income taxes in recent years as heavy losses from his business enterprises offset hundreds of millions of dollars in income, the New York Times reported on Sunday,"
     publishedDateTime: 2020-09-28T03:13:00Z
@@ -159,22 +143,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump, pressured over pandemic, says states to receive 150 million tests"
-    excerpt: "President Donald Trump, under pressure over his handling of the coronavirus outbreak, announced on Monday the federal government would ship 150 million rapid tests to U.S. states for opening schools and ensuring safety at centers for senior citizens."
-    publishedDateTime: 2020-09-28T21:22:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-testing/update-1-trump-pressured-over-pandemic-says-states-to-receive-150-mln-tests-idUSL1N2GP1MF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
-        width: 806
-        height: 545
-        isCached: true
   - title: "How Trump fell out of love with his generals — and why the feeling is mutual"
     excerpt: "Trump's relationship with the military has curdled, and with weeks to go before he faces reelection, he has attacked the Pentagon and its leaders."
     publishedDateTime: 2020-09-24T16:24:00Z
@@ -190,38 +158,6 @@ related:
       - url: "https://i.insider.com/5ed6e8e5f0f4192dbf3caba2?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Donald Trump's taxes already at issue in at least two New York investigations"
-    excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York investigations."
-    publishedDateTime: 2020-09-28T19:16:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New York attorney general's office deposing Eric Trump in tax investigation: report"
-    excerpt: "President Trump's son Eric Trump is being deposed Monday as part of an investigation into whether or not the value of certain Trump Organization assets were improperly inflated in order to gain tax benefits."
-    publishedDateTime: 2020-10-05T21:34:00Z
-    webUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax"
-    ampWebUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
-    images:
-      - url: "https://thehill.com/sites/default/files/trumperic2_082520getty.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Trump attorney fights to block disclosure of tax returns but judges appear skeptical"
     excerpt: "The president's attorney argued that a grand jury subpoena seeking his tax returns was a overly broad fishing expedition and was issued in bad faith."
@@ -315,20 +251,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Trump: Millions of rapid virus tests for states"
-    excerpt: "President Donald Trump announces that millions of rapid coronavirus tests will be sent to states this week and is urging governors to use them to reopen schools. The Rose Garden announcement included an in-person demonstration of the test."
-    publishedDateTime: 2020-09-28T21:21:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/28/trump-millions-rapid-virus-tests-states/3567291001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f4b141e2-bdfd-4db9-9a50-d2e1dbe5549e_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Watchdog group calls on FEC to investigate donations to Trump and others by relatives and associates of Louis DeJoy"
     excerpt: "In a new complaint to the Federal Election Commission, the nonprofit Campaign Legal Center said a pattern of contributions made by the family and employees of the postmaster general as recently as 2018 merits scrutiny."
     publishedDateTime: 2020-09-18T10:52:00Z
@@ -360,22 +282,6 @@ related:
       - url: "https://i.insider.com/5f71f63a74fe5b0018a8dbc4?width=1200&format=jpeg"
         width: 984
         height: 492
-        isCached: true
-  - title: "Elon Musk says campaign donations from oil and gas companies 'limit' Trump's support for Tesla and electric vehicles"
-    excerpt: "Oil and gas interests have donated to Donald Trump more than any other federal candidate in the 2020 election, according to data from OpenSecrets."
-    publishedDateTime: 2020-09-28T18:43:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f7224370ab50d00184acd18?width=1200&format=jpeg"
-        width: 933
-        height: 466
         isCached: true
   - title: "President Trump Paid $750 in Federal Income Tax in 2016 and 2017, New York Times Reports"
     excerpt: "Trump, who is the only president in modern times not to make them public, reportedly paid no federal income taxes in 10 of the past 15 years"

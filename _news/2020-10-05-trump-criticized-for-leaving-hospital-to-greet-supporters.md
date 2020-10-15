@@ -31,253 +31,326 @@ images:
     isCached: true
 
 related:
-  - title: "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election"
-    excerpt: "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,"
-    publishedDateTime: 2020-10-12T07:41:00Z
-    webUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208"
-    ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T11:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608558001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: USA Today
+      domain: usatoday.com
     quality: 139
     images:
-      - url: "https://d.newsweek.com/en/full/1649423/proud-boys.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Trump takes to Twitter to make pitch to voters from Walter Reed"
-    excerpt: "President Trump on Monday fired off a string of tweets calling on his supporters to vote while he continues to receiving treatment at Walter Reed National Military Medical Center after testing positive for the coronavirus last week."
-    publishedDateTime: 2020-10-05T13:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed"
-    ampWebUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_100420getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Oil prices gain on supply disruptions, Trump's hospital exit"
-    excerpt: "Oil prices gained on Tuesday amid supply disruptions in Norway, a new hurricane in the Gulf of Mexico, and U.S. President Donald Trump's return to the White House after being treated for COVID-19 in hospital."
-    publishedDateTime: 2020-10-06T10:19:00Z
-    webUrl: "https://www.reuters.com/article/us-global-oil/oil-prices-climb-as-trumps-return-to-white-house-calms-nerves-idUSKBN26R05A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501T"
-        width: 827
-        height: 545
-        isCached: true
-  - title: "President Trump will be discharged from Walter Reed, doctors say"
-    excerpt: "Dr. Sean Conley said the president \"may not be out of the woods yet,\" but he is healthy enough to return to the White House."
-    publishedDateTime: 2020-10-05T19:27:00Z
-    webUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f7b3460282c500018c78907?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump's Columbus Day proclamation includes stark warnings"
-    excerpt: "President Donald Trump’s proclamation Friday commemorating Columbus Day includes stark warnings of “radical activists” seeking to tarnish the explorer’s legacy"
-    publishedDateTime: 2020-10-10T02:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
+  - title: "One month out, battered Trump campaign faces big challenges"
+    excerpt: "President Donald Trump and his reelection campaign have had one challenging week: His long-hidden tax returns leaked out"
+    publishedDateTime: 2020-10-05T07:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/month-battered-trump-campaign-faces-big-challenges-73424409"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2ce87445e0364020bc9de911a121d356_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_f70a4a123ffc4358a91b7bfa117e0ce8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "White Christian Support For Trump Down Since August, Poll Finds"
-    excerpt: "Among Catholics, Trump now trails Biden, a Catholic, 44% to 51%, with Hispanic Catholics overwhelmingly favoring Biden 67% to 26%."
-    publishedDateTime: 2020-10-13T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/"
-    ampWebUrl: "https://www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8609c584539e20a9353d59%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D217%26cropY2%3D1905"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Twitter suspends accounts of alleged Black Trump supporters over spam, manipulation"
-    excerpt: "Twitter Inc on Tuesday said it suspended a group of accounts that claimed to be owned by African-American supporters of President Donald Trump and his re-election campaign due to spam and platform manipulation."
-    publishedDateTime: 2020-10-14T01:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-twitter-disinformation-idUSKBN26Y2ZM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
+  - title: "Pence tests negative for virus on Thursday"
+    excerpt: "U.S. Vice President Mike Pence tested negative for the coronavirus on Thursday, a senior administration official said."
+    publishedDateTime: 2020-10-08T15:46:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-pence-idUSKBN26T2S7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T2S7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T2S7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537348147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C1UL"
-        width: 817
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536724769&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG971QB"
+        width: 784
         height: 545
         isCached: true
-  - title: "Bob Dole says none of his Republican friends on the presidential debate commission support Trump"
-    excerpt: "The former GOP senator and presidential nominee called the nonpartisan organization \"biased\" after it canceled an upcoming debate amid health concerns."
-    publishedDateTime: 2020-10-10T14:21:00Z
-    webUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f81abdbbab422001979a977?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Black voters explain support for Trump"
-    excerpt: "Weeks before the election, three Black supporters of President Donald Trump sit down with the Associated Press to discuss their allegiance to the President. They know their opinions may be in the minority within their community."
-    publishedDateTime: 2020-10-14T05:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/black-voters-explain-support-trump/3648789001/"
+  - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
+    excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
+    publishedDateTime: 2020-09-30T23:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-returns-minnesota-where-he-trails-post-debate-rally/3585336001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3585336001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3585336001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d80e50a0-6811-477e-abfb-01a812a17f98_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
-    excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
-    publishedDateTime: 2020-10-14T21:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-third-term-election-2024-constitution-2020-10"
+  - title: "President Trump could be released from hospital as early as Monday, doctors say"
+    excerpt: "The President is reported to be stable and in good spirits at Walter Reed Medical Hospital, while continuing to take doses of the drug, remdesivir."
+    publishedDateTime: 2020-10-04T16:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-coronavirus-medical-release-treatment-hospital-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 77
+    quality: 121
     images:
-      - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f79f55b2400440019129dc3?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
-    excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
-    publishedDateTime: 2020-10-13T17:00:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
+  - title: "Trump says he will approve permit for Canada to Alaska railway to free landlocked oil"
+    excerpt: "President Donald Trump wrote on Twitter over the weekend he would issue a permit for a railway project from Canada's oil sands to ports in Alaska, a project that has many regulatory hurdles but could help spur shipments of the landlocked crude to foreign markets and U."
+    publishedDateTime: 2020-09-28T16:49:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2O3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 72
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://media.vanityfair.com/photos/5f85d3d4b13a7bb1006f71b8/master/pass/donaldtrumprally.jpg"
-        width: 2000
-        height: 1348
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ"
+        width: 817
+        height: 545
         isCached: true
-  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
-    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
-    publishedDateTime: 2020-10-05T22:54:00Z
-    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
-    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-08T16:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913390002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "2020 Daily Trail Markers: Trump plans to head back to campaign trail with Monday rally in Florida"
+    excerpt: "The president is slated to deliver remarks at an airport hangar at 7 p.m. ET, 12 days after he disclosed his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-09T23:46:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-plans-to-head-back-to-campaign-trail-with-monday-rally-in-florida-2020-10-09/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Former Trump 2020 campaign manager Brad Parscale hospitalized after threatening to harm himself, police say"
+    excerpt: "Brad Parscale, who served as President Trump's 2020 campaign manager until July, was taken to a mental health facility Sunday night after barricading himself in his home with weapons and threatening to harm himself,"
+    publishedDateTime: 2020-09-28T02:43:00Z
+    webUrl: "https://www.cbsnews.com/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/former-trump-2020-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself-police-say/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/16/46ed62a6-d21e-4da4-9294-4e4cb6a1fd03/thumbnail/1200x630/61375f5315b9085385468e3dada55714/gettyimages-1168366652.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
+    excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
+    publishedDateTime: 2020-09-28T04:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
+    publishedDateTime: 2020-09-29T05:56:00Z
+    webUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-reported-tax-methods-would-be-par-for-the-course-for-the-rich-experts-say-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
+  - title: "Hospitalized with COVID-19, Trump thanks supporters, says his 'real test' lies ahead"
+    excerpt: "President Donald Trump tweeted thanks to his supporters on Sunday from the hospital where he is being treated for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his health."
+    publishedDateTime: 2020-10-04T14:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P04A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P04A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+  - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
+    excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
+    publishedDateTime: 2020-09-28T21:17:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-taxes-wealth-idUSL1N2GP1TI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GP1TI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+  - title: "Doctors Say President Donald Trump Suffered Two Bouts of Low Oxygen, But Could Leave Hospital Monday"
+    excerpt: "White House physician Sean Conley continued to avoid directly answering a few crucial questions about Trump's health"
+    publishedDateTime: 2020-10-05T03:13:00Z
+    webUrl: "https://time.com/5896203/trump-covid-19-physician-white-house-briefing-oxygen-dexamethasone/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 90
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/Conley-trump.jpg"
+        width: 5568
+        height: 3712
+        isCached: true
+  - title: "With Trump hospitalized, VP Mike Pence will visit Arizona for a Thursday rally, campaign says"
+    excerpt: "Pence will host a rally at a tactical-gear supply business in Peoria. His visit had been expected for weeks, but COVID-19 has since rocked the campaign."
+    publishedDateTime: 2020-10-04T23:01:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/03/vp-mike-pence-visit-peoria-arizona-tactical-company-thursday/3608558001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3608558001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3608558001"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 79
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence should be in quarantine not visiting Arizona"
+    excerpt: "The president has COVID-19 and the vice president needs to stay safe and keep others safe. Campaigning should be a distant second."
+    publishedDateTime: 2020-10-05T14:25:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/05/vice-president-mike-pence-should-quarantine-not-visiting-arizona/3619318001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3619318001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3619318001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "In Peoria, Mike Pence rallies Arizona supporters, vows to back police"
+    excerpt: "Vice President Mike Pence visited a Peoria tactical gear supply shop on Thursday during his fourth visit to Arizona in 2020."
+    publishedDateTime: 2020-10-10T01:50:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/trump-campaign-hobbled-mike-pence-makes-fourth-arizona-stop/5917080002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5917080002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917080002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/458aca1a-332f-4f80-b4b5-3379ac04e496-VicePresidentPence_Peoria_Oct8_2.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
+    excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."
+    publishedDateTime: 2020-10-10T06:09:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/08/5-things-you-may-not-know-mike-pence-ties-arizona/5913390002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5913390002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5913390002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 64
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/18/PPHX/5cbac090-c7c3-42b7-8e2b-f793e103cf42-DW1_2733.JPG?auto=webp&crop=3523,1982,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "EXCLUSIVE: VP Mike Pence tells Channel 2 President Trump won Tuesday’s debate ‘outright’"
+    excerpt: "Vice President Mike Pence is defending President Donald Trump’s performance following Tuesday night’s controversial debate and says he believes Trump won. Channel 2′s Richard Elliot spoke exclusively with Pence following his appearance at the Faith and Freedom Coalition conference that was held Wednesday at the Cobb Galleria Centre."
+    publishedDateTime: 2020-10-01T05:43:00Z
+    webUrl: "https://www.wsbtv.com/news/local/cobb-county/vice-president-pence-coming-metro-atlanta-wednesday/ICA2PVFKNVARLNBA5TGHVYMJOI/"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 61
+    images:
+      - url: "https://www.wsbtv.com/resizer/3cU1r-TzlbfDb1z2UP0tv7fNz6s=/1200x628/d1hfln2sfez66z.cloudfront.net/09-30-2020/t_e8de92d95b634a1d89c08251ce986ed7_name_RAW_RE_PENCE_INTERVIEW_frame_27575.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Vice President Mike Pence to visit Iowa Thursday"
+    excerpt: "DES MOINES, Iowa (KWQC) - Vice President Mike Pence will visit Iowa on Thursday, October 1. Pence first plans on delivering remarks at a Trump Administration event in Carter Lake. During the event, he is expected to discuss Iowa’s unemployment rate and jobs."
+    publishedDateTime: 2020-09-28T18:01:00Z
+    webUrl: "https://www.kwqc.com/2020/09/28/vice-president-mike-pence-to-visit-iowa-thursday/"
+    type: article
+    provider:
+      name: KWQC
+      domain: kwqc.com
+    quality: 55
+    images:
+      - url: "https://gray-kwqc-prod.cdn.arcpublishing.com/resizer/kcB7o0lw_jZrIAo0QwzBwDAxYDg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/47P4UKJBEJG2FECIEDGZ2PJ5YI.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Judge Throws Out Trump Campaign's Pennsylvania Lawsuit"
+    excerpt: "A federal judge in Pennsylvania is throwing threw out a lawsuit filed by President Donald Trump’s campaign, dismissing its challenges to the battleground state’s poll-watching law and its efforts to limit how mail-in ballots can be collected and which of them can be counted."
+    publishedDateTime: 2020-10-10T17:29:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-10/trumps-campaign-loses-election-lawsuit-in-pennsylvania?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Failed to Tell Sean Hannity About His Coronavirus Status During Thursday Interview — After Testing Positive"
+    excerpt: "President Donald Trump reportedly failed to tell Fox News host Sean Hannity about his coronavirus test status on Thursday just hours after he tested positive."
+    publishedDateTime: 2020-10-05T14:36:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-failed-to-tell-sean-hannity-about-his-coronavirus-status-during-thursday-interview-after-testing-positive/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 66
+    quality: 54
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
-    excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
-    publishedDateTime: 2020-10-14T14:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Report: Some People Thinking a Drug-Addled Maniac (Donald Trump) Shouldn’t Be in Charge of the Nuclear Codes"
-    excerpt: "The New York Times reports that while some national security experts have long argued that the POTUS should not have “the unchecked authority” to launch nuclear weapons, Trump’s long rants—described by one doctor as “steroid-induced psychosis”—and wildly erratic behavior since he was put on experimental medications after testing positive for COVID-19 have underscored the danger of giving a total lunatic the power to nuke another country."
-    publishedDateTime: 2020-10-12T18:46:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 56
-    images:
-      - url: "https://media.vanityfair.com/photos/5f71fc761974fdefdd159dfd/master/pass/trump-tik-tok.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Trump Gathers Supporters At White House, Plans More Rallies"
-    excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
-    publishedDateTime: 2020-10-10T18:46:00Z
-    webUrl: "https://www.ibtimes.com/trump-gathers-supporters-white-house-plans-more-rallies-3060042"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
-    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
-    publishedDateTime: 2020-10-14T03:27:00Z
-    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
-        width: 1024
-        height: 681
         isCached: true
 
 secured: "n/IP0iE/0S1XoEXmsUIRZApYJEmqK0vd32181+xcg19/fNqKAqxX+/iS8fRkUlP6vv9QIshO//RxCiY7RdKzMmbwOkpwfQWw4Y57bSQWdBy9BAYVIcp0TTBlx2qvIv5FU1mK9gZOB5/FNF1V1gF5N5stsHPvNycQN0VC6/cEMipHkSegWbPbi4oaCNXSVmFMhVnXNm9PTWaKgqQStFcIKAiYE4c4gZsLCO30w4XgE3Lcn4496eXMnmlr4GxuFAAQkCIUvbf3XkW2WS5U+IbPuTuZiCRxMvU7Bh8FlayL2NrKL8wFJMACaQJZopdl4DuZMjUEor/4XQCflp/S+6XEARwfQ9gNgY4UjNWTv09BlGI=;E/YsdW/+9GjYXw0gNRUIfQ=="

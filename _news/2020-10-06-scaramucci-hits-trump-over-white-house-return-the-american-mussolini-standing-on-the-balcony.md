@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tax returns: Reality show businessman turns America's loser in chief"
-    excerpt: "How did Donald Trump bankrupt his presidency and fail to save America from COVID-19? Answers lie in his success in dodging taxes and debts."
-    publishedDateTime: 2020-09-29T17:27:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/todaysdebate/2020/09/29/trump-tax-returns-reality-show-loser-businessman-editorials-debates/3565963001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3565963001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565963001"
+  - title: "Donald Trump Is Shown ‘Gasping For Air’ In White House Return Video, Twitter Users Claim"
+    excerpt: "Shortly after the president was released from Walter Reed hospital, many noted he appeared to be gasping for air when he returned to the White House."
+    publishedDateTime: 2020-10-06T20:23:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 66
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/f065e03b-91bf-4678-aad0-a2161d916085-Trump.jpg?auto=webp&crop=5087,2861,x0,y423&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
-    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
-    publishedDateTime: 2020-10-01T13:10:00Z
-    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 82
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/his-covid-19-diagnosis-has-left-president-donald.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "IetcdFOoMuMvngbZCFIfHFryn9p+GoBDpI+6b4WDIj7dx2niFw3WfixIfrp5rybMQIXLdsz+EiuvpDRNDOJ9Ogv667cE0u0c1jHkVn1Cafu9nrA0gYZD9hqKRsGFb1paiKq88I7gWxisMuem3f8yiNAeOXx6dzHsnBi+aZal1dAaaBQ1j7Zh2m2er1FF87O72znPMiT79QPd0qpiJtFGvGf8Y9McAB12GMEkgeiO3vSOwGNcc9rPmrctZnY9ZQsV4KlM8VNVOeU6+3zOD8LE3R90z5acNdGOZFPcQp6xMge2gqzaDg7wk0RO9bvAw5FjqI493wL50xTTKqSOanzAjzbtMIcMNY0WUhlqf55+5nc=;P8RdNLF1xEQ1JmtXJym9cQ=="

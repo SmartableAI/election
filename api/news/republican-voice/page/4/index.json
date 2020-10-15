@@ -2,6 +2,230 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-02-trump-pledges-to-overturn-navy-seal-gender-neutral-ethos-calls-it-ridiculous.md",
+      "title": "Trump pledges to overturn Navy SEAL gender-neutral ethos, calls it 'ridiculous'",
+      "excerpt": "“Man” and “brotherhood” were replaced with gender-neutral phrases such as “warrior” and “group of maritime warriors.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa5DowdHOEA/trump-overturn-navy-seal-ethos-gender-neutral",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa5DowdHOEA/trump-overturn-navy-seal-ethos-gender-neutral",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/89963ae4-e6e1-4130-8e7d-c06d0c680d1a/912dcb7d-b04b-447d-849e-877687f59fed/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-overturn-navy-seal-ethos-gender-neutral.amp",
+      "publishedDateTime": "2020-10-01T18:23:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-cruz-slams-biden-for-dodging-court-packing-questions-claims-ex-vp-doesnt-want-to-be-honest-with-americans.md",
+      "title": "Cruz slams Biden for dodging court-packing questions, claims ex-VP 'doesn't want to be honest' with Americans",
+      "excerpt": "Joe Biden does not possess the strength to stand up to the \"rage and fury\" of the far left as evidenced by his refusal to say whether he supports expanding the Supreme Court if elected, Sen. Ted Cruz, R-Texas, told \"The Story\" Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4xeYqBRfJA/ted-cruz-joe-biden-court-packing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4xeYqBRfJA/ted-cruz-joe-biden-court-packing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80823b08-3de2-4be6-9bfa-dfba50c92343/bc295ce7-692b-40d3-b0de-3ab64ac13454/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp",
+      "publishedDateTime": "2020-10-01T17:57:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.md",
+      "title": "Herschel Walker claps back at Biden's Antifa is ‘an idea’ comment",
+      "excerpt": "Former NFL star Herschel Walker turned to Twitter Thursday to take issue with a Trump-Biden debate moment regarding far-left and far-right groups and the roles they play in unrest that has rocked cities across the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lyER4odGVfE/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20274148643710.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
+      "publishedDateTime": "2020-10-01T13:53:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-comey-blatantly-accused-trump-of-horrible-things-without-evidence-sen-mike-lee.md",
+      "title": "Comey 'blatantly accused' Trump of 'horrible things' without evidence: Sen. Mike Lee",
+      "excerpt": "Former FBI Director James Comey “blatantly accused the president of the United States” of “horrible things without any evidence,” Sen. Mike Lee, R-Utah, told “Fox & Friends” on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
+      "publishedDateTime": "2020-10-01T12:51:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-biden-endorsed-by-more-than-120-former-gop-national-security-officials.md",
       "title": "Biden endorsed by more than 120 former GOP national security officials",
       "excerpt": "More than 120 former GOP national security officials endorsed Democratic presidential nominee Joe Biden on Thursday, joining a cadre of Republican groups to oppose the reelection of President Trump.",
@@ -1459,231 +1683,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-kamala-harris-accuses-gop-senate-of-ignoring-justice-ginsburgs-final-wish.md",
-      "title": "Kamala Harris Accuses GOP Senate of 'Ignoring Justice Ginsburg's Final Wish'",
-      "excerpt": "Senator Kamala Harris (D-CA) hit the campaign trail on Monday, as Joe Biden continues to shield himself from the public eye. The newly-minted vice presidential nominee commemorated the life of",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081",
-      "originalUrl": "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/224/8599b041-4739-4730-b05c-b850ed0f980e.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/reaganmccarthy/2020/09/28/kamala-on-scotus-n2577081?amp=true",
-      "publishedDateTime": "2020-09-28T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.md",
-      "title": "Biden’s whistle-stop: Democratic nominee taking post-debate train swing",
-      "excerpt": "Democratic presidential nominee Joe Biden is hitting the rails once the first presidential debate is over.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/K4DDCsCm5Xk/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271543058705.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-whistle-stop-democratic-nominee-taking-post-debate-train-swing.amp",
-      "publishedDateTime": "2020-09-28T10:20:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-brad-parscale-faces-attacks-from-trump-critics-after-hospitalization.md",
-      "title": "Brad Parscale faces attacks from Trump critics after hospitalization",
-      "excerpt": "Online attacks on Brad Parscale faced swift backlash.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRJx06pR_Lk/brad-parscale-hospitalized-fort-lauderdale-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRJx06pR_Lk/brad-parscale-hospitalized-fort-lauderdale-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ap18058606194136.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/brad-parscale-hospitalized-fort-lauderdale-trump.amp",
-      "publishedDateTime": "2020-09-28T09:34:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.md",
-      "title": "Trump on defense after NYT publishes tax info, says he is 'entitled' to credits 'like everyone else'",
-      "excerpt": "President Trump on Monday defended his tax history, saying that he paid “millions of dollars” to the Internal Revenue Service, and touted his “impressive” financial statements and willingness to “give up” his presidential salary, in the wake of a new report that called into question what taxes, if any,",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2cj61vxfGHY/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 180,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-on-defense-after-nyt-publishes-tax-info-says-he-is-entitled-to-credits-like-everyone-else.amp",
-      "publishedDateTime": "2020-09-28T08:41:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

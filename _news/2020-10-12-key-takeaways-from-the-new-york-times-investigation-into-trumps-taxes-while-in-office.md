@@ -25,22 +25,49 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump turned his hotels, resorts into 'Beltway's new back rooms,' New York Times reports"
-    excerpt: "The New York Times has released a staggering report,</a> the fourth in its series, based on President Donald Trump's federal tax returns."
-    publishedDateTime: 2020-10-10T19:22:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-turned-hotels-resorts-beltways-back-rooms-york/story?id=73538576"
+  - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
+    excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
+    publishedDateTime: 2020-10-14T12:39:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 116
+      name: Forbes
+      domain: forbes.com
+    quality: 122
     images:
-      - url: "https://s.abcnews.com/images/US/trump-gty-rc-201010_1602342464487_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
+    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
+    publishedDateTime: 2020-10-14T12:14:00Z
+    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
+    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 77
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
+        width: 1024
+        height: 741
+        isCached: true
+  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
+    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
+    publishedDateTime: 2020-10-14T12:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "t+hZUBzUBaFtfdY9aSHohMqq1BLjmPLMd0lzhmBG8E322iE8JCBg9Zz5GXqEYNXP3WEphwl6YsTX0gVw3Z+adhyBTwA8+JbLhC+AO/uWxwpcz0AnpLObheVwmih5Gyhx3OkzNvwqKeV/Km9vZd62lTKGcVipRWHXiHGBo+yfPjqIYUEpV2pMV4AcoBcFKXC223PDxG7M3v/5WhThp/Pj4G63ay9t0291uyyxDJPhQ++bMMsmucyc5O3qICqbEsJz79/Xh8LeXACasvhh8TCfwK+dcAnkoG+L1F5CAxUAXIckDBwUG7A73QdhsABJkUHokMK2+m4EE9LIzMh0M7hbiwRGy9y/1lhNO7Z5uHsDoyRYIiPQZss2NID6a4r1gRCEd9gaFpgUV84mfUGr75kBw7k32Ludnn+R1s9RnnUgDtEd1Q+M90b4L1UfCTtIM7CfnL6diontXGESAmITBkhbtk2srd4Aqp2R8BWOedzyPLp+/O3ZDtf5EZO22tro411MTN1nFMaHuUJQ7s+Q+ZTThA==;9TogRYqTRrHGmLEEUVmi8g=="
 ---

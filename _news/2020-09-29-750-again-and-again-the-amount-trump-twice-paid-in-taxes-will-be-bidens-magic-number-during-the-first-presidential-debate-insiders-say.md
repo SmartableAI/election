@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden preps for personal attacks from Trump ahead of Tuesday’s debate"
-    excerpt: "A tale of two campaigns is emerging ahead of the first face-to-face meeting in the general election between President Donald Trump and former Vice President Joe Biden Tuesday night on the presidential debate stage."
-    publishedDateTime: 2020-09-27T17:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-ap-jef-200920_1600623548064_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump and Biden get evites as Al Smith Dinner goes virtual"
     excerpt: "Organizers of the Al Smith Dinner say President Donald Trump will be in virtual attendance on Thursday as the annual New York City event moves mostly online because of the coronavirus pandemic"
     publishedDateTime: 2020-09-29T00:17:00Z
@@ -731,22 +715,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fight over Trump tax returns goes to appeals court — again"
-    excerpt: "A federal appeals court is set to hear arguments Friday in President Donald Trump’s long-running fight to prevent a New York top prosecutor from getting his tax returns"
-    publishedDateTime: 2020-09-25T05:21:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/fight-trump-tax-returns-appeals-court-73233635"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e01891c0c65f432c8baba4b7021068e5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says he's 'praying for the health and safety\" of Trump after the president's COVID-19 diagnosis"
     excerpt: "\"Jill and I send our thoughts to President Trump and First Lady Melania Trump for a swift recovery,\" Biden said in a Friday morning statement."
     publishedDateTime: 2020-10-02T13:13:00Z
@@ -1026,17 +994,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "After Trump's COVID-19 diagnosis, Biden says masks not about being a 'tough guy'"
-    excerpt: "Democratic presidential nominee Joe Biden said on Friday that President Donald Trump's coronavirus diagnosis shows the importance of taking the pandemic seriously, telling Americans that wearing masks is more important than being a \"tough guy."
-    publishedDateTime: 2020-10-03T05:58:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
   - title: "Presidential debate live: Donald Trump tries to steamroll Joe Biden in chaotic clash"
     excerpt: "Candidates faced off in Cleveland, Ohio, with Chris Wallace of Fox News moderating the bitterly personal showdown"
     publishedDateTime: 2020-09-30T11:01:00Z
@@ -1280,6 +1237,22 @@ related:
         width: 837
         height: 768
         isCached: true
+  - title: "How to watch Tuesday night’s debate between President Donald Trump and Joe Biden"
+    excerpt: "President Donald Trump and former Vice President Joe Biden will take the debate stage in Cleveland, Ohio, on Tuesday night, the first of three chances for the Republican incumbent and Democratic challenger to square off publicly and make crucial pitches to millions of Americans before they head to the polls on Nov."
+    publishedDateTime: 2020-09-28T15:49:00Z
+    webUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2020/09/how-to-watch-tuesday-nights-debate-between-president-donald-trump-and-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 85
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/32Z6KP6S3BF4ZJA5CRALCVXQFU.jpg"
+        width: 1759
+        height: 1124
+        isCached: true
   - title: "Why did Donald Trump reference Elizabeth Warren during his debate with Joe Biden?"
     excerpt: "Yet the Massachusetts senator was still derisively mentioned by President Donald Trump. During one of the earlier exchanges of the contentious and often incomprehensible debate, the Republican president misleadingly asserted that Democratic presidential nominee and former vice president Joe Biden support the same Medicare-for-All health care program proposed by Sen."
     publishedDateTime: 2020-09-30T03:33:00Z
@@ -1407,38 +1380,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/d7e72001-6bde-40d2-8350-bea7dad490c8/01249e2c-313a-47d5-ae48-e33d41604730/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
-    excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
-    publishedDateTime: 2020-10-02T11:48:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 83
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
-        width: 6000
-        height: 4333
-        isCached: true
-  - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
-    excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
-    publishedDateTime: 2020-10-03T02:56:00Z
-    webUrl: "https://www.al.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html"
-    ampWebUrl: "https://www.al.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 83
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
-        width: 6000
-        height: 4333
         isCached: true
   - title: "Presidential Debate: Joe Biden Releases Tax Returns Ahead Of Showdown With Donald Trump"
     excerpt: "The Democratic nominee released his 2019 tax return Tuesday, showing he paid nearly $300,000 in federal taxes."

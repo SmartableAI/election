@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
     excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
     publishedDateTime: 2020-10-09T17:29:00Z
@@ -63,30 +47,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
+  - title: "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend"
+    excerpt: "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend."
+    publishedDateTime: 2020-10-10T08:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592092001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
+    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
+    publishedDateTime: 2020-10-06T09:55:00Z
+    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "sGDemPwHfDXv061wBJDO4+j/Xca18sH+pDZOFsXmYhTc9H6iLWmCkkdl37Ai2kZBOsxTAiN7nSQ7u4Km+OzqOEx4yO7nFD3AERim/cSpsJG5za7LL0aBmPAdv57ErD8tAJ86MlDLxEhXLV8UhcUpAuW/oHeVV8Uc3DYHQK/jnUX1chpK7o4/1Wck6sslapTNMrH/coEReLG579DaWMd6EAdVjcPOY8S5PS71v4LOja1Yl36/efdU9tqgbylxOJBTGQzhdP5lpZd+n7Col1SVkO0V16ym1+3r18wB68iU4d0kaX8hn37HBkQ3LmsihnHRJwTdyBfApxVJVyQRMj5frYvI572tYOl5DDqaClO3CV3S7s4Mjk2nkYzVvLKeH3BeFck9WHG7H5YqHxsY7fRKCEjNTpdcWoMycReAoYPyOx6Si8/kig3aX5bjL6ncwE57dw4Iwav26lWWOwJiwrriSnPzOreuQkA5vIDoFtwzHz3Uj6jYG60Oxi3Jz/1jFELHV0sOAYmuJ8bL00haLi9bWw==;iVhEyxgqWKOklBj+rDM9Ow=="

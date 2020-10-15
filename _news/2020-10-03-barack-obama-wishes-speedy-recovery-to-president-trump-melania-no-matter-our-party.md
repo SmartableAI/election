@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3606381001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3606381001"
 type: article
 quality: 117
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Latest: Trump's doctor says president has 'no symptoms'"
-    excerpt: "The Latest on President Donald Trump's health after his COVID-19 diagnosis (all times local):"
-    publishedDateTime: 2020-10-06T21:42:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "76vcAtw+Q+1+x4PZ/sXslttst3/1IDvnUoOqg/njG6E23+pjUUz1f4qjXpCQELk1jfa2A0u9ZYzYPKMAj7cxGqTpmnsWmcntcHeHM4Gm1gaZfw49Tf8IScN1QxGmsdaYEOg0eMRVgHxfumUWZenOlJoc6b47yTTWhDYcJIbH+9GMinUnk8j/u58m/Vaq75LNL9G0+meinni1tITq42JJ21b098Z4lCnib9QKXW3gG6FW6nrHJHzWQdMCoXoUTw5QfDXTN2LM2lzOY8spBt9pAIqudt2zHuMcGadZt1yUL1KWGgsKf39Rmrdpms9sBlQXmEYUhuN7s7bTZKR8ZrA2brWg0TWcP7A6EvPVK0BWQoFsixdvPXIC/4eLt+hRQfE8mPspUWm37KGXoFJ+7OYMZ2wraDbGE7qcEYVcxxez2YU3b9cpQC79CST1n9+mTAjLHCBaYP5wQfYYDcS6u67SUAEao4zrPEcsQJteYyrXNW9HDLXma3ZnAUjUJ5dqTtZgvm/lxc6uY9wFr/lvNgfmDA==;MvJmYIXs5ScMJjy+KVSb5Q=="
 ---

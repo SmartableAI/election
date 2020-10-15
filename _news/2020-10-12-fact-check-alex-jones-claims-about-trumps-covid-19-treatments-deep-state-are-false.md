@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fact check: Viral post is fake Trump quote about Amy Coney Barrett"
+    excerpt: "A post claims the president said he picked the Supreme Court nominee based on her looks. He never said that. We rate this claim false."
+    publishedDateTime: 2020-10-14T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/14/fact-check-post-misquotes-donald-trump-why-he-chose-amy-coney-barrett/3642654001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3642654001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3642654001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/7978c3d8-a7cc-4264-8321-eeb1886ea47c-AFP_AFP_8QT6KT.jpg?auto=webp&crop=4479,2519,x1,y24&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
     excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
     publishedDateTime: 2020-10-09T10:46:00Z
@@ -95,21 +111,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Column: Upon his release from hospital, President Trump is denounced as a heretic by media high priests"
-    excerpt: "Estimates released in September show a death rate that is low across the board, especially among the young and healthy, but the drumbeat in politics and media has been all about fear. The high priests of the Washington establishment media who have thrown their lot in with the Democratic Party and Joe Biden for the 2020 campaign were outraged by Trump."
-    publishedDateTime: 2020-10-07T10:03:00Z
-    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
+  - title: "Fact check: Trump's antibody therapy not made from fetal stem cells but fetal-derived cells used during testing"
+    excerpt: "A post online falsely claims the antibody therapy received by President Donald Trump to treat COVID-19 is made from fetal stem cells."
+    publishedDateTime: 2020-10-10T04:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/08/fact-check-trumps-antibody-therapy-not-made-fetal-stem-cells/5901542002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5901542002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5901542002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.chicagotribune.com/resizer/70JOGZkj3argNBh0CWW4_Jqf2AY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UFHVOGS3GFKFB7CNA27ZYEPPXM.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d890957a-cfab-4eaa-ae7a-03b8ca543956-Antibodies.jpg?auto=webp&crop=2347,1321,x0,y156&format=pjpg&width=1200"
         width: 1200
-        height: 777
+        height: 675
         isCached: true
   - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
     excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
@@ -125,67 +141,21 @@ related:
         width: 2062
         height: 1154
         isCached: true
-  - title: "Trump promised to bring China to heel. He didn’t and the result is a pitched conflict between the world’s two major powers."
-    excerpt: "Aides say the president is standing up to Beijing. But critics warn he’s created a dangerously tense relationship born out of a chaotic and undisciplined style that has defined many aspects of his presidency."
-    publishedDateTime: 2020-10-12T00:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 99
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R476SQQKSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump, who is infected with coronavirus, has tweeted 120 times since being released from the hospital Monday night"
-    excerpt: "Trump's tweets have included attacks on Joe Biden, praise for the economy, a push for a focus on the Supreme Court, and allegations of voter fraud."
-    publishedDateTime: 2020-10-07T19:29:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
+  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
+    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
+    publishedDateTime: 2020-10-01T01:09:00Z
+    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 98
+    quality: 96
     images:
-      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump reportedly wanted to rip open his button-down to reveal a Superman T-shirt to surprise people when he left the hospital"
-    excerpt: "Upon leaving the hospital, Trump would rip open a button-down dress shirt to reveal a t-shirt with the Superman logo."
-    publishedDateTime: 2020-10-10T23:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f822f5dbab422001979a9fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Headed For Trouble -- And Not Changing Course"
-    excerpt: "President Donald Trump is down in the polls, running out of time, and facing a resurgent coronavirus across the United States. Yet seemingly headed for defeat, he is doing nothing to change course. Proud of his status as a non-politician who won the White House in his first shot,"
-    publishedDateTime: 2020-10-14T17:09:00Z
-    webUrl: "https://www.ibtimes.com/trump-headed-trouble-not-changing-course-3062172"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/president-donald-trump-has-begun-a-punishing-cycle.jpg"
-        width: 1024
-        height: 656
         isCached: true
 
 secured: "T6+lXXfSiz+QVRAkxJNHMdfK5O7M204n//L+JCaAVMUCcyW4CC72VESCbCMuOONDfTl7LTmhlzSu1HGGahWRL7092QnfFbIn4PB2TRDM46Xxy3dwiCAnBsNSyUARD0FfLmddCILeApzpz1ErJO5S5dXpsx3mM1DzkbX0DWnjQ2yTrcKV8qBIN693bUaHMC7AKQTxE7jHkUi4uI+PLNQIJ4az28wZbtnrusMCwcsGIaJNzCmg4LoD1Yb/4IIjcRpGXxKvD5RK19WzijOrZtpDTCy601Sw4hMSP6ISJkIWR1wXpSN4wucmrAKJ/YPfQjxfv03AE0Cdgmdi0ftizCosPAu3vmXcQoMjxmkWHr/0nebjdg3WjYiHI819hQaPF/IBeZr6vENJja1scXFV/iXM5fS9Q3iI9pQBUGIm9fakJv5hM4W99BkYKwqKgOpLlS6jgyaIjASEMDkOcXopODMH65m3YSckH+cleSthXj6wuUPsEmll0J49i72AjrLXSPSMVWJC4iuO2wTZA9mF6avZsQ==;4NGux3fLLRiIKyeDje4VRQ=="

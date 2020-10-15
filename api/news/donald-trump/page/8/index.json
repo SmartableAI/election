@@ -2,849 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-09-19-trump-urges-gop-to-move-without-delay-as-he-ponders-impact-of-supreme-court-on-election.md",
-      "title": "Trump urges GOP to move 'without delay' as he ponders impact of Supreme Court on election",
-      "excerpt": "Trump is considering a woman for his latest Supreme Court nominee, aides said, and expects to make the Supreme Court a major campaign issue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/19/ruth-bader-ginsburg-donald-trump-democrats-weigh-vacancy-election/5837691002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 391,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/19/USAT/64bfff5e-1f2f-4c5b-88e9-89942fb64e3b-AP_Election_2020_Trump_2.jpg?auto=webp&crop=5853,3293,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5837691002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5837691002",
-      "publishedDateTime": "2020-09-19T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-speak-out-reader-opinion-trump-is-not-listening-to-scientists-on-climate-change.md",
-      "title": "Speak Out reader opinion: Trump is not listening to scientists on climate change",
-      "excerpt": "Speak Out allows readers to comment on the issues of the day. Email Speak Out at speakout@southtownstar.com or call 312-222-2427. Please limit comments to 30 seconds or about 120 words and give your first name and your hometown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/5cT98GJkAfC1aMD58R1up3l5BIQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SBKTP7Z2GYZQZ4X2L5GIIYAFDQ.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/daily-southtown/opinion/ct-sta-speak-out-st-0921-20200919-b7qwm5hsrbdjjaq22kway4ljvq-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-19T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly.md",
-      "title": "Trump is betting big on the suburbs, but his strategy is failing 'bigly'",
-      "excerpt": "Just two years previously, then-candidate Donald Trump won the overall suburban vote by five percentage points according to exit polling. That margin fueled his razor-thin wins in the key “Blue Wall” states of Michigan,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly",
-      "originalUrl": "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_09152020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517201-trump-is-betting-big-on-the-suburbs-but-his-strategy-is-failing-bigly?amp",
-      "publishedDateTime": "2020-09-19T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat.md",
-      "title": "Evangelicals at base of Trump hopes for Pennsylvania repeat",
-      "excerpt": "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
-      "originalUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp",
-      "publishedDateTime": "2020-09-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-behind-trumps-turkish-bromance-lev-parnas-oligarchs-and-a-lucrative-lobbying-deal.md",
-      "title": "Behind Trump's Turkish 'bromance': Lev Parnas, oligarchs and a lucrative lobbying deal",
-      "excerpt": "Turkey’s effort to influence the Trump White House began at the Watergate, in a meeting brokered by a figure from the Ukraine impeachment saga, Lev Parnas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/behind-trump-s-turkish-bromance-lev-parnas-oligarchs-lucrative-lobbying-n1240374",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3041266/191007-donald-trump-recep-tayyip-erdogan-cs-114p_e50a56b00063d241c350af03f1bc4205.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240374",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240374",
-      "publishedDateTime": "2020-09-19T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-current-events-electric-fence-deters-trump-sign-thieves.md",
-      "title": "Current events: Electric fence deters Trump sign thieves",
-      "excerpt": "A Massachusetts man tired of people stealing his Donald Trump campaign sign has come up with a shocking solution: an electrified fence",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
-      "originalUrl": "https://abcnews.go.com/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Weird/WireAP_ea440d57ba7d415e889c03b45d2473a6_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Weird/wireStory/current-events-electric-fence-deters-trump-sign-thieves-73099637",
-      "publishedDateTime": "2020-09-19T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trumps-covid-19-vaccine-timeline-is-missing-key-context-about-logistics-of-herd-immunity.md",
-      "title": "Trump's Covid-19 vaccine timeline is missing key context about logistics of herd immunity",
-      "excerpt": "With Covid-19 continuing to ravage communities, Americans are anxious to discover a vaccine. This week, President Donald Trump claimed we could have a vaccine as early as mid-October — something directly contradicted by Centers for Disease Control and Prevention head Robert Redfield,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/think/opinion/trump-s-covid-19-vaccine-timeline-missing-key-context-about-ncna1240489",
-      "originalUrl": "https://www.nbcnews.com/think/opinion/trump-s-covid-19-vaccine-timeline-missing-key-context-about-ncna1240489",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/3261586/200309-donald-trump-cs-836a_415f36047683fb085dbee30e75a2a320.jpg",
-          "width": 2323,
-          "height": 1427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1240489",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1240489",
-      "publishedDateTime": "2020-09-19T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-ap-norc-poll-trump-faces-deep-pessimism-as-election-nears.md",
-      "title": "AP-NORC poll: Trump faces deep pessimism as election nears",
-      "excerpt": "Most Americans are deeply pessimistic about the direction of the country and skeptical of President Donald Trump’s handling of the coronavirus pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 760,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_eb800f1a71f7400782ba79a0c5ac2315_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-norc-poll-trump-faces-deep-pessimism-election-73078285",
-      "publishedDateTime": "2020-09-18T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-says-confederate-general-robert-e-lee-would-have-won-except-for-gettysburg.md",
-      "title": "Trump Says Confederate General Robert E. Lee 'Would Have Won Except for Gettysburg'",
-      "excerpt": "\"They're ripping down our history,\" President Donald Trump said of U.S. protesters. \"That's where these guys begin. They take away your history.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765",
-      "originalUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1638821/donald-trump.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-confederate-general-robert-e-lee-would-have-won-except-gettysburg-1532765?amp=1",
-      "publishedDateTime": "2020-09-18T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-said-he-did-not-like-fbi-director-wrays-testimony-on-russia-election-meddling.md",
-      "title": "Trump said he 'did not like' FBI Director Wray's testimony on Russia election meddling",
-      "excerpt": "In congressional testimony on Thursday, Wray said that, as in 2016, Russia remains \"very active\" in efforts to \"influence our election.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 312,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/18/USAT/48a93345-7fbc-4130-a883-ca458266e10b-AP_Trump_FBI.JPG?auto=webp&crop=4199,2362,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5826614002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5826614002",
-      "publishedDateTime": "2020-09-18T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-announces-aid-for-puerto-rico-infusing-politics-in-an-apparent-play-for-florida-voters.md",
-      "title": "Trump announces aid for Puerto Rico, infusing politics in an apparent play for Florida voters",
-      "excerpt": "Polling shows Trump and Biden are tied in Florida, where thousands of Puerto Ricans relocated after Hurricane Maria.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/trump-announces-aid-puerto-rico-infusing-politics-apparent-play-florida-n1240491",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_38/2180696/ss-171006-twip-22_7607aec2d647d9aa65488040a7aadb8f.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240491",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240491",
-      "publishedDateTime": "2020-09-18T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-has-made-americans-lives-worse-heres-the-proof.md",
-      "title": "Trump has made Americans’ lives worse. Here’s the proof.",
-      "excerpt": "After 2008, for example, Democrats and Democratic constituencies (minorities, women, low-income Americans) felt better about their lives, while Republicans and their constituencies felt worse. But something very different happened after 2016: Well-being measures dropped substantially for Democratic constituencies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JGN5OUGNLEI6RLIKBYA67OR4YE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp",
-      "publishedDateTime": "2020-09-18T14:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-trump-sued-by-parents-of-toddlers-featured-in-doctored-racist-baby-video.md",
-      "title": "Trump sued by parents of toddlers featured in doctored 'racist baby' video",
-      "excerpt": "Donald Trump, and the Trump Campaign over an edited \"racist baby\" video.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f65075757b7da001ee128ad?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-sued-over-doctored-racist-baby-twitter-video-carpe-donktum-2020-9?amp",
-      "publishedDateTime": "2020-09-18T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-trump-very-happy-to-keep-tiktok-alive-if-security-issues-resolved.md",
-      "title": "Trump 'very happy' to keep TikTok alive if security issues resolved",
-      "excerpt": "President Donald Trump said Friday that he would be \"very happy\" to reach a deal that keeps the video-sharing app TikTok alive in the U.S. so long as security concerns with China can be resolved. Trump told reporters that he has spoken with executives at Oracle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830",
-      "originalUrl": "https://www.politico.com/news/2020/09/18/trump-tiktok-security-issues-us-417830",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b2/f9/2d429fb14506abdb1786db2a21bf/200918-joe-biden-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/09/18/trump-tiktok-security-issues-us-417830",
-      "publishedDateTime": "2020-09-18T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-paul-krugman-column-what-is-it-with-trump-and-face-masks.md",
-      "title": "Paul Krugman column: What is it with Trump and face masks?",
-      "excerpt": "We know what works. Which makes it both bizarre and frightening that Donald Trump has apparently decided to spend the final weeks of his re-election campaign deriding and discouraging mask-wearing and other anti-pandemic precautions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/ECgXvxhTWJeoYFOE4Sp5uV_u5yw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/OCUP5EWQ6GSR54YE2N4Y3BV27Q.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-why-trump-hates-face-masks-20200918-ckqxk5e3yne43hbfwu2uucw24m-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-18T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-amy-dorris-friend-politics-not-behind-latest-sex-assault-accusation-against-trump.md",
-      "title": "Amy Dorris' friend: Politics not behind latest sex-assault accusation against Trump",
-      "excerpt": "Amy Dorris of Boca Raton, the latest woman to accuse Trump of sexually assaulting her, did not go public because of the election, a close friend says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/18/amy-dorris-trump-accusers-friend-says-politics-not-behind-accusation/3491823001/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/06e09ebbc9030e36308fda62ff21cf8c765f759c/c=0-124-2391-1469/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200819203-2fc69d16.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3491823001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3491823001",
-      "publishedDateTime": "2020-09-18T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-09-18-oc-actress-samaire-armstrong-voices-support-for-trump-says-far-left-mob-has-silenced-americans.md",
       "title": "'O.C.' actress Samaire Armstrong voices support for Trump, says 'far left mob' has silenced Americans",
       "excerpt": "The O.C.” actress Samaire Armstrong posted a passionate video on Wednesday pledging her support for Donald Trump for the 2020 presidential election.",
@@ -967,7 +124,7 @@
       "originalUrl": "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1431,7 +588,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/09/14/trump-returns-arizona-campaign-latino-votes/5771841002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 485,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1582,7 +739,230 @@
         "Election",
         "Donald Trump"
       ]
+    },
+    {
+      "path": "_news/2020-09-13-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by-the-russians.md",
+      "title": "Strzok: 'I continue to believe that Donald Trump is compromised by the Russians'",
+      "excerpt": "Former FBI agent Peter Strzok told NBC’s Chuck Todd Sunday that he still believes President Trump to be “compromised by the Russians.”",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/strzokpeter_071218gn7_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/516193-strzok-i-continue-to-believe-that-donald-trump-is-compromised-by",
+      "publishedDateTime": "2020-09-13T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-13-peter-strzok-russians-have-leverage-over-donald-trump.md",
+      "title": "Peter Strzok: Russians have 'leverage over' Donald Trump",
+      "excerpt": "Former FBI Agent Peter Strzok, tells Chuck Todd that the president's known lies demonstrate his vulnerability to compromise, during an exclusive interview with Meet the Press.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/peter-strzok-russians-have-leverage-over-donald-trump-91636293633",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202009/mtp_clip_strzokrussianleverage_200913_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo91636293633",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo91636293633",
+      "publishedDateTime": "2020-09-13T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-10-trump-told-bob-woodward-he-knew-in-february-that-covid-19-was-deadly-stuff-but-wanted-to-play-it-down.md",
+      "title": "Trump told Bob Woodward he knew in February that COVID-19 was 'deadly stuff' but wanted to 'play it down'",
+      "excerpt": "President Donald Trump acknowledged the dangers of the coronavirus pandemic in a February interview with journalist Bob Woodward and acknowledged downplaying the threat in an interview a month ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-told-bob-woodward-he-knew-february-covid-19-was-n1239658",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-told-bob-woodward-he-knew-february-covid-19-was-n1239658",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_37/3410836/200909-donald-trump-se-1217p_dfde5acb5e002e0621bc706849bcfd69.jpg",
+          "width": 2500,
+          "height": 1427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1239658",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1239658",
+      "publishedDateTime": "2020-09-09T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-08-31-trump-praises-right-wing-supporters-rails-against-protesters-after-unrest-in-portland.md",
+      "title": "Trump praises right-wing supporters, rails against protesters after unrest in Portland",
+      "excerpt": "President Donald Trump on Sunday praised a pro-Trump caravan of activists whose presence appeared to contribute to violent clashes Saturday in Portland, Oregon. The day after a man was shot and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-protesters-following-unrest-portland-n1238808",
+      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-rails-against-protesters-following-unrest-portland-n1238808",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_35/3408731/200830-donald-trump-rally-jm-1042_db58f088a0fec4c65ff61b2d9c30c8de.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1238808",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1238808",
+      "publishedDateTime": "2020-08-30T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
     }
   ],
-  "nextPage": 9
+  "nextPage": null
 }

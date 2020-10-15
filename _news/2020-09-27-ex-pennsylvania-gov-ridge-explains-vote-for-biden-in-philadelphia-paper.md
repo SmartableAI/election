@@ -127,20 +127,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
-    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
-    publishedDateTime: 2020-09-25T21:38:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Joe Biden campaigns in Pennsylvania, calls for national unity at Gettysburg"
     excerpt: "Former Vice President Joe Biden made a campaign stop in the battleground state of Pennsylvania Tuesday and called for national unity and healing. CBS News political correspondent Ed O'Keefe joined CBSN's Elaine Quijano to discuss."
     publishedDateTime: 2020-10-07T13:42:00Z
@@ -264,20 +250,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODUGFEJGCBFJRFZ6HSCOUQXKQA.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Endorsement: Pennsylvania needs Joe Biden"
-    excerpt: "From COVID-19 to the environment to racial justice, Donald Trump has failed. Joe Biden and Kamala Harris can set us on a new course. The stakes for Pennsylvanians could not be higher."
-    publishedDateTime: 2020-10-11T09:16:00Z
-    webUrl: "https://www.inquirer.com/opinion/editorials/a/philadelphia-inquirer-2020-endorsements-biden-trump-20201011.html"
-    type: article
-    provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 55
-    images:
-      - url: "https://www.inquirer.com/resizer/xv0aCzajDcue01kI6g9qRH2zP5Q=/1200x0/center/middle/www.inquirer.com/resizer/58G0AwdvoBWhoRhhb87lE6fkog8=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/4ZLGKDUXCZE6BHWZOQFEF4FPEY.jpg"
-        width: 1200
-        height: 801
         isCached: true
   - title: "Joe Biden Tours Ohio and Pennsylvania By Train"
     excerpt: "Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train. 2020 Democratic presidential candidate Joe Biden and his wife, Jill, tour eastern Ohio and western Pennsylvania by train."

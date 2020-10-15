@@ -19,111 +19,120 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Biden in Gettysburg speech invokes Lincoln, calls for unity"
-    excerpt: "Democratic presidential nominee Joe Biden delivered an impassioned plea for unity while invoking former President Lincoln during a speech in Gettysburg, Pa., on Tuesday, exactly four weeks before the election."
-    publishedDateTime: 2020-10-06T22:57:00Z
-    webUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity"
-    ampWebUrl: "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity?amp"
+  - title: "US election 2020: Do celebrity endorsements help Joe Biden?"
+    excerpt: "With just three weeks until the US presidential election, Democratic candidate Joe Biden seems to have cornered at least one constituency: celebrities. In recent days, many of the country's most famous voters have lined up to support Mr Biden and his running mate Kamala Harris."
+    publishedDateTime: 2020-10-14T01:32:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54527265"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: BBC
+      domain: bbc.com
+    quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_gettysburg_100620getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14CBB/production/_114897158_taylor.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Watch Live: Biden delivers remarks in Gettysburg, Pa."
-    excerpt: "Democratic presidential nominee Joe Biden is scheduled to deliver remarks Tuesday in Gettysburg, Pa.The event is scheduled to begin at 4 p.m. EDT. Watch the live video above."
-    publishedDateTime: 2020-10-06T19:00:00Z
-    webUrl: "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg"
-    ampWebUrl: "https://thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/519804-watch-live-democratic-presidential-nominee-joe-biden-delivers-remarks-in-gettysburg?amp"
+  - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
+    excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."
+    publishedDateTime: 2020-10-09T13:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-taxreform-idUSKBN26U1IU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U1IU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U1IU"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://thehill.com/sites/default/files/mreportbidentrain.jpg"
-        width: 580
-        height: 387
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536855212&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG980WM"
+        width: 786
+        height: 545
         isCached: true
-  - title: "Jim Carrey becomes Joe Biden in 'Saturday Night Live' teaser"
-    excerpt: "Jim Carrey transforms into Democratic presidential nominee Joe Biden in a new teaser for \"Saturday Night Live\" Season 46."
-    publishedDateTime: 2020-10-02T11:40:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2020/10/02/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser/2981601634909/"
+  - title: "Powered by trust on the pandemic, Biden leads by 12 points nationwide: POLL"
+    excerpt: "Joe Biden holds a 17-point lead over Donald Trump in trust to handle the coronavirus pandemic in a new ABC News/Washington Post poll, powering the Democrat to a double-digit advantage in vote preference with the presidential election three weeks away."
+    publishedDateTime: 2020-10-11T04:39:00Z
+    webUrl: "https://abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/powered-trust-pandemic-biden-leads-12-points-nationwide/story?id=73528233"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 75
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://cdnph.upi.com/ph/st/th/2981601634909/2020/upi/c2043754f4b2fa79bed5d222b660c642/v1.5/Jim-Carrey-becomes-Joe-Biden-in-Saturday-Night-Live-teaser.jpg?lg=2"
-        width: 800
-        height: 532
+      - url: "https://s.abcnews.com/images/Politics/biden-plumbers-main_hpMain_20201010-193754_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "All eyes on Ohio with Joe Biden's visit to Cincinnati and Toledo"
-    excerpt: "Former Vice President Joe Biden will visit Cincinnati this afternoon, an indication his campaign sees Ohio as competitive for the Democratic presidential nominee. Biden's Cincinnati visit is an invitation-only voter mobilization event and will follow social distancing and masking guidelines."
-    publishedDateTime: 2020-10-12T13:31:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/12/election-2020-biden-visit-shows-ohio-play-democrats/5965538002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5965538002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5965538002"
+  - title: "The Finance 202: Joe Biden's tax plan would barely dent growth, conservative group finds"
+    excerpt: "President Trump says Joe Biden’s tax plan would bring about a depression and destroy the country. Independent studies have found no support for that claim. And the latest, an updated examination of the Biden proposal from the right-leaning American Enterprise Institute,"
+    publishedDateTime: 2020-10-14T12:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/14/finance-202-joe-biden-tax-plan-would-barely-dent-growth-conservative-group-finds/?outputType=amp"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 75
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SXMCJFAN2QI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 983
         isCached: true
-  - title: "Sixers’ Doc Rivers ‘honored’ to be quoted by Joe Biden during campaign speech in Gettysburg"
-    excerpt: "The Philadelphia 76ers hired former Los Angeles Clippers, Boston Celtics and Orlando Magic head coach Doc Rivers to replace Brett Brown."
-    publishedDateTime: 2020-10-08T12:08:00Z
-    webUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html"
-    ampWebUrl: "https://www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/sports/2020/10/sixers-doc-rivers-honored-to-be-quoted-by-joe-biden-during-campaign-speech-in-gettysburg.html?outputType=amp"
+  - title: "Connie Chung endorses Joe Biden for president..."
+    excerpt: "Watch \"Connie Chung endorses Joe Biden for president\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-09T15:32:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201009152108-connie-chung-endorses-joe-biden-for-president/"
     type: article
     provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 65
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7CI2PXOSQNBGHBJQEZBHJSFHWU.jpg"
-        width: 5654
-        height: 3769
-        isCached: true
-  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
-    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
-    publishedDateTime: 2020-10-12T00:40:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 65
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07190842_1602257232.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Campaign Event in Las Vegas"
-    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas, Nevada."
-    publishedDateTime: 2020-10-12T15:33:00Z
-    webUrl: "https://www.c-span.org/video/?476748-1/joe-biden-campaign-event-las-vegas"
+  - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
+    excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
+    publishedDateTime: 2020-10-13T22:24:00Z
+    webUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/"
+    ampWebUrl: "https://sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    cdnAmpWebUrl: "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/2020/10/13/joe-biden-wins-california-students-mock-election/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 65
+  - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
+    excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
+    publishedDateTime: 2020-10-06T22:21:00Z
+    webUrl: "https://www.c-span.org/video/?c4912952/joe-biden-appeals-national-unity-return-bipartisanship"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4912952"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4912952"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
-    quality: 35
+    quality: 55
+  - title: "Endorsement: Pennsylvania needs Joe Biden"
+    excerpt: "From COVID-19 to the environment to racial justice, Donald Trump has failed. Joe Biden and Kamala Harris can set us on a new course. The stakes for Pennsylvanians could not be higher."
+    publishedDateTime: 2020-10-11T09:16:00Z
+    webUrl: "https://www.inquirer.com/opinion/editorials/a/philadelphia-inquirer-2020-endorsements-biden-trump-20201011.html"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 55
+    images:
+      - url: "https://www.inquirer.com/resizer/xv0aCzajDcue01kI6g9qRH2zP5Q=/1200x0/center/middle/www.inquirer.com/resizer/58G0AwdvoBWhoRhhb87lE6fkog8=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/4ZLGKDUXCZE6BHWZOQFEF4FPEY.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "nRNT3P42E2cDq11ZPJ5wFK/j00796x58aSlvWwlZ6mB7jxlknEr1aftxyHY6ZkjgfULZfRereonsJdRUbLx8KdDepb0Yd7U2OhBMvBUWcWi3aDQUom4W1h7i5AbAqzVkgWR7ylKQixbTw3+zdEoVUGHXbrlVQ+3vfyFXCY77uOM6TykKXF2A4HrojEq3QNkOyBKm2JKKjgJsig2obgb9e3unb6KW8ujihlwWQe6BQ//rBpE3JCDRlfGZWEsuGBd+MfZtw5o7MdIbQ70XN/6a5yAAzezp17Yf/OsBIUTokai3GMrENrIPZcXPazMGuoXLNbtABqAe1sAfhzKgNXH3QH4OX4D6m2zOeWFtKqnel93RROhL+QMaYXG+3X2bSEXl4IRx9esk2prBHjnihvTUS2DhHKHXBvnL3xcvp6hZnupz1E3GqqksNm0g1IjIXy9dqxal8EOdbSb8gyxjW0r0zh+HQ271oYVakYethyv8cRytXItNeKzwxFtpeo6qqyCMXIYk6EEOZWu6049NIuQE6w==;E6N+j6h2Sfr1paiyo2/aCg=="
 ---

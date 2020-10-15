@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "David Brooks column: Kamala Harris knows how to win elections"
+    excerpt: "This has turned into the least ideological election in recent times. The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Trump. How to beat COVID-19."
+    publishedDateTime: 2020-10-09T14:36:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris: Black Americans have been 'disproportionately harmed' by Trump"
     excerpt: "Kamala Harris Kamala Harris Scott Walker helping to prep Pence for debate against Harris: report California family frustrated that governor, Harris used fire-damaged property for 'photo opportunity' Moderna releases coronavirus vaccine trial plan as enrollment pushes toward 30,"
     publishedDateTime: 2020-09-18T21:26:00Z
@@ -111,22 +127,6 @@ related:
         width: 372
         height: 545
         isCached: true
-  - title: "Kamala Harris: From historic to invisible"
-    excerpt: "If Kamala Harris were to be campaigning aggressively, not only could it draw the spotlight from President Trump, but it would inadvertently put it on Biden."
-    publishedDateTime: 2020-09-21T16:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible"
-    ampWebUrl: "https://thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/517325-kamala-harris-from-historic-to-invisible?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe2_08120202getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump says Kamala Harris 'can't' be the first woman president because she 'comes in through the backdoor'"
     excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
     publishedDateTime: 2020-09-18T19:03:00Z
@@ -158,6 +158,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/iNTTQCiL-41K_aHiaILUkZeFO-Y=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/V24W2ICUZFDCHN37MYATMUUPSI.jpg"
         width: 1200
         height: 796
+        isCached: true
+  - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
+    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
+    publishedDateTime: 2020-09-18T19:03:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
+        width: 1019
+        height: 509
         isCached: true
   - title: "Barack Obama and Kamala Harris both identify as Black. The news media doesn’t describe both that way."
     excerpt: "Kamala D. Harris and her historic nomination in the month since she was announced as Democratic presidential nominee Joe Biden’s running mate. As the first Black man and woman to run on a major party ticket,"
@@ -568,22 +584,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2020/09/AP20259741301188.jpg?w=1024&h=683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Supreme Court fight could elevate Kamala Harris’ profile | Raleigh News & Observer"
-    excerpt: "Kamala Harris is poised to become a leading figure in the Democratic opposition to President Donald Trump’s Supreme Court pick."
-    publishedDateTime: 2020-09-21T16:15:00Z
-    webUrl: "https://www.newsobserver.com/news/article245896005.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/article245896005.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article245896005.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 69
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/357e4ec8-fe39-477a-a2fa-11d402b31f04/425cb0cf-3973-4545-b702-f27e6c0d555f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Maya Rudolph wins Emmy as Kamala Harris; Jason Bateman given Ron Cephas Jones' award"
     excerpt: "Maya Rudolph won a Creative Arts Emmy for her \"SNL\" role as Kamala Harris, and a ceremony gaffe crowned Jason Bateman instead of Ron Cephas Jones."

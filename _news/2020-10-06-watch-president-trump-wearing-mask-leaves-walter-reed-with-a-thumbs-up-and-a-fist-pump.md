@@ -27,28 +27,28 @@ images:
     isCached: true
 
 related:
-  - title: "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election"
-    excerpt: "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,"
-    publishedDateTime: 2020-10-12T07:41:00Z
-    webUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208"
-    ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
+  - title: "Trump went even further than other uber-rich to shrink taxes"
+    excerpt: "The tax-avoidance strategies that President Donald Trump capitalized on to shrink his tax burden to essentially zero are surprisingly common among major real estate developers and other uber-wealthy A"
+    publishedDateTime: 2020-09-28T20:43:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-uber-rich-shrink-taxes-73298909"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1649423/proud-boys.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_80af834ae16d4dd1a690ca20179de75e_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump takes to Twitter to make pitch to voters from Walter Reed"
-    excerpt: "President Trump on Monday fired off a string of tweets calling on his supporters to vote while he continues to receiving treatment at Walter Reed National Military Medical Center after testing positive for the coronavirus last week."
-    publishedDateTime: 2020-10-05T13:20:00Z
-    webUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed"
-    ampWebUrl: "https://thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519584-trump-makes-pitch-to-voters-via-twitter-from-walter-reed?amp"
+  - title: "Dan Rather criticizes Trump over Walter Reed 'photo ops'"
+    excerpt: "Veteran news anchor Dan Rather on Sunday issued a pair of tweets criticizing President Trump for his brief appearance in an SUV outside Walter Reed Medical Center as just the latest in a series of what Rather referred to as “photo ops."
+    publishedDateTime: 2020-10-05T15:56:00Z
+    webUrl: "https://thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops"
+    ampWebUrl: "https://thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/519614-dan-rather-criticizes-trump-over-photo-ops?amp"
     type: article
     provider:
       name: The Hill
@@ -59,222 +59,143 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Oil prices gain on supply disruptions, Trump's hospital exit"
-    excerpt: "Oil prices gained on Tuesday amid supply disruptions in Norway, a new hurricane in the Gulf of Mexico, and U.S. President Donald Trump's return to the White House after being treated for COVID-19 in hospital."
-    publishedDateTime: 2020-10-06T10:19:00Z
-    webUrl: "https://www.reuters.com/article/us-global-oil/oil-prices-climb-as-trumps-return-to-white-house-calms-nerves-idUSKBN26R05A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05G"
+  - title: "Trump trip from hospital to wave at fans endangers others, doctor warns"
+    excerpt: "U.S. President Donald Trump briefly left the military hospital where he is being treated for COVID-19 in a motorcade on Sunday to wave to supporters gathered outside, sparking criticism that he was putting others at risk for a political stunt."
+    publishedDateTime: 2020-10-05T05:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-motorcade-idUSL1N2GV0CB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q01T"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q01T"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501T"
-        width: 827
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536150501&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9400V"
+        width: 885
         height: 545
         isCached: true
-  - title: "President Trump will be discharged from Walter Reed, doctors say"
-    excerpt: "Dr. Sean Conley said the president \"may not be out of the woods yet,\" but he is healthy enough to return to the White House."
-    publishedDateTime: 2020-10-05T19:27:00Z
-    webUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f7b3460282c500018c78907?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's Columbus Day proclamation includes stark warnings"
-    excerpt: "President Donald Trump’s proclamation Friday commemorating Columbus Day includes stark warnings of “radical activists” seeking to tarnish the explorer’s legacy"
-    publishedDateTime: 2020-10-10T02:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2ce87445e0364020bc9de911a121d356_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "White Christian Support For Trump Down Since August, Poll Finds"
-    excerpt: "Among Catholics, Trump now trails Biden, a Catholic, 44% to 51%, with Hispanic Catholics overwhelmingly favoring Biden 67% to 26%."
-    publishedDateTime: 2020-10-13T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/"
-    ampWebUrl: "https://www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8609c584539e20a9353d59%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D217%26cropY2%3D1905"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Twitter suspends accounts of alleged Black Trump supporters over spam, manipulation"
-    excerpt: "Twitter Inc on Tuesday said it suspended a group of accounts that claimed to be owned by African-American supporters of President Donald Trump and his re-election campaign due to spam and platform manipulation."
-    publishedDateTime: 2020-10-14T01:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-twitter-disinformation-idUSKBN26Y2ZM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
+  - title: "Trump campaign slams plan to change debate rules after unruly Cleveland encounter"
+    excerpt: "President Donald Trump's re-election campaign on Thursday rejected calls for new rules to govern the next two debates between him and Democratic challenger Joe Biden, after a first matchup marred by constant interruptions and outbursts."
+    publishedDateTime: 2020-10-02T02:58:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idINKBN26M7DZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26M7DZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26M7DZ"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 119
+    quality: 120
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537348147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C1UL"
-        width: 817
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201001&t=2&i=1535768168&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9054P"
+        width: 877
         height: 545
         isCached: true
-  - title: "Bob Dole says none of his Republican friends on the presidential debate commission support Trump"
-    excerpt: "The former GOP senator and presidential nominee called the nonpartisan organization \"biased\" after it canceled an upcoming debate amid health concerns."
-    publishedDateTime: 2020-10-10T14:21:00Z
-    webUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f81abdbbab422001979a977?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "Black voters explain support for Trump"
-    excerpt: "Weeks before the election, three Black supporters of President Donald Trump sit down with the Associated Press to discuss their allegiance to the President. They know their opinions may be in the minority within their community."
-    publishedDateTime: 2020-10-14T05:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/black-voters-explain-support-trump/3648789001/"
+  - title: "Trump wants to run on his record. We hope he does. It's been a disaster for America."
+    excerpt: "Trump's historically, mind-bogglingly bad record is on the ballot. He has destroyed lives and livelihoods, weakened America and risked our democracy."
+    publishedDateTime: 2020-09-28T07:29:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/09/28/donald-trump-disastrous-record-2020-election-referendum-column/3517533001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3517533001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3517533001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d80e50a0-6811-477e-abfb-01a812a17f98_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/de4cfbdd-28ba-44c0-996c-54de93022efb-AP_Mary_Trump_Lawsuit.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
-    excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
-    publishedDateTime: 2020-10-14T21:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-third-term-election-2024-constitution-2020-10"
+  - title: "After tell-all book, Mary Trump sues President Trump and his siblings, claims they cheated her of millions"
+    excerpt: "According to the lawsuit, Donald Trump and his siblings devalued niece Mary Trump's interests by millions of dollars."
+    publishedDateTime: 2020-09-24T19:01:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/books/2020/09/24/donald-trump-niece-mary-trump-sues-him-fraud-after-book/3520817001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3520817001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3520817001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mary Trump says her uncle will go 'farther than you can possibly imagine' to hold onto power if he loses the election as he's afraid of prosecution"
+    excerpt: "In a recent memoir, Mary Trump alleged that a damaged childhood has left the president with pathological personality traits."
+    publishedDateTime: 2020-09-25T12:26:00Z
+    webUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-take-trumps-election-result-refusal-threat-seriously-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 77
+    quality: 102
     images:
-      - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f5391ff7ed0ee001e25db60?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump criticized for leaving hospital to greet supporters"
-    excerpt: "US President Donald Trump sparked an angry backlash from the medical community Sunday with a protocol-breaking visit to his supporters outside the hospital where he is being treated for the highly-infectious,"
-    publishedDateTime: 2020-10-05T11:28:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-criticized-for-leaving-hospital-to-greet-supporters/amp/"
+  - title: "Mueller issues a rare public statement disputing his former right-hand man's claim that he didn't pursue Trump hard enough"
+    excerpt: "\"When important decisions had to be made, I made them,\" former special counsel Robert Mueller said about his investigation."
+    publishedDateTime: 2020-09-29T19:13:00Z
+    webUrl: "https://www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mueller-issues-statement-disputing-andrew-weissmann-book-2020-9?amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP-1.jpg"
-        width: 619
-        height: 413
+      - url: "https://i.insider.com/5f737fcb0ab50d00184ad126?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
-    excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
-    publishedDateTime: 2020-10-13T17:00:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
+  - title: "Rose Garden announcement of Supreme Court nominee potential 'super spreader' event, with Trump plus seven others getting COVID"
+    excerpt: "Trump and Hicks may have exposed scores of other people to COVID-19, including his top advisers, his campaign donors and his Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-03T02:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/02/how-did-trump-get-covid-and-who-has-he-infected/3590490001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3590490001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3590490001"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 72
+      name: USA Today
+      domain: usatoday.com
+    quality: 97
     images:
-      - url: "https://media.vanityfair.com/photos/5f85d3d4b13a7bb1006f71b8/master/pass/donaldtrumprally.jpg"
-        width: 2000
-        height: 1348
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/e509f056-849b-436d-aad7-f0614261ba9a-Amy_Coney_Barrett_05.JPG?auto=webp&crop=4766,2681,x0,y7&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
-    excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
-    publishedDateTime: 2020-10-14T14:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
+  - title: "Why Donald Trump's Former Housekeeper—and Millions of Other American Workers—Paid More in Federal Taxes Than Her Boss"
+    excerpt: "Sandra Diaz, Donald Trump's former housekeeper, is not alone in paying more federal income taxes than Trump before his presidency."
+    publishedDateTime: 2020-09-30T21:04:00Z
+    webUrl: "https://time.com/5894381/tax-code-wealthy/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
+      name: Time
+      domain: time.com
+    quality: 82
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Report: Some People Thinking a Drug-Addled Maniac (Donald Trump) Shouldn’t Be in Charge of the Nuclear Codes"
-    excerpt: "The New York Times reports that while some national security experts have long argued that the POTUS should not have “the unchecked authority” to launch nuclear weapons, Trump’s long rants—described by one doctor as “steroid-induced psychosis”—and wildly erratic behavior since he was put on experimental medications after testing positive for COVID-19 have underscored the danger of giving a total lunatic the power to nuke another country."
-    publishedDateTime: 2020-10-12T18:46:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 56
-    images:
-      - url: "https://media.vanityfair.com/photos/5f71fc761974fdefdd159dfd/master/pass/trump-tik-tok.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Trump Gathers Supporters At White House, Plans More Rallies"
-    excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
-    publishedDateTime: 2020-10-10T18:46:00Z
-    webUrl: "https://www.ibtimes.com/trump-gathers-supporters-white-house-plans-more-rallies-3060042"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
+      - url: "https://api.time.com/wp-content/uploads/2020/09/trump-tax-wealthy.jpg"
         width: 1024
-        height: 682
+        height: 683
         isCached: true
-  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
-    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
-    publishedDateTime: 2020-10-14T03:27:00Z
-    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
+  - title: "The Latest: Trump’s Diagnosis a Reminder US Cases on Rise"
+    excerpt: "The news of President Donald Trump’s coronavirus diagnosis serves as a reminder of the pervasive spread of the coronavirus in the United States."
+    publishedDateTime: 2020-10-03T21:31:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-03/the-latest-australian-state-worried-about-mall-outbreak?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "xeKNw+diSyuCL+oVA1zocc3kMezID0bMay4TNrERlXk81exZ3jNOEEYu+pW3o/ZI++1MBoGwVN5k6nG+WVou+7aExXdkqnMzZJC3XymRLwrwpCvucodpCrLl2QfVqAvM6If2nhecZWegwCZzyOTXPdwoGuISgV785zSgUuCqkTtOUYcD2s5ZBbxK15gNv+96c/fYtCsNDG+ENAfLwUtGglif6klclYHWx4XUm2gMv/RwREi5/FCdIGdSf3QO/WXa619DMI8x5DGmFm6XN2jBqQ4Vt7TFWcyHAujT8OtoHNgEQqZcPym7+rodsbbDc3Xlb0/2S8hekfGEsy0/1OO75bFMnsjmiNO1pWtf2ccBNUYS+baUYpmo+47gldYSYq7W5U35pXw+dROCudasxhUeQXOz4/17diRaFpMxQ43arIs2gPrYfHtlNUo8kokIY0g88ygiO9f/LfGpVwxpAR9cihnHy0QcUjoBRuTMbl+jkaPd/+S6iD8F7LkErObhf+cGsNikE/O2vGoL3/CCkNIk+w==;WyaQ75sSnmONAewRjgBZQA=="
 ---

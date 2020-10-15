@@ -30,502 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here’s how Kamala Harris puts the nail in the Trump-Pence coffin"
-    excerpt: "Harris has essentially five tasks. Keep in mind that we should expect a much smaller audience for next week’s event and that the vice-presidential faceoff has never affected the outcome of the presidential contest."
-    publishedDateTime: 2020-10-01T16:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/01/heres-how-kamala-harris-puts-nail-trump-pence-coffin/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 175
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SAPLPEACWUI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump soldier Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
-    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
-    publishedDateTime: 2020-10-08T04:58:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5910000002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910000002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 166
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Briggs: Why Donald Trump chose a Mike Pence, and not a Kamala Harris, as VP"
-    excerpt: "It came as President Donald Trump tried to sort former Vice President Joe Biden into the left wing of the Democratic Party. When Biden rejected that premise, Trump altered his framing and allowed that perhaps Biden is a moderate,"
-    publishedDateTime: 2020-10-07T12:46:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/columnists/james-briggs/2020/10/07/why-donald-trump-chose-mike-pence-and-not-kamala-harris-vp/5902697002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5902697002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902697002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 163
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/08/06/PIND/e295e1fd-cd68-458a-9852-5e73a7b94bef-AP19217533857016.jpg?auto=webp&crop=5202,2927,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump's pandemic record in spotlight as Harris, Pence trade blows at VP debate"
-    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris clashed over the Trump administration's handling of the coronavirus pandemic during their debate on Wednesday, as the White House struggled to contain an outbreak that has infected President Donald Trump"
-    publishedDateTime: 2020-10-08T22:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26S1HZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1HZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1HZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 161
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536622854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9703C"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Pence-Harris VP debate to draw outsized attention after Trump's coronavirus diagnosis"
-    excerpt: "This week's vice presidential debate has taken on an outsized and perhaps unprecedented significance, with questions about President Donald Trump's health now looming over the U.S. election less than a month away."
-    publishedDateTime: 2020-10-06T10:16:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-debate-idUKKBN26R1LN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26R1LN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26R1LN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 158
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536346036&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950SZ"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Mike Pence, Kamala Harris end vice presidential debate that focused on Trump's policies"
-    excerpt: "The 90-minute exchange, the only vice presidential debate of the 2020 cycle, became – as expected -- a battle over President Donald Trump"
-    publishedDateTime: 2020-10-08T03:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/live-vice-presidential-debate-mike-pence-and-kamala-harris-square-off/5916417002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5916417002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916417002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 157
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/bf51c65e-ece4-47bf-91cc-86f7ed0aadad-AFP_AFP_8RN2T9.jpg?auto=webp&crop=5068,2851,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden Likely to Tap Kamala Harris to Prosecute Trump Court Pick"
-    excerpt: "Vice presidential nominee Kamala Harris is expected to play a prominent role in the fight against President Donald Trump’s Supreme Court nominee, though it’s not clear whether she’ll tear into pick in the same way she went after now-Justice Brett Kavanaugh,"
-    publishedDateTime: 2020-09-20T16:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-09-20/biden-likely-to-tap-kamala-harris-to-prosecute-trump-court-pick"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 155
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5e44OeJFk9U/v0/360x-1.jpg"
-        width: 360
-        height: 239
-        isCached: true
-  - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
-    excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
-    publishedDateTime: 2020-10-08T11:24:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates?page=with:block-5f7ef1228f084cdbd419120d"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/08/kamala-harris-mike-pence-debate-donald-trump-coronavirus-covid-19-joe-biden-us-election-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 151
-    images:
-      - url: "https://i.guim.co.uk/img/media/c82c94344d8151f4117124d1f760dc825408d64d/0_0_4568_2741/master/4568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=378dd08ba1e1958deebbcfd1e02ce1f1"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Harris to voters: Don't give up as Trump rushes court pick"
-    excerpt: "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election"
-    publishedDateTime: 2020-09-29T01:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden and Kamala Harris release 2019 tax returns ahead of debate"
-    excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
-    publishedDateTime: 2020-09-29T19:38:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 150
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/8410e00/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2Fe8%2Ff7ed2525455f94d478de7b80ac55%2Ftrump-and-biden.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Joe Biden's guide to shutting down Trump in the first debate"
-    excerpt: "The views expressed by contributors are their own and not the view of The Hill America now knows the unvarnished truth: Donald Trump is a fraud. After explosive reporting by the New York Times, the first presidential debate is Joe Biden Joe Biden Top House Republican calls for probe of source of NYT Trump tax documents Judge's ruling creates fresh hurdle for Trump's TikTok ban Harris says she hasn't 'made a plan one way or another' on meeting Supreme Court nominee MORE’s to lose."
-    publishedDateTime: 2020-09-29T19:35:00Z
-    webUrl: "https://thehill.com/opinion/campaign/518690-joe-bidens-guide-to-shutting-down-trump-in-the-first-debate"
-    ampWebUrl: "https://thehill.com/opinion/campaign/518690-joe-bidens-guide-to-shutting-down-trump-in-the-first-debate?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518690-joe-bidens-guide-to-shutting-down-trump-in-the-first-debate?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 150
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_080620getty_split_debates.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "When is the Mike Pence–Kamala Harris debate?"
-    excerpt: "Mike Pence and Kamala Harris. Donald Trump’s vice president and Joe Biden’s running mate will face off against each other"
-    publishedDateTime: 2020-09-30T20:15:00Z
-    webUrl: "https://www.marketwatch.com/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30?mod=hp_minor_pos20"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/when-is-the-mike-pence-kamala-harris-debate-2020-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 150
-    images:
-      - url: "https://s.marketwatch.com/public/resources/images/MW-IP742_vp_deb_ZG_20200930125912.jpg"
-        width: 1320
-        height: 742
-        isCached: true
-  - title: "Kamala Harris v Mike Pence: Why this vice-president debate matters"
-    excerpt: "This promises to be a vice-presidential debate like no other. Some have even called it the most important in history, since it comes as the US president is ill with Covid 19, a virus that's claimed 200,"
-    publishedDateTime: 2020-10-06T16:29:00Z
-    webUrl: "https://www.bbc.com/news/election-us-2020-54423497?at_campaign=64&at_custom1=%5Bpost+type%5D&at_custom2=twitter&at_custom4=EF61B15C-0847-11EB-A866-86004844363C&at_medium=custom7"
-    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54423497"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54423497"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 150
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D245/production/_114792835_vp_debates_index_promo976.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Kamala Harris vs. Mike Pence on the issues: Abortion"
-    excerpt: "She presented a landmark plan to protect abortion rights. Vice President Mike Pence and Sen. Kamala Harris are set to face off on Wednesday in a debate bound to display their drastically opposing views on the issue,"
-    publishedDateTime: 2020-10-07T10:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-mike-pence-issues-abortion/story?id=73363088"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-mike-pence-issues-abortion/story?id=73363088"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-mike-pence-issues-abortion/story?id=73363088"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/supreme-court-abortion-gty-jc-201001_1601564460185_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Pence, Harris to clash in VP debate amid White House virus outbreak"
-    excerpt: "Vice President Mike Pence and Democratic challenger Kamala Harris will square off on Wednesday in their only debate, as President Donald Trump's coronavirus diagnosis and the ongoing pandemic continue to roil the U."
-    publishedDateTime: 2020-10-07T10:20:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN26S1HZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S1IB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S1IB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536509787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9610I"
-        width: 848
-        height: 545
-        isCached: true
-  - title: "Plexiglass goes up for Pence-Harris vice-presidential debate tonight"
-    excerpt: "Vice President Mike Pence and his Democratic challenger, California Sen. Kamala Harris, are set to face off in a debate Wednesday night."
-    publishedDateTime: 2020-10-07T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-vice-presidential-debate-harris-pence-20201007-hoc6io6zvjamjm6afs3enxmdpm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-vice-presidential-debate-harris-pence-20201007-hoc6io6zvjamjm6afs3enxmdpm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-vice-presidential-debate-harris-pence-20201007-hoc6io6zvjamjm6afs3enxmdpm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 150
-    images:
-      - url: "https://www.chicagotribune.com/resizer/tEgh_Yeoak0kE8gWHPW0EVLZBiI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3JWKCJSMYNAFBVCXIKVAVMIH7M.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fact-checking Mike Pence and Kamala Harris on claims from the VP debate"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris tussled Wednesday in the first and only vice presidential debate before the Nov. 3 election, coming as the coronavirus sidelined President Donald Trump at the White House."
-    publishedDateTime: 2020-10-08T02:09:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 150
-    images:
-      - url: "https://www.chicagotribune.com/resizer/48iZPIOdfCSQE1BVnQr9t4943kk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BBWARIXL5BDKZK3BNBZEZGOGVI.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Factbox: Quotes from the Kamala Harris-Mike Pence debate"
-    excerpt: "Republican Vice President Mike Pence and Democratic challenger Kamala Harris squared off on Wednesday evening in Salt Lake City, Utah, ahead of the Nov. 3 election. Here are some of key quotes from the debate,"
-    publishedDateTime: 2020-10-08T02:24:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-debate-quotes-factbox-int/factbox-quotes-from-the-kamala-harris-mike-pence-debate-idUSKBN26T04W"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T04W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T04W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 150
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201008&t=2&i=1536635399&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9703Z"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "VP debate live updates: Pence vs. Harris and what you need to know"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris of California will debate in Salt Lake City on Tuesday in the sole matchup between the 2020 vice presidential candidates."
-    publishedDateTime: 2020-10-08T01:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/vice-presidential-debate/?id=73444390"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/vice-presidential-debate/?id=73444390"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/vice-presidential-debate/?id=73444390"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 150
-    images:
-      - url: "https://s.abcnews.com/images/Politics/harris-pence-vp-debate-02-gty-jef-201007_1602120753578_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "How Pence, Harris compared in the vice presidential debate"
-    excerpt: "A USA TODAY debate analysis found Pence talked over Harris and exceeded his allotted speaking time more often than the senator. Here's how the candidates compared: More: Trump, Biden debate was exchange of insults and incivility."
-    publishedDateTime: 2020-10-08T22:55:00Z
-    webUrl: "https://www.usatoday.com/in-depth/news/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-fly-susan-page/5921584002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5921584002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921584002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 150
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/6af2fcd0-d0bf-46dc-ae3d-1dee8cb1894c-VP-debate-topper_Promp.jpg?auto=webp&crop=1961,1103,x279,y885&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Fly on Pence's Head Has Its Own Remix, Starring Kamala Harris"
-    excerpt: "Now, one person has gifted Twitter with this surprisingly catchy remix about the fly on Pence's head, that uses chopped-up bits of audio from the debate. Thanks to the editing, Harris sounds like she's telling Pence,"
-    publishedDateTime: 2020-10-08T21:08:00Z
-    webUrl: "https://www.newsweek.com/fly-pences-head-has-its-own-remix-starring-kamala-harris-1537633"
-    ampWebUrl: "https://www.newsweek.com/fly-pences-head-has-its-own-remix-starring-kamala-harris-1537633?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fly-pences-head-has-its-own-remix-starring-kamala-harris-1537633?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 150
-    images:
-      - url: "https://d.newsweek.com/en/full/1648369/kamala-harris.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Vice President Mike Pence defends Trump holding rallies amid coronavirus"
-    excerpt: "Vice President Mike Pence defended Donald Trump's decision to hold rallies at which COVID-19 guidelines were ignored."
-    publishedDateTime: 2020-09-24T08:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/pence-defends-trump-holding-rallies-amid-coronavirus-election/story?id=73168365"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 149
-    images:
-      - url: "https://s.abcnews.com/images/Politics/mike-pence-linsey-davis-interview-03-abc-jc-200923_1600889779907_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "See what they paid: Joe Biden and Kamala Harris release 2019 tax returns"
-    excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
-    publishedDateTime: 2020-09-29T23:15:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2020-09-29/the-latest-biden-releases-2019-tax-returns-ahead-of-debate?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 149
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/ec592ed/2147483647/strip/true/crop/840x549+0+6/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F82%2Fca%2F029f27374a97b03c9146222a66e7%2Fca-times.trump-tax-thumb.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Kamala Harris Wishes Donald Trump a 'Full and Speedy' Recovery From COVID"
-    excerpt: "Following the president's announcement that he tested positive for COVID-19 on Thursday, Kamala Harris has wished him and the first lady her well-wishes."
-    publishedDateTime: 2020-10-02T14:37:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-donald-trump-covid-coronavirus-1535960?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 149
-    images:
-      - url: "https://d.newsweek.com/en/full/1645144/kamala-harris.jpg"
-        width: 1024
-        height: 703
-        isCached: true
-  - title: "Mike Pence should have self-quarantined instead of debating Kamala Harris"
-    excerpt: "After all the hubbub over the plexiglass dividers placed between Vice President Pence and Democratic vice presidential nominee Sen. Kamala D. Harris (Calif.), it turned out that Pence would have been wise to duck out altogether."
-    publishedDateTime: 2020-10-08T04:00:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/mike-pence-should-have-self-quarantined-instead-debating-kamala-harris/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/mike-pence-should-have-self-quarantined-instead-debating-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/mike-pence-should-have-self-quarantined-instead-debating-kamala-harris/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 149
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WRGEZVQJBYI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump insults Harris as 'a monster' morning after vice presidential debate"
-    excerpt: "President Donald Trump insulted Sen. Kamala Harris as a \"monster\" and a \"communist\" in a Fox Business interview the morning after the vice presidential debate."
-    publishedDateTime: 2020-10-08T14:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-insults-harris-monster-morning-vice-presidential-debate/story?id=73498918"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insults-harris-monster-morning-vice-presidential-debate/story?id=73498918"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insults-harris-monster-morning-vice-presidential-debate/story?id=73498918"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 148
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-04-vp-debate-rt-jef-201007_1602129407129_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
-    excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
-    publishedDateTime: 2020-10-07T09:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/07/kamala-harris-and-mike-pence-how-watch-vice-presidential-debate-coronavirus/5902556002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5902556002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5902556002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 147
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/2cab1076-4091-4494-8a23-6078c9c53217-GTY_1278829734.jpg?auto=webp&crop=8191,4608,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
-    excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris. Date: Wednesday, October 7, 2020. Location: Universi"
-    publishedDateTime: 2020-10-05T11:05:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-time-channel-online-watch-2020-10-07/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 146
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
-    excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris; Date: Wednesday, October 7, 2020; Location: Universi"
-    publishedDateTime: 2020-10-06T16:56:00Z
-    webUrl: "https://www.cbsnews.com/news/vice-presidential-debate-mike-pence-kamala-harris-watch-time-channel-online-watch-2020-10-07/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-watch-time-channel-online-watch-2020-10-07/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vice-presidential-debate-mike-pence-kamala-harris-watch-time-channel-online-watch-2020-10-07/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 146
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/04/19def6a2-ce46-4d7c-aef0-ef22b057d114/thumbnail/1200x630/81909c8d04ab0054ef6b66ffc61d14a9/ap-20276586203171.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Kamala Harris Favorite to Win in 2024 After Debate, Mike Pence's Odds Lengthen"
-    excerpt: "After the debate, Harris' odds shortened to 3/1, while Pence's odds lengthened to 33-1. She was also judged to have won Tuesday's debate, according to a snap CNN poll."
-    publishedDateTime: 2020-10-08T15:59:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-favorite-win-2024-debate-mike-pence-odds-lengthen-1537543"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-favorite-win-2024-debate-mike-pence-odds-lengthen-1537543?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-favorite-win-2024-debate-mike-pence-odds-lengthen-1537543?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 146
-    images:
-      - url: "https://d.newsweek.com/en/full/1647987/kamala-harris-debate.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Harris: 'Insulting' to suggest she or Biden would attack someone for their faith"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Wednesday shot back at Vice President Pence after he accused Democrats of targeting Supreme Court nominee Amy Coney Barrett over her Catholic faith,"
-    publishedDateTime: 2020-10-08T03:24:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520126-harris-insulting-to-suggest-she-or-biden-would-attack-someone-for-their"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520126-harris-insulting-to-suggest-she-or-biden-would-attack-someone-for-their?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520126-harris-insulting-to-suggest-she-or-biden-would-attack-someone-for-their?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 145
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala5_10072020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "White House says Trump 'not incapacitated,' working from isolation; Pence negative"
     excerpt: "The White House tried to reassure Americans on Friday that President Donald Trump was still working from isolation, after his bombshell announcement that he had caught the coronavirus threw the administration and presidential election campaign into uncertainty."
     publishedDateTime: 2020-10-02T15:14:00Z
@@ -542,117 +46,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
-    excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
-    publishedDateTime: 2020-10-08T02:57:00Z
-    webUrl: "https://abcnews.go.com/Politics/fact-checking-2020-vice-presidential-debate-mike-pence/story?id=73464669"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/fact-checking-2020-vice-presidential-debate-mike-pence/story?id=73464669"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fact-checking-2020-vice-presidential-debate-mike-pence/story?id=73464669"
+  - title: "Biden preps for personal attacks from Trump ahead of Tuesday’s debate"
+    excerpt: "A tale of two campaigns is emerging ahead of the first face-to-face meeting in the general election between President Donald Trump and former Vice President Joe Biden Tuesday night on the presidential debate stage."
+    publishedDateTime: 2020-09-27T17:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-preps-personal-attacks-trump-ahead-tuesdays-debate/story?id=73275040"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 143
+    quality: 140
     images:
-      - url: "https://s.abcnews.com/images/Politics/harris-pence-vp-debate-02-gty-jef-201007_1602120753578_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-ap-jef-200920_1600623548064_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "LIVE: Fact-checking the vice presidential debate between Mike Pence and Kamala Harris"
-    excerpt: "Wednesday's debate will likely be a referendum on the Trump administration's handling of COVID-19 as Trump himself grapples with the disease."
-    publishedDateTime: 2020-10-08T01:02:00Z
-    webUrl: "https://www.businessinsider.com/fact-check-vice-president-election-debate-mike-pence-kamala-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fact-check-vice-president-election-debate-mike-pence-kamala-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fact-check-vice-president-election-debate-mike-pence-kamala-harris-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 143
-    images:
-      - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "What Time Is the Vice Presidential Debate Tonight Between Kamala Harris and Mike Pence?"
-    excerpt: "The vice presidential debate between California Senator Kamala Harris and Vice President takes place tonight. The debate is the second in a series of presidential debates, following the first debate between President Donald Trump and former Vice President Biden."
-    publishedDateTime: 2020-10-07T15:00:00Z
-    webUrl: "https://www.newsweek.com/what-time-vice-presidential-debate-tonight-kamala-harris-mike-pence-1537012"
-    ampWebUrl: "https://www.newsweek.com/what-time-vice-presidential-debate-tonight-kamala-harris-mike-pence-1537012?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/what-time-vice-presidential-debate-tonight-kamala-harris-mike-pence-1537012?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 142
-    images:
-      - url: "https://d.newsweek.com/en/full/1646992/vice-presidential-debate.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Taylor Swift backs Joe Biden and Kamala Harris in first public presidential endorsement"
-    excerpt: "\"Under their leadership, I believe America has a chance to start the healing process it so desperately needs,\" Swift said in an interview for V Magazine."
-    publishedDateTime: 2020-10-08T04:19:00Z
-    webUrl: "https://www.cbsnews.com/news/taylor-swift-endorses-joe-biden-kamala-harris-president/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/taylor-swift-endorses-joe-biden-kamala-harris-president/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/taylor-swift-endorses-joe-biden-kamala-harris-president/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 142
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/01/24/c5ecc6b0-4568-4222-96b4-8ce82a6486c5/thumbnail/1200x630/aee0aad1a06963fdfce45e9eca24b41e/gettyimages-1170383972.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Yes, Kamala Harris doubts Trump on the vaccine, but with good reason"
-    excerpt: "Kamala D. Harris was pathetic for expressing doubt about taking President Trump’s word that a rushed vaccine trotted out before the election would be safe and effective. She outlined her reasons for doubting the president’s word."
-    publishedDateTime: 2020-09-13T21:21:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/yes-kamala-harris-doubts-trump-on-the-vaccine-but-with-good-reason/2020/09/13/d64668cc-f2c4-11ea-8025-5d3489768ac8_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7376DOHTVYI6VGM4M77XX5VJ2I.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Five things to watch in the first Trump-Biden debate"
-    excerpt: "President Donald Trump and former Vice President Joe Biden square off on Tuesday in their first presidential debate. With five weeks to go until the Nov. 3 general election, the stakes are high."
-    publishedDateTime: 2020-09-28T10:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26J1HD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J1HD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J1HD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535186866&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG8R0VS"
-        width: 640
-        height: 426
-        isCached: true
-  - title: "Here’s How Trump Handed Biden A Critical Advantage In The Debates"
-    excerpt: "Even as he now seeks to cast Biden as an experienced and formidable debater, Trump can’t seem to stop lowering expectations to the floor for his opponent."
-    publishedDateTime: 2020-09-27T17:03:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/27/heres-how-trump-handed-biden-a-critical-advantage-in-the-debates/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/09/27/heres-how-trump-handed-biden-a-critical-advantage-in-the-debates/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/09/27/heres-how-trump-handed-biden-a-critical-advantage-in-the-debates/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 140
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f70c41c2e45f65630144241%2F0x0.jpg%3FcropX1%3D357%26cropX2%3D4104%26cropY1%3D412%26cropY2%3D2520"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Pence takes lead role in campaign with Trump travel stopped"
     excerpt: "Vice President Mike Pence is taking the lead role in campaigning, starting a swing through key states to bolster the president’s chance for reelection"
@@ -670,101 +78,37 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden Says Second Debate Should Be Canceled If Trump Still Has Covid"
-    excerpt: "The former vice president also praised the use of plexiglass for the vice presidential debate and urged strict adherence to the advice of experts."
-    publishedDateTime: 2020-10-07T01:08:00Z
-    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/biden-says-second-debate-should-be-canceled-if-trump-still-has-covid/"
-    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/biden-says-second-debate-should-be-canceled-if-trump-still-has-covid/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/06/biden-says-second-debate-should-be-canceled-if-trump-still-has-covid/amp/"
+  - title: "Trump halts COVID-19 relief talks until after election"
+    excerpt: "President Donald Trump says he has instructed aides to stop negotiating on another round of COVID-19 relief until after the election"
+    publishedDateTime: 2020-10-06T19:52:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-halts-covid-19-relief-talks-election-73457593"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_359bceaed01f4df7aaad003a6ba49153_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Twitter’s New Rules Try To Prevent Election—And Trump-Related—Chaos"
+    excerpt: "The social media network announced a slew of new rules ahead of the election making it harder to spread misinformation."
+    publishedDateTime: 2020-10-09T17:33:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/09/twitter-new-rules-try-to-prevent-election-and-trump-related-chaos-misinformation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 140
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7d03337ac3813717b7a822%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2141%26cropY1%3D75%26cropY2%3D1280"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "In 2016, Mike Pence was an asset for Trump. In 2020, it’s not so clear."
-    excerpt: "Pence was a relatively popular VP pick running alongside an unpopular nominee in 2016. In 2020, though, he enters the debate as a face an unpopular coronavirus response."
-    publishedDateTime: 2020-10-07T15:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/2016-mike-pence-was-an-asset-trump-2020-its-not-so-clear/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/2016-mike-pence-was-an-asset-trump-2020-its-not-so-clear/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/2016-mike-pence-was-an-asset-trump-2020-its-not-so-clear/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-06-2020/t_bc61d02d797943d09ee1b458eb44a011_name_20200925_VP_Debates_preview_edit_00_03_46_21_Still017.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Kamala Harris Doesn't Trust Trump's Word on Vaccines. She's Not Alone"
-    excerpt: "The Democratic vice presidential candidate said she would trust medical professionals but not the president in regards to a COVID-19 vaccine."
-    publishedDateTime: 2020-10-08T08:44:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-doesnt-trust-trump-vaccines-1537331"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-doesnt-trust-trump-vaccines-1537331?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-doesnt-trust-trump-vaccines-1537331?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 140
-    images:
-      - url: "https://d.newsweek.com/en/full/1647846/kamala-harris-vice-president-debate.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Pence: 'Slanders' against Trump on armed forces 'absurd'"
-    excerpt: "Vice President Mike Pence in Wednesday night's vice presidential debate defended President Trump from allegations that he has disparaged the military and U.S. soldiers killed in action."
-    publishedDateTime: 2020-10-08T03:34:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520125-pence-slanders-against-trump-on-armed-forces-absurd"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520125-pence-slanders-against-trump-on-armed-forces-absurd?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520125-pence-slanders-against-trump-on-armed-forces-absurd?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
-    images:
-      - url: "https://thehill.com/sites/default/files/pencemike3_10072020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump just nixed the second debate. Mike Pence showed us why."
-    excerpt: "Which might help explain why he just announced that he will not attend the second presidential debate on Oct. 15th against Joe Biden, now that it will be a virtual one, as the Commission on Presidential Debates has decided."
-    publishedDateTime: 2020-10-08T15:19:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/08/trump-just-nixed-second-debate-mike-pence-showed-us-why/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/08/trump-just-nixed-second-debate-mike-pence-showed-us-why/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/trump-just-nixed-second-debate-mike-pence-showed-us-why/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 140
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-08-2020/t_9748f23eb5084b57a31cdb24ae011b15_name_c7f06388_0906_11eb_8719_0df159d14794_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Vice presidential debate live updates: Mike Pence and Kamala Harris get ready to square off"
-    excerpt: "This is CNBC's live blog for the vice presidential debate between Mike Pence and Kamala Harris. This blog will be updated throughout the evening. Watch our livestream, too."
-    publishedDateTime: 2020-10-07T23:15:00Z
-    webUrl: "https://www.cnbc.com/2020/10/07/vp-debate-2020-live-updates.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/07/vp-debate-2020-live-updates.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/07/vp-debate-2020-live-updates.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 140
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106732394-1602006305630-penkam.jpg?v=1602006362"
-        width: 1000
-        height: 714
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f809c2cde5f721bca837434%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Here are the recent times Trump, his kids and Pence have been in Arizona"
     excerpt: "In the weeks ahead of President Donald Trump's COVID-19 diagnosis, Trump, VP Mike Pence and members of their families made several stops in Arizona."
@@ -782,53 +126,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
-    excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
-    publishedDateTime: 2020-10-08T03:11:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-mr-vice-president-pence-interruptions/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-mr-vice-president-pence-interruptions/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-mr-vice-president-pence-interruptions/"
+  - title: "Trump Says He Told Aides To Stop Negotiating Stimulus Until After Election"
+    excerpt: "The president blasted Speaker Nancy Pelosi's plan as too expensive and said Senate Majority Leader Mitch McConnell should focus on the Supreme Court."
+    publishedDateTime: 2020-10-06T19:06:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/06/trump-says-he-told-aides-to-stop-negotiating-stimulus-until-after-election/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 139
+      name: Forbes
+      domain: forbes.com
+    quality: 138
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/08/6d2d21bc-527f-468c-9f29-a89bfc582811/thumbnail/1200x630/889ab825d9d57157676a9d82446415e8/ap-20282068965829.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cbe4f10f70e944148f3f0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3773%26cropY1%3D0%26cropY2%3D2123"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "The biggest moments from the 2020 vice presidential debate between Mike Pence and Kamala Harris"
-    excerpt: "Vice President Mike Pence and Senator Kamala Harris had some noteworthy moments until a fly stole the show."
-    publishedDateTime: 2020-10-08T03:50:00Z
-    webUrl: "https://www.businessinsider.com/biggest-moments-takeaways-vice-presidential-debate-pence-harris-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/biggest-moments-takeaways-vice-presidential-debate-pence-harris-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biggest-moments-takeaways-vice-presidential-debate-pence-harris-2020-10?amp"
+  - title: "Trump tells his team to end stimulus negotiations until after the election"
+    excerpt: "Trump announced on Twitter that he's ending relief negotiations, accusing Democrats of \"not acting in good faith.\""
+    publishedDateTime: 2020-10-06T19:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ends-stimulus-negotiations-until-after-presidential-election-economic-recovery-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 138
     images:
-      - url: "https://i.insider.com/5f7e77a5282c500018c79433?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7cbde4282c500018c78f05?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "1st Trump-Biden Presidential Debate Was ‘Exhausting,’ 8 Things To Do To Recover"
-    excerpt: "U.S. President Donald Trump began interrupting Democratic challenger and former Vice-President Joe Biden and then moderator Chris Wallace. It all went downhill from there."
-    publishedDateTime: 2020-10-01T17:24:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/09/30/1st-trump-biden-presidential-debate-was-exhausting-how-to-do-a-mental-cleanse/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 136
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f740c57426d5c99d5ae7afa%2F0x0.jpg"
-        width: 1200
-        height: 809
         isCached: true
   - title: "How Mike Pence could temporarily assume control if Trump becomes incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
@@ -846,67 +174,19 @@ related:
         width: 768
         height: 545
         isCached: true
-  - title: "Plexiglass and 12 feet apart: Mike Pence, Kamala Harris have new rules for vice presidential debate"
-    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
-    publishedDateTime: 2020-10-05T23:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3630292001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3630292001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "The prosecutor vs. the 'king of sound bites': Why the Harris-Pence debate is no ordinary VP faceoff"
-    excerpt: "Even before President Trump's hospitalization from COVID-19, there were many reasons why the vice presidential debate could draw more viewers than usual."
-    publishedDateTime: 2020-10-06T19:11:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/06/mike-pence-kamala-harris-debate-prosecutor-king-sound-bites/5878293002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5878293002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5878293002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 136
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Former Pence aide: White House staffers discussed Trump refusing to leave office"
-    excerpt: "A former aide to Vice President Pence said that White House staffers have privately discussed a scenario in which President Trump loses the November election and refuses to leave office."
-    publishedDateTime: 2020-09-26T03:46:00Z
-    webUrl: "https://thehill.com/homenews/administration/518400-former-pence-aide-white-house-staffers-discussed-if-trump-would-leave"
-    ampWebUrl: "https://thehill.com/homenews/administration/518400-former-pence-aide-white-house-staffers-discussed-if-trump-would-leave?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/518400-former-pence-aide-white-house-staffers-discussed-if-trump-would-leave?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 135
-    images:
-      - url: "https://thehill.com/sites/default/files/trumppence_03092020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Kamala Harris and Mike Pence will reportedly be separated by plexiglass in debate on Wednesday night"
-    excerpt: "The highest profile use of plexiglass so far this election cycle came from Democrat Jaime Harrison in his debate against Republican South Carolina Sen. Lindsey Graham."
-    publishedDateTime: 2020-10-05T21:20:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-mike-pence-separated-by-plexiglass-in-debate-2020-10?amp"
+  - title: "Trump doubles down on questioning the transfer of power if he loses the election"
+    excerpt: "The president continued to spin a narrative of ballot fraud. \"We're not going to stand for it,\" he told supporters."
+    publishedDateTime: 2020-09-26T14:06:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-doubles-down-on-questioning-the-transfer-of-power-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 135
     images:
-      - url: "https://i.insider.com/5f7b8483282c500018c78b59?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f6f40d074fe5b0018a8da4f?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -925,38 +205,6 @@ related:
       - url: "https://i.insider.com/5f771bd90ab50d00184adbee?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
-    excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
-    publishedDateTime: 2020-10-07T10:06:00Z
-    webUrl: "https://time.com/5896911/vice-presidential-debate-harris-pence/"
-    ampWebUrl: "https://time.com/5896911/vice-presidential-debate-harris-pence/?amp=true"
-    cdnAmpWebUrl: "https://time-com.cdn.ampproject.org/c/s/time.com/5896911/vice-presidential-debate-harris-pence/?amp=true"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 134
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/kamala-harris-mike-pence-vp-debate.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Kamala Harris Dodges Supreme Court Packing Question While Pence is Evasive on Peaceful Transfer of Power"
-    excerpt: "Harris refused to answer a question that Pence asked her about \"packing\" the Supreme Court. Later, Pence refused to say what he'd do if Trump refused to cede power."
-    publishedDateTime: 2020-10-08T03:44:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-dodges-supreme-court-packing-question-while-pence-evasive-peaceful-transfer-power-1537299"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-dodges-supreme-court-packing-question-while-pence-evasive-peaceful-transfer-power-1537299?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-dodges-supreme-court-packing-question-while-pence-evasive-peaceful-transfer-power-1537299?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1647766/kamala-harris-mike-pence-supreme-peaceful-trump.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Former Pence aide says there were private meetings about the possibility of Trump refusing to accept election results"
     excerpt: "Former aide to VP Mike Pence said Friday there were \"conversations behind closed doors\" about what would happen if Trump \"loses and refuses to leave.\""
@@ -1006,210 +254,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Companies distance themselves from Trump ally who launched vulgar attack on Kamala Harris"
-    excerpt: "Big companies distanced themselves from a Washington, D.C., consultant and Trump ally who launched a vulgar attack on Sen. Kamala Harris."
-    publishedDateTime: 2020-10-09T17:59:00Z
-    webUrl: "https://www.cnbc.com/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/companies-slam-trump-ally-harlan-hill-after-vulgar-attack-on-kamala-harris.html"
+  - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
+    excerpt: "In recent days, President Donald Trump has promised millions of Medicare recipients that — thanks to him — they’ll soon be getting an “incredible” $200 card in the mail to help them pay for prescriptions."
+    publishedDateTime: 2020-10-01T13:33:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-checks-20201001-w2if42vzobba5iavm75tmyu554-story.html?outputType=amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 131
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106724316-1601500623795-tru.jpg?v=1601500672"
-        width: 3132
-        height: 2088
-        isCached: true
-  - title: "Vice presidential debate between Mike Pence and Kamala Harris still on"
-    excerpt: "A combination picture shows democratic U.S. vice presidential nominee Kamala Harris delivering a campaign speech in Washington, U.S., August 27, 2020, and U.S. Vice President Mike Pence lo"
-    publishedDateTime: 2020-10-03T00:08:00Z
-    webUrl: "https://www.reuters.com/news/picture/vice-presidential-debate-between-mike-pe-idUSKBN26N38L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 130
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535927042&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9122M"
-        width: 810
-        height: 285
-        isCached: true
-  - title: "Vice President Pence, Sen. Kamala Harris set to face off in VP debate"
-    excerpt: "CNBC's Andrew Ross Sorkin takes a look at what's ahead for the week, including some news from the Fed and the vice presidential debates."
-    publishedDateTime: 2020-10-05T11:15:00Z
-    webUrl: "https://www.cnbc.com/video/2020/10/05/vice-president-pence-sen-kamala-harris-set-to-face-off-in-vp-debate.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 130
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106729766-16018947981601894796-11764345025-1080pnbcnews.jpg?v=1601894798"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Politics professor previews Pence-Harris vice presidential debate"
-    excerpt: "COVID-19 safety protocols are being stepped up ahead of the first and only vice presidential debate in Salt Lake City Wednesday night between Vice President Mike Pence and Democratic nominee Senator Kamala Harris."
-    publishedDateTime: 2020-10-07T16:07:00Z
-    webUrl: "https://www.cbsnews.com/video/politics-professor-larry-sabato-previews-2020-vice-presidential-debate-pence-harris/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 130
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/8f9d3d17-0498-4a06-84c4-fcb2b59f69c6/thumbnail/1200x630/6ea92920746d09dbb123d50ec74aa1b2/cbsn-fusion-politics-professor-larry-sabato-previews-2020-vice-presidential-debate-pence-harris-thumbnail-561282-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "As Harris Prepares for Pence Debate, Asian American Women Pay Tribute to Their Immigrant Mothers, Grandmothers"
-    excerpt: "The Democratic Party's vice presidential nominee became the first Asian-American woman on a major party's ticket. Here's what her nomination means to the women she represents."
-    publishedDateTime: 2020-10-07T21:37:00Z
-    webUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176"
-    ampWebUrl: "https://www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-prepares-pence-debate-asian-american-women-pay-tribute-their-immigrant-mothers-1537176?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 130
-    images:
-      - url: "https://d.newsweek.com/en/full/1647685/kamala-harris.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Mike Pence, Kamala Harris debate shortly"
-    excerpt: "Watch \"Mike Pence, Kamala Harris debate shortly\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-08T01:23:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201008005634-mike-pence-kamala-harris-debate-shortly/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 130
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/08/story_07160693_1602118925.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris flies high over Mike Pence in vice president debate"
-    excerpt: "The vice presidential debate, featuring Sen. Kamala Harris and Vice President Mike Pence, was the next big stop in the 2020 election. Give Harris the clear edge. She was cool, Pence was on the defensive."
-    publishedDateTime: 2020-10-09T21:15:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-flies-high-over-Mike-Pence-in-vice-15629977.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 130
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/45/57/20077531/7/rawImage.jpg"
-        width: 2048
-        height: 1387
-        isCached: true
-  - title: "It Would Be a 'Real Mistake' for Kamala Harris to Underestimate Mike Pence's Debating Skills, Says Pete Buttigieg"
-    excerpt: "The former Democratic presidential candidate is reportedly helping Kamala Harris prepare for Wednesday's upcoming debate against Pence."
-    publishedDateTime: 2020-10-05T17:32:00Z
-    webUrl: "https://www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450"
-    ampWebUrl: "https://www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/it-would-real-mistake-kamala-harris-underestimate-mike-pences-debating-skills-says-pete-1536450?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 129
-    images:
-      - url: "https://d.newsweek.com/en/full/1646102/pete-buttigieg.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Mike Pence and Kamala Harris vice presidential debate to have plexiglass barrier because of coronavirus concerns"
-    excerpt: "President Donald Trump has the coronavirus. And number of his people in his orbit have been diagnosed with Covid-19 since his debate with Joe Biden."
-    publishedDateTime: 2020-10-05T22:03:00Z
-    webUrl: "https://www.cnbc.com/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/05/-mike-pence-and-kamala-harris-debate-to-have-coronavirus-protection.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 129
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106730748-1601931141982-AP20279684793202.jpg?v=1601931215"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
-    excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."
-    publishedDateTime: 2020-10-08T09:00:00Z
-    webUrl: "https://www.npr.org/2020/10/08/921323806/4-takeaways-from-the-mike-pence-kamala-harris-vice-presidential-debate"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 129
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/08/gettyimages-1228948142_wide-a4e5bb22ccd3de639e9cb48b657c3c5e5423bff0.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Pence and Harris defend their running mates, evade questions at VP debate"
-    excerpt: "The first and only vice presidential debate of 2020 marked a return to a somewhat more traditional event filled with policy disputes and party-line attacks. CBS News correspondent Nikole Killion joined CBSN to discuss key points made by Vice President Mike Pence and Democratic nominee Senator Kamala Harris at the debate."
-    publishedDateTime: 2020-10-08T15:49:00Z
-    webUrl: "https://www.cbsnews.com/video/pence-and-harris-defend-their-running-mates-evade-questions-at-vp-debate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/08/7f2f1bda-7190-45fd-9a16-a53ca3356586/thumbnail/1200x630/3d48d37868d83c68a8c21191e0b27722/1008-cbsn-gme-562067-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ex-Pence Aide Goes After Donald Trump in New Ad, Says He's Putting Law Enforcement in Harms Way"
-    excerpt: "\"He is putting our law enforcement in harm's way purposefully because he thinks it serves his agenda,\" Vice President Mike Pence's former Homeland Security and Counterterrorism adviser said."
-    publishedDateTime: 2020-09-25T14:21:00Z
-    webUrl: "https://www.newsweek.com/ex-pence-aide-goes-after-donald-trump-new-ad-says-hes-putting-law-enforcement-harms-way-1534274"
-    ampWebUrl: "https://www.newsweek.com/ex-pence-aide-goes-after-donald-trump-new-ad-says-hes-putting-law-enforcement-harms-way-1534274?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ex-pence-aide-goes-after-donald-trump-new-ad-says-hes-putting-law-enforcement-harms-way-1534274?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 128
-    images:
-      - url: "https://d.newsweek.com/en/full/1641817/portland-officers.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "VP debate 2020: Kamala Harris and Mike Pence go head to head – live updates"
-    excerpt: "The coronavirus pandemic threatens to overshadow the event and"
-    publishedDateTime: 2020-10-08T01:16:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020?ref=hvper.com"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 128
-  - title: "Kamala Harris slams Trump after first debate: \"What we saw was a dog whistle through a bullhorn\""
-    excerpt: "\"Donald Trump is not pretending to be anything other than what he is,\" said vice presidential candidate Senator Kamala Harris."
-    publishedDateTime: 2020-09-30T17:24:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-slams-trump-first-debate-what-we-saw-was-a-dog-whistle-through-a-bullhorn/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-slams-trump-first-debate-what-we-saw-was-a-dog-whistle-through-a-bullhorn/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-slams-trump-first-debate-what-we-saw-was-a-dog-whistle-through-a-bullhorn/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 127
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/30e5a4ab-eb90-4d61-85e7-06f1fc733b46/thumbnail/1200x630/1dcf9a131367124f7b84356ca90adf71/cbsn-fusion-kamala-harris-reacts-to-presidential-debate-thumbnail-556621-640x360.jpg"
+      - url: "https://www.chicagotribune.com/resizer/X5INs9998mP2ElUdjqXfxI57agA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3MOZVLBQ2PFDPXLYALTZ5O3Z4M.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
     excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
@@ -1227,126 +286,133 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Pence and Harris prepare to face off in one and only vice presidential debate"
-    excerpt: "Vice President Mike Pence and Democratic vice-presidential candidate Kamala Harris will take the debate stage in Salt Lake City — with coronavirus precautions in effect. Nikole Killion has the latest."
-    publishedDateTime: 2020-10-07T23:04:00Z
-    webUrl: "https://www.cbsnews.com/video/pence-and-harris-prepare-to-face-off-in-one-and-only-vice-presidential-debate/"
+  - title: "Top seven revelations from New York Times report on Trump income taxes"
+    excerpt: "Trump has had small federal tax bills and major financial losses in his career, and some of his moves have come under legal scrutiny."
+    publishedDateTime: 2020-09-28T01:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/27/top-revelations-report-trump-income-tax/3557530001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3557530001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557530001"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 127
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/07/ffb67472-c0fd-470c-b518-6e4dd50b2012/thumbnail/1200x630/2a1763de716fcb043f52bfa891044ef8/1007-en-kllion-561584-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/fccf0666-f818-411e-af8d-de32156cb7ac-AP_APTOPIX_Trump.jpg?auto=webp&crop=5896,3317,x1,y317&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "VP debate 2020: Kamala Harris slams Mike Pence over coronavirus handling – live"
-    excerpt: "Harris says the White House response was the ‘greatest failure’ as the pandemic threatens to overshadow the event"
-    publishedDateTime: 2020-10-08T01:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020?page=with:block-5f7e640e8f08f0dafe2932f3"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 126
-  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket"
-    publishedDateTime: 2020-09-25T11:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/obama-join-kamala-harris-democratic-fundraisers-73228930"
+  - title: "Trump's tax revelation could tarnish image that fueled rise"
+    excerpt: "The bombshell revelations that President Donald Trump paid just $750 in federal income taxes the year he ran for office and paid no income taxes at all in many others threaten to undercut a pillar of"
+    publishedDateTime: 2020-09-28T05:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trumps-tax-revelation-tarnish-image-fueled-rise-73285639"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_435864e11f4a437cbe0cf5e4afcddca0_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_af3522a8da5c4a25894a0bd8a2c78a94_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Obama to virtually fundraise with Kamala Harris: report"
-    excerpt: "Former President Obama will reportedly join Democratic vice presidential candidate Kamala Harris for virtual fundraisers next week."
-    publishedDateTime: 2020-09-25T13:17:00Z
-    webUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report"
-    ampWebUrl: "https://thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/518154-obama-to-virtually-fundraise-with-kamala-harris-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/obamabarack_092220getty.png"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "What Kamala Harris' VP nomination means to us"
-    excerpt: "America has been given a gift in Kamala Harris Kamala Harris Texas Democratic official urges Biden to visit state: 'I thought he had his own plane' The Hill's Campaign Report: Bid"
-    publishedDateTime: 2020-09-26T23:12:00Z
-    webUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us"
-    ampWebUrl: "https://thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/518429-what-kamala-harris-vp-nomination-means-to-us?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_getty08122020.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump is either a tax fraud or the world’s worst businessman"
-    excerpt: "In a 2015 filing with the Federal Election Commission, then-candidate Donald Trump claimed his net worth was $10 billion. The financial press was skeptical of that claim, but nonetheless, Trump listed assets totaling $1."
-    publishedDateTime: 2020-09-28T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/28/trump-taxes-fraud-business-failure/?outputType=amp"
+  - title: "With five weeks left, Trump plays defense in states he won in 2016"
+    excerpt: "Democratic nominee Joe Biden, awash in campaign money, is spending freely in contested states and pressing his advantage among targeted groups."
+    publishedDateTime: 2020-09-28T00:06:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-biden-election-map/2020/09/27/43052b02-ff67-11ea-b555-4d71a9254f4b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NZP45IABOAI6XOJOAKLHN6PL5Q.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NO2WEXAAKEI6XMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump Will Create More Debt Than Obama"
-    excerpt: "Presidents’ have to deal with the cards they are dealt. Obama inherited the Great Recession, while Trump has had to deal with a pandemic. Trump will generate more debt in his four years than Obama did and will blow past Obama’s two terms if re-elected."
-    publishedDateTime: 2020-09-27T18:05:00Z
-    webUrl: "https://www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/"
-    ampWebUrl: "https://www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckjones/2020/09/27/trump-will-create-more-debt-than-obama/amp/"
+  - title: "After New York Times revelations, Trump says he paid millions in taxes"
+    excerpt: "U.S. President Donald Trump said on Monday he paid \"many millions of dollars in taxes\" and that he had many more assets than debt, but did not provide evidence or promise to release any financial statements before the Nov."
+    publishedDateTime: 2020-09-29T00:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-idUSKBN26J2CR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2CR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2CR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535256440&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1WS"
+        width: 777
+        height: 545
+        isCached: true
+  - title: "Lawyer for Flynn says she updated Trump on status of case"
+    excerpt: "A lawyer for former Trump administration national security adviser Michael Flynn has told a judge that she updated President Donald Trump on the case’s status and asked him not to issue a pardon for h"
+    publishedDateTime: 2020-09-29T18:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/lawyer-flynn-updated-trump-status-case-73317313"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_8e38fdd447e8473da6e769ef6f8a44dc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump doesn't denounce white supremacists and militias during debate"
+    excerpt: "President Trump was given several chances during the debate. to denounce white supremacists and militias that have caused violence. Trump deflected."
+    publishedDateTime: 2020-09-30T03:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-denounce-white-supremacists-militias-debate/story?id=73330093"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-6-gty-er-200929_1601430660343_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The debate showed that treating Trump ‘fairly’ only helps him cheat"
+    excerpt: "Tuesday night’s presidential debate perfectly illustrates how Donald Trump abuses our democratic institutions — and how feckless the media can be in the face of those violations. Since he first entered the presidential race,"
+    publishedDateTime: 2020-10-01T01:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/09/30/trump-debate-neutral-press-media-criticism/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GUNGFGQDKUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
+  - title: "Trump Administration Slashing Refugee Admissions To Lowest Level Yet"
+    excerpt: "The Trump administration announced late Wednesday it will admit only up to 15,000 refugees into the U.S. in fiscal year 2021—marking the lowest cap on admissions the administration has set yet—continuing the government’s steady decrease in refugee admissions over the course of Donald Trump’s presidency as he frequently condemns migrants on the campaign trail."
+    publishedDateTime: 2020-10-01T13:27:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/01/trump-administration-slashing-refugee-admissions-to-lowest-level-yet/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1dea0ba854780006e87f10%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f75d8262d7049fa994972ec%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D78%26cropY2%3D1765"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Any rich person could pay off Donald Trump"
-    excerpt: "Trump's tax returns show that he has hundreds of millions in debt coming due fast, and almost no cash on hand. This is valuable info for US enemies."
-    publishedDateTime: 2020-09-29T21:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tax-returns-show-easy-pressure-debt-finance-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f7210f474fe5b0018a8dc4b?width=1200&format=jpeg"
-        width: 833
-        height: 416
+        height: 675
         isCached: true
   - title: "Who are the Proud Boys, the far-right group that backs Donald Trump?"
     excerpt: "The Proud boys are an extremist group with a history of street violence against its left-wing opponents. \"Proud Boys, stand back and stand by,\" said President Trump in response, after Chris Wallace asked whether he would condemn white supremacists during the first presidential debate of this election."
@@ -1364,6 +430,86 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "AP PHOTOS: A busy week for Trump before positive virus test"
+    excerpt: "With just a month to go until the election, President Donald Trump had a busy schedule the days before he tested positive for the coronavirus, attending rallies, private fundraisers, a presidential debate and hosting events at the White House."
+    publishedDateTime: 2020-10-02T15:29:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/ap-photos-busy-week-trump-positive-virus-test-73388535"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for coronavirus"
+    excerpt: "U.S. President Donald Trump said in a tweet on Friday he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election."
+    publishedDateTime: 2020-10-02T06:55:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-for-coronavirus-idUSKBN26N0SW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535814584&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IY"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Putin Wishes Trump A Speedy Recovery From Coronavirus"
+    excerpt: "The Russian president, Vladimir Putin, has sent President Donald Trump his good wishes after learning that Trump had tested positive for coronavirus."
+    publishedDateTime: 2020-10-02T13:16:00Z
+    webUrl: "https://www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/"
+    ampWebUrl: "https://www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesrodgerseurope/2020/10/02/putin-wishes-trump-a-speedy-recovery-from-coronavirus/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f771c4a9b861ba98e59a859%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump adviser Hope Hicks tests positive for the coronavirus"
+    excerpt: "Hope Hicks, a top adviser to President Donald Trump, has tested positive for the coronavirus, the president confirmed in an interview with Fox News on Thursday, adding that he has been tested and may have to quarantine."
+    publishedDateTime: 2020-10-02T02:19:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-hicks-idUSKBN26N05M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N05M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N05M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535795364&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9108Z"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Trump and his wife Melania test positive for coronavirus"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T11:34:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-int-idUSKBN26N0LW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0LW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0LW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535811132&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910FI"
+        width: 826
+        height: 545
+        isCached: true
   - title: "Trump COVID infection thrusts world in uncharted territory"
     excerpt: "News that U.S. President Donald Trump was infected with the world's most notorious disease is drawing shock, sympathy and some barbs for the American leader"
     publishedDateTime: 2020-10-02T15:33:00Z
@@ -1379,6 +525,70 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_b53f9831867643c9b3d78d925e946365_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump says he and first lady tested positive for coronavirus"
+    excerpt: "President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus, a stunning announcement that plunges the country deeper into uncertainty just a month before the presidential election."
+    publishedDateTime: 2020-10-02T11:50:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-lady-tested-positive-coronavirus-73383252"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_7d01df0f67d6429b92ebbe0b734721de_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Explainer: What is the treatment plan for President Trump's COVID-19?"
+    excerpt: "U.S. President Donald Trump on Friday said he and his wife Melania had tested positive for COVID-19, and the White House said he was given an experimental treatment designed to combat the virus as well as a small array of treatments including aspirin and Vitamin D."
+    publishedDateTime: 2020-10-03T05:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-treatments-e-idUSKBN26N38D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N38D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N38D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1535975425&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9123P"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive COVID-19"
+    excerpt: "President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-02T17:48:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-reaction-fa/factbox-reactions-to-donald-trump-testing-positive-covid-19-idUSKBN26N0T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535902562&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910JT"
+        width: 1380
+        height: 545
+        isCached: true
+  - title: "Factbox: Reactions to Donald Trump testing positive for COVID-19"
+    excerpt: "U.S. President Donald Trump, who played down the threat of the coronavirus pandemic for months, said on Friday that he and his wife Melania had tested positive for COVID-19 and were going into quarantine,"
+    publishedDateTime: 2020-10-03T05:54:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-reaction-idUSKBN26N0SM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0SM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535905929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG910IV"
+        width: 826
+        height: 545
         isCached: true
   - title: "No quarantine for U.S. Vice President Pence, whose COVID-19 test was negative; next in line to Trump"
     excerpt: "U.S. Vice President Mike Pence, next in line for the Oval Office, tested negative for COVID-19, hours after President Donald Trump announced that he was infected and went into quarantine, Pence's spokesman said on Friday."
@@ -1396,6 +606,22 @@ related:
         width: 711
         height: 545
         isCached: true
+  - title: "Trump, downplaying virus, has mocked wearing masks for months"
+    excerpt: "After months of downplaying the coronavirus and resisting wearing a mask, President Donald Trump wore one as he headed to the hospital Friday afternoon."
+    publishedDateTime: 2020-10-03T09:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-downplaying-virus-mocked-masks-months-now/story?id=73392694"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-6-gty-er-201002_1601677288519_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump White House, campaign staff who have tested positive for COVID-19"
     excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
     publishedDateTime: 2020-10-03T06:26:00Z
@@ -1412,21 +638,37 @@ related:
         width: 865
         height: 545
         isCached: true
-  - title: "Chris Christie is the latest in Trump orbit to get virus"
-    excerpt: "Chris Christie tested positive for COVID-19, he tweeted Saturday morning — the latest in a string of virus cases connected to President Donald Trump's inner circle. Christie said that he will be receiving medical attention and “will keep the necessary folks apprised of my condition."
-    publishedDateTime: 2020-10-03T17:15:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/chris-christie-latest-trump-orbit-virus-73406900"
+  - title: "Trump's virus hospitalization rocks final stage of campaign"
+    excerpt: "An election year already defined by a cascade of national crises is descending further into uncharted territory, with President Donald Trump heading to a military hospital with the coronavirus after c"
+    publishedDateTime: 2020-10-03T01:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-diagnosis-rocks-final-stage-presidential-campaign-73385910"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_947b45dfec594eaf9655cd8486013db8_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_386951b5013d4be194086fac35bd2267_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "White House Says Trump ‘Remains Fatigued’ Amid Reports He Has Fever"
+    excerpt: "Trump also took a dose of an experimental antibody cocktail that hasn’t yet been given emergency use authorization by the FDA."
+    publishedDateTime: 2020-10-02T21:12:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/02/white-house-says-trump-remains-fatigued-amid-reports-he-has-fever/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f77965b260487e5b2299495%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4475%26cropY1%3D226%26cropY2%3D2743"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Timeline of Trump's reported COVID diagnosis and treatment"
     excerpt: "White House officials were forced to attempt to clarify a timeline of President Donald Trump's coronavirus diagnosis and treatment Saturday after the president's doctor made statements that did not align with public information."
@@ -1444,197 +686,229 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "White House chief of staff says Trump is doing very well"
-    excerpt: "White House Chief of Staff Mark Meadows said on Saturday that President Donald Trump is doing \"very well\" and that doctors are pleased with his vital signs."
-    publishedDateTime: 2020-10-03T19:28:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-meadows-idUSKBN26O0WW"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0WW"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0WW"
+  - title: "Stocks rise as signs of Trump's improving health calm markets"
+    excerpt: "Stock markets rose on Monday on hopes that President Donald Trump could be discharged from hospital later in the day, easing some of the political uncertainty that shook global bourses in the previous session."
+    publishedDateTime: 2020-10-05T02:19:00Z
+    webUrl: "https://www.reuters.com/article/global-markets-int/stocks-rise-as-signs-of-trumps-improving-health-calm-markets-idUSKBN26Q05T"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q03N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q03N"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201003&t=2&i=1536044872&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG920Q4"
-        width: 816
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536153882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9401R"
+        width: 753
         height: 545
         isCached: true
-  - title: "It matters: Kamala Harris and the VP debate"
-    excerpt: "Like most Americans living through these troubled times, Harris knows what it’s like to struggle against hardship."
-    publishedDateTime: 2020-10-07T00:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/519621-it-matters-kamala-harris-and-the-vp-debate"
-    ampWebUrl: "https://thehill.com/opinion/campaign/519621-it-matters-kamala-harris-and-the-vp-debate?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519621-it-matters-kamala-harris-and-the-vp-debate?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_10022020_1.jpg"
-        width: 980
-        height: 552
-        isCached: true
-  - title: "Kamala Harris featured on cover of Elle magazine's November issue"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris (D-Calif.) is on the cover for Elle magazine’s November issue, in which the senator participates in a broad interview spanning racial inequality,"
-    publishedDateTime: 2020-10-06T22:55:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_10022020_1.jpg"
-        width: 980
-        height: 552
-        isCached: true
-  - title: "Kamala Harris is on the cover of Elle magazine's November issue"
-    excerpt: "Democratic Vice Presidential nominee Senator Kamala Harris is the former attorney general of California. She was the second Black woman to be elected to the U.S. Senate, and this year became the first Black vice presidential nominee."
-    publishedDateTime: 2020-10-06T17:38:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-elle-magazine-cover-november/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-elle-magazine-cover-november/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/06/b65ecbdd-02b1-439d-9bc1-bd0a602c7fda/thumbnail/1200x630/f2287b22c7438d7d45e031861c7f2800/gettyimages-1228018304.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "World shares mixed after Trump calls halt to stimulus talks"
-    excerpt: "Stocks are mostly higher in Asia despite an overnight decline on Wall Street after President Donald Trump ordered a stop to talks on another round of aid for the economy"
-    publishedDateTime: 2020-10-07T07:00:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/asian-shares-higher-trump-stops-stimulus-talks-73467061"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/asian-shares-higher-trump-stops-stimulus-talks-73467061"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/asian-shares-higher-trump-stops-stimulus-talks-73467061"
+  - title: "All the president's medicine: How doctors are treating Donald Trump"
+    excerpt: "Roughly 42 hours after President Donald Trump revealed he and the first lady had tested positive for COVID-19, he tweeted out a video from Walter Reed National Military Medical Center assuring the public he was feeling \"much better\" since being given a sundry mix of medication which he called \"miracles coming down from God."
+    publishedDateTime: 2020-10-05T19:41:00Z
+    webUrl: "https://abcnews.go.com/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/presidents-medicine-doctors-treating-donald-trump/story?id=73423761"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Business/WireAP_4a33411c39f542f8bb460e402f3ef956_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/trump-motorc_hpMain_20201004-222346_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Donald Trump Jr. urges hunters to vote for his father"
-    excerpt: "Donald Trump Jr. released a new video on Wednesday encouraging hunters and other outdoorsmen to vote for his father next month."
-    publishedDateTime: 2020-10-07T17:33:00Z
-    webUrl: "https://thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father"
-    ampWebUrl: "https://thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father?amp"
+  - title: "Contagious Trump Removes Mask For White House Photo Op, Staff Nearby"
+    excerpt: "The president removed his mask to pose for cameras after receiving treatment for Covid-19 at Walter Reed medical center."
+    publishedDateTime: 2020-10-06T11:39:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/06/contagious-trump-removes-mask-for-white-house-photo-op-staff-nearby/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7c474002d3bfaf88990725%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5096%26cropY1%3D0%26cropY2%3D3398"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Donald Trump seals his fate"
-    excerpt: "Any sliver of hope to avoid a Republican wipeout slipped away from President Trump on Thursday morning thanks to his refusal to attend the next presidential debate in a virtual format (necessitated by his covid-19 diagnosis),"
-    publishedDateTime: 2020-10-08T15:58:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/08/donald-trump-seals-his-fate/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/08/donald-trump-seals-his-fate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/08/donald-trump-seals-his-fate/?outputType=amp"
+  - title: "Gold subdued after Trump's discharge, weak dollar cap losses"
+    excerpt: "Gold prices eased on Tuesday, as equities gained following U.S. President Donald Trump's discharge from hospital after treatment for a coronavirus infection, though a softer dollar cushioned the bullion's further decline."
+    publishedDateTime: 2020-10-06T09:18:00Z
+    webUrl: "https://www.reuters.com/article/global-precious-idUSKBN26R1BI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R1BI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R1BI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536339055&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG950O3"
+        width: 872
+        height: 545
+        isCached: true
+  - title: "Oil prices gain on supply disruptions, Trump's hospital exit"
+    excerpt: "Oil prices gained on Tuesday amid supply disruptions in Norway, a new hurricane in the Gulf of Mexico, and U.S. President Donald Trump's return to the White House after being treated for COVID-19 in hospital."
+    publishedDateTime: 2020-10-06T10:19:00Z
+    webUrl: "https://www.reuters.com/article/us-global-oil/oil-prices-climb-as-trumps-return-to-white-house-calms-nerves-idUSKBN26R05A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05G"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05G"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304394&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501T"
+        width: 827
+        height: 545
+        isCached: true
+  - title: "Oil prices up 3% on supply disruptions and Trump's return"
+    excerpt: "Oil prices rose more than 3% on Tuesday, supported by supply disruptions in Norway, a hurricane in the Gulf of Mexico and U.S. President Donald Trump's return to the White House from hospital."
+    publishedDateTime: 2020-10-06T15:09:00Z
+    webUrl: "https://www.reuters.com/article/global-oil-int/oil-prices-gain-on-supply-disruptions-trumps-hospital-exit-idUSKBN26R05G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R05A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R05A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536304755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9501V"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Trump faces backlash for removing mask on return to White House"
+    excerpt: "U.S. President Donald Trump faced a fresh backlash on Tuesday for removing his mask when he returned to the White House and urging Americans not to fear the COVID-19 disease that has killed more than 209,"
+    publishedDateTime: 2020-10-06T04:52:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-idUSL1N2GX02O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26R0H2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536316096&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95089"
+        width: 819
+        height: 545
+        isCached: true
+  - title: "Facebook, Twitter take action over Trump's misleading COVID-19 posts"
+    excerpt: "Facebook Inc and Twitter took action on posts from U.S. President Donald Trump on Tuesday for violating their rules against coronavirus misinformation by suggesting that COVID-19 was just like the flu."
+    publishedDateTime: 2020-10-07T02:42:00Z
+    webUrl: "https://www.reuters.com/article/us-twitter-trump-idINKBN26R2Z3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R2YU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R2YU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536423411&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG951Y8"
+        width: 776
+        height: 545
+        isCached: true
+  - title: "Is Donald Trump trying to lose or just trying to burn it all down?"
+    excerpt: "Even columnists who have been hedging on the possibility of a Trump comeback are starting to write things that suggest a blowout. Support our journalism. Subscribe today. At this moment, with the president badly behind,"
+    publishedDateTime: 2020-10-07T16:00:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/is-donald-trump-trying-lose-or-just-trying-burn-it-all-down/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CSKGR3AJMYI6XBYZBXYVTUKHSQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/37KSBJQICEI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 739
         isCached: true
-  - title: "Kamala Harris Memes Flood Internet As Vice Presidential Debate Heats Up"
-    excerpt: "Memes of Democratic Senator Kamala Harris flooded the internet during the Wednesday night vice presidential debate as social media users posted humorous images and videos that highlighted her opposition to One of the earliest memes posted during the debate was from the Republican-led political action committee,"
-    publishedDateTime: 2020-10-08T01:56:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-memes-flood-internet-vice-presidential-debate-heats-1537283"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-memes-flood-internet-vice-presidential-debate-heats-1537283?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-memes-flood-internet-vice-presidential-debate-heats-1537283?amp=1"
+  - title: "Shares rebound from Trump's shock stimulus talks cancellation"
+    excerpt: "European shares rose on Wednesday, as initial dismay at U.S. President Donald Trump's decision to cancel fiscal stimulus negotiations with lawmakers in Washington was replaced by optimism about an aid package after the U."
+    publishedDateTime: 2020-10-07T11:28:00Z
+    webUrl: "https://www.reuters.com/article/us-global-markets-idINKBN26R3S6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN26R3S6"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN26R3S6"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1647747/kamala-harris-vice-presidential-debate-memes-funny.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536451760&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG95277"
+        width: 776
+        height: 545
         isCached: true
-  - title: "Kamala Harris’s critics fell into the ‘Is she likable?’ trap"
-    excerpt: "Kamala D. Harris (D-Calif.) was going up against a White man, Vice President Pence, who because of his race and gender doesn’t have to consider whether he’s likable to get votes. Thus, Pence could and did interrupt Harris’s allotted speaking time (not to the degree of President Trump in his debate last week,"
-    publishedDateTime: 2020-10-08T11:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/?outputType=amp"
+  - title: "Trump campaign's next steps unclear after White House return"
+    excerpt: "President Donald Trump’s return to the White House is poised to reshape the campaign’s final four weeks as aides debate how to move past an extraordinary setback while grappling with how to send an in"
+    publishedDateTime: 2020-10-07T07:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-campaigns-steps-unclear-white-house-return-73466509"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLEZPJAJD4I6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 1008
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a265499689974a4f89a650926e29e1a6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Kamala Harris's facial expressions during debate go viral"
-    excerpt: "Twitter users on Wednesday had mixed reactions to Democratic vice presidential nominee Kamala Harris’s facial expressions aimed at Vice President Pence’s remarks during their debate."
-    publishedDateTime: 2020-10-08T03:17:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520124-kamala-harriss-facial-expressions-during-debate-go-viral"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520124-kamala-harriss-facial-expressions-during-debate-go-viral?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520124-kamala-harriss-facial-expressions-during-debate-go-viral?amp"
+  - title: "Analyzing Trump's illness is humbling for media's med teams"
+    excerpt: "It's a daunting assignment for any doctor: assess a patient's condition for an audience of millions without being able to examine him or see a complete medical chart"
+    publishedDateTime: 2020-10-08T07:12:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/analyzing-trumps-illness-humbling-medias-med-teams-73494603"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_pencemike2_100720getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Health/WireAP_1dc1c08e20f14b1fb59b43d639b6bf70_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Michelle Obama Praises Kamala Harris After 'Strong' Debate Performance"
-    excerpt: "The former first lady said the Democratic vice presidential nominee had been \"clear\" and \"honest\" throughout the 90-minute head-to-head."
-    publishedDateTime: 2020-10-08T08:09:00Z
-    webUrl: "https://www.newsweek.com/michelle-obama-kamala-harris-strong-debate-performance-1537321"
-    ampWebUrl: "https://www.newsweek.com/michelle-obama-kamala-harris-strong-debate-performance-1537321?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michelle-obama-kamala-harris-strong-debate-performance-1537321?amp=1"
+  - title: "‘I Feel Great’: Trump Symptom-Free Doctor Says, But Offers Few Details"
+    excerpt: "President Donald Trump has not suffered from coronavirus symptoms for more than 24 hours, White House Physician Sean Conley wrote in a brief update Wednesday, though Conley and the president’s other doctors have not stood for a press conference or offered more details about the timeline of Trump’s infection since he ended his three-day hospital stay on Monday."
+    publishedDateTime: 2020-10-07T18:44:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/07/i-feel-great-trump-symptom-free-doctor-says-but-offers-few-details/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1647803/kamala-harris-vice-presidential-debate.jpg"
-        width: 1024
-        height: 683
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7e02f4787db26711e608b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D382%26cropY2%3D3514"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Picture of Donald J. Trump"
-    excerpt: "That would not be a picture of strength. President Trump was putting his whole soul into this shot, and it had to be perfect. He had been at the hospital minutes ago; he was still battling the coronavirus."
-    publishedDateTime: 2020-10-07T21:24:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/picture-donald-j-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/07/picture-donald-j-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/07/picture-donald-j-trump/?outputType=amp"
+  - title: "Trump is symptom-free and stable, White House doctor says"
+    excerpt: "U.S. President Donald Trump has had no COVID-19 symptoms for the past 24 hours, with a physical examination and his vital signs showing his condition remains sable, White House physician Sean Conley said on Wednesday."
+    publishedDateTime: 2020-10-07T17:22:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-physician-idUSKBN26S2YF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26S2YF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26S2YF"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JPG5FTAIU4I6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201007&t=2&i=1536569279&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9620F"
+        width: 819
+        height: 545
         isCached: true
   - title: "2nd presidential debate in doubt after Trump objects to virtual format"
     excerpt: "The Commission on Presidential Debates announced that the second debate scheduled for October 15 in Miami would instead feature virtual appearances by the two candidates, a change the president quickly dismissed as \"not acceptable."
@@ -1652,83 +926,149 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Kamala Harris makes debate history and inspires girls of color"
-    excerpt: "Kamala Harris showed some young girls of color they can be represented on the nation’s highest political stage too."
-    publishedDateTime: 2020-10-09T03:50:00Z
-    webUrl: "https://abcnews.go.com/GMA/Family/kamala-harris-makes-debate-history-inspires-girls-color/story?id=73505162"
-    ampWebUrl: "https://goodmorningamerica.com/amp/family/story/kamala-harris-makes-debate-history-inspires-girls-color-73505162"
-    cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/family/story/kamala-harris-makes-debate-history-inspires-girls-color-73505162"
+  - title: "In 25th Amendment bid, Pelosi mulls Trump's fitness to serve"
+    excerpt: "House Speaker Nancy Pelosi is questioning President Donald Trump's fitness to serve, announcing legislation Thursday that would create a commission to allow Congress to intervene under the 25th Amendment to the Constitution and remove the president from executive duties."
+    publishedDateTime: 2020-10-09T04:05:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-table-trump-scrapped-virus-talks-73505668"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-03-vp-debate-gty-jef-201007_1602126010401_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_7037dad961d744cb84711d4fe7797ae7_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Mike Pence and Kamala Harris face off in first and only vice presidential debate"
-    excerpt: "Vice President Mike Pence and Senator Kamala Harris squared off in the first and only vice presidential debate Wednesday in Salt Lake City, Utah. The two sparred over a number of issues including the coronavirus pandemic,"
-    publishedDateTime: 2020-10-08T20:15:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-president-mike-pence-and-senator-kamala-harris-face-off-in-first-and-only-vice-presidential-debate/"
+  - title: "Pelosi unveils 25th Amendment bid, questions Trump's fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president"
+    publishedDateTime: 2020-10-09T15:38:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness-73522467"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/08/92dce2de-3a0e-4d43-8302-7e1292932c5e/thumbnail/1200x630/9da616bff0e45159442e78ec636b2a3f/cbsn-fusion-vice-president-mike-pence-and-senator-kamala-harris-face-off-in-first-and-only-vice-presidential-debate-thumbnail-561860-640x360.jpg"
+      - url: "https://s.abcnews.com/images/Health/WireAP_6e20c21cbeb548c6b46f74822e788ab4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Clinton says Trump's COVID-19 not 'comparable' to her 2016 pneumonia"
+    excerpt: "Former Democratic presidential nominee Hillary Clinton said in an interview published by The Atlantic on Friday that her mid-campaign pneumonia diagnosis was not “comparable” to President Trump ’s contraction of COVID-19."
+    publishedDateTime: 2020-10-09T17:58:00Z
+    webUrl: "https://thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia"
+    ampWebUrl: "https://thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/520371-hillary-clinton-says-trumps-covid-19-not-comparable-to-her-2016-pneumonia?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/clintonhillary_011720getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump administration targets diversity hiring by contractors"
+    excerpt: "American companies promising to hire more Black employees in leadership roles and teach their workforce about racism are getting a message from President Donald Trump’s administration: Watch your step"
+    publishedDateTime: 2020-10-09T21:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-administration-targets-diversity-hiring-contractors-73523059"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Business/WireAP_c8e94ad396ef40b993b513caa4224bcd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump official says vaccine expected starting in January"
+    excerpt: "A Trump administration official leading the response to the coronavirus pandemic says the U.S. can expect delivery of a vaccine starting in January 2021, despite statements from the president that ino"
+    publishedDateTime: 2020-10-10T02:10:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/official-vaccine-expected-january-countering-trump-73526668"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_edb8df1370fa42678aa7380771b5a6a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Visualizing the people exposed to COVID-19 by Trump outbreak"
+    excerpt: "Since last week’s announcements that President Donald Trump and his adviser Hope Hicks tested positive for coronavirus, dozens who came into contact with them or their associates have also contracted the virus."
+    publishedDateTime: 2020-10-09T19:40:00Z
+    webUrl: "https://www.usatoday.com/in-depth/graphics/2020/10/09/visualizing-those-exposed-to-covid-19-by-trump-white-house-superspreader-outbreak/5927865002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5927865002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927865002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/d821f97e-5909-4ee6-bbc1-52a6bf72bdb1-wh-top.jpg?auto=webp&crop=1274,717,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Weed stocks surge after Kamala Harris promises to decriminalize pot"
-    excerpt: "U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said the Biden administration would decriminalize marijuana at the federal level in the United States if they were elected."
-    publishedDateTime: 2020-10-08T20:55:00Z
-    webUrl: "https://www.reuters.com/article/us-cannabis-stocks-idUSKBN26T3IH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26T3IH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26T3IH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201009&t=2&i=1536796600&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG98041"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Kamala Harris' Supreme Court hearing participation could be unprecedented"
-    excerpt: "Kamala Harris often mentions that her mother, Shyamala Gopalan Harris, told her she \"may be the first to do many things,\" but it's unlikely questioning a Supreme Court nominee just a few weeks before Election Day ever came up."
-    publishedDateTime: 2020-09-27T12:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-supreme-court-hearing-participation-unprecedented/story?id=73200422"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "A pug, a cat and a baby have paid more in taxes than Trump reportedly has"
-    excerpt: "Undocumented workers paid more than $11 billion in taxes the same year the president is said to have paid just $750."
-    publishedDateTime: 2020-09-28T22:26:00Z
-    webUrl: "https://www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/undocumented-taxes-trump/2020/09/28/9c84f066-01bc-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
+  - title: "Voters know Trump isn’t just a bad president. He’s a bad person."
+    excerpt: "Donald Trump is not.” That one, jolting line gets to the bedrock issue of the 2020 campaign — and why the electorate now seems poised to reject an incumbent president for the first time in 28 years. It’s not that Trump and Biden don’t have ideological differences that matter;"
+    publishedDateTime: 2020-10-09T19:37:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/09/voters-know-trump-isnt-just-bad-president-hes-bad-person/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XGNHHPXPQAI6TBUT6SD6IZ4EVI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWWNOYAJ4YI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "New adviser giving Trump bad information on virus, top U.S. officials say"
+    excerpt: "Two senior U.S. public health experts have raised concerns that White House adviser Scott Atlas is providing misleading or incorrect information on the coronavirus pandemic to President Donald Trump,"
+    publishedDateTime: 2020-09-29T01:57:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-cdc-adviser-idUSKBN26J21A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J21A"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J21A"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200929&t=2&i=1535289642&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8S03M"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump, pressured over pandemic, says states to receive 150 million tests"
+    excerpt: "President Donald Trump, under pressure over his handling of the coronavirus outbreak, announced on Monday the federal government would ship 150 million rapid tests to U.S. states for opening schools and ensuring safety at centers for senior citizens."
+    publishedDateTime: 2020-09-28T21:22:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-testing/update-1-trump-pressured-over-pandemic-says-states-to-receive-150-mln-tests-idUSL1N2GP1MF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
         isCached: true
   - title: "Trump debated like a conservative talk radio host. That’s why he failed."
     excerpt: "Since the day he declared his candidacy in 2015, Donald Trump has been the talk-radio presidential candidate and then the talk-radio president. Nowhere was this clearer than in Tuesday’s. It was a pugilistic performance designed to thrill Trump’s biggest fans,"
@@ -1762,96 +1102,149 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The health of his political opponents has always been fair game for Trump"
-    excerpt: "During the 2016 and 2020 presidential campaigns, Donald Trump repeatedly mocked the health of Hillary Clinton and Joe Biden."
-    publishedDateTime: 2020-10-06T16:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
+  - title: "Wall Street gains as Trump to leave hospital, investors hope for stimulus"
+    excerpt: "U.S. stocks rose sharply on Monday, recovering from declines in the previous session, as investors viewed more fiscal stimulus as likely and after news President Donald Trump will leave the hospital where he is being treated for COVID-19."
+    publishedDateTime: 2020-10-06T02:46:00Z
+    webUrl: "https://www.reuters.com/article/usa-stocks-idUSKBN26Q1WR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1WR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1WR"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2020/t_374a983ef17b4a77be9edafed014a5ce_name_71828b02_b366_11ea_98b5_279a6479a1e4_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536215896&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9416T"
+        width: 829
+        height: 545
         isCached: true
-  - title: "In her first race, Kamala Harris learned how to become a political brawler"
-    excerpt: "When Harris was attacked by her opponents in her run for San Francisco district attorney, she punched back — and won."
-    publishedDateTime: 2020-10-05T23:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/kamala-harris-campaign-fighter/2020/10/05/e0ee41d2-dd9d-11ea-b4af-72895e22941d_story.html?outputType=amp"
+  - title: "U.S. financial markets sour as Trump ends coronavirus relief negotiations"
+    excerpt: "U.S. President Donald Trump on Tuesday called off negotiations with Democratic lawmakers on coronavirus relief legislation until after the election, even as cases of the virus are on the rise across much of the country before flu season."
+    publishedDateTime: 2020-10-06T21:17:00Z
+    webUrl: "https://www.reuters.com/article/us-healthcare-coronavirus-usa-congress-idUKKBN26R3BR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26R3BR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26R3BR"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201006&t=2&i=1536426858&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG951XO"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump, pressured over pandemic, says states will receive 150 million tests"
+    excerpt: "President Donald Trump, under fire over his handling of the coronavirus epidemic, announced on Monday the federal government would ship 150 million rapid tests to U.S. states and warned an increase in positive cases is likely in the days ahead."
+    publishedDateTime: 2020-09-29T03:37:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-testing-idUSKBN26J2VT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2VT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XB74HSQFD4I6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 909
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535259697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1YH"
+        width: 806
+        height: 545
         isCached: true
-  - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
-    excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
-    publishedDateTime: 2020-10-07T10:02:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harris-is-not-radical-her-rise-may-herald-progressive-change/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harris-is-not-radical-her-rise-may-herald-progressive-change/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/kamala-harris-is-not-radical-her-rise-may-herald-progressive-change/?outputType=amp"
+  - title: "COVID-19 in DC: Who's tested positive and negative so far in Trump's orbit"
+    excerpt: "Since it was revealed that White House adviser Hope Hicks had tested positive for COVID-19, nearly a dozen other cases in Washington, D.C., have come to light -- including that of President Donald Trump."
+    publishedDateTime: 2020-10-04T06:07:00Z
+    webUrl: "https://abcnews.go.com/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/covid-19-dc-positive-negative/story?id=73406477"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/covid-19-dc-positive-negative/story?id=73406477"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 123
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3C4C74HX44I6VBPXLFARRCUYZU.jpg&w=1440"
-        width: 1440
-        height: 967
+      - url: "https://s.abcnews.com/images/Politics/hope-hicks-rt-ps-201002_1601616556785_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Kamala Harris calls out Trump's debt-filled tax returns in debate. 'When we say in debt, it means you owe money to somebody.'"
-    excerpt: "\"When I first heard about it, I literally said, 'You mean $750,000?' And it was like, no, $750,\" Harris said in reference to Trump's tax returns."
-    publishedDateTime: 2020-10-08T11:20:00Z
-    webUrl: "https://www.businessinsider.com/kamala-harris-debate-debt-quote-trump-taxes-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/kamala-harris-debate-debt-quote-trump-taxes-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-debate-debt-quote-trump-taxes-2020-10?amp"
+  - title: "Donald Trump Doing 'Well,' But 'Not Yet Out of the Woods,' White House Says"
+    excerpt: "The president's physician sent a memo Saturday night with updates on Trump's condition, saying he's fever-free, and has completed his second dose of Remdesivir."
+    publishedDateTime: 2020-10-04T01:41:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-doing-well-not-yet-out-woods-white-house-says-1536232?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 123
     images:
-      - url: "https://i.insider.com/5f7e6f6c282c500018c7941c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1645785/donald-trump.jpg"
+        width: 3525
+        height: 2350
         isCached: true
-  - title: "VP debate live: Kamala Harris slams Mike Pence over coronavirus response and healthcare"
-    excerpt: "Harris attacks the Trump administrations coronavirus response and plans on healthcare"
-    publishedDateTime: 2020-10-08T03:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020?page=with:block-5f7e7c258f08aa9a8353623b"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/07/debate-latest-vice-presidential-kamala-harris-mike-pence-news-updates-tonight-2020"
+  - title: "Senate confirmation hearings likely to start Oct. 12 for Barrett, Trump says"
+    excerpt: "U.S. President Donald Trump said the Senate will likely open hearings on his third Supreme Court nominee, Amy Coney Barrett, on Oct. 12 and he expected a full Senate vote before the Nov. 3 election."
+    publishedDateTime: 2020-09-27T00:50:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-senate-idUSKBN26H13E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26H13E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26H13E"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Reuters
+      domain: reuters.com
     quality: 122
-  - title: "'No wonder I didn't lose my hair!': Trump credits McDonald's fries for his hair"
-    excerpt: "Between a flurry of tweets about the coming election, President Donald Trump replied to an article suggesting McDonald's fries might cure baldness."
-    publishedDateTime: 2020-10-01T19:29:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-credits-his-hair-to-mcdonalds-fries-2020-10?amp"
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200927&t=2&i=1535059150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8P0NW"
+        width: 855
+        height: 545
+        isCached: true
+  - title: "Donald Trump's taxes already at issue in at least two New York investigations"
+    excerpt: "Even before The New York Times' major report, President Trump's taxes were at the center of at least two major New York investigations."
+    publishedDateTime: 2020-09-28T19:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/28/donald-trump-taxes-ny-investigations/3565470001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3565470001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3565470001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/23/NFTU/b647233f-080a-4cf7-84c2-97af9391e035-Election_2020_Trump.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to continue campaigning while Trump quarantines after testing positive for COVID"
+    excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
+    publishedDateTime: 2020-10-02T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892854002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election live updates: Trump to deliver remarks on the coronavirus amid fallout from report he avoided taxes"
+    excerpt: "Democratic presidential nominee has no events scheduled Monday but is dispatching his running mate to North Carolina to highlight the battle over the president's Supreme Court nominee."
+    publishedDateTime: 2020-09-28T11:55:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/28/trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/28/trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/28/trump-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 121
     images:
-      - url: "https://i.insider.com/5f759d060ab50d00184ad7e7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-28-2020/t_8b4c82a8ce314936b2fa210e9412321c_name_2232561e_0117_11eb_b92e_029676f9ebec.jpg&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Vice President Mike Pence and second lady test negative for coronavirus following Trump's positive diagnosis"
     excerpt: "Vice President Mike Pence and second lady Karen Pence have both tested negative for the coronavirus, Pence’s spokesman said Friday, hours after President Donald Trump announced he and the first lady tested positive."
@@ -1869,155 +1262,245 @@ related:
         width: 594
         height: 401
         isCached: true
-  - title: "Can Kamala Harris be president? How about Mike Pence? That’s what’s at stake in VP debate"
-    excerpt: "With President Trump having been hospitalized after contracting COVID-19 and Democratic presidential nominee Joe Biden risking exposure to the virus by traveling far more than most Americans, Wednesday’s debate between the vice president and the Democratic nominee will be anything but an afterthought."
-    publishedDateTime: 2020-10-06T01:09:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Can-Kamala-Harris-be-president-How-about-Mike-15623377.php"
+  - title: "Factbox: Trump visited seven states in week before novel coronavirus diagnosis"
+    excerpt: "U.S. President Donald Trump's diagnosis for the novel coronavirus came in the midst of a particularly hectic time for the Republican president, who is campaigning for re-election on Nov. 3 and working to appoint a new justice to the Supreme Court."
+    publishedDateTime: 2020-10-02T17:40:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-events-factb-idUSKBN26N2ZW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2ZW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2ZW"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
+      name: Reuters
+      domain: reuters.com
     quality: 121
     images:
-      - url: "https://s.hdnux.com/photos/01/14/42/40/20064307/5/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535908172&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG911V6"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Kamala Harris should boost the ratings of this year’s vice presidential debate"
-    excerpt: "If the vice presidential debate happens, TV networks will have to thank Kamala Harris for what will likely be an improvement in ratings from prior years."
-    publishedDateTime: 2020-10-05T19:51:00Z
-    webUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/"
-    ampWebUrl: "https://qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1913384/kamala-harris-is-the-draw-for-the-2020-vice-presidential-debate/amp/"
+  - title: "Trump's medical status unclear as doctors say he could be discharged on Monday"
+    excerpt: "President Donald Trump could be discharged from the hospital where he is being treated for COVID-19 as soon as Monday, according to his doctors, although his condition remains unclear and outside experts warn that his case may be severe."
+    publishedDateTime: 2020-10-05T04:30:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-int-idUSKBN26Q0DQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q0DQ"
     type: article
     provider:
-      name: Quartz
-      domain: qz.com
+      name: Reuters
+      domain: reuters.com
     quality: 121
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/10/kamala-harris-2020-vp-e1601914206329.jpg?quality=75&strip=all&w=1400"
-        width: 1400
-        height: 788
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201005&t=2&i=1536164705&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9407O"
+        width: 785
+        height: 545
         isCached: true
-  - title: "Kamala Harris’s spot on the debate stage signals promise for American democracy"
-    excerpt: "The suggestion that a person born abroad, especially if they aren’t White, isn’t really American has a long history, shaped by American racial hierarchies and ideas of citizenship. At Wednesday’s vice-presidential debate,"
-    publishedDateTime: 2020-10-07T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harriss-spot-debate-stage-signals-promise-american-democracy/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/07/kamala-harriss-spot-debate-stage-signals-promise-american-democracy/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/07/kamala-harriss-spot-debate-stage-signals-promise-american-democracy/?outputType=amp"
+  - title: "Donald Trump: What you need to know about the Republican nominee for president"
+    excerpt: "Donald Trump, the 45th president of the United States, hasn't stopped campaigning since winning in 2016. He filed for reelection on the day of his inauguration."
+    publishedDateTime: 2020-10-08T14:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/donald-trump-republican-nominee-president/story?id=67473973"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 121
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-mar-a-lago-01-gty-jc-191224_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Nancy Pelosi Says Donald Trump's Actions Were 'Brazen Invitation' to Catch COVID"
+    excerpt: "Speaker of the House Nancy Pelosi took aim at Donald Trump's previous actions following the president's positive coronavirus test result."
+    publishedDateTime: 2020-10-02T14:34:00Z
+    webUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855"
+    ampWebUrl: "https://www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nancy-pelosi-donald-trump-covid-1535855?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1644994/speaker-house-nancy-pelosi.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "White House: VP Mike Pence tests negative and ‘remains in good heath,’ after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and ‘remains in good heath,’ after Trump tests positive for COVID-19. Copyright 2020 The Associated Press. All rights reserved. This material may not be published, broadcast,"
+    publishedDateTime: 2020-10-02T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19/2020/10/02/64b20a0a-04a7-11eb-b92e-029676f9ebec_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 121
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I5RXJ2AFFYI6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 1034
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "'I'm speaking': Kamala Harris curbs Mike Pence's interruption in vice presidential debate"
-    excerpt: "Sen. Kamala Harris swiftly reclaimed her time when Vice President Mike Pence interrupted her at the vice presidential debate."
-    publishedDateTime: 2020-10-08T11:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/08/im-speaking-kamala-harris-reclaims-floor-mike-pence-debate/5920853002/"
+  - title: "'Anyone can get it,' Trump supporters shocked at diagnosis, unwavering in support"
+    excerpt: "As Americans digested the news on Friday that President Donald Trump had tested positive for the novel coronavirus, some of his backers expressed surprise that he hadn't been safe from infection and said their support for him was not diminished."
+    publishedDateTime: 2020-10-02T19:20:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-voters-idUSKBN26N37J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N37J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N37J"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535926755&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9122K"
+        width: 794
+        height: 545
+        isCached: true
+  - title: "Factbox: Trump White House, campaign staff who have tested positive for COVID-19"
+    excerpt: "News of President Donald Trump's COVID-19 diagnosis has upended the U.S. presidential election campaign entering its final month and roiled stock markets, raising questions about succession and prompting White House aides to insist that Trump would keep a busy,"
+    publishedDateTime: 2020-10-02T23:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-staff-fa-idUSKBN26N3FB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N3FB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N3FB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201002&t=2&i=1535948470&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9126O"
+        width: 808
+        height: 545
+        isCached: true
+  - title: "'Operation MAGA': Trump campaign to resume in-person events with Pence Ariz. trip as president battles COVID-19"
+    excerpt: "The trip will begin what the campaign is calling \"Operation MAGA\" – a return of in-person campaign events led by top surrogates as Trump is sidelined."
+    publishedDateTime: 2020-10-04T01:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/mike-pence-campaign-person-arizona-trump-recovers-covid-19/3608249001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3608249001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3608249001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/189f38a2-9a66-4a7a-a8b6-71cc9c5cde57-3da043d6-e8e3-48d9-9d09-8333ad32fee5_thumbnail.png?quality=10"
-        width: 480
-        height: 480
-        isCached: true
-  - title: "Trump says Kamala Harris can't be the first woman to be president because she 'comes in through the back door'"
-    excerpt: "President Donald Trump said Kamala Harris, Joe Biden's vice-presidential pick, had acted in \"no way for a woman\" to become president."
-    publishedDateTime: 2020-09-18T19:03:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-kamala-harris-cant-be-the-first-woman-president-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
     quality: 120
     images:
-      - url: "https://i.insider.com/5f64e358323fc4001e0d722d?width=1200&format=jpeg"
-        width: 1019
-        height: 509
-        isCached: true
-  - title: "For Donald Trump to defy the odds again, his supporters can't fear mail-in voting"
-    excerpt: "I've talked with Trump voters who, on the one hand, are reluctant to vote by mail and, on the other, are afraid to venture to the polls in person."
-    publishedDateTime: 2020-09-24T11:04:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/09/24/donald-trump-mail-in-voting-florida-2020-election-column/3504237001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3504237001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3504237001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/202894dc-0bcd-452e-946a-6f550de7a30f-Pence_QAnon.jpg?auto=webp&crop=4490,2526,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Sen Kamala Harris and her husband reported earning nearly $3.1 million last year"
-    excerpt: "Public financial records show Kamala Harris and her husband's combined assets to be worth $2.8 million to $6.3 million."
-    publishedDateTime: 2020-09-29T23:38:00Z
-    webUrl: "https://www.cnbc.com/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/09/25/kamala-harris-and-husband-worth-up-to-6point3-million.html"
+  - title: "White House: VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and 'remains in good health,' after Trump tests positive for COVID-19. 24/7 coverage of breaking news and live events"
+    publishedDateTime: 2020-10-03T17:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/white-house-vp-mike-pence-tests-negative-remains-73384072"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106693918-1599577154420-gettyimages-1271222751-cn9i9686_2020090755022086.jpeg?v=1599577261"
-        width: 3000
-        height: 2000
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
-  - title: "Trump and Biden face off in first presidential debate"
-    excerpt: "After months of long-distance attacks, President Trump and former Vice President Joe Biden are facing off in Cleveland for their first presidential debate. Ed O'Keefe reports."
-    publishedDateTime: 2020-09-29T23:53:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-and-biden-face-off-in-first-presidential-debate/"
+  - title: "Supreme Court live updates: Trump nominates Amy Coney Barrett at White House event"
+    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
+    publishedDateTime: 2020-09-26T20:49:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/29/daf5b565-8cd2-4f1e-930b-b9b320374df1/thumbnail/1200x630/838c7ceca12060ee70bf086a2627041a/0929-en-okeefe-556382-640x360.jpg"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 974
+        isCached: true
+  - title: "White House adviser Hope Hicks tests positive for COVID after traveling with Trump"
+    excerpt: "White House adviser Hope Hicks has coronavirus after she traveled with President Donald Trump in the last few days. A person familiar with Hicks' situation but who was not authorized to discuss it confirmed to USA TODAY she tested positive."
+    publishedDateTime: 2020-10-02T01:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/01/hope-hicks-tests-positive-covid-after-traveling-trump/5889312002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5889312002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5889312002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/f10e562b-768c-4849-974c-63f4edf662dd-Donald_Trump_Melania_Trump.jpg?auto=webp&crop=3503,1970,x0,y107&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Vice presidential candidates Mike Pence and Kamala Harris to face off in high-stakes debate"
-    excerpt: "The vice presidential debate between Mike Pence and Kamala Harris will take on added significance after President Trump's COVID-19 diagnosis. CBS News political contributors Jamal Simmons and Terry Sullivan joined \"CBS This Morning\" to discuss the high-stakes debate."
-    publishedDateTime: 2020-10-07T13:08:00Z
-    webUrl: "https://www.cbsnews.com/video/vice-presidential-candidates-mike-pence-and-kamala-harris-to-face-off-in-high-stakes-debate/"
+  - title: "New York attorney general's office deposing Eric Trump in tax investigation: report"
+    excerpt: "President Trump's son Eric Trump is being deposed Monday as part of an investigation into whether or not the value of certain Trump Organization assets were improperly inflated in order to gain tax benefits."
+    publishedDateTime: 2020-10-05T21:34:00Z
+    webUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax"
+    ampWebUrl: "https://thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519696-new-york-attorney-generals-office-deposing-eric-trump-in-tax?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
+      name: The Hill
+      domain: thehill.com
+    quality: 119
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/07/03c96672-30d0-4c22-b88d-c959a9b56e1b/thumbnail/1200x630/a1045e62dd9076781c2e7870e3d338fe/pence-harris-561231-640x360.jpg"
+      - url: "https://thehill.com/sites/default/files/trumperic2_082520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Coronavirus again dominates campaign as Trump struggles to regain political ground"
+    excerpt: "The president and Democrat Joe Biden on Tuesday promoted their very different approaches to battling the virus — and handling the presidency."
+    publishedDateTime: 2020-10-07T05:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/campaign-coronavirus-trump-biden/2020/10/06/db31bfde-07e7-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/campaign-coronavirus-trump-biden/2020/10/06/db31bfde-07e7-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/campaign-coronavirus-trump-biden/2020/10/06/db31bfde-07e7-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AR6BVAIDUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "President Trump Ends Next Stimulus Package Negotiations Between Mnuchin And Pelosi"
+    excerpt: "President Trump has instructed his representatives, which to this point have consisted of Treasury Secretary Steven Mnuchin and White House chief of staff Mark Meadows, to stop negotiations until after the election."
+    publishedDateTime: 2020-10-06T19:31:00Z
+    webUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/"
+    ampWebUrl: "https://www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimwang/2020/10/06/president-trump-ends-next-stimulus-package-negotiations-between-mnuchin-and-pelosi/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cc4d4c5a627c507008af0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4752%26cropY1%3D0%26cropY2%3D2673"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo"
-    excerpt: "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes."
-    publishedDateTime: 2020-10-08T21:31:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php"
+  - title: "2020 election live updates: Trump says he may hold rallies this weekend; doctor said he's completed COVID therapy"
+    excerpt: "President Donald Trump said Thursday he may hold campaign rallies this weekend in Florida and Pennsylvania, an announcement that comes a week after he tested positive for COVID-19 as part of a larger White House coronavirus outbreak."
+    publishedDateTime: 2020-10-09T11:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/2020-election-updates-trump-says-he-may-hold-rallies-weekend/5882165002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882165002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882165002"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 120
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
     images:
-      - url: "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/7077f37f-bd3d-40b2-bd2e-b11a7fe2af2b-AP_Election_2020_House_New_York.jpg?auto=webp&crop=5653,3180,x0,y565&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "China had mocked Trump for not taking the pandemic seriously. Now it's very personal."
     excerpt: "China is riveted by news of Trump’s positive coronavirus test, even as senior officials remain reserved in their public comments."
@@ -2035,102 +1518,177 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Megyn Kelly scolds Kamala Harris on debate facial expressions: 'Take it like a woman'"
-    excerpt: "Megyn Kelly scolded Sen. Kamala Harris Kamala Harris Five takeaways from the vice presidential debate Pence targets Biden over"
-    publishedDateTime: 2020-10-08T13:26:00Z
-    webUrl: "https://thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a"
-    ampWebUrl: "https://thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/520147-megyn-kelly-scolds-kamala-harris-on-debate-facial-expressions-take-it-like-a?amp"
+  - title: "'Starting to feel good.' Trump releases new video from Walter Reed amid COVID battle"
+    excerpt: "Trump's latest video came as the White House has struggled to offer a consistent message about the president's condition since he tested positive for COVID-19."
+    publishedDateTime: 2020-10-03T23:21:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/03/trump-tweets-video-walter-reed-feeling-much-better-covid/3613162001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3613162001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3613162001"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: USA Today
+      domain: usatoday.com
     quality: 118
     images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_pencemike2_100720getty_0.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Taylor Swift Will Cheer on Kamala Harris With Custom Cookies During Tonight's Debate"
-    excerpt: "The singer also formally announced that she's voting for Joe Biden, and shared a photo of cookies she made featuring the Biden/Harris campaign logo."
-    publishedDateTime: 2020-10-07T21:30:00Z
-    webUrl: "https://www.newsweek.com/taylor-swift-kamala-harris-debates-cookies-voting-1537233"
-    ampWebUrl: "https://www.newsweek.com/taylor-swift-kamala-harris-debates-cookies-voting-1537233?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/taylor-swift-kamala-harris-debates-cookies-voting-1537233?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1647691/taylor-swift.jpg"
-        width: 2500
-        height: 1407
-        isCached: true
-  - title: "Kamala Harris 'Nude' Google Searches After Debate Speak Volumes About Women in Politics"
-    excerpt: "The vice presidential debate on Wednesday was followed by a spike in people searching Google for Senator Kamala Harris, alongside the terms \"nude,\" \"bathing suit,\" and \"bikini.\" With less than a month to go until the presidential election on November 3,"
-    publishedDateTime: 2020-10-08T15:01:00Z
-    webUrl: "https://www.newsweek.com/kamala-harris-nude-google-searches-debate-women-politics-1537461"
-    ampWebUrl: "https://www.newsweek.com/kamala-harris-nude-google-searches-debate-women-politics-1537461?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kamala-harris-nude-google-searches-debate-women-politics-1537461?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1647999/kamala-harris-vice-presidential-debate-getty.jpg"
-        width: 3112
-        height: 2071
-        isCached: true
-  - title: "Rick Santorum cut off female co-panelist Gloria Borger while she was talking about Mike Pence interrupting Kamala Harris at the VP debate"
-    excerpt: "Pence interrupted Harris twice as often during Wednesday night's vice-presidential debate, prompting criticism from the CNN analyst Borger."
-    publishedDateTime: 2020-10-08T09:53:00Z
-    webUrl: "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rick-santorum-cut-off-gloria-borger-discussing-pence-interruption-video-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f7ed3e0c655f6001969ed92?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Opinion: South Asians should celebrate Kamala Harris nomination and confront our own racism"
-    excerpt: "It paved the way for the passing of the Immigration and Nationality Act of 1965 which opened doors for Asians to migrate. Together, the provisions contained in these acts made it possible for immigrants like us to live as Americans."
-    publishedDateTime: 2020-09-24T08:24:00Z
-    webUrl: "https://www.houstonchronicle.com/opinion/outlook/article/Opinion-South-Asians-should-celebrate-Kamala-15591861.php"
-    ampWebUrl: "https://www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/outlook/amp/Opinion-South-Asians-should-celebrate-Kamala-15591861.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 115
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/24/12/20005524/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Election Countdown: Mike Pence-Kamala Harris debate and the fly"
-    excerpt: "Vice President Mike Pence and U.S. Sen. Kamala Harris debated Tuesday night. Unlike last week's presidential debate, this encounter didn't unravel into shouting and name calling. But it was contentious,"
-    publishedDateTime: 2020-10-08T05:06:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/08/election-countdown-mike-pence-kamala-harris-debate-and-fly/5919935002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5919935002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5919935002"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/NPPP/6c982919-1a65-4965-a51e-896e9f6fd8c2-APTOPIX_Election_2020_Debate.jpg?auto=webp&crop=7246,4076,x0,y368&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/USAT/d2ae364a-7b8b-4de7-9725-78b99d3d4733-AP20268715537127.jpg?auto=webp&crop=3092,1739,x0,y160&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says 'real test' ahead in his COVID fight after mixed messages from White House"
+    excerpt: "President Donald Trump told Americans from his hospital room that the next few days will be the \"real test\" of his treatment for COVID-19, after a series of contradictory messages from the White House caused widespread confusion about his condition."
+    publishedDateTime: 2020-10-04T04:28:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump/trump-says-real-test-ahead-in-his-covid-fight-after-mixed-messages-from-white-house-idUSKBN26P04A"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P049"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P049"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536074415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG93029"
+        width: 1009
+        height: 545
+        isCached: true
+  - title: "Eric Trump answers questions from NY investigators in examination of family business"
+    excerpt: "President Donald Trump's son Eric answered questions Monday from New York state investigators looking into his family's business practices. The office of New York Attorney General Letitia James confirmed that the video deposition took place as scheduled,"
+    publishedDateTime: 2020-10-06T13:35:00Z
+    webUrl: "https://www.cbsnews.com/news/eric-trump-deposition-new-york-investigators-family-business/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/eric-trump-deposition-new-york-investigators-family-business/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 118
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/06/17cd3855-485e-4dfc-aea1-bf33d733ce9d/thumbnail/1200x630/605201032786294968670388fc939ec5/gettyimages-1277456367.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump insisting on working from Oval Office despite quarantine rules, infection risks"
+    excerpt: "A top aide to President Donald Trump said he is eager to get back to working in the Oval Office and could do so as early as Wednesday despite infection risks."
+    publishedDateTime: 2020-10-07T21:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insisting-working-oval-office-quarantine-rules-infection/story?id=73472757"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/International/trump-oval-rt-rc-201007_1602100418582_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Donald Trump doesn’t really care about white supremacy and you’re not going to make him"
+    excerpt: "President Trump has been consistently clear about his view of white supremacists. If you expect him to spontaneously denounce them, you’ll be waiting for a while. If, however, you insist that he does so,"
+    publishedDateTime: 2020-09-30T18:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/30/donald-trump-doesnt-really-care-about-white-supremacy-youre-not-going-make-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4DAO4XQAJQI6XMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "After mixed messages from White House, Trump says 'real test' ahead in his COVID fight"
+    excerpt: "President Donald Trump said from his hospital room on Saturday that he felt \"much better\" but the next few days will be \"the real test\" of his treatment for COVID-19, capping a day of contradictory messages from the White House about his condition."
+    publishedDateTime: 2020-10-04T09:52:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump/trump-says-next-days-of-covid-19-treatment-will-be-real-test-idUSKBN26O03M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O03M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O03M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536069234&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9301B"
+        width: 1009
+        height: 545
+        isCached: true
+  - title: "Trump Says Stimulus Talks Are Back On—But Not Much Has Changed Since He Called Them Off"
+    excerpt: "This week, the president has veered wildly in his statements about the status of coronavirus aid negotiations."
+    publishedDateTime: 2020-10-08T14:46:00Z
+    webUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/"
+    ampWebUrl: "https://www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sarahhansen/2020/10/08/trump-says-stimulus-talks-are-back-on-but-not-much-has-changed-since-he-called-them-off/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 117
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f252d9c0ba07e5be84c33%2F0x0.jpg%3FcropX1%3D402%26cropX2%3D4917%26cropY1%3D429%26cropY2%3D2968"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "More than half of Americans disapprove of President Trump's handling of race, survey says"
+    excerpt: "According to a survey from the Democracy Fund + UCLA Nationscape Project, 56% of Americans disapprove of the president's handling of race – a six-percentage point increase from February, When broken down by race and ethnicity,"
+    publishedDateTime: 2020-10-03T09:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/survey-more-than-half-americans-disapprove-trumps-handling-race/5881109002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5881109002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5881109002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What the White House and Trump allies said about his condition over the course of the day"
+    excerpt: "For the public, though, the scale of Trump’s illness only became apparent Friday afternoon, when the White House announced that the president would be headed to Walter Reed for several days. Since the diagnosis was made public early that morning,"
+    publishedDateTime: 2020-10-03T07:15:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/what-white-house-trump-allies-said-about-his-condition-over-course-day/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALK34XQFAUI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "On Monday, Trump updated the nation on coronavirus strategy. By Friday, he tested positive."
+    excerpt: "Trump interacted with scores of staff members, donors and supporters this week. It is unclear how many other aides who had come into close contact with him had tested positive."
+    publishedDateTime: 2020-10-02T08:40:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-nyt-trump-covid-19-test-20201002-e5dsclo755ehflim2pwkmhst7i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/7cuN1FZK5fALhAuqpH7vAFylQrs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SCW4TW76LFBM3C2RAJC7UPNQY4.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "After Trump's COVID-19 diagnosis, Biden says masks not about being a 'tough guy'"
+    excerpt: "Democratic presidential nominee Joe Biden said on Friday that President Donald Trump's coronavirus diagnosis shows the importance of taking the pandemic seriously, telling Americans that wearing masks is more important than being a \"tough guy."
+    publishedDateTime: 2020-10-03T05:58:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-biden-int-idUSKBN26N2XX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N2XX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
   - title: "Temporary contractor threw Trump mail-in ballots in trash, Pennsylvania county officials say"
     excerpt: "An incident regarding \"a small number\" of discarded mail-in ballots in Pennsylvania -- which has sparked a Department of Justice investigation and drawn the attention of President Donald Trump-- appears to be rooted in an administrative error by a temporary contractor working at the Luzerne County Elections Bureau,"
     publishedDateTime: 2020-09-26T13:44:00Z
@@ -2147,6 +1705,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Supreme Court live updates: Trump expected to nominate Amy Coney Barrett at White House event"
+    excerpt: "President Trump's nominee to the Supreme Court sets up a bitter confirmation battle just weeks before the presidential election."
+    publishedDateTime: 2020-09-26T18:42:00Z
+    webUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/"
+    ampWebUrl: "https://www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/26/supreme-court-trump-biden-live-updates/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7FGIG7X7PMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 974
+        isCached: true
+  - title: "Trump administration slashes refugee program amid president's campaign attacks on immigrants"
+    excerpt: "In Obama's final year in office, the annual cap on refugees was 110,000. Trump has pared that down. In fiscal year 2021, the limit will be 15,000."
+    publishedDateTime: 2020-10-01T15:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/01/trump-moves-slash-refugee-resettlement-amid-campaign-attacks/3574637001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3574637001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3574637001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/08/USAT/0389e08b-9e09-41b0-a4cb-931332d3ac83-GTY_1162402975.JPG?auto=webp&crop=5472,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Mike Pence claims he was with President Trump in Oval Office hours before debate"
     excerpt: "Vice President Mike Pence, at a debate watch event in Lititz, Pa., on Tuesday, says he met President Trump in the Oval Office just hours before."
     publishedDateTime: 2020-10-02T19:59:00Z
@@ -2161,51 +1751,101 @@ related:
         width: 4363
         height: 2909
         isCached: true
-  - title: "The unique pressures of being Kamala Harris come into focus with her in the debate spotlight"
-    excerpt: "The Democratic vice-presidential nominee will be expected to be strong without risking gains made by her ticket."
-    publishedDateTime: 2020-10-07T16:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/unique-pressures-being-kamala-harris-come-into-focus-with-her-debate-spotlight/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/unique-pressures-being-kamala-harris-come-into-focus-with-her-debate-spotlight/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/unique-pressures-being-kamala-harris-come-into-focus-with-her-debate-spotlight/?outputType=amp"
+  - title: "President Donald Trump's coronavirus infection draws international sympathy from Putin, Merkel"
+    excerpt: "\"I am certain that your inherent vitality, good spirits and optimism will help you cope,\" said Russia President Vladimir Putin."
+    publishedDateTime: 2020-10-02T10:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/02/trumps-coronavirus-infection-draws-sympathy-putin-merkel/5892529002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892529002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892529002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/02/USAT/a2e10a3c-8413-4e8f-8fc3-2994197d3084-AP20184533744980.jpg?auto=webp&crop=5330,2999,x0,y177&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump seemed to defy the laws of science and disease. Then, the coronavirus caught up with him."
+    excerpt: "Mask-wearing had become rare among the president’s staff, and he rejected precautions before he tested positive."
+    publishedDateTime: 2020-10-02T23:18:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-seemed-to-defy-the-laws-of-science-and-disease-then-the-coronavirus-caught-up-with-him/2020/10/02/5b4c5232-04bf-11eb-897d-3a6201d6643f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-seemed-to-defy-the-laws-of-science-and-disease-then-the-coronavirus-caught-up-with-him/2020/10/02/5b4c5232-04bf-11eb-897d-3a6201d6643f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-seemed-to-defy-the-laws-of-science-and-disease-then-the-coronavirus-caught-up-with-him/2020/10/02/5b4c5232-04bf-11eb-897d-3a6201d6643f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-06-2020/t_bc61d02d797943d09ee1b458eb44a011_name_20200925_VP_Debates_preview_edit_00_03_46_21_Still017.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "VP debate 2020: Kamala Harris attacks Trump administration over Covid-19 healthcare"
-    excerpt: "Kamala Harris attacked the Trump administration's handling of healthcare for those with pre-existing conditions."
-    publishedDateTime: 2020-10-09T06:25:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-54459143"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 114
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08tphmm.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Hillary Clinton praises Kamala Harris debate performance: 'She swatted away the lies with ease'"
-    excerpt: "Hillary Clinton congratulated Democratic vice presidential nominee Kamala Harris (D-Calif.) on Thursday for what the former secretary of State called a “masterful debate performance” the night before."
-    publishedDateTime: 2020-10-08T15:35:00Z
-    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she"
-    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/520186-hillary-clinton-praises-kamala-harris-debate-performance-she?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
     quality: 113
     images:
-      - url: "https://thehill.com/sites/default/files/clintonhillary_08282019_2.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M5REJBQDR4I6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "GOP lawmakers, Trump advisers broke ranks with the president after he decided to halt stimulus talks until after the election"
+    excerpt: "A Trump campaign adviser told Axios, \"You have to try to be this politically inept. What is going on in the White House? Where is Mark Meadows?\""
+    publishedDateTime: 2020-10-07T04:56:00Z
+    webUrl: "https://www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gop-lawmakers-trump-advisers-slam-trump-after-halting-stimulus-talks-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5f7cf546282c500018c79040?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump planning to host 1st in-person event since diagnosis at White House on Saturday: Sources"
+    excerpt: "President Donald Trump is scheduled to host his first in-person event since testing positive for the coronavirus on Saturday at the White House discussing \"law and order,\" despite evidence of a growing coronavirus outbreak at the White House this week."
+    publishedDateTime: 2020-10-10T05:05:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-planning-host-1st-person-event-diagnosis-white/story?id=73512644"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-white-house-return-gty-jc-201006_1602021609016_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Health 202: Trump tests positive for coronavirus, throwing into chaos final days of campaign"
+    excerpt: "President Trump and first lady Melania Trump have tested positive for the novel coronavirus. The situation is unprecedented and deeply ironic, as the virus Trump downplayed now threatens to upend the remaining 32 days of his campaign."
+    publishedDateTime: 2020-10-02T11:38:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/02/health-202-trump-tests-positive-coronavirus-throwing-into-chaos-final-days-campaign/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQADIXAEUEI6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Masks still won't be required in the White House after Trump's COVID-19 diagnosis, official says"
+    excerpt: "President Donald Trump has repeatedly flouted recommendations from top public health experts to wear a mask or face-covering."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/masks-not-required-white-house-after-trump-covid-19-diagnosis-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f777ea0282c500018c785f2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Dow Jumps More Than 450 Points After President Trump Says He’s Being Discharged From The Hospital"
     excerpt: "Stocks jumped Monday afternoon after President Donald Trump announced he would be discharged from Walter Reed Medical Center at 6:30 p.m., with all of the main indexes adding close to 2%, as Wall Street eyes President Trump's Covid-19 recovery and the ongoing potential for successful stimulus negotiations."
@@ -2223,51 +1863,37 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
-    excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
-    publishedDateTime: 2020-10-08T15:14:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/08/live-updates-mike-pence-joe-biden-kamala-harris-arizona-campaign-stops/5917943002/"
-    ampWebUrl: "https://amp.freep.com/amp/5917943002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5917943002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/f7def4d1-394b-49c5-a0fd-c130cf1a6238-pence-biden.jpg?auto=webp&crop=899,506,x0,y45&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he'll skip debate, calls Kamala Harris a 'monster' in wide-ranging interview"
-    excerpt: "President Trump gave a wide-ranging interview on Fox Business Network on Oct. 8. Here are some key moments from those remarks."
-    publishedDateTime: 2020-10-10T06:04:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/trump-says-hell-skip-debate-calls-kamala-harris-a-monster-in-wide-ranging-interview/2020/10/08/024c3d97-89a8-4452-ab63-b5fac3e55b36_video.html"
+  - title: "Isolated in the White House, Trump struggles to project a sense of normalcy after canceled debate"
+    excerpt: "Though he was just released from Walter Reed National Military Medical Center on Monday, the president is eager to return to the campaign trail, advisers said."
+    publishedDateTime: 2020-10-09T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-debate-coronavirus-quarantine/2020/10/08/81e639be-0972-11eb-a166-dc429b380d10_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 112
     images:
-      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-08-2020/t_284839ba492d4f93b3443d65dfabb7cc_name_trump.jpg&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
-        width: 1484
-        height: 834
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3AEKCAJXAI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
-  - title: "Mary Trump is suing the president and his family, claiming millions of dollars in lost inheritance"
-    excerpt: "The lawsuit is similar to allegations that Mary Trump, the president's niece, presented in her damning tell-all memoir published in July."
-    publishedDateTime: 2020-09-24T18:20:00Z
-    webUrl: "https://www.businessinsider.com/mary-trump-sues-the-president-and-family-for-fraud-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/mary-trump-sues-the-president-and-family-for-fraud-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mary-trump-sues-the-president-and-family-for-fraud-2020-9?amp"
+  - title: "Trump will take a 'medical evaluation' administered by a Fox News doctor on TV, the network says"
+    excerpt: "The president will be interviewed by Tucker Carlson on Friday, Fox News said. It will be his first on-camera interview since his COVID-19 diagnosis."
+    publishedDateTime: 2020-10-09T13:17:00Z
+    webUrl: "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-medical-test-fox-news-doctor-tucker-carlson-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 111
+    quality: 112
     images:
-      - url: "https://i.insider.com/5f1401c83f73706e8e109b43?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 625
+      - url: "https://i.insider.com/5f805ff34c3b2e0019bba144?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Pressure mounts on Trump to clearly condemn white supremacy. The White House insists he already has"
     excerpt: "President Donald Trump avoided reporters when departing the White House Thursday as the White House maintains he has nothing to clarify on his stance on white supremacy."
@@ -2285,99 +1911,110 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "WATCH: Trump Deliberately Mispronounces Kamala Harris, Says She’s ‘No Mike Pence’"
-    excerpt: "President Donald Trump took a few shots at Senator Kamala Harris during a rally, deliberately butchering the pronunciation of her name and remarking that she's \"no Mike Pence.\""
-    publishedDateTime: 2020-09-26T14:02:00Z
-    webUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-deliberately-mispronounces-kamala-harris-says-shes-no-mike-pence/amp/"
+  - title: "Donald Trump is a 'Tyrant' and 'Not Your Friend', Says Suspect in Governor Whitmer Kidnapping Plot"
+    excerpt: "\"Trump is not your friend dude and it amazes me that people actually like believe that,\" Brandon Caserta, one of the men charged with conspiring to kidnap Whitmer, said in a video posted to Twitter by American producer and director Robby Starbuck."
+    publishedDateTime: 2020-10-09T13:55:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-tyrant-not-your-friend-says-suspect-governor-whitmer-kidnapping-plot-1537821?amp=1"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 110
+      name: Newsweek
+      domain: newsweek.com
+    quality: 111
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Trump-Pence-GettyImages-1228712934.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d.newsweek.com/en/full/1648606/gretchen-whitmer.jpg"
+        width: 2500
+        height: 1685
         isCached: true
-  - title: "Kamala Harris said President Trump \"denigrated the office\" with his performance at first debate"
-    excerpt: "Following the first presidential debate, Joe Biden's running mate, Senator Kamala Harris, said President Trump \"denigrated the office\" with his performance. Watch her full reaction here."
-    publishedDateTime: 2020-09-30T03:41:00Z
-    webUrl: "https://www.cbsnews.com/video/kamala-harris-reacts-to-presidential-debate/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 108
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/09/30/30e5a4ab-eb90-4d61-85e7-06f1fc733b46/thumbnail/1200x630/1dcf9a131367124f7b84356ca90adf71/cbsn-fusion-kamala-harris-reacts-to-presidential-debate-thumbnail-556621-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "When Are The Next Presidential Debates? Schedule Includes Two More Trump-Biden Showdowns, One Pence-Harris Faceoff"
-    excerpt: "Republican President Donald Trump and Democratic nominee Joe Biden are set to square off two more times in October, after a chaotic first debate on Tuesday."
-    publishedDateTime: 2020-10-01T01:36:00Z
-    webUrl: "https://www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683"
-    ampWebUrl: "https://www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/when-are-next-presidential-debates-schedule-includes-two-more-trump-biden-showdowns-3054683?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 108
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/us-president-donald-trump-and-democratic-candidate-joe.jpg"
-        width: 1024
-        height: 690
-        isCached: true
-  - title: "Tonight Kamala Harris may need to prove she’s tough, to beat gender stereotypes. That affects foreign policy."
-    excerpt: "When Kamala Harris and Mike Pence face off in the vice-presidential debate tonight, they’re likely to discuss foreign policy. This was an important topic at the vice-presidential debate in 1984. Then,"
-    publishedDateTime: 2020-10-07T11:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/07/tonight-kamala-harris-may-need-prove-shes-tough-beat-gender-stereotypes-that-affects-foreign-policy/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/07/tonight-kamala-harris-may-need-prove-shes-tough-beat-gender-stereotypes-that-affects-foreign-policy/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/07/tonight-kamala-harris-may-need-prove-shes-tough-beat-gender-stereotypes-that-affects-foreign-policy/?outputType=amp"
+  - title: "Hope Hicks returned to the White House to pull Trump across the finish line. Then coronavirus hit."
+    excerpt: "The pandemic may never have been more palpable for the president than the moment his most trusted aide took ill."
+    publishedDateTime: 2020-10-09T14:40:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/hope-hicks-job-coronavirus-trump-covid/2020/10/09/e73f97e6-0806-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 106
+    quality: 111
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O7P4N2QIAII6XBYZBXYVTUKHSQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FC36ZDE2EAI6VLLZ5334242GIE.jpg&w=1440"
         width: 1440
-        height: 951
+        height: 960
         isCached: true
-  - title: "Trump handmaid Mike Pence faces off with an impressive Kamala Harris: Mastio and Lawrence"
-    excerpt: "Pence didn't even pretend Trump has a plan to protect insurance for people with preexisting conditions. And Harris didn't answer on 'packing the court.'"
-    publishedDateTime: 2020-10-08T13:25:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/2020/10/08/vice-presidential-debate-mike-pence-kamala-harris-column/5910000002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5910000002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5910000002"
+  - title: "Post-debate, election live updates: Trump, who still has COVID-19, may hold event next week; insults largely absent from VP debate"
+    excerpt: "President Trump may hold an event Monday. The vice presidential debate was less chaotic than the Trump-Biden one. Latest COVID-19 and election news."
+    publishedDateTime: 2020-10-08T15:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/08/election-covid-live-updates-trump-miami-debate-pence-harris/5882077002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5882077002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5882077002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 106
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/054659b2-e6a2-4c75-a883-9b764a8c0ec6-harris_pence.jpg?auto=webp&crop=7000,3938,x0,y883&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/a81a3bbd-3b2d-4005-b5be-5681d7ec33e4-USP_News__Vice_Presidential_debate_between_Republi.jpg?auto=webp&crop=2826,1590,x1,y87&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Ramps Up Attacks Against Kamala Harris As Election Looms"
-    excerpt: "President Donald Trump has launched new attacks against Democratic vice presidential nominee Kamala Harris, as he continues to face an uphill battle for a second term."
-    publishedDateTime: 2020-09-11T23:16:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-ramps-attacks-against-kamala-harris-election-looms-3044409"
+  - title: "Donald Trump quarantines after positive Covid test; Mike Pence tests negative – live updates"
+    excerpt: "President to quarantine days after taking part in TV debate and campaign rally in Minnesota; Vice president’s daily test comes back negative"
+    publishedDateTime: 2020-10-02T12:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news?page=with:block-5f770ef68f083836ec4c5483"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/02/donald-trump-tests-positive-coronavirus-covid-mike-pence-joe-biden-us-politics-live-latest-news"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 109
+  - title: "People close to Trump are questioning whether his judgment is being affected by his steroids, reports say"
+    excerpt: "President Donald Trump's coronavirus treatment involves dexamethasone, a subject of speculation after he abruptly announced an end to stimulus talks."
+    publishedDateTime: 2020-10-08T01:01:00Z
+    webUrl: "https://www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-worry-coronavirus-steroid-affecting-judgment-reports-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f7d8c6e282c500018c7907f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Pelosi on 'The View': White House should stage a Trump 'intervention' after abrupt decision on COVID stimulus"
+    excerpt: "\"When the president just popped off and made that announcement without even informing us ... it \"insulted the Constitution,\" Nancy Pelosi said."
+    publishedDateTime: 2020-10-07T16:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/07/pelosi-the-view-white-house-should-stage-trump-intervention/5910334002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5910334002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5910334002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/2ca06dba-cded-4ca4-a3e7-254feb4332e8-AP_Congress_Pelosi.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Pennsylvania Governor Asks Trump Not to Come: Campaign Update"
+    excerpt: "President Donald Trump is ignoring calls from Pennsylvania’s governor to cancel and proceeding with a rally on Saturday. The list of ex-officials slamming Trump grows. And a campaign to get Americans to to work at polling places on Election Day has enlisted 500,"
+    publishedDateTime: 2020-09-25T21:38:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pennsylvania-governor-asks-trump-not-to-come-campaign-update/2020/09/25/b0f2cc20-ff24-11ea-b0e4-350e4e60cc91_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4NJV3H7EUI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "How Donald Trump Turned The Presidency Into A Business"
     excerpt: "Forbes' senior editor Dan Alexander examines President Trump's sprawling business interests in his new book, 'White House, Inc.' Alexander says the president has broken a number of pledges he made about how he would conduct business while in office."
@@ -2404,31 +2041,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Trump introduces his Supreme Court pick"
-    excerpt: "President Donald Trump officially announced federal judge Amy Coney Barrett to be his nominee for the nation's highest court, to fill the seat left open by the death of Supreme Court Justice Ruth Bader Ginsburg."
-    publishedDateTime: 2020-09-27T13:08:00Z
-    webUrl: "https://www.cbsnews.com/video/trump-introduces-his-supreme-court-pick/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/09/27/5d8733ab-498c-4932-9043-0d62d52cf6cd/thumbnail/1200x630/d1a4e77a1bb03365d14bdff320860491/trump-amyconeybarrett-554993-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump ex-campaign boss hospitalized amid threat to harm self"
-    excerpt: "President Donald Trump’s former campaign manager Brad Parscale was hospitalized Sunday after he threatened to harm himself, according to Florida police and campaign officials."
-    publishedDateTime: 2020-09-28T04:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-ex-campaign-boss-hospitalized-amid-threat-to-harm-self-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Ethics experts see national security concern in Trump's debt"
     excerpt: "Revelations that President Donald Trump is personally liable for more than $400 million in debt are casting a shadow over his presidency that ethics experts say raises national security concerns he could be manipulated to sway U."
     publishedDateTime: 2020-09-28T22:22:00Z
@@ -2440,45 +2052,109 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Kamala Harris holds event in North Carolina"
-    excerpt: "Watch \"Kamala Harris holds campaign event in North Carolina\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-09-28T19:18:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20200928185126-kamala-harris-holds-campaign-event-in-north-carolina/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/09/28/story_07027324_1601319784.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Risk assets rise on stimulus hopes and Trump's health progress"
-    excerpt: "Stocks and oil prices rose on Monday as stimulus hopes and suggestions Donald Trump's health was improving brought relief to markets after last week's rush to safety on uncertainty over the impact of the U."
-    publishedDateTime: 2020-10-05T14:15:00Z
-    webUrl: "https://www.reuters.com/article/us-global-markets-idUKKBN26Q00L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26Q00L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26Q00L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "US President Donald Trump leaves hospital by car"
-    excerpt: "President Donald Trump briefly left the hospital Sunday in his car to wave to supporters gathered outside. Earlier in the day, Trump's doctor said he \"continued to improve.\" (Oct. 4)"
-    publishedDateTime: 2020-10-04T23:30:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/04/us-president-donald-trump-leaves-hospital-car/3619782001/"
+  - title: "Trump: Millions of rapid virus tests for states"
+    excerpt: "President Donald Trump announces that millions of rapid coronavirus tests will be sent to states this week and is urging governors to use them to reopen schools. The Rose Garden announcement included an in-person demonstration of the test."
+    publishedDateTime: 2020-09-28T21:21:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/28/trump-millions-rapid-virus-tests-states/3567291001/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/87e0cb82-c9eb-4f5e-9fce-e85ac4be9bf8_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f4b141e2-bdfd-4db9-9a50-d2e1dbe5549e_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump moved to military hospital after COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump moved to a military hospital for treatment on Friday after being diagnosed with COVID-19 as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
+    publishedDateTime: 2020-10-02T23:02:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump/update-16-trump-to-be-moved-to-military-hospital-after-covid-19-diagnosis-idUSL1N2GT1OV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N0K4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N0K4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Trump to be moved to hospital for treatment after COVID-19 diagnosis"
+    excerpt: "U.S. President Donald Trump is moving to a military hospital for treatment after being diagnosed with COVID-19, a White House official said on Friday, as his administration and election campaign scrambled to adjust to an extraordinary twist in his turbulent presidency."
+    publishedDateTime: 2020-10-02T21:43:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN26N0K4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201002&t=2&i=1535828951&r=LYNXMPEG910W2&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Relying on testing to ward off COVID put Trump White House at risk"
+    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
+    publishedDateTime: 2020-10-04T03:24:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-trump-testing-insi-idCAKBN26O0FR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201003&t=2&i=1536018686&r=LYNXMPEG9209A&w=800"
+        width: 800
+        height: 527
+        isCached: true
+  - title: "Trump making progress but not out of danger, doctor says"
+    excerpt: "U.S. President Donald Trump is free of fever and improving after being hospitalized with COVID-19 but is not yet out of danger, his physician, Dr. Sean Conley, said late on Saturday."
+    publishedDateTime: 2020-10-04T01:51:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-evening/trump-making-progress-but-not-out-of-danger-doctor-says-idUSKBN26P01Z"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20201004&t=2&i=1536069379&r=LYNXMPEG93016&w=800"
+        width: 800
+        height: 499
+        isCached: true
+  - title: "Trump not yet on clear path to recovery, source says"
+    excerpt: "President Donald Trump is not yet on a clear path to recovery from COVID-19 and some of his vital signs over the last 24 hours were very concerning, a person familiar with the situation told reporters on Saturday."
+    publishedDateTime: 2020-10-03T17:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-conley/trump-doing-well-and-fever-free-after-positive-covid-19-test-white-house-medical-staff-idUSL1N2GU056"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0QZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0QZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+  - title: "Doctors: Trump 'not entirely be out of the woods'"
+    excerpt: "President Donald Trump's medical team says the president \"may not entirely be out of the woods yet\" as he heads back home to the White House. Dr. Sean Conley, the president's physician, delivered an update on the president's health Monday."
+    publishedDateTime: 2020-10-05T20:59:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/05/doctors-trump-not-entirely-out-woods/3629960001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/395788b2-2df3-4c6a-86fa-60427e99bafb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Japanese shares edge higher as Trump returns to White House"
+    excerpt: "Japanese stocks inched up on Tuesday, as risk sentiment improved after U.S. President Donald Trump returned to the White House following treatment at the hospital for COVID-19, easing fears over political uncertainty."
+    publishedDateTime: 2020-10-06T02:32:00Z
+    webUrl: "https://www.reuters.com/article/japan-stocks-midday-idUSL4N2GX0I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2GX0I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Trump leaves hospital to return to White House"
     excerpt: "U.S. President Donald Trump on Monday left the Walter Reed National Military Medical Center where he was receiving treatment for COVID-19 to return to the White House."
     publishedDateTime: 2020-10-05T23:12:00Z
@@ -2490,755 +2166,219 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Trump stages dramatic White House return"
-    excerpt: "Donald Trump staged a dramatic return to the White House Monday night after leaving the military hospital where he has been receiving an unprecedented level of care for COVID-19. Trump entered the White House without wearing a protective mask."
-    publishedDateTime: 2020-10-06T00:25:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/06/trump-stages-dramatic-white-house-return/3632449001/"
+  - title: "With COVID-19 diagnosis, Trump says 'I get it.' He doesn't."
+    excerpt: "President Donald Trump says he does “get it.” That revelation comes seven months — and almost 210,000 American deaths — is not the first time he has relied on personal experience to shape his views."
+    publishedDateTime: 2020-10-06T08:21:00Z
+    webUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/with-covid-19-diagnosis-trump-says-i-get-it-he-doesnt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pelosi says Trump unwilling to crush virus"
+    excerpt: "House Speaker Nancy Pelosi says President Donald Trump is \"putting himself first at the expense of the country” by halting negotiations over a new coronavirus aid package from Congress. (Oct. 6)"
+    publishedDateTime: 2020-10-07T00:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/pelosi-says-trump-unwilling-crush-virus/5904781002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/9b34bac6-3caf-4530-b130-fcd9c4a967b8_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f9cbb198-9900-4acd-a51e-e64c6509118c_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Where Kamala Harris Studied Economics"
-    excerpt: "Kamala Harris has called her time at Howard University \"one of the most important aspects of my life.\" Much of that time was spent studying economics."
-    publishedDateTime: 2020-10-06T10:30:00Z
-    webUrl: "https://www.npr.org/sections/money/2020/10/06/920350374/where-kamala-harris-studied-economics"
+  - title: "The Latest: Trump's doctor says president has 'no symptoms'"
+    excerpt: "The Latest on President Donald Trump's health after his COVID-19 diagnosis (all times local):"
+    publishedDateTime: 2020-10-06T21:42:00Z
+    webUrl: "https://www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-trumps-doctor-says-president-has-no-symptoms-2020-10?amp"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/05/gettyimages-1085875696-1-_wide-d4f7b3aca8bc8f3cb7238db6b73cff7c2f8cd6d4.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Experts: Trump should rest more after COVID"
-    excerpt: "Two Houston doctors that have treated hundreds of people suffering from COVID-19 say they'd keep a patient with President Donald Trump's age and physiology in the hospital for at least a week. (Oct. 7"
-    publishedDateTime: 2020-10-07T19:10:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/experts-trump-should-rest-more-after-covid/5913775002/"
+  - title: "Trump reports 'no symptoms,' returns to downplaying virus"
+    excerpt: "President Donald Trump, said to be making progress in his recovery from COVID-19, tweeted his eagerness to return to the campaign trail even as the outbreak that has killed more than 210,000 Americans reached ever more widely into the upper echelons of the U."
+    publishedDateTime: 2020-10-07T09:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-reports-no-symptoms-returns-to-downplaying-virus-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/707c0300-57bf-4595-a4fe-0fe95243102b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Kamala Harris proves her mettle"
-    excerpt: "Kamala D. Harris (D-Calif.) to the Democratic presidential ticket — even after her error-free rollout, an impressive convention speech and a winning debate performance — the nominee for vice president put on an impressive display Tuesday evening at the Supreme Court confirmation hearing for Judge Amy Coney Barrett."
-    publishedDateTime: 2020-10-14T14:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/14/harris-proves-her-mettle/?outputType=amp"
+  - title: "Trump will speak at a public event at the White House; it is not clear if he’s still contagious with coronavirus"
+    excerpt: "President Trump is planning to hold his first public event since he tested positive for the coronavirus, speaking at a Saturday gathering at the White House in a show of defiance that has become a central theme of his reelection campaign."
+    publishedDateTime: 2020-10-10T05:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-will-speak-at-a-public-event-at-the-white-house-it-is-not-clear-if-hes-still-contagious-with-coronavirus/2020/10/09/8ba71562-0a36-11eb-a166-dc429b380d10_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
-  - title: "Let's Talk About Kamala Harris"
-    excerpt: "The VP candidate's biography and heritage allow people to project all kinds of ideas onto her, and to see what they want to see. But Kamala Harris's identity is a very important lens into not just her own politics,"
-    publishedDateTime: 2020-10-14T04:31:00Z
-    webUrl: "https://www.npr.org/2020/10/13/923369723/lets-talk-about-kamala-harris"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/13/kamala-nprcodeswitch-ljohnsonartboard-3_wide-a7801770cf209ae48f74e18d4cd3a842a4e88f78.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Trump just gave Kamala Harris a secret weapon to use against Pence in the debate: journalist"
-    excerpt: "Appearing on MSNBC’s “AM Joy” with host Maria Teresa Kumar, Donald Trump biographer and Bloomberg editor Tim O’Brien said the president’s latest health issue handed Democratic vice presidential nominee Kamala Harris a powerful weapon to use ..."
-    publishedDateTime: 2020-10-04T15:57:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-just-gave-kamala-harris-a-secret-weapon-to-use-against-pence-in-the-debate-journalist/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
     quality: 104
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/kamala_pence.jpg"
-        width: 800
-        height: 430
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4K7GGQKQMI6XBM37HBHVPTDRU.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
-  - title: "Trump: Kamala Harris will have to take over for Biden after three months"
-    excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
-    publishedDateTime: 2020-10-10T02:22:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/9/trump-kamala-harris-will-have-take-over-joe-biden-/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/9/trump-kamala-harris-will-have-take-over-joe-biden-/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/9/trump-kamala-harris-will-have-take-over-joe-biden-/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 104
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_BIden_38230.jpg-c6f1d_c0-123-2946-1841_s1200x700.jpg?d6904f16af061206ca30c81bd1d572bfaf544cd7"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Democrats hammer Trump's Supreme Court pick, say could jeopardize Obamacare"
-    excerpt: "Democratic presidential candidate Joe Biden and others in his party on Saturday blasted President Donald Trump's choice of conservative judge Amy Coney Barrett for the Supreme Court, focusing in particular on the threat they said she would pose to healthcare for"
-    publishedDateTime: 2020-09-27T04:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-court-barrett-healthcare/democrats-hammer-trumps-supreme-court-pick-say-could-jeopardize-obamacare-idUSKBN26I024"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26I024"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26I024"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "UPDATE 1-Doctors to weigh if Trump can leave hospital on Monday -Trump aide"
-    excerpt: "U.S. President Donald Trump's medical team will weigh whether he can leave the hospital later on Monday after being admitted last week for COVID-19, White House chief of staff Mark Meadows said, adding that he was optimistic Trump will be discharged."
-    publishedDateTime: 2020-10-05T13:35:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-condition-idUSL1N2GW0FF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2GW0FF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2GW0FF"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 103
-  - title: "Faith, state leaders hold Biden-Harris counter rally during Vice President Pence visit to Atlanta"
-    excerpt: "It happened only about five minutes away from the Cobb Galleria, where Pence held a campaign luncheon and speaking event."
-    publishedDateTime: 2020-10-01T01:02:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/joe-biden-supporters-hold-rally-during-mike-pence-atlanta-visit/85-87394bbc-3ce9-4d6c-a670-ce67ea9ca498"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 102
-    images:
-      - url: "https://media.11alive.com/assets/WXIA/images/d5fbace7-3409-41d7-809a-c8125bcc322a/d5fbace7-3409-41d7-809a-c8125bcc322a_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "How sexist, racist attacks on Kamala Harris have spread online — a case study"
-    excerpt: "Kamala D. Harris (D-Calif.) found that a solid 54 percent of Americans approved, while only 29 percent had a negative opinion. But in the fetid corners of the Internet, a different set of plotlines took hold."
-    publishedDateTime: 2020-10-07T16:45:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/07/kamala-harris-sexist-racist-attacks-spread-online/?arc404=true"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/resizer/rxSfbVqaITkKDMUU8ZMvn7RrmiA=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOUFY4QD54I6XOJOAKLHN6PL5Q.jpg"
-        width: 1484
-        height: 990
-        isCached: true
-  - title: "These 3 debates show Mike Pence's evolution as a skilled politician and what to expect when he faces off against Kamala Harris"
-    excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
-    publishedDateTime: 2020-10-06T21:43:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-debate-strategy-from-1990-to-2016-2020-10"
+  - title: "Elon Musk says campaign donations from oil and gas companies 'limit' Trump's support for Tesla and electric vehicles"
+    excerpt: "Oil and gas interests have donated to Donald Trump more than any other federal candidate in the 2020 election, according to data from OpenSecrets."
+    publishedDateTime: 2020-09-28T18:43:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-trumps-campaign-donations-oil-gas-limit-tesla-support-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 102
     images:
-      - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
-        width: 600
-        height: 450
+      - url: "https://i.insider.com/5f7224370ab50d00184acd18?width=1200&format=jpeg"
+        width: 933
+        height: 466
         isCached: true
-  - title: "Mike Pence vs. Kamala Harris: When Is The Vice Presidential Debate?"
-    excerpt: "After the first presidential debate Tuesday night between President Donald Trump and Democratic nominee Joe Biden, Vice President Mike Pence and Democratic vice presidential nominee Kamala Harris will square off on Oct. 7. The vice presidential debate will ..."
-    publishedDateTime: 2020-09-30T00:50:00Z
-    webUrl: "https://www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961"
-    ampWebUrl: "https://www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/mike-pence-vs-kamala-harris-when-vice-presidential-debate-3053961?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 100
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Vice Presidential Debate: What to Expect When Harris, Pence Face Off"
-    excerpt: "As the nation looks forward to the 2020 vice presidential debate between Kamala Harris and Mike Pence next week, here’s what you need to know."
-    publishedDateTime: 2020-09-30T21:52:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/"
-    ampWebUrl: "https://www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/vice-presidential-debate-what-to-expect-when-harris-pence-face-off/2644382/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 100
-    images:
-      - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden, Kamala Harris to make campaign appearance in Arizona"
-    excerpt: "Joe Biden and running mate Sen. Kamala Harris are coming to Arizona to campaign Thursday just as early voting gets started. The Biden campaign announced the visit to Arizona late Thursday, hours after President Donald Trump announced he would return to the battleground state for his sixth and seventh visits on Monday and Tuesday."
-    publishedDateTime: 2020-10-02T03:11:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/01/joe-biden-kamala-harris-make-campaign-appearance-arizona/5890211002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5890211002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5890211002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Fabricated Kamala Harris tweet on removing cop account from Instagram"
-    excerpt: "Social media users are circulating a fabricated tweet allegedly from vice presidential candidate Kamala Harris, in which she asks for an account called “@cops.page” to be removed and says the focus should be on defunding the police,"
-    publishedDateTime: 2020-10-05T14:28:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-kamala-harris-police-tweet-idUSKBN26Q220"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q220"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q220"
+  - title: "'No regrets': Trump supporters at campaign rally unfazed by his positive test"
+    excerpt: "Callie Kaspszak, a 19-year-old registered Republican, was somewhat worried for her health when she heard on Friday that President Donald Trump had tested positive for the coronavirus, two days after she had attended his campaign rally in Minnesota."
+    publishedDateTime: 2020-10-02T19:46:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-rally-int-idUSKBN26N39M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26N39M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26N39M"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
-  - title: "Vice President Pence, Harris prep for debate with higher stakes"
-    excerpt: "NBC NEWS – Vice President Mike Pence and Senator Kamala Harris are expected to face off in a debate on Wednesday night against an extraordinary backdrop that has raised the stakes of the event."
-    publishedDateTime: 2020-10-05T13:43:00Z
-    webUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/"
-    ampWebUrl: "https://nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/politics/2020/10/05/vice-president-pence-harris-prep-for-debate-with-higher-stakes/amp/"
+    quality: 102
+  - title: "White House official says it's better Trump was hospitalized while he could still walk to avoid images of him being carried"
+    excerpt: "The White House said Trump was hospitalized \"out of an abundance of caution.\" One official said it could help his political image, the New York Times reported."
+    publishedDateTime: 2020-10-03T15:05:00Z
+    webUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hospitalized-while-walking-avoids-damaging-images-official-tells-nyt-2020-10?amp"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 100
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2020/10/kamala-and-pence.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "VP debate will have plexiglass shield between Mike Pence, Kamala Harris"
-    excerpt: "Harris campaign requested a plexiglass shield for Wednesday's debate, and the Commission on Presidential Debates agreed to it."
-    publishedDateTime: 2020-10-06T03:33:00Z
-    webUrl: "https://abc7chicago.com/politics/vp-debate-will-have-plexiglass-shield-between-pence-harris/6796476/"
-    ampWebUrl: "https://abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/when-is-the-vp-debate-2020-whos-moderating-time-how-to-watch/6796476/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 100
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/6669222_093020-cc-getty-debate-stage-img.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris and Mike Pence clash, but in a civilized way"
-    excerpt: "The vice presidential debate pitted a kinder, gentler Donald Trump against a former prosecutor turned senator. It wasn't a 'no-fly' zone."
-    publishedDateTime: 2020-10-08T05:46:00Z
-    webUrl: "https://www.freep.com/story/opinion/todaysdebate/2020/10/08/kamala-harris-mike-pence-clash-but-civilized-editorials-debates/5908331002/"
-    ampWebUrl: "https://amp.freep.com/amp/5908331002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5908331002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/5bb2fcea-566e-466f-b39e-fdb11994e396-debate2020.jpg?auto=webp&crop=931,524,x0,y45&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris v Mike Pence: Who won the VP debate?"
-    excerpt: "While that has won them plaudits from environmentalists on the left, there are voters in swing states like Pennsylvania and Ohio who might view more government regulation as a threat to their economic livelihood."
-    publishedDateTime: 2020-10-08T05:01:00Z
-    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54455637?at_campaign=64&"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54455637"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54455637"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 100
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/116C/production/_114806440_vp_debate_14_reuters.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Live Coverage: VP Mike Pence, Kamala Harris Square Off in Debate"
-    excerpt: "Vice President Mike Pence faces off with Democratic vice presidential nominee Sen. Kamala Harris Wednesday night in the only vice presidential debate of the 2020 election. Follow our live coverage here starting at 9 p."
-    publishedDateTime: 2020-10-07T18:41:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/live-coverage-mike-pence-kamala-harris-vp-debate/2656992/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/live-coverage-mike-pence-kamala-harris-vp-debate/2656992/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/live-coverage-mike-pence-kamala-harris-vp-debate/2656992/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 100
-    images:
-      - url: "https://media.nbcnewyork.com/2020/10/Vice-Presidential-Debate.jpg?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Live vice presidential debate: Mike Pence and Kamala Harris square off"
-    excerpt: "Kamala Harris and Mike Pence will hold the only vice presidential debate, which comes as Trump and White House battle an outbreak of COVID."
-    publishedDateTime: 2020-10-08T01:06:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/07/live-vice-presidential-debate-mike-pence-and-kamala-harris-square-off/5916417002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5916417002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5916417002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/405122fe-6c93-4fe3-9650-e54b2cb30a11-XXX__JG19083.JPG?auto=webp&crop=2999,1687,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TV tonight: Mike Pence, Kamala Harris square off in VP debate"
-    excerpt: "Last week, the presidential candidates — Donald Trump and Joe Biden — went at it in an ugly showdown that was described as a “hot mess,” among other things. Tonight, Republican Mike Pence and Democrat Kamala Harris get their turn in their lone meeting at the University of Utah in Salt Lake City."
-    publishedDateTime: 2020-10-07T18:12:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/07/tv-tonight-mike-pence-kamala-harris-square-off-in-vp-debate/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/07/tv-tonight-mike-pence-kamala-harris-square-off-in-vp-debate/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/07/tv-tonight-mike-pence-kamala-harris-square-off-in-vp-debate/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 100
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_70dd3658a4d2eb9ef428f24c9e71719f-h_ebc103cbe12a1add9a23b31dd1f56886.jpg?w=1024&h=576"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Why Is Kamala Harris Debating Mike Pence in Person?"
-    excerpt: "Watching Kamala Harris take the stage tonight for her debate with Mike Pence, many Democrats may be wondering the same thing: Why would she agree to appear in person, just a few feet away from the vice president,"
-    publishedDateTime: 2020-10-07T19:49:00Z
-    webUrl: "https://www.theatlantic.com/politics/archive/2020/10/why-kamala-harris-debating-mike-pence-person/616645/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616645/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616645/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 100
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/iNZtICN2bBdM3roK1dKI4l-Tk3c=/5x0:1773x994/570x320/filters:format(png)/media/img/mt/2020/10/Atlantic_Kam_deb_v1/original.png"
-        width: 570
-        height: 320
-        isCached: true
-  - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
-    excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
-    publishedDateTime: 2020-10-07T13:32:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/07/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate/3511602021530/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/07/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate/3511602021530/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/07/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate/3511602021530/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 99
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/3511602021530/2020/1/16020669964280/v1.5/Mike-Pence-Kamala-Harris-to-square-off-in-only-vice-presidential-debate.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "How to Watch Kamala Harris and Mike Pence's First Vice Presidential Debate"
-    excerpt: "As we approach the final weeks of the 2020 presidential campaign cycle, incumbent vice president Mike Pence and Senator Kamala Harris will soon take the stage for their first and only vice presidential debate before the election,"
-    publishedDateTime: 2020-10-05T14:36:00Z
-    webUrl: "https://www.tvguide.com/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
-    ampWebUrl: "https://www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
-    cdnAmpWebUrl: "https://www-tvguide-com.cdn.ampproject.org/c/s/www.tvguide.com/amp/news/how-to-watch-kamala-harris-and-mike-pences-first-vice-presidential-debate/"
-    type: article
-    provider:
-      name: TV Guide
-      domain: tvguide.com
-    quality: 98
-    images:
-      - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/03/c84537b1-beee-4623-a0a7-4004673e3f92/thumbnail/1300x867/c5cc7998a0ff8ddeb925ee4019f1fda3/201002-mikepencekamalaharris-news.jpg"
-        width: 1300
-        height: 867
-        isCached: true
-  - title: "Joe Biden, Kamala Harris headed to Arizona for 1st campaign visit to state"
-    excerpt: "With early voting underway, the Democratic ticket of Joe Biden and Kamala Harris will hold dueling campaign events against Vice President Mike Pence."
-    publishedDateTime: 2020-10-08T13:33:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/joe-biden-presidential-campaign-kamala-harris-arizona-visit/5917484002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5917484002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917484002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 98
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence, Kamala Harris spar over coronavirus in vice presidential debate"
-    excerpt: "Vice President Mike Pence and U.S. Sen. Kamala Harris tangled over the Trump administration’s response to the coronavirus pandemic in their sole vice presidential debate, with Harris"
-    publishedDateTime: 2020-10-08T03:19:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/07/mike-pence-kamala-harris-spar-over-coronavirus-in-vice-presidential-debate/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/07/mike-pence-kamala-harris-spar-over-coronavirus-in-vice-presidential-debate/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/07/mike-pence-kamala-harris-spar-over-coronavirus-in-vice-presidential-debate/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 98
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/harrispence.jpg?w=1024&h=512"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Our resident Mike Pence biographer details the veep's ticks, traits and other debate skills ahead of the big showdown with Kamala Harris"
-    excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
-    publishedDateTime: 2020-10-06T21:43:00Z
-    webUrl: "https://www.businessinsider.com/mike-pence-debate-strategy-from-1990-to-2016-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Mike Pence vs. Kamala Harris: The Most Important Vice Presidential Debate Ever?"
-    excerpt: "As Trump combats Coronavirus, it’s unclear if the presidential debates will proceed. In the event that Trump opts out of the next two debates, the vice presidential debate will be critical, putting pressure on Pence and Harris to persuade supporters to back their respective campaigns."
-    publishedDateTime: 2020-10-04T15:12:00Z
-    webUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142"
-    ampWebUrl: "https://nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
-    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/mike-pence-vs-kamala-harris-most-important-vice-presidential-debate-ever-170142?amp"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 96
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-09-28T194007Z_595349806_RC2V7J9A8LUP_RTRMADP_3_USA-ELECTION-HARRIS.JPG"
-        width: 1200
-        height: 837
-        isCached: true
-  - title: "5 takeaways from the vice-presidential debate between Mike Pence, Kamala Harris"
-    excerpt: "Vice President Mike Pence and vice-presidential nominee Sen. Kamala Harris faced off in the only vice-presidential debate before the election. Moderated by Susan Page, Washington bureau chief for USA Today,"
-    publishedDateTime: 2020-10-08T03:36:00Z
-    webUrl: "https://www.chron.com/news/politics/election2020/article/5-takeaways-from-the-vice-presidential-debate-15629771.php"
-    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/5-takeaways-from-the-vice-presidential-debate-15629771.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/5-takeaways-from-the-vice-presidential-debate-15629771.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 96
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Kamala Harris, Mike Pence to Take Center Stage for Highly Anticipated VP Debate"
-    excerpt: "What a difference eight days makes. Just last week the nation settled in for the first televised debate between President Donald Trump and Democratic challenger Joe Biden. Before the dust from that contest had a chance to settle Trump revealed he’s contracted COVID-19 and a small platoon of his inner circle have since come forward to reveal they’ve contracted the disease as well."
-    publishedDateTime: 2020-10-07T19:27:00Z
-    webUrl: "https://www.nbcnewyork.com/lx/kamala-harris-mike-pence-to-take-center-stage-during-highly-anticipated-vp-debate/2657043/"
-    ampWebUrl: "https://www.nbcnewyork.com/lx/kamala-harris-mike-pence-to-take-center-stage-during-highly-anticipated-vp-debate/2657043/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/lx/kamala-harris-mike-pence-to-take-center-stage-during-highly-anticipated-vp-debate/2657043/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 96
-    images:
-      - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Vice President Mike Pence and Sen. Kamala Harris stack up against each other"
-    excerpt: "Here's how Vice President Mike Pence stacks up against Sen. Kamala Harris. The two go head-to-head in the Wednesday, Oct. 7 vice presidential debate."
-    publishedDateTime: 2020-10-07T15:01:00Z
-    webUrl: "https://www.indystar.com/in-depth/news/politics/elections/2020/10/07/vice-presidential-debate-comparing-mike-pence-and-kamala-harris/3636989001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636989001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636989001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d3a6e494-e269-4aac-9819-35f31cecc2de-Pence-Harris-promo-art-01.png?auto=webp&crop=865,486,x996,y804&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "How Vice President Mike Pence and Sen. Kamala Harris stack up against each other"
-    excerpt: "Here's how Vice President Mike Pence stacks up against Sen. Kamala Harris. The two go head-to-head in the Wednesday, Oct. 7 vice presidential debate."
-    publishedDateTime: 2020-10-07T21:18:00Z
-    webUrl: "https://www.desmoinesregister.com/in-depth/news/politics/elections/2020/10/07/vice-presidential-debate-comparing-mike-pence-and-kamala-harris/3636989001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636989001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636989001"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 95
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d3a6e494-e269-4aac-9819-35f31cecc2de-Pence-Harris-promo-art-01.png?auto=webp&crop=865,486,x996,y804&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Joe Biden and Kamala Harris fly swatter sold 15,000 in one night after fly lands on Vice President Mike Pence’s head during debate"
-    excerpt: "The fly that landed on Vice President Mike Pence’s head during the debate Wednesday night got a lot of attention on social media."
-    publishedDateTime: 2020-10-08T12:47:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-and-kamala-harris-fly-swatter-sold-15000-in-one-night-after-fly-lands-on-vice-president-mike-pences-head-during-debate.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-and-kamala-harris-fly-swatter-sold-15000-in-one-night-after-fly-lands-on-vice-president-mike-pences-head-during-debate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-and-kamala-harris-fly-swatter-sold-15000-in-one-night-after-fly-lands-on-vice-president-mike-pences-head-during-debate.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 95
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SHPPR6FIA5DTXPWUWSSRXVVBJU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "JoJo Releases Official Campaign Anthem for Joe Biden and Kamala Harris 'The Change'"
-    excerpt: "Harris campaign are aiming to inspire voters to show up to the polls and make \"The Change.\" The singer released a new song by that title Friday, and it will serve as the official campaign anthem for former Vice President Joe Biden and his running mate,"
-    publishedDateTime: 2020-10-02T17:40:00Z
-    webUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/"
-    ampWebUrl: "https://people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/music/jojo-the-change-joe-biden-kamala-harris-campaign-song/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 94
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=785&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2FJoJo.jpg"
-        width: 1500
-        height: 783
-        isCached: true
-  - title: "More U.S. voters have ‘cold’ than ‘warm’ feelings for Mike Pence and Kamala Harris"
-    excerpt: "Ahead of the first vice-presidential debate, Mike Pence and Kamala Harris elicit more negative than positive feelings from registered voters."
-    publishedDateTime: 2020-10-07T15:26:00Z
-    webUrl: "https://www.pewresearch.org/fact-tank/2020/10/07/more-u-s-voters-have-cold-than-warm-feelings-for-mike-pence-and-kamala-harris/"
-    ampWebUrl: "https://www.pewresearch.org/fact-tank/2020/10/07/more-u-s-voters-have-cold-than-warm-feelings-for-mike-pence-and-kamala-harris/?amp=1"
-    cdnAmpWebUrl: "https://www-pewresearch-org.cdn.ampproject.org/c/s/www.pewresearch.org/fact-tank/2020/10/07/more-u-s-voters-have-cold-than-warm-feelings-for-mike-pence-and-kamala-harris/?amp=1"
-    type: article
-    provider:
-      name: Pew Research Center
-      domain: pewresearch.org
-    quality: 94
-    images:
-      - url: "https://www.pewresearch.org/wp-content/uploads/2020/10/FT_20.10.07_vp_featured.jpg?w=1200&h=628&crop=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Who won vice presidential debate? Kamala Harris? Mike Pence? The fly? Will it matter?"
-    excerpt: "The vice-presidential debate between Mike Pence and Kamala Harris on Wednesday featured little of the interruptions, attacks and chaos that marred the first confrontation between President Donald Trump and former Vice President Joe Biden."
-    publishedDateTime: 2020-10-08T13:12:00Z
-    webUrl: "https://www.nj.com/politics/2020/10/who-won-vice-presidential-debate-kamala-harris-mike-pence-the-fly-will-it-matter.html"
-    ampWebUrl: "https://www.nj.com/politics/2020/10/who-won-vice-presidential-debate-kamala-harris-mike-pence-the-fly-will-it-matter.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2020/10/who-won-vice-presidential-debate-kamala-harris-mike-pence-the-fly-will-it-matter.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 93
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ODGKSEFQEZH4VBIK7EOKGKTMS4.png"
-        width: 1098
-        height: 569
-        isCached: true
-  - title: "This chart shows the dozens of high-level officials Trump has interacted with over the past week and the results of their COVID-19 tests"
-    excerpt: "Trump was in contact with dozens of high-level government officials in the days prior to testing positive for COVID-19."
-    publishedDateTime: 2020-10-03T01:47:00Z
-    webUrl: "https://www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chart-who-trump-interacted-with-their-covid-19-test-results-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/5f77cc98282c500018c786dd?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f7884402400440019129d21?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden, Kamala Harris to meet with tribal leaders, small business owners in Arizona"
-    excerpt: "Democrat Joe Biden and his running mate, Kamala Harris, will meet with tribal leaders and small business owners during their trip to Arizona."
-    publishedDateTime: 2020-10-08T11:10:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/politics/elections/2020/10/07/joe-biden-kamala-harris-meet-tribal-leaders-business-owners/5910955002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5910955002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5910955002"
+  - title: "Donald Trump Jr. explains President Trump's debate stance by saying he's \"a fighter\""
+    excerpt: "In an interview with CBS News, Donald Trump Jr. explained the president's aggressive debate stance by saying he's \"a fighter\" and that \"he hasn't been treated fairly.\" Watch his remarks here."
+    publishedDateTime: 2020-09-30T03:42:00Z
+    webUrl: "https://www.cbsnews.com/video/donald-trump-jr-says-president-trump/"
     type: article
     provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 92
+      name: CBS News
+      domain: cbsnews.com
+    quality: 98
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/76b27cc0-7e26-464d-83e8-b7d7c4c3eb32-AP20260030136787.jpg?auto=webp&crop=3755,2113,x0,y191&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/09/30/e37a821c-16fe-4f28-a940-a5d1e05788b0/thumbnail/1200x630/07b8728a4bd9bbe4806d3dda7a32ba37/cbsn-fusion-donald-trump-jr-says-president-trump-thumbnail-556615-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Kamala Harris tests negative for COVID-19, joins Joe Biden in wishing President Donald Trump ‘full and speedy recovery’"
-    excerpt: "Harris was tested Thursday as part of the campaign’s routine testing. Her results came back negative, news outlets reported."
-    publishedDateTime: 2020-10-02T15:02:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/democratic-vp-candidate-sen-kamala-harris-tests-negative-for-covid-19-joins-running-mate-joe-biden-in-wishing-president-donald-trump-full-and-speedy-recovery.html?outputType=amp"
+  - title: "The Trump administration is handling the White House COVID-19 outbreak in the same disastrous way it approached the country's"
+    excerpt: "There's been little to no transparency, mixed messaging, and a continued lack of respect for public health recommendations despite an evolving crisis."
+    publishedDateTime: 2020-10-05T19:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-administration-handling-white-house-covid-19-outbreak-disastrous-way-2020-10?amp"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 91
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J6PQVLFDERCORGP7MEI3H56VX4.JPG"
-        width: 1300
-        height: 1011
-        isCached: true
-  - title: "Plexiglass will divide Mike Pence, Kamala Harris at Wednesday's vice presidential debate"
-    excerpt: "The changes come after President Donald Trump and several White House staffers and allies have tested positive for COVID-19 after last week's presidential debate."
-    publishedDateTime: 2020-10-05T23:28:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/05/vice-presidential-debate-plexiglass-divide-kamala-harris-mike-pence/3630292001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3630292001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3630292001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "From Kayla Mueller to John McCain, Arizona looms large in Mike Pence-Kamala Harris debate"
-    excerpt: "Arizona themes ran through the debate between Vice President Mike Pence and Sen. Kamala Harris, D-Calif., the Democratic VP nominee."
-    publishedDateTime: 2020-10-08T15:43:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/07/vice-presidential-debate-pence-harris-arizona-campaign/5906270002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5906270002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5906270002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Read the full transcript of vice presidential debate between Mike Pence and Kamala Harris"
-    excerpt: "This is a transcript of the 90-minute debate between Vice President Mike Pence and vice presidential nominee Sen. Kamala Harris."
-    publishedDateTime: 2020-10-08T13:47:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/08/vice-presidential-debate-full-transcript-mike-pence-and-kamala-harris/5920773002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5920773002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5920773002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/c6372512-1c23-44ef-8f0a-52a97dd5c330-AFP_AFP_8RN2ME.jpg?auto=webp&crop=3199,1799,x1,y136&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence and Ivanka Trump visit salon damaged in Minneapolis unrest"
-    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd’s death, part"
-    publishedDateTime: 2020-09-25T00:38:00Z
-    webUrl: "https://www.twincities.com/2020/09/24/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/"
-    ampWebUrl: "https://www.twincities.com/2020/09/24/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest/amp/"
-    type: article
-    provider:
-      name: TwinCities.com
-      domain: twincities.com
-    quality: 90
-    images:
-      - url: "https://www.twincities.com/wp-content/uploads/2020/09/AP20268792125378.jpg?w=1024&h=683"
+      - url: "https://i.insider.com/5f7b674d282c500018c78ab8?width=1200&format=jpeg"
         width: 1024
-        height: 683
+        height: 512
         isCached: true
-  - title: "Vice President Mike Pence, Ivanka Trump make stop in Minnesota"
-    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing"
-    publishedDateTime: 2020-09-25T00:54:00Z
-    webUrl: "https://kstp.com/politics/vice-president-pence-ivanka-trump-make-stop-in-minnesota-/5873621/"
-    ampWebUrl: "https://amp.kstp.com/articles/vice-president-pence-ivanka-trump-make-stop-in-minnesota--5873621.html"
-    cdnAmpWebUrl: "https://amp-kstp-com.cdn.ampproject.org/c/s/amp.kstp.com/articles/vice-president-pence-ivanka-trump-make-stop-in-minnesota--5873621.html"
+  - title: "Trump tweets that he's leaving the hospital and says 'don't be afraid of Covid,' a virus that's killed over 209,000 Americans"
+    excerpt: "The president was diagnosed with COVID-19 late last week and transferred to Walter Reed hospital as his conditioned worsened on Friday."
+    publishedDateTime: 2020-10-06T04:26:00Z
+    webUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-downplays-covid-19-while-announcing-hell-leave-hospital-2020-10?amp"
     type: article
     provider:
-      name: KSTP
-      domain: kstp.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://kstp.com/kstpImages/repository/2020-09/800PenceIvankaAP.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Pence, Ivanka Trump Visit Salon Damaged By Minneapolis Unrest"
-    excerpt: "The stop was part of a campaign visit aimed at driving home President Trump's law-and-order message in a key swing state."
-    publishedDateTime: 2020-09-25T19:23:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/pence-ivanka-trump-visit-salon-damaged-minneapolis-unrest"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/28982475/pence-ivanka-trump-visit-salon-damaged-by-minneapolis-unrest"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 90
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22940811/20200925/102305/styles/patch_image/public/ap20267669718233___25102249030.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Kamala Harris: We won't let Trump 'infection' spread to Supreme Court"
-    excerpt: "Democratic vice-presidential nominee Kamala D. Harris said Monday that the American people aren’t about to allow the “infection” President Trump has spread throughout the country to infiltrate the U.S."
-    publishedDateTime: 2020-09-28T19:57:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/kamala-harris-we-wont-let-trump-infection-spread-s/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_02189_c0-66-4654-2780_s1200x700.jpg?c6d410f0f399346bfdeb569b924d599ad50af0d5"
+      - url: "https://i.insider.com/5f7b6e7694fce90018f7b2de?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
         isCached: true
-  - title: "The Latest: Kamala Harris previews Biden's focus for debate"
-    excerpt: "The Latest on the 2020 presidential election (all times local): 5:50 p.m. Kamala Harris says her running mate, Joe Biden, will share his vision for tackling the coronavirus and rebuilding the nation’s economy during his presidential debate against President Donald Trump."
-    publishedDateTime: 2020-09-30T00:45:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/the-latest-kamala-harris-previews-bidens-focus-for/"
+  - title: "President Trump, who is infected with coronavirus, has tweeted 120 times since being released from the hospital Monday night"
+    excerpt: "Trump's tweets have included attacks on Joe Biden, praise for the economy, a push for a focus on the Supreme Court, and allegations of voter fraud."
+    publishedDateTime: 2020-10-07T19:29:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-coronavirus-white-house-hospital-twitter-2020-10?amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_15782_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
         width: 1200
-        height: 700
+        height: 600
+        isCached: true
+  - title: "Trump says he doesn't know Proud Boys, but 'they need to stand down,' as he faces backlash for not criticizing white supremacists"
+    excerpt: "Facing criticism for not denouncing white supremacist groups during the debate Tuesday, President Trump said he's \"always denounced any form of any of that.\""
+    publishedDateTime: 2020-10-01T04:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/30/trump-says-he-doesnt-know-proud-boys-after-criticism-debate/5870564002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5870564002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5870564002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 96
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/ef4e9e12-fc35-4735-b7c5-3b2479d78a8e-AP_Election_2020_Debate.jpg?auto=webp&crop=4802,2701,x0,y125&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's doctor says in an update that he's 'not yet out of the woods' as the White House releases photos from his hospital suite"
+    excerpt: "Trump's main doctor said late Saturday evening that the president \"remains fever-free and off supplemental oxygen.\""
+    publishedDateTime: 2020-10-04T03:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-doctor-update-not-yet-out-of-the-woods-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
+    images:
+      - url: "https://i.insider.com/5f7943d22400440019129d82?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Marine One helicopter departs the White House as Trump heads to Walter Reed Medical Center"
+    excerpt: "President Trump was taken by helicopter from the White House to Walter Reed National Military Medical Center on October 2 after testing positive for the coronavirus."
+    publishedDateTime: 2020-10-03T17:31:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/03/marine-one-helicopter-departs-white-house-trump-heads-walter-reed-medical-center/3608338001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/5124ab15-79cd-4d4c-bf59-b5a33c547c73-9ecb0a46-2323-4cec-9c65-7f78604a1968_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
   - title: "Vice President Mike Pence rallies Trump supporters in Lancaster"
     excerpt: "Speaks to Trump supporters before the opening debate between President Donald J. Trump and Democratic nominee Joe Biden."
@@ -3255,22 +2395,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PBWHCUKAVNF3FOQCLNLOD37M6E.jpg"
         width: 3300
         height: 2284
-        isCached: true
-  - title: "Mike Pence sends prayers to Trumps after COVID news"
-    excerpt: "Vice President Mike Pence says he and his wife, Karen, are sending their “love and prayers” to President Donald Trump and first lady Melania Trump after the Trumps announced early Friday that they had tested positive for the coronavirus."
-    publishedDateTime: 2020-10-02T07:03:00Z
-    webUrl: "https://www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news"
-    ampWebUrl: "https://www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news?_amp=true"
-    cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/coronavirus/mike-pence-sends-prayers-to-trumps-after-covid-news?_amp=true"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 90
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/c09085f/2147483647/strip/true/crop/0x0+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fmedia2.abc15.com%2Fphoto%2F2017%2F08%2F22%2FKNXV%20Trump%20and%20Pence%20in%20Phoenix_1503443555336_64666784_ver1.0_640_480.png"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Pence touts Trump administration in Iowa visit"
     excerpt: "CARTER LAKE, Iowa — With a little more than a month before Election Day, Vice President Mike Pence encouraged a crowd of about 250 people in Carter Lake to get out the vote ahead of what shapes ..."
@@ -3319,102 +2443,6 @@ related:
       - url: "https://media.vanityfair.com/photos/5f7b4fa7b13a7bb1006f70ed/master/pass/Pence10.5.jpg"
         width: 2000
         height: 1460
-        isCached: true
-  - title: "Mike Pence and Kamala Harris to meet for first and only vice presidential debate Wednesday"
-    excerpt: "While VP debates often get short shrift, this one may prove more substantive — or, at least, easier to understand — than the first presidential debate."
-    publishedDateTime: 2020-10-07T13:12:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/07/vice-presidential-debate-pence-harris-arizona-campaign/5906270002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5906270002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5906270002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/df00e21b-2635-447d-bb9c-ef17fe2db845-BidenHarris2.jpg?auto=webp&crop=799,449,x0,y6&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Joe Biden and Kamala Harris meet tribal leaders, rally supporters in joint visit to Phoenix"
-    excerpt: "Americans deserve a president who understands what they are going through,” Joe Biden said during his first visit to Phoenix this election cycle."
-    publishedDateTime: 2020-10-09T03:34:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/08/joe-biden-presidential-campaign-kamala-harris-arizona-visit/5917484002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5917484002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5917484002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/15/PMJS/9d0fa111-a48e-4b24-9259-a322f3fbce5e-AP_Election_2020_Joe_Biden_Profile.jpg?auto=webp&crop=2419,1361,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris' husband criticizes Trump's lack of compassion"
-    excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
-    publishedDateTime: 2020-10-08T23:08:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Kamala-Harris-husband-criticizes-Trump-s-lack-of-15632389.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 90
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/47/06/20083098/3/375x250.jpg"
-        width: 358
-        height: 250
-        isCached: true
-  - title: "Vice Presidential debate: What to know about Mike Pence as he spars with Sen. Kamala Harris"
-    excerpt: "Vice President Mike Pence takes to the debate stage Wednesday night against Sen. Kamala Harris, in the first and only vice presidential debate of this election. The debate comes as President Donald Trump continues to recover from the novel coronavirus at the White House."
-    publishedDateTime: 2020-10-08T18:48:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2020/10/07/mike-pence-what-to-know-indiana-governor-trump-covid-19/3607390001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3607390001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3607390001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 90
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/27/PIND/3ea2e357-2d98-4711-986e-55204f041ca2-AP20057861829867.jpg?auto=webp&crop=5336,3002,x0,y156&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to Watch Wednesday Night’s Debate Between Mike Pence and Kamala Harris—and What to Expect"
-    excerpt: "The debate, which will take place at 9 p.m. on Wednesday, will feature increased social distancing protocols, including greater distance between the two candidates and plexiglass shields in front of each of their lecterns."
-    publishedDateTime: 2020-10-05T21:35:00Z
-    webUrl: "https://www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris"
-    ampWebUrl: "https://www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris/amp"
-    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/how-to-watch-vice-presidential-debate-mike-pence-kamala-harris/amp"
-    type: article
-    provider:
-      name: Vogue
-      domain: vogue.com
-    quality: 89
-    images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
-    excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
-    publishedDateTime: 2020-10-08T11:51:00Z
-    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
-    ampWebUrl: "https://amp.desmoinesregister.com/amp/5896940002"
-    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/5896940002"
-    type: article
-    provider:
-      name: Des Moines Register
-      domain: desmoinesregister.com
-    quality: 89
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Conservative begs Mike Pence to be more of an adult than Trump in VP debate"
     excerpt: "The bad news is there’s another debate coming up next week. The good news, however, is that President Donald Trump won’t be there, noted conservative columnist Jennifer Rubin in her Thursday column. Writing in the Washington Post,"
@@ -3480,38 +2508,6 @@ related:
         width: 1280
         height: 858
         isCached: true
-  - title: "The vice presidential debate between Mike Pence, Kamala Harris is tonight. Here's how to watch"
-    excerpt: "Vice President Mike Pence and vice-presidential nominee Kamala Harris will face off in a debate tonight after a \"chaotic\" first presidential debate last week. USA Today's Washington bureau chief Susan Page will moderate."
-    publishedDateTime: 2020-10-07T15:47:00Z
-    webUrl: "https://www.chron.com/news/politics/election2020/article/The-vice-presidential-debate-between-Kamala-15627788.php"
-    ampWebUrl: "https://www.chron.com/news/politics/election2020/amp/The-vice-presidential-debate-between-Kamala-15627788.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/politics/election2020/amp/The-vice-presidential-debate-between-Kamala-15627788.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 88
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "What Mike Pence, Kamala Harris Said About The US Economy, Trade War At Vice Presidential Debate"
-    excerpt: "Vice President Mike Pence praised Trump's economic policies as resulting in a \"V-Shaped recovery\" while Democratic vice presidential nominee Kamala Harris said the Trump administration only cares about the wealthy."
-    publishedDateTime: 2020-10-08T03:06:00Z
-    webUrl: "https://www.ibtimes.com/what-mike-pence-kamala-harris-said-about-us-economy-trade-war-vice-presidential-3058499"
-    ampWebUrl: "https://www.ibtimes.com/what-mike-pence-kamala-harris-said-about-us-economy-trade-war-vice-presidential-3058499?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-mike-pence-kamala-harris-said-about-us-economy-trade-war-vice-presidential-3058499?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 88
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/gettyimages-1279067675.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How Mike Pence could assume control if Trump becomes incapacitated from COVID"
     excerpt: "Trump on Thursday confirmed he and wife Melania tested positive for COVID-19 The two were forced to quarantine after Trump counselor Hope Hicks became ill Vice President Mike Pence could potentially assume presidential control if Trump were to become ..."
     publishedDateTime: 2020-10-02T05:48:00Z
@@ -3527,84 +2523,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/10/02/06/33891392-0-image-a-3_1601617201248.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Watch here: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
-    excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
-    publishedDateTime: 2020-10-07T15:11:00Z
-    webUrl: "https://chicago.suntimes.com/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 87
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "PHOTOS: Vice President Mike Pence and Calif. Sen. Kamala Harris meet for vice presidential debate"
-    excerpt: "Vice President Mike Pence and Calif. Sen. Kamala Harris met Wednesday for the single vice presidential debate before the Nov. 3, 2020, general election."
-    publishedDateTime: 2020-10-08T03:40:00Z
-    webUrl: "https://www.denverpost.com/2020/10/07/mike-pence-kamala-harris-vice-presidential-debate-photos/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/07/mike-pence-kamala-harris-vice-presidential-debate-photos/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/07/mike-pence-kamala-harris-vice-presidential-debate-photos/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 87
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/TDP-L-DEBATE-_ADO8563x.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "“They’re Coming for You”: Kamala Harris Slams Trump and Pence on Preexisting Conditions"
-    excerpt: "Kamala Harris (D-Calif.) took multiple opportunities during Wednesday night’s vice presidential debate to call attention to the Trump administration’s attempts to undo Obamacare and strip 23 million Americans of their health insurance."
-    publishedDateTime: 2020-10-08T11:26:00Z
-    webUrl: "https://www.motherjones.com/2020-elections/2020/10/theyre-coming-for-you-kamala-harris-slams-trump-and-pence-on-pre-existing-conditions/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 87
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2020/10/20201007_zaa_s152_142.jpg?w=1200&h=630&crop=1"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Watch live: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
-    excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
-    publishedDateTime: 2020-10-08T01:03:00Z
-    webUrl: "https://chicago.suntimes.com/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/elections/2020/10/7/21505879/vice-presidential-debate-watch-live-mike-pence-kamala-harris"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 87
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "President Trump intensifies focus on Kamala Harris in final weeks of campaign"
-    excerpt: "Grasping for a comeback, President Donald Trump and his Republican allies are intensifying their focus not on Democratic nominee Joe Biden, but on his running mate, Sen. Kamala Harris —"
-    publishedDateTime: 2020-10-13T11:46:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/13/trump-intensifies-focus-on-harris-in-final-weeks-of-campaign/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/13/trump-intensifies-focus-on-harris-in-final-weeks-of-campaign/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/13/trump-intensifies-focus-on-harris-in-final-weeks-of-campaign/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 87
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/Election_2020_BIden_38230-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
     excerpt: "Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does meet federal quarantine guidelines for COVID."
@@ -3638,102 +2556,47 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
-    excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
-    publishedDateTime: 2020-10-06T16:10:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/mike-pence-kamala-harris-vp-debate-will-have-plexiglass-barrier-for-coronavirus-concerns/2654466/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/mike-pence-kamala-harris-vp-debate-will-have-plexiglass-barrier-for-coronavirus-concerns/2654466/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/mike-pence-kamala-harris-vp-debate-will-have-plexiglass-barrier-for-coronavirus-concerns/2654466/?amp"
+  - title: "White House physician says Trump is fever-free but dodged questions of whether he has ever received supplemental oxygen during coronavirus treatment"
+    excerpt: "Sean Conley on Saturday offered unclear answers about whether Trump had used supplemental oxygen since testing positive for COVID-19."
+    publishedDateTime: 2020-10-03T17:07:00Z
+    webUrl: "https://www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/white-house-physician-dodges-questions-about-trumps-health-2020-10?amp"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 86
     images:
-      - url: "https://media.nbcnewyork.com/2020/10/VP-DEBATE-UTAH-SETUP.jpg?fit=1200%2C675"
+      - url: "https://i.insider.com/5f78a48b282c500018c78734?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Democrats doubted Kamala Harris was liberal enough. Now Mike Pence calls her radical. What’s true?"
-    excerpt: "Kamala Harris spent her presidential campaign trying to prove to her party she was a bona fide, enthusiastic liberal – not the “top cop” the former prosecutor called herself during her time as California’s attorney general."
-    publishedDateTime: 2020-10-07T12:00:00Z
-    webUrl: "https://www.miamiherald.com/article246253680.html"
-    ampWebUrl: "https://amp.miamiherald.com/article246253680.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246253680.html"
+  - title: "Trump Will Concede the Election If He Is ‘Blown Out of the Water,’ Son Eric Says"
+    excerpt: "Eric Trump, President Donald Trump's 36-year-old son and campaign surrogate, told local reporters on Thursday, September 24, that the president will concede the election to Joe Biden \"if he got blown out of the water."
+    publishedDateTime: 2020-09-25T16:31:00Z
+    webUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/"
+    ampWebUrl: "https://heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/eric-trump-donald-trump-concede-election-blowout/amp/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 86
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/0bf46f13-28fd-4d6e-bc78-c919a3028ab7/main/1280x720/5s/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice presidential debate (10/7) live stream: How to watch Mike Pence-Kamala Harris online, TV, time"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris — will meet Wednesday, Oct. 7, in the only debate scheduled for the two running mates. The debate will be live streamed on fuboTV. A week after what can only be described as a “chaotic” debate between Trump and Democratic nominee Joe Biden,"
-    publishedDateTime: 2020-10-06T23:05:00Z
-    webUrl: "https://www.al.com/politics/2020/10/vice-presidential-debate-106-live-stream-how-to-watch-mike-pence-kamala-harris-online-tv-time.html"
-    ampWebUrl: "https://www.al.com/politics/2020/10/vice-presidential-debate-106-live-stream-how-to-watch-mike-pence-kamala-harris-online-tv-time.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/vice-presidential-debate-106-live-stream-how-to-watch-mike-pence-kamala-harris-online-tv-time.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZK3TVQ6ZZZFUBNO44IJIFF2M44.jpg"
-        width: 960
-        height: 555
-        isCached: true
-  - title: "How to watch vice presidential debate (10/7) online: Mike Pence-Kamala Harris live stream, TV, time"
-    excerpt: "Vice President Mike Pence and his Democratic challenger, California Sen. Kamala Harris, are set to face off in a debate Wednesday, Oct. 7. The event will be live streamed on fuboTV. The debate in Salt Lake City unfolds while President Donald Trump recovers at the White House from the coronavirus after spending several days in the hospital,"
-    publishedDateTime: 2020-10-08T01:11:00Z
-    webUrl: "https://www.al.com/politics/2020/10/how-to-watch-vice-presidential-debate-107-online-mike-pence-kamala-harris-live-stream-tv-time.html"
-    ampWebUrl: "https://www.al.com/politics/2020/10/how-to-watch-vice-presidential-debate-107-online-mike-pence-kamala-harris-live-stream-tv-time.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/how-to-watch-vice-presidential-debate-107-online-mike-pence-kamala-harris-live-stream-tv-time.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 86
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X6JVRZEB6ZGXLLQGDLMHA4WBLM.jpg"
-        width: 5679
-        height: 3786
-        isCached: true
-  - title: "Is Kamala Harris the Democrats’ secret to stopping Trump’s Supreme Court nominee?"
-    excerpt: "Infamous, among conservative circles for grilling Justice Brett Kavanaugh about reproductive rights during his confirmation hearing, the California senator and Democrats’ vice presidential"
-    publishedDateTime: 2020-09-21T22:55:00Z
-    webUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/"
-    ampWebUrl: "https://www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/09/21/is-kamala-harris-the-democrats-secret-to-stopping-trumps-supreme-court-nominee/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: Heavy.com
+      domain: heavy.com
     quality: 85
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/GettyImages-1027443320.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-54-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
-  - title: "Mike Pence tests negative for coronavirus hours after Donald Trump tests positive"
-    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump and first lady Melania Trump were diagnosed with the coronavirus."
-    publishedDateTime: 2020-10-02T12:29:00Z
-    webUrl: "https://www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.html"
-    ampWebUrl: "https://www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/coronavirus/article_f7a3f984-04a9-11eb-88b6-6b9c9132c563.amp.html"
+  - title: "Relying on testing to ward off COVID put Trump White House at risk"
+    excerpt: "Early in the coronavirus pandemic, U.S. President Donald Trump put his faith in a toaster-sized machine that could spit out test results in a matter of minutes."
+    publishedDateTime: 2020-10-03T11:30:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-trump-testing-insi-idUSKBN26O0G5"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
+      name: Reuters
+      domain: reuters.com
     quality: 85
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/b/44/b4461aea-04aa-11eb-a7cd-1fa88234cebc/5f771d9bdc596.image.jpg?resize=1024%2C685"
-        width: 1024
-        height: 685
-        isCached: true
   - title: "Donald Trump, M.D.: How the President Is Shaping His Own Treatment"
     excerpt: "Trump has been a challenging patient, insisting on shaping the course of his care as well as stage managing how his health is projected to the public."
     publishedDateTime: 2020-10-07T12:21:00Z
@@ -3743,22 +2606,6 @@ related:
       name: Time
       domain: time.com
     quality: 85
-  - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
-    excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
-    publishedDateTime: 2020-10-08T10:55:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/08/vp-debate-what-you-missed-mike-pence-kamala-harris-faceoff/5896940002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5896940002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5896940002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 85
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/0296cbe8-efeb-4ed5-95ac-85ff46138096-Salt_Lake_4.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says"
     excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
     publishedDateTime: 2020-10-02T14:30:00Z
@@ -3774,6 +2621,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/2807fc8e-e4fc-4144-81e4-93f737ce03cb/main/1280x720/27s722ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
+    excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
+    publishedDateTime: 2020-10-02T11:48:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
+        width: 6000
+        height: 4333
+        isCached: true
+  - title: "Joe Biden to be tested for COVID after President Donald Trump reports positive result"
+    excerpt: "Democratic presidential nominee Joe Biden will be tested for coronavirus Friday morning, a source familiar with the plans confirmed."
+    publishedDateTime: 2020-10-03T02:56:00Z
+    webUrl: "https://www.al.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html"
+    ampWebUrl: "https://www.al.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/joe-biden-to-be-tested-for-covid-after-president-donald-trump-reports-positive-result.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 83
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/IUPOG3OCQVAHTEHC4DNZVN532Y.jpg"
+        width: 6000
+        height: 4333
         isCached: true
   - title: "Borat pranks Mike Pence while dressed as Donald Trump in official trailer for new movie"
     excerpt: "The official trailer for Sacha Baron Cohen's long-awaited Borat sequel has been released, showing the fictional Kazakhstani journalist's return to America - this time with his daughter in tow. In the clip,"
@@ -3823,38 +2702,29 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump Taunted With #ChickenTrump After Refusing Virtual Debate With Joe Biden"
-    excerpt: "On Thursday, the Commission on Presidential Debates announced that the second debate between President Trump and Joe Biden would take place virtually in order to protect both parties after Trump tested positive for COVID-19."
-    publishedDateTime: 2020-10-08T16:21:00Z
-    webUrl: "https://www.ibtimes.com/president-trump-taunted-chickentrump-after-refusing-virtual-debate-joe-biden-3058949"
-    ampWebUrl: "https://www.ibtimes.com/president-trump-taunted-chickentrump-after-refusing-virtual-debate-joe-biden-3058949?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/president-trump-taunted-chickentrump-after-refusing-virtual-debate-joe-biden-3058949?amp=1"
+  - title: "Trump's policy chief explains in an exclusive interview why the White House just punted on a coronavirus stimulus deal"
+    excerpt: "\"I know we tried really, really hard,\" White House adviser Brooke Rollins told Insider after the president punted on passing stimulus legislation."
+    publishedDateTime: 2020-10-07T00:19:00Z
+    webUrl: "https://www.businessinsider.com/trump-adviser-blames-democrats-state-funding-for-killing-stimulus-deal-2020-10"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 82
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/the-issue-of-new-government-aid-to-workers.jpg"
-        width: 1024
-        height: 725
-        isCached: true
-  - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."
-    publishedDateTime: 2020-10-08T03:25:00Z
-    webUrl: "https://www.ibtimes.com/who-won-vice-presidential-debate-video-key-moments-how-experts-felt-about-mike-pence-3058449"
-    ampWebUrl: "https://www.ibtimes.com/who-won-vice-presidential-debate-video-key-moments-how-experts-felt-about-mike-pence-3058449?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/who-won-vice-presidential-debate-video-key-moments-how-experts-felt-about-mike-pence-3058449?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 81
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/gettyimages-1279065138.jpg"
+      - url: "https://i.insider.com/5f7ce235282c500018c79013?width=1200&format=jpeg"
         width: 1200
-        height: 824
+        height: 600
         isCached: true
+  - title: "White House: VP Mike Pence tests negative and 'remains in good heath,' after Trump tests positive for COVID-19"
+    excerpt: "VP Mike Pence tests negative and 'remains in good heath,' after Trump tests positive for COVID-19."
+    publishedDateTime: 2020-10-02T20:06:00Z
+    webUrl: "https://www.businessinsider.com/white-house-vp-mike-pence-tests-negative-and-remains-in-good-heath-after-trump-tests-positive-for-covid-19-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
   - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
     excerpt: "Experts wonder why someone like VP Mike Pence is not in isolation to reduce both his risk of exposure and the vulnerability of the Trump White House."
     publishedDateTime: 2020-10-04T21:41:00Z
@@ -3886,101 +2756,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "These Kamala Harris Quotes About Mike Pence Don't Hold Back"
-    excerpt: "As soon as Sen. Kamala Harris (D-California) was announced as former Vice President Joe Biden’s running mate for the 2020 presidential election, it was quickly followed by discussion of the vice presidential debate."
-    publishedDateTime: 2020-10-05T18:54:00Z
-    webUrl: "https://www.elitedaily.com/p/these-kamala-harris-quotes-about-mike-pence-dont-hold-back-33860669"
-    type: article
-    provider:
-      name: Elite Daily
-      domain: elitedaily.com
-    quality: 80
-    images:
-      - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to watch the debate between Mike Pence and Kamala Harris"
-    excerpt: "Vice President Mike Pence and Senator Kamala Harris are scheduled to meet on Wednesday at 9 p.m. for their first and only debate, which comes on the heels of a chaotic, bitter clash between President Trump and former vice president Joe Biden just one week ago."
-    publishedDateTime: 2020-10-07T10:04:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/how-watch-debate-between-mike-pence-kamala-harris/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/how-watch-debate-between-mike-pence-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/how-watch-debate-between-mike-pence-kamala-harris/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 80
-  - title: "What to watch in Kamala Harris, Mike Pence vice presidential debate: Amy Coney Barrett, COVID-19, LGBTQ rights"
-    excerpt: "How will Kamala Harris' prosecutorial skills match up against Mike Pence's message discipline in the solo vice presidential debate?"
-    publishedDateTime: 2020-10-07T12:04:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/07/kamala-harris-mike-pence-what-watch-vice-presidential-debate/5878313002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5878313002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5878313002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/05/USAT/14a07ef5-cda0-4fad-85af-933d6cb90950-VP_debate_sign.jpg?auto=webp&crop=5237,2946,x0,y266&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Claims from Mike Pence and Kamala Harris at the VP debate"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris tussled Wednesday in the first and only vice presidential debate before the Nov. 3 election, coming as the coronavirus sidelined President Donald Trump at the White House."
-    publishedDateTime: 2020-10-08T07:32:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/fact-check-claims-mike-pence-kamala-harris-vp-debate/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/fact-check-claims-mike-pence-kamala-harris-vp-debate/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/fact-check-claims-mike-pence-kamala-harris-vp-debate/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 80
-  - title: "Quotes From the Kamala Harris-Mike Pence Debate"
-    excerpt: "Republican Vice President Mike Pence and Democratic challenger Kamala Harris squared off on Wednesday evening in Salt Lake City, Utah, ahead of the Nov. 3 election. Here are some of key quotes from the debate,"
-    publishedDateTime: 2020-10-08T02:09:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/quotes-from-the-kamala-harris-mike-pence-debate"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-07/quotes-from-the-kamala-harris-mike-pence-debate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-07/quotes-from-the-kamala-harris-mike-pence-debate?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 80
-  - title: "President Trump calls Kamala Harris a ‘monster’ in rambling post-hospital interview on Fox"
-    excerpt: "Dialing in for his first interview since being hospitalized, President Donald Trump went on an hour-long ramble that devolved into vicious and sexist attacks on the Democrats running against him,"
-    publishedDateTime: 2020-10-08T19:50:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/08/president-trump-calls-kamala-harris-a-monster-in-rambling-post-hospital-interview-on-fox/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/08/president-trump-calls-kamala-harris-a-monster-in-rambling-post-hospital-interview-on-fox/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/08/president-trump-calls-kamala-harris-a-monster-in-rambling-post-hospital-interview-on-fox/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 80
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/hypatia-h_6ead7e405e439a90e08dc33b143a4424-h_a09588973c3114b58bfb3cd270c77408.jpg?w=1024&h=754"
-        width: 1024
-        height: 754
-        isCached: true
-  - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
-    excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
-    publishedDateTime: 2020-10-07T02:19:00Z
-    webUrl: "https://ibtimes.com/how-do-karen-pence-doug-emhoff-campaign-what-spouses-contribute-ahead-mike-pence-3057780"
-    ampWebUrl: "https://www.ibtimes.com/how-do-karen-pence-doug-emhoff-campaign-what-spouses-contribute-ahead-mike-pence-3057780?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-do-karen-pence-doug-emhoff-campaign-what-spouses-contribute-ahead-mike-pence-3057780?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 79
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/10/mike-pence-karen-pence.jpg"
-        width: 1073
-        height: 731
         isCached: true
   - title: "Mike Pence to hold in-person campaign event in Arizona as President Trump recovers from COVID-19"
     excerpt: "President Trump's cavalier attitude toward the coronavirus including holding large rallies is under scrutiny as the president recovers from COVID-19."
@@ -4030,462 +2805,133 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Democrats doubted Kamala Harris was liberal enough. Now Mike Pence calls her radical. What’s true? | Charlotte Observer"
-    excerpt: "Kamala Harris spent her presidential campaign trying to prove to her party she was a bona fide, enthusiastic liberal – not the “top cop” the former prosecutor called herself during her time as California’s attorney general."
-    publishedDateTime: 2020-10-07T12:48:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246253680.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246253680.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246253680.html"
+  - title: "VP Mike Pence tests negative and ‘remains in good health,’ after Trump tests positive for COVID-19"
+    excerpt: "Vice President Mike Pence and second lady Karen Pence tested negative for COVID-19 Friday morning, hours after President Donald Trump"
+    publishedDateTime: 2020-10-02T12:44:00Z
+    webUrl: "https://www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/"
+    ampWebUrl: "https://www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/2020/10/02/vp-mike-pence-tests-negative-and-remains-in-good-health-after-trump-tests-positive-for-covid-19/?outputType=amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
+      name: Dallas Morning News
+      domain: dallasnews.com
     quality: 76
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557042001/0bf46f13-28fd-4d6e-bc78-c919a3028ab7/main/1280x720/5s/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fact-checking Mike Pence and Kamala Harris on claims about COVID-19, health care, the economy and more in the VP debate"
-    excerpt: "Vice President Mike Pence and Sen. Kamala Harris tussled Wednesday in the first and only vice presidential debate before the Nov. 3 election, coming as the coronavirus sidelined President Donald Trump at the White House."
-    publishedDateTime: 2020-10-08T03:18:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-fact-check-pence-harris-vp-depate-20201008-ttn6iggqk5bpdichzdqgwczld4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 76
-    images:
-      - url: "https://www.dailypress.com/resizer/48iZPIOdfCSQE1BVnQr9t4943kk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BBWARIXL5BDKZK3BNBZEZGOGVI.jpg"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/LM9XrGK2MVdOkDzE926emKOkj8w=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/VINOODVTI3SYS65MECRXKA5Z4Q.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Vice Presidential debate: How to watch Mike Pence-Kamala Harris debate online (Live stream, start time, network info.)"
-    excerpt: "Voters on Wednesday night have an opportunity to contrast the debating styles and temperaments of President Donald Trump and Democratic nominee Joe Biden with their running mates as Vice President Mike Pence and Sen."
-    publishedDateTime: 2020-10-07T20:49:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/vice-presidential-debate-how-to-watch-mike-pence-kamala-harris-debate-online-live-stream-start-time-network-info.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/vice-presidential-debate-how-to-watch-mike-pence-kamala-harris-debate-online-live-stream-start-time-network-info.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/vice-presidential-debate-how-to-watch-mike-pence-kamala-harris-debate-online-live-stream-start-time-network-info.html?outputType=amp"
+  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Virginia"
+    excerpt: "President Donald Trump is campaigning in Newport News, Virginia Friday night. The president’s latest campaign rally comes as a prelude to his much-expected announcement of Judge Amy Coney Barrett to the Supreme Court on Saturday."
+    publishedDateTime: 2020-09-26T02:00:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-virginia/amp/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 76
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F3LJLA52UFHXJHVZ5MF2YK63IU.jpg"
-        width: 2661
-        height: 1831
-        isCached: true
-  - title: "Kamala Harris misleads on COVID-19 business loans while in Michigan"
-    excerpt: "Democratic vice presidential nominee Kamala Harris said inaccurately in Michigan that only one Black-owned restaurant in the state got a federal COVID-19 business loan"
-    publishedDateTime: 2020-09-24T21:49:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/09/24/kamala-harris-misleads-covid-19-business-loans-while-michigan/3521225001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3521225001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3521225001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Mediaite
+      domain: mediaite.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PDTN/067a6d0d-27c4-44c3-8220-24a31532e7ac-AP20266743014459.jpg?auto=webp&crop=5349,3009,x0,y271&format=pjpg&width=1200"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/GettyImages-1228603949-1200x706.jpg"
         width: 1200
-        height: 675
+        height: 706
         isCached: true
-  - title: "VP candidate Kamala Harris coming to NC | Charlotte Observer"
-    excerpt: "This will be vice presidential candidate Kamala Harris’ first in-person visit to North Carolina since becoming the Democratic nominee."
-    publishedDateTime: 2020-09-25T22:22:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246005265.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246005265.html"
+  - title: "Conservative Pundit Slams Donald Trump, Corrupt System Over Tax Returns"
+    excerpt: "The New York Times reported Trump paid just $750 in income taxes in 2016 and 2017, and no taxes in 11 of the last 18 years Coulter says developers should not be able to depreciate property that sells for much more She tweeted Democrats don't have the guts to overhaul the tax system because they get major donations from billionaires Conservative pundit Ann Coulter,"
+    publishedDateTime: 2020-09-29T23:22:00Z
+    webUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927"
+    ampWebUrl: "https://www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/conservative-pundit-slams-donald-trump-corrupt-system-over-tax-returns-3053927?amp=1"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
+      name: International Business Times
+      domain: ibtimes.com
     quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bd1d851f-ffe9-44e2-aa1f-5ab03317af13/48bf5e07-da11-4515-9a2d-57579f8cb0a0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Kamala Harris dodges question on packing Supreme Court"
-    excerpt: "Democratic vice-presidential candidate Sen. Kamala D. Harris on Monday dodged a question on whether Democrats should expand the number of seats on the U.S. Supreme Court if they control the House, Senate and White House next year."
-    publishedDateTime: 2020-09-29T14:14:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/29/kamala-harris-dodges-question-packing-supreme-cour/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-240-4265-2727_s1200x700.jpg?b4e540afe8cd79dee7891d2432e1b6dcf9ea66bb"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/16/ann-coulter.jpg"
         width: 1200
-        height: 700
+        height: 761
         isCached: true
-  - title: "We Finally Know Just How Big a Fraud Trump Is"
-    excerpt: "In the early 2000s, Donald Trump found himself in a familiar position: down and out. The big-talking real estate developer was once again on the verge of bankruptcy—his business losses mounting, his prospects looking bleak."
-    publishedDateTime: 2020-09-29T17:26:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/we-finally-know-just-how-big-a-fraud-trump-is"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/we-finally-know-just-how-big-a-fraud-trump-is/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/we-finally-know-just-how-big-a-fraud-trump-is/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5f73543cffc33aecb21a24bb/master/pass/Trump9.29.jpg"
-        width: 2000
-        height: 1345
-        isCached: true
-  - title: "Kamala Harris made $464,500 from her writing last year"
-    excerpt: "Kamala Harris earned $464,500 from her books last year, as she and her husband reported a total of $3.02 million in taxable income. The couple paid $1.18 million in federal taxes, or about 39% of their earnings."
-    publishedDateTime: 2020-10-01T00:16:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246124585.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 75
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "SNL: Who Is Playing Kamala Harris on Saturday Night Live?"
-    excerpt: "Kamala Harris (D-CA) delivers remarks at Shaw University on September 28, 2020. On October 3, 2020, Saturday Night Live will be returning to NBC for the premiere of its 46th season. The host will be Chris Rock and rapper Megan Thee Stallion will be performing as the musical guest."
-    publishedDateTime: 2020-10-04T01:25:00Z
-    webUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/"
-    ampWebUrl: "https://heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/kamala-harris-snl-who-is-playing/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/GettyImages-1228774543-e1601766932483.jpg?quality=65&strip=all"
-        width: 4800
-        height: 2712
-        isCached: true
-  - title: "Debate Squad: Meet Kamala Harris’s Closest Family Supporters"
-    excerpt: "Kamala Harris will debate Vice President Mike Pence—with six additional feet of distance between them—on Wednesday in Salt Lake City. Based on Harris's prosecutorial past and her tough lines of questioning for Brett Kavanaugh and attorney general Bill Barr in the Senate,"
-    publishedDateTime: 2020-10-05T15:30:00Z
-    webUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know"
-    ampWebUrl: "https://www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
-    cdnAmpWebUrl: "https://www-vogue-com.cdn.ampproject.org/c/s/www.vogue.com/article/kamala-harris-family-everything-you-need-to-know/amp"
-    type: article
-    provider:
-      name: Vogue
-      domain: vogue.com
-    quality: 75
-    images:
-      - url: "https://assets.vogue.com/photos/5f79406417ef50f396f17d9b/master/pass/GettyImages-1267250943.jpg"
-        width: 6464
-        height: 4662
-        isCached: true
-  - title: "Kamala Harris Superfan Is Getting Plastic Surgery To Look More Like Her"
-    excerpt: "In other 2020 news... A 33 year old Houston woman named Cynthia Anne will be undergoing a series of procedures in order to make herself look more like Democratic vice presidential nominee Kamala Harris."
-    publishedDateTime: 2020-10-04T18:45:00Z
-    webUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/kamala-harris-superfan-is-getting-plastic-surgery-to-look-more-like-her-news.119026.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 75
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1601835602_c78f4d7725bf01ada66dda7b037cc311.jpg/7bac4c72765958e3770472613f1ce7c4/1601835602_35a963e82449ae5c9c997e817819d6d0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Scoop: Inside Kamala Harris' new strategy for the VP debate"
-    excerpt: "Kamala Harris waves during an event at the University of Nevada, Las Vegas, Oct. 2. Photo: Ethan Miller/ President Trump’s hospitalization has changed the game plan for Sen. Kamala Harris for Wednesday's debate."
-    publishedDateTime: 2020-10-04T21:55:00Z
-    webUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
-    ampWebUrl: "https://www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-pence-debate-prep-6dd99ed2-8c02-4372-8110-bd9d1fa3466c.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 75
-    images:
-      - url: "https://images.axios.com/BzhhevCANjFvRDPxSiQwbeCSBDE=/fit-in/1366x1366/2020/10/04/1601842365580.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Art gets political at new Trump gallery in Katy"
-    excerpt: "Two ardent supporters of President Donald Trump have taken an artistic approach to backing the commander-in-chief’s reelection efforts. Longtime friends Bruce Badeau and Andy Valadez have opened a Trump-themed art gallery in homage to the president."
-    publishedDateTime: 2020-10-05T20:37:00Z
-    webUrl: "https://www.chron.com/neighborhood/katy/news/article/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
-    ampWebUrl: "https://www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/neighborhood/katy/news/amp/Art-gets-political-at-new-Trump-gallery-in-Katy-15622889.php"
+  - title: "Trump administration targets diversity hiring by contractors"
+    excerpt: "But advocates for corporate diversity initiatives worry that more cautious executives will halt or scale back efforts to make their workplaces more inclusive out of fear that a wrong step could jeopardize lucrative public contracts."
+    publishedDateTime: 2020-10-09T15:51:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-administration-targets-diversity-hiring-by-15633926.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
     quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/42/31/20063862/3/375x250.jpg"
-        width: 333
-        height: 250
+      - url: "https://s.hdnux.com/photos/01/14/47/54/20085552/3/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
-  - title: "How will Kamala Harris affect Asian Americans voting in Texas?"
-    excerpt: "For Jashmin Patel, who moved to Austin in February, Joe Biden naming U.S. Sen. Kamala Harris as his running mate resonated on a personal level. “I"
-    publishedDateTime: 2020-10-07T10:24:00Z
-    webUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas"
-    ampWebUrl: "https://www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201007/how-will-kamala-harris-affect-asian-americans-voting-in-texas?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 75
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201007&Category=NEWS&ArtNo=201009257&Ref=AR"
-        width: 3000
-        height: 1882
-        isCached: true
-  - title: "Kamala Harris and the ‘Other 1 Percent’"
-    excerpt: "Long before the Democratic vice presidential candidate became a national figure, India played a role in American politics."
-    publishedDateTime: 2020-10-07T12:31:00Z
-    webUrl: "https://www.theatlantic.com/international/archive/2020/10/kamala-harris-india-politics-singh/616624/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616624/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616624/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/pVfkNjcj_SyBuC_YjLx151tv_ao=/570x321/media/img/mt/2020/10/webart_indiakamala/original.jpg"
-        width: 570
-        height: 321
-        isCached: true
-  - title: "What the Media Should Be Asking Kamala Harris"
-    excerpt: "If media were doing their job and asking her tough questions, she’d be an enormous liability. NRPLUS MEMBER ARTICLE K amala Harris has come a long way since this time last year. In early October 2019,"
-    publishedDateTime: 2020-10-07T10:30:00Z
-    webUrl: "https://www.nationalreview.com/2020/10/what-the-media-should-be-asking-kamala-harris/"
-    ampWebUrl: "https://www.nationalreview.com/2020/10/what-the-media-should-be-asking-kamala-harris/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/2020/10/what-the-media-should-be-asking-kamala-harris/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i2.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/kamala-harris-raleigh-nc.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Kamala Harris’ Dangerous Vaccine Game"
-    excerpt: "On numerous occasions during the vice-presidential debate, Kamala Harris said that Democrats would listen and follow the “science.” Her cynically dangerous answer on vaccines says otherwise. Given an opportunity to walk back her previous attacks on massive private-public efforts to come up with a COVID vaccine,"
-    publishedDateTime: 2020-10-08T03:10:00Z
-    webUrl: "https://www.nationalreview.com/corner/kamala-harris-dangerous-vaccine-game/"
-    ampWebUrl: "https://www.nationalreview.com/corner/kamala-harris-dangerous-vaccine-game/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/kamala-harris-dangerous-vaccine-game/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i1.wp.com/www.nationalreview.com/wp-content/uploads/2020/10/vp-debate-kamala-harris-3.jpg?resize=300%2C300&ssl=1"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "MAGA: Donald Trump May Have Exposed Thousands of People to COVID-19"
-    excerpt: "President Donald Trump and other White House insiders infected with COVID-19 carried the virus across the country in a matter of days, potentially exposing hundreds, perhaps thousands, of people as they went about their business,"
-    publishedDateTime: 2020-10-07T23:21:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-exposure/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 75
-    images:
-      - url: "https://media.vanityfair.com/photos/5e176a0afd7db20008a8b957/master/pass/Trump75.jpg"
-        width: 2000
-        height: 1330
-        isCached: true
-  - title: "Moderator Susan Page hopes Mike Pence-Kamala Harris vice presidential debate was helpful for voters: 'That was the point'"
-    excerpt: "Susan Page, USA TODAY's Washington Bureau chief, said she had to be more aggressive than planned as moderator in Wednesday's vice presidential debate."
-    publishedDateTime: 2020-10-08T11:06:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/08/vice-presidential-debate-susan-page-moderating-mike-pence-kamala-harris/5920147002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5920147002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5920147002"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/785f3004-b172-4d8e-b505-211083cba06c-USP_News__Vice_Presidential_debate_between_Republi.jpg?auto=webp&crop=2551,1435,x0,y154&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris Claims Her Power"
-    excerpt: "Before last night’s vice-presidential debate, the hype, at least among Democrats, was that Kamala Harris was going to knock Mike Pence out. You might have thought it was 1988 again, and the debate was that year’s most anticipated prizefight,"
-    publishedDateTime: 2020-10-08T17:41:00Z
-    webUrl: "https://www.theatlantic.com/ideas/archive/2020/10/kamala-harris-claims-her-power/616664/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616664/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616664/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/vADEJKAs1t4uy5B5-HYvH9C_G-s=/0x326:5734x3550/570x320/media/img/mt/2020/10/2020_10_08T012724Z_1572561296_RC21EJ9KLRMW_RTRMADP_3_USA_ELECTION_DEBATE_copy/original.jpg"
-        width: 570
-        height: 320
-        isCached: true
-  - title: "Kamala Harris’s Ambition Trap"
-    excerpt: "An American Journey, Kamala Harris talks about how, during her first run for office—for San Francisco district attorney, in 2002—she taught herself to campaign. The lessons were partly about logistics (carry an ironing board in your car—the ideal portable podium for ad hoc campaign stops)."
-    publishedDateTime: 2020-10-10T01:23:00Z
-    webUrl: "https://www.theatlantic.com/magazine/archive/2020/11/kamala-harris-female-ambition/616470/"
-    ampWebUrl: "https://amp.theatlantic.com/amp/article/616470/"
-    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616470/"
-    type: article
-    provider:
-      name: The Atlantic
-      domain: theatlantic.com
-    quality: 75
-    images:
-      - url: "https://cdn.theatlantic.com/thumbor/MvPabuIfgHsqNsRdmcYnUQMu1T0=/2x0:1558x875/570x320/media/img/2020/09/DIS_Garber_Harris_Thumbnail/original.jpg"
-        width: 570
-        height: 320
-        isCached: true
-  - title: "The Kamala Harris Dishonesty Insult"
-    excerpt: "Kamala Harris’s own references to the Harris administration seem to make this reality even more obvious. Her radicalism should be an issue. His stands on its own, but hers is bold. If she were running at the top of the ticket,"
-    publishedDateTime: 2020-10-09T19:36:00Z
-    webUrl: "https://www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/"
-    ampWebUrl: "https://www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/amp/"
-    cdnAmpWebUrl: "https://www-nationalreview-com.cdn.ampproject.org/c/s/www.nationalreview.com/corner/the-kamala-harris-dishonesty-insult/amp/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 75
-    images:
-      - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2020/09/kamala-harris-washington.jpg?fit=1200%2C700&ssl=1"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "'You have the power': Kamala Harris urges voters to oppose Trump, Senate GOP over Supreme Court nominee"
-    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, urged voters to oppose President Trump and GOP senators over their Supreme Court nominee."
-    publishedDateTime: 2020-09-28T20:51:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/elections/2020/09/28/kamala-harris-urges-voters-oppose-trump-over-supreme-court-nominee/3563587001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3563587001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3563587001"
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-02T12:11:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5892840002"
     type: article
     provider:
       name: Indianapolis Star
       domain: indystar.com
     quality: 74
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/5b18600b-4a23-423b-8b47-f98adc846425-kamala_1.jpg?auto=webp&crop=4653,2618,x0,y237&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
-    excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
-    publishedDateTime: 2020-10-07T21:41:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/07/nation/watch-live-9-pm-vice-presidential-debate-between-mike-pence-kamala-harris/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/07/nation/watch-live-9-pm-vice-presidential-debate-between-mike-pence-kamala-harris/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/07/nation/watch-live-9-pm-vice-presidential-debate-between-mike-pence-kamala-harris/?outputType=amp"
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-04T11:33:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5892840002"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 74
-  - title: "Did Kamala Harris’ family move to Jamaica to engage in the slave trade? No"
-    excerpt: "The elder Harris did write that his paternal grandmother descended from a slave owner. That part of his essay has been distorted repeatedly to fuel misleading claims on social media about the Harris family’s connections to slavery in Jamaica."
-    publishedDateTime: 2020-09-26T23:44:00Z
-    webUrl: "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/did-kamala-harris-family-move-to-jamaica-to-engage-in-the-slave-trade-no.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 73
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/E7EWO7O5E5HUXDEI4UH7XZ46OE.jpg"
-        width: 2961
-        height: 1974
-        isCached: true
-  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight"
-    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T10:00:00Z
-    webUrl: "https://www.miamiherald.com/article246083820.html"
-    ampWebUrl: "https://amp.miamiherald.com/article246083820.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246083820.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 73
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0354de2-2fc7-422c-89df-cc7516e2f05e/01b86a55-d427-45ba-b8a6-369275b0a37f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fact Check: Vice presidential candidates Sen. Kamala Harris and VP Mike Pence debate"
-    excerpt: "The 90-minute debate between Sen. Kamala Harris and Vice President Mike Pence covered a variety of topics. We fact checked statements made by both candidates. The first topic discussed was the coronavirus pandemic."
-    publishedDateTime: 2020-10-08T08:58:00Z
-    webUrl: "https://www.chron.com/news/article/Fact-Check-Vice-Presidential-candidates-Sen-15629742.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 73
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/45/54/20077356/15/rawImage.jpg"
-        width: 2048
-        height: 1430
-        isCached: true
-  - title: "Kamala Harris to tour Flint small businesses Tuesday before events in Detroit"
-    excerpt: "Democrats need high voter turnout in Detroit and Flint to win Michigan, a state Trump won by 10,704 votes in 2016."
-    publishedDateTime: 2020-09-24T14:52:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/09/21/kamala-harris-flint-businesses-detroit-2020-election/5858822002/"
-    ampWebUrl: "https://amp.freep.com/amp/5858822002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5858822002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/07/29/PDTF/082e2d80-3b15-4ccc-80a8-8f823ea612e0-Harris_072919_06_MW.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Kamala Harris plans two campaign events in Raleigh today | Charlotte Observer"
-    excerpt: "Kamala Harris will be in Raleigh on Monday, her first visit to North Carolina as the Democratic nominee for vice president. Harris, a U.S. senator from California and former attorney general, will give a speech Monday afternoon at Shaw University."
-    publishedDateTime: 2020-09-28T14:27:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246023330.html"
+  - title: "Mike Pence tests negative for COVID-19, the vice president's office says"
+    excerpt: "Hours after President Donald Trump announced he has tested positive for the coronavirus, the vice president's office says Mike Pence is negative."
+    publishedDateTime: 2020-10-04T23:11:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/02/does-mike-pence-have-covid-tests-negative/5892840002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5892840002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5892840002"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 72
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 74
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/e24a9e94-12c3-454a-873e-0e9c2916d379/da956aac-77ef-469c-a259-8f538eb7b90e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/5c69e287-82c9-47da-9c78-4bda389c997b-pence_05.JPG?auto=webp&crop=3276,1843,x0,y166&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nancy Pelosi unveils 25th Amendment bid, questions Donald Trump’s fitness"
+    excerpt: "House Speaker Nancy Pelosi unveiled legislation Friday that would allow Congress to intervene under the 25th Amendment to the Constitution to remove the president, insisting it’s not about"
+    publishedDateTime: 2020-10-09T16:24:00Z
+    webUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/09/pelosi-unveils-25th-amendment-bid-questions-trumps-fitness/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 74
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Virus_Outbreak_Congress_13038.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Could Mike Pence assume the presidency if Trump is sick? What the 25th Amendment says | Charlotte Observer"
     excerpt: "The answer lies in the 25th Amendment of the U.S. Constitution, which states the duties of the presidency could pass to the vice president. Vice President Mike Pence tested negative for COVID-19 Friday morning and is in “good health,"
@@ -4503,79 +2949,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How to Watch the Vice Presidential Debate Between Kamala Harris and Mike Pence"
-    excerpt: "When and where is the vice presidential debate? The VP debate will air live from the University of Utah at 9 p.m. ET/6 p.m. PT on Wednesday, Oct. 7. How to watch the vice presidential debate: You can watch the debate across every major network on cable as well as streaming,"
-    publishedDateTime: 2020-09-26T02:48:00Z
-    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
-    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/how-to-watch-the-vice-presidential-debate-between-kamala-harris-and-mike-pence/603-dbf672ca-b8a5-4e7d-9bcc-b1e19d28d6c1"
+  - title: "Man arrested for punching another person in apparent argument over Trump: police"
+    excerpt: "Police said the incident occurred Saturday outside a Buc-ees convenience store and gas station in Denton, Texas."
+    publishedDateTime: 2020-10-04T16:59:00Z
+    webUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-man-arrested-punch-trump-argument-texas-bucees-20201004-sec2j2gi2ngibgoyvf2ioxgv2u-story.html?outputType=amp"
     type: article
     provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 71
-    images:
-      - url: "https://media.kvue.com/assets/ETONLINE/images/dc48a308-3b2f-426e-943e-cd305056efde/dc48a308-3b2f-426e-943e-cd305056efde_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Kamala Harris: I will 'definitely' be involved in Barrett confirmation hearings"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that she will “definitely” be involved in the upcoming confirmation hearings for Judge Amy Coney Barrett, President Trump’s pick for the U."
-    publishedDateTime: 2020-09-29T01:01:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/sep/28/kamala-harris-asserts-role-amy-coney-barrett-confi/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/sep/28/kamala-harris-asserts-role-amy-coney-barrett-confi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/sep/28/kamala-harris-asserts-role-amy-coney-barrett-confi/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 71
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/09/28/election_2020_harris_24638_c0-178-4265-2665_s1200x700.jpg?c5ed372221b4084ec96f2441cc59a887c3e55de9"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Pence, Ivanka Trump will campaign in Minneapolis on Thursday"
-    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
-    publishedDateTime: 2020-09-24T17:37:00Z
-    webUrl: "https://www.startribune.com/pence-brings-law-and-order-tour-to-city-where-floyd-died/572507741/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 70
     images:
-      - url: "https://stmedia.stimg.co/AP20260746184431.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://www.nydailynews.com/resizer/s5uzKQOxZlQ4CUG5P2Ogxpu-IyM=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/4QX7BX6UVRGLBGOLUK7OZI6SEA.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Vice President Mike Pence and Ivanka Trump come to Minneapolis"
-    excerpt: "Vice President Mike Pence and Ivanka Trump will host a 'Cops for Trump' listening session in Minneapolis, meeting with community members whose businesses and lives have been negatively impacted by crime and rioting."
-    publishedDateTime: 2020-09-24T20:27:00Z
-    webUrl: "https://www.startribune.com/vice-president-mike-pence-and-ivanka-trump-come-to-minneapolis/572524201/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 70
-    images:
-      - url: "https://stmedia.stimg.co/1600977557_08-1011662604+02PENCE092520.JPG?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "VP Pence, Ivanka Trump visit Twin Cities to back law enforcement"
-    excerpt: "Four months after George Floyd was killed by Minneapolis police officers, the vice president and first daughter came to the epicenter of this summer's racial justice movement to support law enforcement."
-    publishedDateTime: 2020-09-25T05:40:00Z
-    webUrl: "https://www.bemidjipioneer.com/news/government-and-politics/6677431-VP-Pence-Ivanka-Trump-visit-Twin-Cities-to-back-law-enforcement"
-    type: article
-    provider:
-      name: Bemidji Pioneer
-      domain: bemidjipioneer.com
-    quality: 70
-    images:
-      - url: "https://www.fccnn.com/incoming/6677659-aey5v5-PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg/alternates/BASE_LANDSCAPE/PenceIvankaCopsforTrump_Frost_MPRNews_4.jpg"
-        width: 1140
-        height: 712
+        height: 774
         isCached: true
   - title: "Mike Pence's role in the Trump administration"
     excerpt: "Mike Pence's role in the Trump administration has been forced more into the spotlight with the president's illness from coronavirus. Here's a look back at Pence's career."
@@ -4591,104 +2979,51 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How To Watch The Vice Presidential Debate, Kamala Harris, Mike Pence Face Off At 9 p.m. EDT"
-    excerpt: "In past elections, the vice presidential debates have been little more than a side show, but this time they have taken on added significance in light of the candidates’ ages, as well as Trump’s illness."
-    publishedDateTime: 2020-10-07T13:45:00Z
-    webUrl: "https://www.ibtimes.com/how-watch-vice-presidential-debate-kamala-harris-mike-pence-face-9-pm-edt-3057591"
+  - title: "Susan Collins Calls Trump Announcement on Stopping Stimulus Negotiations Until After Election ‘A Huge Mistake’"
+    excerpt: "President Donald Trump's surprise announcement about stopping stimulus negotiations until after the election sent shockwaves through DC, and even concerned some Republicans."
+    publishedDateTime: 2020-10-06T23:39:00Z
+    webUrl: "https://www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/"
+    ampWebUrl: "https://www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/susan-collins-calls-trump-announcement-on-stopping-stimulus-negotiations-until-after-election-a-huge-mistake/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 70
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2019/04/Susan-Collins-via-Zach-Gibson_Getty-Images-1200x627.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Stimulus 2: Trump Now Says He Would ‘Immediately’ OK Standalone Bill for $1,200 Checks"
+    excerpt: "After announcing the end to coronavirus stimulus negotiations Tuesday, President Trump later signaled that he would sign a standalone bill sending $1,200 checks to Americans."
+    publishedDateTime: 2020-10-07T02:56:00Z
+    webUrl: "https://heavy.com/news/trump-stimulus-standalone-bill-checks/"
+    ampWebUrl: "https://heavy.com/news/trump-stimulus-standalone-bill-checks/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/trump-stimulus-standalone-bill-checks/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 67
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-76.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
+  - title: "Fake ‘Simpsons’ Donald Trump Death Photo Resurfaces After President’s COVID-19 Announcement"
+    excerpt: "After President Donald Trump and First Lady Melania Trump confirmed their COVID-19 diagnosis early Friday, many began sharing a purported photo from “The Simpsons” which features the current POTUS. The image in question circulating on social media shows a cartoon version of the president lying in a coffin."
+    publishedDateTime: 2020-10-02T13:43:00Z
+    webUrl: "https://www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765"
+    ampWebUrl: "https://www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fake-simpsons-donald-trump-death-photo-resurfaces-after-presidents-covid-19-3055765?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 70
+    quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/05/democratic-vice-presidential-nominee-kamala-harris-said-that.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "How Susan Page felt moderating the vice presidential debate with Mike Pence, Kamala Harris"
-    excerpt: "Vice presidential debate moderator and USA TODAY Washington Bureau chief Susan Page explains her \"Thank you, Vice President Pence\" approach, takeaways."
-    publishedDateTime: 2020-10-08T15:49:00Z
-    webUrl: "https://www.freep.com/videos/news/politics/2020/10/08/susan-page-thoughts-mike-pence-kamala-harris-vice-presidential-debate/5921185002/"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/cf5331ea-088d-4679-a622-8be41bc00d09-GTY_1279062182.jpg?quality=10"
-        width: 5153
-        height: 3992
-        isCached: true
-  - title: "Vice Presidential Debate: Kamala Harris, Mike Pence Reportedly Being Separated By Plexiglass"
-    excerpt: "SALT LAKE CITY (CBS SF) – Vice President Mike Pence and Sen. Kamala Harris will reportedly be separated by plexiglass at Wednesday’s Vice Presidential Debate amid concerns about the ..."
-    publishedDateTime: 2020-10-05T21:47:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/amp/"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2020/10/05/vice-presidential-debate-kamala-harris-mike-pence-reportedly-being-separated-by-plexiglass/amp/"
-    type: article
-    provider:
-      name: CBS SF BayArea
-      domain: cbslocal.com
-    quality: 69
-  - title: "Maya Rudolph Nails Her Return to SNL as Kamala Harris — Down to the Converse Sneakers"
-    excerpt: "Maya Rudolph is stepping into Sen. Kamala Harris's shoes once again for Saturday Night Live. Maya, a former SNL cast member, made her return to 30 Rockefeller Plaza on Oct. 3 to reprise her role as the Democratic vice presidential nominee. Naturally ..."
-    publishedDateTime: 2020-10-04T19:50:00Z
-    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
-    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
-    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
-    type: article
-    provider:
-      name: PopSugar
-      domain: popsugar.com
-    quality: 68
-    images:
-      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The vice presidential debate between Mike Pence, Kamala Harris is tonight. Here's how to watch"
-    excerpt: "Vice President Mike Pence and vice-presidential nominee Kamala Harris will face off in a debate tonight after a \"chaotic\" first presidential debate last week. USA Today's Washington bureau chief Susan Page will moderate."
-    publishedDateTime: 2020-10-07T19:20:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/election2020/article/The-vice-presidential-debate-between-Kamala-15627788.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 68
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/44/52/20073095/5/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
-    excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
-    publishedDateTime: 2020-10-08T15:14:00Z
-    webUrl: "https://www.freep.com/story/news/politics/arizona/2020/10/08/kamala-harris-set-visit-arizona-voters-see-history-making/5913304002/"
-    ampWebUrl: "https://amp.freep.com/amp/5913304002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5913304002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
-    excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
-    publishedDateTime: 2020-10-08T17:32:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/arizona/2020/10/08/kamala-harris-set-visit-arizona-voters-see-history-making/5913304002/"
-    ampWebUrl: "https://amp.indystar.com/amp/5913304002"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5913304002"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 66
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/06/06/simpsons.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -4706,118 +3041,63 @@ related:
         width: 1280
         height: 858
         isCached: true
-  - title: "Kamala Harris wants to speak to the Black community. Are we ready to listen? | Solomon Jones"
-    excerpt: "Kamala Harris can’t be symbolic like Obama. She must be substantive, and she must be able to answer the tough questions so many of us have."
-    publishedDateTime: 2020-09-30T12:45:00Z
-    webUrl: "https://www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html"
-    ampWebUrl: "https://www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/opinion/kamala-harris-election-2020-black-voters-pennsylvania-20200930.html?outputType=amp"
+  - title: "Donald Trump Announces He’s Leaving Walter Reed Hospital to Infect the Rest of White House"
+    excerpt: "He claims to feel better than he did 20 years ago and told people not to let the deadly virus “dominate” their lives."
+    publishedDateTime: 2020-10-05T20:46:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-leaving-hospital/amp"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
-    quality: 64
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 65
     images:
-      - url: "https://www.inquirer.com/resizer/Nj16sen8k4pmCLliM6pAXX7yilM=/1200x0/center/middle/www.inquirer.com/resizer/JAJ8DHISe_rGAL1UYat0HKLWGYU=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/SB7UQBXWD5B3XJHOKICRAMSWBA.png"
-        width: 1200
-        height: 704
+      - url: "https://media.vanityfair.com/photos/5f7b78a06cac71ad7f787f72/master/pass/donaldtrumphospital.jpg"
+        width: 2000
+        height: 1281
         isCached: true
-  - title: "Kamala Harris faces intense pressure, double standards leading into vice presidential debate"
-    excerpt: "Those who know California Sen. Kamala Harris say she will come prepared to face off with Vice President Mike Pence."
-    publishedDateTime: 2020-10-05T13:00:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/05/kamala-harris-faces-intense-pressure-double-standards-leading-into-vice-presidential-debate/amp/"
+  - title: "‘Confusion from top to bottom’: Trump aides panic after president returns to the White House"
+    excerpt: "White House staffers who have seen over three years of bullying and firings under Donald Trump are fearful what will come next now that the president has been discharged from Walter Reed Medical Center while still exhibiting symptoms of COVID-19,"
+    publishedDateTime: 2020-10-06T11:09:00Z
+    webUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confusion-from-top-to-bottom-trump-aides-panic-after-president-returns-to-the-white-house/amp/"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
+      name: The Raw Story
+      domain: rawstory.com
     quality: 64
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/08/Election_2020_Biden_Harris_27250-1.jpg?w=1024&h=683"
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/trump_covid-789x430.jpg"
+        width: 789
+        height: 430
+        isCached: true
+  - title: "Trump's Coronavirus Joyride Angered Don Jr., Thinks President Is 'Acting Crazy,' Sources Say"
+    excerpt: "President Donald Trump announced he tested positive for the coronavirus Friday. He has since received treatment and has been discharged from the hospital Monday night."
+    publishedDateTime: 2020-10-06T02:05:00Z
+    webUrl: "https://www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148"
+    ampWebUrl: "https://www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trumps-coronavirus-joyride-angered-don-jr-thinks-president-acting-crazy-sources-say-3057148?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 64
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/25/images-and-soundbites-completes-vidi1wq3mv_endonald-trump-jr-says.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
-  - title: "Republican attorneys general slam former colleague Kamala Harris as 'original lawless liberal'"
-    excerpt: "Republican attorneys general assailed Democratic vice-presidential candidate Kamala D. Harris on Wednesday, blasting their former colleague as the “original lawless liberal.”"
-    publishedDateTime: 2020-10-07T21:38:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+  - title: "Live updates on Trump and COVID-19: President in hospital for extended stay; many infected at White House gathering"
+    excerpt: "President Trump is at hospital after a positive COVID-19 test. The Bidens wish him well. Campaigning ahead of Election Day has shifted. Latest news."
+    publishedDateTime: 2020-10-03T10:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/03/trump-covid-updates-president-gets-remdesivir-walter-reed-hospital/3592595001/"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: USA Today
+      domain: usatoday.com
     quality: 63
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/election_2020_harris_10223_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
-    excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
-    publishedDateTime: 2020-10-04T20:46:00Z
-    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
-    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
-    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
-    type: article
-    provider:
-      name: PopSugar
-      domain: popsugar.com
-    quality: 62
-    images:
-      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Report: One quarter of Kamala Harris announcement coverage included racist or sexist stereotyping"
-    excerpt: "The report was released one day before Sen. Kamala Harris takes the debate stage against Vice President Mike Pence."
-    publishedDateTime: 2020-10-06T11:16:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/06/report-25-kamala-harris-coverage-included-racist-sexist-stereotyping/3631948001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3631948001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3631948001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/df2a8a7e-73f4-4d71-a54e-986e6ef29944-GTY_1228773922.jpg?auto=webp&crop=4799,2700,x0,y470&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Report: One-quarter of Kamala Harris announcement coverage included racist or sexist stereotyping"
-    excerpt: "The report was released one day before Democratic Sen. Kamala Harris takes the debate stage in Utah against Vice President Mike Pence."
-    publishedDateTime: 2020-10-06T21:26:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/06/report-25-kamala-harris-coverage-included-racist-sexist-stereotyping/3631948001/"
-    ampWebUrl: "https://amp.freep.com/amp/3631948001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3631948001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/df2a8a7e-73f4-4d71-a54e-986e6ef29944-GTY_1228773922.jpg?auto=webp&crop=4799,2700,x0,y470&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "In context: Kamala Harris jumped to conclusions about Lincoln’s delayed Supreme Court nomination"
-    excerpt: "Democratic vice presidential candidate Kamala Harris invoked Abraham Lincoln to say why a nominee to succeed the late Justice Ruth Bader Ginsburg should"
-    publishedDateTime: 2020-10-08T18:55:00Z
-    webUrl: "https://www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination"
-    ampWebUrl: "https://www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 62
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201008&Category=NEWS&ArtNo=201009104&Ref=AR"
-        width: 2626
-        height: 1762
-        isCached: true
   - title: "Explainer: How Mike Pence Could Temporarily Assume Control if Trump Becomes Incapacitated"
     excerpt: "Like two U.S. presidents before him, Donald Trump could temporarily hand over power to his vice president should he become incapacitated, for example while undergoing a medical procedure as treatment for the coronavirus."
     publishedDateTime: 2020-10-02T15:23:00Z
@@ -4829,89 +3109,73 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 61
-  - title: "‘Mr. Vice President, I’m speaking’: Women praise Kamala Harris’s response to Mike Pence’s debate interruptions"
-    excerpt: "The phrase began trending on Twitter, with Harris’s use of the line sparking support from women who appeared to empathize with being interrupted by men at work."
-    publishedDateTime: 2020-10-08T13:19:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/08/nation/mr-vice-president-im-speaking-women-praise-kamala-harriss-response-mike-pences-debate-interruptions/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/08/nation/mr-vice-president-im-speaking-women-praise-kamala-harriss-response-mike-pences-debate-interruptions/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/08/nation/mr-vice-president-im-speaking-women-praise-kamala-harriss-response-mike-pences-debate-interruptions/?outputType=amp"
+  - title: "‘Don’t tell anyone’: Trump tried to hide positive COVID-19 tests spreading through the White House"
+    excerpt: "The Wall Street Journal reported Sunday that President Donald Trump tried to hide that he first tested positive for COVID-19 when he waited for a second test on Thursday. According to the report, Trump attempted to hide his first rapid test that gave him a positive test result."
+    publishedDateTime: 2020-10-04T23:48:00Z
+    webUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/dont-tell-anyone-trump-tried-to-hide-positive-19-tests-spreading-through-the-white-house/amp/"
     type: article
     provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 60
-  - title: "Joe Biden and Senator Harris Campaign in Arizona"
-    excerpt: "Democratic presidential nominee Joe Biden and running mate Senator Kamala Harris (D-CA) campaigned in Arizona the day after the vice presidential debate."
-    publishedDateTime: 2020-10-09T01:10:00Z
-    webUrl: "https://www.c-span.org/video/?476759-1/joe-biden-senator-harris-campaign-arizona"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 60
-  - title: "ZIP codes donating the most money to Donald Trump"
-    excerpt: "Stacker has gathered information from the Federal Election Commission to provide a comprehensive list of the top 50 zip codes where President Trump has received the most campaign donations over the past two years."
-    publishedDateTime: 2020-10-01T11:22:00Z
-    webUrl: "https://www.chron.com/lavoz/news/article/Zip-codes-donating-the-most-money-to-Donald-Trump-15606027.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://s.hdnux.com/photos/01/14/32/77/20033524/3/rawImage.jpg"
-        width: 1010
-        height: 720
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.jpg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "President Trump's Claim About McDonald's Is Hair-Raising"
-    excerpt: "McDonald's (NYSE:MCD) received a light-hearted \"endorsement\" from President Donald Trump yesterday when he retweeted a tweet about a supposed link between a chemical found in french fries and hair-loss prevention."
-    publishedDateTime: 2020-10-02T05:26:00Z
-    webUrl: "https://www.ibtimes.com/president-trumps-claim-about-mcdonalds-hair-raising-3055583"
+  - title: "Is the White House Covering Up the Fact that Donald Trump Is Patient Zero of the COVID-19 Outbreak?"
+    excerpt: "And I think the reason the White House will not have the CDC do a formal check and review every single case is that they’re concerned that the patient zero might be the president of the United States."
+    publishedDateTime: 2020-10-07T20:21:00Z
+    webUrl: "https://vanityfair.com/news/2020/10/donald-trump-patient-zero"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-patient-zero/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-patient-zero/amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 61
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/06/22/gettyimages-672997214.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.vanityfair.com/photos/5cbde07c5ec6062e3c5c4c89/master/pass/TrumpWH.jpg"
+        width: 2000
+        height: 1551
         isCached: true
-  - title: "Reactions to Donald Trump Testing Positive for Coronavirus"
-    excerpt: "U.S. President Donald Trump said in a tweet on Friday that he and his wife Melania had contracted coronavirus and were entering quarantine, just a month before the Nov. 3 presidential election. Trump's tweet revealing that America's First Couple had tested positive reverberated through world media and financial markets."
-    publishedDateTime: 2020-10-02T06:29:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-02/reactions-to-donald-trump-testing-positive-for-coronavirus?context=amp"
+  - title: "Trump Facing Devastating Debt Load? Experts Say Not So Fast"
+    excerpt: "President Donald Trump reportedly must pay back more than $300 million in loans over the next four years, raising the possibility his lenders could face an unprecedented situation should he win a second term and not be able to raise the money: foreclosing on the leader of the free world."
+    publishedDateTime: 2020-09-29T21:05:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-29/trump-facing-devastating-debt-load-experts-say-not-so-fast?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Don't Politicize the Virus, Pelosi Tells Trump"
-    excerpt: "U.S. President Donald Trump has no basis for claiming success battling the country's coronavirus crisis, Speaker of the House of Representatives Nancy Pelosi said on Monday, saying his policies had endangered Americans."
-    publishedDateTime: 2020-10-06T05:17:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-05/house-speaker-pelosi-says-she-hopes-trumps-doctors-gave-him-permission-to-leave-hospital?context=amp"
+  - title: "Trump Joins Growing List of Virus-Infected World Leaders"
+    excerpt: "President Donald Trump has tested positive for the coronavirus, joining a small group of world leaders who have been infected."
+    publishedDateTime: 2020-10-02T06:48:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-02/trump-joins-growing-list-of-virus-infected-world-leaders?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today"
-    excerpt: "Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border,"
-    publishedDateTime: 2020-10-05T22:25:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-husband-Doug-Emhoff-campaign-Texas-15622339.php"
+  - title: "White House: VP Mike Pence tests negative for COVID-19"
+    excerpt: "Vice President Mike Pence tested negative for the virus on Friday morning and “remains in good health,\" his spokesman said. President Donald Trump said early Friday that he and first lady Melania Trump have tested positive for the coronavirus,"
+    publishedDateTime: 2020-10-02T12:28:00Z
+    webUrl: "https://www.stamfordadvocate.com/news/article/Alert-White-House-VP-Mike-Pence-tests-negative-15615282.php"
     type: article
     provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 55
     images:
-      - url: "https://s.hdnux.com/photos/01/14/42/07/20062665/12/rawImage.jpg"
+      - url: "https://s.hdnux.com/photos/01/14/36/77/20049899/115/rawImage.jpg"
         width: 2048
-        height: 1365
+        height: 1369
         isCached: true
   - title: "Stocks Higher After Trump Leaves Hospital"
     excerpt: "Stock markets gained ground Tuesday while investors mulled the level of US electoral uncertainty after President Donald Trump returned to the White House following treatment for Covid-19. As Trump was discharged from hospital,"
@@ -4927,20 +3191,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "The Coronavirus Cases In Trump's Inner Circle"
-    excerpt: "The coronavirus has not only reached the White House, infecting President Donald Trump, but it has also spread among members of his family, inner circle and his Republican allies. The following is a list of some of the people surrounding the American president who have tested positive for Covid-19: Trump,"
-    publishedDateTime: 2020-10-06T01:25:00Z
-    webUrl: "https://www.ibtimes.com/coronavirus-cases-trumps-inner-circle-3057171"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/this-combination-of-file-pictures-shows-l-r.jpg"
-        width: 768
-        height: 768
-        isCached: true
   - title: "Infected Trump Working From Residence; West Wing Spaces Considered"
     excerpt: "U.S. President Donald Trump is working from makeshift office space in the White House residence rather than the Oval Office, with only a few senior staff gaining face-to-face access while he receives treatment for COVID-19,"
     publishedDateTime: 2020-10-06T21:06:00Z
@@ -4952,64 +3202,65 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "Obama to join Kamala Harris for 2 Democratic fundraisers | Charlotte Observer"
-    excerpt: "Former President Barack Obama will join Kamala Harris for a pair of fundraisers next week in support of the Democratic ticket."
-    publishedDateTime: 2020-09-25T02:38:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article245992450.html"
+  - title: "On Radio, TV, Trump Sets Out to Get Campaign Back on Track"
+    excerpt: "President Donald Trump is setting out to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T21:37:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Restarting Campaign With White House, Florida Events"
+    excerpt: "With time running out before the election, President Donald Trump is looking to get his campaign back on track."
+    publishedDateTime: 2020-10-10T04:25:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-10/trump-restarting-campaign-with-white-house-florida-events?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Sets Big Events for WH, Florida, Restarting Campaign"
+    excerpt: "President Donald Trump is looking to get his campaign back on track, a week after he was sidelined with the coronavirus that has killed more than 210,000 Americans."
+    publishedDateTime: 2020-10-09T23:24:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-09/trump-sets-out-to-get-campaign-back-on-track?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "U.S. Agency Shows No Sign of Quick Action on Trump Social Media Petition"
+    excerpt: "The Federal Communications Commission has given no indication it will move quickly on an effort by President Donald Trump to narrow the ability of social media companies to remove objectionable content and require new transparency rules."
+    publishedDateTime: 2020-10-07T10:18:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-07/us-agency-shows-no-sign-of-quick-action-on-trump-social-media-petition?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
+  - title: "Trump Says He Declassified Documents Related To Federal Investigation Of Russia Interference, Hillary Clinton Emails"
+    excerpt: "President Donald Trump on Tuesday declassified all documents pertaining to the investigation into Russian interference in the 2016 election, along with files related to the probe of Hillary Clinton's email use."
+    publishedDateTime: 2020-10-07T02:17:00Z
+    webUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829"
+    ampWebUrl: "https://www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-says-he-declassified-documents-related-federal-investigation-russia-3057829?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
     quality: 52
-  - title: "Kamala Harris wants to speak to the Black community — are we ready to listen?"
-    excerpt: "Hours before a presidential debate that erased the boundaries of political decorum, I spoke to the Democratic vice presidential nominee, Sen. Kamala Harris. I asked her about the concerns of Black Philadelphians — a community that could very well"
-    publishedDateTime: 2020-10-01T09:36:00Z
-    webUrl: "https://www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/"
-    ampWebUrl: "https://www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/kamala-harris-wants-to-speak-to-the-black-community-are-we-ready-to-listen/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 52
-  - title: "Which Kamala Harris will show up? 5 things to watch for in tonight’s VP debate"
-    excerpt: "While vice presidential debates have historically had little impact on the overall race, a lot is riding on how Mike Pence and Kamala Harris perform."
-    publishedDateTime: 2020-10-07T21:21:00Z
-    webUrl: "https://www.sfchronicle.com/politics/us/article/5-things-watch-for-vp-debate-kamala-harris-pence-15627876.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
     images:
-      - url: "https://s.hdnux.com/photos/01/14/44/10/20070939/33/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "In Reno, Kamala Harris’ husband criticizes Trump’s lack of compassion"
-    excerpt: "The husband of Democratic vice presidential nominee Kamala Harris said Thursday President Donald Trump’s response to COVID-19 underscores the lack of compassion he's shown for Americans needing help on numerous fronts."
-    publishedDateTime: 2020-10-09T02:04:00Z
-    webUrl: "https://lasvegassun.com/news/2020/oct/08/in-reno-kamala-harris-husband-criticizes-trumps-la/"
-    type: article
-    provider:
-      name: Las Vegas Sun
-      domain: lasvegassun.com
-    quality: 50
-  - title: "Ad Watch: Kamala Harris doesn’t want to ‘defund, dismantle and dissolve’ the police"
-    excerpt: "Biden’s official campaign platform says his administration would not defund police departments. Harris’ press secretary said she does not support defunding the police. Her former presidential campaign platform did not mention it."
-    publishedDateTime: 2020-10-08T21:38:00Z
-    webUrl: "https://www.politifact.com/factchecks/2020/oct/08/mike-pence/ad-watch-kamala-harris-doesnt-want-defund-dismantl/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 49
-    images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/08/former-special-counsel-robert-mueller-who-led-the.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "What happens if Donald Trump dies or gets seriously ill? President Mike Pence"
     excerpt: "Karen and I send our love and prayers to our dear friends President Donald Trump and First Lady Melania Trump,” Mr Pence said in a statement after Mr Trump’s positive test. “We join millions across America praying for their full and swift recovery."
@@ -5020,135 +3271,49 @@ related:
       name: The Courier-Mail
       domain: couriermail.com.au
     quality: 47
-  - title: "'Let’s put our shoulders to the wheel': Sen. Kamala Harris arrives in Utah for VP debate"
-    excerpt: "The Democratic vice presidential nominee, California Sen. Kamala Harris, is already in Utah for Wednesday night’s debate with Vice President Mike Pence at the University of Utah."
-    publishedDateTime: 2020-10-03T20:46:00Z
-    webUrl: "https://www.ksl.com/article/50024554/lets-put-our-shoulders-to-the-wheel-sen-kamala-harris-arrives-in-utah-for-vp-debate"
+  - title: "Days After Trump Diagnosed With Covid, White House Staff Finally Given Instructions: ‘Do Not Come To Work’ If You Have Symptoms"
+    excerpt: "Days after the news broke that President Donald Trump had Covid-19, the White House Management Office finally sent out a message to the staff with instructions."
+    publishedDateTime: 2020-10-05T02:05:00Z
+    webUrl: "https://www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/"
+    ampWebUrl: "https://www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/days-after-trump-diagnosed-with-covid-white-house-staff-finally-given-instructions-do-not-come-to-work-if-you-have-symptoms/amp/"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
+      name: Mediaite
+      domain: mediaite.com
+    quality: 47
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Walter-Reed-Marine-One-GettyImages-1228855247-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Maps Return to Campaign Trail After White House Says COVID-19 Treatment Complete"
+    excerpt: "Republican President Donald Trump on Friday prepared to return to the campaign trail with a pair of weekend rallies after his COVID-19 diagnosis sidelined him for a week in the race against Democratic nominee Joe Biden for the White House."
+    publishedDateTime: 2020-10-09T06:07:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-09/trump-maps-return-to-campaign-trail-after-white-house-says-covid-19-treatment-complete?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 47
+  - title: "After Stopping Negotiations, Trump Sets Off Confusion With Tweet Seemingly Agreeing With Fed Chair’s Call for Urgent Covid Relief"
+    excerpt: "President Donald Trump announced he's telling his people to stop covid relief stimulus negotiations after the election. This came hours after a serious warning from Fed Chair Jero"
+    publishedDateTime: 2020-10-07T00:29:00Z
+    webUrl: "https://www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/"
+    ampWebUrl: "https://www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/after-stopping-negotiations-trump-sets-off-confusion-with-tweet-seemingly-agreeing-with-fed-chairs-call-for-urgent-covid-relief/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
     quality: 46
     images:
-      - url: "https://img.ksl.com/slc/2540/254033/25403361.jpg?filter=ksl/responsive_story_lg"
-        width: 614
-        height: 345
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/09/Donald-Trump-via-Joshua-Roberts_Getty-Images.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Kamala Harris’s husband Doug Emhoff to campaign in Texas today, including San Antonio stop"
-    excerpt: "Kamala Harris campaign is making a new pitch to win voters over in South Texas, dispatching Harris’s husband Doug Emhoff for a pair of campaign events on Monday. Emhoff will first head to the Texas border,"
-    publishedDateTime: 2020-10-05T22:25:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Kamala-Harris-s-husband-Doug-Emhoff-to-campaign-15622333.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 45
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/42/06/20062603/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight | Charlotte Observer"
-    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
-    publishedDateTime: 2020-09-29T14:17:00Z
-    webUrl: "https://www.charlotteobserver.com/opinion/article246083820.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/opinion/article246083820.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/opinion/article246083820.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 42
-  - title: "Senator Kamala Harris in Conversation Hosted by the NAACP"
-    excerpt: "Sen. Kamala Harris (D-CA) participated in a virtual conversation on race and the 2020 election as part of the NAACP's National Convention."
-    publishedDateTime: 2020-09-25T19:08:00Z
-    webUrl: "https://www.c-span.org/event/?476243/campaign-2020-sen-kamala-harris-conversation-hosted-naacp"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Kamala Harris Campaigns Remarks in Michigan"
-    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Detroit. Jill Biden and Doug Emhoff delivered remarks during a trip to New Hampshire and spoke with supporters."
-    publishedDateTime: 2020-09-27T22:03:00Z
-    webUrl: "https://www.c-span.org/video/?476077-1/kamala-harris-campaigns-remarks-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Sen. Kamala Harris Delivers Remarks on the Supreme Court"
-    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
-    publishedDateTime: 2020-09-28T12:53:00Z
-    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-delivers-remarks-supreme-court"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Delivers Remarks on the Supreme Court"
-    excerpt: "T14:42:26-04:00 vice presidential candidate Senator Kamala Harris (D-CA) warns that the Affordable Care Act and Roe v. Wade are at stake with President Trump’s nomination of Judge Amy Coney Barrett to the Supreme Court following the death of Justice Ginsburg."
-    publishedDateTime: 2020-09-28T18:14:00Z
-    webUrl: "https://www.c-span.org/video/?476306-1/senator-harris-warns-health-care-law-stake-supreme-court-fight"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Views & Voices: Community Perspectives on Kamala Harris"
-    excerpt: "Kamala Harris, how she represents communities across California and beyond, and what her vice presidential candidacy means to those communities. Keiona Williamson, editor of The Bee’s new Equity Lab,"
-    publishedDateTime: 2020-09-30T01:43:00Z
-    webUrl: "https://www.sacbee.com/news/equity-lab/article246061000.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 35
-  - title: "Sen. Kamala Harris (D-CA) Campaigns in Las Vegas"
-    excerpt: "Sen. Kamala Harris (D-CA) campaigns at a drive-in voter mobilization event in Las Vegas. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, participated in a virtual conversation on"
-    publishedDateTime: 2020-10-02T16:51:00Z
-    webUrl: "https://www.c-span.org/video/?476524-1/sen-kamala-harris-d-ca-campaigns-las-vegas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Senator Kamala Harris Campaign Remarks in Las Vegas"
-    excerpt: "Sen. Kamala Harris (D-CA) campaigned at a drive-in voter mobilization event in Las Vegas."
-    publishedDateTime: 2020-10-02T16:41:00Z
-    webUrl: "https://www.c-span.org/event/?476524/c2020-sen-kamala-harris-dca-campaigns-las-vegas"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Tal Kopan Discusses Sen. Kamala Harris' Record"
-    excerpt: "San Francisco Chronicle's Tal Kopan discusses Sen. Kamala Harris' record ahead of Wednesday night's Vice Presidential debate."
-    publishedDateTime: 2020-10-06T16:23:00Z
-    webUrl: "https://www.c-span.org/video/?476609-3/washington-journal-tal-kopan-discusses-sen-kamala-harris-record"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Sen. Kamala Harris (D-CA) Delivers Remarks in Raleigh, NC on the Supreme Court"
-    excerpt: "T14:15:00-04:00 vice presidential candidate Sen. Kamala Harris (D-CA) delivers remarks in Raleigh, NC on the importance of the Supreme Court following President Trump’s nomination of Judge Amy Coney Barrett to the nation’s highest court."
-    publishedDateTime: 2020-09-28T12:29:00Z
-    webUrl: "https://www.c-span.org/video/?476306-1/sen-kamala-harris-d-ca-delivers-remarks-raleigh-nc-supreme-court"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 31
-  - title: "VP candidate Sen. Kamala Harris talks about holding off the Supreme Court nomination | Raleigh News & Observer"
-    excerpt: "Senator and vice presidential candidate Kamala Harris gives her remarks about the Supreme Court in Raleigh, North Carolina. She mentions Ruth Bader Ginsburg's wish to hold off the nomination until the next president is voted into office."
-    publishedDateTime: 2020-09-28T18:09:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/article246070800.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 15
 
 secured: "ynxGSW1+w0PCt0rZR/or9Kdzn+mYK0BDHRlhUvpMN5t5uW6H2xnK/4o61c8hO4NlnhHy3Nx+Bnn2mpCDQJQ5uKgL/kpsHIlw6vqCuOq5IaA2rGM3vSU/oaqvU+rZmBpTHREmCN+NuGoOos1GO3LdTbScNOS19aCuNyvWakIM+/oIwjsQj29UWIKcdH9cK9p1yZXzhKDxLId5F4jllAs4mkQVVJrPlE8msU8gKwGPzzftuv3M3dKLkaf25PmQzfKEex97EXUYEMe+wCzyIsyELMQbOWIuZyOCofRNmAUN6oAOv1IuTNFLgHMpMlv/A5HgGtb7qObqfvq22Oa31K4ok611H7V2MIO9QPkdm4mQtBqYOl1gstWZMqUgS6JOqG7l6pwhtGx6jR1yvfsjynJU7fCUixRcG0BpT/zJ45vIuq0eP5eebdJgw6UObVu1WUZkYojd8Hxyb1T3skozJY+ZODoBmDjB8VFnSI9PkpnLp7NrzZGo12OBpcyYkAGEt5M3xI42x/LPUAhSURMYz3CAhQ==;KxySwIP9g6d9JRK+4s6vaQ=="
 ---

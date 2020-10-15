@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
+    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
+    publishedDateTime: 2020-10-13T13:05:00Z
+    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
+    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 75
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence headed to Selma, NC for MAGA event Friday"
     excerpt: "Vice President Mike Pence is returning to North Carolina for another campaign event. Pence is scheduled to arrive in Selma, North Carolina, on Friday Oct. 17. The event will be held at The Farm at 95."
     publishedDateTime: 2020-10-13T18:21:00Z
@@ -184,6 +200,22 @@ related:
     quality: 75
     images:
       - url: "https://cdn.abcotvs.com/dip/images/7001601_101320-wtvd-4pm-Pence-event-Selma-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to be in Grand Rapids today"
+    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
+    publishedDateTime: 2020-10-14T08:21:00Z
+    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
+    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
+    type: article
+    provider:
+      name: WXYZ Detroit
+      domain: wxyz.com
+    quality: 75
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -250,6 +282,22 @@ related:
       - url: "https://www.clickondetroit.com/resizer/694Ig8rfla_DDz5kmwb0aQEmNcI=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-14-2020/t_cd6eb39fe23649fb9a66325264ebf19b_name_image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to visit Grand Rapids Wednesday for campaign event"
+    excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
+    publishedDateTime: 2020-10-12T19:40:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/10/mike-pence-visit-grand-rapids/5958341002/"
+    ampWebUrl: "https://amp.freep.com/amp/5958341002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5958341002"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/05/NLED/d3e83616-4fb2-42b8-9c36-e4846c6d0b23-AP20279737181110.jpg?auto=webp&crop=3956,2226,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP Mike Pence To Campaign In Miami"
     excerpt: "Vice President Mike Pence will make appearances Thursday in Miami, as President Donald Trump’s re-election campaign ratchets up its focus on Florida."

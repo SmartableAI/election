@@ -27,106 +27,223 @@ images:
     isCached: true
 
 related:
-  - title: "How Kamala Harris Stopped Pence’s Manterruptions (And How You Can Stop Them, Too)"
-    excerpt: "Assert your power like Senator Harris so that you are not interrupted. Take note of how Harris stopped Pence from interrupting her by following these four tips: Senator Harris told Vice President Pence that she is speaking."
-    publishedDateTime: 2020-10-11T12:23:00Z
-    webUrl: "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/"
-    ampWebUrl: "https://www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/averyblank/2020/10/11/how-kamala-harris-stopped-pences-manterruptions-and-how-you-can-stop-them-too/amp/"
+  - title: "Kamala Harris featured on cover of Elle magazine's November issue"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris (D-Calif.) is on the cover for Elle magazine’s November issue, in which the senator participates in a broad interview spanning racial inequality,"
+    publishedDateTime: 2020-10-06T22:55:00Z
+    webUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue"
+    ampWebUrl: "https://thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/in-the-know/in-the-know/519884-kamala-harris-covers-elle-magazines-november-issue?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 145
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://thehill.com/sites/default/files/harriskamala_10022020_1.jpg"
+        width: 980
+        height: 552
         isCached: true
-  - title: "David Brooks column: Kamala Harris knows how to win elections"
-    excerpt: "This has turned into the least ideological election in recent times. The campaign has largely shrunk down from grand ideological issues to two practical problems: How to get rid of Trump. How to beat COVID-19."
-    publishedDateTime: 2020-10-09T14:36:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-harris-knows-how-to-win-elections-20201009-drcmlhdbyvgutjfp3kzlbv2sle-story.html?outputType=amp"
+  - title: "Kamala Harris’s critics fell into the ‘Is she likable?’ trap"
+    excerpt: "Kamala D. Harris (D-Calif.) was going up against a White man, Vice President Pence, who because of his race and gender doesn’t have to consider whether he’s likable to get votes. Thus, Pence could and did interrupt Harris’s allotted speaking time (not to the degree of President Trump in his debate last week,"
+    publishedDateTime: 2020-10-08T11:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/08/kamala-harriss-critics-fell-into-is-she-likable-trap/?outputType=amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 140
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.chicagotribune.com/resizer/weMd1o2h9mRwikHA_a7geSaCrHU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DBS7QEH2M5C5VUNRIYK6KKOKWQ.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RLEZPJAJD4I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 1008
         isCached: true
-  - title: "Fact check: Kamala Harris cannot create property tax to pay for reparations"
-    excerpt: "While Sen. Kamala Harris never said she'd tax houses to pay for slavery reparations, she does support reparations to an extent."
-    publishedDateTime: 2020-10-12T21:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/12/fact-check-kamala-harris-cant-create-property-tax-reparations/5917197002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5917197002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5917197002"
+  - title: "Kamala Harris, Bernie Sanders Urge Stimulus Bill Focus Over Amy Coney Barrett Hearings"
+    excerpt: "The senators suggested that a further relief package should be the focus of the Senate, as opposed to the SCOTUS nomination."
+    publishedDateTime: 2020-10-12T13:43:00Z
+    webUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296"
+    ampWebUrl: "https://www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/harris-sanders-stimulus-bill-barrett-hearing-1538296?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/05/USAT/751f29ad-47cd-4791-9506-d4b6b846b53e-KamalaHarris.jpg?auto=webp&crop=3703,2083,x0,y188&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1649537/sanders-harris.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Weed stocks surge after Kamala Harris promises to decriminalize pot"
-    excerpt: "(Reuters) - U.S.-listed shares of major cannabis producers surged on Thursday after Democratic vice president nominee Kamala Harris said the Biden administration would decriminalize marijuana at the federal level in the United States if they were elected."
-    publishedDateTime: 2020-10-11T19:20:00Z
-    webUrl: "https://www.businessinsider.com/weed-stocks-surge-after-kamala-harris-promises-to-decriminalize-pot-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/weed-stocks-surge-after-kamala-harris-promises-to-decriminalize-pot-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/weed-stocks-surge-after-kamala-harris-promises-to-decriminalize-pot-2020-10?amp"
+  - title: "Fox News cut ties with a frequent guest after he called Kamala Harris an 'insufferable lying b----' on Twitter"
+    excerpt: "Harlan Hill, who has ties to President Donald Trump's reelection campaign, was a frequent guest on Fox News until he tweeted an insult about Harris."
+    publishedDateTime: 2020-10-10T20:26:00Z
+    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "David Brooks: Kamala Harris knows how to win elections"
-    excerpt: "Third, Joe Biden and Kamala Harris decided to run a professional campaign. Instead of trying to please those of us who consume large amounts of media, they have ruthlessly and effectively focused their campaign on the Exhausted Majority — people who are disgusted by and semidetached from politics in working-class homes in the Midwest,"
-    publishedDateTime: 2020-10-10T13:47:00Z
-    webUrl: "https://www.palmbeachpost.com/story/opinion/columns/more-voices/2020/10/10/david-brooks-kamala-harris-and-presidential-debate/5940743002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5940743002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5940743002"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/15d25488872a274679d0afc94fafd75352d70a4a/c=0-24-259-170/local/-/media/2020/08/18/PalmBeachPost/ghows-LK-200709441-ef34f932.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
         width: 1200
-        height: 676
+        height: 600
         isCached: true
-  - title: "Kamala Harris to attend SCOTUS confirmation hearings virtually"
-    excerpt: "Kamala Harris (D-Calif.) will participate in Supreme Court nominee Amy Coney Barrett's confirmation hearing virtually, the vice presidential nominee's communications director Chris Harris tweeted Sunday."
-    publishedDateTime: 2020-10-11T18:43:00Z
-    webUrl: "https://www.axios.com/kamala-harris-scotus-confirmation-virtually-5b3837b0-9c63-45fd-97c6-99edc48efc54.html"
-    ampWebUrl: "https://www.axios.com/kamala-harris-scotus-confirmation-virtually-5b3837b0-9c63-45fd-97c6-99edc48efc54.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-scotus-confirmation-virtually-5b3837b0-9c63-45fd-97c6-99edc48efc54.html"
+  - title: "Fox News cut ties with a regular contributor after he called Kamala Harris an 'insufferable lying b----' on Twitter"
+    excerpt: "Harlan Hill, who has ties to Trump's re-election campaign, was a regular contributor to Fox News until he tweeted a misogynistic insult about Harris."
+    publishedDateTime: 2020-10-09T09:49:00Z
+    webUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/harlan-hill-off-fox-news-insulted-kamala-harris-2020-10?amp"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://images.axios.com/D9wUeQI0UEYq9KFmpZ4-hkVL-gk=/fit-in/1366x1366/2020/10/11/1602441054936.jpg"
-        width: 1366
-        height: 987
+      - url: "https://i.insider.com/5f802c4eea74820019ca61a2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Watch Maya Rudolph’s Kamala Harris Own Mike Pence on SNL"
-    excerpt: "During SNL’s cold open, Kate McKinnon, as USA Today ‘s Susan Page, explains: “Tonight you’ll notice that between the candidates we’ve installed buffet style sneeze guards on account that one of you works for patient zero."
-    publishedDateTime: 2020-10-11T16:53:00Z
-    webUrl: "https://www.motherjones.com/politics/2020/10/watch-maya-rudolphs-kamala-harris-own-mike-pence-on-snl/"
+  - title: "Democrats need to turn Kamala Harris loose on Amy Coney Barrett: columnist"
+    excerpt: "According to New York Times Legal Affairs journalist Christian Farias, Senate Judiciary Committee Democrats would be wise to cede their time to Sen. Kamala Harris (D-CA) when hearings open on Monday over the nomination of Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-11T19:21:00Z
+    webUrl: "https://www.rawstory.com/2020/10/democrats-need-to-turn-kamala-harris-loose-on-amy-coney-barrett-columnist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/democrats-need-to-turn-kamala-harris-loose-on-amy-coney-barrett-columnist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/democrats-need-to-turn-kamala-harris-loose-on-amy-coney-barrett-columnist/amp/"
     type: article
     provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 60
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 73
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/kamala-amy.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "SNL: Maya Rudolph Gives One Her Best Kamala Harris Impressions Yet in Debate Skit"
+    excerpt: "Maya Rudolph is back at it again with her hilarious Kamala Harris impressions on Saturday Night Live. On the Oct. 10 episode, the comedian channeled the vice"
+    publishedDateTime: 2020-10-11T06:22:00Z
+    webUrl: "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222"
+    ampWebUrl: "https://www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/entertainment/maya-rudolph-as-kamala-harris-snl-debate-skit-video-47871222/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 70
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/irGmy4DjAtFtzK2EUdheYTs-2KE/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2020/10/10/271/n/1922283/5f257ac75f82988cd12da9.12583556_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris Appears With RBG Picture Book to Protest Coney Barrett Confirmation"
+    excerpt: "Kamala Harris spoke during Day 1 of Amy Coney Barrett's confirmation hearing Monday, with a copy of the Ruth Bader Ginsburg picture book \" I Dissent\" prominently beside her."
+    publishedDateTime: 2020-10-12T18:24:00Z
+    webUrl: "https://heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/"
+    ampWebUrl: "https://heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/kamala-harris-amy-coney-barrett-confirmation/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 70
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-98.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
+        isCached: true
+  - title: "Republican attorneys general slam former colleague Kamala Harris as 'original lawless liberal'"
+    excerpt: "Republican attorneys general assailed Democratic vice-presidential candidate Kamala D. Harris on Wednesday, blasting their former colleague as the “original lawless liberal.”"
+    publishedDateTime: 2020-10-07T21:38:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/7/republican-attorneys-general-slam-former-colleague/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 63
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/06/election_2020_harris_10223_c0-0-6000-3500_s1200x700.jpg?d0cce8be4950beca0410149b2b60a47cc71c6403"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Maya Rudolph Nails Her SNL Return as Kamala Harris, in the Senator's Signature Sneakers, No Less"
+    excerpt: "Maya Rudolph brought back her impression of vice presidential nominee Kamala Harris for Saturday Night Live's Oct. 3 episode."
+    publishedDateTime: 2020-10-04T20:46:00Z
+    webUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505"
+    ampWebUrl: "https://www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    cdnAmpWebUrl: "https://www-popsugar-com.cdn.ampproject.org/c/s/www.popsugar.com/fashion/maya-rudolph-wears-converse-sneakers-kamala-harris-snl-skit-47851505/amp"
+    type: article
+    provider:
+      name: PopSugar
+      domain: popsugar.com
+    quality: 62
+    images:
+      - url: "https://media1.popsugar-assets.com/files/thumbor/Urh-sal9oW4cB0dcI6r_4XUzTtU/405x638:2625x1803/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-/2020/10/04/823/n/1922564/c39e7b115f7a1853c6e4f3.85989201_.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In context: Kamala Harris jumped to conclusions about Lincoln’s delayed Supreme Court nomination"
+    excerpt: "Democratic vice presidential candidate Kamala Harris invoked Abraham Lincoln to say why a nominee to succeed the late Justice Ruth Bader Ginsburg should"
+    publishedDateTime: 2020-10-08T18:55:00Z
+    webUrl: "https://www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination"
+    ampWebUrl: "https://www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201008/in-context-kamala-harris-jumped-to-conclusions-about-lincolnrsquos-delayed-supreme-court-nomination?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 62
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201008&Category=NEWS&ArtNo=201009104&Ref=AR"
+        width: 2626
+        height: 1762
+        isCached: true
+  - title: "Kamala Harris: Judge Coney Barrett's faith shouldn't matter in Supreme Court confirmation hearings"
+    excerpt: "Democratic Vice Presidential nominee Kamala Harris says Judge Amy Coney Barrett’s faith should not be an issue at Coney Barrett’s confirmation hearings this week. “One’s faith should never be the basis of supporting or rejecting a nominee."
+    publishedDateTime: 2020-10-12T02:42:00Z
+    webUrl: "https://www.12news.com/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/kamala-harris-judge-coney-barretts-faith-shouldnt-matter-in-supreme-court-confirmation-hearings/75-76a31556-d868-4ed9-9e81-c1f2be2b566a"
+    type: article
+    provider:
+      name: KPNX
+      domain: 12news.com
+    quality: 61
+    images:
+      - url: "https://media.12news.com/assets/KPNX/images/43f8472a-4aa3-44d2-89fa-c77c0c174cab/43f8472a-4aa3-44d2-89fa-c77c0c174cab_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Jamaicans in Florida energised by Kamala Harris on 2020 ticket"
+    excerpt: "President Donald Trump and Joe Biden are entering the final stretch of the campaign in a fierce battle for Latino voters who could sway the results in Florida and determine who wins the White House. B"
+    publishedDateTime: 2020-10-11T19:49:00Z
+    webUrl: "https://www.dailypioneer.com/2020/world/jamaicans-in-florida-energised-by-kamala-harris-on-2020-ticket.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 55
+    images:
+      - url: "https://www.dailypioneer.com/images/logo.jpg"
+        width: 325
+        height: 325
+        isCached: true
+  - title: "Remember Kamala Harris? Now, she’s center stage for the Supreme Court fight | Charlotte Observer"
+    excerpt: "When Kamala Harris was chosen as Joe Biden’s running mate back in August, she was portrayed as a younger pioneering partner who would bring new energy and followers to the 2020 Democratic presidential ticket."
+    publishedDateTime: 2020-09-29T14:17:00Z
+    webUrl: "https://www.charlotteobserver.com/opinion/article246083820.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/opinion/article246083820.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/opinion/article246083820.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 42
   - title: "What to watch for when Kamala Harris questions Amy Coney Barrett at her nomination hearing this week"
     excerpt: "Sen. Kamala Harris, in her dual role on Judiciary Committee and as vice presidential nominee, will question Supreme Court nominee Amy Coney Barrett."
     publishedDateTime: 2020-10-11T15:48:00Z

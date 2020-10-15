@@ -7,8 +7,8 @@ originalUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coro
 webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: WSOC-TV
@@ -25,65 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-13T10:03:00Z
+    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Tennessean
+      domain: tennessean.com
+    quality: 53
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-14T06:03:00Z
+    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 53
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 674
         isCached: true
-  - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
-    excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
-    publishedDateTime: 2020-10-12T02:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
 
 secured: "+Rd0rB/IjyA3PCf5z5ObUPKD6j1wKuBszTR8CFH56oU1yjJ9A+zGC2MOFMW48Nm2J2DMRjUDEZYzTj01Nu4gvoFuDA75+K+gIMEJYfFzNc6kjP36cHUlyn3h4Ge5z5Qs3wnpeeKuu/87MdJsbbrHHbm+p82gI/78agxx7anPbCmlm6me6AdU6KQ49+GA7ZAY8qMiRNi6lfKsqQNCI+e8olJOJnSOhmMil668euitXSKo6D2r4Mbwbx0KHDfT1bRFUK0ymG4kpx39yyAn9MAilNlEr9Hg2OX+321Vh/GV1GAdzAFbxE4SCBhJ9xH64xMUNiZbXnmVJnu+W0ZIlgZCu3MC1XmhmTedt0OhArP+6wM=;rcUc/8zmDyxrg6wN9J5FCw=="
 ---

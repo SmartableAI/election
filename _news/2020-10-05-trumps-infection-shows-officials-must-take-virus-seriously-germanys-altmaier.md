@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26P0ZQ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P0ZQ"
 type: article
 quality: 120
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5f7c9266282c500018c78d96?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Will German Americans again put Donald Trump over the top in the presidential election?"
+    excerpt: "This ethnic group barely receives attention in American media and politics. The Midwest, home to many German Americans, is a battleground for the 2020 presidential election. Will this inconspicuous group yet again cast the deciding votes in the upcoming election?"
+    publishedDateTime: 2020-10-01T13:10:00Z
+    webUrl: "https://www.chron.com/news/article/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Will-German-Americans-again-put-Donald-Trump-over-15611737.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 82
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Anti-Trump Ad Compares US Political Climate To 1930s Germany That Saw Rise Of Hitler, Nazis"
     excerpt: "The ad was released by the Jewish Democratic Council of America, which describes itself as a progressive Jewish group The ad juxtaposes images of 1930s Germany with Trump campaign rallies A recent report said Trump made anti-Semitic remarks after talking with Jewish lawmakers A progressive Jewish group on Tuesday released a 30-second campaign ad that compares the current climate in the United States to 1930s Germany,"
