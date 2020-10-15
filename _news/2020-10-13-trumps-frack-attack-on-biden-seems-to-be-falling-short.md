@@ -734,6 +734,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Biden, Trump appear in dueling town halls"
+    excerpt: "Each will hold nationally televised town halls at the same time on different networks on a night that was originally scheduled to hold the second presidential debate. The debate was canceled after Trump backed out because he objected to the Commission on Presidential Debates' decision to make the event a virtual debate."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-appear-dueling-town-halls-n1243480"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243480"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243480"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420217/201014-presidential-town-hall-main-bar-cs_70d89a5ff9d5588001b9d92cac8f5188.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z

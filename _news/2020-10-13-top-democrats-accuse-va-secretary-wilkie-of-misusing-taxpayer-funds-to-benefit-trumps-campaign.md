@@ -159,6 +159,22 @@ related:
         width: 469
         height: 351
         isCached: true
+  - title: "N.J. mayor ignores calls to resign over profane social media post about Trump, his supporters"
+    excerpt: "\"Those who feel that they've been condemned, they can have recourse at the voting booth in two years,\" Flemington Mayor Betsy Driver said Tuesday."
+    publishedDateTime: 2020-10-15T21:15:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/n-j-mayor-ignores-calls-resign-over-profane-social-media-n1243557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3420491/201015-mayor-betsy-driver-jm-1343_cf0a0106581d93aad1e5700e86de5aa9.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "‘Where are all of the arrests?’: Trump demands Barr lock up his foes"
     excerpt: "The day-long run of tweets and retweets marked the most frantic stretch of Trump’s public activity since he left Walter Reed."
     publishedDateTime: 2020-10-07T20:03:00Z

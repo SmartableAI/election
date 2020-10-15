@@ -2,6 +2,326 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-15-hunter-biden-email-story-a-timeline.md",
+      "title": "Hunter Biden email story: A timeline",
+      "excerpt": "Here's a timeline of the bombshell Hunter Biden emails report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QF8rMDUhUig/hunter-biden-email-story-a-timeline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QF8rMDUhUig/hunter-biden-email-story-a-timeline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 715,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/005ba163-bdfc-4aca-9f88-bc6a600de2d9/994890d8-4cc4-4613-9363-05c9bfbcf6ac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp",
+      "publishedDateTime": "2020-10-15T14:21:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
+      "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
+      "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "publishedDateTime": "2020-10-15T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-no-need-for-biden-to-quarantine-after-flying-with-person-who-tested-positive-for-covid-19-campaign.md",
+      "title": "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign",
+      "excerpt": "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2702XL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL",
+      "publishedDateTime": "2020-10-15T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts.md",
+      "title": "Sasse blasted Trump in private phone call: 'He kisses dictators' butts'",
+      "excerpt": "Ben Sasse (R-Neb.) blasted President Trump for “mistreat [ing] women,” “kiss [ing] dictators’ butts” and mocking evangelicals in private in a recording obtained by the Washington Examiner. In what appears to be a private call with constituents,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
+      "originalUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/sasseben_101420gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
+      "publishedDateTime": "2020-10-15T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-fact-check-joe-biden-called-forces-of-intolerance-not-trump-supporters-the-dregs-of-society.md",
+      "title": "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'",
+      "excerpt": "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5966195002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002",
+      "publishedDateTime": "2020-10-15T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-defund-police-movement-drives-officers-toward-trump.md",
+      "title": "'Defund police' movement drives officers toward Trump",
+      "excerpt": "The progressive \"defund the police\" movement is driving members of law enforcement nationwide to back President Trump on Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/12_AP20250357950305.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp",
+      "publishedDateTime": "2020-10-15T13:21:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-trump-rages-at-allies-as-potential-october-surprises-fizzle.md",
       "title": "Trump rages at allies as potential October surprises fizzle",
       "excerpt": "Halfway through October, President Donald Trump's surprises are sputtering.\n    \n",
@@ -122,7 +442,7 @@
       "originalUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
       "featuredContent": null,
       "highlight": null,
-      "heat": 525,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -390,7 +710,7 @@
       "originalUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -708,62 +1028,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-hunter-biden-tried-to-cash-in-big-with-chinese-firm-emails-suggest.md",
-      "title": "Hunter Biden tried to cash in big with Chinese firm, emails suggest",
-      "excerpt": "Hunter Biden pursued lucrative deals involving China’s largest private energy company — including one that he said would be “interesting for me and my family,” emails obtained by The Post show.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oozW-bMIoZU/hunter-biden-chins-firm-emails-deal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oozW-bMIoZU/hunter-biden-chins-firm-emails-deal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp",
-      "publishedDateTime": "2020-10-15T04:40:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-trump-traveling-to-nc-as-biden-fundraises-ahead-of-candidates-dueling-town-halls.md",
       "title": "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls",
       "excerpt": "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. ",
@@ -776,7 +1040,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1023,62 +1287,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-mcenany-claims-twitter-holding-her-at-gunpoint-until-she-deletes-new-york-posts-hunter-biden-report.md",
-      "title": "McEnany claims Twitter holding her 'at gunpoint' until she deletes New York Post's Hunter Biden report",
-      "excerpt": "White House Press Secretary Kayleigh McEnany told \"Hannity\" Wednesday that Twitter's administrators \"essentially have me at gunpoint\" and won't allow her to access to her personal account until she deletes a link to the explosive New York Post report on Hunter Biden that she shared with her one million",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l9SKIPPnsak/mcenany-twitter-account-locked-hunter-biden-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/l9SKIPPnsak/mcenany-twitter-account-locked-hunter-biden-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25330c19-40d5-4a69-8e2b-d759d3ca11ce/1e1cc6ba-b7cc-419a-8884-795d9644687b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-twitter-account-locked-hunter-biden-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-twitter-account-locked-hunter-biden-report.amp",
-      "publishedDateTime": "2020-10-14T20:40:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.md",
       "title": "Biden once again shatters fundraising record with eyepopping $383 million haul last month",
       "excerpt": "Joe Biden shattered the monthly record for fundraising during a presidential campaign when he hauled in a massive $364.5 million in August.",
@@ -1132,226 +1340,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-obama-trumps-lack-of-patience-and-focus-hold-back-his-foreign-policy.md",
-      "title": "Obama: Trump's lack of 'patience' and 'focus' hold back his foreign policy",
-      "excerpt": "Former President Barack Obama said Wednesday that President Donald Trump lacks the needed \"patience\" and \"focus\" to make substantial changes to American foreign policy, previewing a possible attack line as the former President prepares to return to the campaign trail for Democratic nominee Joe Biden.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sQOQPv3AN8U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sQOQPv3AN8U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014210916-barack-obama-10142020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/obama-podcast-trump-foreign-policy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/obama-podcast-trump-foreign-policy/index.html",
-      "publishedDateTime": "2020-10-14T19:42:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
-      "title": "Biden announces record $383 million fundraising haul for September",
-      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "publishedDateTime": "2020-10-14T19:30:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-directs-california-gop-to-fight-hard-in-court-over-ballot-boxes-despite-prosecution-threat.md",
-      "title": "Trump directs California GOP to 'fight hard' in court over ballot boxes despite prosecution threat",
-      "excerpt": "President Trump on Tuesday directed Republicans to “fight hard” in court after California’s top election and law enforcement officials, both Democrats, ordered the state GOP to remove unofficial ballot boxes from various locations in three counties by later this week or face prosecution.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q9Pjxn8pf8/trump-california-gop-ballot-boxes-fight-hard",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Q9Pjxn8pf8/trump-california-gop-ballot-boxes-fight-hard",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp",
-      "publishedDateTime": "2020-10-14T18:54:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-tries-to-shore-up-support-from-big-business-iowans.md",
-      "title": "Trump tries to shore up support from big business, Iowans",
-      "excerpt": "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137",
-      "publishedDateTime": "2020-10-14T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

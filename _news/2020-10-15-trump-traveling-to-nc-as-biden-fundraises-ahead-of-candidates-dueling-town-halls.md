@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundrais
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
 type: article
 quality: 185
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
     quality: 162
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans ask FBI if it had Hunter Biden's alleged laptop during Trump's impeachment"
+    excerpt: "EXCLUSIVE: House Republicans are calling on the FBI to reveal whether it was in possession of a laptop, that reportedly contained emails by Hunter Biden, during the impeachment of President Trump -- and claiming the agency committed a “gross error in judgement” if did not inform the White House."
+    publishedDateTime: 2020-10-15T20:29:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_P59Tje3dg4/house-gop-fbi-hunter-biden-laptop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

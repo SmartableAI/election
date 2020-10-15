@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-no-need-for-biden-to-quarantine-after-flying-with-person-who-tested-positive-for-covid-19-campaign.md",
+      "title": "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign",
+      "excerpt": "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2702XL",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL",
+      "publishedDateTime": "2020-10-15T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-biden-campaign-announces-record-383m-fundraising-haul-in-september.md",
       "title": "Biden campaign announces record $383M fundraising haul in September",
       "excerpt": "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far.",
@@ -106,63 +158,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.md",
-      "title": "Turley: Court-packing would be a 'blunder of the first order' by Biden",
-      "excerpt": "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
-      "originalUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/826bf8c5-7513-4888-b950-2911d89eb94e/d73bb5e3-e212-48a4-980d-7dbc454e86bd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
-      "publishedDateTime": "2020-10-14T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-14-george-floyds-sister-calls-for-change-in-new-biden-ad.md",
       "title": "George Floyd's sister calls for change in new Biden ad",
       "excerpt": "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,",
@@ -171,7 +166,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 266,
       "tags": null,
       "images": [
         {
@@ -704,49 +699,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-11-joe-biden-tests-negative-for-coronavirus-sixth-time-since-debate.md",
-      "title": "Joe Biden tests negative for coronavirus sixth time since debate",
-      "excerpt": "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
-      "originalUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg",
-          "width": 769,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-10T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSOC-TV",
-        "domain": "wsoctv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-10-the-hunt-for-michigans-lost-democrats-can-biden-lure-them-back.md",
       "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
       "excerpt": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state.",
@@ -923,7 +875,7 @@
       "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
       "featuredContent": null,
       "highlight": null,
-      "heat": 905,
+      "heat": 885,
       "tags": null,
       "images": [
         {
@@ -1032,7 +984,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/519882-biden-in-gettysburg-speech-invokes-lincoln-calls-for-unity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1552,6 +1504,63 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-joe-bidens-other-questionable-chinese-concern-and-involvement-hollywood-part-two.md",
+      "title": "Joe Biden’s OTHER Questionable Chinese Concern and Involvement - Hollywood (Part Two)",
+      "excerpt": "This piece is part two in a series. You can read the first installment here.SELF-CENSORING THEIR OWN SELF-INTERESTSThe pandemic has created a constant stream of challenges for the studios",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
+      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2016/63/90ca6ef4-d0ce-4729-9c4a-0b1df4f8db40.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

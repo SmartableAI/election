@@ -534,6 +534,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Pence and Trump Campaign Drum Up South Florida Support With Sunshine State Up For Grabs"
+    excerpt: "With the battle for Florida intensifying and votes already being cast in record numbers, President Donald Trump’s campaign fired up a solid source of support on Thursday — Cuban Americans and evangelicals."
+    publishedDateTime: 2020-10-15T21:39:00Z
+    webUrl: "https://www.wlrn.org/2020-10-15/pence-and-trump-campaign-drum-up-south-florida-support-with-sunshine-state-up-for-grabs"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 62
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4474692/2147483647/strip/true/crop/415x218+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6a%2Fa148154f479689adf537b69afc9d%2Fpencevisit-20201015.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KymF8j+snudeR6aB0GvNvv7JibAd+uyHN5Ze/q1bv7QlZplK59Z7D57y7y5TPTdZAkkhBJPnpT51cFItJ0q45RwYnz72rreTBc/7smeVkQ0DfcbcmWKKEW53ZbDra/0CsbMOhjClUbmLTKoUUZsh5MN9MHxOSLUA6vt4YxRM7xFygobi/5eWZzZW+rLIxuR/n7IcKRH1gonxpS4pTtHPc6LXUKhYj+l1w3pTcuhb8vWChA1OXTkStTtGKkJwXPlJZTJ763U9VvpMDj5mE3Mg7nlcQWN6idr1LcXQ5IK8sLNxr8YK+QbOWN7eCWv6cppOYAkSc8tlZYABpFJl3y6SInx+UTw71UfLKnE3wfWO20Y=;eoUguinPZYKB5XgQDbgTQA=="
 ---

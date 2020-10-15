@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-13-back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery.md",
+      "title": "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery",
+      "excerpt": "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
+      "originalUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 443,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26X2PY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY",
+      "publishedDateTime": "2020-10-13T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
       "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
       "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
@@ -51,62 +103,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-biden-questions-memory-of-voters-in-poll-who-say-theyre-better-off-now-than-4-years-ago.md",
-      "title": "Biden questions ‘memory’ of voters in poll who say they’re better off now than 4 years ago",
-      "excerpt": "Joe Biden was quick to dismiss voters who say they are better off now than they were in 2016. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DjZev7a4DLE/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DjZev7a4DLE/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dffaa872-aef6-403f-b19e-7b90b2f5a3b5/906de055-b200-4d27-920c-33fa9ae089bb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good.amp",
-      "publishedDateTime": "2020-10-12T21:47:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1071,7 +1067,7 @@
       "originalUrl": "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 775,
+      "heat": 795,
       "tags": null,
       "images": [
         {

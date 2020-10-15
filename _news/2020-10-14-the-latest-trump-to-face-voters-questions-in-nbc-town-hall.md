@@ -105,6 +105,20 @@ related:
         width: 1024
         height: 664
         isCached: true
+  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
+    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
+    publishedDateTime: 2020-10-15T21:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
+        width: 1024
+        height: 673
+        isCached: true
 
 secured: "ZmaagPekFMafMKy6o6ecNO7QCEEK+RVT+qoHgKi4yNDmMCes4S+MY15i/aU/f5w6vFWYeltfFbI7TB9g1WqRBJ1dXh03Yhj9njn7m1wY3Abcaq+OmjEAhKUVVDEOe4mrkXmBRKqpSFjkHhloAYR+iH9gn20Xo3iA9Zo1YsK1t+G6eovBlFWhERtTgiXcONrB3tHeiX4JIxdUAWSgF9rj4mfTwXKAO2fGdVJLggetznq601Q+pmATyBT3sa+UlPtEHFdK0xNV2VPsQIZo+m28spVQ9b4YZapS0NJQ+f4awT1SYX/iY/tLabgGPMB3J/q/4Vt4xIQsI6PGbUPusvTlesEFWJeRK60E8YU4pem0sBwPkqGxkJRmpe78hLIZsEkaHR7SINiICYE9s9onebUDEmXph4+Bz0QYX9F7zslkgU0/PCqJJVDtwj+cwPuXbIOHRfQjROKZohjis4ChVZGke2dTysbe9hdWVdq8RLKgFQWV9rZ2xB4VF5HjGGpdRImsmtKQmVIglylglXlEel6JHg==;WgzyEZHglNQY77DDBwljIw=="
 ---

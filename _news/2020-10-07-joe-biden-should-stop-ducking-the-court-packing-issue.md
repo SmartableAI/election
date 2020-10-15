@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 905
+heat: 885
 published: true
 
 provider:
@@ -386,22 +386,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
-    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
-    publishedDateTime: 2020-10-09T17:43:00Z
-    webUrl: "https://heavy.com/news/biden-taxes/"
-    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
         isCached: true
   - title: "Opinion/Chidester: Joe Biden’s credibility issue"
     excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"

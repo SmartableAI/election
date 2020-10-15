@@ -46,6 +46,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
+    excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
+    publishedDateTime: 2020-10-15T21:02:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
     excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
     publishedDateTime: 2020-10-07T00:54:57Z

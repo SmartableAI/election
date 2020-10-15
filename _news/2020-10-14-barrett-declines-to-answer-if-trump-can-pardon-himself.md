@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418809/201009-razor-trump-sign-al-0938_b70d53c7f8e85aa9e005ebbad63c07db.jpg"
         width: 469
         height: 351
+        isCached: true
+  - title: "N.J. mayor ignores calls to resign over profane social media post about Trump, his supporters"
+    excerpt: "\"Those who feel that they've been condemned, they can have recourse at the voting booth in two years,\" Flemington Mayor Betsy Driver said Tuesday."
+    publishedDateTime: 2020-10-15T21:15:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/n-j-mayor-ignores-calls-resign-over-profane-social-media-n1243557"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243557"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243557"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3420491/201015-mayor-betsy-driver-jm-1343_cf0a0106581d93aad1e5700e86de5aa9.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "‘Where are all of the arrests?’: Trump demands Barr lock up his foes"
     excerpt: "The day-long run of tweets and retweets marked the most frantic stretch of Trump’s public activity since he left Walter Reed."

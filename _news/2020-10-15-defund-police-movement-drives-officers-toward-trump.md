@@ -1,0 +1,35 @@
+---
+category: news
+title: "'Defund police' movement drives officers toward Trump"
+excerpt: "The progressive \"defund the police\" movement is driving members of law enforcement nationwide to back President Trump on Election Day."
+publishedDateTime: 2020-10-15T20:21:34Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AdaXXxYQAw/defund-police-movement-drives-police-to-back-president-trump"
+ampWebUrl: "https://www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/defund-police-movement-drives-police-to-back-president-trump.amp"
+type: article
+quality: 175
+heat: 175
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/12_AP20250357950305.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
+
+secured: "1Zx6ez2s0fAJghUTzeD2/CGX7Re6yQZUgTnGVT8K+22QZRAW7gMfSJQzgQAyJ+lMySOWrytCx4iVoBtKEI//IPTI/+RS+F9zEefYjFvbUm8+DAPdWcIExNkEVrmX8oitW+HtOs46bEUGTjhfJ4USOeVqWEsZHQ26SoP1cxydxykwVRALoiadUo2Ofv2D86xsyARiwBthbqLttL7fTclGgVGM80XZ9vFOpCT61FzNTIVHDZmfB7mcN31T4qDcUy5oLq01h47lTDMV/ObDZ9kb2MoNn6PXlPRpxoqvLzhrNID0wWOxCFefNYX6zQITezW7dQFLy5i4Zc9vRvr+BEuw4scK/p+Qtwgg/rc18pFK+F4=;hoAnl6tVw8MSepHaMbRrYw=="
+---
+

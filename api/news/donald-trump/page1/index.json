@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
+      "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
+      "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "publishedDateTime": "2020-10-15T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts.md",
+      "title": "Sasse blasted Trump in private phone call: 'He kisses dictators' butts'",
+      "excerpt": "Ben Sasse (R-Neb.) blasted President Trump for “mistreat [ing] women,” “kiss [ing] dictators’ butts” and mocking evangelicals in private in a recording obtained by the Washington Examiner. In what appears to be a private call with constituents,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
+      "originalUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/sasseben_101420gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp",
+      "publishedDateTime": "2020-10-15T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-fact-check-joe-biden-called-forces-of-intolerance-not-trump-supporters-the-dregs-of-society.md",
+      "title": "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'",
+      "excerpt": "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5966195002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002",
+      "publishedDateTime": "2020-10-15T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-conservative-group-head-trump-loss-would-not-vindicate-the-old-gop-formula.md",
       "title": "Conservative group head: Trump loss would not vindicate 'the old GOP formula'",
       "excerpt": "Oren Cass, executive director of the conservative think tank American Compass, said Thursday that if President Trump loses his reelection bid, the Republican Party’s takeaway should not be that “the o",
@@ -114,7 +270,7 @@
       "originalUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 244,
       "tags": null,
       "images": [
         {
@@ -431,7 +587,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2381,
+      "heat": 2401,
       "tags": null,
       "images": [
         {
@@ -1236,7 +1392,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 463,
+      "heat": 443,
       "tags": null,
       "images": [
         {
@@ -1433,172 +1589,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-those-waiting-for-trumps-middle-income-tax-cut-should-give-up.md",
-      "title": "Those waiting for Trump's 'middle-income tax cut' should give up",
-      "excerpt": "Shortly before the 2018 elections, Trump made up a tax-cut idea that didn't exist in reality. Shortly before the 2020 elections, he's doing it again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ross-douthat-column-there-will-be-no-trump-coup.md",
-      "title": "Ross Douthat column: There will be no Trump coup",
-      "excerpt": "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-what-trump-could-learn-from-the-fall-of-frances-own-fiery-law-and-order-president.md",
-      "title": "What Trump could learn from the fall of France's own fiery 'law and order' president",
-      "excerpt": "Americans are on the eve of a momentous political choice this November. But for a jump on how the story goes from here, consider what happened in France, where another \"back to normal\" candidate challenged a firebrand incumbent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "originalUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930155625-01-sarkozy-hollande-debate-2012-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
-      "publishedDateTime": "2020-10-12T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

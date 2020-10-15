@@ -337,6 +337,17 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 55
+  - title: "Vice President Mike Pence attends 2 events ahead of president’s arrival"
+    excerpt: "President Donald Trump and Vice President Mike Pence will both be in South Florida on Thursday and will be attending separate events throughout the day. Pence spoke at an event at the Memorial Cubano at Tamiami Park in West Miami-Dade just after 12:30 p."
+    publishedDateTime: 2020-10-15T20:46:00Z
+    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-attends-2-events-ahead-of-presidents-arrival/"
+    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-attends-2-events-ahead-of-presidents-arrival/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-attends-2-events-ahead-of-presidents-arrival/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 55
   - title: "Vice President Pence Campaigns in Ohio"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus. President Trump spoke at a campaign rally in Newport News, Virginia. He was introduced by Vice President Mike Pence."
     publishedDateTime: 2020-10-12T17:23:00Z
@@ -370,6 +381,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QWZTpD5teGAFq9E3BP5EAyz5CuuD/oh76HD9X6gOthhaDwQD0GA516qEqE7DDAKt0Qwykvz5aLMiccTrrVwzeWat3bVFQTTQ3JAdeYH0159OQgVMiGW1XDzhih1LsfMbz9XkDOa9L8fuda9RC2Xe1F9PV/rc8jubE/Scbx456ITd43f1gRD+MP/LckNdwGdls4RyUNjQuyyAhOHwsDnCrh9Mr/Q4phqsrhNYGexzah/qHGb+FqbPqmnVcaKr5Uv6df7vAqClg+JQ9Fq0MMKoQEebosaOvxttFm+BrP4LwPPGpo5hSoo8599NZ+fMRePo+R6lOceyi0m0stwDOXXovF+HIe/Lb4+ir6WTaMWPMqs=;PDo16nD8/9a3HXeU7y46QQ=="
+secured: "QqPvgVvJRxqNWaPGuKYdo3Y88REK7/K+3GO1vLLUdmNZwDopzJ8ckCB0jHQHgMmYUeG+Dm6Dr+dU9Za5hsBoeFL3/ME/NWMX/Gh4DboQPZucs2uLPYyJvNBrlNvVwM9niSf8xLjcJzAZYy+PxSENJpS3D2D7oMHrJijy734c6Mb4AKE0SD2R8+ySHx+iStzE9N8dKOcs9iqpIN0ZtNJLsCcBpgINo/o+eAkXXLlkqXQacjz4zH9gX1lHhg5ExxGAHr62YhovoUJA1Q7q4qnV+Jv6eVj9jAWXSvdFARYkRSg2D2rWAGJLj0B6fD/3SRPYrumSH4g4gXf7+ZUdiId5CCp3GPV9UQvI2bY8NGH4KJVbs5XbyJHviutVePgQ+MH4ZXldWnWmdPRVdC3nNo+uy3hgNRMUoKILI3p31ik6mNR5rVWwXtjz6BORH+DREtYbgv5wdaoG8LyWN15zOgVT8Wl8sy63tNh4XtU73W5WBTaYf40SgabQJFuNA6IdqgWb2FxVYB/9VtORheog6snAxg==;nz4SX95V/TEfcplElBf85g=="
 ---
 

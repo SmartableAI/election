@@ -2,6 +2,172 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-29-deeply-unpatriotic-mary-trump-slams-the-president-for-not-paying-taxes-for-years.md",
+      "title": "'Deeply unpatriotic': Mary Trump slams the president for not paying taxes for years",
+      "excerpt": "President Donald Trump's niece, Mary Trump, say the topic of her uncle not paying income taxes for 10 of the last 15 years must be “hammered on” during the first general election debate Tuesday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/deeply-unpatriotic-mary-trump-slams-president-not-paying-taxes-years-n1241323",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/deeply-unpatriotic-mary-trump-slams-president-not-paying-taxes-years-n1241323",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_29/3397710/200716-mary-trump-snip-maddow-1920x1080-ac-1016p_29576b1aae6b177e327eba96bc046776.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241323",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241323",
+      "publishedDateTime": "2020-09-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-does-trumps-tightening-financial-vise-create-a-security-risk.md",
+      "title": "Does Trump's 'tightening financial vise' create a security risk?",
+      "excerpt": "Trump holding onto power might be one of the few options he has remaining to prevent his creditors from seizing his personal assets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-trump-s-tightening-financial-vise-create-security-risk-ncna1241325",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/j/newscms/2020_40/3415692/200928-donald-trump-2019-ac-900p_b16f83d9a1a7db503e80ee100742757f.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-29T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-reportedly-raked-in-427-million-from-the-apprentice-handing-him-a-financial-lifeline-amid-big-losses.md",
+      "title": "Trump reportedly raked in $427 million from 'The Apprentice,' handing him a financial lifeline amid big losses",
+      "excerpt": "Trump earned $427 million from starring on reality TV show \"The Apprentice,\" boosting his image and finances as his other businesses lost money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f73075a0ab50d00184ace9e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-raked-in-427-million-on-the-apprentice-nyt-2020-9?amp",
+      "publishedDateTime": "2020-09-29T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-michael-cohen-said-trumps-biggest-fear-is-ending-up-with-a-massive-tax-bill-and-face-possible-tax-fraud-charges.md",
       "title": "Michael Cohen said Trump's 'biggest fear' is ending up with a massive tax bill and face possible tax fraud charges",
       "excerpt": "The president's former personal attorney hinted that more could come to light after The New York Times published details of his taxes.",
@@ -1420,167 +1586,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-the-health-202-trumps-new-health-care-plan-isnt-really-a-plan.md",
-      "title": "The Health 202: Trump's new health-care plan isn't really a plan",
-      "excerpt": "In a speech there yesterday, he insisted the health-care law is “no longer Obamacare\" – even though nearly all of the sweeping 2010 Affordable Care Act is still in place. “Obamacare is no longer Obamacare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WBBQYYH6WQI6VMHEGUHE4YGMSE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/09/25/health-202-trump-new-health-care-plan-isnt-really-plan/?outputType=amp",
-      "publishedDateTime": "2020-09-25T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule.md",
-      "title": "Jeff Daniels On Donald Trump And Becoming James Comey In ‘The Comey Rule’",
-      "excerpt": "We hoped that it would be okay. He’ll have ten guys around him who won’t let him do anything crazy. That’s where the country was in 2016. Well, those ten guys are gone. And now look where we are.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
-      "originalUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6cbe4b325b91c6fcc8a873%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonthompson/2020/09/24/jeff-daniels-on-donald-trump-and-becoming-james-comey-in-the-comey-rule/amp/",
-      "publishedDateTime": "2020-09-24T15:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-says-da-is-using-speculation-and-innuendo-to-get-his-tax-returns.md",
-      "title": "Trump Says D.A. Is Using ‘Speculation and Innuendo’ to Get His Tax Returns",
-      "excerpt": "Prosecutors have suggested in court papers that an investigation into the president could focus on a range of possible crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/24/nyregion/24nytrumptaxes/24nytrumptaxes-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/24/nyregion/donald-trump-taxes-cyrus-vance.amp.html",
-      "publishedDateTime": "2020-09-24T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

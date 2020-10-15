@@ -991,6 +991,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Giuliani's daughter: End Trump's 'reign of terror' and vote Biden"
+    excerpt: "Caroline Giuliani, daughter of President Trump’s personal attorney Rudy Giuliani, has endorsed former Vice President Joe Biden and has called on America to end Trump’s “reign of terror.”"
+    publishedDateTime: 2020-10-15T20:50:00Z
+    webUrl: "https://thehill.com/homenews/news/521260-giulianis-daughter-end-trumps-reign-of-terror-and-vote-biden"
+    ampWebUrl: "https://thehill.com/homenews/news/521260-giulianis-daughter-end-trumps-reign-of-terror-and-vote-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/521260-giulianis-daughter-end-trumps-reign-of-terror-and-vote-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trump.giuliani.1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1086,6 +1102,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
         width: 1200
         height: 838
+        isCached: true
+  - title: "Trump and Biden to headline dueling town halls, as early voters swamp polls"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls instead of a second presidential debate on Thursday, as Americans continued to swamp polling places in states allowing early in-person voting."
+    publishedDateTime: 2020-10-15T20:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/update-2-trump-and-biden-to-headline-dueling-town-halls-as-early-voters-swamp-polls-idUSL1N2H60P8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2700JG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2700JG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537645869&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E09N"
+        width: 819
+        height: 545
         isCached: true
   - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
     excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
@@ -1198,6 +1230,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201014&t=2&i=1537497533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9D1RP"
         width: 877
         height: 545
+        isCached: true
+  - title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - live"
+    excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
+    publishedDateTime: 2020-10-15T21:11:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 135
+    images:
+      - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
     excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
@@ -2040,6 +2088,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/14/story_07259630_1602718024.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "3rd person associated with Biden campaign tests positive for COVID-19; Sen. Kamala Harris cancels travel plans"
+    excerpt: "Sen. Kamala Harris' travel canceled through Sunday after 2 people associated with campaign contract coronavirus."
+    publishedDateTime: 2020-10-15T21:15:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-campaign-coronavirus-20201015-vxjmwwaf2rbqlmyyef322yvbk4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-kamala-harris-campaign-coronavirus-20201015-vxjmwwaf2rbqlmyyef322yvbk4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-kamala-harris-campaign-coronavirus-20201015-vxjmwwaf2rbqlmyyef322yvbk4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 120
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4UmECS31mQrkcGNAc0GBwz8YTNk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3EVKEBQF5NDJNL7JDTD44FNJ7I.aspx"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
@@ -4434,6 +4498,22 @@ related:
         width: 2048
         height: 1363
         isCached: true
+  - title: "Fact check: Where does Kamala Harris stand on abortion? | Charlotte Observer"
+    excerpt: "Joe Biden and Kamala Harris support taxpayer funding of abortion all the way up to the moment of birth, late term abortion,” Vice President Mike Pence said at last week’s vice presidential debate."
+    publishedDateTime: 2020-10-15T21:29:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article246426045.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article246426045.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article246426045.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/9cea001f-5773-4d82-83f4-be9bb936ec3b/main/1280x720/5m2s218ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "MSNBC’s Maddow Dings NBC, Asks Kamala Harris If She’s ‘As Mad as Everybody Else Is’ About the Trump Town Hall"
     excerpt: "MSNBC's Rachel Maddow tweaks her own parent network, asks Kamala Harris if she's 'as mad as everybody else is' about NBC News' Trump town hall"
     publishedDateTime: 2020-10-15T04:56:00Z
@@ -5062,6 +5142,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 44
+  - title: "Vice President Mike Pence and Senator Kamala Harris debate over environmental policy in the Gulf Coast"
+    excerpt: "In the Vice Presidential Debate, Vice President Mike Pence and Senator Kamala Harris debated over the best environmental policy for the Gulf Coast. Harris argued the Trump administration had ignored science while Pence said there are more hurricanes."
+    publishedDateTime: 2020-10-15T20:10:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246302920.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 44
 
 secured: "C43UgM72lHu20NulU4Pae+Ahix3qDqVAjTRKDtDja8+6vCW/ZWl3uj7js8MZQJO5Q49tCyn3xaRTm8ZbHvMTgD3sqlok0vQp1aFTkz412SGpBEYT4hSTS0n7Vsn/HZPtFRdW4cWEFI5GT/kOGoBEQiLRNkvxkdtArEsrW7UNQ6c449RxpcseHuZm5oEBb9rmreo9lR7V8CRPU1b9ochVUl95bMlPWouKWDLxDVVJ3H+QlmKyli0gmrMktlWEgce8ZAhTWP92gYOjxIKxjSt7H6UTCUebuZLbUiKivMp863czc0RVvyY7tMJ7Pu0MF6jICX88dBZV243+mvYcMjhuqj1OLvYfb9q1sljg74WcjC4=;IVrlE+kTueWRHhn+5ib9Wg=="

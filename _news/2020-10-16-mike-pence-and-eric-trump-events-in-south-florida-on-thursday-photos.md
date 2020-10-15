@@ -514,6 +514,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Pence and Trump Campaign Drum Up South Florida Support With Sunshine State Up For Grabs"
+    excerpt: "With the battle for Florida intensifying and votes already being cast in record numbers, President Donald Trump’s campaign fired up a solid source of support on Thursday — Cuban Americans and evangelicals."
+    publishedDateTime: 2020-10-15T21:39:00Z
+    webUrl: "https://www.wlrn.org/2020-10-15/pence-and-trump-campaign-drum-up-south-florida-support-with-sunshine-state-up-for-grabs"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 62
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4474692/2147483647/strip/true/crop/415x218+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6a%2Fa148154f479689adf537b69afc9d%2Fpencevisit-20201015.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
     excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
     publishedDateTime: 2020-10-14T18:50:00Z
@@ -531,6 +545,6 @@ related:
         height: 430
         isCached: true
 
-secured: "6eiOib71oHNZARObQRv6tb6kvpNVHLbqW5t+s+8TsXY/FkeAXv0kJ6VoGNP5DMP2M5mefS1/NoURAscedEsVxJhVxs/Fr+uea/P+V4M/4A4jwNMLl0uBSZNoL8gcJNzI49/8R/IqoUBiUkm1jCLj/NYosyb5ogzU7DLWg15UJ+S/CZC9oFjwuKFcepaHz0YweLvswHfGAn6WvkVgHmiHo/vnjVXTSL8vTE4nkos3LqfidwesLFeDPgDr46dltsANs5R1cfeQYiKYT9l1+2jVJPrtrRbPFV6A/j+8TSNCBE0qss6gtl3E4PCgz7fC6arcR1GebQGc3jl+jcLJJvj4dEcAggnPn3K7DREQLEby1sU=;CeV71G2E+xMz/7dbVHRaxQ=="
+secured: "8T+VZZ3dbg0cyoV0kVwDkABr5/Nqw3zGmT1VtWzi2jEVQGR9KQMpBPEOz3Fe1rhZgQiqPLU63S4JmNsXFWsNPY649gqOzmM/20X1bFc7Twiaq6zLKMeSxXDJhsMwet604px9NSl/yEo1vh1J+nZ5qO+uhoScM8+GewoWBDi+CF1tTXOKknMB/f3yB76a+0H8BybPmgvtT+jz/uz/1VgvswTMGhT5f4kFg6WC3LIQMEuQ1u/6WU0gW72Ka353sJcycwPayxLGIoZfD1YeRq5iqQmN1qIUoP0Q+6XwRSArxWGY3NCjM+k2dsGTcATFMBRl2AbbHf9wS5TkY6Y+goXEfHp8HS0UNjPGkTNSujyX2FmyyYjgDuW9kp18Pb2XRk8fSCx7P1ca4FysFvQwSVXkON6KT8ebtseK8efrSGsyHLYUdcJz+n8/NWKsl5Y+v9/rs/v6jtW4OAVcyO/27XBYfNfxDlieeBxraZD3SRWofwRGciCngfFB/F+EEWuqQorrVNJgNmQajo5/IdZgvGCVvA==;NbFVSkVtjfPczsMXbPl2kQ=="
 ---
 

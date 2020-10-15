@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-ca
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
 type: article
 quality: 125
-heat: 246
+heat: 266
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1653288/george-stephanopoulos.jpg"
         width: 3606
         height: 2549
+        isCached: true
+  - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
+    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
+    publishedDateTime: 2020-10-15T20:45:00Z
+    webUrl: "https://abcnews.go.com/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
     excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."

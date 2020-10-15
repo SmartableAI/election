@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/joe-biden-supreme-court-packing/index.html"
 type: article
 quality: 188
-heat: 568
+heat: 588
 published: true
 
 provider:
@@ -330,6 +330,20 @@ related:
       - url: "https://static.politico.com/48/d6/a89b9ee94fe2afef6229e7c7aa00/20201006-joe-biden-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Wall Street starts to move on to President Biden"
+    excerpt: "The wide Biden lead in polls and online markets points to Trump needing to overturn multiple state results for serious uncertainty to emerge, a much less likely outcome than if the results are extremely close” Ryan Detrick,"
+    publishedDateTime: 2020-10-15T12:05:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/10/15/wall-street-starts-to-move-on-to-president-biden-790999"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "P+sKlsh3kNxjErLcIq6v7/0vqLIRjGyTXE+9DZDTtI48s6I0yzhXc9vjeCd8QPJWBP9ZwyHfW0tCe+BGOh+BzKvz1X/g3OTgcyGeZJ7a6rS58kJ5roahHwJkNEApjBY/ECbv8KTmO7u0qAUIUVpoDZZvtY9cTz/g/W2iGkw4Xh1wVsFLtX106QGlUwAeAqR1qU3bYzzkB1FpzNF9VN5yjzySWBanooqLNA0FPSJjHx9EqR9C5K5EVQjkSpZgltheEhknUdtK0mkaaFRDUm1XIDMtguQ9drtz2j9596aPwZ9TRcK15GHaKT/SPWQ4qVJDMS25MTi/7l97MrfkoXxg7Ok2nVauTdlcuMRosgvNitc=;qCMRzyGde0oWGgfm6eYrBg=="

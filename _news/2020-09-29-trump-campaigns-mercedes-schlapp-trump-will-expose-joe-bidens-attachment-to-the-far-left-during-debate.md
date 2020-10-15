@@ -362,6 +362,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump, Biden attend dueling town halls"
+    excerpt: ""
+    publishedDateTime: 2020-10-15T21:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8nZbxtV63hU/live-updates-trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92926cba-8753-4253-be21-5ae4e189119a/2f8ab13f-a630-468d-820a-cfbd97f71e37/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z

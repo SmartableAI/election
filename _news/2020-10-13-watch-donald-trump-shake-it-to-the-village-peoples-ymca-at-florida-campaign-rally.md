@@ -518,6 +518,20 @@ related:
         width: 1024
         height: 646
         isCached: true
+  - title: "Pence and Trump Campaign Drum Up South Florida Support With Sunshine State Up For Grabs"
+    excerpt: "With the battle for Florida intensifying and votes already being cast in record numbers, President Donald Trump’s campaign fired up a solid source of support on Thursday — Cuban Americans and evangelicals."
+    publishedDateTime: 2020-10-15T21:39:00Z
+    webUrl: "https://www.wlrn.org/2020-10-15/pence-and-trump-campaign-drum-up-south-florida-support-with-sunshine-state-up-for-grabs"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 62
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4474692/2147483647/strip/true/crop/415x218+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6a%2Fa148154f479689adf537b69afc9d%2Fpencevisit-20201015.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
     excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
     publishedDateTime: 2020-10-14T18:50:00Z

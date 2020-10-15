@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Fact check: Fake Trump tweet says Supreme Court should decide every election"
+    excerpt: "A Facebook user posted an image purportedly of a tweet from President Donald Trump's Twitter account. It's not real."
+    publishedDateTime: 2020-10-15T21:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-trump-tweet-supreme-court-deciding-elections-fake/3573638001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3573638001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3573638001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/91e97ece-ba0e-4de1-be9f-81a94365f0c5-AP_Trump_4.jpg?auto=webp&crop=5945,3344,x55,y15&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats urge early voting, massive turnout as Trump stokes fears of contested election"
     excerpt: "Joe Biden supporter Cindy Kalogeropoulos took no chances when her absentee ballot arrived on Sept. 29. The Michigan retiree filled it out, drove 7 miles to the nearest drop box and hung around to make sure election officials picked it up - all within 48 hours of"
     publishedDateTime: 2020-10-15T10:20:00Z
@@ -1729,6 +1745,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4wdDurHnpbapOIG34HaGjKZ/Gqm/ZeXTcjQtvTTpznY+Jxsx5NxPGXure2WdgaSXVeF0yqE6wpDdlqD+O18LMdo33r9V8Y6lKHPF1xdQvIWUvj3dNK0HA1rDrOtPxmK4hz4GCQlZePBfVl/whISJZgdMUlKSZEjOXcbwv8FSC5A7nA3r7jyxjg/3/kvDojSlt6iCr46JD4z98K0c10nOrqFmT8NaG4PHDt1xdWSbE7kwvt2UZEwRNxdvyKdQSsaiW8PfmrpyiNJVXV0XvNdxJWiTH5KdtDpIKDOTPMk0h00BrMOL4QOhmPJDPqNeVl220n2sMrV8koWI3FoLSSH6EEuiaLGBKk4LoGteB2cc0DE=;IaZJZ1dc4brWBvAbH5VfWQ=="
+secured: "iSyNGd7wm/cPQBDll8Koaqys4f6+kKsBlf9ViBvPF3+SrDzVbWcbnIoQgmgmheA7pI2BaEbV/blHfLUNY8DBHBp9K9i+BRsVHuBcXIbunkesxxb3f9atKKOIR0prPKt4b52bIYwZnURsZ8llmSMXba1gEO7w1ZxNKcTeDM0QSw1h6x4mTbPCQZmePTWfq7PGzELwHHDi6CcWZlP0VTgh6dVttlz+Fd89q0dvEu8AdNK3o9Y4pFwEGG/09S0gfH4gij7oVmn/9phmOhjLW25iXxFqYLuBWMO8MgA1OYCk2F9++bNBLZ7xhw+fM5f4Z5W3i31HRg1ZE6eQAkEsSmd/gX9WQyJ2IPtjER2akYBexw3jWDvAdJ1hFeTWtOKeUtBu6TPeRXaL+4SodG0nitRePI/XXiduFOBIJ0sO7FCtjj8/kNCr3POwE7OuPFn6nKDUwLDq1o8T8+uGCZ65gJQaJmO+P3kJMpHLpFqX8GSL5eLd/y7tyh+sg9N46Pz5fyLD553jVJkJ5clcC7KTkmbB0Q==;Wsy4kJWXkJMIuQ05y71FCA=="
 ---
 

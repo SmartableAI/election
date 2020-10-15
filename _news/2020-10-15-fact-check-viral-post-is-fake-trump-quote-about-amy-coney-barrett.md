@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "AP FACT CHECK: Trump's shaky claims on virus, Dem misfires"
-    excerpt: "Impatient to return to the campaign trail, President Donald Trump made a series of claims over the weekend about his health and the course of the pandemic"
-    publishedDateTime: 2020-10-12T16:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
     excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
     publishedDateTime: 2020-10-09T10:46:00Z

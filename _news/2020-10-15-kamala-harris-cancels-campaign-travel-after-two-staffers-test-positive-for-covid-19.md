@@ -130,14 +130,14 @@ related:
   - title: "Kamala Harris' staff tests positive for COVID..."
     excerpt: "Watch \"Kamala Harris suspends campaign travel as her staff tests positive for COVID-19 \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-15T17:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201015191657-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
+    webUrl: "https://www.cbsnews.com/live/video/20201015201341-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07274783_1602789724.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07275107_1602793145.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -302,6 +302,38 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T20:25:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246481970.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T21:02:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris Just Slammed the Senate GOP for “Reckless” Endangerment of Capitol Staff"
     excerpt: "\"Senate Republicans have made it crystal clear that rushing a Supreme Court nomination is more important than helping and supporting the American people.\""
     publishedDateTime: 2020-10-12T18:40:00Z
@@ -326,6 +358,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "zpoeuGpb0c7SAk8K57I2sR/WMtDzmQVqeeJfHB+2a88K/lCkfE4010M9i5yE+RL7vtuYjhetXoaFa75Dh1NV7LbIpa8XCkvd/+sr+8aMLhZuv7dT64K3Vmo/BFFf/TKTYnneF34MwhANyK1b/RudW4hKnQhflHvDXORP/B4MHITe5dFGBd5Dr3QtZU/BesQeQrarcOueK+gF1hfH4aJ4g0z42DSsnUAtF1i7aKoFBJvoXyrSlyUvx0ZxuR5Iim704/AffGYI/Fow96ZlvCqWpz78k8IpNdLi5VcqmonBmBLio4t1YamZXRY62Bj986jRy5iNAbxCMLePUw3KRzmiej7MftkZ+IFnGH7bnx8EK0s=;3RYeiaVAyGLmlSObIMoonQ=="
+secured: "7yL/5SxldtVEvmV1i7S7e8J2M65Gt76FKvfSr3pCqCVaE3UTxDi7mPaQKpg3Ay50nkTrifkqMm//RcrB+g0fuvljVXRR8Q21Ec8FFSoGoAoznvBcIQay15lq8svuWOTKvArbq7wOxwD5o3qICqKsJ+VdhiLRMCn3vOUJfiy5EwrL/wB/egbyVX1DT0Q3pYHQRnpU52Q1hpjv4tBG+Q3urCxr9WRTP3VWRNzvwDGWndULk8Dyku3tXfQxxCfhx5Y19emvRESuLhVI+y+iuyE7V7idSO+tLdDqI3IX+Bss/Duh+MM+F7i46C0BsjBKNe2TnHjyVUAnzAyeQjd0TrA0u+zMx6CC0aE6IvCn+/2leSpTSN95bB3OSZxTk0GT6ELMos0Z1TtlHhgztqesEka/s2A/PAVeeFmUgVNWsw6NQewxU7epiQNDyYwlP1ADDfOLCtZpodKLnFCjdi8OVi4DmzdQFppHD8GBLTg/EpB9gWm5CJLN2K3WmjjLp8ObzQqNuPrKbiFCEkRoyfWi2n/lEw==;vSHamHkLKi5yk1cwH6PorQ=="
 ---
 

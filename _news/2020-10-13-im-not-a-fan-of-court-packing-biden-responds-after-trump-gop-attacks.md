@@ -332,6 +332,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Wall Street starts to move on to President Biden"
+    excerpt: "The wide Biden lead in polls and online markets points to Trump needing to overturn multiple state results for serious uncertainty to emerge, a much less likely outcome than if the results are extremely close” Ryan Detrick,"
+    publishedDateTime: 2020-10-15T12:05:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/10/15/wall-street-starts-to-move-on-to-president-biden-790999"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "dm/yRYcCVdg4d9IuuxfJyRc0uQerAbMLAU4C16KQy3uqTrspWui1ic8XSK4aEO3lz/M/+OwWjLhFzG3SJtMWMj1DDnJRfjnMj0RNG5Da/pC4VdbgQKpjBr9L9/2WF2vI2GpvXMksLKaasubHn+9awLLsZ4pry0h9NQcxIzMfiuHzEyqt1506q2YmluphWFIATzsTCECLv7jn97oC46xCzY1aTQHhWRP45Vw7A5RmNTnMVXDbzH/W9ft7+8usuPnMnzzXPMZv6/kVlBKxjIJzF2Z2aa/0dMtBxLvObQMj7h9fSDupNhqIuO6IlX64rjU9y8saKe/CRwbQOnWGmiRes+Vy/LDz7mcsEf8+LplPL5k=;+ouxJmwJbIoy8LusPi4ASw=="
 ---

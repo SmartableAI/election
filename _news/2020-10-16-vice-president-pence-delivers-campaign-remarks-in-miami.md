@@ -345,6 +345,17 @@ related:
       name: 7News Miami
       domain: wsvn.com
     quality: 55
+  - title: "Vice President Mike Pence attends 2 events ahead of president’s arrival"
+    excerpt: "President Donald Trump and Vice President Mike Pence will both be in South Florida on Thursday and will be attending separate events throughout the day. Pence spoke at an event at the Memorial Cubano at Tamiami Park in West Miami-Dade just after 12:30 p."
+    publishedDateTime: 2020-10-15T20:46:00Z
+    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-attends-2-events-ahead-of-presidents-arrival/"
+    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-attends-2-events-ahead-of-presidents-arrival/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-attends-2-events-ahead-of-presidents-arrival/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 55
   - title: "Vice President Pence Campaigns in Ohio"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus. President Trump spoke at a campaign rally in Newport News, Virginia. He was introduced by Vice President Mike Pence."
     publishedDateTime: 2020-10-12T17:23:00Z

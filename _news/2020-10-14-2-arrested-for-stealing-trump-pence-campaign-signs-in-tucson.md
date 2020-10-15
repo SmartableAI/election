@@ -60,6 +60,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Fact check: Fake Trump tweet says Supreme Court should decide every election"
+    excerpt: "A Facebook user posted an image purportedly of a tweet from President Donald Trump's Twitter account. It's not real."
+    publishedDateTime: 2020-10-15T21:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-trump-tweet-supreme-court-deciding-elections-fake/3573638001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3573638001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3573638001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/91e97ece-ba0e-4de1-be9f-81a94365f0c5-AP_Trump_4.jpg?auto=webp&crop=5945,3344,x55,y15&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats urge early voting, massive turnout as Trump stokes fears of contested election"
     excerpt: "Joe Biden supporter Cindy Kalogeropoulos took no chances when her absentee ballot arrived on Sept. 29. The Michigan retiree filled it out, drove 7 miles to the nearest drop box and hung around to make sure election officials picked it up - all within 48 hours of"
     publishedDateTime: 2020-10-15T10:20:00Z

@@ -367,6 +367,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump, Biden attend dueling town halls"
+    excerpt: ""
+    publishedDateTime: 2020-10-15T21:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8nZbxtV63hU/live-updates-trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92926cba-8753-4253-be21-5ae4e189119a/2f8ab13f-a630-468d-820a-cfbd97f71e37/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-26T05:09:18Z
