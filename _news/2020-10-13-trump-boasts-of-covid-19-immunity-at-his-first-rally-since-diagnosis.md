@@ -206,6 +206,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Arizona's growing population could be a problem for Trump"
+    excerpt: "Arizona is a 2020 swing state, despite voting Republican in every presidential election since 1996. CNN's John King explains why.\n    \n"
+    publishedDateTime: 2020-10-15T16:48:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LhFtaiMGa7s/arizona-2020-swing-state-john-king-magic-wall-orig.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/arizona-2020-swing-state-john-king-magic-wall-orig.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/arizona-2020-swing-state-john-king-magic-wall-orig.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013100726-arizona-2020-swing-state-john-king-magic-wall-orig-00000415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
     excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
     publishedDateTime: 2020-10-13T15:48:26Z
@@ -429,6 +445,38 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/14/world/14virus-india-trump-1/14virus-india-trump-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Leon Panetta defends bin Laden raid after Trump ignites conspiracy"
+    excerpt: "Former CIA Director Leon Panetta, who oversaw the raid that killed Osama bin Laden, defended the mission after President Donald Trump amplified conspiracy theories that the terrorist leader's death was a hoax."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2020/10/15/leon-panetta-defends-osama-bin-laden-raid-crn-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/15/leon-panetta-defends-osama-bin-laden-raid-crn-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/15/leon-panetta-defends-osama-bin-laden-raid-crn-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015140856-leon-panetta-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Science journal editor calls out Trump administration"
+    excerpt: "H. Holden Thorp wrote that the FDA Commissioner was pressured by the White House to overstate the benefits of convalescent plasma."
+    publishedDateTime: 2020-10-15T18:03:00Z
+    webUrl: "https://www.nbcnews.com/science/science-news/science-journal-editor-calls-out-trump-administration-n1243552"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243552"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243552"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420453/201016-stephen-hahn-mn-1125_30f64aa6510cffa45dee1bf96ae50eaa.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."

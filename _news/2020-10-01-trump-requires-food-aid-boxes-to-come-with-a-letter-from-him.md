@@ -492,6 +492,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Once again, Trump's coronavirus diagnosis dominates news about the campaign"
+    excerpt: "Americans heard more about President Donald Trump's contracting the novel coronavirus than anything else about him for the second week in a row, and this week, the numbers citing coronavirus were significantly higher than in any week since July.\n    \n"
+    publishedDateTime: 2020-10-15T16:00:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/347myDC3ZfI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/the-breakthrough-coronavirus-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/the-breakthrough-coronavirus-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Texas Supreme Court rules Harris County cannot mail out ballot applications to all registered voters"
     excerpt: "The Texas Supreme Court ruled Wednesday that Harris County, one of the largest in the country, cannot mail out applications for absentee ballots to all of its 2.4 million registered voters.\n    \n"
     publishedDateTime: 2020-10-07T17:46:55Z
@@ -1318,6 +1334,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris cancels travel after top aide tests positive for Covid-19"
+    excerpt: "Biden's campaign said neither of the infected people had contact with Biden or Harris in the 48 hours before testing positive; Biden and Harris both tested negative today."
+    publishedDateTime: 2020-10-15T19:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/harris-cancels-travel-after-top-aide-tests-positive-covid-19-n1243518"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243518"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243518"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420410/201015-kamala-harris-al-0953_fe1be24c399d50664e1a1f299fdb6384.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris’s Doubleheader: A Debate and Hearings With Sky-High Stakes"
     excerpt: "She is viewed as a gifted cross-examiner whose instincts for televised verbal combat are one of her greatest political strengths, but this is a new challenge."
     publishedDateTime: 2020-10-06T00:10:00Z
@@ -1443,6 +1475,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418073/201006-kamala-harris-2019-ac-807p_b4257ecc4931dfb8a23df49ab56623fc.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "'Raise your daughters like Wonder Woman': 3 life lessons I learned from my aunt, Sen. Kamala Harris"
+    excerpt: "Meena Harris says she was raised by \"a hardworking single mom, a grandmother who taught me I should always make an impact, and an auntie who showed me I could do and be whatever I wanted to be.”"
+    publishedDateTime: 2020-10-15T15:23:00Z
+    webUrl: "https://www.nbcnews.com/know-your-value/feature/raise-your-daughters-wonder-woman-3-life-lessons-i-learned-ncna1243532"
+    ampWebUrl: "https://www.nbcnews.com/know-your-value/amp/ncna1243532"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/know-your-value/amp/ncna1243532"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 121
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_42/3420446/meena_kamala-2x1-v1_59d1e9b795bae17d29197c6a3a0dada2.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "A Sick Donald Trump Takes His Own Medicine. How Will That Go?"
     excerpt: "Like any normal person admitted to a hospital who can still talk and walk, President Donald Trump wanted out of there. According to CNN, he demanded his release on Sunday because, in part, he thought hospitalization made him look weak but settled for a quick lap outside the Walter Reed National Military Medical Center in a Secret Service Suburban to demonstrate his vitality."

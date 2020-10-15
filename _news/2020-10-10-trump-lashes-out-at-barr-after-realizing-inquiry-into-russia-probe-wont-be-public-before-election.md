@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
 type: article
 quality: 126
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "The Latest: Trump Works Barron's Virus Diagnosis Into Speech"
+    excerpt: "President Donald Trump has added new material to his campaign rally speech: his teenage son Barron’s recent coronavirus infection."
+    publishedDateTime: 2020-10-15T19:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DIStyq2lS7JpilJ4asddnEQsDOkJQl1LATVo1PuiYyl11j/QCU0mba3qQ1K52B+itZQw3cYILc8ZVPPoCK+NPu+6gJq8RaNK6jb7AgrmWSIKch04Mhb7RbT8dvIBS3OpE3To/ahoCwFxw87Etdy/DZwrTJiVpG/RRZKi+OPljlFsP3m5W0LjMK0sSNrP3nf9jv37cTfRgXhg4ayM4yR2WWxPQ5KJkue1vLxe6qI4F3C3CjyR8ncvrTPDTkf4C++R3ZaTYuKdiBHyE6u8Ngc9GbKRitv/IZNMHEsCn1hFN4TzCc/PQHku2i3Gh2/TSrMdD7RC+2k3/Ia/6TuFzHf6HAgaUWO8EHvH4unhtzY3rgg=;IQ/SXIH4oxu24h2j+jU5EA=="
 ---

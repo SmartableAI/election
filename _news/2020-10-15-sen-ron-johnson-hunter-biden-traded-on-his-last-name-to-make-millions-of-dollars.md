@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pompeo calls tech firms ‘inconsistent’ after censorship of Hunter Biden story"
+    excerpt: "Secretary of State Mike Pompeo on Thursday hit tech giants like Twitter and Facebook for what he said was “inconsistent” cracking down on accounts -- a day after the two social media platforms shut down accounts for sharing a New York Post story on Hunter Biden."
+    publishedDateTime: 2020-10-15T18:43:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mo7kpwgPmSs/pompeo-tech-firms-inconsistent-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-tech-firms-inconsistent-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-tech-firms-inconsistent-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden introduced Burisma adviser to VP dad before Ukraine pressure, email shows"
     excerpt: "Hunter Biden introduced his father, then-Vice President Joe Biden, to a top executive at a Ukrainian energy firm less than a year before the elder Biden pressured government officials in Ukraine into firing a prosecutor who was investigating the company, according to emails obtained by The Post."
     publishedDateTime: 2020-10-14T10:34:38Z

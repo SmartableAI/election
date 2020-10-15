@@ -47,6 +47,22 @@ related:
         width: 780
         height: 551
         isCached: true
+  - title: "Who Is George Stephanopoulous, Moderator of Biden Town Hall?"
+    excerpt: "Stephanopoulous, 59, leads breaking news and major special events coverage for ABC, a position he's held since 2014."
+    publishedDateTime: 2020-10-15T19:00:00Z
+    webUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523"
+    ampWebUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1653288/george-stephanopoulos.jpg"
+        width: 3606
+        height: 2549
+        isCached: true
   - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
     excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
     publishedDateTime: 2020-10-14T18:44:00Z

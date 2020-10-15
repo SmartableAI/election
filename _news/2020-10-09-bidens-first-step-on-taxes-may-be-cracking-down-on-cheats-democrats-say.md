@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A conservative’s case for Biden"
+    excerpt: "There are many conservative reasons to vote against Trump — but what about positive reasons to vote for Biden?"
+    publishedDateTime: 2020-10-15T19:27:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/conservative-case-for-biden/2020/10/15/270bc17a-0f13-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/conservative-case-for-biden/2020/10/15/270bc17a-0f13-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/conservative-case-for-biden/2020/10/15/270bc17a-0f13-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2IIZCAAOKMI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Powered by trust on the pandemic, Biden leads by 12 points nationwide: POLL"
     excerpt: "Joe Biden holds a 17-point lead over Donald Trump in trust to handle the coronavirus pandemic in a new ABC News/Washington Post poll, powering the Democrat to a double-digit advantage in vote preference with the presidential election three weeks away."
     publishedDateTime: 2020-10-11T04:39:00Z

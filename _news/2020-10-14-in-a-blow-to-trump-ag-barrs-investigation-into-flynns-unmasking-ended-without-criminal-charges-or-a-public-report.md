@@ -79,6 +79,17 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "The Latest: Trump Works Barron's Virus Diagnosis Into Speech"
+    excerpt: "President Donald Trump has added new material to his campaign rally speech: his teenage son Barron’s recent coronavirus infection."
+    publishedDateTime: 2020-10-15T19:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "C8q+4FdHP5fd4QVopHfAUCeoB3gBUu80Y61WcqwxlXWvLY5CYqPrjGmFcIxkYkEFB865Jpj146OpHlfN18yrTMJvz6+VICTsUYSFmSbZJFVckzYLxUXLw4unXl31aaQq8ZKTQGiE2yq1AGxfg3u7ZFqMAO0Sn4TzaV8sLfDuWy0FBSYt+zD94DVQ+Pb+fpd61zdbYUIeSQYlrXtx9xvOmNWGLR3A5OG8FOoXEiSXv0MipzVD80V4gM074/g686lpbFK8qt89bjqNFzFWus1MFFeGAejseRRfjI2u4FduCxCF421khShiez6KrkFe6ogBilLJvhvhK+SyvN707Jb7lscIyyn1gdSY/yE0LE/K3j0=;YNsh+M+NKyYVGIe0Y4em6Q=="
 ---

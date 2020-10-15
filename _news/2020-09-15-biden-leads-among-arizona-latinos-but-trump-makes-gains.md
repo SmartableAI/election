@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How to watch tonight's Trump and Biden town halls "
+    excerpt: "President Donald Trump and former Vice President Joe Biden are expected to participate in competing town halls on Thursday, the same day both presidential candidates were originally scheduled to debate.\n    \n"
+    publishedDateTime: 2020-10-15T16:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nyNJnc_-eJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/how-to-watch-presidential-town-halls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/how-to-watch-presidential-town-halls/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200807071226-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z

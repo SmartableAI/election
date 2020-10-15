@@ -488,6 +488,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence and Eric Trump events in South Florida on Thursday | PHOTOS"
+    excerpt: "Multiple events around South Florida featuring Vice President Mike Pence and Eric Trump that lead up to a televised town hall with President Donald Trump in Miami."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-trump-events-south-florida-101520-20201015-5fjpafihovbopaiaksxtpc6eeu-photogallery.html"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 70
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Pe_TMvDNtVnUiRg_Ok0FbraCXtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNJEX3DDIFHYFNW5Q7PLRAJMIU.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Watch Donald Trump shake it to the Village People’s Y.M.C.A. at Florida campaign rally"
     excerpt: "President Donald Trump energetically returned to the campaign trail on Monday after having been hospitalized for coronavirus. “President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month,"
     publishedDateTime: 2020-10-13T05:47:00Z

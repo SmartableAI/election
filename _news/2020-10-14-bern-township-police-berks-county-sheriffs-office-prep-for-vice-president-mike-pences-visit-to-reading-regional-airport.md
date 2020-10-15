@@ -281,6 +281,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to visit Phoenix on Friday"
+    excerpt: "Vice President Mike Pence will visit the city on Friday, just days after President Donald Trump made a campaign stop at the Arizona Grand Resort."
+    publishedDateTime: 2020-10-15T16:49:00Z
+    webUrl: "https://www.wltx.com/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    ampWebUrl: "https://www.wltx.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    cdnAmpWebUrl: "https://www-wltx-com.cdn.ampproject.org/c/s/www.wltx.com/amp/article/news/politics/vice-president-mike-pence-to-visit-phoenix-on-friday/75-d8432e2c-2a7b-4e1f-a100-b142902b0b6d"
+    type: article
+    provider:
+      name: WLTX19
+      domain: wltx.com
+    quality: 75
+    images:
+      - url: "https://media.wltx.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
     publishedDateTime: 2020-10-10T08:16:00Z
@@ -339,6 +355,15 @@ related:
     excerpt: "Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus. President Trump spoke at a campaign rally in Newport News, Virginia. He was introduced by Vice President Mike Pence."
     publishedDateTime: 2020-10-12T17:23:00Z
     webUrl: "https://www.c-span.org/video/?476843-1/vice-president-pence-campaigns-ohio&ICID=ref_fark"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Delivers Campaign Remarks in Miami"
+    excerpt: "Vice President Mike Pence delivers remarks at a campaign rally in Miami, Florida. Vice President Pence delivers remarked at a Trump presidential campaign event in The Villages, Florida, the world’s… Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus."
+    publishedDateTime: 2020-10-15T19:33:00Z
+    webUrl: "https://www.c-span.org/video/?477003-1/vice-president-pence-delivers-campaign-remarks-miami"
     type: article
     provider:
       name: C-SPAN

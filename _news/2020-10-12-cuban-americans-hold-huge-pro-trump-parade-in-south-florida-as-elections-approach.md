@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 755
+heat: 775
 published: true
 
 provider:
@@ -471,6 +471,20 @@ related:
       - url: "https://media.nbcmiami.com/2020/09/Trump-flag.jpg?fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence and Eric Trump events in South Florida on Thursday | PHOTOS"
+    excerpt: "Multiple events around South Florida featuring Vice President Mike Pence and Eric Trump that lead up to a televised town hall with President Donald Trump in Miami."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-trump-events-south-florida-101520-20201015-5fjpafihovbopaiaksxtpc6eeu-photogallery.html"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 70
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Pe_TMvDNtVnUiRg_Ok0FbraCXtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNJEX3DDIFHYFNW5Q7PLRAJMIU.jpg"
+        width: 1200
+        height: 802
         isCached: true
   - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
     excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."

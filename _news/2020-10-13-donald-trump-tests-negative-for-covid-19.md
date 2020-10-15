@@ -411,6 +411,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Twitter briefly restricts Trump campaign account amid Republican outcry"
+    excerpt: "U.S. President Donald Trump's re-election campaign's Twitter account was briefly restricted from tweeting on Thursday, spurring an outcry from Republican lawmakers who accused social media companies of acting like \"speech police\" and vowing to hold Twitter responsible."
+    publishedDateTime: 2020-10-15T19:29:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-twitter-idUSKBN2702C4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702C4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702C4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537613928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1G7"
+        width: 828
+        height: 545
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -1068,6 +1084,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/07/Mitt-Romney-Getty-1076859904.jpg"
         width: 1200
         height: 624
+        isCached: true
+  - title: "Tommy Lee Threatens To Leave US If Donald Trump Wins 2020 Presidential Election"
+    excerpt: "While some people are still deciding how they will vote, Tommy Lee is already planning on how he will deal with the results of the US presidential election. In a recent interview, Lee opened up about his feelings regarding the commander in chief and why he may be relocating to another country if Donald Trump beats out Democrat presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-15T14:38:00Z
+    webUrl: "https://www.ibtimes.com/tommy-lee-threatens-leave-us-if-donald-trump-wins-2020-presidential-election-3062650"
+    ampWebUrl: "https://www.ibtimes.com/tommy-lee-threatens-leave-us-if-donald-trump-wins-2020-presidential-election-3062650?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tommy-lee-threatens-leave-us-if-donald-trump-wins-2020-presidential-election-3062650?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/donald-trump-often-contrasts-his-enthusiastic-events-with.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Fauci Says He Isn't Endorsing Trump's Reelection Despite Being Included In POTUS Ad"
     excerpt: "The Trump campaign released a 30-second ad Saturday that shows Fauci praising the administration's handling of the coronavirus pandemic."

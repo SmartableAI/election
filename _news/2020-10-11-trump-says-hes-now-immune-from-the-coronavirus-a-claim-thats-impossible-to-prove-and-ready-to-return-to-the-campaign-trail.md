@@ -247,22 +247,6 @@ related:
         width: 1600
         height: 1099
         isCached: true
-  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
-    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
-    publishedDateTime: 2020-10-14T20:09:00Z
-    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
-    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
-        width: 1024
-        height: 735
-        isCached: true
   - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
     excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
     publishedDateTime: 2020-10-13T01:33:00Z

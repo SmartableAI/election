@@ -1840,6 +1840,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "COVID derails Kamala Harris trip to Texas this weekend"
+    excerpt: "Harris told a national television audience she was going to be Texas over the weekend, but on Thursday the Biden campaign announced that trip is on hold."
+    publishedDateTime: 2020-10-15T17:13:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/COVID-derails-Kamala-Harris-trip-to-Texas-this-15650487.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/amp/COVID-derails-Kamala-Harris-trip-to-Texas-this-15650487.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/amp/COVID-derails-Kamala-Harris-trip-to-Texas-this-15650487.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/56/43/20113636/5/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
     publishedDateTime: 2020-10-07T10:02:00Z
@@ -2702,6 +2718,22 @@ related:
       - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
+        isCached: true
+  - title: "Kamala Harris Was Asked About the Mike Pence Fly, and Her Response Was Iconic"
+    excerpt: "Yes, Senator Kamala Harris noticed the fly on Vice President Mike Pence's head during the VP debate held on Wednesday, October 7. No, she doesn't really want to talk about it anymore—even though it's funny enough to make her burst out into giggles."
+    publishedDateTime: 2020-10-15T17:57:00Z
+    webUrl: "https://www.glamour.com/story/kamala-harris-was-asked-about-the-mike-pence-fly-and-her-response-was-iconic"
+    ampWebUrl: "https://www.glamour.com/story/kamala-harris-was-asked-about-the-mike-pence-fly-and-her-response-was-iconic/amp"
+    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/kamala-harris-was-asked-about-the-mike-pence-fly-and-her-response-was-iconic/amp"
+    type: article
+    provider:
+      name: Glamour
+      domain: glamour.com
+    quality: 97
+    images:
+      - url: "https://media.glamour.com/photos/5f88814e37e3b351c55777ca/master/pass/Kamala%20Harris%20Mike%20Pence.jpg"
+        width: 3264
+        height: 1809
         isCached: true
   - title: "Kamala Harris, Mike Pence to Take Center Stage for Highly Anticipated VP Debate"
     excerpt: "What a difference eight days makes. Just last week the nation settled in for the first televised debate between President Donald Trump and Democratic challenger Joe Biden. Before the dust from that contest had a chance to settle Trump revealed he’s contracted COVID-19 and a small platoon of his inner circle have since come forward to reveal they’ve contracted the disease as well."
@@ -3868,6 +3900,34 @@ related:
         width: 1024
         height: 754
         isCached: true
+  - title: "Mike Pence and Kamala Harris spar in vice-presidential debate"
+    excerpt: "Go back to our US Elections and American English homepage. The contenders for US vice-president have met for their only debate ahead of next month’s election. While the debate b"
+    publishedDateTime: 2020-10-15T16:17:00Z
+    webUrl: "https://www.bbc.co.uk/learningenglish/burmese/features/us-elections-understanding/pence-kamala-presidential-debate"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 80
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200xn/p08vdckx.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Yes, Kamala Harris Saw The Fly On Mike Pence's Head"
+    excerpt: "Kamala Harris finally commented on the fly in a new interview, and yes, just like all of us, she did see it during the debate."
+    publishedDateTime: 2020-10-15T17:52:00Z
+    webUrl: "https://www.bustle.com/entertainment/kamala-harris-commented-on-the-fly-that-landed-on-mike-pence-video"
+    type: article
+    provider:
+      name: Bustle
+      domain: bustle.com
+    quality: 80
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/15/e18d5e16-ba9f-4512-87c8-711550ecbe50-screen-shot-2020-10-15-at-101653-am.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z
@@ -4234,6 +4294,38 @@ related:
         width: 3513
         height: 2342
         isCached: true
+  - title: "Kamala Harris suspends travel after staffer tests COVID-19 positive"
+    excerpt: "Kamala Harris, the Democratic vice presidential nominee, will suspend in-person events until Monday after two people associated with the campaign tested positive for coronavirus."
+    publishedDateTime: 2020-10-15T15:56:00Z
+    webUrl: "https://www.denverpost.com/2020/10/15/kamala-harris-staffer-covid-19-positive-test/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/15/kamala-harris-staffer-covid-19-positive-test/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/15/kamala-harris-staffer-covid-19-positive-test/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Harris_Coronavirus_62643.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Fact check: Where does Kamala Harris stand on abortion?"
+    excerpt: "Joe Biden and Kamala Harris support taxpayer funding of abortion all the way up to the moment of birth, late term abortion,” Vice President Mike Pence said at last week’s vice presidential debate."
+    publishedDateTime: 2020-10-15T18:32:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246426045.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246426045.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246426045.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/9cea001f-5773-4d82-83f4-be9bb936ec3b/main/1280x720/5m2s218ms/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
     publishedDateTime: 2020-10-07T21:41:00Z
@@ -4260,6 +4352,22 @@ related:
       - url: "https://media.vanityfair.com/photos/5f4e6104b9d628c9983c85e1/master/pass/Trump9.1.jpg"
         width: 2000
         height: 1334
+        isCached: true
+  - title: "Kamala Harris suspends weekend travel after 2 test positive for COVID-19"
+    excerpt: "Democratic vice presidential nominee Kamala Harris' travel plans through the weekend have been suspended after two people close to the campaign tested positive for COVID-19, officials said Thursday."
+    publishedDateTime: 2020-10-15T15:05:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/15/Kamala-Harris-suspends-weekend-travel-after-2-test-positive-for-COVID-19/3771602771551/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/15/Kamala-Harris-suspends-weekend-travel-after-2-test-positive-for-COVID-19/3771602771551/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/15/Kamala-Harris-suspends-weekend-travel-after-2-test-positive-for-COVID-19/3771602771551/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/3771602771551/2020/upi/88ec399dd64882a539c65e225699c91a/v1.5/Kamala-Harris-suspends-travel-through-weekend-after-2-test-positive-for-COVID-19.jpg?lg=5"
+        width: 800
+        height: 532
         isCached: true
   - title: "Fact Check: Vice presidential candidates Sen. Kamala Harris and VP Mike Pence debate"
     excerpt: "The 90-minute debate between Sen. Kamala Harris and Vice President Mike Pence covered a variety of topics. We fact checked statements made by both candidates. The first topic discussed was the coronavirus pandemic."
@@ -4488,6 +4596,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Kamala Harris suspends travel through weekend after 2 test positive for COVID-19"
+    excerpt: "Democratic vice presidential nominee Kamala Harris' travel plans through the weekend have been suspended after two people close to the campaign tested positive for COVID-19, officials said Thursday."
+    publishedDateTime: 2020-10-15T15:23:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/15/Kamala-Harris-suspends-travel-through-weekend-after-2-test-positive-for-COVID-19/3771602771551/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/15/Kamala-Harris-suspends-travel-through-weekend-after-2-test-positive-for-COVID-19/3771602771551/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/15/Kamala-Harris-suspends-travel-through-weekend-after-2-test-positive-for-COVID-19/3771602771551/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 70
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/3771602771551/2020/upi/88ec399dd64882a539c65e225699c91a/v1.5/Kamala-Harris-suspends-travel-through-weekend-after-2-test-positive-for-COVID-19.jpg?lg=5"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Split Screen: Trump and Biden to Headline Dueling Town Halls"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
     publishedDateTime: 2020-10-15T05:45:00Z
@@ -4680,6 +4804,22 @@ related:
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/20/PDTF/4d05a689-10dd-45d8-9c9a-9e5229fd760c-AP_Election_2020_DNC_DECK604.jpg?auto=webp&crop=3259,1833,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Sen. Kamala Harris cancels trips after two linked to campaign test positive for COVID-19"
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, canceled campaign trips to key battleground states through Sunday after two people associated with the campaign tested positive for COVID-19."
+    publishedDateTime: 2020-10-15T14:52:00Z
+    webUrl: "https://www.desmoinesregister.com/story/news/politics/elections/2020/10/15/kamala-harris-cancels-trips-after-2-linked-campaign-get-covid-19/3662795001/"
+    ampWebUrl: "https://amp.desmoinesregister.com/amp/3662795001"
+    cdnAmpWebUrl: "https://amp-desmoinesregister-com.cdn.ampproject.org/c/s/amp.desmoinesregister.com/amp/3662795001"
+    type: article
+    provider:
+      name: Des Moines Register
+      domain: desmoinesregister.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/6b7ef0f3-8ac5-447d-95c8-2672f63cf133-DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
