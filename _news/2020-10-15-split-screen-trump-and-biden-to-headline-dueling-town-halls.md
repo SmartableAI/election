@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Split screen: Trump and Biden to headline dueling town halls"
+title: "Split Screen: Trump and Biden to Headline Dueling Town Halls"
 excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
-publishedDateTime: 2020-10-15T05:15:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2700H7"
-webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2700H7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2700H7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2700H7"
+publishedDateTime: 2020-10-15T05:45:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls?context=amp"
 type: article
-quality: 140
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537533258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0AU"
-    width: 819
-    height: 545
-    isCached: true
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -1182,6 +1176,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Reuters/Ipsos poll shows Trump moving into statistical tie with Biden in Florida"
+    excerpt: "President Donald Trump pulled into a statistical tie with Democratic rival Joe Biden in Florida, one of the election's most important battlegrounds, but Biden's lead appeared to widen in Arizona, Reuters/Ipsos opinion polls showed on Wednesday."
+    publishedDateTime: 2020-10-15T03:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN26Z30H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Z30H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Z30H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201014&t=2&i=1537497533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9D1RP"
+        width: 877
+        height: 545
         isCached: true
   - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
     excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
@@ -4840,6 +4850,6 @@ related:
       domain: c-span.org
     quality: 44
 
-secured: "xFJttWyhPPvSu7ViqD3QMCwgrpDurA4KTBCbdsOzxcGsJ5S/i8BK9sC1sb3Ukg4wiNDuV1UkT+XylMWQXiQBIMveNdwZYuXFerO25BNA0llmktkDmoiqdJhsIjXKu5vwLeKJUuCDQhFYC77twfrfL3VnNVOTQ6doW9EW/l9lWJWA81u1+fNJsU+zb0o6Danrpoll3Uma4iJIYcCAlQV6ZQvu5axz3F6a4UhVT8zfJNdoTIybhtn1+Ypl+pICr2tZ1QjCUsm/2tHsRj9qERwFBZ1ytebcRYr486u23SGTEe6QG+5DKSyp1BF8xXwKBWerSsNU8ZdhVOkAIlOKY1NPnnCU2vSSZP7PRcBnLgZA7gg=;L3ACmzXGzRX9Q+zkwQSZiw=="
+secured: "uux+cu16Y7QMcyvtH8d0NInwNWO1aQNbxoiZxp/p8dZRM0Xmq7bDMDVZygYYUcYVsir5i90WW4A6Bqnrzb4zLGYQRR1Ng+yfzrgz64ys9jHuafMDIkfz804AUgKPkQMka+5Uoi+3bVhfm9/AilybyYhqBeg8ULxT+bmoD7KLg1cEq9yoFFs5qBaxjE18PdufwZhGx3sBDPGWbIgFykjcz8t8hazBUXlnuev8y7mjPFuh8riBkGk1pWsD1Xj1xiJvvV7/XrQt6fqZrU5MxRBYsLScSwmlfjpvRTphM+swgQHv5APi9Pj/vrZJ8ocv2II9z4KMP2p1UYUzhMRdTV9/gpIosF0PivdRxb88xyon9GJfBeIhzM4Uv6eXxdNjYS3mCC/3D6LjMDHwZGZIvtBZtfQhNWi79p1BOl5MAhnS4JUEIPWxl6uFmr4s5y55D0Z+iHvbx4xg6Id+DxIGxRA7Jwq/pBi+tNFxjVu4i6cISoDPDuccsPoOAqIaJn954igVVzfef6D8Mw09n3EizQtexQ==;k5dVv4xAI8NuzmlEDo3s+A=="
 ---
 

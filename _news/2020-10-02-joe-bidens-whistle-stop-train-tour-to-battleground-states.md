@@ -413,6 +413,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "The New York Post inadvertently revealed the original source of its dubious Hunter Biden story"
+    excerpt: "Two photos published in the story seem to point to a specific Mac repair shop in the Trolley Square neighborhood of Wilmington, Delaware."
+    publishedDateTime: 2020-10-15T06:14:00Z
+    webUrl: "https://www.businessinsider.com/new-york-post-may-have-identified-hunter-biden-source-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/new-york-post-may-have-identified-hunter-biden-source-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-may-have-identified-hunter-biden-source-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5d014bb26fc920547d175b32?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden campaigns in Miami"
     excerpt: "Watch \"Joe Biden campaigns in Miami\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-05T20:57:00Z

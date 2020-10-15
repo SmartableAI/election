@@ -108,6 +108,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Why the media are suddenly chattering about Joe Biden’s cabinet"
+    excerpt: "Presidential candidates are often warned not to measure the drapes, a reminder that first they have to actually win the election before sitting in the Oval Office."
+    publishedDateTime: 2020-10-15T07:06:00Z
+    webUrl: "https://www.foxnews.com/media/why-the-media-are-suddenly-chattering-about-joe-bidens-cabinet"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51d99e9d-2348-4159-b7e7-ef8098459278/3793768e-4384-47e5-82f8-e1c4adc81a5a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
     excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
     publishedDateTime: 2020-10-13T04:01:00Z

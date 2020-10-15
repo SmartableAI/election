@@ -3050,6 +3050,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
+  - title: "MSNBC's Maddow to Kamala Harris: Are You Mad That Trump Will Be On NBC At Same Time As Biden On ABC?"
+    excerpt: "In an interview with Democratic nominee for vice president Kamala Harris, MSNBC host Rachel Maddow not-so-subtly let her anger be known that parent network NBC will host a town hall event with President Donald Trump at the same time ABC will host a similar event with former Vice President Joe Biden."
+    publishedDateTime: 2020-10-14T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/14/msnbcs_maddow_to_kamala_harris_are_you_mad_that_trump_will_be_on_nbc_at_same_time_as_biden_on_abc.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/522176.jpg"
+        width: 1076
+        height: 806
+        isCached: true
   - title: "President Trump and Joe Biden Face Off in First 2020 Presidential Debate"
     excerpt: "Let the 2020 presidential debates begin! Tonight we'll see if all those days of calling a \"lid\" to do debate prep have paid off for Joe Biden. Or, if we're in for a night full of gaffes from the former vice president."
     publishedDateTime: 2020-09-29T14:44:00Z

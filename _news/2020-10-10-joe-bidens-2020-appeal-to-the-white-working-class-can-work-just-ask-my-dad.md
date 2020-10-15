@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden campaign lashes out at New York Post"
+    excerpt: "The campaign cast the allegations against Joe and Hunter Biden as “Russian disinformation,” while Republicans complained that social media companies were censoring the story."
+    publishedDateTime: 2020-10-15T06:09:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3e/8e/8776f73b488ba55987c853611cd9/biden.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "yCM30PB6o7zOiXwseq2JjJd8CADvat6lZllGvV0HZes/bZcwqGbGtqF38umI5haOE26hbaLi8Llrup1BtjBQje8GlXaNLs5cy8LpHQmlqci5vpMyxyGPUhyaHnlW5YUAyEjwjeVV8PrvfBbPQFzUCm5u+21WNk4n6zcrRIurg8bujvuqwubAA4Ukx/5p87W/Jt5i+8zaLI97E6ncg4XqD98iDEp0lubwwNsOPe/zKLNcNzB64rchg5iwgYeMiQsrsZ5VdpWhrL9TkMC6ziIqhy6AEU81aXMvUw/VB1bQkjcvmER3DnixRue7aTsU/sWnhamvNOCNr9OwyVWso3RgWtcbkhn04arjUk6jDq9sWAmk6h2+ZKfpJJruaYCEafCbL7figvSXEmnqreLs9ef6d2gSP5wmR2CvWSOohJnPy0qq6Q5mV+HibTXA/JPKcOh2mTXI4CFq66OPUqUn6Z5/UAhTsWHXyUl9oH/Bd8ZK8pXbkkvc0MssigC+OT1P5M3Dcfa3kCtQo0qF4rfxNTa5Rg==;o7KmpH1zuugeCuCvkdBHUA=="
 ---

@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden campaign lashes out at New York Post"
+    excerpt: "The campaign cast the allegations against Joe and Hunter Biden as “Russian disinformation,” while Republicans complained that social media companies were censoring the story."
+    publishedDateTime: 2020-10-15T06:09:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3e/8e/8776f73b488ba55987c853611cd9/biden.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
     excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
     publishedDateTime: 2020-10-09T21:39:00Z

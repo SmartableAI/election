@@ -3048,6 +3048,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 80
+  - title: "MSNBC's Maddow to Kamala Harris: Are You Mad That Trump Will Be On NBC At Same Time As Biden On ABC?"
+    excerpt: "In an interview with Democratic nominee for vice president Kamala Harris, MSNBC host Rachel Maddow not-so-subtly let her anger be known that parent network NBC will host a town hall event with President Donald Trump at the same time ABC will host a similar event with former Vice President Joe Biden."
+    publishedDateTime: 2020-10-14T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/14/msnbcs_maddow_to_kamala_harris_are_you_mad_that_trump_will_be_on_nbc_at_same_time_as_biden_on_abc.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/522176.jpg"
+        width: 1076
+        height: 806
+        isCached: true
   - title: "President Trump and Joe Biden Face Off in First 2020 Presidential Debate"
     excerpt: "Let the 2020 presidential debates begin! Tonight we'll see if all those days of calling a \"lid\" to do debate prep have paid off for Joe Biden. Or, if we're in for a night full of gaffes from the former vice president."
     publishedDateTime: 2020-09-29T14:44:00Z
@@ -3214,6 +3228,6 @@ related:
         height: 822
         isCached: true
 
-secured: "a2j53PTn8MkBR1p82+AK/rWQLJ/qtgSXvBCkvfm4VgI8gIyBIawuNzwyBEqKiKUK7jJOSja/2xGyUho5yEsKXdzZty/Kqn3Q0xb7mqbVlOGmqTEM4zDY/1JgzFRHHFzZNM0PDINd7d/cTR21w4ib9byiEYEGe/YVASSKCFJmXW++3rkUk2h2yY60673lolg9+9q8Ouna0iPUdZZrqRyCvBj+62o+sK3bTTx+WRuKNgbCcVkvvxR4hmOoYXlWP7wwDz2UNNYhfWk1uAiLdxAmdMM4+E0EqcjfH8gIxjJWkQlnp9bZGrOyPrnlmLOYm9ZA8rxjozV2z7JppCvZK2M44RwAZIjFqG6GvLLJ/JC87Ts=;dtarp2Z8LKj7V9vl4bMyBg=="
+secured: "ZrgBx3+I5xrSjIR0pjPOT4jG5NZZVh8gWy27/7Gf25u91tORJwMTWxWQgrhYRsrj3/OPY+eafINzQjxoK42hcS93OKSTQV6uT3c59H3DajJEn2K8c7aV2rFuJIN1VqvypqWizTxl2BmnO0njhQy92kVerw+sHyAIVZhBC6/y/mYMXoJp5L8dbbG0YRYJ78mXEuWfeny6hbcDrzTdZF31roJoez2GtQ8B5+KIVFeuH7qFBc826EV+Z7HPcMfHvkAXUJIWhiBhV0VqYRDUZlCKiBTle0pBsktodXB142Z5/D07lxhOQzVovypmqZveY/Eh0SWLaL0Zihg6nQVTE2xYTUjWnE1jTC9xFaubzksgK6PVzHSksiPx8NcNaI4WzJ3mJjJ67AVgL0UcK5MRFPO1mUypokRbFQWVBf5HWlfejyPUenIEO/JTGa1NrEVpfuzU+R1GUdoPQbcQjedCMif7LCtyocrRORE1P6isj+wRMyugFoRyzumgPoc57za4B6CNfsZNEgOHNGrep3zoOae5tQ==;hEaSKzLCqFupRrCOhYrYLA=="
 ---
 

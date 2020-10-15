@@ -73,6 +73,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amy Coney Barrett refuses to tell Kamala Harris if she thinks climate change is happening"
+    excerpt: "Supreme court nominee accuses Democratic senator of soliciting an opinion ‘on a very contentious matter of public debate’"
+    publishedDateTime: 2020-10-15T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/15/amy-coney-barrett-refuses-to-tell-kamala-harris-if-she-thinks-climate-change-is-happening"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/15/amy-coney-barrett-refuses-to-tell-kamala-harris-if-she-thinks-climate-change-is-happening"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/15/amy-coney-barrett-refuses-to-tell-kamala-harris-if-she-thinks-climate-change-is-happening"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
   - title: "Kamala Harris accuses Amy Coney Barrett of planning to ‘undo RBG’s legacy’ and to do the GOP’s ‘dirty work’"
     excerpt: "Kamala Harris, the Democratic vice presidential nominee, says Republicans are trying to get the Supreme Court to do their “dirty work” by installing a new justice who will overturn the Affordable Care Act."
     publishedDateTime: 2020-10-12T22:17:00Z
@@ -159,6 +170,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "seZ0S4hJVG8zaFzIXQQFHxwwx4H+6cCfdo2FTnuMwHoB8GEVetwMoqLc0Uns9YWzqxmfZk2N2numNjCy6xD5DGsh2xRVJjyh1MpIllRmu5yxxlPnK7MefUH8V/eE+4gh4UyY1jcAF7qYo+O8pRrdN4jkbhmUI3lwSZHRqs/dtD+Po+n0GXZjSl8UHFz56SfCqqoL+a5xwMVWWzkqZnnZm3siT3oxWKzfwJKlBjRUYBateQFN0brLElvgQgKsBzbdjNxHEOTdoBMw+kyK99rW8s6UWMFhnZGzY2PDGU1DgXf2g3ve30LubpauW6on90ER4ldWmQ/FPomGKuSM3QJIy/R6pyQ5ZH5A+pwkGUrSXrQ=;zKxtn0suUqGAXBkjulTT1w=="
+secured: "l6mndsCBFAV0LPJdYz5JyWDKLeS9mwEcKTsF9lfqODksbJ8pHHwAPScj6Kq4GnBhRkUFduDvdwtpz+ZP+itPh/XNJEILmXVCpobxGffT8o6QdMDjZ0GFffVLO1rA3kddqN4xbfSn5+xY5IYksOJQbnCyx4is9Ht65Mt2xLzzk6bWLAp61qB934emzi2/eDHOyMVh6chttDxfdnslLOwQCLsMPi3kzsMiYxzd8SsLVLots4ChhZnamh1jpcFp5AXA8rLNEy6ux4G7GeTcoIib5LxWLNUvs1q6hO7o46bqJ1q3z+++xBSKHzcpaR6/hhXLcaEtwUueYoKAZ5IsM7XAW2FNKo45rdZ9HWAcxmrX2npXlYLJirOsA5inr/6NCcXE6/dys2kih5bhSH2bqT1v1Z7ySTbXmStiTS53JMMnUSW9emT7uhmpp+rVDTKh8U+0XX4xxltHmpYIZPXle7y2JGjFIaQ1zKOtO73OAC6t+aeZoJtsUMv+w9PmN7QiYkj6dURnUIQrfEGt3VgUQ1KIrw==;9MbK6JHzvtFNTOxZm8I92g=="
 ---
 

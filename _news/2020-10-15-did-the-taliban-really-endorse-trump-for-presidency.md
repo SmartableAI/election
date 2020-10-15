@@ -1249,6 +1249,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "First lady unseen as Trump restarts campaign after COVID-19"
+    excerpt: "President Donald Trump and his wife received their positive COVID-19 tests on the same day. He's already returned to campaigning, but there's been no public sighting yet of the first lady. Melania Trump last provided a health update over a week ago after saying her symptoms were mild,"
+    publishedDateTime: 2020-10-15T07:22:00Z
+    webUrl: "https://www.chron.com/news/article/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    ampWebUrl: "https://www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "More than a third of Michigan Trump voters don’t even like him"
     excerpt: "A new poll out of Michigan doesn’t just show Democratic presidential nominee Joe Biden beating President Donald Trump — it also shows that a large chunk of Trump’s own voters don’t like his behavior."
     publishedDateTime: 2020-10-14T17:02:00Z
@@ -1605,6 +1621,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cHficTbxc02AZ8JW4NUwe6/erigvqsDoyc07fy70cvh5hnUFBQ06UDH7Y9Vd9Gh+I8NU1T5xIMxeCbtGq38Mf0Hcq7lzcjFZr8JjMx1i7sDAVVElL+MVs0o2lx39LLSrAzTCkKc68V81pzY71X7DGTyfTb98QeixIir1M6I88hvWXc/ogQI8Gjc7od1c91mKpJWLWFmM9Jt1WwvKuis2PjS4J3PKjr3vBbvBGh7IVuYZFG0qDoetIzXpAwF6sONuvlNseIjzxzk75KbkGDPGibRHwCTStiEwLSCo9RBWx0ZRzsEJnVlE2KYuMh3V8MtcMzn/8RSB2lT7gGqIFpK9+R4T07DpZ4br8iVg6XRgb2s=;ySZOvvc3ufYqD3Cg7maGBg=="
+secured: "FBlEOPamrkLrhgUm0/sjuUV+m34wUwHiRuO9KOlghlFDwJRViHYKD1tuZ3raSwajtdAQlMsTNS9S9QAwNRaz4tVDqQ6RCx1sN5lydf77YO21+d1djeLQDRZN/xVtRZwBNnNTKeIruhC+yeSBMCyAt1nS0HVB4fmsgCLNPPTUmiBkH0L4ECk0Hy68/iTmixuv+ew572JcRmwf89Tw2RcGag1hEQl66snPv7M0goh0KWzMpXhCjyAftjc2XgXGQLB3T/452rfOE7BlGf7ZjUjaYhML3Soz1ZB27fE2MxgB2T44mAF6fCpJty94K5oMBCqz77QPOZnj/ErhT26P7LEIY4hNB3KOR14whjP8te/Pgj6+35My2c+b9tdm+N1nykDcRjy8wQN3pFCAmDNehzem6h+DKEYF0a9YJKxahZLr5hmix/LiiCzxp/okXgzxEIWz4K/j46tpFofCEK7afIkjp9WRJx7UbMj2J3tvOHA2EUtjrD2b4Zcl7gPnkYiYf3gk9CW7VbK5LHrDHRYFZZ0tEw==;7Ypoa1AAH6OcX8KnfUQfnA=="
 ---
 

@@ -969,22 +969,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Split screen: Trump and Biden to headline dueling town halls"
-    excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
-    publishedDateTime: 2020-10-15T05:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2700H7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2700H7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2700H7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537533258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0AU"
-        width: 819
-        height: 545
-        isCached: true
   - title: "Trump says \"China will own the United States\" if Biden is elected"
     excerpt: "Mr. Trump said in a speech from the White House streamed online by economic clubs around the country that the economy was the strongest on record before the coronavirus pandemic, again promising vigorous economic growth if he is given another four years in office."
     publishedDateTime: 2020-10-14T18:38:00Z
@@ -1192,6 +1176,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Reuters/Ipsos poll shows Trump moving into statistical tie with Biden in Florida"
+    excerpt: "President Donald Trump pulled into a statistical tie with Democratic rival Joe Biden in Florida, one of the election's most important battlegrounds, but Biden's lead appeared to widen in Arizona, Reuters/Ipsos opinion polls showed on Wednesday."
+    publishedDateTime: 2020-10-15T03:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN26Z30H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Z30H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Z30H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201014&t=2&i=1537497533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9D1RP"
+        width: 877
+        height: 545
         isCached: true
   - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
     excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
@@ -4423,6 +4423,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/trump-biden-trips-illustrate-electoral-college-calculations"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-13/trump-biden-trips-illustrate-electoral-college-calculations?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-13/trump-biden-trips-illustrate-electoral-college-calculations?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Split Screen: Trump and Biden to Headline Dueling Town Halls"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
+    publishedDateTime: 2020-10-15T05:45:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

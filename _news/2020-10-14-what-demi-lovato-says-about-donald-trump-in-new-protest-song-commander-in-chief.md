@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/demi-lovato-trump-new-protest-song-commande
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/demi-lovato-trump-new-protest-song-commander-chief-lyrics-1539019?amp=1"
 type: article
 quality: 120
-heat: 121
+heat: 120
 published: true
 
 provider:

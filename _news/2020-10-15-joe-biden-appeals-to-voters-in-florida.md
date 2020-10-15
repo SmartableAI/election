@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden appeals to voters in Florida"
 excerpt: "Watch \"Joe Biden appeals to senior voters in Florida ahead of the election\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-14T23:22:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201015051330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
-webUrl: "https://www.cbsnews.com/live/video/20201015051330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+originalUrl: "https://www.cbsnews.com/live/video/20201015061330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+webUrl: "https://www.cbsnews.com/live/video/20201015061330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265015_1602739024.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265097_1602743404.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -296,6 +296,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "7L+JRDX5DSUjxHxHYTFaPi8uj4Tty+YB/u9QLSfb9JClm/RnnudKliyjalE9AuXzcPw/kSTTYx1dAPat7wHuYxRa9wtI7pZ6keYSi2xnxApJPiYiU4oNV4gc6zFsWKv+kjDEClOcupUgl4ERbDKwMrc4FggGHidWvY4bVPdzOIHSvLaFFxspo4/emgH2uNmYPam3n3anNoeIoQoVxn91cd7y9ihO8s5erTMqDhb79DW87CGYIzidMD13nowVVtllJNJvO4fQl5ZGJOAD/OFmrlDMhfuIOmneeslRvop3dbSxk1pBdQkpLQ4tv4ru4PX9al0GMHQlkvZDS8lywSRojdSZzFHhw0kAneXJOYgY6T8=;LVOcX04ap2Yq6ei+eLQLnQ=="
+secured: "SaZrOo0n1EtcKTwxpV2iIBpzX4rc9EMMgWAv3Nza8lPTS9w84f+4jpYQglM/pqrd8+QgvdCDlt6Ro1pxmHObfgapUVSeNhWEWGgzqK3tzZqwuNColnO4uaW7Aa8KEIxuHx4IEs7t3fzGvL7kjPKrQIaQjp3CQoKUxFgdy0kZ6lfaPVNVWFW5lIhhEPQdwGQSA1fzT0vMElSrVs/9sn1W+3RqlAxJJKWy0NocE7cCrNx0lXjpGglqEzxq+nCY7u886hezKmIYdv0b8amLebzT8NP+Dl4ktNx5GAC9A6wT7Q1RJTb/QloXxW9cdZhqmCUcYtgZzi2RseHr7GIpLn9RU3Ba77Ap6UbkR0F6NgpQpcM=;4giO8hNHIT5rpbpSrnW46w=="
 ---
 

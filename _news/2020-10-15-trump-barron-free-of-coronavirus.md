@@ -93,6 +93,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
+    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
+    publishedDateTime: 2020-10-15T01:57:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "lEDXidRMTMcWXFLav/ZjHaY633S8ZF5MgIZBUeoW8bExeNIIHqwubsvxoaaLqbkdnnP36SipBcMU+RJLEIuqk8Zbv8QrSYb42z5v9sBExPpl/yXSpICphHxz8p8MsYanO0fGvAAGuGrOT/2iqXoPQNCKOoydqCY9ENIITl1VeFk+xV+IagYOebTCqFe+b/WjmlYBx5lh+W6dHoa4il02/pm45FBqEFmsbVAdyv1DRSXQpEtjScmDDi/IOIbMYJZ0owghkTdVq/LWPYhlTgCdfDcy/sLMavQSLsGWDtQTh5yYvu7VZ4awFPum7v4p1McLkT3oNTUbmvobOrQcpq0NeAHpd8nz8Wlex0Eq456rH5w=;sQwLBBuFxZHirsFgJKMDCw=="
 ---

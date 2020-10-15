@@ -975,22 +975,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Split screen: Trump and Biden to headline dueling town halls"
-    excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
-    publishedDateTime: 2020-10-15T05:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN2700H7"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2700H7"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2700H7"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537533258&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0AU"
-        width: 819
-        height: 545
-        isCached: true
   - title: "Trump says \"China will own the United States\" if Biden is elected"
     excerpt: "Mr. Trump said in a speech from the White House streamed online by economic clubs around the country that the economy was the strongest on record before the coronavirus pandemic, again promising vigorous economic growth if he is given another four years in office."
     publishedDateTime: 2020-10-14T18:38:00Z
@@ -1198,6 +1182,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/30/USAT/4fa28ad1-5d1c-43fc-a7e9-8b1f22f18420-AP_Trump_Biden.JPG?auto=webp&crop=2999,1687,x0,y29&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Reuters/Ipsos poll shows Trump moving into statistical tie with Biden in Florida"
+    excerpt: "President Donald Trump pulled into a statistical tie with Democratic rival Joe Biden in Florida, one of the election's most important battlegrounds, but Biden's lead appeared to widen in Arizona, Reuters/Ipsos opinion polls showed on Wednesday."
+    publishedDateTime: 2020-10-15T03:17:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-battlegrounds-poll-idUSKBN26Z30H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Z30H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Z30H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 135
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201014&t=2&i=1537497533&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9D1RP"
+        width: 877
+        height: 545
         isCached: true
   - title: "Mike Pence and Kamala Harris Face-Off Tonight. Here's What to Expect From the Vice Presidential Debate"
     excerpt: "Pence will defend Donald Trump's response to COVID-19, while Harris will be asked to navigate outsized expectations"
@@ -4432,6 +4432,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Split Screen: Trump and Biden to Headline Dueling Town Halls"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls on Thursday instead of their second presidential debate, which was canceled after Trump declined to take part in a virtual matchup."
+    publishedDateTime: 2020-10-15T05:45:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-15/split-screen-trump-and-biden-to-headline-dueling-town-halls?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump, Biden In Competing Town Halls With President In Uphill Battle"
     excerpt: "Donald Trump and challenger Joe Biden will participate in duelling town halls Thursday instead of clashing face-to-face in their second debate, as the US president seeks to jolt his struggling campaign 19 days before the election."
     publishedDateTime: 2020-10-15T03:41:00Z
@@ -4840,6 +4851,6 @@ related:
       domain: c-span.org
     quality: 44
 
-secured: "pw8xwX0VuhI7zkmarYkM0M8Ry5vaZbM18cuPNqkM2/ZTNmi5A1O+J09zNC/V1fm6LWua+h5iSSwr4d0NW9IhdMNeT79GoR39qswI7UUsJPv3ipl6lZLvX1rFvvfgil63uZZzn/4G7IsYcyOOFENd22eUUag67QzJEjUuQ12Udmmu8JINZOhmYCJzZ49XhJOxLY92i9qXbJ31EoBQBX/6/l2eyGF7koOVhXBpMO90ZycgCeYHHmIZmJnHjRHOR1LIQeuA+DUE0pMVd64oyc+8XicP44//uEJQejCWoT7EplUOgpkkwUFEOTc1wX0SLAwPs8nGwEkbi4inYs+AtneF4DZ4d+TpLvuuxa22xULHyUM=;uDVHq+KXD3lh4COSpnXAhQ=="
+secured: "NM4c78G9CWK9pDFcugpdUdZh5nh8Bde/pYH4RjbhC3A+3r4+CbMFoakzoyh/f/Nr5mlHDPYoR9Tob50PH3+zzwvPWhCrVBeKgUSnZHAoO6aVmcNqQW9YWVNHQ5ihM52e1a23PecfhDX8jdnApozoDsLxepPeLFWvlRk5TOMAgh9hAJRgOx+GNtqZ8v8L253WOb/I/IB6Ud99qERWqV7qhUZYBeda1hp6kuD9TT01to40LxQJuXcHpv1mHKfLp+TbssVAAA6EooTxtPdzR2tFczpxDtxhQUVYMwsgVvEG/8EOGj2wWyzlbqmpuWLqsQ9wvaXWooMD4dGont8LD/UhDr5sbSEGC0Y2rFGQxpV3wNl4EtJfKCB/2bK99myi7g0td0YuA5rRlGWb9yCFQ2h04cGoq6Rzlql0YC3A7Uon1RmyKyhhazEo1VwwQ3e6dhu7eDBnLl3QUqT46fwWZq+/vbcowo6uq5AJZzkhSAsnKSPikXnOj1y1ktY+epSZRwTzl/K6F3cGDR/Nj0yL5IhybQ==;Rk37SVRQYnRIXnf0P45W4g=="
 ---
 
