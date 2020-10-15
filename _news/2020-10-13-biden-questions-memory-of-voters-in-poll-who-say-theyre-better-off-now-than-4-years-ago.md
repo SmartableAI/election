@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-knocks-the-56-of-voters-who-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good.amp"
 type: article
 quality: 165
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Joe Biden on What Voters ‘Deserve’"
-    excerpt: "He says he’ll give his view on Supreme Court-packing after he’s elected."
-    publishedDateTime: 2020-10-11T20:48:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-on-what-voters-deserve-11602449046"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-243323/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "a3mYSkFMMruveYzEdTiiaXYSqMGGQuzuHGcdiPf7ID4DvWl6BMyMlJxjJvLs3/NrWBVOYtyl6YWBXiLbTd85m79a4kpA+nIV5JFKZyt2AbmCyyj2yv8EGKNgD2E1n2vHpkNM4pKGy5Ix6j7aXRt7A/BrLM7d9h03u+ca3Vn1orCYhp/osLBvJXy8V+XXjEYQkLLrYBPyChmLc401JE5g6Zr3MDLNK32uPbrMEYa41Iua8RUh2nCdjhogVo/1F3wA+dJnONUE3h/3WsQjsvc7muYSO/GETPCWl2Ahk+kQPUVK8ZapmToxcb6pf5zCpG5VrXYE0Gkr6mRfl87+7Au8OimUhPGxxkSpRrNC69CU/v4=;09GUVKY1bMqXuvoaF2DCKw=="
 ---

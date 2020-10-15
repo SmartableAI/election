@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's claim that Barrett's SCOTUS confirmation process is \"not constitutional\""
+    excerpt: "In the lead up to Monday's confirmation hearings to install Judge Amy Coney Barrett on the US Supreme Court, Democratic presidential candidate and former Vice President Joe Biden raised concerns that the efforts to put Barrett on the court are unconstitutional and exemplify court packing.\n    \n"
+    publishedDateTime: 2020-10-13T17:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3JThIySjyK8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/biden-barrett-unconstitutional-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/biden-barrett-unconstitutional-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092125-07-barrett-hearing-1013-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden tops 270 in POLITICO's Election Forecast"
     excerpt: "To win reelection, Trump would now have to sweep five toss-up states, plus a “lean Democratic” state like Wisconsin or Pennsylvania."
     publishedDateTime: 2020-10-12T08:36:00Z

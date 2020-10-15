@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 295
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fauci reacts to Trump ad: This is disappointing "
-    excerpt: "Dr. Anthony Fauci told CNN's Jake Tapper the Trump campaign should remove their ad featuring his comments which he says were used out of context.\n    \n"
-    publishedDateTime: 2020-10-12T20:31:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ixi9o9c1GgA/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/12/dr-anthony-fauci-trump-ad-sot-tapper-lead-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012161149-dr-anthony-fauci-10122020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "The Point: Donald Trump doesn't want to fire Anthony Fauci. He wants him to quit."
     excerpt: "For a guy best known in pop culture -- prior to 2016 -- for telling people \"You're fired,\" Donald Trump doesn't actually like to fire people.\n    \n"
     publishedDateTime: 2020-10-13T14:37:19Z
@@ -110,22 +94,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "The Crowded, Competitive World of Anti-Trump G.O.P. Groups"
-    excerpt: "The Lincoln Project; Republican Voters Against Trump; 43 Alumni for Joe Biden. These groups and others have similar missions but engage in little coordination or sharing of resources."
-    publishedDateTime: 2020-10-12T10:17:00Z
-    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12gop-pacs-3/merlin_178325691_0634175d-ea34-4410-8dce-3065cd70e186-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
     excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."

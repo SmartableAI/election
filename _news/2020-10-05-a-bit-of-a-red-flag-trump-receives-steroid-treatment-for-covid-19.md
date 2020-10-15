@@ -96,22 +96,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump to hold public event at the White House on Saturday"
-    excerpt: "His first official public event since his hospital discharge is slated to feature presidential remarks on law and order, a White House official said Friday."
-    publishedDateTime: 2020-10-10T06:18:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/president-trump-make-public-remarks-white-house-saturday-n1242774"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242774"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242774"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417873/201006-donald-trump-balcony-jm-1130_8a2f2b23f83eea87f27d39fb7a180457.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Drugmaker says White House doctor described Trump treatment inaccurately"
     excerpt: "Dr. Sean Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
     publishedDateTime: 2020-10-05T17:22:00Z

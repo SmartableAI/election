@@ -32,149 +32,531 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Trump falsely tweets that Covid-19 is less lethal than the flu"
-    excerpt: "President Donald Trump has consistently downplayed the threat of the coronavirus in public, and it seems testing positive for the virus himself has not changed his tune.\n    \n"
-    publishedDateTime: 2020-10-06T16:30:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RrymOYiVtPI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/trump-flu-covid-lethal-tweet-fact-check/index.html"
+  - title: "Trump's lack of honesty on Covid hangs over his reelection bid"
+    excerpt: "President Donald Trump's refusal to tell America the truth about the pandemic in a bid to save his political skin, on display at a potential super-spreader rally in Iowa on Wednesday night, is fostering a vacuum in national leadership and crucial public health mobilization as a winter of sickness and"
+    publishedDateTime: 2020-10-15T10:51:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ljN9iFIgX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014163724-01-donald-trump-1014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How Trump's Covid-19 treatment is far different from what most American patients get"
-    excerpt: "If you get sick with Covid-19, don't expect to get the same treatment as President Donald Trump.\n    \n"
-    publishedDateTime: 2020-10-05T21:06:25Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ucHxPuXPqiU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/health/donald-trump-hospital-treatment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/health/donald-trump-hospital-treatment/index.html"
+  - title: "Barrett declines to commit to recusing herself from a Trump election case"
+    excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-13T16:14:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bI9j07W34fQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/barrett-recuse-presidential-election/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/barrett-recuse-presidential-election/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002112524-01-trump-barrett-0926-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Republican Massachusetts governor will not support Trump's reelection effort"
+    excerpt: "Republican Massachusetts Gov. Charlie Baker isn't backing President Donald Trump's reelection bid, his communications director Lizzy Guyton told CNN affiliate WCVB on Wednesday.\n    \n"
+    publishedDateTime: 2020-10-15T00:55:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QdNIefwzuXc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/republican-massachusetts-governor-charlie-baker-not-support-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/republican-massachusetts-governor-charlie-baker-not-support-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181115222512-charlie-baker-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's troubles weighing on Iowa Senate race as Joni Ernst fights for reelection"
+    excerpt: "Sen. Joni Ernst is feeling the October heat, with the potential path to the Senate majority -- and the White House -- suddenly experiencing an unexpected Iowa detour.\n    \n"
+    publishedDateTime: 2020-10-12T10:55:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qt2h1rKlknA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825182549-06-sen-race-rankings-joni-ernst-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump mocks virus as he launches potential superspreader sprint to win reelection"
+    excerpt: "Donald Trump on Monday launched a three-week quest to save his presidency, behaving as though the pandemic that has killed 215,000 Americans was already a memory in front of a packed-in crowd -- even amid chilling new warnings about the resurgent virus.\n    \n"
+    publishedDateTime: 2020-10-13T10:57:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KtPeQduE-Q0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-election-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump is only polling ahead in 1 battleground state"
+    excerpt: "CNN's John King breaks down the latest Electoral College projections three weeks away from the 2020 election as Joe Biden holds a double-digit lead in national polling average.\n    \n"
+    publishedDateTime: 2020-10-11T21:42:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lPL1MiSSoUM/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/11/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/11/electoral-college-outlook-biden-2020-king-ip-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011085324-electoral-college-outlook-biden-2020-king-ip-vpx-00000422-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump claims immunity, negative test without providing evidence"
+    excerpt: "President Donald Trump claimed, without providing evidence, that he has \"been tested, totally negative\" for Covid-19. In a phone call with supporters, Trump said that he's \"ready to go, I feel so good.\" He also claimed immunity from the virus in an earlier interview with Fox News. According to the Centers"
+    publishedDateTime: 2020-10-12T00:04:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_r7QmhZQvgE/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/11/trump-immune-negative-covid-19-test-claims-diamond-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009173159-trump-white-house-balcony-1005-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump launches frenzied campaign offensive hoping for a turnaround"
+    excerpt: "The next three weeks will likely amount to the busiest of President Donald Trump's tenure, at least in terms of schedule and travel, pushing the 74-year-old President fresh from his coronavirus hospitalization -- which included supplemental oxygen and a fever -- into a frenzied final campaign offensive.\n"
+    publishedDateTime: 2020-10-12T23:47:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/H5fi8inGUMQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-campaign-rallies/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump takes his Covid misinformation machine back on the road"
+    excerpt: "President Donald Trump takes his Covid denial tour back to the campaign trail Monday as the tense final stretch of an election now three weeks away gets a fresh jolt with Senate hearings on his Supreme Court pick Amy Coney Barrett.\n    \n"
+    publishedDateTime: 2020-10-12T10:31:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xDXFkd9SEDc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/donald-trump-coronavirus-election-2020-joe-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: The real reason Trump skipped 2nd debate"
+    excerpt: "On its face, President Donald Trump's immediate insistence that he would not participate in a virtual second debate made very little political sense. After all, he needs more chances to take on Joe Biden, as the former VP continues to rise in the polls. Upon further examination, though, Trump's decision"
+    publishedDateTime: 2020-10-13T15:17:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TUJM7EyoVR8/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/why-trump-skipped-virtual-second-debate-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013075920-the-point-trump-cancel-debate-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's task force invisible as cases surge again"
+    excerpt: "The often-at-odds collection of health experts and political figures who comprise President Donald Trump's coronavirus task force now appear less influential than ever as Covid-19 cases begin to spike again three weeks before Election Day.\n    \n"
+    publishedDateTime: 2020-10-14T21:01:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qiv8KjSa0L0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/task-force-coronavirus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/task-force-coronavirus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200901133420-pence-fauci-task-force-briefing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
+    excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
+    publishedDateTime: 2020-10-13T15:48:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FnK-zYHAmh0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-donald-trump-emoluments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-donald-trump-emoluments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200415152236-trump-hotel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump details Covid illness and reveals son Barron contracted it"
+    excerpt: "First lady Melania Trump detailed her experience with Covid-19 in an essay posted on the White House website, including that her son, Barron, 14, tested positive.\n    \n"
+    publishedDateTime: 2020-10-14T21:24:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W0Ik83p5hKI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/melania-trump-barron-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/melania-trump-barron-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Five false claims Trump made in his first speech since getting Covid-19 "
+    excerpt: "In President Donald Trump's first public event since his coronavirus diagnosis, he continued to mislead the public about the virus, his accomplishments and former Vice President Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-10T22:24:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y5F4s3PJ-3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/fact-check-trump-first-speech-coronavirus-diagnosis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/fact-check-trump-first-speech-coronavirus-diagnosis/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003122957-02-trump-doctors-presser-1003-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010144505-13-donald-trump-white-house-event-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House residence staff 'nervous' after Trumps test positive for Covid-19, source says"
-    excerpt: "Staff at the White House Executive Residence are feeling \"nervous\" over President Donald Trump and first lady Melania Trump testing positive for Covid-19, a source familiar with White House operations told CNN Friday.\n    \n"
-    publishedDateTime: 2020-10-02T13:53:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZetroAf4bP4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/white-house-residence-staff-covid-19/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/white-house-residence-staff-covid-19/index.html"
+  - title: "Supreme Court grants Trump administration's request to halt census count while appeal plays out"
+    excerpt: "The Supreme Court granted a request from the Trump administration to halt the census count while an appeal over a lower court's order that it continue plays out.\n    \n"
+    publishedDateTime: 2020-10-13T21:33:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JGn39xRDFiU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/supreme-court-census/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 165
+    quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200822112815-01-white-house-rose-garden-renovation-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200311103024-01-us-census-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "DeWine says White House did not contact him about possible Covid-19 exposure to Ohioans after Trump diagnosis"
-    excerpt: "Ohio Gov. Mike Dewine said Sunday that he has not been contacted by the White House about potential Covid-19 exposure in his state after President Donald Trump tested positive for the virus days after his Cleveland debate.\n    \n"
-    publishedDateTime: 2020-10-04T15:30:53Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a1O61N_8VG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/ohio-mike-dewine-trump-coronavirus-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/ohio-mike-dewine-trump-coronavirus-cnntv/index.html"
+  - title: "Democrats grill Barrett on health care and abortion as Trump pick refuses to say how she'll rule"
+    excerpt: "Democratic and Republican lawmakers will have an opportunity on Tuesday to question President Donald Trump's Supreme Court nominee Amy Coney Barrett during the second day of Senate hearings on her nomination, a highly anticipated moment that will mark the next stage in a contentious confirmation fight.\n"
+    publishedDateTime: 2020-10-13T17:23:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SnMvXPtTdts/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/barrett-supreme-court-hearing-day-two/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/barrett-supreme-court-hearing-day-two/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 156
+    quality: 162
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200710125719-mike-dewine-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013093554-06-barrett-hearing-1013-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Facebook removes Trump ads on refugees and Covid-19"
-    excerpt: "Facebook said Wednesday that it had taken down ads from the Trump campaign that claimed without evidence that accepting refugees from abroad would increase risks related to the coronavirus pandemic. “We rejected these ads because we don’t allow claims that people’s physical safety,"
-    publishedDateTime: 2020-09-30T21:46:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-removes-trump-ads-refugees-covid-19-n1241602"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241602"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241602"
+  - title: "Trump Funnels Record Subsidies to Farmers Ahead of Election Day"
+    excerpt: "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure."
+    publishedDateTime: 2020-10-12T20:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/trump-farmers-subsidies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/11/08/business/08DC-FarmAid-01/08DC-FarmAid-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
+    excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
+    publishedDateTime: 2020-10-12T15:49:00Z
+    webUrl: "https://www.cnn.com/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/us-russia-nuclear-agreement-push/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 142
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201112219-20190201-trump-putin-nuclear-arms-treaty-breaking-news-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "2020 Election Live Updates: Trump Is Back on the Trail. He Still Faces an Uphill Battle."
+    excerpt: "President Trump will hold a rally in Pennsylvania, as Joe Biden campaigns in Florida. Virginia’s online voter registration portal went down on the final day to register before the Nov. 3 election. Judges in Texas upheld an order limiting ballot drop boxes to one per county."
+    publishedDateTime: 2020-10-13T15:48:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/13/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 141
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/13/multimedia/13elections-briefing-VA2/13elections-briefing-VA2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
+    excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
+    publishedDateTime: 2020-10-10T15:38:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-fox-debates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/10trump-media/10trump-media-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump to hold public event at the White House on Saturday"
+    excerpt: "His first official public event since his hospital discharge is slated to feature presidential remarks on law and order, a White House official said Friday."
+    publishedDateTime: 2020-10-10T06:18:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/president-trump-make-public-remarks-white-house-saturday-n1242774"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242774"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242774"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2019_36/2737591/190201-trump-border-mc-901_9ead837eab538a44c958d642ab711e7e.JPG"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417873/201006-donald-trump-balcony-jm-1130_8a2f2b23f83eea87f27d39fb7a180457.jpg"
         width: 2500
         height: 1666
         isCached: true
-  - title: "Live updates: Trump's doctor walks back '72 hours' Covid diagnosis timeline"
-    excerpt: "Conley's statement today — and yesterday — described one of the president's coronavirus treatments as a polyclonal antibody cocktail, but the makers of the drug therapy told NBC News in an email that's the wrong term for the treatment."
-    publishedDateTime: 2020-10-03T19:52:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/live-blog/2020-10-03-trump-covid-n1241952/ncrd1241998"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1241952"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1241952"
+  - title: "Amateur hour at the Trump White House"
+    excerpt: "But recent days, in the wake of Trump being stricken with coronavirus, have highlighted just how the lurching improvisation th"
+    publishedDateTime: 2020-10-11T07:01:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/amateur-hour-trump-white-house-428533"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/amateur-hour-trump-white-house-428533"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5b/6e/900faecc43c1b4ecc44186cb9466/ap20282461941048.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Crowded, Competitive World of Anti-Trump G.O.P. Groups"
+    excerpt: "The Lincoln Project; Republican Voters Against Trump; 43 Alumni for Joe Biden. These groups and others have similar missions but engage in little coordination or sharing of resources."
+    publishedDateTime: 2020-10-12T10:17:00Z
+    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12gop-pacs-3/merlin_178325691_0634175d-ea34-4410-8dce-3065cd70e186-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Top general did not give his consent to be used in Trump political ad"
+    excerpt: "The photo featuring Joint Chiefs Chairman Gen. Mark Milley was used without the officer's \"knowledge or consent,\" according to a defense official."
+    publishedDateTime: 2020-10-12T22:52:00Z
+    webUrl: "https://www.politico.com/news/2020/10/12/top-general-trump-ad-consent-429112"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/4a/76/3cb3c08b4d08a2912bf81edf4f25/20200108-mark-milley-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "He Built a Trump Shrine and Prayed for His Health. Then He Collapsed."
+    excerpt: "Bussa Krishna, a farmer who called President Trump his god, stopped eating after Mr. Trump became infected with the coronavirus, his family said. He died on Sunday."
+    publishedDateTime: 2020-10-14T14:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/world/asia/india-trump-fan-dies.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/world/14virus-india-trump-1/14virus-india-trump-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
+    excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
+    publishedDateTime: 2020-10-12T17:31:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-chief-staff-mark-meadows-refuses-speak-reporters-mask-n1242990"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242990"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242990"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 133
+    quality: 132
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417207/201002-donald-trump-thumbs-up-ac-1137p_e9e41760b696155a0b9427bd1ce51fb5.jpg"
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3419420/201012-mark-meadows-se-100p_ffeb1013c4c4127403a6cc52d2414c26.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "The Trump tweet 'don't be afraid of Covid' is a betrayal of my father's memory"
-    excerpt: "The president's terrible diagnosis could have been an opportunity to right some of the wrongs he committed by denying the danger of the virus. Instead, he's making things worse."
-    publishedDateTime: 2020-10-06T08:39:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-tweet-don-t-be-afraid-covid-betrayal-my-father-ncna1242202"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242202"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242202"
+  - title: "Trump's Covid-plagued White House proves testing alone can't keep America safe"
+    excerpt: "Just like a pregnancy test cannot take the place of birth control, Covid-19 tests should not be seen as substitutes for robust public health strategies to reduce community transmission."
+    publishedDateTime: 2020-10-08T08:34:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-covid-plagued-white-house-proves-testing-alone-can-ncna1242448"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242448"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242448"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 131
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417702/201005-2x1-think-kristin-urquiza-ew-704p_721bf55af266e58488c46b95409e5ecb.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_41/3418291/201007-kayleigh-mcenamy-mn-1800_2a0decd2cdb852ed5136e004a4d332b6.JPG"
+        width: 2500
+        height: 1568
         isCached: true
-  - title: "Facebook and Twitter keep fact-checking Trump on voting by mail. He's undeterred."
-    excerpt: "The president has taken full advantage of the policies of Twitter and Facebook to spread election misinformation, making warning labels seem quaint in comparison."
-    publishedDateTime: 2020-09-29T17:24:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/facebook-twitter-keep-fact-checking-trump-voting-mail-he-s-n1241339"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241339"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241339"
+  - title: "‘Having really a protective glow means something’: Trump claims Covid immunity"
+    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
+    publishedDateTime: 2020-10-13T03:29:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 131
+    images:
+      - url: "https://static.politico.com/49/aa/ad2b2d124638b5caf4925848568e/20201011-trumpcovid-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "With Covid back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
+    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
+    publishedDateTime: 2020-10-11T08:33:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
     quality: 130
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3416056/200928-trump-twitter-main-mn-1335_6ba4260e0cd2d7ec3d8530d568032a84.jpg"
-        width: 3120
-        height: 1796
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_32a16910e24a32b24dab5713ac1d1f2e.jpg"
+        width: 2500
+        height: 1666
         isCached: true
-  - title: "After concerning early Covid symptoms, Trump faces critical days ahead, sources say"
-    excerpt: "The president praised medical professionals treating him at Walter Reed, writing on Twitter, \"With their help, I am feeling well!\""
-    publishedDateTime: 2020-10-03T23:25:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/trump-physician-provide-details-about-president-s-covid-19-condition-n1241973"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241973"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241973"
+  - title: "Palestinian premier: God help us if Trump wins reelection"
+    excerpt: "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians."
+    publishedDateTime: 2020-10-13T13:41:00Z
+    webUrl: "https://www.politico.com/news/2020/10/13/palestinian-premier-trump-reelection-429151"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/b0/75/45a81c794c91ac4282804a3be528/201013-palestine-prime-minister-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "White House physician says Trump tested negative for Covid-19 on consecutive days"
+    excerpt: "Ahead of his first campaign rally since being hospitalized for Covid-19, President Donald Trump’s White House physician Dr. Sean Conley released a memo on Monday stating the president had recently tested negative on consecutive days and is no longer contagious."
+    publishedDateTime: 2020-10-12T23:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/white-house-physician-says-trump-tested-negative-covid-19-consecutive-n1243045"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243045"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243045"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 129
+    quality: 130
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417259/201003-walter-reed-doctors-jm-1152_bc61361ccb1a2cefc800c37f890e2115.jpg"
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419523/201012-donald-trump-ew-631p_dc603b1683dc1d03bc128161b3eafc4f.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
+    excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."
+    publishedDateTime: 2020-10-09T09:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-gold-star-families-coronavirus-427875"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 129
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/ea54be74-dda6-4152-90ea-8bcbbf960c7b/e94d3d04-9b56-472d-98b4-c3b1f0003594/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "With Covid-19 back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
+    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
+    publishedDateTime: 2020-10-12T19:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_9fc607c761d753facfb519992ffa2491.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Why Trump's viral Covid and flu misinformation is hard for Facebook and Twitter to stop"
     excerpt: "A perfect storm of medical misinformation and political disinformation is creating new challenges for the press, for social media platforms and for the public. Take just the events of the last few days."
@@ -192,40 +574,122 @@ related:
         width: 2500
         height: 1633
         isCached: true
-  - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
-    excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."
-    publishedDateTime: 2020-10-04T08:35:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-covid-diagnosis-spawned-conspiracy-theories-showed-limits-resistance-ncna1241995"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241995"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241995"
+  - title: "Covid-19 Live Updates: Fauci Calls Out Trump Campaign Ad That Used Him Without Permission"
+    excerpt: "Trump claims his aggressive, experimental treatment was “pretty routine.” Surging infections are straining Nepal’s health system."
+    publishedDateTime: 2020-10-12T03:59:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/11/world/covid-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/us/politics/11virus-brief-fauci/merlin_177467937_72537b32-5c98-4fb4-ae54-a658777cc228-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump administration's latest Covid relief proposal to Dems gets closer, but hurdles remain"
+    excerpt: "Any deal would have to pass the Republican-led Senate and time is running out with just over three weeks until Election Day."
+    publishedDateTime: 2020-10-10T23:57:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/trump-administration-s-latest-covid-relief-proposal-dems-gets-closer-n1242835"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242835"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242835"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3417239/201003-donald-trump-walter-reed-jm-0944_0c66757de5217988a173bd6472543645.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3419097/201010-steve-mnuchin-mn-1650_2be1d9bfc1aa52efa11347b88c3855b5.JPG"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Christie tests positive for Covid-19 following Trump debate prep"
-    excerpt: "Chris Christie announced Saturday that he has tested positive for the coronavirus, the latest high-profile ally to President Donald Trump diagnosed in the past 48 hours. “I just received word that I am positive for COVID-19,"
-    publishedDateTime: 2020-10-03T18:16:00Z
-    webUrl: "https://www.politico.com/states/new-jersey/story/2020/10/03/christie-tests-positive-for-covid-19-following-trump-debate-prep-1320576"
+  - title: "Wife of Trump's labor secretary, who was at Barrett Rose Garden event, tests positive for Covid"
+    excerpt: "Secretary Eugene Scalia, the son of late Supreme Court Justice Antonin Scalia, tested negative on Friday night, according to the department."
+    publishedDateTime: 2020-10-14T02:40:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/wife-trump-s-labor-secretary-who-was-barrett-rose-garden-n1243291"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243291"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243291"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3419981/201013-eugene-scalia-patricia-scalia-ac-955p_ab824d5d28cb8a48892546505d3f8cb0.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "CDC changed report on Covid and kids after Trump official’s request"
+    excerpt: "Amid Trump’s push to reopen schools, Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
+    publishedDateTime: 2020-10-05T08:38:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/05/cdc-changed-report-on-covid-and-kids-after-trump-officials-request-1320225"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/96/d6/6e43418343498259c8990189ebb3/washington-covid-773-ap.jpg"
+      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
-    excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
-    publishedDateTime: 2020-10-06T20:33:00Z
-    webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
+  - title: "Trump keeps things brief in first public address since hospitalization"
+    excerpt: "President Donald Trump on Saturday made his first public appearance since returning from a three-day hospitalization due to coronavirus, addressing hundreds of Black and Latino supporters crowded together on the White House lawn."
+    publishedDateTime: 2020-10-10T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/10/trump-white-house-speech-coronavirus-428516"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/7d/90/2b7dc87d485486b1546ee723b41b/201010-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump boasts of Covid-19 immunity at his first rally since diagnosis"
+    excerpt: "President Donald Trump boasted about his Covid-19 immunity as he held his first rally since his diagnosis. Trump staged a vigorous return to the campaign trail as he walked to the podium in Sanford, Fla."
+    publishedDateTime: 2020-10-13T00:31:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/12/trump-boasts-of-covid-19-immunity-at-his-first-rally-since-diagnosis-1323600"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/28/c1/6bea5f084cdd8b115f699222313a/1020trump.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
+    excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
+    publishedDateTime: 2020-10-11T16:37:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/trump-covid-immunity-protective-glow-428661"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 111
+  - title: "Trump declares himself 'immune' to Covid-19. His doctors won't say when he last tested negative."
+    excerpt: "President Donald Trump on Sunday said he may have the \"protective glow\" of immunity from Covid-19 although it remains unknown when he last tested negative for the disease. In an extensive interview with Fox News' Maria Bartiromo,"
+    publishedDateTime: 2020-10-11T16:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-declares-himself-immune-covid-19-his-doctors-won-t-n1242851"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242851"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242851"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 102
+  - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
+    excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."
+    publishedDateTime: 2020-10-10T08:22:00Z
+    webUrl: "https://www.thedailybeast.com/heres-how-the-gop-can-get-rid-of-that-trump-stench"
     type: article
     provider:
       name: The Daily Beast
@@ -240,6 +704,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump Conceals COVID Test Info During Fake Fox News ‘Medical Evaluation’"
+    excerpt: "In one of his stranger spectacles to date, President Trump underwent a “medical evaluation” on Fox News Friday night that consisted of him boasting about how great he feels."
+    publishedDateTime: 2020-10-10T05:02:00Z
+    webUrl: "https://www.thedailybeast.com/trump-conceals-covid-test-info-during-fake-fox-news-medical-evaluation"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 44
 
 secured: "G9xu+she+75/R2XtArZ786gEwockc/tAcf7kGEOIclk8XdV8PiCOUFpkK/oS43whb6S9m6t6Ex0BgXQijF+X3hi8gScFxi83BROwABs2UJxlaiG/W6lW9KjS/374k78s8kBcE2kyL3KGlddwzjGRl1QWV82XEtY07Bh7Py8fZlGW8TFmTTIJUlHDCjqTNtC0eVx8rcZUNkGEXoAa4r/33qBHrgtSR0RSwO+6K6LmD87v3/naL4+yP0r9vu0RKIECh9ROm3TeSkfi18QgIKMW4jQfWIAf1H38vSHOi4WS9BTx+whb90nOp3LazHn0CL9nO7r3Ed6DIICQPji+EQEwdJrSZjO4WWzlY0JLrVUzxEdKCM44H+1c37GZPBrY/gYRAtnqdfvaNe0Md1I9LWmarmzHAYpMc++qnKb1PMRvcUcjyc4/n7O1iQYDKTg7NZUsoFGVO1wiI9PwBN+Z0J6AUYyiDRJ+OBTXpclD7wYJhb8RoWSF4T42UPfiDmqhAclyZw4ZGMGQuNDDw4FNHoyrfQ==;gw/fvZIRR54pUuQBHw4Fdw=="
 ---

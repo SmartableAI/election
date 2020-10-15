@@ -169,20 +169,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
-    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
-    publishedDateTime: 2020-10-10T21:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jimmy Kimmel mocks Donald Trump for holding rallies that could potentially infect his supporters"
     excerpt: "Jimmy Kimmel took aim at Donald Trump for continuing to campaign after his positive COVID-19 diagnosis and subsequent treatment."
     publishedDateTime: 2020-10-14T14:08:00Z
@@ -227,6 +213,15 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
+    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"
+    publishedDateTime: 2020-10-15T11:29:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/trump_is_doing_exact_opposite_of_what_he_should_be_doing_526384.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "lpd4TYo3VVy3Ho4Shg+TtXEAZTqFd4R0lC0Stxb5PbtBFIvxZR7x5EKvrgjs4EHKpgApca+WicwAvmW0eb8mA4ohSojsGTKbGH9skXybHw5Yi6XLrNpsVezrdR/OdFBFagDEfVYiTFNBBE//SbML2PzhhrLPy4x4sb7pFVuUdb6LL1Qzura5/vbOgCluopAWvVPD6WbgCe1xmV6NzLm49nkuhdS0XjIt0/fbuti1m6Wt00o/vD/NhpQUUsthcRVCT6uqwl4ZrcbEeUX2/SFPMTPs3wwh59oZQgHf5QDsgUrZwq2pIvZA7VYOrLDP1wlkoXUaMoqVaASS11c7uliJduYyvR71i6hDt2wvCs2JV+o=;fdZ7kFGW/OmL+C4A1Te7lA=="
 ---

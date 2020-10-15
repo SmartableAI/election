@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
 type: article
 quality: 179
-heat: 579
+heat: 599
 published: true
 
 provider:
@@ -93,6 +93,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris calls Barrett hearings 'illegitimate process,' says Republicans 'doing great harm'"
+    excerpt: "Sen. Kamala Harris, D-Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
+    publishedDateTime: 2020-10-15T13:34:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UM6C0Z8GyY8/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

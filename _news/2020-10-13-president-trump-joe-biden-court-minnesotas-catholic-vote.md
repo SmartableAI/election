@@ -1289,6 +1289,22 @@ related:
         width: 1892
         height: 1262
         isCached: true
+  - title: "NBC faces backlash after agreeing to Trump town hall adjacent to Biden's ABC town hall"
+    excerpt: "NBC News faced a backlash to its decision to host President Donald Trump for a town hall Thursday competing with ABC’s event with Democrat Joe Biden."
+    publishedDateTime: 2020-10-15T11:06:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/15/trump-town-hall-nbc-faces-backlash-over-competing-biden-abc-town-hall/3661571001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3661571001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3661571001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 132
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
     publishedDateTime: 2020-10-07T00:28:00Z
@@ -3498,6 +3514,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "The overlooked reason older voters will flock to Biden and help defeat Trump"
+    excerpt: "Older voters are blowing the political establishment’s collective mind. If you’d gone to a Washington, D.C., cocktail party just before the COVID pandemic and predicted that Donald Trump would lose older voters by nearly 30 points,"
+    publishedDateTime: 2020-10-15T09:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-overlooked-reason-older-voters-flock-biden-20201015-hp6jwppedbgfvp67e5f33a2siq-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-overlooked-reason-older-voters-flock-biden-20201015-hp6jwppedbgfvp67e5f33a2siq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-overlooked-reason-older-voters-flock-biden-20201015-hp6jwppedbgfvp67e5f33a2siq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 87
+    images:
+      - url: "https://www.nydailynews.com/resizer/TDG17W4o9QrIK7TQRGAn9XX_rPE=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/J2V6QC4X5NHTXAE4KWS6KZRZQI.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
     publishedDateTime: 2020-10-06T16:10:00Z
@@ -4534,6 +4566,20 @@ related:
       - url: "https://thumb.spokesman.com/vWbs-LUKxWAFftn1PUJf0kTQCfg=/1200x0/media.spokesman.com/photos/2020/10/13/201014_OnTheIssues_CherGraphic.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris struggles to contain her laughter when asked about the fly on Mike Pence's head"
+    excerpt: "Kamala Harris has been asked about the now-famous fly that landed on Mike Pence's head during the vice presidential debate and her laughter said it all. Speaking to Rachel Maddow on MSNBC, the vice-presidential nominee couldn't restrain her laughter when the topic of the fly was brought up."
+    publishedDateTime: 2020-10-15T10:48:00Z
+    webUrl: "https://www.indy100.com/article/kamala-harris-mike-pence-fly-head-rachel-maddow-9722316"
+    type: article
+    provider:
+      name: indy100.com
+      domain: indy100.com
+    quality: 69
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/10/15/10/khrm.png"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "The vice presidential debate between Mike Pence, Kamala Harris is tonight. Here's how to watch"
     excerpt: "Vice President Mike Pence and vice-presidential nominee Kamala Harris will face off in a debate tonight after a \"chaotic\" first presidential debate last week. USA Today's Washington bureau chief Susan Page will moderate."

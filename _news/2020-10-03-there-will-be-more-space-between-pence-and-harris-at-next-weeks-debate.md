@@ -1529,6 +1529,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Why Trump won't commit to keeping Bill Barr on in a second term"
+    excerpt: "What Trump is effectively arguing is that Barr simply isn't corrupt enough, which is quite an argument for an incumbent to make this close to Election Day."
+    publishedDateTime: 2020-10-15T12:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/why-trump-won-t-commit-keeping-bill-barr-second-term-ncna1243499"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_31/3400221/200727-think-donald-trump-william-barr-ew-752p_f76bb8841c3cd6983aa701e72cd20499.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
     excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."
     publishedDateTime: 2020-09-18T03:18:00Z

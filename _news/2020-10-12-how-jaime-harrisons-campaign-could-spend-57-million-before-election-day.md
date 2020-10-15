@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus "
+    excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-15T13:58:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Full interview: Senator Kamala Harris talks with Rachel Maddow"
     excerpt: "Senator Kamala Harris, Democratic vice presidential nominee, talks with Rachel Maddow about the campaign, the coronavirus, the Supreme Court, and a certain fly."
     publishedDateTime: 2020-10-15T04:58:00Z

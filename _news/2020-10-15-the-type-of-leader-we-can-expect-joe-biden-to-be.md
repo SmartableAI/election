@@ -30,143 +30,93 @@ images:
     isCached: true
 
 related:
-  - title: "Tara Reade penning memoir on coming forward as a Biden accuser, will be released before election"
-    excerpt: "Tara Reade is writing a memoir about the turbulent journey she has taken since coming forward with her 1993 sexual assault allegation against her former boss Joe Biden."
-    publishedDateTime: 2020-10-13T19:55:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tI1hfsMtCxM/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release"
-    ampWebUrl: "https://www.foxnews.com/politics/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release.amp"
+  - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
+    excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzLonAcbMQg/trump-north-carolina-biden-fundraising-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 177
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-9.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Pelosi, Schumer mum on court packing as Biden refuses to give stance"
-    excerpt: "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer have been mum on whether they are in favor of packing the Supreme Court should Democrats win the presidency and reclaim the majority in the Senate"
-    publishedDateTime: 2020-10-12T10:53:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P1WsAsw7xAE/pelosi-schumer-court-packing-stance"
+  - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
+    excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
+    publishedDateTime: 2020-10-11T18:56:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 162
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/pelosi-schumer-3-AP.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden is silent now on court-packing stance, but in 1983 he called it a 'bonehead' idea"
-    excerpt: "Democratic nominee Joe Biden and his running mate Kamala Harris have been mum on the question of court-packing should they win the November election, but in 1983 Biden was much more outspoken on the issue, calling it a “bonehead idea.”"
-    publishedDateTime: 2020-10-12T01:52:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yVRNthjn9E8/biden-court-packing-stance-1983-bonehead-idea"
+  - title: "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled"
+    excerpt: "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  "
+    publishedDateTime: 2020-10-12T14:12:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 147
+    quality: 153
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
-        width: 1024
-        height: 683
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-1229022717.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Joe Biden Raised $383 Million in September, Breaking Earlier Record"
-    excerpt: "Democratic presidential nominee Joe Biden’s campaign surpasses the record-breaking haul it collected a month earlier, raising funds that will allow it to run a large advertising campaign in the final weeks before the Nov."
-    publishedDateTime: 2020-10-15T02:17:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-raised-383-million-in-september-breaking-earlier-record-11602728035"
+  - title: "Joe Biden: The Economic Growth Candidate?"
+    excerpt: "It’s hard to see how Joe Biden’s tax plan would grow anything except the government."
+    publishedDateTime: 2020-10-09T00:02:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-245257/social"
+      - url: "https://images.wsj.net/im-240642/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
-    excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
-    publishedDateTime: 2020-10-14T14:59:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-media-scrutiny"
-    ampWebUrl: "https://www.foxnews.com/media/joe-biden-media-scrutiny.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-media-scrutiny.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
-    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
-    publishedDateTime: 2020-10-12T09:56:00Z
-    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
-    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Why the media are suddenly chattering about Joe Biden’s cabinet"
-    excerpt: "Presidential candidates are often warned not to measure the drapes, a reminder that first they have to actually win the election before sitting in the Oval Office."
-    publishedDateTime: 2020-10-15T07:06:00Z
-    webUrl: "https://www.foxnews.com/media/why-the-media-are-suddenly-chattering-about-joe-bidens-cabinet"
+  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
+    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
+    publishedDateTime: 2020-10-10T21:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51d99e9d-2348-4159-b7e7-ef8098459278/3793768e-4384-47e5-82f8-e1c4adc81a5a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
-    excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
-    publishedDateTime: 2020-10-13T04:01:00Z
-    webUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920"
-    ampWebUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
+  - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
+    excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
+    publishedDateTime: 2020-10-12T13:15:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-court-president-senate-andrew-mccarthy"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 81
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week"
-    excerpt: "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will"
-    publishedDateTime: 2020-10-12T16:30:00Z
-    webUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900"
-    ampWebUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 72
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
-        width: 650
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "K/q9aUuFpsoX6rVGy7CgKQQsZhs15QlglYim9rksmw1rPxazH+TUOXbe9IWBgntnlVwqShHnfgkLwQdOceY0Hxdux4gdAoe9ZGII1U5UZy3X0V6VsB5sJX/RgJ4zSvmUCPR2u3quPvWhrp5HDLviNVdQASJTuE/TQh/OMou7SCEi2R6gWOsR+PXCIDxhA+jVR5LI1W4fx8g7vyzFAKbqd56+LdwhP0LlK+ldYUEyxBTAi2GNkgjBdYCOyZaDNc+7UBdgXR8r82e5tPjBaHjnyGC7g1qe2eXEL7KCbCK6+B9XPZKU/uak7o8ALrHqO/v4bdwws76onl9NMZq4tFcIq9kq/26zz2mpqSVmgxw8hkA=;VNru22prLmsj5bVfCU4osw=="

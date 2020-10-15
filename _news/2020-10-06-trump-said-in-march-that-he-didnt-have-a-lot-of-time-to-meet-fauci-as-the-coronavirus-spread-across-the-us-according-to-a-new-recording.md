@@ -109,6 +109,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
+    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
+    publishedDateTime: 2020-10-15T12:32:00Z
+    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
+    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "uCh7fTLHM/UrvwLzbuJ5NRC6VZrAbSkDMjCWfG9XFrxJ44f9QFgU7nb5HDnbFQ8FE3YeoGRX++aTp5Fo3y3AJ38a6NMXuY//ua5xSx/NlOIsR+/PLkx20WPaut/DLf8PXFU5/pWMWOOLltFjdlbHtSXtGyxj1ATZCYcXNY5alLc8Sv6c/3dQnifSIqzwA5/5lpQuNKM51RLrXp2SYnfr4hu48OGk+xpaYoKIyp2DdY23DO7vPaAaevBnjeE8g7SJF47gZ2Rv4lnoo79TdUOA5bHx4N4103JNfZKDK2kHS7vjzlxsYtFTHx6u9iMruzY05MX2SQTJzRa/X5QXqqDYeXmtn4EO7/zMW59ZUmKNtd0=;V2p/BeccE9SiAsMmcfKxjQ=="
 ---

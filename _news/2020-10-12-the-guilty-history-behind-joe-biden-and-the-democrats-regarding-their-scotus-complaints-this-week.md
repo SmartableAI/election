@@ -124,6 +124,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
+    excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
+    publishedDateTime: 2020-10-15T11:07:00Z
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
+    ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Why the media are suddenly chattering about Joe Biden’s cabinet"
     excerpt: "Presidential candidates are often warned not to measure the drapes, a reminder that first they have to actually win the election before sitting in the Oval Office."
     publishedDateTime: 2020-10-15T07:06:00Z
@@ -137,6 +153,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/51d99e9d-2348-4159-b7e7-ef8098459278/3793768e-4384-47e5-82f8-e1c4adc81a5a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "How the Biden Campaign Responded to the Hunter Email Story"
+    excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
+    publishedDateTime: 2020-10-15T11:30:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/e0f89a19-216e-468f-8b8e-f8c571a1ad1b.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
     excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
@@ -154,20 +186,24 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "The Type of Leader We Can Expect Joe Biden to Be"
-    excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
-    publishedDateTime: 2020-10-14T23:30:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/14/the-type-of-leader-we-can-expect-joe-biden-to-be-n2578085"
+  - title: "Notice Biden Camp Isn't Denying the Facts on Sleazy Scoop"
+    excerpt: "Notice that Joe Biden and his campaign aren't disputing the basic facts The Post has uncovered about Hunter Biden's cashing in on his dad's high office. The ex-veep called a lid for the day at 9:… That was when Democrats owned the House for 42 years straight,"
+    publishedDateTime: 2020-10-15T12:31:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/notice_biden_camp_isnt_denying_the_facts_on_sleazy_scoop_526449.html"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 65
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
-        width: 1280
-        height: 720
-        isCached: true
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "So Biden Lied All Along About Influence-Peddling"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/so_biden_lied_all_along_about_influence-peddling_526404.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "pugDTvqY01irOlHeiJqvpP8aBCO7L7/GnOnn6HEHHhSNLPBAMobMFOdPjbhZXCKO/4wKGFSww4LnOWpH1mhsEFRW+8tQUFM1I2Ih4WdHrXGTeqaFIXrXtziO7x6PlBdMDCEpWFj876Gq21R96oxk30vs4zDoa4CwdSUZ9c8HC4RzD1oB8wLioR0LdfkVgU+QTqeQJinuhNDFBOnqnnoQ79pQQWTdZald2ba7tHnFu4SVIZQGEhqvqMISgESyzl5C6eAhT50w7tPv+ENPQALRoUk4SO0+ZQlibGtV0u7ajr1QGYK6mw4bfpZWKz0+IC+i3iDVBvMFkQnHFs4RfIN0BzcOcGZ+7/1GvTvQusKk+6+CjK6PVSIOSPH5cq4hww8AruwBAJWHLtX3A4OB71xQQWBCx/4ItrAFUogqHJ546fWtx4nT4sTeEZIaeGZn0AQv5pO2Pbz1arT/HUhsIbhf/huyLQ+z+5cc7cOhQkFKnmknwoIYRifr0RIEbMBg2IlTguyO/J9ValCnVp+Ha+gYWg==;KKt5d4F3KvJkXlZSBrGk2g=="
 ---

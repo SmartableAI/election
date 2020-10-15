@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2303
+heat: 2323
 published: true
 
 provider:
@@ -1526,6 +1526,20 @@ related:
     quality: 115
     images:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Why Trump won't commit to keeping Bill Barr on in a second term"
+    excerpt: "What Trump is effectively arguing is that Barr simply isn't corrupt enough, which is quite an argument for an incumbent to make this close to Election Day."
+    publishedDateTime: 2020-10-15T12:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/why-trump-won-t-commit-keeping-bill-barr-second-term-ncna1243499"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_31/3400221/200727-think-donald-trump-william-barr-ew-752p_f76bb8841c3cd6983aa701e72cd20499.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

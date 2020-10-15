@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-w
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/trump-campaign-rallies-wisconsin/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,34 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417533/201006-walter-reed-conley-mn-1035_82dc2393430328076e52325588f463c9.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "As Trump returns, West Wing becomes 'a ghost town'"
+    excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
+    publishedDateTime: 2020-10-06T15:07:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-returns-west-wing-becomes-ghost-town-ncna1242264"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_19/3340706/200507-white-house-building-ew-1119a_33a885892bd1f34f74ced0dd2d0969a4.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "+dJ/Lc2P5oslqT5SFiMGFvN8+GGzFC5LQ3wxUcSxwl/jQtaMk4DR+ncD9I/Pv3ZiIAKkXVf55pbP2jZNFyyMRhygElcFVjyj30DF/OeuLypnKskMQKTWK6TE2+K72HsCdFa4YthUR/r26X7oF9q6A22HPNd/58PeAZKEy7Jv0wmrV0TYANCUrASdzyBbGh/q6lDGq9/DSB6u5dmy8jP3d+2RjOPboYmWHwXX2S2AwnXCGjsWJdjE2wj5QFs72LXvb3fUp5q/dnv0GnxLa5kSGlNR1Z1e/fFn/3g4+3RUYPCczFfaA8nxOBZTeLjpIVAZYkIAn16STMJFkjZt9eOT950tXg02HzfBZw51IKoYZiM=;wrMGoctchYEOxMqgHyCQKw=="

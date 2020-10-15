@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 things to look for in tonight's Trump and Biden town halls"
+    excerpt: "Competing town halls on Thursday night will have President Donald Trump and his Democratic challenger, Joe Biden, facing tough questions from voters, but viewers at home will be forced to choose which one to watch live.\n    \n"
+    publishedDateTime: 2020-10-15T10:04:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zubzjULaq7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917215331-trump-biden-town-hall-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z
@@ -172,6 +188,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200911133241-trump-biden-split-0911-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaigns on strengthening the Affordable Care Act as Trump undermines it"
+    excerpt: "President Donald Trump is seeking to paint Joe Biden's health care plan as socialized medicine that would eliminate private insurance coverage.\n    \n"
+    publishedDateTime: 2020-10-15T11:07:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8q5n0t9_zC4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001093441-joe-biden-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -955,6 +987,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
+    excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
+    publishedDateTime: 2020-10-15T09:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump takes shot at Sen. Murkowski"
     excerpt: "Privacy Policy President Donald Trump took a swipe Sunday morning at Alaska Sen. Lisa Murkowski, who is perceived as one of the GOP senators most likely to vote against Trump’s Supreme Court pick in coming weeks."
     publishedDateTime: 2020-09-20T13:26:00Z
@@ -1130,20 +1176,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/f3f90cbd-4058-44d2-a28b-23a97e428684/0cac5bc9-8962-47a2-8917-c43bb02ea66d/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
-    excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
-    publishedDateTime: 2020-10-15T09:13:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 127
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "‘Cindy can have Sleepy Joe!’: Trump targets McCain’s widow after Biden endorsement"
     excerpt: "The attack comes after Cindy McCain tweeted that there is “only one candidate” in the presidential race “who stands up for our values as a nation.”"

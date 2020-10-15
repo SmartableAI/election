@@ -96,6 +96,34 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "As Trump returns, West Wing becomes 'a ghost town'"
+    excerpt: "When a White House official slams Trump as \"selfish\" for returning to a White House \"cesspool,\" there's clearly a problem."
+    publishedDateTime: 2020-10-06T15:07:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-returns-west-wing-becomes-ghost-town-ncna1242264"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_19/3340706/200507-white-house-building-ew-1119a_33a885892bd1f34f74ced0dd2d0969a4.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump hits the final sprint with an economy facing withdrawal"
+    excerpt: "The president’s approval rating on the economy remained his bright spot. But he darkened that outlook by shutting the door on a comprehensive economic aid package just as millions of Americans start voting."
+    publishedDateTime: 2020-10-07T19:20:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-economy-withdrawal-427360"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/a4/b3/07014c8046ed9a88a87f549fbaa1/ap20280831002575-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "M2TYf3bDbBUB8fvEK+9vxYHow7/sIBH3OFGkD6PDclcxwzPhmHOol9CJapxbZ4cVw9qVUEOtRzVCTdcJb1k3tq9d7M3tsrNSjbBqGzf4zD2XTOTtvUn8dWL4QPYeuPVKh5kUVIQQ3wpoFgvlEHFrHAsUET0T0S6GvI594kKGxCceFW4A1jN6cloHDhpNpU3Hs2HpEIT2srSrzEOaLXCArb8yCibmeu9qncIHMh2PaffClK8taj68bzEqPzW2rE3dIs0HXUpJf3AAug8ojuWRPYoZLX2MeA4PQ7qNCgP0VFuUbeZdQgHKNPCITjljb04BXmJA/4EYxJKxRT2wgKReKgjhym0XrXT71nZzet1ghxU=;2p277ijbcixkobGGAQHJoQ=="
 ---

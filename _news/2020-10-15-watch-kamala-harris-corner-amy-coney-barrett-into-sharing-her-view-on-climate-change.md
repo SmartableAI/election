@@ -47,17 +47,17 @@ related:
         isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
-    publishedDateTime: 2020-10-15T00:44:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-54549447"
+    publishedDateTime: 2020-10-15T07:14:00Z
+    webUrl: "https://www.bbc.com/news/video_and_audio/video_experience_headlines"
     type: article
     provider:
       name: BBC
       domain: bbc.com
     quality: 99
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08vb7l0.jpg"
-        width: 400
-        height: 225
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14BD7/production/_114915948_p08vb7l0.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Senator Kamala Harris: Republicans trying to \"jam through\" Amy Coney Barrett nomination"
     excerpt: "At confirmation hearings for Supreme Court nominee Amy Coney Barrett, Senator Kamala Harris accused her Republican colleagues of attempting to \"jam through\" approval before Election Day, and warned that the Affordable Care Act and numerous rights Americans rely on are at risk."

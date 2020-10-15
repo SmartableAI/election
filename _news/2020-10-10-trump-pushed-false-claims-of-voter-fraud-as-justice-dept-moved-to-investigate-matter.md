@@ -304,6 +304,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump tries to prove he's back in fighting form in freewheeling Fox Business interview"
+    excerpt: "President Donald Trump returned to form on Thursday morning, engaging in a freewheeling, 55-minute interview on Fox Business in which he made bold claims about his health and coronavirus in general just days after announcing he had contracted the deadly disease."
+    publishedDateTime: 2020-10-08T16:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/trump-medical-condition-id-love-to-do-a-rally-tonight-427936"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 127
+    images:
+      - url: "https://static.politico.com/f9/8b/3ab7a55f40caacae2c7f314a0e1d/ap20279851367783.jpg"
+        width: 4145
+        height: 2763
+        isCached: true
   - title: "Trump 'doing very well' during first night at Walter Reed hospital for Covid-19 treatment"
     excerpt: "WASHINGTON — President Donald Trump, who has Covid-19 and was taken to Walter Reed National Military Medical Center on Friday, is \"doing very well\" and has not required any supplemental oxygen, his physician said Friday night."
     publishedDateTime: 2020-10-03T06:10:00Z
@@ -319,36 +335,6 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3417089/201002-donald-trump-cs-405p_f7ec29fb41e9828b420a325e8de84b79.jpg"
         width: 2500
         height: 1666
-        isCached: true
-  - title: "Trump administration's latest Covid relief proposal to Dems gets closer, but hurdles remain"
-    excerpt: "Any deal would have to pass the Republican-led Senate and time is running out with just over three weeks until Election Day."
-    publishedDateTime: 2020-10-10T23:57:00Z
-    webUrl: "https://www.nbcnews.com/politics/congress/trump-administration-s-latest-covid-relief-proposal-dems-gets-closer-n1242835"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242835"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242835"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 125
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3419097/201010-steve-mnuchin-mn-1650_2be1d9bfc1aa52efa11347b88c3855b5.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "CDC changed report on Covid and kids after Trump official’s request"
-    excerpt: "Amid Trump’s push to reopen schools, Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
-    publishedDateTime: 2020-10-05T08:38:00Z
-    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/05/cdc-changed-report-on-covid-and-kids-after-trump-officials-request-1320225"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Live updates: Trump spends first night at Walter Reed for Covid-19 treatment"
     excerpt: "President Donald Trump and first lady Melania Trump have tested positive for Covid-19, the president announced early Friday. Trump was transported by helicopter to Walter Reed National Military Medical Center on Friday evening as a precautionary measure recommended by the president’s physician,"

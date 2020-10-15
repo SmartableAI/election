@@ -29,35 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "GOP-led committees release interim report on Hunter Biden, Burisma probe"
-    excerpt: "The Senate Homeland Security and Finance Committees on Wednesday released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas firm Burisma Holdings."
-    publishedDateTime: 2020-09-23T11:00:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VncsYdW3D8/senate-committees-report-hunter-biden-burisma-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-committees-report-hunter-biden-burisma-probe.amp"
+  - title: "Hunter Biden tried to cash in big with Chinese firm, emails suggest"
+    excerpt: "Hunter Biden pursued lucrative deals involving China’s largest private energy company — including one that he said would be “interesting for me and my family,” emails obtained by The Post show."
+    publishedDateTime: 2020-10-15T11:40:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oozW-bMIoZU/hunter-biden-chins-firm-emails-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Twitter's public policy director leaves to join Biden transition team: report"
-    excerpt: "A former Democratic operative has reportedly left his post as Director of Public Policy at Twitter in order to join former Vice President Joe Biden's transition team."
-    publishedDateTime: 2020-09-18T01:51:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-RyrY5bT-q8/twitters-carlos-monje-biden-transition-team"
-    ampWebUrl: "https://www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitters-carlos-monje-biden-transition-team.amp"
+  - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
+    excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
+    publishedDateTime: 2020-10-15T04:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9gw-1GL3lwc/hunter-biden-emails-report-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49fb02d7-42d4-4cda-b4d8-23f4c137a0bf/ec1a6b40-1aa9-4451-bf81-d543fe7d2cc1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden introduced Burisma adviser to VP dad before Ukraine pressure, email shows"
+    excerpt: "Hunter Biden introduced his father, then-Vice President Joe Biden, to a top executive at a Ukrainian energy firm less than a year before the elder Biden pressured government officials in Ukraine into firing a prosecutor who was investigating the company, according to emails obtained by The Post."
+    publishedDateTime: 2020-10-14T10:34:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNyVsxUf6_U/hunter-biden-ukraine-burisma-adviser-email"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -77,111 +93,161 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Kim Strassel: New report reveals Biden's 'wink-nod' approach to Hunter's business dealings overseas"
-    excerpt: "The Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden raises \"the many and disturbing conflicts of interests\" surrounding Joe Biden's time as vice president."
-    publishedDateTime: 2020-09-23T21:40:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Dv3-Io5RMz4/kim-strassel-report-joe-biden-hunter-burisma"
-    ampWebUrl: "https://www.foxnews.com/politics/kim-strassel-report-joe-biden-hunter-burisma.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kim-strassel-report-joe-biden-hunter-burisma.amp"
+  - title: "Hunter Biden email story: Computer repair store owner describes handing over laptop to FBI"
+    excerpt: "The man, John Paul Mac Isaac, said he has a condition that affects his vision and “can’t be 100 percent sure” it was Hunter Biden who dropped off the computer for repair."
+    publishedDateTime: 2020-10-15T01:46:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7WfoHO2NuM/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92ff3a78-95fa-4a07-a67e-292b1bff8b33/1248ee8c-46cc-47c5-8108-66963ea9403f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Sen. Rand Paul says Homeland Security panel will refer report on Bidens, Ukraine to DOJ for criminal probe"
-    excerpt: "Sen. Rand Paul, R-Ky., plans to refer the Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden's overseas business dealings to the Department of Justice later this week, he told \"The Story\" Wednesday."
-    publishedDateTime: 2020-09-24T01:02:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jN5jZMvSLms/hunter-biden-ukraine-report-rand-paul-doj"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-report-rand-paul-doj.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-report-rand-paul-doj.amp"
+  - title: "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings"
+    excerpt: "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings."
+    publishedDateTime: 2020-10-14T19:10:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 163
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/266461df-8794-4d98-be86-2425c244ad81/54724120-a4c0-4e18-9616-844290c00fe2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "GOP report claims Hunter Biden paid women linked to ‘prostitution or human trafficking ring’"
-    excerpt: "Among the deluge of explosive allegations set forth in the joint Senate Homeland Security and Government Affairs Committee with the Senate Treasury Committee's long-awaited report concerning the Biden family's conflicts of interest, the committees wrote that Hunter Biden, 50, may have implicated himself"
-    publishedDateTime: 2020-09-25T20:32:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7nokf_Cc4LU/hunter-biden-gop-report-claims-prostitution"
+  - title: "Hawley wants Twitter, Facebook to come before Senate following censorship of Hunter Biden report"
+    excerpt: "Facebook and Twitter showed Wednesday that they \"want to rig an election,\" Senate Judiciary Committee member Josh Hawley, R-Mo., told \"The Ingraham Angle\" after the social media giants censored or blocked dissemination of a bombshell New York Post report on Hunter Biden."
+    publishedDateTime: 2020-10-15T04:24:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3CVjs2rUHio/twitter-facebook-hunter-biden-censorship-hawley"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 144
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4053a9f-fe88-449f-9578-0e27623a44c4/79de0b82-b72d-4062-9aa5-e47de07220ec/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Senate Republicans’ Probe of Joe and Hunter Biden Nears Completion"
-    excerpt: "The forthcoming report from a GOP-led Senate investigation of the work Joe Biden and his son did in Ukraine is set to renew a partisan battle over an issue that was central to President Trump’s impeachment."
-    publishedDateTime: 2020-09-22T03:13:00Z
-    webUrl: "https://www.wsj.com/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
-    ampWebUrl: "https://www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/senate-republicans-probe-of-joe-and-hunter-biden-nears-completion-11600720533"
+  - title: "Fox News obtains email sent to Hunter Biden requesting his help as Ukrainian gas company was being probed"
+    excerpt: ""
+    publishedDateTime: 2020-10-14T18:07:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xi16cImlSg/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hunter Biden emails under investigation by Senate Homeland Security Committee after hard-drive report emerges"
+    excerpt: "The Senate Homeland Security and Governmental Affairs Committee is investigating newly released emails which revealed that Hunter Biden introduced his father, former Vice President Joe Biden, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request. "
+    publishedDateTime: 2020-10-14T15:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B90Gv0NbL1Q/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Joe Biden on What Voters ‘Deserve’"
+    excerpt: "He says he’ll give his view on Supreme Court-packing after he’s elected."
+    publishedDateTime: 2020-10-11T20:48:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-on-what-voters-deserve-11602449046"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-234227/social"
+      - url: "https://images.wsj.net/im-243323/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden was briefed about son's involvement, according to Hunter Biden Burisma report: Hemingway"
-    excerpt: "Joe Biden has \"not spoken accurately\" about his knowledge of his son Hunter Biden's involvement in Burisma, Fox News contributor Molly Hemingway said on \"Fox News @ Night.\""
-    publishedDateTime: 2020-09-24T12:59:00Z
-    webUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway"
-    ampWebUrl: "https://www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-hunter-report-burisma-molly-hemingway.amp"
+  - title: "Voters have right to know what Joe Biden did for son Hunter: Devine"
+    excerpt: "Joe Biden repeatedly has denied knowing anything about son Hunter’s lucrative work on the board of Ukrainian energy company Burisma. “Hunter Biden is a private citizen and a lawyer. The former"
+    publishedDateTime: 2020-10-14T09:33:00Z
+    webUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/"
+    ampWebUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6675ba7-0a55-4db2-898a-30a67595102e/f99e972f-d209-4960-8c8e-473cfa970f82/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Politico reporter blasted for praising Biden's repeated false claim that he previously plagiarized"
-    excerpt: "Politico chief political correspondent Tim Alberta offered Joe Biden praise for remarks he made at a town hall on Thursday, which were apparently completely false."
-    publishedDateTime: 2020-09-18T22:15:00Z
-    webUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized"
-    ampWebUrl: "https://www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/politico-tim-alberta-biden-false-plagiarized.amp"
+  - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
+    excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"
+    publishedDateTime: 2020-10-15T08:06:00Z
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine"
+    ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 121
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Tim-Alberta-TWEET.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5522171a-998f-4edc-ba59-f45674dca7e1/9e5da789-dbe6-4cd8-ab23-4e3ce91b42a5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Senate GOP report: Obama administration 'ignored the glaring warning signs' of Hunter Biden's dealings in Ukraine"
-    excerpt: "The Senate Republicans’ controversial report on Joe and Hunter Biden was released on Wednesday, detailing allegations of problematic foreign business dealings by Biden’s son as the former vice president helped lead the Obama administration’s foreign policy."
-    publishedDateTime: 2020-09-23T11:36:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/corruption-gop-senators-release-report-on-joe-biden-hunter-biden-and-ukraine?_amp=true"
+  - title: "Joe Biden's Anti-Segregation Crusade From Black Church Story Just Took a Punch to the Mouth"
+    excerpt: "At his age, Joe Biden’s lying problems can be masked as memory problems. It still doesn’t negate the issue. If he’s lying, it’s only in keeping with his past screw-ups"
+    publishedDateTime: 2020-10-13T17:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/13/waitjoe-biden-has-a-black-church-problem-n2577952"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/13/waitjoe-biden-has-a-black-church-problem-n2577952?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/13/waitjoe-biden-has-a-black-church-problem-n2577952?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 75
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
+    excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
+    publishedDateTime: 2020-10-14T15:12:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 44
+    quality: 56
 
 secured: "yzHWQeK7GGLazg7RAecmaI3gHvHviF8X/Ad6CzjsCSXcNhzr3PlpjGUJHO7zP6RlkeWOrjeuXbgAjZ8/BM2GVSTyQR6LuKx7sSUxCZey33Z3nn+Q0eUESrpSiOyH29DFryfVUT0Jy6+WvsMkN9iZ6RA/EewmAfADwhaMfINiuVQgSt0X1Jm7jtllVfhs48VOjznmt2gb2dBo8QWO/3W0bEaBlk28wtrHlx03pVIOEChnLfqxtN/UNMlNbcPc4jmKaoXe7Wj3dkJ4GbXeI1Qbn37pvfIV8VDnIcTDL+YlQ1NXEfCKcoRXDW6/1Bx4vdpNo07kVpkWsOEArYeyHmo6Y0DYz/OHgKWQzucdi8hi0mM=;goAYQvgiLj0rZdbpRHqNIg=="
 ---

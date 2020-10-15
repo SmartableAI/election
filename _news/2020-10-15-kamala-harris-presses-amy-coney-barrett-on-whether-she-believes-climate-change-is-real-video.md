@@ -7,8 +7,8 @@ originalUrl: "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harri
 webUrl: "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video"
 type: article
 quality: 93
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -29,22 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’ | Charlotte Observer"
-    excerpt: "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced."
-    publishedDateTime: 2020-10-11T12:00:00Z
-    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246337265.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246337265.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246337265.html"
+  - title: "The Energy 202: Kamala Harris makes Amy Coney Barrett's climate views a campaign issue"
+    excerpt: "Democrats expect the Supreme Court to be crucial in allowing future administrations to confront climate change."
+    publishedDateTime: 2020-10-15T12:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/?outputType=amp"
     type: article
     provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 58
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMCCW7QOMII6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 957
         isCached: true
+  - title: "Senator Kamala Harris Campaigns in Asheville, North Carolina"
+    excerpt: "T11:30:00-04:00  2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns in Asheville, North Carolina,"
+    publishedDateTime: 2020-10-15T11:08:00Z
+    webUrl: "https://www.c-span.org/video/?476950-1/senator-kamala-harris-campaigns-asheville-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "Kd3dxNK4GLTA/kqgy6SFETNc7sOWWGBm77OsB+BVPvkiTo9lEVshZY9SzcVUKJPfA7HBNVly5B+ssopm5GjTlLsbGJcWa/JIPE4pdpqktfo36yESgHvdLcZY0X6GWrj8kB76ixzBi5DHgUkMCMLzFmvXCj3do64q55giExLnSTnanFOtX1EBZAskuDb6fePe7WqcgQg5TGWdAkvB2I8Pc1vSyAJR59PdSV/Tpr/wezHK6iVBAMVa2LN0hivJz9X3FXuJfDsHNjhnjAEPb7xTq+FvuWm6j32SlWA4pVIGzqno95ZGO5eq81wmXiBQJzHUNOmzsEluTVuXVTklaX1ds0gUjRUhvXbLELiT6bPis3uMpyxDLdAZ4TjGoIglZF1W7VizGVMPUDAmVS/tPqn1cQKKQjZFIsgLZQEwE27yw+9YpOZa5ClCPTVGyIQmTQDGo0oZzqIfJ39/5wT+r2yrcfB22qZL1W5LI/0T0MSnWIv56VJ3pkoEIDGEpLCHdmjbd4iCuAVv3osVqjNgoVbVRA==;R+rGZFF+6jEbKrwEmGl6Yg=="
 ---

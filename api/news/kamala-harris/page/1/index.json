@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-15-kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video.md",
-      "title": "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video",
-      "excerpt": "Coney Barrett faces second day of Senate judiciary committee",
+      "path": "_news/2020-10-15-the-energy-202-kamala-harris-makes-amy-coney-barretts-climate-views-a-campaign-issue.md",
+      "title": "The Energy 202: Kamala Harris makes Amy Coney Barrett's climate views a campaign issue",
+      "excerpt": "Democrats expect the Supreme Court to be crucial in allowing future administrations to confront climate change.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video",
-      "originalUrl": "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video",
+      "webUrl": "https://www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/70d23c3b973042cab2d1b7b6a7e2b527cd1b5e4c/0_168_4835_2903/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84234382a5a7db8e7a6d8265e63a8328",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MMCCW7QOMII6XNAERUPGOXWHAE.jpg&w=1440",
+          "width": 1440,
+          "height": 957,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:30:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/15/energy-202-kamala-harris-makes-amy-coney-barrett-climate-views-campaign-issue/?outputType=amp",
+      "publishedDateTime": "2020-10-15T05:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -66,7 +66,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 579,
+      "heat": 599,
       "tags": null,
       "images": [
         {
@@ -119,7 +119,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 6560,
+      "heat": 6620,
       "tags": null,
       "images": [
         {
@@ -271,7 +271,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -324,7 +324,7 @@
       "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -424,7 +424,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2303,
+      "heat": 2323,
       "tags": null,
       "images": [
         {

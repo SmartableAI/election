@@ -112,6 +112,38 @@ related:
         width: 2500
         height: 1666
         isCached: true
+  - title: "Trump official pressured CDC to change report on Covid and kids"
+    excerpt: "Amid Trump’s push to reopen schools, Michael Caputo’s science adviser asked that the health agency alter its warning about a study of pediatric coronavirus."
+    publishedDateTime: 2020-10-05T10:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/05/trump-cdc-coronavirus-report-change-425538"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/cc/37/77fa5dcd4ca08a5710b9f8491a79/gettyimages-1277364658-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump supporters in Maryland speak out about Covid diagnosis"
+    excerpt: "Donald Trump's coronavirus case received a sympathetic response from supporters rallying on Maryland's Choptank River."
+    publishedDateTime: 2020-10-05T09:08:00Z
+    webUrl: "https://www.nbcnews.com/video/trump-supporters-in-maryland-speak-out-about-covid-diagnosis-93141061544"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93141061544"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93141061544"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202010/-BOATERS.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Trump tweet 'don't be afraid of Covid' is a betrayal of my father's memory"
     excerpt: "The president's terrible diagnosis could have been an opportunity to right some of the wrongs he committed by denying the danger of the virus. Instead, he's making things worse."
     publishedDateTime: 2020-10-06T08:39:00Z
@@ -160,21 +192,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Why Trump's viral Covid and flu misinformation is hard for Facebook and Twitter to stop"
-    excerpt: "A perfect storm of medical misinformation and political disinformation is creating new challenges for the press, for social media platforms and for the public. Take just the events of the last few days."
-    publishedDateTime: 2020-10-10T08:37:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/why-trump-s-viral-covid-flu-misinformation-hard-facebook-twitter-ncna1242665"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242665"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242665"
+  - title: "Trump, battling Covid-19, says he's 'looking forward to' the next presidential debate"
+    excerpt: "Centers for Disease Control and Prevention guidelines say people should isolate for 10 days from the point of showing systems, and in severe cases, 20 days."
+    publishedDateTime: 2020-10-06T16:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-battling-covid-19-says-he-s-looking-forward-next-n1242269"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242269"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242269"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 127
+    quality: 128
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417964/201006-donald-trump-balcony-jm-1501_042a7db35c2d2476e6bc93602ef6dea2.jpg"
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3417851/201006-donald-trump-white-house-jm-1102_2bcaae8442c05d722093781920bf7740.jpg"
         width: 2500
-        height: 1633
+        height: 1663
         isCached: true
   - title: "Trump's Covid diagnosis spawned conspiracy theories and showed the limits of 'the resistance'"
     excerpt: "It has been easy for some liberals to make the fight solely about defeating Donald Trump. But that absolves us of responsibility for what comes after him."
@@ -192,22 +224,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump points to slain veterans' families in response to questions about how he caught Covid-19"
-    excerpt: "The organization that brought the Gold Star families to the White House said none have fallen ill since the event."
-    publishedDateTime: 2020-10-09T08:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-points-slain-veteran-families-response-questions-about-how-he-n1242624"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242624"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242624"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 123
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418536/201008-donald-trump-jm-1221_6ea3459b175b64fd4c9b8298d47623c0.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Christie tests positive for Covid-19 following Trump debate prep"
     excerpt: "Chris Christie announced Saturday that he has tested positive for the coronavirus, the latest high-profile ally to President Donald Trump diagnosed in the past 48 hours. “I just received word that I am positive for COVID-19,"
     publishedDateTime: 2020-10-03T18:16:00Z
@@ -222,19 +238,24 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Top Trump aide Stephen Miller tests positive for Covid"
+    excerpt: "Stephen Miller, a top aide to President Donald Trump, tested positive for Covid-19 on Tuesday, according to a person familiar with the matter. Miller, a senior adviser to the president with a wide-ranging portfolio in the White House,"
+    publishedDateTime: 2020-10-06T23:22:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/stephen-miller-covid-trump-426924"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/07/e6/9361edfb41e0bc1f840cef476cd7/ap20213465332561.jpg"
+        width: 5004
+        height: 3334
+        isCached: true
   - title: "‘The View’ Rips COVID-Riddled Trump: ‘He’s Learned Nothing!’"
     excerpt: "The co-hosts of “The View” absolutely unloaded on President Trump for telling the American people they don’t have to fear the coronavirus."
     publishedDateTime: 2020-10-06T20:33:00Z
     webUrl: "https://www.thedailybeast.com/the-view-rips-covid-riddled-trump-say-hes-learned-nothing"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
-  - title: "SNL’s Michael Che Can’t Hide Disappointment That Trump Survived COVID"
-    excerpt: "Either Trump’s telling the truth and we finally have a cure for COVID,” the “Weekend Update” anchor said. “Or Trump is lying and he’s still going to die.”"
-    publishedDateTime: 2020-10-11T05:10:00Z
-    webUrl: "https://www.thedailybeast.com/snls-michael-che-cant-hide-disappointment-that-trump-survived-covid"
     type: article
     provider:
       name: The Daily Beast

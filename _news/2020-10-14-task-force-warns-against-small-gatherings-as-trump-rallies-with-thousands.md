@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-s
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 274
+published: true
 
 provider:
   name: CNN
@@ -31,69 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's troubles weighing on Iowa Senate race as Joni Ernst fights for reelection"
-    excerpt: "Sen. Joni Ernst is feeling the October heat, with the potential path to the Senate majority -- and the White House -- suddenly experiencing an unexpected Iowa detour.\n    \n"
-    publishedDateTime: 2020-10-12T10:55:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qt2h1rKlknA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/iowa-senate-race-joni-ernst/index.html"
+  - title: "North Carolina Voters Distrust Trump and Tillis, Poll Finds, Imperiling G.O.P."
+    excerpt: "President Trump trails Joseph R. Biden Jr. by four points in the latest Times/Siena survey of North Carolina, and Senator Thom Tillis is lagging behind his Democratic challenger in a crucial Senate race."
+    publishedDateTime: 2020-10-15T03:26:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 185
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825182549-06-sen-race-rankings-joni-ernst-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2020/10/14/us/-promo-1602694963683/-promo-1602694963683-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Trump off the air in Ohio and Iowa as polls show tight races in both states"
-    excerpt: "President Donald Trump's campaign canceled its planned television advertising in Iowa and Ohio this week, focusing its spending on states where Trump is behind even as polls show he is neck-and-neck with Democratic challenger Joe Biden in the two Midwestern states.\n    \n"
-    publishedDateTime: 2020-10-05T23:27:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PYASQQmg6eI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/trump-ads-ohio-iowa/index.html"
+  - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
+    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
+    publishedDateTime: 2020-10-10T21:33:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002092919-03-trump-1001-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "With Covid back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
-    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
-    publishedDateTime: 2020-10-11T08:33:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_32a16910e24a32b24dab5713ac1d1f2e.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "With Covid-19 back in spotlight, Iowa emerges as test for Trump. Can he keep it red?"
-    excerpt: "Coronavirus cases are rising in the White House and in the battleground state, where a couple of recent polls have shown Joe Biden leading."
-    publishedDateTime: 2020-10-12T19:29:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/covid-back-spotlight-iowa-emerges-test-trump-can-he-keep-n1242723"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242723"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242723"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 128
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3419072/201010-iowa-trump-boats-mn-1545_9fc607c761d753facfb519992ffa2491.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
+    excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
+    publishedDateTime: 2020-10-15T10:12:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-maga-rally-messaging-erratic-he-no-wonder-he-ncna1243440"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243440"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243440"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_bwms_suburban_201013_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Those waiting for Trump's 'middle-income tax cut' should give up"
+    excerpt: "Shortly before the 2018 elections, Trump made up a tax-cut idea that didn't exist in reality. Shortly before the 2020 elections, he's doing it again."
+    publishedDateTime: 2020-10-12T15:26:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "In his chess match with North Korea, Trump is clearly losing"
+    excerpt: "On global affairs, Trump has said, \"If you're not a great chess master, you're going to have a problem.\" His failures with North Korea prove the point."
+    publishedDateTime: 2020-10-14T13:34:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/his-chess-match-north-korea-trump-clearly-losing-ncna1243316"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_17/3318221/200422-trump-kim-mc-937_f300c03badf176b4e5c4bf5b25fc42c7.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "53qAbtfObVseKw+LReEKmzF7nMrW4nl/t4I73AhekdXWy8oSjI8R7DkeKFz4XMD15NHM0eoOhJY642MD4MkOpbLZZiovZxiXU3v9U/X36cwcig+OK/eQO9oYcJMhgXnliVN927xr8OE8NXN5OQ3qC3pjNDgU4EPK31sIg9RCXHEFYdj30nC9IFs3o5oSxoAHttmhZhrmKiyhWqjCCJ5L6G9RYqjzAqnNjULZ5FZ9up090Z0gts5ZBrjjQtx3thG6O+qa2jruwJhdCtMyH2hI2+HYUkfHj//pOCTbZBxXafDMwzffhwmIKP8rYccWtRdG9enyYiYoEycpKgc5G13mYf9qrqbrYwnduq7MnK+AZNk=;hhLH9aEjmYGs+T89fk76JQ=="

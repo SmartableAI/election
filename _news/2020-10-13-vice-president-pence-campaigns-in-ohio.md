@@ -318,6 +318,17 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 55
+  - title: "Vice President Mike Pence to make 2 South Florida stops on Thursday"
+    excerpt: "President Trump and Vice President Mike Pence will both be in South Florida on Thursday, attending separate events. At 12:30 p.m.,"
+    publishedDateTime: 2020-10-15T13:09:00Z
+    webUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/"
+    ampWebUrl: "https://wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
+    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/politics/vice-president-mike-pence-to-make-2-south-florida-stops-on-thursday/amp/"
+    type: article
+    provider:
+      name: 7News Miami
+      domain: wsvn.com
+    quality: 55
   - title: "Bern Township police, Berks County sheriff’s office prep for Vice President Mike Pence's visit to Reading Regional Airport"
     excerpt: "Bern Township police, the main Secret Service contact for the event, and sheriff's deputies and others will gather to be briefed prior to the VP's arrival."
     publishedDateTime: 2020-10-14T02:30:00Z

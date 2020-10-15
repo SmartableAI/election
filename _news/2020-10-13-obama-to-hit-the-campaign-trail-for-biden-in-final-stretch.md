@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -159,6 +159,15 @@ related:
         width: 2404
         height: 1533
         isCached: true
+  - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
+    excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
+    publishedDateTime: 2020-10-15T13:00:00Z
+    webUrl: "https://www.thedailybeast.com/fox-news-owner-rupert-murdoch-predicts-a-landslide-win-for-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "lZgsjSuOAC6sDR0AlEGa0nH+tnFjd+3zM2ZW9lwzdB62B8rYoH8H4k8LEWsCDd3sJoU9jX+8C/eN7jN94SFlxRAZ3IObV/2Uzb3GXwEsQRmwxZ9aG/yNvMXusERKIA6WSyjBYg88LIKNsmofvvXc25+xFtkyavHwe/aVGsmKwVtGrPcQ8OBiY14Y3948ifXjNg9nDROiJn4piNFCElk4lB+cBEEnpLA9534HuUlvvEE3sRHtEexymOIzsLZrfiNoNjPW6prAfUXScjTqWpdmL1oXBcnX3H9qiy1ABgXkPwMXtq49vu4xWsIt2plHzS9s6G+bfXqDwgjoxfPWoOC/MsHfj6WYIkvN6yP8f+BuFfY=;zITdaGWm4dqixWgtemGGHQ=="
 ---

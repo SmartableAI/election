@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
+    excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
+    publishedDateTime: 2020-10-15T12:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vaccine/fact-check-the-recovery-of-trump-and-johnson-from-covid-19-does-not-prove-vaccines-are-unnecessary-idUSKBN2701GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537572406&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0WX"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
     excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
     publishedDateTime: 2020-10-10T21:24:00Z
@@ -290,6 +306,6 @@ related:
         height: 800
         isCached: true
 
-secured: "LBeDIBlYoLEJdMO9SYVqNf6xtrLBV8wh+TiSfwbB6kcFevuM1pE3YSEtj0GSYlmcKghu3H9m6Q9XDuIjrRBmK08KtLBOEu6S8ekDyMl3kNp0781BMn5MNRCRNsoZr5LvsgsEpv5U9LsCZMTh/S3l3rHZHKbYc1oIv2nzdoHjuzfKrbqdwy1UKPdBtu503GmvohHN1Ty9u7rB7PwFPLa/bMwIZtMt8ZjSkXK76IU6lPV/o24EYawbwL+mCjKN73ByVSZh8U30guYvPHBx+42UYpkvxUacjvFCnBUcVHUzireJNxbUurzHa91/QRWaF/VSiQx1VQRpuR1e6qCtD4AbRmsOHvfM9Bg7SyQzK5frckk=;8EHaMdOnLGAm6D2AAjoP1A=="
+secured: "3lU6RVrYxAPWvn/78K5NVAtjepVzlPH+j6iI91un8MAlS6ewoO+BD158Wn5E0EY3eXv3xkdW5sy9ps+5UENlyleoE6vhDsQwntzECp6tYse2sWizMsOSs5zwrYwt0fQAaf2Tgcy7xdix0nkW2OW+REzxE0GrEAxH5JOJ6XaG6OlEU7KZJPnUf+FFdDGXCcu6kW2nJ5TtcQMShNijSgxY/Xe6uZ8FsSbAmAuItcV/hDUhy1Cbu7qCbc82AGX4stPXSFez1+w4Fe9jZ3dTuOSNLl24nf0yBtD+UKMjXmJypR3RbypoD9nEYOwNT7TsSPypp+SWK4jWFdrXCUolzHHksqCRLfpYDSwUDZqW0QPBiHAQqERVTA7GPbFqmu1uYomE1rofSmJWUz0zQAixdapswOsHzd3qRtFjaV4XVivgPjAG6Xb1BuMjSc6vW1RMQUTkvGuCNiPzQZpo2yd8G9Q8hojKhOuelwIYwZOCmKok03rNAB1+4OIc7kBRSkiSmOKa4WibTYKwTwMJKOvMpLT3BA==;WiP4L8wIolSzdfCpJXqnpQ=="
 ---
 

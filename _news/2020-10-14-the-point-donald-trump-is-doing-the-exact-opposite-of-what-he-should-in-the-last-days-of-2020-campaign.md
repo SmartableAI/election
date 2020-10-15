@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump administration gives notice to Congress on three planned arms sales to Taiwan"
-    excerpt: "The Trump administration has alerted Congress of its intent to move forward with three advanced weapons sales to Taiwan, a congressional aide and a source familiar told CNN Monday.\n    \n"
-    publishedDateTime: 2020-10-12T19:03:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uZT8RhCK_Fw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "FgBHpt4ab9I7WV4ojWx2VtVatUHOqQ28fktHxtLQvL2yapTEyVyC4w4iUNjWbRQjN/lPZflExXehQY7UI15U1Xv+1b5ivw02OBiOQSCxCYj74tKNvgtjuv+PfEJfovCR26PyB3/9mgp9ZFzEVfr935r4hhtybLrURS2UoncGL3BUqqX5LBThZXoToqUH4e2XI+wdSXREbvQvO22zwASvbcOINXm+zCaUGGd5xU3qNJLBbaiL1ushO6y05cGNsyDjbd0egNBBVcMYFQTcQO0OiccWsWaA3XJhmRmXOKA0Hi+lzEuLDT5JXDnjGCA+NJM655Cpk+xRsdMSj0t3PC7mZRoUVsRjca2gmpIejj4So1A=;RehTQrViKn4FbqL513gDaQ=="
 ---

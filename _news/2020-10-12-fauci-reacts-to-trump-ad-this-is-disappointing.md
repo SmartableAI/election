@@ -31,134 +31,277 @@ images:
     isCached: true
 
 related:
-  - title: "The Point: Donald Trump, dealmaker? Not so much."
-    excerpt: "Donald Trump came to the White House promising that he would make deals the likes of which the country and the world never seen.\n    \n"
-    publishedDateTime: 2020-10-06T22:07:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kSUtTtkHQ4c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
+  - title: "Russia dismisses Trump administration efforts to secure nuclear arms deal before election"
+    excerpt: "The Kremlin on Tuesday rejected assertions by the Trump administration that the US and Russia had come to a \"gentlemen's agreement\" on extending a key arms control agreement and dismissed the idea that a deal would be reached before the US presidential election.\n    \n"
+    publishedDateTime: 2020-10-13T23:14:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtzMt22YlD8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200608165352-usa-russia-flags-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Family separation and the Trump administration's immigration legacy"
+    excerpt: "More than two years since migrant families were torn apart at the US-Mexico border, disturbing details of what occurred behind the scenes continue to spill into public view -- again putting into focus the policy that came to define the Trump administration's immigration legacy and cement its approach"
+    publishedDateTime: 2020-10-07T21:40:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ablqTccsn1k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/trump-family-separation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/trump-family-separation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005190645-trump-arrives-white-house-1005-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180726180654-reunited-father-son-0725-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Donald Trump doesn't want to fire Anthony Fauci. He wants him to quit."
-    excerpt: "For a guy best known in pop culture -- prior to 2016 -- for telling people \"You're fired,\" Donald Trump doesn't actually like to fire people.\n    \n"
-    publishedDateTime: 2020-10-13T14:37:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f_J76nruruM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/donald-trump-anthony-fauci-covid-19/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/donald-trump-anthony-fauci-covid-19/index.html"
+  - title: "Pay attention to these headlines rather than Trump's anti-reality"
+    excerpt: "Pumped full of unapproved drugs not available to average Americans plus a steroid, President Donald Trump mounted the steps of the White House on Monday night, told Americans not to be afraid of Covid-19 and promised them they'd beat it.\n    \n"
+    publishedDateTime: 2020-10-07T00:30:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SAGKyxQfVRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/what-matters-october-6/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011151047-02-fauci-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005213013-trump-return-hasen-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: How professional wrestling perfectly explains Donald Trump's 'Superman' stunt"
-    excerpt: "This paragraph, from The New York Times, might at first shock you:\n    \n"
-    publishedDateTime: 2020-10-12T01:43:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Qn-GJqR9ucY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/donald-trump-superman-shirt-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/donald-trump-superman-shirt-coronavirus/index.html"
+  - title: "The Point: Donald Trump just keeps driving in the wrong direction"
+    excerpt: "With just 23 days until the 2020 election, here's my latest roundup of the 5 BIG storylines you need to know to understand the upcoming week on the campaign trail. And they're ranked -- so the No. 1 story is the most important of the coming week.\n    \n"
+    publishedDateTime: 2020-10-11T20:05:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2SonSDP_rus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/us-election-2020-week-ahead/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170120165006-trump-sports-gal-12-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011150015-donald-trump-1010-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
-    excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
-    publishedDateTime: 2020-10-03T18:21:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5EP6Kmbcxto/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/twitter-trump-policy-ban-the-squad-politics-trnd/index.html"
+  - title: "Federal judge rejects Trump's efforts to curtail New Jersey vote-by-mail plans"
+    excerpt: "A federal judge in New Jersey on Tuesday rejected an attempt by President Donald Trump's campaign to curtail part of the state's vote-by-mail plan just weeks before Election Day.\n    \n"
+    publishedDateTime: 2020-10-06T22:51:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OxFoj5hbM_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/federal-judge-new-jersey-canvass/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/federal-judge-new-jersey-canvass/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924162151-mail-in-ballots-voting-1-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump administration gives notice to Congress on three planned arms sales to Taiwan"
+    excerpt: "The Trump administration has alerted Congress of its intent to move forward with three advanced weapons sales to Taiwan, a congressional aide and a source familiar told CNN Monday.\n    \n"
+    publishedDateTime: 2020-10-12T19:03:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uZT8RhCK_Fw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/taiwan-arms-sales-informal-notification/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180918114050-taiwan-flag-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Former CIA director accuses intel chief of selectively declassifying documents to help Trump"
+    excerpt: "Former CIA director John Brennan on Tuesday accused current intelligence chief John Ratcliffe of selectively declassifying documents ahead of the November election that benefit President Donald Trump, telling CNN that the decision to release materials gathered by the agency on Russian allegations that"
+    publishedDateTime: 2020-10-06T22:11:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LLrBkGkF1tY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/brennan-ratcliffe-declassifying-intelligence-clinton-russia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/brennan-ratcliffe-declassifying-intelligence-clinton-russia/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190714042443-tlaib-ocasio-cortez-pressley-omar-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181024191016-01-john-brennan-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: A line-by-line breakdown of Donald Trump's irresponsible 85-second video victory lap"
-    excerpt: "After returning from four days at Walter Reed medical center to treat his case of Covid-19, President Donald Trump filmed a video -- which he blasted to his 87 million Twitter followers -- talking about the experience and what it, uh, taught him.\n    \n"
-    publishedDateTime: 2020-10-06T14:48:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E_2YmWWvfKM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-video-walter-reed/index.html"
+  - title: "After spike in 2019, border encounters return to levels seen throughout Trump administration"
+    excerpt: "Customs and Border Protection encountered more than 458,000 people in fiscal year 2020, marking a sharp decline from 2019 but not straying far from previous years despite the Trump administration's increasingly aggressive immigration enforcement posture.\n    \n"
+    publishedDateTime: 2020-10-14T17:30:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CTp_43iJPO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/us-mexico-border-encounters/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/us-mexico-border-encounters/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 164
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181031174426-01-border-patrol-agent-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The Crowded, Competitive World of Anti-Trump G.O.P. Groups"
-    excerpt: "The Lincoln Project; Republican Voters Against Trump; 43 Alumni for Joe Biden. These groups and others have similar missions but engage in little coordination or sharing of resources."
-    publishedDateTime: 2020-10-12T10:17:00Z
-    webUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/politics/never-trump-republicans.amp.html"
+  - title: "Columnist who has accused Trump of sexual assault seeks to block DOJ intervention in defamation case"
+    excerpt: "Lawyers for E. Jean Carroll, the magazine columnist who has accused President Donald Trump of sexually assaulting her in the 1990s, asked a judge to block the Department of Justice from intervening in her defamation lawsuit against the President, saying to allow it would \"distort the law.\"\n    \n"
+    publishedDateTime: 2020-10-06T12:20:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OJJaU8a7G_U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/e-jean-carroll-donald-trump-justice-department/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/e-jean-carroll-donald-trump-justice-department/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190716072234-e-jean-carroll-new-day-071619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "How Team Trump used Fox News as a laundromat for unverified Russian information about top Democrats "
+    excerpt: "While most of the nation was largely fixated over the past week on President Donald Trump's coronavirus diagnosis, the President and his allies in right-wing media have been engrossed with something else entirely.\n    \n"
+    publishedDateTime: 2020-10-12T03:32:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lpdEn5szAN4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/11/politics/fox-news-ratcliffe-russia-intelligence/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/11/politics/fox-news-ratcliffe-russia-intelligence/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DOJ: Trump's 'total declassification' of Russiagate docs has no effect"
+    excerpt: "DOJ attorneys told a judge that the White House Counsel's Office effectively told DOJ to disregard Trump's tweets on the matter."
+    publishedDateTime: 2020-10-13T22:03:00Z
+    webUrl: "https://www.politico.com/news/2020/10/13/doj-trumps-declassification-russiagate-429257"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/13/doj-trumps-declassification-russiagate-429257"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/doj-trumps-declassification-russiagate-429257"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12gop-pacs-3/merlin_178325691_0634175d-ea34-4410-8dce-3065cd70e186-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://static.politico.com/55/75/cf3d86ee411bac5950cd3e79c807/gettyimages-803354590-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Dow futures plunge 500 points as Trump says he tested positive for Covid-19"
-    excerpt: "Futures tied to the Dow Jones Industrial Average plummeted 500 points. S&P 500 futures and Nasdaq 100 futures were also in negative territory."
-    publishedDateTime: 2020-10-02T09:37:00Z
-    webUrl: "https://www.nbcnews.com/business/markets/dow-futures-plunge-more-400-points-trump-says-he-tested-n1241770?amp/"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241770"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241770"
+  - title: "FDA pushes back on Trump administration attempt to rebrand ‘emergency authorization’"
+    excerpt: "The administration proposed labeling a Covid-19 vaccine authorization a ‘pre-licensure,’ which FDA says would undermine its procedures."
+    publishedDateTime: 2020-10-14T00:00:00Z
+    webUrl: "https://www.politico.com/news/2020/10/13/fda-trump-covid-rebrand-429277"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/13/fda-trump-covid-rebrand-429277"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/13/fda-trump-covid-rebrand-429277"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 133
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_40/3414757/200924-donald-trump-ew-506p_d18730592e7d92cf390f4bf2f60888bd.jpg"
-        width: 2500
-        height: 1642
-        isCached: true
-  - title: "Bipartisan 'get well soon' wishes for Trump, but some Democrats send pointed message"
-    excerpt: "Bipartisan 'get well soon' wishes for Trump, but some Democrats have a pointed message WASHINGTON — Messages for a quick recovery from lawmakers and world leaders began flooding in Friday, reacting to the news that President Donald Trump and first lady Melania Trump have tested positive for Covid-19."
-    publishedDateTime: 2020-10-02T19:23:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/bipartisan-get-well-soon-wishes-trump-some-democrats-have-pointed-n1241777"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241777"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241777"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: Politico
+      domain: politico.com
     quality: 128
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416929/201002-trump-covid-mc-12384_203f8fcf21e8fa4132ee87a76159b3c4.JPG"
-        width: 2500
-        height: 1667
+      - url: "https://static.politico.com/7a/99/6c5c2b9643dfb64dbe9ccc369246/201013-hahn-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
+  - title: "Hoping to shore up support, Trump directs more money to farmers"
+    excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
+    publishedDateTime: 2020-10-13T12:57:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/hoping-shore-support-trump-directs-more-money-farmers-ncna1243105"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2019_35/2986781/190827-us-farmer-al-1526_723969a2b748993bcb6ba127c54c3ca8.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump campaign used top general in ad without permission, too"
+    excerpt: "Team Trump is also running an ad featuring Joint Chiefs Chairman Gen. Mark Milley, but it didn't seek the general's permission."
+    publishedDateTime: 2020-10-13T16:59:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-campaign-used-top-general-ad-without-permission-too-ncna1243188"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_41/3418024/201006-mark-milley-ew-502p_678454968348b827ada8ce08f1a943bd.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump expects voters to fall for the same health care trick twice"
+    excerpt: "Trump pulled a con on health care four years ago, and a lot of people fell for it. Four years later, he's trying to run the identical scam."
+    publishedDateTime: 2020-10-13T12:04:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-expects-voters-fall-same-health-care-trick-twice-ncna1243080"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2017_18/1990471/170505-health-care-ac-1105p_8fb4cd185e3ce3950d80b19eca9d6066.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Another pro-Trump ad uses footage from Russia"
+    excerpt: "Trump super PAC ad uses stock footage from Russia and Belarus in a major ad buy that’s airing in three swing states. It’s the fourth time in three months that an ad promoting President Donald Trump’s reelection has used footage from Russia."
+    publishedDateTime: 2020-10-13T22:57:00Z
+    webUrl: "https://www.politico.com/news/2020/10/13/trump-ad-russian-footage-429263"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fe/0c/945fad50494481cbf08d22e4e620/1013trump.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Team Trump uses Russian footage in its advertising (again)"
+    excerpt: "Given recent history, and Trump's unfortunate history with Russia, these are amateur missteps the Republican operation probably ought to avoid."
+    publishedDateTime: 2020-10-14T19:03:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-uses-russian-footage-its-advertising-again-ncna1243328"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_23/3380581/200605-moscow-red-square-se-1149a_7b70cb7ba2f8575b68f08f408688cb6e.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Team Trump Admits Its ‘Russiagate’ Head Fake Has Been a Flop"
+    excerpt: "Loyalists like Director of National Intelligence John Ratcliffe are trying to craft a counter-narrative. But the country isn’t in the mood for the tale."
+    publishedDateTime: 2020-10-10T04:43:00Z
+    webUrl: "https://www.thedailybeast.com/team-trump-admits-its-russiagate-head-fake-has-been-a-flop"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "bxn4uPaFzSzfINWjPFqudwaJ6hMXvSgY6x7Ai5JpSWWkx2dIvIwFzKebGS1IjXd4UN+pSkJnqFe0ZT5qwtu2lTjNwSObpwcyOFlTyGIIelnQ5fU0qtAl3m4pdLNx1rbD0dXxwEsfpGVtfc8uX5Kg7QJ+HPRvfbxyJtLzj6eywuCQ47aHvoe3EtGz5SsTQAWb39uUX6Qi6yNbO2/g/AQcL3S6nN03HzAF+eyBw9senf6PlSk0ApIqJhnKhE3LqxEch1YPLuL2bXCL5WjHvcFHjazhM+rcxgRQfyFkGDZttusBSjDQw9OWwB9WImXfos2rgIRxwNN0f/o0U6Fl3zUGMdgpolICc/oW0H+G2oUfmwk=;sSTMGLbJdb34PEl+cjVX8A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-fac
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
 type: article
 quality: 108
-heat: 148
+heat: 168
 published: true
 
 provider:
@@ -63,7 +63,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
+    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
+    publishedDateTime: 2020-10-15T11:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 73
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
-secured: "ottibqo07sTz8ooYecWEuJaeFTNPZfRLM1/s4MXzrcZ+7P+8qAJoPNiYii3qMMdg+NNIakx1X7MZT9zVEQ+NNFSjXyt7IbL71zNsIQqr+UtqK1s40gDUCgqv8Z49steo5E1y/VsnEkNEgqWgjNR+mnGXB7WXpbRGQMRrgqEra5z+sBiALZeq4vk2XecB6B/rFmphtfYc1oS1OBGd0ClyKeeys0EdobumcaytAzUaylLbWDekwSoahMvcHjtUhpffD3GBgdX823QKfXg+xE/fCieDf9mmgnfRBcwgtOB4pc8kh3NGtIx1+IaR+xpITGzTeHMI3GcxrGVntcIBuUxqidN6v+QCGlZqsh0kf1OX5w4=;ytbPc3xfIC43RJB7Ul0v+A=="
+secured: "qHmEeBLPKV8ORxAAuduA7ZqWOgHdbbsaCBTkn3pl6CNfjMp2HtApge+Wan6hUCeIHeOz7lUtOZoQgCErKUhWF9A0TmDSQthts5LoLWKr79J42BlOJGnifTmJEpTaKvWnEVuIjCOsOwaxrdOOEMGW9P3KbXZ1Z11j5h0o354Ih7YzvZ6a8xd49xNN9CX2xMerLZ1rrrq/tLaapKVgpigUpBnSOZk0qGRyUKWh1RRG7BTiUmhuPeu1HMz7dNua1apy/9TBCtk8koIKpXcf6KkfBkbYGnj6tzQG6fp2lKmXCNA2hoViwLe6xJihIA623QxvVw3S1f+BEZmR6XKKYQsRHvo3tgyVGgyRvtMLHZ5kj1I=;Gx4JyQjxb35jy5YF6tKcRg=="
 ---
 

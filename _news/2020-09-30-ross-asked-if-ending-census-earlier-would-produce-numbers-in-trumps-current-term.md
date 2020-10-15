@@ -63,6 +63,36 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump returns to White House from Walter Reed"
+    excerpt: "President Donald Trump returned to the White House Monday evening after leaving Walter Reed National Military Medical Center, where he had been receiving treatment for Covid-19 since Friday. White House physician Sean Conley said in a briefing with reporters after Trump tweeted that he was leaving the hospital that the president had \"met or exceeded all standard hospital discharge criteria\" and could be released for continued treatment at the White House."
+    publishedDateTime: 2020-10-06T08:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/blog/2020-10-05-trump-covid-n1242088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1242088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1242088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_41/3417640/201005-doctors-walter-reed-ew-420p_b1ad8bbd55e872fa22c64b305dee773b.jpg"
+        width: 2500
+        height: 1676
+        isCached: true
+  - title: "In bid to keep tax returns secret, Trump loses in court (again)"
+    excerpt: "When it comes to Trump's efforts to keep his financial records hidden, it's hard not to notice the pattern: his lawyers keep fighting, and they keep losing"
+    publishedDateTime: 2020-10-07T15:32:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/bid-keep-tax-returns-secret-trump-loses-court-again-ncna1242415"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_07/3195631/court_of_appeals_gavel_ap_411201684881-maddowblog_b5e36542e9e4f3fa0b7f53f300b11325.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FMUc20ZORUWWzklisPcW+wYrUVzEt/iAT1PYZcEqjUWbSnNgprbBES2d0hBRflmLwXWjUvIuRLMLWb4/kfVmWhQUpv1H4A89C6SBC5gS+mXbWt9/Tow4CPZm4NZ/29b7FEOULWLiWfqStXr5TjJdxi+2kvmHPxV8LgwsnXSO1iLZRKvU7wE0T+VH1AUvLFjvi8Uz9W5aU+ADOGUCJezRMRl7rDu8fTJZKKhBIFqbNZ0utAwial19dq4BHE2JE/vMoo4K90dYfV/u7zGsZ46JiEQbuQ44JgMgtgtrOe6zCWNbKpqPfvSTsPZ6etOjJURUSHTgEjIbdJZQEtNo6VoMIwsWiKpk5fY1WUC+hUOEFqo=;rj1LlHG080z+aMdNodsIww=="
 ---

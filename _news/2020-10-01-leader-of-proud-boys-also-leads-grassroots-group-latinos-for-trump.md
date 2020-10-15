@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latino
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/01/politics/proud-boys-leader-latinos-for-trump/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_10/3259446/200306-port-workers-facemasks-china-ac-439p_f5177fc439d4d7e9d25940c0b647178f.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "White House floats a Trump speech as the outbreak spreads"
+    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
+    publishedDateTime: 2020-10-06T17:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "hlb+prD1b6xxgtrbgdSArHe9oivx1hoHGTTt/7PezBPNewmZypNtwAZBKZ9xLrrr1pKnQKZxwtydIp8wHjJV8rS1aZ1Xq6Rh8w7XLeLY1oCdm3CA5f1E+Zlx8Hah0FHEz+eX50ce2iQEsDQsKoPkDUSPLybnc7f6TyVIpqdYpeTIZEp7HbbC9fc5Yp+nudEuBze8FKK1od3isnIqBRdoEvpT3htQOtySlS6Fd9bY+MVN8ECRw08KL938364qk0Qvfh85/YOrEAShPkHXYEKllpSvtMH+DiAOV8HKOZTZ1p5bDCzSREby5qbUdDXsnFVIng8RIQ7saYOrgT55Nz1XuKLi5ThbqucLI3NNPz576xY=;uz8Dfx3ryXgPW0SSDx4dWA=="

@@ -176,22 +176,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Melania Trump has no plans to leave White House while sick, official says, contrasting with the President"
-    excerpt: "First lady Melania Trump has no plans to leave the White House while she convalesces at the Executive Residence after contracting Covid-19, an official confirmed to CNN on Monday.\n    \n"
-    publishedDateTime: 2020-10-05T12:22:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WQBJteVmT-I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/melania-trump-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/melania-trump-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 158
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002093931-03-donald-melania-trump-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?"
     excerpt: "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters."
     publishedDateTime: 2020-10-11T13:10:00Z
@@ -239,6 +223,38 @@ related:
       - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Michael Cohen writing book about DOJ and Trump world"
+    excerpt: "It is fair and accurate to state that President Trump has weaponized the Department of Justice,” the president’s former attorney said in an interview."
+    publishedDateTime: 2020-10-14T23:13:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/michael-cohen-writing-book-doj-trump-429488"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/9a/c7/dd3e9a91484dbaaee6008ab2b907/gettyimages-1147335350-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Candidates: Donald Trump’s Promises"
+    excerpt: "In the first of a two-part series exploring the policies of the presidential candidates, we look at whether Mr. Trump has made good on his commitments from 2016."
+    publishedDateTime: 2020-10-15T10:20:00Z
+    webUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/15/podcasts/the-daily/donald-trump-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/15/world/15daily-1/15daily-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
     excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."

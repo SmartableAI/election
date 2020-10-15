@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
+    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
+    publishedDateTime: 2020-10-15T11:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 73
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "YnZjK3dD5OuU21Gafe1VEfOVeHVGK/8BGMYs+AquHbjWEdMJThtRAiZi/v1t2AP7Poc/AIHWvSKiErn9QMLOPB4X4jUWDR6I+zIA1uYe3Qaxr3XKgrJQsWGw3yW3veTnlqHVSBW+keZ32BTPgwg9DTid8YB3yvYyDpiDKtrPNIKcvjgpazslP2FrNe7zK9dphc6t64mZ8QG0hBA/etOSqMBFJwSphih2ckoTzOacpO344vKNGpi0UC+vY0YszVFNgW25qK2IML4RY6g+a+2CWjRj7YE3GeVsMJdJ2NUBBBpJcMXt34e4LEtpanxYRN2MBjARJkO4+oEj9CFCNDZa+7QuHQGCTxXz7CZJ90YkZ/TbZTf/mPgzdHqv33azQvHFGM5vK0CJTMRFpOB9igN5HE/0C6BrUbTrhoYr/+oXokzZjvVJEQJqTZH8ZqKE9Wo5YcUIhfwaw9WuRzFidtrp+4QI32GNqMYxRkYvqfDaNDEtlgTTKcwwIZj+d2DQP68rRFZR+P1xs8pWrgWNxtdE1g==;fVd1gHPoFtyOLlkme15JXw=="
 ---

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Miami mayor to Trump: Don’t come here to debate if you have Covid"
+    excerpt: "The Republican mayor of Miami said Donald Trump shouldn’t come to his city for the Oct. 15 debate with Joe Biden if the president is still testing positive with Covid-19. “I don’t think it’s safe, not for him and anybody else,"
+    publishedDateTime: 2020-10-06T19:23:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c4/cc/cd9f89f74b61bc57d7dbd69f428d/gettyimages-1152449770-1.jpg"
+        width: 1160
+        height: 771
+        isCached: true
   - title: "A Trump road rally unfolds in Michigan."
     excerpt: "With just over three weeks left until Election Day, hundreds of supporters of President Trump took to Michigan’s highways on Sunday afternoon for a loud and visible display of devotion to their candidate."
     publishedDateTime: 2020-10-12T12:04:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-briefing-bay-city/12elections-briefing-bay-city-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Top general did not give his consent to be used in Trump political ad"
-    excerpt: "The photo featuring Joint Chiefs Chairman Gen. Mark Milley was used without the officer's \"knowledge or consent,\" according to a defense official."
-    publishedDateTime: 2020-10-12T22:52:00Z
-    webUrl: "https://www.politico.com/news/2020/10/12/top-general-trump-ad-consent-429112"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/12/top-general-trump-ad-consent-429112"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/4a/76/3cb3c08b4d08a2912bf81edf4f25/20200108-mark-milley-ap-773.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "Who Came in Contact With Donald Trump When He Was Potentially Contagious?"
     excerpt: "President Donald Trump announced early Friday morning that he and first lady Melania Trump had tested positive for COVID-19. The White House has indicated that the Trumps were likely infected by senior aide Hope Hicks,"

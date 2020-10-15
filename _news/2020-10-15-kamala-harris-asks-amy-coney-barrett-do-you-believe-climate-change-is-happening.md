@@ -2,9 +2,9 @@
 category: news
 title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
 excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
-publishedDateTime: 2020-10-15T00:44:00Z
-originalUrl: "https://www.bbc.com/news/av/world-us-canada-54549447"
-webUrl: "https://www.bbc.com/news/av/world-us-canada-54549447"
+publishedDateTime: 2020-10-15T07:14:00Z
+originalUrl: "https://www.bbc.com/news/video_and_audio/video_experience_headlines"
+webUrl: "https://www.bbc.com/news/video_and_audio/video_experience_headlines"
 type: article
 quality: 99
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08vb7l0.jpg"
-    width: 400
-    height: 225
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/14BD7/production/_114915948_p08vb7l0.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -170,6 +170,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "A6YBDtk44APTjaWYpg88OxHo2dylIxlBTj8Kaj9Q3PPVmNuazDCoCt4KHi5NOSZZqEh6MuXYy9dcH/ClakRbVj3uOtTa5yRt33XnQYbQF2rDxoMNpuW2F4dilpqthdB4w5POTrRRsbNmleOcnqWa4Ph4OV/lR9u35991IaxJPFdY54RRZxTVG8H5VQ/qcRgPrdYnpc03dP0UkMqHHQEAHuaZoftmeQ4Mks96PGoo0dHRG5TMgyAei1Vw0oNn0pA3Ag5OPCnWBR3qZ3tuahHhvQTeQorIbHV/inn7JA++7h2QBn5t62Ntx1QTqcW32wkWcETZ5OawEVgK/Kg/qPnj+9ASJ9FFBJJQhQCchnwlhjGOyUMap5g9FRRbOxSHMro40TTCBdY6W5xEIfaUMVqw/IqDWRo8YuZ2M0R5qqL9Serftc175t6ZJC94UKCkQkMiLUMLvhRm/jLSgz4rlysd9aRSuSlQjpVrbDrm7QwVfYmrQou6uUaxL4v/3zFvA0dAWOzOMnrCZPxrwBSjYam4Sg==;top7hkAG2FcBLo3Fg5Cx5A=="
+secured: "3v5BZ8MfT9lBhiNdi1UVcO8peeSF/UvbhP10G/53Cvg5R54KZEtRYtT6DHElNBrISelh2WMVq6l5kuUNC54/R7FkzxplSVffEjnkZiC9tORNuF8VDkTRAa6NKnhNiTcUmfrmuGsUgz6cgxUrqJ6UjS5UxVqbTjY4Ji93afe4m4hJcg7Ca1BLThf7y5YJMlm8PcUpcw1B6y32kIO37vIdYLOu75kU6UrtKO7LoofTIORrMnmLxazcnNZnyye2kPatA30cKsLIKWeJdeqfNq/ETSC+VexjL8h+B9sjnJ1jPS/wfIHMcjK1dXMreRNEVm5DEwneqbaOFkoyFz+jC+R71Mg4KVDYyuqZ9ITLnN8M0xI=;uonDz4w0zB6VC1RP/hrUPw=="
 ---
 

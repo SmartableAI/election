@@ -80,6 +80,20 @@ related:
         width: 2500
         height: 1676
         isCached: true
+  - title: "White House floats a Trump speech as the outbreak spreads"
+    excerpt: "THE TRUMP ADMINISTRATION is considering having President DONALD TRUMP address the nation. He returned from the White House on Monday night after a weekend at Walter Reed. NYT's Maggie Haberman had this as well ALYSSA FARAH-- the White House comms director -- suggested to White House reporters that we will “hear from” TRUMP “at some point today."
+    publishedDateTime: 2020-10-06T17:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2020/10/06/white-house-floats-a-trump-speech-as-the-outbreak-spreads-490536"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/fc/db/81b47a084faaac9796b3dad22075/201006-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "fyq2bdu+kPSaeMmnzFMgjRtWpd+aZOMA5BfiSWHw3DOUF0QEL+iR76s/ovSfj3lU5g2+E65DdyIUjzLyjkkzc4Qsc82UkhqisxjnkjOPRrml9h1Q7RRI/bWFtCezWT8hcqUBmnlye24WA0elk+oAzBT+/QWSvsk6pk+G7lHI7TbWf3+GBM/bigG5PASiLLexXchBBYhCsI2AeVPXdhgIp5k2Am8lo8zS/XoS+3Gar/SRlAjxPgSFgzjv8asfEFumD89WIP/EsNgePmRSK2Z5QR68eJd8TJKEaMmNsgyCfhzc7PoZuaJf26LmKJFzIApvnObAIfuwk0WsWxha5A6RLlwGOCLbbHdf4mJNlKeANn8G2ruuH0KwolGYP4O2nhTcUsC9G5Q633YdaCaHm4CqMkkfh/X97HxyVI0qNDNtlF9JnB/xoZPpSSW/hQL/6J/lEPVdCgZeb05jkigZr6vj2wgZ3ZevPf+7RQleS8uMBVRFbZ4PvEg8sS6ipmHlshm4XnZFLzCMdlhyVSQJceqMGQ==;6puSDkboISxmk+YKFXlAYg=="
 ---

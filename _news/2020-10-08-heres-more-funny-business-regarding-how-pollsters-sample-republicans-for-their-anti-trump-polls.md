@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
-    excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
-    publishedDateTime: 2020-10-11T18:56:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico"
+  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
+    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
+    publishedDateTime: 2020-10-13T13:18:00Z
+    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
+    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
+      name: New York Post
+      domain: nypost.com
+    quality: 150
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg"
-        width: 1280
-        height: 720
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Jh4oX7NPoCDp9w7Mmg7iRzWnNBsIf2NTgo965is2J+EoJ6ZQWmc11e9jUgWe6aDLIIFeijdSdEeg2O4gpuuAWiDTNXXhiXyO5ml2gAEG1Wt6UfnziemW/4uHRAZCAsf8E/T9Y1RQlmgIl/Z+M6Zs2U+WONpFVsB9hnNU1PrymFSS02GABugnDxbpfDITaZSQDlIEiggJl675RoSRJONfpU7jxM7nR6wd3Mhrhkic+R2VLtKuSKdotpajiZFiH6C4045P0ymKGO0NnRSWLtihwPMH73MT7cJoJuo38qxnLiUzPeaiVqURSnYyBRwWgMS8H4eD63OLWMqJ/5cpaLPEo2wWvqEkOjedyEn8mnz9jys=;HVLamnMtYgGfxGWNiEXbIw=="

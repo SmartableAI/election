@@ -6,7 +6,7 @@ publishedDateTime: 2020-10-15T09:13:00Z
 originalUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
 webUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
 type: article
-quality: 127
+quality: 137
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
@@ -110,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 things to look for in tonight's Trump and Biden town halls"
+    excerpt: "Competing town halls on Thursday night will have President Donald Trump and his Democratic challenger, Joe Biden, facing tough questions from voters, but viewers at home will be forced to choose which one to watch live.\n    \n"
+    publishedDateTime: 2020-10-15T10:04:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zubzjULaq7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917215331-trump-biden-town-hall-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z
@@ -187,6 +204,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714162758-bubonic-plague-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaigns on strengthening the Affordable Care Act as Trump undermines it"
+    excerpt: "President Donald Trump is seeking to paint Joe Biden's health care plan as socialized medicine that would eliminate private insurance coverage.\n    \n"
+    publishedDateTime: 2020-10-15T11:07:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8q5n0t9_zC4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001093441-joe-biden-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1260,6 +1293,6 @@ related:
       domain: thedailybeast.com
     quality: 60
 
-secured: "kgGGtottTaVSubwFRYUyialrsIHkKgV1HTRIwMj7AfwfnPKfl7979Pu+wQfuP5vFYT5YeWyfaMfxyjqNcY2o/qulvhqA+UCDfyjCgrj7airYmRqrRC0DaHFa7sXNe9hfBBMjVSy6xE3ijXhzUnUyIvnNg952bIj8l5jfqUprs4DLPrEv8nBA6VKMCyrtwFejLw8eGhYJCeuuGllOPGXyMkBk9brjpAD0VJcdIwNZh4fePOP9Cyc0uqkbXwg2sFGS5yqGuGAYtbsiN4hRZtoiW0ixTP/dLckgahnfHv2RJXafheF/8qVl3mxTR8qw9MneN4LYbsFLH/giTFPgn7nLk4v7MYmmEnMLXfJxmwvg7vA=;+/r6l0mKZyXdywP6q5pmUw=="
+secured: "8eqYWL7lV7SaiupsS0HAVysRcD23DSJA/AX9jv+Qec8a9mmfoRjcZSPdDRpwqefF5WbXQ23GP4E6IcYwpVU/1LZzsMX+P0Pbe7bIHaGeHGd1c6p39mWiBqMS/6dZBhExkJimdnsfK1lW+ydeDgVJ50RHRZ9dCEF+gn95KFR+m05DGHiRyjJyGyYXhhgWni/nRloB3MAMVGB19Lri8tElSh4j9f/TE632pfDlmpwGYCJukIQp5klpdt6sqNrGS6ihau2DyA5Q2LqpAuwLImbAwsuI1reTwU5+Y0s8p7emfwRvqc6C8I+JOtmVtO+7B5aQNZu90tCQVNNtK1v5/82PMtRjK6CEmjYoieFmxURW9ryTJhzkQfLky8OGIXGuhrM5VOlX0lOsVe7hpSD+xZycFRYltVGAW6RHFU6f0KKYgt/32sUF33+4aTjF36p8uTR+rNqhLBX8fkUoDR8lnCOgKXOvaQTbn7Pbk2kVmpARLfpw9miQIoQ8L7KSt3cB1KJScf76tyjF2DCeurg95NAXcw==;eXy59NNuHtXocuePYhpDVw=="
 ---
 

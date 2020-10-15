@@ -60,6 +60,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Democrats urge early voting, massive turnout as Trump stokes fears of contested election"
+    excerpt: "Joe Biden supporter Cindy Kalogeropoulos took no chances when her absentee ballot arrived on Sept. 29. The Michigan retiree filled it out, drove 7 miles to the nearest drop box and hung around to make sure election officials picked it up - all within 48 hours of"
+    publishedDateTime: 2020-10-15T10:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-contested-insight-idUSKBN2701AN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701AN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701AN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 131
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537567295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0U1"
+        width: 817
+        height: 545
+        isCached: true
   - title: "World shares mixed after Trump calls halt to stimulus talks"
     excerpt: "Stocks are mostly higher in Asia despite an overnight decline on Wall Street after President Donald Trump ordered a stop to talks on another round of aid for the economy"
     publishedDateTime: 2020-10-07T07:00:00Z
@@ -377,6 +393,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d5338d783c104a49bf0323d01a4f68d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump lawyers ask Supreme Court to halt tax record turnover"
+    excerpt: "President Donald Trump is asking the Supreme Court to put on hold an appeals court ruling that Trump’s accountant must immediately turn over tax records to a New York state prosecutor"
+    publishedDateTime: 2020-10-15T10:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-lawyers-supreme-court-halt-tax-record-turnover-73592716"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-lawyers-supreme-court-halt-tax-record-turnover-73592716"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-lawyers-supreme-court-halt-tax-record-turnover-73592716"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_858d8ed4f1304689a2636166524b89c4_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1245,6 +1277,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/the-taliban-declared-victory-after-signing-the-deal.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Do you read me? President Trump barely reads"
+    excerpt: "To understand the wide range of challenges facing the nation and adapt to always changing facts on the ground, a president should listen carefully."
+    publishedDateTime: 2020-10-15T12:49:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-do-you-read-me-20201015-lo2ipspvxbdlvh432ooku4nvme-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-do-you-read-me-20201015-lo2ipspvxbdlvh432ooku4nvme-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-do-you-read-me-20201015-lo2ipspvxbdlvh432ooku4nvme-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/28zBwsJEkMJx9mLvxR7fiQ9uFfk=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FLWYPVITYFBG5IR5DGAK6B55CQ.jpg"
+        width: 1200
+        height: 816
         isCached: true
   - title: "First lady unseen as Trump restarts campaign after COVID-19"
     excerpt: "President Donald Trump and his wife received their positive COVID-19 tests on the same day. He's already returned to campaigning, but there's been no public sighting yet of the first lady. Melania Trump last provided a health update over a week ago after saying her symptoms were mild,"

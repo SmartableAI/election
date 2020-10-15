@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump furious at chief of staff for contradicting White House physician, sources say"
-    excerpt: "President Donald Trump is furious with chief of staff Mark Meadows after the top West Wing official contradicted the White House physician's assessment Saturday of the President's health, two sources with knowledge of the situation told CNN on Sunday.\n    \n"
-    publishedDateTime: 2020-10-04T17:49:16Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bOun6CZXDUs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002125747-03-mark-meadows-1002-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump condemns 'all White supremacists' after refusing to do so at presidential debate"
     excerpt: "President Donald Trump condemned \"all White supremacists\" Thursday evening after pointedly refusing to do so at Tuesday's presidential debate and in the days since.\n    \n"
     publishedDateTime: 2020-10-02T02:57:26Z
@@ -157,6 +141,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200128102733-01-joni-ernst-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump's workplace watchdog assailed for lenient penalties on Covid safety violators"
+    excerpt: "These tiny fines are OSHA sending a message to meat factories across the country that they don't have to worry anymore. . . they can operate as they please no matter how many workers are sick, injured or killed."
+    publishedDateTime: 2020-10-06T19:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/06/osha-coronavirus-penalties-426828"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 109
+    images:
+      - url: "https://static.politico.com/6e/a1/c2665139452193630801672e5fa3/apdol.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "c773UeaIKiLsEImgitxARC44yTZSW8cvV2aTU3rqOgS7+J8keTIfCQ1TlLN1PoQOOxfYbv1UD4jyuandCDwMZfZn+Lxi4a5CPA0meO/28ZYyQcQrg5likwBr9m4OqYB6j/Pi1Z3nNuaA6EFKsSfekbnaNz5Aome9lIDebx5phWaA3tGqYGsWp4sA1qaN8n2NHAg26j6HhHCdx/p7CC8WnEwhTgfW0MtKhSh35hXCLzfE6P4Rw0CdCqF44/nmJiS+fYksl0+Wn2hHo1YDPIKNg6kftHoh3JLYQDSGyHomKdJQYwkgmYLmcMYngpjpMx8uL16SxIp7NTipie1XYkKYyUsMvBFrp0lwKr/71IkrZS4=;J0A27qLwWbDke7nb6Amb6Q=="

@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden appeals to voters in Florida"
 excerpt: "Watch \"Joe Biden appeals to senior voters in Florida ahead of the election\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-14T23:22:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201015081330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
-webUrl: "https://www.cbsnews.com/live/video/20201015081330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+originalUrl: "https://www.cbsnews.com/live/video/20201015101330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
+webUrl: "https://www.cbsnews.com/live/video/20201015101330-joe-biden-appeals-to-senior-voters-in-florida-ahead-of-the-election/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265630_1602749824.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07265055_1602757024.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -296,6 +296,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "2Q1AJVTMOT31esANmxdylf6vKZe2qBMBjDYrD+vLic8NGbNtOsV+QV7WzctRhZ5JuveyklquceIGHJt55Enj4l/R79MBgvv2IzdjjyKiYMqBV7Q+cjc7CcZrB7BsPNvCOh2JuxcXdI5QypjkmnoErejkUBybcgxVFP8qoFVNldsr7jJdEUA7WqjymgHyOdWkscnggl09m7YNG6MCBPjMzu8IxV9QEkTekNHJQD3zHfqD81yG8vVDVJfI5SHpI2B8540/LyxUkgZ8OuewsqO17mFZJib2VfGprnmroFkWqYL38X42sjtRLNefXwCjLvmiboRnjG3a9GB1140Zw+530xmtRfmcEPZLqTknMa+X3AM=;RgFO8z1RRcrOyjU3T0bkAg=="
+secured: "zi9fZMbf3NZWqefE26t0o9vUigM444H7S9K/6+G4TgP5s/eqCg8GQmzAx+0HJdETMdZgldxbQMmRiT1rmNX3SehFcdCAEqKI5mcXGHhcIhjQ2KzEYJIETOBFXYv/1PB8sm6b0WQ2qbVOfL3YNqrI8aQ3vuKS4CcoKx3LEUBwjNJygAHTKQFAOQ+d4U0l+4qcxyvwIgc5m7V6v3o/adCaIK0qdp1NTYsfuSyjZIFT7MV01DSfwgtz1JfOBONAmp/PAlJZPQv7j16B42nuF5py9haNJcHfvjSi+bNa7+w5DFkdWgrabeFM9s7juUPj/OeoGZ19IUQdp2efz75q/hKbU6fVq433nxWk+CiFC1a/133f+rLHt77qjqzxROwNIbaw0sqwVFwovQAGUOK8t6tWM8PvZiwx3oqEaSPqWSsWmRI3K9hIDAuHml9jIdIo0DoOgLIcg05biI4qJgZglBg1bdQ/XRHs9edXAuXvjnxHL8YYdZEvXFXfUxTP32D42csmDGEABVXz4//s2dvVk13S4A==;TZ3MVOIXegznToMrorqwZQ=="
 ---
 

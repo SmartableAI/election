@@ -64,22 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden camp hits back at Hunter Biden email report suggesting then-VP met with Burisma exec"
-    excerpt: "The Biden campaign hit back Wednesday after the New York Post reported that newly uncovered emails suggested Hunter Biden introduced his father, then the vice president, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request."
-    publishedDateTime: 2020-10-14T17:10:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fkQxoQA9hZI/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Kim Strassel: New report reveals Biden's 'wink-nod' approach to Hunter's business dealings overseas"
     excerpt: "The Senate Homeland Security and Finance Committees' report on their investigation into Hunter Biden raises \"the many and disturbing conflicts of interests\" surrounding Joe Biden's time as vice president."
     publishedDateTime: 2020-09-23T21:40:41Z
@@ -116,20 +100,6 @@ related:
     excerpt: "Among the deluge of explosive allegations set forth in the joint Senate Homeland Security and Government Affairs Committee with the Senate Treasury Committee's long-awaited report concerning the Biden family's conflicts of interest, the committees wrote that Hunter Biden, 50, may have implicated himself"
     publishedDateTime: 2020-09-25T20:32:42Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7nokf_Cc4LU/hunter-biden-gop-report-claims-prostitution"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Emails to Hunter Biden show plans to meet with State Department officials about Burisma probe"
-    excerpt: "An adviser for Ukrainian natural gas firm Burisma Holdings in 2014 requested that Hunter Biden give “advice” on how the son of then-Vice President Joe Biden could use his “influence to convey a message” to “stop” what the company considered to be “politically motivated actions,” according to an email"
-    publishedDateTime: 2020-10-14T22:00:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5xqFcxSOGU/emails-to-hunter-biden-show-plans-to-meet-with-state-department-officials-about-burisma-probe"
     type: article
     provider:
       name: Fox News

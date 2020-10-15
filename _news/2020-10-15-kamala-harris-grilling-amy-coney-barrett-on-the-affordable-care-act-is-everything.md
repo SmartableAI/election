@@ -41,6 +41,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump-Biden town halls, Amy Coney Barrett hearings, Medicare open enrollment begins: 5 things to know Thursday"
+    excerpt: "NBC and ABC host dueling town halls with Trump and Biden, final day of hearings in Amy Coney Barrett's nomination and more things to know Thursday."
+    publishedDateTime: 2020-10-15T08:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-biden-amy-coney-barrett-medicare-tony-awards-nominations/5937774002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937774002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937774002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
     excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
     publishedDateTime: 2020-10-12T09:58:00Z
@@ -135,6 +151,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris injects heat and light at Amy Coney Barrett hearing"
+    excerpt: "The campaigns are intensifying in the final three weeks of the election. In national politics, the focus was on the U.S. Senate hearings on the confirmation of Amy Coney Barrett to the U.S. Supreme Court."
+    publishedDateTime: 2020-10-15T12:07:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/amp/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/amp/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 55
   - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
     excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
     publishedDateTime: 2020-10-14T02:45:00Z

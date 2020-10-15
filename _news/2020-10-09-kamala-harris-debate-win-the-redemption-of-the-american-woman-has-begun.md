@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus "
+    excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-15T13:58:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Jaime Harrison's campaign could spend $57 million before Election Day"
     excerpt: "It's a question most workaday campaign consultants could only dream of: how to spend $57 million in South Carolina in the final three weeks before Election Day, with voting already underway.\n    \n"
     publishedDateTime: 2020-10-12T09:07:03Z

@@ -46,15 +46,6 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "Team Trump Admits Its ‘Russiagate’ Head Fake Has Been a Flop"
-    excerpt: "Loyalists like Director of National Intelligence John Ratcliffe are trying to craft a counter-narrative. But the country isn’t in the mood for the tale."
-    publishedDateTime: 2020-10-10T04:43:00Z
-    webUrl: "https://www.thedailybeast.com/team-trump-admits-its-russiagate-head-fake-has-been-a-flop"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 45
 
 secured: "N72xjTARw5in0ZCbREIkotIbYVxOVnWcjgNhTqJiFSuzW3+Vow96+6QbTjzLJWRiHTuFLcqRh08aL6cSZ/rFQFOMWYCMSYYhESUbpp9zpqXGNK7r3eT3j9kgeEPHSeXZQG4hLuRX/I41pfpdqOOfh7b1sTCJspcXxM+PvCb/grnClSkyE9h9rFPvKz5VvfdDgSjRKGngM/uclSlx+9Na8T+pD3b+hQLnQti/39wN7lnmpq1o0M/JK8NB457TqHIVCB1eUfFP4wLu8ZMeP/Uphwj9961RwqbkKd6uF+jyOwCVourUhlsveJw6JwvW4WumjF7W7j5hAbUYYLHokyTUW34SgM91VGBgoHIWf7RVAQHcxiS0I0NdmBWPT1lFPYQ80qcHeui2u9WDYIrmVlH+REHAe6fyrNoHBf3lRLlGVLGEkq2pI+VStTB5VmzLmd+LxylstP2XrwIupatzMz5bB7UuzuCKhMSRUUvRWRVfPjyFCFZe60t+bgyS0iBfDsY3eS9Mp+pUhWhpL/AYz4uL7w==;Di7FHcTM6WRSyudjDh3HZQ=="
 ---

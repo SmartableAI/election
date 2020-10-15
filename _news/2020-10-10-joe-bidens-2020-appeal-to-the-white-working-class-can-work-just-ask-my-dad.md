@@ -160,6 +160,15 @@ related:
         width: 2500
         height: 1839
         isCached: true
+  - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
+    excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
+    publishedDateTime: 2020-10-15T13:00:00Z
+    webUrl: "https://www.thedailybeast.com/fox-news-owner-rupert-murdoch-predicts-a-landslide-win-for-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "yCM30PB6o7zOiXwseq2JjJd8CADvat6lZllGvV0HZes/bZcwqGbGtqF38umI5haOE26hbaLi8Llrup1BtjBQje8GlXaNLs5cy8LpHQmlqci5vpMyxyGPUhyaHnlW5YUAyEjwjeVV8PrvfBbPQFzUCm5u+21WNk4n6zcrRIurg8bujvuqwubAA4Ukx/5p87W/Jt5i+8zaLI97E6ncg4XqD98iDEp0lubwwNsOPe/zKLNcNzB64rchg5iwgYeMiQsrsZ5VdpWhrL9TkMC6ziIqhy6AEU81aXMvUw/VB1bQkjcvmER3DnixRue7aTsU/sWnhamvNOCNr9OwyVWso3RgWtcbkhn04arjUk6jDq9sWAmk6h2+ZKfpJJruaYCEafCbL7figvSXEmnqreLs9ef6d2gSP5wmR2CvWSOohJnPy0qq6Q5mV+HibTXA/JPKcOh2mTXI4CFq66OPUqUn6Z5/UAhTsWHXyUl9oH/Bd8ZK8pXbkkvc0MssigC+OT1P5M3Dcfa3kCtQo0qF4rfxNTa5Rg==;o7KmpH1zuugeCuCvkdBHUA=="
 ---

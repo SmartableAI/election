@@ -31,244 +31,290 @@ images:
     isCached: true
 
 related:
-  - title: "The Pennsylvania women Trump has lost   "
-    excerpt: "They are all nervous.\n    \n"
-    publishedDateTime: 2020-10-12T23:53:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TGlJbOjzvxo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
+  - title: "Trump mounts bizarre and misleading White House return despite warnings"
+    excerpt: "A strongly medicated President Donald Trump bolted from his VIP hospital bubble Monday, staging a bizarre White House comeback that included an irresponsible mask removal and a reckless pronouncement there is nothing to fear from Covid-19, which has already killed 210,000 Americans.\n    \n"
+    publishedDateTime: 2020-10-06T11:17:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/llKqpPMyq1I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-coronavirus-white-house-biden/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012131858-pa-voters-4-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005192147-03-trump-arrives-white-house-1005-removes-mask-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Blitzer presses Pelosi on why she hasn't taken Trump stimulus deal"
-    excerpt: "CNN's Wolf Blitzer speaks with House Speaker Nancy Pelosi about why she has not accepted President Donald Trump's roughly $1.8 trillion stimulus offer.\n    \n"
-    publishedDateTime: 2020-10-13T22:21:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pd7gtWDfc3w/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/13/nancy-pelosi-intv-stimulus-bill-trump-offer-coronavirus-tsr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013175114-wolf-blitzer-nancy-pelosi-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Virginia governor says Trump's rhetoric emboldened foiled kidnappers"
-    excerpt: "Virginia Gov. Ralph Northam on Wednesday said President Donald Trump's rhetoric is \"emboldening\" white supremacists such as the individuals involved in an alleged plot to kidnap him and Michigan Gov. Gretchen Whitmer.\n    \n"
-    publishedDateTime: 2020-10-14T13:41:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SzYu4eRFGO0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190204192854-04-northam-presser-0202-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump's doctor says the President has tested negative on consecutive days"
-    excerpt: "White House physician Sean Conley said Monday President Donald Trump has tested negative for Covid-19 on consecutive days, as the President heads to a crowded campaign rally in Florida.\n    \n"
-    publishedDateTime: 2020-10-12T23:39:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oZfst1Abrhg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/trump-health-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201010143529-12-donald-trump-white-house-event-1010-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump continues dishonesty bombardment at Pennsylvania rally"
-    excerpt: "President Donald Trump has returned to the campaign trail with all of his usual campaign dishonesty.\n    \n"
-    publishedDateTime: 2020-10-14T13:12:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sPtUa3640eM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/fact-check-trump-rally-johnstown-pennsylvania/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013201442-01-trump-rally-pa-1013-screengrab-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump needs this pivotal county and its rural voters to win Pennsylvania"
-    excerpt: "Women and men of all ages arrive well before opening. It is midmorning in the middle of the week, but a lengthy line of people patiently waiting forms outside a country home painted to look like an American flag, near a 14-foot Donald Trump cutout on the front lawn.\n    \n"
-    publishedDateTime: 2020-10-14T19:29:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D0PGgFo3BIY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/pennsylvania-trump-2020-election/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 174
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014150337-02-trump-house-pennsylvania-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump administration puts up billboards of immigration violators in Pennsylvania"
-    excerpt: "The Trump administration has put up billboards in Pennsylvania of immigration violators, an unprecedented move taken in a swing state a month before the presidential election.\n    \n"
-    publishedDateTime: 2020-10-02T23:19:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HA0c-zY776s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/02/politics/ice-immigration-billboards-pennsylvania/index.html"
+  - title: "READ: White House physician says Trump is taking Remdesivir and 'doing very well'"
+    excerpt: "President Donald Trump is being treated at Walter Reed National Military Medical Center for Covid-19 and has begun receiving an anti-viral drug, his doctor announced Friday night.\n    \n"
+    publishedDateTime: 2020-10-03T04:43:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iwdEuHQHqeg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/white-house-physician-trump-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/white-house-physician-trump-covid/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922010710-ice-police-officer-ny-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002221504-trump-covdi19-camilo-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Justice Department files complaint against Melania Trump's ex-friend over tell-all book"
-    excerpt: "The Justice Department is suing Stephanie Winston Wolkoff, an ex-friend and former adviser to first lady Melania Trump, claiming she breached a confidentiality agreement by publishing a tell-all book, according to a lawsuit filed in the Washington, DC, District Court on Tuesday.\n    \n"
-    publishedDateTime: 2020-10-13T22:56:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UKnx-i26VuI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/justice-department-stephanie-winston-wolkoff-melania-trump/index.html"
+  - title: "Trump is hospitalized with Covid, but he's still not taking the pandemic seriously"
+    excerpt: "President Donald Trump's fight with Covid-19 has so far not convinced him to prioritize a responsible approach to a pandemic that has killed 209,000 Americans over his own political needs.\n    \n"
+    publishedDateTime: 2020-10-05T05:54:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/57_qlbB9m10/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/05/politics/donald-trump-hospitalized-coronavirus-pandemic/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 167
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003190039-16-trump-covid-circle-melania-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201003213715-national-security-risks-president-trump-coronavirus-positive-boot-kirby-nr-vpx-00000512-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "White House touts unusual Justice Department announcement about 'discarded' Trump ballots in Pennsylvania"
-    excerpt: "The Justice Department said Thursday that it is investigating \"potential issues with mail-in ballots\" in the swing state of Pennsylvania and, in a highly unusual disclosure, revealed that several ballots marked for President Donald Trump were \"discarded.\"\n    \n"
-    publishedDateTime: 2020-09-24T21:25:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9hHZhBbYMtY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/24/politics/doj-trump-ballots-pennsylvania/index.html"
+  - title: "Trump furious at chief of staff for contradicting White House physician, sources say"
+    excerpt: "President Donald Trump is furious with chief of staff Mark Meadows after the top West Wing official contradicted the White House physician's assessment Saturday of the President's health, two sources with knowledge of the situation told CNN on Sunday.\n    \n"
+    publishedDateTime: 2020-10-04T17:49:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bOun6CZXDUs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/04/politics/trump-mark-meadows-chief-of-staff/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200924074304-donald-trump-0923-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002125747-03-mark-meadows-1002-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Can Trump Squeeze More From His White Base in Pennsylvania and Beyond?"
-    excerpt: "With President Trump trailing Joseph R. Biden Jr. in Pennsylvania in nearly every poll, his last refuge and perhaps best hope is to maximize the turnout of working-class white voters."
-    publishedDateTime: 2020-10-11T13:10:00Z
-    webUrl: "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/11/us/politics/trump-white-base-pennsylvania.amp.html"
+  - title: "Vulnerable Senate Republicans tie themselves to Barrett with Trump's numbers eroding "
+    excerpt: "Endangered Senate Republicans have a new running mate in the battle to keep their narrow majority: Amy Coney Barrett.\n    \n"
+    publishedDateTime: 2020-10-14T02:59:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnev-xi5RxM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/senate-republicans-barrett/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092118-04-barrett-hearing-1013-graham-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democratic leaders accuses Trump team of 'deliberately' withholding information about White House outbreak"
+    excerpt: "Senate Democratic leaders charged Tuesday that the White House has been \"opaque and secretive\" in providing information about the coronavirus outbreak that sickened President Donald Trump and several other people at the White House, demanding details about the timeline and contending that details are"
+    publishedDateTime: 2020-10-06T15:03:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o4Tl1RqqNO4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/schumer-letter-white-house-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/schumer-letter-white-house-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200421095136-chuck-schumer-0414-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "North Carolina Democrat's sex scandal renews GOP hopes of keeping majority despite Trump's drag on the ticket"
+    excerpt: "President Donald Trump's eroded political standing has hurt GOP senators in crucial races across the country, but Republicans now hope a sex scandal in North Carolina will help them fend off the Trump effect in a race that's central to holding the Senate majority.\n    \n"
+    publishedDateTime: 2020-10-09T19:52:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4g8mbzoPQ-E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/north-carolina-senate-race-cal-cunningham-thom-tillis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009111757-02-cunningham-tillis-debate-1001-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "‘Don’t Be Afraid of Covid,’ Trump Says. But Many Are."
+    excerpt: "Readers discuss the president’s comments and removal of his mask upon his return from the hospital, and the “world-class care” he received compared with that available to others."
+    publishedDateTime: 2020-10-06T17:39:00Z
+    webUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/06/opinion/letters/covid-trump-health.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09pa-trump1/09pa-trump1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Watch live: Biden holds campaign event in Pennsylvania"
-    excerpt: "Former Vice President Joe Biden delivers remarks at a Build Back Better campaign event in Erie, Pa. Oct. 10, 2020"
-    publishedDateTime: 2020-10-10T20:46:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-holds-campaign-event-in-pennsylvania-93601349870"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93601349870"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93601349870"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/AFP_8RU7Q2.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Trump campaign stalls in Pennsylvania"
-    excerpt: "The president’s unsteady coronavirus leadership is damaging his chances of winning this Rust Belt battleground a second time."
-    publishedDateTime: 2020-10-14T08:35:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/pennsylvania-swing-states-428527"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/pennsylvania-swing-states-428527"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/51/76/8266e35c4a9693eb80ec83d1b315/penn-optimized.gif"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
-    excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
-    publishedDateTime: 2020-10-14T18:11:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/st-louis-couple-who-waved-guns-protest-have-spoken-trump-n1243391"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243391"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243391"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420164/201014-mccloskey-court-hearing-se-143p_7b68a0bea8cb98aebd86e91b93602446.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Pennsylvania: In a county Trump flipped, Democrats seek voters willing to flip back."
-    excerpt: "Democrats are hoping to reverse Mr. Trump’s resounding win four years ago in northeastern Pennsylvania’s Luzerne County, but they have a mountain to clim"
-    publishedDateTime: 2020-09-26T13:04:00Z
-    webUrl: "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/26/us/politics/pennsylvania-voting.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 128
-    images:
-      - url: "https://static01.nyt.com/images/2020/09/27/us/politics/26dispatches-pennsylvania/26dispatches-pennsylvania-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/06/reader-center/05trump-virus-hp-promo/05trump-virus-hp-promo-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
-    excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
-    publishedDateTime: 2020-10-14T08:43:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/michigan-swing-states-428896"
+  - title: "Trump tells White House doctor: ‘I feel great!’"
+    excerpt: "The President this morning says ‘I feel great!’” Trump's physician, Sean Conley, wrote in a memo released by the White House press office."
+    publishedDateTime: 2020-10-07T18:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/07/trump-white-house-doctor-great-427258"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/trump-white-house-doctor-great-427258"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 109
+    quality: 135
     images:
-      - url: "https://static.politico.com/62/c2/1853becf4b63bd80506cf7825124/michigan.jpg"
+      - url: "https://static.politico.com/54/ca/74c914574613b7438bafc99eab5b/20201007-djtwh-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump makes brief first public appearance since returning from hospital"
+    excerpt: "The president again downplayed the coronavirus, as he seeks to project a sense of normalcy in the final few weeks before the election."
+    publishedDateTime: 2020-10-10T19:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-makes-brief-first-public-appearance-returning-hospital-n1242829"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242829"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242829"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3419061/201010-donald-trump-white-house-mn-1420_5c11ab86a068428a6f421852ceea4ed1.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump's slipping poll numbers imperil down ballot Republicans"
+    excerpt: "From his first day in office, Donald Trump has been the shock and awe president. But with three weeks until Election Day, has Mr. Trump lost his ability to shock and awe us?"
+    publishedDateTime: 2020-10-11T12:19:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/trump-s-slipping-poll-numbers-imperil-down-ballot-republicans-93627973695"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93627973695"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93627973695"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/mtp_clip_a2_201011_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and the GOP are using Kyle Rittenhouse in last-ditch 2020 voter strategy"
+    excerpt: "With weeks to go before a chaotic and close election, Republicans are cultivating a vigilante identity — someone who breaks the rules to make things right."
+    publishedDateTime: 2020-10-04T08:36:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-gop-are-using-kyle-rittenhouse-last-ditch-2020-voter-ncna1241940"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241940"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241940"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 131
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416625/201001-kyle-rittenhouse-jm-0936_ba06d965e936a9e276a03c1a82c2a974.jpg"
+        width: 2000
+        height: 1331
+        isCached: true
+  - title: "Trump's Proud Boys 'stand back and stand by' debate moment was more than a dog whistle"
+    excerpt: "There are not two sides to white supremacy, just as there are not two sides to homophobia, anti-Semitism or any other type of hate. That is, apparently, unless your name is Donald J. Trump."
+    publishedDateTime: 2020-09-30T16:51:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-proud-boys-stand-back-stand-debate-moment-was-ncna1241570"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241570"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241570"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416378/200930-proud-boys-portland-jm-1217_0_4aead6db0f14f95b2d194d823f968045.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump's taxes raise IRS red flags. But his flouting of civic duty is equally concerning."
+    excerpt: "Taxes pay for all that we do together. We need them. They matter. But our president calls into question the very nature of that collective effort."
+    publishedDateTime: 2020-10-01T08:43:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-taxes-raise-irs-red-flags-his-flouting-civic-ncna1241623"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241623"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241623"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 126
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416490/200930-donald-trump-1989-ac-657p_ea32ad4656a4da3a6147911405a83890.jpg"
+        width: 2013
+        height: 1262
+        isCached: true
+  - title: "Barr accused of 'working hand in glove' with Team Trump, White House"
+    excerpt: "One former federal prosecutor said of Barr, \"The attorney general is working hand in glove with the White House and the Trump re-election campaign.\""
+    publishedDateTime: 2020-09-29T18:49:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/barr-accused-working-hand-glove-team-trump-white-house-ncna1241366"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_39/3413850/200921-donald-trump-william-barr-profile-2019-ac-851p_2cfe3612ae4433cdb3e04d5d1f7d57a6.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Coming full circle, Trump returns to false, misguided 'flu' rhetoric"
+    excerpt: "Nearly seven months after his misguided \"think about that!\" tweet, comparing COVID-19 to the flue, the Republican has apparently come full circle."
+    publishedDateTime: 2020-10-06T17:04:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/coming-full-circle-trump-returns-false-misguided-flu-rhetoric-ncna1242286"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_40/3417238/201003-donald-trump-cs-944a_65547e5ac6566da3ad7106431d825dca.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Newsom points to Trump to defend masking 'between bites' at restaurants"
+    excerpt: "Gavin Newsom pushed back hard Wednesday against Republicans and conservative media slamming his recent tweet calling for masks in between restaurant bites, flipping it back on President Donald Trump by saying critics should \"soberly take a look at what's going on in the White House'' and consider the severe impact of the Covid-19 pandemic on Americans and the economy."
+    publishedDateTime: 2020-10-08T01:15:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/10/07/newsom-pushes-back-on-gop-criticism-of-his-mask-tweet-1322262"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/dd/98/543c5dcf457192472a4ec33989f6/ap20184626091205-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Remembering Wayne Barrett, the Journalist Who Saw Trump Coming Decades Ago"
+    excerpt: "He taught us to dig. That the facts were knowable, written down and filed somewhere. That facts steadfastly accumulated could reveal what was hidden and be agents of justice."
+    publishedDateTime: 2020-10-10T08:24:00Z
+    webUrl: "https://www.thedailybeast.com/remembering-wayne-barrett-the-journalist-who-saw-trump-coming-decades-ago"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 43
+  - title: "‘Fox & Friends’ Trashes Trump for Blowing the Debate Over White Supremacists"
+    excerpt: "Host Brian Kilmeade delivered a rare criticism of Trump, saying he completely failed to deal with Chris Wallace’s challenge to condemn white supremacy."
+    publishedDateTime: 2020-09-30T15:44:00Z
+    webUrl: "https://www.thedailybeast.com/fox-and-friends-trashes-trump-for-blowing-the-debate-over-white-supremacists"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 42
 
 secured: "dvPVt9K1L2SOm1MAwoq3eu+dUfYRuBkQzumEMQVqyC0PuVaOqbwytsIW1gaLQT+/Lqc74Ud6TkH48Ysp+3ztVkmay41jOwVv9bgQoU8W/ycXFT2M2nGQZbpjssqS743PqIJg01DiIsBoxRHl91ccdRWqCp9n52JKzPohmGHPfhwcN2EOA3rwfI7LyYz0MFoJfoSIvg9JuH0Fx2WrsHAhikJFgK6MwIjWmDZJDtzTr+V+6eD0jzIzDafkGsyN5vEMytg4Jrnx8eIvSxJVLWQ1BZShXGqdSYss7I6vqPNoiuKB2KLNh9JBItv5DnV2BEgaRvNJbQawqQQg5QJtXkkMKtReUQnIf3TSHYyG0vrbM5Q=;miVUhljDpqK0iT5L92KZUQ=="
 ---
