@@ -476,6 +476,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "If You Think Mike Pence Was Rude To Kamala Harris, I Have Bad News"
+    excerpt: "Let’s start with the assumption that men are not, as a whole, like Trump or Pence. This isn’t about blaming anyone, but rather identifying a problem and then working together to solve it."
+    publishedDateTime: 2020-10-16T01:32:00Z
+    webUrl: "https://www.forbes.com/sites/lizelting/2020/10/14/guys-if-you-think-pence-was-rude-to-kamala-i-have-bad-news/"
+    ampWebUrl: "https://www.forbes.com/sites/lizelting/2020/10/14/guys-if-you-think-pence-was-rude-to-kamala-i-have-bad-news/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizelting/2020/10/14/guys-if-you-think-pence-was-rude-to-kamala-i-have-bad-news/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 150
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87040f98afd6c517929dd6%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Mike Pence should have self-quarantined instead of debating Kamala Harris"
     excerpt: "After all the hubbub over the plexiglass dividers placed between Vice President Pence and Democratic vice presidential nominee Sen. Kamala D. Harris (Calif.), it turned out that Pence would have been wise to duck out altogether."
     publishedDateTime: 2020-10-08T04:00:00Z
@@ -2753,6 +2769,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris revealed that she noticed fly on Mike Pence’s hair"
+    excerpt: "During the latter moments of the debate between Kamala Harris and Mike Pence, a fly landed on Pence’s hair. The fly immediately diverted attention from the actual debate, as thousands of people on social media created memes to poke fun at Pence."
+    publishedDateTime: 2020-10-15T22:56:00Z
+    webUrl: "https://rollingout.com/2020/10/15/kamala-harris-revealed-that-she-noticed-fly-on-mike-pences-hair/"
+    ampWebUrl: "https://rollingout.com/2020/10/15/kamala-harris-revealed-that-she-noticed-fly-on-mike-pences-hair/amp/"
+    cdnAmpWebUrl: "https://rollingout-com.cdn.ampproject.org/c/s/rollingout.com/2020/10/15/kamala-harris-revealed-that-she-noticed-fly-on-mike-pences-hair/amp/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 100
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2020/10/kamala-harris-mike-pence.jpg"
+        width: 825
+        height: 619
+        isCached: true
   - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
     excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
     publishedDateTime: 2020-10-07T13:32:00Z
@@ -4779,6 +4811,17 @@ related:
         width: 1024
         height: 574
         isCached: true
+  - title: "AP FACT CHECK: Rhetoric From Trump, Biden in the Non-Debate"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden are facing inquisitive voters on separate stages in different cities Thursday night in a substitute for the debate that was meant to be."
+    publishedDateTime: 2020-10-16T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/ap-fact-check-trump-flubs-study-on-masks-and-coronavirus"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/ap-fact-check-trump-flubs-study-on-masks-and-coronavirus?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-15/ap-fact-check-trump-flubs-study-on-masks-and-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z

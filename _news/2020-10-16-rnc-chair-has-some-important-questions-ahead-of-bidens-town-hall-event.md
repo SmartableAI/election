@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's court-packing 180, says he will now tell voters his stance before election"
+    excerpt: "Democratic presidential nominee Joe Biden says that voters “do have a right to know where I stand” on expanding the number of justices on the Supreme Court."
+    publishedDateTime: 2020-10-16T01:34:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IICVCb_Wbyg/biden-clarify-court-packing-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-clarify-court-packing-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clarify-court-packing-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Town-Hall-AP-THUMB-4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
     publishedDateTime: 2020-10-15T18:59:33Z
@@ -63,6 +79,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1e875e-1c05-40d4-ae45-3af1c856fe3f/d854cedf-71ec-4e2d-ac5e-ce8a2b108e24/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden reiterates plan to convince Americans to wear masks"
+    excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
+    publishedDateTime: 2020-10-16T00:54:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8L2lsjavqiU/biden-plan-americans-wear-masks-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plan-americans-wear-masks-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plan-americans-wear-masks-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
@@ -179,6 +211,6 @@ related:
         height: 764
         isCached: true
 
-secured: "M7WAAKIl1YsX/9lX/437pnT4wG8xTQvc6leNezBEOuN3pOCUnCgR5cNOi5HlLqijDw03ZLnq1oOFU+T5TY8WVknwwP4wrVRq5UFg7G1QycjJBZEEsoAC2XaxxHoxgbJm3UK/x/MI86jHQRt6WY5KyNrGWUJ0nHUtuA+/U+gSgSzSTATAAug27rCxq78EXuGbNA3h2PQ6Im0ykN/r+Q1M1gvS34RDKXS2USDT7LZEt1XrY9ZSmesn318Fs42upUYzoV1Q9Zmk0hN4HpkchY7p/zo42A21K8pTKYPKf4s48AL2Ug7JRgShqzfMUZ/kY596vFlOpD2UzvHby4Mb5f8HfqpdntNLecEYLI2A5aVtPp4=;yc2MULDXRKh5ay8G7DAccA=="
+secured: "COBQYgkvb/jXPs70WW1mPlxxMS5ovJZCGxbeUk2HSw/lSZy8i5uYdDki0fOw0NwHD98MIcK88mujhMlvCF3OvJXKriZG1paH6wG6mHWE3zE0u/7/uwmZEZ3wLcNaIp70NllQyE8/LMfib4aHTgJbHdUMz2ywnvaC4I5HgBOOIBaAtS0OBL1XmHhjkUGw5nQUnw0e0XdEbiRpIFEMxpOt6xUsv2dsqjMoV2/6cSC79ugAe5xjAXM9vl/wvzBTJN+hdqpJY2+Z/5SyKrWjG2qlJ3V6NLTlAEr+KX6VOO6xzdzSpQvFCiNnjniIPwa4bkQlkOxiKMk2kS2B2mZKAbpWjHdFOIP1mN3ZmOvBcUAoRg9Dd9u/seQoXata96ud+7SqazKiReA4qWk0cpgPtGWFYG3D5cZaVL8iEeKLV7a0kbtG6A3r1Ud2EAijsw2mTuUs6uBAm4nTAc1ShORrZ1pxlQtNTYpVDSl+cwonHn+e0FCttQPyJozmIznj8mcHvbhPplXWYWJ3jvG8q5DyaUI4tA==;bGVNJO/Nu06ldYIZxEEj+w=="
 ---
 

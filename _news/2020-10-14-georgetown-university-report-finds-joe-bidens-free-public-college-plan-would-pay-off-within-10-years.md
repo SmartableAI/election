@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
+    excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
+    publishedDateTime: 2020-10-15T22:04:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-alleged-laptop-new-york-post/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/19cdb850-10df-4dd7-bf5f-13d82d9675d9/thumbnail/1200x630g3/74c90b18bdc18eb7190a4a1c998cb5f9/gettyimages-520756502.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Who Is George Stephanopoulous, Moderator of Biden Town Hall?"
     excerpt: "Stephanopoulous, 59, leads breaking news and major special events coverage for ABC, a position he's held since 2014."
     publishedDateTime: 2020-10-15T19:00:00Z

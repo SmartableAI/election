@@ -7,7 +7,7 @@ originalUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coro
 webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -23,56 +23,6 @@ images:
     width: 769
     height: 433
     isCached: true
-
-related:
-  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
-    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
-    publishedDateTime: 2020-10-15T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-13T10:03:00Z
-    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-14T06:03:00Z
-    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "+Rd0rB/IjyA3PCf5z5ObUPKD6j1wKuBszTR8CFH56oU1yjJ9A+zGC2MOFMW48Nm2J2DMRjUDEZYzTj01Nu4gvoFuDA75+K+gIMEJYfFzNc6kjP36cHUlyn3h4Ge5z5Qs3wnpeeKuu/87MdJsbbrHHbm+p82gI/78agxx7anPbCmlm6me6AdU6KQ49+GA7ZAY8qMiRNi6lfKsqQNCI+e8olJOJnSOhmMil668euitXSKo6D2r4Mbwbx0KHDfT1bRFUK0ymG4kpx39yyAn9MAilNlEr9Hg2OX+321Vh/GV1GAdzAFbxE4SCBhJ9xH64xMUNiZbXnmVJnu+W0ZIlgZCu3MC1XmhmTedt0OhArP+6wM=;rcUc/8zmDyxrg6wN9J5FCw=="
 ---

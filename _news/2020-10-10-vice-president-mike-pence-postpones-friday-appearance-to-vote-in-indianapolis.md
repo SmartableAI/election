@@ -299,6 +299,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "We speak one-on-one with Vice President Mike Pence"
+    excerpt: "All eyes are on Florida Thursday as President Donald Trump visits Miami for a town hall meeting. Vice President Mike Pence"
+    publishedDateTime: 2020-10-15T23:25:00Z
+    webUrl: "https://abc-7.com/news/politics/2020/10/15/we-speak-one-on-one-with-vice-president-mike-pence/"
+    ampWebUrl: "https://abc-7.com/news/politics/2020/10/15/we-speak-one-on-one-with-vice-president-mike-pence/amp/"
+    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/politics/2020/10/15/we-speak-one-on-one-with-vice-president-mike-pence/amp/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 75
+    images:
+      - url: "https://abc-7.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-7.11.03-PM.png"
+        width: 1272
+        height: 714
+        isCached: true
   - title: "Vice President Mike Pence to visit Grand Rapids Wednesday for campaign event"
     excerpt: "Vice President Mike Pence on Wednesday will hold a campaign event at an automotive trim company in Grand Rapids, President Donald Trump's campaign announced Saturday night. The event will be held at Lacks Enterprises in Grand Rapids and is scheduled to begin at 12:30 p."
     publishedDateTime: 2020-10-12T19:40:00Z

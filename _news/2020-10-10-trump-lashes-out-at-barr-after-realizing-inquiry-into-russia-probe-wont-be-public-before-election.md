@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5939328002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5939328002"
 type: article
 quality: 126
-heat: 206
+heat: 226
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘That’s Rudy’: Trump Reportedly Shrugged At Giuliani’s Russia Ties"
+    excerpt: "Trump was told his personal lawyer Rudy Giuliani was working with Russian agents, but he shrugged off the warnings, the Washington Post reported."
+    publishedDateTime: 2020-10-16T01:16:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/15/thats-rudy-trump-reportedly-shrugged-at-giulianis-russia-ties/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/15/thats-rudy-trump-reportedly-shrugged-at-giulianis-russia-ties/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/15/thats-rudy-trump-reportedly-shrugged-at-giulianis-russia-ties/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88eae6fd9115e60db69b3b%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "In a blow to Trump, AG Barr's investigation into Flynn's 'unmasking' ended without criminal charges or a public report"
     excerpt: "The development is a huge defeat for Trump, who has long alleged that the previous administration engaged in a broad conspiracy against him."
     publishedDateTime: 2020-10-14T09:20:00Z

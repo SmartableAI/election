@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-n
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Defends Promoting Conspiracy That Navy SEALs Didn’t Kill Bin Laden: ‘That Was an Opinion’"
+    excerpt: "President Trump defended his promotion of a QAnon conspiracy theory claiming the Navy SEAL team who eliminated Osama bin Laden only killed a body double."
+    publishedDateTime: 2020-10-16T01:42:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-defends-promoting-conspiracy-that-navy-seals-didnt-kill-bin-laden-that-was-an-opinion/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 43
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-9.04.09-PM-1200x677.jpg"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "0QJDhmODykzr3an21ZITubP+GdnVGx2vjpDoTIxxzzdnQIBEI7QXgeDFKrFRF1/BdGAeDtiPQaplTYcMbf6B0e2L/ArifB8aWhxg6iaeLba+mOAMYyAzocljRTzTOAEazUXXAKRHxMR9GXNSm3OOfVrc0Ja1Cdmm0PHILcR9ieI4rBzOQXw8dnj4EBlpbLCka66ZIH1q44TS0syMvl1inQmOr4AzBy/tfWovR7bmGc818WbWwHFOV8eJYVEj6aKw58TBKrqmakjVcOl7JcEHArFWAkERAZBmYYiTw2ikewCrD5r2Ff9tdlmvdFKH32sYg619jJzTOQBRrIFDbadKEIY0Vi//7teYkqDUoGtz5IA=;rWuYeqNfJk4guu5eKyNXfw=="
 ---

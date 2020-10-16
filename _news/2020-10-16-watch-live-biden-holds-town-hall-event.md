@@ -47,6 +47,22 @@ related:
         width: 780
         height: 551
         isCached: true
+  - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
+    excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
+    publishedDateTime: 2020-10-15T22:04:00Z
+    webUrl: "https://www.cbsnews.com/news/hunter-biden-alleged-laptop-new-york-post/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/hunter-biden-alleged-laptop-new-york-post/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/19cdb850-10df-4dd7-bf5f-13d82d9675d9/thumbnail/1200x630g3/74c90b18bdc18eb7190a4a1c998cb5f9/gettyimages-520756502.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Who Is George Stephanopoulous, Moderator of Biden Town Hall?"
     excerpt: "Stephanopoulous, 59, leads breaking news and major special events coverage for ABC, a position he's held since 2014."
     publishedDateTime: 2020-10-15T19:00:00Z
@@ -176,6 +192,6 @@ related:
         height: 662
         isCached: true
 
-secured: "CykCo3n8WEO6DkXGNxulZGKjiJfzPT4A1vXiXR/aT01u7xCXhlKsIdGVS4OTuepi3MZK2Kjji1yeaNDGAC5Izs8R5ZTPdPOX0Sm14/kFXbBDAIeeZg7SMn8xOCgbV1W5UJpcL7XfWQwCZLSh+gGn7E36ZecbWrgUPaDQKCQjADU+DyU9n9EvZ/CM7xqr5IG4MwYM3Xrunw5zHb97ah0PFrR+NKF1pEpWXM2LwevLQ9bYI7Gyy0phzFKi7xLe9/Q53fkxNvfWV0SxK3HWT86mMkkSNHMzh1IMkH6WSdv9AomNKEc+VyzgEM4DUDMr4frtM8TwG1QY38mKHO1JNCUWOzc5+BJSzxiD3M8YhQmphB0=;Yt1UyM3c2xDjI0otkl9XXQ=="
+secured: "qdgoTrLh8rQwY7gP2X6LnvjnNgJd8GIuTWsOnV3m6wEbFEXGK2Luaa0XfCV0BA4XtTaCbgxNAX3UqLv0gDIIwwGgjTSbVhHAy/BhuLlV9fGIfvCz81D/p+5ggsGXpbytsk6NbZgnZwJLOGA5sHXx5+HuPcPcPuGJsntcpYSAI3dIpw4brthwxdcHj64hjUDukmrZRW2xdU3DB7hHC6Uxn84tZOlWSQsKtjel1D1/30jmZ6AKnArXQf3QCzWBLh0jPrnhQT19CXObSFpnA77PQYnSSEXpSgdRcv/KSjpWtyQlRbTrxkLiqp1BzNCT4ZP9nfNSs/6UImHFw0GZtQHCvRaZDUy8WtkFlLDHchpBhk8eHaMSLQSxuE83XCigxtz8pgI6Ffpvw83aeaGRg99AQy8ee/0kt+ILNKjMzONGQg8rvkjg9uQqpzJd0pIHd8g2WvjZyjhQFgnr21nxG1hAibZR/o5lTV4kHAAEuIbcHBb1GxN0ZxU9cV6qZnxEo39cAxqYrIJ+kA9ZqLA9XwyiBw==;gFfIHOnXtvMjUXuFuIFZNw=="
 ---
 

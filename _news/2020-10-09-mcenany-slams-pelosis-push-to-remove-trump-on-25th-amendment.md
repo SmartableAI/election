@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board"
+    excerpt: "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board."
+    publishedDateTime: 2020-10-16T01:14:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Romney rips Trump, Pelosi, Keith Olbermann, says politics now ‘a vile, vituperative, hate-filled morass'"
     excerpt: "Republican Sen. Mitt Romney of Utah is stressing that the country’s politics has “moved away from the spirited debate to a vile, vituperative, hate-filled morass that is unbecoming of any free nation.”"
     publishedDateTime: 2020-10-13T16:28:32Z
@@ -44,6 +60,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-14-at-1.48.30-PM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump hits back at Pelosi's 25th Amendment move, says her real target is 'Sleepy Joe'"
+    excerpt: "The White House pounced on Speaker Nancy Pelosi's 25th Amendment talk Friday, hitting her for her own mental fitness for office and also suggesting she was trying to target Democrat Joe Biden."
+    publishedDateTime: 2020-10-09T16:52:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGHDYKpM_Ao/trump-pelosis-25th-amendment-move-dem-target-really-sleepy-joe"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "fC/NdGuGlsVcVqUKK6lVkQvX8QcGQFrkFt8OkMBjAAkmG8aZJnUqOB6KZV8+HuI1zPsLvritks2QxU7rn+S8DSnAD8VUUzP09xtAl4IFo/iLtTcpAHoR+3fR2FQufRgtvl5cDbObuoZsEjfs3JrqSRfdoFSz+Ckj80/2vJpp6UWIVlSgS4hZ2AXi8tz27eye2wWUL12YCQF2hf7pP0Da1zEZN4o28P/GqsaywQH05htOAk+qscMRgblanYbaJdKsbEvBTU5eQwA8yBSKg1hChGY+vEHfXF8rGLGnRh9wdAQLG8Ul9esQTAQ7sMacPo5J7KZr1xeLNUqB7e5myUYlvBQldCsq81O74eyCdjsUPns=;m4JcYBT1pvol4KVGEixTzQ=="

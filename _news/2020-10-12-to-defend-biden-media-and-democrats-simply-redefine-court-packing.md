@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Giuliani: Hunter Biden emails prove family 'has been selling Joe's office to the highest bidder'"
+    excerpt: "Emails found on a laptop that purportedly belonged to Hunter Biden prove that \"for 30 years, the Biden family has been selling Joe's office to the highest bidder,\" former New York City Mayor Rudy Giuliani told \"The Story\" Thursday."
+    publishedDateTime: 2020-10-16T00:43:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_3NNz3sYB68/giuliani-hunter-biden-emails-joe-biden-china"
+    ampWebUrl: "https://www.foxnews.com/politics/giuliani-hunter-biden-emails-joe-biden-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/giuliani-hunter-biden-emails-joe-biden-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b627c04-214f-44c9-83c9-ce27f002d27a/a75fd75e-7df3-4c27-977a-4871adb23253/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cuomo reacts to Biden attorney general rumors: 'No interest in going to Washington'"
     excerpt: "New York Gov. Andrew Cuomo said on Monday he has \"no interest\" in serving as Democratic nominee Joe Biden's attorney general."
     publishedDateTime: 2020-10-12T14:24:36Z

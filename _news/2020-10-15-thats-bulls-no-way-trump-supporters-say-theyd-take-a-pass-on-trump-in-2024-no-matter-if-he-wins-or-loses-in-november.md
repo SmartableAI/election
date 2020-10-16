@@ -120,6 +120,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Defends Promoting Conspiracy That Navy SEALs Didn’t Kill Bin Laden: ‘That Was an Opinion’"
+    excerpt: "President Trump defended his promotion of a QAnon conspiracy theory claiming the Navy SEAL team who eliminated Osama bin Laden only killed a body double."
+    publishedDateTime: 2020-10-16T01:42:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-defends-promoting-conspiracy-that-navy-seals-didnt-kill-bin-laden-that-was-an-opinion/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 43
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-9.04.09-PM-1200x677.jpg"
+        width: 1200
+        height: 677
+        isCached: true
 
 secured: "zd7iE43QZG7tqrt4MYXJL4sFMgETj/HJkrv/zXE/CAxVSP/KumaMgOJU8fgvU3SHawT4LtKDwc8XMzEGCJal63ZZtKk5i/5I8aO0g1jjodubwcJxuja27IRqyFwHJkj666rXyQc0zsEuyYJCMIjeBVe/zPITJuWyzPqpQsW+vnFwZtjLU+O0zLCh75TMaJXA4DRbYDVi865afTAYmoYsv3WEWr2FyAqoObhb2TZ8j8H95I95FhwFnBSXFq2cAif9LctF4p1b0MZbUfuRvmqiR8DNdTSkyx5BdEebLh3tzXcitV9GgnB6wq853qXYBqHYQzaEr8u5uJ2qBUd5ep4C1NIMBOVO/UamJirGLLCj879OxlEaYWoBNf1sB3/DXlsE5qxpSUz3StYeRztMSZgGq6iMIDWyjBAmhIpsurbN3Lys2ADMUR59Zkq28Txqp8pAojXWUbwbOjqrSWRieKYTHdpl6dXpH5B63wCjt8GBRUSw/b8z2bLDEbnBcPaUYwo5i0RkfM5Q80z62blHRKbSqQ==;iqg7ZwoqQbWBenBLc7sqQA=="
 ---
