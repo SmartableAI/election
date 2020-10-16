@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-n
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Does Trump merit the hatred? Let us count the ways"
+    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
+    publishedDateTime: 2020-10-16T09:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
+        width: 1200
+        height: 815
         isCached: true
   - title: "Collins: Maskless Trump Set a Poor Example at White House"
     excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."

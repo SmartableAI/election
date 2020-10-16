@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucke
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/sean-hannity-joe-bidens-mental-senile-tucker-carlson-mistake-trump-1538587?amp=1"
 type: article
 quality: 113
-heat: 113
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -29,6 +29,86 @@ images:
     width: 2500
     height: 1662
     isCached: true
+
+related:
+  - title: "Sean Hannity says Savannah Guthrie was 'Joe Biden's Surrogate' in Trump Town Hall 'Ambush'"
+    excerpt: "Fox News host Sean Hannity accused the chair of Donald Trump's televised town hall of acting as Joe Biden's \"surrogate,\" claiming the president had been \"ambushed\" when challenged over previous comments he made on the subject of white supremacy."
+    publishedDateTime: 2020-10-16T09:23:00Z
+    webUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659"
+    ampWebUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1653728/trump-guthrie-town-hall.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Did Joe Biden really say he was running for the Senate?"
+    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
+    publishedDateTime: 2020-10-14T01:28:00Z
+    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 105
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
+    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
+    publishedDateTime: 2020-10-14T20:09:00Z
+    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
+    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
+        width: 1024
+        height: 735
+        isCached: true
+  - title: "Savannah Guthrie Slammed After Hosting Donald Trump Town Hall: 'Rude, Disrespectful'"
+    excerpt: "Many were not happy with the way Savannah Guthrie handled Donald Trump's town hall interview on NBC because they found her rude and disrespectful."
+    publishedDateTime: 2020-10-16T04:22:00Z
+    webUrl: "https://www.ibtimes.com/savannah-guthrie-slammed-after-hosting-donald-trump-town-hall-rude-disrespectful-3062923"
+    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-slammed-after-hosting-donald-trump-town-hall-rude-disrespectful-3062923?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-slammed-after-hosting-donald-trump-town-hall-rude-disrespectful-3062923?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 68
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/25/savannah-guthrie-twitter.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Donald Trump Gets In Heated Exchange With Savannah Guthrie In Opener To NBC News Town Hall"
+    excerpt: "Donald Trump’s town hall with NBC News — competing against a similar event with Joe Biden on ABC News — opened with a contentious series of questions with moderator Savannah"
+    publishedDateTime: 2020-10-16T01:30:00Z
+    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/"
+    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 65
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Biden-Trump.jpg?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
 
 secured: "m2uHa0VD4BZ/FbNiunku19AZiFK7SVXwdV5SEW//Vj+XUKin0z/GckB5Y3OnRrfe7FsIKQJ8DP8VVyARO6XIrkM7mFYvWY5j3WhTTTS3KQbKi4kQHh0dr2fvlbTDgUO6NqUeuOonmSnjKmfEmpy70+2uoB4Tyng/VcEonsOo8yo61fREdBDKY1rDJBJ366ryCK+wOZ7/L7W8sVnBShCLwsD3kOgK04tsJprkoo9BB/ubIy2zC7jx/DJSmI5Dk1OZYZK2U4RcI/vSadGm0wld+ru7wjbyDnY85TPb4P5YKY8rnVgtPs+cBMzXR/KoMtOCmzPnvmyapGu9XRGCteCV/mnKr+zibGCS6Ky7GMKXXIzxCMP+05E+Dp5ePxudpARSjyi9eaKfDxxwA+bDmNrucEYWL3GzDIGpqz4k/z4E4kGCDOUvAYLDEZLycXIIO1EemuIYGdJI/YSlV6FY5wGne+vj7ijfegYKyfR6XabXthlRoVEFqZEMkksW4ldD3efhG4RnGPaC9K13X8AUDo7GDw==;sn5jsojN8Pp7Hb3i2KXLbQ=="
 ---

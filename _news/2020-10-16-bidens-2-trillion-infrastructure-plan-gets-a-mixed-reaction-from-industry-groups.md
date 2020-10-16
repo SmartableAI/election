@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
+    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
+    publishedDateTime: 2020-10-16T08:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
+    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
     publishedDateTime: 2020-10-11T18:56:36Z
@@ -230,6 +246,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 84
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
     publishedDateTime: 2020-10-14T23:30:00Z
@@ -259,6 +291,6 @@ related:
         height: 764
         isCached: true
 
-secured: "3729s6cbGh+joxS4qEsz9f73R3xP8Fv6xuHyjJ2yGp3zLKBBxIhAJVmUnH3bvroPwY/tWDR6GT9NM8hMzH7OZ4uEZyz92/Nea9rw1HXstjXDR3MOVpz2zynk9XY09aejUCAUNrGhcngukOvNMrMJPVKvOiQjVF+8xa6rOP+qe5bJdnGGrzdo9FPNWyiZMrV+DoJYGpKIDfO2Cyakp4g0lo1xBP+diSc1C7X0cKL9PRWL4jZVWA8NCOvaUmwnWo02vW5uW7ovDYZDrt1QAZw+5MTXnbtPcsVCLnkThX03Xwvb5bJcV8Em6SxfuU2SApR9p8MdLEGIdQWHydaI7VrWwqK5POjh3ezdd8dO+RveylA=;Mj/LqUbZlU7CsBXUYvTuqg=="
+secured: "TnC8qra/318cazDBcYydysj4DNMJdpMFw9chkG0KcVdMqcidGD43EHXZBOv9NWMuQ/mmMKRXPv4sWh4+ABV59XOZxA5AXoX2XY9kmQJfx3Zg672uOwpE3iiKlP8BRhhaLaAumRcIKyPWa60rqj+iuxmcaDBAsfNUR1zGi2OyKgU7ebgZRKlh9SPZJi0xMyAj7Y1MM3Um6Tl3mZN5S1jnx0V7JwpGWhdgqlA6kYh7KoL/2JCyhblMSBuVUIdsr6na5woy29s7xYnkpOJ+OQB6bjh767+mpwbVynZUKouvMoOK1OMtupVea2txEZAj7h+/oztdDJH/SpncZTRjh1euKHThIUhRsjQ+aeR83NO2O0HGnPOi4j+2VdgtWDbyIMTZ0+kp/MEmtM+yaypCK9yGJKyErGP0S+uiP8s17TLqUMKOx4CNeGx6rA2Ybem55kBiHWdBqzOTDzaV5502SlPXE1dUv1k27SJXU8r7c59R9wXqUBrFXR/taKSmj0q/8wh4JEcA4iqnJ8psGpPA6l9/jA==;GfUKE5IhNI8N0uTZGLCZAw=="
 ---
 

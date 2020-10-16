@@ -119,6 +119,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Does Trump merit the hatred? Let us count the ways"
+    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
+    publishedDateTime: 2020-10-16T09:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
+        width: 1200
+        height: 815
+        isCached: true
   - title: "Trump Defends Promoting Conspiracy That Navy SEALs Didn’t Kill Bin Laden: ‘That Was an Opinion’"
     excerpt: "President Trump defended his promotion of a QAnon conspiracy theory claiming the Navy SEAL team who eliminated Osama bin Laden only killed a body double."
     publishedDateTime: 2020-10-16T01:42:00Z

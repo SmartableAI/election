@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
+    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
+    publishedDateTime: 2020-10-16T08:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
+    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
     publishedDateTime: 2020-10-11T18:56:36Z
@@ -214,6 +230,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 84
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Biden's $2 trillion infrastructure plan gets a mixed reaction from industry groups"
     excerpt: "Democratic presidential nominee Joe Biden has managed to thread the needle with his latest massive infrastructure wish list, pleasing industry stakeholders and environmentalists alike."
     publishedDateTime: 2020-10-16T03:00:00Z
@@ -259,6 +291,6 @@ related:
         height: 764
         isCached: true
 
-secured: "q8t3pmXui4SyEcz4rHfCT/Axrbi/sYRPh70fISAkl32uqctrX7EJM1t+wyIcRY3pC3+Rphmbdgh3CkDwPWdUUufoDQ5+iO9dXPjivrIYffWFmETs6hQDZ7kiMmWnurjR2kxI8h12NiCgHa/rAafNsgRE22TwfNBDnX3z+csG6j71wRqdK8CzsXW/M9EjfKW7fcmlUUVzdgFhqqCLPwyJy3pR52RFNWxs3qw3F7hlKLrw175Hyz1SYZyPzpgAjaossNmInvi8fTp1sMk0tDuvZsZBgphItZew8vdCdpq+TyHr/G8NQgTZpT0CsvSfkvevZxoc+andfOQMMlRmI1XuFEkcXGtI96005s0TVaiU0Zk=;3XIBBDEi7xzfv6DJ0tcS/w=="
+secured: "HeUi5XW850K9u1Xw/qY1HumbH8wc9nUrqbzNo70Lb8H8/xZTrppyR8t6yri1I5dB0ywEd3zoecVHlL6o01IIq1gPMqA3cZNO93RwQjseoiaVwTlGjTDpBGjfU44pLhDCsQIBhlsRPhTAu1KiDhnxZyZg6UsKR7IpafR2F8go2i2mh/PxYfBBX+9gPd80u/IZsufWiVRKXKfnZW1EAxbz11Hf7feknl+05yrGCcV7b+O/pgNsp8KF34nq8AYMpKrIOWSTgx+9QAKsPV4GRVofMy/v6uirldNmTsJtk1eFmLhZMT8yjXo9bkXXBH35A2tP8GaWEGUvh3N16G63h3FeUAHrfV+XjrBgFC1wrIOpOQgkHsydNMMgS9v2gnYWD8Xm0r6Tv7s3kry82jSbG/tpf+W75hf+nDEv51TjPRzlUxj/XBOZxyR76UNvxhbH5ReycTheVYBJ0xxXx+QUZWpTLKmpmoHRShHkwwkZIeNXh80KoeeiVAgi6DMtB0hfMYoer3B4k3ddVOQhrC9laB86vA==;eMoO9SLhaGHtgNQnhsXhsg=="
 ---
 

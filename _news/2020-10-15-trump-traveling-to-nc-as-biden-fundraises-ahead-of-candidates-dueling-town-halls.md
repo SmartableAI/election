@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundrais
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
 type: article
 quality: 185
-heat: 485
+heat: 525
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
+    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
+    publishedDateTime: 2020-10-16T08:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
+    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
@@ -208,6 +224,22 @@ related:
       name: Townhall
       domain: townhall.com
     quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 84
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
         width: 650

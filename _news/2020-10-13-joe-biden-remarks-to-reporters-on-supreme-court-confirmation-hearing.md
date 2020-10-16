@@ -301,20 +301,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Did Joe Biden really say he was running for the Senate?"
-    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
-    publishedDateTime: 2020-10-14T01:28:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Facebook And Twitter Limit Sharing New York Post Story About Joe Biden"
     excerpt: "The social media companies said they wanted to slow the spread of possibly false information. But their actions drew charges of censorship from President Trump's allies."
     publishedDateTime: 2020-10-14T22:49:00Z

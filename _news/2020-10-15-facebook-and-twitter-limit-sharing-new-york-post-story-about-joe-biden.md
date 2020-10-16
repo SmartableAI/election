@@ -311,20 +311,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Did Joe Biden really say he was running for the Senate?"
-    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
-    publishedDateTime: 2020-10-14T01:28:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Joe Biden once again says he’s ‘not a fan’ of expanding Supreme Court, says GOP ‘court-packing’ by rushing to fill seat"
     excerpt: "Joe Biden says he is “not a fan” of adding seats to the Supreme Court, after weeks of avoiding questions about the idea that’s been pushed by progressives and used by Republicans to attack him."
     publishedDateTime: 2020-10-13T13:41:00Z

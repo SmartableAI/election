@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-tow
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
 type: article
 quality: 124
-heat: 324
+heat: 284
 published: true
 
 provider:
@@ -111,22 +111,6 @@ related:
         width: 1024
         height: 741
         isCached: true
-  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
-    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
-    publishedDateTime: 2020-10-14T20:09:00Z
-    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
-    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
-        width: 1024
-        height: 735
-        isCached: true
   - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
     excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
     publishedDateTime: 2020-10-15T18:13:00Z
@@ -142,22 +126,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg"
         width: 1024
         height: 664
-        isCached: true
-  - title: "Donald Trump Gets In Heated Exchange With Savannah Guthrie In Opener To NBC News Town Hall"
-    excerpt: "Donald Trump’s town hall with NBC News — competing against a similar event with Joe Biden on ABC News — opened with a contentious series of questions with moderator Savannah"
-    publishedDateTime: 2020-10-16T01:30:00Z
-    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/"
-    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 65
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Biden-Trump.jpg?w=1000"
-        width: 1000
-        height: 563
         isCached: true
   - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
     excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
