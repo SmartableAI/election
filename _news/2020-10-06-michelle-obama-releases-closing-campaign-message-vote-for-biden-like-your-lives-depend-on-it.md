@@ -143,6 +143,22 @@ related:
         width: 2500
         height: 1839
         isCached: true
+  - title: "Biden asked about transgender rights by mother with a transgender child"
+    excerpt: "Joe Biden was asked by a mother with a transgender child what his views on transgender rights are during a town hall in Philadelphia. Biden assured \"there should be zero discrimination.\""
+    publishedDateTime: 2020-10-16T01:57:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-asked-about-transgender-rights-by-mother-with-a-transgender-child-93940293641"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93940293641"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93940293641"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/f_mo_abc_biden_trasnrights_201015_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
     excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
     publishedDateTime: 2020-10-09T21:39:00Z
@@ -184,6 +200,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Grit Your Teeth, Vote for Joe Biden and Then, Fingers Crossed, Push Him Hard to Do Better"
+    excerpt: "There is no sane alternative, but his outlook is the same old centrist proactive-fear-of-prompting-a-backlash-with-too-much-progressivism that got us here in the first place."
+    publishedDateTime: 2020-10-16T07:10:00Z
+    webUrl: "https://www.thedailybeast.com/grit-your-teeth-vote-for-joe-biden-and-then-fingers-crossed-push-him-hard-to-do-better"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 36
 
 secured: "H8dmN14+qk3SR1/IXdw2N/lOtxkagohJLDALNzOS3qQxf2tPS0Vc/QqfEb8ELF57dIrpixF5iUA9UwhzeQfAR2daI+HVtMjZOrf1Ev43n1bYcTuqJcTDMcJ1oTqzwnw0ROqmRvvYbF0kthjhbxe3T9FXcEuNx90AwIXL3I2GlPMtPdPUi6K9JBJztiNEgwY/q2dJdQkYJrRw+5Q5b0WeVPa65sjj8HTINUuPC1TN1PsNe8GWXzC06e2hcqdTky6gW00TS9NvgSn8Ju+zJVZQ6EOXiMIfsypq6bF7XkxQOYfkiOHS8FIcVTXuucp8EllaMtN8/coFN/dyot3eBJyvDcPrJ4zT6DiReQ8qJBSYOrE=;62psIvbjQksHNr7OBVt9kw=="
 ---

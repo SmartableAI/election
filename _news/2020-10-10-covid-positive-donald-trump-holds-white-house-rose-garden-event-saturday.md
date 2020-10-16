@@ -1403,6 +1403,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "The manslaughter case against Donald Trump"
+    excerpt: "More than 215,000 Americans have died from COVID-19 and millions more have been infected, including President Trump himself, his wife and son, his inner circle, and members of Congress. Now that Trump is again holding rallies endangering more people to the coronavirus,"
+    publishedDateTime: 2020-10-16T09:04:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-the-manslaughter-case-against-donald-trump-20201016-j6fmi2a3yfg6ldahfra3usbaxe-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-the-manslaughter-case-against-donald-trump-20201016-j6fmi2a3yfg6ldahfra3usbaxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-the-manslaughter-case-against-donald-trump-20201016-j6fmi2a3yfg6ldahfra3usbaxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/2KI-yBXeUq_s_HncVcCM65dYIMI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BOVH5NBSABB7TPORHWZXR6NHAQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Demi Lovato calls out Donald Trump on political anthem Commander in Chief"
     excerpt: "Demi Lovato has called out President Donald Trump on his handling of racial injustice and the coronavirus pandemic on her new politically-charged anthem 'Commander in Chief'."
     publishedDateTime: 2020-10-14T08:00:00Z

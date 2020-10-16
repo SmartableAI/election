@@ -2,9 +2,9 @@
 category: news
 title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
 excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
-publishedDateTime: 2020-10-15T23:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
-webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
+publishedDateTime: 2020-10-16T05:27:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
+webUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
 type: article
@@ -242,6 +242,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
+  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
+    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
+    publishedDateTime: 2020-10-16T11:49:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 94
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video"
     excerpt: "Coney Barrett faces second day of Senate judiciary committee"
     publishedDateTime: 2020-10-15T01:30:00Z
@@ -442,6 +456,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "GrZgX+pGLMnb7CERyIb1kOBxczKLlfWf+Vrwg03sy8ZwcCAgT5+g2Rw9Oalb0JoEckvKz4VlSC1f2qPYaaW7AL3cLYvuRV0CP5rZ4Kqzei/bIPKTn255BaHGXN7r5aO8oVY5uQvP/MjEwUstFZFJ3IUTOy8veYtC6FwlxvTUaB+uHoUD5L3nr9xNsM4AbDzgpemK8G06d7KBNBUEsBlRPVajd94AXym3bhdAnT82tyAcI+smMCrMlXkVXJOBDR30VKiWfc2XhYuPrBmIlV8w4WXHI8ueEFBefI3JsLPPzulyVDokdRvTSuH7kr72m/Vw4SkATjBCdQd0TV16kZDDmGKhHq5g7+4gYUhZPfi2ip4UVZBCFUyfL8RFhSublH5yxD/O/ANHEwZM8fH9erWDYC0MC4MeOniezp/KB/EHIMDUAlOCROs9/Pr3cv6k786ANiOZw3l+Td0bpvSalrto+ZyEsYuO/oASs+UTI3Xk56DRmK2nf/Ajt+rhJ/Z2WXhL+guwo3k86VLAxLPO1nzrWg==;e9hO/6Jf/ooA5+WiMDDb6g=="
+secured: "m8bMqHAdB1424sEXrJhjxvL0rly9pZk9kH1Y/7r2U7g37C0Y7fum5bmVpqQJo7AAYh87z001ykN8f2+vMFijfGKf153hbjGHHVSoV2Ds/VtZgJNOlJ55KM+TfA1AbHoPJH/Yp9ulr/EdHXRDGXzKnx/NkwfpTmTY9YZEFwFLf4GXRh2Tkx4TRIvFeFsbadPQ78z3WPMcREsui1IFi0YgAijNbLqekxcqkp8ZzE1xCmXBulGSkk6Fnw1jUeHMubDKwADqSoJxXBhEinf33XGWRoFyIS/F5zxEc52IUeIE643VQMH/guFfKcWpPw/iLoAL4tEAS4e0BFNFgM8kjFNd1cfGLRQyr5LeT1dOCxQ7F58=;SQGMLokkn9EtWL1pwkRgbg=="
 ---
 

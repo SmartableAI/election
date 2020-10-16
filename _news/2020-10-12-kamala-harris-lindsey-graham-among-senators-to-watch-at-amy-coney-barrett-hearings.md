@@ -45,8 +45,8 @@ related:
         isCached: true
   - title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
     excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
-    publishedDateTime: 2020-10-15T23:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
+    publishedDateTime: 2020-10-16T05:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
     type: article
@@ -254,6 +254,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
+  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
+    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
+    publishedDateTime: 2020-10-16T11:49:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 94
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video"
     excerpt: "Coney Barrett faces second day of Senate judiciary committee"
     publishedDateTime: 2020-10-15T01:30:00Z

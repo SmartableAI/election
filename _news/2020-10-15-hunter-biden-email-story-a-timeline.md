@@ -64,7 +64,7 @@ related:
         height: 720
         isCached: true
   - title: "Twitter announces new policies after Hunter Biden report imbroglio"
-    excerpt: ""
+    excerpt: "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates."
     publishedDateTime: 2020-10-16T04:19:29Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio"
     ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 294
+published: true
 
 provider:
   name: CNN
@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Task force warns against small gatherings as Trump rallies with thousands"
-    excerpt: "The White House coronavirus task force expressed concern about virus spread stemming from small household gatherings as coronavirus cases rise across the country and colder months approach. The warnings come as President Donald Trump continues ignoring precautions as he gathers thousands of mostly maskless"
-    publishedDateTime: 2020-10-14T17:02:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVmjGsHcLbY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html"
+  - title: "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years"
+    excerpt: "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n"
+    publishedDateTime: 2020-10-14T21:39:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013013829-us-coronavirus-coming-surge-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "North Carolina Voters Distrust Trump and Tillis, Poll Finds, Imperiling G.O.P."
-    excerpt: "President Trump trails Joseph R. Biden Jr. by four points in the latest Times/Siena survey of North Carolina, and Senator Thom Tillis is lagging behind his Democratic challenger in a crucial Senate race."
-    publishedDateTime: 2020-10-15T03:26:00Z
-    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/north-carolina-trump-polls.amp.html"
+  - title: "The Point: Donald Trump is doing the exact opposite of what he should in the last days of 2020 campaign"
+    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better.\n    \n"
+    publishedDateTime: 2020-10-14T17:16:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlqUqf8tZW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://static01.nyt.com/images/2020/10/14/us/-promo-1602694963683/-promo-1602694963683-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
-    excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
-    publishedDateTime: 2020-10-10T21:33:00Z
-    webUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.amp.html"
+  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
+    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
+    publishedDateTime: 2020-10-10T15:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 128
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
         width: 1050
-        height: 549
+        height: 550
         isCached: true
   - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
     excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
@@ -95,34 +95,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Those waiting for Trump's 'middle-income tax cut' should give up"
-    excerpt: "Shortly before the 2018 elections, Trump made up a tax-cut idea that didn't exist in reality. Shortly before the 2020 elections, he's doing it again."
-    publishedDateTime: 2020-10-12T15:26:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955"
+  - title: "Trump Touts Falconer’s Benghazi Blood-Sacrifice Conspiracy Theory"
+    excerpt: "Trump’s endorsement of the insane story shot it to national prominence, fueling the bizarre allegations about blood sacrifice and Bin Laden body doubles."
+    publishedDateTime: 2020-10-13T23:30:00Z
+    webUrl: "https://www.thedailybeast.com/trump-touts-falconers-benghazi-blood-sacrifice-conspiracy-theory"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "In his chess match with North Korea, Trump is clearly losing"
-    excerpt: "On global affairs, Trump has said, \"If you're not a great chess master, you're going to have a problem.\" His failures with North Korea prove the point."
-    publishedDateTime: 2020-10-14T13:34:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/his-chess-match-north-korea-trump-clearly-losing-ncna1243316"
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "CNN Anchor Shreds Fox News and Trump for Peddling ‘Bogus BS’ With ‘No Accountability’"
+    excerpt: "The president and his allies push and push conspiracy theories and misinformation. They repeat them ad nauseam so that millions of viewers just end up adopting it as fact.”"
+    publishedDateTime: 2020-10-15T18:51:00Z
+    webUrl: "https://www.thedailybeast.com/cnn-anchor-brianna-keilar-shreds-fox-news-and-trump-for-peddling-bogus-bs-with-no-accountability"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_17/3318221/200422-trump-kim-mc-937_f300c03badf176b4e5c4bf5b25fc42c7.nbcnews-fp-1200-630.JPG"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 38
 
 secured: "hbbYRvGZQY/YAMmyPib2T+OvC7QnI3YOBu18K3dopI/G3G6kVZJcExR63W/WTyXn8qvmb08gkpzBj43FQ6q/QfPXXU+gVJlUMVfAoNyVd3B8kuJhjzS293GTsqKbuMqSah34hyG6WNQ0mjR3T3SeSNFDhmrSMABoeb7ZxMmsp+bNSmOYIvMhqW5o2fVodoqC9R/0i3g0BgDiFsDeYzqtrdjyXQWIvSjKm7pKp9LoBPJkq+q30cU+S6Hu8YgtV5PLdXvZjyxapNvaclZIaMGsMFGp2sYtOuZklLoo2FuaCdHB+jx/tH22SAGx1VGgRuh4eg6HqeFr2O1ES1H9vzVTl/dlc02ueIHCbAea/dC1pio=;3Svye8bxR21ObGKfOHh6uA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 type: article
 quality: 130
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden says crime bill was a 'mistake' during ABC town hall"
+    excerpt: "Former Vice President Joe Biden acknowledged on Thursday that his support for a crime bill that is widely blamed for increasing mass incarceration of people of color was a mistake, but defended some aspects of the measure."
+    publishedDateTime: 2020-10-16T01:56:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work"
     excerpt: "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate."
     publishedDateTime: 2020-10-13T11:21:00Z

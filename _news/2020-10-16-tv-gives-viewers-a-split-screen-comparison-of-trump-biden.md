@@ -1,33 +1,29 @@
 ---
 category: news
 title: "TV gives viewers a split-screen comparison of Trump, Biden"
-excerpt: "Instead of the expected debate between President Donald Trump and Democrat Joe Biden, television viewers were left Thursday with what ABC’s David Muir called “split-screen America.”"
-publishedDateTime: 2020-10-16T04:57:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+excerpt: "Instead of the expected debate between President Donald Trump and Democrat Joe Biden, television viewers were left Thursday with what ABC's David Muir called “split-screen America.” Biden participated in a 90-minute town hall from Philadelphia on ABC,"
+publishedDateTime: 2020-10-16T11:37:00Z
+originalUrl: "https://www.chron.com/news/article/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
+webUrl: "https://www.chron.com/news/article/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
+ampWebUrl: "https://www.chron.com/news/amp/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
 type: article
-quality: 140
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Entertainment/WireAP_4c308093ec3a4662b70311c5dbe60a16_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -1039,6 +1035,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump retweets satirical news story about Joe Biden and Twitter"
+    excerpt: "Trump likes to denounce alleged \"fake news,\" but he retweeted a story Friday from a satirical news site Babylon Bee."
+    publishedDateTime: 2020-10-16T11:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/donald-trump-retweets-babylon-bee-attack-joe-biden-twitter/3675923001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3675923001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3675923001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/5559ae1e-6ec7-4ef6-9a4e-55fa25530231-AP20290022795101.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1596,6 +1608,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Trump, Biden shower ad money on Phoenix, Philadelphia, Florida’s I-4 corridor in final stretch"
+    excerpt: "Biden outspent Trump 2-to-1 on TV ads in North Carolina and Florida, 3-to-1 in Michigan and 4-to-1 in Pennsylvania."
+    publishedDateTime: 2020-10-16T09:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/trump-biden-campaign-ads-florida-arizona-pennsylvania-priorities-strategy/3594541001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3594541001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3594541001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 128
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/2cfaeb2f-63ad-470a-a364-20308ab3e35c-campaign_ads.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Fly on Mike Pence's head steals the buzz from vice presidential debate, and Biden can't complain"
     excerpt: "A fly that landed on Vice President Mike Pence's head during the presidential debate generated a lot of buzz online."
     publishedDateTime: 2020-10-08T04:13:00Z
@@ -2011,6 +2039,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/USAT/189f38a2-9a66-4a7a-a8b6-71cc9c5cde57-3da043d6-e8e3-48d9-9d09-8333ad32fee5_thumbnail.png?quality=10"
         width: 480
         height: 480
+        isCached: true
+  - title: "Why a Biden White House should see no evil, speak no evil and issue no pardons"
+    excerpt: "Here’s who should stay out of it: the White House. But the whole point of such work is to get beyond politics. Political differences on, say, health care, foreign policy and immigration account for the ordinary swings between administrations of different parties."
+    publishedDateTime: 2020-10-16T10:15:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/biden-white-house-prosecute/2020/10/16/f2ef9114-09a9-11eb-9be6-cf25fb429f1a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/biden-white-house-prosecute/2020/10/16/f2ef9114-09a9-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/biden-white-house-prosecute/2020/10/16/f2ef9114-09a9-11eb-9be6-cf25fb429f1a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UIUINQQPNAI6XADUB2KDVEN7BA.jpg&w=1440"
+        width: 1440
+        height: 1015
         isCached: true
   - title: "Biden: shouldn't have debate if Trump still sick"
     excerpt: "Joe Biden says he and President Donald Trump \"shouldn't have a debate\" if he still has COVID-19. Biden said Tuesday that he's \"looking forward to being able to debate him\" but said they need to \"follow very strict guidelines."
@@ -5309,6 +5353,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "oHRGd3T75fWac8iNaD7RiC56j2WVyBxrrB4JpqBqsd4Te+/hjWuR2cJVwA6Ul0Gf9ncs3/j/c/YM9GA3NI7R7FvDjUK6piO6mOsHa2vDTnCLaQ2f/cgNedrdpqN6jM00GKunoV7WPM7CiVnMh2dVhwK60UMaSMoxNmlv2Lf6gDVe+5tOQHGaDE47cNQX3tkOf2+8/7+5Yw+0Nj7yMq7XqcLoeOMHYStfUQEp9jwvhhqED4qjG2LdOfDLfC/kKAWJFsSJK5wsZVsEIROl/zfq2gvruF0AoJTPI69DirPuOqLftgE3MaypcHhyC4Siwf0k2P+gLDaJgvCuSvr07hh4PeJL35Z1ZgK0rTPIwmHKayPWhrTDy+ZOQqrBFTkAKyYbgQngYPCkaiCwveLOYHnI535QlJ0cRoax/pJkQvEIp3UimT8zB62+0OPRTAGLKTNCVGlfo95mrGXPhDnA0HzfK7GTWN7WltxtSw5lN1wjdWbOGeI4JzFGdRqhbE/umtafd1uf5WruxfFC2Db8i2LGHg==;AqkE9Ws4VFTxYICn8O7Y+Q=="
+secured: "1ZYo/JEl6SoUNdMmIOplk8N8F5nZUgIwbU60rysgwY9jvWZuLIKR6F3x38zVSBU7ZyTTZUOsRsV2520fim3E6LZST+LwLBWwL3W6r3KpliAzq2ddcguJNLj1u6d98q+vYfuHE/vqxceOaDAfBuWYE2W83K21py+7oqKPRzlG0BMpigWtBgKap6OLmnl1VADVeyajAH4015TLONXPtBJKsYdviUfzXWgxY3E9auqGzPOdq6xvDQ0ukINAb/Hvc/KB5UzOiRNt0UnXDgLAcO5KRa8tmkpgO9bBbgk24MhFIVOe6Iry4953rUW0LbGZEo4cf7lOHnTm/sILzBvVmUrz7GS7xHpD3AYkzrOwE68xF5Q=;bGnoEgm2W1RH623wkXUwzQ=="
 ---
 

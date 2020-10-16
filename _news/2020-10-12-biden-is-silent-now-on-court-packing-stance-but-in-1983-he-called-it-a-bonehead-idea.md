@@ -45,6 +45,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Hunter Biden emails, texts reveal wild life, pained soul"
+    excerpt: "Hunter Biden’s emails and texts show not just a politician’s troubled son angling for lucrative overseas business deals — they also reveal a concerned father, a fun-loving friend and a man tortured by the deaths that have devastated his family."
+    publishedDateTime: 2020-10-16T11:47:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MA0J7mqgwv0/hunter-biden-emails-texts-wild-life"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi, Schumer mum on court packing as Biden refuses to give stance"
     excerpt: "House Speaker Nancy Pelosi and Senate Minority Leader Chuck Schumer have been mum on whether they are in favor of packing the Supreme Court should Democrats win the presidency and reclaim the majority in the Senate"
     publishedDateTime: 2020-10-12T10:53:16Z
@@ -214,6 +230,15 @@ related:
     excerpt: "RealClearPolitics"
     publishedDateTime: 2020-10-15T11:35:00Z
     webUrl: "https://www.realclearpolitics.com/2020/10/15/so_biden_lied_all_along_about_influence-peddling_526404.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+  - title: "Credibility Questions Swirling Around Hunter Biden Reports"
+    excerpt: "There are huge credibility questions swirling around a series of reports by the tabloid across town, all of which emanate from a laptop, said to be Hunter Biden's, supposedly left behind at a Delaware repair shop."
+    publishedDateTime: 2020-10-16T11:18:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/16/credibility_questions_swirling_around_hunter_biden_reports_526534.html"
     type: article
     provider:
       name: RealClearPolitics

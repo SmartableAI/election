@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-camp
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
 type: article
 quality: 189
-heat: 289
+heat: 309
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70a16502-b86c-4e51-818f-c6da8c881474/43980fb3-be0d-4bda-a962-e4c9cdd3e0d9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
+    excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
+    publishedDateTime: 2020-10-16T11:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZAGRIwAL84/trump-stumping-florida-biden-michigan-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

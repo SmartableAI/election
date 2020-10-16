@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Biden says crime bill was a 'mistake' during ABC town hall"
+    excerpt: "Former Vice President Joe Biden acknowledged on Thursday that his support for a crime bill that is widely blamed for increasing mass incarceration of people of color was a mistake, but defended some aspects of the measure."
+    publishedDateTime: 2020-10-16T01:56:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Did Joe Biden really say he was running for the Senate?"
     excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
     publishedDateTime: 2020-10-14T01:28:00Z

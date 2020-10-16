@@ -128,6 +128,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump apparently fooled by satirical website's Twitter story"
+    excerpt: "President Donald Trump on Friday shared a story from a known news satire website seemingly in earnest, using the fake report to blast Twitter’s handling of dubious allegations against Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-16T11:21:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/trump-apparently-fooled-by-satirical-websites-twitter-story-429776"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/trump-apparently-fooled-by-satirical-websites-twitter-story-429776"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/trump-apparently-fooled-by-satirical-websites-twitter-story-429776"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/c9/db/76268b5049a3bebd65210400bc30/ap20290037876267-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
     publishedDateTime: 2020-10-09T21:26:00Z

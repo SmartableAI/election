@@ -1390,6 +1390,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "The manslaughter case against Donald Trump"
+    excerpt: "More than 215,000 Americans have died from COVID-19 and millions more have been infected, including President Trump himself, his wife and son, his inner circle, and members of Congress. Now that Trump is again holding rallies endangering more people to the coronavirus,"
+    publishedDateTime: 2020-10-16T09:04:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-the-manslaughter-case-against-donald-trump-20201016-j6fmi2a3yfg6ldahfra3usbaxe-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-the-manslaughter-case-against-donald-trump-20201016-j6fmi2a3yfg6ldahfra3usbaxe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-the-manslaughter-case-against-donald-trump-20201016-j6fmi2a3yfg6ldahfra3usbaxe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/2KI-yBXeUq_s_HncVcCM65dYIMI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BOVH5NBSABB7TPORHWZXR6NHAQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
     publishedDateTime: 2020-10-10T15:53:00Z

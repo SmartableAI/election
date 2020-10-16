@@ -2,33 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-16-experts-neither-biden-nor-trump-are-artifically-amped.md",
-      "title": "Experts: Neither Biden Nor Trump Are \"Artifically Amped\"",
-      "excerpt": "They’ve got a couple of physicians on board who are deeply politicized and have bought into their line completely,” said Dr. Edward Shorter, a University of Toronto professor.",
+      "path": "_news/2020-10-16-trump-warns-of-backlash-if-the-eu-levies-around-4-billion-in-tariffs-after-wto-ruling.md",
+      "title": "Trump warns of backlash if the EU levies around $4 billion in tariffs after WTO ruling",
+      "excerpt": "If they strike back, then we'll strike much harder than they'll strike. They don't want to do anything.\"",
       "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/experts-neither-joe-biden-nor-donald-trump-are-artifically-amped",
-      "originalUrl": "https://www.thedailybeast.com/experts-neither-joe-biden-nor-donald-trump-are-artifically-amped",
+      "webUrl": "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 80,
+      "highlight": null,
+      "heat": 117,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8916f1d260780019341bf5?format=jpeg",
+          "width": 2500,
+          "height": 1249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T02:13:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp",
+      "publishedDateTime": "2020-10-16T04:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thedailybeast.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -45,8 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Democratic Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -361,7 +365,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -730,7 +734,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2481,
+      "heat": 2501,
       "tags": null,
       "images": [
         {
@@ -1309,63 +1313,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-13-romney-decries-state-of-americas-vile-vituperative-hate-filled-politics-puts-blame-largely-on-trump.md",
-      "title": "Romney decries state of America's 'vile, vituperative, hate-filled' politics, puts blame largely on Trump",
-      "excerpt": "Romney said he's \"troubled\" by U.S. politics having \"moved away from spirited debate to a vile, vituperative, hate-filled morass\" unbecoming of America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/romney-decries-state-america-s-vile-vituperative-hate-filled-politics-n1243154",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/romney-decries-state-america-s-vile-vituperative-hate-filled-politics-n1243154",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2019_43/3066261/191023-mitt-romney-ew-354p_c77d2968ce9850c2647d31469de00994.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243154",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243154",
-      "publishedDateTime": "2020-10-13T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-13-not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac.md",
       "title": "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC",
       "excerpt": "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election.",
@@ -1547,6 +1494,58 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/5972629002",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002",
       "publishedDateTime": "2020-10-12T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-columbus-day-trump-accuses-radical-activists-of-trying-to-undermine-explorers-legacy-in-holiday-proclamation.md",
+      "title": "Columbus Day: Trump accuses 'radical activists' of trying to undermine explorer's legacy in holiday proclamation",
+      "excerpt": "Trump used a typical White House holiday announcement to accuse \"radical activists\" of seeking to undercut Christopher Columbus' legacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/columbus-day-trump-says-radical-activists-attacking-legacy/5970125002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/b1a48c71-0db5-472d-945f-c12c4f309ee1-GTY_1228998405.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5970125002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5970125002",
+      "publishedDateTime": "2020-10-12T12:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
