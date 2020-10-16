@@ -932,6 +932,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump cannot count on last-minute deciders to save him"
+    excerpt: "Politics Trump cannot count on last-minute deciders to save him. Posted . Four years ago, U.S. President Donald Trump rode a wave of late-deciding voters to a shocking election vi"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://www.reuters.com/video/watch/trump-cannot-count-on-last-minute-decide-idRCV008V1O?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
+        width: 4981
+        height: 3321
+        isCached: true
   - title: "Donald Trump declares himself ready for rallies on phone call with Fox News"
     excerpt: "Donald Trump insisted on Thursday he was ready to resume campaign rallies and felt “perfect” only one week after his Covid-19 diagnosis."
     publishedDateTime: 2020-10-09T13:07:00Z

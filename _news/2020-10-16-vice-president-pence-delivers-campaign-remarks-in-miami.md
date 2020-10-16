@@ -365,6 +365,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Mike Pence campaigns in Miami"
+    excerpt: "Dade County Thursday reflects Trump’s continued efforts to win over Latino voters in the majority-Hispanic region."
+    publishedDateTime: 2020-10-15T23:07:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246488450.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
   - title: "Bern Township police, Berks County sheriff’s office prep for Vice President Mike Pence's visit to Reading Regional Airport"
     excerpt: "Bern Township police, the main Secret Service contact for the event, and sheriff's deputies and others will gather to be briefed prior to the VP's arrival."
     publishedDateTime: 2020-10-14T02:30:00Z

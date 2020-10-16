@@ -636,6 +636,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump delights in systemic sexism and yet ponders why women voters don't like him"
+    excerpt: "It's no secret: President Donald Trump is deeply unpopular among women voters, according to national polls that consistently show him lagging behind his Democratic rival Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-15T23:32:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qQwZb4xadpQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-women-glass-ceiling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-women-glass-ceiling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161103175835-trump-clinton-split-1103-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's doctors paint a rosy -- but vague -- picture of his health during Covid-19 treatment"
     excerpt: "President Donald Trump's physicians on Saturday painted a rosy, but vague, picture of his health as he underwent treatment for coronavirus, saying he was doing well even as they declined to say how high his fever went and whether he ever needed supplemental oxygen.\n    \n"
     publishedDateTime: 2020-10-03T19:54:13Z
@@ -1589,6 +1605,20 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump is losing seniors. Here’s why."
+    excerpt: "Four years later, his celebrity helps explain why he’s losing in the polls to Joe Biden. When he first campaigned for the job, and during much of his presidency, Trump’s immense persona allowed him to repudiate most of the norms that constrain ordinary politicians."
+    publishedDateTime: 2020-10-15T23:11:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2020/10/15/trump-is-losing-seniors-heres-why-490615"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Trump says a Harris vice presidency is ’no way for a woman’ to become president"
     excerpt: "This is not what people want, as then she comes in through the backdoor,” the president said at a rally in Wisconsin."

@@ -460,6 +460,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden campaign finds 3rd virus link; Harris suspends travel"
+    excerpt: "Democratic vice presidential nominee Kamala Harris is suspending in-person events until Monday after two people associated with the campaign tested positive for the coronavirus"
+    publishedDateTime: 2020-10-15T23:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/harris-suspends-travel-staffer-tests-covid-19-positive-73630194"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/harris-suspends-travel-staffer-tests-covid-19-positive-73630194"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-suspends-travel-staffer-tests-covid-19-positive-73630194"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_186c4b685d0a4f99b1f0f1b4f8022b6c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence should have self-quarantined instead of debating Kamala Harris"
     excerpt: "After all the hubbub over the plexiglass dividers placed between Vice President Pence and Democratic vice presidential nominee Sen. Kamala D. Harris (Calif.), it turned out that Pence would have been wise to duck out altogether."
     publishedDateTime: 2020-10-08T04:00:00Z
@@ -1490,6 +1506,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - as it happened"
+    excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
+    publishedDateTime: 2020-10-15T23:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
     excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."
     publishedDateTime: 2020-10-08T09:00:00Z
@@ -2165,6 +2197,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/NPPP/6c982919-1a65-4965-a51e-896e9f6fd8c2-APTOPIX_Election_2020_Debate.jpg?auto=webp&crop=7246,4076,x0,y368&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Twitter locked the official Trump campaign account after it referred to the New York Post's dubious story on Hunter Biden"
+    excerpt: "TeamTrump was blocked from sharing new posts after referring to a New York Post story on Joe Biden's son which Twitter had taken action against."
+    publishedDateTime: 2020-10-15T23:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-account-locked-twitter-ny-post-biden-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-account-locked-twitter-ny-post-biden-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-account-locked-twitter-ny-post-biden-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f885c58ea23a5001903d8d0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Donald Trump says he will not participate in virtual debate with Joe Biden – video"
     excerpt: "Donald Trump has said he will not participate in a virtual debate with Joe Biden adding the moderator can 'cut you off'"
@@ -3967,7 +4015,7 @@ related:
   - title: "Mike Pence and Kamala Harris spar in vice-presidential debate"
     excerpt: "Go back to our US Elections and American English homepage. The contenders for US vice-president have met for their only debate ahead of next month’s election. While the debate b"
     publishedDateTime: 2020-10-15T16:17:00Z
-    webUrl: "https://www.bbc.co.uk/learningenglish/burmese/features/us-elections-understanding/pence-kamala-presidential-debate"
+    webUrl: "https://www.bbc.co.uk/learningenglish/features/us-elections-understanding/pence-kamala-presidential-debate"
     type: article
     provider:
       name: BBC
@@ -5150,6 +5198,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "X5Jc9BZqoqM9gm83aa0Sg7mMNNaPXKKXAu7Ds7LJGluVro9SgbazyU3dl1EIIOmA9FE8r3oZhIWp2YNLyJsYdL8Nr++IX2tRhOkdO2RnF1E9dLWVh2Z7WVkAAOQ6hoTqw+TT4yRtE0e3NCm2iV901YyBZMkKchxrD1IJy9Scr/0wW8wdsI7uVmxpIO+kMjK4epN65xD9UQ3y9a7xSUeMJHtMhM8IIIEdjCaIu6QDwbAsOn1KwXnwwnLK9ahxv80TSH89fnTXslUPZW98s6THjUslSDgw5XSzSOKOfzZyQnwo2gnbWNAGhh1kCYTWALLhHzoBP9eqihItZhC4YH9nlQWwvkFBFFoNCQRz3H/VlM0=;d0NYk6YkMSlYLRy4/7G7yA=="
+secured: "/FwAyuXvenoik8zOurpThg+Xw/jaiWMqNBY19LCmVF6EbX0y5/g8Ql27DZHOLDJEErHXKk7Xo1SUSOv2FPJJ12U1iO71HQBcv1W1Gaa/RFnpSqb2jyiFrGfggP8BbTZU+lMVLoSHhdPGskPtj15Uzx8uZILamsBvqMa2PEp2Jt6NOCpQraqUf7A6p84D3zTrV63jseSNgF5A8oMlTQcPJMf5wc2ks/oex6rJncoMcWs/XrkY+Abg01f9nklO12z11xeD0IxtlbRXJil5I2yyAezhYufg4ZNDzlH0z1UEfBVuN0UTj11KXGWmQwsjmJOfglRUt971VSaa4oTy2LF7CKCm9weQrCXlaXE1cFlATY0aeanVHA3ahiGdI4dZcA+F3V/CWM7PGrkpi4uXpGA5zd5yNSvO96byIgR2BmL+H+sQNxkqI5mGKwD7SK/S+Jg8lYYpmLYg6/S+rV/CI6MH5FGVjlZ/BPJsrSFQ+jMOdLScZKgPdzsWHLsMcZNihoeZHLngH/rM3DrGAg8h9eDK9w==;rLppQpMgoXpX8qUPJyzd6A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://miami.cbslocal.com/2020/10/15/donald-trump-mike-pence-south-
 cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/15/donald-trump-mike-pence-south-florida-campaign-events/amp/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,31 @@ provider:
 topics:
   - Election
   - Mike Pence
+
+related:
+  - title: "Pence touts anti-socialism in Miami campaign stop"
+    excerpt: "Vice President Mike Pence traveled to Florida on Thursday to rally Hispanic voters by highlighting President Donald Trump's record opposing socialist leaders across Latin America. (Oct. 15)"
+    publishedDateTime: 2020-10-15T23:40:00Z
+    webUrl: "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/91dffbe1-e4dc-4656-8571-0b21820a99e0_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Vice President Pence Remarks at Faith in America Roundtable in Miami"
+    excerpt: "President Mike Pence speaks at a roundtable in Miami on religious freedom. The vice president also talks about President Trump’s foreign policy record, including his Middle East policy and moving the U."
+    publishedDateTime: 2020-10-15T21:37:00Z
+    webUrl: "https://www.c-span.org/event/?477038/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "X516mT5/WeQfmZkKZmpBsW0++LX0hT0FrfqFvCNPMaJkj3mCOgQvLScipNgrAhoRETQNAQG/ia9oN8jpKkGeb193WuB9j8DCODo5AYjENUNijOax8dOzfZ9JPxd4IGXqlTSpfbfQl7AhyEmlEJbO8zhr1TOCvtEpmaFqMUSB8DusQoD3/4PqzOCeVC9RNwjGbrpwqvU6uzL/SW4dQzfFKQ8sue0X0Vs47O9Vwu1T80gLP1AoNn9/DJczQMeulnmoB2Ho8eDXfkAnwMRoKaZX9lwlcJ2fPWe4aFLaDERkaYSS3LWnZtmfgSY7UCMJqdZNKJStNC8rtTI5H55PweLagVLjkB0AzEtfl490mA8AUT3K2ZK72ObG6dpLKR7Z3SqN9QTuXGGC7iCafiOfky0GVIZuwRkyltvFUExyggz/Vcc/MPItjHEkbD2esKhBaFVdLWGfyEtV2o3y/f8tyJMnvxmXI+pnidCTEb9W04WTj8HClbE5kUoUTRxgr/FWmzempu1yrqqRj/w5aBB9h1014Q==;+8LgXNfUR8XWJhXdhmi+8A=="
 ---

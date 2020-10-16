@@ -42,7 +42,7 @@ related:
         isCached: true
   - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus "
     excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus.\n    \n"
-    publishedDateTime: 2020-10-15T13:58:30Z
+    publishedDateTime: 2020-10-15T20:41:10Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"

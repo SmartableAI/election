@@ -2,23 +2,31 @@
 category: news
 title: "Kamala Harris injects heat and light at Amy Coney Barrett hearing"
 excerpt: "The campaigns are intensifying in the final three weeks of the election. In national politics, the focus was on the U.S. Senate hearings on the confirmation of Amy Coney Barrett to the U.S. Supreme Court."
-publishedDateTime: 2020-10-15T12:07:00Z
-originalUrl: "https://www.sfchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
-webUrl: "https://www.sfchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
-ampWebUrl: "https://www.sfchronicle.com/opinion/amp/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/amp/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
+publishedDateTime: 2020-10-15T16:05:00Z
+originalUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
+webUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Houston Chronicle
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://s.hdnux.com/photos/01/14/55/72/20111037/7/rawImage.jpg"
+    width: 2048
+    height: 1744
+    isCached: true
 
 related:
   - title: "Biden: Faith shouldn't be a subject in Barrett confirmation fight"
@@ -173,6 +181,6 @@ related:
       domain: reason.com
     quality: 48
 
-secured: "GjYe2ihSLqKNAHEEMEJcJszmV2pzscW8V7myvPq7vcnR2yokwBzmA2b6Osd0u+EcS6NJwqUEkM/ewk6Y49jxc/vexEhstqyjh9XcsMAJKWoHe40jSWczwAb8Dwr2KQw48pHCV/8Rmpoa2801GSB6/u2GNcjKdAY33B/UF0LaXzdMaj5cjBa9ldaj7IKhv8oMVNm3F1sLN0sAK0m5R/WHJgHrzOPglLwSOIN0YZXCHA6Gy4vuNs41qL2B0TRUZ14WGLQ4nwr9XJBza9gMd16mi6+iNXeMnc7Ur5vy4nTE5RUpyCatoKYs6TiItodNnY1NC9Zx1s/BMb0IuQLclsadmCUVMckROOUOjYxbnbssHvaLEdijbRroFRWanVM0t9YXIvOj11jGlW+BGbq3EMjYzbTZTwkrKL5XaqFpA7NcSbz0Dg2WyLgrQ+4/xsYDl27EJ3AyzWeMLgLuAmhHY1yBtSJYbXadHZOGET5mbm8+ag511VxjbgyGg53jJxC3gr5OqH4gSI+31Ebejrekfc1q5Q==;QTi02ybpDRcyN4yfTh3FVg=="
+secured: "lMZVTOq+bOYwMBW0ailWAhGhpC5CsC3xmw0SCfWhhg38ztgY/+SlVx7HC3hjWeEXxRfvc1JoFjIlnG8hsqiVaEsLvPw/oHOULhHwEAeDzvv8ufXB0vei8SgWTNM7grnxGp+QMtujm6MQ/+WJgRobj1tgXsLn3AxIlBrDH51TSPvd7/purlG+Nv9YPI9Ibaug1w3uipW6ED4XceWDzXm8PBco2C6rphwGyzEKuiEgnX+Dvsvl2y/A+EruRzMpw9mzYGNM9Y4mw5KibamKV3GFChPzQ/lTxQdpS/jKmIUD/ZOI/JGSgIyqNmfLFIWPsder5Ki7dlLprPegJfsHHr4vVD3nhvyTofsSO/x5SkGcEmA=;HJAeGStxJzTSpPaDoyqKbg=="
 ---
 

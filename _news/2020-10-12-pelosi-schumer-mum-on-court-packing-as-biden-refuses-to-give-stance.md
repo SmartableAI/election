@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Rahm, Joe Biden Never Was a New Ideas Guy"
+    excerpt: "If Mr. Biden is bringing any new ideas to Washington now, where have these ideas been hiding for the last 47 years?"
+    publishedDateTime: 2020-10-15T23:05:00Z
+    webUrl: "https://www.wsj.com/articles/rahm-joe-biden-never-was-a-new-ideas-guy-11602791505"
+    ampWebUrl: "https://www.wsj.com/amp/articles/rahm-joe-biden-never-was-a-new-ideas-guy-11602791505"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/rahm-joe-biden-never-was-a-new-ideas-guy-11602791505"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243495/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
     excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
     publishedDateTime: 2020-10-14T14:59:00Z
@@ -110,7 +126,7 @@ related:
   - title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
     excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
     publishedDateTime: 2020-10-15T11:07:00Z
-    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board?fbclid=IwAR2e6aRR-77A1bScZ0rBoEaTOfrzSL7Z5UIAx32Wz5voEHurSHaFWJsk7Mw"
     ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
     type: article

@@ -361,6 +361,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Mike Pence campaigns in Miami"
+    excerpt: "Dade County Thursday reflects Trump’s continued efforts to win over Latino voters in the majority-Hispanic region."
+    publishedDateTime: 2020-10-15T23:07:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246488450.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 35
   - title: "Vice President Pence Delivers Campaign Remarks in Miami"
     excerpt: "Vice President Mike Pence delivers remarks at a campaign rally in Miami, Florida. Vice President Pence delivers remarked at a Trump presidential campaign event in The Villages, Florida, the world’s… Vice President Pence delivers remarks at a campaign rally in the Ohio capital of Columbus."
     publishedDateTime: 2020-10-15T19:33:00Z

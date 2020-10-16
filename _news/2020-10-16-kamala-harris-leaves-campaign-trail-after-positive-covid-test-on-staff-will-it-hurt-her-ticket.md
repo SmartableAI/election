@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
+    excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
+    publishedDateTime: 2020-10-15T23:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537597034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E18Q"
+        width: 780
+        height: 545
+        isCached: true
   - title: "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic"
     excerpt: "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package."
     publishedDateTime: 2020-10-13T03:30:00Z
@@ -138,6 +154,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Kamala Harris suspends campaign travel after 2 members of her traveling party test positive for COVID-19"
+    excerpt: "Harris' communications director and a nonstaff flight crew member have tested positive for the disease, the Biden campaign said Thursday."
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-suspends-travel-two-people-test-positive-for-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/kamala-harris-suspends-travel-two-people-test-positive-for-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-suspends-travel-two-people-test-positive-for-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f7f3ba3c655f6001969ef6c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kamala Harris' staff tests positive for COVID..."
     excerpt: "Watch \"Kamala Harris suspends campaign travel as her staff tests positive for COVID-19 \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
@@ -266,6 +298,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
+    excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
+    publishedDateTime: 2020-10-15T23:20:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-boasts-amy-coney-barrett-was-toying-with-evil-democrats/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/barrett.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Kamala Harris Grills Supreme Court Nominee Amy Coney Barrett Over Obamacare"
     excerpt: "Amy Coney Barrett faced tough questions from Kamala Harris on how she would rule on Obamacare SCOTUS case but avoided giving a straight answer several times"
     publishedDateTime: 2020-10-14T19:30:00Z
@@ -344,6 +392,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris suspends travel after two associated with campaign test positive for COVID-19"
+    excerpt: "Senator Kamala Harris's travel has been canceled through Sunday after two people associated with the campaign tested positive for coronavirus."
+    publishedDateTime: 2020-10-15T23:38:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/senator-kamala-harris-travel-canceled-through-sunday-after-2-people-associated-with-campaign-contract-coronavirus/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/senator-kamala-harris-travel-canceled-through-sunday-after-2-people-associated-with-campaign-contract-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/senator-kamala-harris-travel-canceled-through-sunday-after-2-people-associated-with-campaign-contract-coronavirus/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 45
   - title: "Senator Kamala Harris Campaigns in Asheville, North Carolina"
     excerpt: "T11:30:00-04:00  2020 vice presidential candidate Senator Kamala Harris (D-CA) campaigns in Asheville, North Carolina,"
     publishedDateTime: 2020-10-15T11:08:00Z
@@ -354,6 +413,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "C5+WmhIjC/UYKdVzgFCK+S+YT/wHt+XY1gdAmSGuIh6nfQhfAme0R7NgyGKKY3p9NIupnpPjIJDTqAk4/jJA39JI3Nq0bDIxKd+LPZK+D0JJvaJMrr1rQjSovRs25dgWU1xvLIckJNEmyiYbPrRlJr5d5QbfYe0KvFNbL4ugQDLPPr0Z1n6oxgzueuosuDw1iq8NdMGJu4lKH5GinL4hxmGEc011DIAEdKBJypc6g8nMsIcnQ7ye0fnfXF6+koIfA2vvKu4cQ4LyLpDUg5bU1ZMynIqDKPoZJTi5mt/oIYIXFO3xSD7aoJHcpc+ICWtadOD0a+3hsYE5ZsTHJ+GyC29lkDoCTwp2VUsGAKQzD1o=;LeOuFTqRNxaF3ORt/TCkeg=="
+secured: "fI4iB2NShwyrRzjwfOKnCOchl2wpW3RiMtbZeRgZ3eLdsl1m82a0fJDgJYr5HkEp3ArugNDkJN+HMNfPL/wRJeNB0WmcXREmRqrCYuxUV8fASc9P0G65bsyPmaNW1QDq4CKPKA0PSNEhrTkp8hkiFV+AZORLxfJOd7xOJjnWsnK7j9DKPAKIKqNx9eMKWadxCVtqJbbjboXuEFBWf8Id3A48uuWnCDbYtJBdgCWMP/gxdCaGnhF6wn9Mc7F/zU/6uuIb0VLEU1f6b6+fz6EB0twt0n2uP+8SGnBV4PgzbsMoWztaiCfa7BP2V+nmeM65RfooCbscqJ0z9pZfJPLZoV27vkO6iDF4lOrXdFYOhxYJol6vGGIplQ605dtlm8g85ur2vmv/9YY2lhDgvybLodkmpNGF7xv370390NFyUqt127Vv+5g3lheUll9zXpTYL71L0LmLsGTpxai4gfcJBW+N/XokyjSsbcx1NQWq2jxjb/XgtVOHnHnvg2rH3zgHljdjTQEkcMkNW3x1Oorh/A==;td4CeVavzyOnpvbiQmWjlg=="
 ---
 

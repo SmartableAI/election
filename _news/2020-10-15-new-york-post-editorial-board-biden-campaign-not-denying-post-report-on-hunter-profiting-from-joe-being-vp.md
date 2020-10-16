@@ -3,8 +3,8 @@ category: news
 title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
 excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
 publishedDateTime: 2020-10-15T11:07:00Z
-originalUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
-webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
+originalUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board?fbclid=IwAR2e6aRR-77A1bScZ0rBoEaTOfrzSL7Z5UIAx32Wz5voEHurSHaFWJsk7Mw"
+webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board?fbclid=IwAR2e6aRR-77A1bScZ0rBoEaTOfrzSL7Z5UIAx32Wz5voEHurSHaFWJsk7Mw"
 ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
 type: article
@@ -89,6 +89,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-245257/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Rahm, Joe Biden Never Was a New Ideas Guy"
+    excerpt: "If Mr. Biden is bringing any new ideas to Washington now, where have these ideas been hiding for the last 47 years?"
+    publishedDateTime: 2020-10-15T23:05:00Z
+    webUrl: "https://www.wsj.com/articles/rahm-joe-biden-never-was-a-new-ideas-guy-11602791505"
+    ampWebUrl: "https://www.wsj.com/amp/articles/rahm-joe-biden-never-was-a-new-ideas-guy-11602791505"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/rahm-joe-biden-never-was-a-new-ideas-guy-11602791505"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243495/social"
         width: 1280
         height: 640
         isCached: true
@@ -205,6 +221,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "AuyfmUswU3VWZuia5oE8+Nn872hUokTjfleqLNlEjpRsXUJa7lUhWCC66HHH8Gqsn53+eV2PB9EowKGVUVo2iRmyQsGAP7sqXisq7KY22clqU72pMJ0PgdEYX4YAy8pxnInl30sNEftzlG2jbl9vBBcc3fTvVyd0m4SGtZ7+UdGBh2pQGB3vcSiTFGPCrhG22cxKqkZXwRC67uOKiy1uQXd79h1gpOr+bZsWS3jXbSTWZ9Z4CD7r8IoVVqItTnKWjfAuTiTdiv1eRVRRRgaGltDnctvDT0elxMRArZ49w+Fm7DApn1r2WHJaz7HJ5au0gfEJEN20tSXv121NB2d785qycoBmIUMB/ubDNRHadxGAZE6bw25PuYILLtgYlvRu+2ll8lcDoSJovaFUvT4fJBTGCJW1Rr3YzQ5iugxzCH98ZePAo6x+t+hCtNYkwtDQ15jfP5AGNyIg20Xj9Cs8t1epTTAhPRjR554yv16IvxL+RxI5zBGkKPfa+LQLH7vRxwlfFgaV7Ll41BIjWY8KfQ==;t6xqStVeqsKS2KqRiNUVsQ=="
+secured: "vSD5ChL2LN53aTgPDd9XzAsYm2rmMpRJstY9OZRnv+j+k9h/YzyMW8KCSIXgGdkOSElYp80mroJniC+4hY7cIp3VHsLYKsZn6z0mY8gLqZVbZwk+bf3F+t5HqXihMjs65+CHi1Nxs7s7HF0B89kQO0YSFhqttqamdwCEn1/RtAliuYhMgSkCgTcytr67TmKB6mKuuzmgX/wsydYnjdYGgMrq8k2mTi6qCLpGyCRpeyyGQf1ddJDB9PyOKm9zwUXiuTyvZXlepqcr9/k9eanWmrvmTeWrftQWa59Xas0XEvr6vlJCzUPII0SjmPhQmv4klidTa62mwL+vb5wYIaBUghCCTNmi9QwhHuGonST/b1M=;9OR0+kumwjD86GCRyHRh6A=="
 ---
 

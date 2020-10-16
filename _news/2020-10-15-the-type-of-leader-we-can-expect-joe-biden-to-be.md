@@ -148,6 +148,36 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-15T22:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
 
 secured: "K/q9aUuFpsoX6rVGy7CgKQQsZhs15QlglYim9rksmw1rPxazH+TUOXbe9IWBgntnlVwqShHnfgkLwQdOceY0Hxdux4gdAoe9ZGII1U5UZy3X0V6VsB5sJX/RgJ4zSvmUCPR2u3quPvWhrp5HDLviNVdQASJTuE/TQh/OMou7SCEi2R6gWOsR+PXCIDxhA+jVR5LI1W4fx8g7vyzFAKbqd56+LdwhP0LlK+ldYUEyxBTAi2GNkgjBdYCOyZaDNc+7UBdgXR8r82e5tPjBaHjnyGC7g1qe2eXEL7KCbCK6+B9XPZKU/uak7o8ALrHqO/v4bdwws76onl9NMZq4tFcIq9kq/26zz2mpqSVmgxw8hkA=;VNru22prLmsj5bVfCU4osw=="
 ---

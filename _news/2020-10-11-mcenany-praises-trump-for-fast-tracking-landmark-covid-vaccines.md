@@ -134,6 +134,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
     publishedDateTime: 2020-10-14T23:30:00Z
@@ -147,6 +163,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-15T22:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
         isCached: true
 
 secured: "3MxpkLBdGsGGUQskMT8sAKCIC/S/M+8g7CYSpeyjcfdAb/eas5TdHyzNUFz8TB/D8GlBhYgVIH7GU1Qr3m5Id1xOmLXxfvCQM6Bc08o2ONRO9eSaMyT447eLcGkJg92lNOEV6QTdUkfmImFwSVooVraUdt6tBZ4sFdmPRrkweoyR0Z0D6VggsNrbN5IeyWh2BpBPJGRp+czhEcsFQPf8qZog2QJbYdk0lyJICGYAOrwjUivDAm/ahYmdUzhuHiU71JC8JjYayqsdn9V0uSSKklRRQ2BMhiTxn7lbhGlj3ZopyZ/W+HZOTabC4rtiy1CBsaYAvAO0c80C3R1X+H+D0P20tOj5lalyR/xEKyPW8zs=;aAvrSO7g/UA8Pz2d91Uszg=="

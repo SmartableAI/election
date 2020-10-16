@@ -369,7 +369,7 @@ related:
         height: 720
         isCached: true
   - title: "Live Updates: Trump, Biden attend dueling town halls"
-    excerpt: ""
+    excerpt: "President Trump and Democratic presidential nominee Joe Biden are appearing in seperate town halls Thursday night, instead of the previously scheduled second debate. "
     publishedDateTime: 2020-10-15T21:38:19Z
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8nZbxtV63hU/live-updates-trump-biden-dueling-town-halls"
     ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-dueling-town-halls.amp"
@@ -1732,6 +1732,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5036ec0-5fc3-4ee1-ade0-1746a0994bcd/1c159bd2-1dc9-42f8-8f27-221249b9763a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump and Biden in Dueling Town Halls -- Live Analysis"
+    excerpt: "President Trump and Joe Biden were set to hold separate town halls Thursday."
+    publishedDateTime: 2020-10-15T23:33:00Z
+    webUrl: "https://www.wsj.com/livecoverage/trump-biden-town-halls-live-coverage-thursday"
+    ampWebUrl: "https://www.wsj.com/amp/livecoverage/trump-biden-town-halls-live-coverage-thursday"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/livecoverage/trump-biden-town-halls-live-coverage-thursday"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-245386/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
