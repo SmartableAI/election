@@ -258,6 +258,22 @@ related:
         width: 1600
         height: 1099
         isCached: true
+  - title: "Donald Trump’s COVID Results Had ‘Saturday Night Live’ Scrambling, Says Lorne Michaels"
+    excerpt: "Live writers were revising the season’s first cold open right up to the last minute after President Donald Trump’s positive COVID test tossed all plans into the air. In"
+    publishedDateTime: 2020-10-16T17:58:00Z
+    webUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/"
+    ampWebUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 67
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/snl-today.jpg?w=1024"
+        width: 1024
+        height: 542
+        isCached: true
   - title: "Trump Tells Fans On Post-Covid Comeback Tour: 'I Feel So Powerful'"
     excerpt: "US President Donald Trump is embarking on a tour of swing states Photo: AFP / MANDEL NGAN \"I feel so powerful. I'll walk in there, I'll kiss everyone in that audience. I'll kiss t"
     publishedDateTime: 2020-10-13T02:06:00Z

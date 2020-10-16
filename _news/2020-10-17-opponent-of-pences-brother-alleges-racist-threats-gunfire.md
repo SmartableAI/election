@@ -1,29 +1,53 @@
 ---
 category: news
 title: "Opponent of Pence's brother alleges racist threats, gunfire"
-excerpt: "A Black woman who says she has received numerous racist and threatening messages as an Indiana congressional candidate against Vice President Mike Pence's brother called police after hearing what she thought was gunfire before a campaign event."
-publishedDateTime: 2020-10-16T19:42:00Z
-originalUrl: "https://www.startribune.com/opponent-of-pence-s-brother-alleges-racist-threats-gunfire/572772351/"
-webUrl: "https://www.startribune.com/opponent-of-pence-s-brother-alleges-racist-threats-gunfire/572772351/"
+excerpt: "A Black woman running for Congress in Indiana against Vice President Mike Pence's brother says she has received numerous racist and threatening messages and thinks she heard gunfire before a campaign"
+publishedDateTime: 2020-10-16T20:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
+webUrl: "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 125
+heat: 145
+published: true
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1602777333"
-    width: 1680
-    height: 876
+  - url: "https://s.abcnews.com/images/Politics/WireAP_dd8ad0e12c23463da4021f5640723e72_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
-secured: "0GEc5yBrxo4Hq8kBFw3tBLOyDEB6rzkZLZXczoQF+ercmvZFMoLGpS+Y21iwb7LfgFLFDSwaRwbBXU2Wcvp/1AbcoKeOKciXZuEf946CmGDk3ydPiRn5w38XZgF0wyok4ru3hCZZcSBszEtKB5IBlpJxQHXd4BW4gnH3A6jtzktbwzsjhBS5GgpG1KoqA7rwVE/QV3DNVaFMjIpQa+4J2gi2k3rpyZirlVdGtgtZ1p8NDxft8kgg1VdIs+7wJH/mYkUyPuZ9egPP3WvK+IHyIAwkXWguUHIyuY6eBJpoRQYF0HulRPhGllgC7aM4d3SuRI2C8qzMnUQrOrMq04XTG/9M+do6qmGy9qTDnvFutoI=;9Vgla4ANnM3wxFt9as8TJQ=="
+related:
+  - title: "Vice President Mike Pence makes campaign stop in The Villages"
+    excerpt: "The rally took place just 24 days before he and President Trump will face former Vice President Joe Biden and Sen. Kamala Harris, D-California."
+    publishedDateTime: 2020-10-11T03:07:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/2020/10/10/pence-makes-campaign-stop-villages/5941575002/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/5941575002"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5941575002"
+    type: article
+    provider:
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NDAC/060cfb7e-55ac-4251-a36e-00d717dee960-FL_LEE_pence_0529.JPG?auto=webp&crop=3255,1831,x0,y540&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "fEWtYPOWd+nSMGjS1wpG3LPWyBxIwY0sT6y9fy0JZTXRxlUsYB78acXy1NEMWKkqdvddJCIoorzRGztbk29m7nhcdoAU8gCrjCUUpqFry1fX8x0+ODrPSeQsVb1+DucW4W9x3ZJbv8ARZjKyZ/JBgdkK4++HvMj7tNsOwvqO9I+YF8mRuLeWYpvK4u8DM6X7v2iIgr/cK7ThgWJtus4aBtHGdSfRvNkrULbA0Dywe24evZ4b1PGe6JZ+jro0T4ttkCl/0vPco0vVoWoWm9ZEHg3HbMlj6oPRV1XFzTWKmbQzE1mYMXB6iqPFDRH+cEIY7Mft1O41JHsVghA/q2uus5rCrF83lZqk8C6MZOKsIWA=;tce5qdOKo1jg/fhzu9KlfQ=="
 ---
 

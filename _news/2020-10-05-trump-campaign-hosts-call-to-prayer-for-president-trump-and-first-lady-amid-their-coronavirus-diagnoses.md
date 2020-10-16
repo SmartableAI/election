@@ -1274,6 +1274,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "GOP Senators Brace for Fight With Trump Over Coronavirus Aid"
+    excerpt: "The White House and Senate Republicans are divided over the size of last-minute coronavirus aid, with President Trump signaling he would support a package approaching $2 trillion, narrowing the distance with House Democrats."
+    publishedDateTime: 2020-10-16T21:07:00Z
+    webUrl: "https://www.wsj.com/articles/gop-senators-brace-for-fight-with-trump-over-coronavirus-aid-11602881510"
+    ampWebUrl: "https://www.wsj.com/amp/articles/gop-senators-brace-for-fight-with-trump-over-coronavirus-aid-11602881510"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-senators-brace-for-fight-with-trump-over-coronavirus-aid-11602881510"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-246180/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "VP Mike Pence, Karen Pence test negative for coronavirus, spokesman says"
     excerpt: "Vice President Mike Pence and second lady Karen Pence have tested negative for COVID-19, Pence Press Secretary Devin O'Malley announced Friday morning, hours after President Trump, first lady Melania Trump and White House adviser Hope Hicks confirmed they'd tested positive."
     publishedDateTime: 2020-10-02T12:02:00Z

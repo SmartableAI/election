@@ -1097,6 +1097,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In head-to-head town halls, Biden beats Trump in audience"
+    excerpt: "It's not the tally that really matters, but Democrat Joe Biden scored something of an upset over President Donald Trump"
+    publishedDateTime: 2020-10-16T21:42:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/head-head-town-halls-biden-beats-trump-audience-73663662"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/head-head-town-halls-biden-beats-trump-audience-73663662"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/head-head-town-halls-biden-beats-trump-audience-73663662"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_337f5b3358fa4af984533f8f2b6a6581_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -3880,6 +3896,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Lock Him Up’ Chants Break Out at Trump Rally as President Tears Into Biden"
+    excerpt: "President Donald Trump teed off on Joe Biden at his Florida rally Friday afternoon over the New York Post report on his son Hunter."
+    publishedDateTime: 2020-10-16T21:33:00Z
+    webUrl: "https://www.mediaite.com/election-2020/lock-him-up-chants-break-out-at-trump-rally-as-president-tears-into-biden/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/lock-him-up-chants-break-out-at-trump-rally-as-president-tears-into-biden/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/lock-him-up-chants-break-out-at-trump-rally-as-president-tears-into-biden/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 88
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump-rally-4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Watch here: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-07T15:11:00Z
@@ -4276,6 +4308,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Woman who told Trump he has a 'great smile' at town hall is actually voting for Biden"
+    excerpt: "In lieu of a presidential debate, both President Donald Trump and Democratic nominee Joe Biden hosted separate town halls last night. Trump met an admirer at his town hall in Miami, but it wasn't admiration for his politics."
+    publishedDateTime: 2020-10-16T21:04:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/Woman-who-told-Trump-he-has-a-great-smile-at-15653474.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/Woman-who-told-Trump-he-has-a-great-smile-at-15653474.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/Woman-who-told-Trump-he-has-a-great-smile-at-15653474.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 83
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "President Trump Taunted With #ChickenTrump After Refusing Virtual Debate With Joe Biden"
     excerpt: "On Thursday, the Commission on Presidential Debates announced that the second debate between President Trump and Joe Biden would take place virtually in order to protect both parties after Trump tested positive for COVID-19."
     publishedDateTime: 2020-10-08T16:21:00Z
@@ -4323,6 +4371,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/P6NXVABOIBHPLCPWXXVUGTXBQ4.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Trump says Kamala Harris, like Hillary Clinton, won't break 'glass ceiling' of presidency"
+    excerpt: "President Trump said on Thursday that Democratic vice presidential nominee Kamala D. Harris won’t be the woman to break the presidential “glass ceiling.”"
+    publishedDateTime: 2020-10-16T00:58:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/15/donald-trump-kamala-harris-hillary-clinton-wont-br/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/15/donald-trump-kamala-harris-hillary-clinton-wont-br/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/15/donald-trump-kamala-harris-hillary-clinton-wont-br/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 81
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/15/Election_2020_BIden_14706.jpg-fd4d8_c0-441-5614-3715_s1200x700.jpg?db5950c323a054c22e670d85e377510c6244b47c"
+        width: 1200
+        height: 700
         isCached: true
   - title: "How to watch the debate between Mike Pence and Kamala Harris"
     excerpt: "Vice President Mike Pence and Senator Kamala Harris are scheduled to meet on Wednesday at 9 p.m. for their first and only debate, which comes on the heels of a chaotic, bitter clash between President Trump and former vice president Joe Biden just one week ago."

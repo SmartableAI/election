@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
 type: article
 quality: 140
-heat: 420
+heat: 440
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q5D_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Progressives warn Biden: No corporate lobbyists"
+    excerpt: "And progressives want to make sure Joe Biden doesn’t forget it: Left-wing House members including Reps. Alexandria Ocasio-Cortez, Katie Porter, Ayanna Pressley, Raúl Grijalva and candidate Jamaal Bowman along with 39 progressive groups signed a letter,"
+    publishedDateTime: 2020-10-16T20:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/16/progressives-warn-biden-no-corporate-lobbyists/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/16/progressives-warn-biden-no-corporate-lobbyists/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/16/progressives-warn-biden-no-corporate-lobbyists/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULKIYSQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
     excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stimulus impasse continues as a year goes by since Pelosi and Trump last spoke"
+    excerpt: "House Speaker Nancy Pelosi and President Donald Trump last spoke by phone one year ago Friday.\n    \n"
+    publishedDateTime: 2020-10-16T20:48:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XJ3ZfcQhB38/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/stimulus-latest-negotiations-congress-pelosi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/stimulus-latest-negotiations-congress-pelosi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007163357-03-trump-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration puts up billboards of immigration violators in Pennsylvania"
     excerpt: "The Trump administration has put up billboards in Pennsylvania of immigration violators, an unprecedented move taken in a swing state a month before the presidential election.\n    \n"
     publishedDateTime: 2020-10-02T23:19:02Z

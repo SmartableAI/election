@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
+    excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
+    publishedDateTime: 2020-10-16T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/hunter-biden-fbi-probing-if-new-york-post-story-tied-russia/3684342001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3684342001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3684342001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/a7e1e9c5-cc73-4ba8-94df-4a843104fb36-GTY_1228757046.jpg?auto=webp&crop=4648,2615,x0,y28&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
     excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
     publishedDateTime: 2020-10-15T17:16:00Z

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
+    excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
+    publishedDateTime: 2020-10-16T21:32:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Ua2gZFL8SKA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-criticism-from-former-administration-officials/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
     excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
     publishedDateTime: 2020-10-16T16:22:51Z

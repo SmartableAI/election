@@ -155,22 +155,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Vice President Mike Pence makes campaign stop in The Villages"
-    excerpt: "The rally took place just 24 days before he and President Trump will face former Vice President Joe Biden and Sen. Kamala Harris, D-California."
-    publishedDateTime: 2020-10-11T03:07:00Z
-    webUrl: "https://www.palmbeachpost.com/story/news/2020/10/10/pence-makes-campaign-stop-villages/5941575002/"
-    ampWebUrl: "https://amp.palmbeachpost.com/amp/5941575002"
-    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/5941575002"
-    type: article
-    provider:
-      name: Palm Beach Post
-      domain: palmbeachpost.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NDAC/060cfb7e-55ac-4251-a36e-00d717dee960-FL_LEE_pence_0529.JPG?auto=webp&crop=3255,1831,x0,y540&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vice President Mike Pence headed to Selma, NC for MAGA event Friday"
     excerpt: "Vice President Mike Pence is returning to North Carolina for another campaign event. Pence is scheduled to arrive in Selma, North Carolina, on Friday Oct. 17. The event will be held at The Farm at 95."
     publishedDateTime: 2020-10-13T18:21:00Z

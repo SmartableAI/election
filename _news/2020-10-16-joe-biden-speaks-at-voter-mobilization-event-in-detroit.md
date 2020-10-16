@@ -19,6 +19,22 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Biden town hall questioner worked as speechwriter in Obama administration: report"
+    excerpt: "A participant in Thursday night's ABC News town hall with Democratic nominee Joe Biden previously worked as a speechwriter in the Obama administration, but only identified during the televised event a"
+    publishedDateTime: 2020-10-16T19:05:00Z
+    webUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration"
+    ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101520getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
     excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
     publishedDateTime: 2020-10-16T12:35:00Z
@@ -49,29 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+  - title: "Executive Dysfunction: A Clinical Evaluation of Joe Biden’s Cognitive-Linguistic Deficits."
+    excerpt: "As America’s day of decision draws near, the only person who believes Joe Biden’s cognitive-linguistic skills are within normal limits seems to be Joe Biden. Even Democrat media partisans like Andrea Mitchell,"
+    publishedDateTime: 2020-10-13T23:41:00Z
+    webUrl: "https://humanevents.com/2020/10/13/executive-dysfunction-a-clinical-evaluation-of-joe-bidens-cognitive-linguistic-deficits/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
+      name: Human Events
+      domain: humanevents.com
+    quality: 45
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
+      - url: "https://humanevents.com/wp-content/uploads/2020/10/construct.png"
         width: 1920
-        height: 1080
+        height: 642
         isCached: true
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "ZvOw/hRdDRXISy1OiQnxpw2r4M6zf8XPcGIOOYZjTNc7/mgcmxZYZXKjW90H6TqUU6TOog3z+oHD//rbPqa48FqUbV0J3skSd0ipM2zKYmj7Srxgal484vZEnOdvvtoqzRgWz4b8YeinP5YXcjMTkjzNOF1qO0UeGKZCLY9qTQ1H6OWbuZ7mWTZ3y+D1W6KJrIFGh94fut4RFNegFvvPOYodiyVUtBbFC0BeJgNN6k5B9LstSYzku5lF6Ujzme+CILZF/T5IA6AhDfRtxQOypwNfqr/Ti7UftNUwDKWEZ456k5hwc8q30CdP8hlIy10L7uqQUrsGAofNy5MEBCdIirDKcyeReD4U+S0ph5OKyNnD1jMpkmWJY+jq/GixHw/V4Xcm9YOV8sRaxTz+uwf3jKqwCIfUgSZc6L0/ANj8KOmG+QYst18NIvlByLABCnW/NxVN8ayDfV80LKEeBWAHOsC0X2pFkTxE6l+Hudqy9QBcFSGdZLUO5bK7AbwNgMh3wKFBC70J9GepLkYXz9LFSg==;tZbc9G4KbecMGx7HHDnHRA=="
 ---

@@ -518,6 +518,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Trump has induced a dissociative mental state that is eroding America’s sense of self"
+    excerpt: "Americans teeter on the brink of a state of collective fugue. A psychiatric state of mind, the fugue is caused by extreme distress in the aftermath of one or more cataclysmic events. The fugue state causes a person to fail to recall intrinsic identifying personal characteristics and to no longer remember what they believed in"
+    publishedDateTime: 2020-10-16T21:20:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2017/01/Trump-Thank-You-Rally-721x430.jpg"
+        width: 721
+        height: 430
+        isCached: true
   - title: "Watch Donald Trump shake it to the Village People’s Y.M.C.A. at Florida campaign rally"
     excerpt: "President Donald Trump energetically returned to the campaign trail on Monday after having been hospitalized for coronavirus. “President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month,"
     publishedDateTime: 2020-10-13T05:47:00Z

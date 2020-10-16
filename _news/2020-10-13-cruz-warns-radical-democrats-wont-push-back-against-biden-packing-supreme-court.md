@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden falsely claims union endorsement during ABC town hall"
+    excerpt: "Democratic presidential nominee Joe Biden pushed back at a town hall Thursday against suspicion from a boilermakers union member regarding his position on fracking by insisting that the union endorsed him, when no such endorsement appears to have been given."
+    publishedDateTime: 2020-10-16T21:21:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bwcwjaE-Mi4/biden-falsely-claims-union-endorsement-during-abc-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden reiterates plan to convince Americans to wear masks"
     excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
     publishedDateTime: 2020-10-16T00:54:06Z
@@ -174,6 +190,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d805d7f3-5037-43bc-83ae-6939c1a3f261/c7399400-2d39-4167-bed9-2171fc2d4ea7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
+    excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
+    publishedDateTime: 2020-10-16T20:05:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CXShUVZEP4Y/lindsey-graham-joe-biden-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-joe-biden-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-joe-biden-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden says 'chicanery' at polls is the only way he could lose U.S. election"
     excerpt: "Democratic nominee Joe Biden said the only way he could lose the 2020 election was through “chicanery,” before later adding he would accept the results of the election. "
@@ -523,6 +555,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden falsely claims union endorsement during ABC town hall"
+    excerpt: "Democratic presidential nominee Joe Biden pushed back at a town hall Thursday against suspicion from a boilermakers union member regarding his position on fracking by insisting that the union endorsed him,"
+    publishedDateTime: 2020-10-16T21:26:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
     excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
     publishedDateTime: 2020-10-14T14:59:00Z
@@ -554,6 +602,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
+    excerpt: "Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,"
+    publishedDateTime: 2020-10-16T20:12:00Z
+    webUrl: "https://www.foxnews.com/politics/lindsey-graham-joe-biden-court-packing"
+    ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-joe-biden-court-packing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-joe-biden-court-packing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f23e272-5183-46d4-9ddc-24e15209362c/44cfd2d9-0f82-4281-af6b-5f8c14714cd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Why the media are suddenly chattering about Joe Biden’s cabinet"
     excerpt: "Presidential candidates are often warned not to measure the drapes, a reminder that first they have to actually win the election before sitting in the Oval Office."

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.lansingstatejournal.com/amp/3656442001"
 cdnAmpWebUrl: "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 75
+published: true
 
 provider:
   name: Lansing State Journal
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
-    excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
-    publishedDateTime: 2020-10-14T19:55:00Z
-    webUrl: "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    type: article
-    provider:
-      name: WZZM
-      domain: wzzm13.com
-    quality: 85
-    images:
-      - url: "https://media.wzzm13.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "zjktFjlVWNqy2Jk8mawoIwztspYlkoEnZSFX9GUNOfZEJBMFLzaPBfkFM4fIGHq4Ikwaoq3JHEjAPND5Z++qKn/XjSanSuUgZILOaf8CSR8QHq3hrxlf0HBi5vQ9Af/qbQGIBQ75jfJ+0CiFEEVHelNROflgSmXcMFQoZBumdgGzFCPmyISbQvlQAkQrwqAp0SbdI2TUqPQd08aOe5QxWw/dw/iEL7Ym23kSdqHnEFtIB2CxBZ/Pqt2aXYsBPWdFi3qADIhj6lFAsWNCxhWh9hMnqZsp/Khpxpi3bKUOgg73btDsV22zMTqL8lzqKoemOO+oHvbsKVZ5SfxTSRWkUUwypb7/pDycNrG4ANBSK14=;2ZJSqS9+PQP7cjed4O1zTA=="
 ---

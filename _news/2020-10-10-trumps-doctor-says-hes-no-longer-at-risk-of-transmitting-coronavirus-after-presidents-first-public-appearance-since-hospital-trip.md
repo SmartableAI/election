@@ -463,6 +463,22 @@ related:
         width: 828
         height: 545
         isCached: true
+  - title: "The Republican revisionist history on Trump is already being written"
+    excerpt: "Had you transported him to Washington today and told him to wander among the members of the Republican Party, Diogenes would have no more luck. Support our journalism. Subscribe today. But as they face the very real possibility that their corrupt bargain with President Trump will end in political catastrophe,"
+    publishedDateTime: 2020-10-16T21:49:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/16/republican-revisionist-history-trump-is-already-being-written/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/16/republican-revisionist-history-trump-is-already-being-written/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/16/republican-revisionist-history-trump-is-already-being-written/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GR7I5JAOIII6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump administration denies California relief for 6 fires"
     excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
     publishedDateTime: 2020-10-16T19:24:00Z
@@ -846,6 +862,22 @@ related:
       - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Supreme Court will rule on Trump's plan to exclude undocumented immigrants from House apportionment"
+    excerpt: "Excluding undocumented immigrants likely would reduce the number of House seats in states such as California, Texas, Florida and New York."
+    publishedDateTime: 2020-10-16T21:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/justices-hear-census-dispute-over-counting-undocumented-immigrants/3671433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3671433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671433001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/8e31a862-4134-4922-9fca-78e6f3e441ef-AP_2020_Census.jpg?auto=webp&crop=2593,1459,x6,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Column: Upon his release from hospital, President Trump is denounced as a heretic by media high priests"
     excerpt: "Estimates released in September show a death rate that is low across the board, especially among the young and healthy, but the drumbeat in politics and media has been all about fear. The high priests of the Washington establishment media who have thrown their lot in with the Democratic Party and Joe Biden for the 2020 campaign were outraged by Trump."

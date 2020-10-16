@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
 type: article
 quality: 126
-heat: 226
+heat: 246
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
+    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
+    publishedDateTime: 2020-10-16T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
     excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."

@@ -51,6 +51,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "BVBZkVUPi/AmzeDVVZ5zcCjW8MeXLOXW6a+Nyg5EKM7pk3qaBCsARyoisXSSPcv2yNpKxfcnJ42RfIz9gmUSo0yhYe+5szp3Uf95PjnyaT4FM7UrjTwDb+k490SZAbhns8BNk73vHgsqpMwXYEuC7DRPnqK9LdveZqNcVzz2af2oMATWYKNvfsj4KxXeIP9jylfXkV17Tagr+JTqaPaDtjtQqgzBq1lacrQhhYSbjNhqYdmGHrSjXI6IimE83C+WN3h3zRbZDpVLXhY1+DFHecFmGQ4jrp4Tr78jUTi5DN+gyVZ2KtAq16eaVdHEM4xHhkJyX6KcGb/vOatRGXXsdueYs+jGhSudfZzO1O7J5N6Nvn9nb3CR6kNCq/IB9BuntXG594UCALZx5AMC5bIx3LWjGYoYRRMgrJMXnrxIdpdTXj6Gm3CDHHLvflsEdDMbehhPnUT8ae1WDzDCwyI8/1ggutmhlisSHAi18yN7bo1+z12KgSngDhDqpsTdRSU+AcjPFBOvsq+Zla64Eb2Qqg==;jsAVtQdz/EeF7jzwALHXew=="
 ---

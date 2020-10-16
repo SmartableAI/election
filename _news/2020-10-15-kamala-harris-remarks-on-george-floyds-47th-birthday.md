@@ -171,6 +171,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Joe Biden speaks on health care in Michigan"
+    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T20:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
     excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
     publishedDateTime: 2020-10-13T22:05:00Z

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump reverses course and grants California's wildfire disaster declaration request"
+    excerpt: "President Donald Trump approved California's request for a presidential disaster declaration to help combat the state's record-setting wildfires, California Gov. Gavin Newsom said Friday, a day after the administration initially rejected the request.\n    \n"
+    publishedDateTime: 2020-10-16T21:20:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vnFj0WJtRv0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-grants-california-wildfire-request/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-grants-california-wildfire-request/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013233020-03-california-wildfires-zogg-fire-contained-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former CIA director accuses intel chief of selectively declassifying documents to help Trump"
     excerpt: "Former CIA director John Brennan on Tuesday accused current intelligence chief John Ratcliffe of selectively declassifying documents ahead of the November election that benefit President Donald Trump, telling CNN that the decision to release materials gathered by the agency on Russian allegations that"
     publishedDateTime: 2020-10-06T22:11:56Z
@@ -191,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's national security adviser calls Putin response to arms control talks a 'non-starter'"
+    excerpt: "White House national security adviser Robert O'Brien on Friday rejected Russian President Vladimir Putin's proposal to extend New START, a key arms control treaty, for one year without any additional agreements, calling the offer a \"non-starter.\"\n    \n"
+    publishedDateTime: 2020-10-16T19:47:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6xnB-Vy_r4U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/obrien-putin-new-start-treaty-russia-us/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/obrien-putin-new-start-treaty-russia-us/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200802073303-vladimir-putin-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Team Trump used Fox News as a laundromat for unverified Russian information about top Democrats "
     excerpt: "While most of the nation was largely fixated over the past week on President Donald Trump's coronavirus diagnosis, the President and his allies in right-wing media have been engrossed with something else entirely.\n    \n"
     publishedDateTime: 2020-10-12T03:32:48Z
@@ -204,6 +236,22 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200905102123-01-fox-news-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court to consider Trump's effort not to count undocumented immigrants for congressional seats"
+    excerpt: "The Supreme Court will take up President Donald Trump's effort to exclude undocumented immigrants from being counted when congressional seats are reallocated among the 50 states next year based on 2020 census data.\n    \n"
+    publishedDateTime: 2020-10-16T21:29:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HVM0IgrY7Is/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/supreme-court-census/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/supreme-court-census/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014155931-census-undercount-federal-funding-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/vp-mike-pence-ralli
 cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
 type: article
 quality: 85
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: WZZM
@@ -27,22 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Pence rallies in Grand Rapids: ‘Friends don’t let friends vote alone’"
-    excerpt: "Vice President Mike Pence urged Michiganders to vote during a rally near the state’s second-largest city, as Michigan remains key for both the Democratic and Republican campaigns’ bid for the White House."
-    publishedDateTime: 2020-10-14T21:09:00Z
-    webUrl: "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/"
-    ampWebUrl: "https://amp.lansingstatejournal.com/amp/3656442001"
-    cdnAmpWebUrl: "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001"
+  - title: "Vice President Pence to Hold Rally in Maine Monday, 2 Weeks Before Election"
+    excerpt: "Vice President Mike Pence is set to travel to Maine for a “Make America Great Again” rally next week, in the final stretch of the 2020 presidential campaign. The Trump campaign announced Friday that Pence would be hosting a rally in Hermon at 11:30 a."
+    publishedDateTime: 2020-10-16T21:09:00Z
+    webUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/"
+    ampWebUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
+    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
     type: article
     provider:
-      name: Lansing State Journal
-      domain: lansingstatejournal.com
-    quality: 75
+      name: NECN
+      domain: necn.com
+    quality: 88
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PLSJ/6aa2c2e5-b4b6-41a0-959a-9e8af3bce6dc-Pence_Grand_Rapids.jpg?auto=webp&crop=3007,1692,x0,y150&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://media.necn.com/2020/10/Video-3.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "'It's on, North Carolina': Vice President Pence greets supporters in Selma"
+    excerpt: "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,"
+    publishedDateTime: 2020-10-16T21:38:00Z
+    webUrl: "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/"
+    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 73
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "VP Mike Pence set to visit North Carolina Friday for campaign event"
+    excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
+    publishedDateTime: 2020-10-16T15:08:00Z
+    webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-set-visit-north-carolina-friday-campaign-event/KPCAU2WYX5F3BDFJGBHBWM3U54/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://www.wsoctv.com/resizer/weZfBUiN0K823B2fdkixR7xGoAQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
+    excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
+    publishedDateTime: 2020-10-16T13:32:00Z
+    webUrl: "https://www.c-span.org/video/?477055-1/vice-president-pence-delivers-remarks-selma-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "nRRFwcHtClgHp8ExlNRhI9KqIgy2XcC3oUyEoh+iouuX0M38wPT8GNp/AkQnBfzmOj9MfRYLmIMuZ9pqVK7pVPcp1BBXDPpiucF1N9/ufSQqpyhWoi0UNYIC2cF82JOcL35OOAfOQoeUUSY0g9Shims7XCZQmSZM+dOpLIl4xz/Qixsx1wgeCjqL3r33gK8F0Al0oC+fd6vaQoFMUKSjt5mP7T0FbUgszNR0QojjM1cI9tU5PXll9SerLRsBdHF2lKD0g6zPKkYlu5RyN8gwZ+n/2ohOjsObQ4vXInUfXPcrcDj8oanHGKl6jvcnI6oj4C+5/aqIj/uvpWW73RipDd6xDnhdJ9R/0vtGYY6gExPFkGzxA4NjjyEsElIl6YXJ1Sw5RLo80oGab0DgvdryXJuzGNHWCCRWe/oMDDBPmVQkDcoxDm9OcHhyFjQvq1E4FXVdYv+5lYkaa9LCwOjyNOKR/Osv03Kw75Qr3WtKDB4fQ83dqzzOdUuTUKL28VLchLpydhI7rqL07UC3npg2Mw==;4Je/yDv73Jh+vsHSR+s6qg=="
 ---

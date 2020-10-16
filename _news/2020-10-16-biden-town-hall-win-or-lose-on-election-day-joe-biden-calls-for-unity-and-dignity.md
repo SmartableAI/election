@@ -75,6 +75,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Progressives warn Biden: No corporate lobbyists"
+    excerpt: "And progressives want to make sure Joe Biden doesn’t forget it: Left-wing House members including Reps. Alexandria Ocasio-Cortez, Katie Porter, Ayanna Pressley, Raúl Grijalva and candidate Jamaal Bowman along with 39 progressive groups signed a letter,"
+    publishedDateTime: 2020-10-16T20:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/16/progressives-warn-biden-no-corporate-lobbyists/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/16/progressives-warn-biden-no-corporate-lobbyists/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/16/progressives-warn-biden-no-corporate-lobbyists/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULKIYSQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
     excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."
     publishedDateTime: 2020-10-09T13:40:00Z
