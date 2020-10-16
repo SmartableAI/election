@@ -159,6 +159,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The tricky politics of court-packing for Joe Biden"
+    excerpt: "Biden repeated Thursday night that he is not a fan of court-packing, yet he sounded more open to it than ever before."
+    publishedDateTime: 2020-10-16T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYTYA7X63EI6VNKVJVY2SJKPJM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
     excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
     publishedDateTime: 2020-10-15T02:48:00Z

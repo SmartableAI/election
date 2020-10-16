@@ -186,6 +186,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's ABC town hall questioners include former Obama speechwriter, wife of former Pennsylvania Dem candidate"
+    excerpt: "Two of the questioners at the ABC town hall featuring Democratic presidential candidate Joe Biden on Thursday had ties to high-profile Democratic politicians, including one who previously worked as a speechwriter in the Obama administration. "
+    publishedDateTime: 2020-10-16T15:29:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/auLg-89bA3A/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled"
     excerpt: "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  "
     publishedDateTime: 2020-10-12T14:12:41Z
@@ -231,6 +247,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden town hall likened to an episode of Mister Rogers"
+    excerpt: "It was a beautiful night in the neighborhood for Joe Biden, according to critics who compared the Democratic presidential candidate’s town hall on ABC News to a Mister Rogers episode. The former"
+    publishedDateTime: 2020-10-16T14:27:00Z
+    webUrl: "https://nypost.com/2020/10/16/joe-biden-town-hall-likened-to-an-episode-of-mister-rogers/"
+    ampWebUrl: "https://nypost.com/2020/10/16/joe-biden-town-hall-likened-to-an-episode-of-mister-rogers/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/16/joe-biden-town-hall-likened-to-an-episode-of-mister-rogers/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201016-biden-town-hall-mister-rogers.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
     excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."

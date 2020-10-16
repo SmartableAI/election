@@ -790,6 +790,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Despite reality, Trump says China could pay for economic aid package"
+    excerpt: "Trump apparently thinks China will cover the costs of an economic aid package. That's not how any of this works."
+    publishedDateTime: 2020-10-16T15:33:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/despite-reality-trump-says-china-could-pay-economic-aid-package-ncna1243733"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_29/3397371/200715-donald-trump-xi-jinping-2017-ac-1103p_1fad2f6762beb64997226994d9d52012.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
     publishedDateTime: 2020-10-11T16:37:00Z
@@ -840,6 +854,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "ieyVQxsVOfMHW5TcQmViiJWQrPO6b81rw5g0ZwNfDu30Kb4vLUbR0wbSNuVHk0gRZBGk8+tB7MB+u2bifemIWAaF7J9PbPYcBnGKLh6IrPWBYFacQOx7hBIgwqfdiNAXfWiwQeGXnGn07vUz/Vh7PPSw9M9VDBA2wB6ii81L6D7geud83K/HLyB9P7SQETjgfMCN1WRFib+V7Q7SoEuiZ64cQxP9SPFSZEB0nteAj/XmK0bIjXlxjGidCoYEwmrfIV2b4LBflFph/1DkV6nMAjh7p+ptCUyj1edHSAevFIsef7rg+nUapU0LLLbNCm0sxAlk4Knk3s8eQewtLoSjEz4Bkkyu/NQDJFdabC0ufrU=;yRpuEwqysv+GBINHprKC6w=="
+secured: "IZNI4OuQeJFU5igCbPFnKP9YwGrataiskgdfJebFsshsFu0URLpVrqkAHmXksc+dANrUu6iMTD+nhgHRWxHIpfAMG50nFjslyZHm0B1/mgDkZu7AkKwtYFq7ZaPpjMiITyGOKfwfzRBxHJyzCvAsPv7a42EkUm75/lGcmHWQRHqoMPd5YdeuJz/e5fgN4SyagU4+3CSghTvoD4LWDO30qFbPmi9LUMUBATWhkem/Fnx108L7tnkHjNWYC06xsKuRgSTJY6E1vEXAsC4cuDA+NFLRfC9vY/urPTJMrN2hLg+6V2GTadO22+M/jrz9PQRJiq5dZ7ZD4KF+1ETzneXU1+VaqswQ7YiT61ib0R9telXrMGvaAhT83riTSm5++k0NqysxyYTy0BbJQC8P66i8T2q5THEfnsJ2SIXPiQrO99STasR5YUtEn+iBC2Q+8v+7B1LD6qRS8ST64g6o7HtPH7zY5cPNH5VsGkBbt8/ayFyEBzfgyetXOndwjnxGViA9fO8Mce8Jm6wdkX2DdRP6vg==;gGJC8qdwkDC/0uMuPZbjEA=="
 ---
 

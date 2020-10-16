@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-ca
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
 type: article
 quality: 125
-heat: 326
+heat: 346
 published: true
 
 provider:
@@ -190,6 +190,20 @@ related:
       - url: "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662"
         width: 1024
         height: 662
+        isCached: true
+  - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
+    excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
+    publishedDateTime: 2020-10-16T13:52:00Z
+    webUrl: "https://www.washingtonian.com/2020/10/16/tj-ducklo-32-joe-bidens-press-secretary-and-he-has-stage-4-cancer/"
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonian.com/wp-content/uploads/2020/10/20200226_winyaindigosociety_charleston_sc_0003-1024x681.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "8/2PsRiQwFLXlYMFo5I7ouVuP3ozVA7deX5cgZ8cBSyewyooSm3dy3Lo0Bi+VPWmmHeuXe6HudQVyMK9PtPw/WY8KrAl72pBB55B7j3j7FpLHnhRZBU7VDiKWb8t2Pdn29k7muomiD3pZqQGpGLRUzBVO0/+Sx1Xxd1fq8Vgs/R/VFCfFqeFeappIUuhgSCZirZBa18xxdoxhMC6NgygFpj83m5wIhLWkjZjUWKFWTX5fyOorRY+Hc4yArTBYxNXT/re1uhdnRi9rRKmE21O2Iq98X+sev8u7RbGsZrD4VifXcivLtTrmC1U3LV3s2tqZ7Qfe5sv5vCzoYFhG1xd38QT+4PfPuzLX9QnW19dxKNKqaOUhdhOSIEM6CAZ3umD9fZcR8P9kI4bcLt9ySft/xc4eNiuv8eIQinXJvT0Yz4ibCAxkBrdnsoJSE49aF4xCKV0WD9Io5kYvn+NJ0MS88DAjBmpNXMbZD45peTQ8oG3UuBan7huc+XIVd7gc7flDsMeUA2HJZkXdAFGyh5KqQ==;eapgQduPMf9RCwEQh3Y4Pg=="

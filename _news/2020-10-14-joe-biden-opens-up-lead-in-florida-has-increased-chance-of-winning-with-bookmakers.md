@@ -191,6 +191,20 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
+    excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
+    publishedDateTime: 2020-10-16T13:52:00Z
+    webUrl: "https://www.washingtonian.com/2020/10/16/tj-ducklo-32-joe-bidens-press-secretary-and-he-has-stage-4-cancer/"
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonian.com/wp-content/uploads/2020/10/20200226_winyaindigosociety_charleston_sc_0003-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "DDNL2R33gE25QfGwO7X8vP9pRZengEvLgRYoorSv/MvfLMtk3/meZvUwovoiH6eBIKi0WNzP5X0dulSO3oHaVOwpReO5ELiz67vnyXHEogLKz7oSHhQxSGfJNAq/DU+CS+aF2GupAwTqA1QQ0EXh8BjW/iYOMR/ZHp5yOWiXss67qwXaUlE3WN59jz9vPpH6trSQxlzKPGkqrI4KlY9Kqoo9K9UY3HX67NcwHt0wrS8ktpFlFkqpKtFVIa5fNosTqmYKj2nIfP1kGIJsp46RsgzJ+t+E94OW/PXHaIWiDKZDMKlwiJMxPMonimU8G8LjDaqaj8IwiT35Rr4MwG10sJj0bjWHZ9KQcYDRIYZd5R0=;aF5C0/RDrTq37Y/TdoaQOA=="
 ---

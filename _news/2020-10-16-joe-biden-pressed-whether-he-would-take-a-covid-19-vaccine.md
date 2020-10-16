@@ -111,6 +111,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
+    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
+    publishedDateTime: 2020-10-16T15:23:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
+        width: 5220
+        height: 2715
+        isCached: true
 
 secured: "FNEBGrl/lYUuHkTcuxpc2ZVpYnoCPlIIuw3noIhTzK/ukj3qaebVxBkmJWQ/zOdtrJy0+ycyHhkK0vNoCMixFm6PI3Z1mdToBBwx5/iHU9y0RjqppN4Y/+Lo0dQo2VhazE+EBN8P5Ta7PpzuACWclU6AqaCds26Rg7DYY591Y9xIGpdZY/XNvZTazvKNLE9322OiduhgfUBXmIXze4T7w4HlOdbp4WKHLaOb3kLFKPpkFX4hCQ/daurZ28KMzpVTtHwhtDModbwqFO/ZUOZs3XnuoA9elUNy1Gd7eY+HRL5f5eYrB6+GHFK8ANBRIwVyHTPGnBoNcfq8G9VzNESbEClCmwm7E8CaX4mMGT113fU=;KCTLw9JGbGMyJ/338e+pmA=="
 ---

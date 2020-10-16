@@ -137,6 +137,22 @@ related:
         width: 1024
         height: 664
         isCached: true
+  - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
+    excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
+    publishedDateTime: 2020-10-16T15:37:00Z
+    webUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/07/trump-shutterstock.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
     excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
     publishedDateTime: 2020-10-15T21:11:00Z

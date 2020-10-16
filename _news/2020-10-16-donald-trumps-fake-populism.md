@@ -776,6 +776,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Despite reality, Trump says China could pay for economic aid package"
+    excerpt: "Trump apparently thinks China will cover the costs of an economic aid package. That's not how any of this works."
+    publishedDateTime: 2020-10-16T15:33:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/despite-reality-trump-says-china-could-pay-economic-aid-package-ncna1243733"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_29/3397371/200715-donald-trump-xi-jinping-2017-ac-1103p_1fad2f6762beb64997226994d9d52012.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
     publishedDateTime: 2020-10-11T16:37:00Z
@@ -840,6 +854,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "xFl9bo0xYtnmRhCS79nYZ6el3BQbjHNE3xhaSh3C9ZkKRQWwAQugjS4jghAAlm9jmP6bGhmGhV2vBoYbd82jjs1q7xzkmi6I8b+PrC+iIIb63J9NOlkYEZvOcIpq9RdPNm8YCfxpfNfIuolRA5lCmiWYlBJ9ZbUg99rwKFag6L1wrUp/qj0WopVqcbYowGgVJl1eZGU7/LhrJ19PzuY2eJezvfUkJTW6tggxMqhhs229FdfQsZFdebjVdcVVUY8XexRyVYw2yOJEKd2zpUFQktL8+Qpp/Fy2Zi2cgLcd2xQ/bm7Aia9jhdbYwtypF3OLXkWa7rJMS/uKBC4l8S/IZeKzOywWqneIAYXx/jmk7fc=;JxegHU9mHuijsJI54gN3Vg=="
+secured: "928cz+DOOu3S8aXYayy9z2XU5pEdZjpZs95XBmtB009okJjoYovd6EpZS+IX/nCUJpxnwbrsgf3upQ/UC//O+Ln5K7G0qvfvzDBMt2SoHu42HlaPzCI99L2Ph8cPrlvAf7BU7B0NUGyNU1YGBy2B8/suVjq3Qpljq8G/Wrowh6zU6rkFBW8bCHS22mRsZeptMIFoYgqI+APb4t2dWZ5PYyKNJa9dC98rgIP9d5vl3qF2P64smDNBMe11j0ffl+DZT++6hQmLlvxI6jhupaYyAyFT5HF7yxEDWexcq1b2Mn4UEQ3J+5JBxfzMOgCmumgCyUhUJi/X/t9pCDjlvueR1k8iRGBHsghjtt5pgZTcbd/j7m8i+00xA+/qA6XB5eN91WC7R4odTSUXVO0ZbrKj1kCni0zyIvw/ZjHsvPrYvdS+vetMJP4/5pP1BKZGUH4atuZ6GJZ/VerPkwZa6YzTmMsdC9Rsp/EV4Fbiaqu3fePUuKI22kAyuxkuVOZnyxVK9YdRm/kpsEz/XPUiwYSKpA==;YlAqMjoaHxWoNbIfi4agVg=="
 ---
 

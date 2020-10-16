@@ -32,35 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "GOP senator unloads on Trump in constituent call, saying 'he mocks evangelicals' and has 'flirted with White supremacists'"
-    excerpt: "Republican Sen. Ben Sasse criticized President Donald Trump earlier this week during a private phone call with constituents, saying a number of unflattering things about the President, including that he's \"flirted with White supremacists\" and \"kisses dictators' butts,\" his office confirmed to CNN.\n "
-    publishedDateTime: 2020-10-15T23:17:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html"
+  - title: "Maryland Republican Gov. Hogan, a longtime Trump critic, casts a ballot for Reagan"
+    excerpt: "Maryland Gov. Larry Hogan, a Republican and outspoken critic of President Donald Trump, wrote in Ronald Reagan for president when he cast his 2020 ballot.\n    \n"
+    publishedDateTime: 2020-10-16T14:55:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSfMrKIuFVM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/larry-hogan-ronald-reagan-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/larry-hogan-ronald-reagan-donald-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 149
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190423112439-01-larry-hogan-nh-0423-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Trump ‘kisses dictators’ butts,’ Senator Ben Sasse, a Republican, tells constituents."
-    excerpt: "Senator Ben Sasse, Republican of Nebraska, castigated President Trump in a telephone town hall with constituents on Wednesday, accusing the president of bungling the response to the coronavirus pandemic,"
-    publishedDateTime: 2020-10-16T01:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/15/us/elections/ben-sasse-trump.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 108
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/15/us/politics/15elections-brieifng-sasse/15elections-brieifng-sasse-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
 
 secured: "VjKaaWrXRmWKW+Y8Ici6ZYONsKRNeQGOYyEHn3QlKAdnMq6gsWPckXHz/QYJUPshnp+4QjnuwKzjVIgiI7wrhpMouMj/lJe+nir/mmKpQb42n35q34AuDTE8WjVNKpGzMlXo9DQd5DNqOABmHckRiW1WiAk5kzI7wagh8d23lTeUwQJYc0/yCzFjJsmlRURn6Pp/JxQT6Zmp91OG24RrtwfYM5Aj8nJjaPv2sJU4j3ks3nVb6MSHDC0K8ooLK1mjMPTwm1BSYiUmKrRQZL8cwrZbUc6xLtqVlpGG1P5BbsrBYazqHrYKa5tQfPkUdwtIycRtWTvfKEUsOMRYu5cfASCW5hvcT8KHJjf835kXkUI=;c7DyMkRJB4CqopxhzzxUFw=="

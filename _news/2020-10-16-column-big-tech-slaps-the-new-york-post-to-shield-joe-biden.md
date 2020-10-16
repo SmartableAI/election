@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-yo
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
+    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
+    publishedDateTime: 2020-10-16T15:23:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 73
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
+        width: 5220
+        height: 2715
         isCached: true
 
 secured: "XEAy2KnQhZJUfFXfAQVXAiehcMmfaFHWhPbzm6d6jXuFWaFJZf+vsQjGIpHx9aYNFJkQX2B4DirQiwO0wPnLKG+DNWSsDX/rhojdNY6y+nXCBrXt1RWh2iY6Wve2cvC+2ACNzkLKge/LsuqZzS3LxGmv9IDQfjV1Q5KSCXB2xH+YaTPepPEyVXJeZGNi7u0tG3wkAYSTX0Dqzj5YWyJg6ljntDViJ33/iS7NJVxEIRQyeSL6OXYajJuhi51XD1LDGAb/AhazBM/yWOVFM4f7gs9pphKLEfyUzYSAH4JgX71o0fEcjXqx0IO5fKC1tInXykHudy7+uV0fE2fu/hQMHVAizSAlZJktcU3C6IffkZs=;J77rxGZvo3EiauyrpEq2bg=="

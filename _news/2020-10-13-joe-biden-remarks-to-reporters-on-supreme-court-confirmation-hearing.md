@@ -147,6 +147,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "The tricky politics of court-packing for Joe Biden"
+    excerpt: "Biden repeated Thursday night that he is not a fan of court-packing, yet he sounded more open to it than ever before."
+    publishedDateTime: 2020-10-16T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/16/tricky-politics-court-packing-joe-biden/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYTYA7X63EI6VNKVJVY2SJKPJM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
     excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
     publishedDateTime: 2020-10-07T09:40:00Z

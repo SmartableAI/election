@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 type: article
 quality: 130
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "'Mr. Rogers' versus 'someone's crazy uncle': There wasn't a debate Thursday, but the dueling-town-hall format played to Joe Biden's strengths"
+    excerpt: "During the split-screen chaos, Biden's penchant for retail politics kept him in a strong place at a time when President Donald Trump needed momentum."
+    publishedDateTime: 2020-10-16T14:17:00Z
+    webUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5f88f94ed260780019341bed?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
     excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."

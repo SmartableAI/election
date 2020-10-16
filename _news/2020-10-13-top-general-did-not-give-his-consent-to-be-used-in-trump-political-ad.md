@@ -776,6 +776,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Despite reality, Trump says China could pay for economic aid package"
+    excerpt: "Trump apparently thinks China will cover the costs of an economic aid package. That's not how any of this works."
+    publishedDateTime: 2020-10-16T15:33:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/despite-reality-trump-says-china-could-pay-economic-aid-package-ncna1243733"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_29/3397371/200715-donald-trump-xi-jinping-2017-ac-1103p_1fad2f6762beb64997226994d9d52012.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
     publishedDateTime: 2020-10-11T16:37:00Z

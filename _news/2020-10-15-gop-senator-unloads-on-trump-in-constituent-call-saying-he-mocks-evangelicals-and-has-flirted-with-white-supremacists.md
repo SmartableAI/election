@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticis
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html"
 type: article
 quality: 149
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Slamming Trump, G.O.P. Senator Warns of a ‘Republican Blood Bath’"
-    excerpt: "Senator Ben Sasse of Nebraska issued a scathing takedown of President Trump during a telephone town hall with constituents, saying he cozied up to dictators and white supremacists."
-    publishedDateTime: 2020-10-16T01:25:00Z
-    webUrl: "https://www.nytimes.com/2020/10/15/us/politics/ben-sasse-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/15/us/politics/ben-sasse-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/15/us/politics/ben-sasse-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/15/us/politics/15dc-sasse/15dc-sasse-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Trump ‘kisses dictators’ butts,’ Senator Ben Sasse, a Republican, tells constituents."
     excerpt: "Senator Ben Sasse, Republican of Nebraska, castigated President Trump in a telephone town hall with constituents on Wednesday, accusing the president of bungling the response to the coronavirus pandemic,"
     publishedDateTime: 2020-10-16T01:04:00Z

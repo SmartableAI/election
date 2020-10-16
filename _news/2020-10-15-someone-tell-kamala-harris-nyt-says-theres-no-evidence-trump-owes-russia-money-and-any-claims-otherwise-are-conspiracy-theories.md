@@ -1035,6 +1035,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump Tweets Out Fake Story Criticizing Biden From Satirical News Site"
+    excerpt: "President Donald Trump on Friday tweeted a link to a story entitled \"Twitter Shuts Down Entire Network To Slow Spread Of Negative Biden News\" from the Babylon Bee, a satirical news site, with Trump seemingly unaware that the fabricated story had no basis in reality."
+    publishedDateTime: 2020-10-16T14:45:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/16/trump-tweets-out-fake-story-criticizing-biden-from-satirical-news-site/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/16/trump-tweets-out-fake-story-criticizing-biden-from-satirical-news-site/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/16/trump-tweets-out-fake-story-criticizing-biden-from-satirical-news-site/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89af89f335953b80a67838%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1686"
+        width: 1199
+        height: 674
+        isCached: true
+  - title: "TV Ratings: Biden leads town hall duel with Trump in early numbers"
+    excerpt: "Trump’s hourlong appearance on NBC, which drew criticism across the industry and even an angry letter from top talent and showrunners who work with NBCU, appears to be trailing Biden’s 90-minute session with ABC in the ratings,"
+    publishedDateTime: 2020-10-16T15:46:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/tv/ct-ent-trump-biden-town-hall-ratings-20201016-wc4f67v3gze7zolxmnbpuvc5ze-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/tv/ct-ent-trump-biden-town-hall-ratings-20201016-wc4f67v3gze7zolxmnbpuvc5ze-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/tv/ct-ent-trump-biden-town-hall-ratings-20201016-wc4f67v3gze7zolxmnbpuvc5ze-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/4_rYs3oyFBxNwU01_LnTYq61ZUI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZQW3HHZLRKRTGBJ5ERTSGHA2F4.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -4104,6 +4136,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Why watching the Donald Trump and Joe Biden town halls at the same time was peak 2020"
+    excerpt: "Watching Donald Trump and Joe Biden's competing town halls simultaneously on NBC and ABC was weird and a perfect representation of the 2020 election."
+    publishedDateTime: 2020-10-16T14:38:00Z
+    webUrl: "https://www.freep.com/story/opinion/2020/10/16/trump-biden-town-hall-2020-dueling-column/3676918001/"
+    ampWebUrl: "https://amp.freep.com/amp/3676918001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3676918001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 83
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/8c1670ed-ac72-42f3-aba9-8ee71d47355d-GettyImages-1228795132.jpg?auto=webp&crop=3030,1704,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump Taunted With #ChickenTrump After Refusing Virtual Debate With Joe Biden"
     excerpt: "On Thursday, the Commission on Presidential Debates announced that the second debate between President Trump and Joe Biden would take place virtually in order to protect both parties after Trump tested positive for COVID-19."
     publishedDateTime: 2020-10-08T16:21:00Z
@@ -4204,7 +4252,7 @@ related:
   - title: "Mike Pence and Kamala Harris spar in vice-presidential debate"
     excerpt: "Go back to our US Elections and American English homepage. The contenders for US vice-president have met for their only debate ahead of next month’s election. While the debate b"
     publishedDateTime: 2020-10-15T16:17:00Z
-    webUrl: "https://www.bbc.co.uk/learningenglish/features/us-elections-understanding/pence-kamala-presidential-debate"
+    webUrl: "https://www.bbc.co.uk/learningenglish/marathi/features/us-elections-understanding/pence-kamala-presidential-debate"
     type: article
     provider:
       name: BBC
@@ -4340,6 +4388,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/PPEN/573697a7-0a89-4f6a-aaa0-9baaf4b1e423-Second_Lady_Karen_Pence-20.jpg?auto=webp&crop=2999,1687,x0,y75&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden Beats Donald Trump In Early Dueling Town Halls Ratings; Atlanta Beats Dodgers Over On Fox"
+    excerpt: "After all the concerns about threats to democracy in the pursuit of ratings, Thursday’s dueling town halls between Donald Trump on NBC and Joe Biden on ABC ended up being a very good night for"
+    publishedDateTime: 2020-10-16T15:42:00Z
+    webUrl: "https://deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/#!"
+    ampWebUrl: "https://deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 76
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Donald-Trump-Joe-Biden.jpg?w=1000"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Kamala Harris and the ‘Other 1 Percent’"
     excerpt: "Long before the Democratic vice presidential candidate became a national figure, India played a role in American politics."
@@ -5189,6 +5253,20 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 65
+  - title: "Presidential town halls fact check: Rhetoric from Trump, Biden in the non-debate"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden faced inquisitive voters on separate stages in different cities in a substitute for the debate. Here's how some of the rhetoric compared with the"
+    publishedDateTime: 2020-10-16T15:58:00Z
+    webUrl: "https://abc7chicago.com/bidens-abc-news-town-hall-fact-checking-the-presidential-candidates-answers/7062392/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 65
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7062740_101520-kgo-ap-trump-biden-town-halls-split-img.jpg?w=1600"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Dr. Jill Biden, Kamala Harris’s Husband Doug Emhoff Campaigning In Minnesota This Week"
     excerpt: "The wife of Democratic presidential candidate Joe Biden and the husband of vice presidential candidate Kamala Harris will be stumping in Minnesota this week."
     publishedDateTime: 2020-10-12T00:21:00Z

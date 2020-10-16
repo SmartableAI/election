@@ -93,6 +93,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "'Mr. Rogers' versus 'someone's crazy uncle': There wasn't a debate Thursday, but the dueling-town-hall format played to Joe Biden's strengths"
+    excerpt: "During the split-screen chaos, Biden's penchant for retail politics kept him in a strong place at a time when President Donald Trump needed momentum."
+    publishedDateTime: 2020-10-16T14:17:00Z
+    webUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 90
+    images:
+      - url: "https://i.insider.com/5f88f94ed260780019341bed?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Savannah Guthrie Slammed After Hosting Donald Trump Town Hall: 'Rude, Disrespectful'"
     excerpt: "Many were not happy with the way Savannah Guthrie handled Donald Trump's town hall interview on NBC because they found her rude and disrespectful."
     publishedDateTime: 2020-10-16T04:22:00Z
