@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
 type: article
 quality: 175
-heat: 775
+heat: 795
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Progressive group that opposed Biden in primary buys ad supporting him"
+    excerpt: "A progressive group that opposed Joe Biden in the primary, has apparently changed its tune and is now urging Democrats to vote for him this upcoming election."
+    publishedDateTime: 2020-10-16T06:55:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwdaxjksG2E/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

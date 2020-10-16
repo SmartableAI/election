@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 2461
+heat: 2481
 published: true
 
 provider:
@@ -1516,6 +1516,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/no-gambling-on-health-the-hotels-of-the.jpg"
         width: 1024
         height: 597
+        isCached: true
+  - title: "‘Donald Trump Town Hall with Savannah Guthrie’ free live stream: How to watch online without cable"
+    excerpt: "Donald Trump is attending a Town Hall event hosted by Savannah Guthrie on Thursday, Oct. 15 at 8 p.m. There are several ways to watch with a free live stream."
+    publishedDateTime: 2020-10-15T20:59:00Z
+    webUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html"
+    ampWebUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 61
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ONOBVVRKZZCKRHGETSQ7SZCHCQ.jpg"
+        width: 3591
+        height: 2394
         isCached: true
   - title: "Calls for Congress to impeach Bill Barr grow: DOJ now a \"vehicle\" to advance Trump's reelection"
     excerpt: "\"Barr appears to embrace an autocratic view of the power of the executive branch, specifically presidential power\""

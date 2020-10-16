@@ -318,6 +318,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump rejects California request for wildfire assistance"
+    excerpt: "The state plans to appeal the rejection by FEMA for assistance with six fires, including the largest individual blaze in California history."
+    publishedDateTime: 2020-10-16T05:55:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/10/16/trump-rejects-california-request-for-wildfire-assistance-1325891"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6f/6b/450ab4c247e99ea4652931aa3956/gettyimages-1228400613.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "XEh5tdZW18prIAOZNc0FQJNYpsPxafqQnmjUx3l56B6qgh9DyoReYIWjc3fSbYnvtBK+YTVjlV3ueYxqgktP54ypcuaVX17ZJQ1eUvtijjnIhoZNWkmKZ+3E9+waIUfM1b6sM59+3ikbu5B7OGrzDkVFMmTIs8EF/Xc6UAQ+4kErcIdUp7Pykz7HUmT5jDyFUMpWB2DTtzVol9KupwQTxE8af7eqgkaIhPMuNwo7XkQFlksDQ1y8oWCMuOr2vBNqZjXuTBUsOy+Fs2DlpI0eFXeptn9dw6KykTWPvxD/KsL6FF7gr4Xgm+Qihea2yA22sj4/+A0hc+nJL8Pr9fjgS4ACFUQN/eot1LplyVQbB+Chccb9mzj2at0j/wlZX6PxnTuhkP12Tmv2NnzTtMZmjZwoWM51DOloo464zQmptpOhBIQf9dg8+I+EU2ZTfo5gPKTfbDNFvuhOEbs5xB2/P3AA4zjaXCElCZZJTeCN8ENlWK5+LdWHObxti/aNMJTR3DLiE2Mz9o/5X7JbT3yVww==;8FDM9pIkjxe7DhjVL3WvYw=="
 ---

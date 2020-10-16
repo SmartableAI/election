@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-septem
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
 type: article
 quality: 176
-heat: 256
+heat: 276
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Grit Your Teeth, Vote for Joe Biden and Then, Fingers Crossed, Push Him Hard to Do Better"
+    excerpt: "There is no sane alternative, but his outlook is the same old centrist proactive-fear-of-prompting-a-backlash-with-too-much-progressivism that got us here in the first place."
+    publishedDateTime: 2020-10-16T07:10:00Z
+    webUrl: "https://www.thedailybeast.com/grit-your-teeth-vote-for-joe-biden-and-then-fingers-crossed-push-him-hard-to-do-better"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 36
 
 secured: "x6facKTofWdFlOSQZ4uBzqlAsE+9h9x8wlLpaq2OCijHz2tTCCDHxw7yedtu4izFFGHFtI1tD0wW47oqFtZxXVmfKDrW60irQysEz72/qbHLZQy+RMYAUZGljgLH+DHXk2mdeewecaMcKXi7Pj2ptuBSE/Jego7D6t+gvX4xXJ5ToVEdv6Q4rdgKtmafMUbS8f5CyqUan9U8xlO9lPpkQA4sx0uIDpDHl25m85TrHBdo1G1F+hYAWq4WyZQRa9Shr3L15b/UQEkgTbf6/IexR1wgz3a3CAmvcDOMN82iItQHyumw+2h1oNNmzG3Ew8RIw+1hXjD0q7+GGmHrH947v1MpENbAQJlp72I6hgsUNAI=;cxaVAhVOfxOKDsYBzTQ2vw=="
 ---

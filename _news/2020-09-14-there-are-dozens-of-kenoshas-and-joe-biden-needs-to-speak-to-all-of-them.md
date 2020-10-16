@@ -794,6 +794,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump and Biden town halls: highlights and analysis"
+    excerpt: "Trump and Biden's dueling town halls. Trump and Biden were in different cities for the dueling town halls Thursday that replaced their debate. But they may as wel"
+    publishedDateTime: 2020-10-16T05:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/trump-biden-town-halls-start-time-how-watch-live-updates-n1243511"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1243511"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1243511"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420160/201014-presidents-town-hall-live-blog-cs_cf832691e86ca2039abdc1a60af3f2be.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z

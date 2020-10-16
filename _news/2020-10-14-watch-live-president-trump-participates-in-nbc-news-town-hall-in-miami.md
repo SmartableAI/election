@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Jimmy Kimmel Slams NBC for Giving Trump His Town Hall"
+    excerpt: "Seeing the president on the network that hosted “The Apprentice” was “like taking a time machine back to 2004, when he was just a blowhard reality TV host,” Kimmel said."
+    publishedDateTime: 2020-10-16T06:53:00Z
+    webUrl: "https://www.nytimes.com/2020/10/16/arts/television/late-night-jimmy-kimmel-nbc-trump-town-hall.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/16/arts/television/late-night-jimmy-kimmel-nbc-trump-town-hall.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/arts/television/late-night-jimmy-kimmel-nbc-trump-town-hall.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/arts/16latenight/16latenight-facebookJumbo.png"
+        width: 717
+        height: 376
+        isCached: true
 
 secured: "l0N/PoeUxHSYzTbZafyCzG1zihlhhb6+VuI3n64D63UdrySKP7sS5h+O1SYznvfkGOrZsl8pGmNU2psg8KtKxqEWqz2D9YWiRPBv++DVPIWH+9+ivghA5rDOBm26Y/xUMcHAjpnMVSKEJYffsQ1UCvcPIkVq1yy/sCo4TSqnPNyaTifUabBxUJTp86UjNuQl17yf7gZf0BkeOvJMNLankLwNOGUDlwJ2GjhMT3bskDZFGDp5KvBiORPD799v7OLlRCmkFYIp9+aeKD9zU0Q7N0TuDP0uMEcCUzqNFZfNmQiRge3r73HTFyesvDv8PCA0EszWbaMsAYKoOGbtcslvYKEwzyLRhHl4BP+qqIVenAE=;9y8qXvstsVQ3yQoO+dyiSg=="
 ---

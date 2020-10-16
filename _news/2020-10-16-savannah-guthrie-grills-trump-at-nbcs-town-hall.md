@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/101320_Trump_Town_Hall-Twitter-FS-NBC_Thu.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Jimmy Kimmel Slams NBC for Giving Trump His Town Hall"
+    excerpt: "Seeing the president on the network that hosted “The Apprentice” was “like taking a time machine back to 2004, when he was just a blowhard reality TV host,” Kimmel said."
+    publishedDateTime: 2020-10-16T06:53:00Z
+    webUrl: "https://www.nytimes.com/2020/10/16/arts/television/late-night-jimmy-kimmel-nbc-trump-town-hall.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/16/arts/television/late-night-jimmy-kimmel-nbc-trump-town-hall.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/arts/television/late-night-jimmy-kimmel-nbc-trump-town-hall.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/arts/16latenight/16latenight-facebookJumbo.png"
+        width: 717
+        height: 376
         isCached: true
 
 secured: "KyYurxipTcXW7Ej8F15/yPClJmdb42VQ9NDP1TvPGHWbntnd+WAbFWJxlj8ejBZpj+QemlShp3iyqSfOU94U1dCJJ+L/lfaSAgTbZxRvKh8JbX6caez7JHs9ioTgR71uphlel74OfKsKU6UPoUH/Xf06fJwVkVd1O4GGJVGFnLtQccWK7GoNc+LsCpEVU8QWQ11apCUXnmVpjm3U4YXiCsk4NV1oLEFymkeaVMcIaMnIV3Ai9g4gSkusSPMpHcF3iGMCIUmN3otm5mh0EkrQrIviNKkU2nRSE3gceqfrSV3p5IioXP5ilPZ1LXm+n8qRI+d5NKRpjFZHZtPb334YZhMOA9xKFMtNIpMyRV6qJ4c=;WT4Z/oenNZssKMFlYbXVUA=="

@@ -93,6 +93,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Grit Your Teeth, Vote for Joe Biden and Then, Fingers Crossed, Push Him Hard to Do Better"
+    excerpt: "There is no sane alternative, but his outlook is the same old centrist proactive-fear-of-prompting-a-backlash-with-too-much-progressivism that got us here in the first place."
+    publishedDateTime: 2020-10-16T07:10:00Z
+    webUrl: "https://www.thedailybeast.com/grit-your-teeth-vote-for-joe-biden-and-then-fingers-crossed-push-him-hard-to-do-better"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 36
 
 secured: "gqynD8okjsaz8HqjePkqHjW/8IrNYCmC8iv9T6mLTu198BMg0qadgrnL1DpO5j28aJiuzSyzTYZNHbKChjVa8chKphoPe9tDEnWqo95P5iapNLRqGfUfBbdXRXxfCS8D11abeuzcpttWWAzKgIjhJ3mbG1JalYD0Dox0QasmR68xG/cYc3YKHghaPuymg64MqzCbDHLFnCCbk7Xg2UMQOVxt8YnYqxlYJXLOSe7bfpwpVdZbs5aVlGre6NkQFV0n5cuOA2qJIJLcfw3Awmod1pQXL2zcQaArRParLkTgFaP3IugWpdDyg/86Z3S1PfMIJYK81ePMw3UgeiI20B57Nr154zzZPZiFvjUb7Zr99eY=;3ravyAaakByEs7B3lRPRoQ=="
 ---

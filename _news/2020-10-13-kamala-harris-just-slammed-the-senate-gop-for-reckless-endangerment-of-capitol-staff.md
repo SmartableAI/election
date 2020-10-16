@@ -172,14 +172,14 @@ related:
   - title: "Kamala Harris' staff tests positive for COVID..."
     excerpt: "Watch \"Kamala Harris suspends campaign travel as her staff tests positive for COVID-19 \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-15T17:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201015191657-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
+    webUrl: "https://www.cbsnews.com/live/video/20201015201341-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07274783_1602789724.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07275107_1602793145.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -368,6 +368,22 @@ related:
       - url: "https://media.king5.com/assets/KFMB/images/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd/02fce5a7-2ad1-4d48-b5e0-89b83d3182cd_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Kamala Harris cancels travel through Sunday after staffer tests positive for COVID-19"
+    excerpt: "Democratic vice presidential nominee Kamala D. Harris is canceling travel plans through Sunday after her communications director tested positive for the coronavirus."
+    publishedDateTime: 2020-10-16T03:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/15/kamala-harris-cancels-travel-through-sunday-after-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/15/kamala-harris-cancels-travel-through-sunday-after-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/15/kamala-harris-cancels-travel-through-sunday-after-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/Supreme_Court_Barrett_89620.jpg-1fd29_c0-0-3513-2049_s1200x700.jpg?55b321e0026dbb50574414a129505f8801aac6e6"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
     excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."

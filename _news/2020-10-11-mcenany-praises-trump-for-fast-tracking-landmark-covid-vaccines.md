@@ -94,22 +94,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden pressed on 'you ain't Black' comment during town hall"
-    excerpt: "An undecided African American voter took a veiled swipe at Democratic presidential nominee Joe Biden Thursday night, asking him to give him an answer “besides ‘you ain’t Black’” for why  young Black voters should support him in the 2020 election."
-    publishedDateTime: 2020-10-16T02:00:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks6nMIHtmrU/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
-    ampWebUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden reiterates plan to convince Americans to wear masks"
     excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
     publishedDateTime: 2020-10-16T00:54:06Z
@@ -183,6 +167,22 @@ related:
       - url: "https://images.wsj.net/im-240642/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden pressed on 'you ain't Black' comment during town hall"
+    excerpt: "An undecided African American voter took a veiled swipe at Democratic presidential nominee Joe Biden Thursday night, asking him to give him an answer “besides ‘you ain’t Black’” for why  young Black voters should support him in the 2020 election."
+    publishedDateTime: 2020-10-16T02:07:00Z
+    webUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
+    ampWebUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
     excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"

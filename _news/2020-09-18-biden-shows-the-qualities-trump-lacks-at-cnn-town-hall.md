@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/18/politics/joe-biden-donald-trump-town-halls-election-2020/index.html"
 type: article
 quality: 190
-heat: 1910
+heat: 1930
 published: true
 
 provider:
@@ -778,6 +778,22 @@ related:
     quality: 150
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420217/201014-presidential-town-hall-main-bar-cs_70d89a5ff9d5588001b9d92cac8f5188.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Trump and Biden town halls: highlights and analysis"
+    excerpt: "Trump and Biden's dueling town halls. Trump and Biden were in different cities for the dueling town halls Thursday that replaced their debate. But they may as wel"
+    publishedDateTime: 2020-10-16T05:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/trump-biden-town-halls-start-time-how-watch-live-updates-n1243511"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1243511"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1243511"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420160/201014-presidents-town-hall-live-blog-cs_cf832691e86ca2039abdc1a60af3f2be.jpg"
         width: 2500
         height: 1250
         isCached: true

@@ -2,13 +2,13 @@
 category: news
 title: "Biden pressed on 'you ain't Black' comment during town hall"
 excerpt: "An undecided African American voter took a veiled swipe at Democratic presidential nominee Joe Biden Thursday night, asking him to give him an answer “besides ‘you ain’t Black’” for why  young Black voters should support him in the 2020 election."
-publishedDateTime: 2020-10-16T02:00:50Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks6nMIHtmrU/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks6nMIHtmrU/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
+publishedDateTime: 2020-10-16T02:07:00Z
+originalUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
+webUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
 ampWebUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -258,6 +259,6 @@ related:
         height: 764
         isCached: true
 
-secured: "qa9Mqen2mN2wx91I4mHOpGkKscK66WxBkdTUf+ydSu+JyjYDDRbPq8O+nc85fAGhrN/cxexb3zSZc36Lv4CzxWbb0j0HQ9mC6Qy6ymAFE2xDJNZmn1CFg5owYgm/keGFS8Qn54bpDMzjfw+mQS0VtT4e+XBOPBNtl6xPYgzkbZVdKI4agclJWmuK/ScBRzh2As9k0KovSekXbFakai0NeZCUeGjQHfLn/KmNJOi1XBNGlKNHscHtIyuKSgBHaMmY5IclF420nAp5yFyxzJO9qWlqmnmQ+By7B64AP6n0cNScogO//9SgH3vZGsGQKrI3ql9nkjVdPBc40vuweO+fJ8Tkm/kcHKDZd8528wHjUuE=;6DjtY2PeQKbTOLGY7m0yJQ=="
+secured: "q8t3pmXui4SyEcz4rHfCT/Axrbi/sYRPh70fISAkl32uqctrX7EJM1t+wyIcRY3pC3+Rphmbdgh3CkDwPWdUUufoDQ5+iO9dXPjivrIYffWFmETs6hQDZ7kiMmWnurjR2kxI8h12NiCgHa/rAafNsgRE22TwfNBDnX3z+csG6j71wRqdK8CzsXW/M9EjfKW7fcmlUUVzdgFhqqCLPwyJy3pR52RFNWxs3qw3F7hlKLrw175Hyz1SYZyPzpgAjaossNmInvi8fTp1sMk0tDuvZsZBgphItZew8vdCdpq+TyHr/G8NQgTZpT0CsvSfkvevZxoc+andfOQMMlRmI1XuFEkcXGtI96005s0TVaiU0Zk=;3XIBBDEi7xzfv6DJ0tcS/w=="
 ---
 

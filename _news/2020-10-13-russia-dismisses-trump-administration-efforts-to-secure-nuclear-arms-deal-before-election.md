@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comm
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html"
 type: article
 quality: 181
-heat: 561
+heat: 581
 published: true
 
 provider:
@@ -308,6 +308,20 @@ related:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_23/3380581/200605-moscow-red-square-se-1149a_7b70cb7ba2f8575b68f08f408688cb6e.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Trump rejects California request for wildfire assistance"
+    excerpt: "The state plans to appeal the rejection by FEMA for assistance with six fires, including the largest individual blaze in California history."
+    publishedDateTime: 2020-10-16T05:55:00Z
+    webUrl: "https://www.politico.com/states/california/story/2020/10/16/trump-rejects-california-request-for-wildfire-assistance-1325891"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/6f/6b/450ab4c247e99ea4652931aa3956/gettyimages-1228400613.jpg"
+        width: 700
+        height: 467
         isCached: true
   - title: "Team Trump Admits Its ‘Russiagate’ Head Fake Has Been a Flop"
     excerpt: "Loyalists like Director of National Intelligence John Ratcliffe are trying to craft a counter-narrative. But the country isn’t in the mood for the tale."

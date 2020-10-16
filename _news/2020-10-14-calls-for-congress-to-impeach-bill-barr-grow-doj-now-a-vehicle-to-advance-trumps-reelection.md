@@ -1527,6 +1527,22 @@ related:
         width: 1024
         height: 597
         isCached: true
+  - title: "‘Donald Trump Town Hall with Savannah Guthrie’ free live stream: How to watch online without cable"
+    excerpt: "Donald Trump is attending a Town Hall event hosted by Savannah Guthrie on Thursday, Oct. 15 at 8 p.m. There are several ways to watch with a free live stream."
+    publishedDateTime: 2020-10-15T20:59:00Z
+    webUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html"
+    ampWebUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 61
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ONOBVVRKZZCKRHGETSQ7SZCHCQ.jpg"
+        width: 3591
+        height: 2394
+        isCached: true
   - title: "Report: Some People Thinking a Drug-Addled Maniac (Donald Trump) Shouldn’t Be in Charge of the Nuclear Codes"
     excerpt: "The New York Times reports that while some national security experts have long argued that the POTUS should not have “the unchecked authority” to launch nuclear weapons, Trump’s long rants—described by one doctor as “steroid-induced psychosis”—and wildly erratic behavior since he was put on experimental medications after testing positive for COVID-19 have underscored the danger of giving a total lunatic the power to nuke another country."
     publishedDateTime: 2020-10-12T18:46:00Z

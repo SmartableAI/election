@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump, Biden participate in dueling town halls"
+    excerpt: "President Trump and former Vice President Joe Biden held dueling town halls Thursday with less than three weeks to go before the election. "
+    publishedDateTime: 2020-10-16T06:43:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_POvSnj0ch0/live-updates-trump-biden-participate-in-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-participate-in-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-participate-in-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/745c01a0-6b66-4bcf-84cc-80436d1ac538/f6ffaf80-861f-4362-9b46-57f0baededd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -1230,6 +1246,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/d7e6ffd7-AP20276816093779.jpg"
         width: 5116
         height: 3411
+        isCached: true
+  - title: "Live updates: Hunter Biden emails and the presidential race"
+    excerpt: "The owner of a Delaware computer repair store stepped forward with a laptop that allegedly contained Hunter Biden's emails detailing an opportunity for a meeting between his father, former Vice President Joe Biden, and a top Burisma executive."
+    publishedDateTime: 2020-10-16T07:43:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_iaJuoGyqA4/live-updates-hunter-biden-emails-and-the-presidential-race"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-hunter-biden-emails-and-the-presidential-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-hunter-biden-emails-and-the-presidential-race.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1977768f-7111-4548-8d99-b534d36a9544/0565d1f9-b70f-4605-a44d-3d992fae988f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump campaign, RNC declare Trump the winner of first presidential debate"
     excerpt: "The Trump campaign and the Republican National Committee declared President Trump the winner of the first presidential debate against Joe Biden Tuesday night, slamming the former vice president as “too weak” and touting Trump as a “strong president on top of his game.”"
