@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
 type: article
 quality: 175
-heat: 735
+heat: 775
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Twitter announces new policies after Hunter Biden report imbroglio"
+    excerpt: ""
+    publishedDateTime: 2020-10-16T04:19:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Ex-White House doctor questions Biden's 'mental capacity' to be president"
     excerpt: "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said."
@@ -204,6 +220,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hawley: Americans ought to be able to sue Twitter, Facebook over blocking Hunter Biden report"
+    excerpt: "Americans who were prevented by social media giants from sharing the New York Post's reporting about Hunter Biden this week should be able to sue those companies, Sen. Josh Hawley, R-Mo., told “Hannity” Thursday night."
+    publishedDateTime: 2020-10-16T04:15:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0zC6dbYKSu4/josh-hawley-americans-sue-twitter-facebook"
+    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18153b84-b2ed-4208-acb2-b23f8fe63683/370a704c-9174-48e6-b638-9e4b1519b3c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

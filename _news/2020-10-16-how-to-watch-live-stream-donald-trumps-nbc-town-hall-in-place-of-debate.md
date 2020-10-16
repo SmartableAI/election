@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-tow
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
 type: article
 quality: 124
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
+    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
+    publishedDateTime: 2020-10-16T04:42:00Z
+    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
   - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
     excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."

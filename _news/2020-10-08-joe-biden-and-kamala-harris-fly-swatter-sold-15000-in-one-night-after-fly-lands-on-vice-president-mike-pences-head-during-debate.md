@@ -1037,6 +1037,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "TV gives viewers a split-screen comparison of Trump, Biden"
+    excerpt: "Instead of the expected debate between President Donald Trump and Democrat Joe Biden, television viewers were left Thursday with what ABC’s David Muir called “split-screen America.”"
+    publishedDateTime: 2020-10-16T04:57:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_4c308093ec3a4662b70311c5dbe60a16_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1522,22 +1538,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUJDSHANRUI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - as it happened"
-    excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
-    publishedDateTime: 2020-10-15T23:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 130
-    images:
-      - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
-        width: 600
-        height: 360
         isCached: true
   - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
     excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."
@@ -2166,6 +2166,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/4UmECS31mQrkcGNAc0GBwz8YTNk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3EVKEBQF5NDJNL7JDTD44FNJ7I.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - as it happened"
+    excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
+    publishedDateTime: 2020-10-15T23:01:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88d19b8f087cfbdaeb0ca4"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
+        width: 600
+        height: 360
         isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
@@ -4834,6 +4850,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/ap-fact-check-trump-flubs-study-on-masks-and-coronavirus"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/ap-fact-check-trump-flubs-study-on-masks-and-coronavirus?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-15/ap-fact-check-trump-flubs-study-on-masks-and-coronavirus?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Biden and Trump Return to Campaign Trail After Dueling Town Halls"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden will return to the campaign trail on Friday with visits to three battleground states, a day after the two contenders clashed from afar during dueling televised town halls."
+    publishedDateTime: 2020-10-16T05:25:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-16/biden-and-trump-return-to-campaign-trail-after-dueling-town-halls"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-16/biden-and-trump-return-to-campaign-trail-after-dueling-town-halls?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-16/biden-and-trump-return-to-campaign-trail-after-dueling-town-halls?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

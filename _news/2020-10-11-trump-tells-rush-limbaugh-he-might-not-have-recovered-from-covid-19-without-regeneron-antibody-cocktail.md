@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms"
+    excerpt: "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative."
+    publishedDateTime: 2020-10-16T04:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3667827001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump says he'll 'kiss everyone' in crowd at rally"
     excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
     publishedDateTime: 2020-10-13T01:40:00Z

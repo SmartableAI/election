@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris' staff tests positive for COVID..."
 excerpt: "Watch \"Kamala Harris suspends campaign travel as her staff tests positive for COVID-19 \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2020-10-15T17:12:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20201015201341-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
-webUrl: "https://www.cbsnews.com/live/video/20201015201341-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
+originalUrl: "https://www.cbsnews.com/live/video/20201015191657-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
+webUrl: "https://www.cbsnews.com/live/video/20201015191657-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
 type: article
 quality: 105
 heat: -1
@@ -23,7 +23,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07275107_1602793145.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07274783_1602789724.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -270,6 +270,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At Supreme Court Hearing, Kamala Harris Summons Her Prosecutorial Instincts"
+    excerpt: "Joe Biden picked Kamala Harris in no small part for her prosecutorial pluck, on clear display in the Supreme Court hearing this week."
+    publishedDateTime: 2020-10-15T17:42:00Z
+    webUrl: "https://time.com/5900467/kamala-harris-supreme-court-hearing/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 83
   - title: "Kamala Harris blasts Senate GOP for ignoring coronavirus safety, relief"
     excerpt: "Sen. Kamala Harris blasted Senate Republicans Monday for holding a confirmation hearing for Supreme Court nominee Amy Coney Barrett, saying they are ignoring the safety issues related to COVID-19."
     publishedDateTime: 2020-10-12T19:06:00Z
@@ -417,6 +426,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "HFF4mRFpSowmEZaIt5na/PigPF/DqW/RnE8SWUdS11sx8zDJUe+ADpPZk5fTNe0VgODr5l378pphYqs0QzJpfJm+sXuNONjvsRV0aLDHoyBtK+Xq/5H2bRpGAWQOsPtdNzLUAgusOGf2wwcLkRSolmnTJR/Z2n2z77/p/cYRK2Z3aMrx0fyzsaROzhKKciDU71xojQVHlZM+VO/KWhTdVzDW4gexI0DAYxkNRg3M0Jo/8yBiSzmDhkjm4gSK/JBMRUqOyj5yQ8YGwS+SIehElsvU0pEq8Kh497EgW2jVUSJtGrKf/HSaZ3T3mlLCQlZP9HF10ceRA1P2stRSMU7kJ9uXwZEtM49Hblw2FSnC6Oo=;jfZ0Odr9BTbUmgLozyASCg=="
+secured: "u/oypVGgXsxz6a4voLz+JYNjmiNf9qp92tAkNnVp3O7YfGBclS9mFI97addVe3bGtv8QREZiVtHB9pgT5EX00YKKPuf8ikdPkZOg82EzQjphh4BqmqnlmPMnsfVyhv6O7B/L0gJNH7UW4oTzUzyokWUep6iI40X0ZetDHMAUBa0SI2wRYz/elxhFBGxbZPXD3kponGpMOX3tjG5ifm0cX6ltHl4IugRq2fbR1JCt8eAV4eyJuQsGrLrYTrRRQUp7jNPo/cfCZGucvhGumrCFNxCz1FmkmYWuYHRjPTNNXOIUj2qsg/d2vhTzFOGOBKtlvg0onUKFbqkOx1DKU0iHwtwgcExStmf7atzmWfPcwTQ=;dTjNgxW+m02/LZTwaNKrqg=="
 ---
 

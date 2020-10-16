@@ -213,6 +213,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Biden's $2 trillion infrastructure plan gets a mixed reaction from industry groups"
+    excerpt: "Democratic presidential nominee Joe Biden has managed to thread the needle with his latest massive infrastructure wish list, pleasing industry stakeholders and environmentalists alike."
+    publishedDateTime: 2020-10-16T03:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 79
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/5158040/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F54%2Fae%2Fd58c73bd4b7994dde19c8c27c61c%2Fwb.Transpo.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
     publishedDateTime: 2020-10-14T23:30:00Z
@@ -242,6 +258,6 @@ related:
         height: 764
         isCached: true
 
-secured: "U3m8vExQFE5p4lHYAi9Hkq2l7F1GXi+ycb14k6gMoLrkzL/Xvdhi2pP/jMP2LSbygz5lOzufx0ABNyiQPngvrfE0WiBPfcuJcUtPqJXpx19J7qHkVKtnD+7f3PcuSfBOaOy/g10SUirlRrSq2i2vN0eQR0rkdLT7TOHIksYZJklb9uQw4DLOn7AN7YIQa6/g+WsYtGoSFpz2cKNyK2aUORWfLIf59HDyboRPlOhzJRZJgZ0I5xCq9ja1Dimnh9nSvLW/ZncTVu4YQvcKmj3OtNL+JfjOJaLUN0gLaczXJpUpU5SgRu+Q1n0K5NrcZlSasf9IOOxUqqL6PBpBM1YBT48AXBgHhtIsvmKRHkY1F/0=;R2rYMDUwjkrda+Y+SiknxA=="
+secured: "qa9Mqen2mN2wx91I4mHOpGkKscK66WxBkdTUf+ydSu+JyjYDDRbPq8O+nc85fAGhrN/cxexb3zSZc36Lv4CzxWbb0j0HQ9mC6Qy6ymAFE2xDJNZmn1CFg5owYgm/keGFS8Qn54bpDMzjfw+mQS0VtT4e+XBOPBNtl6xPYgzkbZVdKI4agclJWmuK/ScBRzh2As9k0KovSekXbFakai0NeZCUeGjQHfLn/KmNJOi1XBNGlKNHscHtIyuKSgBHaMmY5IclF420nAp5yFyxzJO9qWlqmnmQ+By7B64AP6n0cNScogO//9SgH3vZGsGQKrI3ql9nkjVdPBc40vuweO+fJ8Tkm/kcHKDZd8528wHjUuE=;6DjtY2PeQKbTOLGY7m0yJQ=="
 ---
 

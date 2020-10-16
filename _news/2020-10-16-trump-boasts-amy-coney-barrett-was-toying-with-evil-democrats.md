@@ -178,14 +178,14 @@ related:
   - title: "Kamala Harris' staff tests positive for COVID..."
     excerpt: "Watch \"Kamala Harris suspends campaign travel as her staff tests positive for COVID-19 \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-15T17:12:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201015201341-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
+    webUrl: "https://www.cbsnews.com/live/video/20201015191657-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07275107_1602793145.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07274783_1602789724.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -286,6 +286,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At Supreme Court Hearing, Kamala Harris Summons Her Prosecutorial Instincts"
+    excerpt: "Joe Biden picked Kamala Harris in no small part for her prosecutorial pluck, on clear display in the Supreme Court hearing this week."
+    publishedDateTime: 2020-10-15T17:42:00Z
+    webUrl: "https://time.com/5900467/kamala-harris-supreme-court-hearing/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 83
   - title: "Kamala Harris blasts Senate GOP for ignoring coronavirus safety, relief"
     excerpt: "Sen. Kamala Harris blasted Senate Republicans Monday for holding a confirmation hearing for Supreme Court nominee Amy Coney Barrett, saying they are ignoring the safety issues related to COVID-19."
     publishedDateTime: 2020-10-12T19:06:00Z

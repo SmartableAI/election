@@ -34,7 +34,7 @@ related:
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
     publishedDateTime: 2020-10-16T02:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/?ref=hvper.com"
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/"
     ampWebUrl: "https://amp.usatoday.com/amp/3673997001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3673997001"
     type: article

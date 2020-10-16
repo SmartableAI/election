@@ -3,12 +3,12 @@ category: news
 title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - as it happened"
 excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
 publishedDateTime: 2020-10-15T23:01:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88d19b8f087cfbdaeb0ca4"
+webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88d19b8f087cfbdaeb0ca4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
 type: article
-quality: 130
+quality: 120
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -1039,6 +1038,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trump.giuliani.1.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "TV gives viewers a split-screen comparison of Trump, Biden"
+    excerpt: "Instead of the expected debate between President Donald Trump and Democrat Joe Biden, television viewers were left Thursday with what ABC’s David Muir called “split-screen America.”"
+    publishedDateTime: 2020-10-16T04:57:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/nbc-holds-fast-dueling-town-halls-celebrity-anger-73637009"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_4c308093ec3a4662b70311c5dbe60a16_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
@@ -4842,6 +4857,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden and Trump Return to Campaign Trail After Dueling Town Halls"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden will return to the campaign trail on Friday with visits to three battleground states, a day after the two contenders clashed from afar during dueling televised town halls."
+    publishedDateTime: 2020-10-16T05:25:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-16/biden-and-trump-return-to-campaign-trail-after-dueling-town-halls"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-16/biden-and-trump-return-to-campaign-trail-after-dueling-town-halls?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-16/biden-and-trump-return-to-campaign-trail-after-dueling-town-halls?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -5283,6 +5309,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "M6gxsX9HFA4xoCoWwjCIqgVklQqN9uEQWxIgf4wU0rd9vswTyo9N2CGvvPi6qjNOpJYmV6Rvzt/D5YUazFd5kJ/KlN6v+X+7xyrWtcCKWU18WfjWxPAOeQdk8+AgXq/GNxJYU1mtC+PC5prTYNe8kf82P/hJWD03o5tIypGChOsVnNOfFbyUMu6ZO+QjykLr5doqzqC0yGvO/0z6/qNqRQ4Z0zlShvrB+DmxDVMZ/jVJZDUIs69iy6q9ChlsrUF4+d5x21dV9OQXoTnGeF0fwzbRCO3NSwy8zPvYZAdoVytGRpGx4YU/EsbD1mJ9kPTuVPaM8SkIa2nYy5NEEpJimbR22omj2jpig9z9gbfKdGgdCdvOCKmlZWfMgz/L0SsIUEkCkiCEDkhwFV9Yvi9i5QfLTdEP2IdvVRfj6rxm74XkFtvNh8T77ZidyTw+R1cIGFojux52+/+fCIPowT0QiQONzKjTILMSrLQzrh0Hnq8EyevaC4CgMsulZbY8/LRDFPz3jHIuS5kf5Tz09N0MDQ==;KFaBcM37oK/d2ZOsJ/363g=="
+secured: "ofHyc3UMQEDCYeSOesdHoy39kXlATfpCfhAKjNoS3wuQ3jJNUkaP3NtMJLR8Hn+2uD2mTuKZ1lh+AEe+9bf9BdtWf9GkWDaDpNar4O/td0UQkxBQgCIxRmoDrPMzwxS6VvPR8vXtItCaScMhaM3vcQVvwTMKGLDUlF7RB8Rhv+VqDQipXZHI7ravOntzIPCZz1qh8EGAtyXcjo/WjCjqK8fwnxV9I5+wruBunZpxZ3RPc+VmRSYhqRuiK88OD+7bo5uk0VMPuwKpcQrOAYrO7LLcGmv1FtTUOEpAZNK7wqRSGhgwvVBBaH6WrhEY8O2BNRRgvazlT5DpJ6j6G4Vg8acmhLVSpLWOLdN/VXE2+cQ=;JwJNMw0SK0g7p2SozVAu2A=="
 ---
 

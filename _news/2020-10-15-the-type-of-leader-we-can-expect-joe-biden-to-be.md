@@ -228,6 +228,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Biden's $2 trillion infrastructure plan gets a mixed reaction from industry groups"
+    excerpt: "Democratic presidential nominee Joe Biden has managed to thread the needle with his latest massive infrastructure wish list, pleasing industry stakeholders and environmentalists alike."
+    publishedDateTime: 2020-10-16T03:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 79
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/5158040/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F54%2Fae%2Fd58c73bd4b7994dde19c8c27c61c%2Fwb.Transpo.jpg"
+        width: 2290
+        height: 1322
+        isCached: true
   - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
     excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
     publishedDateTime: 2020-10-15T22:10:00Z
