@@ -26,38 +26,6 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
-    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
-    publishedDateTime: 2020-10-12T23:21:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden says Obama will be 'out on the trail' for him"
-    excerpt: "Joe Biden says former President Barack Obama will be hitting the campaign trail on the current Democratic presidential nominee's behalf."
-    publishedDateTime: 2020-10-13T17:29:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O3528RUg7uw/biden-obama-campaign-trail"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-campaign-trail.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-campaign-trail.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287550399524.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Obama conference call leaked to Burisma, Biden emails show"
     excerpt: "The Obama administration let a Democratic p.r. company that worked for Ukrainian energy firm Burisma take part in a conference call about an upcoming visit to Ukraine by then-Vice President Joe Biden, emails obtained by The Post show."
     publishedDateTime: 2020-10-14T11:36:23Z
@@ -74,155 +42,127 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cruz warns 'radical' Democrats won't push back against Biden packing Supreme Court"
-    excerpt: "Democrats' opening statements during Supreme Court nominee Amy Coney Barrett's confirmation hearing Monday showed their intent to expand the size of the highest court in the land, Senate Judiciary Committee member Ted Cruz, R-Texas, told \"Tucker Carlson Tonight.\""
-    publishedDateTime: 2020-10-13T02:19:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G4mnSv4UwWg/cruz-democrats-biden-court-packing"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-democrats-biden-court-packing.amp"
+  - title: "Hunter Biden tried to cash in big with Chinese firm, emails suggest"
+    excerpt: "Hunter Biden pursued lucrative deals involving China’s largest private energy company — including one that he said would be “interesting for me and my family,” emails obtained by The Post show."
+    publishedDateTime: 2020-10-15T11:40:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oozW-bMIoZU/hunter-biden-chins-firm-emails-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a8e4c3f4-f297-41c3-861d-fd80bd3f7a35/6ea39985-9fc8-4338-afce-f53690c9d083/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Durbin says Trump administration case against ObamaCare is 'orange cloud' over Barrett nomination"
-    excerpt: "Sen. Dick Durbin, D-Ill., continued Democrats' claims that the real reason why Republicans are rushing to confirm Judge Amy Coney Barrett to the Supreme Court is so that she can be on the bench for an upcoming ObamaCare case, but he had a particularly colorful way of putting it."
-    publishedDateTime: 2020-10-14T15:45:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2De58Ce9Thw/durbin-barrett-hearing-trump-obamacare-case"
-    ampWebUrl: "https://www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/durbin-barrett-hearing-trump-obamacare-case.amp"
+  - title: "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax"
+    excerpt: "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday."
+    publishedDateTime: 2020-10-07T11:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288542482521-e1602689531456.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Barrett says she won’t give issues 'thumbs up or thumbs down' as Dems grill nominee on ObamaCare, Trump"
-    excerpt: "Barrett repeatedly refused to commit to a certain outcome in cases on specific issues when asked by Democrats on Tuesday."
-    publishedDateTime: 2020-10-13T17:40:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUGZ_t225NY/barrett-says-she-wont-commit-to-rulings-on-any-cases"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-says-she-wont-commit-to-rulings-on-any-cases.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-says-she-wont-commit-to-rulings-on-any-cases.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "McEnany rips Biden’s dodge on court packing as ‘elitist’"
-    excerpt: "Voters deserve to know 2020 Democratic presidential nominee Joe Biden's position on packing the Supreme Court, said White House Press Secretary Kayleigh McEnany on Monday."
-    publishedDateTime: 2020-10-12T15:12:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p-7X_w8fSTc/mcenany-biden-dodge-court-packing-elitist"
+  - title: "Hunter Biden introduced Burisma adviser to VP dad before Ukraine pressure, email shows"
+    excerpt: "Hunter Biden introduced his father, then-Vice President Joe Biden, to a top executive at a Ukrainian energy firm less than a year before the elder Biden pressured government officials in Ukraine into firing a prosecutor who was investigating the company, according to emails obtained by The Post."
+    publishedDateTime: 2020-10-14T10:34:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNyVsxUf6_U/hunter-biden-ukraine-burisma-adviser-email"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden camp hits back at Hunter Biden email report suggesting then-VP met with Burisma exec"
+    excerpt: "The Biden campaign hit back Wednesday after the New York Post reported that newly uncovered emails suggested Hunter Biden introduced his father, then the vice president, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request."
+    publishedDateTime: 2020-10-14T17:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fkQxoQA9hZI/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "New Hunter Biden emails detail alleged dealings with Chinese energy firm, Burisma executive"
+    excerpt: "Joe Biden’s campaign has repeatedly denied wrongdoing."
+    publishedDateTime: 2020-10-16T02:42:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR8QcboA53U/hunter-biden-emails-chinese-energy-firm-burisma-executive"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's ABC town hall questioners include former Obama speechwriter, wife of former Pennsylvania Dem candidate"
+    excerpt: "Two of the questioners at the ABC town hall featuring Democratic presidential candidate Joe Biden on Thursday had ties to high-profile Democratic politicians, including one who previously worked as a speechwriter in the Obama administration. "
+    publishedDateTime: 2020-10-16T15:29:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/auLg-89bA3A/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/jbiden-NEWSLETTER-xx.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
-    excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
-    publishedDateTime: 2020-10-10T21:07:00Z
-    webUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist"
-    ampWebUrl: "https://www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mark-levin-asks-if-joe-biden-is-still-a-white-supremacist.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dfabcf7a-727f-4aef-8c23-877b26f8f323/89e3af1b-7506-40cc-b496-3b7c255b1a27/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Conflict-of-interest alarms raised over Joe Biden's son-in-law"
-    excerpt: "Meanwhile, his opponent Joe Biden can barely cross the Delaware state line without becoming, let's say, confused and sleepy and irritated. Former White House physician Dr. Ronny Jackson is sounding the alarm,"
-    publishedDateTime: 2020-10-14T16:12:00Z
-    webUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law"
-    ampWebUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef7092af-a23d-4680-9bce-01e170733e29/ba5c14eb-16e0-46a2-afb9-fcef6cefb2b0/1280x720/match/image.jpg"
-        width: 1280
-        height: 712
-        isCached: true
-  - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
-    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
-    publishedDateTime: 2020-10-10T02:38:00Z
-    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-court-packing-certain-biden-harris"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 105
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Flashback: When Biden Called Court Packing a 'Bonehead Idea'"
-    excerpt: "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so"
-    publishedDateTime: 2020-10-12T11:35:00Z
-    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871"
-    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/12/flashback-when-biden-called-court-packing-a-bonehead-idea-n2577871?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2009/17/ee814af3-688d-4249-a702-7dca6f004286@news.ap.org.jpg"
-        width: 650
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
         height: 340
         isCached: true
-  - title: "Why Hasn't Joe Biden Said No To Democratic Threats To Pack the Supreme Court?"
-    excerpt: "Will Joe Biden's stubborn insistence that Americans \"don't deserve\" to know where he stands on packing the Supreme Court cost the Democrats in the Nov. 3 election? Yes. At issue are numerous Democratic threats -- if they win the White House and control of the Senate -- to increase the number of Supreme Court justices and ram liberal policy into law that they otherwise couldn't dream of getting through Congress."
-    publishedDateTime: 2020-10-14T13:45:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/14/why_hasnt_joe_biden_said_no_to_democratic_threats_to_pack_the_supreme_court_144445.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/14/why_hasnt_joe_biden_said_no_to_democratic_threats_to_pack_the_supreme_court_144445.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/14/why_hasnt_joe_biden_said_no_to_democratic_threats_to_pack_the_supreme_court_144445.amp.html"
+  - title: "Emails to Hunter Biden show plans to meet with State Department officials about Burisma probe"
+    excerpt: "An adviser for Ukrainian natural gas firm Burisma Holdings in 2014 requested that Hunter Biden give “advice” on how the son of then-Vice President Joe Biden could use his “influence to convey a message” to “stop” what the company considered to be “politically motivated actions,” according to an email"
+    publishedDateTime: 2020-10-14T22:00:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5xqFcxSOGU/emails-to-hunter-biden-show-plans-to-meet-with-state-department-officials-about-burisma-probe"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 82
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
     images:
-      - url: "https://assets.realclear.com/images/52/524046_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Democratic Coalition Ad Features Obama, Clinton, Sanders, Dozens Of Others Endorsing Joe Biden"
-    excerpt: "Former President Obama, Michelle Obama, Bernie Sanders, Hillary Clinton, John Kasich, and many others appear in this new ad produced by the Democratic Coalition."
-    publishedDateTime: 2020-10-11T16:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/11/democratic_coalition_ad_features_obama_clinton_sanders_dozens_of_others_endorsing_joe_biden.html"
+  - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
+    excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
+    publishedDateTime: 2020-10-14T15:12:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 33
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
 
 secured: "BxyxoaOZ1PFM6xzkfE8CL1UyhMuegeUjeRvFrsEQlngj9jlf0yb4h2EIdjce9JaCzeYLoUtCBCz0mSuKU94hNuiE/F9z5MhgQ4doiTzOlPL6tISelCZRJ2D7zRFh7Lv7UB/hVuSrqRr+DHkwx9yfGFSE3n8WoNR3iMz0CRiS4evV7Dost/MO914DJqE3tII3kPV4kA9eC6vJesl3If2nxvfj7sOdGGg+3a5shDDOEU6+RjM+j/qQEPQzkAz/AQUJ0UPmyZNbPZXROPeB7UNF3kI6bLzb2gTHKOie/RvBlELb9rVpXPWOJEKy4WkOjncW23ZaucTCNPIELFN4ui364+/IyTl52khZXmPM9bWcItp23Yj7n8oQ60RR5moBhOwbReHDdXdUmcPQ0MusxIxf8vUogbizVUA2N5sL67HVW7GY3A80cRHygHUI0VUEk7qH8rK4+Jsy9e4qjzoTZ+dcLVxgIMhKSuKN8GKk/MwYnkDyTwa4NyOVnrziT44KBnrNDpb+p+cy5JnRYZc+1Ra+LA==;6itKIkTIOJzak69G9acx/w=="
 ---

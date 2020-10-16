@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/"
 type: article
 quality: 111
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,24 @@ images:
     width: 1199
     height: 782
     isCached: true
+
+related:
+  - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
+    excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
+    publishedDateTime: 2020-10-16T17:21:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 115
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89d386eeaf66f5cfa918a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5226%26cropY1%3D265%26cropY2%3D3205"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "mnAyuxoulDms4jvP9MKBc2iWEGS3uwpW8TIKI0eadchD8o7CF9XbTyLmPIy4AFs7tHDnv7OtqxVBlZx52wExL1kuEthjuqaFbAmNhMpo4KhcGC8iX4MdI5QUBFAii+j2dxcAPVJbNJ3FPpruY/sJpznm1FTtqTShU3NkZzt5/2/Jt7ut0a9w0qZK0LyCzlp9/KbUZWLuoymfo4EAZ40SNcLIG1IfW3iiowqo2ggQAHLD4JTuArOyBGjZOChkPdU54v17lmv8BLIgQb4n3V2kdvhMuQe8zcvZivXcnxW449QSOU2+WBkJb6tKQfUJEMVl2MGX9ur/oSBCz+ccNj47flLvZo+vQfBChKk7kQ1fLLv+BIYzjmvPTRarsGVCVr4nJx0l40KxfPDSG/yte2selpCH24Nbmw38mYwwuf57zJuuvIb0qKFHWQZc5iaRVwN9jCP/1jZ1HdH/SRbt1oTZHC2dwTnJPDr25RFhc3EmXhARAp0ADqwfO1o7cO9MDoJ/+5+TfYHuGq9sIHcytud9rA==;hMGtkn7BxgGb5bIjsXHPig=="
 ---

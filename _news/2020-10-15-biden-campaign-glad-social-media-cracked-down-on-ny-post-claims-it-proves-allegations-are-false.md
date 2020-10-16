@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-glad-social-media-cr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-glad-social-media-cracked-down-ny-post.amp"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "RNC files FEC complaint against Twitter, claims company made 'illegal in-kind contribution' to Biden campaign"
+    excerpt: "EXCLUSIVE: The Republican National Committee on Friday filed a complaint with the Federal Election Commission alleging that the censorship of the New York Post article about Hunter Biden’s overseas business dealings and former Vice President Joe Biden’s alleged knowledge of those dealings, amounts to"
+    publishedDateTime: 2020-10-16T16:39:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/801397da-12bb-4527-840c-ce1354fda6ba/3ad45308-8610-4eb0-ba9c-4b408dff34dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ted Cruz slams Twitter CEO: Jack Dorsey 'behaving as Joe Biden's press secretary'"
     excerpt: "Twitter CEO Jack Dorsey will be subpoenaed by Senate Republicans next week and questioned on why the social media company blocked two New York Post articles alleging Hunter Biden corruption while his fahter was vice president,"
     publishedDateTime: 2020-10-15T18:48:00Z

@@ -1,0 +1,489 @@
+---
+category: news
+title: "Noem argues Hunter Biden story 'does grave damage' to former vice president's 'credibility'"
+excerpt: "South Dakota Gov. Kristi Noem, campaigning in the battleground state of New Hampshire on behalf of President Trump and fellow Republicans – took aim at Joe Biden over a much publicized story this week in the New York Post regarding the Democratic presidential nominee’s son Hunter Biden."
+publishedDateTime: 2020-10-16T16:07:56Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QFxf9qeIFQc/noem-hunter-biden-story-joe-biden-damage-credibility"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QFxf9qeIFQc/noem-hunter-biden-story-joe-biden-damage-credibility"
+ampWebUrl: "https://www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
+type: article
+quality: 165
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/KristiNoem-NH-Oct.2020.jpeg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
+
+related:
+  - title: "Trump, Biden funnel ad dollars into key battlegrounds in final stretch"
+    excerpt: "Local television markets in the battleground states of Florida, Arizona, and Pennsylvania have become ground zero for President Trump and Democratic nominee Joe Biden's ferocious advertising campaign war."
+    publishedDateTime: 2020-10-16T17:17:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0LesidV8pvc/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276724903875.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
+    excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzLonAcbMQg/trump-north-carolina-biden-fundraising-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
+    excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
+    publishedDateTime: 2020-10-16T03:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBhVvmmej2k/trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
+    excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
+    publishedDateTime: 2020-10-16T11:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZAGRIwAL84/trump-stumping-florida-biden-michigan-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
+    excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
+    publishedDateTime: 2020-10-15T18:59:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lVKFhubaFNA/trump-bidens-protected-big-tech-revoke-section-230"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-bidens-protected-big-tech-revoke-section-230.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bidens-protected-big-tech-revoke-section-230.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1e875e-1c05-40d4-ae45-3af1c856fe3f/d854cedf-71ec-4e2d-ac5e-ce8a2b108e24/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
+    excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
+    publishedDateTime: 2020-10-16T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQhhqTsPca4/trump-campaign-september-fundraising-still-short-biden-haul"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
+    publishedDateTime: 2020-10-12T23:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "New polls in key battlegrounds raise concerns for Trump"
+    excerpt: "New polls in key battlegrounds appear to spell trouble for President Trump with 20 days to go until Election Day"
+    publishedDateTime: 2020-10-14T20:52:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/emwQrQEVSfU/new-polls-in-key-battlegrounds-raise-concerns-for-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288667548696.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump determined to avoid Hillary Clinton's fatal campaign blunder"
+    excerpt: "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there."
+    publishedDateTime: 2020-10-14T18:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error"
+    ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hunter Biden email story: A timeline"
+    excerpt: "Here's a timeline of the bombshell Hunter Biden emails report."
+    publishedDateTime: 2020-10-15T21:21:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QF8rMDUhUig/hunter-biden-email-story-a-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/005ba163-bdfc-4aca-9f88-bc6a600de2d9/994890d8-4cc4-4613-9363-05c9bfbcf6ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden emails, texts reveal wild life, pained soul"
+    excerpt: "Hunter Biden’s emails and texts show not just a politician’s troubled son angling for lucrative overseas business deals — they also reveal a concerned father, a fun-loving friend and a man tortured by the deaths that have devastated his family."
+    publishedDateTime: 2020-10-16T11:47:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MA0J7mqgwv0/hunter-biden-emails-texts-wild-life"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Progressive group that opposed Biden in primary buys ad supporting him"
+    excerpt: "A progressive group that opposed Joe Biden in the primary, has apparently changed its tune and is now urging Democrats to vote for him this upcoming election."
+    publishedDateTime: 2020-10-16T06:55:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwdaxjksG2E/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
+    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
+    publishedDateTime: 2020-10-16T02:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
+    excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
+    publishedDateTime: 2020-10-15T04:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9gw-1GL3lwc/hunter-biden-emails-report-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
+    excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
+    publishedDateTime: 2020-10-11T18:56:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans ask FBI if it had Hunter Biden's alleged laptop during Trump's impeachment"
+    excerpt: "EXCLUSIVE: House Republicans are calling on the FBI to reveal whether it was in possession of a laptop, that reportedly contained emails by Hunter Biden, during the impeachment of President Trump -- and claiming the agency committed a “gross error in judgement” if did not inform the White House."
+    publishedDateTime: 2020-10-15T20:29:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_P59Tje3dg4/house-gop-fbi-hunter-biden-laptop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Bernie Sanders to stump for Biden in Arizona with virtual town hall"
+    excerpt: "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris."
+    publishedDateTime: 2020-10-10T14:41:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xMwbk48xJBM/bernie-sanders-to-stump-for-arizona-democrats-in-virtual-town-hall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279856040245.jpg"
+        width: 3000
+        height: 2027
+        isCached: true
+  - title: "Viral clip shows Biden lowering his mask to cough in his hand"
+    excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-10T01:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ym08idE2ua4/biden-lowering-mask-cough-in-his-hand"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?"
+    excerpt: "It’s been nearly three decades since a Democrat carried Georgia in a presidential election."
+    publishedDateTime: 2020-10-10T11:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans blast Biden for saying voters don't deserve to know court packing stance"
+    excerpt: "Republicans condemned Democratic nominee Joe Biden for saying voters don’t “deserve” to know his stance on court packing until after they’ve voted. "
+    publishedDateTime: 2020-10-10T20:11:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD26Z8GNPJ8/republicans-biden-voters-dont-deserve-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
+        width: 4563
+        height: 3042
+        isCached: true
+  - title: "Rising job opportunities for White working-class men could point to additional Trump support"
+    excerpt: "Following decades of declining job prospects, White men without a college education have seen employment opportunities rise, which has the potential to influence their ballot choices this election cycle."
+    publishedDateTime: 2020-10-09T12:12:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEIUeJ-6dmI/white-working-class-job-prospects-climb-trump-economy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/02/694940094001_6082525765001_6082528154001-vs.jpg"
+        width: 773
+        height: 435
+        isCached: true
+  - title: "On Wall Street Regulation, Joe Biden Keeps Everyone Guessing"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243025/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Conflict-of-interest alarms raised over Joe Biden's son-in-law"
+    excerpt: "Meanwhile, his opponent Joe Biden can barely cross the Delaware state line without becoming, let's say, confused and sleepy and irritated. Former White House physician Dr. Ronny Jackson is sounding the alarm,"
+    publishedDateTime: 2020-10-14T16:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law"
+    ampWebUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef7092af-a23d-4680-9bce-01e170733e29/ba5c14eb-16e0-46a2-afb9-fcef6cefb2b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 712
+        isCached: true
+  - title: "Joe Biden Keeps Everyone Guessing On Wall Street Regulation"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T19:57:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181?mod=hp_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-243025/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Stresses Economic Record in Virtual Speech"
+    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
+    publishedDateTime: 2020-10-14T17:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-244852/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Hunter Biden email story: A timeline"
+    excerpt: "Last month, the GOP-led Senate Homeland Security and Finance Committees released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas company Burisma Holdings,"
+    publishedDateTime: 2020-10-15T21:25:00Z
+    webUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/005ba163-bdfc-4aca-9f88-bc6a600de2d9/994890d8-4cc4-4613-9363-05c9bfbcf6ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "How the Biden Campaign Responded to the Hunter Email Story"
+    excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
+    publishedDateTime: 2020-10-15T11:30:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/e0f89a19-216e-468f-8b8e-f8c571a1ad1b.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "The Type of Leader We Can Expect Joe Biden to Be"
+    excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
+    publishedDateTime: 2020-10-14T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/14/the-type-of-leader-we-can-expect-joe-biden-to-be-n2578085"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 65
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "On Hunter Biden, remember the real story"
+    excerpt: "The social media angle of the Hunter Biden email story has nearly taken over public discussion of the piece published in the New York Post headlined, \"Smoking-gun email reveals how Hunter Biden introduced Ukrainian businessman to VP dad."
+    publishedDateTime: 2020-10-16T11:50:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
+  - title: "So Biden Lied All Along About Influence-Peddling"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/so_biden_lied_all_along_about_influence-peddling_526404.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
+
+secured: "4l/lwSG+8g33aWTc7HpdMCg14u6b8ZVv28fVpIqhQJjKYu1fVzrpz/nskCbcv4V90yVP2RGAjLXjMxFef1o8YolOG1pNQo1a25qU310vfnQ5JBBhZJANaZARWnWAsJ8Xvx+piQUbSfIrGjB+7erc9t3trtK4Sd0WFDdbt2pyBAd4r2ZoCun01d3S+4P/j7zpY804EFL28zA+2BdDBRFMKt2dA7BGnIZuH9EMSGU+ZnzVQxqDnlzoZyCrysHobEUQ2z6/LKTC16ecpDVGIiMFSxyZOvTcRlBGJ07/13j6HeP5ma/r2wEdixiYBUcZ9x8GTpPwpjPa5WM/q6rwIk4HDLsDs5gXlUkV6oaywRZWvr4=;Dv/os9DdiKitVo6jxFKd2g=="
+---
+

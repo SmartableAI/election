@@ -1108,6 +1108,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Rudy Giuliani's daughter endorses Biden to end Trump's \"reign of terror\""
+    excerpt: "\"I may not be able to change my father's mind, but together, we can vote this toxic administration out of office,\" Giuliani said."
+    publishedDateTime: 2020-10-16T16:36:00Z
+    webUrl: "https://www.cbsnews.com/news/rudy-giuliani-daughter-caroline-endorses-joe-biden-kamala-harris/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rudy-giuliani-daughter-caroline-endorses-joe-biden-kamala-harris/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rudy-giuliani-daughter-caroline-endorses-joe-biden-kamala-harris/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 139
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/149fe882-ff1f-418a-84bd-97c355f93bad/thumbnail/1200x630/07669622648a14c1dcc42bfb2f3245a0/gettyimages-76519352.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The biggest moments from the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Vice President Mike Pence and Senator Kamala Harris had some noteworthy moments until a fly stole the show."
     publishedDateTime: 2020-10-08T03:50:00Z
@@ -1396,6 +1412,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why watching the Donald Trump and Joe Biden town halls at the same time was peak 2020"
+    excerpt: "Watching Donald Trump and Joe Biden's competing town halls simultaneously on NBC and ABC was weird and a perfect representation of the 2020 election."
+    publishedDateTime: 2020-10-16T13:57:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/16/trump-biden-town-hall-2020-dueling-column/3676918001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3676918001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3676918001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/8c1670ed-ac72-42f3-aba9-8ee71d47355d-GettyImages-1228795132.jpg?auto=webp&crop=3030,1704,x0,y165&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's Big Spend: Dem nominee hits half-billion-dollar mark for ads in Trump challenge"
     excerpt: "Joe Biden’s campaign has spent over $500 million on TV, digital and radio ads this year. Biden’s campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
     publishedDateTime: 2020-10-09T17:43:00Z
@@ -1575,6 +1607,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YUJDSHANRUI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden drew 2.3 million more viewers than Trump, according to early ratings from town halls"
+    excerpt: "Early data shows the 2020 Democratic candidate ahead in TV ratings after the two dueled on separate stages Thursday evening."
+    publishedDateTime: 2020-10-16T17:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-drew-23m-more-viewers-than-trump-town-hall-early-ratings-show-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-drew-23m-more-viewers-than-trump-town-hall-early-ratings-show-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-drew-23m-more-viewers-than-trump-town-hall-early-ratings-show-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 130
+    images:
+      - url: "https://i.insider.com/5f89c9cf9e9fe40019009c9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "4 Takeaways From The Mike Pence - Kamala Harris Vice Presidential Debate"
     excerpt: "Wednesday's debate between Pence and Harris, by 2020 standards, was normal. The candidates ignored questions, defended Biden's and Trump's records, but it was the fly which created buzz."
@@ -2331,6 +2379,20 @@ related:
       - url: "https://i.insider.com/5f885c58ea23a5001903d8d0?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "In Dueling Non-Debates, Donald Trump and Joe Biden Talk to Two Different Americas"
+    excerpt: "Last night was not what any of us thought we’d be watching when the debate dates were announced back in October of last year."
+    publishedDateTime: 2020-10-16T17:40:00Z
+    webUrl: "https://time.com/5900919/town-hall-trump-biden/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 115
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/donald-trump-joe-biden-town-halls.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Donald Trump says he will not participate in virtual debate with Joe Biden – video"
     excerpt: "Donald Trump has said he will not participate in a virtual debate with Joe Biden adding the moderator can 'cut you off'"
@@ -3621,6 +3683,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Beat Trump in TV Town Hall Views, While TikTok Helped Biden Online"
+    excerpt: "President Donald Trump and former Vice President Joe Biden had dueling town halls on Thursday night instead of a presidential debate. Who had the most views? Biden’s town hall won out with TV viewers."
+    publishedDateTime: 2020-10-16T17:17:00Z
+    webUrl: "https://heavy.com/news/biden-beat-trump-in-tv-town-hall-views-while-tiktok-helped-biden-online/"
+    ampWebUrl: "https://heavy.com/news/biden-beat-trump-in-tv-town-hall-views-while-tiktok-helped-biden-online/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-beat-trump-in-tv-town-hall-views-while-tiktok-helped-biden-online/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 89
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-1-21.jpg?quality=65&strip=all"
+        width: 780
+        height: 440
+        isCached: true
   - title: "Trump Tells Dangerous Lie That Joe Biden and Democrats Want to Kill Babies"
     excerpt: "Fresh out of Walter Reed Hospital, and down double digits in recent polls, President Donald Trump appears to be reaching deep into his bag of political tricks to get back into a presidential election"
     publishedDateTime: 2020-10-06T12:52:00Z
@@ -4129,22 +4207,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Why watching the Donald Trump and Joe Biden town halls at the same time was peak 2020"
-    excerpt: "Watching Donald Trump and Joe Biden's competing town halls simultaneously on NBC and ABC was weird and a perfect representation of the 2020 election."
-    publishedDateTime: 2020-10-16T14:38:00Z
-    webUrl: "https://www.freep.com/story/opinion/2020/10/16/trump-biden-town-hall-2020-dueling-column/3676918001/"
-    ampWebUrl: "https://amp.freep.com/amp/3676918001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3676918001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 83
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/8c1670ed-ac72-42f3-aba9-8ee71d47355d-GettyImages-1228795132.jpg?auto=webp&crop=3030,1704,x0,y165&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "President Trump Taunted With #ChickenTrump After Refusing Virtual Debate With Joe Biden"
     excerpt: "On Thursday, the Commission on Presidential Debates announced that the second debate between President Trump and Joe Biden would take place virtually in order to protect both parties after Trump tested positive for COVID-19."
     publishedDateTime: 2020-10-08T16:21:00Z
@@ -4245,7 +4307,7 @@ related:
   - title: "Mike Pence and Kamala Harris spar in vice-presidential debate"
     excerpt: "Go back to our US Elections and American English homepage. The contenders for US vice-president have met for their only debate ahead of next month’s election. While the debate b"
     publishedDateTime: 2020-10-15T16:17:00Z
-    webUrl: "https://www.bbc.co.uk/learningenglish/marathi/features/us-elections-understanding/pence-kamala-presidential-debate"
+    webUrl: "https://www.bbc.co.uk/learningenglish/features/us-elections-understanding/pence-kamala-presidential-debate"
     type: article
     provider:
       name: BBC

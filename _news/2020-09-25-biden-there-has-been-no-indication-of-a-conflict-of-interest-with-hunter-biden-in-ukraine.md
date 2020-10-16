@@ -42,6 +42,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden: The Economic Growth Candidate?"
+    excerpt: "It’s hard to see how Joe Biden’s tax plan would grow anything except the government."
+    publishedDateTime: 2020-10-09T00:02:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-240642/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "FV/J0NH8QVCShJQ6v01DgT4J/zxAgCV8347JjjixEDuPvn7rW5fXj5KpvPCUkt3AWMprgGaoKse6VjXRNtfTS6bP77XD2y+gQ3qphtcNiH+obf1LrCazDZqWFQpa3iUZX/eOHVXnmYVgS1E5fw18IUcdSMl4wVjBMqsBWaKs850OPNHNmFJYE6oajpgH7V848UYofzHKM0bLYsiCmrrCHEMBejdS92k7Jm6pQYKuWdOQuu7pjqtkKIP7HaEQZcokguTPpIPbpZhrtbLGDq2boP9irTcVXv93tbysTjQqTRyG0+N7wmdwg/8525PkrL2lvqLN++KlXFmdoYSf9Y8bzHPvWlvVuLJKe0dU6xQZgUQmgauUvH6zaqjAuvqrg8kgDXG5UAZGGUTB90h5F50+TwwXXQ0BUOgptMsoPrrLIrhO4FisAweGdtHlFT0w3ghP50TY3HMd5wFeaRAjbK+YZTFK1IoIUIhFVwY8hZ97K6I4NZboc17G2ugUFOcObvjuCUId+efpXfEXsm4JUikicg==;NO735CD02lir+rfVObrt2g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-says-its-appalling-not-to
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.amp"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6ae7bc9-6e0d-4d29-ba79-8b430021b38f/9acbf912-fed6-444e-bd83-bb7d22d18a37/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Republicans blast Biden for saying voters don't deserve to know court packing stance"
-    excerpt: "Republicans condemned Democratic nominee Joe Biden for saying voters don’t “deserve” to know his stance on court packing until after they’ve voted. "
-    publishedDateTime: 2020-10-10T20:11:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD26Z8GNPJ8/republicans-biden-voters-dont-deserve-court-packing"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
-        width: 4563
-        height: 3042
         isCached: true
 
 secured: "lVuCorSKEqZu3sGAIXRmRXHYAKqpemoWMJwwVhptAKfX7flEJvKviBwuUkqAEG7BxCu7Wv0SShKNU60E6xuoM9fIGI+k6vGbfOK70ej3EXftaEztZob2PwpnxjYnDXz3rtntiWGUqxThuBv+QgOsHCmPvFf9hYQLo25ZeB6JPpy0IywRdtbbe9FuULfqUJITeHAG3YXZHT6XyqWv2o7jFjw1Xu2m+dktjssH+X/VNu01BGF/d8+46R8QVroFJhXeN/O7yB670Qs+cksIkrcUMmVnrSdYYioJHQCZ3CtZdItsR6U64SlaYT/EBI0pXMaoD8NVDv3m8Mi1v5odLE2v72VgWSbBPQ1tnenGRsh1wgQ=;NzHZ5C+VzaUpY3NXEcFlbQ=="

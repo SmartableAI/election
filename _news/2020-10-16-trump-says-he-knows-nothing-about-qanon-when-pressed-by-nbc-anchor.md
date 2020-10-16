@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
+    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
+    publishedDateTime: 2020-10-16T08:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
+    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SYp5dHwRbrpzcqcUiZa5PRc41fKxpKCGwr9DouhG91KPpsZDZej8jJuLEeUr4Upv75UszxXyDkJUWBmE8jrBg1rcAJxoqU8ZquHRNMnQBTPnCqlnMIp0Bmp/1rbUcufcjjNxM6tATVudBFW+WqBGS8qBZCVsSTvtT1W+bR6PCIi9g3toG4M3WnbkhzNjhEpCHOW/QT4rcf7Gp42D7OgrmyQpmfQ4BkYBjeAQRdTKcR+yXH0QERlPWHl7k9+4CbXy49X1p2E4XVmplMNvT5QbphietM9fLNxf3JJ8ukbkbhRK/lxZ4LJ7YH3shKsAV6Qko6DIJK+wobV4HADgAIX/dZqyZvZALHG9oyFTNvZF9zI=;oSusK22hUzXlT4qpZBj0Zw=="
 ---

@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
+    excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
+    publishedDateTime: 2020-10-16T16:22:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XzJlXOo_ZGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203057-04-trump-town-hall-1015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
     excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
     publishedDateTime: 2020-10-15T10:12:00Z

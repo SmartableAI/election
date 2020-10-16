@@ -9,8 +9,8 @@ ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654?amp=true"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: Townhall
@@ -32,21 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
-    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
-    publishedDateTime: 2020-10-13T13:18:00Z
-    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
-    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
+  - title: "Jimmy Dore to Trump: You Have To End These Wars Now, No Excuses, People Need Help"
+    excerpt: "Jimmy Dore, the host of the Jimmy Dore Show, made an impassioned plea directly to President Trump Monday night on the Tucker Carlson show, wondering why the president doesn't follow through on his promise to end the war in Afghanistan."
+    publishedDateTime: 2020-10-13T14:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/jimmy_dore_to_trump_you_have_to_end_these_wars_now_no_excuses_you_promised.html#!"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.realclear.com/images/51/518919.jpg"
+        width: 902
+        height: 676
         isCached: true
 
 secured: "Jh4oX7NPoCDp9w7Mmg7iRzWnNBsIf2NTgo965is2J+EoJ6ZQWmc11e9jUgWe6aDLIIFeijdSdEeg2O4gpuuAWiDTNXXhiXyO5ml2gAEG1Wt6UfnziemW/4uHRAZCAsf8E/T9Y1RQlmgIl/Z+M6Zs2U+WONpFVsB9hnNU1PrymFSS02GABugnDxbpfDITaZSQDlIEiggJl675RoSRJONfpU7jxM7nR6wd3Mhrhkic+R2VLtKuSKdotpajiZFiH6C4045P0ymKGO0NnRSWLtihwPMH73MT7cJoJuo38qxnLiUzPeaiVqURSnYyBRwWgMS8H4eD63OLWMqJ/5cpaLPEo2wWvqEkOjedyEn8mnz9jys=;HVLamnMtYgGfxGWNiEXbIw=="

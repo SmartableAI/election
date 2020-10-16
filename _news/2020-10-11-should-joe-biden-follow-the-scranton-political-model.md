@@ -20,83 +20,21 @@ topics:
   - Republican Voice
 
 related:
-  - title: "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax"
-    excerpt: "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday."
-    publishedDateTime: 2020-10-07T11:48:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
+  - title: "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week"
+    excerpt: "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will"
+    publishedDateTime: 2020-10-12T16:30:00Z
+    webUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900"
+    ampWebUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
+      name: Townhall
+      domain: townhall.com
+    quality: 72
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg"
+        width: 650
         height: 340
-        isCached: true
-  - title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
-    excerpt: "Director of National Intelligence John Ratcliffe on Tuesday declassified documents that revealed former CIA Director John Brennan briefed former President Obama on Hillary Clinton’s purported “plan” to tie then-candidate Donald Trump to Russia as “a means of distracting the public from her use of a private"
-    publishedDateTime: 2020-10-06T18:41:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AT7sx4qYIg/dni-brennan-notes-cia-memo-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/10/31/694940094001_6099268230001_6099265128001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Putin Criticizes Joe Biden’s ‘Sharp Anti-Russian Rhetoric’"
-    excerpt: "In Vladimir Putin’s first substantive comments on the U.S. election, the Russian president praised President Trump and said he was reassured by Joe Biden’s support for arms control."
-    publishedDateTime: 2020-10-07T17:01:00Z
-    webUrl: "https://www.wsj.com/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
-    ampWebUrl: "https://www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-241652/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton"
-    excerpt: "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material."
-    publishedDateTime: 2020-10-01T04:57:00Z
-    webUrl: "https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    ampWebUrl: "https://www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-238792/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'"
-    excerpt: "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election."
-    publishedDateTime: 2020-09-30T15:54:00Z
-    webUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 113
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg"
-        width: 1082
-        height: 720
         isCached: true
 
 secured: "yEtspI5YeuyGUktBLP40O2qvlanVd0c+mmEkrM6dmrx1ICigj6Bzw5rY/IvCLbgHUuHtYNUGJ0wUEUHoviBKKaGHZ5zQEa/jk/yyZ8H13VzoPmm/XdS4XYXPEOSiFDZW9Lb8UDQs+9ARyagKtUMAl/ecqtuH3g19lSiaGcZYkHnrwo35y9e5y3cw0H6rE15VIKh4OnP//xwatkdNdXzh+zzzcMOVwI4YriTJmM/zhnQRY3DVdB8CcKkObEkXFDrNwRU46Ijq/XCsJix/yTCKQkplIE2rYrWz0U/2vjhcA8L3msSMpjK35iQo47/uXm41PVvW1bhmVgFLsRavqlW818ga28o3hdqLzAgzof+0ig5On7cGfzxWUQDwPRawd97km2+buHkpNZXyloibP/YrJUDEruKen0cWHm2L7mxm16p8XrvUWfAVNXx+q6pGQdf6DIqbhxOsdCRrVzbyu4zP2dlQxLiLvOA2cCjCfBmZ/RUCXZS+sgcthH95b/o4Lf7JhIDOrzvBHHBoRY9agwsvbw==;y/TLZj9YocP5urlZzJO7Xw=="

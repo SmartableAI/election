@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump, Biden funnel ad dollars into key battlegrounds in final stretch"
+    excerpt: "Local television markets in the battleground states of Florida, Arizona, and Pennsylvania have become ground zero for President Trump and Democratic nominee Joe Biden's ferocious advertising campaign war."
+    publishedDateTime: 2020-10-16T17:17:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0LesidV8pvc/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276724903875.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
     excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
     publishedDateTime: 2020-10-15T11:35:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden's court-packing 180, says he will now tell voters his stance before election"
-    excerpt: "Democratic presidential nominee Joe Biden says that voters “do have a right to know where I stand” on expanding the number of justices on the Supreme Court."
-    publishedDateTime: 2020-10-16T01:34:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IICVCb_Wbyg/biden-clarify-court-packing-before-election"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-clarify-court-packing-before-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clarify-court-packing-before-election.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 184
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Town-Hall-AP-THUMB-4.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
     excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
+    excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
+    publishedDateTime: 2020-10-16T11:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZAGRIwAL84/trump-stumping-florida-biden-michigan-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
     publishedDateTime: 2020-10-15T18:59:33Z
@@ -95,12 +111,76 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
-    publishedDateTime: 2020-10-16T13:31:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
+    publishedDateTime: 2020-10-12T23:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "New polls in key battlegrounds raise concerns for Trump"
+    excerpt: "New polls in key battlegrounds appear to spell trouble for President Trump with 20 days to go until Election Day"
+    publishedDateTime: 2020-10-14T20:52:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/emwQrQEVSfU/new-polls-in-key-battlegrounds-raise-concerns-for-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288667548696.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump determined to avoid Hillary Clinton's fatal campaign blunder"
+    excerpt: "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there."
+    publishedDateTime: 2020-10-14T18:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error"
+    ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hunter Biden email story: A timeline"
+    excerpt: "Here's a timeline of the bombshell Hunter Biden emails report."
+    publishedDateTime: 2020-10-15T21:21:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QF8rMDUhUig/hunter-biden-email-story-a-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/005ba163-bdfc-4aca-9f88-bc6a600de2d9/994890d8-4cc4-4613-9363-05c9bfbcf6ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden emails, texts reveal wild life, pained soul"
+    excerpt: "Hunter Biden’s emails and texts show not just a politician’s troubled son angling for lucrative overseas business deals — they also reveal a concerned father, a fun-loving friend and a man tortured by the deaths that have devastated his family."
+    publishedDateTime: 2020-10-16T11:47:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MA0J7mqgwv0/hunter-biden-emails-texts-wild-life"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
     type: article
     provider:
       name: Fox News
@@ -111,37 +191,69 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden reiterates plan to convince Americans to wear masks"
-    excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
-    publishedDateTime: 2020-10-16T00:54:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8L2lsjavqiU/biden-plan-americans-wear-masks-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-plan-americans-wear-masks-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plan-americans-wear-masks-covid.amp"
+  - title: "Progressive group that opposed Biden in primary buys ad supporting him"
+    excerpt: "A progressive group that opposed Joe Biden in the primary, has apparently changed its tune and is now urging Democrats to vote for him this upcoming election."
+    publishedDateTime: 2020-10-16T06:55:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MwdaxjksG2E/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election"
+    ampWebUrl: "https://www.foxnews.com/politics/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/progressive-group-that-opposed-joe-biden-in-primary-buys-ad-supporting-him-this-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
-    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
-    publishedDateTime: 2020-10-16T08:18:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
-    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
+    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
+    publishedDateTime: 2020-10-16T02:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
+    excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
+    publishedDateTime: 2020-10-15T04:00:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9gw-1GL3lwc/hunter-biden-emails-report-ron-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Noem argues Hunter Biden story 'does grave damage' to former vice president's 'credibility'"
+    excerpt: "South Dakota Gov. Kristi Noem, campaigning in the battleground state of New Hampshire on behalf of President Trump and fellow Republicans – took aim at Joe Biden over a much publicized story this week in the New York Post regarding the Democratic presidential nominee’s son Hunter Biden."
+    publishedDateTime: 2020-10-16T16:07:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QFxf9qeIFQc/noem-hunter-biden-story-joe-biden-damage-credibility"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/KristiNoem-NH-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
@@ -171,159 +283,171 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's ABC town hall questioners include former Obama speechwriter, wife of former Pennsylvania Dem candidate"
-    excerpt: "Two of the questioners at the ABC town hall featuring Democratic presidential candidate Joe Biden on Thursday had ties to high-profile Democratic politicians, including one who previously worked as a speechwriter in the Obama administration. "
-    publishedDateTime: 2020-10-16T15:29:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/auLg-89bA3A/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
+  - title: "Bernie Sanders to stump for Biden in Arizona with virtual town hall"
+    excerpt: "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris."
+    publishedDateTime: 2020-10-10T14:41:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xMwbk48xJBM/bernie-sanders-to-stump-for-arizona-democrats-in-virtual-town-hall"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279856040245.jpg"
+        width: 3000
+        height: 2027
         isCached: true
-  - title: "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled"
-    excerpt: "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  "
-    publishedDateTime: 2020-10-12T14:12:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled"
+  - title: "Viral clip shows Biden lowering his mask to cough in his hand"
+    excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-10T01:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ym08idE2ua4/biden-lowering-mask-cough-in-his-hand"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 153
+    quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-1229022717.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
+        isCached: true
+  - title: "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?"
+    excerpt: "It’s been nearly three decades since a Democrat carried Georgia in a presidential election."
+    publishedDateTime: 2020-10-10T11:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden: The Economic Growth Candidate?"
-    excerpt: "It’s hard to see how Joe Biden’s tax plan would grow anything except the government."
-    publishedDateTime: 2020-10-09T00:02:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-the-economic-growth-candidate-11602183763"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-the-economic-growth-candidate-11602183763"
+  - title: "Republicans blast Biden for saying voters don't deserve to know court packing stance"
+    excerpt: "Republicans condemned Democratic nominee Joe Biden for saying voters don’t “deserve” to know his stance on court packing until after they’ve voted. "
+    publishedDateTime: 2020-10-10T20:11:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD26Z8GNPJ8/republicans-biden-voters-dont-deserve-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
+        width: 4563
+        height: 3042
+        isCached: true
+  - title: "Rising job opportunities for White working-class men could point to additional Trump support"
+    excerpt: "Following decades of declining job prospects, White men without a college education have seen employment opportunities rise, which has the potential to influence their ballot choices this election cycle."
+    publishedDateTime: 2020-10-09T12:12:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEIUeJ-6dmI/white-working-class-job-prospects-climb-trump-economy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/02/694940094001_6082525765001_6082528154001-vs.jpg"
+        width: 773
+        height: 435
+        isCached: true
+  - title: "On Wall Street Regulation, Joe Biden Keeps Everyone Guessing"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-240642/social"
+      - url: "https://images.wsj.net/im-243025/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden pressed on 'you ain't Black' comment during town hall"
-    excerpt: "An undecided African American voter took a veiled swipe at Democratic presidential nominee Joe Biden Thursday night, asking him to give him an answer “besides ‘you ain’t Black’” for why  young Black voters should support him in the 2020 election."
-    publishedDateTime: 2020-10-16T02:07:00Z
-    webUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
-    ampWebUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+  - title: "Conflict-of-interest alarms raised over Joe Biden's son-in-law"
+    excerpt: "Meanwhile, his opponent Joe Biden can barely cross the Delaware state line without becoming, let's say, confused and sleepy and irritated. Former White House physician Dr. Ronny Jackson is sounding the alarm,"
+    publishedDateTime: 2020-10-14T16:12:00Z
+    webUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law"
+    ampWebUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef7092af-a23d-4680-9bce-01e170733e29/ba5c14eb-16e0-46a2-afb9-fcef6cefb2b0/1280x720/match/image.jpg"
         width: 1280
-        height: 720
+        height: 712
         isCached: true
-  - title: "Joe Biden town hall likened to an episode of Mister Rogers"
-    excerpt: "It was a beautiful night in the neighborhood for Joe Biden, according to critics who compared the Democratic presidential candidate’s town hall on ABC News to a Mister Rogers episode. The former"
-    publishedDateTime: 2020-10-16T14:27:00Z
-    webUrl: "https://nypost.com/2020/10/16/joe-biden-town-hall-likened-to-an-episode-of-mister-rogers/"
-    ampWebUrl: "https://nypost.com/2020/10/16/joe-biden-town-hall-likened-to-an-episode-of-mister-rogers/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/16/joe-biden-town-hall-likened-to-an-episode-of-mister-rogers/amp/"
+  - title: "Joe Biden Keeps Everyone Guessing On Wall Street Regulation"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T19:57:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181?mod=hp_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201016-biden-town-hall-mister-rogers.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-243025/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
-    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
-    publishedDateTime: 2020-10-10T21:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
+  - title: "Trump Stresses Economic Record in Virtual Speech"
+    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
+    publishedDateTime: 2020-10-14T17:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-244852/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Hunter Biden email story: A timeline"
+    excerpt: "Last month, the GOP-led Senate Homeland Security and Finance Committees released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas company Burisma Holdings,"
+    publishedDateTime: 2020-10-15T21:25:00Z
+    webUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 115
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/005ba163-bdfc-4aca-9f88-bc6a600de2d9/994890d8-4cc4-4613-9363-05c9bfbcf6ac/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Andrew McCarthy: No, Joe Biden, it is not packing the Court for the president and Senate to fill vacancies"
-    excerpt: "It is not PACKING the Court for the elected president and Senate to fill vacancies that arise under existing law"
-    publishedDateTime: 2020-10-12T13:15:00Z
-    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-court-president-senate-andrew-mccarthy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 97
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cafa300-8f67-451b-af56-6c395b2fd3f3/05912f30-a861-49d5-9739-bd0b291f9548/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
-    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+  - title: "How the Biden Campaign Responded to the Hunter Email Story"
+    excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
+    publishedDateTime: 2020-10-15T11:30:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
     quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/e0f89a19-216e-468f-8b8e-f8c571a1ad1b.jpg"
         width: 650
         height: 340
-        isCached: true
-  - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
-    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 84
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Biden's $2 trillion infrastructure plan gets a mixed reaction from industry groups"
-    excerpt: "Democratic presidential nominee Joe Biden has managed to thread the needle with his latest massive infrastructure wish list, pleasing industry stakeholders and environmentalists alike."
-    publishedDateTime: 2020-10-16T03:00:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/bidens-2-trillion-infrastructure-plan-gets-a-mixed-reaction-from-industry-groups?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 79
-    images:
-      - url: "https://mediadc.brightspotcdn.com/dims4/default/5158040/2147483647/strip/true/crop/2290x1322+0+0/resize/2290x1322!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F54%2Fae%2Fd58c73bd4b7994dde19c8c27c61c%2Fwb.Transpo.jpg"
-        width: 2290
-        height: 1322
         isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
@@ -339,31 +463,26 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
-    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
-    publishedDateTime: 2020-10-15T22:10:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/519720.jpg"
-        width: 1020
-        height: 764
-        isCached: true
-  - title: "Joe Biden was not asked any questions about Hunter Biden's emails during ABC town hall"
-    excerpt: "Former Vice President Joe Biden was not asked one question in a Thursday night town hall about a highly publicized news story involving his son Hunter’s business dealings in Ukraine."
-    publishedDateTime: 2020-10-16T02:27:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall?_amp=true"
+  - title: "On Hunter Biden, remember the real story"
+    excerpt: "The social media angle of the Hunter Biden email story has nearly taken over public discussion of the piece published in the New York Post headlined, \"Smoking-gun email reveals how Hunter Biden introduced Ukrainian businessman to VP dad."
+    publishedDateTime: 2020-10-16T11:50:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 57
+    quality: 65
+  - title: "So Biden Lied All Along About Influence-Peddling"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/so_biden_lied_all_along_about_influence-peddling_526404.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "MevEbjaZLhjbZiH1/HliYsbn5NY6PovUY9N0mGKocL1FR0Naa7MzMU/W5lei76lJhVug9NNU6qCgQdueOU1jS0E5TpPejzPU8HfvneqX+YTN77yv7nA/CcOw8oMjnQJ/LwMKe5yfLY1pFZ6dMkjB86HFCBjSXQ0n1GADQKlUpnEJ8K0U484L0Bif40AaAv9RD2SgaeIlPYEoBqF451Gh3TMRQ4Egs2VUMfF9pT05QJeDDN55Rvxl6iEVxMzrCjIXUu9aY5N6RAJFGtZbQvMdSEZ2I3kYuLi/l6W+et6I0akRkEN5u81vap+ZIFkXOFI4FQ1PW17HHjCtVxtTD0hpSmSYe0SefFPq/JjWc+SyCRQ=;Fgy+Sq0H2Kof3kqunrvJwA=="
 ---

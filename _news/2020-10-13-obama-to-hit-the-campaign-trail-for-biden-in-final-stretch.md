@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -206,6 +206,20 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416670/201001-hunter-joe-biden-mn-1135_40d23272b4793a220e9310508e06c432.jpg"
         width: 2500
         height: 1563
+        isCached: true
+  - title: "AOC, House progressives warn Biden on corporate hires"
+    excerpt: "A letter from left-wing lawmakers and groups calls for corporate lobbyists and high-ranking executives to be shut out of a Biden administration."
+    publishedDateTime: 2020-10-16T12:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/aoc-progressives-biden-cabinet-429736"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/66/98/f23ff2784f79af4dd34c32deaa88/gettyimages-1228187785-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
     excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"

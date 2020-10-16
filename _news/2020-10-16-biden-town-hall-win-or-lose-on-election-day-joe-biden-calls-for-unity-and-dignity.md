@@ -151,6 +151,34 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Takeaways from Joe Biden's town hall"
+    excerpt: "Watch \"Takeaways from Joe Biden's town hall\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T17:38:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016171146-takeaways-from-joe-bidens-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07290477_1602868745.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Voters press Joe Biden for answers"
+    excerpt: "Watch \"Voters press Joe Biden for answers during town hall\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T17:35:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016170931-voters-press-joe-biden-for-answers-during-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07290476_1602868384.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
     publishedDateTime: 2020-10-13T22:24:00Z

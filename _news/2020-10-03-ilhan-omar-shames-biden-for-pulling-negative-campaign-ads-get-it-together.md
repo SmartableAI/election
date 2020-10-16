@@ -63,20 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Republicans blast Biden for saying voters don't deserve to know court packing stance"
-    excerpt: "Republicans condemned Democratic nominee Joe Biden for saying voters don’t “deserve” to know his stance on court packing until after they’ve voted. "
-    publishedDateTime: 2020-10-10T20:11:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD26Z8GNPJ8/republicans-biden-voters-dont-deserve-court-packing"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
-        width: 4563
-        height: 3042
-        isCached: true
 
 secured: "WUdNcQ4YXSGF9FYdYVMcFF8i1uLfPYMzUrVdyoe6hY93Hln9C3C2gvLAYm5KBD5bqsm3jVnt+k5jHpk2GjH7hKGxyTkmkZLz3HbZg+gitOrcrrD1obSmpkF4xgJSQIy27GHzbx8VEOcL5o2RJdS+YafOQm+LpX76CiTPCMbn66Nnhaem1QfDc0ISl0fPss5ix8d7fE3VzBvBfUQjIV/hGzxhE6X1hOyCJ1xhzSmzvshO5J1vUVzULCev6t8ugcmWTts3RaXASQ66OG1/lugdssxdIvZeWx/dHIUCoSJLczL9Hcdk/bTB5Bxm/G+rvxatNKPRFZ6T1dkmUmQOVsonF0+v5fAVxSSv68FcwYsolbs=;Lvzrre7a/NJhQcYzyH2dvA=="
 ---

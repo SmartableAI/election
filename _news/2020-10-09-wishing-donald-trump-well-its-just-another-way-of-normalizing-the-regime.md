@@ -425,6 +425,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump administration denies California relief for 6 fires"
+    excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
+    publishedDateTime: 2020-10-16T16:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Twitter briefly restricts Trump campaign account amid Republican outcry"
     excerpt: "U.S. President Donald Trump's re-election campaign's Twitter account was briefly restricted from tweeting on Thursday, spurring an outcry from Republican lawmakers who accused social media companies of acting like \"speech police\" and vowing to hold Twitter responsible."
     publishedDateTime: 2020-10-15T19:29:00Z
@@ -1734,6 +1750,17 @@ related:
         width: 1024
         height: 677
         isCached: true
+  - title: "Trump on Defense, Courting Voters in Two Must-Win States"
+    excerpt: "President Donald Trump is fighting to defend his sagging reelection chances in a state Republicans haven’t lost in nearly three decades — and his campaign is confronting new financial strains."
+    publishedDateTime: 2020-10-16T17:44:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Massachusetts' Republican governor 'cannot support Donald Trump for president'"
     excerpt: "Massachusetts' Republican governor is diverging from his party this election cycle. In a Wednesday statement, Gov. Charlie Baker declared through a spokesperson that he \"cannot support Donald Trump for president\" and will \"leave the election analysis to the pundits."
     publishedDateTime: 2020-10-14T22:05:00Z

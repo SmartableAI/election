@@ -207,6 +207,20 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "AOC, House progressives warn Biden on corporate hires"
+    excerpt: "A letter from left-wing lawmakers and groups calls for corporate lobbyists and high-ranking executives to be shut out of a Biden administration."
+    publishedDateTime: 2020-10-16T12:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/aoc-progressives-biden-cabinet-429736"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/66/98/f23ff2784f79af4dd34c32deaa88/gettyimages-1228187785-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
     excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
     publishedDateTime: 2020-10-15T13:00:00Z

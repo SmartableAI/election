@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-email-story-a-timeline
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-email-story-a-timeline.amp"
 type: article
 quality: 175
-heat: 795
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,163 @@ images:
     isCached: true
 
 related:
-  - title: "Hunter Biden tried to cash in big with Chinese firm, emails suggest"
-    excerpt: "Hunter Biden pursued lucrative deals involving China’s largest private energy company — including one that he said would be “interesting for me and my family,” emails obtained by The Post show."
-    publishedDateTime: 2020-10-15T11:40:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oozW-bMIoZU/hunter-biden-chins-firm-emails-deal"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
+  - title: "Trump, Biden funnel ad dollars into key battlegrounds in final stretch"
+    excerpt: "Local television markets in the battleground states of Florida, Arizona, and Pennsylvania have become ground zero for President Trump and Democratic nominee Joe Biden's ferocious advertising campaign war."
+    publishedDateTime: 2020-10-16T17:17:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0LesidV8pvc/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276724903875.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
+    excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzLonAcbMQg/trump-north-carolina-biden-fundraising-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
+    excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
+    publishedDateTime: 2020-10-16T03:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBhVvmmej2k/trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
+    excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
+    publishedDateTime: 2020-10-16T11:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZAGRIwAL84/trump-stumping-florida-biden-michigan-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
+    excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
+    publishedDateTime: 2020-10-15T18:59:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lVKFhubaFNA/trump-bidens-protected-big-tech-revoke-section-230"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-bidens-protected-big-tech-revoke-section-230.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bidens-protected-big-tech-revoke-section-230.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1e875e-1c05-40d4-ae45-3af1c856fe3f/d854cedf-71ec-4e2d-ac5e-ce8a2b108e24/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
+    excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
+    publishedDateTime: 2020-10-16T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQhhqTsPca4/trump-campaign-september-fundraising-still-short-biden-haul"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
+    publishedDateTime: 2020-10-12T23:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "New polls in key battlegrounds raise concerns for Trump"
+    excerpt: "New polls in key battlegrounds appear to spell trouble for President Trump with 20 days to go until Election Day"
+    publishedDateTime: 2020-10-14T20:52:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/emwQrQEVSfU/new-polls-in-key-battlegrounds-raise-concerns-for-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288667548696.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump determined to avoid Hillary Clinton's fatal campaign blunder"
+    excerpt: "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there."
+    publishedDateTime: 2020-10-14T18:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error"
+    ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Hunter Biden emails, texts reveal wild life, pained soul"
+    excerpt: "Hunter Biden’s emails and texts show not just a politician’s troubled son angling for lucrative overseas business deals — they also reveal a concerned father, a fun-loving friend and a man tortured by the deaths that have devastated his family."
+    publishedDateTime: 2020-10-16T11:47:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MA0J7mqgwv0/hunter-biden-emails-texts-wild-life"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-texts-wild-life.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -63,51 +207,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Twitter announces new policies after Hunter Biden report imbroglio"
-    excerpt: "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates."
-    publishedDateTime: 2020-10-16T04:19:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
+  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
+    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
+    publishedDateTime: 2020-10-16T02:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Ex-White House doctor questions Biden's 'mental capacity' to be president"
-    excerpt: "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said."
-    publishedDateTime: 2020-10-13T21:48:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/048f5479-3edc-4e43-8155-6c4f45a2c149/af8ff7d7-6b5c-4ce2-a9be-4ad5bb46b196/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pompeo calls tech firms ‘inconsistent’ after censorship of Hunter Biden story"
-    excerpt: "Secretary of State Mike Pompeo on Thursday hit tech giants like Twitter and Facebook for what he said was “inconsistent” cracking down on accounts -- a day after the two social media platforms shut down accounts for sharing a New York Post story on Hunter Biden."
-    publishedDateTime: 2020-10-15T18:43:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mo7kpwgPmSs/pompeo-tech-firms-inconsistent-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/pompeo-tech-firms-inconsistent-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-tech-firms-inconsistent-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -127,291 +239,183 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden introduced Burisma adviser to VP dad before Ukraine pressure, email shows"
-    excerpt: "Hunter Biden introduced his father, then-Vice President Joe Biden, to a top executive at a Ukrainian energy firm less than a year before the elder Biden pressured government officials in Ukraine into firing a prosecutor who was investigating the company, according to emails obtained by The Post."
-    publishedDateTime: 2020-10-14T10:34:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNyVsxUf6_U/hunter-biden-ukraine-burisma-adviser-email"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden questions ‘memory’ of voters in poll who say they’re better off now than 4 years ago"
-    excerpt: "Joe Biden was quick to dismiss voters who say they are better off now than they were in 2016. "
-    publishedDateTime: 2020-10-13T04:47:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DjZev7a4DLE/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-knocks-the-56-of-voters-who-say-theyre-better-off-now-than-4-years-ago-their-memory-isnt-very-good.amp"
+  - title: "Noem argues Hunter Biden story 'does grave damage' to former vice president's 'credibility'"
+    excerpt: "South Dakota Gov. Kristi Noem, campaigning in the battleground state of New Hampshire on behalf of President Trump and fellow Republicans – took aim at Joe Biden over a much publicized story this week in the New York Post regarding the Democratic presidential nominee’s son Hunter Biden."
+    publishedDateTime: 2020-10-16T16:07:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QFxf9qeIFQc/noem-hunter-biden-story-joe-biden-damage-credibility"
+    ampWebUrl: "https://www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dffaa872-aef6-403f-b19e-7b90b2f5a3b5/906de055-b200-4d27-920c-33fa9ae089bb/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/KristiNoem-NH-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Biden camp hits back at Hunter Biden email report suggesting then-VP met with Burisma exec"
-    excerpt: "The Biden campaign hit back Wednesday after the New York Post reported that newly uncovered emails suggested Hunter Biden introduced his father, then the vice president, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request."
-    publishedDateTime: 2020-10-14T17:10:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fkQxoQA9hZI/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Sen. John Kennedy: New Hunter Biden report as serious as 'four heart attacks and a stroke'"
-    excerpt: "A New York Post report involving newly unearthed emails between Hunter Biden and an executive at Ukrainian energy company Burisma is as serious \"as four heart attacks and a stroke,\"  Senate Judiciary Committee member John Kennedy, R-La., told \"Special Report\" Wednesday."
-    publishedDateTime: 2020-10-14T23:24:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y1by3rakFxk/sen-kennedy-hunter-biden-email-report"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-kennedy-hunter-biden-email-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kennedy-hunter-biden-email-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f147042-3332-4900-ae05-407d98afa463/3e051905-effc-4c18-b6f3-4b7e5a68c214/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Dana Loesch's Twitter account locked after sharing post on Hunter Biden story and Big Tech"
-    excerpt: "Earlier Thursday, Loesch had shared a link to her blog post entitled, “Big Tech Declares Information War.\""
-    publishedDateTime: 2020-10-15T20:42:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U-DxFhsaXPI/dana-loesch-twitter-account-locked-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/dana-loesch-twitter-account-locked-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dana-loesch-twitter-account-locked-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden email story: Computer repair store owner describes handing over laptop to FBI"
-    excerpt: "The man, John Paul Mac Isaac, said he has a condition that affects his vision and “can’t be 100 percent sure” it was Hunter Biden who dropped off the computer for repair."
-    publishedDateTime: 2020-10-15T01:46:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7WfoHO2NuM/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "New Hunter Biden emails detail alleged dealings with Chinese energy firm, Burisma executive"
-    excerpt: "Joe Biden’s campaign has repeatedly denied wrongdoing."
-    publishedDateTime: 2020-10-16T02:42:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR8QcboA53U/hunter-biden-emails-chinese-energy-firm-burisma-executive"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hawley: Americans ought to be able to sue Twitter, Facebook over blocking Hunter Biden report"
-    excerpt: "Americans who were prevented by social media giants from sharing the New York Post's reporting about Hunter Biden this week should be able to sue those companies, Sen. Josh Hawley, R-Mo., told “Hannity” Thursday night."
-    publishedDateTime: 2020-10-16T04:15:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0zC6dbYKSu4/josh-hawley-americans-sue-twitter-facebook"
-    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18153b84-b2ed-4208-acb2-b23f8fe63683/370a704c-9174-48e6-b638-9e4b1519b3c5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings"
-    excerpt: "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings."
-    publishedDateTime: 2020-10-14T19:10:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hawley wants Twitter, Facebook to come before Senate following censorship of Hunter Biden report"
-    excerpt: "Facebook and Twitter showed Wednesday that they \"want to rig an election,\" Senate Judiciary Committee member Josh Hawley, R-Mo., told \"The Ingraham Angle\" after the social media giants censored or blocked dissemination of a bombshell New York Post report on Hunter Biden."
-    publishedDateTime: 2020-10-15T04:24:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3CVjs2rUHio/twitter-facebook-hunter-biden-censorship-hawley"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
+  - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
+    excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
+    publishedDateTime: 2020-10-11T18:56:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4053a9f-fe88-449f-9578-0e27623a44c4/79de0b82-b72d-4062-9aa5-e47de07220ec/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "McEnany claims Twitter holding her 'at gunpoint' until she deletes New York Post's Hunter Biden report"
-    excerpt: "White House Press Secretary Kayleigh McEnany told \"Hannity\" Wednesday that Twitter's administrators \"essentially have me at gunpoint\" and won't allow her to access to her personal account until she deletes a link to the explosive New York Post report on Hunter Biden that she shared with her one million"
-    publishedDateTime: 2020-10-15T03:40:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l9SKIPPnsak/mcenany-twitter-account-locked-hunter-biden-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mcenany-twitter-account-locked-hunter-biden-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-twitter-account-locked-hunter-biden-report.amp"
+  - title: "House Republicans ask FBI if it had Hunter Biden's alleged laptop during Trump's impeachment"
+    excerpt: "EXCLUSIVE: House Republicans are calling on the FBI to reveal whether it was in possession of a laptop, that reportedly contained emails by Hunter Biden, during the impeachment of President Trump -- and claiming the agency committed a “gross error in judgement” if did not inform the White House."
+    publishedDateTime: 2020-10-15T20:29:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_P59Tje3dg4/house-gop-fbi-hunter-biden-laptop"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/25330c19-40d5-4a69-8e2b-d759d3ca11ce/1e1cc6ba-b7cc-419a-8884-795d9644687b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Fox News obtains email sent to Hunter Biden requesting his help as Ukrainian gas company was being probed"
-    excerpt: ""
-    publishedDateTime: 2020-10-14T18:07:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8xi16cImlSg/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed"
-    ampWebUrl: "https://www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-obtains-email-sent-to-hunter-biden-requesting-his-help-as-ukrainian-gas-company-was-being-probed.amp"
+  - title: "Bernie Sanders to stump for Biden in Arizona with virtual town hall"
+    excerpt: "Independent Vermont Sen. Bernie Sanders will headline a virtual town hall Saturday in support of Arizona Democrats to help drum up support for Democratic presidential nominee Joe Biden and running-mate California Sen. Kamala Harris."
+    publishedDateTime: 2020-10-10T14:41:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xMwbk48xJBM/bernie-sanders-to-stump-for-arizona-democrats-in-virtual-town-hall"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20279856040245.jpg"
+        width: 3000
+        height: 2027
         isCached: true
-  - title: "Facebook official who said platform is reducing distribution of Hunter Biden story has worked for top Dems"
-    excerpt: "Facebook Policy Communications Director Andy Stone, who said Wednesday the site is reducing the distribution of a New York Post exposé revealing private emails between Hunter Biden and an adviser to Ukrainian gas company Burisma Holdings, has years of professional experience working for top Democrats."
-    publishedDateTime: 2020-10-14T19:31:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Gt7W2Ex96o/facebook-spokesperson-top-democrats-new-york-post"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-spokesperson-top-democrats-new-york-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-spokesperson-top-democrats-new-york-post.amp"
+  - title: "Viral clip shows Biden lowering his mask to cough in his hand"
+    excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-10T01:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ym08idE2ua4/biden-lowering-mask-cough-in-his-hand"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 155
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/05-igsharing-friction-07.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
         isCached: true
-  - title: "Hunter Biden emails under investigation by Senate Homeland Security Committee after hard-drive report emerges"
-    excerpt: "The Senate Homeland Security and Governmental Affairs Committee is investigating newly released emails which revealed that Hunter Biden introduced his father, former Vice President Joe Biden, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request. "
-    publishedDateTime: 2020-10-14T15:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B90Gv0NbL1Q/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-senate-homeland-security-committee-investigating-hard-drive-laptop.amp"
+  - title: "State of the 2020 battlegrounds: Can Biden snap GOP's winning streak in Georgia?"
+    excerpt: "It’s been nearly three decades since a Democrat carried Georgia in a presidential election."
+    publishedDateTime: 2020-10-10T11:28:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i51zQ5euPq0/state-of-the-2020-battlegrounds-can-biden-snap-gops-winning-streak-georgia"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 156
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f3ab453b-1641-4331-bad2-4f3fae8dba0c/3711f352-0d8a-4491-b41b-d30faef41068/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Emails to Hunter Biden show plans to meet with State Department officials about Burisma probe"
-    excerpt: "An adviser for Ukrainian natural gas firm Burisma Holdings in 2014 requested that Hunter Biden give “advice” on how the son of then-Vice President Joe Biden could use his “influence to convey a message” to “stop” what the company considered to be “politically motivated actions,” according to an email"
-    publishedDateTime: 2020-10-14T22:00:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5xqFcxSOGU/emails-to-hunter-biden-show-plans-to-meet-with-state-department-officials-about-burisma-probe"
+  - title: "Republicans blast Biden for saying voters don't deserve to know court packing stance"
+    excerpt: "Republicans condemned Democratic nominee Joe Biden for saying voters don’t “deserve” to know his stance on court packing until after they’ve voted. "
+    publishedDateTime: 2020-10-10T20:11:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eD26Z8GNPJ8/republicans-biden-voters-dont-deserve-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282729245624.jpg"
+        width: 4563
+        height: 3042
+        isCached: true
+  - title: "Rising job opportunities for White working-class men could point to additional Trump support"
+    excerpt: "Following decades of declining job prospects, White men without a college education have seen employment opportunities rise, which has the potential to influence their ballot choices this election cycle."
+    publishedDateTime: 2020-10-09T12:12:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEIUeJ-6dmI/white-working-class-job-prospects-climb-trump-economy"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 144
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/02/694940094001_6082525765001_6082528154001-vs.jpg"
+        width: 773
+        height: 435
         isCached: true
-  - title: "Joe Biden on What Voters ‘Deserve’"
-    excerpt: "He says he’ll give his view on Supreme Court-packing after he’s elected."
-    publishedDateTime: 2020-10-11T20:48:00Z
-    webUrl: "https://www.wsj.com/articles/joe-biden-on-what-voters-deserve-11602449046"
-    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-on-what-voters-deserve-11602449046"
+  - title: "On Wall Street Regulation, Joe Biden Keeps Everyone Guessing"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T15:09:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-243323/social"
+      - url: "https://images.wsj.net/im-243025/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Turley: Court-packing would be a 'blunder of the first order' by Biden"
-    excerpt: "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours."
+  - title: "Conflict-of-interest alarms raised over Joe Biden's son-in-law"
+    excerpt: "Meanwhile, his opponent Joe Biden can barely cross the Delaware state line without becoming, let's say, confused and sleepy and irritated. Former White House physician Dr. Ronny Jackson is sounding the alarm,"
     publishedDateTime: 2020-10-14T16:12:00Z
-    webUrl: "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden"
-    ampWebUrl: "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp"
+    webUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law"
+    ampWebUrl: "https://www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/conflict-of-interest-alarms-raised-over-joe-bidens-son-in-law.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/826bf8c5-7513-4888-b950-2911d89eb94e/d73bb5e3-e212-48a4-980d-7dbc454e86bd/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef7092af-a23d-4680-9bce-01e170733e29/ba5c14eb-16e0-46a2-afb9-fcef6cefb2b0/1280x720/match/image.jpg"
         width: 1280
-        height: 720
+        height: 712
         isCached: true
-  - title: "Voters have right to know what Joe Biden did for son Hunter: Devine"
-    excerpt: "Joe Biden repeatedly has denied knowing anything about son Hunter’s lucrative work on the board of Ukrainian energy company Burisma. “Hunter Biden is a private citizen and a lawyer. The former"
-    publishedDateTime: 2020-10-14T09:33:00Z
-    webUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/"
-    ampWebUrl: "https://nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/14/voters-have-right-to-know-what-joe-biden-did-for-son-hunter-devine/amp/"
+  - title: "Joe Biden Keeps Everyone Guessing On Wall Street Regulation"
+    excerpt: "The Democratic presidential candidate forged close ties with lenders over his Senate career. A recent shift on issues from student debt to buybacks has both progressives and Wall Street Democrats guessing whose side he is on."
+    publishedDateTime: 2020-10-13T19:57:00Z
+    webUrl: "https://www.wsj.com/articles/wall-street-regulation-biden-trump-election-11602601181?mod=hp_lead_pos10"
+    ampWebUrl: "https://www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/wall-street-regulation-biden-trump-election-11602601181"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/hunter-and-joe-biden.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-243025/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Stresses Economic Record in Virtual Speech"
+    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
+    publishedDateTime: 2020-10-14T17:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-244852/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Hunter Biden email story: A timeline"
     excerpt: "Last month, the GOP-led Senate Homeland Security and Finance Committees released an interim report on their monthslong joint investigation into Hunter Biden’s role on the board of Ukrainian natural gas company Burisma Holdings,"
@@ -429,92 +433,56 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
-    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
-    publishedDateTime: 2020-10-15T02:16:00Z
-    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
-    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
-    excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"
-    publishedDateTime: 2020-10-15T08:06:00Z
-    webUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine"
-    ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-social-media-companies-miranda-devine.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5522171a-998f-4edc-ba59-f45674dca7e1/9e5da789-dbe6-4cd8-ab23-4e3ce91b42a5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Giuliani: You've Only Seen Five Percent of What's on Hunter Biden's Hard Drive"
-    excerpt: "Former New York City Major, Trump campaign advisor and former U.S. Attorney Rudy Giuliani is warning Americans they haven't seen anything yet when it comes to the corruption of the"
-    publishedDateTime: 2020-10-15T18:00:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/15/giuliani-youve-only-seen-five-percent-of-whats-on-hunter-bidens-hard-drive-n2578151"
-    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/15/giuliani-youve-only-seen-five-percent-of-whats-on-hunter-bidens-hard-drive-n2578151?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/15/giuliani-youve-only-seen-five-percent-of-whats-on-hunter-bidens-hard-drive-n2578151?amp=true"
+  - title: "How the Biden Campaign Responded to the Hunter Email Story"
+    excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
+    publishedDateTime: 2020-10-15T11:30:00Z
+    webUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120"
+    ampWebUrl: "https://townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/leahbarkoukis/2020/10/15/how-the-biden-campaign-responded-to-the-hunter-email-story-n2578120?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 81
+    quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/e0f89a19-216e-468f-8b8e-f8c571a1ad1b.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Joe Biden's Anti-Segregation Crusade From Black Church Story Just Took a Punch to the Mouth"
-    excerpt: "At his age, Joe Biden’s lying problems can be masked as memory problems. It still doesn’t negate the issue. If he’s lying, it’s only in keeping with his past screw-ups"
-    publishedDateTime: 2020-10-13T17:00:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/13/waitjoe-biden-has-a-black-church-problem-n2577952"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/13/waitjoe-biden-has-a-black-church-problem-n2577952?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/13/waitjoe-biden-has-a-black-church-problem-n2577952?amp=true"
+  - title: "The Type of Leader We Can Expect Joe Biden to Be"
+    excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
+    publishedDateTime: 2020-10-14T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/14/the-type-of-leader-we-can-expect-joe-biden-to-be-n2578085"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
-    quality: 75
+    quality: 65
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg"
-        width: 650
-        height: 340
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
-    excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
-    publishedDateTime: 2020-10-14T15:12:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+  - title: "On Hunter Biden, remember the real story"
+    excerpt: "The social media angle of the Hunter Biden email story has nearly taken over public discussion of the piece published in the New York Post headlined, \"Smoking-gun email reveals how Hunter Biden introduced Ukrainian businessman to VP dad."
+    publishedDateTime: 2020-10-16T11:50:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/columnists/on-hunter-biden-remember-the-real-story?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 56
-  - title: "House Judiciary Republicans say Twitter blocked them from sharing Hunter Biden story from their website"
-    excerpt: "Twitter blocked attempts to share a copy of the New York Post's story regarding Hunter Biden's contentious business affairs that was posted to the official website of House Judiciary Republicans."
-    publishedDateTime: 2020-10-15T16:05:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website?_amp=true"
+    quality: 65
+  - title: "So Biden Lied All Along About Influence-Peddling"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/so_biden_lied_all_along_about_influence-peddling_526404.html"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 49
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "m460fmsP0BmOkYAu6zA5GLGdqBdjvChrljXpkz1qNjaFV8fNY01QFPN4qNjdbmIJqp/Vz7JwUY2ICfwT3cfQ0SmsoKAwo/SPxolmZ9pnGzBIhLxICnicYb/gFdglWeJpg/FVIlPCjSBSPW5rx4MN2AROUBi68wG4hJuO9pWwXtHzBKtTohbn08f6FCjPIE0Yk6DvyzMR1ZInvK7240iyPmTYn6XuSChIUyJaQCycossmDZVbCafFNjpex+0R0wGzYKtLR1S//NOF58dtvkAG4Gj07YVoF3jThXpc5ifSfxJo+3Blpvw1nVPi+VZMZhNaYl3dVcy59+QtjHz+XdUs87I/2kIr7MrY/03ZbqmGMtY=;BUMYL+23+hSJss4b1aM/pQ=="
 ---

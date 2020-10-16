@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-tre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
 type: article
 quality: 175
-heat: 435
+heat: 415
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "New polls in key battlegrounds raise concerns for Trump"
-    excerpt: "New polls in key battlegrounds appear to spell trouble for President Trump with 20 days to go until Election Day"
-    publishedDateTime: 2020-10-14T20:52:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/emwQrQEVSfU/new-polls-in-key-battlegrounds-raise-concerns-for-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-polls-in-key-battlegrounds-raise-concerns-for-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288667548696.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena"
     excerpt: "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort."
     publishedDateTime: 2020-10-07T15:03:27Z
@@ -153,21 +137,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump Stresses Economic Record in Virtual Speech"
-    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
-    publishedDateTime: 2020-10-14T17:17:00Z
-    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
-    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
+    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
+    publishedDateTime: 2020-10-10T21:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
     images:
-      - url: "https://images.wsj.net/im-244852/social"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
         width: 1280
-        height: 640
+        height: 720
         isCached: true
   - title: "Jimmy Kimmel mocks Donald Trump for holding rallies that could potentially infect his supporters"
     excerpt: "Jimmy Kimmel took aim at Donald Trump for continuing to campaign after his positive COVID-19 diagnosis and subsequent treatment."

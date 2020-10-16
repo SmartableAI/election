@@ -240,6 +240,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump administration to announce vaccine deal for long-term care facilities"
+    excerpt: "The Trump administration plans to announce Friday a deal with CVS and Walgreens to administer a future coronavirus vaccine to seniors and staff in long-term care facilities free of charge, according to two sources familiar with the agreement."
+    publishedDateTime: 2020-10-16T16:41:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/trump-nursing-facilities-coronavirus-vaccine-deal-429834"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/trump-nursing-facilities-coronavirus-vaccine-deal-429834"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/trump-nursing-facilities-coronavirus-vaccine-deal-429834"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/c0/91/f2d64f874ee9872f68770b861e73/ap20178553559430.jpg"
+        width: 3399
+        height: 2266
+        isCached: true
   - title: "Hoping to shore up support, Trump directs more money to farmers"
     excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
     publishedDateTime: 2020-10-13T12:57:00Z

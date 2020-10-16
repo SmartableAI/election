@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
 type: article
 quality: 174
-heat: 274
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,77 +31,138 @@ images:
     isCached: true
 
 related:
-  - title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
-    excerpt: "Director of National Intelligence John Ratcliffe on Tuesday declassified documents that revealed former CIA Director John Brennan briefed former President Obama on Hillary Clinton’s purported “plan” to tie then-candidate Donald Trump to Russia as “a means of distracting the public from her use of a private"
-    publishedDateTime: 2020-10-06T18:41:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AT7sx4qYIg/dni-brennan-notes-cia-memo-clinton"
+  - title: "Obama conference call leaked to Burisma, Biden emails show"
+    excerpt: "The Obama administration let a Democratic p.r. company that worked for Ukrainian energy firm Burisma take part in a conference call about an upcoming visit to Ukraine by then-Vice President Joe Biden, emails obtained by The Post show."
+    publishedDateTime: 2020-10-14T11:36:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Cib1Df3yhE/obama-conference-call-burisma-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-conference-call-burisma-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-conference-call-burisma-biden-emails.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 139
+    quality: 175
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/10/31/694940094001_6099268230001_6099265128001-vs.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8873ce1c-3620-49f7-b3ad-5620f51c0c50/6d488b9e-ee56-4d3c-8d28-0a4a04c0ac21/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Putin Criticizes Joe Biden’s ‘Sharp Anti-Russian Rhetoric’"
-    excerpt: "In Vladimir Putin’s first substantive comments on the U.S. election, the Russian president praised President Trump and said he was reassured by Joe Biden’s support for arms control."
-    publishedDateTime: 2020-10-07T17:01:00Z
-    webUrl: "https://www.wsj.com/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
-    ampWebUrl: "https://www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-241652/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton"
-    excerpt: "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material."
-    publishedDateTime: 2020-10-01T04:57:00Z
-    webUrl: "https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    ampWebUrl: "https://www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 120
-    images:
-      - url: "https://images.wsj.net/im-238792/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'"
-    excerpt: "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election."
-    publishedDateTime: 2020-09-30T15:54:00Z
-    webUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe"
-    ampWebUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
+  - title: "Hunter Biden tried to cash in big with Chinese firm, emails suggest"
+    excerpt: "Hunter Biden pursued lucrative deals involving China’s largest private energy company — including one that he said would be “interesting for me and my family,” emails obtained by The Post show."
+    publishedDateTime: 2020-10-15T11:40:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oozW-bMIoZU/hunter-biden-chins-firm-emails-deal"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-chins-firm-emails-deal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 113
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg"
-        width: 1082
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Should Joe Biden Follow the Scranton Political Model?"
-    excerpt: "When I was growing up on the outskirts of Scranton in the 1970s and 1980s, my mother and I would drive into the city to shop at a popular downtown department store. On our way, we would pass through the city’s Green Ridge section,"
-    publishedDateTime: 2020-10-11T10:55:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/11/should_joe_biden_follow_the_scranton_political_model_526021.html#!"
+  - title: "Hunter Biden introduced Burisma adviser to VP dad before Ukraine pressure, email shows"
+    excerpt: "Hunter Biden introduced his father, then-Vice President Joe Biden, to a top executive at a Ukrainian energy firm less than a year before the elder Biden pressured government officials in Ukraine into firing a prosecutor who was investigating the company, according to emails obtained by The Post."
+    publishedDateTime: 2020-10-14T10:34:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jNyVsxUf6_U/hunter-biden-ukraine-burisma-adviser-email"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-ukraine-burisma-adviser-email.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden camp hits back at Hunter Biden email report suggesting then-VP met with Burisma exec"
+    excerpt: "The Biden campaign hit back Wednesday after the New York Post reported that newly uncovered emails suggested Hunter Biden introduced his father, then the vice president, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request."
+    publishedDateTime: 2020-10-14T17:10:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fkQxoQA9hZI/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-camp-hits-back-at-hunter-biden-email-report-suggesting-then-vp-met-with-burisma-exec.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "New Hunter Biden emails detail alleged dealings with Chinese energy firm, Burisma executive"
+    excerpt: "Joe Biden’s campaign has repeatedly denied wrongdoing."
+    publishedDateTime: 2020-10-16T02:42:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR8QcboA53U/hunter-biden-emails-chinese-energy-firm-burisma-executive"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's ABC town hall questioners include former Obama speechwriter, wife of former Pennsylvania Dem candidate"
+    excerpt: "Two of the questioners at the ABC town hall featuring Democratic presidential candidate Joe Biden on Thursday had ties to high-profile Democratic politicians, including one who previously worked as a speechwriter in the Obama administration. "
+    publishedDateTime: 2020-10-16T15:29:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/auLg-89bA3A/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-town-hall-questioners-former-obama-speechwriter-wife-pennsylvania-democrat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Emails to Hunter Biden show plans to meet with State Department officials about Burisma probe"
+    excerpt: "An adviser for Ukrainian natural gas firm Burisma Holdings in 2014 requested that Hunter Biden give “advice” on how the son of then-Vice President Joe Biden could use his “influence to convey a message” to “stop” what the company considered to be “politically motivated actions,” according to an email"
+    publishedDateTime: 2020-10-14T22:00:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5xqFcxSOGU/emails-to-hunter-biden-show-plans-to-meet-with-state-department-officials-about-burisma-probe"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f616802-61b9-4441-b1a9-847e3b256836/3e78562d-571d-4fc9-a126-d06160f6a972/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
+    excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
+  - title: "Hunter Biden set up meeting between Joe Biden, then VP, to Ukrainian businessman: Report"
+    excerpt: "Hunter Biden set up a meeting between a senior official at the Ukrainian energy firm Burisma and Joe Biden while he was still vice president, according to a new report, potentially contradicting claims from the 2020 Democratic nominee that he never discussed overseas business with his son."
+    publishedDateTime: 2020-10-14T15:12:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/hunter-biden-set-up-meeting-between-joe-biden-then-vp-to-ukrainian-businessman-report?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 56
 
 secured: "Ygq+wsZ4nKuw3aaNqK4xZFsqhbI/LZfEUWCzqf578jNFddnYXVBxayVlQfRLSpsHqvB2TEB42h+rYiQZyivAfVvH/x1JZI09lA67wy3HIstB5x9z2GrKbNuWjx4SWedCGTm8cwduR6DsB6ssiwV/oowWRsKRvHJubu6zjZy8KHbwQdfVdA83oQbXQ5lkBG8ArpiOFN0p64tjPxb2n45CQIckTZ2fJpLjVh5MG6pljhIGDUsPfCd2e0VBHkYJEw96SbpCiHkTafLENmlhpb11xIN0fvY2IPx6j/ldNnhgTakTA1IQqYawbkYKLrlhv9QIRnU5iHAf3TBWcIWtdxqQrqxgpPT1hP8USp64TRN4ybs=;ht+YzvlrZLiICro0xe5hEg=="
 ---

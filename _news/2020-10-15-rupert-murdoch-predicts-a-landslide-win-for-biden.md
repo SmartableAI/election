@@ -216,6 +216,20 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "AOC, House progressives warn Biden on corporate hires"
+    excerpt: "A letter from left-wing lawmakers and groups calls for corporate lobbyists and high-ranking executives to be shut out of a Biden administration."
+    publishedDateTime: 2020-10-16T12:35:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/aoc-progressives-biden-cabinet-429736"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/66/98/f23ff2784f79af4dd34c32deaa88/gettyimages-1228187785-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "g3mdrLeDdUvy5AS+oCxQ3EkhLnoFw3lxcCprhrNDLjZwnaONy8g1nyi4h2vV0xImrEUv3VP8I0tTGnTwyieB8BU8mq5xZzpKF38V5C+r2iJgjdJzk8Fcq++PSNCu7wuNzW59Kr4KKLmkZTq1wg+X+RZMjsHx7i+NuzFNV7OQ++BIW7ZWzcyekMQyl2flrJsXpJ57d0GK7Prlw4HN2DIzwAMUbiI8lxRR5lb2+VWIhB7wp42B86KGU1i/7ItdEiaGqFp5iC1Br/DPEf8et3TuAaTbqm31brpKJUa5oxxD2xi+uWygya7Sn5wGQWqqAUetXhLddujjuEatUdiVimcKdDr8TnHM+syHu7iEaKkNl5ElvVs0unbCvH6ycBCl4DRJX+0vBwiid2WCaVV6/o4uGGImIepjEWPK9J7w39PTihHP7gyHUICvOGxLIDO7wK6oVDr+7NLWHNNv3yn6soXDWsME29f8pExV0vEn7zEcugYGJAq6RdFGpKzdmMAVmJnBWoRzTBqwJuYVVtEmorzYYw==;nT2YkObIjRF4m89hsJqSgw=="
 ---

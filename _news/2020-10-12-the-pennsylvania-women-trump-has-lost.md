@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -238,6 +238,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/15/world/15daily-1/15daily-1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Melania Trump slams former friend who wrote tell-all: 'She hardly knew me'"
+    excerpt: "The first lady blasted Stephanie Winston Wolkoff's book as \"idle gossip\" and said she needs to look \"within\" at \"her own dishonest behavior.\""
+    publishedDateTime: 2020-10-16T17:20:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/melania-trump-slams-former-friend-who-wrote-tell-all-she-n1243736"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243736"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243736"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420760/201016-melania-trump-ew-1045a_8abb581f8e006a522aa576ec8b021e0d.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
     excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."

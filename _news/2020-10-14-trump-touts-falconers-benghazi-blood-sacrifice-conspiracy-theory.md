@@ -88,6 +88,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Digging into Trump's false claim that CDC found that 85% of people who wear masks get the coronavirus"
+    excerpt: "President Donald Trump made a dramatic claim about Covid-19 in an interview, at a campaign rally and in his televised town hall on NBC Thursday night.\n    \n"
+    publishedDateTime: 2020-10-16T16:22:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XzJlXOo_ZGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/fact-check-trump-cdc-masks-85-percent/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203057-04-trump-town-hall-1015-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
     excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
     publishedDateTime: 2020-10-10T15:05:00Z

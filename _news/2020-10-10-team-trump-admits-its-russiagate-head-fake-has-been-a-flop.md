@@ -232,6 +232,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump administration to announce vaccine deal for long-term care facilities"
+    excerpt: "The Trump administration plans to announce Friday a deal with CVS and Walgreens to administer a future coronavirus vaccine to seniors and staff in long-term care facilities free of charge, according to two sources familiar with the agreement."
+    publishedDateTime: 2020-10-16T16:41:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/trump-nursing-facilities-coronavirus-vaccine-deal-429834"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/trump-nursing-facilities-coronavirus-vaccine-deal-429834"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/trump-nursing-facilities-coronavirus-vaccine-deal-429834"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/c0/91/f2d64f874ee9872f68770b861e73/ap20178553559430.jpg"
+        width: 3399
+        height: 2266
+        isCached: true
   - title: "FDA pushes back on Trump administration attempt to rebrand ‘emergency authorization’"
     excerpt: "The administration proposed labeling a Covid-19 vaccine authorization a ‘pre-licensure,’ which FDA says would undermine its procedures."
     publishedDateTime: 2020-10-14T00:00:00Z

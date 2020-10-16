@@ -121,6 +121,20 @@ related:
         width: 2048
         height: 1744
         isCached: true
+  - title: "Senator Kamala Harris questions Amy Coney Barrett on climate change"
+    excerpt: "During Senate confirmation hearings on Wednesday, Senator Kamala Harris asked Supreme Court nominee Amy Coney Barrett about her views on climate change. Barrett called it \"very contentious matter of public debate."
+    publishedDateTime: 2020-10-16T17:11:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-questions-amy-coney-barrett-on-climate-change/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/f5232d35-12a8-4058-8f65-4a63922f4d16/thumbnail/1200x630/b0d15f3cd593a7247ff342ec1f1ffa68/cbsn-fusion-senator-kamala-harris-questions-amy-coney-barrett-on-climate-change-thumbnail-567264-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden: Senators should not consider Amy Coney Barrett's faith in confirmation process"
     excerpt: "Democratic presidential nominee Joseph R. Biden said Monday that Judge Amy Coney Barrett’s Catholic faith should not be a consideration in Judge Barrett’s confirmation hearings for the U.S. Supreme Court."
     publishedDateTime: 2020-10-12T15:30:00Z

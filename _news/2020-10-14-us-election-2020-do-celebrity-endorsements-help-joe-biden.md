@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
 type: article
 quality: 140
-heat: 380
+heat: 420
 published: true
 
 provider:
@@ -138,6 +138,34 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Takeaways from Joe Biden's town hall"
+    excerpt: "Watch \"Takeaways from Joe Biden's town hall\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T17:38:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016171146-takeaways-from-joe-bidens-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07290477_1602868745.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Voters press Joe Biden for answers"
+    excerpt: "Watch \"Voters press Joe Biden for answers during town hall\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T17:35:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016170931-voters-press-joe-biden-for-answers-during-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07290476_1602868384.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden town hall: Win or lose on Election Day, Joe Biden calls for unity and dignity"
     excerpt: "Democratic presidential nominee Joe Biden, in a primetime town hall Thursday, made the case that Americans want more inclusion and dignity across the board, an outlook at odds with what Biden described as President Donald Trump ’s “divide and conquer” strategy."
