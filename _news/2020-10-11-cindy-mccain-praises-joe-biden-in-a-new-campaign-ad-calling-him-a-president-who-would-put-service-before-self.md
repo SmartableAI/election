@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden faces voters' questions during town hall"
+    excerpt: "Democratic presidential nominee Joe Biden is back on the campaign trail after facing tough questions on issues including the COVID-19 pandemic and the Supreme Court in a televised town hall last night."
+    publishedDateTime: 2020-10-16T18:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-voter-questions-town-hall-covid-supreme-court/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/16/9e09baf2-69d3-4666-86a4-cb3eaa8ead88/thumbnail/1200x630/4d81d2ae682b8536e03b5acfb35cc04b/cbsn-fusion-biden-back-on-campaign-trail-after-facing-tough-voter-questions-during-town-hall-thumbnail-567322-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
     excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
     publishedDateTime: 2020-10-10T03:22:00Z

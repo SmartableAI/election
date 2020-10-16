@@ -36,6 +36,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden says 'it depends' on court-packing, vaccine mandate at ABC town hall as election nears"
+    excerpt: "Democratic presidential candidate Joe Biden at an ABC town hall Thursday night equivocated on whether or not he would pack the Supreme Court or institute a mandate to take a coronavirus vaccine even as he gave definitive statements on other issues, including that he would not ban fracking and a strong"
+    publishedDateTime: 2020-10-16T17:58:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbMYctqU4n0/biden-court-packing-vaccine-mandate-abc-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Tara Reade penning memoir on coming forward as a Biden accuser, will be released before election"
     excerpt: "Tara Reade is writing a memoir about the turbulent journey she has taken since coming forward with her 1993 sexual assault allegation against her former boss Joe Biden."
     publishedDateTime: 2020-10-13T19:55:10Z

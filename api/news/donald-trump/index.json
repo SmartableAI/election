@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-17-ex-facebook-and-oculus-exec-palmer-luckey-is-hosting-a-fundraiser-for-president-donald-trump-this-weekend.md",
+      "title": "Ex-Facebook and Oculus exec Palmer Luckey is hosting a fundraiser for President Donald Trump this weekend",
+      "excerpt": "Palmer Luckey reportedly donated thousands to Trump in 2016, and his company, Anduril, has been awarded a contract to build a \"virtual\" border wall.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
+      "originalUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f89d7e5d260780019341e37?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/palmer-luckey-donald-trump-fundraisiner-reelection-campaign-2020-10?amp",
+      "publishedDateTime": "2020-10-16T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too.md",
       "title": "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too",
       "excerpt": "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said.",
@@ -838,7 +890,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2561,
+      "heat": 2601,
       "tags": null,
       "images": [
         {
@@ -1501,58 +1553,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-fauci-trump-ad-taking-him-out-of-context-really-disappointing-should-be-taken-down.md",
-      "title": "Fauci: Trump ad taking him out of context 'really disappointing', should be taken down",
-      "excerpt": "Asked by \"The Lead\" anchor Jake Tapper whether he believes the ad should be taken down, Fauci said, \"I think so.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/12/dr-fauci-says-trump-ad-featuring-him-should-taken-down/5972629002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/12/USAT/5f4edcd4-b446-4136-8cf7-987c080931fd-GTY_1228670944.jpg?auto=webp&crop=3599,2025,x0,y183&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5972629002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002",
-      "publishedDateTime": "2020-10-12T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

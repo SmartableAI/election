@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-17-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need.md",
+      "title": "On Joe Biden can provide the fact-based policymaking we desperately need",
+      "excerpt": "Despite the cacophony and disinformation flying around this appalling campaign season, the candidates’ positions on the economy are actually fairly clear.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need",
+      "originalUrl": "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need?amp",
+      "publishedDateTime": "2020-10-16T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency.md",
       "title": "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’",
       "excerpt": "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
       "featuredContent": null,
       "highlight": null,
-      "heat": 270,
+      "heat": 290,
       "tags": null,
       "images": [
         {
@@ -262,58 +314,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-no-need-for-biden-to-quarantine-after-flying-with-person-who-tested-positive-for-covid-19-campaign.md",
-      "title": "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign",
-      "excerpt": "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2702XL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL",
-      "publishedDateTime": "2020-10-15T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-biden-campaign-announces-record-383m-fundraising-haul-in-september.md",
       "title": "Biden campaign announces record $383M fundraising haul in September",
       "excerpt": "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far.",
@@ -322,7 +322,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -899,6 +899,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-11-joe-biden-tests-negative-for-coronavirus-sixth-time-since-debate.md",
+      "title": "Joe Biden tests negative for coronavirus sixth time since debate",
+      "excerpt": "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
+      "originalUrl": "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg",
+          "width": 769,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSOC-TV",
+        "domain": "wsoctv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1513,58 +1556,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas-strongest-recovery-ever.md",
-      "title": "Joe Biden's small business outreach shows he's ready to spark America's strongest recovery ever",
-      "excerpt": "We need to turn this recovery into America’s renaissance, and that starts with sending Joe Biden and Kamala Harris to the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
-      "originalUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_090920getty_camp.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/519628-joe-bidens-small-business-outreach-shows-hes-ready-to-spark-americas?amp",
-      "publishedDateTime": "2020-10-05T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

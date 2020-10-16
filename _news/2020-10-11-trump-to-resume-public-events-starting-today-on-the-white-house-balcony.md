@@ -463,6 +463,22 @@ related:
         width: 828
         height: 545
         isCached: true
+  - title: "Trump administration denies California relief for 6 fires"
+    excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
+    publishedDateTime: 2020-10-16T19:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection"
     excerpt: "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider."
     publishedDateTime: 2020-10-10T22:08:00Z
@@ -750,6 +766,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/11/USAT/3552bc64-fdf6-4fba-97f5-8484fdd8cf22-AP_Voters_of_Color_Debate_Reaction.jpg?auto=webp&crop=5820,3274,x0,y296&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How the US has voted in every presidential election from George Washington to Donald Trump — and what it means for today"
+    excerpt: "The US political map hasn't always looked the way it does today. See how the map has changed over 58 presidential elections."
+    publishedDateTime: 2020-10-16T18:59:00Z
+    webUrl: "https://www.businessinsider.com/presidential-election-results-every-year-donald-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/presidential-election-results-every-year-donald-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/presidential-election-results-every-year-donald-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/5f89d085d260780019341de5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump, who is still infected with COVID-19 and likely contagious, has returned to the Oval Office"
     excerpt: "A US Marine was spotted outside the Oval Office on Wednesday afternoon, indicating the president is inside the room."

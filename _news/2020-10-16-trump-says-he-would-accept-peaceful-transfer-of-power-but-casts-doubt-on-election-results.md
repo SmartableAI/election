@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration hypes immigration enforcement in key swing state ahead of election"
+    excerpt: "When the idea of erecting billboards of immigration violators initially came up at least a year ago, US Immigration and Customs Enforcement officials didn't think much of it. The proposal was considered to be a low priority, according to two sources familiar with the discussions.\n    \n"
+    publishedDateTime: 2020-10-16T17:48:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aDoR-3Hviho/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-sanctuary-city-election-pennsylvania/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-sanctuary-city-election-pennsylvania/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 182
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200921105920-chad-wolf-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is only polling ahead in 1 battleground state"
     excerpt: "CNN's John King breaks down the latest Electoral College projections three weeks away from the 2020 election as Joe Biden holds a double-digit lead in national polling average.\n    \n"
     publishedDateTime: 2020-10-11T21:42:51Z
@@ -820,6 +836,20 @@ related:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_29/3397371/200715-donald-trump-xi-jinping-2017-ac-1103p_1fad2f6762beb64997226994d9d52012.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "At indoor Florida event, Trump urges seniors to shield themselves from Covid"
+    excerpt: "The president added that he perhaps would have remained indoors to avoid possible infection, were it not for the office he held."
+    publishedDateTime: 2020-10-16T19:39:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/16/at-indoor-florida-event-trump-urges-seniors-to-shield-themselves-from-covid-1326222"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/1c/b4/bf17b03c4b43a100fb85412fab29/ap20290658674277-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"

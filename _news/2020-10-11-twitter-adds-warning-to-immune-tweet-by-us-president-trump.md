@@ -29,145 +29,265 @@ images:
     isCached: true
 
 related:
-  - title: "Trump health update expected at Walter Reed Medical Center"
-    excerpt: "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition."
-    publishedDateTime: 2020-10-04T15:26:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp"
+  - title: "Trump campaign says winning this state is vital to clinching election"
+    excerpt: "President Trump's campaign manager Bill Stepien predicts that the key to reelection lies with winning the state of North Carolina. "
+    publishedDateTime: 2020-10-16T18:46:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LVwBLCIG3FA/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09109495-62e5-4525-9384-2e008a8394ce/95aac251-d7d3-4963-9fce-74dd623a0043/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump discharged from Walter Reed, returns to White House"
-    excerpt: "President Trump was discharged from Walter Reed National Military Medical Center and returned to the White House on Monday evening to continue his fight against the novel coronavirus, after his medical team warned that he “may not entirely be out of the woods yet.”"
-    publishedDateTime: 2020-10-05T22:30:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9FqRpXdn3k0/trump-discharged-from-walter-reed-returns-to-white-house"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-discharged-from-walter-reed-returns-to-white-house.amp"
+  - title: "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day"
+    excerpt: "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election."
+    publishedDateTime: 2020-10-13T19:01:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 189
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Virginia Senate debate sees Warner, Gade clash on Trump, race, health care"
-    excerpt: "Democratic incumbent U.S. Sen. Mark Warner and his Republican challenger shared the debate stage Saturday night in their second meeting ahead of Election Day in Norfolk, Va. "
-    publishedDateTime: 2020-10-04T03:29:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEY8SY4FPcg/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care"
-    ampWebUrl: "https://www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-senate-debate-sees-warner-gade-clash-on-trump-race-health-care.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20277814149900.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Bongino on ‘infuriating’ media attacks of Trump’s drive-by 'visit' outside hospital"
-    excerpt: "The mainstream media’s attacks of President Trump’s surprise drive-by visit to his supporters outside Walter Reed Medical Center on Sunday is “infuriating,” former Secret Service agent Dan Bongino told “Fox & Friends” on Monday."
-    publishedDateTime: 2020-10-05T15:04:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/shNtPZ7Fuy4/bongino-media-trump-drive-by-visit-hospital"
-    ampWebUrl: "https://www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bongino-media-trump-drive-by-visit-hospital.amp"
+  - title: "Trump faces deficits in Michigan, Wisconsin with days dwindling until election: polls"
+    excerpt: "With three weeks to go until Election Day, new public opinion polls in two key battleground states President Trump flipped from blue to red four years indicate that Democratic presidential nominee Joe Biden holds sizeable leads over the president."
+    publishedDateTime: 2020-10-13T01:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLcbP8c7mBw/trump-deficits-michigan-wisconsin-election-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 183
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70a16502-b86c-4e51-818f-c6da8c881474/43980fb3-be0d-4bda-a962-e4c9cdd3e0d9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
+    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
+    publishedDateTime: 2020-10-10T08:32:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Election will be seminal moment in whether Trump administration, lawmakers secure coronavirus deal"
+    excerpt: "There is almost no way to get this done before the election – even if there were to be an agreement. Nothing has moved since May. But a seminal moment is coming: the election."
+    publishedDateTime: 2020-10-13T15:50:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9gRnNla8D8/trump-congress-coronavirus-deal-election-seminal-moment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-congress-coronavirus-deal-election-seminal-moment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-congress-coronavirus-deal-election-seminal-moment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump campaign YouTube takeover to feature Trump message thanking Americans for support"
-    excerpt: "EXCLUSIVE: The Trump campaign is taking over the YouTube.com masthead for 24 hours beginning at midnight, Fox News has learned, featuring the video of President Trump as he was departing the White House for Walter Reed Military Medical Center to be treated for COVID-19."
-    publishedDateTime: 2020-10-03T23:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LPFwnLg3R78/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-youtube-takeover-to-feature-trump-message-thanking-americans-for-support.amp"
+  - title: "Doctor says Trump no longer at risk of transmitting virus"
+    excerpt: "President Donald Trump's doctor said Saturday the president is no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T02:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfLteX3PRm0/doctor-trump-risk-of-transmitting-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/699756ba-97d5-4def-a0d5-355653e387c9/298b5b20-3ab3-42d1-b551-db529a0e6716/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Supreme Court sides with Trump administration to end census count early"
+    excerpt: "The U.S. Supreme Court on Tuesday side with the Trump administration to stop the census count early instead of allowing it to continue through the end of October."
+    publishedDateTime: 2020-10-13T21:33:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H55u4s1Kkc4/supreme-court-sides-with-trump-administration-to-end-census-couont-early"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-sides-with-trump-administration-to-end-census-couont-early.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-sides-with-trump-administration-to-end-census-couont-early.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b44405f-bba6-4488-b5d1-0b568bb97020/d4f32897-b495-437e-b40b-e58eb4551a80/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
+    excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
+    publishedDateTime: 2020-10-15T21:02:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump makes grand entrance at Iowa campaign rally"
+    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
+    publishedDateTime: 2020-10-15T03:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
+        width: 600
+        height: 332
+        isCached: true
+  - title: "Trump says he knows 'nothing' about QAnon when pressed by NBC anchor"
+    excerpt: "President Trump told NBC anchor Savannah Guthrie on Thursday that he didn't know about the conspiracy theory QAnon, repeatedly pushing back on Guthrie's questioning about the issue."
+    publishedDateTime: 2020-10-16T01:00:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YKZzFHELk8Q/trump-qanon-town-hall-savannah-guthrie"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/975165a2-fc10-4664-96a3-0169282491b2/506a31f3-3bae-403f-9ac9-f3d8c23a6240/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
+    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
+    publishedDateTime: 2020-10-16T08:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
+    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign rejects Taliban support for 2020 reelection"
+    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
+    publishedDateTime: 2020-10-11T15:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump claims Nov. 3 'will be the most exciting day in US election history'"
+    excerpt: "President Trump on Monday said this Election Day will be “the most exciting” in U.S. history, touting the “tremendous excitement and enthusiasm” among the electorate, while mocking his Democratic rival Joe Biden, saying “nobody” shows up to his events."
+    publishedDateTime: 2020-10-12T15:43:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G22ntFKhKm8/trump-nov-3-most-exciting-day-in-us-election-history"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284697508156-e1602516298978.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump hits Fauci, says his 'pitching arm' is 'far more accurate than his prognostications'"
+    excerpt: "President Trump on Tuesday took a swipe at Dr. Anthony Fauci, saying his “pitching arm” is “far more accurate than his prognostications,” as the World Health Organization has warned against lockdowns to combat the coronavirus pandemic."
+    publishedDateTime: 2020-10-13T16:31:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump says he will be discharged from Walter Reed, return to White House Monday evening"
-    excerpt: "President Trump said he will be discharged from Walter Reed National Military Medical Center Monday evening and will return to the White House. "
-    publishedDateTime: 2020-10-05T18:40:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zim5ZZjbxnQ/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tweets-that-he-will-leave-walter-reed-medical-center-tonight-says-he-is-feeling-really-good.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump thanks supporters gathered outside hospital: 'I'm about to make a little surprise visit''"
-    excerpt: "President Trump tweeted out his thanks on Sunday to the supporters who have gathered outside Walter Reed Medical Center in Maryland over the weekend, where the president is battling a case of the novel coronavirus. "
-    publishedDateTime: 2020-10-04T19:57:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X-szueN4JBw/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-thanks-supporters-gathered-outside-hospital-as-he-battles-coronavirus-they-really-love-our-country.amp"
+  - title: "Trump rushing Barrett confirmation because of contested election fears, Durbin claims"
+    excerpt: "Sen. Dick Durbin, D-Ill., said President Trump nominated Judge Amy Coney Barrett to the Supreme Court to \"rule in his favor on any election contest\" during the opening portion of Barrett's confirmation hearing on Monday."
+    publishedDateTime: 2020-10-12T14:58:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0nDms90PTU8/durbin-amy-coney-barrett-confirmation-hearing"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Dick-Durbin-donald-trump-amy-barrett.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "White House gives New Jersey officials list of at least 206 people who attended Trump fundraiser"
-    excerpt: "The White House has supplied the New Jersey Department of Health with the names of more than 200 individuals who attended a fundraiser last week just hours before President Trump announced that he had contracted COVID-19."
-    publishedDateTime: 2020-10-04T20:38:01Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GXF3Zbs2eps/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-gives-new-jersey-officials-list-of-at-least-206-people-who-attended-trump-fundraiser.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump says he's disappointed in Barr over status of Durham probe"
-    excerpt: "The president on Friday expressed outrage at reports Attorney General William Barr has communicated to lawmakers that the Durham report will not be released until after the presidential election. "
-    publishedDateTime: 2020-10-09T17:48:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBF5-R14SRw/trump-slams-durham-report-investigation-not-being-released-before-election"
+  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
+    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
+    publishedDateTime: 2020-10-10T15:30:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82547877-ca99-469d-97ed-d1d12eb85c62/5cd196a0-b825-43d7-8768-bde3bf2730fe/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
+        width: 2000
+        height: 1264
+        isCached: true
+  - title: "Trump indicates he no longer has the coronavirus, says he is 'immune'"
+    excerpt: "President Trump on Sunday indicated that he is no longer testing positive for the coronavirus and claimed that he is now \"immune\" from the disease as he is set to rejoin the campaign trail soon. "
+    publishedDateTime: 2020-10-11T14:47:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piGorazzxjQ/trump-sunday-morning-futures-interview-coronavirus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284714411056-e1602427318571.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -185,94 +305,128 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump to appear at White House event, first since returning from Walter Reed"
-    excerpt: "President Trump on Saturday will make his first appearance at a White House event since he returned from his stay at Walter Reed National Military Medical Center earlier this week."
-    publishedDateTime: 2020-10-10T13:27:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KXNlHFyMDoU/trump-white-house-event-first-walter-reed"
+  - title: "Ninth Circuit court rules Trump can’t divert military funds for border wall"
+    excerpt: "The 9th Circuit Court of Appeals on Friday ruled that President Donald Trump could not use emergency powers to divert $3.6 billion in military constructions to building the border wall, dealing another blow to the president’s signature 2016 campaign pledge."
+    publishedDateTime: 2020-10-12T19:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UKQP5mMFY2M/ninth-circuit-court-trump-cant-divert-military-funds-border-wall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20277547402018.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump to hold first in-person event at White House since getting coronavirus"
+    excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."
+    publishedDateTime: 2020-10-09T19:49:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4i4SBnbFh0/trump-to-hold-first-in-person-event-at-white-house-since-getting-coronavirus"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 152
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d357204f-72a4-4424-8654-01cf19622c87/31d2c5a9-155d-4aa2-967c-10751e34cc07/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign sends pizzas to supporters outside Walter Reed Medical Center"
-    excerpt: "The Trump campaign sent pizza to supporters gathered outside Walter Reed National Military Medical Center as the commander-in-chief continues his battle against coronavirus inside. Video captured"
-    publishedDateTime: 2020-10-05T15:36:00Z
-    webUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/"
-    ampWebUrl: "https://nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/05/trump-campaign-sent-pizza-to-supporters-outside-walter-reed/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-hospital-pizza-01.jpg?quality=90&strip=all&w=1200"
+      - url: "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
-  - title: "Alyssa Milano blasts Donald Trump's drive-by to fans outside Walter Reed Medical Center"
-    excerpt: "Alyssa Milano revealed that a friend’s uncle recently died due to COVID-19 after lambasting President Donald Trump over his drive-by to fans outside Walter Reed National Military Medical Center, where he is being treated for the virus."
-    publishedDateTime: 2020-10-05T18:01:00Z
-    webUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed"
-    ampWebUrl: "https://www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/alyssa-milano-blasts-trump-driving-walter-reed.amp"
+  - title: "Victor Davis Hanson: Trump must make election about class, not race"
+    excerpt: "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose."
+    publishedDateTime: 2020-10-10T21:46:00Z
+    webUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race"
+    ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 127
+    quality: 150
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/640/320/GettyImages-1078617590.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump health reports marred by confusing and conflicting messages"
-    excerpt: "It was just two sentences from an unnamed source in a White House pool report, but it exploded the prevailing narrative about President Trump’s health."
-    publishedDateTime: 2020-10-06T07:11:00Z
-    webUrl: "https://www.foxnews.com/media/trump-health-reports-marred-by-confusing-and-conflicting-messages"
+  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
+    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
+    publishedDateTime: 2020-10-13T13:18:00Z
+    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
+    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Lara Trump: It appears by all accounts the president is clear of the coronavirus"
+    excerpt: "President Trump gets back on the campaign trail, facing an uphill battle against Joe Biden. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: This is the single, most important election in the history of our country."
+    publishedDateTime: 2020-10-11T20:44:00Z
+    webUrl: "https://www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3adaab2-06f0-47ce-ac5b-0b8ad3188a11/c13f59d4-407f-439e-969c-06b9986355bf/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Arnon Mishkin: Trump reelection in trouble, polling indicates — race is referendum on him"
+    excerpt: "Following his debate performance and hospitalization with COVID-19, President Trump continues to trail former Vice President Joe Biden in national polling in their presidential race."
+    publishedDateTime: 2020-10-10T23:33:00Z
+    webUrl: "https://www.foxnews.com/opinion/polling-trump-election-arnon-mishkin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81202508-7b03-4a6b-ae69-4308c016af33/d037b5e2-486b-4fdf-9e57-1e6048897a4b/1280x720/match/image.jpg"
+        width: 1079
+        height: 720
+        isCached: true
+  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
+    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
+    publishedDateTime: 2020-10-10T21:27:00Z
+    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 115
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d355350b-7a7e-46f2-b397-7e7c16a5be9d/284fa6f0-8cc2-4fa4-8cef-b459fdd0cb6e/1280x720/match/image.jpg"
-        width: 1134
-        height: 720
-        isCached: true
-  - title: "A Strange Thing Happened to President Trump's Star on the Hollywood Walk of Fame"
-    excerpt: "While President Donald Trump battles the Wuhan coronavirus at the Walter Reed Medical Center, someone who despises the president decided to destroy his star on the Hollywood Walk of Fame."
-    publishedDateTime: 2020-10-04T18:24:00Z
-    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/04/a-strange-thing-happened-to-president-trumps-star-on-the-hollywood-walk-of-fame-n2577439"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 60
-    images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2017/52/63d298b0-c2be-4ddf-b084-6001db337308.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Returns To White House, Tells Americans, \"Don't Be Afraid Of Covid, Don't Let It Dominate You\""
-    excerpt: "President Donald Trump delivered remarks on the coronavirus after returning to the White House from Walter Reed Medical Center."
-    publishedDateTime: 2020-10-06T13:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/06/trump_returns_to_white_house_tells_americans_dont_be_afraid_of_covid_dont_let_it_dominate_you.html"
+  - title: "Record Black Voter Turnout Will Fire Trump, Save Lives"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-13T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/13/record_black_voter_turnout_will_fire_trump_save_lives_526190.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 50
-    images:
-      - url: "https://assets.realclear.com/images/52/523276.png"
-        width: 500
-        height: 375
-        isCached: true
+    quality: 45
+  - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
+    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"
+    publishedDateTime: 2020-10-15T11:29:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/15/trump_is_doing_exact_opposite_of_what_he_should_be_doing_526384.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "09xygeKjHsPH/12S0ahFqB3Wb+A1gnAnFyV9QjH4d50Q9nISOauwrHR7MD2F5bRn4CSIfWKjhzWZrB2bd1C2pEiOn7BYBJZFa2pzawl6I82lbZHGyUifesBKq0Q0etD2O1FhOefjH7WcxFvzLLaK0o4pET2OzBC9dDF2XA3F8ApX2WEfUV2g2sVzRmfhz2FG/2GTTVXxUcmxA5urmjI3QPSapj3jnIDIBMm9GzG9feRF4HGPZi4jbWjTVT+bdcjeymKxdfP6F9PHqRufjG1c0FHe+Jzs3YI2mSQ4p2nYkKFP7dxB0TcoR33/m0TiyiUnhs5JxVM9Iw7gW5XkPq8H/QImXN/lbJ3Hvfwp9B2Rj7Q=;ujv+8f8LF4Vui1yMseL74Q=="
 ---

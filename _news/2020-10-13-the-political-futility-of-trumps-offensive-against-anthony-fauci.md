@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Donald Trump just revealed a lot more than he meant to about his tax returns"
+    excerpt: "President Donald Trump is the only modern American president to never release any of his tax returns -- either while running for office or during his time in office. He's offered a series of explanations for why that is, including that he is under audit by the Internal Revenue Service and that his taxes"
+    publishedDateTime: 2020-10-16T17:42:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5Pb1wb5vPXo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-tax-returns-nbc-town-hall-savannah-guthrie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-tax-returns-nbc-town-hall-savannah-guthrie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015223113-14-deuling-town-halls-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fauci criticizes inclusion in Trump campaign ad"
     excerpt: "The nation’s top infectious disease expert said his words were “taken out of context” in the ad praising the president’s response to the pandemic."
     publishedDateTime: 2020-10-11T21:56:00Z

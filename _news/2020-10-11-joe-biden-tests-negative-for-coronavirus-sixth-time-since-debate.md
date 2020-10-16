@@ -7,8 +7,8 @@ originalUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coro
 webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: WSOC-TV
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
-    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
-    publishedDateTime: 2020-10-15T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
     excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
     publishedDateTime: 2020-10-13T10:03:00Z

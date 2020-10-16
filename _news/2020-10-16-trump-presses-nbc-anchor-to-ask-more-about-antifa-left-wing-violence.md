@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -31,37 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says he knows 'nothing' about QAnon when pressed by NBC anchor"
-    excerpt: "President Trump told NBC anchor Savannah Guthrie on Thursday that he didn't know about the conspiracy theory QAnon, repeatedly pushing back on Guthrie's questioning about the issue."
-    publishedDateTime: 2020-10-16T01:00:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YKZzFHELk8Q/trump-qanon-town-hall-savannah-guthrie"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
+  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-15T22:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/975165a2-fc10-4664-96a3-0169282491b2/506a31f3-3bae-403f-9ac9-f3d8c23a6240/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
-    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
-    publishedDateTime: 2020-10-16T08:18:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
-    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
         isCached: true
 
 secured: "gnYjSAj66oTqDMq7mye++/C+kV5gf8nF/Tf4/wCFINCFWslOL28NgfHe7NSUK1Kdigr/Q7/vaE0X3NgQkP2xtBeyv43ZUhYbn4AgA3gvgTiKKQLLT6eKH8VwWeRng1dnyP7X7tttmEDefaJBO2fQKxZ83Bh3pOmZbCddybzraybkAlYFcM09I87r+tojHmc6hLag51V8StAcFdqpiuiKSMBrsp0I2eRAWGF9+MUpZhbdknNGhRXGNDWEuJW6jePzaU+GyttUneu3QhHvQ8NuIfsG3hsmmwmqXV7m97YgCkKH86oOmG25/aYNx6RRsj6LjBeyGeizwECE9YV9fp6O3dzI3ZEwInMhj2aCsD7UYB0=;qRjOJhcr1r8EEHmrQIkong=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypos
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
 type: article
 quality: 167
-heat: 227
+heat: 247
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18153b84-b2ed-4208-acb2-b23f8fe63683/370a704c-9174-48e6-b638-9e4b1519b3c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Scalise, McMorris Rodgers demand answers on Twitter's 'unprecedented' actions on Hunter Biden story"
+    excerpt: "EXCLUSIVE: House Minority Whip Steve Scalise and Rep. Cathy McMorris Rodgers lead more than a dozen House Republicans in demanding answers from Twitter for their “unparalleled” and “unprecedented” actions the social media platform took in reducing the circulation of a New York Post article about Hunter"
+    publishedDateTime: 2020-10-16T18:23:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xaTpMDl7bRs/scalise-mcmorris-rogers-demand-answers-twitter-hunter-biden-story"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-mcmorris-rogers-demand-answers-twitter-hunter-biden-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-mcmorris-rogers-demand-answers-twitter-hunter-biden-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
     excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
-    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
-    publishedDateTime: 2020-10-15T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Joe Biden tests negative for coronavirus sixth time since debate"
     excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
     publishedDateTime: 2020-10-10T19:43:00Z

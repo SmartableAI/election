@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-trump-campaign-says-winning-this-state-is-vital-to-clinching-election.md",
+      "title": "Trump campaign says winning this state is vital to clinching election",
+      "excerpt": "President Trump's campaign manager Bill Stepien predicts that the key to reelection lies with winning the state of North Carolina. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LVwBLCIG3FA/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LVwBLCIG3FA/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 730,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09109495-62e5-4525-9384-2e008a8394ce/95aac251-d7d3-4963-9fce-74dd623a0043/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp",
+      "publishedDateTime": "2020-10-16T11:46:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-rudy-giuliani-purported-hunter-biden-emails-will-shock-the-hell-out-of-you.md",
       "title": "Rudy Giuliani: Purported Hunter Biden emails will 'shock the hell out of you'",
       "excerpt": "Emails, texts and photos found on an abandoned laptop that purportedly belonged to Hunter Biden, the son of former Vice President Joe Biden, allegedly show federal crimes among other shocking things, President Trump's personal attorney Rudy Giuliani told \"Fox & Friends\" on Friday.",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 790,
+      "heat": 830,
       "tags": null,
       "images": [
         {
@@ -116,17 +172,17 @@
     {
       "path": "_news/2020-10-16-kamala-harris-has-awkward-moment-at-nc-event-says-election-ends-in-19-days.md",
       "title": "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'",
-      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris, D-Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
+      "excerpt": "Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bunKEVyPFVg/kamala-harris-north-carolina-election-ends-in-19-days",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bunKEVyPFVg/kamala-harris-north-carolina-election-ends-in-19-days",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 457,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -142,7 +198,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
-      "publishedDateTime": "2020-10-16T09:10:11-07:00",
+      "publishedDateTime": "2020-10-16T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -166,8 +222,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -183,7 +239,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -239,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1204,
+      "heat": 1224,
       "tags": null,
       "images": [
         {
@@ -424,62 +480,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.amp",
       "publishedDateTime": "2020-10-15T17:37:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-campaign-banking-on-rural-florida-voters-to-repeat-2016-success.md",
-      "title": "Trump campaign banking on rural Florida voters to repeat 2016 success",
-      "excerpt": "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp",
-      "publishedDateTime": "2020-10-15T14:02:51-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1136,7 +1136,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 227,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1472,7 +1472,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 419,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -1585,7 +1585,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 173,
+      "heat": 193,
       "tags": null,
       "images": [
         {

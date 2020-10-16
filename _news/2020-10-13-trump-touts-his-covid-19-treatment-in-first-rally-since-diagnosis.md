@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-tre
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
 type: article
 quality: 175
-heat: 415
+heat: 375
 published: true
 
 provider:
@@ -137,20 +137,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
-    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
-    publishedDateTime: 2020-10-10T21:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jimmy Kimmel mocks Donald Trump for holding rallies that could potentially infect his supporters"
     excerpt: "Jimmy Kimmel took aim at Donald Trump for continuing to campaign after his positive COVID-19 diagnosis and subsequent treatment."
     publishedDateTime: 2020-10-14T14:08:00Z
@@ -195,15 +181,6 @@ related:
         width: 750
         height: 562
         isCached: true
-  - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
-    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"
-    publishedDateTime: 2020-10-15T11:29:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/15/trump_is_doing_exact_opposite_of_what_he_should_be_doing_526384.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "HsGSr70i5y/v/txZWAuZ7XEe+lItQS62pdMNDe8RflrC6tKaVMembEnOn72L7QI1X9KUAxtbfhBuR1bYbqEwyZLOPDmZoOLJ0m03WWtaxNbbfo0XJFkxCuuy5iJCYdgXVKaP/var0QqY3ouJVxOqo6K4XfyJw3BwtEGcBvuW/WRooFwvCzSc8tedHlSdDk0G+9F7cqnXw7x4ZQvBrBRfBIOM9+CBdBRRpyrqQgAflK+u8pMKrQ9wJLyNKKtBPJMYb0av3qR/ezf4w/P/Vt9VtRMJZtxDta/mJBdYfqrJ+RkC8z931QkXruSC4lMKSZSHyi/yRm4Z+K+JdpnJdITK1MYPDRWiIbTwzggfKKarjII=;52whw1ZgC7DOivsLdAwhWw=="
 ---

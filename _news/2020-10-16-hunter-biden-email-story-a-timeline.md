@@ -240,6 +240,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump and Biden, both in Florida, court crucial senior voters"
+    excerpt: "A new TV commercial by President Trump’s reelection campaign touts that the president is “the clear choice” for seniors, who are a key voting bloc in many of the battleground states that will decide the winner of the presidential election."
+    publishedDateTime: 2020-10-16T17:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2MyhX7yTozc/trump-biden-florida-court-crucial-senior-voters"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/TrumpBidenAP-PhotoPatrick-Semansky.jpg"
+        width: 996
+        height: 560
+        isCached: true
   - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
     excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
     publishedDateTime: 2020-10-15T04:00:35Z
@@ -431,6 +445,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-244852/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "An Ex-Liberal Reluctantly Supports Trump"
+    excerpt: "How historian Fred Siegel came to appreciate the president’s defense of ‘bourgeois values’ against the ‘clerisy.’"
+    publishedDateTime: 2020-10-16T19:32:00Z
+    webUrl: "https://www.wsj.com/articles/an-ex-liberal-reluctantly-supports-trump-11602875814?mod=hp_opin_pos_1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/an-ex-liberal-reluctantly-supports-trump-11602875814"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/an-ex-liberal-reluctantly-supports-trump-11602875814"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-245973/social"
         width: 1280
         height: 640
         isCached: true

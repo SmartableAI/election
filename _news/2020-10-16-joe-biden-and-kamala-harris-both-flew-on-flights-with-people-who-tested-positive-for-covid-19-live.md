@@ -3,12 +3,12 @@ category: news
 title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - live"
 excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
 publishedDateTime: 2020-10-15T21:11:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88845d8f087cfbdaeb093b"
+webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88845d8f087cfbdaeb093b"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
 type: article
-quality: 135
+quality: 125
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -543,6 +542,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/kamala-harris-04-vp-debate-rt-jef-201007_1602129407129_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fact check: Biden-Harris Phoenix event intended to have limited attendance"
+    excerpt: "Posts on social media are claiming “no one showed up” at a campaign stop of U.S. Democratic presidential candidate Joe Biden and running mate Kamala Harris at the battleground state of Arizona. This claim is missing key context: the event was deliberately planned to"
+    publishedDateTime: 2020-10-16T19:27:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-harris-phoenix-idUSKBN2712VJ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712VJ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712VJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 148
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537791673&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F1RO"
+        width: 848
+        height: 545
         isCached: true
   - title: "Mike Pence vs Kamala Harris: Here's how to watch the vice presidential debate"
     excerpt: "Pence and Harris will meet for their only debate. It will be moderated by Susan Page, USA TODAY's Washington Bureau chief."
@@ -1072,6 +1087,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Dueling town halls: Biden beats Trump in Nielsen TV ratings"
+    excerpt: "Early Nielsen estimates give Joe Biden the edge over Donald Trump but the figures don't include West coast or cable viewing."
+    publishedDateTime: 2020-10-16T19:03:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/16/town-hall-ratings-joe-biden-donald-trump/3678355001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3678355001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3678355001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/1dde22a9-ad09-44db-9a54-d19925f5b4c4-desk_thumb.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1411,9 +1442,9 @@ related:
   - title: "Why watching the Donald Trump and Joe Biden town halls at the same time was peak 2020"
     excerpt: "Watching Donald Trump and Joe Biden's competing town halls simultaneously on NBC and ABC was weird and a perfect representation of the 2020 election."
     publishedDateTime: 2020-10-16T13:57:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/16/trump-biden-town-hall-2020-dueling-column/3676918001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3676918001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3676918001"
+    webUrl: "https://www.usatoday.com/story/entertainment/media/2020/10/16/trump-biden-town-hall/3666521001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3666521001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3666521001"
     type: article
     provider:
       name: USA Today
@@ -1706,6 +1737,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/31/USAT/2cfaeb2f-63ad-470a-a364-20308ab3e35c-campaign_ads.jpg?auto=webp&crop=2050,1154,x0,y50&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "'Mr. Rogers' trends on Twitter after Trump adviser compares Biden to beloved Pennsylvania icon"
+    excerpt: "Trump campaign adviser Mercedes Schlapp likened ABC’s Town Hall with Joe Biden to an episode of \"Mr. Rogers' Neighborhood\" prompting widespread criticism on social media."
+    publishedDateTime: 2020-10-16T19:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/mr-rogers-trends-twitter-trump-adviser-compares-biden/story?id=73656690"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mr-rogers-trends-twitter-trump-adviser-compares-biden/story?id=73656690"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mr-rogers-trends-twitter-trump-adviser-compares-biden/story?id=73656690"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 128
+    images:
+      - url: "https://s.abcnews.com/images/Politics/fred-rogers-file-gty-ml-201016_1602871219204_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Fly on Mike Pence's head steals the buzz from vice presidential debate, and Biden can't complain"
     excerpt: "A fly that landed on Vice President Mike Pence's head during the presidential debate generated a lot of buzz online."
@@ -3695,6 +3742,22 @@ related:
         width: 780
         height: 440
         isCached: true
+  - title: "Kamala Harris Has Great Response to the Fly on Vice President Mike Pence's Head During Debate"
+    excerpt: "The fly on Vice President Mike Pence's head was the elephant in the room during last week's vice presidential debate, but did his opponent, Sen. Kamala Harris, notice it? The California senator was finally asked about the now-infamous insect during an appearance on MSNBC's The Rachel Maddow Show this week."
+    publishedDateTime: 2020-10-16T19:41:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/kamala-harris-has-great-response-to-the-fly-on-vice-president-mike-pences-head-during-debate/603-8b8f81b3-26b6-42ca-bd90-7d9b2421a6a9"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/kamala-harris-has-great-response-to-the-fly-on-vice-president-mike-pences-head-during-debate/603-8b8f81b3-26b6-42ca-bd90-7d9b2421a6a9"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/kamala-harris-has-great-response-to-the-fly-on-vice-president-mike-pences-head-during-debate/603-8b8f81b3-26b6-42ca-bd90-7d9b2421a6a9"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 89
+    images:
+      - url: "https://media.kvue.com/assets/ETONLINE/images/e198b8ef-2543-4cda-b10f-a8f14f717025/e198b8ef-2543-4cda-b10f-a8f14f717025_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Trump Tells Dangerous Lie That Joe Biden and Democrats Want to Kill Babies"
     excerpt: "Fresh out of Walter Reed Hospital, and down double digits in recent polls, President Donald Trump appears to be reaching deep into his bag of political tricks to get back into a presidential election"
     publishedDateTime: 2020-10-06T12:52:00Z
@@ -5576,6 +5639,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "FlZ429C2splViok/gBO59MJfEqkH/rcZ8q/wYoFdympi+PlisBjJ+r27P8OBe0v+2X68Enb4piHSuIvmujR8EbUJKx84joLEbMEk6ISGIIUnlzpA34gRSZJC0/mkiRXT+gI2nL6hdp9V7usModj7GKKP9rtieu84SmJUNU9YIQOienzjhRCzsHA39B47dC28PJNr4YXxfypGK62HOsVDgXS7PlniJOg7lP9rs66VFHQ5zezu7aRx3QFrnY3nVxLUeOABpj1M8lJS6MbyjqW3vCIahcv3bSKu9AoUN6AjbkmO67LpwcjZi6H4A/Atg9HWoidM/v4F670nClVCX2WZ5pi2OC1lkSsLgJ/0yjUHmRs=;MDcAqIJpiWXF3vBbuJaJ1g=="
+secured: "3BY/WWe60ylBTKaw+4DZ5LiONF2QuNqoTLPgF1h5Rvudn8cv/K8G30xYMG/0BsD/IR6HXd95ZseIEb5lXGSObTqBJi75YdtNIaAewjLm5zaSZeRR6jpifViJ+dugGacar/04Q1YgzFHoH+BMKYFlRNdreA6fwHDBBgRgzvX7A2eTvTay1kjRgfWDIXf0+95KuTIxmILHgw1o6N+K0IgqDU8kAzRu595dpfPhgPAN9RwagtexJqo/nrChqX9iuych8e5edbypet1Xi3Xt2a5nHmFV6Cb2Uw9LfT5LcTfsZ5UlQQ3kSAqD3n2K05p1Xo978ZmNXbTSJfiYbONt9gf+6x/B1gUPTeew1jYh/7/fXSY=;r8BpYHHVFhZGxRHpkKtK3A=="
 ---
 

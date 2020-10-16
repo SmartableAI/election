@@ -136,6 +136,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump is eyeing another corporate tax cut (for the wrong reason)"
+    excerpt: "The problem is not just the fact that Trump is eyeing yet another corporate tax cut; the problem is also why he wants it."
+    publishedDateTime: 2020-10-16T18:24:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-eyeing-another-corporate-tax-cut-wrong-reason-ncna1243751"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420640/ss-201015-twip-09_8c7a2d780ff1265de9e5a51ce8401870.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Touts Falconer’s Benghazi Blood-Sacrifice Conspiracy Theory"
     excerpt: "Trump’s endorsement of the insane story shot it to national prominence, fueling the bizarre allegations about blood sacrifice and Bin Laden body doubles."
     publishedDateTime: 2020-10-13T23:30:00Z

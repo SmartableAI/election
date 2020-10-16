@@ -220,6 +220,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump's offensive against mask-wearing takes a ridiculous turn"
+    excerpt: "For Trump to start throwing around this new talking point about 85% of mask-wearers, based on a perversion of science, is utterly bonkers."
+    publishedDateTime: 2020-10-16T19:30:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-offensive-against-mask-wearing-takes-ridiculous-turn-ncna1243770"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pro-Trump Group Closes Campaign by Shopping Dirt on the Lincoln Project"
     excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"
     publishedDateTime: 2020-10-13T22:32:00Z

@@ -64,6 +64,22 @@ related:
         width: 717
         height: 376
         isCached: true
+  - title: "Trump miffed by Guthrie's questioning at town hall"
+    excerpt: "Guthrie piqued Trump on multiple occasions during the town hall event, including pressing him on the baseless QAnon conspiracy theory — which claims a cabal of Satan-worshipping"
+    publishedDateTime: 2020-10-16T19:49:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/trump-miffed-by-guthries-questioning-at-town-hall-429885"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/trump-miffed-by-guthries-questioning-at-town-hall-429885"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/trump-miffed-by-guthries-questioning-at-town-hall-429885"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/6e/ff/9e642663487ab7ddd1113db68db5/201016-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "l0N/PoeUxHSYzTbZafyCzG1zihlhhb6+VuI3n64D63UdrySKP7sS5h+O1SYznvfkGOrZsl8pGmNU2psg8KtKxqEWqz2D9YWiRPBv++DVPIWH+9+ivghA5rDOBm26Y/xUMcHAjpnMVSKEJYffsQ1UCvcPIkVq1yy/sCo4TSqnPNyaTifUabBxUJTp86UjNuQl17yf7gZf0BkeOvJMNLankLwNOGUDlwJ2GjhMT3bskDZFGDp5KvBiORPD799v7OLlRCmkFYIp9+aeKD9zU0Q7N0TuDP0uMEcCUzqNFZfNmQiRge3r73HTFyesvDv8PCA0EszWbaMsAYKoOGbtcslvYKEwzyLRhHl4BP+qqIVenAE=;9y8qXvstsVQ3yQoO+dyiSg=="
 ---

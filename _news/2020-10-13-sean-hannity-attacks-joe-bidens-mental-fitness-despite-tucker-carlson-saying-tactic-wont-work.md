@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "The most illuminating answer Biden gave in his town hall"
+    excerpt: "One answer during his Thursday night town hall appearance crystallized why former vice president Joe Biden may be exactly the right person for this moment in American history. It wasn’t a particularly eloquent answer."
+    publishedDateTime: 2020-10-16T19:05:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-most-illuminating-answer-biden-gave-in-his-town-hall/2020/10/16/8b69f0d4-0fc1-11eb-8a35-237ef1eb2ef7_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-most-illuminating-answer-biden-gave-in-his-town-hall/2020/10/16/8b69f0d4-0fc1-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-most-illuminating-answer-biden-gave-in-his-town-hall/2020/10/16/8b69f0d4-0fc1-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3D6WNQP3MI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Did Joe Biden really say he was running for the Senate?"
     excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
     publishedDateTime: 2020-10-14T01:28:00Z

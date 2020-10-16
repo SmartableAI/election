@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
+    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
+    publishedDateTime: 2020-10-12T18:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
+    images:
+      - url: "https://images.wsj.net/im-243696?size=1.5"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
     publishedDateTime: 2020-10-07T18:15:00Z

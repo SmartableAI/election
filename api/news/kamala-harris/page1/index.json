@@ -4,17 +4,17 @@
     {
       "path": "_news/2020-10-16-kamala-harris-has-awkward-moment-at-nc-event-says-election-ends-in-19-days.md",
       "title": "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'",
-      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris, D-Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
+      "excerpt": "Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bunKEVyPFVg/kamala-harris-north-carolina-election-ends-in-19-days",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bunKEVyPFVg/kamala-harris-north-carolina-election-ends-in-19-days",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 457,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -30,7 +30,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
-      "publishedDateTime": "2020-10-16T09:10:11-07:00",
+      "publishedDateTime": "2020-10-16T09:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,8 +54,8 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice",
-        "Kamala Harris"
+        "Kamala Harris",
+        "Republican Voice"
       ]
     },
     {
@@ -71,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 685,
+      "heat": 705,
       "tags": null,
       "images": [
         {
@@ -237,7 +237,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 419,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -290,7 +290,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 7480,
+      "heat": 7560,
       "tags": null,
       "images": [
         {
@@ -932,7 +932,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 211,
+      "heat": 231,
       "tags": null,
       "images": [
         {

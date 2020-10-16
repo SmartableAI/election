@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Debate commission announces topics for final debate between Trump and Biden"
+    excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
+    publishedDateTime: 2020-10-16T19:25:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AHW3p_IBC6M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/final-debate-topics-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/final-debate-topics-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 188
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011184757-trump-biden-ohio-debate-0929-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -107,6 +107,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Impatient Democrats want Biden to do more in Texas"
+    excerpt: "The whispers about Texas are picking up again."
+    publishedDateTime: 2020-10-16T19:22:00Z
+    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
     excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
     publishedDateTime: 2020-10-16T15:23:00Z

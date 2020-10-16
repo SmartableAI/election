@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-yo
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -95,6 +95,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Impatient Democrats want Biden to do more in Texas"
+    excerpt: "The whispers about Texas are picking up again."
+    publishedDateTime: 2020-10-16T19:22:00Z
+    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
     publishedDateTime: 2020-10-15T11:07:00Z

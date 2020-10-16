@@ -26,21 +26,101 @@ images:
     isCached: true
 
 related:
-  - title: "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris, D-Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote."
-    publishedDateTime: 2020-10-16T16:10:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bunKEVyPFVg/kamala-harris-north-carolina-election-ends-in-19-days"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp"
+  - title: "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views"
+    excerpt: "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\""
+    publishedDateTime: 2020-10-14T01:52:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VO16TvudxFM/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 197
+    quality: 179
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fe1b608-f011-4a25-8ce0-630bc39c0be6/06de38c4-0483-4d6c-b470-3605a92e0835/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
+    excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
+    publishedDateTime: 2020-10-08T17:37:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/463WuPpMdd8/vp-nominee-kamala-harris-barrett-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’"
+    excerpt: "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. "
+    publishedDateTime: 2020-10-13T17:01:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Barrett: I’ve had no conversation with Trump about how I’d rule on any case"
+    excerpt: "Supreme Court nominee Amy Coney Barrett told the Senate Judiciary Committee on Tuesday that she has made \"no commitment\" to President Trump or other lawmakers on how she would rule on major cases regarding issues like abortion, health care, or a potential electoral dispute."
+    publishedDateTime: 2020-10-13T17:04:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/n3AapxUlaSc/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-ive-had-no-conversation-with-trump-about-how-id-rule-on-any-case.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a8fd501-d38e-4100-a101-1825df709586/499a69fe-147e-4440-8733-3d38df777221/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
+    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
+    publishedDateTime: 2020-10-08T02:50:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
+    excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn., appearing to suggest that Barrett was publicly lobbying for a judicial job from Trump by writing"
+    publishedDateTime: 2020-10-14T18:01:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7N0kkQA-2LE/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Harris asks Barrett if COVID-19 is infectious and if smoking causes cancer to make climate change point"
     excerpt: "Sen. Kamala Harris asked Judge Amy Coney Barrett if smoking causes cancer and if coronavirus is infectious, in an effort to reveal the Supreme Court nominee’s thoughts on climate change. "
@@ -100,19 +180,63 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."
-    publishedDateTime: 2020-10-15T13:56:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
+  - title: "Harris rips Barrett confirmation process as 'illegitimate,' claims nominee will 'undo' Ginsburg's legacy "
+    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, slammed the panel for carrying out what she called an “illegitimate” process to confirm Judge Amy Coney Barrett to the Supreme Court before Election Day, while warning President Trump’s nominee for the high"
+    publishedDateTime: 2020-10-12T17:39:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZA9VNP6jusQ/harris-rips-barrett-confirmation-process-as-illegitimate-claims-nominee-will-undo-ginsburgs-legacy"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 128
+    quality: 148
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5b1135c-af2a-4186-b6c8-db47b4ebffe4/130aa47a-e67a-48cf-a64e-ef6d16d07d7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris’s American Example"
+    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
+    publishedDateTime: 2020-10-06T23:38:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-240957/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
+    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
+    publishedDateTime: 2020-10-09T19:28:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
+        width: 5472
+        height: 3648
+        isCached: true
+  - title: "VP nominee Kamala Harris likely to be in spotlight at Amy Coney Barrett confirmation hearing"
+    excerpt: "Supreme Court nominee Amy Coney Barrett will not be the only person in the middle of a high-stakes job interview next week."
+    publishedDateTime: 2020-10-08T17:40:00Z
+    webUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-nominee-kamala-harris-barrett-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/Sen.20Harris.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -132,19 +256,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
-    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
-    publishedDateTime: 2020-10-12T18:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
+  - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
+    excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn."
+    publishedDateTime: 2020-10-14T23:47:00Z
+    webUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 112
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
     images:
-      - url: "https://images.wsj.net/im-243696?size=1.5"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2383d337-30dc-4cfd-85c4-2302a660ee26/053a12df-9ba3-45f7-bb58-79fa86291ba4/1280x720/match/image.jpg"
         width: 1280
-        height: 853
+        height: 720
         isCached: true
   - title: "Kamala Harris has technical difficulties signing in to Amy Coney Barrett confirmation hearing"
     excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, had a tough time on Monday when she experienced technical issues while trying to remotely participate in Amy Coney Barrett’s Senate confirmation hearings."
@@ -204,17 +330,31 @@ related:
         width: 928
         height: 696
         isCached: true
-  - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
-    excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."
-    publishedDateTime: 2020-10-15T14:55:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
+  - title: "MSNBC still promoting Kamala Harris’s fabricated story about Abe Lincoln and court-packing"
+    excerpt: "MSNBC is still promoting Sen. Kamala Harris’s made-up story about Abraham Lincoln and court-packing. The Democratic Party surely appreciates the service: . \"But, Honest Abe said, it's not the right thing to do."
+    publishedDateTime: 2020-10-12T14:13:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/msnbc-still-promoting-kamala-harriss-fabricated-story-about-abe-lincoln-and-court-packing?_amp=true"
     type: article
     provider:
       name: Washington Examiner
       domain: washingtonexaminer.com
-    quality: 53
+    quality: 55
+  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
+    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
+    publishedDateTime: 2020-10-12T20:16:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 46
+    images:
+      - url: "https://assets.realclear.com/images/52/523854.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "fV5QZ8s3tcMkYxyYNmrhmAZg5vyQKPND82bVgpuOgSYEBmpECIZyDb0OttlD80Rd4yz6oJ7CF9OBwmECa85ynZWJCsZylb6AE2LbOzz+urwcQ7fVcaqQKCg7b8mYZYzKTgE9XqYu9sZR3qDWj9qHURKUn46xuma/sV181IgLze6uhiwpZbky/o7O9EaYX+LvXBX20+VtqZ9VyiI+/T0/rgBqXVISxgTbLI9BD++Q+k0AgTDxM/ena5Oqs5PNwVsSrB+nyHt9OdbmMyNGHTnHkvBl9Ah9eDnVdRim8dTTIuf9tiAVzwDROehugNHbAVQU+W0NHvi9Ojzeh/qPh589XxBX3NddTdRR1DSvrRIgro0=;u/sAQiKlMRvEnVBDgZisBQ=="
 ---
