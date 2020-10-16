@@ -136,22 +136,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Biden hold dueling town halls as Covid cases spike and millions cast their votes early"
-    excerpt: "President Donald Trump and former Vice President Joe Biden will participate in dueling town halls on Thursday, hoping to connect with voters as Covid-19 cases soar across the US and the President looks for a game-changing moment in a shaky reelection bid.\n    \n"
-    publishedDateTime: 2020-10-15T23:42:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aP6clfpvmwk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 177
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump is only polling ahead in 1 battleground state"
     excerpt: "CNN's John King breaks down the latest Electoral College projections three weeks away from the 2020 election as Joe Biden holds a double-digit lead in national polling average.\n    \n"
     publishedDateTime: 2020-10-11T21:42:51Z
@@ -504,6 +488,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Donald Trump's Fake Populism"
+    excerpt: "The mess the nation faces is bigger than Donald Trump. If he is voted out in November, the people who cast ballots for him will remain, pining for the policies he promoted. About 40 percent of American voters want tariffs and a border wall."
+    publishedDateTime: 2020-10-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/opinion/16stockman/merlin_168748716_43a40eab-bb9b-42ae-81b8-b28c2616078f-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Leon Panetta defends bin Laden raid after Trump ignites conspiracy"
     excerpt: "Former CIA Director Leon Panetta, who oversaw the raid that killed Osama bin Laden, defended the mission after President Donald Trump amplified conspiracy theories that the terrorist leader's death was a hoax."
     publishedDateTime: 2020-10-15T19:24:00Z
@@ -795,6 +795,20 @@ related:
       name: Politico
       domain: politico.com
     quality: 111
+  - title: "Chris Christie, out of hospital after battling Covid, urges Trump to go further on masks"
+    excerpt: "Chris Christie, newly recovered from the coronavirus, urged President Donald Trump on Friday to encourage the wearing of face masks among Americans. In his first TV interview since contracting Covid-19 earlier this month,"
+    publishedDateTime: 2020-10-16T13:35:00Z
+    webUrl: "https://www.politico.com/states/new-jersey/story/2020/10/16/chris-christie-out-of-hospital-after-battling-covid-urges-trump-to-go-further-on-masks-1325910"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 106
+    images:
+      - url: "https://static.politico.com/8c/04/f4064df840e595e5659cbaf94f0e/201016-chris-christie-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump declares himself 'immune' to Covid-19. His doctors won't say when he last tested negative."
     excerpt: "President Donald Trump on Sunday said he may have the \"protective glow\" of immunity from Covid-19 although it remains unknown when he last tested negative for the disease. In an extensive interview with Fox News' Maria Bartiromo,"
     publishedDateTime: 2020-10-11T16:49:00Z

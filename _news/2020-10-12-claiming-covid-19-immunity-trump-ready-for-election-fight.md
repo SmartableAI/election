@@ -1769,6 +1769,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "U.S. President Donald J. Trump Travels to FL for a Live NBC News Town Hall Event"
+    excerpt: "U.S. President Donald J. Trump walks to Marine One on the South Lawn of the White House on Thursday, October 15, 2020. Trump will deliver remarks at a Fundraising Committee Reception in Doral, FL.and participate in a Live NBC News Town Hall Event."
+    publishedDateTime: 2020-10-15T17:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ba90f6105c13dbf9aa54f7965a40678e/US-President-Donald-J-Trump-Travels-to-FL-for-a-Live-NBC-News-Town-Hall-Event/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 50
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ba90f6105c13dbf9aa54f7965a40678e/TRUMP-ELECTIONS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Donald Trump makes first public appearance since returning from hospital"
     excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
     publishedDateTime: 2020-10-10T22:36:00Z

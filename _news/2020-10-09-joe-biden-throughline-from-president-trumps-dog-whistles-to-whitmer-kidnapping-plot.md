@@ -27,38 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden"
-    excerpt: "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do."
-    publishedDateTime: 2020-10-15T09:30:00Z
-    webUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
+  - title: "Biden: The 'only way' I'll lose is through 'chicanery' at polling places"
+    excerpt: "Democratic presidential nominee Joe Biden said only “chicanery” in the form of voter intimidation could prevent him from winning the presidential election, later adding that he would clarify the results of the election."
+    publishedDateTime: 2020-10-11T17:40:00Z
+    webUrl: "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places"
+    ampWebUrl: "https://thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520532-biden-the-only-way-ill-lose-is-through-chicanery-at-polling-places?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
-    excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
-    publishedDateTime: 2020-10-15T17:16:00Z
-    webUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463"
-    ampWebUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 108
-    images:
-      - url: "https://d.newsweek.com/en/full/1653127/hunter-biden.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: The Hill
+      domain: thehill.com
+    quality: 104
   - title: "Joe Biden: 'Through line from President Trump’s dog whistles' to Whitmer kidnapping plot"
     excerpt: "The Democratic presidential nominee said he reached out to Whitmer earlier in the day, after news broke of the thwarted kidnapping plot."
     publishedDateTime: 2020-10-10T23:28:00Z
@@ -74,22 +53,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/24/PDTF/ce1d71ab-7580-4236-9ead-b6ed0bb426a2-biden_091218_05.jpg?auto=webp&crop=2399,1350,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
-    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
-    publishedDateTime: 2020-10-15T11:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 73
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "YnZjK3dD5OuU21Gafe1VEfOVeHVGK/8BGMYs+AquHbjWEdMJThtRAiZi/v1t2AP7Poc/AIHWvSKiErn9QMLOPB4X4jUWDR6I+zIA1uYe3Qaxr3XKgrJQsWGw3yW3veTnlqHVSBW+keZ32BTPgwg9DTid8YB3yvYyDpiDKtrPNIKcvjgpazslP2FrNe7zK9dphc6t64mZ8QG0hBA/etOSqMBFJwSphih2ckoTzOacpO344vKNGpi0UC+vY0YszVFNgW25qK2IML4RY6g+a+2CWjRj7YE3GeVsMJdJ2NUBBBpJcMXt34e4LEtpanxYRN2MBjARJkO4+oEj9CFCNDZa+7QuHQGCTxXz7CZJ90YkZ/TbZTf/mPgzdHqv33azQvHFGM5vK0CJTMRFpOB9igN5HE/0C6BrUbTrhoYr/+oXokzZjvVJEQJqTZH8ZqKE9Wo5YcUIhfwaw9WuRzFidtrp+4QI32GNqMYxRkYvqfDaNDEtlgTTKcwwIZj+d2DQP68rRFZR+P1xs8pWrgWNxtdE1g==;fVd1gHPoFtyOLlkme15JXw=="

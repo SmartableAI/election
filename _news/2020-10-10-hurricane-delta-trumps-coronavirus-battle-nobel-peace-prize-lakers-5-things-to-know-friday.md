@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
 type: article
 quality: 113
-heat: 253
+heat: 233
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
       - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
     excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"

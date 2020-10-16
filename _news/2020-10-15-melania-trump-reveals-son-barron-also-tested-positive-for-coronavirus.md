@@ -31,115 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
+    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
+    publishedDateTime: 2020-10-16T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend"
-    excerpt: "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend."
-    publishedDateTime: 2020-10-10T08:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592092001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001"
+  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
+    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
+    publishedDateTime: 2020-10-14T13:12:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
+      name: Patch
+      domain: patch.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump: Barron 'free' of coronavirus"
-    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
-    publishedDateTime: 2020-10-15T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
-    excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
-    publishedDateTime: 2020-10-12T02:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
-    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
-    publishedDateTime: 2020-10-06T09:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
-    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
-    publishedDateTime: 2020-10-16T09:18:00Z
-    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
-    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
-    type: article
-    provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 90
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
-    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
-    publishedDateTime: 2020-10-15T12:32:00Z
-    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
-    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
-        width: 1024
-        height: 682
+      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
 
 secured: "1WAPgltwJ0zMLNpPw92Jt1j1WGLUsHWZzFEW+TDPbt3oW6jnCxeY/k7dLXSFWT5dMyVtQBN37q0SEohvJz7q5osDoY3jZmwdf2MQelGMS4pACrorp8LMzpH4Z90RrixA+FK35nA3dCbcxocafXCFg9Igvf5XQEW1yKy+LG9CC6DYBfP7iHkTIXq+2rCVnTzp/UwTao07ar1lDKkB4ZguD9jNNhvsubS7sVS1waqt1wVP81SvWPdxUVAfHwjg8J0jFDdVvrzZHFKqnUtou+wsggnHbAwEjnQ1wuA03iPk5ORlQ/0gZoAgr+dMRL4tHFLzf6irQQMOcvDfmoxcdaDeGI7nuJd7yW1qOvcSRcEwfv0=;9pb8e0HstaLuYRqSRWAWkA=="

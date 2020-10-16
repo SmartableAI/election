@@ -56,6 +56,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump struggles with crackpot conspiracy theories at townhall event"
+    excerpt: "Pressed on some of the most insidious conspiracy theories of his presidency, Trump's answers were dishonest, wrong, and shameful."
+    publishedDateTime: 2020-10-16T12:25:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-crackpot-conspiracy-theories-townhall-event-ncna1243700"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3420688/201016-trump-town-hall-mc-1209_5d63673c3b1e31b18ad2d61e65e8cbba.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7CLSyb4EadC3Xyi1hV0r8dE2sPuXrK2918tAYgQIAH56b8c/lIgN436gEvbM3CET1o1rw5UiDkXT7ZTZVXBs9wsCemuqofROlHPEOrE2jcEvO6X+2BLdT1YAapsiGgrVTXJhAGHqj+0A9HFkxyLUnIG4lxqppc40b4sO5VYmYNNdL93QShOCOmwjVfVDaHV7+qRL98KQg5lvqtgBQKmfKaB1s46N+jsCERjViHNjsNYITJdgY6+sF5aJPP5fKiN9MDqUuo6XQSPyTJmAZUi6CDREpkv3RBqBf5YJJOLdz5tmAQw0VA1NWQ2TQ1yY5OXmH7lxXCd48CbV2V87CKM7ZFBBv13oJD5JiFaSnrrKqq22vpKIHoVax10VTiVQfo4HKSjXN0qdxc/+lxszVz51I/GFGOvbSsmKe0XzQhMmBnJZtAIwXDU+b5LdMnB4AiSx/2nD9UYr3Wx0DQ0kYPLRHKZU6cryu8ZOcoyqsysY/wP0q1WxBXStk+ETuxH2QX7dEYM0knBP5cDKAtse19OR9g==;Og8So2LzaLJi3ucsrktnUg=="
 ---

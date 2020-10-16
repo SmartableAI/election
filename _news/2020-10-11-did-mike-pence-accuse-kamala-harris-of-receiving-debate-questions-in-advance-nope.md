@@ -1036,22 +1036,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Trump retweets satirical news story about Joe Biden and Twitter"
-    excerpt: "Trump likes to denounce alleged \"fake news,\" but he retweeted a story Friday from a satirical news site Babylon Bee."
-    publishedDateTime: 2020-10-16T11:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/donald-trump-retweets-babylon-bee-attack-joe-biden-twitter/3675923001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3675923001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3675923001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/5559ae1e-6ec7-4ef6-9a4e-55fa25530231-AP20290022795101.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1147,6 +1131,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/i9rXDr7OLT42ueeJ85Gg8M3PlS4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6UZHGPTGFTSXJQAQBHPRLG4IOU.jpg"
         width: 1200
         height: 838
+        isCached: true
+  - title: "2020 election live updates: Trump, Biden answer to voters at town halls, Trump tweets satirical news site"
+    excerpt: "After answering to voters in town halls Thursday, both will stump in key states Friday, with Biden in Michigan and Trump in Florida and Georgia."
+    publishedDateTime: 2020-10-16T12:42:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/2020-election-updates-after-town-halls-trump-biden-hit-swing-states/5969977002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969977002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969977002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 138
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/92a9cfcb-828c-4b39-b3a6-8822c04f78b0-desk_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump and Biden to headline dueling town halls, as early voters swamp polls"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden will hold dueling prime-time town halls instead of a second presidential debate on Thursday, as Americans continued to swamp polling places in states allowing early in-person voting."
@@ -1403,6 +1403,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Analyzing Trump and Biden's competing town halls, 18 days before election day"
+    excerpt: "President Donald Trump and Democratic Presidential nominee Joe Biden took part in competing town halls, after the president pulled out of the scheduled debate when it changed to a virtual format. CBS News chief Washington correspondent Major Garrett joined \"CBS This Morning\" to discuss how each candidate did,"
+    publishedDateTime: 2020-10-16T12:17:00Z
+    webUrl: "https://www.cbsnews.com/video/analyzing-trump-and-bidens-competing-town-halls-18-days-before-election-day/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 132
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/173c589f-bec4-4d49-94a6-d29cc19c5787/thumbnail/1200x630/39d11be6acd20e7064c77daaa43cb004/cbsn-fusion-analyzing-trump-and-bidens-competing-town-halls-18-days-before-election-day-thumbnail-567104-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden says October 15 presidential debate should not take place if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday he and President Donald Trump should not have their scheduled debate on Oct. 15 if Trump still had the coronavirus infection at that time."
@@ -2227,6 +2241,22 @@ related:
     quality: 118
     images:
       - url: "https://i.insider.com/5f86ee5dfd1f49001964d860?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump appeared to fall for a satirical post which joked that Twitter shut itself down to stop criticism of Joe Biden"
+    excerpt: "The president tweeted an article by The Babylon Bee which joked that Twitter shut down its entire network to defend Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-16T12:25:00Z
+    webUrl: "https://www.businessinsider.com/trump-tweet-satire-post-twitter-shut-down-defending-biden-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tweet-satire-post-twitter-shut-down-defending-biden-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tweet-satire-post-twitter-shut-down-defending-biden-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5f8983a6d260780019341c59?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -3055,6 +3085,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Diddy Slams Donald Trump While Endorsing Joe Biden: White Men 'Need To Be Banished'"
+    excerpt: "Diddy spoke about the upcoming election and officially endorsed Joe Biden while slamming President Donald Trump. But some netizens did not like his statement against the POTUS."
+    publishedDateTime: 2020-10-16T11:48:00Z
+    webUrl: "https://www.ibtimes.com/diddy-slams-donald-trump-while-endorsing-joe-biden-white-men-need-be-banished-3063093"
+    ampWebUrl: "https://www.ibtimes.com/diddy-slams-donald-trump-while-endorsing-joe-biden-white-men-need-be-banished-3063093?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/diddy-slams-donald-trump-while-endorsing-joe-biden-white-men-need-be-banished-3063093?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 94
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/26/hip-hop-mogul-sean-diddy-combs-hit-out.jpg"
+        width: 512
+        height: 768
+        isCached: true
   - title: "Who won vice presidential debate? Kamala Harris? Mike Pence? The fly? Will it matter?"
     excerpt: "The vice-presidential debate between Mike Pence and Kamala Harris on Wednesday featured little of the interruptions, attacks and chaos that marred the first confrontation between President Donald Trump and former Vice President Joe Biden."
     publishedDateTime: 2020-10-08T13:12:00Z
@@ -3439,6 +3485,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump retweets satirical news story about Joe Biden and Twitter"
+    excerpt: "Trump likes to denounce alleged \"fake news,\" but he retweeted a story Friday from a satirical news site Babylon Bee."
+    publishedDateTime: 2020-10-16T11:32:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/10/16/donald-trump-retweets-babylon-bee-attack-joe-biden-twitter/3675923001/"
+    ampWebUrl: "https://amp.freep.com/amp/3675923001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3675923001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/5559ae1e-6ec7-4ef6-9a4e-55fa25530231-AP20290022795101.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TV gives viewers a split-screen comparison of Trump, Biden"
     excerpt: "Instead of the expected debate between President Donald Trump and Democrat Joe Biden, television viewers were left Thursday with what ABC's David Muir called “split-screen America.” Biden participated in a 90-minute town hall from Philadelphia on ABC,"
     publishedDateTime: 2020-10-16T11:37:00Z
@@ -3502,6 +3564,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TLJCNCQZYJG4NO2SDHZSCZWSXM.jpg"
         width: 5433
         height: 3793
+        isCached: true
+  - title: "Kamala Harris Has Great Response to the Fly on Vice President Mike Pence's Head During Debate"
+    excerpt: "The fly on Vice President Mike Pence's head was the elephant in the room during last week's vice presidential debate, but did his opponent, Sen. Kamala Harris, notice it? The California senator was finally asked about the now-infamous insect during an appearance on MSNBC's The Rachel Maddow Show this week."
+    publishedDateTime: 2020-10-16T12:58:00Z
+    webUrl: "https://www.etonline.com/kamala-harris-has-great-response-to-the-fly-on-vice-president-mike-pences-head-during-debate-154903"
+    ampWebUrl: "https://www.etonline.com/kamala-harris-has-great-response-to-the-fly-on-vice-president-mike-pences-head-during-debate-154903?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/kamala-harris-has-great-response-to-the-fly-on-vice-president-mike-pences-head-during-debate-154903?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 89
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-10/eto_trending_vp_debate_100820vidpic.jpg?h=d1cb525d&itok=9EgSgzyU"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Tells Dangerous Lie That Joe Biden and Democrats Want to Kill Babies"
     excerpt: "Fresh out of Walter Reed Hospital, and down double digits in recent polls, President Donald Trump appears to be reaching deep into his bag of political tricks to get back into a presidential election"

@@ -168,6 +168,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Candidates: Joe Biden’s Plans"
+    excerpt: "In the second part of our look at the presidential candidates’ policies, we explore Joe Biden’s plans for a crisis presidency."
+    publishedDateTime: 2020-10-16T10:18:00Z
+    webUrl: "https://www.nytimes.com/2020/10/16/podcasts/the-daily/joe-biden-policies-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/16/podcasts/the-daily/joe-biden-policies-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/podcasts/the-daily/joe-biden-policies-election.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/16/world/16daily-1/16daily-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
     excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
     publishedDateTime: 2020-10-09T21:39:00Z
@@ -200,15 +216,6 @@ related:
         width: 2500
         height: 1563
         isCached: true
-  - title: "Grit Your Teeth, Vote for Joe Biden and Then, Fingers Crossed, Push Him Hard to Do Better"
-    excerpt: "There is no sane alternative, but his outlook is the same old centrist proactive-fear-of-prompting-a-backlash-with-too-much-progressivism that got us here in the first place."
-    publishedDateTime: 2020-10-16T07:10:00Z
-    webUrl: "https://www.thedailybeast.com/grit-your-teeth-vote-for-joe-biden-and-then-fingers-crossed-push-him-hard-to-do-better"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 36
 
 secured: "g3mdrLeDdUvy5AS+oCxQ3EkhLnoFw3lxcCprhrNDLjZwnaONy8g1nyi4h2vV0xImrEUv3VP8I0tTGnTwyieB8BU8mq5xZzpKF38V5C+r2iJgjdJzk8Fcq++PSNCu7wuNzW59Kr4KKLmkZTq1wg+X+RZMjsHx7i+NuzFNV7OQ++BIW7ZWzcyekMQyl2flrJsXpJ57d0GK7Prlw4HN2DIzwAMUbiI8lxRR5lb2+VWIhB7wp42B86KGU1i/7ItdEiaGqFp5iC1Br/DPEf8et3TuAaTbqm31brpKJUa5oxxD2xi+uWygya7Sn5wGQWqqAUetXhLddujjuEatUdiVimcKdDr8TnHM+syHu7iEaKkNl5ElvVs0unbCvH6ycBCl4DRJX+0vBwiid2WCaVV6/o4uGGImIepjEWPK9J7w39PTihHP7gyHUICvOGxLIDO7wK6oVDr+7NLWHNNv3yn6soXDWsME29f8pExV0vEn7zEcugYGJAq6RdFGpKzdmMAVmJnBWoRzTBqwJuYVVtEmorzYYw==;nT2YkObIjRF4m89hsJqSgw=="
 ---

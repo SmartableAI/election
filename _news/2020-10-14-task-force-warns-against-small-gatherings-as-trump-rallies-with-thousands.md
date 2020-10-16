@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump struggles with crackpot conspiracy theories at townhall event"
+    excerpt: "Pressed on some of the most insidious conspiracy theories of his presidency, Trump's answers were dishonest, wrong, and shameful."
+    publishedDateTime: 2020-10-16T12:25:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-struggles-crackpot-conspiracy-theories-townhall-event-ncna1243700"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3420688/201016-trump-town-hall-mc-1209_5d63673c3b1e31b18ad2d61e65e8cbba.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘Daily Show’s’ Trevor Noah Rips Trump and Rudy’s Lame ‘October Surprise’"
     excerpt: "If these were my sons,” the “Daily Show” host said of Eric and Don Jr., “I’d maintain a strict ‘kids are off-limits’ policy.”"
     publishedDateTime: 2020-10-16T04:36:00Z

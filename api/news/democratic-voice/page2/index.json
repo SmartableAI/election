@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-10-the-hunt-for-michigans-lost-democrats-can-biden-lure-them-back.md",
+      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
+      "excerpt": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_41/3418883/201009-michigan-democrats-mn-1304_e23e089ca533a52caa24227b46e84fd2.jpg",
+          "width": 8256,
+          "height": 5202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242711",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242711",
+      "publishedDateTime": "2020-10-10T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-10-the-president-is-likely-toast-trumps-woes-raise-gop-fears-of-a-blue-wave.md",
       "title": "'The president is likely toast': Trump's woes raise GOP fears of a blue wave",
       "excerpt": "\"The president has had possibly the worst two-week stretch that a candidate could have going into the final month of an election,\" one Republican strategist said.",
@@ -641,7 +698,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 358,
+      "heat": 338,
       "tags": null,
       "images": [
         {
@@ -1641,63 +1698,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-05-russians-have-committed-to-not-interfering-in-elections-trump-aide-insists.md",
-      "title": "Russians ‘Have Committed’ to Not Interfering in Elections, Trump Aide Insists",
-      "excerpt": "Robert C. O’Brien, the national security adviser, said he warned his Russian counterpart there would be “no tolerance” for interference, but didn’t mention evidence of Moscow’s influence operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/04/us/04dc-russia-foto/04dc-russia-foto-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/us/politics/russia-election-interference.amp.html",
-      "publishedDateTime": "2020-10-04T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

@@ -96,86 +96,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Commission cancels second debate between Trump and Biden"
-    excerpt: "The Commission on Presidential Debates on Friday canceled the second debate between Donald Trump and Joe Biden after the President declined to do a virtual debate despite concerns over his Covid-19 diagnosis, organizers said.\n    \n"
-    publishedDateTime: 2020-10-09T23:14:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9b5jLCxypg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/second-presidential-debate-canceled/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/second-presidential-debate-canceled/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002091918-01-trump-biden-debate-0929-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "5 things to look for in tonight's Trump and Biden town halls"
-    excerpt: "Competing town halls on Thursday night will have President Donald Trump and his Democratic challenger, Joe Biden, facing tough questions from voters, but viewers at home will be forced to choose which one to watch live.\n    \n"
-    publishedDateTime: 2020-10-15T10:04:52Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zubzjULaq7w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917215331-trump-biden-town-hall-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How to watch tonight's Trump and Biden town halls "
-    excerpt: "President Donald Trump and former Vice President Joe Biden are expected to participate in competing town halls on Thursday, the same day both presidential candidates were originally scheduled to debate.\n    \n"
-    publishedDateTime: 2020-10-15T16:35:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nyNJnc_-eJM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/how-to-watch-presidential-town-halls/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/how-to-watch-presidential-town-halls/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200807071226-trump-biden-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking the Trump and Biden town halls"
-    excerpt: "President Donald Trump and Democratic nominee Joe Biden will participate in head-to-head town halls Thursday night.\n    \n"
-    publishedDateTime: 2020-10-16T01:52:02Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBcpNeQW8s4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-biden-town-halls-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-biden-town-halls-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump and Biden face tough questions in simultaneous town halls"
-    excerpt: "President Donald Trump and former Vice President Joe Biden will participate in dueling town halls on Thursday, hoping to connect with voters as Covid-19 cases soar across the US and the President looks for a game-changing moment in a shaky reelection bid.\n    \n"
-    publishedDateTime: 2020-10-16T01:50:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aP6clfpvmwk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "First Trump-Biden debate to focus on Supreme Court, coronavirus and race"
     excerpt: "The first presidential debate between President Donald Trump and Democratic nominee Joe Biden will focus on a number of topics, including the coronavirus pandemic, the Supreme Court and the racial reckoning in the country, the debate commission announced on Tuesday.\n    \n"
     publishedDateTime: 2020-09-22T18:10:03Z
@@ -208,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden enters final weeks in commanding position as Trump wastes precious days"
-    excerpt: "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory while Trump struggles to defend must-win states.\n    \n"
-    publishedDateTime: 2020-10-10T22:28:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q8NFmNRyv38/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 187
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Why Biden and Trump are fighting over one electoral vote in Nebraska "
     excerpt: "Some states, it seems, get all the attention in presidential elections. You probably know most of them by now: Florida, Michigan, Pennsylvania, Wisconsin, etc.\n    \n"
     publishedDateTime: 2020-09-19T11:01:40Z
@@ -253,22 +157,6 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200714162758-bubonic-plague-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden campaigns on strengthening the Affordable Care Act as Trump undermines it"
-    excerpt: "President Donald Trump is seeking to paint Joe Biden's health care plan as socialized medicine that would eliminate private insurance coverage.\n    \n"
-    publishedDateTime: 2020-10-15T11:07:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8q5n0t9_zC4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 186
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001093441-joe-biden-0918-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -750,54 +638,6 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "Trump’s ‘Frack’ Attack on Biden Seems to Be Falling Short"
-    excerpt: "President Trump has made fracking a \"Hail Mary\" attack on Joe Biden in the industrial Midwest, but three weeks before Election Day, it does not seem to be working."
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/13/climate/13CLI-BIDENFRACKING1/13CLI-BIDENFRACKING1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden, Trump appear in dueling town halls"
-    excerpt: "Each will hold nationally televised town halls at the same time on different networks on a night that was originally scheduled to hold the second presidential debate. The debate was canceled after Trump backed out because he objected to the Commission on Presidential Debates' decision to make the event a virtual debate."
-    publishedDateTime: 2020-10-15T21:45:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-appear-dueling-town-halls-n1243480"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243480"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243480"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420217/201014-presidential-town-hall-main-bar-cs_70d89a5ff9d5588001b9d92cac8f5188.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
-  - title: "Trump and Biden town halls: highlights and analysis"
-    excerpt: "Trump and Biden's dueling town halls. Trump and Biden were in different cities for the dueling town halls Thursday that replaced their debate. But they may as wel"
-    publishedDateTime: 2020-10-16T05:39:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/trump-biden-town-halls-start-time-how-watch-live-updates-n1243511"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1243511"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1243511"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420160/201014-presidents-town-hall-live-blog-cs_cf832691e86ca2039abdc1a60af3f2be.jpg"
-        width: 2500
-        height: 1250
-        isCached: true
   - title: "'The Department of Trump': Biden bashes Trump, Barr for DOJ interference"
     excerpt: "\"The most dangerous thing that's happened so far is the politicization of the Department of Justice,\" Biden said."
     publishedDateTime: 2020-09-23T19:39:00Z
@@ -974,22 +814,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "The Trump Taxes Story Exposes a Glaring Hole in Biden’s Criminal Justice Platform"
-    excerpt: "A series of recent reports on President Donald Trump’s finances raises reasonable questions about whether Trump may have committed criminal conduct in the course of tax evasion. The fallout also exposes a glaring hole in Joe Biden’s criminal justice platform—namely,"
-    publishedDateTime: 2020-10-10T12:29:00Z
-    webUrl: "https://www.politico.com/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
-    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 145
-    images:
-      - url: "https://static.politico.com/0c/34/67d77e274bbdb30640709c8f2c6a/pexels-karolina-grabowska-4386346-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Biden says Senate should wait to replace Ginsburg, Trump lowers flags at White House"
     excerpt: "Ginsburg's death is likely to set off a fierce political battle over filling her seat on the nine-person Supreme Court."
     publishedDateTime: 2020-09-19T02:36:00Z
@@ -1067,20 +891,6 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_39/3414412/200923-trump-selva-mn-1640_676e155a9d076329282f4915bff2cdae.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
-    excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
-    publishedDateTime: 2020-10-15T09:13:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 137
-    images:
-      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Trump takes shot at Sen. Murkowski"
     excerpt: "Privacy Policy President Donald Trump took a swipe Sunday morning at Alaska Sen. Lisa Murkowski, who is perceived as one of the GOP senators most likely to vote against Trump’s Supreme Court pick in coming weeks."
@@ -1230,20 +1040,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Debate commission cancels Oct. 15 Biden-Trump showdown"
-    excerpt: "The co-chair of the Commission on Presidential Debates had rejected efforts by Trump’s campaign to clear him for in-person participation in the town hall-style forum."
-    publishedDateTime: 2020-10-10T01:01:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2020/10/09/debate-commission-cancels-oct-15-biden-trump-showdown-1323100"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/04/c8/555b349c44279927580db54b7239/200929-debate-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Biden labels Trump a ‘climate arsonist,’ accusing him of not heeding science"
     excerpt: "The Democratic nominee’s remarks were meant to address the wildfires that have been raging across Western states for three weeks."
     publishedDateTime: 2020-09-14T19:45:00Z
@@ -1357,15 +1153,6 @@ related:
     excerpt: "He has experience, now, fighting the coronavirus as an individual,” a campaign spokesperson said of Trump. “Those firsthand experiences, Joe Biden, he doesn’t have those.”"
     publishedDateTime: 2020-10-05T20:01:00Z
     webUrl: "https://www.thedailybeast.com/trump-campaign-attacks-joe-biden-for-not-having-covid-19"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 60
-  - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
-    excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
-    publishedDateTime: 2020-10-14T22:25:00Z
-    webUrl: "https://www.thedailybeast.com/nbc-staffers-seethe-as-trump-gleefully-uses-the-network-against-biden"
     type: article
     provider:
       name: The Daily Beast

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-09-16-kamala-harris-wildfires-burning-in-western-united-states-utterly-predictable.md",
+      "title": "Kamala Harris: Wildfires burning in Western United States 'utterly predictable'",
+      "excerpt": "Democratic vice presidential candidate Sen. Kamala Harris described the wildfires ravaging the Western United States as \"utterly predictable\" as she traveled to California on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "originalUrl": "https://www.upi.com/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/3241600206300/2020/1/a9a54b7532691fb9c6f03fcc1f7bb2ab/v1.5/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/09/15/Kamala-Harris-Wildfires-burning-in-Western-United-States-utterly-predictable/3241600206300/",
+      "publishedDateTime": "2020-09-15T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-in-her-three-elections-kamala-harris-has-learned-to-adapt-and-win.md",
       "title": "In her three elections, Kamala Harris has learned to adapt — and win",
       "excerpt": "Electoral innovation has consequences, and Kamala Harris has adapted three times to different ways of winning elections.",

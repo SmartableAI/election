@@ -229,6 +229,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump's Campaign Is in Total Collapse, and That Town Hall Proved It"
+    excerpt: "Joe Biden was more presidential in 90 minutes then Donald Trump has been in four long years, let alone in his 60-minute flop-sweat attempt at counter-programming."
+    publishedDateTime: 2020-10-16T13:22:00Z
+    webUrl: "https://www.thedailybeast.com/trumps-campaign-is-in-total-collapse-and-that-town-hall-proved-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "8aHQFRXg682utGLMQZ6yNsWT9E+2HylWQLabP650aonvc3gC83XWQJ39XXhVdLuQXZFt7k4Z9+5BsOniE11GWUXriSb8F8lD1OgwSQHOeZadvg9Fm9aOTyugOENeyrhJTARV5kBdfPDrQm0o9V14k/0NPWyRDbxS8q7Y/N3ebUympqBhcccrrx5FBNmJpv99tCpH2WvrKOmuF/QlHJszYpg+u+q5Tc/UNF7R94VXpCVJ8shjICG5R0pto48ofj4QVHEj7iWItfxwzTRaD9FCk3Eogi0TqtFJP+MBH/GNBUu4dQ7IyQEgLCFbO4uvokOdmH2WbxLeLdqxV2FFrjzI9YrthyeLpAaYgp7giHoSoOGxoLDU4foEfpBH2z7CTXqpWpaZsuTKqIM0G2XfrLs7xJzlHSWkcflvP2wdH/lJU75t8vGyIGgt47Go7Npta5I2k4/94NQ+2509BaRQVTdBQ6kBk/bzKDPJaYK3zXgtingI3k8nIxpT7H575sWpktQbH3vTqkGpbqsFBVb61eFuKA==;I11ry/PB7DH9Jf//dzM21g=="
 ---

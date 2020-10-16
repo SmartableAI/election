@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -223,6 +223,15 @@ related:
     excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"
     publishedDateTime: 2020-10-13T22:32:00Z
     webUrl: "https://www.thedailybeast.com/pro-trump-group-closes-campaign-by-shopping-dirt-on-the-lincoln-project"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Trump's Campaign Is in Total Collapse, and That Town Hall Proved It"
+    excerpt: "Joe Biden was more presidential in 90 minutes then Donald Trump has been in four long years, let alone in his 60-minute flop-sweat attempt at counter-programming."
+    publishedDateTime: 2020-10-16T13:22:00Z
+    webUrl: "https://www.thedailybeast.com/trumps-campaign-is-in-total-collapse-and-that-town-hall-proved-it"
     type: article
     provider:
       name: The Daily Beast

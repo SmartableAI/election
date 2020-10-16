@@ -330,6 +330,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
+    excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
+    publishedDateTime: 2020-10-16T13:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/524286.jpg"
+        width: 928
+        height: 696
+        isCached: true
   - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
     excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
     publishedDateTime: 2020-10-12T20:16:00Z

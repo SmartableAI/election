@@ -2,6 +2,204 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-15-pence-in-michigan-says-road-to-victory-runs-through-state.md",
+      "title": "Pence in Michigan says 'road to victory' runs through state",
+      "excerpt": "Vice President Mike Pence told a Michigan crowd Wednesday that enthusiasm on the campaign trial doesn't match polls that have Joe Biden ahead of President Donald Trump. Pence spoke outdoors to about 300 people at Lacks Enterprises in Cascade Township,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Pence-in-Michigan-says-road-to-victory-runs-15648291.php",
+      "originalUrl": "https://www.chron.com/news/article/Pence-in-Michigan-says-road-to-victory-runs-15648291.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
+          "width": 375,
+          "height": 211,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php",
+      "publishedDateTime": "2020-10-14T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election.md",
+      "title": "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election",
+      "excerpt": "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "originalUrl": "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wzzm13.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "cdnAmpWebUrl": "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "publishedDateTime": "2020-10-14T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WZZM",
+        "domain": "wzzm13.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-determined-to-avoid-hillary-clintons-fatal-campaign-blunder.md",
+      "title": "Trump determined to avoid Hillary Clinton's fatal campaign blunder",
+      "excerpt": "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp",
+      "publishedDateTime": "2020-10-14T11:58:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-sen-hawley-demands-answers-from-facebook-for-censoring-a-news-report-on-hunter-biden.md",
+      "title": "Sen. Hawley demands answers from Facebook for ‘censoring a news report’ on Hunter Biden",
+      "excerpt": "Sen. Josh Hawley, R-Mo., is demanding to know why Facebook is “censoring a news report” on Hunter Biden after the platform admitted it was limiting distribution of the story until independent fact-checkers could verify its accuracy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bztySLKHUo0/hawley-facebook-for-censoring-nypost-hunter-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bztySLKHUo0/hawley-facebook-for-censoring-nypost-hunter-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/hawley.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp",
+      "publishedDateTime": "2020-10-14T11:53:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-perry-hooper-mike-pence-won-the-vp-debate-hands-down.md",
       "title": "Perry Hooper: Mike Pence won the VP debate hands down",
       "excerpt": "Most importantly the debate confirmed that the vice president “has what it takes” to become Commander in Chief of our military.",
@@ -165,7 +363,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -325,7 +523,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2501,
+      "heat": 2521,
       "tags": null,
       "images": [
         {
@@ -707,7 +905,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 599,
+      "heat": 619,
       "tags": null,
       "images": [
         {
@@ -760,7 +958,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -1133,227 +1331,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-will-be-released-before-election.md",
-      "title": "Tara Reade penning memoir on coming forward as a Biden accuser, will be released before election",
-      "excerpt": "Tara Reade is writing a memoir about the turbulent journey she has taken since coming forward with her 1993 sexual assault allegation against her former boss Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tI1hfsMtCxM/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tI1hfsMtCxM/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 477,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Image-from-iOS-9.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tara-reade-penning-memoir-on-coming-forward-as-a-biden-accuser-set-for-october-release.amp",
-      "publishedDateTime": "2020-10-13T12:55:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks.md",
-      "title": "Jim Acosta responds to pro-Trump crowd chanting 'CNN sucks'",
-      "excerpt": "CNN's Chief White House Correspondent Jim Acosta responded to a pro-Trump crowd chanting \"CNN sucks\" at a rally for President Trump in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/520825-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks",
-      "originalUrl": "https://thehill.com/homenews/media/520825-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/acostajim_041819gn_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/520825-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/520825-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks?amp",
-      "publishedDateTime": "2020-10-13T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-ivanka-trump-campaigns-in-wisconsin-georgia-3-weeks-before-election-day.md",
-      "title": "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day",
-      "excerpt": "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp",
-      "publishedDateTime": "2020-10-13T12:01:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trump-attorneys-ask-supreme-court-for-stay-in-manhattan-das-tax-case.md",
-      "title": "Trump attorneys ask Supreme Court for stay in Manhattan DA's tax case",
-      "excerpt": "The president’s attorneys argue that the DA’s subpoena for his tax documents is 'overbroad' and lacks 'good faith.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-attorneys-ask-supreme-court-stay-manhattan-da-s-tax-n1243207",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-attorneys-ask-supreme-court-stay-manhattan-da-s-tax-n1243207",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_42/3419820/201013-donald-trump-florida-jm-1413_ae797ea12ee1e8ec3d62f1ab8af6c82b.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243207",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243207",
-      "publishedDateTime": "2020-10-13T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Column: Big Tech slaps The New York Post to shield Joe Biden"
+    excerpt: "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine."
+    publishedDateTime: 2020-10-16T10:06:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg"
+        width: 1200
+        height: 797
+        isCached: true
   - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
     excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
     publishedDateTime: 2020-10-16T01:14:00Z
@@ -47,69 +63,53 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
-    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
-    publishedDateTime: 2020-10-15T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
+  - title: "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden"
+    excerpt: "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do."
+    publishedDateTime: 2020-10-15T09:30:00Z
+    webUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
-        width: 817
-        height: 545
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
-    excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
-    publishedDateTime: 2020-10-13T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+  - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
+    excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463"
+    ampWebUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 108
+    images:
+      - url: "https://d.newsweek.com/en/full/1653127/hunter-biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
+    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
+    publishedDateTime: 2020-10-15T11:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
     quality: 73
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-13T10:03:00Z
-    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-14T06:03:00Z
-    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "F5HC/VcyoQu1qVvLxjuOiZsGyAVc2aYS2vdxoW4MSP0HrC7cirtDElKG2GYFNXKuL8DXNpCn7tK0717gIHwOJis5+pv6FuLmdKtEjR3mMcnxtMRnst7n9r0lgVuAG/tBs1oWmMEariWGz4MTz1VtKu4TfPAAFsLGrPQkDlsKAzLOD/6vbcODLZ1KKgu3bV7GkiTheGiVIzh6BksxOC67VNzjwLZuYy6bGs2ZIFYspXZOGGJ6uXSbB/tbIBtxMEj1cxgqZyl7ZAEeAtrXGx/SBEHpgGNeN8LbKcFHpksg295MXBLLVl5HKbqwJ/K81CZyhA+E2kxU3nV3q2KIo4U4VWBadUPyx43P9YYbzDX+N35qmADD6STYaY48nSVURcQJiqDTBZOurwjNcDgtqgMcLQRGfYqSG6Rm0+b8TIAKEnDywlHZ4GkB1DPDwvLdPbdPAf3Qv+1aN0wYugOeqgkV09FLfedyGZQVsvRxbZDO1NzGc/hjsIGEUOXtZhASzEWLpD2iam48IeUTGq7xmBQ5CQ==;GQNubD0quTVtKSILCTxyRg=="

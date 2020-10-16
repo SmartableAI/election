@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-pr
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Senator Ben Sasse slams Trump, saying he \"kisses dictators' butts\""
+    excerpt: "Republican Senator Ben Sasse slammed President Trump's behavior in a town hall with constituents this week, saying that he \"kisses dictators' butts,\" mishandled the coronavirus pandemic and spends \"like a drunken sailor."
+    publishedDateTime: 2020-10-16T13:18:00Z
+    webUrl: "https://www.cbsnews.com/news/ben-sasse-trump-criticism-covid-19-response-dictators/?ftag=CNM-00-10aab7e"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ben-sasse-trump-criticism-covid-19-response-dictators/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ben-sasse-trump-criticism-covid-19-response-dictators/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2018/10/04/720cabb1-b437-40ca-94ec-bedc381d040c/thumbnail/1200x630/e39773bdb1367071270db1159c91b30e/rts236fi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Slamming Trump, GOP Sen. Ben Sasse warns of a ‘Republican bloodbath’ in Senate"
     excerpt: "Sasse castigated Trump in a telephone town hall with constituents, accusing the president of bungling the response to the coronavirus pandemic and cozying up to dictators and white supremacists."
     publishedDateTime: 2020-10-16T01:35:00Z

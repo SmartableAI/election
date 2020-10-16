@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-rudy-giulianis-daughter-says-to-vote-for-biden-and-harris-to-end-trumps-reign-of-terror.md",
+      "title": "Rudy Giuliani's daughter says to vote for Biden and Harris to end Trump's 'reign of terror'",
+      "excerpt": "Caroline Giuliani, the daughter of President Donald Trump's personal attorney and former New York City mayor Rudy Giuliani, is urging Americans to \"end this nightmare\" by voting for Democratic nominee Joe Biden and his running mate Kamala Harris.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 685,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016074545-01-caroline-giuliani-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html",
+      "publishedDateTime": "2020-10-16T06:40:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-and-biden-and-americas-two-polarized-political-realities-live-on-prime-time.md",
       "title": "Trump and Biden and America's two, polarized political realities live on prime time",
       "excerpt": "More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim.\n    \n",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 524,
+      "heat": 444,
       "tags": null,
       "images": [
         {
@@ -294,7 +351,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -463,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1230,
+      "heat": 1250,
       "tags": null,
       "images": [
         {
@@ -631,7 +688,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 435,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1082,7 +1139,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1624,63 +1681,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-the-hunt-for-michigans-lost-democrats-can-biden-lure-them-back.md",
-      "title": "The hunt for Michigan's lost Democrats: Can Biden lure them back?",
-      "excerpt": "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
-      "originalUrl": "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_41/3418883/201009-michigan-democrats-mn-1304_e23e089ca533a52caa24227b46e84fd2.jpg",
-          "width": 8256,
-          "height": 5202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1242711",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242711",
-      "publishedDateTime": "2020-10-10T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

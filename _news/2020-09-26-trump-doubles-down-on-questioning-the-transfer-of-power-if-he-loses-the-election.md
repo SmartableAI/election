@@ -175,6 +175,22 @@ related:
         width: 768
         height: 545
         isCached: true
+  - title: "Vice President Mike Pence to continue campaigning despite Trump COVID diagnosis"
+    excerpt: "WASHINGTON – Vice President Mike Pence plans to continue campaigning, after his doctor determined Friday that he does not meet federal quarantine guidelines despite some interaction with ..."
+    publishedDateTime: 2020-10-02T12:20:03Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/02/vice-president-mike-pence-and-his-wife-test-negative-covid-19/5892854002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5892854002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5892854002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/27/USAT/d8aadfb5-ce2c-4193-9a0a-0654b71cb8a4-family_shot.jpg?auto=webp&crop=4625,2602,x0,y171&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
     excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
     publishedDateTime: 2020-10-04T00:30:00Z

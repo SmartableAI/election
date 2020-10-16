@@ -94,6 +94,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
+    excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
+    publishedDateTime: 2020-10-16T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQhhqTsPca4/trump-campaign-september-fundraising-still-short-biden-haul"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
+    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
+    publishedDateTime: 2020-10-16T13:31:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden reiterates plan to convince Americans to wear masks"
     excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
     publishedDateTime: 2020-10-16T00:54:06Z
@@ -290,6 +322,17 @@ related:
         width: 1020
         height: 764
         isCached: true
+  - title: "Joe Biden was not asked any questions about Hunter Biden's emails during ABC town hall"
+    excerpt: "Former Vice President Joe Biden was not asked one question in a Thursday night town hall about a highly publicized news story involving his son Hunter’s business dealings in Ukraine."
+    publishedDateTime: 2020-10-16T02:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
 
 secured: "K/q9aUuFpsoX6rVGy7CgKQQsZhs15QlglYim9rksmw1rPxazH+TUOXbe9IWBgntnlVwqShHnfgkLwQdOceY0Hxdux4gdAoe9ZGII1U5UZy3X0V6VsB5sJX/RgJ4zSvmUCPR2u3quPvWhrp5HDLviNVdQASJTuE/TQh/OMou7SCEi2R6gWOsR+PXCIDxhA+jVR5LI1W4fx8g7vyzFAKbqd56+LdwhP0LlK+ldYUEyxBTAi2GNkgjBdYCOyZaDNc+7UBdgXR8r82e5tPjBaHjnyGC7g1qe2eXEL7KCbCK6+B9XPZKU/uak7o8ALrHqO/v4bdwws76onl9NMZq4tFcIq9kq/26zz2mpqSVmgxw8hkA=;VNru22prLmsj5bVfCU4osw=="
 ---

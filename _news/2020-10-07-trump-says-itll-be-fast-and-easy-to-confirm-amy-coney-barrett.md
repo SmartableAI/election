@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-fast-confirm-amy-coney-barret
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fast-confirm-amy-coney-barrett.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump: Convincing Susan Collins to confirm Amy Coney Barrett 'not worth the work'"
+    excerpt: "President Trump on Friday said convincing Republican Sen. Susan Collins to vote in favor of his Supreme Court nominee Judge Amy Coney Barrett is “not worth the work,” noting that the senator from Maine has not supported him on other issues in the past."
+    publishedDateTime: 2020-10-16T13:34:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7pj0yGBpXBw/trump-susan-collins-amy-coney-barrett-confirmation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-susan-collins-amy-coney-barrett-confirmation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-susan-collins-amy-coney-barrett-confirmation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Amy Coney Barrett distances herself from Trump tweets, says she won't be anyone's 'pawn'"
     excerpt: "Amy Coney Barrett distanced herself on Tuesday from President Trump's public requests of his Supreme Court nominee and told the Senate Judiciary Committee that the commander-in-chief never asked her how she'd rule on abortion and the Affordable Care Act."
     publishedDateTime: 2020-10-13T23:59:53Z

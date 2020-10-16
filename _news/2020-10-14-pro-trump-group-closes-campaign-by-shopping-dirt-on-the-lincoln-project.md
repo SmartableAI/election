@@ -228,6 +228,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's Campaign Is in Total Collapse, and That Town Hall Proved It"
+    excerpt: "Joe Biden was more presidential in 90 minutes then Donald Trump has been in four long years, let alone in his 60-minute flop-sweat attempt at counter-programming."
+    publishedDateTime: 2020-10-16T13:22:00Z
+    webUrl: "https://www.thedailybeast.com/trumps-campaign-is-in-total-collapse-and-that-town-hall-proved-it"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "92QcTg2YWVK/mFf53H8RSso+nS28BFFCosOeFyaluHY7Nbu8nhs8QMkMw5Q1JmcCZGdNksUE1Z6T8TFen3pqmsLL83VP6lDcQuUkBajo3dBFAsv5FrKIla90v5IbU4ESpgdf+XqnNSSmwYctj9ojrvHZEwK3To5y90azUZn8+kRP8nxu71LFG2sme2Jc4GfOq3+H8NCaJzlLipqk5ohQBfl+xyiHl7zz7J49NfXKVGN0Hm208hDyTQGACw+DC0zbOaYRmoUKDpOOTNXlc1/a0BZRyNUFV2uCsRd90By0AWeF8+2n1JS1ebXLpcJ2GdI24dEKSD4DV+leYffp6W5ussIRpEN6tovfFLVaOsUwppS+uw1tngbQr4ZXuGTtp3SrJ3pcwKXKa+CVEs7+OlY1i3IC2kfN9ehss/tki4JL16D2PZuvslsBiwJJEkqPMy1P/Se7GVZ3uz4RTjef+SY2ryWa23Og9jXqP/2Ev4m1dQRuZO3wOLzUTl3NRzV1OY5Yzye4jcJuhUgaK+gGOiqVAg==;1dEzm1cbiFIhPVvjNgGqXA=="
 ---

@@ -90,6 +90,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
+    excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
+    publishedDateTime: 2020-10-16T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQhhqTsPca4/trump-campaign-september-fundraising-still-short-biden-haul"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
+    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
+    publishedDateTime: 2020-10-16T13:31:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden reiterates plan to convince Americans to wear masks"
     excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
     publishedDateTime: 2020-10-16T00:54:06Z
@@ -286,6 +318,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden was not asked any questions about Hunter Biden's emails during ABC town hall"
+    excerpt: "Former Vice President Joe Biden was not asked one question in a Thursday night town hall about a highly publicized news story involving his son Hunter’s business dealings in Ukraine."
+    publishedDateTime: 2020-10-16T02:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/joe-biden-was-not-asked-any-questions-about-hunter-bidens-emails-during-abc-town-hall?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 57
 
 secured: "khbT+MMuLKEv3ESssygmYO6DdG5BPnmpI2fj/OLrTT2Itk2YEoNQSwTLtYiGDDLVLF/xJ1ycJ598+qj1lvySeVZqo3wlSlWQIugBKrARVGlXGfRwvcnlcA3UBVcf4x3bzJzIvGRk5AQnweWYYgkIxqk5QPnpW026f9gZVBWmhf6L9Mv3M2h3jOlu1ElEIh4VtPfsygHwumPVSKeAyywpsyc4E1MxR3A6mQTlJNP7VganBWuPRXm7q4CAyX2PCKnb7KaPa+5ZfESGw9y3l7a4p7yYI4QUqVq37d+4BI2H4KBlV+cmlIALc4dEAIWzdhL8Y3hd0kzKMuoSYM7qFBDATYdkro4RtjgtQwMyonLM9469xR90wb13xAz8sthLCT6Pb6RSYRDoSRrW16nNX71vRSsnKczPLDPPNpyzRrEtTbLyFoOeyfBHIrSskXbLAnGri8d3ul82lnYEQx4dMu3+3FmtnVezEclG5sqO7ZBiZcGlnUGd+wvl6HThfyN94SBmkGcPhgnuYTjGQInNXYwLkA==;Fr1K09d2dKeH2Kd139FoOw=="
 ---

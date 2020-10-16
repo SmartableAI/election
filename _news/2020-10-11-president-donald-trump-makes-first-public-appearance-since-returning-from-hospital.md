@@ -1776,6 +1776,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 50
+  - title: "U.S. President Donald J. Trump Travels to FL for a Live NBC News Town Hall Event"
+    excerpt: "U.S. President Donald J. Trump walks to Marine One on the South Lawn of the White House on Thursday, October 15, 2020. Trump will deliver remarks at a Fundraising Committee Reception in Doral, FL.and participate in a Live NBC News Town Hall Event."
+    publishedDateTime: 2020-10-15T17:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ba90f6105c13dbf9aa54f7965a40678e/US-President-Donald-J-Trump-Travels-to-FL-for-a-Live-NBC-News-Town-Hall-Event/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 50
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ba90f6105c13dbf9aa54f7965a40678e/TRUMP-ELECTIONS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "President Donald Trump asked about maskless White House ceremony during NBC town hall"
     excerpt: "Moderator Savannah Guthrie asks President Donald Trump about a White House event where multiple attendees were seen without masks."
     publishedDateTime: 2020-10-16T02:03:00Z

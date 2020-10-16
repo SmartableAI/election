@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Biden town hall: Win or lose on Election Day, Joe Biden calls for unity and dignity"
+    excerpt: "Democratic presidential nominee Joe Biden, in a primetime town hall Thursday, made the case that Americans want more inclusion and dignity across the board, an outlook at odds with what Biden described as President Donald Trump ’s “divide and conquer” strategy."
+    publishedDateTime: 2020-10-16T02:42:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XQT4UASQ2VBOBMNUIHHH6G56NY.jpg"
+        width: 4017
+        height: 2678
         isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."

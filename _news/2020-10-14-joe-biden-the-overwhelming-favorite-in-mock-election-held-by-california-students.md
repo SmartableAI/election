@@ -145,6 +145,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Biden town hall: Win or lose on Election Day, Joe Biden calls for unity and dignity"
+    excerpt: "Democratic presidential nominee Joe Biden, in a primetime town hall Thursday, made the case that Americans want more inclusion and dignity across the board, an outlook at odds with what Biden described as President Donald Trump ’s “divide and conquer” strategy."
+    publishedDateTime: 2020-10-16T02:42:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XQT4UASQ2VBOBMNUIHHH6G56NY.jpg"
+        width: 4017
+        height: 2678
+        isCached: true
   - title: "Joe Biden Appeals for National Unity, Return to Bipartisanship"
     excerpt: "In a speech at Gettysburg, Pennsylvania, Democratic presidential candidate Joe Biden calls for national unity and a return to bipartisanship in order to get things done for the country, including combating the coronavirus pandemic."
     publishedDateTime: 2020-10-06T22:21:00Z

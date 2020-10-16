@@ -112,38 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump and Biden will participate in competing town halls on Thursday night after cancellation of second debate"
-    excerpt: "President Donald Trump will participate in a town hall with NBC News on Thursday night, the network announced.\n    \n"
-    publishedDateTime: 2020-10-14T11:56:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HteDxxoN3xo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
-    excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
-    publishedDateTime: 2020-10-10T02:13:00Z
-    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 150
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09biden-campaign1/09biden-campaign1-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Biden hits Trump on trade, economy in Ohio speech: 'He's let you down'"
     excerpt: "Joe Biden on Monday slammed President Donald Trump for having \"let down\" American workers and unions, while pledging to utilize a \"trade strategy\" that \"gets results.\" Speaking to a group of autoworkers Biden claimed Trump’s \"chaotic trade threats,"
     publishedDateTime: 2020-10-12T20:11:00Z
@@ -176,22 +144,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
-    excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
-    publishedDateTime: 2020-10-11T06:13:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Watch live: Joe Biden delivers remarks on vision for older Americans"
     excerpt: "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla."
     publishedDateTime: 2020-10-13T17:46:00Z
@@ -207,20 +159,6 @@ related:
       - url: "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/2020-10-12T190715Z_1179308835_RC27HJ9P5VQL_RTRMADP_3_USA-ELECTION-BIDEN.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
-    excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
-    publishedDateTime: 2020-10-11T09:12:00Z
-    webUrl: "https://www.politico.com/news/2020/10/11/gen-z-vote-2020-trump-biden-424571"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 130
-    images:
-      - url: "https://static.politico.com/6a/5a/3e8020b54c64b8503d65d94c2031/politco-shelikescutie-bijoukarman-final-100120.jpg"
-        width: 2320
-        height: 1546
         isCached: true
   - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
     excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."

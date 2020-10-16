@@ -2,6 +2,234 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-04-senior-adviser-biden-to-be-tested-again-sunday.md",
+      "title": "Senior adviser: Biden to be tested again Sunday",
+      "excerpt": "Symone Sanders, a senior adviser to the Biden campaign, said Sunday the campaign is not concerned about continuing events following President Donald Trump's Covid-19 diagnosis, because it is adhering to health guidelines and testing the former vice president \"regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
+      "originalUrl": "https://www.politico.com/news/2020/10/04/joe-biden-covid-testing-426006",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/74/6d/5471731740c89a4a860f39cfaf1c/apsanders.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/04/joe-biden-covid-testing-426006",
+      "publishedDateTime": "2020-10-04T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-04-jim-carrey-plays-joe-biden-in-snl-season-premiere.md",
+      "title": "Jim Carrey Plays Joe Biden in ‘S.N.L.’ Season Premiere",
+      "excerpt": "Chris Rock hosted the first live episode since “S.N.L.” was driven from its studio by the coronavirus, and the show didn’t hold back on jokes about President Trump’s diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
+      "originalUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/04/arts/04snl/04snl-facebookJumbo.jpg",
+          "width": 1000,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/04/arts/television/snl-jim-carrey-biden-premiere-chris-rock.amp.html",
+      "publishedDateTime": "2020-10-04T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-joe-bidens-other-questionable-chinese-concern-and-involvement-hollywood-part-two.md",
+      "title": "Joe Biden’s OTHER Questionable Chinese Concern and Involvement - Hollywood (Part Two)",
+      "excerpt": "This piece is part two in a series. You can read the first installment here.SELF-CENSORING THEIR OWN SELF-INTERESTSThe pandemic has created a constant stream of challenges for the studios",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
+      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2016/63/90ca6ef4-d0ce-4729-9c4a-0b1df4f8db40.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/03/joe-bidens-other-questionable-chinese-concern-and-involvement--hollywood-part-two-n2577301?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us.md",
+      "title": "Will Biden ‘Condemn’ the Stalinist Regime Whose Lifelong Obsession Is the Destruction of the US?",
+      "excerpt": "Are you willing tonight to condemn white supremacists and militia groups…” President Trump: “Sure…What do you want to call them? Give me a name.”Chris Wallace: “White supremacists and right-wing",
+      "sourceUrl": null,
+      "webUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "originalUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.townhall.com/townhall/reu/ha/2020/274/745a0700-7ead-4c6d-9c76-495705c88b3c.jpg",
+          "width": 650,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/humbertofontova/2020/10/03/will-biden-condemn-the-stalinist-regime-whose-lifelong-obsession-is-the-destruction-of-the-us-n2577371?amp=true",
+      "publishedDateTime": "2020-10-02T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Townhall",
+        "domain": "townhall.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-former-commander-of-us-forces-in-afghanistan-endorses-biden.md",
       "title": "Former commander of US forces in Afghanistan endorses Biden",
       "excerpt": "It's striking how many retired military leaders, many of whom have been apolitical for decades, have stepped up to denounce Trump, endorse Biden, or both.",
@@ -1358,219 +1586,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-gop-report-no-wrongdoing-in-biden-son-ties-to-ukraine-firm-but-still-problematic.md",
-      "title": "GOP report: No wrongdoing in Biden son ties to Ukraine firm, but still 'problematic'",
-      "excerpt": "A Senate GOP report issued Wednesday on Joe Biden's son's Hunter and his ties to a Ukrainian energy firm found only that his role was \"problematic\" for U.S. policymakers.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "originalUrl": "https://abcnews.go.com/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/johnson-burisma-hunter-biden-01-rt-llr-200923_1600877903370_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-report-wrongdoing-biden-son-ties-ukraine-firm/story?id=73192146",
-      "publishedDateTime": "2020-09-23T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-if-joe-biden-wins-will-the-democrats-pack-the-supreme-court.md",
-      "title": "If Joe Biden Wins, Will the Democrats Pack the Supreme Court?",
-      "excerpt": "It's a question that Democrats and Joe Biden really don't want to answer. Most Senate Democrats pivot to discuss their focus on winning the majority and protecting Americans' health care, which they warn could be at risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
-      "originalUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 605,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1641290/chuck-schumer.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1",
-      "publishedDateTime": "2020-09-23T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-joe-biden-condemns-polands-lgbt-free-zones.md",
-      "title": "Joe Biden condemns Poland's 'LGBT-free zones'",
-      "excerpt": "The Democratic presidential candidate shared a tweet saying such zones \"have no place in the European Union or anywhere in the world.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/joe-biden-condemns-poland-s-lgbt-free-zones-n1240757",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_39/3413979/200922-joe-biden-tampa-jm-1122_0c43ad7eab8f59458b39f4a4d11d8cd6.jpg",
-          "width": 2500,
-          "height": 1685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240757",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240757",
-      "publishedDateTime": "2020-09-23T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away.md",
-      "title": "'Despacito' isn't good enough, Joe Biden. Latino voters are slipping away",
-      "excerpt": "Trump is actively courting Latino voters while Biden is out to lunch. Alarms should be ringing at Democratic headquarters",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/cbe4a05165ec651bf6c9390fe279b0c22cef8a59/0_0_4928_3280/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=165a458bd29e4ab844c30e210c888aca",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2020/sep/23/despacito-isnt-good-enough-joe-biden-latino-voters-are-slipping-away",
-      "publishedDateTime": "2020-09-23T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -38,22 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
-    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
-    publishedDateTime: 2020-10-14T13:12:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
 
 secured: "W1ArwOZhonKY/XVD83wjFCGdV7Lgl0nAlEG6uxicmqnMwMyP7gpvQ4xNrnTb8YXZqJaccCxVBtMKeJse+dlbDnAHQGOnsRayYVlopc2hglKsC7ztgsl+ue5pzv7xiu6FXEulyVUkL9SODmrV9lExuc/MTIk/khk/tn6hvyrYTJ+zZmpXYaLVpVUqHvGoo7MRGe+r+Rym1ckc52COhgvQfgiXlP4Q8e4bdZ/xmUG/E5//boWPKPVe8/FOudsy7G2ETtUFwToYUJDm2EihXOaM40A3K0ey+ACIsn3zBEGG1APQzEkZyNMGX8n/24agRSy152H7wj0O+gef2nS5Y4TB7sKForSdptYCFLXck9unTYEoTaeftDH7EXuLWoSsd+kX/HuUCgypN9HASK0KGd+5TwXpev5xUMaqI6VWbvJ7pzot6Z3CLMjvik+4lmXKTvQRbJ3wD4rBkKWCbY7a0GoGjDxYDkBCBBOA8PHFGFZXxvl1RciyvK7BBo/b05d4vGPmLnH99iMzEaXkBArLyu361A==;8FA66Ua216rjG0mDwiBbBA=="
 ---

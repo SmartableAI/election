@@ -24,191 +24,375 @@ topics:
   - Democratic Voice
 
 related:
-  - title: "Obama to hit the campaign trail for Biden in final stretch"
-    excerpt: "Former President Barack Obama is expected to hit the campaign trail next week, Democratic officials tell CNN, as he looks to step up his work in support of his one-time partner -- former Vice President Joe Biden -- in the final stretch of the election.\n    \n"
-    publishedDateTime: 2020-10-13T23:27:04Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
+  - title: "Rudy Giuliani's daughter says to vote for Biden and Harris to end Trump's 'reign of terror'"
+    excerpt: "Caroline Giuliani, the daughter of President Donald Trump's personal attorney and former New York City mayor Rudy Giuliani, is urging Americans to \"end this nightmare\" by voting for Democratic nominee Joe Biden and his running mate Kamala Harris.\n    \n"
+    publishedDateTime: 2020-10-16T13:40:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t_UlRkADBOA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 205
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922125352-barack-obama-0819-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016074545-01-caroline-giuliani-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
-    excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
-    publishedDateTime: 2020-10-07T23:51:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
+  - title: "Commission cancels second debate between Trump and Biden"
+    excerpt: "The Commission on Presidential Debates on Friday canceled the second debate between Donald Trump and Joe Biden after the President declined to do a virtual debate despite concerns over his Covid-19 diagnosis, organizers said.\n    \n"
+    publishedDateTime: 2020-10-09T23:14:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9b5jLCxypg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/09/politics/second-presidential-debate-canceled/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/09/politics/second-presidential-debate-canceled/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002091918-01-trump-biden-debate-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The original 'Hamilton' cast will reunite to host a virtual fundraiser for Joe Biden"
-    excerpt: "The original cast of \"Hamilton\" is reuniting to put together a virtual fundraiser for Democratic nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-14T17:27:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html"
+  - title: "5 things to look for in tonight's Trump and Biden town halls"
+    excerpt: "Competing town halls on Thursday night will have President Donald Trump and his Democratic challenger, Joe Biden, facing tough questions from voters, but viewers at home will be forced to choose which one to watch live.\n    \n"
+    publishedDateTime: 2020-10-15T10:04:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zubzjULaq7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-halls-tonight/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014110142-01-hamilton-cast-2016-new-york-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200917215331-trump-biden-town-hall-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Michelle Obama releases closing campaign message: Vote for Biden 'like your lives depend on it'"
-    excerpt: "Former first lady Michelle Obama is making her closing message to Americans in a campaign video released less than one month until Election Day, imploring people to vote as she shares why she believes the stakes are so high this year.\n    \n"
-    publishedDateTime: 2020-10-06T13:48:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+  - title: "How to watch tonight's Trump and Biden town halls "
+    excerpt: "President Donald Trump and former Vice President Joe Biden are expected to participate in competing town halls on Thursday, the same day both presidential candidates were originally scheduled to debate.\n    \n"
+    publishedDateTime: 2020-10-15T16:35:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nyNJnc_-eJM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/how-to-watch-presidential-town-halls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/how-to-watch-presidential-town-halls/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 190
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002172437-michelle-obama-dnc-august-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200807071226-trump-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden campaign mulls possible 'climate czar' position"
-    excerpt: "A Biden administration would seek to rejoin the Paris Climate Accord. This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media,"
-    publishedDateTime: 2020-10-07T20:02:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+  - title: "Fact-checking the Trump and Biden town halls"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden will participate in head-to-head town halls Thursday night.\n    \n"
+    publishedDateTime: 2020-10-16T01:52:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CBcpNeQW8s4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-biden-town-halls-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-biden-town-halls-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and Biden face tough questions in simultaneous town halls"
+    excerpt: "President Donald Trump and former Vice President Joe Biden will participate in dueling town halls on Thursday, hoping to connect with voters as Covid-19 cases soar across the US and the President looks for a game-changing moment in a shaky reelection bid.\n    \n"
+    publishedDateTime: 2020-10-16T01:50:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aP6clfpvmwk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden enters final weeks in commanding position as Trump wastes precious days"
+    excerpt: "Joe Biden is in a commanding position as the presidential race enters its final stretch, leading President Donald Trump in polling and fundraising and on offense to expand his pathways to victory while Trump struggles to defend must-win states.\n    \n"
+    publishedDateTime: 2020-10-10T22:28:42Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Q8NFmNRyv38/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/10/politics/2020-election-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930101022-biden-trump-0929-debate-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaigns on strengthening the Affordable Care Act as Trump undermines it"
+    excerpt: "President Donald Trump is seeking to paint Joe Biden's health care plan as socialized medicine that would eliminate private insurance coverage.\n    \n"
+    publishedDateTime: 2020-10-15T11:07:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8q5n0t9_zC4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/joe-biden-health-care-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001093441-joe-biden-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus "
+    excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus.\n    \n"
+    publishedDateTime: 2020-10-15T20:41:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and Biden hold dueling town halls as Covid cases spike and millions cast their votes early"
+    excerpt: "President Donald Trump and former Vice President Joe Biden will participate in dueling town halls on Thursday, hoping to connect with voters as Covid-19 cases soar across the US and the President looks for a game-changing moment in a shaky reelection bid.\n    \n"
+    publishedDateTime: 2020-10-15T23:42:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aP6clfpvmwk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/nbc-abc-dueling-town-halls/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 177
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump and Biden will participate in competing town halls on Thursday night after cancellation of second debate"
+    excerpt: "President Donald Trump will participate in a town hall with NBC News on Thursday night, the network announced.\n    \n"
+    publishedDateTime: 2020-10-14T11:56:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HteDxxoN3xo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-nbc-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
+    excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
+    publishedDateTime: 2020-10-10T02:13:00Z
+    webUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/09/us/politics/biden-nevada-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/09/us/politics/09biden-campaign1/09biden-campaign1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Trump’s ‘Frack’ Attack on Biden Seems to Be Falling Short"
+    excerpt: "President Trump has made fracking a \"Hail Mary\" attack on Joe Biden in the industrial Midwest, but three weeks before Election Day, it does not seem to be working."
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/13/climate/trump-biden-fracking.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/13/climate/13CLI-BIDENFRACKING1/13CLI-BIDENFRACKING1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump hits Biden over unverified report on his son Hunter"
+    excerpt: "Trump, at a rally in Des Moines and in an interview with Newsmax, seized on an unverified report in the New York Post about Hunter Biden."
+    publishedDateTime: 2020-10-15T02:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-hits-biden-over-unverified-report-his-son-hunter-n1243491"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243491"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243491"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420307/201014-iowa-donald-trump-maga-rally-ac-1016p_0b68f878a47d50536363cc5541f72026.jpg"
+        width: 2500
+        height: 1669
+        isCached: true
+  - title: "Biden campaign: ‘Donald Trump has failed the American people’"
+    excerpt: "Symone Sanders, Senior Campaign Advisor for the Biden campaign, joins Lawrence O’Donnell to discuss the dueling Biden and Trump town halls and why this election is “a choice between the vision of Joe Biden” and the lack of leadership Trump has shown over the past four years."
+    publishedDateTime: 2020-10-16T03:45:00Z
+    webUrl: "https://www.msnbc.com/the-last-word/watch/biden-campaign-donald-trump-has-failed-the-american-people-93943877594"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93943877594"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93943877594"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 150
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_lw_sanders_201015_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden, Trump appear in dueling town halls"
+    excerpt: "Each will hold nationally televised town halls at the same time on different networks on a night that was originally scheduled to hold the second presidential debate. The debate was canceled after Trump backed out because he objected to the Commission on Presidential Debates' decision to make the event a virtual debate."
+    publishedDateTime: 2020-10-15T21:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/biden-trump-appear-dueling-town-halls-n1243480"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243480"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243480"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420217/201014-presidential-town-hall-main-bar-cs_70d89a5ff9d5588001b9d92cac8f5188.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Trump and Biden town halls: highlights and analysis"
+    excerpt: "Trump and Biden's dueling town halls. Trump and Biden were in different cities for the dueling town halls Thursday that replaced their debate. But they may as wel"
+    publishedDateTime: 2020-10-16T05:39:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/trump-biden-town-halls-start-time-how-watch-live-updates-n1243511"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1243511"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1243511"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420160/201014-presidents-town-hall-live-blog-cs_cf832691e86ca2039abdc1a60af3f2be.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "The Trump Taxes Story Exposes a Glaring Hole in Biden’s Criminal Justice Platform"
+    excerpt: "A series of recent reports on President Donald Trump’s finances raises reasonable questions about whether Trump may have committed criminal conduct in the course of tax evasion. The fallout also exposes a glaring hole in Joe Biden’s criminal justice platform—namely,"
+    publishedDateTime: 2020-10-10T12:29:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
+    ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/10/trump-taxes-biden-campaign-financial-crime-425160"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 145
     images:
-      - url: "https://static.politico.com/fe/16/ebeda94544409667c33b3c956052/201007-biden-wisc-ap-773.jpg"
+      - url: "https://static.politico.com/0c/34/67d77e274bbdb30640709c8f2c6a/pexels-karolina-grabowska-4386346-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Watch live: Biden delivers remarks in Ohio"
-    excerpt: "Watch live coverage as Democratic presidential nominee Joe Biden makes a campaign stop and delivers remarks in Cincinnati, Ohio."
-    publishedDateTime: 2020-10-12T19:32:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-delivers-remarks-in-ohio-93675589765"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93675589765"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93675589765"
+  - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
+    excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
+    publishedDateTime: 2020-10-11T06:13:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-2020-polls-proves-democrats-need-start-planning-biden-ncna1242631"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1242631"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1242631"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 145
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_ohio_remarks.nbcnews-fp-1200-630.jpg"
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
+    excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
+    publishedDateTime: 2020-10-15T09:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/donald-trump-joe-biden-town-halls-underscore-america-s-parallel-ncna1243481"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 137
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden campaign lashes out at New York Post"
-    excerpt: "The campaign cast the allegations against Joe and Hunter Biden as “Russian disinformation,” while Republicans complained that social media companies were censoring the story."
-    publishedDateTime: 2020-10-15T06:09:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/14/biden-campaign-lashes-out-new-york-post-429486"
+  - title: "Debate commission cancels Oct. 15 Biden-Trump showdown"
+    excerpt: "The co-chair of the Commission on Presidential Debates had rejected efforts by Trump’s campaign to clear him for in-person participation in the town hall-style forum."
+    publishedDateTime: 2020-10-10T01:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/09/debate-commission-cancels-oct-15-biden-trump-showdown-1323100"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://static.politico.com/3e/8e/8776f73b488ba55987c853611cd9/biden.jpg"
+      - url: "https://static.politico.com/04/c8/555b349c44279927580db54b7239/200929-debate-trump-getty-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "'Hamilton' cast to host virtual fundraiser for Joe Biden's campaign"
-    excerpt: "The world may be turned upside down, but the “Hamilton” cast is not letting Joe Biden throw away his shot. Biden’s presidential campaign announced Monday night that it will be holding a virtual grassroots fundraiser with the cast of the hit musical on Oct."
-    publishedDateTime: 2020-10-15T08:50:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/hamilton-cast-host-virtual-fundraiser-joe-biden-s-campaign-n1243226"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243226"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243226"
+  - title: "Anti-Trump, but not fully for Biden: Will Gen Z vote?"
+    excerpt: "Young people hold the key to many states. They're also navigating a confusing voting process and aren't sold on the Democratic nominee."
+    publishedDateTime: 2020-10-11T09:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/11/gen-z-vote-2020-trump-biden-424571"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 130
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_20/3346401/200512-hamilton-al-1112_c856a6acd5b1adf1863e270d3441f211.jpg"
-        width: 2500
-        height: 1839
+      - url: "https://static.politico.com/6a/5a/3e8020b54c64b8503d65d94c2031/politco-shelikescutie-bijoukarman-final-100120.jpg"
+        width: 2320
+        height: 1546
         isCached: true
-  - title: "Biden asked about transgender rights by mother with a transgender child"
-    excerpt: "Joe Biden was asked by a mother with a transgender child what his views on transgender rights are during a town hall in Philadelphia. Biden assured \"there should be zero discrimination.\""
-    publishedDateTime: 2020-10-16T01:57:00Z
-    webUrl: "https://www.nbcnews.com/video/biden-asked-about-transgender-rights-by-mother-with-a-transgender-child-93940293641"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93940293641"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93940293641"
+  - title: "Why Trump's desperate 'Bidengate' Hail Marys keep backfiring"
+    excerpt: "In trying to con the public and media into making “Bidengate” a thing, Giuliani has let himself get played time after time. For those of you who didn't live and breathe the Ukraine saga for nearly six months this time last year,"
+    publishedDateTime: 2020-10-14T22:26:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/why-trump-s-desperate-bidengate-hail-marys-keep-backfiring-ncna1243429"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 130
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/f_mo_abc_biden_trasnrights_201015_1920x1080.nbcnews-fp-1200-630.jpg"
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3420200/201014-rudy-giuliani-hunter-biden-main-cover-cs_9000fe818c45c5264a1b2b19d0dece3d.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
-    excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
-    publishedDateTime: 2020-10-09T21:39:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241727"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg"
-        width: 2404
-        height: 1533
-        isCached: true
-  - title: "Feds examining if alleged Hunter Biden emails are linked to a foreign intel operation"
-    excerpt: "One email, which has not been confirmed to be authentic, suggested a meeting between Joe Biden and a rep from a Ukraine firm that once paid his son Hunter."
-    publishedDateTime: 2020-10-16T00:45:00Z
-    webUrl: "https://www.nbcnews.com/politics/national-security/feds-examining-if-alleged-hunter-biden-emails-are-linked-foreign-n1243620"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243620"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243620"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 128
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416670/201001-hunter-joe-biden-mn-1135_40d23272b4793a220e9310508e06c432.jpg"
-        width: 2500
-        height: 1563
-        isCached: true
-  - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
-    excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
-    publishedDateTime: 2020-10-15T13:00:00Z
-    webUrl: "https://www.thedailybeast.com/fox-news-owner-rupert-murdoch-predicts-a-landslide-win-for-biden"
+  - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
+    excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
+    publishedDateTime: 2020-10-14T22:25:00Z
+    webUrl: "https://www.thedailybeast.com/nbc-staffers-seethe-as-trump-gleefully-uses-the-network-against-biden"
     type: article
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 45
+    quality: 60
 
 secured: "ZHgqXQBhOh60f7+8dZyUdvy97ktcBpFTrROs7MMbcrG0oXHFonbeuluMGaoFRoBs+T7v+WtyuACOgxqSNK0/e79qL8eCKXNxo/zhvr2mnm3z4pvM34SXBVcHQFKE2T8lrHgcNmHB+Q+FVENGVcXEEaI+AftvEFzxDeJqluXgNkR3KZQ/sYicIVY00ZfRMeYQHAyLuH8QASqVYbl1Ba9TgarJvDxhVZA2EpOoIn6mbFfy/1ShtpXI/jcgoTFSm0SFNYUqfaPGwjghhMXKGfwoP7SYK0OkWwHjBvfxo+rIATfIW4y8D7wyNBTfKK9V8XpBB7UhuPtS1nuBB6dZQNNdKroBGUpmVxNuMVzwyuixiG3/GjEI5hqk9k0ExVGHXpLBaLtkjXaBMLgjvAwvwZ0sk5Wynhq7IMqjTMtSC8051TD9ip6NRAnFN+ejdenitUAvY5tcz93diBhUlspHeHtxicohtjvjghaKT3HvbDQjca7/OrxfK4+2lEztlZGVTjox1cnDnxeo8UInbkhiVf18Pw==;/y4WjQ3dhHap12qpKVQa6g=="
 ---
