@@ -592,6 +592,22 @@ related:
         width: 2500
         height: 1669
         isCached: true
+  - title: "Biden campaign: ‘Donald Trump has failed the American people’"
+    excerpt: "Symone Sanders, Senior Campaign Advisor for the Biden campaign, joins Lawrence O’Donnell to discuss the dueling Biden and Trump town halls and why this election is “a choice between the vision of Joe Biden” and the lack of leadership Trump has shown over the past four years."
+    publishedDateTime: 2020-10-16T03:45:00Z
+    webUrl: "https://www.msnbc.com/the-last-word/watch/biden-campaign-donald-trump-has-failed-the-american-people-93943877594"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93943877594"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93943877594"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 150
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_lw_sanders_201015_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How will Biden do debating Trump? We asked those who have faced the former VP"
     excerpt: "Joe Biden may have spent more time on a debate stage than any other living politician, but he's never faced an opponent like President Donald Trump. A review of decades of Biden's past debate performances and interviews with former rivals and their advisers show that while Biden's debates rarely stand out for tactical brilliance or panache,"
     publishedDateTime: 2020-09-27T16:26:00Z

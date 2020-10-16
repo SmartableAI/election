@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/"
 type: article
 quality: 118
-heat: 138
+heat: 158
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/5f8103c6642e9400180b5258?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
+    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
+    publishedDateTime: 2020-10-16T01:20:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
+    images:
+      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9Bh2NpjDvszJXiijcIUefrudndaPwSvbyT4/nGIHdVuqjri9zhNxObp/dwG69drmGq4K++5FxEBq+dxLR53qQiNxt7pOTnRNf32zjyOdZKsFQTKwhgiOuocwhp0x3pL8z2JTs0gCd4/NmDwmzomThpK+2J4gyfSv4/65dvpFbfq78myVxAWpY+YOxXIu9jCMXWjwoElo1RkSq+wv1jSkIyNcfPyPJEr5tgbEj2kQ5Ab3DPs2IOv8QB6JiK0Z5tX+U/T3MaU6sk26bpVe3Ebk/COmgIWRmKh8U9N2Q2y0JvGFK6pVyEWdDec7ehs6RwWG1sYjhkxE3iy3wFjmih4tQE12HtkMpFi3wY1yJSSmIJM=;pACON5IkRtawyoSPB1Iifg=="

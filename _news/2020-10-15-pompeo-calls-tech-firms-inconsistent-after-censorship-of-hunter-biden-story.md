@@ -191,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "New Hunter Biden emails detail alleged dealings with Chinese energy firm, Burisma executive"
+    excerpt: "Joe Biden’s campaign has repeatedly denied wrongdoing."
+    publishedDateTime: 2020-10-16T02:42:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR8QcboA53U/hunter-biden-emails-chinese-energy-firm-burisma-executive"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-chinese-energy-firm-burisma-executive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings"
     excerpt: "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings."
     publishedDateTime: 2020-10-14T19:10:58Z

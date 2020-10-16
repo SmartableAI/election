@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5911905002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002"
 type: article
 quality: 122
-heat: 642
+heat: 662
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://media.wltx.com/assets/KPNX/images/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a/8522455c-cc8e-4ac5-99e5-d1cdff2fba4a_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Vice President Mike Pence to make campaign stop in Reading on Saturday"
+    excerpt: "Vice President Mike Pence will make a campaign stop in Pennsylvania this weekend.He's scheduled to speak Saturday at the Reading Regional Airport.Doors open at 10:30 a.m.Anyone wh"
+    publishedDateTime: 2020-10-15T17:45:00Z
+    webUrl: "https://www.wgal.com/article/vice-president-mike-pence-to-make-campaign-stop-at-reading-regional-airport/34384596"
+    ampWebUrl: "https://www.wgal.com/amp/article/vice-president-mike-pence-to-make-campaign-stop-at-reading-regional-airport/34384596"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/vice-president-mike-pence-to-make-campaign-stop-at-reading-regional-airport/34384596"
+    type: article
+    provider:
+      name: WGAL
+      domain: wgal.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/a5431601-cff7-45b5-9438-82e0743cb396/a5431601-cff7-45b5-9438-82e0743cb396_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
         isCached: true
   - title: "We speak one-on-one with Vice President Mike Pence"
     excerpt: "All eyes are on Florida Thursday as President Donald Trump visits Miami for a town hall meeting. Vice President Mike Pence"

@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-16-adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.md",
+      "title": "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch",
+      "excerpt": "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp",
+      "publishedDateTime": "2020-10-15T19:40:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-presses-nbc-anchor-to-ask-more-about-antifa-left-wing-violence.md",
+      "title": "Trump presses NBC anchor to ask more about Antifa, left-wing violence",
+      "excerpt": "President Trump and NBC anchor Savannah Guthrie had a testy exchange at Thursday's presidential town hall, with the former wondering she didn't ask him about left-wing actors like Antifa.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32226e3-077e-4b0c-bece-647d2ac28283/d083186b-e89b-4dc9-8426-0900432df432/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
+      "publishedDateTime": "2020-10-15T19:06:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
       "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
       "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
@@ -114,62 +226,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-trump-says-he-knows-nothing-about-qanon-when-pressed-by-nbc-anchor.md",
-      "title": "Trump says he knows 'nothing' about QAnon when pressed by NBC anchor",
-      "excerpt": "President Trump told NBC anchor Savannah Guthrie on Thursday that he didn't know about the conspiracy theory QAnon, repeatedly pushing back on Guthrie's questioning about the issue.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YKZzFHELk8Q/trump-qanon-town-hall-savannah-guthrie",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YKZzFHELk8Q/trump-qanon-town-hall-savannah-guthrie",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/975165a2-fc10-4664-96a3-0169282491b2/506a31f3-3bae-403f-9ac9-f3d8c23a6240/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp",
-      "publishedDateTime": "2020-10-15T18:00:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-16-trump-denounces-white-supremacy-says-he-will-accept-a-peaceful-transfer-of-power-but-wants-to-win.md",
       "title": "Trump denounces White supremacy, says he will accept a 'peaceful transfer of power' but wants 'to win'",
       "excerpt": "President Trump again denounced White supremacy on Thursday, while assuring that he will accept a peaceful transfer of power should Democratic presidential nominee win on Nov. 3, while saying he doesn’t want a transfer, but wants “to win.”",
@@ -238,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 715,
+      "heat": 735,
       "tags": null,
       "images": [
         {
@@ -506,25 +562,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus.md",
-      "title": "Kamala Harris Cancels Campaign Travel After Aide, Flight-Crew Member Test Positive for Coronavirus",
-      "excerpt": "Democratic vice-presidential nominee Kamala Harris is canceling her campaign travel through Sunday after her communications director and a non-staff flight crew member tested positive for coronavirus.",
+      "path": "_news/2020-10-15-kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.md",
+      "title": "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus",
+      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
-      "originalUrl": "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 121,
+      "heat": 168,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-245286/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -532,16 +588,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
-      "publishedDateTime": "2020-10-15T07:15:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-10-15T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -575,7 +631,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 425,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1593,62 +1649,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp",
       "publishedDateTime": "2020-10-12T18:02:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-biden-spotlights-obamacare-in-supreme-battle-over-barrett.md",
-      "title": "Biden spotlights Obamacare in Supreme battle over Barrett",
-      "excerpt": "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 435,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp",
-      "publishedDateTime": "2020-10-12T16:21:13-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -30,33 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Victor Davis Hanson: Trump must make election about class, not race"
-    excerpt: "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose."
-    publishedDateTime: 2020-10-10T21:46:00Z
-    webUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race"
-    ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
+  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
+    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
+    publishedDateTime: 2020-10-16T02:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 150
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "WSJ Opinion: The Trump Ticket Needs a Dose of Mike Pence"
-    excerpt: "Main Street: Wednesday night's prime-time face-off between Mike Pence and Kamala Harris could be the most consequential vice-presidential debate ever. Images: A"
-    publishedDateTime: 2020-10-06T00:13:00Z
-    webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 140
-    images:
-      - url: "http://m.wsj.net/video/20201005/100520opvidmainstreet/100520opvidmainstreet_1280x720.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

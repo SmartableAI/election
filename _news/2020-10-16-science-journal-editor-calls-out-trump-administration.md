@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Adelsons provide $75 million cash infusion to Trump's reelection effort"
+    excerpt: "Billionaire casino mogul Sheldon Adelson and his physician wife, Miriam, poured a whopping $75 million into a super PAC launched in late August to aid President Donald Trump's reelection, new filings show.\n    \n"
+    publishedDateTime: 2020-10-16T03:01:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BMeRNVXGays/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/sheldon-adelson-funds-trump-super-pac/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/sheldon-adelson-funds-trump-super-pac/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190201121001-01-sheldon-adelson-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Barrett declines to commit to recusing herself from a Trump election case"
     excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
     publishedDateTime: 2020-10-13T16:14:50Z
@@ -109,6 +125,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump says he would accept peaceful transfer of power but casts doubt on election results"
+    excerpt: "After hesitating to make the commitment for weeks, President Donald Trump said he would accept a peaceful transfer of power if he loses the election. But he continued to sow doubt on the election results and making baseless claims about Obama administration officials spying on his 2016 campaign in an"
+    publishedDateTime: 2020-10-16T02:26:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sNNjO7GnCAw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-election-integrity/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-election-integrity/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015065013-01-donald-trump-iowa-1014-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -237,6 +269,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013100726-arizona-2020-swing-state-john-king-magic-wall-orig-00000415-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump wouldn't — or couldn't — say if he got Covid test on debate day"
+    excerpt: "President Donald Trump could not definitively say on Thursday whether he was tested for the coronavirus on the day of his first presidential debate against Democratic nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-16T03:04:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jvPBu9zyZi8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-test-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-test-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013225717-donald-trump-1012-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

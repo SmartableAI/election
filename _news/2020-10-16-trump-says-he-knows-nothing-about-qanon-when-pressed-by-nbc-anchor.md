@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-qanon-town-hall-savannah-guth
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
 type: article
 quality: 175
-heat: 175
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump presses NBC anchor to ask more about Antifa, left-wing violence"
+    excerpt: "President Trump and NBC anchor Savannah Guthrie had a testy exchange at Thursday's presidential town hall, with the former wondering she didn't ask him about left-wing actors like Antifa."
+    publishedDateTime: 2020-10-16T02:06:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32226e3-077e-4b0c-bece-647d2ac28283/d083186b-e89b-4dc9-8426-0900432df432/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "SYp5dHwRbrpzcqcUiZa5PRc41fKxpKCGwr9DouhG91KPpsZDZej8jJuLEeUr4Upv75UszxXyDkJUWBmE8jrBg1rcAJxoqU8ZquHRNMnQBTPnCqlnMIp0Bmp/1rbUcufcjjNxM6tATVudBFW+WqBGS8qBZCVsSTvtT1W+bR6PCIi9g3toG4M3WnbkhzNjhEpCHOW/QT4rcf7Gp42D7OgrmyQpmfQ4BkYBjeAQRdTKcR+yXH0QERlPWHl7k9+4CbXy49X1p2E4XVmplMNvT5QbphietM9fLNxf3JJ8ukbkbhRK/lxZ4LJ7YH3shKsAV6Qko6DIJK+wobV4HADgAIX/dZqyZvZALHG9oyFTNvZF9zI=;oSusK22hUzXlT4qpZBj0Zw=="
 ---

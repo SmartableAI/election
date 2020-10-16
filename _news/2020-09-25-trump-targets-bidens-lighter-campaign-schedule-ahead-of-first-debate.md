@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-tra
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/25/politics/biden-trump-campaign-travel/index.html"
 type: article
 quality: 190
-heat: 1450
+heat: 1470
 published: true
 
 provider:
@@ -574,6 +574,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420307/201014-iowa-donald-trump-maga-rally-ac-1016p_0b68f878a47d50536363cc5541f72026.jpg"
         width: 2500
         height: 1669
+        isCached: true
+  - title: "Biden campaign: ‘Donald Trump has failed the American people’"
+    excerpt: "Symone Sanders, Senior Campaign Advisor for the Biden campaign, joins Lawrence O’Donnell to discuss the dueling Biden and Trump town halls and why this election is “a choice between the vision of Joe Biden” and the lack of leadership Trump has shown over the past four years."
+    publishedDateTime: 2020-10-16T03:45:00Z
+    webUrl: "https://www.msnbc.com/the-last-word/watch/biden-campaign-donald-trump-has-failed-the-american-people-93943877594"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp-video/mmvo93943877594"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo93943877594"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 150
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_lw_sanders_201015_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump email says he ‘finished debating’ Biden hours before debate begins"
     excerpt: "The Trump campaign claimed the president \"finished debating Joe Biden\" and bragged about his performance hours before the debate even started Tuesday night. In a prematurely sent campaign email obtained by POLITICO,"

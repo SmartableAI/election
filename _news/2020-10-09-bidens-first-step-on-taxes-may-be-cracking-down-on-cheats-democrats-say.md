@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Joe Biden pressed on supporting a 1994 crime bill"
+    excerpt: "Joe Biden regrets supporting the bill. “The mistake came in terms of what the states did locally,” he said. Joe Biden regrets supporting the bill. “The mistake came in terms"
+    publishedDateTime: 2020-10-16T01:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q5D_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Powered by trust on the pandemic, Biden leads by 12 points nationwide: POLL"
     excerpt: "Joe Biden holds a 17-point lead over Donald Trump in trust to handle the coronavirus pandemic in a new ABC News/Washington Post poll, powering the Democrat to a double-digit advantage in vote preference with the presidential election three weeks away."
     publishedDateTime: 2020-10-11T04:39:00Z

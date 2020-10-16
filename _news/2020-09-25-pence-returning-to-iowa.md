@@ -307,6 +307,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LIVE: Vice President Mike Pence campaigns in Miami"
+    excerpt: "South Florida will once again be in the spotlight for the 2020 presidential race as President Donald Trump and Vice President Mike Pence travel to Miami on Thursday."
+    publishedDateTime: 2020-10-15T16:11:00Z
+    webUrl: "https://www.wflx.com/2020/10/15/live-vice-president-mike-pence-campaigns-miami/"
+    type: article
+    provider:
+      name: WFLX
+      domain: wflx.com
+    quality: 55
+    images:
+      - url: "https://www.wflx.com/resizer/SmJ-y4gRQJz3dkcLXndl-86fIHQ=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/5GMRLJ75TBMNUBLT3EDAUC4GQE.com"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "WATCH LIVE: Vice President Mike Pence holds campaign event in western Iowa"
     excerpt: "CARTER LAKE, Iowa (KTIV) -- Vice President Mike Pence is hosting a campaign event in western Iowa Thursday. Pence is holding a \"Make America Great Again\" event in Council Bluffs with him expected ..."
     publishedDateTime: 2020-10-01T16:48:00Z

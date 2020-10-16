@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Kamala Harris calls Barrett hearings 'illegitimate process,' says Republicans 'doing great harm'"
-excerpt: "Sen. Kamala Harris, D-Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
-publishedDateTime: 2020-10-15T13:34:29Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UM6C0Z8GyY8/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UM6C0Z8GyY8/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
+excerpt: "Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
+publishedDateTime: 2020-10-15T13:41:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
 type: article
-quality: 172
+quality: 122
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
@@ -346,6 +346,6 @@ related:
         height: 562
         isCached: true
 
-secured: "wSF+6MGxJp85FYUzQMP0G0YK19B7dN6unne/5GVgrMSacas0l6lj3EsLpGHVvK7sgZFxN89AsDBqsJpsVahT6BueBxbyb+B9q+8KtuZAeCvoSXw3/Z2fXjkIiuh/9455YqfLE9s+vv1EMveQIaIyPwTrd/10gIX9K0so8FvmgiymYt0QHTzkB3qAx3EO1xMSVulkXdORSh7z17SaBtR1bRvJL3mEbnL/hwbO+28Z6U3BK9m+a+Qn4aIg0KLLSEOWiU7Br2sBdg5OwiVScN3x3HmNN5w6cdozfEZ60fABnndM0CavLfSuJcE03FUtSFO/9RGM6R+EpGjkNX21FXYqX5FY/wBpK0bj7svPucJM6bs=;STp7zc5qpf+IL22HKiFN6g=="
+secured: "OBVuMbJBjy9afxvzXKk/PdsRcIxqDHh6DXzIxtMw2vy49ltRttfU6iAfgPJR6e4PSu0PVaqnpSijWAFncJeI1Mh3NxKN0MQtHCS2mBffTskPdoUdIaO2Di9nRwqppfFjPW8IYg/JihHe8L6PjLXHIn3fvXjci4M1XX/2fnb6LpSaWx9bzhdKSyOewAjmqQ5BN58DORfdoNIfwsAKZBNfV5VM7kKZtBS0NyrJzjld6iqUSM/4wEEMOygeaw5CZCpyGqEXdA8Qt7TJnYwP+rC/rXv48B33A7INKnbdz++7qDjftUfGc7QyYNOqkUPPxjGrk6U+u4ZgynvrEZwoQb01xzraG/1evpQTU0Xu7w7MB1M=;K/ftc6OABIUhMUH9NDz52A=="
 ---
 

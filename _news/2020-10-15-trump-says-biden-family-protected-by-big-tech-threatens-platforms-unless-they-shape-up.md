@@ -63,6 +63,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
+    excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
+    publishedDateTime: 2020-10-16T03:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBhVvmmej2k/trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden pressed on 'you ain't Black' comment during town hall"
+    excerpt: "An undecided African American voter took a veiled swipe at Democratic presidential nominee Joe Biden Thursday night, asking him to give him an answer “besides ‘you ain’t Black’” for why  young Black voters should support him in the 2020 election."
+    publishedDateTime: 2020-10-16T02:00:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks6nMIHtmrU/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
+    ampWebUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden reiterates plan to convince Americans to wear masks"
     excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
     publishedDateTime: 2020-10-16T00:54:06Z

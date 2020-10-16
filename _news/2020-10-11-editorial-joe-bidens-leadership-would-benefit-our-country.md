@@ -137,6 +137,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden hedges on support for 'court-packing' proposal"
+    excerpt: "Democratic presidential candidate Joe Biden kept his options open on Thursday when asked if he would add judges to the Supreme Court to balance the 6-3 conservative majority that would likely take hold if President Donald Trump's third nominee is confirmed."
+    publishedDateTime: 2020-10-16T02:40:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-court/biden-hedges-on-support-for-court-packing-proposal-idUSKBN27107R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27107R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27107R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537676515&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F04L"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
     excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
     publishedDateTime: 2020-10-07T09:40:00Z

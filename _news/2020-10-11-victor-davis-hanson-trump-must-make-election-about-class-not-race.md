@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-ma
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
 type: article
 quality: 150
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     images:
       - url: "http://m.wsj.net/video/20201005/100520opvidmainstreet/100520opvidmainstreet_1280x720.jpg"
         width: 1280
-        height: 720
-        isCached: true
-  - title: "Arnon Mishkin: Trump reelection in trouble, polling indicates — race is referendum on him"
-    excerpt: "Following his debate performance and hospitalization with COVID-19, President Trump continues to trail former Vice President Joe Biden in national polling in their presidential race."
-    publishedDateTime: 2020-10-10T23:33:00Z
-    webUrl: "https://www.foxnews.com/opinion/polling-trump-election-arnon-mishkin"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 121
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81202508-7b03-4a6b-ae69-4308c016af33/d037b5e2-486b-4fdf-9e57-1e6048897a4b/1280x720/match/image.jpg"
-        width: 1079
         height: 720
         isCached: true
 

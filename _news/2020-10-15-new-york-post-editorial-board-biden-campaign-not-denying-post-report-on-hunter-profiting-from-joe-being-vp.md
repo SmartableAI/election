@@ -3,8 +3,8 @@ category: news
 title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
 excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
 publishedDateTime: 2020-10-15T11:07:00Z
-originalUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board?fbclid=IwAR2e6aRR-77A1bScZ0rBoEaTOfrzSL7Z5UIAx32Wz5voEHurSHaFWJsk7Mw"
-webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board?fbclid=IwAR2e6aRR-77A1bScZ0rBoEaTOfrzSL7Z5UIAx32Wz5voEHurSHaFWJsk7Mw"
+originalUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
+webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
 ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
 type: article
@@ -221,6 +221,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "/1gcJ/Ta+nOO5hR30UwDnolcjzPJHp56wKJouvqJszuiz9LyQbZ/VDICcEgWsfwpLLTt3ZtMAm+uG2bm44Xd9arNplC13YwyjUG8n/DGlcQAyF4sfOr6pP6ASu0+ugch4KJWrt5hWFKBROZtowQa+xh4gA9nVIoP+9RRIgGU/8gIlEl+t5ynjR0IcfWbTAUOTztBt0MJOc7CxWaXw+LXf+B7k3BZHJmUNJaPskLOMeijh9lyyYZAk+hlQdx3vqwltyCNsAyIDfOcW9ROeXXkrqWmSybZUoHSKFlnf3y+sufPpUfVTcZ/mAuqZ6s568RXc6asTKRRUwW/KLOTwMVeaV61I5S7pKRlBKfJiwHEiMlpFveynsCucjc1qzkbMU63UMSCdrAlqP0g1pHUDW3ZKivLtGjWOiecrETwZJR7Q4rrHSV9PHm57qI0N5CCxpuGYZ20GMNP2jIkanjnIb9OQXX9rq7Gj9k2ZskUGan+Hc/pA3B26ZsEFOeUqmWJlWAui6GzIyfXC54ooaxpZxQWQQ==;h9L3MhFnThmFYdrx/yLz2g=="
+secured: "5qURE67igYigOvqToV4bC4MlZT3TmKd0wPlOCF98FwEMxgouROokeLo/V+KSrsEKbeiWlt76YQAaYmAutDFKXSNYHgdVboDvby3iZCWa6oWqS2tXolnxQzrJCat63fkk+Cdu0klBoHQPYub1/bLlkRNQp8Yu0ZbFikTFFjQoFdQm2i+t1cxz9fWSP9xmOer3IPhrmTewVMuMgEblR3SX2QaO8Mwtc9g2GqFjwIEZ4oCLATOiyesCcexTuPlIyHkal7bWzcy2m3Can5rN8sjWTtzqUucz4YQkUE/rpUwy6bd/o143a0FubJArQwZosc4hmGI1gEXsm9otix9OZmU7NnBCkT+s/1wxr6RBEgXzE0w=;xeq2eP8rFcvpGPCXaBQxMA=="
 ---
 

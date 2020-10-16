@@ -269,6 +269,22 @@ related:
         width: 1024
         height: 651
         isCached: true
+  - title: "Trump town hall: President Donald Trump tells Nancy Pelosi he’s ready to sign a ‘big, beautiful’ COVID stimulus"
+    excerpt: "President Donald Trump on Thursday pinned the months-long COVID-19 stimulus stalemate on House Speaker Nancy Pelosi, saying he’s ready to sign a “big, beautiful stimulus” immediately and shrugging off the fact that Republican senators have consistently thwarted several aid packages over cost concerns."
+    publishedDateTime: 2020-10-16T01:23:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 55
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YF444BK6UZD5TD2DU2OGPYABOQ.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "yniORmJgmCYzeusmpS4nzgyuprmCd5m7foj08CBLBUSdpMlaKFCbjZvH4cSzgWN1e/iI+grI2KxgKxO/RbFZi56rQQTd9jDdy6a840lpC+eVMJQIqD8RcPnKB2sjCxb9mSeYIByA6yqsIhCgMneKgabP9rPRPAFykgJeL8K6gfHHrwotKLUTi34+frCPrWNk/N+RA/NjgyuecZGA9GyRmb4t5eYvv0JyD2iggHnfayHsvWi3RmV2Wb3d7UYH6nVDknvk1WQ9GNw+hNanUvKge71MfOlDy93p+rH343r4kzf7xvpl55WiAkRxDZOniAN73/4iHuBlgLUsTG5QNp8yaZPIE0/5+Ke6TQ1OnjIDsAI=;4X3yvn0FYkj7pv2aonY2Yw=="
 ---

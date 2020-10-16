@@ -126,7 +126,7 @@ related:
   - title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
     excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
     publishedDateTime: 2020-10-15T11:07:00Z
-    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board?fbclid=IwAR2e6aRR-77A1bScZ0rBoEaTOfrzSL7Z5UIAx32Wz5voEHurSHaFWJsk7Mw"
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
     ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
     type: article

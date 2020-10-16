@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 2421
+heat: 2461
 published: true
 
 provider:
@@ -1678,6 +1678,20 @@ related:
         width: 1024
         height: 656
         isCached: true
+  - title: "Celebrities React to Donald Trump's Town Hall"
+    excerpt: "President Donald Trump and Democratic nominee Joe Biden appeared in dueling town halls on Thursday night (Oct. 15), airing simultaneously on NBC and ABC, respectively."
+    publishedDateTime: 2020-10-16T03:21:00Z
+    webUrl: "https://www.billboard.com/articles/news/9467006/celebrities-react-to-donald-trumps-town-hall/"
+    type: article
+    provider:
+      name: Billboard
+      domain: billboard.com
+    quality: 55
+    images:
+      - url: "https://static.billboard.com/files/2020/04/Donald-Trump-October-28-2019-billboard-1548-1587753435-1024x677.jpg"
+        width: 1024
+        height: 677
+        isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
     publishedDateTime: 2020-10-09T11:03:00Z
@@ -1735,6 +1749,20 @@ related:
       name: al.com
       domain: al.com
     quality: 49
+  - title: "President Donald Trump asked about maskless White House ceremony during NBC town hall"
+    excerpt: "Moderator Savannah Guthrie asks President Donald Trump about a White House event where multiple attendees were seen without masks."
+    publishedDateTime: 2020-10-16T02:03:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/trump-town-hall-president-asked-maskless-white-house-ceremony/3673086001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 48
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/55c6714a-d5b5-4daf-a91f-377d57570ac8-TRUMP_MASK_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "\"Nervous breakdown\": President Trump attacks Fox News and Drudge Report in early morning tweet spree"
     excerpt: "President Donald Trump promoted a website operated by a Fox News regular and attacked other conservative media outlets. The president hyped the new Bongino Report, a news aggregator owned by gun-loving commentator Dan Bongino,"
     publishedDateTime: 2020-10-13T16:38:00Z

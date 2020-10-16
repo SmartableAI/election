@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
+    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
+    publishedDateTime: 2020-10-16T02:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
     excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
     publishedDateTime: 2020-10-15T12:36:00Z

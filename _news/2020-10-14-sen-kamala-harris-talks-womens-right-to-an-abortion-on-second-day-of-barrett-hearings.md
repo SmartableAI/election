@@ -4526,6 +4526,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Joe Biden’s ABC Town Hall Was Deep Dive TV That Was Good For Democracy & Bad For Donald Trump – Review"
+    excerpt: "Donald Trump may have been twirling like a rabid squirrel over on NBC, but on the unique night in America’s challenged democracy, Joe Biden’s town hall on ABC was a display of a candidate in"
+    publishedDateTime: 2020-10-16T03:01:00Z
+    webUrl: "https://deadline.com/2020/10/joe-biden-review-abc-town-hall-donald-trump-george-stephanopoulos-savannah-guthrie-nbc-1234598516/#!"
+    ampWebUrl: "https://deadline.com/2020/10/joe-biden-review-abc-town-hall-donald-trump-george-stephanopoulos-savannah-guthrie-nbc-1234598516/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/joe-biden-review-abc-town-hall-donald-trump-george-stephanopoulos-savannah-guthrie-nbc-1234598516/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 74
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/156267_H1_01425.jpg?w=1024"
+        width: 1024
+        height: 449
+        isCached: true
   - title: "Fact Check: Vice presidential candidates Sen. Kamala Harris and VP Mike Pence debate"
     excerpt: "The 90-minute debate between Sen. Kamala Harris and Vice President Mike Pence covered a variety of topics. We fact checked statements made by both candidates. The first topic discussed was the coronavirus pandemic."
     publishedDateTime: 2020-10-08T08:58:00Z
@@ -5083,6 +5099,17 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "President Donald Trump, Joe Biden Compete In Dueling Town Halls With Very Different Feelings"
+    excerpt: "The presidential candidates squared off from a distance in dueling town halls Thursday night. President Donald Trump was in Miami, Democratic nominee Joe Biden here in Philadelphia. They may have been separated by 1,"
+    publishedDateTime: 2020-10-16T03:12:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/15/president-donald-trump-joe-biden-compete-in-dueling-town-halls-with-very-different-feelings/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/15/president-donald-trump-joe-biden-compete-in-dueling-town-halls-with-very-different-feelings/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/15/president-donald-trump-joe-biden-compete-in-dueling-town-halls-with-very-different-feelings/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 59
   - title: "Dear Joe Biden: Don’t attend the next debate"
     excerpt: "Since the coronavirus pandemic arrived on America’s shores, Democratic presidential nominee Joe Biden has done what President Trump is seemingly incapable of doing: He’s consistently demonstrated how Americans should protect themselves and others from COVID-19."
     publishedDateTime: 2020-10-07T21:35:00Z
@@ -5175,6 +5202,17 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "The wind is in Donald Trump’s face"
+    excerpt: "What is that Trump supporters expect at these rallies the president is holding in the frantic final days of the campaign?"
+    publishedDateTime: 2020-10-16T02:17:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/wind-is-donald-trumps-face/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/wind-is-donald-trumps-face/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/wind-is-donald-trumps-face/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
     publishedDateTime: 2020-10-11T11:12:00Z

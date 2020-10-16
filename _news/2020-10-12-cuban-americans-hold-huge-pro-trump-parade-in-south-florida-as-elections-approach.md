@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 795
+heat: 815
 published: true
 
 provider:
@@ -469,6 +469,22 @@ related:
     quality: 73
     images:
       - url: "https://media.nbcmiami.com/2020/09/Trump-flag.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UFC's Jorge Masvidal Greets Donald Trump In Florida, POTUS Not Wearing Mask"
+    excerpt: "Forget the Secret Service, the \"Baddest MF\" on the planet has Donald Trump's back in Miami ... Jorge Masvidal."
+    publishedDateTime: 2020-10-15T23:03:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 73
+    images:
+      - url: "https://imagez.tmz.com/image/a3/16by9/2020/10/15/a340707788644b41a3921524902d3208_xl.jpg"
         width: 1200
         height: 675
         isCached: true

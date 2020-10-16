@@ -299,6 +299,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence to make campaign stop in Reading on Saturday"
+    excerpt: "Vice President Mike Pence will make a campaign stop in Pennsylvania this weekend.He's scheduled to speak Saturday at the Reading Regional Airport.Doors open at 10:30 a.m.Anyone wh"
+    publishedDateTime: 2020-10-15T17:45:00Z
+    webUrl: "https://www.wgal.com/article/vice-president-mike-pence-to-make-campaign-stop-at-reading-regional-airport/34384596"
+    ampWebUrl: "https://www.wgal.com/amp/article/vice-president-mike-pence-to-make-campaign-stop-at-reading-regional-airport/34384596"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/vice-president-mike-pence-to-make-campaign-stop-at-reading-regional-airport/34384596"
+    type: article
+    provider:
+      name: WGAL
+      domain: wgal.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/a5431601-cff7-45b5-9438-82e0743cb396/a5431601-cff7-45b5-9438-82e0743cb396_image.jpg?crop=1xw:1.0xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence postpones Friday appearance to vote in Indianapolis"
     excerpt: "Vice President Mike Pence cancels a Friday appearance in Indianapolis to vote early. His office says the trip to cast his ballot will be rescheduled."
     publishedDateTime: 2020-10-10T08:16:00Z
@@ -406,6 +422,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iAohyYUf+jCmET4SFeULjfUzz6W1arhDTZjTHjh/XsVCkSSedNARTD/GOM7zjsWO8mFDSLK+/po/FMxV9hHCdGm4Yuac5YjPJpdxC1bpSHf/hiRFa01U++qgNfawDIHs0Wuoae2ye4In0V1/HJWrbRGKMT5rp3s7RRJMdA0nXTqIeCoNn2OCdE9WIiVDEu1hoNxoCn+B4nLZeoHGS16YRrvsbVr6lMzN3bo/ZHC93t7DIwgniKX+zVQlKKBJsDDz0Vq3Sw5wgA4PdxjdNOHSDf8dqWCYeXQOGTMTw1M0YdVCN70WY8tuG6rTy6KDdePLKoS8Qra98O3QudupsdC/YohLN3QeDp9U7hPe//6pvMU=;HdxR1BrVT9M5MmB+pjkDEg=="
+secured: "Ss1TprvHBr6cGNRxVPoIhRDnsYzV1aPGTwjki19/UTKhWx3ZcU71HxjD7lGRBlJY62HcGqiHu098JCs1m/SCzz4FVTBzcVqaJ5BUKZqkyfseh/DDfw9RW3ttFe5IF3ihx6P52bWH1UxXu2orhFFJd01DVwTUM0OCbFgn59I017R/yhvZd9FJmVhBaJ1QySu/WqLfF6AGGvjBrLvWVyXunFoCUAjSLQ4Oh0xxwMwztUhSXBbGTDEiq29GsujK8q8s86Ip7NPv6bzkbjFGR8Zmk2Bkm7gG8zFLpu5LAQr97ejzvGWF425cmFbnAMR1HkqhvrcwHrqRf3mKTYvmgbaTAKl2R7sYoK4Voat3BQGKnV/2L5mi+KezmGZLZzNRvpuC87VfwBqGz5gKL1JYYNr/EKLhlhZphK5OX9mcoEwdjfoRcCou8hjuGYK8yXFbJMo+3DmubhVq1UbukUshjBI//+/avBDnOaiWo2Dlw7sbcyAiDkDQJmLAt3vlNyMPzXv5McZwlB4aDb4cxDUX90Smew==;/IYnCgfx3YmumzA0c9tMGg=="
 ---
 

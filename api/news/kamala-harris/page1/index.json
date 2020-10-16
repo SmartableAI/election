@@ -54,25 +54,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus.md",
-      "title": "Kamala Harris Cancels Campaign Travel After Aide, Flight-Crew Member Test Positive for Coronavirus",
-      "excerpt": "Democratic vice-presidential nominee Kamala Harris is canceling her campaign travel through Sunday after her communications director and a non-staff flight crew member tested positive for coronavirus.",
+      "path": "_news/2020-10-15-kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.md",
+      "title": "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus",
+      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
-      "originalUrl": "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 121,
+      "heat": 168,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-245286/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -80,16 +80,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915",
-      "publishedDateTime": "2020-10-15T07:15:00-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-10-15T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -176,7 +176,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 7040,
+      "heat": 7100,
       "tags": null,
       "images": [
         {
@@ -429,7 +429,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 2423,
+      "heat": 2463,
       "tags": null,
       "images": [
         {

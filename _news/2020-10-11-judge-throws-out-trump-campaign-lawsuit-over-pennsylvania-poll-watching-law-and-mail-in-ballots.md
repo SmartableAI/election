@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
+    excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
+    publishedDateTime: 2020-10-16T02:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/3673997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3673997001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/424acc15-845d-46b8-899e-cc82488a32a4-AP_Election_2020_Biden.jpg?auto=webp&crop=4016,2259,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BLFPUPV05qU1peSlFlcaXwuMNCl+vrQwBjBnrKMH8wiVLO2P+7u2eWzwyzBLBogJHqopQSlNOE4HAra360QY2Dft88H2S7Uu7drwtd09i8+bb9t5imAoyyl+zAW130nhhDvV3k+COIFFpdyA1+J9B/bAJ1oeMtEzLXLl+DCnE1dtTnMflspCcrldX2oavEI4eeNJe0Zi5UH5lXETNvD0Sk4PYg7bmUWJpDU9lm66x8FpZKDWH/cQBUc0lTFdTnMY3IBLW3LCpuR0oBe+ywpQ9G1W+dUHGbgxBSQxa0euMcxZhP1NThi/Kqv6LoU85R35Ba1rYJ+3oAEtxKES+VnpRgwrOwJ+1+a9N+AbC09uC9uf40woYgQlPaQqacUo0PmrNHiSlJVLL/5YVpdEBbO72d5lc+LnhlNqGy3MV/1VePlucx4gcxoutWt2pZrH3E2UJ08UFJWMfyJSitmYTpNJKQaXdmbsQ92LqJi4V8gDiPDXfRp2xsgJa+vZf1KZjqKwm2w6llnACRDJNXjHH50gZQ==;1CJ30fOLOU+9zd01iWaCzQ=="
 ---

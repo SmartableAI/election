@@ -142,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump administration rejects California's disaster assistance request for wildfires"
+    excerpt: "The Trump administration has rejected California's request for a disaster declaration for six destructive wildfires that burned hundreds of thousands of acres across the state, including a massive central California wildfire that has become the single largest in state history.\n    \n"
+    publishedDateTime: 2020-10-16T02:59:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LUTznuOeOuM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-california-fire-disaster-assistance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-california-fire-disaster-assistance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013232832-01-california-wildfires-zogg-fire-contained-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Former CIA director accuses intel chief of selectively declassifying documents to help Trump"
     excerpt: "Former CIA director John Brennan on Tuesday accused current intelligence chief John Ratcliffe of selectively declassifying documents ahead of the November election that benefit President Donald Trump, telling CNN that the decision to release materials gathered by the agency on Russian allegations that"
     publishedDateTime: 2020-10-06T22:11:56Z

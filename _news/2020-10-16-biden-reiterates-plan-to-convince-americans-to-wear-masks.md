@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
+    excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
+    publishedDateTime: 2020-10-16T03:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBhVvmmej2k/trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
     publishedDateTime: 2020-10-15T18:59:33Z
@@ -78,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1e875e-1c05-40d4-ae45-3af1c856fe3f/d854cedf-71ec-4e2d-ac5e-ce8a2b108e24/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden pressed on 'you ain't Black' comment during town hall"
+    excerpt: "An undecided African American voter took a veiled swipe at Democratic presidential nominee Joe Biden Thursday night, asking him to give him an answer “besides ‘you ain’t Black’” for why  young Black voters should support him in the 2020 election."
+    publishedDateTime: 2020-10-16T02:00:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks6nMIHtmrU/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black"
+    ampWebUrl: "https://www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/black-voter-asks-biden-to-give-answer-on-why-he-should-support-him-besides-you-aint-black.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""

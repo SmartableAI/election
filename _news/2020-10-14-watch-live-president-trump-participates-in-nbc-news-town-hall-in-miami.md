@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93820997571"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93820997571"
 type: article
 quality: 135
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘I’m mayor first’: In Miami-Dade, walking a line between Trump and constituents"
-    excerpt: "The Republican mayor of Miami-Dade County is a Trump-endorsed congressional candidate in a nationally watched swing seat. He’s also the elected leader of the urban heart of South Florida, a coronavirus hot spot that’s home to 2."
-    publishedDateTime: 2020-10-07T08:32:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/carlos-gimenez-trump-coronavirus-426909"
+  - title: "Savannah Guthrie grills Trump at NBC's town hall"
+    excerpt: "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n"
+    publishedDateTime: 2020-10-16T03:07:39Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 111
+      name: CNN
+      domain: cnn.com
+    quality: 175
     images:
-      - url: "https://static.politico.com/2d/ab/cec464684938adc1e0bb8c5a741d/201006-gimenez-herald-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015222513-06-deuling-town-halls-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "l0N/PoeUxHSYzTbZafyCzG1zihlhhb6+VuI3n64D63UdrySKP7sS5h+O1SYznvfkGOrZsl8pGmNU2psg8KtKxqEWqz2D9YWiRPBv++DVPIWH+9+ivghA5rDOBm26Y/xUMcHAjpnMVSKEJYffsQ1UCvcPIkVq1yy/sCo4TSqnPNyaTifUabBxUJTp86UjNuQl17yf7gZf0BkeOvJMNLankLwNOGUDlwJ2GjhMT3bskDZFGDp5KvBiORPD799v7OLlRCmkFYIp9+aeKD9zU0Q7N0TuDP0uMEcCUzqNFZfNmQiRge3r73HTFyesvDv8PCA0EszWbaMsAYKoOGbtcslvYKEwzyLRhHl4BP+qqIVenAE=;9y8qXvstsVQ3yQoO+dyiSg=="

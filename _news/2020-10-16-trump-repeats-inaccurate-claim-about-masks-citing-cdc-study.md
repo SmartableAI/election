@@ -64,20 +64,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "In his chess match with North Korea, Trump is clearly losing"
-    excerpt: "On global affairs, Trump has said, \"If you're not a great chess master, you're going to have a problem.\" His failures with North Korea prove the point."
-    publishedDateTime: 2020-10-14T13:34:00Z
-    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/his-chess-match-north-korea-trump-clearly-losing-ncna1243316"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 115
-    images:
-      - url: "https://media1.s-nbcnews.com/j/newscms/2020_17/3318221/200422-trump-kim-mc-937_f300c03badf176b4e5c4bf5b25fc42c7.nbcnews-fp-1200-630.JPG"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EKv7x0cRAxaLfTrAvL+dgYJlqS8wtAMAApX78n1I2GxMIEkSJkW2fLkqN4FR1mq4207BWXOrvnxL8Kf90Vg2Fcnfl4GOIjubzuFfltC+XRr3QscUx8G4ROSn+IC4VqE+zl6cik7p5NXGvYxARAn0hUBvcOPIFby2BxHJAqXEPI55USgRUvIviXiA3fJGD/mh9fwiiqEjMg6Y7WbZgt+GO1zvdRWvXnDtAfrTy4A/u1TMinxDzxdR78gcsA1HJXZWtx3qMxtmXem2Q9loTl3nan4NBEZkvKM98zvotrI0FcS2WoY7UkJAjguZkxw0gGR/YcjfHwmI0H8Pi2ZOa+xYHr2gZ8ZiZX62PAAuJVNdFr0=;/l37NcdTspR8uyFzDs44KQ=="
 ---

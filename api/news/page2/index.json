@@ -2,6 +2,228 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-how-to-watch-live-stream-donald-trumps-nbc-town-hall-in-place-of-debate.md",
+      "title": "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate",
+      "excerpt": "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
+      "originalUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1",
+      "publishedDateTime": "2020-10-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-biden-campaign-ramping-up-outreach-to-arizona-latinos.md",
+      "title": "Biden campaign ramping up outreach to Arizona Latinos",
+      "excerpt": "2020 Democratic presidential nominee Joe Biden's campaign urged Latino supporters to cast their ballots early on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnw9AVdw4g/biden-campaign-ramping-up-outreach-to-arizona-latinos",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MBnw9AVdw4g/biden-campaign-ramping-up-outreach-to-arizona-latinos",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282488538797.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-ramping-up-outreach-to-arizona-latinos.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ramping-up-outreach-to-arizona-latinos.amp",
+      "publishedDateTime": "2020-10-15T11:39:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.md",
+      "title": "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus",
+      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp",
+      "publishedDateTime": "2020-10-15T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-will-trump-win-again-watch-floridas-sumter-county-for-first-election-night-clue.md",
+      "title": "Will Trump win again? Watch Florida's Sumter County for first election night clue.",
+      "excerpt": "Will Trump win again? Watch Florida's Sumter County for first election night clue. Last week, Democrats took delight in the spectacle of a 500-golf cart flotilla of Joe Biden supporters parading through Florida's largest retirement community en route to turn in their vote-by-mail ballots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "originalUrl": "https://www.nbcnews.com/politics/2020-election/will-trump-win-again-watch-florida-s-sumter-county-first-n1243497",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2020_42/3420360/201015-the-villlages-al-0741_d3ce3f854b407fc2901767388f852caa.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243497",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243497",
+      "publishedDateTime": "2020-10-15T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-trump-tweet-gave-taliban-upper-hand-in-negotiations-afghan-peace-official-tells-financial-times.md",
       "title": "Trump tweet gave Taliban upper hand in negotiations: Afghan peace official tells Financial Times",
       "excerpt": "A tweet by President Donald Trump calling for U.S. troops to be home by Christmas has given the insurgent Taliban the upper hand in negotiations, the top Afghanistan peace official told the Financial Times newspaper.",
@@ -118,7 +340,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 425,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -174,7 +396,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1170,
+      "heat": 1230,
       "tags": null,
       "images": [
         {
@@ -425,62 +647,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
-      "title": "Biden announces record $383 million fundraising haul for September",
-      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "publishedDateTime": "2020-10-14T19:30:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-trump-directs-california-gop-to-fight-hard-in-court-over-ballot-boxes-despite-prosecution-threat.md",
       "title": "Trump directs California GOP to 'fight hard' in court over ballot boxes despite prosecution threat",
       "excerpt": "President Trump on Tuesday directed Republicans to “fight hard” in court after California’s top election and law enforcement officials, both Democrats, ordered the state GOP to remove unofficial ballot boxes from various locations in three counties by later this week or face prosecution.  ",
@@ -694,6 +860,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-feds-chased-suspected-foreign-link-to-trumps-2016-campaign-cash-for-three-years.md",
+      "title": "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years",
+      "excerpt": "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html",
+      "publishedDateTime": "2020-10-14T14:39:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -1046,23 +1268,23 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-barrett-declines-to-answer-if-trump-can-pardon-himself.md",
-      "title": "Barrett declines to answer if Trump can pardon himself",
-      "excerpt": "Sen. Patrick Leahy (D-VT) questions Supreme Court nominee Amy Coney Barrett on whether the president of the United States has the power to pardon themselves of a crime. CNN's Manu Raju tells us more.\n    \n",
+      "path": "_news/2020-10-14-task-force-warns-against-small-gatherings-as-trump-rallies-with-thousands.md",
+      "title": "Task force warns against small gatherings as Trump rallies with thousands",
+      "excerpt": "The White House coronavirus task force expressed concern about virus spread stemming from small household gatherings as coronavirus cases rise across the country and colder months approach. The warnings come as President Donald Trump continues ignoring precautions as he gathers thousands of mostly maskless",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/exEsfdCiy9E/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/exEsfdCiy9E/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVmjGsHcLbY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aVmjGsHcLbY/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 294,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014114644-09-barrett-hearing-1014-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201013013829-us-coronavirus-coming-surge-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -1072,9 +1294,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
-      "publishedDateTime": "2020-10-14T09:04:30-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/white-house-task-force-small-gatherings/index.html",
+      "publishedDateTime": "2020-10-14T10:02:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1098,223 +1320,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-george-floyds-sister-calls-for-change-in-new-biden-ad.md",
-      "title": "George Floyd's sister calls for change in new Biden ad",
-      "excerpt": "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
-      "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 326,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/georgefloyd063020.jpg",
-          "width": 780,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp",
-      "publishedDateTime": "2020-10-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-giulianis-lawyer-says-he-has-hard-drive-with-hunter-biden-texts-emails-videos-of-compromising-positions.md",
-      "title": "Giuliani's lawyer says he has hard drive with Hunter Biden texts, emails, videos of 'compromising positions'",
-      "excerpt": "A lawyer for President Trump's personal attorney, Rudy Giuliani, told Fox News on Wednesday he has obtained a hard drive containing some 40,000 emails, thousands of text messages, and photographs and videos of Hunter Biden – the son of former Vice President Joe Biden – in \"very compromising positions.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-iTlRbASiY/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o-iTlRbASiY/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-hard-drive-giuliani-attorney-texts-emails-videos-very-compromising-positions.amp",
-      "publishedDateTime": "2020-10-14T08:45:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-presidents-job-approval-is-surest-sign-trump-will-lose-reelection.md",
-      "title": "President's job approval is surest sign Trump will lose reelection",
-      "excerpt": "Just 37 percent of Americans approve of the president’s handling of the pandemic — and that is extremely problematic for him.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
-      "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2421,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_100520screenshot.png",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp",
-      "publishedDateTime": "2020-10-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-watch-live-president-trump-participates-in-nbc-news-town-hall-in-miami.md",
-      "title": "Watch live: President Trump participates in NBC News town hall in Miami",
-      "excerpt": "NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-president-trump-participates-in-nbc-news-town-hall-in-miami-93820997571",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-president-trump-participates-in-nbc-news-town-hall-in-miami-93820997571",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202010/101320_Trump_Town_Hall-Twitter-FS-NBC_Thu.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93820997571",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93820997571",
-      "publishedDateTime": "2020-10-14T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

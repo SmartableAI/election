@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 takeaways from the dueling Biden and Trump town halls"
+    excerpt: "On ABC, Democratic presidential nominee Joe Biden was explaining his plan to raise taxes on people making more than $400,000 per year. On NBC, President Donald Trump was equivocating about the existence of a satanic cult of pedophiles.\n    \n"
+    publishedDateTime: 2020-10-16T03:39:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nyPbzOwM3as/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-hall-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/biden-trump-town-hall-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015203247-02b-0biden-trump-town-hall-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign highlights historic nature of Harris nomination in new ads ahead of VP debate"
     excerpt: "Joe Biden's presidential campaign on Tuesday released a set of nationwide ads featuring only California Sen. Kamala Harris, the Democratic ticket's vice-presidential candidate, ahead of her face off with Vice President Mike Pence at the debate in Salt Lake City.\n    \n"
     publishedDateTime: 2020-10-06T13:13:52Z
@@ -477,6 +493,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump again refuses to denounce QAnon"
+    excerpt: "President Donald Trump doubled down on his refusal to denounce QAnon conspiracy theorists, saying in a nationally televised town hall Thursday night that \"they are very much against pedophilia\" and he agrees with that sentiment.\n    \n"
+    publishedDateTime: 2020-10-16T03:53:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cf1aqVPvQaU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-qanon-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-qanon-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015184731-donald-trump-rally-greenville-north-carolina-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

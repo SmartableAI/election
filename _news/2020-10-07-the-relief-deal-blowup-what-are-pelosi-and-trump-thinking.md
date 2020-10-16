@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/magazine/2020/10/07/relief-stimulu
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1160
     height: 773
     isCached: true
+
+related:
+  - title: "Trump Thinks His Supporters Are ‘Disgusting.’ Do They Care?"
+    excerpt: "The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change."
+    publishedDateTime: 2020-10-10T15:05:00Z
+    webUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/10/sunday-review/trump-supporters.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "xQezmlQi2y0J1KPk8q7hsVyQHSqxFekvI+bsANcqWIOJt1av5WPSplhx2PfgAALRxY271mRa3Nlx2azTf7XxfUAgOWii1manlMTV3gdsSoHqhAN2VpWINxzUDoMOdTopkwloIknNGyE9wlJcAwlDf8x5af4pue1P/I6qkviW2tbPAQsfNBZ/JTjEuvjX4CfekkEeuZ0dnGnFFoTbY5+WFbVpN+CNpxXUpRHJ6E40qPdPw2ZyBufxQDmm9J/RLB8ZbidnRb+tw+/IBSTbBXPyyy7nVkEfppNW/CNhGvrcPAGZSmQS2t7wLFpq+iw2mTsIgUu2tJWlqWOBRRnQGM2GTY09jitc404sPcYMYSdJprQ=;21v6cH1ecJWPw05HZAdDGA=="
 ---

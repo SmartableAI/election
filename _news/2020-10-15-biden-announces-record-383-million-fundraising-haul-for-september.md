@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundrais
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html"
 type: article
 quality: 175
-heat: 195
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Trump raises $135 million less than Biden in September as former VP outpaces him for another month"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee announced a joint fundraising haul of $247.8 million in the month of September -- up from the $210 million the GOP raised in August, but far behind the massive total raised by former Vice President Joe Biden and Democrats in the"
+    publishedDateTime: 2020-10-16T02:54:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1WXIFFYNPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015222716-08-deuling-town-halls-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump rages at allies as potential October surprises fizzle"
+    excerpt: "Halfway through October, President Donald Trump's surprises are sputtering.\n    \n"
+    publishedDateTime: 2020-10-15T19:55:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nc64tNmRuP4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-election-2020-october-surprises/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014145405-donald-trump-september-debate-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden asked about transgender rights by mother with a transgender child"
+    excerpt: "Joe Biden was asked by a mother with a transgender child what his views on transgender rights are during a town hall in Philadelphia. Biden assured \"there should be zero discrimination.\""
+    publishedDateTime: 2020-10-16T01:57:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-asked-about-transgender-rights-by-mother-with-a-transgender-child-93940293641"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93940293641"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93940293641"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/f_mo_abc_biden_trasnrights_201015_1920x1080.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden raised whopping $383M in September"
     excerpt: "It's the latest massive fundraising haul for Biden, who brought in $365 million in August as online donors shower his campaign with cash."
     publishedDateTime: 2020-10-15T01:59:00Z
