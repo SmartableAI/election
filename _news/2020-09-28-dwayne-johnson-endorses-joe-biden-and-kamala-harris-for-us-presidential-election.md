@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2020/sep/28/dwayne-johnson-endorses-joe-biden-and-kamala-harris-for-us-presidential-election"
 type: article
 quality: 160
-heat: 4220
+heat: 4240
 published: true
 
 provider:
@@ -2961,6 +2961,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "The misinformation campaign against Kamala Harris, what you need to know"
+    excerpt: "Online attacks against Harris have gone far beyond the standard fare of political criticism. Viral social media posts have questioned Harris’ heritage, career ascent and eligibility to hold office."
+    publishedDateTime: 2020-10-02T00:00:00Z
+    webUrl: "https://www.politifact.com/article/2020/oct/07/misinformation-campaign-against-kamala-harris-what/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 54
+    images:
+      - url: "https://static.politifact.com/politifact/photos/kamala-parents.jpg"
+        width: 300
+        height: 426
+        isCached: true
   - title: "Joe Biden Remarks on President Trump's Supreme Court Nomination"
     excerpt: "T12:15:00-04:00 Democratic presidential candidate Joe Biden delivers remarks in Wilmington, DE on President Trump’s nomination of Amy Coney Barrett to the Supreme Court. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
     publishedDateTime: 2020-09-27T15:03:00Z

@@ -72,6 +72,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Perdue mispronounces Sen. Kamala Harris' name at rally"
+    excerpt: "Speaking at a campaign rally for President Trump, Sen. David Perdue mispronounced Sen. Kamala Harris' first name."
+    publishedDateTime: 2020-10-17T04:12:00Z
+    webUrl: "https://www.nbcnews.com/video/perdue-mispronounces-sen-kamala-harris-name-at-rally-94021701947"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94021701947"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94021701947"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202010/f_mo_la_perdue_name_201016.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bMKItcKAd7VVcAs1Tu3FwvGmGVNAfdlIjZtLnejV10abKTKF2iQP+2JNsPzo53Zh6a32zor5AlyJg/QOyi6XSulel9DaWbgoOAmjkH6diNGBe64K6Vg4BWzGuJS+PQm1mQBvyTdXRU8D2XEyipxYCs0XxYTH9W/3m05Dh8cu62M17oP8TlA/jVSJrztHgqt2v/Sac96iB56qpKO1+FI6zSRrh7K/TlZwMNIEHTDuGjhz6oDAeng11XuQDPHPw1lY/HxOmKpv+0HQJvIa0qG8SRXaZPKZtL2z5ATQ0yV1M41DMaThYED4Xz3xW7/Klhg/imXo++N0hRIytD/VPUFHzKWO+4xIWLGtfK/Flx19eg64hnqiDeAIcXFSje6qmDQpBzDJjdc8O3yn2ee0sVlLIcUPPoFMxco5svDgio9rfjyyL3pEFLNvFdsvryi1YZWQKI4TjUKwAD289uRYlymPJ33J6xfX+G2r42nCb/7hVyIS+/rys5PXMrus6I83adusfPbE1HLinbmyLoykJA98IQ==;5wI3yY+L0GYNDqNju81tkg=="
 ---

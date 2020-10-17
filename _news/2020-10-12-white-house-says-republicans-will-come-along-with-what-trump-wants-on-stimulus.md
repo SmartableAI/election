@@ -703,6 +703,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump and House Speaker Pelosi haven't spoken to each other in a year"
+    excerpt: "Despite not talking, Trump and Pelosi have repeatedly traded barbs over the past 12 months. The issue at hand now is a stalled COVID-19 relief bill."
+    publishedDateTime: 2020-10-17T04:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f89b555d260780019341d29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
     excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"
     publishedDateTime: 2020-10-08T00:54:00Z

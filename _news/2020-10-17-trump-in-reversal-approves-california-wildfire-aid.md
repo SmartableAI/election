@@ -687,6 +687,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump and House Speaker Pelosi haven't spoken to each other in a year"
+    excerpt: "Despite not talking, Trump and Pelosi have repeatedly traded barbs over the past 12 months. The issue at hand now is a stalled COVID-19 relief bill."
+    publishedDateTime: 2020-10-17T04:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f89b555d260780019341d29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus"
     excerpt: "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday."
     publishedDateTime: 2020-10-12T14:26:00Z
@@ -2020,6 +2036,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "e+smIbfH97g47yOMlRZhCP4WpKaUnGwlhOzczlgvRwubF8gEN7RToLrF2dGzaPLqQSwWUxovY53pSPBMKN/mMQ5WZrKV0PqBscgo/xX0/kZ4w68CnQEwhSvUxnEauY+Uwj4Cr4qreQZYjFRvglWYPScDFZtVLCQK3FRD61pwkjOtgtLrRrDm6Sr4VytyUjh6rSgbYTSoiQO42a9XKkLni4qGu72ZUUT47P2+Cfr6brpgeEc2xilBbnLRLQdP64aREXOMVxMJs0dHNC46ap+OnA9vhepq3QJcpy4xFJdzkRoaaQvs3WTsQfOW5YVJdQV3x9gaHmniDQ9Jkt+4X7aIu7lETK3mJqcuHzwDGpINOEU=;KRW1mKMHykAm7Eh6yeoNgQ=="
+secured: "UIgZepcIPPDojkg8flixQgciUxF/25Nwi8LOhPpXL4ssILaaqmOl0g2WfQYm8T2z6ewKbxTTRotyoz52l+UPQFT/cND+KRYrsV3qrczhtXgYvlFuW52M1ec7UlDq0aEYryPFME9XLh+35UNSG8/U8uKEc6tcwuMGq2arDG45yaUBrcCRSrQUUemRMrA0Kw9RTPBTvPRS+E+1Kkr0DT+tNkHRUJdqlR+OnTdgJY1iIlfqddC+T/e2ZYfALZVzBpm+MZ86XzhKbEyox0zMGDbRAm+w/DsqLrkrO+kaoKlFDOk9ArQ2mH6Pv2WQgXviwXHtLqt7odbs2VuoeUNSFnEE/WFzd3dv4epHMHiiccCqmsLYn9PyRgtJgECVfrJXV/bLoBs6U4M9D7tsxvNOL5DyTW1s/yE7hDWe0aDMO26Xpoq2O0yDlHgxG8OKRpT/QDGzf33dP1EihkCQ4S9Udbge7cLIGxWKaJ/1cFffNBjTZdYqdolmBiQLTz772XMorWvYiFGFyUQNHiDukiduJ2VHog==;Yz3ULFUCOiAWIYAWjJUtkw=="
 ---
 

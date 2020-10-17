@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 type: article
 quality: 130
-heat: 330
+heat: 350
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-03/gettyimages-1208164244.jpg?h=2e976bc2&itok=Qi0Oo6TH"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Tucker Carlson Rips Town Halls: Biden ‘Skated By’ While Trump Was Confronted for ‘Performative Disavowals’ of White Supremacy, QAnon"
+    excerpt: "Fox News' Tucker Carlson blasted both town halls with Joe Biden and Donald Trump, slamming Savannah Guthrie for confronting the president to make \"performative disavowals\" of white supr"
+    publishedDateTime: 2020-10-17T04:24:00Z
+    webUrl: "https://www.mediaite.com/tv/tucker-carlson-rips-town-halls-biden-skated-by-while-trump-was-confronted-for-performative-disavowals-of-white-supremacy-qanon/"
+    ampWebUrl: "https://www.mediaite.com/tv/tucker-carlson-rips-town-halls-biden-skated-by-while-trump-was-confronted-for-performative-disavowals-of-white-supremacy-qanon/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/tucker-carlson-rips-town-halls-biden-skated-by-while-trump-was-confronted-for-performative-disavowals-of-white-supremacy-qanon/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 59
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/tucker.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "XCYZjYUyCPAMdiJ30bRjosubGlm7U7XxJMuVnI3lDJLYdSEg7p+sGFqv5YSFdB/GLoIB28+ypQHkuiGBoRdC4xFhk6ir7voY2vFAL4rXHtX9/dPsEdO1FupDjNU4zWKjrcq1hcBHxHuSPPWgytysfiE65LG3dVVUUlAa8AG6DZHDptJk0SEsgIAB4y0iSF+UWG+IxtYc2Ed2iArMhjeHRd5tkSxFeinWwag+6kq3yijPgoDzNyLhnOz1FzCr/ZExmgIui38VxoViJ2EIpIYUHNnk7yzn5/We7pcYsGIrsRZMGS6PvYLzlhLCmhNtuEBvxnMs9c6DEV+KVAHkiQQsZC1ZzKdZCAOHF1/WQTjwOJtF/t54xWFHuT0JNVenWHxDWIGAvEPS5qD8hW0a/nBlbGHMGknIYzfaWh3GybHbFfZgcVp+rvwpshB6dFRt2cugqTSqBo5QNdsdhT4b6drwgePvbSBmzt40KG0WInyFw63EFYIzQNCkGRIPyWdnTJsI2rrm4LkBtRoeSrnNYevnUg==;gVt9LOKVxBl8JCKUThpW2w=="

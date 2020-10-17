@@ -646,6 +646,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump says 'maybe I'll have to leave the country' if he loses the 2020 election to Joe Biden"
+    excerpt: "\"Could you imagine if I lose?\" Trump said. \"I'm not going to feel so good. Maybe I'll have to leave the country, I don't know.\""
+    publishedDateTime: 2020-10-17T04:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 144
+    images:
+      - url: "https://i.insider.com/5f8a510dd260780019341ff0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
     publishedDateTime: 2020-10-08T02:57:00Z
@@ -3795,6 +3811,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
+    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name"
+    publishedDateTime: 2020-10-17T04:51:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/114426624"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/114426624"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTN/a50f81e6-b14d-4f24-a3b4-62add1c48836-AP20290851135278.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
     publishedDateTime: 2020-10-16T17:50:00Z
@@ -5477,17 +5509,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
-    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T01:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+  - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
+    excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."
+    publishedDateTime: 2020-10-17T03:15:00Z
+    webUrl: "https://www.pressherald.com/2020/10/16/republican-senator-mocks-kamala-harris-name-at-trump-rally/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Portland Press Herald
+      domain: pressherald.com
     quality: 70
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Election_2020_Trump_35278.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -5728,6 +5763,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally | Charlotte Observer"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+    publishedDateTime: 2020-10-17T04:27:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article246517880.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/national-politics/article246517880.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/national-politics/article246517880.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 65
   - title: "Dr. Jill Biden, Kamala Harris’s Husband Doug Emhoff Campaigning In Minnesota This Week"
     excerpt: "The wife of Democratic presidential candidate Joe Biden and the husband of vice presidential candidate Kamala Harris will be stumping in Minnesota this week."
     publishedDateTime: 2020-10-12T00:21:00Z
@@ -5907,6 +5953,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Senator David Perdue takes heat for Kamala Harris name flub"
+    excerpt: "His opponents claim he intentionally mispronounced Harris's name at a Macon Trump rally. His camp says it was merely a slip that was taken out of context."
+    publishedDateTime: 2020-10-17T04:37:00Z
+    webUrl: "https://www.11alive.com/video/news/politics/elections/senator-perdue-kamala-harris-name/85-bbc4e400-99c8-4b15-8db3-af9f0d20a0cb"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 55
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"
     publishedDateTime: 2020-10-11T11:12:00Z

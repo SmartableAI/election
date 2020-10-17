@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -301,6 +301,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Wants to Win. Why Does He Act Like He Wants to Lose?"
+    excerpt: "Trump thinks he doesn't need any advice. And hey, he won when everyone (even he) thought he'd lose. But it looks like his famous gut (instinct) may be catching up with him."
+    publishedDateTime: 2020-10-17T04:12:00Z
+    webUrl: "https://www.thedailybeast.com/trump-wants-to-win-why-does-he-act-like-he-wants-to-lose"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "70MuvOt2H+KL+C0Pi+swY7+XW3ibjwXfhU2USq1pglzdtEBZdf715XoNC6tvBVHOObyNvzTStXnkxzBGeQCnU0tdCsd6fTNUXNs/bW4utp3G6NI4FemZCK9dUa94R1/i8KFoYxQL6oz4CmiKfQonypaDHlewDflL1Cgoz0CdEtPVxyBHkaXibNZlRhDfu73f0Qcr6z2Tj5hl33Jsv61eTwKGHQP0ygovuRvjktp6I1BVmPpgH65nVbklNZBnUPjC4VrgRFup6sQXRO5J+088/mgq9nkIX2rcMZMdAEXM+8gQRlBrdohEIh5E5pMMMNqyHzaa2xF8xIw/RZPAKW4qOX6a7SVKCNUihHD2Bo4m7rs=;2DQQXUf5A1kvvEXf7X7nLg=="
 ---

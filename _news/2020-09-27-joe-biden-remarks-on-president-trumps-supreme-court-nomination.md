@@ -2964,6 +2964,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "The misinformation campaign against Kamala Harris, what you need to know"
+    excerpt: "Online attacks against Harris have gone far beyond the standard fare of political criticism. Viral social media posts have questioned Harris’ heritage, career ascent and eligibility to hold office."
+    publishedDateTime: 2020-10-02T00:00:00Z
+    webUrl: "https://www.politifact.com/article/2020/oct/07/misinformation-campaign-against-kamala-harris-what/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 54
+    images:
+      - url: "https://static.politifact.com/politifact/photos/kamala-parents.jpg"
+        width: 300
+        height: 426
+        isCached: true
   - title: "Say it ain't Joe: Biden has failed to curb penchant for tall tales stretching decades"
     excerpt: "Joseph R. Biden blew up his 1988 presidential bid with a plagiarized fictitious account of his hardscrabble roots, but the experience failed to cure him of his tendency to exaggerate, conflate and even invent stories about his upbringing and political history."
     publishedDateTime: 2020-09-27T11:39:00Z

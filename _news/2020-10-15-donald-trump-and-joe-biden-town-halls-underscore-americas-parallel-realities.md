@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Sen. Perdue appears to mock Kamala Harris' name at Trump rally"
+    excerpt: "A representative for David Perdue claimed the Republican senator mispronounced it, that it was a mistake and Perdue he \"didn't mean anything by it.\""
+    publishedDateTime: 2020-10-17T04:27:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/sen-perdue-appears-mock-kamala-harris-name-trump-rally-n1243810"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243810"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243810"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 160
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3420928/201016-david-perdue-ac-1130p_7ee8d22a91ffa79563298c7838950429.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
     excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
     publishedDateTime: 2020-10-10T02:13:00Z

@@ -302,6 +302,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Wants to Win. Why Does He Act Like He Wants to Lose?"
+    excerpt: "Trump thinks he doesn't need any advice. And hey, he won when everyone (even he) thought he'd lose. But it looks like his famous gut (instinct) may be catching up with him."
+    publishedDateTime: 2020-10-17T04:12:00Z
+    webUrl: "https://www.thedailybeast.com/trump-wants-to-win-why-does-he-act-like-he-wants-to-lose"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "H9UlhyR3Ggpue1CxX/R1Pm9O6lKDQWMQOh7QvopAI8ntz2rEsTZQP0uvSctfCq2gaemCJgoiux0vv1snFlab1K7iTqezlS8o79yQXdMil2TkeA2BSU6oZFqcrM0yAq7dH2L0yQ24kzuAYRSnzxDuy5iqC7kjkzfTVGZUx+Fjnfvkm2T//lirkoVVEdSw5ICYtSrEdSbRxWxFILmNj63ZKvObJNhBdr6BucyJGDgFio/sMq6x28kLZH+lfthB8uTS7p1mQ2W08FYO8ObdCuyyx0iBkU8VXCO9mjsopZZxyO5Xu1s0Vi7i3BHa0/XcK/eEoU6DhFimDQV5T+fiJAJWRnoBfW9mwPXcpKJ1/PHkgYR1w5O3rykFhw35SXkvmJQuuQvOl/7NoRK7kLJiNrMNUja/qcI5VfgGJ9UcoS4ZMxWEPMwQKov/xgoQMVjV5EQDiaQ3VkDP2YBiJyTY0Fqe57lgJrAWQKpziG5h1PimmLiu/7P3rcnaV2cotVkwAf3QB1pMy2dfhDciC3KC5y9edw==;snYV/+OZTo7MH2Ziks6bKQ=="
 ---

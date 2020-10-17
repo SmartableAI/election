@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-glad-social-media-cr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-glad-social-media-cracked-down-ny-post.amp"
 type: article
 quality: 160
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gowdy rips mainstream media: More articles about Pence debate fly than Hunter Biden"
+    excerpt: "Trey Gowdy criticized the mainstream media for failing to do its job after the New York Post bombshell report on Hunter Biden was restricted by Facebook and Twitter."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.foxnews.com/media/biden-hunter-story-trump-censor-twitter-facebook-trey-gowdy"
+    ampWebUrl: "https://www.foxnews.com/media/biden-hunter-story-trump-censor-twitter-facebook-trey-gowdy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-hunter-story-trump-censor-twitter-facebook-trey-gowdy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f796f0e1-696b-4992-b9ba-da1064a892da/0b6b02e5-8614-43f2-bbcf-34d666086897/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ted Cruz slams Twitter CEO: Jack Dorsey 'behaving as Joe Biden's press secretary'"
     excerpt: "Twitter CEO Jack Dorsey will be subpoenaed by Senate Republicans next week and questioned on why the social media company blocked two New York Post articles alleging Hunter Biden corruption while his fahter was vice president,"
     publishedDateTime: 2020-10-15T18:48:00Z

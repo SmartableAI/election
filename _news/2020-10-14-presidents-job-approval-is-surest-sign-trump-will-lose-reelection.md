@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 2760
+heat: 2780
 published: true
 
 provider:
@@ -686,6 +686,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump and House Speaker Pelosi haven't spoken to each other in a year"
+    excerpt: "Despite not talking, Trump and Pelosi have repeatedly traded barbs over the past 12 months. The issue at hand now is a stalled COVID-19 relief bill."
+    publishedDateTime: 2020-10-17T04:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-pelosi-havent-spoken-to-each-other-in-one-year-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f89b555d260780019341d29?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus"
     excerpt: "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday."

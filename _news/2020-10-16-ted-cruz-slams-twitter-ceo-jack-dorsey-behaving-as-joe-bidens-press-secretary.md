@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Gowdy rips mainstream media: More articles about Pence debate fly than Hunter Biden"
+    excerpt: "Trey Gowdy criticized the mainstream media for failing to do its job after the New York Post bombshell report on Hunter Biden was restricted by Facebook and Twitter."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.foxnews.com/media/biden-hunter-story-trump-censor-twitter-facebook-trey-gowdy"
+    ampWebUrl: "https://www.foxnews.com/media/biden-hunter-story-trump-censor-twitter-facebook-trey-gowdy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-hunter-story-trump-censor-twitter-facebook-trey-gowdy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f796f0e1-696b-4992-b9ba-da1064a892da/0b6b02e5-8614-43f2-bbcf-34d666086897/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "eVmqCzSY8/VrpnG1Q1oIiVsjkQqmxhHxMGRG7Im2EGGCjUVr9wZpemoaRTXFuqBP6IfZG58mRGKgLEPQIgEEaSEPa5nV6coMkQ7IZYYatmdjorBC4rvY6WFzNTwdvkhwxOT7Z4T/6oM1q2bIdUX2I2pTSu6zWDnUrcWTyAhIgHbfGe4acUItP8r0bDQ7lLBPEQS2khlOkR2+yI5YQ+RTGzomZ2HeIwbLTfJhph929odSlRhPBDNRAtrU2fu/U3Tx5+M5igwB624c8/TMSzv4Ft9LM3peewz1Qx1a1OYIB7HlZXDw7nXHk66vOva0WzDREje2ZgjEvP/u6brTRif5iQxRB9x3RppVZSu7epMOTcI=;Jmk/Zihf9nTsIw2pWcumsA=="
 ---

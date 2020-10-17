@@ -185,6 +185,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tucker Carlson Rips Town Halls: Biden ‘Skated By’ While Trump Was Confronted for ‘Performative Disavowals’ of White Supremacy, QAnon"
+    excerpt: "Fox News' Tucker Carlson blasted both town halls with Joe Biden and Donald Trump, slamming Savannah Guthrie for confronting the president to make \"performative disavowals\" of white supr"
+    publishedDateTime: 2020-10-17T04:24:00Z
+    webUrl: "https://www.mediaite.com/tv/tucker-carlson-rips-town-halls-biden-skated-by-while-trump-was-confronted-for-performative-disavowals-of-white-supremacy-qanon/"
+    ampWebUrl: "https://www.mediaite.com/tv/tucker-carlson-rips-town-halls-biden-skated-by-while-trump-was-confronted-for-performative-disavowals-of-white-supremacy-qanon/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/tucker-carlson-rips-town-halls-biden-skated-by-while-trump-was-confronted-for-performative-disavowals-of-white-supremacy-qanon/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 59
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/tucker.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hJ2ZsXj4+nHnPyxVuRTYSxKkmn/cMAfwfImAvG9Ukq7OwV+YoNuHefMyrDX/2T3NTJfd5AOSX2I1yuoc3YxwPfiCxHpCQdJFOR/8eSubAphOvjXtHhr90shE4+jFm3vS46TdXTd7HnXaSNUnu8vnlNBGfpVJduztUsk4fnizUochQzpTwUkOm9gFzmyBfwcQ8amIvGeqp8DJIEw0z7j2JlmioxzIONIQokOC53h8jHyQGKFmqK08QRZ0lIWc4/upso64Y6RmolNm7dVWOA/w2TzTIrfrwy+dp2pJW0O2wUwdaeS9c4DZgFKHA2Pj0Pedx81/8s2u5PSZB4B+Ox2w9yhRa0oGgCFM6AEdtzMFhsI=;HByXZRq+ahWCox6vl53IAg=="
 ---
