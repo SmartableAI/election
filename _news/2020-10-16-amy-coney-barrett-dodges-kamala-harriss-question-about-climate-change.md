@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/sustainability/climate-change/5
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp"
 type: article
 quality: 125
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -204,6 +204,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
+    excerpt: "Jon Ossoff announced that his campaign raised over $1 million in the less-than-24-hour period following David Perdue's mispronunciation of Kamala Harris' name."
+    publishedDateTime: 2020-10-17T20:57:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."

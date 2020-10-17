@@ -233,6 +233,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Women March in Washington Against Trump and Barrett"
+    excerpt: "Women’s March protesters took to the streets of Washington on Saturday to rally against President Trump and his nomination of Judge Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-17T20:57:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007401222/womens-march-against-barrett-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/17/us/politics/17elections-brief-march1/17elections-brief-march1-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Pro-Trump Group Closes Campaign by Shopping Dirt on the Lincoln Project"
     excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"
     publishedDateTime: 2020-10-13T22:32:00Z

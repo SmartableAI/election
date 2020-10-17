@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Nebraska Sen. Sasse rips Trump over COVID-19, foreign policy"
+    excerpt: "Republican U_S_ Sen_ Ben Sasse of Nebraska has told constituents that President Donald Trump mocks Christian evangelicals in private and “kisses dictators’ butts.”"
+    publishedDateTime: 2020-10-17T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/nebraska-sen-sasse-rips-trump-covid-19-foreign-73643349"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/nebraska-sen-sasse-rips-trump-covid-19-foreign-73643349"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/nebraska-sen-sasse-rips-trump-covid-19-foreign-73643349"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dd0efe314f4e43839890ffcf53138330_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Slamming Trump, GOP Sen. Ben Sasse warns of a ‘Republican bloodbath’ in Senate"
     excerpt: "Sasse castigated Trump in a telephone town hall with constituents, accusing the president of bungling the response to the coronavirus pandemic and cozying up to dictators and white supremacists."
     publishedDateTime: 2020-10-16T01:35:00Z

@@ -539,6 +539,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Headwinds for Trump in bid to repeat Upper Midwest victories"
+    excerpt: "President Donald Trump is making a late reelection pitch to voters Saturday in Michigan and Wisconsin, states in the Upper Midwest that were instrumental to his 2016 victory but may now be slipping fr"
+    publishedDateTime: 2020-10-17T20:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-struggling-retain-upper-midwest-win-column-73672397"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-struggling-retain-upper-midwest-win-column-73672397"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-struggling-retain-upper-midwest-win-column-73672397"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_268d661de45d40d297b0b660a773c5b3_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Officials in Scotland approve another Trump golf course"
     excerpt: "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists"
     publishedDateTime: 2020-10-17T18:09:00Z
@@ -1165,6 +1181,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "As hundreds gather for Women's March to protest Trump and Barrett's nomination, dozens expected to rally in support"
+    excerpt: "Thousands were expected to march Saturday to protest Amy Coney Barrett's nomination to the Supreme Court and galvanize voters ahead of Election Day."
+    publishedDateTime: 2020-10-17T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3693810001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693810001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/9e6406db-0225-4915-8768-061a85d9b01d-002_AP_Womens_March_Washington-2.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump got a $21 million tax break for saving the forest outside his NY mansion. Now the deal is under investigation."
     excerpt: "New York Attorney General Letitia James (D) is investigating whether the Trump Organization improperly inflated the value of Seven Springs estate."
     publishedDateTime: 2020-10-09T12:48:00Z
@@ -1658,6 +1690,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
         width: 800
         height: 430
+        isCached: true
+  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Michigan"
+    excerpt: "President Donald Trump is holding another big campaign rally in Muskegon, Michigan Saturday afternoon. The rally comes on the heels of Trump publicly going after Republican Senator Ben Sasse for his comments trashing the president in comments made public this week."
+    publishedDateTime: 2020-10-17T21:14:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-michigan/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-michigan/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-michigan/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump-rally-2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Demi Lovato calls out Donald Trump on political anthem Commander in Chief"
     excerpt: "Demi Lovato has called out President Donald Trump on his handling of racial injustice and the coronavirus pandemic on her new politically-charged anthem 'Commander in Chief'."

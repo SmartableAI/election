@@ -56,6 +56,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump amplifies allegations of bias against another presidential debate moderator"
+    excerpt: "President Donald Trump on Saturday again amplified accusations of bias against a debate moderator, deriding NBC News correspondent Kristin Welker ahead of next week's final debate against Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-17T21:10:00Z
+    webUrl: "https://www.politico.com/news/2020/10/17/trump-targets-presidential-debate-moderator-again-430027"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/17/trump-targets-presidential-debate-moderator-again-430027"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/17/trump-targets-presidential-debate-moderator-again-430027"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/1e/85/09bab0be45e18060bc602de671b2/ap20291699373363-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump struggles with crackpot conspiracy theories at townhall event"
     excerpt: "Pressed on some of the most insidious conspiracy theories of his presidency, Trump's answers were dishonest, wrong, and shameful."
     publishedDateTime: 2020-10-16T12:25:00Z

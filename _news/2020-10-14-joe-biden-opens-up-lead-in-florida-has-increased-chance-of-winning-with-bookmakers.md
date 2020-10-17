@@ -233,6 +233,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Joe Biden Campaigns in Durham, NC"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
+    publishedDateTime: 2020-10-17T11:10:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-nc"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "DDNL2R33gE25QfGwO7X8vP9pRZengEvLgRYoorSv/MvfLMtk3/meZvUwovoiH6eBIKi0WNzP5X0dulSO3oHaVOwpReO5ELiz67vnyXHEogLKz7oSHhQxSGfJNAq/DU+CS+aF2GupAwTqA1QQ0EXh8BjW/iYOMR/ZHp5yOWiXss67qwXaUlE3WN59jz9vPpH6trSQxlzKPGkqrI4KlY9Kqoo9K9UY3HX67NcwHt0wrS8ktpFlFkqpKtFVIa5fNosTqmYKj2nIfP1kGIJsp46RsgzJ+t+E94OW/PXHaIWiDKZDMKlwiJMxPMonimU8G8LjDaqaj8IwiT35Rr4MwG10sJj0bjWHZ9KQcYDRIYZd5R0=;aF5C0/RDrTq37Y/TdoaQOA=="
 ---

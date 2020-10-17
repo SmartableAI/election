@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -232,6 +232,20 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2020_41/3417708/201005-donald-trump-takes-off-mask-ew-736p_4e845b262807a1763877e9318d7c613b.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Women March in Washington Against Trump and Barrett"
+    excerpt: "Women’s March protesters took to the streets of Washington on Saturday to rally against President Trump and his nomination of Judge Amy Coney Barrett to the Supreme Court."
+    publishedDateTime: 2020-10-17T20:57:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007401222/womens-march-against-barrett-trump.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/17/us/politics/17elections-brief-march1/17elections-brief-march1-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Pro-Trump Group Closes Campaign by Shopping Dirt on the Lincoln Project"
     excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"

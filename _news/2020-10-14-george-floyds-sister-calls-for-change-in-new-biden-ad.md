@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-ca
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Joe Biden Campaigns in Durham, NC"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
+    publishedDateTime: 2020-10-17T11:10:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-nc"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "8/2PsRiQwFLXlYMFo5I7ouVuP3ozVA7deX5cgZ8cBSyewyooSm3dy3Lo0Bi+VPWmmHeuXe6HudQVyMK9PtPw/WY8KrAl72pBB55B7j3j7FpLHnhRZBU7VDiKWb8t2Pdn29k7muomiD3pZqQGpGLRUzBVO0/+Sx1Xxd1fq8Vgs/R/VFCfFqeFeappIUuhgSCZirZBa18xxdoxhMC6NgygFpj83m5wIhLWkjZjUWKFWTX5fyOorRY+Hc4yArTBYxNXT/re1uhdnRi9rRKmE21O2Iq98X+sev8u7RbGsZrD4VifXcivLtTrmC1U3LV3s2tqZ7Qfe5sv5vCzoYFhG1xd38QT+4PfPuzLX9QnW19dxKNKqaOUhdhOSIEM6CAZ3umD9fZcR8P9kI4bcLt9ySft/xc4eNiuv8eIQinXJvT0Yz4ibCAxkBrdnsoJSE49aF4xCKV0WD9Io5kYvn+NJ0MS88DAjBmpNXMbZD45peTQ8oG3UuBan7huc+XIVd7gc7flDsMeUA2HJZkXdAFGyh5KqQ==;eapgQduPMf9RCwEQh3Y4Pg=="
 ---

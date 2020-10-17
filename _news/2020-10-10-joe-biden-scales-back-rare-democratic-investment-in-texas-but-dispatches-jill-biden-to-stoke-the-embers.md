@@ -100,6 +100,20 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Here’s How To Visit Joe Biden’s ‘Animal Crossing’ Island, Which Is Decked Out In Campaign Stuff"
+    excerpt: "The presidential election is less than a month away, and Democratic candidate Joe Biden’s campaign found a new way to reach voters. While it might be unconventional, Biden's campaign has a new virtual field office on an island in Animal"
+    publishedDateTime: 2020-10-17T16:00:00Z
+    webUrl: "https://www.elitedaily.com/p/heres-how-to-visit-joe-bidens-animal-crossing-island-which-is-decked-out-in-campaign-stuff-39314113"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 43
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/17/8d59e681-577a-4830-893b-4d428623c657-combine_images-2.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x0UyZJjAL4QBoqc6u3PlQAXzeJQtB9gMLP6/lDNzmpKNUcwEKQuFIRalwppbmFy3/D3yC2G5vVo5hfwHkv6IcOppXyWGs77Iu2KrhQc3CvZROCdbN6uH1COJSawnnpxmTQk0NnhAFeoBjdeoT/jMs8t/eYmbakwXIV6ZXZOtM6jrU4LSZVDWzYuCqpSVzGBMJox04qa0GwK21AciHCDKPWyURQwexam+4bdpuZ35LMyoVhF0TKKFL4IkDnWZ+DwHTPkXwc0IITYN8TKGUIIWQtqHzAIt4HWEcBoNAdwLNDVp8pizqmpGs1dhZKZ43BJtUA1H3ekLoLj6bl/5FXiEV6RKTQlV0gNygCAxvgYTeDEcwCT8iTvmvZl2OqNuo9cFw8fFiP0LmH0kckTQQBxPE50xc3bZBCU/P7S3HqJirqzoHxU2BZrscKMjszAMjcM80NFqBd50I222wFPlNFO8HpEod+S2DOZlWpA5xK0wJyxWh/2bPPuZ1VCRc4EjbqePenNSbGJ4sB/C7hjJtk2o6w==;OLyE2gTUD9whttZN86E2mw=="
 ---

@@ -219,6 +219,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
+    excerpt: "Jon Ossoff announced that his campaign raised over $1 million in the less-than-24-hour period following David Perdue's mispronunciation of Kamala Harris' name."
+    publishedDateTime: 2020-10-17T20:57:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 102
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
     excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
     publishedDateTime: 2020-10-15T05:06:00Z

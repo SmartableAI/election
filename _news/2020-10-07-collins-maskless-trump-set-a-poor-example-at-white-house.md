@@ -135,6 +135,22 @@ related:
         width: 1200
         height: 815
         isCached: true
+  - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
+    excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
+    publishedDateTime: 2020-10-17T19:10:00Z
+    webUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/"
+    ampWebUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 73
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-16.jpg"
+        width: 1200
+        height: 624
+        isCached: true
   - title: "Trump Defends Promoting Conspiracy That Navy SEALs Didn’t Kill Bin Laden: ‘That Was an Opinion’"
     excerpt: "President Trump defended his promotion of a QAnon conspiracy theory claiming the Navy SEAL team who eliminated Osama bin Laden only killed a body double."
     publishedDateTime: 2020-10-16T01:42:00Z

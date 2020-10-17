@@ -527,6 +527,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden’s polling lead slips in wake of Post report on Hunter"
+    excerpt: "Joe Biden’s polling edge over President Trump eroded this week amid The Post’s scandalous revelations about his son Hunter’s foreign dealings — but the Democratic candidate"
+    publishedDateTime: 2020-10-17T08:37:00Z
+    webUrl: "https://nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/"
+    ampWebUrl: "https://nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How the Biden Campaign Responded to the Hunter Email Story"
     excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
     publishedDateTime: 2020-10-15T11:30:00Z

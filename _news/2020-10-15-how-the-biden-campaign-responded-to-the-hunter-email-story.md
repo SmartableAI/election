@@ -544,6 +544,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Joe Biden’s polling lead slips in wake of Post report on Hunter"
+    excerpt: "Joe Biden’s polling edge over President Trump eroded this week amid The Post’s scandalous revelations about his son Hunter’s foreign dealings — but the Democratic candidate"
+    publishedDateTime: 2020-10-17T08:37:00Z
+    webUrl: "https://nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/"
+    ampWebUrl: "https://nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
     publishedDateTime: 2020-10-14T23:30:00Z

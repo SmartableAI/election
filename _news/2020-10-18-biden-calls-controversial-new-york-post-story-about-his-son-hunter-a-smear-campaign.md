@@ -186,6 +186,20 @@ related:
         width: 5220
         height: 2715
         isCached: true
+  - title: "Is This a Photograph of Joe Biden’s House?"
+    excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."
+    publishedDateTime: 2020-10-17T21:36:00Z
+    webUrl: "https://www.snopes.com/fact-check/biden-mansion-tweet/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 55
+    images:
+      - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
+        width: 1122
+        height: 748
+        isCached: true
 
 secured: "Y16YUk7fQ0vVtKYk17HXAXEnntdyQqRtW/nLW/Hylejs6hOfvHrV87DeDSnvuyZY2Tm8ILHvn1i3dRw2s2hXAfr32VUGBaUgSeFESW88ncJqJ15GC/9yIfrSxAEdkPZLB0/6UybFBGmcU7ZdixNpgdxfpgF+mnQug5Gj/gK7d7b9ccQrEqPOxo3UNR2dSv+8RCIr1lxgVd319SIcnGabpFUhkz0NuWdZXp7fVphUKyz8I4Iupvve0LW/8ndNTWyrQbugumWtDr2blI1rkq5zqPhZLjkdpmHAWVcbc9RkJifn7QoXAojkku+aggYkwxDLirYUcoA9pt+LXjTCtmDvlTlGwF2rmaHHkapU2+2JvXo=;iHEFIfEaqfLnfCFtFmSzqA=="
 ---

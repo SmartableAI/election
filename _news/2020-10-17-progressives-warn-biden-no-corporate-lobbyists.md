@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden’s Plan For Student Debt Cancellation"
+    excerpt: "The cumulative federal student loan debt has surpassed $1.54 trillion, according to the latest data from the Department of Education."
+    publishedDateTime: 2020-10-17T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/wesleywhistle/2020/10/17/joe-bidens-plan-for-student-debt-cancellation/"
+    ampWebUrl: "https://www.forbes.com/sites/wesleywhistle/2020/10/17/joe-bidens-plan-for-student-debt-cancellation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/wesleywhistle/2020/10/17/joe-bidens-plan-for-student-debt-cancellation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8afef0e7685913fd647138%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
     excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."
     publishedDateTime: 2020-10-09T13:40:00Z

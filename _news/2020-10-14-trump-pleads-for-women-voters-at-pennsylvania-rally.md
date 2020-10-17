@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
+    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
+    publishedDateTime: 2020-10-17T20:34:00Z
+    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
+        width: 1024
+        height: 689
+        isCached: true
 
 secured: "V/98XX6LZaszaIeQGW9XrYsUEwHQ+MZqGJLALA/w+ScNw4OWD+4BEpulzKd4oJtFOZpUiwowIOBgR4jJ7Tte6HNrH4yeISWrH4IrlHloxGPjOT/qF0hpiG2PnD+BFLYkb1NNIv/oFsrnECSy9U1vAC8xcg/i8/SsN/Av9b28DA+axgVwOsBm0dQubunzfLzcX+5lad/AOglCnWbAUDhIOVXsU1FrY0JfSQZ2VppWDdQFhu0LCdbGznpNwhzLUetl2FwlAI0YDmOMMYQ8SC8xS8Y3ggoI5C3NoRitBWXdlywsMNdjCb7XkR5f/PJheZgAz8wN94tyRR/krB4dhuO/0M/RuPT9qLlw8Vol3a4OTM8=;5sxQYa4OIz7KIuARr5mUkA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
+    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
+    publishedDateTime: 2020-10-17T20:34:00Z
+    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
+        width: 1024
+        height: 689
         isCached: true
 
 secured: "hYUmxI8wyJXuGKvmLPTbFG6TP/0uJM0k+/7uAKuPLm7tXGCFMH1UNPDpqLXCULL9JO2iOn6QfdtITW5zvjz8avXr1gJbsl0vnrg+ug7Qf+Tv+KxdBJKOXYCtAiT9V8x/KUilhChWFprAKZ5lZ/Kbb/KkTzoMT/PH3CAEhuPP8jPnToe72RNHeY4vbD+qnc8EHFd+lxMM1QbJB2lJfbbQKmMAEEoxv+A/HKFRZRCBEGXgBLTzdIVoZW6bHCC4JYsYM3dRkiEoRElnhnSdpd58AipF2qPfXrF65oFFShL5uNZf6Z8Culp/r5dJAkUB4FbMwilfEeoABfDP+yeW/pOV81liS5xQZU6kCWJkbmWoVVk=;x2xK9xZyyEB269YicImjMg=="

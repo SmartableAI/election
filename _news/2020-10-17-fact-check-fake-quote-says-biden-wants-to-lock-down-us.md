@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-17T16:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
     excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
     publishedDateTime: 2020-10-16T02:46:00Z

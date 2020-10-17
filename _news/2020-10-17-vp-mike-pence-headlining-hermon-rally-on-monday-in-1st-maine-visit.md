@@ -57,6 +57,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "One-on-one interview with Vice President Mike Pence"
+    excerpt: "After Vice President Mike Pence’s campaign rally in Berks County on Saturday, Eyewitness News spoke one-on-one with the Vice President. The"
+    publishedDateTime: 2020-10-17T21:03:00Z
+    webUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/"
+    ampWebUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
+    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
+    type: article
+    provider:
+      name: WYOU
+      domain: pahomepage.com
+    quality: 75
+    images:
+      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2020/10/vlcsnap-2020-10-17-16h53m31s475.png?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Mike Pence arrives in Berks County"
     excerpt: "Vice President Mike Pence landed at Reading Regional Airport about 1 p.m. and has been speaking to a crowd of about 1,000 supporters. Pence was still on the ground conducting interviews at 2:30 p.m. and it was unclear when he would be setting off for his next stop."
     publishedDateTime: 2020-10-17T18:00:00Z
@@ -88,6 +104,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
+    excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
+    publishedDateTime: 2020-10-17T20:30:00Z
+    webUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
+    ampWebUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
+    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
+    type: article
+    provider:
+      name: Reading Eagle
+      domain: readingeagle.com
+    quality: 72
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/63/763bd77c-10b6-11eb-af0d-8bac2b708d58/5f8b527dd74a7.image.jpg?resize=1024%2C735"
+        width: 1024
+        height: 735
         isCached: true
   - title: "VP Mike Pence set to visit North Carolina Friday for campaign event"
     excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
