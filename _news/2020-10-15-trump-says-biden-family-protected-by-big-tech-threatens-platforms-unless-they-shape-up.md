@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump, Biden campaign in Michigan, Georgia, Florida after dueling town halls"
+    excerpt: "President Trump campaigned in Florida and Georgia and Democratic nominee Joe Biden made two stops in Michigan on Friday, a day after the candidates answered voters' questions in separate network town hall events."
+    publishedDateTime: 2020-10-17T06:52:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NOJYRBgDE-I/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
     excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
     publishedDateTime: 2020-10-16T13:13:45Z

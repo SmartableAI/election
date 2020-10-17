@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "‘Kisses Dictators’ Butts’: Republican Ben Sasse Gave Blistering Condemnation Of Trump In Audio Of Town Hall"
+    excerpt: "Sasse alleged Trump ‘kisses dictators’ butts,’ and ‘spends like a drunken sailor,’ also taking aim at his coronavirus response and treatment of women and evangelicals."
+    publishedDateTime: 2020-10-17T04:45:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/15/kisses-dictators-butts-republican-ben-sasse-gave-blistering-condemnation-of-trump-in-audio-of-town-hall/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/15/kisses-dictators-butts-republican-ben-sasse-gave-blistering-condemnation-of-trump-in-audio-of-town-hall/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/15/kisses-dictators-butts-republican-ben-sasse-gave-blistering-condemnation-of-trump-in-audio-of-town-hall/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88afd614c5ee8ae2c98a12%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5143%26cropY1%3D0%26cropY2%3D2893"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "vQE97gkE5HzwpoyfcNWS+IVjVEFh0TrI5uvKY/NP2/2fyI5Xum9fXz3a51f2ipihTIIz3zRbf/msdlwhHFFdu2yqCW26FHr1HXmYdJcCUGIE77/Vk0ba9b9c0d/jyR6lOtlE3EFYcdWPt9MdLScAUg207YNSPzin5icG5X112zTiLPa3kZ6j8z7H5kCbGkDabQivfyGMvWWJjTxLF62TVQUdcmgSTR81QOolx7HvO0hgM50I8/ydMndok/ODDVWmqYgQhGN04B4OuMPU2gCwjKdzT+amOtxktEZDUi+2lFUu6ITp7/8ut1FE1GBNxD42Gli83tNrRkq4mbYWIrs3bI9MMfrfk+3GVH1guH3Vvoc=;X4eSexL+Usr9SirHgDH/QA=="
 ---

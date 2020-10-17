@@ -73,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Mike Pence headlining Hermon rally on Monday in 1st Maine visit"
+    excerpt: "The rally at the Dysarts Service station set for 11:30 a.m. is among at least two stops Pence will make on Monday."
+    publishedDateTime: 2020-10-17T07:33:00Z
+    webUrl: "https://bangordailynews.com/2020/10/16/politics/pence-coming-to-maine-on-monday/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-2.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
     publishedDateTime: 2020-10-16T13:32:00Z

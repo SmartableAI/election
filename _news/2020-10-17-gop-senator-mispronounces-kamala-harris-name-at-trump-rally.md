@@ -1,30 +1,28 @@
 ---
 category: news
-title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
-excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name"
-publishedDateTime: 2020-10-17T04:51:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
-ampWebUrl: "https://amp.detroitnews.com/amp/114426624"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/114426624"
+title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+publishedDateTime: 2020-10-17T01:36:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTN/a50f81e6-b14d-4f24-a3b4-62add1c48836-AP20290851135278.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -4326,6 +4324,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Georgia senator mocks Kamala Harris' name with mispronunciations at Trump rally"
+    excerpt: "David Perdue referred to his Senate colleague, Democratic presidential nominee Joe Biden’s running mate, as 'KAH’-mah-lah? Kah-MAH’-lah? Kamala-mala-mala? Whatever.'"
+    publishedDateTime: 2020-10-17T07:33:00Z
+    webUrl: "https://www.wkyc.com/article/news/politics/elections/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/elections/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/elections/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    type: article
+    provider:
+      name: WKYC3
+      domain: wkyc.com
+    quality: 86
+    images:
+      - url: "https://media.wkyc.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Vice President Mike Pence to make Trump campaign stop in New Cumberland Monday"
     excerpt: "Vice President Mike Pence will visit Central Pennsylvania Monday for a Make America Great Again rally in New Cumberland, the Trump campaign said Friday."
     publishedDateTime: 2020-10-17T00:58:00Z
@@ -4704,6 +4718,22 @@ related:
       - url: "https://media.nbcmiami.com/2020/10/GettyImages-1279889013.jpg?fit=1024%2C576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "GOP senator accused of racism after repeatedly mispronouncing Kamala Harris’ name at Trump rally"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia rally for"
+    publishedDateTime: 2020-10-17T05:56:00Z
+    webUrl: "https://ktla.com/news/nationworld/gop-senator-accused-of-racism-after-repeatedly-mispronouncing-kamala-harris-name-at-trump-rally/"
+    ampWebUrl: "https://ktla.com/news/nationworld/gop-senator-accused-of-racism-after-repeatedly-mispronouncing-kamala-harris-name-at-trump-rally/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/nationworld/gop-senator-accused-of-racism-after-repeatedly-mispronouncing-kamala-harris-name-at-trump-rally/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 77
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/10/AP20290851135278.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Democrats doubted Kamala Harris was liberal enough. Now Mike Pence calls her radical. What’s true? | Charlotte Observer"
     excerpt: "Kamala Harris spent her presidential campaign trying to prove to her party she was a bona fide, enthusiastic liberal – not the “top cop” the former prosecutor called herself during her time as California’s attorney general."
@@ -5271,6 +5301,20 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Kamala-Harris-Ducks-Rachel-Maddows-Question-about-NBC-News-Hosting-Donald-Trump-Town-Hall-1200x672.jpg"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Why Kamala Harris May Be the Perfect Weapon Against Trump"
+    excerpt: "That’s not a sentiment that’s shared about Kamala.” Harris with her husband, attorney Douglas Emhoff (left) in January 2019 In 2008, Harris announced her candidacy for California attorney ..."
+    publishedDateTime: 2020-09-28T19:57:00Z
+    webUrl: "https://www.lamag.com/citythinkblog/kamala-harris-vice-president-joe-biden/"
+    type: article
+    provider:
+      name: Los Angeles Magazine
+      domain: lamag.com
+    quality: 70
+    images:
+      - url: "https://cdn2.lamag.com/wp-content/uploads/sites/6/2020/09/Featured_GettyImages-539942758_1500x1000px.jpg"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Biden Says No Debate if Trump Still Has Covid, But Looks Forward to Facing President ‘If and When He Shows Up’"
     excerpt: "Joe Biden said he's looking forward to facing President Donald Trump in another debate \"if and when he shows up,\" but said \"there shouldn't be a debate\" if Trump is still infected with COVID-19."
@@ -6046,6 +6090,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "jNAB3L6QfBrOMDM8TW36im5p2isFN+fNRU2C2MgI2PWWrOXtyTsRy2f2BHtX8ao0vtxeHOQr+7qRI3vHCg1VkGM2BgK2eHkzm4GstHZ74kfcjqT6cCOpHJFWjtrw3e30/OavS+Iyx754CbGvCZR9WM34KWIVI9hnGgno18/cKcd2VJdFSQt4hodEdiFlkf2jQ7k62+/VJjysqxVDQ8a679bBl4Y2KtTqCvu9/V/r12tPpCXajr67GT5jtJuZFnaknLyMhUtrFm64GpWVnuIFIPD0sIY7StARLV/VO5DGSoY8+hZCp7uzrWAkRL+8d9YWcX0i1u17sEf9Uga0TTpGs77AThs0NwNlsKFXvCUoEnY=;BrilkG82XV1IlDN+4r5HrA=="
+secured: "YpE36nj5p5B2Iy8dKXHDiUiq/EzkuJdM9Q5buaYzcnS7SGoknhNWmcOoL0EBQLSEMEJKeXpAZE5swR0g4hSQ0gbK5rDzmkBzcoOgs9VYJj5JgTmBn8FUvz6hGokjyTo1gn1DcAHaRrdJ6SckMfqFzL0Yl7ajZRXSsKKN4evNgsmgD50D2KW3nHFzMdOP02Aj0nviJHYRpYuI3ABQJtgye8u3f1FEr1ZFtphuu0ktarOG+26APJ/DkQU5towRmHSieL1I0BrKQ5bWHw7yyaIHQBhnAlGjNdUP7xD/qOT4jxbwElRB1YAWv/cR7wHA1HId3vh5bcNbjIg9wVOEOhwDiixB35DYh8WX/HS6huC3pFDCCsMG7uSBr0s2+/yk1zT3J6Yvs7vi17GIQhEbpKq0rnOVc1Slx75QQJ1ID4PR9L+wVNmye1o8/D+54EwOF/XTQopGr/IGTBvdP4V7gX0PBP1l6n3F0uNg2Dbe2yzACyB8ZNaOuNdlvzXf/fFrpIBlHulUONcWGglnlGBKZjgGzA==;TO9Fgz5BcE6f3QbLNX4blA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.rawstory.com/2020/10/watch-super-racist-rant-against-kam
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-super-racist-rant-against-kamala-harris-by-gop-senator-at-georgia-maga-rally/amp/"
 type: article
 quality: 68
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Raw Story
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Georgia Sen. David Perdue's mispronunciation of Kamala Harris' name draws outrage"
+    excerpt: "Georgia Sen. David Perdue is drawing outrage after appearing to mock Democratic vice presidential nominee Kamala Harris' name while warming up the crowd ahead of a rally for President Donald Trump speech on Friday night."
+    publishedDateTime: 2020-10-17T00:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/david-perdue_hpMain_20201016-203442_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Democrats must ‘leave no doubt on election day’ Kamala Harris' husband says in Michigan"
+    excerpt: "Michigan Democrats urged voters to get involved in the effort to elect Joe Biden during campaign events across the state Monday. Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris,"
+    publishedDateTime: 2020-10-12T23:36:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/democrats-must-leave-no-doubt-on-election-day-kamala-harris-husband-says-in-michigan.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 82
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UUAFEIVJXRE23JICAW4FRWYUUI.JPG"
+        width: 1300
+        height: 794
+        isCached: true
   - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
     excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
     publishedDateTime: 2020-10-17T04:44:00Z

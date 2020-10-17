@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "VP Mike Pence headlining Hermon rally on Monday in 1st Maine visit"
+    excerpt: "The rally at the Dysarts Service station set for 11:30 a.m. is among at least two stops Pence will make on Monday."
+    publishedDateTime: 2020-10-17T07:33:00Z
+    webUrl: "https://bangordailynews.com/2020/10/16/politics/pence-coming-to-maine-on-monday/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-2.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "5HyuAe0cuviEiM92PICB8xkN4lsnTV/eCgTFOxzbAvSv95kGjrqjwlM8bn8CI2sqi3jR46Wf45fgwaBEA5bbyGY1MWSeHpyfMnQbDyEZhzvfMm0jbxTRNSz5TBa2YneFBwmpgFCviqjbsPvWEn4sCdqn9e4+EpBQ6+s1AOEbysEjiF9OJss/Wg19KCyutldkwCg5pSFQ2YXxHJgkx+Vb00cQEat0e/Tn6Qo2BznWbDE2jsSMlXERhrhrc7FaWNXYCgm8k76y8jIPOE18skfNWtIcl/YqoI8AcQEqP0hvpFBAHF66KwRgp6kfNtETnD4hLxbfAJiJKsooQdQhZCtweu/6VSp74gpfcNRCJSrgop2DgOyEMlxAMtlJCnhK9wRsT/FNtkZTomd1M287Lu21qqhr+4mz9OLWx2Nsheni0dqM1ypHubobtk4MjFD1iODOqoE6JVr7uekEgQvRVKdccQQd9dLS6BcC20UULQjp6IOVJ7bunjMU9VnT4EOUNA6dvfTbWJCfi/r4W3n8Y0Kn3g==;nNicuMPAyi9NSk/A5ilKhg=="
 ---

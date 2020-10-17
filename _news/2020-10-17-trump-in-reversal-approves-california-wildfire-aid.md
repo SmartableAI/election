@@ -2,11 +2,11 @@
 category: news
 title: "Trump, in reversal, approves California wildfire aid"
 excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
-publishedDateTime: 2020-10-17T03:24:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
-webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
+publishedDateTime: 2020-10-17T05:08:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
+webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
 type: article
 quality: 125
 heat: -1
@@ -2036,6 +2036,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "UIgZepcIPPDojkg8flixQgciUxF/25Nwi8LOhPpXL4ssILaaqmOl0g2WfQYm8T2z6ewKbxTTRotyoz52l+UPQFT/cND+KRYrsV3qrczhtXgYvlFuW52M1ec7UlDq0aEYryPFME9XLh+35UNSG8/U8uKEc6tcwuMGq2arDG45yaUBrcCRSrQUUemRMrA0Kw9RTPBTvPRS+E+1Kkr0DT+tNkHRUJdqlR+OnTdgJY1iIlfqddC+T/e2ZYfALZVzBpm+MZ86XzhKbEyox0zMGDbRAm+w/DsqLrkrO+kaoKlFDOk9ArQ2mH6Pv2WQgXviwXHtLqt7odbs2VuoeUNSFnEE/WFzd3dv4epHMHiiccCqmsLYn9PyRgtJgECVfrJXV/bLoBs6U4M9D7tsxvNOL5DyTW1s/yE7hDWe0aDMO26Xpoq2O0yDlHgxG8OKRpT/QDGzf33dP1EihkCQ4S9Udbge7cLIGxWKaJ/1cFffNBjTZdYqdolmBiQLTz772XMorWvYiFGFyUQNHiDukiduJ2VHog==;Yz3ULFUCOiAWIYAWjJUtkw=="
+secured: "dU4ITknQYQANZEPLPKW8zyVoArwx9iW7+sOcKjDGwLb12Doof87yrhvjXOyfv/6SnT5QriDe44zf14wMZ6e372LUo4yyQK1Zz2ehXLmG2i5cvEjNMeg0zTkw2BLZHYJaTxu09/xv84sPVI+F6ydE8RUyj9x3gC9J7Z0rCQVAUAQrMupKOYZ6zzHCG1K9IMaeGHpbahtE1tzkamZSKDFqBPn9M3ALsELOW7A8hm2AmQX32Za3yk1SQa3LohImfG3ymkK5FNf9lWwGfmLnuPGIB4JLiKDOc8OHXDxJjTzNuO7st6OuVDuj2Clq6qrvBanfUIlhWw3supYFOxQVjXLlurwQWqTPqYsJSllAzrrpryA=;gRTCxI5ymIkrwXKeKoG7DA=="
 ---
 

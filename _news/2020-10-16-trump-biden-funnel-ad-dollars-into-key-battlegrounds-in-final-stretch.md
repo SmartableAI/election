@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-mone
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
 type: article
 quality: 190
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 180
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1e875e-1c05-40d4-ae45-3af1c856fe3f/d854cedf-71ec-4e2d-ac5e-ce8a2b108e24/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump, Biden campaign in Michigan, Georgia, Florida after dueling town halls"
+    excerpt: "President Trump campaigned in Florida and Georgia and Democratic nominee Joe Biden made two stops in Michigan on Friday, a day after the candidates answered voters' questions in separate network town hall events."
+    publishedDateTime: 2020-10-17T06:52:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NOJYRBgDE-I/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

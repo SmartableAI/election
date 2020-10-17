@@ -9,7 +9,7 @@ ampWebUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rall
 cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
 type: article
 quality: 88
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.wsoctv.com/resizer/weZfBUiN0K823B2fdkixR7xGoAQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "VP Mike Pence headlining Hermon rally on Monday in 1st Maine visit"
+    excerpt: "The rally at the Dysarts Service station set for 11:30 a.m. is among at least two stops Pence will make on Monday."
+    publishedDateTime: 2020-10-17T07:33:00Z
+    webUrl: "https://bangordailynews.com/2020/10/16/politics/pence-coming-to-maine-on-monday/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-2.jpg?fit=1024%2C683&#038;ssl=1"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"

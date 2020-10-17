@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/senate/521258-sasse-blasted-trump-in-pr
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521258-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/69EdIvJvv0p68BfIiEb0dllEucw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/SRLLBLLK2BXASG7PRYHQ5FUA7I.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "‘Kisses Dictators’ Butts’: Republican Ben Sasse Gave Blistering Condemnation Of Trump In Audio Of Town Hall"
+    excerpt: "Sasse alleged Trump ‘kisses dictators’ butts,’ and ‘spends like a drunken sailor,’ also taking aim at his coronavirus response and treatment of women and evangelicals."
+    publishedDateTime: 2020-10-17T04:45:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/15/kisses-dictators-butts-republican-ben-sasse-gave-blistering-condemnation-of-trump-in-audio-of-town-hall/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/15/kisses-dictators-butts-republican-ben-sasse-gave-blistering-condemnation-of-trump-in-audio-of-town-hall/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/15/kisses-dictators-butts-republican-ben-sasse-gave-blistering-condemnation-of-trump-in-audio-of-town-hall/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 107
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88afd614c5ee8ae2c98a12%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5143%26cropY1%3D0%26cropY2%3D2893"
+        width: 1200
+        height: 675
         isCached: true
   - title: "GOP Senator Offers Scathing Criticism Of Trump: 'He Kisses Dictators' Butts'"
     excerpt: "Republican Senator Ben Sasse of Nebraska is known to be a periodic critic of the President. In 2016, he notably announced that he was neither campaigning nor voting for Trump."
