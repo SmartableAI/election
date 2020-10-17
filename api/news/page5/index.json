@@ -2,6 +2,174 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-13-russia-dismisses-trump-administration-efforts-to-secure-nuclear-arms-deal-before-election.md",
+      "title": "Russia dismisses Trump administration efforts to secure nuclear arms deal before election",
+      "excerpt": "The Kremlin on Tuesday rejected assertions by the Trump administration that the US and Russia had come to a \"gentlemen's agreement\" on extending a key arms control agreement and dismissed the idea that a deal would be reached before the US presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtzMt22YlD8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DtzMt22YlD8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 661,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200608165352-usa-russia-flags-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/new-start-us-russia-comments/index.html",
+      "publishedDateTime": "2020-10-13T16:14:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-ex-white-house-doctor-questions-bidens-mental-capacity-to-be-president.md",
+      "title": "Ex-White House doctor questions Biden's 'mental capacity' to be president",
+      "excerpt": "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/048f5479-3edc-4e43-8155-6c4f45a2c149/af8ff7d7-6b5c-4ce2-a9be-4ad5bb46b196/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp",
+      "publishedDateTime": "2020-10-13T14:48:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-ayanna-pressley-challenger-in-massachusetts-says-she-was-attacked-at-local-trump-rally-suffered-broken-tibia.md",
+      "title": "Ayanna Pressley challenger in Massachusetts says she was attacked at local Trump rally, suffered broken tibia",
+      "excerpt": "The incident left her with a sprained finger, fractured tibia, and a mild concussion, Campbell told Fox News on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "publishedDateTime": "2020-10-13T14:02:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks.md",
       "title": "Jim Acosta responds to pro-Trump crowd chanting 'CNN sucks'",
       "excerpt": "CNN's Chief White House Correspondent Jim Acosta responded to a pro-Trump crowd chanting \"CNN sucks\" at a rally for President Trump in Florida.",
@@ -383,7 +551,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 8280,
+      "heat": 8340,
       "tags": null,
       "images": [
         {
@@ -1128,172 +1296,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight.md",
-      "title": "Biden: Faith shouldn't be a subject in Barrett confirmation fight",
-      "excerpt": "Democratic presidential nominee Joe Biden told reporters on Monday that Judge Amy Coney Barrett's religious beliefs should not be part of her Supreme Court confirmation hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight?amp",
-      "publishedDateTime": "2020-10-12T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-read-kamala-harris-remarks-at-the-supreme-court-confirmation-hearing.md",
-      "title": "Read: Kamala Harris' remarks at the Supreme Court confirmation hearing",
-      "excerpt": "Sen. Kamala Harris, the Democratic vice presidential nominee and a member of the Senate Judiciary Committee, spoke at the Supreme Court confirmation hearing of Amy Coney Barrett Monday remotely from her Senate office.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-7_0ESG6VMM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201012131303-04-barrett-hearing-1012-screengrab-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html",
-      "publishedDateTime": "2020-10-12T10:29:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
-      "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
-      "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
-      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
-      "publishedDateTime": "2020-10-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

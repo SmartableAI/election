@@ -2,26 +2,26 @@
 category: news
 title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
 excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
-publishedDateTime: 2020-10-14T19:55:00Z
-originalUrl: "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-webUrl: "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+publishedDateTime: 2020-10-15T01:55:00Z
+originalUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: WZZM
-  domain: wzzm13.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wzzm13.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
+  - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -97,6 +97,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "nRRFwcHtClgHp8ExlNRhI9KqIgy2XcC3oUyEoh+iouuX0M38wPT8GNp/AkQnBfzmOj9MfRYLmIMuZ9pqVK7pVPcp1BBXDPpiucF1N9/ufSQqpyhWoi0UNYIC2cF82JOcL35OOAfOQoeUUSY0g9Shims7XCZQmSZM+dOpLIl4xz/Qixsx1wgeCjqL3r33gK8F0Al0oC+fd6vaQoFMUKSjt5mP7T0FbUgszNR0QojjM1cI9tU5PXll9SerLRsBdHF2lKD0g6zPKkYlu5RyN8gwZ+n/2ohOjsObQ4vXInUfXPcrcDj8oanHGKl6jvcnI6oj4C+5/aqIj/uvpWW73RipDd6xDnhdJ9R/0vtGYY6gExPFkGzxA4NjjyEsElIl6YXJ1Sw5RLo80oGab0DgvdryXJuzGNHWCCRWe/oMDDBPmVQkDcoxDm9OcHhyFjQvq1E4FXVdYv+5lYkaa9LCwOjyNOKR/Osv03Kw75Qr3WtKDB4fQ83dqzzOdUuTUKL28VLchLpydhI7rqL07UC3npg2Mw==;4Je/yDv73Jh+vsHSR+s6qg=="
+secured: "iqfMdsNLUKA1P2NWXFc2fA1X+/xScACrOygMbKgVyhyeMzO74cW0hw3PL1om62WBG/3IuPwXj7BNSlKASfTWzCaQr4vnArmY/tO+nJTpBmJxDGz3MESYbLTF9ABMv8gWF+kt9EYeoIHURXOFUu6gfoFYk/MNdeRmpgZNCx4Cwr5v+MXDSnznQ9D4YkzjqqBlRtEh8kSFe9++j13VcQ8nywUyUD2tSGlK/RxbIhKkd4MrM8uNBK6E7dARjvus6+Qrxn5P3yfXBVbPxRmzK5DFmc4QyWux4xbUah4TchnAiYFlAFfMZ76cAPJHFCjjxtUzFqlLX7jPVowVYC3EQ5bp7u7MlEFHbvParWAHDPA7tcM=;esEVnry06Wj8UdMec9LQHg=="
 ---
 

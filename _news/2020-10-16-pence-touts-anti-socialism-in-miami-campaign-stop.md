@@ -7,7 +7,7 @@ originalUrl: "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts
 webUrl: "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/"
 type: article
 quality: 55
-heat: 95
+heat: 75
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 43
-  - title: "Vice President Pence Remarks at Faith in America Roundtable in Miami"
-    excerpt: "President Mike Pence speaks at a roundtable in Miami on religious freedom. The vice president also talks about President Trump’s foreign policy record, including his Middle East policy and moving the U."
-    publishedDateTime: 2020-10-15T21:37:00Z
-    webUrl: "https://www.c-span.org/event/?477038/"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "PTnX6PnyMDyHxhqyHEqeJ8DUM1nAbOsePiwYxn8K55n/hs18W/lUmQT2+uZPQdoNpp6pLCDDzEpJUdwM1TTGUG1tSUk7AqECOV1ztNtuRC1ksU+VqpzDz9fDvfgA+KCLNgDJ/5YYXNCPtN4yoMTwk/cmWE5ruSxiGjzd4rdI+8xVaiBhmM7X+1/YfZTQnGi725eeKLEcWxZXGBndfHAHEwt3ULaCDbUPQrk8HgbjOoSkiOOnPbLsxzKsCz0U81oNDMdresu5l9GeZ1vyaWGb83BLT55f5YDzFtO4kPjlRoJSbe2gAKiM1b0MkkrHsjJbKxlrNaM2NLDnNGiUxpJjV/dY6mfafQd+AKOdoxXGn/g=;MmEwshhzoALyPxIzDDb0Pw=="
 ---

@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
+    excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
+    publishedDateTime: 2020-10-17T13:30:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
+        width: 757
+        height: 430
+        isCached: true
   - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
     excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"
     publishedDateTime: 2020-10-17T01:54:00Z

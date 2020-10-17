@@ -2,6 +2,161 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-on-supreme-court-overturning-roe-v-wade-theres-nothing-happening-there.md",
+      "title": "Trump on Supreme Court overturning Roe v. Wade: 'There's nothing happening there'",
+      "excerpt": "President Trump said Tuesday night there’s “nothing happening” in the Supreme Court with Roe v. Wade, and it isn’t on the ballot with the latest Supreme Court vacancy. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump_biden_debate_split_thumb_3.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "publishedDateTime": "2020-09-29T18:45:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.md",
+      "title": "Philly firefighters, paramedics union breaks with IAFF to endorse Trump",
+      "excerpt": "The firefighters and paramedics union in Philadelphia broke with the International Association of Fire Fighters to endorse President Trump in the upcoming election, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOcoWa5OnY8/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MOcoWa5OnY8/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/Frank20Miles20HEADSHOT.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.amp",
+      "publishedDateTime": "2020-09-29T17:55:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-borats-mike-pence-targeting-sequel-to-screen-on-amazon-prime-ahead-of-election-day.md",
+      "title": "Borat's Mike Pence-Targeting Sequel to Screen on Amazon Prime Ahead of Election Day",
+      "excerpt": "Amazon Prime recently acquired Borat's sequel and is planning to air Sasha Baron Cohen's latest mockumentary at the end of October.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/",
+      "originalUrl": "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static2.cbrimages.com/wordpress/wp-content/uploads/2020/09/Borat-header.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/borat-sequel-targets-mike-pence-election-day-amazon-prime/amp/",
+      "publishedDateTime": "2020-09-29T17:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-netanyahu-says-trumps-critics-dead-wrong-on-middle-east-peace-efforts.md",
       "title": "Netanyahu says Trump’s critics ‘dead wrong’ on Middle East peace efforts",
       "excerpt": "Israeli Prime Minister Benjamin Netanyahu said Tuesday that President Trump’s critics were “dead wrong,” in predicting that the Trump administration’s attempts to bring peace to the Middle East would fail -- after a series of landmark U.S.-brokered deals were signed this month. ",
@@ -1177,168 +1332,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
-      "title": "Harris to voters: Don't give up as Trump rushes court pick",
-      "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "publishedDateTime": "2020-09-28T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-kamala-harris-doesnt-take-questions-after-speech-ripping-trumps-supreme-court-push.md",
-      "title": "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push",
-      "excerpt": "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oP1Zl6z25WQ/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 913,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9710e7d0-b418-4817-851c-601c81b0ca58/45146b75-8b1a-4d4d-9517-26baa043d584/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-doesnt-take-questions-raleigh-speech-supreme-court.amp",
-      "publishedDateTime": "2020-09-28T17:45:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-fauci-trump-receiving-incorrect-information-on-coronavirus.md",
-      "title": "Fauci: Trump Receiving ‘Incorrect’ Information On Coronavirus",
-      "excerpt": "President Donald Trump might be receiving “either out of context or actually incorrect” information about coronavirus, Dr. Anthony Fauci told CNN on Monday after being asked about Dr. Scott Atlas, who was added to the White House Coronavirus Task Force last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
-      "originalUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 825,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f726dbc6600384172144241%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2820%26cropY1%3D143%26cropY2%3D1729",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/09/28/fauci-trump-receiving-incorrect-information-on-coronavirus/amp/",
-      "publishedDateTime": "2020-09-28T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

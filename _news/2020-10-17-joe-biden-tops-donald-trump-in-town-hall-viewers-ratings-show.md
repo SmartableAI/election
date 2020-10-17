@@ -2237,6 +2237,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden's extremist labor agenda"
+    excerpt: "Joe Biden campaigns as a moderate, yet his labor policy is anything but. He supports the most radical rewrite of federal labor laws in U.S. history, and American workers should be afraid. Biden’s plan is sweeping."
+    publishedDateTime: 2020-10-17T13:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521343-joe-bidens-extremist-labor-agenda"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521343-joe-bidens-extremist-labor-agenda?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521343-joe-bidens-extremist-labor-agenda?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09092020_1.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Trump and Biden campaigns, Save Our Stages Fest, coronavirus pandemic: 5 things to know this weekend"
     excerpt: "Trump heads to Michigan, Biden surrogates hit the campaign trail, an action-packed sports Saturday and more things to get your morning started right."
     publishedDateTime: 2020-10-17T09:41:00Z
@@ -2926,6 +2942,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Fact checking President Trump"
+    excerpt: "This election year, the Washington Post's small team of fact checkers released a book that examined more than 15,000 presidential claims. In the book, \"Donald Trump and His Assault on Truth,\" Glenn Kessler,"
+    publishedDateTime: 2020-10-17T13:13:00Z
+    webUrl: "https://www.cbsnews.com/video/fact-checking-president-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/17/455c6300-591c-4406-aab4-e0ec51834834/thumbnail/1200x630/12f1f823f2c3e825f951ce3d971cfd01/cbsn-fusion-fact-checking-president-trump-thumbnail-567827-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Story Behind Kamala Harris's Truancy Program"
     excerpt: "HuffPost reporter Molly Redden explains how a program trying to reduce school absences produced unintended consequences—both for California families and Harris herself."
     publishedDateTime: 2020-10-17T10:01:00Z
@@ -3207,6 +3237,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/election_2020_debate_76400_c0-69-1728-1077_s1200x700.jpg?89be50a2e68c3898aa1cfc5ceb1c8c3c2f798382"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris' Hilarious Reaction to Fly on Mike Pence's Head"
+    excerpt: "Kamala Harris isn't taking the fly bait from Rachel Maddow ... refusing to talk about the one that camped out on Mike Pence's head for 2 minutes. The Democratic Vice Presiden"
+    publishedDateTime: 2020-10-15T20:57:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/kamala-harris-rachel-maddow-refuses-talk-mike-pence-fly-head/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/kamala-harris-rachel-maddow-refuses-talk-mike-pence-fly-head/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/kamala-harris-rachel-maddow-refuses-talk-mike-pence-fly-head/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 100
+    images:
+      - url: "https://imagez.tmz.com/image/f3/16by9/2020/10/15/f37af1cbfe4249ae8b5669a277effc0a_xl.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris revealed that she noticed fly on Mike Pence’s hair"
     excerpt: "During the latter moments of the debate between Kamala Harris and Mike Pence, a fly landed on Pence’s hair. The fly immediately diverted attention from the actual debate, as thousands of people on social media created memes to poke fun at Pence."
@@ -3878,21 +3924,21 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
-    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name"
-    publishedDateTime: 2020-10-17T04:51:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/114426624"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/114426624"
+  - title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
+    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
+    publishedDateTime: 2020-10-17T01:33:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTN/a50f81e6-b14d-4f24-a3b4-62add1c48836-AP20290851135278.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
@@ -6186,6 +6232,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "1ru/ck2pvq8hwAS0vhWkmONt9QfRDqzgxEWKM0P/Js/vbXqZWzU99A67WzQ4tA0HbZ4pxcDHfZ78hUjQs2gx1FKIORnWXa9+zzpVna4BOkAvXtjMVXYr7Pze1nFzfm6jJ8l7k8xJFA0+VTSfwhX/LqpKRYaE5yAl9UNdsyvTi1FW2yBp+UI4dfd6IkvbtUMUmKmjzTtjefLmtyK+pPrVAFbCEzBgIXKmmlPKDsW7nxXoHl+xy2ddYOz4HXPD3uYnHgzKWrNBST/8OffgcAzdZTfFkx+Bqru/uB3TpoL5WaSiJcidLuNdSLaygoe0/xdDiRYIu9HXb5wno65ggLMwj4rlM7jDlOJvE/wgbLEs2ig=;9nz40shzHGbcn5kOHC/06Q=="
+secured: "47HlgNFeTDatX6acclsmKmjp7FrA3erHwbK9KRyJJiA79POLelOIDgPkS5u0HIpJFZA0+LI+DdbSRsmPvVi00xz/DuwmKgFDMra9w/SriKxt7BdDhylDpjikH70AnOTtiq3qt2+oqO1Cwd7UcbBKtrjAVs/5p1DrCBo3PoilUHPb9At5kPOk9Pjcr/6AuGVwwIIUhMCGS9p6do7Qsa5qAqcGiskgyUuKMiWQiUNETd2A0t2Eta8JQPiflCjgZ2L9mUG71t8oHtaEYfROiHVRmVdrrqw7OWmdAuOIOXRfHj3DPPCXrhR60N6V3A9izrOqIzMSUktvy3MY47wzq+Xj0iwf0/Fq60IsB0Svt0u9Fry6KcL3DzOa+haetrxTFG5RF38n2i6e8P2VpYsN2MMW84gFKyB642BBln0jcTqJ+mTntuJbxzFE5NQM2z2cHfoDWDeF0EXqy9/hEWKjDoMdPsGR7M17SD9bknBdO1hogyKJy07UTOEj4hmmkr0rgvNOrCL+LSvb9INmKYy8w+9xPw==;U7OmnO+FDE6s+ZvSzqPIhQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2701AT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT"
 type: article
 quality: 120
-heat: 120
+heat: 140
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 817
     height: 545
     isCached: true
+
+related:
+  - title: "Nancy Pelosi defends shunning Donald Trump for a year after she walked out on their meeting last October"
+    excerpt: "The Speaker and President Trump have not spoken since October 16, 2019 after the two traded insults and the Pelosi walked out."
+    publishedDateTime: 2020-10-17T12:46:00Z
+    webUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year"
+    ampWebUrl: "https://www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nancy-pelosi-defends-not-speaking-to-donald-trump-for-entire-year?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f8ac006d260780019342001?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "vNWrSIufRUveg2emx30QgVO99dOMi5zaDL+v7fiJnVjmhxFkO5oyMKP3RglSAPWd4NjuMS1JAFwWmZkLx6gF8SYdBIrt1Zd1ckAd9DHyYoMRVetY4l2AYb2scBpIkBfHl1xQMfnJ2ecP6JTVwtQ6suojraWbTflkDzAL4ItC1mvl5Ga07zHco0zSfEwQkQC0gVKD0hVf4lvp8qh9OPKidJJ1wyoV4ILdt1kheKaF6HdqgXDpMBRD9J0leFHdtZooB2cFypPL67iaPoFTjZ9Sz7kqwRzkW743KdI5xxr9m1jV0O5d+4WRcJ9G4Q1bzhu8jSZdPcoRkmJxwnqvG+JuJGWlOE6Xn4xab4qsnnc+VGU=;Qz38f6WfhWFuL//WJ3V8WQ=="
 ---

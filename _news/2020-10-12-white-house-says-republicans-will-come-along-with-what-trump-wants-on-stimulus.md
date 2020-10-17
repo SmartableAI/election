@@ -513,10 +513,10 @@ related:
         isCached: true
   - title: "Trump, in reversal, approves California wildfire aid"
     excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
-    publishedDateTime: 2020-10-17T03:24:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
+    publishedDateTime: 2020-10-17T05:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
     type: article
     provider:
       name: Reuters
@@ -526,6 +526,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537785422&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F1ON"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump wanted John McCain to apologize to him after the 2016 election, longtime aide says in new book"
+    excerpt: "\"Well, that's the real reason I unendorsed you,\" Sen. John McCain admitted to Trump during a call, referring to the Access Hollywood recording."
+    publishedDateTime: 2020-10-17T13:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f1207543f737074423f5836?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
@@ -1582,6 +1598,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/S.W.A.T.-Team.jpg"
         width: 606
         height: 429
+        isCached: true
+  - title: "Trump is letting it slip that he knows he is losing badly: report"
+    excerpt: "According to a report at Politico, the normally self-assured Donald Trump has assumed a defensive posture in his recent rally speeches, openly begging for votes because he knows deep down that he will not be re-elected on Nov."
+    publishedDateTime: 2020-10-17T13:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."

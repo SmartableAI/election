@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-17-jeannine-lee-lake-whos-running-against-rep-greg-pence-says-shes-receiving-racist-threats.md",
+      "title": "Jeannine Lee Lake, who’s running against Rep. Greg Pence, says she’s receiving racist threats",
+      "excerpt": "A black woman running for a congressional seat in Indiana against Vice President Mike Pence’s brother says she is being inundated with threats and racist messages after the local Delaware",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/",
+      "originalUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201017-indiana-greg-pence-threats.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/pence-brothers-opponent-says-shes-receiving-racist-threats/amp/",
+      "publishedDateTime": "2020-10-17T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election.md",
       "title": "Vice President Pence to Hold Rally in Maine Monday, 2 Weeks Before Election",
       "excerpt": "Vice President Mike Pence is set to travel to Maine for a “Make America Great Again” rally next week, in the final stretch of the 2020 presidential campaign. The Trump campaign announced Friday that Pence would be hosting a rally in Hermon at 11:30 a.",
@@ -97,6 +145,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-16-vp-mike-pence-in-pa-saturday-heres-what-to-know-about-tickets-schedule.md",
+      "title": "VP Mike Pence in Pa. Saturday: Here's what to know about tickets, schedule",
+      "excerpt": "Vice President Mike Pence is once again making his way to central Pennsylvania, but this time the campaign trail is taking him to Berks County. Pence, who was last in Pennsylvania",
+      "sourceUrl": null,
+      "webUrl": "https://www.ydr.com/story/news/2020/10/15/vp-mike-pence-pa-saturday-tickets-schedule/3673423001/",
+      "originalUrl": "https://www.ydr.com/story/news/2020/10/15/vp-mike-pence-pa-saturday-tickets-schedule/3673423001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ydr.com/amp/3673423001",
+      "cdnAmpWebUrl": "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3673423001",
+      "publishedDateTime": "2020-10-15T19:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YDR",
+        "domain": "ydr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-pence-touts-anti-socialism-in-miami-campaign-stop.md",
       "title": "Pence touts anti-socialism in Miami campaign stop",
       "excerpt": "Vice President Mike Pence traveled to Florida on Thursday to rally Hispanic voters by highlighting President Donald Trump's record opposing socialist leaders across Latin America. (Oct. 15)",
@@ -105,7 +196,7 @@
       "originalUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -222,6 +313,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-vp-mike-pence-speaks-at-make-america-great-again-event-in-grand-rapids.md",
+      "title": "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids",
+      "excerpt": "Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "originalUrl": "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wkyc.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07",
+      "publishedDateTime": "2020-10-14T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYC3",
+        "domain": "wkyc.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -372,7 +506,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 8280,
+      "heat": 8340,
       "tags": null,
       "images": [
         {
@@ -1371,173 +1505,6 @@
         "Election",
         "Mike Pence",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.md",
-      "title": "Vice presidential debate: Both Trump, Biden campaign claim victory after Pence, Harris showdown",
-      "excerpt": "Both the Trump campaign and the Biden campaign claimed victory after Wednesday night’s vice presidential debate—with team Trump touting Vice President Pence, saying he is “ready to lead,” and team Biden praising Sen. Kamala Harris for making a “forceful case” for a Biden presidency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsjExuOZgdE/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 4368,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp",
-      "publishedDateTime": "2020-10-07T22:43:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-former-cia-director-accuses-mike-pence-of-lying-about-hillary-clinton-and-russia-during-vp-debate.md",
-      "title": "Former CIA Director Accuses Mike Pence of Lying About Hillary Clinton and Russia During VP Debate",
-      "excerpt": "Vice President Mike Pence \"lied about handwritten notes of mine from 2016 that referenced unsubstantiated Russian allegation about Secretary Clinton\" during his debate with Senator Kamala Harris, former CIA Director John Brennan tweeted on Wednesday night.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "originalUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1647769/vice-president-mike-pence.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/former-cia-director-accuses-mike-pence-lying-about-hillary-clinton-russia-during-vp-debate-1537305?amp=1",
-      "publishedDateTime": "2020-10-07T22:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-analysis-this-is-vice-president-mike-pences-answer-on-a-peaceful-transfer-of-power-read-it-carefully.md",
-      "title": "Analysis: This is Vice President Mike Pence's answer on a peaceful transfer of power. Read it carefully.",
-      "excerpt": "The vice presidential debate Wednesday night will be remembered more for how the candidates evaded questions than how they answered them.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Im4t-7FK9LM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201007213656-30-vp-debate-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/pence-transfer-of-power/index.html",
-      "publishedDateTime": "2020-10-07T22:20:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

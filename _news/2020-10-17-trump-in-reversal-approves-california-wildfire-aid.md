@@ -2,11 +2,11 @@
 category: news
 title: "Trump, in reversal, approves California wildfire aid"
 excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
-publishedDateTime: 2020-10-17T03:24:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
-webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
+publishedDateTime: 2020-10-17T05:08:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
+webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
 type: article
 quality: 125
 heat: -1
@@ -510,6 +510,22 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump wanted John McCain to apologize to him after the 2016 election, longtime aide says in new book"
+    excerpt: "\"Well, that's the real reason I unendorsed you,\" Sen. John McCain admitted to Trump during a call, referring to the Access Hollywood recording."
+    publishedDateTime: 2020-10-17T13:13:00Z
+    webUrl: "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f1207543f737074423f5836?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
@@ -1583,6 +1599,22 @@ related:
         width: 606
         height: 429
         isCached: true
+  - title: "Trump is letting it slip that he knows he is losing badly: report"
+    excerpt: "According to a report at Politico, the normally self-assured Donald Trump has assumed a defensive posture in his recent rally speeches, openly begging for votes because he knows deep down that he will not be re-elected on Nov."
+    publishedDateTime: 2020-10-17T13:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
     publishedDateTime: 2020-10-10T15:53:00Z
@@ -2063,6 +2095,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "LRLZEfD+S58PLfw+JFUuzxqm7PdrFxqdvRPWu5io2h0nHfytauR9xDDwyQKV6DkztCOI144tYCRszI7UlHlhaj/hlNgXg1YfQL0C7Xxz5/H1bLxv3I9OBJ1Dj8sb43W8k1eY7Y6xvv9P+lZfguGh9fo/LuCOu7hc1ByIXgruZVnIrgpfRGXLLhL7aOT9XpD5oijFHCeQrywPHjpeIdbmAzPgY4fVkmLR8nnhn1XZTBbUT6qGFkwtMeUYvUi1OE12dBqXlyYqUeX7w5Vwa4a4JEq8hdZvs/hF3FTbEa3Nyfl3ILDgCHXtSYLXYgmXLU+2P0KiVUs3xFed4P0VPzgeGRWy4og5I1OB8hdkELMQeQ8=;n6DKOqYGbZ9mQ8dWEKepSQ=="
+secured: "EchAxXyPqXmVJ3CJpYOnD5VJlo8wdDtbAHrmbTyCAvt+oNWxsuTnyAQuBC+C00L0HA9ApegQTdai1EdDRmQLTd0g28q7qjA8I/GrufZUhjlJXhGhzxnegUWGPH7T0CapmQoTgFg3kMgzFefT849hJw0oNNWgjYhu994ukwMRQsa+E3fd/pfUVzZvHa51DFSXJ+JEgXCaaVt2BECo92n0x3UY/id272p7FBMF2Ra6C1OS0chdAdciO4DOlOydWm5Vi8H57VFRjWF+Psbi21dkvwAIMyNL/Gb1cCijiDHygXsSkALrWmVO1jf71Zr09EilDQSbYonvu5OB6ry9d5LodaXDDK8kXTVyfC2umE0YKYA=;+1cRJrYdokALgHYaUk1ecA=="
 ---
 

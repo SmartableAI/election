@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP senator deliberately mispronounces Harris' name at Trump rally"
+    excerpt: "Republican Sen. David Perdue of Georgia willfully mispronounced his Senate colleague Kamala Harris' name during remarks ahead of President Donald Trump's rally in Macon. In a statement, a spokeswoman for the Perdue campaign said \"Senator Perdue simply mispronounced Senator Harris' name, and he didn't"
+    publishedDateTime: 2020-10-17T04:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZB4AlL5-k98/david-perdue-kamala-harris-mispronounces-name-trump-rally-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/17/david-perdue-kamala-harris-mispronounces-name-trump-rally-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/17/david-perdue-kamala-harris-mispronounces-name-trump-rally-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016214446-david-perdue-file-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Commission cancels second debate between Trump and Biden"
     excerpt: "The Commission on Presidential Debates on Friday canceled the second debate between Donald Trump and Joe Biden after the President declined to do a virtual debate despite concerns over his Covid-19 diagnosis, organizers said.\n    \n"
     publishedDateTime: 2020-10-09T23:14:51Z

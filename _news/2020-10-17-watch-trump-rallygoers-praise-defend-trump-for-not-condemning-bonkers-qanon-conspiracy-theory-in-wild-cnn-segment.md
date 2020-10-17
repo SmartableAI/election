@@ -107,6 +107,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
+    excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
+    publishedDateTime: 2020-10-17T13:30:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
+        width: 757
+        height: 430
+        isCached: true
 
 secured: "sOVErAM7yMY/cvZhzHl3JcwmWTSjBFkN8QSaBJfI5IhxkPPAyWP7PxsFV0siue+erPM+r7fyPwZg3zNSIOOl91i0hOPzOqpwm+IT71vw1BuHDNKA9d/jRHgIyPArW8FeeEzEX/QGkXgy0YSd+l//YB7GwmiGjStdEZ1QheXOrcbWutAAcuzx/VoyCGHrGcc1C/YAYCEaw/bwXD4+XhGP8shOmes0HGK+gT33M7AZDJV+sXmHGiG39e9cOMdEYBz2Q/wZ5cGVnf8qx/PktV+QaWefTBcGNc46EZtpc1zT3uDNZj8aBd5CTjjwreC4b74kbFJ1Zog+7ADyL+4a/woe5kTHg4/OMkTBcmNg82nTVGg=;BIHnlcLtBuuK0ZIYE1Txig=="
 ---

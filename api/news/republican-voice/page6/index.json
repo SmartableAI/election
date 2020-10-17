@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-24-sanders-charges-trump-is-aiming-to-de-legitimize-election-through-massive-voter-suppression.md",
+      "title": "Sanders charges Trump is aiming to ‘de-legitimize’ election through ‘massive voter suppression’",
+      "excerpt": "Sen. Bernie Sanders is warning that President Trump is going “down the path of authoritarianism” by refusing “to commit to a peaceful transition of power if he loses the election.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sxsYy-s3ErY/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a267b29-9fd2-4f37-9c11-9f2f17de8532/7451902e-cb28-4a65-9801-5058469cf5d9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sanders-charges-trumps-aiming-to-delegitimize-election-through-massive-voter-suppression.amp",
+      "publishedDateTime": "2020-09-24T12:19:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-24-cuomo-whitmer-call-for-congress-to-investigate-trumps-response-to-covid-crisis.md",
       "title": "Cuomo, Whitmer call for Congress to investigate Trump's response to COVID crisis",
       "excerpt": "Two Democratic governors are calling for Congress to investigate the Trump administration’s handling of the coronavirus crisis, which they allege was politicized and impeded the U.S. response.",
@@ -1601,62 +1657,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.md",
-      "title": "Trump rally crowd chants 'Fill that seat!' as Supreme Court choice looms",
-      "excerpt": "If the crowd at President Trump’s Saturday rally in North Carolina was any indicator, the president's supporters have already decided what he should do about the vacancy on the U.S. Supreme Court.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8JbEbSQDm8A/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/SunTrump.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-crowd-chants-fill-that-seat-as-supreme-court-choice-looms.amp",
-      "publishedDateTime": "2020-09-19T22:11:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

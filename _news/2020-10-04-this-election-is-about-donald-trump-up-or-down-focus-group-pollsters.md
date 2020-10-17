@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump flails and shows no ability to reset as some Republicans voice their concerns"
+    excerpt: "As President Donald Trump began a packed day of events Friday, he delivered an unusually somber message to seniors -- a group he won in 2016 and desperately needs to win back -- speaking of the pain and grief inflicted by the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2020-10-17T10:57:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qkAZPOr6_xg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/donald-trump-joe-biden-gop-defections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'I am feeling well!': Trump gives update on Twitter"
     excerpt: "President Donald Trump was taken to Walter Reed National Military Medical Center on Friday, the same day he announced he and first lady Melania Trump had tested positive for Covid-19. The president was \"doing very well\" and did not require supplemental oxygen,"
     publishedDateTime: 2020-10-04T03:17:00Z

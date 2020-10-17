@@ -29,17 +29,17 @@ images:
 related:
   - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
     excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
-    publishedDateTime: 2020-10-14T19:55:00Z
-    webUrl: "https://www.wzzm13.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    publishedDateTime: 2020-10-15T01:55:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
     type: article
     provider:
-      name: WZZM
-      domain: wzzm13.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 85
     images:
-      - url: "https://media.wzzm13.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
+      - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
         width: 750
         height: 422
         isCached: true

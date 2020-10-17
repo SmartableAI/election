@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP senator deliberately mispronounces Harris' name at Trump rally"
+    excerpt: "Republican Sen. David Perdue of Georgia willfully mispronounced his Senate colleague Kamala Harris' name during remarks ahead of President Donald Trump's rally in Macon. In a statement, a spokeswoman for the Perdue campaign said \"Senator Perdue simply mispronounced Senator Harris' name, and he didn't"
+    publishedDateTime: 2020-10-17T04:02:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZB4AlL5-k98/david-perdue-kamala-harris-mispronounces-name-trump-rally-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/17/david-perdue-kamala-harris-mispronounces-name-trump-rally-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/17/david-perdue-kamala-harris-mispronounces-name-trump-rally-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 200
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016214446-david-perdue-file-0930-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Republican senator willfully mispronounces Kamala Harris' name at Trump rally"
     excerpt: "Sen. David Perdue, a Georgia Republican who's locked in a tight reelection battle against Democrat Jon Ossoff, willfully mispronounced his Senate colleague Kamala Harris' name on Friday during remarks ahead of President Donald Trump's rally in the Peach State.\n    \n"
     publishedDateTime: 2020-10-17T00:43:08Z

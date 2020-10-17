@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The legal reckoning awaiting Donald Trump if he loses the election"
+    excerpt: "If things don't go Donald Trump's way on Election Day, the President may face more serious matters than how to pack up the West Wing.\n    \n"
+    publishedDateTime: 2020-10-17T11:43:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2MQ1CZdpEOI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/trump-election-legal-reckoning/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/trump-election-legal-reckoning/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016141917-20201016-trump-legal-reckoning-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Barrett declines to commit to recusing herself from a Trump election case"
     excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
     publishedDateTime: 2020-10-13T16:14:50Z
