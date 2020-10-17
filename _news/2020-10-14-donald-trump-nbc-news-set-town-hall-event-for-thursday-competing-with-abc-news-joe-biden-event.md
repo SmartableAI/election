@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
-    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
-    publishedDateTime: 2020-10-16T01:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
     excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
     publishedDateTime: 2020-10-15T18:13:00Z

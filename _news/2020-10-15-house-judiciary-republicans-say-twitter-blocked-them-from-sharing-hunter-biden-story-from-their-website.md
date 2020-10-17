@@ -74,38 +74,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Hawley wants Twitter, Facebook to come before Senate following censorship of Hunter Biden report"
-    excerpt: "Facebook and Twitter showed Wednesday that they \"want to rig an election,\" Senate Judiciary Committee member Josh Hawley, R-Mo., told \"The Ingraham Angle\" after the social media giants censored or blocked dissemination of a bombshell New York Post report on Hunter Biden."
-    publishedDateTime: 2020-10-15T04:24:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3CVjs2rUHio/twitter-facebook-hunter-biden-censorship-hawley"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4053a9f-fe88-449f-9578-0e27623a44c4/79de0b82-b72d-4062-9aa5-e47de07220ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook official who said platform is reducing distribution of Hunter Biden story has worked for top Dems"
-    excerpt: "Facebook Policy Communications Director Andy Stone, who said Wednesday the site is reducing the distribution of a New York Post exposé revealing private emails between Hunter Biden and an adviser to Ukrainian gas company Burisma Holdings, has years of professional experience working for top Democrats."
-    publishedDateTime: 2020-10-14T19:31:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Gt7W2Ex96o/facebook-spokesperson-top-democrats-new-york-post"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-spokesperson-top-democrats-new-york-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-spokesperson-top-democrats-new-york-post.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/05-igsharing-friction-07.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
     excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"
     publishedDateTime: 2020-10-15T08:06:00Z

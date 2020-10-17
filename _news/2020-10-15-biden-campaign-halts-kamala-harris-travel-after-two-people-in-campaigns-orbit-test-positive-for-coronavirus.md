@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus "
-excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus.\n    \n"
-publishedDateTime: 2020-10-15T20:41:10Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
+title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus"
+excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus."
+publishedDateTime: 2020-10-15T13:53:00Z
+originalUrl: "https://www.cnn.com/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+webUrl: "https://www.cnn.com/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
 type: article
-quality: 180
+quality: 131
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Democratic Voice
   - Kamala Harris
+  - Democratic Voice
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
@@ -45,6 +45,22 @@ related:
     quality: 205
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016074545-01-caroline-giuliani-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia Republican senator willfully mispronounces Kamala Harris' name at Trump rally"
+    excerpt: "Sen. David Perdue, a Georgia Republican who's locked in a tight reelection battle against Democrat Jon Ossoff, willfully mispronounced his Senate colleague Kamala Harris' name on Friday during remarks ahead of President Donald Trump's rally in the Peach State.\n    \n"
+    publishedDateTime: 2020-10-17T00:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P0lmweM0_90/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/david-perdue-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/david-perdue-kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 193
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825182547-07-sen-race-rankings-david-perdue-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -189,6 +205,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's search for a turnaround"
+    excerpt: "President Donald Trump sought to improve his fortunes this week as he continues to lag in polling behind Democratic nominee Joe Biden, but he's running out of time to turn the race around -- and Americans are already casting their votes by the millions.\n    \n"
+    publishedDateTime: 2020-10-16T22:45:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JPed2g5KLQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-coronavirus-town-hall-campaign-reset/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-coronavirus-town-hall-campaign-reset/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015204159-05-trump-town-hall-1015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -411,6 +443,6 @@ related:
       domain: thedailybeast.com
     quality: 36
 
-secured: "OC73QaIe5S2ubaW4xWaItuT0O1t0tkoPdtDKRqAcNVsEQwanJWz33527yomfcwZSNWtkQW+/JxP3pnyK8MrnsSlPF8coS9JPE+wilMDUiyyVt7dxg03J+AE7XnQXdE5kRqeTrbCC0zK7KDDz2jK8T9qCexckalKaIJ5/3bMCeV6TnRFz1dV3vKTQIg0Z7/5y/LzOjjoJCzeF5lLRJfvFI5y29kx2w6Z5s0uF0mKiy8vazRRtp6H6LK/zRnZv0Ee9dJtdjf+54LYxg48plqxZqo6vznkN5yY4vViFW8LnEG3PKM21LO92SI29+ufH90tQ3phn5yRFuDTGKxo+KXNTebjMDeo0nyNmQDhzmKNolFk=;9W71lg3tLAA2zT0+D4HbHg=="
+secured: "+eQs61QeWALhlYfwOiCJAk1qzvGvhYSyNaZIIvOAUG5cP8dKp9+U+nlXDS1VgFIBjXpgOiQ2W5e0DEhkVETU0OeFrssPqxBJq1qw2fZQbuYQBULEdm5hO3Xp34jSAtu5IPl92Swx1Pn8MMvqMjj3XqKNc9UOv/qnoeIMdmSlaqRfDR4/GtiK+mmjZMPRPtt4QeEx67gNqgDrPsZ8ZgjJcB5S5sa0MdiDx0scOv1dVTR8fTFD3MNoN0EZjZPErT+vjqFpIiwo4GWy/xbM+2JSSX6T84ElnYtXEe8i7Wqq1WIV2lNN/rT5dzWJFypYgmRaxs7FunNGqga9U1+MRb5/3TX93b8TM2bBRT58/sdahGI=;NacTxRYB6r/bTPuIkKaXug=="
 ---
 

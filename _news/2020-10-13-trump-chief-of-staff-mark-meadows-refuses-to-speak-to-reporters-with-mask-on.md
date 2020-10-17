@@ -592,6 +592,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump administration reverses course on California wildfire aid"
+    excerpt: "The request was for September, when blazes scorched nearly 1.9 million acres, destroyed over 3,300 structures and killed at least 3 people."
+    publishedDateTime: 2020-10-17T00:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-administration-refuses-california-wildfire-disaster-aid-n1243723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420742/201016-bobcat-fire-al-0947_665d9c20bdc6ff7324018d62723de801.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump's Covid-plagued White House proves testing alone can't keep America safe"
     excerpt: "Just like a pregnancy test cannot take the place of birth control, Covid-19 tests should not be seen as substitutes for robust public health strategies to reduce community transmission."
     publishedDateTime: 2020-10-08T08:34:00Z

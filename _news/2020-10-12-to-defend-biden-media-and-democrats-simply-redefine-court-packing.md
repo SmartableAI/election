@@ -106,38 +106,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
-    publishedDateTime: 2020-10-16T13:31:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden falsely claims union endorsement during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back at a town hall Thursday against suspicion from a boilermakers union member regarding his position on fracking by insisting that the union endorsed him, when no such endorsement appears to have been given."
-    publishedDateTime: 2020-10-16T21:21:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bwcwjaE-Mi4/biden-falsely-claims-union-endorsement-during-abc-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden reiterates plan to convince Americans to wear masks"
     excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
     publishedDateTime: 2020-10-16T00:54:06Z
@@ -566,22 +534,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Biden falsely claims union endorsement during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back at a town hall Thursday against suspicion from a boilermakers union member regarding his position on fracking by insisting that the union endorsed him,"
-    publishedDateTime: 2020-10-16T21:26:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Joe Biden's lack of media scrutiny 'breathtaking and unprecedented,' has influenced election, experts say"
     excerpt: "The mainstream media finally acknowledged Democratic presidential candidate Joe Biden has largely gotten a pass from the press and is rarely asked tough questions or held accountable for dodging inquiries about key issues."
     publishedDateTime: 2020-10-14T14:59:00Z
@@ -597,22 +549,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc0ca422-bb3d-4497-8add-d85c320ddab6/9a25940f-7c59-4a9b-a372-22248d93a118/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
-    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
-    publishedDateTime: 2020-10-12T09:56:00Z
-    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
-    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,"
@@ -718,22 +654,6 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
-    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
     excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
     publishedDateTime: 2020-10-15T23:30:00Z
@@ -765,22 +685,6 @@ related:
       - url: "https://assets.realclear.com/images/52/524046_5_.jpg"
         width: 750
         height: 500
-        isCached: true
-  - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
-    excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
-    publishedDateTime: 2020-10-13T04:01:00Z
-    webUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920"
-    ampWebUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 81
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
-        width: 650
-        height: 340
         isCached: true
   - title: "Biden's $2 trillion infrastructure plan gets a mixed reaction from industry groups"
     excerpt: "Democratic presidential nominee Joe Biden has managed to thread the needle with his latest massive infrastructure wish list, pleasing industry stakeholders and environmentalists alike."
@@ -839,24 +743,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 57
-  - title: "Notice Biden Camp Isn't Denying the Facts on Sleazy Scoop"
-    excerpt: "Notice that Joe Biden and his campaign aren't disputing the basic facts The Post has uncovered about Hunter Biden's cashing in on his dad's high office. The ex-veep called a lid for the day at 9:… That was when Democrats owned the House for 42 years straight,"
-    publishedDateTime: 2020-10-15T12:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/15/notice_biden_camp_isnt_denying_the_facts_on_sleazy_scoop_526449.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
-  - title: "Credibility Questions Swirling Around Hunter Biden Reports"
-    excerpt: "There are huge credibility questions swirling around a series of reports by the tabloid across town, all of which emanate from a laptop, said to be Hunter Biden's, supposedly left behind at a Delaware repair shop."
-    publishedDateTime: 2020-10-16T11:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/16/credibility_questions_swirling_around_hunter_biden_reports_526534.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
   - title: "Democratic Coalition Ad Features Obama, Clinton, Sanders, Dozens Of Others Endorsing Joe Biden"
     excerpt: "Former President Obama, Michelle Obama, Bernie Sanders, Hillary Clinton, John Kasich, and many others appear in this new ad produced by the Democratic Coalition."
     publishedDateTime: 2020-10-11T16:21:00Z

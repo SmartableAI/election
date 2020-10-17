@@ -185,6 +185,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
+    excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
+    publishedDateTime: 2020-10-16T23:49:00Z
+    webUrl: "https://www.businessinsider.com/ny-post-insiders-gripe-about-biden-coverage-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 78
+    images:
+      - url: "https://i.insider.com/5f8a00499e9fe40019009e3b?width=1200&format=jpeg"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
     excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
     publishedDateTime: 2020-10-13T22:05:00Z

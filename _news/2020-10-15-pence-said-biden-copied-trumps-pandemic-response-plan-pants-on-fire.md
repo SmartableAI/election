@@ -569,6 +569,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump jokes that he might leave the country if he loses to Joe Biden in Nov. 3 election"
+    excerpt: "Democrat Joe Biden has held a consistent edge over Donald Trump in national polls and in many battleground states."
+    publishedDateTime: 2020-10-17T03:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/trump-jokes-he-might-leave-country-if-he-loses-joe-biden/3688173001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3688173001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3688173001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 147
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/025b2a41-9626-4908-bfd1-60a2efe9a3e6-AP_Trump.jpg?auto=webp&crop=4688,2637,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
     excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris; Date: Wednesday, October 7, 2020; Location: Universi"
     publishedDateTime: 2020-10-06T16:56:00Z
@@ -1081,6 +1097,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden edges Trump in TV ratings for dueling town halls"
+    excerpt: "Former Vice President Joe Biden won a TV ratings battle with President Donald Trump as the two held competing town halls with voters just weeks ahead of the Nov. 3 election, according to Nielsen ratings data released on Friday."
+    publishedDateTime: 2020-10-17T02:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-ratings-idUSKBN2712HY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712HY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712HY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537805997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F1IL"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Dueling town halls: Biden beats Trump in Nielsen TV ratings"
     excerpt: "Early Nielsen estimates give Joe Biden the edge over Donald Trump but the figures don't include West coast or cable viewing."
     publishedDateTime: 2020-10-16T19:03:00Z
@@ -1452,9 +1484,9 @@ related:
   - title: "Why watching the Donald Trump and Joe Biden town halls at the same time was peak 2020"
     excerpt: "Watching Donald Trump and Joe Biden's competing town halls simultaneously on NBC and ABC was weird and a perfect representation of the 2020 election."
     publishedDateTime: 2020-10-16T13:57:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/media/2020/10/16/trump-biden-town-hall/3666521001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3666521001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3666521001"
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/16/trump-biden-town-hall-2020-dueling-column/3676918001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3676918001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3676918001"
     type: article
     provider:
       name: USA Today
@@ -1558,6 +1590,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/dcskaC9ANlmN76VeWgkvsX--0NQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/2WQI32VOHZD4VHOZP447C3LXK4.aspx"
         width: 1200
         height: 819
+        isCached: true
+  - title: "Georgia senator mocks Harris's name before Trump rally: 'Kamala-mala-mala, I don't know'"
+    excerpt: "Democrats are calling on Sen. David Perdue (R-Ga.) to apologize after he mocked Democratic vice presidential nominee Kamala Harris’s name, accusing the Georgia lawmaker of sounding a racist dog whistle."
+    publishedDateTime: 2020-10-17T01:38:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521509-georgia-senator-mocks-harriss-name-before-trump-rally-kamala-mala-mala-i"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521509-georgia-senator-mocks-harriss-name-before-trump-rally-kamala-mala-mala-i?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521509-georgia-senator-mocks-harriss-name-before-trump-rally-kamala-mala-mala-i?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 131
+    images:
+      - url: "https://thehill.com/sites/default/files/perduedavid_012820gn_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Politics professor previews Pence-Harris vice presidential debate"
     excerpt: "COVID-19 safety protocols are being stepped up ahead of the first and only vice presidential debate in Salt Lake City Wednesday night between Vice President Mike Pence and Democratic nominee Senator Kamala Harris."
@@ -1704,6 +1752,22 @@ related:
       - url: "https://i.insider.com/5f808bdd4c3b2e0019bba2cd?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Sen. Perdue called out for bungling Sen. Kamala Harris’s first name, echoing Trump’s mocking"
+    excerpt: "This kind of vile, race-baiting trash talk is what President Trump has unleashed from sitting Republican members in the Senate,” Democrat Jon Ossoff said."
+    publishedDateTime: 2020-10-17T01:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/16/senator-perdue-kamala-harris/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/16/senator-perdue-kamala-harris/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/16/senator-perdue-kamala-harris/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-17-2020/t_1b251c46549f4ec7ab0bb7aa315d7eb1_name_20201016_PErdue_2.jpg&w=1440"
+        width: 1440
+        height: 809
         isCached: true
   - title: "VP debate 2020: Kamala Harris and Mike Pence go head to head – live updates"
     excerpt: "The coronavirus pandemic threatens to overshadow the event and"
@@ -2369,6 +2433,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "President Trump and Joe Biden campaign in key battleground states Friday"
+    excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
+    publishedDateTime: 2020-10-17T01:13:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-campaign-in-key-battleground-states-friday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/17/24ca98bf-6627-4fdf-848f-0e5afebb25dd/thumbnail/1200x630/1c66aacd3ee9f421cdc76cc5c6e781c7/cbsn-fusion-president-trump-and-joe-biden-campaign-in-key-battleground-states-friday-thumbnail-567697-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
     publishedDateTime: 2020-10-14T22:32:00Z
@@ -2490,6 +2568,22 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08tphmm.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Pelosi and Trump Traded Insults at the White House One Year Ago—And They Haven't Spoken Since"
+    excerpt: "House Speaker Nancy Pelosi insisted that there does not need to be a \"person-to-person between the speaker and the president\" for government to function, one year after she and President Donald Trump spoke for the last time in person during a contentious White House meeting."
+    publishedDateTime: 2020-10-17T02:40:00Z
+    webUrl: "https://www.newsweek.com/pelosi-trump-traded-insults-white-house-one-year-ago-they-havent-spoken-since-1539981"
+    ampWebUrl: "https://www.newsweek.com/pelosi-trump-traded-insults-white-house-one-year-ago-they-havent-spoken-since-1539981?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/pelosi-trump-traded-insults-white-house-one-year-ago-they-havent-spoken-since-1539981?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1654737/pelosi-tearing-state-union-speech.jpg"
+        width: 3688
+        height: 2660
         isCached: true
   - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
     excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
@@ -2781,6 +2875,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_BIden_38230.jpg-c6f1d_c0-123-2946-1841_s1200x700.jpg?d6904f16af061206ca30c81bd1d572bfaf544cd7"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Woman who told Trump he had a nice smile at his town hall wishes the president would 'talk less' and is 'not a fan'"
+    excerpt: "Paulette Dale, the voter who complimented the president's smile on Thursday, told the Miami New Times that she planned to vote for Joe Biden."
+    publishedDateTime: 2020-10-17T01:16:00Z
+    webUrl: "https://www.businessinsider.com/woman-who-complimented-trumps-smile-is-actually-leaning-toward-biden-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/woman-who-complimented-trumps-smile-is-actually-leaning-toward-biden-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/woman-who-complimented-trumps-smile-is-actually-leaning-toward-biden-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
+    images:
+      - url: "https://i.insider.com/5f89c6759e9fe40019009c88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How sexist, racist attacks on Kamala Harris have spread online — a case study"
     excerpt: "Kamala D. Harris (D-Calif.) found that a solid 54 percent of Americans approved, while only 29 percent had a negative opinion. But in the fetid corners of the Internet, a different set of plotlines took hold."
@@ -3688,6 +3798,38 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "HA HA! Donald Trump Loses To Biden in Ratings"
+    excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
+    publishedDateTime: 2020-10-16T17:50:00Z
+    webUrl: "https://www.themarysue.com/donald-trump-loses-to-biden-in-ratings/"
+    ampWebUrl: "https://www.themarysue.com/donald-trump-loses-to-biden-in-ratings/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/donald-trump-loses-to-biden-in-ratings/amp/"
+    type: article
+    provider:
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 90
+    images:
+      - url: "https://am24.mediaite.com/tms/cnt/uploads/2020/08/biden-trump-collage-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden's Town Hall Beats Donald Trump's in Ratings"
+    excerpt: "Joe Biden's Thursday night town hall came out ahead of Donald Trump's in the ratings battle. Despite NBC's controversial decision to schedule a town hall with Trump opposite Biden's previously scheduled town hall on ABC,"
+    publishedDateTime: 2020-10-16T21:54:00Z
+    webUrl: "https://www.tvguide.com/news/joe-biden-town-hall-beats-donald-trump-ratings/"
+    ampWebUrl: "https://www.tvguide.com/amp/news/joe-biden-town-hall-beats-donald-trump-ratings/"
+    cdnAmpWebUrl: "https://www-tvguide-com.cdn.ampproject.org/c/s/www.tvguide.com/amp/news/joe-biden-town-hall-beats-donald-trump-ratings/"
+    type: article
+    provider:
+      name: TV Guide
+      domain: tvguide.com
+    quality: 90
+    images:
+      - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/15/7247a275-413b-4c54-bf06-c79003e14296/thumbnail/1300x867/815cc77c6a2676a9d281816b4c121d0a/biden-trump-split-town-hall.jpg"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T11:51:00Z
@@ -4166,6 +4308,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Vice President Mike Pence to make Trump campaign stop in New Cumberland Monday"
+    excerpt: "Vice President Mike Pence will visit Central Pennsylvania Monday for a Make America Great Again rally in New Cumberland, the Trump campaign said Friday."
+    publishedDateTime: 2020-10-17T00:58:00Z
+    webUrl: "https://www.fox43.com/article/news/local/york-county/vice-president-mike-pence-to-make-trump-campaign-stop-in-new-cumberland-monday/521-6a0159d0-62af-4034-9976-e4feb877feb6"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/local/york-county/vice-president-mike-pence-to-make-trump-campaign-stop-in-new-cumberland-monday/521-6a0159d0-62af-4034-9976-e4feb877feb6"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/york-county/vice-president-mike-pence-to-make-trump-campaign-stop-in-new-cumberland-monday/521-6a0159d0-62af-4034-9976-e4feb877feb6"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 86
+    images:
+      - url: "https://media.tegna-media.com/assets/WPMT/images/b6ae93bc-7b1f-4e2d-9786-dc0b54e56fb0/b6ae93bc-7b1f-4e2d-9786-dc0b54e56fb0_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T10:55:00Z
@@ -4325,6 +4483,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/07/the-issue-of-new-government-aid-to-workers.jpg"
         width: 1024
         height: 725
+        isCached: true
+  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally | Raleigh News & Observer"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+    publishedDateTime: 2020-10-17T00:56:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article246517880.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article246517880.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article246517880.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/78dcdfc6-b03a-4007-945e-59a6859bbcee/ddba28ba-9d34-4106-a427-21d257c27663/1280x720/match/image.jpg"
+        width: 1245
+        height: 720
         isCached: true
   - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."
@@ -4565,8 +4739,8 @@ related:
         isCached: true
   - title: "Joe Biden Beats Donald Trump In Early Dueling Town Halls Ratings; Atlanta Beats Dodgers Over On Fox"
     excerpt: "After all the concerns about threats to democracy in the pursuit of ratings, Thursday’s dueling town halls between Donald Trump on NBC and Joe Biden on ABC ended up being a very good night for"
-    publishedDateTime: 2020-10-16T15:42:00Z
-    webUrl: "https://deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/#!"
+    publishedDateTime: 2020-10-16T16:20:00Z
+    webUrl: "https://deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/?ref=hvper.com"
     ampWebUrl: "https://deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/amp/"
     cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/joe-biden-tops-ratings-town-halls-donald-trump-abc-nbc-mlb-fox-dodgers-braves-1234598754/amp/"
     type: article
@@ -4864,6 +5038,54 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5615998022001/9cea001f-5773-4d82-83f4-be9bb936ec3b/main/1280x720/5m2s218ms/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris' Cleveland Visit Canceled; 2 Staffers Test Positive"
+    excerpt: "The vice presidential nominee will not be in Cleveland on Friday after two people associated with the campaign contracted the coronavirus."
+    publishedDateTime: 2020-10-16T02:27:00Z
+    webUrl: "https://patch.com/ohio/cleveland/kamala-harris-cleveland-visit-canceled"
+    ampWebUrl: "https://patch.com/ohio/cleveland/amp/29020958/kamala-harris-cleveland-visit-canceled-2-staffers-test-positive"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/ohio/cleveland/amp/29020958/kamala-harris-cleveland-visit-canceled-2-staffers-test-positive"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22896693/20201015/101236/styles/patch_image/public/gettyimages-1149301364___15101216704.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "Democrats lash out at Trump administration ahead of Vice President Mike Pence's visit to Berks County"
+    excerpt: "Berks Democrats say the Trump Administration has failed in its handling of the coronavirus pandemic, health care and trade."
+    publishedDateTime: 2020-10-16T23:15:00Z
+    webUrl: "https://www.readingeagle.com/coronavirus/democrats-lash-out-at-trump-administration-ahead-of-vice-president-mike-pences-visit-to-berks/article_3a6e4bec-0fff-11eb-8f78-33310cc5b5cf.html"
+    ampWebUrl: "https://www.readingeagle.com/coronavirus/democrats-lash-out-at-trump-administration-ahead-of-vice-president-mike-pences-visit-to-berks/article_3a6e4bec-0fff-11eb-8f78-33310cc5b5cf.amp.html"
+    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/coronavirus/democrats-lash-out-at-trump-administration-ahead-of-vice-president-mike-pences-visit-to-berks/article_3a6e4bec-0fff-11eb-8f78-33310cc5b5cf.amp.html"
+    type: article
+    provider:
+      name: Reading Eagle
+      domain: readingeagle.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/8/47/847f7a3e-4c2e-11ea-ab48-9b33d8fc17e4/5e419940b9c2c.image.jpg"
+        width: 400
+        height: 573
+        isCached: true
+  - title: "Joe Biden Has Changed"
+    excerpt: "I f Joe Biden prevails, his basement will rest alongside William McKinley’s front porch in the annals. In his subterranean retreat, Biden not only sat still while his opponent spectacularly self-destructed,"
+    publishedDateTime: 2020-10-16T23:19:00Z
+    webUrl: "https://www.theatlantic.com/ideas/archive/2020/10/biden-wants-transform-america-really/616748/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616748/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616748/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/kgIh0iSvF2GnjN0Csch3qnf0xKo=/0x202:3999x2451/570x321/media/img/mt/2020/10/GettyImages_1170810175/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
@@ -5244,6 +5466,28 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Biden Outraises Trump $383M to $248M in September"
+    excerpt: "President Donald Trump was outraised by Democrat Joe Biden in September and is being outgunned financially by his rival with just weeks to go until Election Day."
+    publishedDateTime: 2020-10-17T02:17:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+    publishedDateTime: 2020-10-17T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -5299,6 +5543,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Doug Emhoff, husband of Sen. Kamala Harris, stops in North Omaha for drive-in rally"
+    excerpt: "Doug Emhoff, the husband of the first Black woman to be a major party's vice presidential nominee, visited the heart of North Omaha on Friday for a drive-in rally. He came with a message: the difference between a second term for President Donald Trump and a first term for Joe Biden and Sen."
+    publishedDateTime: 2020-10-16T22:03:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/doug-emhoff-husband-of-sen-kamala-harris-stops-in-north-omaha-for-drive-in-rally/article_0001e222-5eb0-50df-9c05-14d42ddeb010.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/doug-emhoff-husband-of-sen-kamala-harris-stops-in-north-omaha-for-drive-in-rally/article_0001e222-5eb0-50df-9c05-14d42ddeb010.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/doug-emhoff-husband-of-sen-kamala-harris-stops-in-north-omaha-for-drive-in-rally/article_0001e222-5eb0-50df-9c05-14d42ddeb010.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 69
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/55/555c915c-aeab-5752-bd34-8077ec7a9b12/5f8a15b13faaa.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The vice presidential debate between Mike Pence, Kamala Harris is tonight. Here's how to watch"
     excerpt: "Vice President Mike Pence and vice-presidential nominee Kamala Harris will face off in a debate tonight after a \"chaotic\" first presidential debate last week. USA Today's Washington bureau chief Susan Page will moderate."
     publishedDateTime: 2020-10-07T19:20:00Z
@@ -5341,6 +5601,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republican Senator Perdue Mispronounces Kamala Harris' Name at Trump Rally"
+    excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in battleground state Georgia on Friday, where he repeatedly mispronounced the vice presidential nominee's name."
+    publishedDateTime: 2020-10-17T03:48:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-16/republican-senator-perdue-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-16/republican-senator-perdue-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-16/republican-senator-perdue-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 68
   - title: "Joe Biden Widens Lead Over President Trump in Florida, Pennsylvania, Poll Finds"
     excerpt: "Democratic presidential nominee Joe Biden is widening his lead over President Donald Trump in the critical battleground states of Florida and Pennsylvania with less than a month until the election. A Quinnipiac University poll published Wednesday found that 51% of voters in Florida support the former vice president,"
     publishedDateTime: 2020-10-07T19:42:00Z
@@ -5440,6 +5711,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7062740_101520-kgo-ap-trump-biden-town-halls-split-img.jpg?w=1600"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Vice presidential nominee Kamala Harris suspends travel after staffer tests COVID positive"
+    excerpt: "Joe Biden's presidential campaign said Thursday that vice presidential nominee Kamala Harris will suspend in-person events until Monday after two people associated with the campaign tested positive for coronavirus."
+    publishedDateTime: 2020-10-16T14:06:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/elections/presidential/2020/10/15/vice-presidential-nominee-kamala-harris-suspends-travel-after-staffer-tests-positive-covid-19/3663126001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3663126001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3663126001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 65
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/NLED/b6f9f95a-9121-4343-8b1f-db984c2f847e-AP20289502362643.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Dr. Jill Biden, Kamala Harris’s Husband Doug Emhoff Campaigning In Minnesota This Week"
     excerpt: "The wife of Democratic presidential candidate Joe Biden and the husband of vice presidential candidate Kamala Harris will be stumping in Minnesota this week."

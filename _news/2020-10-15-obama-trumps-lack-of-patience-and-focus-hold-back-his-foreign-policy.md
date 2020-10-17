@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/obama-podcast-trump-fore
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/obama-podcast-trump-foreign-policy/index.html"
 type: article
 quality: 173
-heat: 174
+heat: 173
 published: true
 
 provider:

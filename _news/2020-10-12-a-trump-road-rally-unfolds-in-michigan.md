@@ -32,53 +32,69 @@ images:
     isCached: true
 
 related:
-  - title: "Bernstein on Trump: He has become homicidally negligent"
-    excerpt: "CNN political analyst Carl Bernstein reacts to the White House declining an offer from the CDC to help contact trace the coronavirus outbreak in the White House.\n    \n"
-    publishedDateTime: 2020-10-06T14:25:58Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bl-JO99hKFI/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn"
+  - title: "Biden blames Trump's 'liberate Michigan' tweet for plot to kidnap Michigan governor"
+    excerpt: "Joe Biden said President Donald Trump bears blame for the alleged domestic terrorist plot to kidnap Michigan Gov. Gretchen Whitmer, pointing in a speech Friday to Trump's calls on Twitter to \"liberate Michigan\" in the wake of the Democratic governor's coronavirus-related restrictions.\n    \n"
+    publishedDateTime: 2020-10-16T22:53:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YTlAkqNP1IE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/joe-biden-trump-whitmer-kidnapping-plot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Virginia governor says Trump's rhetoric emboldened foiled kidnappers"
+    excerpt: "Virginia Gov. Ralph Northam on Wednesday said President Donald Trump's rhetoric is \"emboldening\" white supremacists such as the individuals involved in an alleged plot to kidnap him and Michigan Gov. Gretchen Whitmer.\n    \n"
+    publishedDateTime: 2020-10-14T13:41:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SzYu4eRFGO0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/ralph-northam-michigan-virginia-kidnapping-plot-cnntv/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006092851-carl-bernstein-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190204192854-04-northam-presser-0202-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Miami mayor to Trump: Don’t come here to debate if you have Covid"
-    excerpt: "The Republican mayor of Miami said Donald Trump shouldn’t come to his city for the Oct. 15 debate with Joe Biden if the president is still testing positive with Covid-19. “I don’t think it’s safe, not for him and anybody else,"
-    publishedDateTime: 2020-10-06T19:23:00Z
-    webUrl: "https://www.politico.com/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/06/miami-mayor-trump-dont-come-covid-426817"
+  - title: "The hunt for Michigan's lost Democrats: Can Biden lure them back?"
+    excerpt: "Donald Trump won Michigan in 2016 with help from Democratic voters who backed him or didn't vote. Joe Biden will need their support to carry the state."
+    publishedDateTime: 2020-10-10T11:07:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/hunt-michigan-s-lost-democrats-can-biden-lure-them-back-n1242711"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242711"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242711"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
+      name: NBC News
+      domain: nbcnews.com
     quality: 135
     images:
-      - url: "https://static.politico.com/c4/cc/cd9f89f74b61bc57d7dbd69f428d/gettyimages-1152449770-1.jpg"
-        width: 1160
-        height: 771
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418883/201009-michigan-democrats-mn-1304_e23e089ca533a52caa24227b46e84fd2.jpg"
+        width: 8256
+        height: 5202
         isCached: true
-  - title: "Who Came in Contact With Donald Trump When He Was Potentially Contagious?"
-    excerpt: "President Donald Trump announced early Friday morning that he and first lady Melania Trump had tested positive for COVID-19. The White House has indicated that the Trumps were likely infected by senior aide Hope Hicks,"
-    publishedDateTime: 2020-10-02T15:51:00Z
-    webUrl: "https://slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.html"
-    ampWebUrl: "https://slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/trump-contact-coronavirus-biden-debate-list.amp"
+  - title: "Trump steel tariffs raised prices, shriveled up demand, led to job losses, some Michigan workers say"
+    excerpt: "\"I don't see any policy that helped us. We are losing our damn jobs here,\" said the head of a steelworker union."
+    publishedDateTime: 2020-10-09T18:38:00Z
+    webUrl: "https://www.nbcnews.com/business/economy/trump-steel-tariffs-raised-prices-shriveled-demand-led-job-losses-n1242695"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1242695"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1242695"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 84
+      name: NBC News
+      domain: nbcnews.com
+    quality: 120
     images:
-      - url: "https://compote.slate.com/images/50759b2d-f632-4b4e-a34b-9f82a30c64df.jpeg?width=780&height=520&rect=4978x3319&offset=0x0"
-        width: 780
-        height: 520
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418782/201009-steel-michigan-mn-0850_f7e28b4683f076efb1969aa400ae6663.jpg"
+        width: 2500
+        height: 1462
         isCached: true
 
 secured: "LGFnJkjswrQTqM7u48HS2vJdKRbl6suZm4KTw2IdtUPPci3z+itwkpQAvN8J3OFJ/7waN1v98wQC+lNP0P3cPzPTbRlk8WFGZ29Jq8f2FeO+XN2bR5VjyI2/yLnQwxs6gS3CQKcJRQ/PshZ/wuztiRid8mvL1ErW9r/UnzuCL6Q2tS6ToEl0aXpueMSuDUqxGf5CDujtToPgqo/fzebYYa1HTTUM0dTeaGD69Hup63JbxieEAg9F8JFpeXtd9cxL3WTZZ/0yhRLXlGX/B2yfP19mVXAWgZ0xAjoMKD5AL+/RG0fDrt+t9aiLkZSkKjKq+e9DH8hbw11C4ytf8HmwwU6hB9Qj1yUVgdYIUNb9nKg=;gSU5RE49u0F2Zt2qGQKRlQ=="

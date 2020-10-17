@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia Republican senator willfully mispronounces Kamala Harris' name at Trump rally"
+    excerpt: "Sen. David Perdue, a Georgia Republican who's locked in a tight reelection battle against Democrat Jon Ossoff, willfully mispronounced his Senate colleague Kamala Harris' name on Friday during remarks ahead of President Donald Trump's rally in the Peach State.\n    \n"
+    publishedDateTime: 2020-10-17T00:43:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/P0lmweM0_90/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/david-perdue-kamala-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/david-perdue-kamala-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 193
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200825182547-07-sen-race-rankings-david-perdue-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Commission cancels second debate between Trump and Biden"
     excerpt: "The Commission on Presidential Debates on Friday canceled the second debate between Donald Trump and Joe Biden after the President declined to do a virtual debate despite concerns over his Covid-19 diagnosis, organizers said.\n    \n"
     publishedDateTime: 2020-10-09T23:14:51Z
@@ -168,22 +184,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus "
-    excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus.\n    \n"
-    publishedDateTime: 2020-10-15T20:41:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wD_4oZKj2WI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 180
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump and Biden hold dueling town halls as Covid cases spike and millions cast their votes early"
     excerpt: "President Donald Trump and former Vice President Joe Biden will participate in dueling town halls on Thursday, hoping to connect with voters as Covid-19 cases soar across the US and the President looks for a game-changing moment in a shaky reelection bid.\n    \n"
     publishedDateTime: 2020-10-15T23:42:30Z
@@ -197,6 +197,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200409020412-biden-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Trump's search for a turnaround"
+    excerpt: "President Donald Trump sought to improve his fortunes this week as he continues to lag in polling behind Democratic nominee Joe Biden, but he's running out of time to turn the race around -- and Americans are already casting their votes by the millions.\n    \n"
+    publishedDateTime: 2020-10-16T22:45:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JPed2g5KLQM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/donald-trump-coronavirus-town-hall-campaign-reset/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/donald-trump-coronavirus-town-hall-campaign-reset/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015204159-05-trump-town-hall-1015-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -357,6 +373,22 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus"
+    excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus."
+    publishedDateTime: 2020-10-15T13:53:00Z
+    webUrl: "https://www.cnn.com/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/kamala-harris-campaign-travel-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 131
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015095117-01-kamala-harris-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Debate commission cancels Oct. 15 Biden-Trump showdown"
     excerpt: "The co-chair of the Commission on Presidential Debates had rejected efforts by Trump’s campaign to clear him for in-person participation in the town hall-style forum."

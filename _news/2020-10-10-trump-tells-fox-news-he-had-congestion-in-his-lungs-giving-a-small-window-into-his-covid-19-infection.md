@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
-    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
-    publishedDateTime: 2020-10-16T01:20:00Z
-    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    type: article
-    provider:
-      name: TMZ
-      domain: tmz.com
-    quality: 75
-    images:
-      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "mljBmmaA5nvqECv6N2AKzkYEX44vxGLLBSMO6jGMpNWOHRdDkopjh4x7nlo6DW5vUOufZDxtsS3EVnwnTNbQIbWow8t3hU7jqeq30FaOEQU88dEKxbsrkwN5goW7dwj7jXveIq8g3E+BaX9SYqp7ucl+JmcsUTxDWblbYl6yRdaiV5xMef1PSu7wVUc7hLsmB8tfxrB/6NpddlPb9l0JVGeyymI58YA7mISt3kva0DYZtczyQaDxumQW/VqgzwKHnbW5AewBd4JD6pxdmjjD/f7U6LwKzCsEabWnSGZv8uRxNYt8gXkBmIFyn4dRV3loJmQW0HBddTkg79F9GI5aFT5aXk1nWGtOA5OMIdnHzQmj1z3LIm7f7GvQMb+Gv5tEHwa92+ygFHc4V3QFaaWjxn7Z+pRGFgsnNcEs1Gp/CENJWl9CSZJSJQW8n79F7AydKoTdrI614xW8jvwjwZJId3D3fZG0FkFJyQKv77t4RRcQ6znAmRowzPsDzQtu4c7d089ctEEUyV5vp1BqnqUqyw==;znLUlEYgIZ0XGLGUt2FDLw=="
 ---

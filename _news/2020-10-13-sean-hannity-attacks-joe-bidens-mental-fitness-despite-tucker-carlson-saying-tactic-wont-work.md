@@ -141,6 +141,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Savannah Guthrie Is Being Praised for How She Handled Donald Trump at NBC’s Town Hall"
+    excerpt: "Today show cohost Savannah Guthrie moderated a town hall with President Donald Trump on NBC October 15 and is garnering a fair amount of praise for her handling of the situation, which once again saw POTUS avoiding answering questions and going off on rambling tangents."
+    publishedDateTime: 2020-10-16T23:35:00Z
+    webUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall"
+    ampWebUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
+    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
+    type: article
+    provider:
+      name: Glamour
+      domain: glamour.com
+    quality: 68
+    images:
+      - url: "https://media.glamour.com/photos/5f899352a927d2469afbc1dc/master/pass/GettyImages-1208231958.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Donald Trump Gets In Heated Exchange With Savannah Guthrie In Opener To NBC News Town Hall"
     excerpt: "Donald Trump’s town hall with NBC News — competing against a similar event with Joe Biden on ABC News — opened with a contentious series of questions with moderator Savannah"
     publishedDateTime: 2020-10-16T01:30:00Z
@@ -156,6 +172,22 @@ related:
       - url: "https://deadline.com/wp-content/uploads/2020/10/Biden-Trump.jpg?w=1000"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Savannah Guthrie Praised by 'Today' Show Team After President Donald Trump's Controversial Town Hall"
+    excerpt: "Savannah Guthrie moderated a controversial town hall with the President Donald Trump on Thursday, and her Today show team is supporting her all the way. The journalist received praise from co-hosts Hoda Kotb and Al Rocker for how she handled her conversation with Trump,"
+    publishedDateTime: 2020-10-16T20:39:00Z
+    webUrl: "https://www.etonline.com/savannah-guthrie-praised-by-today-show-team-after-president-donald-trumps-controversial-town-hall"
+    ampWebUrl: "https://www.etonline.com/savannah-guthrie-praised-by-today-show-team-after-president-donald-trumps-controversial-town-hall?amp"
+    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/savannah-guthrie-praised-by-today-show-team-after-president-donald-trumps-controversial-town-hall?amp"
+    type: article
+    provider:
+      name: Entertainment Tonight
+      domain: etonline.com
+    quality: 60
+    images:
+      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-03/gettyimages-1208164244.jpg?h=2e976bc2&itok=Qi0Oo6TH"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "m2uHa0VD4BZ/FbNiunku19AZiFK7SVXwdV5SEW//Vj+XUKin0z/GckB5Y3OnRrfe7FsIKQJ8DP8VVyARO6XIrkM7mFYvWY5j3WhTTTS3KQbKi4kQHh0dr2fvlbTDgUO6NqUeuOonmSnjKmfEmpy70+2uoB4Tyng/VcEonsOo8yo61fREdBDKY1rDJBJ366ryCK+wOZ7/L7W8sVnBShCLwsD3kOgK04tsJprkoo9BB/ubIy2zC7jx/DJSmI5Dk1OZYZK2U4RcI/vSadGm0wld+ru7wjbyDnY85TPb4P5YKY8rnVgtPs+cBMzXR/KoMtOCmzPnvmyapGu9XRGCteCV/mnKr+zibGCS6Ky7GMKXXIzxCMP+05E+Dp5ePxudpARSjyi9eaKfDxxwA+bDmNrucEYWL3GzDIGpqz4k/z4E4kGCDOUvAYLDEZLycXIIO1EemuIYGdJI/YSlV6FY5wGne+vj7ijfegYKyfR6XabXthlRoVEFqZEMkksW4ldD3efhG4RnGPaC9K13X8AUDo7GDw==;sn5jsojN8Pp7Hb3i2KXLbQ=="

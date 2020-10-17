@@ -493,6 +493,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, in reversal, approves California wildfire aid"
+    excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
+    publishedDateTime: 2020-10-17T03:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537785422&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F1ON"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -860,6 +876,22 @@ related:
       - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "At Least 23 Billionaires Made Six-Figure Donations To Committees Supporting Donald Trump Since July"
+    excerpt: "Big money donors from Bass Pro Shops, Ashley Furniture, Apollo Global Management and more donated to Trump in recent months."
+    publishedDateTime: 2020-10-16T17:48:00Z
+    webUrl: "https://www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/"
+    ampWebUrl: "https://www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 111
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8861ee059dd50bed444a17%2F0x0.jpg"
+        width: 1200
+        height: 851
         isCached: true
   - title: "Supreme Court will rule on Trump's plan to exclude undocumented immigrants from House apportionment"
     excerpt: "Excluding undocumented immigrants likely would reduce the number of House seats in states such as California, Texas, Florida and New York."
@@ -1229,6 +1261,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Mike Pence campaigns in Johnston County just a day after President Trump visits NC"
+    excerpt: "Vice President Mike Pence campaigned in Johnston County Friday one day after President Donald Trump visited North Carolina, underscoring the state’s role as a crucial"
+    publishedDateTime: 2020-10-16T22:29:00Z
+    webUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/"
+    ampWebUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
+    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
+    type: article
+    provider:
+      name: CBS17 Raleigh
+      domain: cbs17.com
+    quality: 84
+    images:
+      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2020/10/pence-selma.jpg?w=1280"
+        width: 960
+        height: 552
+        isCached: true
   - title: "'The Simpsons' ding Donald Trump ahead of Election Day with 50 reasons not to reelect president"
     excerpt: "The Simpsons” offers dozens of reasons not to vote to reelect President Trump in a scene appearing in the annual Halloween-themed episode of the long-running animated series airing this Sunday."
     publishedDateTime: 2020-10-14T02:05:00Z
@@ -1501,6 +1549,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meet the suburban women aiming to S.W.A.T. away Donald Trump"
+    excerpt: "Donald Trump says suburban women will reelect him president, but in Connecticut female voters calling themselves The S.W.A.T. Team are campaigning against his efforts to court the crucial voting bloc."
+    publishedDateTime: 2020-10-16T22:10:00Z
+    webUrl: "https://www.rawstory.com/2020/10/meet-the-suburban-women-aiming-to-s-w-a-t-away-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/meet-the-suburban-women-aiming-to-s-w-a-t-away-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/meet-the-suburban-women-aiming-to-s-w-a-t-away-donald-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/S.W.A.T.-Team.jpg"
+        width: 606
+        height: 429
+        isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
     publishedDateTime: 2020-10-10T15:53:00Z
@@ -1594,6 +1658,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/20/PPHX/a63c4d05-d9d8-426f-93a5-18f4242a63af-DW1_2561.JPG?auto=webp&crop=3676,2068,x0,y524&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
+    excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
+    publishedDateTime: 2020-10-16T14:52:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 66
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/AP20289001375327.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
+    excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
+    publishedDateTime: 2020-10-16T22:50:00Z
+    webUrl: "https://www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/"
+    ampWebUrl: "https://www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 66
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/10/AP20289001375327-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Trump Still Feuding With Dr. Fauci, Lashes Out At Pandemic Expert In Dispute Over Campaign Ad"
     excerpt: "President Trump lashed out at Dr. Anthony Fauci on Tuesday after the nation’s top infectious disease expert criticized the president’s reelection campaign for featuring him in a political advertisement."

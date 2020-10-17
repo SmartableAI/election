@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yem
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
 type: article
 quality: 174
-heat: 235
+heat: 234
 published: true
 
 provider:

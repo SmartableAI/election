@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26N0K4"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26N0K4"
 type: article
 quality: 144
-heat: 4484
+heat: 4504
 published: true
 
 provider:
@@ -2411,6 +2411,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PBWHCUKAVNF3FOQCLNLOD37M6E.jpg"
         width: 3300
         height: 2284
+        isCached: true
+  - title: "Trump's defender: Pence's campaign role grows at key moment"
+    excerpt: "WASHINGTON (AP) — With President Donald Trump ill with COVID-19, Vice President Mike Pence took the lead role in campaigning Monday, starting a swing through key states to bolster the president ..."
+    publishedDateTime: 2020-10-01T00:00:00Z
+    webUrl: "https://www.wbal.com/article/481954/127/trumps-defender-pences-campaign-role-grows-at-key-moment"
+    ampWebUrl: "https://www.wbal.com/article/481954/127/trumps-defender-pences-campaign-role-grows-at-key-moment/amp"
+    cdnAmpWebUrl: "https://www-wbal-com.cdn.ampproject.org/c/s/www.wbal.com/article/481954/127/trumps-defender-pences-campaign-role-grows-at-key-moment/amp"
+    type: article
+    provider:
+      name: WBAL
+      domain: wbal.com
+    quality: 90
+    images:
+      - url: "https://cdn.s3-media.wbal.com/Media/2020/10/05/82483d9d-6f73-4fac-9c6a-e2c5a488f4d0/original.jpg"
+        width: 512
+        height: 342
         isCached: true
   - title: "Pence touts Trump administration in Iowa visit"
     excerpt: "CARTER LAKE, Iowa — With a little more than a month before Election Day, Vice President Mike Pence encouraged a crowd of about 250 people in Carter Lake to get out the vote ahead of what shapes ..."

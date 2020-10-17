@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/sustainability/climate-change/5
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp"
 type: article
 quality: 125
-heat: 705
+heat: 745
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
+    excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/63f57f9/2147483647/strip/true/crop/4094x2674+331+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F11%2F14d71293448aaf5c09503c5d0596%2F2020-election-michigan-absent-voter-ballot-71580.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
     excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
     publishedDateTime: 2020-10-16T05:27:00Z
@@ -388,6 +404,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/Supreme_Court_Barrett_89620.jpg-1fd29_c0-0-3513-2049_s1200x700.jpg?55b321e0026dbb50574414a129505f8801aac6e6"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
+    excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
+    publishedDateTime: 2020-10-16T08:07:00Z
+    webUrl: "https://www.wcnc.com/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    type: article
+    provider:
+      name: WCNC
+      domain: wcnc.com
+    quality: 62
+    images:
+      - url: "https://media.wcnc.com/assets/WCNC/images/648fddce-80bd-4ba4-b4a3-0a14d91c24b8/648fddce-80bd-4ba4-b4a3-0a14d91c24b8_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
     excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."

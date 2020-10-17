@@ -48,19 +48,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
-    excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
-    publishedDateTime: 2020-10-16T18:58:00Z
-    webUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president"
-    ampWebUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
+  - title: "Kamala Harris calls Barrett hearings 'illegitimate process,' says Republicans 'doing great harm'"
+    excerpt: "Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
+    publishedDateTime: 2020-10-15T13:41:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-barrett-hearings-illegitimate-republicans-harm.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 122
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b45cb8-2387-4c13-a353-9fb24f790716/b8672818-fe53-4a19-8b9f-3e780e4cb30d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

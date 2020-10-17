@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Source on alleged Hunter Biden email chain verifies message about Chinese investment firm"
+    excerpt: "One of the people on an explosive email thread involving Hunter Biden has verified the veracity of the messages, which purportedly outlines a pay out for former Vice President Joe Biden as part of a deal with a Chinese energy firm."
+    publishedDateTime: 2020-10-17T00:28:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MHB5rE5oFxM/hunter-biden-china-email-source-verifies"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-china-email-source-verifies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-china-email-source-verifies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a041bda6-d346-4354-8f53-ef37b3e1289d/d56abf53-7efd-443a-b8e4-df5117d5532b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden emails under investigation by Senate Homeland Security Committee after hard-drive report emerges"
     excerpt: "The Senate Homeland Security and Governmental Affairs Committee is investigating newly released emails which revealed that Hunter Biden introduced his father, former Vice President Joe Biden, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request. "
     publishedDateTime: 2020-10-14T15:47:51Z

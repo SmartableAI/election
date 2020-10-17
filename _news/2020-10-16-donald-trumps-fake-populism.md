@@ -576,6 +576,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump administration reverses course on California wildfire aid"
+    excerpt: "The request was for September, when blazes scorched nearly 1.9 million acres, destroyed over 3,300 structures and killed at least 3 people."
+    publishedDateTime: 2020-10-17T00:50:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/trump-administration-refuses-california-wildfire-disaster-aid-n1243723"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243723"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243723"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420742/201016-bobcat-fire-al-0947_665d9c20bdc6ff7324018d62723de801.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
     publishedDateTime: 2020-10-12T17:31:00Z

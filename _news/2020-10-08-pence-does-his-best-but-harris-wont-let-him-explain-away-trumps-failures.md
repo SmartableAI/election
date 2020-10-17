@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2463
+heat: 2483
 published: true
 
 provider:
@@ -718,6 +718,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_38/3413178/200918-kamala-harris-mn-1430_2debcb4ad865f440c549fa21baa8abe8.JPG"
         width: 2500
         height: 1695
+        isCached: true
+  - title: "Pence Tests Negative for Virus and Will Debate With Harris Next Week"
+    excerpt: "With President Trump’s positive coronavirus test, Vice President Mike Pence will take on a more prominent campaign role and represent him at events. Vice President Mike Pence filled in for ..."
+    publishedDateTime: 2020-10-03T01:41:22Z
+    webUrl: "https://www.nytimes.com/2020/10/02/us/politics/pence-coronavirus-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/02/us/politics/pence-coronavirus-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/02/us/politics/pence-coronavirus-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/02/us/politics/02dc-virus-pence/02dc-virus-pence-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Sen. Kamala Harris and VP Mike Pence 2020 debate preview"
     excerpt: "The 2020 vice presidential candidates’ debate, between Democratic candidate Sen. Kamala Harris and Republican incumbent Vice President Mike Pence, will see Pence having to defend the record of the Trump administration,"

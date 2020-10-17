@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/administration/519691-pence-faces-tall-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/519691-pence-faces-tall-task-in-vp-debate?amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/09/story_07196211_1602279132.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pence in the Wings"
+    excerpt: "Above the fireplace in the vice-presidential residence hangs a plaque with a verse from the Bible: “For I know the plans I have for you,” declares the Lord. “Plans to prosper you and not to ..."
+    publishedDateTime: 2020-10-03T00:00:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2020/10/mike-pences-role-after-trumps-covid-19-diagnosis/616600/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/616600/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/616600/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/LnDzNmQCkITB9cKazWdTjO1p3HM=/0x249:2393x1596/570x321/media/img/mt/2020/10/GettyImages_1061613692/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "Mike Pence and debate fly are now a bobblehead figure"
     excerpt: "You can own a piece of viral history with a bobblehead figure of Vice President Mike Pence and the fly that created buzz during the vice-presidential debate last week. The bobblehead by the Wisconsin-based National Bobblehead Hall of Fame and Museum commemorates the viral moment from the 2020 Vice Presidential Debate between Pence and Senator Kamala Harris in Salt Lake City on Wednesday,"

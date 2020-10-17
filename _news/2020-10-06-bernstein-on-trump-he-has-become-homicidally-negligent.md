@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/06/carl-bernstein-trump-behavior-coronavirus-newday-vpx.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://static.politico.com/c4/cc/cd9f89f74b61bc57d7dbd69f428d/gettyimages-1152449770-1.jpg"
         width: 1160
         height: 771
-        isCached: true
-  - title: "A Trump road rally unfolds in Michigan."
-    excerpt: "With just over three weeks left until Election Day, hundreds of supporters of President Trump took to Michigan’s highways on Sunday afternoon for a loud and visible display of devotion to their candidate."
-    publishedDateTime: 2020-10-12T12:04:00Z
-    webUrl: "https://www.nytimes.com/2020/10/12/us/elections/a-trump-road-rally-unfolds-in-michigan.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/12/us/elections/a-trump-road-rally-unfolds-in-michigan.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/12/us/elections/a-trump-road-rally-unfolds-in-michigan.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/12/us/politics/12elections-briefing-bay-city/12elections-briefing-bay-city-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Who Came in Contact With Donald Trump When He Was Potentially Contagious?"
     excerpt: "President Donald Trump announced early Friday morning that he and first lady Melania Trump had tested positive for COVID-19. The White House has indicated that the Trumps were likely infected by senior aide Hope Hicks,"

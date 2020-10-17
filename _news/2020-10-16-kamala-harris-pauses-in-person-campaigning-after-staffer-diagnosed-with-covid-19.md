@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
+    excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/63f57f9/2147483647/strip/true/crop/4094x2674+331+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F11%2F14d71293448aaf5c09503c5d0596%2F2020-election-michigan-absent-voter-ballot-71580.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic"
     excerpt: "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package."
     publishedDateTime: 2020-10-13T03:30:00Z
@@ -389,6 +405,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
+    excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
+    publishedDateTime: 2020-10-16T08:07:00Z
+    webUrl: "https://www.wcnc.com/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
+    type: article
+    provider:
+      name: WCNC
+      domain: wcnc.com
+    quality: 62
+    images:
+      - url: "https://media.wcnc.com/assets/WCNC/images/648fddce-80bd-4ba4-b4a3-0a14d91c24b8/648fddce-80bd-4ba4-b4a3-0a14d91c24b8_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
     excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
     publishedDateTime: 2020-10-15T20:25:00Z
@@ -456,6 +488,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jikNW4Nk5nLAY2OQTDMxGHZlLFv7bkg82GQ4CbXUE5zcskRFHiuuARz1OrpNT81e0BbpY8cvcS2GfU2XEdEDDlGnvJ+AnMostykXYrPTHVtXEui9J5xaIJ7+RwxYCf2w+FcZjDzll43My9/oe5UZ7siloCRh0jLUIlbI3xy3KeHSp/1FgjRHtcOan+h1p/1lAhEn6T6buckMUv/ES+E0xwyIVJj2kOouoWFzw7u7fKJUUfRoEPf06LWGOjEJi1mf5PD31B/JooBWZgGG+7juY58uRH96Ez45nCozOk3bjnz1nn3M21TNsuZ1WdHpWVvnbRrSluYqSV32MOnnNCQUBzyQIhMv7ZOHYwmKMYW6DQPBkbSGEmHvMP7c9kAKuQaEzPQ4nJ8b+vm9L7yPBnqcgfVZmLkj9Kl/GCnoSQohyOpBeMoOTbbsGa+zVSab0IBk56wy7oXsYSrZKFl4htH1SNv5gnXwyxXRvDhqWrWQQPw9UueS6rhxJs3R2a7CnvbrHo2S0TSqaGzU0ahcpK1mLQ==;jP6F6htYJ/TIkgwccDSpVg=="
+secured: "KkaezTXwRHaEW7ElknjE/SRh0MxKM7SDyx4agvgCeF9MxjQCiq/J8cMIsq43hbW0iQzBoiSnajyLfCsVNNcxlBmO8QjBwzkbbtQePmTsJN++RnwuTnOpr5CLvSTT4KWWUF/aS0Q4/OwHoH+Py/Adr8V2GRaKT22aFLyVq3oWSsOn+Xq395vm9imGVxTHZVdKYh+AiyEnAr/cVn4zGw3eToylCPM4nlVGyWJbXJ3HcqsGHqy6cTIHhAfYv298BOcIqwAWYWXsNAAwqveZw+BCokRYAfOXUT6BFFS0MhaBoZK0v7LGP3B3yIQio/nYMxLePwdjxwe3KwUliNOqyaa7DNyQVmC77r8LT8D4ESuZXfU=;us5mUxyFmBHH+6iXDT2Klw=="
 ---
 

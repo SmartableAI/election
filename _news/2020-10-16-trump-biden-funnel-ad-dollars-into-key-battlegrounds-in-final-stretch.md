@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-mone
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden campaign says they are not ahead by double-digit lead"
+    excerpt: "Democratic presidential candidate Joe Biden’s campaign manager warned against trusting inflated national polling numbers released this week, which showed Biden in a double-digit lead over incumbent candidate President Trump."
+    publishedDateTime: 2020-10-17T02:04:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTmkeygVtyU/biden-campaign-says-they-are-not-ahead-by-double-digit-lead-those-are-inflated-numbers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-says-they-are-not-ahead-by-double-digit-lead-those-are-inflated-numbers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-says-they-are-not-ahead-by-double-digit-lead-those-are-inflated-numbers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4414f9d6-f232-4e19-ab96-8f3c7cf79afb/7eee0c83-8cea-471c-8995-0784cfc73a2b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
