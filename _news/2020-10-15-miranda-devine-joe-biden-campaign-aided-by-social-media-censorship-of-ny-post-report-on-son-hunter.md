@@ -64,33 +64,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden email story: Computer repair store owner describes handing over laptop to FBI"
-    excerpt: "The man, John Paul Mac Isaac, said he has a condition that affects his vision and “can’t be 100 percent sure” it was Hunter Biden who dropped off the computer for repair."
-    publishedDateTime: 2020-10-15T01:46:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7WfoHO2NuM/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "House Judiciary Republicans say Twitter blocked them from sharing Hunter Biden story from their website"
-    excerpt: "Twitter blocked attempts to share a copy of the New York Post's story regarding Hunter Biden's contentious business affairs that was posted to the official website of House Judiciary Republicans."
-    publishedDateTime: 2020-10-15T16:05:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 49
 
 secured: "Ex+xvKFckqllNSDru6CRY17VJzaLf8oRf8iBUUd7en754NsfBWoBHqsMxQDuGkb9DY1LH7+AAMpybsxUZ6m4guaVsxZYMaCETkz3+8pJlvbQvu/A/E5AHiCGI9Rc9cVQxKzHNjgYjwrWhwIa6gsZWQKBj/yQVT24/aLtc5vAEZtX7b4MFtOxEn6PZNFvBuBMiVm0mlcPrG+AGv9FZgTXX5hxos+f3tpBx+Fd9kkj3/n05JuE262SVcuLf9IzCrb48h9BU53ne2FvQonNtM6cRQ87q50329amo6xZdomnJuN1btI+ZSKCedwYnTQD5LBVu3UX30mfklT1OckOv+jiMRC2FKwvYMqp//WKGV7i/7o=;IRWKkiBG10T4ujFeot8LxQ=="
 ---

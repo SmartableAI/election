@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden email story: Computer repair store owner describes handing over laptop to FBI"
-    excerpt: "The man, John Paul Mac Isaac, said he has a condition that affects his vision and “can’t be 100 percent sure” it was Hunter Biden who dropped off the computer for repair."
-    publishedDateTime: 2020-10-15T01:46:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S7WfoHO2NuM/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-computer-repair-store-owner-john-paul-mac-isaac.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/11/340/340/Heinrich_Jacqui.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
     excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"
     publishedDateTime: 2020-10-15T08:06:00Z
@@ -79,17 +63,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "House Judiciary Republicans say Twitter blocked them from sharing Hunter Biden story from their website"
-    excerpt: "Twitter blocked attempts to share a copy of the New York Post's story regarding Hunter Biden's contentious business affairs that was posted to the official website of House Judiciary Republicans."
-    publishedDateTime: 2020-10-15T16:05:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/house-judiciary-republicans-say-twitter-blocked-them-from-sharing-hunter-biden-story-from-their-website?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 49
 
 secured: "AKPZQZjrRRL5gRPRMGZ3NzSR6vbfAvDzGLuXQAshBS5/WVonxI+zTQsUhztrwakUa613CdEqF4Y7JL/9TXjSSiUQal/PMdodaOubvqUFwwI+yXmRUe0c+KtShVztR7AYhOK07SK3CRYvn3/WFCisIQAn4P3UJzTjHM81fzJWpU0Qbl/ukbWTGfxxBvgpyB/0eW+jQc6JVI/HaJKwFQh3fnBgCkMj/q2PjtXN4n8/HgJ7oKyckUDYq6B8b/caHAqnljAnMVGYgK2pI4ZP8jQqRJr3VzIJLf0LBB0U1vLZQuTeGT0gKAgUJuxKqhKb3Ux6FAYUoEiMHcOZHsDMHm3wUBiSNWyMs9gKbBGIOYxjcoI=;SFqg5D/gSj+WQDq7EgCpMw=="
 ---

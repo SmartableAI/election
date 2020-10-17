@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden campaign warns against complacency in memo: 'Donald Trump can still win this'"
+    excerpt: "The Biden campaign sent out a three-page memo to supporters Saturday warning that President Trump can still win and the race is \"neck and neck\" in certain critical battleground states, including Arizona and North Carolina. "
+    publishedDateTime: 2020-10-17T17:24:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-oNgDlBvPAw/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
     excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
     publishedDateTime: 2020-10-16T11:56:23Z
@@ -301,6 +317,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Jon Voight slams Biden, says Trump 'must win' election"
+    excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
+    publishedDateTime: 2020-10-17T14:54:00Z
+    webUrl: "https://www.foxnews.com/entertainment/jon-voight-biden-evil-trump-win-2020-election"
+    ampWebUrl: "https://www.foxnews.com/entertainment/jon-voight-biden-evil-trump-win-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jon-voight-biden-evil-trump-win-2020-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/Jon-Voight-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter"
     excerpt: "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\""
     publishedDateTime: 2020-10-11T18:56:36Z
@@ -524,6 +556,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/252/520d45ce-521d-4061-9b89-0dd8991f322c.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden's Boosters Wrote His Prodigal Son's Entire Resume"
+    excerpt: "Hunter Biden profited from his father’s political connections long before he struck questionable deals in countries where Joe Biden was undertaking diplomatic missions as vice president. In fact, virtually all the jobs listed on his resume going back to his first position out of college,"
+    publishedDateTime: 2020-10-16T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/16/joe_bidens_boosters_wrote_his_prodigal_sons_entire_resume_526538.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/47/477943_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "On Hunter Biden, remember the real story"
     excerpt: "The social media angle of the Hunter Biden email story has nearly taken over public discussion of the piece published in the New York Post headlined, \"Smoking-gun email reveals how Hunter Biden introduced Ukrainian businessman to VP dad."

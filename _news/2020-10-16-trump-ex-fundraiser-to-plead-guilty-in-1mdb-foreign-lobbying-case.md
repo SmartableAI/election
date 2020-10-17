@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
+    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
+    publishedDateTime: 2020-10-17T17:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "piOznET2d6BVyb5X2JCszE+M3Mf9JwZloEp4apRLeYsuo6U18JZc6z91ObgemOhng3Ht43LM6ubGwd4/EWkZyUmDIG8byiqAOto4TgGx/WCxf1JQvgYZbX03MiTzSTtMDvHL2vm67DGkfDxYbtJZ5Jv/+inZN8FmhJ+LrCcudpv/jlzrF1TnCh4MVGEqCc8Apu/AtgVQ1SZBXUHw0KnrU1wYhpPeqQmCqMV9dLz69/hAGrYZjXGAdwXHcYMN3VVhaaaK97PkZ5nEAw0yS/rUUrrTy6fZyMsJyH6l6MvGzwTsknwaystTVEmp6Zl1zjBvQaQQVYVg7Bazh4+3xUBhg6T57rtu2q8uVkbXUK8n6Ic=;+2KBQAw3SFlF8hGiBObkxA=="

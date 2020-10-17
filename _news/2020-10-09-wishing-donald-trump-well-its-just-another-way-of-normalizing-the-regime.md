@@ -1996,6 +1996,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump Sets Hectic Campaign Pace As His Party Frets"
+    excerpt: "President Donald Trump pushed on with a hectic series of rallies across the United States on Saturday, as he seeks to avert a potentially humiliating defeat at the ballot box in only 17 days. Trump was storming through the battleground states of Michigan and Wisconsin before overnighting in Nevada,"
+    publishedDateTime: 2020-10-17T16:50:00Z
+    webUrl: "https://www.ibtimes.com/trump-sets-hectic-campaign-pace-his-party-frets-3063775"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/donald-trump-on-the-campaign-trail-in-florida.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Massachusetts' Republican governor 'cannot support Donald Trump for president'"
     excerpt: "Massachusetts' Republican governor is diverging from his party this election cycle. In a Wednesday statement, Gov. Charlie Baker declared through a spokesperson that he \"cannot support Donald Trump for president\" and will \"leave the election analysis to the pundits."
     publishedDateTime: 2020-10-14T22:05:00Z

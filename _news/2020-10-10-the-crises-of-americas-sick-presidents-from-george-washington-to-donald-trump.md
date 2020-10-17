@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NYT editorial board calls Trump 'greatest threat to American democracy since World War II'"
+    excerpt: "A series of essays by the New York Times has pegged President Trump the \"greatest threat to American democracy since World War II.\""
+    publishedDateTime: 2020-10-17T16:58:00Z
+    webUrl: "https://www.foxnews.com/media/nyt-editorial-board-slams-trump-as-greatest-threat-to-american-democracy-since-world-war-ii"
+    ampWebUrl: "https://www.foxnews.com/media/nyt-editorial-board-slams-trump-as-greatest-threat-to-american-democracy-since-world-war-ii.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/nyt-editorial-board-slams-trump-as-greatest-threat-to-american-democracy-since-world-war-ii.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6386f24-f777-4cc4-9d72-ca43828aae9e/c1fa53f6-cd81-41dd-b7f1-7b55650909f3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "DgrMMgwWizGiYrQl1MXeF7An2PD0lvFDzxyx6NCoQr3nESj5YXMNnXsFynHn/1jNlOpDAYcqVGNiuSCoH1NbNyt4JKOy+3BA/7lLbaQi/YO8EpiasGBQAEaE+qNzln2ESsjaV75HRLfPbTmNQea76uYntweqVAvMx/jUJdbPcfhrvbtmfKJeuvTtVwiom+HlA0sASWJKXcDDJhvDSN8DBE05RHpeHaVmqQ4W2072cbTKAycKlKLW79b5nLbJRnVUG5z9EAs1ar5zwuNQJ0sgrCfJaOBYoXpPH0S94l+T+RI1SL2whshiFpQPtHPZ5vwn/jNn5/DvXeocst0H8vRamxohJgGrtRL9jXBwTmBhzl2Ljb7qjJ+qErMViLRUSPBK1y+y9Uh9EaxJsYoudV+N3Y4hj+71W+p1KrM2R6PN4wJdJyZcYZqqXxeRdPmC4XeChoG9nihgpIm6CdxsdQdaYpjlNMLWKZzJsXOsxMHRs5cppL/NpXAnAyOrV4Z/1TJ6ldpz7iDFt/fEvIiyB9HdpA==;wg+KyywsOjkL2GVO+vvdbw=="
 ---

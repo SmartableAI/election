@@ -80,6 +80,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump fires back at Sasse after town hall criticism"
+    excerpt: "Donald Trump on Saturday fired back at fellow Republican Ben Sasse after the Nebraska senator was recorded chastising the president during a town hall earlier this week. “The least effective of our 53 Republican Senators,"
+    publishedDateTime: 2020-10-17T15:50:00Z
+    webUrl: "https://www.politico.com/news/2020/10/17/trump-ben-sasse-town-hall-430010"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/17/trump-ben-sasse-town-hall-430010"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/17/trump-ben-sasse-town-hall-430010"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/22/31/e26cfb2641459a5885963d8c9837/201017-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump 'not happy' with Barr, won't commit to keeping AG in potential second term"
     excerpt: "The Justice Department found no evidence of wrongdoing and declined to release its report publicly or file any charges into Obama-era 'unmasking.'"
     publishedDateTime: 2020-10-15T02:19:00Z
