@@ -48,6 +48,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
+    publishedDateTime: 2020-10-10T02:38:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-court-packing-certain-biden-harris"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 105
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "George Floyd would still be dead if Joe Biden were president"
     excerpt: "Did you know that if only Joe Biden were president back in May that the sainted George Floyd would still be alive today?"
     publishedDateTime: 2020-10-08T03:44:00Z

@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "'Spygate' author Bongino cheers Trump declassification move while awaiting surgery"
-    excerpt: "Dan Bongino has lived Russiagate for nearly four years, but he learned of President Trump’s sweeping order to declassify relevant documents on the eve of an event even more serious and personal to him."
-    publishedDateTime: 2020-10-07T03:32:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bbsKA6TtQ_M/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery"
-    ampWebUrl: "https://www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/spygate-author-bongino-cheers-trump-declassification-move-while-awaiting-surgery.amp"
+  - title: "Sen. Cotton calls out Obama-Biden admin, Clinton on Russia collusion hoax"
+    excerpt: "The declassification of former CIA director John Brennan's notes proves Hillary Clinton colluded with foreign entities to inject disinformation into the 2016 campaign, Sen. Tom Cotton, R-Ark., told \"Fox & Friends\" Wednesday."
+    publishedDateTime: 2020-10-07T11:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OCKzsD3mkUU/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clinton-obama-trump-russia-collusion-hoax-sen-tom-cotton.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/d0a5d77d-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -61,66 +61,63 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Emphatic Trump Jr. rails on mainstream media, Democrats after latest Russia probe declassification"
-    excerpt: "Donald Trump Jr. slammed the mainstream media and Democrats after President Trump announced Tuesday he authorized the declassification of all documents related to the high-profile Russia investigation."
-    publishedDateTime: 2020-10-07T13:45:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FzTby4Lyy18/trump-declassifies-russia-hoax-media-dems"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declassifies-russia-hoax-media-dems.amp"
+  - title: "Putin Criticizes Joe Biden’s ‘Sharp Anti-Russian Rhetoric’"
+    excerpt: "In Vladimir Putin’s first substantive comments on the U.S. election, the Russian president praised President Trump and said he was reassured by Joe Biden’s support for arms control."
+    publishedDateTime: 2020-10-07T17:01:00Z
+    webUrl: "https://www.wsj.com/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    ampWebUrl: "https://www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/putin-criticizes-bidens-sharp-anti-russian-rhetoric-11602073537"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump allies, Republicans say American people 'deserve the truth,' praise declassification of Russia probe docs"
-    excerpt: "Top Republicans and allies of President Trump praised his move to declassify all documents related to the Russia investigation saying the “American people deserve the truth.”"
-    publishedDateTime: 2020-10-07T02:09:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UW50QdBpflk/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-allies-republicans-say-american-people-deserve-the-truth-praise-declassification-of-russia-probe-docs.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Declassified Trump-Russia probe docs to date: What to know "
-    excerpt: "President Trump, this week, “fully authorized the total declassification” of any and all documents related to the Russia investigation. "
-    publishedDateTime: 2020-10-08T16:33:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iCheEcw45T0/declassified-trump-russia-probe-docs-to-date-what-to-know"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a2bd89-acc4-4118-bcbf-52d4295a9c65/b9f8fa4c-cea3-474e-b942-f595dd9ad6f5/1280x720/match/image.jpg"
+      - url: "https://images.wsj.net/im-241652/social"
         width: 1280
+        height: 640
+        isCached: true
+  - title: "Intelligence Officials Urged Trump Spy Chief Not to Disclose Unverified Russian Claims About Clinton"
+    excerpt: "Officials at the Central Intelligence Agency and National Security Agency feared that sharing the information with Congress would give credence to unsubstantiated Kremlin-backed material."
+    publishedDateTime: 2020-10-01T04:57:00Z
+    webUrl: "https://www.wsj.com/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
+    ampWebUrl: "https://www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/intelligence-officials-urged-trump-spy-chief-not-to-disclose-unverified-russian-claims-about-clinton-11601499238"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 120
+    images:
+      - url: "https://images.wsj.net/im-238792/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Comey says new information that Hillary Clinton drummed up Russia controversy to vilify Trump 'doesn’t ring a bell'"
+    excerpt: "Former FBI Director James Comey on Wednesday said it didn’t “ring a bell” when asked whether he received an investigative referral on Hillary Clinton purportedly approving “a plan” attempting to tie President Trump to Russia and distract from her email scandal before the 2016 election."
+    publishedDateTime: 2020-09-30T15:54:00Z
+    webUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-hillary-clinton-trump-russia-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 113
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/643caea2-801c-428f-803c-0767482d777a/2655df2c-f2d9-4db1-b528-4570d1feb0f0/1280x720/match/image.jpg"
+        width: 1082
         height: 720
         isCached: true
-  - title: "Donald Trump Jr. Responds To Declassified Russia Probe Documents: \"We Knew All Along\""
-    excerpt: "President Trump's son, Donald Trump Jr., reacts to the declassification of former CIA Director John Brennan’s notes on ‘Fox & Friends.’ FOX NEWS, AINSLEY EARHARDT: So, Don, your dad has authorized declassifying all of the Russia collusion documents."
-    publishedDateTime: 2020-10-07T13:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/07/donald_trump_jr_responds_to_declassified_russia_probe_documents_we_knew_all_along.html#!"
+  - title: "Should Joe Biden Follow the Scranton Political Model?"
+    excerpt: "When I was growing up on the outskirts of Scranton in the 1970s and 1980s, my mother and I would drive into the city to shop at a popular downtown department store. On our way, we would pass through the city’s Green Ridge section,"
+    publishedDateTime: 2020-10-11T10:55:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/11/should_joe_biden_follow_the_scranton_political_model_526021.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 58
-    images:
-      - url: "https://assets.realclear.com/images/50/501477.jpg"
-        width: 1004
-        height: 752
-        isCached: true
+    quality: 45
 
 secured: "JxfOQhuNWLKX34Dc0KY80t4UzLDOzapMtpYuV2cA58nod5kGkjs3c7dfQBPKMvsBuotbwO5DOeOzIf9sRpw2aFo2PT61siB4LVjwM1QPQhr/2WhsWYCrJ7CT9drSogUKjUVIo/GW5wH1JywKC4Xe7Vn+mq8X3emz2grUvh4ODdGM/1TGa7bvbFpI3BqtP5bCCnZFfdPijlzTgmBRhUknbvHvbGbEMsz+afBzVFF87EgHVaTUxPxpY8h8l4kj1IVeR8jCznXZki9qNsvsOYjQiKOYopo8YR9rLE1PQ4fScEgon2KXl3b3fl5zduZYFtJ+bjjrQvXLTtDMWZk2J4/iuCOU1mQG0kJJpKt5LxczFIM=;4t0vYVGyBgCHI9Y4sPEH0g=="
 ---

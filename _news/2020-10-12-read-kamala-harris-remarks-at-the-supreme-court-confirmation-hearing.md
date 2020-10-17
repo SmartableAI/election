@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-re
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/harris-scotus-hearing-remarks/index.html"
 type: article
 quality: 185
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202010/f_mo_la_perdue_name_201016.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The Racial Politics of Kamala Harris’s Performance Style"
+    excerpt: "The senator’s facial expressions have been celebrated on social media, prompting a renewed discussion about people’s ready presumptions of sass and shade when it comes to interpreting the nonverbal gestures of a Black woman at work."
+    publishedDateTime: 2020-10-17T18:04:00Z
+    webUrl: "https://www.newyorker.com/culture/annals-of-appearances/the-racial-politics-of-kamala-harriss-performance-style"
+    ampWebUrl: "https://www.newyorker.com/culture/annals-of-appearances/the-racial-politics-of-kamala-harriss-performance-style/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/culture/annals-of-appearances/the-racial-politics-of-kamala-harriss-performance-style/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 135
+    images:
+      - url: "https://media.newyorker.com/photos/5f84c2acc5353f05b4619747/master/pass/Jackson-KamalaHarris.jpg"
+        width: 2402
+        height: 1730
         isCached: true
   - title: "Kamala Harris’ Debate Win: The Redemption of the American Woman Has Begun"
     excerpt: "It’s been a long, nightmarish four years for the American woman. But we’re coming back, and the Democratic veep is leading the way."

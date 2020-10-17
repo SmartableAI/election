@@ -577,6 +577,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Republican Senator Perdue appears to mock Kamala Harris' name at Trump rally"
+    excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in the battleground state of Georgia on Friday, repeatedly mispronouncing the vice presidential nominee's name."
+    publishedDateTime: 2020-10-17T17:35:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-purdue/republican-senator-perdue-appears-to-mock-kamala-harris-name-at-trump-rally-idUSKBN27205V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 147
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537866332&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04V"
+        width: 819
+        height: 545
+        isCached: true
   - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
     excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris; Date: Wednesday, October 7, 2020; Location: Universi"
     publishedDateTime: 2020-10-06T16:56:00Z
@@ -4359,6 +4375,22 @@ related:
       - url: "https://www.nydailynews.com/resizer/TDG17W4o9QrIK7TQRGAn9XX_rPE=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/J2V6QC4X5NHTXAE4KWS6KZRZQI.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "President Trump on if Joe Biden wins: ‘Maybe I’ll have to leave the country’"
+    excerpt: "For years, Americans have threatened that if their candidate of choice isn’t elected president, they will leave the country. Now among those is President Donald Trump."
+    publishedDateTime: 2020-10-17T13:46:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/president-trump-on-if-joe-biden-wins-maybe-ill-have-to-leave-the-country.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/president-trump-on-if-joe-biden-wins-maybe-ill-have-to-leave-the-country.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/president-trump-on-if-joe-biden-wins-maybe-ill-have-to-leave-the-country.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 87
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KOFDJ3H4GRDYPBTWWDK3CLT67M.jpg"
+        width: 5205
+        height: 3470
         isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."

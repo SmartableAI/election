@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Amy Coney Barrett is winning even as Trump is losing"
+    excerpt: "President Donald Trump's decision to nominate Amy Coney Barrett to the Supreme Court has not been a game changer in the presidential race. He is still well behind former Vice President Joe Biden with less than three weeks to go.\n    \n"
+    publishedDateTime: 2020-10-17T17:13:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NbBmPM2pRUY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/amy-coney-barrett-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/amy-coney-barrett-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014171804-30-barrett-hearing-1014-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump relishes his role as a divider as he vows to be 'vicious'"
     excerpt: "Taking the stage at a rally in Nevada Saturday night, President Donald Trump didn't hold back.\n    \n"
     publishedDateTime: 2020-09-13T14:49:19Z

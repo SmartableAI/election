@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-joe-biden-court-packing.amp"
 type: article
 quality: 156
-heat: 156
+heat: 176
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Poll shows why Joe Biden should be wary of packing Supreme Court with liberals"
+    excerpt: "With Democrats enraged at the prospect of Republicans moving ahead with the confirmation of Amy Coney Barrett to the Supreme Court, they are increasingly embracing the radical idea of expanding the court and adding liberal members should they gain power."
+    publishedDateTime: 2020-10-07T13:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/poll-shows-why-joe-biden-should-be-wary-of-packing-supreme-court-with-liberals?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 61
 
 secured: "JrWU6e+Gj5/y0Kl9brIiRY0JbVUJDIeWy4Ook3KYgOJFCyL+r/WMQc2wfTe6k5XzKlqQ1Hr9yNvtyiag3CYPKA/eSFtU6xBnzTxX8+ENGsTGSQnRgT7j+acsRxlOV51M71N1a/5SVjFdmh/N5b9y+M1ChH6Z0m4DL0yAI2nHxeeeY7uEwZFy1rrHd+e9OtiiEwpm351P2kXI5p9BMP9FlVtJYNqfYUI9e0+UgfTDIRAg4xXO+Ubl5cWCkeAlJxpMno7GsF6zD5z2fNrsLkPAw6/ZF9dTTPfGuFB3duuMTZJSaEnqsjJYgUREJpSrCictqPl+ACRFG2xkzPk7aA4wkn3p1vXXFxDJQJ2EuTmjvAs=;VnelpDL/9R+Q7vNi+htbHA=="
 ---

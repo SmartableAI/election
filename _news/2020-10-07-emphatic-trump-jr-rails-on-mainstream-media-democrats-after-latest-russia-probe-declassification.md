@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
-    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
-    publishedDateTime: 2020-10-07T00:54:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Trump allies, Republicans say American people 'deserve the truth,' praise declassification of Russia probe docs"
     excerpt: "Top Republicans and allies of President Trump praised his move to declassify all documents related to the Russia investigation saying the “American people deserve the truth.”"
     publishedDateTime: 2020-10-07T02:09:16Z
@@ -90,20 +74,6 @@ related:
     quality: 155
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a2bd89-acc4-4118-bcbf-52d4295a9c65/b9f8fa4c-cea3-474e-b942-f595dd9ad6f5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
-    excerpt: "Director of National Intelligence John Ratcliffe on Tuesday declassified documents that revealed former CIA Director John Brennan briefed former President Obama on Hillary Clinton’s purported “plan” to tie then-candidate Donald Trump to Russia as “a means of distracting the public from her use of a private"
-    publishedDateTime: 2020-10-06T18:41:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9AT7sx4qYIg/dni-brennan-notes-cia-memo-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 139
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/10/31/694940094001_6099268230001_6099265128001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

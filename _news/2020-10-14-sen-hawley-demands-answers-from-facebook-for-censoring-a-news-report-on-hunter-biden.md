@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden falsely claims union endorsement during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back at a town hall Thursday against suspicion from a boilermakers union member regarding his position on fracking by insisting that the union endorsed him, when no such endorsement appears to have been given."
-    publishedDateTime: 2020-10-16T21:21:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bwcwjaE-Mi4/biden-falsely-claims-union-endorsement-during-abc-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
     excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
     publishedDateTime: 2020-10-09T17:19:29Z
@@ -125,38 +109,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hawley wants Twitter, Facebook to come before Senate following censorship of Hunter Biden report"
-    excerpt: "Facebook and Twitter showed Wednesday that they \"want to rig an election,\" Senate Judiciary Committee member Josh Hawley, R-Mo., told \"The Ingraham Angle\" after the social media giants censored or blocked dissemination of a bombshell New York Post report on Hunter Biden."
-    publishedDateTime: 2020-10-15T04:24:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3CVjs2rUHio/twitter-facebook-hunter-biden-censorship-hawley"
-    ampWebUrl: "https://www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-facebook-hunter-biden-censorship-hawley.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4053a9f-fe88-449f-9578-0e27623a44c4/79de0b82-b72d-4062-9aa5-e47de07220ec/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook official who said platform is reducing distribution of Hunter Biden story has worked for top Dems"
-    excerpt: "Facebook Policy Communications Director Andy Stone, who said Wednesday the site is reducing the distribution of a New York Post exposé revealing private emails between Hunter Biden and an adviser to Ukrainian gas company Burisma Holdings, has years of professional experience working for top Democrats."
-    publishedDateTime: 2020-10-14T19:31:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9Gt7W2Ex96o/facebook-spokesperson-top-democrats-new-york-post"
-    ampWebUrl: "https://www.foxnews.com/politics/facebook-spokesperson-top-democrats-new-york-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-spokesperson-top-democrats-new-york-post.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/05-igsharing-friction-07.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Jordan says Twitter's move to 'stop the dissemination' of material 'helps' Biden, biased against conservatives"
     excerpt: "EXCLUSIVE: Republican Rep. Jim Jordan on Thursday slammed Twitter for intervening to “stop the dissemination of election-related information in a way that helps Vice President Biden’s candidacy,” saying it “raises serious questions” about election interference, while claiming it reinforces that “Big"
     publishedDateTime: 2020-10-15T19:19:10Z
@@ -186,22 +138,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Biden falsely claims union endorsement during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden pushed back at a town hall Thursday against suspicion from a boilermakers union member regarding his position on fracking by insisting that the union endorsed him,"
-    publishedDateTime: 2020-10-16T21:26:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-falsely-claims-union-endorsement-during-abc-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
     excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
@@ -265,22 +201,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
-    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
-    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
     excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
     publishedDateTime: 2020-10-13T04:01:00Z
@@ -311,24 +231,6 @@ related:
         width: 928
         height: 696
         isCached: true
-  - title: "Notice Biden Camp Isn't Denying the Facts on Sleazy Scoop"
-    excerpt: "Notice that Joe Biden and his campaign aren't disputing the basic facts The Post has uncovered about Hunter Biden's cashing in on his dad's high office. The ex-veep called a lid for the day at 9:… That was when Democrats owned the House for 42 years straight,"
-    publishedDateTime: 2020-10-15T12:31:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/15/notice_biden_camp_isnt_denying_the_facts_on_sleazy_scoop_526449.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
-  - title: "Credibility Questions Swirling Around Hunter Biden Reports"
-    excerpt: "There are huge credibility questions swirling around a series of reports by the tabloid across town, all of which emanate from a laptop, said to be Hunter Biden's, supposedly left behind at a Delaware repair shop."
-    publishedDateTime: 2020-10-16T11:18:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/16/credibility_questions_swirling_around_hunter_biden_reports_526534.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "2KhBm1HUxiZwlxV1XyWwm2QVAitgnEP/uFi8IYKw5RYIE2vl47TU8cbA8H9385OYzxTbth3tePEbkAsPXeI2Bb6jGQLhT10A9wgPf8C+dX1t9nCTKFkDkKUmk7yISu8tmlEeJUId2RairfLkWfsm2oNpFTL6oXxuqDsjc64S1mWtHjRcAxzPXhK7QzLNYOepu3h0S6ay/YOvZcLdN0kUsm97k4+0QaSVfo/MRstUSkSGUyC3j7lOOdiJbfATJCDZkKY02rbfXci1ltgLCCC3wZTecaLaLolONQzgf50P6X1pRJi07gYYcVR89trrNFmG7sfmTiqn1YE/xKYy5nEbzds6SN/WNrqnCh7HaE5Ahfk=;saWkd6+TWx+VKke9ppFvmQ=="
 ---

@@ -88,6 +88,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Racial Politics of Kamala Harris’s Performance Style"
+    excerpt: "The senator’s facial expressions have been celebrated on social media, prompting a renewed discussion about people’s ready presumptions of sass and shade when it comes to interpreting the nonverbal gestures of a Black woman at work."
+    publishedDateTime: 2020-10-17T18:04:00Z
+    webUrl: "https://www.newyorker.com/culture/annals-of-appearances/the-racial-politics-of-kamala-harriss-performance-style"
+    ampWebUrl: "https://www.newyorker.com/culture/annals-of-appearances/the-racial-politics-of-kamala-harriss-performance-style/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/culture/annals-of-appearances/the-racial-politics-of-kamala-harriss-performance-style/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 135
+    images:
+      - url: "https://media.newyorker.com/photos/5f84c2acc5353f05b4619747/master/pass/Jackson-KamalaHarris.jpg"
+        width: 2402
+        height: 1730
+        isCached: true
 
 secured: "bMKItcKAd7VVcAs1Tu3FwvGmGVNAfdlIjZtLnejV10abKTKF2iQP+2JNsPzo53Zh6a32zor5AlyJg/QOyi6XSulel9DaWbgoOAmjkH6diNGBe64K6Vg4BWzGuJS+PQm1mQBvyTdXRU8D2XEyipxYCs0XxYTH9W/3m05Dh8cu62M17oP8TlA/jVSJrztHgqt2v/Sac96iB56qpKO1+FI6zSRrh7K/TlZwMNIEHTDuGjhz6oDAeng11XuQDPHPw1lY/HxOmKpv+0HQJvIa0qG8SRXaZPKZtL2z5ATQ0yV1M41DMaThYED4Xz3xW7/Klhg/imXo++N0hRIytD/VPUFHzKWO+4xIWLGtfK/Flx19eg64hnqiDeAIcXFSje6qmDQpBzDJjdc8O3yn2ee0sVlLIcUPPoFMxco5svDgio9rfjyyL3pEFLNvFdsvryi1YZWQKI4TjUKwAD289uRYlymPJ33J6xfX+G2r42nCb/7hVyIS+/rys5PXMrus6I83adusfPbE1HLinbmyLoykJA98IQ==;5wI3yY+L0GYNDqNju81tkg=="
 ---

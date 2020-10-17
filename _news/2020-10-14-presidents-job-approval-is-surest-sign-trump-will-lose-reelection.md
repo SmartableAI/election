@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 2880
+heat: 2920
 published: true
 
 provider:
@@ -526,6 +526,22 @@ related:
       - url: "https://i.insider.com/5f1207543f737074423f5836?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Officials in Scotland approve another Trump golf course"
+    excerpt: "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists"
+    publishedDateTime: 2020-10-17T18:09:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
@@ -1246,6 +1262,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/53/60/20102170/3/rawImage.jpg"
         width: 2048
         height: 1445
+        isCached: true
+  - title: "Damage control? Trump hints at leaving the country if he loses the election"
+    excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
+    publishedDateTime: 2020-10-17T19:07:00Z
+    webUrl: "https://www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 88
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Mitt Romney Drops Statement on Trump-Biden Election, Gets Dragged For Equating President With Keith Olbermann"
     excerpt: "Trump statement on the state of American politics, decrying how \"vile\" the election has become -- but is getting dragged for questionably equating President Donald Trump with Keith Olbermann."

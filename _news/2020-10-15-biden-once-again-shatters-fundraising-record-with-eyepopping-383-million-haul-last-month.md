@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-once-again-shatters-fundraisi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp"
 type: article
 quality: 166
-heat: 186
+heat: 166
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
-    excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
-    publishedDateTime: 2020-10-15T11:07:00Z
-    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board"
-    ampWebUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/hunter-biden-joe-biden-new-york-post-editorial-board.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "uzGptTNcGV9dXoTxT1uiR+gF0NPZffXuk6o9wATjEqoM+PI10jcmK+SnNy7lbPKRlYtTXSp6CFGfsSInFqmnfWDzanOgqlM0kflNWYiujRJkP4rIgM40cdRlRa6OaRD1bwr7HinQjSzQbnlJr8/0F8MHWEC31ehEPN8a4c+P+UtlpxU2OpmvEG2BfKUKh4X5wJC0rAFHEVK9T1dZZf76832Tr1kMrfMy/ZZgT44mk+NSozzqke3HhH8zf2Z8/omDStGKwDzoPoxIhukeT7UV2TvmVPvWf4svPm+gh1eQAycDfya+vOteuDVMwSw9M4cN0vri6QFENQ7QctDL8TrEkhoULvCCJAe52YT7BDP6Thw=;8Gxc4UDBeBAwuwC9192WQw=="
 ---

@@ -93,6 +93,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Tammy Baldwin demands Trump help Wisconsin fight COVID-19 surge"
+    excerpt: "Democratic Sen. Tammy Baldwin urged President Trump to send supplies to Wisconsin to tackle the COVID-19 crisis, citing six months of shortages."
+    publishedDateTime: 2020-10-17T17:54:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q2sbwRR4_vU/sen-tammy-baldwin-urges-trump-to-send-supplies-to-wisconsin-as-state-grapples-with-coronavirus-surge"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Tammy-Baldwin-REUTERS.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to visit Penn., Iowa next week, stepping up travel schedule post-COVID diagnosis"
     excerpt: "President Trump added Pennsylvania and Iowa to his campaign schedule next week, stepping up travel plans despite his recent bout with coronavirus. "
     publishedDateTime: 2020-10-10T18:24:19Z

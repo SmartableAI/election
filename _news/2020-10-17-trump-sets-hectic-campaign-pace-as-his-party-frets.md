@@ -541,6 +541,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Officials in Scotland approve another Trump golf course"
+    excerpt: "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists"
+    publishedDateTime: 2020-10-17T18:09:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -1260,6 +1276,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/53/60/20102170/3/rawImage.jpg"
         width: 2048
         height: 1445
+        isCached: true
+  - title: "Damage control? Trump hints at leaving the country if he loses the election"
+    excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
+    publishedDateTime: 2020-10-17T19:07:00Z
+    webUrl: "https://www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 88
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Mitt Romney Drops Statement on Trump-Biden Election, Gets Dragged For Equating President With Keith Olbermann"
     excerpt: "Trump statement on the state of American politics, decrying how \"vile\" the election has become -- but is getting dragged for questionably equating President Donald Trump with Keith Olbermann."
@@ -2109,6 +2141,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "3IFJHkkH4dVIv0DiWsUawS1L3lEGRKUaa0XkqTSKLUbbDuHDaazqMkesp2bO58/SOOAF5LdnM05Xgntn379l9eULzSRMBoG0Ts5DZ3cRi23OPQJexBOLodaLhKVI4wAEhFDJSI2B73zpaus1B/gdtCaqk/rGOzxrN2VhYwIU/gimsfWh2iCvrExK13E9HpsohZ99IHqdz2CyVf4SpAXcaNfdHT9XBDrR908Ufc3naYXrNpR1Uk+MCdcRIXEN328ppBIt97yDm1L4tirpIIRXXsu5tl1q2m0RT4+5SxN2ctDp+3wHgUnakxyvJV6eofCPUM8r3Z/eH7R52dpm3m3OUsZJ0vYeZJFSgct0xoUTgnM=;vP1O2oLVpRs8F8oasZLYPg=="
+secured: "4j36AgaX4Udt54aXIh088+dUxSxcoPBrO/RSEzkVNV4w7rBtgZSxObWq1bUlsTL0mde/AM1A9CJfvKhMFDU3tKar6DM+wc76Rg/93CzD3S9Zwy2sa9GNN0VaFUUD45gTAe8BLLNpXTxkcjIK0hlfcXlCfZpClapd1j9dgQzEVOpzkPKwTrIJfGo/EG45KpWwe9thhni3eEUPRo/LOk9P6j1Fm68H6kYfnh6QzHqZxZ11ZabwZjiZxdq5C3FgZ97GG91kOSwjmBuxIKFtc9QYx3CgfpvT2FeLVDpjE/jhcxi85M1liYS+ePhWhPdjE0EwDsvR0CPXAthH1iQec6Xcl/v7nKz5YqhL3ye1AZYNis72MYjbdbzVT+CeWnahHbXcmPT/6sNvKxKTBwoh9FGcbKp+j73ZUdIwSSoXCRFUFLPbGvBJm368J1SHXOD5/mcJncLkuBSUGMbZzTsJR1XQmq0vPDEkVr9CYUz+kQrDIYbyQCkuCq8BspxlZ7OZh91Afyld98c3itZgJw3jaFj4lQ==;6DujGXIOZzvSOKCYp/PU7Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies.amp"
 type: article
 quality: 180
-heat: 260
+heat: 320
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden doubles down on court packing: ‘You'll know my position’ after the election"
+    excerpt: "Democratic presidential nominee Joe Biden is remaining silent on whether he supports a move by many progressives to expand the number of justices on the Supreme Court if the Democrats win back the White House and take control of the Senate in November’s elections."
+    publishedDateTime: 2020-10-08T21:21:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-doubles-down-on-court-packing-youll-know-my-position-after-the-election"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-doubles-down-on-court-packing-youll-know-my-position-after-the-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-doubles-down-on-court-packing-youll-know-my-position-after-the-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282729245624.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "The Cynicism of Joe Biden’s Minimum-Wage Politics"
     excerpt: "There are better alternatives to help the poor, but $15 an hour would reward friends and punish enemies."
     publishedDateTime: 2020-10-04T23:47:00Z
@@ -78,6 +94,38 @@ related:
       - url: "https://images.wsj.net/im-240436/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Progressives unveil new agenda to pressure Joe Biden to the left"
+    excerpt: "The Working Families Party’s “People’s Charter,” released calls for free public health care, a jobs program for 16 million people, and retroactive hazard pay for essential workers."
+    publishedDateTime: 2020-10-09T14:23:00Z
+    webUrl: "https://nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/"
+    ampWebUrl: "https://nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/09/progressives-unveil-new-agenda-to-pressure-biden-to-the-left/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/ocasio-biden-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden Is Flirting with the Destruction of the Judiciary"
+    excerpt: "Joe Biden says, \"You'll know my opinion on court-packing when the election is over.\" To this point, Biden hasn't offered any position on court-packing, one of the gravest threats to the constitutional order in modern American history."
+    publishedDateTime: 2020-10-09T01:55:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/09/joe_biden_is_flirting_with_the_destruction_of_the_judiciary_144409.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/522082_5_.jpg"
+        width: 750
+        height: 523
         isCached: true
   - title: "There is no pro-life case for Biden"
     excerpt: "During his NBC town hall on Monday, Joe Biden reiterated his unyielding support for abortion on demand, putting to rest the idea that there is a pro-life case to vote for Biden."

@@ -9,7 +9,7 @@ ampWebUrl: "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-his
 cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true"
 type: article
 quality: 72
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 650
     height: 340
     isCached: true
-
-related:
-  - title: "Should Joe Biden Follow the Scranton Political Model?"
-    excerpt: "When I was growing up on the outskirts of Scranton in the 1970s and 1980s, my mother and I would drive into the city to shop at a popular downtown department store. On our way, we would pass through the city’s Green Ridge section,"
-    publishedDateTime: 2020-10-11T10:55:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/11/should_joe_biden_follow_the_scranton_political_model_526021.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 45
 
 secured: "pugDTvqY01irOlHeiJqvpP8aBCO7L7/GnOnn6HEHHhSNLPBAMobMFOdPjbhZXCKO/4wKGFSww4LnOWpH1mhsEFRW+8tQUFM1I2Ih4WdHrXGTeqaFIXrXtziO7x6PlBdMDCEpWFj876Gq21R96oxk30vs4zDoa4CwdSUZ9c8HC4RzD1oB8wLioR0LdfkVgU+QTqeQJinuhNDFBOnqnnoQ79pQQWTdZald2ba7tHnFu4SVIZQGEhqvqMISgESyzl5C6eAhT50w7tPv+ENPQALRoUk4SO0+ZQlibGtV0u7ajr1QGYK6mw4bfpZWKz0+IC+i3iDVBvMFkQnHFs4RfIN0BzcOcGZ+7/1GvTvQusKk+6+CjK6PVSIOSPH5cq4hww8AruwBAJWHLtX3A4OB71xQQWBCx/4ItrAFUogqHJ546fWtx4nT4sTeEZIaeGZn0AQv5pO2Pbz1arT/HUhsIbhf/huyLQ+z+5cc7cOhQkFKnmknwoIYRifr0RIEbMBg2IlTguyO/J9ValCnVp+Ha+gYWg==;KKt5d4F3KvJkXlZSBrGk2g=="
 ---
