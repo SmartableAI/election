@@ -1372,6 +1372,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump tries to shore up Florida, Biden targets Michigan as early voting surges"
+    excerpt: "U.S. President Donald Trump sought to boost his standing in the battleground state of Florida on Friday by reaching out to seniors, while rival Joe Biden blasted Trump's response to the coronavirus pandemic on a tour of the swing state of Michigan."
+    publishedDateTime: 2020-10-17T11:27:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/update-7-trump-tries-to-shore-up-florida-biden-targets-michigan-as-early-voting-surges-idUSL8N2H801P"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2710KR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2710KR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 136
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537814483&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G001"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden says next presidential debate should be called off if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday that next week's scheduled debate with Republican President Donald Trump should not take place if Trump is still infected with COVID-19."
     publishedDateTime: 2020-10-07T03:28:00Z
@@ -1451,6 +1467,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V5IEAIQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "‘Lock Up The Bidens’: Trump Picks Target For Final Stretch – His Opponent’s Family"
+    excerpt: "Trump called the Biden family an ‘organized crime family’ and a ‘criminal enterprise’ despite saying he ‘won't go too deep in the family.’"
+    publishedDateTime: 2020-10-17T04:44:00Z
+    webUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/16/lock-up-the-bidens-trump-picks-target-for-final-stretch--his-opponents-family/"
+    ampWebUrl: "https://www.forbes.com/sites/andrewsolender/2020/10/16/lock-up-the-bidens-trump-picks-target-for-final-stretch--his-opponents-family/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/16/lock-up-the-bidens-trump-picks-target-for-final-stretch--his-opponents-family/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 134
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8a442f644e29c9113fe93b%2F0x0.jpg%3FcropX1%3D176%26cropX2%3D4149%26cropY1%3D423%26cropY2%3D3000"
+        width: 1199
+        height: 778
         isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
@@ -2895,6 +2927,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "The Story Behind Kamala Harris's Truancy Program"
+    excerpt: "HuffPost reporter Molly Redden explains how a program trying to reduce school absences produced unintended consequences—both for California families and Harris herself."
+    publishedDateTime: 2020-10-17T10:01:00Z
+    webUrl: "https://www.npr.org/sections/codeswitch/2020/10/17/924766186/the-story-behind-kamala-harriss-truancy-program"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/16/gettyimages-148166024_wide-128e986da94d52868af5e09e797ad12d6ecc12f6.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
     publishedDateTime: 2020-10-10T02:22:00Z
@@ -3865,6 +3911,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden tops Donald Trump in town hall viewers, ratings show"
+    excerpt: "Democratic presidential candidate Joe Biden edged out President Donald Trump in viewership of their dueling town hall meetings held simultaneously Thursday on different networks, ratings show."
+    publishedDateTime: 2020-10-17T04:55:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/?ur3=1"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 90
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1461602872253/2020/upi/8399b4915010b9c9672918e96d2318b2/v1.5/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show.jpg?lg=5"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Joe Biden's Town Hall Beats Donald Trump's in Ratings"
     excerpt: "Joe Biden's Thursday night town hall came out ahead of Donald Trump's in the ratings battle. Despite NBC's controversial decision to schedule a town hall with Trump opposite Biden's previously scheduled town hall on ABC,"
     publishedDateTime: 2020-10-16T21:54:00Z
@@ -4361,17 +4423,17 @@ related:
         isCached: true
   - title: "Georgia senator mocks Kamala Harris' name with mispronunciations at Trump rally"
     excerpt: "David Perdue referred to his Senate colleague, Democratic presidential nominee Joe Biden’s running mate, as 'KAH’-mah-lah? Kah-MAH’-lah? Kamala-mala-mala? Whatever.'"
-    publishedDateTime: 2020-10-17T07:33:00Z
-    webUrl: "https://www.wkyc.com/article/news/politics/elections/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/politics/elections/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/politics/elections/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    publishedDateTime: 2020-10-17T09:06:00Z
+    webUrl: "https://www.wtsp.com/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
     type: article
     provider:
-      name: WKYC3
-      domain: wkyc.com
+      name: WTSP
+      domain: wtsp.com
     quality: 86
     images:
-      - url: "https://media.wkyc.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_750x422.jpg"
+      - url: "https://media.wtsp.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -4564,6 +4626,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/78dcdfc6-b03a-4007-945e-59a6859bbcee/ddba28ba-9d34-4106-a427-21d257c27663/1280x720/match/image.jpg"
         width: 1245
         height: 720
+        isCached: true
+  - title: "Sen. David Perdue mocks Kamala Harris' name with mispronunciations at Macon Trump rally"
+    excerpt: "David Perdue referred to his Senate colleague, Democratic presidential nominee Joe Biden’s running mate, as 'KAH’-mah-lah? Kah-MAH’-lah? Kamala-mala-mala? Whatever.'"
+    publishedDateTime: 2020-10-17T09:06:00Z
+    webUrl: "https://www.11alive.com/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 82
+    images:
+      - url: "https://media.11alive.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."

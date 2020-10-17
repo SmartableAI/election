@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump Accuses Ilhan Omar of Marrying Her Brother, Entering America Illegally"
+    excerpt: "President Donald Trump accused Democratic Congresswoman Ilhan Omar of Minnesota of marrying her own brother and entering America illegally at a campaign rally in Ocala, Florida on Friday night. Trump urged the Justice Department to probe Omar,"
+    publishedDateTime: 2020-10-17T01:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1654733/omar.jpg"
+        width: 2500
+        height: 1854
+        isCached: true
   - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
     excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
     publishedDateTime: 2020-10-07T10:18:00Z

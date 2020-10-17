@@ -41,6 +41,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump heads to Michigan, Wisconsin in re-election campaign push"
+    excerpt: "President Donald Trump will take his re-election push to Michigan and Wisconsin on Saturday before launching a tour of western states to shore up political support as he trails Democratic rival Joe Biden in national polls."
+    publishedDateTime: 2020-10-17T10:09:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27206X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537831308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G06C"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election"
     excerpt: "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,"
     publishedDateTime: 2020-10-12T07:41:00Z
@@ -1921,6 +1937,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump Plays Down Virus as He Steps up Pitch for Second Term"
+    excerpt: "In the week since President Donald Trump emerged from coronavirus isolation, he has demonstrated new determination to minimize the threat of the virus that has killed more than 215,000 Americans and complicated his chances of winning another four years in the White House."
+    publishedDateTime: 2020-10-17T05:50:00Z
+    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-17/trump-plays-down-virus-as-he-steps-up-pitch-for-second-term"
+    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-17/trump-plays-down-virus-as-he-steps-up-pitch-for-second-term?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-17/trump-plays-down-virus-as-he-steps-up-pitch-for-second-term?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

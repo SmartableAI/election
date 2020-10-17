@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 835
+heat: 855
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e1f72c85-22fd-499c-a73c-5d32179a2f35-GTY_1278691059.jpg?auto=webp&crop=6306,3547,x0,y172&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Donald Trump Accuses Ilhan Omar of Marrying Her Brother, Entering America Illegally"
+    excerpt: "President Donald Trump accused Democratic Congresswoman Ilhan Omar of Minnesota of marrying her own brother and entering America illegally at a campaign rally in Ocala, Florida on Friday night. Trump urged the Justice Department to probe Omar,"
+    publishedDateTime: 2020-10-17T01:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1654733/omar.jpg"
+        width: 2500
+        height: 1854
         isCached: true
   - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
     excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
