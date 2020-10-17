@@ -237,6 +237,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden will 'make clear' his position on court packing after Senate votes on Amy Coney Barrett"
+    excerpt: "Democratic nominee Joe Biden, in an interview published Friday, said he will “make clear” his position on court packing when the Senate votes on the nomination of Amy Coney Barrett -- as he continued to avoid taking a clear stance on the extreme move of adding justices to the Supreme Court."
+    publishedDateTime: 2020-10-17T15:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mrVzR_u5eJs/biden-court-packing-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-court-packing-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e9f71ff-39c9-4b31-9cbc-68ee1d952978/2cd6b440-a924-4b86-b2b2-9fac3f868dc9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Giuliani: Hunter Biden emails prove family 'has been selling Joe's office to the highest bidder'"
     excerpt: "Emails found on a laptop that purportedly belonged to Hunter Biden prove that \"for 30 years, the Biden family has been selling Joe's office to the highest bidder,\" former New York City Mayor Rudy Giuliani told \"The Story\" Thursday."
     publishedDateTime: 2020-10-16T00:43:10Z

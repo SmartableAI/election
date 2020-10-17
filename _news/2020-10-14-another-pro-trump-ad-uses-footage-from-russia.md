@@ -318,6 +318,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Ex-White House lawyers question contract former friend signed to work for Melania Trump"
+    excerpt: "The Justice Department has sued Stephanie Winston Wolkoff over alleged breach of a contract that former White House lawyers call “bizarre,” inappropriate."
+    publishedDateTime: 2020-10-17T13:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/ex-white-house-lawyers-question-contract-former-friend-signed-work-n1243716"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243716"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243716"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 127
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3420798/201016-stephanie-winston-wolkoff-se-135p_a6d3d3ab5780869c9f15e3902ecd1542.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Hoping to shore up support, Trump directs more money to farmers"
     excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
     publishedDateTime: 2020-10-13T12:57:00Z

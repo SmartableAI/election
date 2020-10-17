@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 8340
+heat: 8360
 published: true
 
 provider:
@@ -2503,6 +2503,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Sen. David Perdue mispronounces colleague Sen. Kamala Harris' name at a Trump rally, saying 'Kamala-mala-mala'"
+    excerpt: "\"KAH-mah-la, Kah-MAH-la, Kamala-mala-mala, I don't know, whatever,\" Perdue said, eliciting laughs from the audience."
+    publishedDateTime: 2020-10-17T14:18:00Z
+    webUrl: "https://www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8a5abcd260780019341ff3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
+    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
+    publishedDateTime: 2020-10-15T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden tests negative for coronavirus sixth time since debate"
     excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
     publishedDateTime: 2020-10-10T19:43:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
+    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
+    publishedDateTime: 2020-10-16T13:14:00Z
+    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 47
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "O4FPTrhcuFMKS+ntSWEDJJGAEAZ0a/O89OqbUw/GlbWNgMgqg7TFM2oLNobQ4Z/bUODvU4kk3DdQA5cmFW/fkp9Bp1YuCuwJA027gI21PBJTuQEyuD4Ep4k4kEE3gG380H5eXJ6IUwp8eyXqHiwFQ1npWCeZCVz1iFqBeIT299X7o4BZLcMrlAMCqGoOPCsKucLcDbArp3+b8Jov9gqaqT4om1wm/YD89knWMLEEYCbi9YK6ArE1WwscQSMPyDCzEsSAZdaBUMzY3FwVePSUxQQI2Z7TNWyO0AAreYAqIRFYHPXnSTyCeyAKt6/9z9qZSmkUygEMU9I0DXqhynwimy9vM1lHRnG+6oD1OvY4ZYHzjpz+GabNI1N8B0l19pDhL671Xbv0E3esQlL6wIoBR1q/90GTTSePdukVs7qPLPzhyBJTnMPrLLB9KrtJtf2VrbInR5ZaYeypfqFKqcw3fn+rS9l0SDbjSrcPp6ec2pS1738h73XnAlqoDvO7mZJAl4KZb3hGLiwI7+CaDSwptw==;Ghop7s8b28VYK+pBWWtJVA=="

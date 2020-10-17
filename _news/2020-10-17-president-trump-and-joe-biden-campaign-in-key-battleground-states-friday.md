@@ -2517,6 +2517,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Sen. David Perdue mispronounces colleague Sen. Kamala Harris' name at a Trump rally, saying 'Kamala-mala-mala'"
+    excerpt: "\"KAH-mah-la, Kah-MAH-la, Kamala-mala-mala, I don't know, whatever,\" Perdue said, eliciting laughs from the audience."
+    publishedDateTime: 2020-10-17T14:18:00Z
+    webUrl: "https://www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8a5abcd260780019341ff3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
     publishedDateTime: 2020-10-14T22:32:00Z

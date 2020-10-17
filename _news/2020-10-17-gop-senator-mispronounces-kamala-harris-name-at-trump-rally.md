@@ -2515,6 +2515,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Sen. David Perdue mispronounces colleague Sen. Kamala Harris' name at a Trump rally, saying 'Kamala-mala-mala'"
+    excerpt: "\"KAH-mah-la, Kah-MAH-la, Kamala-mala-mala, I don't know, whatever,\" Perdue said, eliciting laughs from the audience."
+    publishedDateTime: 2020-10-17T14:18:00Z
+    webUrl: "https://www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sen-david-purdue-mispronounces-kamala-harris-name-at-trump-rally-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8a5abcd260780019341ff3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
     publishedDateTime: 2020-10-17T01:13:00Z
@@ -6232,6 +6248,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "lFuSi/gP+CyP2DEkDdNNtCsqXJfC+OCV6F+A7biLCz8MT9jDppQV9ZKz9e8ygDc7K3DXAbgeLSX9hIsYmo5m3/Cv/wJXfxJVjNM4rg37HFTYVGNbTb1X2sQQcCLktqUAx7O/L09h/o/XMnhyXmy3AjR0Vq3Aj4dJZ4n5adqE8iPjxibcI8g16WN0jn/tEShk1vUv2rXJS8jOZ2MzIB9jP+WTTB5nyncRlGrk6hY3IF4ev5ODtpdyMjcVwVGpaFnRTp7gFEZxFPCP530EeUUZg/mAN5Nuwat+3phUKhrciEf7IIEg73Z1S6rtdul8DNVM8h0mqKBcNZ8EQnfpTmG8ppXjRNaorcQv5xJio9YudGM=;+nArDCGqQEw4WOf+MxQGjQ=="
+secured: "DR7IkRf5c1s+XokJu5c4lLpUWAT4FE9LhY24Ujk2IsrrUVq9AXSsfCYevTfPJTUej5ThQgOrsAiyUV4AFI28pU2vzggpdo91rzlakVLUhVmuGYC78d156rm+QgXxGwil5Lo5sHS7j5dDrcfWuHKoLP4+4/iepcH8xFYPuZu4rAOow1dyBRpOjmQaHIGPRdeqUC95JNcsijllKzgBp5EBhmH6XzFZoNm7+MWkhaI/LVFC0+xxdr4g+e9QE1/oHV4JAHocLFq/72FMUWoC563NfUbtOjJSC4Vlkba/6tK6xUMgddHEtlYXLFPDlZV/w8P8Y3t8JDbycQIKtxX7L7MHxpBF48XIVUmg7NpQk+ZkscI0NSdKUg8lK5oh3QgW/Lo0ya/NQN5O+kIA7uUHAVNRw9u90m4V5eKHP9x4zoruL0ZRrFL3x83qdVfy3jQdvyXP+aWy3GHtPFpIQdj6r9B9KsE+gv4NRkA2+T5xReFc2ZVGiOFA9BqYFQt9hxaE9/3wTcJaRVPe5KjfxjmHX5YUDQ==;4sg11VolVtnC4bRIdQjO5w=="
 ---
 
