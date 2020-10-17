@@ -1,28 +1,30 @@
 ---
 category: news
-title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
-excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-publishedDateTime: 2020-10-17T01:36:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
+excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name"
+publishedDateTime: 2020-10-17T04:51:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
+ampWebUrl: "https://amp.detroitnews.com/amp/114426624"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/114426624"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTN/a50f81e6-b14d-4f24-a3b4-62add1c48836-AP20290851135278.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -2202,6 +2204,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Trump and Biden campaigns, Save Our Stages Fest, coronavirus pandemic: 5 things to know this weekend"
+    excerpt: "Trump heads to Michigan, Biden surrogates hit the campaign trail, an action-packed sports Saturday and more things to get your morning started right."
+    publishedDateTime: 2020-10-17T09:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/17/trump-biden-coronavirus-astros-rays-dodgers-braves-cruises/5938639002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938639002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938639002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/05/USAT/9fcc0660-4bb1-44fb-97cf-0653ef0cb38c-AP_Election_2020_Debates.jpg?auto=webp&crop=4770,2684,x0,y309&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
@@ -6090,6 +6108,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "YpE36nj5p5B2Iy8dKXHDiUiq/EzkuJdM9Q5buaYzcnS7SGoknhNWmcOoL0EBQLSEMEJKeXpAZE5swR0g4hSQ0gbK5rDzmkBzcoOgs9VYJj5JgTmBn8FUvz6hGokjyTo1gn1DcAHaRrdJ6SckMfqFzL0Yl7ajZRXSsKKN4evNgsmgD50D2KW3nHFzMdOP02Aj0nviJHYRpYuI3ABQJtgye8u3f1FEr1ZFtphuu0ktarOG+26APJ/DkQU5towRmHSieL1I0BrKQ5bWHw7yyaIHQBhnAlGjNdUP7xD/qOT4jxbwElRB1YAWv/cR7wHA1HId3vh5bcNbjIg9wVOEOhwDiixB35DYh8WX/HS6huC3pFDCCsMG7uSBr0s2+/yk1zT3J6Yvs7vi17GIQhEbpKq0rnOVc1Slx75QQJ1ID4PR9L+wVNmye1o8/D+54EwOF/XTQopGr/IGTBvdP4V7gX0PBP1l6n3F0uNg2Dbe2yzACyB8ZNaOuNdlvzXf/fFrpIBlHulUONcWGglnlGBKZjgGzA==;TO9Fgz5BcE6f3QbLNX4blA=="
+secured: "f4o9AayZ05FCqyUcOtW1yLOSpsi62ohLey5Xpzi8uVZXjbVaCWEtZ7HkokDYtbMIgt1pfsKbdFTIj9T6dJe7nG8zmSpdGtRc3Do+00R5LFlpZgmLbIFIZ3a+97Ui14QEa/4o6hlQk5ZZElR8M7ZU1RkSFZu1bse7f1VZklNeqlBuBwpL2fdE2BTYkKqLTCoZc3oEkpMlnhNrtOXM7kiItIfk+ADlM7Dqhj0/vhWeGuLYQoOpWVOuuDvV97AeL7txb+LcuwL6r8u3RxngFga/JXZ6oxJ4byMxGDIgu2PFjUsAT7eXqCReyUeFikLBjMsp3Xg353DfBUGJ16LZ7J7jFmpVCCdWv84dpKIuDjC1pto=;1WGl5TIpeX6Urmt698zsrg=="
 ---
 

@@ -498,10 +498,10 @@ related:
         isCached: true
   - title: "Trump, in reversal, approves California wildfire aid"
     excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
-    publishedDateTime: 2020-10-17T05:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
+    publishedDateTime: 2020-10-17T03:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
     type: article
     provider:
       name: Reuters

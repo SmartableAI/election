@@ -497,10 +497,10 @@ related:
         isCached: true
   - title: "Trump, in reversal, approves California wildfire aid"
     excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
-    publishedDateTime: 2020-10-17T05:08:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
+    publishedDateTime: 2020-10-17T03:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
     type: article
     provider:
       name: Reuters
@@ -2036,6 +2036,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wBUoSp1n/inhMMi3N++Xo/UrDBDJHM7cXt6SC82AmnRHMhtGoiDPjNvkNJa52w/2Gpm+Yj/Brd3YrCjMFymOpOs5jTTk5u4qm8JQPKsAtE4p069aY36EvTj9mEL70rFnvSJWiP3vpmcbXM7tb4JKbfktH4QDse6cBfApIQ4IA/E/uAm+aM+Kd3rc7Ax7oleG5hTJlT6TWXZrSqLLZhr3C1aJ7NM/Q8uMK4A609qc4Z6VktiR+WY2CcSyKHLHsL4zSjgWTzhs2URR89sw06eHtK0dGkGjHB/FZCTrKT0RA2FEFJDkXAvzMbStZIPt9R8HCnGxj8Mx6fbZYWeHGWp9ua5T620GBlNMQ7TUZjXhhZU=;c8wlbFyXlbUop5kyclQuiA=="
+secured: "OJUTpNlU4/53Qc0WUcc3ABLMOIBoov7GahO+Fn8QY9unG1pP+nvDPIW2TfdRriomKhpkXIDa7HZUKTVsmQlrhcaGb+55uOC5KSBLY4UGMYkOpA/xLQHRBKmv5L6AuzTyolOAHOZYbUZEm91iHoBvFVJwezT+HhAoIt9y1MsVeZdlbsxoLWz+hQwaY8+qk4LGSsQ1xfC7tJ9VPIy9ARHLBfRbSnSryGeyDiSfUqsHTI5Ll1GuNz8FQqe4l7SsOT3XSFBWUS6hYAw3o+et1QGV7Y/5q+b3ofsuHyeBoPyqdDUee72iHoGl6Oa3W5565bp4UHD71qXtrO7jo5qNdTxqdw3qNHLwcItPuD5/VBX1fo7D36nsatTLNZsUO9gvGShP3/oqVApnLjvdaHpGIrhudrpcus1rPgI5UBhGXDV8hkqL5xbdi1azsGccliRomdzkC/79hrZa4qePbU8nS7CVjAIO7EN8A2A91kbgrKuzWW+isG4ouy3Uk1Xq7UGrScoiD6QZFL01pQ2l4bA4WyjYQQ==;aH1rZ0si6giSAke9h0onOw=="
 ---
 

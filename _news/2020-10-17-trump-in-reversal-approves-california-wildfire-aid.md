@@ -2,11 +2,11 @@
 category: news
 title: "Trump, in reversal, approves California wildfire aid"
 excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
-publishedDateTime: 2020-10-17T05:08:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
-webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
+publishedDateTime: 2020-10-17T03:24:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
+webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-idUSKBN2712NE"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2712NE"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2712NE"
 type: article
 quality: 125
 heat: -1
@@ -2036,6 +2036,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "dU4ITknQYQANZEPLPKW8zyVoArwx9iW7+sOcKjDGwLb12Doof87yrhvjXOyfv/6SnT5QriDe44zf14wMZ6e372LUo4yyQK1Zz2ehXLmG2i5cvEjNMeg0zTkw2BLZHYJaTxu09/xv84sPVI+F6ydE8RUyj9x3gC9J7Z0rCQVAUAQrMupKOYZ6zzHCG1K9IMaeGHpbahtE1tzkamZSKDFqBPn9M3ALsELOW7A8hm2AmQX32Za3yk1SQa3LohImfG3ymkK5FNf9lWwGfmLnuPGIB4JLiKDOc8OHXDxJjTzNuO7st6OuVDuj2Clq6qrvBanfUIlhWw3supYFOxQVjXLlurwQWqTPqYsJSllAzrrpryA=;gRTCxI5ymIkrwXKeKoG7DA=="
+secured: "LRLZEfD+S58PLfw+JFUuzxqm7PdrFxqdvRPWu5io2h0nHfytauR9xDDwyQKV6DkztCOI144tYCRszI7UlHlhaj/hlNgXg1YfQL0C7Xxz5/H1bLxv3I9OBJ1Dj8sb43W8k1eY7Y6xvv9P+lZfguGh9fo/LuCOu7hc1ByIXgruZVnIrgpfRGXLLhL7aOT9XpD5oijFHCeQrywPHjpeIdbmAzPgY4fVkmLR8nnhn1XZTBbUT6qGFkwtMeUYvUi1OE12dBqXlyYqUeX7w5Vwa4a4JEq8hdZvs/hF3FTbEa3Nyfl3ILDgCHXtSYLXYgmXLU+2P0KiVUs3xFed4P0VPzgeGRWy4og5I1OB8hdkELMQeQ8=;n6DKOqYGbZ9mQ8dWEKepSQ=="
 ---
 

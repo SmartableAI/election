@@ -176,6 +176,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump is 'legitimizing' hate incidents against Asian Americans: U.N. experts"
+    excerpt: "The experts wrote that “U.S. authorities have utterly failed to take the steps required to detect, monitor, and prevent racist and xenophobic incidents” toward Asian Americans."
+    publishedDateTime: 2020-10-17T08:13:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/u-n-experts-trump-legitimizing-hate-incidents-against-asian-americans-n1243791"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243791"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243791"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3413558/200921-un-anniversary-mc-9473_e1dfda68f626dc90d8518a14ef374869.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Romney decries state of America's 'vile, vituperative, hate-filled' politics, puts blame largely on Trump"
     excerpt: "Romney said he's \"troubled\" by U.S. politics having \"moved away from spirited debate to a vile, vituperative, hate-filled morass\" unbecoming of America."
     publishedDateTime: 2020-10-13T15:28:00Z

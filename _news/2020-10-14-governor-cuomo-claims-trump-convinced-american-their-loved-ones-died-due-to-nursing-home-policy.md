@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census"
+    excerpt: "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate"
+    publishedDateTime: 2020-10-17T07:54:00Z
+    webUrl: "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/"
+    ampWebUrl: "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "yp96o2SdRKflW8l+0wywxwuAhAPpcKP7n9JdLNnFXzgVRxRGAnLPXAvs+DCnAbNApG7cb/CloWIcFmdln0UYbIUsjGphKcpVH5sctwOJrNsVBmogU7WOR+ptjq4VgnPyfSgCKNL09iJcu9nAMfE05EbXjFkfaedfF6EDinl/RM6oEJzZxWF+1XoBNVqYUapladdGtvsrZ6+SNhCKJk54LmwJXjF70goTd6HIqhdq0fo1hAEeZyYUFKtJN51WoL7DDKhdo2rEMu03aHQ4refvNzs99GuV1X9wx8kjn3zWIkdl+VhJprZghFhfQ+Nv0cbZFx4eHeXMeFWRm8GVNuFMrzGKV7REoFZd3E3bX0sEeK0=;m5rHDVarzq/xsDiE7A6r6A=="
 ---

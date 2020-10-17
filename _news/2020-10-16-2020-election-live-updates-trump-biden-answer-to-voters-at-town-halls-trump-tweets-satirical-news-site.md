@@ -2193,6 +2193,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump and Biden campaigns, Save Our Stages Fest, coronavirus pandemic: 5 things to know this weekend"
+    excerpt: "Trump heads to Michigan, Biden surrogates hit the campaign trail, an action-packed sports Saturday and more things to get your morning started right."
+    publishedDateTime: 2020-10-17T09:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/17/trump-biden-coronavirus-astros-rays-dodgers-braves-cruises/5938639002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938639002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938639002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/05/USAT/9fcc0660-4bb1-44fb-97cf-0653ef0cb38c-AP_Election_2020_Debates.jpg?auto=webp&crop=4770,2684,x0,y309&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
     publishedDateTime: 2020-10-07T10:02:00Z
@@ -3803,6 +3819,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
+    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name"
+    publishedDateTime: 2020-10-17T04:51:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/114426624"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/114426624"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTN/a50f81e6-b14d-4f24-a3b4-62add1c48836-AP20290851135278.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
@@ -5543,17 +5575,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
-    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T01:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
     excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."
     publishedDateTime: 2020-10-17T03:15:00Z
@@ -6091,6 +6112,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "2v1RJkRLjGG2nVKgp3gL/H3rLuT1oe5yqqXxhqqa4qBomUBSABdyAmenoduDQdmDjkYkVCbIpcQeQXMDHQIvJi2RB753j5/snEwhM2lYxN3K6ysPDMnvOOcRLU+XPA6kAWGM6EG0kQDmP35Ub1qUV65EnVLcQWEVwWF2u2x7CovhFWzUQUOHAz0l83Asinv4J9Je6LGg8UqGOY4spxygATyG1MWYh6v0uOAQi9T9Dx2sdhhY/qJd4xbLoO8IYWtmxtP7Y1BfUPpY9h8LbdKCGjpmtNxykZ5XNQCmMWSc1FuLhnap3ARFGZiIOHb93IiT19Q01lZGGdMJOjHsfOvbknzgnXYSkgBLR1dK7pu++5I=;syrmDkId0qXDVcjsXS3GKA=="
+secured: "NCTGvvbxJ24Zq5KalG4RwggTrFOrya/NHk9hG0Pj1Xz4bccahTii3SQnq1J3fXnRrqfrvm97arl1gwmWKXnPEG94gNMJTJxQDSuQ9whQ0pc6/Ouz6/dWbDEBLO9eNsE9vsKs5Uj+wPqrn7UxRDBq4I8cJ7n5xjD5wEZjDMRyj8LWbzoNpAbuxW4+OD68q8RggndVnySkLRnJL/TSGwFBh7WB+af15T2CAHN6g1iuRkd9ouvrZH0zNJRPgsVt796h0lEQTcXpACrYNc8LHu3/MVHZYsJPluLlmWsBDr2TJJYwkWHwEcP/Sgit5v+DOUD9mVI0PqBg7t57xquwc7vOoYQpojxYn2eFPmtE4jVMjgr2sOTouwKOvHMh3jXu1kO7RwC9y2cOT7fBOiU5NPVNVgX2B+e1it3nuPrhzCjtqmL0XRYvT2yZ6XG5WhURbFIjOlFJlj54AR5AWidcg4kwUkx9h2WOuc/t0ZEQjLDfxDwcNrmRrJXJWYCjzO7gPR7sqj2CatPKNOi/NtzmjjHCyw==;amj0pLVggnHDRFU893y+0w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yem
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://images.wsj.net/im-242771/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census"
+    excerpt: "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate"
+    publishedDateTime: 2020-10-17T07:54:00Z
+    webUrl: "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/"
+    ampWebUrl: "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 126
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "xtiyNLvuU8GYnUeDDMwae105rBhuV7l09nCSVGkw80QVAArc/Nsv/mgb14rgfCpKSzWvnY4tgygfcbNAvCouGcC/UOge3em3l1vqHA/7l9DBRO5FMBsHCgm/SYZjN4FOpZrYKXnZS1dE6A1WJI37Bt/KK0IBDk66XUcev+A1TrGBEXWT1Efy8XS2YMzZlAOMliOB0Qvp3MuB+Ax80Vt8FsfOYvyA05xVTfrzTd+apaVB0ByIlkBHm7L50HPehNN80jPWbNWwfSe/MMqBl2g2b2je7CfmmdEyfaixmnC4HoXCDSRIv3BK+ygaQHMS3p3U1OWG0e0fP2UXS2cLnD5kswvNiodfGU63YleUwoN5XVs=;vWSiNwlmbrMvZMn76u0PFg=="

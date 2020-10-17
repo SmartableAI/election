@@ -2207,6 +2207,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump and Biden campaigns, Save Our Stages Fest, coronavirus pandemic: 5 things to know this weekend"
+    excerpt: "Trump heads to Michigan, Biden surrogates hit the campaign trail, an action-packed sports Saturday and more things to get your morning started right."
+    publishedDateTime: 2020-10-17T09:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/17/trump-biden-coronavirus-astros-rays-dodgers-braves-cruises/5938639002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938639002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938639002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/05/USAT/9fcc0660-4bb1-44fb-97cf-0653ef0cb38c-AP_Election_2020_Debates.jpg?auto=webp&crop=4770,2684,x0,y309&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
     publishedDateTime: 2020-10-07T10:02:00Z
@@ -3817,6 +3833,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
+    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name"
+    publishedDateTime: 2020-10-17T04:51:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/17/gop-senator-mispronounces-kamala-harris-name-trump-rally/114426624/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/114426624"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/114426624"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTN/a50f81e6-b14d-4f24-a3b4-62add1c48836-AP20290851135278.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
@@ -5538,17 +5570,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
-    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T01:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

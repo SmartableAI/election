@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
 excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
 publishedDateTime: 2020-10-16T13:35:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html"
 type: article
 quality: 60
 heat: -1
@@ -327,6 +327,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "LXU+zTo6yOFK/T0TdPhKuVEGE+7CzobJYpJi512mtsGzXdZ6c50aWUVgUYWPlu4pVn6XAVyeJoNLWb7Jsx8aN83FPpKB4aPbGjV0n0Eqndn1uSwMh9oKVdkqXGaoSzmntvQJj7z5mRtjNlWeHmuPHliEsTEiGd7UYNf7gO02QcV+IAGL86EiDL+u2XO+Q+MXmRhPg2ehSe9gXBNZBcVMdhwWs88zoxjhMX0pbPNpJf0EKcMFLvRqmXHNOBZL4Lres2kHFwOzjHCMPNmPQDF2PKlIuVM5fcZ1gdDe1MpG3S++UDv4HO3JbvHa8iW8i8ChPitHBjQbJJdW5CihT+UX+tS1Et4HuP8YMawsJKr/DQvDEayd9FENRAj3T1rboLipN7GRuiVW/iq3v/lGowKX6t1H5vFMNcvekPb98I1+cZWFbHt0+TZxEnXHs2Vl+nJQhTbgKyLijW/dQdQMMYDdUPIsIVSN6kFr7zPFN1G/OyiS0SYsyEvRFm/fv3LggyBtnlWdN0CWLVmp+/m2J3AVvw==;bsu8URp7jdufwKRcD+H6Jg=="
+secured: "+9LIBM1FNnNucVdOogDhlHaNi8GHpRAqbgpVgeVO2vJVj2VnUbH+cx2YVfMEd20M0k1BYuyP5gjuYCmJLFVGFwQ/Gu0tO/kq4ZhYBWaopr9cbs0SZPG7RhpaIFVBK7PGvM1BEHlpFujrnRAdQ6Wkm8yNDdRJjvL5mNnsCnae636RIe7APfvUHa8KTaAp7mfaZqxO0ivCKoQspOsZnV5/4p3RFDfNeZQEhH652Hamn/n2tEFzNV/XBpGQnFoG/z/OFzWOBKSln2ky4LMq1zpe2qkDITsgv18xi24AEHHqYdos7slu/E1eIaAnk7nMz7Acomuu7mSdi0bF9LPz96bY3CSwMO0peuLFEPFzSNtWhNs=;FIpHw5gb0SOrduRgxZDP+A=="
 ---
 
