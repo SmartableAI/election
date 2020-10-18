@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Sacha Baron Cohen reveals how he was able to sneak into Mike Pence speech to film Borat 2"
+    excerpt: "Sacha Baron Cohen has revealed how he managed to sneak into a Mike Pence speech during a rally earlier this year while filming a scene for the upcoming Borat sequel. The actor, believe it or not, managed to disguise himself as none other than President Donald Trump in order to gain access into the speech,"
+    publishedDateTime: 2020-10-18T18:46:00Z
+    webUrl: "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/"
+    ampWebUrl: "https://metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/10/18/sacha-baron-cohen-mike-pence-speech-borat-13441749/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 66
+    images:
+      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/10/PRI_169142927.jpg?quality=90&strip=all&zoom=1&resize=600%2C315&ssl=1"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Sacha Baron Cohen Listened to ‘Conservative Men Go to the Toilet for 5 Hours’ to Prank Mike Pence"
     excerpt: "Subsequent Moviefilm, Sacha Baron Cohen revealed the smelly, cramped lengths he had to go to in order to prank V"
     publishedDateTime: 2020-10-18T03:20:00Z

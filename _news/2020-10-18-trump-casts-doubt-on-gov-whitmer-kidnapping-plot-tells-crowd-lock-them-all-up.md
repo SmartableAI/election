@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mediaite.com/donald-trump/trump-casts-doubt-on-gov-whitm
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/trump-casts-doubt-on-gov-whitmer-kidnapping-plot-tells-crowd-lock-them-all-up/amp/"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mediaite
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Lara Trump Defends President Going After Gov. Whitmer: He Wasn’t Provoking People, ‘He Was Having Fun at a Trump Rally’"
-    excerpt: "CNn's Jake Tapper opened his interview with Trump 2020 campaign senior adviser Lara Trump Sunday confronting her over President Donald Trump continuing to attack Michigan Governor Gretchen Whitme"
-    publishedDateTime: 2020-10-18T14:04:00Z
-    webUrl: "https://www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/"
-    ampWebUrl: "https://www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/amp/"
+  - title: "Michigan Gov. Gretchen Whitmer says President Trump is inciting ‘domestic terrorism’ with his ‘lock her up’ chants"
+    excerpt: "Michigan Gov. Gretchen Whitmer said that the rhetoric is “incredibly disturbing” a little more than a week after authorities said they had thwarted an alleged plot to kidnap her."
+    publishedDateTime: 2020-10-18T19:08:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 51
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/tapper-lara-trump.jpg"
+      - url: "https://www.chicagotribune.com/resizer/lrSpB0fFIbK0wcATo0_BT_purRQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7DS6PDTSRF4TNDATKXWBQFGBA.JPG"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "9TkDyf2u9y276htAMLRRRnpTGv9bhnxLfYXiDPPOWEAruWXwVCHwcTpoeYL4p4pDSbOMlLIlh7hfX8MqRoWCysgr1315Xz1bFh56u7Kin5wRCR8yhCk9iUfj5RQ8tGYvhg1s/jZnVb5iAZ1JnhKSceRkN6MIjD113mvWrPp/+ARevgxLbRse0yQuz1U3WEMmWqXe9y4odV7DzgCwL1FDs6Q8GiTAXsGs6WysoPPyDIIJOFtxKKIem3M0bNBYWCPUqBWZRX/3ISeT15m7m0vxnaAgNoiFueOcw6OzuVPwioufa7PIUOd1+kdVtatnMFq2g2Asz/55KD1XqCWHmPwAb0+Q3rWtf++WxAui6Vr+Sb0=;ololNFT6cAtwh18sfrOk+w=="

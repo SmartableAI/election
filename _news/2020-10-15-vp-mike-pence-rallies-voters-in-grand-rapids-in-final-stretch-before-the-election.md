@@ -3,25 +3,25 @@ category: news
 title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
 excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
 publishedDateTime: 2020-10-15T01:55:00Z
-originalUrl: "https://www.wusa9.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-webUrl: "https://www.wusa9.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+originalUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
 type: article
 quality: 85
 heat: -1
 published: false
 
 provider:
-  name: WUSA9
-  domain: wusa9.com
+  name: 11Alive
+  domain: 11alive.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.wusa9.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
+  - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -74,6 +74,22 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/2/f1/2f1eaf86-10a2-11eb-9cee-2706909b2f7a/5f8b30c8048eb.image.jpg?resize=1024%2C749"
         width: 1024
         height: 749
+        isCached: true
+  - title: "Vice President Mike Pence to hold rally Monday in York County"
+    excerpt: "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!"
+    publishedDateTime: 2020-10-18T19:31:00Z
+    webUrl: "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/"
+    ampWebUrl: "https://amp.ydr.com/amp/3703933001"
+    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001"
+    type: article
+    provider:
+      name: YDR
+      domain: ydr.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'It's on, North Carolina': Vice President Pence greets supporters in Selma"
     excerpt: "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,"
@@ -173,6 +189,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "GvPLrn/lSaqzSx26eZzq8aJJ4FKT/KHIxIW5wqFOaXgEWUjeg+/cBeNgLvB24Cc7+fxyKjp6Psbpjb9rgtsCw4ZUR73aBfy74kE0vm1k+lFC4P6eWoFU2CLEM21GJONs6B4YlkDh3OaWUSPoVjeTS9zQYK10E4su7lVnII1yZr2GT9sjnLoBjC8h8oUEQcHYlch6kS5A6XAnKBdnioaUHk9FKl/auD1t1BNReYQpozCT8FOHXub9gqNpkM0352wENgRKHzOlq7f/nmv8X2cWtYUfpR4jAM8eMjJe82laf1L1loae4ThbHi2VoMFFkxOxTrW9E5QysF1iWEX6TZw52GUIwpaQF/ILX8k63QkPrz+3p92faSBjxBWgy5yRzszucbmulP1ENY7FO2O++TTJG5AJGOKm7iaFt8C9ItBloDRRr5FlOhJp/v9x0zInU0MSVoJsilcco/sxSqaYi8Jb9zm+YCLqvqyA8//AXGYsMAYr78JqvS5nDkVXuouweYvnFuoNN4PdnB0hpV3HKRqtfA==;0gzfGx2EVNEEp8TQyzWKtQ=="
+secured: "HQxTGwOl7n/uFrfi4piFMh4xuleFJMiQnv79/WHa2/KFuS/4CUlII/Rt9oYe7oM7wuuIT9gPZSuhju75pK45LNXYk8CdgpBvchUc5MxfnbKcg12FpYM9Jlg042BU9E2yD3e1EEuDfYwfLxKFWoyUObjdf0EsBub2A5GOdRife6e+mhFSOn3qYBqeGKzDAJ4Dj+CMB2AwvXEi/gDGAi0/DHiYZ3mpIJ72VRr0RfG0nBPC5MRebKcFEbeVs9Xvb/YWzfidEqXDsz4tJZjU4GKfkR50X5KrHdCDmtOrxU1QD/erLYh4OvXX59+0wIy6lbO2xV5kKlGZ76nNoOZBjSCnhHTR1MDoNLQgBH6C0RvqHHk=;dEN0baFZa5pqcrE0XRVHow=="
 ---
 

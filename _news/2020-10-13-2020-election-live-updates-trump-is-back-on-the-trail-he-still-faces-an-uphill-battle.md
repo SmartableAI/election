@@ -480,6 +480,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In North Carolina, Biden slams Trump for Covid 'lie,' warns 'things are getting worse'"
+    excerpt: "Joe Biden lambasted President Donald Trump for his \"lies\" about the state of the Covid-19 pandemic during a campaign stop in Durham, North Carolina on Sunday. Biden highlighted increasing case counts,"
+    publishedDateTime: 2020-10-18T19:35:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/north-carolina-biden-slams-trump-covid-lie-warns-things-are-n1243849"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243849"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243849"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3421096/201018-biden-north-carolina-jm-1447_e25ba82d4b1676fecafeb3195aab37ea.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "As Trump Recovers, He Retreats to a Conservative Media Safe Space"
     excerpt: "The president is opting for settings where there is virtually no risk he will encounter an uncomfortable question, but in doing so he is missing a chance to talk to a broader range of voters."
     publishedDateTime: 2020-10-10T15:38:00Z

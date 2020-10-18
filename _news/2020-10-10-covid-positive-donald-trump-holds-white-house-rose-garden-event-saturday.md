@@ -1897,6 +1897,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Trump gaffe demotes France’s Macron"
+    excerpt: "President Donald Trump likes to make fun of his rival Joe Biden’s verbal lapses but on Saturday he made his own goof as he took a pot shot at French President Emmanuel Macron and effectively demoted him."
+    publishedDateTime: 2020-10-18T18:39:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-gaffe-demotes-frances-macron/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-gaffe-demotes-frances-macron/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-gaffe-demotes-frances-macron/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Trump-and-Macron-at-G7.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Demi Lovato calls out Donald Trump on political anthem Commander in Chief"
     excerpt: "Demi Lovato has called out President Donald Trump on his handling of racial injustice and the coronavirus pandemic on her new politically-charged anthem 'Commander in Chief'."
     publishedDateTime: 2020-10-14T08:00:00Z

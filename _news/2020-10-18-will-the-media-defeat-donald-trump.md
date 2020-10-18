@@ -623,7 +623,7 @@ related:
   - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
     excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
     publishedDateTime: 2020-10-18T15:53:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html#!"
     type: article
     provider:
       name: RealClearPolitics
@@ -683,6 +683,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "P5v/ddqtg3ZaoUAnoMZ+Lz1efcRgC9D9jLsbMAcLeih53VqPMSrJqiatlKpcPQbdKLQ2Kt4eNj0WhJ/cDn37iaXt7UB1kL140DTdYC6PbIUEh9NYzofN6+045JsRcMO1SOv2KEO9sWBEjtc2pRtn3M3xmsFPo698WK4NvJnFt+abvsGTGGw1jnV6arauajSCVtP3HGs4VTTHr4I5y3H3hs/qLnu+DUKVLgPpYDx+BBWGI9ZUsTYdD0o2VBHoqOsLIw8z52ZiMNSRAxBEtLBKmN6zxMHHr6NoJblP9nEzFWstz3vNo7EA1upaMVhINPcdyFfjX5GtX5x+Zdj+JACa4sKtMYfsYba6vJPReIu7Qdc=;F/hyIdGhQcq85pVcg8dVsA=="
+secured: "w/1wOwWmx3vrGJmm4RGz7oI/TfQuJnkvQ1zJ8lQt1rhqMpQFwn/HMbXLCqC5XuZstf/4Jurb6+P6fOakO8tGT3AGXxUPldJLdT+/s5xA9lEKz8mDx06NaHmihV0lYiKIgCWcXZlOWa733iwGgYRWHMqc7Pv3ud2fg06lLa/FZmcu1lP/lXfz0NnKOjRPqrEmM7Gq5tOMel/wNToa9EuqF7frds+noz4fN2PhdOx9qrsVSdRaPWG2zvFpJu/8SjKxDultxi2qNC5KiaNGyopTnuVlZhYXcnSNWNRmFOeDn0Eiwz+QzoaNtp8Ne1/DM3ZFx0j4nz/TfwuXmPABQeCpF0yRULNwz/WBxsOOEkYIMj5GaS64L2jR5nANwMpzMvELg5/pekV/FOZCHHQGH6mu9S0WYOdJR+W1Gszp9FSErneNcRv4CxGqXyeqwT6xX7ZOJB+1Vpa7cEtF4aqCuZUU60INpl+CR08D6M17mVkDRU0HMtcoO64KbJ+rhjEMEqYZL87WthmU72a/CccGdhXqlA==;4efKuTIMC/6zRruyyR2lQQ=="
 ---
 

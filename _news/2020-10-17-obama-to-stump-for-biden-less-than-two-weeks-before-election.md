@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 930
+heat: 950
 published: true
 
 provider:
@@ -266,6 +266,22 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b627c04-214f-44c9-83c9-ce27f002d27a/a75fd75e-7df3-4c27-977a-4871adb23253/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden channels Obama in declaring there are 'no red states, no blue states, just the United States'"
+    excerpt: "Democratic presidential nominee Joe Biden paraphrased the man he shared a ticket with in 2008 and 2012, when he used an idea from President Barack Obama in a speech at a Sunday campaign event."
+    publishedDateTime: 2020-10-18T19:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R1ZzIDWMn-I/biden-channels-obama-in-declaring-there-are-no-red-states-no-blue-states-just-the-united-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-channels-obama-in-declaring-there-are-no-red-states-no-blue-states-just-the-united-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-channels-obama-in-declaring-there-are-no-red-states-no-blue-states-just-the-united-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/323fc166-b0ff-4f35-9882-716bd0446aa7/025a9d15-52e2-4d40-aaf4-eac7b6e2373a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

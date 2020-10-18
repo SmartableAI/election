@@ -285,6 +285,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden channels Obama in declaring there are 'no red states, no blue states, just the United States'"
+    excerpt: "Democratic presidential nominee Joe Biden paraphrased the man he shared a ticket with in 2008 and 2012, when he used an idea from President Barack Obama in a speech at a Sunday campaign event."
+    publishedDateTime: 2020-10-18T19:14:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R1ZzIDWMn-I/biden-channels-obama-in-declaring-there-are-no-red-states-no-blue-states-just-the-united-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-channels-obama-in-declaring-there-are-no-red-states-no-blue-states-just-the-united-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-channels-obama-in-declaring-there-are-no-red-states-no-blue-states-just-the-united-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/323fc166-b0ff-4f35-9882-716bd0446aa7/025a9d15-52e2-4d40-aaf4-eac7b6e2373a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's ABC town hall questioners include former Obama speechwriter, wife of former Pennsylvania Dem candidate"
     excerpt: "Two of the questioners at the ABC town hall featuring Democratic presidential candidate Joe Biden on Thursday had ties to high-profile Democratic politicians, including one who previously worked as a speechwriter in the Obama administration. "
     publishedDateTime: 2020-10-16T15:29:09Z

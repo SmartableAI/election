@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sean Hannity calls out Savannah Guthrie for 'serving as a Joe Biden surrogate' at Trump-NBC town hall"
+    excerpt: "Sean Hannity accused NBC News Thursday night of turning its town hall with President Trump into a \"political debate\" with the president and moderator Savannah Guthrie on opposite sides."
+    publishedDateTime: 2020-10-16T03:02:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-trump-nbc-town-hall-savannah-guthrie"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-trump-nbc-town-hall-savannah-guthrie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-trump-nbc-town-hall-savannah-guthrie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f49026dc-0fc8-48d7-ba89-83bf1b3de2e0/806722e6-41b3-4dc2-91a1-cd7e01b65c73/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'SNL' mocks NBC for hosting Trump, previous affiliations with Bill Cosby, Matt Lauer: 'We have a type'"
     excerpt: "This week’s “Saturday Night Live” included a “Weekend Update” segment that took aim at President Trump and mocked NBC for hosting him at a town hall.  After mocking the president and Democratic presidential nominee Joe Biden's dueling town halls,"
     publishedDateTime: 2020-10-18T13:32:00Z

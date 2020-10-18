@@ -1,30 +1,28 @@
 ---
 category: news
-title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
-excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
-publishedDateTime: 2020-10-17T01:33:00Z
-originalUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+publishedDateTime: 2020-10-17T01:36:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    isCached: true
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -1195,6 +1193,22 @@ related:
         width: 640
         height: 216
         isCached: true
+  - title: "Fact check: In town hall TV ratings, Joe Biden beat Donald Trump"
+    excerpt: "Final figures from Nielsen show that Joe Biden won the ratings contest against President Trump, but online posts falsely claim otherwise."
+    publishedDateTime: 2020-10-18T18:57:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/18/fact-check-town-hall-tv-ratings-joe-biden-beat-donald-trump/3676346001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3676346001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3676346001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/f9d7846f-63ba-4df2-90a4-9565db8dfb0e-AFP_AFP_8T834A.jpg?auto=webp&crop=3399,1912,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1355,6 +1369,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Trump in Nevada, Biden in North Carolina as candidates work to flip states"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden went on offense Sunday, with each campaigning in states they are trying to flip during the Nov. 3 election."
+    publishedDateTime: 2020-10-18T17:58:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-election-20201018-zeus46h4urfw5lpn5itjej7ejq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-biden-election-20201018-zeus46h4urfw5lpn5itjej7ejq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-biden-election-20201018-zeus46h4urfw5lpn5itjej7ejq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 138
+    images:
+      - url: "https://www.chicagotribune.com/resizer/mhNgRJAsDRbLyHS5byxWggILxHg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/AND2ZA32GNHRTG3E5U2PV2RJTM"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
     excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
     publishedDateTime: 2020-10-08T20:40:00Z
@@ -1450,6 +1480,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537814483&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G001"
         width: 817
         height: 545
+        isCached: true
+  - title: "Republican senator repeatedly mispronounces Kamala Harris' name at Trump rally"
+    excerpt: "As Perdue ended his remarks at the event, he referred to Harris as \"KAH'-mah-lah? Kah-MAH'-lah? Kamala-mala-mala? I don't know. Whatever.\""
+    publishedDateTime: 2020-10-17T20:50:00Z
+    webUrl: "https://www.cbsnews.com/news/david-perdue-republican-senator-criticized-for-repeatedly-mispronouncing-kamala-harris-name-at-rally/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/david-perdue-republican-senator-criticized-for-repeatedly-mispronouncing-kamala-harris-name-at-rally/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/david-perdue-republican-senator-criticized-for-repeatedly-mispronouncing-kamala-harris-name-at-rally/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 136
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/17/1500fe1b-5943-4e5f-a0d5-fed6c1879699/thumbnail/1200x630/b438b4793992ad3c2b27f5581ba2bca7/gettyimages-1228685528.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden says next presidential debate should be called off if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday that next week's scheduled debate with Republican President Donald Trump should not take place if Trump is still infected with COVID-19."
@@ -2288,7 +2334,7 @@ related:
   - title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - live"
     excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
     publishedDateTime: 2020-10-15T21:11:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88845d8f087cfbdaeb093b"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f884ba48f08d901494cb103"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
     type: article
@@ -3097,6 +3143,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/10/16/gettyimages-148166024_wide-128e986da94d52868af5e09e797ad12d6ecc12f6.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Women march against Trump and Supreme Court pick Barrett"
+    excerpt: "Andrea Towson takes part in a Women's March as part of a nationwide protest against President Donald Trump's decision to fill the seat on the Supreme Court left by the late Justice Ruth Bader Ginsburg"
+    publishedDateTime: 2020-10-18T18:41:00Z
+    webUrl: "https://www.reuters.com/news/picture/women-march-against-trump-and-supreme-co-idUSRTX83A5F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537946116&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-18T182609Z_37081_MRPRC2MKJ9VV7W1_RTRMADP_0_USA-COURT-BARRETT-PROTEST"
+        width: 810
+        height: 540
         isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
@@ -5117,14 +5177,14 @@ related:
         isCached: true
   - title: "As senior citizens abandon Trump, Joe Biden spends big on TV ads to build on his lead with them"
     excerpt: "Biden’s push for older voters reflects what one pollster called a \"startling\" shift from 2016, when seniors helped propel Trump to the White House."
-    publishedDateTime: 2020-10-18T10:20:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5967402002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5967402002"
+    publishedDateTime: 2020-10-18T12:41:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5967402002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5967402002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 78
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/f3acd84d-ecad-4be2-ba69-dba06e730fa5-biden_florida.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
@@ -6036,6 +6096,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump, Biden Are Campaigning Across Country From Each Other"
+    excerpt: "President Donald Trump is beginning his day with a rare visit to church as he and Democratic rival Joe Biden campaign across the country from one another in key states with the Nov. 3 election close at hand."
+    publishedDateTime: 2020-10-18T17:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/trump-biden-are-campaigning-across-country-from-each-other"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/trump-biden-are-campaigning-across-country-from-each-other?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-18/trump-biden-are-campaigning-across-country-from-each-other?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -6600,6 +6671,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "hT3kqk3F9XNQ4NK5Mgv+yV8dJSReW7v4BDGVAhdJAoogTrO/neJND6TNrXAz3cuv3lDuFfbwbiUqzAUL/tIuWCCj3FdInoJHFCsc2m2XZ5AMcmyypxQy/Ny4E54r+QYUxWH10A5VDfyoPNdpusjFMwb587GWTysPD6hBSVSAhlvxTcAiH+FhzBf+QsuXq4sdUKT53/j4JLH/qqBo29e45+VzN+eb3s5x0Oxf9sqc5N8hSURwlGZO9o45fOUAQLNMj6C9QdFQfne0fRyExsrUtdu7NmfTbF11yYawOAHq+t/O2hIJj6Ka+6ILYdp0H1i5LEik5gDHmgZsjYx5Ciwk3qYI2QX2A9lrs/jVhO7qZHzXEyqANrpu25M8gCuhphbNpQqfw4NEOHly91SsrTR60LC2jZPjlnQ7m8fHs9AuVLKXbp0260rVWduf0tXA5v5q0pTq6Q4gB7cg+9r4Hh13OU+UZuQ/toTRn3hhctxqWcN3MSnMgMVdCGQqoW8kFoTR+ElmWLau8ZiQUBke/4/pVw==;swImyLGCv5syXiwbDVxccg=="
+secured: "HYQa7IaK3ER6v7x0MdIMVhjqKpwGVrMHZWiWzFCkTaZUHPhcmtyrFG2tLGRGymTmcH31yRjWcvKNjRqlbLfe7sFVCr3LVMt3t5qHGHQ/nBAXNwqSiraCCtuawTqKv1kVM9Uc463XFlZMtgF3tv6h9O9hfRT5O9M//PcPjKiy2Y2F9YNR8D3lKvGQnO4vafHbvWjxMUQwc0n2cbrE5muPijh9ARGkrri8IDZwVa+uhZLSGekTeQ5ACg64LnLtBxSChZ6/bL4sYqkNe7lQGVJ0v2dD47JSPE3vQrrb0qwnG4QCPhXdN09GZnqzFWvWrtZNC3rEzsyJ39uL02kKA7hAEh/iuk56tJS0vbaYveotXVsWcOJckFf1LwgfQRR2gKWbJD06gGuWoxnmw9cQjCX/DpVcloeVWrdhDL1Uuk0A46a/dO2dspVuSw64W+bKgC01dTgjD4NONkAIXunJVfZXiDeoHrIGUtYO+4K2UrcgXpx1d/UyXZq/m3pcOGtaT0GYIjN6WMhFTmCYbYQrLKh40Q==;Raz+yH5e+xWNpcifAgEegg=="
 ---
 

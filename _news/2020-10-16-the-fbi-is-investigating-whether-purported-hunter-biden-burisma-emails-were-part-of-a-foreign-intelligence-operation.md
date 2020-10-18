@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-buris
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
 type: article
 quality: 102
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -29,6 +29,38 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
+    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
+    publishedDateTime: 2020-10-18T18:48:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
+    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
+    publishedDateTime: 2020-09-23T18:31:00Z
+    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 55
+    images:
+      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
+        width: 2048
+        height: 1440
+        isCached: true
 
 secured: "jDwy7IvApruNMgvrjVmsK3xx/zffsOrOK6+G8Wwljp24b3S69UpmaBLQvhTHnFbTE7zgTVx6kiOJ2Xr8MT6sRRdE1QPIoqf7s9nzRV7PTjkTGWkoF5O3om+/pyCDKTHIuXAau7EpYn7Z9B7TWoLNvj9gMzMk2i9aqp8ygSpchWr5I4mwrrnqHkykjqfuOrPX7TpsZcT75Tb0mJEXR6PHW8FchO1EzQ9oUoarM3Dy3/ebBoC7JE9AnNwejETqktISE5NLlL4WpWJ6EZRXatJGqH1Hac88prCdXTZ8f81eXyuzjhnGj+y4fg39PTp7cwrdMN1FxEB74HjBoNT8aFH8+/rJlMmGCeDsLeatO02UyiA=;sD2UHInVc4jD2H/CZwTx2Q=="
 ---
