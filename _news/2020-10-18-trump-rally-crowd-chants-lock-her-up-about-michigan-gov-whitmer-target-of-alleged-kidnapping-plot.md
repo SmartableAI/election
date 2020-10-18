@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Michigan Governor Whitmer Fires Back at Trump After Rally Crowd Chants 'Lock Her Up'"
+    excerpt: "\"This is exactly the rhetoric that has put me, my family, and other government officials' lives in danger,\" Whitmer said after Trump called for her to be locked up."
+    publishedDateTime: 2020-10-18T00:31:00Z
+    webUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067"
+    ampWebUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1654830/whitmer.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
     excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
     publishedDateTime: 2020-10-08T16:27:00Z
@@ -231,6 +247,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "MxKLZ/9IVavss/eGDgU8B7A4c4MdHCwnNZs1bXbiRlL47gaAny0LccUE+NfB6BiX0UCV7Wb0m5v/1qIdFtfy5osQ0S1561kkMiQg4XGLGbFgYljlWG9oN36mdpjOI995V80q4etVIwWI44p4BkObcnxWorrS1hU2oF11ttbIufaBj50xGH4tXMUc8tjn0UzsLEDYEaCGLHSAZ/0HnAAH9kfj8GlJh2L1sYL1R7aXkEQs8lhgqptsqTLjf8RLzh56grSfOAf1/7lvRQlT7rZLRJLZtw4E9t8fbJtB8vXWZD6wyAVngX/Sg63Vhy6YHqXq5Es9ri6LheAINAnAAIPQLfFox0J+Oak1Lo72dnT0hSc=;MPtoqzlZcJ/ZdajtmGNb/g=="
+secured: "lPFoQStS+bh1Q2qMbAtGwqFC9C/HPHe1UDKpjoqsvBGFHvjM3XkG7f6LuNDFWFQUYkDE1rbMgYK4gaifzJlLKpxrdCAlq2jRz1ThIcVj4QqCRfTSWbtnN7bCbUV/q+EwzBvyHmMESuh4xH9juxKNvKDQzKKW9URI0CK8OzoUP1UGQyGGSfYTLKKhdMaIs4yzBZtw+w+a6cJ9R6IAOsQzwjGX5l29mW6nUGPGauNvhn7OOmYquBkTQQDlnsKRwLyfAv68n/QuNts37cdYy0ijEFmN/qg9++W9JjE4Sn/TeVPEBJEPvlay5QAAsJZTahzHZnS0NUQjbK/VH10hg52pzYzS+ZTCtBwb7HtvKhloLBZGT9jhNEFOb2Ve8VH63UYyhtzDBIaHMU57/C23MxhLuxA6tTzFEpmfn3+NwZmNB0B6N8bZGWEsY/tpRUqQjWd3wB2LKBTZJIdh6qbQC2LKTb9RpQ/yV04bodfhUv1F8SlmHV/KB/V/Oj9lyvmS4zhadYfCASn+7U5BavogdHlvyg==;hZNCT7rMxuQBnMRT5HoK+A=="
 ---
 

@@ -311,6 +311,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "‘SNL’ Mocks Its Own Network’s Wild Trump Town Hall"
+    excerpt: "NBC stirred plenty of controversy this week by granting Donald Trump his own town hall in the same time slot as Joe Biden’s broadcast—but the decision seems even more cynical than some critics alleged when you realize how much Saturday Night Live maestro Lorne Michaels and his merry band of comedians must have been drooling at the prospect."
+    publishedDateTime: 2020-10-18T04:43:00Z
+    webUrl: "https://www.thedailybeast.com/snl-mocks-its-own-networks-wild-trump-town-hall"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "BFjh9EXDtF+oE0eQxS3ZbLBWdqo3xZeHxG+XmAqtp9huR/THMDc7XedHQNU8qMWrtlYQ/7qu7WkN59UYd/jQ64ddMNh/MbgPrx9CSKzIu4xvPpVCTwqkAb9TdG6UzaX2DaoVVo9hi4IadFEN6RYfsjvnH2wgF+G50j9NaFSooel24nb7Db3+cdVeRc+JqgXtTHx33cs1G0S+r+wQlZQC580NGRltM1nxOfn9feuMxjirR32X5VdZEKUuAXQ6b7SYubOT2OuZqiCJ53qDllY6fKr0dmKR8V/iahJgm4usygaiV3vuoUYD4I8j6EqZeuFQXzmwr+W4Zv25lnk7FA9RUPYMaI9YRkfBGdCJrfC9wqIcJSDUPqRHm6W1VnNbZI31qSDfPmc0Q3F2YHi9qF4Wpne4NW0/Plz+7kCwOFqS+iaDHFW9IETT6NVzORWAfXC9Afw8MAaVwl6YIqhyZTyQbTHiXxXGGXf3/HWM3DCCqQqM8MuJiTc4KsPJzSWZXFA7B3o04ywSM2Qe1IT2d8BS/w==;wkTxqvwY9Rii0H0codv3+g=="
 ---

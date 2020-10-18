@@ -399,6 +399,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump campaigns in Midwest, Biden warns of 'complacency'"
+    excerpt: "While President Trump rallied voters in Michigan and Wisconsin on Saturday, Democratic nominee Joe Biden's campaign told supporters in a memo that the race was \"neck and neck\" in some battleground states like Arizona and North Carolina -- and said Trump can still win. "
+    publishedDateTime: 2020-10-18T08:46:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-VyKS_L3oek/live-updates-trump-campaigns-in-midwest-biden-warns-of-complacency"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-campaigns-in-midwest-biden-warns-of-complacency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-campaigns-in-midwest-biden-warns-of-complacency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b2d6d4d-94f9-4d51-bdf2-850937b1cd15/2756603e-4cc8-4c6b-ba77-9cf8041dc9ba/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -1292,6 +1308,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c04e6639-6b4c-4e23-ae7e-6f586695754d/fbf87ae6-a9cf-4f2b-af7f-8a458b7efb89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Hunter Biden's alleged emails become a campaign issue"
+    excerpt: "House Intelligence Committee Chairman Adam Schiff on Friday described revelations from a slew of emails in a laptop allegedly belonging to Hunter Biden as being part of a Russia-backed smear campaign."
+    publishedDateTime: 2020-10-18T08:16:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zIsxZparPwc/hunter-bidens-alleged-emails-become-a-campaign-issue"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-bidens-alleged-emails-become-a-campaign-issue.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-bidens-alleged-emails-become-a-campaign-issue.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f4568f1-b039-4f09-bfa7-8a39981110f5/5aab47e3-b27a-4451-84c8-d657c2c07e2b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

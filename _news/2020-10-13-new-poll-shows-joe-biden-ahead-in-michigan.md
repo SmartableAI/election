@@ -93,6 +93,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Michigan Governor Whitmer Fires Back at Trump After Rally Crowd Chants 'Lock Her Up'"
+    excerpt: "\"This is exactly the rhetoric that has put me, my family, and other government officials' lives in danger,\" Whitmer said after Trump called for her to be locked up."
+    publishedDateTime: 2020-10-18T00:31:00Z
+    webUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067"
+    ampWebUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1654830/whitmer.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
     excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
     publishedDateTime: 2020-10-18T05:20:00Z
