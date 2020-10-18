@@ -234,6 +234,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Trump: Democrats' win will put US economy in peril"
+    excerpt: "US President Donald Trump is making a late reelection pitch to voters Saturday in Michigan and Wisconsin, states in the Upper Midwest that were instrumental to his 2016 victory but may now be slipping from his grasp."
+    publishedDateTime: 2020-10-17T23:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/17/trump-democrats-win-put-us-economy-peril/3699210001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/7d9f912a-23f5-416e-bf7b-3fd9f700ebbb_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "U.S. stocks, crude jump on revived stimulus hopes, Trump's improving health"
     excerpt: "U.S. stocks closed sharply higher and crude prices surged Monday as renewed optimism surrounding stimulus negotiations and news of President Donald Trump's health progress helped calm investor anxiety."
     publishedDateTime: 2020-10-06T08:18:00Z

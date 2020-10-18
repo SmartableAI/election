@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
 type: article
 quality: 123
-heat: 503
+heat: 523
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
       - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability"
+    excerpt: "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!"
+    publishedDateTime: 2020-10-17T04:06:00Z
+    webUrl: "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F4page%2F8page%2F3page%2F2page%2F9page%2F4page%2F4page%2F7page%2F485page%2F2page%2F2page%2F6page/4"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 92
+    images:
+      - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
+        width: 300
+        height: 300
         isCached: true
   - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
     excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."

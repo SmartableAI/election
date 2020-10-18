@@ -145,6 +145,54 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Confused Trump tells Michigan voters ‘Minnesota, you better vote for me!’"
+    excerpt: "In a moment of confusion, President Donald Trump appeared to forget where he was speaking Saturday night. Flying into Muskegon, Michigan, Trump cautiously walked down the steps of his airplane to take the stage before a large “make America great again,"
+    publishedDateTime: 2020-10-17T23:42:00Z
+    webUrl: "https://www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 74
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/06/Donald-Trump-pointing-to-his-hair.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Trump lies about reports of a ‘red wave’ — then touts nonexistent Michigan ‘man of the year’ award"
+    excerpt: "President Donald Trump ticked off several lies in just under 60 seconds while visiting his supporters in Michigan on Saturday. He told his supporters that the press was predicting an astounding “red wave” in November,"
+    publishedDateTime: 2020-10-17T23:42:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-6.01.52-PM.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
+    excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
+    publishedDateTime: 2020-10-17T23:29:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3697599001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3697599001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/46ad6857-0b81-4d72-b742-1a6f11b3be15-AFP_AFP_8TB9GN.jpg?auto=webp&crop=4499,2531,x0,y172&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "72RsPcc7a5uqSFqt+MTsq4OY+N5+1tz+AHiQUE1xG7JkgVX9pKkQDjx77Kjotc/FX51BSB0Pj3eJiwfDSdJ59KeZed6Z7DDAp9nsRGzjNmNfQAhaBVJ2R3jmzZqz3otVoa74JrdsgcB3jLEyzzraih2PNQiboONuN46O6QTF8w81Q5A8D8HPVC2HzbgHoWvA8bNHWQdO/DRCdNp+JvM6MSfkZGNrxLzTuN+3S4RlVDPc0OxHKwUHOSHFdF0ldZcWWFdi5bchrKHQUcAhks+7I/wp4uzgtCmguxQ8soaOo3xCqPJW166TIWq0bT4eEH1J/ZSjvnoOwSrDfmdTppSpatui2L4eX62PocyU7LtdXkNmEzuh8WLOpxBgpASKsFGhTUCioeuT05CxRP6/yMVs5Iz8gDG8uMeV4v3gRKg5O2CewpZgkqWfkrwezuOAMlodJ2nXpk3J9fGSfmZKwDfjSiLuqnPBqM1Wn/YHFRRBCp5R0PeRxYyNkWAWjPHmh7oAfB124CCAy/pvklw+vaBQ9Q==;lEIyL/H7T7gM29VwLkL5zw=="
 ---

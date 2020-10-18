@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 2980
+heat: 3040
 published: true
 
 provider:
@@ -1295,6 +1295,38 @@ related:
         width: 2048
         height: 1445
         isCached: true
+  - title: "Tommy Lee vows to quit America if Donald Trump wins the election"
+    excerpt: "Tommy Lee has threatened to quit America if Donald Trump is re-elected. The Motley Crue rocker has been an outspoken critic of the current president and he can’t think of anything worse than him winning a second term in office at next month’s election."
+    publishedDateTime: 2020-10-17T08:00:00Z
+    webUrl: "https://tulsaworld.com/people/tommy-lee-vows-to-quit-america-if-donald-trump-wins-the-election/article_fdd9f4c5-2d41-5b65-8edd-78f5c0b449da.html"
+    ampWebUrl: "https://tulsaworld.com/people/tommy-lee-vows-to-quit-america-if-donald-trump-wins-the-election/article_fdd9f4c5-2d41-5b65-8edd-78f5c0b449da.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/people/tommy-lee-vows-to-quit-america-if-donald-trump-wins-the-election/article_fdd9f4c5-2d41-5b65-8edd-78f5c0b449da.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/c/a8/ca850593-007f-5270-b4af-48db2d57e5ac/5f8aab96e8851.image.jpg"
+        width: 1000
+        height: 650
+        isCached: true
+  - title: "Donald Trump Says He May Leave U.S. if He Loses Presidential Election"
+    excerpt: "President Trump and Tommy Lee now have something in common ... they've both said goodbye to America if their candidate loses the presidential election."
+    publishedDateTime: 2020-10-17T23:34:00Z
+    webUrl: "https://www.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/17/trump-says-he-may-leave-united-states-if-he-loses-election/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 90
+    images:
+      - url: "https://imagez.tmz.com/image/22/16by9/2020/10/17/22c85060ee8541e99ad56801a9104b2f_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Damage control? Trump hints at leaving the country if he loses the election"
     excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
     publishedDateTime: 2020-10-17T19:07:00Z
@@ -2079,6 +2111,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/donald-trump-on-the-campaign-trail-in-florida.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Is Donald Trump going to win?"
+    excerpt: "Donald Trump is nervous. Beneath the bombast and the boosterism, the president worries about losing the election in two weeks’ time. It is starting to show.“Could you imagine if I lose?” he told a"
+    publishedDateTime: 2020-10-17T23:33:00Z
+    webUrl: "https://www.thetimes.co.uk/edition/world/is-donald-trump-going-to-win-83kstrwk0"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 55
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Ff29d336c-1087-11eb-ba08-778b61d729fd.jpg?crop=2667%2C1500%2C0%2C0&resize=685"
+        width: 685
+        height: 385
         isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"

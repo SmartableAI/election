@@ -143,6 +143,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence to make campaign stop Monday in Bangor area"
+    excerpt: "Vice President Mike Pence will make a campaign stop in the Bangor-area town of Hermon on Monday. The former Indiana governor will appear at Dysart’s Service at 11:30 a.m. Doors will open at 9:30 a.m."
+    publishedDateTime: 2020-10-17T23:22:00Z
+    webUrl: "https://www.pressherald.com/2020/10/17/pence-to-make-campaign-stop-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Election_2020_Debate_75357.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "5HyuAe0cuviEiM92PICB8xkN4lsnTV/eCgTFOxzbAvSv95kGjrqjwlM8bn8CI2sqi3jR46Wf45fgwaBEA5bbyGY1MWSeHpyfMnQbDyEZhzvfMm0jbxTRNSz5TBa2YneFBwmpgFCviqjbsPvWEn4sCdqn9e4+EpBQ6+s1AOEbysEjiF9OJss/Wg19KCyutldkwCg5pSFQ2YXxHJgkx+Vb00cQEat0e/Tn6Qo2BznWbDE2jsSMlXERhrhrc7FaWNXYCgm8k76y8jIPOE18skfNWtIcl/YqoI8AcQEqP0hvpFBAHF66KwRgp6kfNtETnD4hLxbfAJiJKsooQdQhZCtweu/6VSp74gpfcNRCJSrgop2DgOyEMlxAMtlJCnhK9wRsT/FNtkZTomd1M287Lu21qqhr+4mz9OLWx2Nsheni0dqM1ypHubobtk4MjFD1iODOqoE6JVr7uekEgQvRVKdccQQd9dLS6BcC20UULQjp6IOVJ7bunjMU9VnT4EOUNA6dvfTbWJCfi/r4W3n8Y0Kn3g==;nNicuMPAyi9NSk/A5ilKhg=="
 ---

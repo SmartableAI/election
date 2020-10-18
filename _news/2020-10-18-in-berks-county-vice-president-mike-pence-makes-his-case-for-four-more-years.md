@@ -135,6 +135,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence to make campaign stop Monday in Bangor area"
+    excerpt: "Vice President Mike Pence will make a campaign stop in the Bangor-area town of Hermon on Monday. The former Indiana governor will appear at Dysart’s Service at 11:30 a.m. Doors will open at 9:30 a.m."
+    publishedDateTime: 2020-10-17T23:22:00Z
+    webUrl: "https://www.pressherald.com/2020/10/17/pence-to-make-campaign-stop-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Election_2020_Debate_75357.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
     publishedDateTime: 2020-10-16T13:32:00Z
@@ -145,6 +159,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "z1r8WPbS5xI1WJNNRJU2RKhtAbnez+JyzECBlscE2fWGyC0Au77Eus4pcp/ffxbQWTqe0DoQO0XWCFz13ZnYql+11KPtp/GjtFT2jkmMhNbszm9Pr4DZmy85NyDGPDyOSQEDjBaXBYRlFEBdsoeOX3eSMLSXmMp3n6ABoAcf9a/MlxIJWzjGYWx57Bs9Kcpf1rIy6sePjhl4OI0hbxauZjYgtHG74gek9XsWn5LFUNuSq0DOI+dNdk6PntvLJtSrRgJaPRJBvSi6QUWLufmg0yYYdGBOpKn9ck9b5HU7WPAJrfZibDK0RsIg7vaRWiUrD5EQy0UgvAwSjR1Qk+o2Mr4cmS9LM2RE168TbmVHn20=;x/gUt5P41f4+S3D45puFQQ=="
+secured: "9GAXvtGuyce7cxWAgbUi5rbHt0es//ezJsPIM7UZWnb8cFjJOseyLzl+SA4FuYVWu6gnCEWFqfTMWCDpoLbwI2X1G57e2vd79FNjE9fWIpBIM0vR+3AfskMwewD29aEGy1kZwOOzMkA9VjnSP0xvyhIWMikynAWursvmrvDLVKpXgmK9prZrA/EMSEF/H5/OYqud0nrns+sBj4XFcPi0b1FgWHWYrJ11hMOEYQ/1PxsQu1y2IRFexWMsrEkfg2+TqMxkAin2T7H/uQlEU26HDzJYqmZi0DwDU41E+/RaQCHbanKgn/rYkU0eBjYn+iYaqoUQEwKDfbpt1T9ViLE/jiAKiaxgA44ujbgC3Ykl0fn9lEZYLQtAHewDzPqUgSxuZhm4UjmjLY1WV1yVL+pVALursxTp7RXEJ3Gt8YGew5YvfzoMuWysV1NGSy4O7VFf+vaSP6ULTeUnfQANVJ6UBLx729nUB0F45z0fJNOd8GY4PhomBLi5VsOQmWPEjWgYf2QIva0XXonNLHdIr6bjSw==;FmVYkswZllj/NReR1wB+QQ=="
 ---
 

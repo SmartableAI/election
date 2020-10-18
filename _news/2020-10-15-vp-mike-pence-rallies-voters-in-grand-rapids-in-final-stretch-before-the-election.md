@@ -135,6 +135,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence to make campaign stop Monday in Bangor area"
+    excerpt: "Vice President Mike Pence will make a campaign stop in the Bangor-area town of Hermon on Monday. The former Indiana governor will appear at Dysart’s Service at 11:30 a.m. Doors will open at 9:30 a.m."
+    publishedDateTime: 2020-10-17T23:22:00Z
+    webUrl: "https://www.pressherald.com/2020/10/17/pence-to-make-campaign-stop-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Election_2020_Debate_75357.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
     publishedDateTime: 2020-10-16T13:32:00Z

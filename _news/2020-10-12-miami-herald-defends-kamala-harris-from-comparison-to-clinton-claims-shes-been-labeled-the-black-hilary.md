@@ -124,36 +124,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
-    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
-    publishedDateTime: 2020-10-12T18:45:00Z
-    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 112
-    images:
-      - url: "https://images.wsj.net/im-243696?size=1.5"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Judge Barrett Wrecks Kamala Harris Under SCOTUS Questioning"
-    excerpt: "It's been a long day on Capitol Hill but Democrat vice presidential nominee and Senator Kamala Harris finally got her turn to go after Judge Amy Coney Barrett during Supreme"
-    publishedDateTime: 2020-10-14T00:05:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019"
-    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
-        width: 650
-        height: 340
-        isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
     publishedDateTime: 2020-10-07T18:15:00Z

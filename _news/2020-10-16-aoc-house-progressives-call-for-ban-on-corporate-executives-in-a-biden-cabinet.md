@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Police rip Biden's repeated advice to shoot suspects 'in the leg'"
+    excerpt: "Law enforcement groups blasted Vice President Joe Biden for again suggesting training police to shoot suspects \"in the leg\" is a viable way to avoid fatalities, decrying the proposal as dangerous and ignorant."
+    publishedDateTime: 2020-10-17T22:04:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBnPWcvUagg/police-rip-bidens-advice-to-shoot-suspects-in-the-leg"
+    ampWebUrl: "https://www.foxnews.com/politics/police-rip-bidens-advice-to-shoot-suspects-in-the-leg.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/police-rip-bidens-advice-to-shoot-suspects-in-the-leg.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Town-Hall-AP-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z

@@ -135,6 +135,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pence to make campaign stop Monday in Bangor area"
+    excerpt: "Vice President Mike Pence will make a campaign stop in the Bangor-area town of Hermon on Monday. The former Indiana governor will appear at Dysart’s Service at 11:30 a.m. Doors will open at 9:30 a.m."
+    publishedDateTime: 2020-10-17T23:22:00Z
+    webUrl: "https://www.pressherald.com/2020/10/17/pence-to-make-campaign-stop-in-maine/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Election_2020_Debate_75357.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
     publishedDateTime: 2020-10-16T13:32:00Z
@@ -145,6 +159,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "p27BlCp4RT5G3PvwKT8Z62+6EEz5T3GseCaYQbLJr7xBZnF2vIlJx8FiVhlfJiSs9uf5kkYOqHtSmt2gGxi4Bx4jK7wrHfXXuTKhvlpiIGEQDgIjXZM+X1ZcipS4veqwY35TqM62S9QLzOYuGuDLAE3F4A8mPyGG9UprmKgilxNmHWq5L5XCsLVTwEcRQMdhe4sb0gBjxXSCEUe/yss0PPAniA3xr0dMa4lJSWMIPOH8rzRu7tcTM2ePfcEiqYR9u9Feji9VBdt3ezRVh7vNuwONTFzHjb1DWWhEKtN3/iGk1V63QRyTYuXWqdwyHi5pL1El9aFiHF9vMgAFuid8Lk/xP5jJj2xbkx259Q5BOCY=;m5+lHkui7BOw6a7xuzV5wQ=="
+secured: "PdGqCKKhEJhJL1ECgUwVYJwcGCaaRVelyDQ50SGLpNVyCZZtwaj+XmwkuYNKY+qqwr6DanRr1tnFjM5AnlRxOWa3V6GSwP+BNu3nx6UW7h6WMB986lN7wcE4jwsIzM3IMPmEAmoCLc9eCmcvuYEEW0jP3VmBcNf7OTr/pIEuWs1wE5OFtih0szh9WzSIOoDuvBmW1vBVetvQqGnT5Ap8QK8742e7ZRETZVOnSNccxmcC4sX1Ylf1PacsgUaftIFudRkZ4Q7ayrsnt1Lqvi4s7U0XWAvpn6ecQ3vp4PU0ldcS77FNeALWN8pawsNR0qaBStKDBH8ERRZRGhhluAJ8kkOtAganFN1FQkt2h84HS9fJPfnyot/ZBc9TS2rZQOpLxwBop3Fs4+mANEsctFIpZ0sS5F1gxRiHxMyxx8KX89techW+p0cbItCh+ovWQfsvHCraqQTOmPoxVEalqF/EoFpH3rzKCcxnaKLm5Nr9oaZFjvkLo0P6aB2xiOuThFDBiNx2omyYfUfzXIqcvhPQNg==;5yakApLdlzlTzEqrX5OGlg=="
 ---
 

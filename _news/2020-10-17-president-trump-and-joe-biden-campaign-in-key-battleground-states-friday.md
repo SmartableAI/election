@@ -205,6 +205,22 @@ related:
         width: 1199
         height: 740
         isCached: true
+  - title: "Trump says 'maybe I'll have to leave the country' if he loses the 2020 election to Joe Biden"
+    excerpt: "\"Could you imagine if I lose?\" Trump said. \"I'm not going to feel so good. Maybe I'll have to leave the country, I don't know.\""
+    publishedDateTime: 2020-10-17T04:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 154
+    images:
+      - url: "https://i.insider.com/5f8a510dd260780019341ff0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
     excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
     publishedDateTime: 2020-10-08T11:24:00Z
@@ -668,22 +684,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump says 'maybe I'll have to leave the country' if he loses the 2020 election to Joe Biden"
-    excerpt: "\"Could you imagine if I lose?\" Trump said. \"I'm not going to feel so good. Maybe I'll have to leave the country, I don't know.\""
-    publishedDateTime: 2020-10-17T04:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 144
-    images:
-      - url: "https://i.insider.com/5f8a510dd260780019341ff0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
@@ -3290,6 +3290,22 @@ related:
         width: 825
         height: 619
         isCached: true
+  - title: "Joe Biden tops Donald Trump in town hall viewers, ratings show"
+    excerpt: "Democratic presidential candidate Joe Biden edged out President Donald Trump in viewership of their dueling town hall meetings held simultaneously Thursday on different networks, ratings show."
+    publishedDateTime: 2020-10-17T04:55:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/?ur3=1"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 100
+    images:
+      - url: "https://cdnph.upi.com/ph/st/th/1461602872253/2020/upi/8399b4915010b9c9672918e96d2318b2/v1.5/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show.jpg?lg=5"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
     excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
     publishedDateTime: 2020-10-07T13:32:00Z
@@ -3975,22 +3991,6 @@ related:
       - url: "https://am24.mediaite.com/tms/cnt/uploads/2020/08/biden-trump-collage-1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Joe Biden tops Donald Trump in town hall viewers, ratings show"
-    excerpt: "Democratic presidential candidate Joe Biden edged out President Donald Trump in viewership of their dueling town hall meetings held simultaneously Thursday on different networks, ratings show."
-    publishedDateTime: 2020-10-17T04:55:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/?ur3=1"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 90
-    images:
-      - url: "https://cdnph.upi.com/ph/st/th/1461602872253/2020/upi/8399b4915010b9c9672918e96d2318b2/v1.5/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show.jpg?lg=5"
-        width: 800
-        height: 532
         isCached: true
   - title: "Joe Biden's Town Hall Beats Donald Trump's in Ratings"
     excerpt: "Joe Biden's Thursday night town hall came out ahead of Donald Trump's in the ratings battle. Despite NBC's controversial decision to schedule a town hall with Trump opposite Biden's previously scheduled town hall on ABC,"
@@ -4840,7 +4840,7 @@ related:
   - title: "Mike Pence and Kamala Harris spar in vice-presidential debate"
     excerpt: "Go back to our US Elections and American English homepage. The contenders for US vice-president have met for their only debate ahead of next month’s election. While the debate b"
     publishedDateTime: 2020-10-15T16:17:00Z
-    webUrl: "https://www.bbc.co.uk/learningenglish/features/us-elections-understanding/pence-kamala-presidential-debate"
+    webUrl: "https://www.bbc.co.uk/learningenglish/burmese/features/us-elections-understanding/pence-kamala-presidential-debate"
     type: article
     provider:
       name: BBC
@@ -6284,6 +6284,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "S0e57I3Nqg6tX5RiCQPu+fPNsEaZinQXaiKVk2YVETFv8pUam+IBkXSC5X22fqsg63coUYNzCyRmoHM1GTftcCYz4jyMvNo+pZdRgC4CCiiw4XEX5NCp3ahrBo9HUtjFxyQqGBDL46B9WUpD0ybMZ5wd9RaqqXJBCo/1mRaU7Be58qL7S8lm0pFY3rolxXF7omaHf4F93owC04CvYI087VdhChH67dB+SOiZoOqmodVAU4uRRG4X+CXi6HKjtLzUpv5wGPsjiv3r5gpkrv67BIBwvODzr+ZS0OwTdgWEZ0IPkXwitFQEyi2Jj+tZcO5aCpB2IEUWKT/ifxsJES3/4WO/gDnFz2mrfRNfRu0qMmw=;eT0j5m0XmkBUKGEGG6b5FA=="
+secured: "ak2g4BWsPg4cUXG5T02alLcMzF8T150xS3ptMlS9a+Vhkyo8eJmHr1dYJj8+zOnb0K9dzfZSROVpAqKDjJW6m1rv4fCeJXTX5/zu2KIz19J65DO5Dxj+WdUgCOCPvGCM2w48/DH80/z+vikcsZlfFqd3s9W4K7D6es9kuH82YoY9zo6IuJnTHWNMUZ/G/5GuPky5PQjoLH4o3VjmZJGn7ZJrB8WJ67ufnhl6nkDjcfLwGwHh869puHEappOE9vCOwy0e5I/J4Nfe4an++sHgVridlC132P0LKUyJPJHUSokRBL+KLtt7BEIWGwcNIrBndlvRqzUNjJrmARTbGfF2GiTav6jFLewWm2ZkmOotkk/hBNVfwFLrP4iZbXPDdA9ZZPCs1vgFvOkSbwfFChJOjLV/31DODfhrwwIvTCS+X0JjMduqV/qKFByeJetIy8u7K+GvU6DqSVnWgkwKWoji7ykMTpPsKNsaoMrPbh7HkJGuC+kixHumSzS+Sk0DFqLJoettsDLro6WbWh4t5xK8WA==;9GDtJLWr69MccqcENNsELg=="
 ---
 

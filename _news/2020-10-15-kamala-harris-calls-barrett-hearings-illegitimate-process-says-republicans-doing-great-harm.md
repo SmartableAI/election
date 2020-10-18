@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."
-    publishedDateTime: 2020-10-15T13:56:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
     excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."
     publishedDateTime: 2020-10-15T14:55:00Z

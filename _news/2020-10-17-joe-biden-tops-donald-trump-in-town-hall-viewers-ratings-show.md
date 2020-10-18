@@ -8,7 +8,7 @@ webUrl: "https://www.upi.com/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-
 ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/10/16/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show/1461602872253/"
 type: article
-quality: 90
+quality: 100
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Joe Biden
+  - Donald Trump
 
 images:
   - url: "https://cdnph.upi.com/ph/st/th/1461602872253/2020/upi/8399b4915010b9c9672918e96d2318b2/v1.5/Joe-Biden-tops-Donald-Trump-in-town-hall-viewers-ratings-show.jpg?lg=5"
@@ -202,6 +203,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7cd36ec82c11faf215e19b%2F0x0.jpg"
         width: 1199
         height: 740
+        isCached: true
+  - title: "Trump says 'maybe I'll have to leave the country' if he loses the 2020 election to Joe Biden"
+    excerpt: "\"Could you imagine if I lose?\" Trump said. \"I'm not going to feel so good. Maybe I'll have to leave the country, I don't know.\""
+    publishedDateTime: 2020-10-17T04:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 154
+    images:
+      - url: "https://i.insider.com/5f8a510dd260780019341ff0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
     excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
@@ -666,22 +683,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump says 'maybe I'll have to leave the country' if he loses the 2020 election to Joe Biden"
-    excerpt: "\"Could you imagine if I lose?\" Trump said. \"I'm not going to feel so good. Maybe I'll have to leave the country, I don't know.\""
-    publishedDateTime: 2020-10-17T04:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-suggests-he-may-leave-country-biden-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 144
-    images:
-      - url: "https://i.insider.com/5f8a510dd260780019341ff0?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
@@ -4836,7 +4837,7 @@ related:
   - title: "Mike Pence and Kamala Harris spar in vice-presidential debate"
     excerpt: "Go back to our US Elections and American English homepage. The contenders for US vice-president have met for their only debate ahead of next month’s election. While the debate b"
     publishedDateTime: 2020-10-15T16:17:00Z
-    webUrl: "https://www.bbc.co.uk/learningenglish/features/us-elections-understanding/pence-kamala-presidential-debate"
+    webUrl: "https://www.bbc.co.uk/learningenglish/burmese/features/us-elections-understanding/pence-kamala-presidential-debate"
     type: article
     provider:
       name: BBC

@@ -451,6 +451,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Poultry company distances itself from GOP's Perdue amid uproar over Republican mocking Kamala Harris"
+    excerpt: "Sen. David Perdue, Georgia Republican, unwillingly put the chicken company sharing his surname on the defensive Saturday by ruffling feathers during a Trump rally the night before."
+    publishedDateTime: 2020-10-17T22:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 60
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/01/14/trump_42066_c0-0-2973-1734_s1200x700.jpg?f05d20b9dd9583e95c8cd473cbc2c16a25fe80c2"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Don Lemon Fires Back at Sen. Perdue, Offers Up Remedial Visual Aid for Pronouncing Kamala Harris’ Name Correctly"
     excerpt: "CNN's Don Lemon fires back at Sen. David Perdue, offers up grade school-level visual aid for pronouncing Kamala Harris' name correctly"
     publishedDateTime: 2020-10-17T03:33:00Z
@@ -482,6 +498,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
+    excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."
+    publishedDateTime: 2020-10-17T23:35:00Z
+    webUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/"
+    ampWebUrl: "https://deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/women-marchers-protest-nationwide-against-trump-amy-coney-barrettt-1234599249/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 52
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20291710573192.jpg?w=512"
+        width: 512
+        height: 341
         isCached: true
   - title: "Kamala Harris Just Slammed the Senate GOP for “Reckless” Endangerment of Capitol Staff"
     excerpt: "\"Senate Republicans have made it crystal clear that rushing a Supreme Court nomination is more important than helping and supporting the American people.\""
@@ -518,6 +550,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "N5w2aMjHsig9YhLIbWQguKGWG61KWJkZwqaycFO35RUoqf7N02WhOOlhqU8LeAdwuv8hOb1gwL9xHqju4mqoc5HlhducXjN53jti6Cs4xejQ/dOTZvWV0lYaArMPveys1b5DpDn4YeDy5Bth6ZwsZJf/3+00ibL46wXYln2ugsTzr+OBipPBXBnX6XEkxNZ8q/Qe1HxswuoRJ20jm3S+Sj8Q6NvwpSD+hGYya9kQiHZvwHqMky5dthbps7e4mOui7UZ8mqyoCA7RSRJqKgC5klIr8MYkMvQ08POFgu8rf6XktA9FMB/mdY3BsprCFxHYOdA1ep+xUsfso7vTwXCAOe9sflUgskWuC/rIUFUsoeU=;szGOjaYO//Iod/uGxGBc9w=="
+secured: "3SrSWwOgWDEypci4ZB9N/xdFTgF1dwZS8iSHQWy6SlbteVzCGJmbPY/K0rmnJmaNrzlBkOVOH+6ksdbnLSEiBRUp43LXJMlC/7i3fHdzCo40lQ4zGzguGomgUidACosw/2QTE+FKWntwVcVT+JzYCRcQtlsiyXR+Vu7VGhzX3HKW9pA1AMVnFr1CVXy03oCyR1hVpZCndA/BlDBroP1nEHRYaouubw3HCVLmSg1VT8NNdxJaL3vF1AteYlqq65N1ZVDjayPgS2uVeqzztBz+jeqhkOlIC9eNsIswoZsElarmJcAc22epq1iWsciqNkk39+i9XUd5jIePDIdzDRsStNf3Uy2KQGp1I5rRE7B5GxQS7Iiz9XZ5sEm71IUAndq6C6wXaLI9cCPsWJ9eTXkuSqmjhSeGI/PrfSuc4EjViZEGFglJPBLSjM9drnVvlKB2EMj+8CPt6QvdA1eQARCedPQPb5M2OjVPpTSRyw5hIYoBcCQVCNLARBdADq2RQKCUNKtQyTDBy5pxx8cJb07y7A==;nCpJfl3/rLT56dbWLwoEyQ=="
 ---
 

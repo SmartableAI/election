@@ -176,6 +176,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Could Joe Biden Actually Bring America Back Together?"
+    excerpt: "President has long valorized comity and respect in the political arena, but the country’s deepest cleavages are now imprinted on Americans’ party affiliations."
+    publishedDateTime: 2020-10-17T19:08:00Z
+    webUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together"
+    ampWebUrl: "https://www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
+    cdnAmpWebUrl: "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/news/daily-comment/could-joe-biden-actually-bring-america-back-together/amp"
+    type: article
+    provider:
+      name: The New Yorker
+      domain: newyorker.com
+    quality: 135
+    images:
+      - url: "https://media.newyorker.com/photos/5f8a0f7b994428c9a71a8f3e/master/pass/Luo-Biden.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Taking Page From Authoritarians, Trump Turns Power of State Against Political Rivals"
     excerpt: "President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct immediate government action against specific opponents, timed to serve his re-election campaign."
     publishedDateTime: 2020-10-10T21:33:00Z

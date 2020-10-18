@@ -453,20 +453,6 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
-  - title: "Sen. Kamala Harris Questions Supreme Court Nominee Amy Coney Barrett"
-    excerpt: "Calif., questioned Judge Amy Coney Barrett on the second day of the Senate Judiciary Committee’s Supreme Court confirmation hearing. Harris laid out the stakes surrounding the survival of the Affordable Care Act,"
-    publishedDateTime: 2020-10-13T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/sen_kamala_harris_questions_supreme_court_nominee_amy_coney_barrett.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524015.jpg"
-        width: 750
-        height: 562
-        isCached: true
   - title: "Top Democratic senator: Hillary Clinton 'flat out wrong' to say Joe Biden should not concede"
     excerpt: "A top Senate Democrat said Hillary Clinton was wrong to advise Joe Biden not to concede the election if he is losing to President Trump."
     publishedDateTime: 2020-09-27T14:52:00Z
