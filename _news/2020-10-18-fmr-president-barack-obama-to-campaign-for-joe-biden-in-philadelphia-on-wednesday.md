@@ -43,6 +43,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
+    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
+    publishedDateTime: 2020-10-17T22:54:00Z
+    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
+    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "x7Unh5Xsh/8u4TYIIlL3vXmbWcO9y0dKt1fgIO0g4zoNtEWqbVpwiRRm8fTmDxdbyACJMd74W80ZwAx1SCHZ0dezDvPV2OXRUWsunw6cajbpq0TrEpsIjM0iR372Zb7dbn7IhXbeu82s1IE+rv+e5jfJGqJIwGdn4pUc2qBP436nCf6l8S+Alxbmxg5WYUakWdWWQmJvItek2giTVrDmKgtMPzxRA0pFOcmoqnIJPvKT8VPd6o82uzcWUc7ge4bV9+lvffjtfyhaOLt5rt6+iV3ab6fV5qAyPfqWRZsME5LthP9k8orVMYGEl9nUGV8vzNXXR37wqzj2Ilj9dUApQ9w+HI3xb8DyfN/GkclPt3k=;lG4it5fRUSQui2f74L/R8Q=="
 ---

@@ -1309,6 +1309,22 @@ related:
         width: 2048
         height: 1445
         isCached: true
+  - title: "Donald Trump Threatens To Leave U.S. If He Loses Election"
+    excerpt: "Donald Trump would consider losing the election as an embarrassment. On November 3rd, Americans will be heading to the polls to vote for the next President of the United States. There are two viable options for President,"
+    publishedDateTime: 2020-10-17T14:47:00Z
+    webUrl: "https://www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-threatens-to-leave-us-if-he-loses-election-news.119769.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 90
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602944840_4c15607122d229410b612112475774b7.jpg/4964a30207cd76e4a35479fb9a29ffb1/1602944840_f984733427763bde2d7dec996298dafa.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tommy Lee vows to quit America if Donald Trump wins the election"
     excerpt: "Tommy Lee has threatened to quit America if Donald Trump is re-elected. The Motley Crue rocker has been an outspoken critic of the current president and he can’t think of anything worse than him winning a second term in office at next month’s election."
     publishedDateTime: 2020-10-17T08:00:00Z
@@ -1725,6 +1741,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "President Donald Trump campaigns in Michigan"
+    excerpt: "President Donald Trump is holding a campaign event in Muskegon on Saturday, Oct. 17. Here is what you need to know about the event: WHEN: The rally is at 5 p.m. on Saturday, Oct. 17. Doors open at 2 p."
+    publishedDateTime: 2020-10-18T01:00:00Z
+    webUrl: "https://www.wusa9.com/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
+    type: article
+    provider:
+      name: WUSA9
+      domain: wusa9.com
+    quality: 75
+    images:
+      - url: "https://media.wusa9.com/assets/WZZM/images/6df0a71d-53ee-4809-86eb-7c899be3eea1/6df0a71d-53ee-4809-86eb-7c899be3eea1_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "WATCH LIVE: President Trump Holds Campaign Rally in Michigan"
     excerpt: "President Donald Trump is holding another big campaign rally in Muskegon, Michigan Saturday afternoon. The rally comes on the heels of Trump publicly going after Republican Senator Ben Sasse for his comments trashing the president in comments made public this week."
     publishedDateTime: 2020-10-17T21:14:00Z
@@ -1740,6 +1772,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump-rally-2.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What you need to know about President Donald Trump's Muskegon rally"
+    excerpt: "President Donald Trump is holding a campaign event in Muskegon on Saturday, Oct. 17. Here is what you need to know about the event: WHEN: The rally is at 5 p.m. on Saturday, Oct. 17. Doors open at 2 p."
+    publishedDateTime: 2020-10-18T01:00:00Z
+    webUrl: "https://www.wzzm13.com/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
+    type: article
+    provider:
+      name: WZZM
+      domain: wzzm13.com
+    quality: 75
+    images:
+      - url: "https://media.wzzm13.com/assets/WZZM/images/6df0a71d-53ee-4809-86eb-7c899be3eea1/6df0a71d-53ee-4809-86eb-7c899be3eea1_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
@@ -1804,6 +1852,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/ffbf1acb-ff36-4c4b-a0b6-dae34b3c670f-b6b2a32c-e3c5-42c6-98ac-2fd216be7e30_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "President Donald Trump takes aim at Gov. Whitmer at campaign stop in Michigan"
+    excerpt: "President Donald Trump took aim at Gov. Gretchen Whitmer when he visited Michigan Saturday. During his 90 minute speech in Muskegon, Trump mentioned the domestic terrorism plot to kidnap Whitmer and how she has been handling the COVID-19 outbreak."
+    publishedDateTime: 2020-10-18T07:12:00Z
+    webUrl: "https://www.clickondetroit.com/decision-2020/2020/10/18/president-donald-trump-takes-aim-at-gov-whitmer-at-campaign-stop-in-michigan/"
+    ampWebUrl: "https://www.clickondetroit.com/decision-2020/2020/10/18/president-donald-trump-takes-aim-at-gov-whitmer-at-campaign-stop-in-michigan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/decision-2020/2020/10/18/president-donald-trump-takes-aim-at-gov-whitmer-at-campaign-stop-in-michigan/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 72
+    images:
+      - url: "https://www.clickondetroit.com/resizer/5SzxHlB621uDwsG-jPDOFrGiuGU=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-18-2020/t_407f879d15d94627b6641fc29d0e16f7_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Donald Trump administration to face more lawsuits challenging H-1B rules close to two weeks before elections"
+    excerpt: "B workers and also made qualifying for H-1B visa tougher. First of the lawsuit filed by US IT companies on October 16 was against the wage hike rule. Two more are likely to follow in the coming days,"
+    publishedDateTime: 2020-10-18T07:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 71
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/08/Visa-Passport-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Donald Trump Jr. in Arizona this week for campaign event, pigeon shoot fundraiser"
     excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, will campaign on behalf of his father and the Republican ticket at a Wednesday event in Tucson.  A day later, the president's son, an avid hunter,"
@@ -2181,6 +2261,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-861048400.jpg?itok=1JI_xk-v"
         width: 840
         height: 560
+        isCached: true
+  - title: "U.S. Sen. James Lankford: Donald Trump is the better presidential candidate to manage foreign affairs and the military"
+    excerpt: "President Trump’s unorthodox style and willingness to ask the questions no one is supposed to ask has made the diplomatic corps cringe, Lankford writes. But, it has also made the"
+    publishedDateTime: 2020-10-18T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/u-s-sen-james-lankford-donald-trump-is-the-better-presidential-candidate-to-manage-foreign/article_891c431e-f9fe-11ea-bb3b-87da820a9ca8.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/u-s-sen-james-lankford-donald-trump-is-the-better-presidential-candidate-to-manage-foreign/article_891c431e-f9fe-11ea-bb3b-87da820a9ca8.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/u-s-sen-james-lankford-donald-trump-is-the-better-presidential-candidate-to-manage-foreign/article_891c431e-f9fe-11ea-bb3b-87da820a9ca8.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 51
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/7/54/75431efc-0f21-11eb-a476-c3008017ad44/5f88ab336bdcc.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
     excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."

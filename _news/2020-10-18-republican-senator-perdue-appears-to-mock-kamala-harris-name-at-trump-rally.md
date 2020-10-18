@@ -2,13 +2,13 @@
 category: news
 title: "Republican Senator Perdue appears to mock Kamala Harris' name at Trump rally"
 excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in the battleground state of Georgia on Friday, repeatedly mispronouncing the vice presidential nominee's name."
-publishedDateTime: 2020-10-17T17:35:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-purdue/republican-senator-perdue-appears-to-mock-kamala-harris-name-at-trump-rally-idUSKBN27205V"
-webUrl: "https://www.reuters.com/article/usa-election-purdue/republican-senator-perdue-appears-to-mock-kamala-harris-name-at-trump-rally-idUSKBN27205V"
+publishedDateTime: 2020-10-17T21:55:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-perdue-idUSKBN27205V"
+webUrl: "https://www.reuters.com/article/usa-election-perdue-idUSKBN27205V"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205V"
 type: article
-quality: 147
+quality: 137
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Kamala Harris
 
 images:
@@ -5545,6 +5544,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘Saturday Night Live’ Opens With Dueling Joe Biden-Donald Trump Town Halls: “Mr. Rogers” Vs. “Crazy Uncle”"
+    excerpt: "The opener of Saturday Night Live was a skewering of the competing town halls between Joe Biden and Donald Trump. Jim Carrey returned as Biden, this time boring his audience with long-winded"
+    publishedDateTime: 2020-10-18T04:58:00Z
+    webUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-joe-biden-town-halls-1234599316/#!"
+    ampWebUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-joe-biden-town-halls-1234599316/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/saturday-night-live-donald-trump-joe-biden-town-halls-1234599316/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 72
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2017/09/snl-saturday-night-live-logo-2017.jpg?w=621"
+        width: 621
+        height: 428
+        isCached: true
   - title: "MSNBC’s Maddow Dings NBC, Asks Kamala Harris If She’s ‘As Mad as Everybody Else Is’ About the Trump Town Hall"
     excerpt: "MSNBC's Rachel Maddow tweaks her own parent network, asks Kamala Harris if she's 'as mad as everybody else is' about NBC News' Trump town hall"
     publishedDateTime: 2020-10-15T04:56:00Z
@@ -5812,16 +5827,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
+  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
     excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T04:51:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article246517880.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
+    publishedDateTime: 2020-10-17T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 70
   - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
     excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."
@@ -6426,6 +6441,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "UWyyJ9zyyZHIzFbhc1j4a1279vcdh4pen9nLoik6zWi/iQ6U+16ovH6u0F9TeNaBXesetKP7ERlQ9Bc3ewfiZr/6+QErsuFw8NrCDjCpMJNNUvWIXcL4HCATIhLKDFhPoTHp9JHxUvitAveBmHAX7YVd7+S+ZAkfnXwrZzLgMy2jwWC6N7wxm5U4sVJNrYBkYucuNutus49nu5A5zA5+OwBJBujZYMAsQjJOLqmcdjNAweRxiGFXGwSVdagpxrwQAF3cNvuYxto8oo3cz0ACICFQeBM+ua1WRlrdq99JhEQIJLLG66dHfb213bSrrK3wb7Jr8oy8SM0fVgK+26sjsetEcnHnIf7OnK8LuCTvx/U=;t3nT4mTHMil+QXfAQe7dnA=="
+secured: "4oA1LV8FO0hlq2tOnonshXF6rUQL3UgbuDh9FjuD8bU1po/9/8219VCqrG0CB584KTlpSOVLvYj+0gOhsrPDmJhUZt7tAa1qk7TitkPJz6375YPC+D/31wSiv80Rat+iZEQg9+Nj1yEyru7Oykzi5KmTh4zB9LSA8Iql1aMNODqIBG14Ydrqq4uDaGhRHMmW5QN5vgoSqrr5lf/WsMjVfBwuaXjF2iJjAxjolc7IM5wk6FvmM4GSSL9mio+lTqnO5QHRDB+EXE8pkC+PipxETFRqpoudXTxVTmGbvj8gq8e5UAX0oAZ5+Cuc09V2gYIezEEeF6frE5B0eTyJ4e4iM/hf8uB7xCIPLMZRtJExaKE=;WU3LhmijxpggYoM4qo16Pw=="
 ---
 

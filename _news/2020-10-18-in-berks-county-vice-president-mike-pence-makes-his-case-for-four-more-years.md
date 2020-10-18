@@ -1,27 +1,27 @@
 ---
 category: news
 title: "In Berks County, Vice President Mike Pence makes his case for four more years"
-excerpt: "Vice President Mike Pence said he understands the importance of the Keystone State. \"The road to victory runs right through Pennsylvania,\" he said to a cheering crowd on Saturday afternoon. \"Here in Pennsylvania, you believed we could be stronger ..."
-publishedDateTime: 2020-10-18T03:34:00Z
-originalUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
-webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
-ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
-cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
+publishedDateTime: 2020-10-17T20:30:00Z
+originalUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
+webUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
+ampWebUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
+cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Daily Local News
-  domain: dailylocal.com
+  name: Reading Eagle
+  domain: readingeagle.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
+  - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/63/763bd77c-10b6-11eb-af0d-8bac2b708d58/5f8b527dd74a7.image.jpg?resize=1024%2C735"
     width: 1024
     height: 735
     isCached: true
@@ -46,16 +46,16 @@ related:
   - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
     excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
     publishedDateTime: 2020-10-15T01:55:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    webUrl: "https://www.wusa9.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: WUSA9
+      domain: wusa9.com
     quality: 85
     images:
-      - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
+      - url: "https://media.wusa9.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -173,6 +173,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9fy6IS7583YMnQtSCkHOUSBs8Wn/7ZXzrf0JxeFWLnBRGdoQHJcf/d7FCXbTdfk2l+cmVPj+Buz3jqrURCGkKPh70V9j4dmIpY+qiW1AkU6DkrkIIq4g9THOUIoyaQ40Ky0Njtfd1T+p5e7etHeKuJDE/klDty22Tco5yyj+WBGkn3v7UWzMp571lFThkGvYc4CWsgbMH3PGoFL7WEp8fDnDJH8+mWhk7JYOo+8E7ltfaKlR1ijv3bhpIXk3uGwWbF8w0WYcBdHP6L3PiIxDYAYT5PdWJlBVMpLdW6g7toki2pgu3dNJBwoZ3GGguO4egl8zI1QqhdPrFVinqgCRIKATyQ47xzz0OGnG/bLGiv8uN6mhEl+77nxMWgv7Phsjbd5beRthLdzfmhc9KrhfXlCv73hCBFaEYOJmJVaBDt+n3aK2v8os2yoA0IEw5aPKugBT7QPIDkrdpkDL08q4a2dhmw9SgaV73q0dxlwc52uD53MyysKCQWHhAAzHndxe2x1NzADQ64Zj4jTd4VwBOQ==;aIX5TrKuLVk+wnpCx0NYdg=="
+secured: "6uEghqXfYFqFwf99feetm/qilwtwRhN3kG3JhR5KUu5GUWnuG7/UI3ABJ5wfH6d8ml8OPqXJTy/ozMvSz6dIBew727T1jAh81e7PggjYGIFQsQsWQ6NUNePJ2SVmKdaJtsfIIaW3Qj1jhM22HwcYWgtyJG9tOKpyrO20kSC/NaZR8QtcE8NIzNJ32FdrtxdCFGnHS8NzFJyFQ/j8CYZm6k5BlQyuy/HigyuRCiivhVBDoyUBuWkDURpgzZmIKWHleKPZnRugAWnzbpgpjsYdFpD3JGp26AOJuRkDkyHcK/+2JZtLG/2tzWUQ7YlCjSEFMCUGSiSMi0DQY80TbQdzcg1kS6mfFOgkb/htTwaOe28=;zb88/yExU3PbrxCVJtJjzw=="
 ---
 

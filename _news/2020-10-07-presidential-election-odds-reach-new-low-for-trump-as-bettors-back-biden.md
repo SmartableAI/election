@@ -591,22 +591,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Republican Senator Perdue appears to mock Kamala Harris' name at Trump rally"
-    excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in the battleground state of Georgia on Friday, repeatedly mispronouncing the vice presidential nominee's name."
-    publishedDateTime: 2020-10-17T17:35:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-purdue/republican-senator-perdue-appears-to-mock-kamala-harris-name-at-trump-rally-idUSKBN27205V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 147
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537866332&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04V"
-        width: 819
-        height: 545
-        isCached: true
   - title: "How to watch the vice presidential debate between Kamala Harris and Mike Pence"
     excerpt: "Vice presidential debate between Vice President Mike Pence and Kamala Harris; Date: Wednesday, October 7, 2020; Location: Universi"
     publishedDateTime: 2020-10-06T16:56:00Z
@@ -1342,6 +1326,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O5K4ZNAIGAI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Republican Senator Perdue appears to mock Kamala Harris' name at Trump rally"
+    excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in the battleground state of Georgia on Friday, repeatedly mispronouncing the vice presidential nominee's name."
+    publishedDateTime: 2020-10-17T21:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-perdue-idUSKBN27205V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537866332&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04V"
+        width: 819
+        height: 545
         isCached: true
   - title: "The prosecutor vs. the 'king of sound bites': Why the Harris-Pence debate is no ordinary VP faceoff"
     excerpt: "Even before President Trump's hospitalization from COVID-19, there were many reasons why the vice presidential debate could draw more viewers than usual."
@@ -5544,6 +5544,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "‘Saturday Night Live’ Opens With Dueling Joe Biden-Donald Trump Town Halls: “Mr. Rogers” Vs. “Crazy Uncle”"
+    excerpt: "The opener of Saturday Night Live was a skewering of the competing town halls between Joe Biden and Donald Trump. Jim Carrey returned as Biden, this time boring his audience with long-winded"
+    publishedDateTime: 2020-10-18T04:58:00Z
+    webUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-joe-biden-town-halls-1234599316/#!"
+    ampWebUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-joe-biden-town-halls-1234599316/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/saturday-night-live-donald-trump-joe-biden-town-halls-1234599316/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 72
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2017/09/snl-saturday-night-live-logo-2017.jpg?w=621"
+        width: 621
+        height: 428
+        isCached: true
   - title: "MSNBC’s Maddow Dings NBC, Asks Kamala Harris If She’s ‘As Mad as Everybody Else Is’ About the Trump Town Hall"
     excerpt: "MSNBC's Rachel Maddow tweaks her own parent network, asks Kamala Harris if she's 'as mad as everybody else is' about NBC News' Trump town hall"
     publishedDateTime: 2020-10-15T04:56:00Z
@@ -5811,16 +5827,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
+  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
     excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T04:51:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article246517880.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
+    publishedDateTime: 2020-10-17T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 70
   - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
     excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politi
 cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
+    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
+    publishedDateTime: 2020-10-17T22:54:00Z
+    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
+    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "VZiNx4IbldSI6WsxlLdYEMWeAqXMYQoByjRrjUogzdbuiPl6LRdQnXKvfryLGX2+ILjpUbcKaCojOG3pXpAW25/4Obsg4ql+m/R/EOryI8/HjzY+xjBqBVdceOkCBzTiNu/z3njKYOrxC8pKBE+2koEKKD/KwZANuAsZtKuAG6CAZFkvbQjjjnUpeCJMu9mWF28nN4SVu4NBoZhzBSTrZf2FM5H/GZfQ9qC0rBnnHsX8XkISfhsOtnfz/kSlxeLx7d5lIY0T0o6kS8UKwohBdin7ZQugLwKjvnR10xZrk1t2JHkTn0KjiUZiZjPVbii9tdyYL6Mp4kt+Gcru/4c57Emi1iR4G7RSzTQFhzQqlOOOwWfp2Rb8hFxMP47Ir7KGrdDLccugYTX7lcCgU8+UAYsaDoXxwinlitVgaVqfODyS904DnHN5X6F1KgbzQ9fUpc6r8uaFRzOVNRKrIWxZww/nVw7LjVs/eAGVV7K/yx/6XNAuH8Cxb4v8OLbnoXqfSlSrCGoIWUdMJX4pV8FwoA==;iPSd4jNYgFVj6e8BquUtcg=="

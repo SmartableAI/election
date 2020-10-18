@@ -203,8 +203,8 @@ related:
         isCached: true
   - title: "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability"
     excerpt: "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!"
-    publishedDateTime: 2020-10-17T04:06:00Z
-    webUrl: "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F4page%2F8page%2F3page%2F2page%2F9page%2F4page%2F4page%2F7page%2F485page%2F2page%2F2page%2F6page/4"
+    publishedDateTime: 2020-10-17T04:33:00Z
+    webUrl: "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485"
     type: article
     provider:
       name: Time
