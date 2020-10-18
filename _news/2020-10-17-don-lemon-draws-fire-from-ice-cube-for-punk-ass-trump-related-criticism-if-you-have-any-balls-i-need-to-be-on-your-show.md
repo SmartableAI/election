@@ -27,69 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lashes back at Nebraska Sen. Sasse after criticism"
-    excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state"
-    publishedDateTime: 2020-10-17T18:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8e8196569f124239a10eed0534591a8c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks"
-    excerpt: "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate."
-    publishedDateTime: 2020-10-17T15:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3693805001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump: Nebraska Sen. Sasse 'a liability to Republican Party'"
-    excerpt: "President Donald Trump pushed back Saturday at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment\" to the state. The president's Twitter attack came after Sasse told constituents in a telephone town hall Wednesday that Trump has “flirted with white supremacists,"
-    publishedDateTime: 2020-10-17T16:39:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Trump Lashes Out at ‘Embarrassment’ Ben Sasse After ‘Leaked’ Audio of Senator Trashing Him"
-    excerpt: "President Donald Trump lashed out at Nebraska Republican Senator Ben Sasse on the heels of an audio recording that featured Sasse thoroughly trashing Trump."
-    publishedDateTime: 2020-10-17T14:15:00Z
-    webUrl: "https://www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/amp/"
+  - title: "Rick Gates Calls on Trump to Pardon Him — And Everyone Convicted of Crimes by Mueller Probe"
+    excerpt: "Donald Trump's former 2016 deputy camping manager Rick Gates calls on the president to pardon him — and everyone else convicted of crimes by the Mueller Probe"
+    publishedDateTime: 2020-10-15T01:18:00Z
+    webUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/"
+    ampWebUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
     quality: 65
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Ben-sasse-GettyImages-1229069841-1200x675.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Rick-Gates-Calls-on-Trump-to-Pardon-Him-And-Everyone-Convicted-of-Crimes-by-Mueller-Probe-1200x672.jpg"
         width: 1200
-        height: 675
+        height: 672
         isCached: true
 
 secured: "6iQ4K9Ad2r0dfsPnTpLd1gh4hmk3Ohd56wf0epFPQkE/FjUPqKV9z4CJeNGuIo7muUEGYrnB/n9abZ6bXnk2guDjKLCWDiweJ3pI/mtnXeKJA/UW5NvLe4nGUvTie5CH1NBtHpZVdaNPpDjiaO+TuZRGOrq7dIz2ayw0cegSsiljEzMhzn35v0jzpHQUnDNzcpWWWjBukqHJNzUCFQ/TSRTPD4kne0/8p1qTCnzsYbmB3sBmK+ge79Iu0rzY1FAQjX76Z5pzIIIUiT5F+T0M3dkm9uMRV88yRQlTSRM5azl4pwfqEdIhuh4wFhZVtYQj8ScUYahH44mcy7TtIIsWvCbe6x/iuuBZ7OFyEdeJL0w=;JnM1tsST0gKdbdM34Xx5NA=="

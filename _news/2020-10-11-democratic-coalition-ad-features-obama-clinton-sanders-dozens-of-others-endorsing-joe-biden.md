@@ -490,6 +490,22 @@ related:
         width: 2290
         height: 1322
         isCached: true
+  - title: "The One Text That Hunter Biden Sent to Joe...That Turned Out to Be Rather Prophetic"
+    excerpt: "Hunter Biden must be really pounding his head against the wall for not picking up his MacBook Pro, which he dropped off at a repair shop in Delaware"
+    publishedDateTime: 2020-10-17T01:35:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/16/hunter-joe-biden-text-messages-n2578270"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/16/hunter-joe-biden-text-messages-n2578270?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/16/hunter-joe-biden-text-messages-n2578270?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/289/1271df3f-91af-4add-b909-675291f26ca3.png"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Joe Biden's Anti-Segregation Crusade From Black Church Story Just Took a Punch to the Mouth"
     excerpt: "At his age, Joe Biden’s lying problems can be masked as memory problems. It still doesn’t negate the issue. If he’s lying, it’s only in keeping with his past screw-ups"
     publishedDateTime: 2020-10-13T17:00:00Z

@@ -559,6 +559,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Moore: Trump has to be on 'best behavior' for final presidential debate"
+    excerpt: "Stephen Moore, an economist and adviser to President Trump, said Sunday that the president needed to be \"on his best behavior\" going into the final presidential debate Thursday against former Vice President Joe Biden."
+    publishedDateTime: 2020-10-18T12:00:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/moorestephen_08032020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -606,6 +622,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Thousands protest Trump's Supreme Court pick at Washington Women's March"
+    excerpt: "Thousands marched to the U.S. Supreme Court in Washington on Saturday to commemorate the late Justice Ruth Bader Ginsburg and protest President Donald Trump's rush to push through Amy Coney Barrett as her replacement."
+    publishedDateTime: 2020-10-18T08:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-protest-idINKBN273036"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN273036"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN273036"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537901655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9H01U"
+        width: 847
+        height: 545
         isCached: true
   - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
     excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"

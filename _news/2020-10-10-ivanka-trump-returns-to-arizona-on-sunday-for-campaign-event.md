@@ -459,6 +459,15 @@ related:
       name: RealClearPolitics
       domain: realclearpolitics.com
     quality: 45
+  - title: "Trump Says the Quiet Part Out Loud: He's Losing"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-18T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/17/trump_says_the_quiet_part_out_loud_hes_losing_526678.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "x2rwYQaNQVvyABcgDk3RfOeF8whPj4FcSpaomSRuly8BeCvGYkpiZMeRgGMTy6ponxz9z65cRxV7qMIofd1nMwjhNaSqSIvVHOHfNwTo+goMe2Bg/+oPwk+3pYsFrAEBJeyWEf0dzZcjhbPxQbeZtqn+X2681bcdySYfkYAxMX6WoMmAEU3oQFQwe8aqWJpWpuNZbTmoPhwW8babhzwuwb9+CBxYH1lDpejRe+emoqtjr1lUm+omOGcrMmxaVhQ3O5lU0nTjBFCzjieehgFjxsrl5n5YrQb9bvOSF0T3+M5CUmz5b1H/h8Vb7y3kt2yUAYRk2w9XrMMoKklCEVJqTnvErxWvh4B/bQzG2WHoAnk=;MJlHPTOXQO12JIPuV0R/0Q=="
 ---

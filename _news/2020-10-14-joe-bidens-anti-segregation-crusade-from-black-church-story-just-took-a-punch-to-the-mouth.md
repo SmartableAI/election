@@ -502,6 +502,22 @@ related:
         width: 2290
         height: 1322
         isCached: true
+  - title: "The One Text That Hunter Biden Sent to Joe...That Turned Out to Be Rather Prophetic"
+    excerpt: "Hunter Biden must be really pounding his head against the wall for not picking up his MacBook Pro, which he dropped off at a repair shop in Delaware"
+    publishedDateTime: 2020-10-17T01:35:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/16/hunter-joe-biden-text-messages-n2578270"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/16/hunter-joe-biden-text-messages-n2578270?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/16/hunter-joe-biden-text-messages-n2578270?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 79
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/289/1271df3f-91af-4add-b909-675291f26ca3.png"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Joe Biden was not asked any questions about Hunter Biden's emails during ABC town hall"
     excerpt: "Former Vice President Joe Biden was not asked one question in a Thursday night town hall about a highly publicized news story involving his son Hunter’s business dealings in Ukraine."
     publishedDateTime: 2020-10-16T02:27:00Z

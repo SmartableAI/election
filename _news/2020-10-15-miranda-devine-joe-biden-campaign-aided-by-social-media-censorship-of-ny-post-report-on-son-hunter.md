@@ -240,6 +240,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Giuliani: Computer shop owner who found alleged Hunter Biden emails told FBI he was 'really afraid'"
+    excerpt: "Former New York City Mayor Rudy Giuliani has described how he obtained a copy of a hard drive that contained emails allegedly related to Hunter Biden's overseas business interests. "
+    publishedDateTime: 2020-10-18T11:30:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JrhNjzDuCSg/rudy-giuliani-hunter-biden-emails-hard-drive"
+    ampWebUrl: "https://www.foxnews.com/politics/rudy-giuliani-hunter-biden-emails-hard-drive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rudy-giuliani-hunter-biden-emails-hard-drive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e47e112-ca47-48cf-ab4d-a44b8d0a68cd/14592c23-9c91-4d69-8707-569698850a5d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden campaign 'glad' social media cracked down on NY Post, claims it proves ‘allegations are false’"
     excerpt: "A spokesman for Joe Biden’s campaign said on Thursday he was “glad” Twitter and Facebook censored a New York Post article about Hunter Biden’s business dealings in Ukraine and China, going so far as to suggest that the gag somehow proved the allegations were false."
     publishedDateTime: 2020-10-15T19:43:32Z

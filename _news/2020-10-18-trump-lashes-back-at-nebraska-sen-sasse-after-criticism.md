@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Trump lashes back at Nebraska Sen. Sasse after criticism"
-excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state"
-publishedDateTime: 2020-10-17T18:14:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
+title: "Trump Lashes Back at Nebraska Sen. Sasse After Criticism"
+excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state."
+publishedDateTime: 2020-10-18T01:31:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
 type: article
-quality: 125
-heat: 205
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_8e8196569f124239a10eed0534591a8c_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks"
@@ -79,23 +73,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Don Lemon Draws Fire From Ice Cube For ‘Punk Ass’ Trump-Related Criticism: ‘If You Have Any Balls. I Need To Be On Your Show’"
-    excerpt: "CNN anchor Don Lemon criticized Ice Cube for his involvement with President Donald Trump's presidential campaign, causing the rapper to lash out on Twitter and issue a challenge to meet on Lemon's show."
-    publishedDateTime: 2020-10-17T14:55:00Z
-    webUrl: "https://www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/"
-    ampWebUrl: "https://www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 48
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemon-Ice-Cube.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "q0Cxzlt2EPTdiq0ROS8Em5DbLJ//bhn6Nw3tUPnNjumB3VhakTy90LkCGASGLKb8JrFP0O99BhhMRMstiZ4T8zfIDmQxwm+2g2YO0oaq3j4sWsW6xra47y1t1XEkudEsoH5Q8IgJTyMehIuW/zjTp3EFpsJ6kn51VytZxSBNd/NSXO5y0KnnA6egWEzJU9xMcFJTUB3F4Dohy6e/yXFgbdP+kLq6A27/ih3ey6j0vQ7E5IYZR9JS6pV9dGHvByk/5Pf8aNo7lO3jx+PXL9dagxeuhIfGDQ5K9sclq18pV2NB1PSDdosHxLma2rtSLriIUch4nb8XhonZIey3XoRscxrPsdrwvJvf8UkA0e4hwsGEbQ5djJVIjoazL0G64bKr0I0D1tbe+6gcfssFykDxNTBHR0NBhU6Acyo2gksmIW/dLfP7E+3wcDnSzcXdcuw9DMPGdMe2UgbWYf9+IT4L3e/1ymaZRQy2LEeH2CYyFprQfQjXn7qESxqjfq7z12AOT+++N87M/GEsIsJxMeG8fg==;eKcTkv10jVlbjbf/v8JEDQ=="
+secured: "Rp+RSSNrzvCMhAXxdnDrlFCLA+ufIwj0H57aEPjtamKhncxNPEb0x4jXfvBhoPasSXicd5vqOC0DZvjZMbxsgCxWnPn7vTNvOUJhFo6NvQvQ4grWRZ+CnF1vJAEYiFzH7gYszmb+xL+5TBUM0+XCl7ykGTN6mSWeJyF8buoa0+dWUin7H11mxJbMkCq5+PEl8SLFepSEEwQ0RHN7QMLELaNg6mJf4Zvu2VAg5qOJG/tv6BLkFn7h+S2In7/tahm2oNo3KnNK6ZX3bozHoR2J6v3nQDUxRLgdmEbq0+vOLpCXnGl5IYGSFGJwjtb764IiXKE3x/Ye7hASt0STtD4c83UMSOgrgGfImMFrEqRgSo9WQJlG1usJJtVqThPXlQHSCL9kbSfd9PN4tNSsQskIwCK3GX0VcnqOD2t9cacqxXeTz44P5WT/4Dhlom/dWgAgqdV6PhpEe974wov2LkRvDiK7I3juzcSt+Tpm4SOGyaEw0s9sIj2BzRZIDE+lyRNLu+PrdyGWQb+LhqcMqWLKKQ==;gje8g92wDbPKKgnH7BNYeA=="
 ---
 

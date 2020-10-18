@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump lashes back at Nebraska Sen. Sasse after criticism"
-    excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state"
-    publishedDateTime: 2020-10-17T18:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-nebraska-sen-sasse-liability-republican-party-73671756"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8e8196569f124239a10eed0534591a8c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks"
     excerpt: "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate."
     publishedDateTime: 2020-10-17T15:43:00Z
@@ -75,22 +59,17 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Don Lemon Draws Fire From Ice Cube For ‘Punk Ass’ Trump-Related Criticism: ‘If You Have Any Balls. I Need To Be On Your Show’"
-    excerpt: "CNN anchor Don Lemon criticized Ice Cube for his involvement with President Donald Trump's presidential campaign, causing the rapper to lash out on Twitter and issue a challenge to meet on Lemon's show."
-    publishedDateTime: 2020-10-17T14:55:00Z
-    webUrl: "https://www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/"
-    ampWebUrl: "https://www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/don-lemon-draws-fire-from-ice-cube-for-punk-ass-trump-related-criticism-if-you-have-any-balls-i-need-to-be-on-your-show/amp/"
+  - title: "Trump Lashes Back at Nebraska Sen. Sasse After Criticism"
+    excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state."
+    publishedDateTime: 2020-10-18T01:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 48
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemon-Ice-Cube.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "8DUTyONEvDgsRs23MW2vR9dUmRsBlRQKY8TQN4uARduZ1ftbKqz476/f3wYbHEApT4j6AnXYmnNvQQGrDPHZXgfKqofAZrIJeHoUO5RmdrRfgekFkcdKMdEvkexCV+pqPZQShkaXhAMGfElG26Ay8r7+6mXiTtnEdUAXtSt7bP+ijYo7h35x7gBr4qBpOraftYHJd324iwHSjI3I9El7NwF/oCyiAMsJwZthi6AYkuyawStyBRnpFz8jz1g+cYVRBuFtPchYqQfgRLHFc6WiysrvVkcWj3bC/ezpesyuxm7DYD4zZxSaBdbZMnsTGS31X0IY25nyFz0wTQGtL5w/I2lzXwFQYE0UKV/XzudVRdiO2Y6zoPstfP0auI6z1vQwkPrv/d0kM2vAJKiP/J/SJhPuXUCNa9T5dIpaDks3YplBCwGgQDdmXsH2fm+3uK4R/XPrSlVKQkCyq6idZkMr5/N84lOzAjD19E04qR8XB4O23IiQ5LpN9iKXfOua5HL7YpX2T7/GVEDrFQ/lmjvDsw==;jPrN7DlaDZwgAuDY1LfvAg=="
 ---

@@ -2764,6 +2764,22 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Rupert Murdoch, whose media empire includes Fox News and the New York Post, is predicting a landslide Biden victory over Trump"
+    excerpt: "The media mogul prides himself on his political acumen, and reportedly believes that Trump's botched coronavirus response will lead to defeat."
+    publishedDateTime: 2020-10-18T10:41:00Z
+    webUrl: "https://www.businessinsider.com/rupert-murdoch-predicts-landslide-biden-victory-over-trump-report-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rupert-murdoch-predicts-landslide-biden-victory-over-trump-report-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rupert-murdoch-predicts-landslide-biden-victory-over-trump-report-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/5f8c0594c21cfb0019468a58?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Democratic presidential nominee Joe Biden leads President Trump nationally among seniors"
     excerpt: "Several polls have former Vice President Joe Biden ahead of President Trump among senior citizens and voters over 65 years old. Ben Tracy reports."
     publishedDateTime: 2020-10-14T13:08:00Z
@@ -4007,6 +4023,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
+    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
+    publishedDateTime: 2020-10-17T01:33:00Z
+    webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+    ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
     publishedDateTime: 2020-10-16T17:50:00Z
@@ -4038,6 +4070,22 @@ related:
       - url: "https://tvguide1.cbsistatic.com/i/r/2020/10/15/7247a275-413b-4c54-bf06-c79003e14296/thumbnail/1300x867/815cc77c6a2676a9d281816b4c121d0a/biden-trump-split-town-hall.jpg"
         width: 1300
         height: 867
+        isCached: true
+  - title: "President Trump in Michigan: Joe Biden is lost to 'sick' liberals"
+    excerpt: "President Donald Trump drew thousands at a West Michigan airport on Saturday, holding a raucous rally less than three weeks from Election Day."
+    publishedDateTime: 2020-10-18T11:19:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/17/trump-muskegon-rally-joe-biden-lost-sick-liberals/3699051001/"
+    ampWebUrl: "https://amp.freep.com/amp/3699051001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3699051001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/952810b7-35a2-40cf-a21c-4ac6525d6349-AP_APTOPIX_Election_2020_Tru.jpg?auto=webp&crop=3546,1995,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
@@ -4928,6 +4976,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Navarrette: Harris wins praise for putting Pence in his place"
+    excerpt: "His voice sounded like a mixture of fear and frustration, as if Pence was afraid to let Harris or Page finish t"
+    publishedDateTime: 2020-10-18T11:00:00Z
+    webUrl: "https://www.news-journal.com/opinion/navarrette-harris-wins-praise-for-putting-pence-in-his-place/article_2c6cdd72-1029-11eb-9d03-9fcb0b70abea.html"
+    type: article
+    provider:
+      name: Longview News-Journal
+      domain: news-journal.com
+    quality: 80
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/e/eb/eebeea40-3a33-11ea-9299-7b1f29418589/5e236f48c8985.image.png?crop=333%2C470%2C71%2C15&resize=333%2C470&order=crop%2Cresize"
+        width: 333
+        height: 470
+        isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."
     publishedDateTime: 2020-10-07T02:19:00Z
@@ -4975,6 +5037,22 @@ related:
       - url: "https://media.nbcmiami.com/2020/10/GettyImages-1279889013.jpg?fit=1024%2C576"
         width: 1024
         height: 576
+        isCached: true
+  - title: "As senior citizens abandon Trump, Joe Biden spends big on TV ads to build on his lead with them"
+    excerpt: "Biden’s push for older voters reflects what one pollster called a \"startling\" shift from 2016, when seniors helped propel Trump to the White House."
+    publishedDateTime: 2020-10-18T10:20:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5967402002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5967402002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 78
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/f3acd84d-ecad-4be2-ba69-dba06e730fa5-biden_florida.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "GOP senator accused of racism after repeatedly mispronouncing Kamala Harris’ name at Trump rally"
     excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia rally for"
@@ -5823,17 +5901,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
-  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
-    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T01:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
