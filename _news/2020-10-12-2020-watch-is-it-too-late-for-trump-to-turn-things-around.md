@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "'Indigenous Peoples Day' Booed at Michigan Rally for Donald Trump"
+    excerpt: "Biden, he attacked Christopher Columbus by refusing to recognize Columbus Day, and he wants to change the name of Columbus Day to Indigenous Peoples Day.... Not as long as I'm president,\" Donald Trump said."
+    publishedDateTime: 2020-10-18T00:46:00Z
+    webUrl: "https://www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069"
+    ampWebUrl: "https://www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1654827/donald-trump-michigan-rally.jpg"
+        width: 3387
+        height: 2630
+        isCached: true
   - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
     excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."
     publishedDateTime: 2020-10-14T23:35:00Z
@@ -156,6 +172,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/06/Donald-Trump-pointing-to-his-hair.png"
         width: 800
         height: 430
+        isCached: true
+  - title: "She ‘Truly Hates Our Country’: Trump Attacks Rep. Ilhan Omar at Michigan Rally"
+    excerpt: "President Donald Trump went after Minnesota Congresswoman Ilhan Omar during his Saturday Michigan rally claiming the Somalia born lawmaker hated the U.S."
+    publishedDateTime: 2020-10-17T22:59:00Z
+    webUrl: "https://www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/"
+    ampWebUrl: "https://www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1058470920-1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump lies about reports of a ‘red wave’ — then touts nonexistent Michigan ‘man of the year’ award"
     excerpt: "President Donald Trump ticked off several lies in just under 60 seconds while visiting his supporters in Michigan on Saturday. He told his supporters that the press was predicting an astounding “red wave” in November,"

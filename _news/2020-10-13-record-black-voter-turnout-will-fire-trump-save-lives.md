@@ -240,6 +240,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Women's marches storm NY, DC and LA protesting Trump, ACB despite social distancing mandates"
+    excerpt: "Women’s rallies against President Trump and his Supreme Court nominee Judge Amy Coney Barrett swept through cities like Los Angeles, Washington and New York on Saturday. "
+    publishedDateTime: 2020-10-18T00:13:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpT7AEbUQ6s/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288675179525-e1602784153869.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump rushing Barrett confirmation because of contested election fears, Durbin claims"
     excerpt: "Sen. Dick Durbin, D-Ill., said President Trump nominated Judge Amy Coney Barrett to the Supreme Court to \"rule in his favor on any election contest\" during the opening portion of Barrett's confirmation hearing on Monday."
     publishedDateTime: 2020-10-12T14:58:53Z

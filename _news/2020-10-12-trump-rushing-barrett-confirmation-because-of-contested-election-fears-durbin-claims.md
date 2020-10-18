@@ -249,6 +249,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Women's marches storm NY, DC and LA protesting Trump, ACB despite social distancing mandates"
+    excerpt: "Women’s rallies against President Trump and his Supreme Court nominee Judge Amy Coney Barrett swept through cities like Los Angeles, Washington and New York on Saturday. "
+    publishedDateTime: 2020-10-18T00:13:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpT7AEbUQ6s/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288675179525-e1602784153869.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
     excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
     publishedDateTime: 2020-10-10T15:30:27Z

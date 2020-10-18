@@ -2579,6 +2579,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'What the hell is wrong with this guy?' Biden slams Trump for his response to the plot to kidnap Michigan governor"
+    excerpt: "\"To kidnap an American leader is the sort of behavior you might expect from ISIS and should shock the conscience of every American,\" Biden said."
+    publishedDateTime: 2020-10-18T01:10:00Z
+    webUrl: "https://www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f8ae3b6d260780019342004?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump appeared to fall for a satirical post which joked that Twitter shut itself down to stop criticism of Joe Biden"
     excerpt: "The president tweeted an article by The Babylon Bee which joked that Twitter shut down its entire network to defend Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-16T12:25:00Z
@@ -3950,22 +3966,6 @@ related:
     webUrl: "https://www.chron.com/news/article/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
     ampWebUrl: "https://www.chron.com/news/amp/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
-    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
-    publishedDateTime: 2020-10-17T01:33:00Z
-    webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -5747,6 +5747,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+    publishedDateTime: 2020-10-17T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
     excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."
     publishedDateTime: 2020-10-17T03:15:00Z
@@ -6284,6 +6295,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "4iIImT2UVGeWF9SBSFh0cqty9Cy4gwWjWQ0vQVGa5ZHQ3DdGfQcYL8nKD8Qec9KChZ9N4V7nUm091/FaqIXZcFQre9VU8cT75KyEIKulb6d/cgl949/GerddWw3NVcnYqPAuJu2jgCA1kJH5IScB6d9ibpfUUoXq4Zl7hficwdTqZtpghosdUyiO3e7HJI72jvnMdG0/tdv1zuAZfMFopsTBLEZ70GRt6U6josL+TB/IU0Nq6oyyuRPVwkWix0ECv0VgaMHHqCL5wbVBO/KgReKWvOfRJCl82olea3qxmosbrkMHf/3ysIqrPgoW+RE1MdRW5gk6mK9UEu0VmCDEvA1+0K+dxiqCmqzH/3WBbJ8=;NtqLi0O/3c4VO0p0snhsdA=="
+secured: "x0IjpWFEM7Tq0avIZHpTHJRQCDdoKrU4Lo2nRSaHKDPUT4RNLWtyKC0/3EJbY4X0qQ8bE8dp1Nhq1iOIXFz5PyP+EB8XzyLCUnQdGqtasNUM2uvnkrEr6T9y60tTn8/I27V7KNGA0mgRqbNzpd2DtTNCqZtRsmNJYAXXyHySxVRn9jVmlC2Tu6t/sjtpzidGK1o/hpgjBvy3qMCvmPwG/IUk5wGTbdlqzCk/e6TjPVHnqq0tbyEBE6btV7JJQku9Y4eDy4d062eSqWHP12iROJqVMKwkoI9YHTX0Cnulu+mapzPcF1ThDikEF9oeRRRRIoqdI5ghSJ2/fNIZG00kceWxZ0phb0DhXbV9dj0vLviVRbA+uQePtA/OlGtGK3F7UT3bTzgzJS15FT8cl9zvbZ6jP4XEm9td+uMGsmOjC4vPWYo7PHq1NPpLoAms3wpeyGPoeFoYzQ9P0qyKIOS8u+6pKXwIb5/Wt/3gcU5IMB7J5mOqGqdsJjMW/OWZ2V2zCNfJhjaecrZJT3CpK8R6lQ==;DgVbDw0GXv2k0d8jAmDedw=="
 ---
 

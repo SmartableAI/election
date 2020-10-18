@@ -1,30 +1,28 @@
 ---
 category: news
-title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
-excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
-publishedDateTime: 2020-10-17T01:33:00Z
-originalUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+publishedDateTime: 2020-10-17T01:36:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    isCached: true
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -2574,6 +2572,22 @@ related:
     quality: 118
     images:
       - url: "https://i.insider.com/5f86ee5dfd1f49001964d860?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'What the hell is wrong with this guy?' Biden slams Trump for his response to the plot to kidnap Michigan governor"
+    excerpt: "\"To kidnap an American leader is the sort of behavior you might expect from ISIS and should shock the conscience of every American,\" Biden said."
+    publishedDateTime: 2020-10-18T01:10:00Z
+    webUrl: "https://www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f8ae3b6d260780019342004?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -6280,6 +6294,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "DR7IkRf5c1s+XokJu5c4lLpUWAT4FE9LhY24Ujk2IsrrUVq9AXSsfCYevTfPJTUej5ThQgOrsAiyUV4AFI28pU2vzggpdo91rzlakVLUhVmuGYC78d156rm+QgXxGwil5Lo5sHS7j5dDrcfWuHKoLP4+4/iepcH8xFYPuZu4rAOow1dyBRpOjmQaHIGPRdeqUC95JNcsijllKzgBp5EBhmH6XzFZoNm7+MWkhaI/LVFC0+xxdr4g+e9QE1/oHV4JAHocLFq/72FMUWoC563NfUbtOjJSC4Vlkba/6tK6xUMgddHEtlYXLFPDlZV/w8P8Y3t8JDbycQIKtxX7L7MHxpBF48XIVUmg7NpQk+ZkscI0NSdKUg8lK5oh3QgW/Lo0ya/NQN5O+kIA7uUHAVNRw9u90m4V5eKHP9x4zoruL0ZRrFL3x83qdVfy3jQdvyXP+aWy3GHtPFpIQdj6r9B9KsE+gv4NRkA2+T5xReFc2ZVGiOFA9BqYFQt9hxaE9/3wTcJaRVPe5KjfxjmHX5YUDQ==;4sg11VolVtnC4bRIdQjO5w=="
+secured: "qC7Dct4LApL2tJ877XsmnyEhTYCLEj7Aev5GzZiWmAEwRxLMuqpP27I7C0F5RTMnu3nvWP0KOWMy07vaNRTBXeqP2hgb+fvYk03GFy6S4ryDB02OA0GO9LTPURsbHaC/62+8cAL5XG4kAWof0WyOZmozBb0Zl/uAUaPOhSxte5mYz/apaw8Rss7bHNzVfw88rdibiRFsudxCTnC/Khu6zbpxC71eBShWzdz+wRQR/0qJVtCAFtDkwJyxAoj3a9IRxWeN9huHwU8XlKC+1PyJtW2X2qwz5Y/pY5xM3zKsI+8UuDeeoXJghmLhzOdwPtcwd3esKxYI6EOF9aq43V4HdnHiCRbVdIZF6rFeZ7oT2042RpyoHWqVMdz+BF315nZiWugLviDcc0vgP9/OHyLvlgYB10j1pDtqEGUhCJZ+VW/vbWTno+V79Y62JXbzi4bS+Fe8CrYuHuZW7W8BGXZLMfoAdsSx2GcWyccCCmHEfdKGbXKorYJ+sTGhxXYV6S/YJq4ziU3mY/p4LnR9QHTU2g==;HRF28IKWYdDwhblD0QGNVw=="
 ---
 

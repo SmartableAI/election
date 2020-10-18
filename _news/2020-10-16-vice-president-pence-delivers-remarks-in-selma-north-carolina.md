@@ -157,6 +157,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Vice President Pence speaks at Reading Regional Airport"
+    excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
+    publishedDateTime: 2020-10-18T01:33:00Z
+    webUrl: "https://www.wfmz.com/news/area/berks/vice-president-pence-speaks-at-reading-regional-airport/article_4248b3da-10d5-11eb-81d7-7f604f967283.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/97/197d2af2-3955-57f9-a37e-d506b801d511/5f8b945d9b476.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "5HyuAe0cuviEiM92PICB8xkN4lsnTV/eCgTFOxzbAvSv95kGjrqjwlM8bn8CI2sqi3jR46Wf45fgwaBEA5bbyGY1MWSeHpyfMnQbDyEZhzvfMm0jbxTRNSz5TBa2YneFBwmpgFCviqjbsPvWEn4sCdqn9e4+EpBQ6+s1AOEbysEjiF9OJss/Wg19KCyutldkwCg5pSFQ2YXxHJgkx+Vb00cQEat0e/Tn6Qo2BznWbDE2jsSMlXERhrhrc7FaWNXYCgm8k76y8jIPOE18skfNWtIcl/YqoI8AcQEqP0hvpFBAHF66KwRgp6kfNtETnD4hLxbfAJiJKsooQdQhZCtweu/6VSp74gpfcNRCJSrgop2DgOyEMlxAMtlJCnhK9wRsT/FNtkZTomd1M287Lu21qqhr+4mz9OLWx2Nsheni0dqM1ypHubobtk4MjFD1iODOqoE6JVr7uekEgQvRVKdccQQd9dLS6BcC20UULQjp6IOVJ7bunjMU9VnT4EOUNA6dvfTbWJCfi/r4W3n8Y0Kn3g==;nNicuMPAyi9NSk/A5ilKhg=="
 ---

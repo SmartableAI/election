@@ -2112,6 +2112,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Anti-Trump Women's Rallies Draw Thousands Across US"
+    excerpt: "Thousands took to the streets across the United States for women's marches on Saturday, many wearing pink protest hats while issuing fervent calls against President Donald Trump and his conservative Supreme Court pick."
+    publishedDateTime: 2020-10-18T01:03:00Z
+    webUrl: "https://www.ibtimes.com/anti-trump-womens-rallies-draw-thousands-across-us-3063840"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/most-marchers-in-washington-wore-protective-masks-for.jpg"
+        width: 1024
+        height: 672
+        isCached: true
   - title: "Is Donald Trump going to win?"
     excerpt: "Donald Trump is nervous. Beneath the bombast and the boosterism, the president worries about losing the election in two weeks’ time. It is starting to show.“Could you imagine if I lose?” he told a"
     publishedDateTime: 2020-10-17T23:33:00Z

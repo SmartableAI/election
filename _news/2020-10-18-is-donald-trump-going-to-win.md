@@ -2122,6 +2122,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Anti-Trump Women's Rallies Draw Thousands Across US"
+    excerpt: "Thousands took to the streets across the United States for women's marches on Saturday, many wearing pink protest hats while issuing fervent calls against President Donald Trump and his conservative Supreme Court pick."
+    publishedDateTime: 2020-10-18T01:03:00Z
+    webUrl: "https://www.ibtimes.com/anti-trump-womens-rallies-draw-thousands-across-us-3063840"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/most-marchers-in-washington-wore-protective-masks-for.jpg"
+        width: 1024
+        height: 672
+        isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
     publishedDateTime: 2020-10-09T11:03:00Z

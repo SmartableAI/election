@@ -196,6 +196,22 @@ related:
         width: 5220
         height: 2715
         isCached: true
+  - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
+    excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
+    publishedDateTime: 2020-10-16T18:22:00Z
+    webUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting"
+    ampWebUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 68
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=NEWS&ArtNo=201019455&Ref=AR"
+        width: 3543
+        height: 2364
+        isCached: true
 
 secured: "JtF/AnOzSVmFXJrKitxDPJrgGKDBk8Vp15Mv5YXmpQy9a+hRC9h7ZNatyviMrdpbKtvrU4m/yrTKTaormyUQlaZ11+zfECJd2+d/mnYUtWg2bqZgaje0GWAk3ApvGNIgi418/6Aus055Eup0UyKsF1u+6Yp1GhVSaaD7rirnk5gOyGTDRRgZ+tjGC9AsovXrz2SxmN1PfZa8dJ+sfsOceF8V1D+7Qgd2Jrv2S6Aox0tM4On0YlMyPdaRaB7Rn931f2CSOOct2WiingFxOLqJsNSorFbC3AC/XCv+J7Pj4wFbnrturllMSM0FFVezk+YG8LpX5k79lCpiqDOE4AyHW8cJn4zZPHFpFME6hPmKecc=;sudLa6Aq6OhI2TdPkF1TFA=="
 ---

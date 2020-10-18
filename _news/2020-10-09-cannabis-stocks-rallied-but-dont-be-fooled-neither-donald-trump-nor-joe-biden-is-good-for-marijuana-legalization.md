@@ -2566,6 +2566,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "'What the hell is wrong with this guy?' Biden slams Trump for his response to the plot to kidnap Michigan governor"
+    excerpt: "\"To kidnap an American leader is the sort of behavior you might expect from ISIS and should shock the conscience of every American,\" Biden said."
+    publishedDateTime: 2020-10-18T01:10:00Z
+    webUrl: "https://www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-slams-trump-for-response-to-attempted-kidnapping-michigan-governor-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/5f8ae3b6d260780019342004?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump appeared to fall for a satirical post which joked that Twitter shut itself down to stop criticism of Joe Biden"
     excerpt: "The president tweeted an article by The Babylon Bee which joked that Twitter shut down its entire network to defend Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-16T12:25:00Z
@@ -3951,22 +3967,6 @@ related:
     webUrl: "https://www.chron.com/news/article/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
     ampWebUrl: "https://www.chron.com/news/amp/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NBC-holds-fast-to-dueling-town-halls-despite-15650801.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
-    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
-    publishedDateTime: 2020-10-17T01:33:00Z
-    webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -5743,6 +5743,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-out-raised-outgunned-by-biden-in-final-stretch?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+    publishedDateTime: 2020-10-17T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
