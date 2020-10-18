@@ -164,6 +164,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Joe Biden could return to Irish roots as US president"
+    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
+    publishedDateTime: 2020-10-18T03:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
     publishedDateTime: 2020-10-15T11:07:00Z

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
+    excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
+    publishedDateTime: 2020-10-18T02:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mzS17a9vhsg/twitter-employees-openly-rip-trump-praise-biden-trump-must-be-defeated"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-employees-openly-rip-trump-praise-biden-trump-must-be-defeated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-employees-openly-rip-trump-praise-biden-trump-must-be-defeated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe6df57-c0d8-4250-8af5-e4aaabe52f66/30215794-7824-49e4-8e4e-ca9f5753628f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden campaign warns against complacency in memo: 'Donald Trump can still win this'"
     excerpt: "The Biden campaign sent out a three-page memo to supporters Saturday warning that President Trump can still win and the race is \"neck and neck\" in certain critical battleground states, including Arizona and North Carolina. "
     publishedDateTime: 2020-10-17T17:24:20Z

@@ -4587,6 +4587,22 @@ related:
         width: 2732
         height: 1200
         isCached: true
+  - title: "President Obama, President Trump, Vice President Pence all coming to Pennsylvania"
+    excerpt: "Biden Harris campaign surrogate, former President Obama, President Trump and his VP Pence all schedule separate events in Pennsylvania for the coming week."
+    publishedDateTime: 2020-10-18T03:06:00Z
+    webUrl: "https://www.wgal.com/article/president-obama-president-trump-vice-president-pence-all-coming-to-pennsylvania/34401079"
+    ampWebUrl: "https://www.wgal.com/amp/article/president-obama-president-trump-vice-president-pence-all-coming-to-pennsylvania/34401079"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/president-obama-president-trump-vice-president-pence-all-coming-to-pennsylvania/34401079"
+    type: article
+    provider:
+      name: WGAL
+      domain: wgal.com
+    quality: 85
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-42-1602990161.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
     excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
     publishedDateTime: 2020-10-09T21:12:00Z
@@ -5754,16 +5770,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+  - title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
     excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-    publishedDateTime: 2020-10-17T01:36:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    publishedDateTime: 2020-10-17T04:51:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article246517880.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Kansas City Star
+      domain: kansascity.com
     quality: 70
   - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
     excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."

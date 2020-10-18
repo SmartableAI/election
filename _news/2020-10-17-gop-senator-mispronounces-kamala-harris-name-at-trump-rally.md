@@ -1,24 +1,20 @@
 ---
 category: news
-title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+title: "GOP senator mispronounces Kamala Harris’ name at Trump rally"
 excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-publishedDateTime: 2020-10-17T01:36:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+publishedDateTime: 2020-10-17T04:51:00Z
+originalUrl: "https://www.kansascity.com/news/politics-government/national-politics/article246517880.html"
+webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article246517880.html"
+ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
+cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article246517880.html"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Kansas City Star
+  domain: kansascity.com
 
 topics:
   - Election
@@ -4590,6 +4586,22 @@ related:
         width: 2732
         height: 1200
         isCached: true
+  - title: "President Obama, President Trump, Vice President Pence all coming to Pennsylvania"
+    excerpt: "Biden Harris campaign surrogate, former President Obama, President Trump and his VP Pence all schedule separate events in Pennsylvania for the coming week."
+    publishedDateTime: 2020-10-18T03:06:00Z
+    webUrl: "https://www.wgal.com/article/president-obama-president-trump-vice-president-pence-all-coming-to-pennsylvania/34401079"
+    ampWebUrl: "https://www.wgal.com/amp/article/president-obama-president-trump-vice-president-pence-all-coming-to-pennsylvania/34401079"
+    cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/president-obama-president-trump-vice-president-pence-all-coming-to-pennsylvania/34401079"
+    type: article
+    provider:
+      name: WGAL
+      domain: wgal.com
+    quality: 85
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-42-1602990161.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Polls show Joe Biden leading Donald Trump, but after 2016, should we believe them?"
     excerpt: "National and state polls continue to show Joe Biden leading Trump. In some cases, it's by a double digit margin. But how accurate are they?"
     publishedDateTime: 2020-10-09T21:12:00Z
@@ -6294,6 +6306,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "qC7Dct4LApL2tJ877XsmnyEhTYCLEj7Aev5GzZiWmAEwRxLMuqpP27I7C0F5RTMnu3nvWP0KOWMy07vaNRTBXeqP2hgb+fvYk03GFy6S4ryDB02OA0GO9LTPURsbHaC/62+8cAL5XG4kAWof0WyOZmozBb0Zl/uAUaPOhSxte5mYz/apaw8Rss7bHNzVfw88rdibiRFsudxCTnC/Khu6zbpxC71eBShWzdz+wRQR/0qJVtCAFtDkwJyxAoj3a9IRxWeN9huHwU8XlKC+1PyJtW2X2qwz5Y/pY5xM3zKsI+8UuDeeoXJghmLhzOdwPtcwd3esKxYI6EOF9aq43V4HdnHiCRbVdIZF6rFeZ7oT2042RpyoHWqVMdz+BF315nZiWugLviDcc0vgP9/OHyLvlgYB10j1pDtqEGUhCJZ+VW/vbWTno+V79Y62JXbzi4bS+Fe8CrYuHuZW7W8BGXZLMfoAdsSx2GcWyccCCmHEfdKGbXKorYJ+sTGhxXYV6S/YJq4ziU3mY/p4LnR9QHTU2g==;HRF28IKWYdDwhblD0QGNVw=="
+secured: "wcg++jSW4HylOaMRsv066/z74JQqTDSFSID3tx73v2thMR6bmfiUn59Lv5o3fUTm2R78pWIUKJUCeqYRzeocVmd5QeQBCc+3G3V3GLW8gg1IK7JNp+6MYJkJzDXJVtN4SLJp4kjNr54+/zqMz3Xd0mgIkF0ZEtIXU0TY5L3kDl529cmeA/t610jZgFDC9EMV4HzaRaRH7oqrQymvlb8Wh8aeT8SK5+He+RlMR1ObeqV/N8XtlZpAnGdagrSs6Lmr73vTIEbbsTYuTYVUMY9wYm8bD/K/gx+8p+VYvU/immwjlc7+Lz6Ew43OW66US9ywdChetmydWV9ExVcB9ll9q3CxnZJrApfpoNiZKDTavSXcbV6rVcRZ2TRNbwIteXzKrngI3VR2qtTCFSLAWnf47an1zsQnc3ed/+HQU1njCB5SzGNHGqBkvYDbb/8YgyhJTl3vTdYDhNXp0VDBwW/tGpCByh8RtgX8CKzmiycO98meMIY/Eyt1H4AHkAvbCB9UDvltizg2Exjx4hg90qzv2w==;z8w7APqfoENv6XiLJebIMQ=="
 ---
 

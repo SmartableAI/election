@@ -2148,6 +2148,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Trump Gaffe Demotes France's Macron"
+    excerpt: "President Donald Trump likes to make fun of his rival Joe Biden's verbal lapses but on Saturday he made his own goof as he took a pot shot at French President Emmanuel Macron and effectively demoted him."
+    publishedDateTime: 2020-10-18T02:10:00Z
+    webUrl: "https://www.ibtimes.com/trump-gaffe-demotes-frances-macron-3063852"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/26/earlier-this-month-trump-lambasted-macron-for-sending-0505dc18ddf9d4508ea07b7dab0a2d52035a0ad0.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
     publishedDateTime: 2020-10-09T11:03:00Z

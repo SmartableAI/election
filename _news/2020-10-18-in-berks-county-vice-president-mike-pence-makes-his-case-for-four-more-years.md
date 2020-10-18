@@ -1,27 +1,27 @@
 ---
 category: news
 title: "In Berks County, Vice President Mike Pence makes his case for four more years"
-excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
-publishedDateTime: 2020-10-17T20:30:00Z
-originalUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
-webUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
-ampWebUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
-cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
+excerpt: "Vice President Mike Pence said he understands the importance of the Keystone State. \"The road to victory runs right through Pennsylvania,\" he said to a cheering crowd on Saturday afternoon. \"Here in Pennsylvania, you believed we could be stronger ..."
+publishedDateTime: 2020-10-18T03:34:00Z
+originalUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Reading Eagle
-  domain: readingeagle.com
+  name: Daily Local News
+  domain: dailylocal.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/63/763bd77c-10b6-11eb-af0d-8bac2b708d58/5f8b527dd74a7.image.jpg?resize=1024%2C735"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
     width: 1024
     height: 735
     isCached: true
@@ -173,6 +173,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9GAXvtGuyce7cxWAgbUi5rbHt0es//ezJsPIM7UZWnb8cFjJOseyLzl+SA4FuYVWu6gnCEWFqfTMWCDpoLbwI2X1G57e2vd79FNjE9fWIpBIM0vR+3AfskMwewD29aEGy1kZwOOzMkA9VjnSP0xvyhIWMikynAWursvmrvDLVKpXgmK9prZrA/EMSEF/H5/OYqud0nrns+sBj4XFcPi0b1FgWHWYrJ11hMOEYQ/1PxsQu1y2IRFexWMsrEkfg2+TqMxkAin2T7H/uQlEU26HDzJYqmZi0DwDU41E+/RaQCHbanKgn/rYkU0eBjYn+iYaqoUQEwKDfbpt1T9ViLE/jiAKiaxgA44ujbgC3Ykl0fn9lEZYLQtAHewDzPqUgSxuZhm4UjmjLY1WV1yVL+pVALursxTp7RXEJ3Gt8YGew5YvfzoMuWysV1NGSy4O7VFf+vaSP6ULTeUnfQANVJ6UBLx729nUB0F45z0fJNOd8GY4PhomBLi5VsOQmWPEjWgYf2QIva0XXonNLHdIr6bjSw==;FmVYkswZllj/NReR1wB+QQ=="
+secured: "jU8nbYg6jZPiYzxO4hczYsyYkgVrxi3F5xS8MrB+JwYryuyhYBLquDIuMRrJTbfJWUjibpXACMnHkJYZETKWPEe6jIWvBntcfyVey3tBjn31Xumd9F7PHdF/Cu4yNvGWyZe710URhbSKOOlREdXi2X80FeZQywT2FW9eF+S1VVwRjm9JlAy3GhuqvzqpcBzo/FL+q8TagIn+WauYWdqWm4uxTIiTLQHvZA6upcnd588BIxHFpzBVUPvjXvczjGrhW4MypLj9ntNfBCW6icS/e7jiQ8lV7grfQ2q8ffkrzQyuxP0/tL0rRvdAj+1KpXW24WGykf0xlhKlGZLzsuYXU/c6z5tUjP6PU0nSark4NKY=;pP4FH7i+sdHVUuGRhOn2lw=="
 ---
 

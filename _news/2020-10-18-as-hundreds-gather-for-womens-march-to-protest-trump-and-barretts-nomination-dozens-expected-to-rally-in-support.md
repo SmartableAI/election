@@ -2140,6 +2140,20 @@ related:
         width: 685
         height: 385
         isCached: true
+  - title: "Trump Gaffe Demotes France's Macron"
+    excerpt: "President Donald Trump likes to make fun of his rival Joe Biden's verbal lapses but on Saturday he made his own goof as he took a pot shot at French President Emmanuel Macron and effectively demoted him."
+    publishedDateTime: 2020-10-18T02:10:00Z
+    webUrl: "https://www.ibtimes.com/trump-gaffe-demotes-frances-macron-3063852"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/08/26/earlier-this-month-trump-lambasted-macron-for-sending-0505dc18ddf9d4508ea07b7dab0a2d52035a0ad0.jpg"
+        width: 1024
+        height: 680
+        isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
     publishedDateTime: 2020-10-09T11:03:00Z
@@ -2249,6 +2263,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Szh9Ij8pAMsWKqjDeX7roY3pQDQuDG3+VFmcGNUupcfGpV7EXCX2bHtYp2YkmlexiPMM0Pv5RY9TNwGGuJ6w8M5+ZuErViE7nCElsrjVYNRN6X6CsL7qv+ytJmxE9w4K9dLZaruUY07pOLqfC2vj6bELgqORDnyWwBDZcd9DtewIW85VqdHDa4R0nnLV5RqMQVILKaDkjFq1Nyr+iMNECTJN2/YlNqfdq511eMy36TbQOIN6J7a8GgU3TkJ95q3DojBJP1/CqMqYXHLnlzWNeE/TSv99KQLKTQc2Kr+Uai5hPnkUXHWvYStlYYG2YLYy+Lxj7Vu7NOSX/FEtAYWXkKlG7JPFIyzoTv57flYTGS0=;lz0mSNPs6zpW9msHGQRBEw=="
+secured: "kdTokNiZjB3s0BvbB8I3Ivv7HemazMfDAGSvIteNyUkTHxvxD7Udm9LF6UDC16tlP6P2EkKAuy8gNqt/aYK1qiKMYAMi02gsdmnUESHbAo89jk9mKAMrZ2+IvNS9+lF2qtWR7B1bIT8dRrT1t+IuP+FstW3Pir1FKjApdtFlYUyCyedbj2RdF5LIUs0SHjk3R4/Ne8iozcnvcAXtgn201YLngRPJam0i0HN7EwsCG2ejMuDvIkc2tqiH4nx2ZSYXOvF+vF5pICBZGwBpKWxHwbuOxnIaSWKytrxl9Oo3EhVqjTRUzwcCY1BeGmXvXRosDrSGUYmYfc/1Ey5QnA8MzbeFg1a38XzXnhJ1UvI41MgI8lr8rkon3DdIHzc0j1IBmU1woDNYdiaz4EsdRscNJ29AN8Pca4lcCVkkA5SDYKJ/swgbqJrbRvEe1ceggiesRt06pxguIPlj6YxMwPZ9Isuc0jr3ojLygSCK2xerJ24mqQ43rG9V1mJRS3QV9HjzpNlwv05upkWDKHenOT+QXA==;LaVke5D/tU3eXYChkmDzcg=="
 ---
 

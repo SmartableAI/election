@@ -92,18 +92,18 @@ related:
         height: 720
         isCached: true
   - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
-    excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
-    publishedDateTime: 2020-10-17T20:30:00Z
-    webUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
-    ampWebUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
-    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
+    excerpt: "Vice President Mike Pence said he understands the importance of the Keystone State. \"The road to victory runs right through Pennsylvania,\" he said to a cheering crowd on Saturday afternoon. \"Here in Pennsylvania, you believed we could be stronger ..."
+    publishedDateTime: 2020-10-18T03:34:00Z
+    webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+    ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+    cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
     type: article
     provider:
-      name: Reading Eagle
-      domain: readingeagle.com
+      name: Daily Local News
+      domain: dailylocal.com
     quality: 72
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/63/763bd77c-10b6-11eb-af0d-8bac2b708d58/5f8b527dd74a7.image.jpg?resize=1024%2C735"
+      - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
         width: 1024
         height: 735
         isCached: true
