@@ -79,6 +79,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Whitmer to Trump: Talk about the pandemic, not me"
+    excerpt: "Every moment that we are not focused on the fact that there are 220,000 Americans who died from this virus is good for him,” she said."
+    publishedDateTime: 2020-10-18T15:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/18/whitmer-trump-rhetoric-coronavirus-430062"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/1e/90/373e77a340a0b53efa330620dc46/20201018-gretchenwhitmer-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Dr. Fauci contradicts Trump's false claim that Covid-19 is as deadly as flu"
     excerpt: "\"It is not correct to say it's the same as flu,\" the government's top infectious disease experts told NBC News' Kate Snow."
     publishedDateTime: 2020-10-06T23:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1"
 type: article
 quality: 130
-heat: 350
+heat: 370
 published: true
 
 provider:
@@ -202,6 +202,22 @@ related:
     quality: 59
     images:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/tucker.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump Spox Hogan Gidley Defends His QAnon Answer, Slams Savannah Guthrie for ‘Asking About a Crazy Conspiracy Theory’"
+    excerpt: "Trump campaign national press secretary Hogan Gidley defended President Donald Trump's answer at last week's town hall on QAnon while slamming Savannah Guthrie for bringing it up in the firs"
+    publishedDateTime: 2020-10-18T17:06:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-spox-hogan-gidley-defends-his-qanon-answer-slams-savannah-guthrie-for-asking-about-a-crazy-conspiracy-theory/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-spox-hogan-gidley-defends-his-qanon-answer-slams-savannah-guthrie-for-asking-about-a-crazy-conspiracy-theory/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-spox-hogan-gidley-defends-his-qanon-answer-slams-savannah-guthrie-for-asking-about-a-crazy-conspiracy-theory/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/hogan-gidley.jpg"
         width: 1200
         height: 630
         isCached: true

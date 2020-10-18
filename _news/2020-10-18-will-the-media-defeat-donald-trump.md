@@ -3,8 +3,8 @@ category: news
 title: "Will the Media Defeat Donald Trump?"
 excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
 publishedDateTime: 2020-10-18T12:08:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
-webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
 type: article
@@ -107,6 +107,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden 'most compromised person in the history of American politics': Donald Trump Jr."
+    excerpt: "The president should \"break up the highest levels of the FBI\" in response to the Hunter Biden scandal, Donald Trump Jr. said."
+    publishedDateTime: 2020-10-18T17:28:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZijtADogIt4/hunter-biden-donald-trump-jr-maria-bartiromo"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-donald-trump-jr-maria-bartiromo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-donald-trump-jr-maria-bartiromo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72c49800-0150-478a-baa9-fbb31036e42c/8fe72c42-444b-414c-9292-b9f725ac246a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
     excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
@@ -604,6 +620,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
+    excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
+    publishedDateTime: 2020-10-18T15:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/51/519907.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
     publishedDateTime: 2020-10-14T23:30:00Z
@@ -653,6 +683,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "6WF4JtoNrrdNWlKJulqC36qmLJvrTW5oW0rRYvxDPaTTu8dVUHmeiywnHbFOhSFN8Ds6thpeIYUdi+lbonq7E27uKvUGtl6f8jp1LsU8yWCaaZCNf+wSVmrk6H/MRO9NYVuNZCpCV8lSTQLtRviQxbKwQGOMaOnSD14qRy0fRproXQKdHX/vdTMyMxhOO2olZ6EORHERoD6Uxdfmo9BTBbXiDHMkjU3+GMUCubvv3Dj3+c0KCRCXfuTnPTDG2e+9d1MGysWw4UaqCVb0BwCWzeoGCTEFRoKubW0rtMCVg5CLqXyeUpf0EucsKtQv9YIJH0yC6WqBJXF1Eylt2UNKFY25wstI+Fjomp4ou9ON2i8mJAq7BcOU7wtjToC8l4qJkLVmJdS6lsqsUW08WF1EAVP3b3zrRViBEWgyi718XtfKB2X2ey/QmKjKjnNRCiEa16TrYnjJjOYZ/ar7+Eop+BU/6Hw7Icy3ZDzI6n1R3UFBgCgjLXEkwukiCU4uAycsBfRblAMw5qIuh4+QbyS1Vg==;HDP+4vN8t1lb7RbGowGXyA=="
+secured: "P5v/ddqtg3ZaoUAnoMZ+Lz1efcRgC9D9jLsbMAcLeih53VqPMSrJqiatlKpcPQbdKLQ2Kt4eNj0WhJ/cDn37iaXt7UB1kL140DTdYC6PbIUEh9NYzofN6+045JsRcMO1SOv2KEO9sWBEjtc2pRtn3M3xmsFPo698WK4NvJnFt+abvsGTGGw1jnV6arauajSCVtP3HGs4VTTHr4I5y3H3hs/qLnu+DUKVLgPpYDx+BBWGI9ZUsTYdD0o2VBHoqOsLIw8z52ZiMNSRAxBEtLBKmN6zxMHHr6NoJblP9nEzFWstz3vNo7EA1upaMVhINPcdyFfjX5GtX5x+Zdj+JACa4sKtMYfsYba6vJPReIu7Qdc=;F/hyIdGhQcq85pVcg8dVsA=="
 ---
 

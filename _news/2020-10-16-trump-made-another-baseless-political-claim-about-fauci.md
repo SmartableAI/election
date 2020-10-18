@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign blitzes pricey football games with series of new ads"
+    excerpt: "Joe Biden's presidential campaign will air a series of ads during a slate of National Football League games over the next week, looking to use their sizable campaign war chest to air spots on some of the most popular real estate in television.\n    \n"
+    publishedDateTime: 2020-10-18T17:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lGYjBduSflU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Romney cites Trump's rhetoric as he denounces 'vile' state of American politics"
     excerpt: "Republican Sen. Mitt Romney of Utah on Tuesday issued a strong rebuke of the current tone of American politics saying they have become \"a vile, vituperative, hate-filled morass\" and roundly criticizing President Donald Trump for several of his recent comments which included insulting Democratic vice"
     publishedDateTime: 2020-10-13T17:17:09Z

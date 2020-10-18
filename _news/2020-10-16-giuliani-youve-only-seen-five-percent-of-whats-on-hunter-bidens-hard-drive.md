@@ -398,6 +398,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Poll Reveals How Damaging Revelations Are Impacting Biden's Favorability with Voters"
+    excerpt: "Polls continue to show Joe Biden with a sizeable lead over incumbent President Donald Trump, but a new poll shows that lead may be narrowing as revelations about Joe Biden's"
+    publishedDateTime: 2020-10-18T01:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/17/new-poll-shows-bidens-lead-over-trump-dwindling-following-email-revelations-n2578304"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/17/new-poll-shows-bidens-lead-over-trump-dwindling-following-email-revelations-n2578304?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/17/new-poll-shows-bidens-lead-over-trump-dwindling-following-email-revelations-n2578304?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 76
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png"
+        width: 650
+        height: 340
+        isCached: true
   - title: "House Judiciary Republicans say Twitter blocked them from sharing Hunter Biden story from their website"
     excerpt: "Twitter blocked attempts to share a copy of the New York Post's story regarding Hunter Biden's contentious business affairs that was posted to the official website of House Judiciary Republicans."
     publishedDateTime: 2020-10-15T16:05:00Z

@@ -4159,6 +4159,22 @@ related:
         width: 2458
         height: 1300
         isCached: true
+  - title: "Trump, Biden go on offense in states they're trying to flip"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden went on offense Sunday, with each campaigning in states they are trying to flip during the Nov. 3 election that is just over two weeks away. Trump began his day in Nevada,"
+    publishedDateTime: 2020-10-18T17:46:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-are-campaigning-across-country-from-15656548.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-are-campaigning-across-country-from-15656548.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-are-campaigning-across-country-from-15656548.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T11:51:00Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Whitmer says Trump continues to encourage 'domestic terrorism' with rhetoric"
+    excerpt: "Trump encouraged his supporters at a rally in the state who were chanting “lock her up” as an attack on Whitmer, the Democrat governor responded with a plea to l"
+    publishedDateTime: 2020-10-18T16:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/meet-the-press/whitmer-says-trump-continues-encourage-domestic-terrorism-rhetoric-n1243842"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243842"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243842"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3421061/201018-gretchen-whitmer-mtp-jm-0952_6d5144e7ffd5a55696eb82612520c537.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
 
 secured: "CvFEj0Zvo6tZFNf3VS3+eZYpACcRZtpQjrGIgt06FrmyalNF7a3HvN7LauUI+ZEH+bqGWAu7E+x2E5NPLqMWe5r3jLjQ+KzER3Qrw23qBcXju/nBtzYPDRCEUiJpqRYeCgVo645phKd31kt5w1bPt4NrPEUiNAAjdeN0i5FGZZIvghaJNcwdO0KV4OF/T1j9nrwHqCm8wqQ/DkgNZ/lT0nygTD1+Or7Z6gRyTzJulSFHS2I9OCddaqFnO3z+SYOgzmG70cXDXNR/H97VS3ee3D7WfSARiqI6PzVWAZFIxeM0/MS8f9b2wHkphOeX58KClOZZbBtSL4gIkj851c3xtUeAPoyKNySRsn1QSGKbT4w=;Tu69Ee0gqTQUvO9CgXPmCA=="
 ---

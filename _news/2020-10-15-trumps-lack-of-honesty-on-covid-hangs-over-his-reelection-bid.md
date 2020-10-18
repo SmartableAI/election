@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1430
+heat: 1450
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016141917-20201016-trump-legal-reckoning-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump tries to recreate 2016 atmosphere in final push to Election Day"
+    excerpt: "He's gathered the same people. He's attempting a similar schedule. He even believes he's found an equivalent 11th-hour scandal -- and equivalent Russian disinformation questions have followed.\n    \n"
+    publishedDateTime: 2020-10-18T15:59:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KZdE4t2ozSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/donald-trump-election-2020-nostalgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/donald-trump-election-2020-nostalgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017153332-donald-trump-1017-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

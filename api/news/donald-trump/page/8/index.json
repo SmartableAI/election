@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-20-trump-backs-proposed-deal-to-keep-tiktok-operating-in-us.md",
+      "title": "Trump backs proposed deal to keep TikTok operating in US",
+      "excerpt": "President Donald Trump says he’s given his “blessing” to a proposed deal that would see the popular video-sharing app TikTok partner with Oracle and Walmart and form a U.S. company",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 725,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Business/WireAP_4dc911637176420589fa2c420c7839b1_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-backs-proposed-tiktok-deal-oracle-walmart-73121505",
+      "publishedDateTime": "2020-09-19T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-20-trump-supporters-disrupt-early-voting-in-virginia.md",
       "title": "Trump Supporters Disrupt Early Voting in Virginia",
       "excerpt": "A group waving Trump flags and chanting “four more years” created a commotion at a polling location in Fairfax, Va. A county official said some voters and staff members felt intimidated.",
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-michael-cohen-trumps-former-attorney-calls-him-absolutely-morally-bankrupt.md",
-      "title": "Michael Cohen, Trump's former attorney, calls him 'absolutely morally bankrupt'",
-      "excerpt": "Trump's former personal attorney, Michael Cohen, said his new book will give Americans a look at the \"real\" Donald Trump. “I am explaining to people that this is the real Donald Trump,” Cohen, speaking from home confinement,",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "originalUrl": "https://abcnews.go.com/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/theview/michael-cohen-ap-jt-200914_1600102519796_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/theview/michael-cohen-trumps-attorney-calls-absolutely-morally-bankrupt/story?id=73002616",
-      "publishedDateTime": "2020-09-14T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump lost the ratings battle: What that really means"
+    excerpt: "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included."
+    publishedDateTime: 2020-10-18T17:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means"
+    ampWebUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "On Columbus Day in 1963, Trump marched up Fifth Avenue in New York City’s parade"
     excerpt: "When Trump was a 17-year-old senior at New York Military Academy, there was no talk of Indigenous People’s Day, no beheading of statues and no pandemic canceling parades."
     publishedDateTime: 2020-10-12T11:13:00Z

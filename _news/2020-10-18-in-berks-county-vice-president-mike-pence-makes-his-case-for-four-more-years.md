@@ -3,25 +3,25 @@ category: news
 title: "In Berks County, Vice President Mike Pence makes his case for four more years"
 excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
 publishedDateTime: 2020-10-17T20:30:00Z
-originalUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
-webUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.html"
-ampWebUrl: "https://www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
-cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/elections/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_0b8ff1b8-10ae-11eb-82d7-5b288c979e35.amp.html"
+originalUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+webUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.html"
+ampWebUrl: "https://www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
+cdnAmpWebUrl: "https://www-dailylocal-com.cdn.ampproject.org/c/s/www.dailylocal.com/news/in-berks-county-vice-president-mike-pence-makes-his-case-for-four-more-years/article_d21cc0ee-f6c3-520b-b371-299523937bcb.amp.html"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Reading Eagle
-  domain: readingeagle.com
+  name: Daily Local News
+  domain: dailylocal.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/7/63/763bd77c-10b6-11eb-af0d-8bac2b708d58/5f8b527dd74a7.image.jpg?resize=1024%2C735"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
     width: 1024
     height: 735
     isCached: true
@@ -173,6 +173,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "+imM9dVC7q0MnI6I5kN1O3fdAMcWgGIJ5W4y0k6L1+YzlxP7FDO6/bey/og0fswSk4MefsY/twW9Ta7BZI0w4kIgDTUp5Z8s2C6liiN0Whll/BOm30ESLzKQi1dg3VzoZL4SrXevhF5mqHVNKyMYLh25yC9Jwi0fkQ9EtJVZKhgjVfJ5iW2pCu/HC+8OJdr42AkLre82zH1/nPd5NXfdR+3VMndz3bWemjT8pZGM9IbxQ9Mtj84+c6+bwUwye6z0o3nVsyCAlf8+FIAluvPP2Y/uN423mgRF7bit58eu8t0F/lN8MmgzRDzPHHXhtuEdt1fBpuqFxxBuNrrkQP985rY1nePGugCOX0zAO7KxMdg5NwvI/wA104OSV1JiVXVqbDEdh16pwtHnM1MecPyrIib9BBNuILmHddGCg8FHd0WllBh/VSzrMfuOtgWsp43GFm5NHmPAbCiBrjSyoSdq49bVsl80F+F+84gHy+yfCO1mFPeSxkQ45v7mIaI+Tviz1WBdjOPW8HOb6eA8j4Aj0g==;YBPvMwAnw1//sB/3Fgw5cA=="
+secured: "Q9Nigr1hxexp8dm49LqKoKNw2xrgccT6+3StEmYi20W6r/cYSWCuJZQEf851I54pph8iyHQtZNzoxDteMMm48Y8EbdnoKPSy8wJzeV7uTdQMKtM97K6TI0Ny1QkUu4AT0ObDq7foe4i2l1DsFjgPZVjxJFN1gr71v5uOuIOFQJLKoN+2xt5CLUd45hAODw7xrsHOiprgz9bDpFh5rv4Vzj9GinnDPHrXFK0SyZp4P+bW268m845GKzjOurEiJN5CR08CipVWsnSmDk+vQoKCNyi7p5d0MIg9k/5M+huccni41zgS8B39pDFlIKUT1yGEo3j4H13vZ3bMi2rpF66uL8MooB4u2OKF5Zseix63mVA=;6vv9C1VlzhrNNPdBzKYxNg=="
 ---
 

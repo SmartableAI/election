@@ -480,6 +480,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "Jake Tapper Calls Out Lara Trump for Publicly Mocking Joe Biden’s Stutter"
+    excerpt: "The anchor also tore into the presidential daughter-in-law over “lock her up” chants at a Trump rally about Gov. Gretchen Whitmer, who was the target of a kidnapping plot."
+    publishedDateTime: 2020-10-18T16:21:00Z
+    webUrl: "https://www.thedailybeast.com/jake-tapper-calls-out-lara-trump-for-publicly-mocking-joe-bidens-stutter"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
   - title: "Grit Your Teeth, Vote for Joe Biden and Then, Fingers Crossed, Push Him Hard to Do Better"
     excerpt: "There is no sane alternative, but his outlook is the same old centrist proactive-fear-of-prompting-a-backlash-with-too-much-progressivism that got us here in the first place."
     publishedDateTime: 2020-10-16T07:10:00Z

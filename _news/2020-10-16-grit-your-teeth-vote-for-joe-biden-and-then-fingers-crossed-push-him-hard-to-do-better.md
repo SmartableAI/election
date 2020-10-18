@@ -489,6 +489,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "Jake Tapper Calls Out Lara Trump for Publicly Mocking Joe Biden’s Stutter"
+    excerpt: "The anchor also tore into the presidential daughter-in-law over “lock her up” chants at a Trump rally about Gov. Gretchen Whitmer, who was the target of a kidnapping plot."
+    publishedDateTime: 2020-10-18T16:21:00Z
+    webUrl: "https://www.thedailybeast.com/jake-tapper-calls-out-lara-trump-for-publicly-mocking-joe-bidens-stutter"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
 
 secured: "ZHgqXQBhOh60f7+8dZyUdvy97ktcBpFTrROs7MMbcrG0oXHFonbeuluMGaoFRoBs+T7v+WtyuACOgxqSNK0/e79qL8eCKXNxo/zhvr2mnm3z4pvM34SXBVcHQFKE2T8lrHgcNmHB+Q+FVENGVcXEEaI+AftvEFzxDeJqluXgNkR3KZQ/sYicIVY00ZfRMeYQHAyLuH8QASqVYbl1Ba9TgarJvDxhVZA2EpOoIn6mbFfy/1ShtpXI/jcgoTFSm0SFNYUqfaPGwjghhMXKGfwoP7SYK0OkWwHjBvfxo+rIATfIW4y8D7wyNBTfKK9V8XpBB7UhuPtS1nuBB6dZQNNdKroBGUpmVxNuMVzwyuixiG3/GjEI5hqk9k0ExVGHXpLBaLtkjXaBMLgjvAwvwZ0sk5Wynhq7IMqjTMtSC8051TD9ip6NRAnFN+ejdenitUAvY5tcz93diBhUlspHeHtxicohtjvjghaKT3HvbDQjca7/OrxfK4+2lEztlZGVTjox1cnDnxeo8UInbkhiVf18Pw==;/y4WjQ3dhHap12qpKVQa6g=="
 ---

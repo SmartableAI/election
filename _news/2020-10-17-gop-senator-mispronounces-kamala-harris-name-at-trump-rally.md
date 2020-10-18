@@ -4148,6 +4148,22 @@ related:
         width: 2458
         height: 1300
         isCached: true
+  - title: "Trump, Biden go on offense in states they're trying to flip"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden went on offense Sunday, with each campaigning in states they are trying to flip during the Nov. 3 election that is just over two weeks away. Trump began his day in Nevada,"
+    publishedDateTime: 2020-10-18T17:46:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-are-campaigning-across-country-from-15656548.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-are-campaigning-across-country-from-15656548.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-are-campaigning-across-country-from-15656548.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T11:51:00Z
@@ -6584,6 +6600,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "r1DilKXVEoLKkPAraJKf0uIPDVLwN1oBdKoKqa9T3KG9Gs0KIgT+NB26mdMpDJvhMkuSDoY9QYGdFGrCRjBud/G0ViDGRUecXwo4IWGv4/SshwDXRQ673uDc1zONpH+y+Sm9RUlWLk7oBjOhHa9t7GkJLmP1LjqcBIADeIqHgmbi7ON71tr3a4e85MkpArHW8UPbhk4VXi0PoTh+ggYdUHApKjURrhNNz/hbXnP2PumCwJhhl+dIHrCvYoellvOqpUTLUuAou56BMXh5CNfn3jgraQ3HIpeGe5QDyIKRySnOdHmDhWvfuWje1kctL4KKV9t6a9HVsK2bYngfFa+pcwIFhRfJGtlibFVU5ukOPSc=;vM0rdYOg5YXyvPN4pFh5sA=="
+secured: "hT3kqk3F9XNQ4NK5Mgv+yV8dJSReW7v4BDGVAhdJAoogTrO/neJND6TNrXAz3cuv3lDuFfbwbiUqzAUL/tIuWCCj3FdInoJHFCsc2m2XZ5AMcmyypxQy/Ny4E54r+QYUxWH10A5VDfyoPNdpusjFMwb587GWTysPD6hBSVSAhlvxTcAiH+FhzBf+QsuXq4sdUKT53/j4JLH/qqBo29e45+VzN+eb3s5x0Oxf9sqc5N8hSURwlGZO9o45fOUAQLNMj6C9QdFQfne0fRyExsrUtdu7NmfTbF11yYawOAHq+t/O2hIJj6Ka+6ILYdp0H1i5LEik5gDHmgZsjYx5Ciwk3qYI2QX2A9lrs/jVhO7qZHzXEyqANrpu25M8gCuhphbNpQqfw4NEOHly91SsrTR60LC2jZPjlnQ7m8fHs9AuVLKXbp0260rVWduf0tXA5v5q0pTq6Q4gB7cg+9r4Hh13OU+UZuQ/toTRn3hhctxqWcN3MSnMgMVdCGQqoW8kFoTR+ElmWLau8ZiQUBke/4/pVw==;swImyLGCv5syXiwbDVxccg=="
 ---
 

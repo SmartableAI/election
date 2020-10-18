@@ -2,6 +2,59 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
+      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
+      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-08T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-09-karen-pences-office-defends-her-appearing-without-a-mask-at-debate.md",
       "title": "Karen Pence's office defends her appearing without a mask at debate",
       "excerpt": "Second lady Karen Pence’s office defended her appearance on the debate stage Wednesday night without wearing a mask.",
@@ -1311,63 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-the-relief-deal-blowup-what-are-pelosi-and-trump-thinking.md",
-      "title": "The Relief Deal Blowup: What are Pelosi and Trump Thinking?",
-      "excerpt": "It’s not just the president’s wild back-and-forth on Twitter. Both sides are looking irrational on a deal that the economy is going to need soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/c9/e8e560a740a4b2b2ff92c74bec33/gettyimages-1277802613-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "publishedDateTime": "2020-10-07T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

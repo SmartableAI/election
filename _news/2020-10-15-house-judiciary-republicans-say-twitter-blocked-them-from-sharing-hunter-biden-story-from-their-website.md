@@ -408,6 +408,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "New Poll Reveals How Damaging Revelations Are Impacting Biden's Favorability with Voters"
+    excerpt: "Polls continue to show Joe Biden with a sizeable lead over incumbent President Donald Trump, but a new poll shows that lead may be narrowing as revelations about Joe Biden's"
+    publishedDateTime: 2020-10-18T01:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/17/new-poll-shows-bidens-lead-over-trump-dwindling-following-email-revelations-n2578304"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/17/new-poll-shows-bidens-lead-over-trump-dwindling-following-email-revelations-n2578304?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/17/new-poll-shows-bidens-lead-over-trump-dwindling-following-email-revelations-n2578304?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 76
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png"
+        width: 650
+        height: 340
+        isCached: true
 
 secured: "dQ/N4ftjBr6F2HOpflspSX43lo/+PthDysYRTDWUDBk6Dj4ZepHRRdTQ5f24TSWYIBWbzu0957rBxNWSVmPidgbGqpAG8A9CLea7IPqLJomP/GqcPwuO0ZV1WFEfFOUlgdTovmGrOMng7tLsekz+cjIJxR5JInjIbURkyUFHps2O+sdVuh+FnlHmNfRnUM3gHHrDq94VkHSPxn8J1gQgsXc9UYDGBbziZtkypX6wcZforapJPLsNuxp1vmQygOEFAXHXsgO11BRxJk5RFapqEYhBtJ5X2ulmJDoJ9j0m9nvfj8Dd6GTC9pE0DhCW9VaT3tpjPelolnMPl67dBlExfeLlyw9vJYF7O5E1zjbKcpaYsLWNEXM0Bzm2uo6Y7/V39QWOQgr/foB2epU2eZdHEMPSF8k/y2nPKaeTa/rI34/bRYVeCcCLvfnJEHTii8pPi9193AAQ8QUHO0T7DNYSkArLLwzFt89vdPoe1ATlCO08LTBL02OAl+Kb2s6a59Cg50DwtAWWRjC5VZ78HmyKvQ==;f3N+M/xv7Uo4vXSKF14YZg=="
 ---

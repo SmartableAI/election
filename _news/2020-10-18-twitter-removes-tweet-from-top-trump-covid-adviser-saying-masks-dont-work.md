@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump tries to recreate 2016 atmosphere in final push to Election Day"
+    excerpt: "He's gathered the same people. He's attempting a similar schedule. He even believes he's found an equivalent 11th-hour scandal -- and equivalent Russian disinformation questions have followed.\n    \n"
+    publishedDateTime: 2020-10-18T15:59:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KZdE4t2ozSk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/donald-trump-election-2020-nostalgia/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/donald-trump-election-2020-nostalgia/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017153332-donald-trump-1017-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Barrett declines to commit to recusing herself from a Trump election case"
     excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
     publishedDateTime: 2020-10-13T16:14:50Z
@@ -980,6 +996,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "x8D3zrL8wlzehWjW2Bg+2Cx+c9xQmDjc3K5RJBRl2667iI2w6zmReIf++dAosmg22WnZRD0/jPMJrwDyKYhoWNqjpNUect5AcHynWcbffbIdoJQaxqLrTxj7Mp6/JIpPqzRPWM5c2PTP3AuzESDLrTbjuUtZLswg27kIYylEnQ4wDsujXgrcvZtAjfx/sF9+xnyqvP6eyd884FDxXA08kd6MlfN7/04cEfwzF0OPBrpOy/Wu4LX+YIoKcY/CBfu2bO7oRWKBesDw+FYFAAKhY7STeytjgZWR5wL1Twxir/lUnAnWTDVMg+YRowrrgePG0PYRhI2WhxCkfc/zHkVfEEIQKyPGM+tjRVd7FrQ9RVw=;Wl44wVYk7sf4W8JKaDeqlg=="
+secured: "KZJc2IKyTCGzGeAeYsxUgJAKZGv/BKiH1wh7pthYrzSRj+tym3a/0VQ2gle2WY+J+6jxpbkYyrz8LtPB5VWdxNRmFZo18zp0198YmKQde82bf+/jsLQTMuG6eWapXw3cYw29EL6BD3gyp9QjRYNYXdpW9MHLevWDSGDXH+PpzbolYVx7+16bUl02qwRJFzKmxfRUoxvVEhrQqtm/HYYIYtK/wssuAuuAoGUkuSqb8D3/lSzveOeB5k8+V6DjMSSVKhycvZka02R34NPnueJi63enySuZNuXQbZ4Q+l1T2fAgXUntaT6n8wruIo1tEO72s+VFjDbt4RMJMKthf89PXM5qDDo4NHwU5wbua0aulae+xwzTCN+VMTkKy10mmGtcIDwwcBBxKewima5ULKyQ3wt2t5tmKivs5lklc1F0r41uo9WRMDZGQrWIwu9Vbj4+o+/RnXUTtUiiANAfhurUXY5hSmfBYraZiNBo2tivQ/2z30NqEeV/PND4eZ2yn0u26btMv16Pit2R0LbsCKB6Mw==;EomSUycuQMar9Jm+Htk94g=="
 ---
 

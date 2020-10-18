@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 504
+heat: 524
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign blitzes pricey football games with series of new ads"
+    excerpt: "Joe Biden's presidential campaign will air a series of ads during a slate of National Football League games over the next week, looking to use their sizable campaign war chest to air spots on some of the most popular real estate in television.\n    \n"
+    publishedDateTime: 2020-10-18T17:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lGYjBduSflU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

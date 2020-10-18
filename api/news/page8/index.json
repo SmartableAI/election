@@ -2,6 +2,63 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-10-pence-says-dogma-lives-loudly-in-him-condemns-dem-attacks-on-barretts-faith.md",
+      "title": "Pence says 'dogma' lives loudly in him, condemns Dem attacks on Barrett's faith",
+      "excerpt": "Vice President Mike Pence focused heavily on religious freedom during a Saturday rally in The Villages, the nation’s largest retirement community, located in one of the most traditionally conservative sectors of the country.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m5DIeuPdxDU/pence-dogma-supreme-court-the-villages",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282814405498.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-10T16:22:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-in-interview-with-rush-limbaugh-donald-trump-calls-lebron-james-a-hater-and-nasty-spokesman.md",
       "title": "In interview with Rush Limbaugh, Donald Trump calls LeBron James a 'hater' and 'nasty spokesman'",
       "excerpt": "During an interview on Rush Limbaugh's radio show Friday, Donald Trump brought up LeBron James, calling him a \"hater\" and a \"nasty spokesman.\"",
@@ -1288,59 +1345,6 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-kamala-harris-vs-mike-pence-takeaways-coronavirus-im-speaking-and-californias-cameo.md",
-      "title": "Kamala Harris vs. Mike Pence takeaways: Coronavirus, ‘I’m speaking’ and California’s cameo",
-      "excerpt": "Aside from the historic nature of Sen. Kamala Harris’ appearance the event in Salt Lake City was so civil that the social media star of the evening was a fly that landed on Vice President Mike Pence’s hair and lingered for more than two minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/article/Kamala-Harris-vs-Mike-Pence-takeaways-15629985.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/45/53/20077260/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Mike Pence"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wkyc.com/amp/article/news/local/vice-president-pence-vis
 cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids"
+    excerpt: "GRAND RAPIDS, Mich. — Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R."
+    publishedDateTime: 2020-10-18T17:55:00Z
+    webUrl: "https://www.krem.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    ampWebUrl: "https://www.krem.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    cdnAmpWebUrl: "https://www-krem-com.cdn.ampproject.org/c/s/www.krem.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    type: article
+    provider:
+      name: KREM
+      domain: krem.com
+    quality: 74
+    images:
+      - url: "https://media.krem.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Vice President Pence Remarks at Faith in America Roundtable in Miami"
     excerpt: "President Mike Pence speaks at a roundtable in Miami on religious freedom. The vice president also talks about President Trump’s foreign policy record, including his Middle East policy and moving the U."
     publishedDateTime: 2020-10-15T21:37:00Z

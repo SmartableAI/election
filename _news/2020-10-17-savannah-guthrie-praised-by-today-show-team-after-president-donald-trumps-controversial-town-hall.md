@@ -201,6 +201,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Spox Hogan Gidley Defends His QAnon Answer, Slams Savannah Guthrie for ‘Asking About a Crazy Conspiracy Theory’"
+    excerpt: "Trump campaign national press secretary Hogan Gidley defended President Donald Trump's answer at last week's town hall on QAnon while slamming Savannah Guthrie for bringing it up in the firs"
+    publishedDateTime: 2020-10-18T17:06:00Z
+    webUrl: "https://www.mediaite.com/tv/trump-spox-hogan-gidley-defends-his-qanon-answer-slams-savannah-guthrie-for-asking-about-a-crazy-conspiracy-theory/"
+    ampWebUrl: "https://www.mediaite.com/tv/trump-spox-hogan-gidley-defends-his-qanon-answer-slams-savannah-guthrie-for-asking-about-a-crazy-conspiracy-theory/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/trump-spox-hogan-gidley-defends-his-qanon-answer-slams-savannah-guthrie-for-asking-about-a-crazy-conspiracy-theory/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 52
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/hogan-gidley.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1hMfTNH1ZEWrdb3a6zc0qs36xbM6Zxzd6tIeXyoD8fmUPjuGHJzF3LgVrPESSfAS+OwyXU/xP8RQDf/kgUn40iSfYp4dRVmSGecTobkOpvWE98NVWCQDhqTGCGTQdA3CAOZy0VWfXaOpAXTSzS44H/BInU2a9XcjJIWPiutg2TnEX/rYs1I0S6H+TTkum3h+2aeRd7Y1FGOFbYcz1YVl8C4iJL+w5XIhIaevExauhY14OQ7F9BlacYm7Rrn9IUdE2/GAmnAxXn21ICx3/3WnigL9hH6Oy+cQhMNliNdA6SbVeHjKJ4w1QzyEzuAKPBvZZ6cqeZSQgsld+m6JXhjjMYRNBPXm2EBsJE+1FJNyy4U=;3tcMvq8+XZFpGU8IFqSbrQ=="
 ---

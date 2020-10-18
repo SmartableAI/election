@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-18-john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs.md",
+      "title": "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs",
+      "excerpt": "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs",
+      "originalUrl": "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/5f8c5eaa936b35581b460cbb/master/pass/john-fogerty.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp",
+      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp",
+      "publishedDateTime": "2020-10-18T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanity Fair",
+        "domain": "vanityfair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-whitmer-says-trump-inciting-domestic-terrorism-as-trump-campaign-adviser-dismisses-presidents-incendiary-rhetoric-as-having-fun-at-rallies.md",
       "title": "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies",
       "excerpt": "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n",
@@ -14,7 +57,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 159,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1233,58 +1276,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-a-wall-street-chief-strategist-says-a-biden-blue-wave-could-spur-a-5-drop-in-the-sp-500-because-of-uncertainty-over-some-democrat-policies.md",
-      "title": "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies",
-      "excerpt": "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
-      "originalUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg",
-          "width": 5000,
-          "height": 2499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp",
-      "publishedDateTime": "2020-10-17T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

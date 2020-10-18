@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-13-ayanna-pressley-challenger-in-massachusetts-says-she-was-attacked-at-local-trump-rally-suffered-broken-tibia.md",
+      "title": "Ayanna Pressley challenger in Massachusetts says she was attacked at local Trump rally, suffered broken tibia",
+      "excerpt": "The incident left her with a sprained finger, fractured tibia, and a mild concussion, Campbell told Fox News on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AY6UQJpcBzc/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rayla-campbell-ayanna-pressley-massachusetts-challenger-attack-claim-broken-bone.amp",
+      "publishedDateTime": "2020-10-13T14:02:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-jim-acosta-responds-to-pro-trump-crowd-chanting-cnn-sucks.md",
       "title": "Jim Acosta responds to pro-Trump crowd chanting 'CNN sucks'",
       "excerpt": "CNN's Chief White House Correspondent Jim Acosta responded to a pro-Trump crowd chanting \"CNN sucks\" at a rally for President Trump in Florida.",
@@ -383,7 +439,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 8800,
+      "heat": 8820,
       "tags": null,
       "images": [
         {
@@ -483,7 +539,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1238,63 +1294,6 @@
         "Election",
         "Democratic Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week.md",
-      "title": "The Guilty History Behind Joe Biden and the Democrats Regarding Their SCOTUS Complaints This Week",
-      "excerpt": "As the confirmation hearing for Amy Coney Barrett’s appointment commences we are girding ourselves to be inundated with plenty of mewling and complaining from Democrats and the press. There will",
-      "sourceUrl": null,
-      "webUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
-      "originalUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.townhall.com/townhall/reu/ha/2020/245/ee76f4b7-5f9a-4d13-81fa-202bb9546206.jpg",
-          "width": 650,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
-      "cdnAmpWebUrl": "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/bradslager/2020/10/12/the-guilty-history-behind-joe-biden-and-the-democrats-regarding-their-scotus-complaints-this-week-n2577900?amp=true",
-      "publishedDateTime": "2020-10-12T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Townhall",
-        "domain": "townhall.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

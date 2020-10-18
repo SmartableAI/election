@@ -106,6 +106,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden 'most compromised person in the history of American politics': Donald Trump Jr."
+    excerpt: "The president should \"break up the highest levels of the FBI\" in response to the Hunter Biden scandal, Donald Trump Jr. said."
+    publishedDateTime: 2020-10-18T17:28:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZijtADogIt4/hunter-biden-donald-trump-jr-maria-bartiromo"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-donald-trump-jr-maria-bartiromo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-donald-trump-jr-maria-bartiromo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72c49800-0150-478a-baa9-fbb31036e42c/8fe72c42-444b-414c-9292-b9f725ac246a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
     excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
     publishedDateTime: 2020-10-16T11:56:23Z
@@ -605,7 +621,7 @@ related:
   - title: "Will the Media Defeat Donald Trump?"
     excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
     publishedDateTime: 2020-10-18T12:08:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
     type: article
@@ -617,6 +633,20 @@ related:
       - url: "https://assets.realclear.com/images/52/524419_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
+    excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
+    publishedDateTime: 2020-10-18T15:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 74
+    images:
+      - url: "https://assets.realclear.com/images/51/519907.jpg"
+        width: 750
+        height: 562
         isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
