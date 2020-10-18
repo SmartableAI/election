@@ -284,6 +284,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump adviser says POTUS will give Biden 'more room' to answer foreign policy questions in next debate"
+    excerpt: "Trump campaign senior adviser Jason Miller told \"Fox News Sunday\" that this week's debate between President Trump and Democratic challenger Joe Biden will see a different approach than what the president displayed in their first debate."
+    publishedDateTime: 2020-10-18T14:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vzFX7mLDxJc/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d770dd1-5c4f-4ebf-b8bd-3bddaa596937/432ccfe2-5906-4648-a20c-2da01a22a711/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
     excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
     publishedDateTime: 2020-10-16T02:40:17Z
@@ -637,6 +653,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "48NkzZk4gL3/jmXgtzDild3FIukmZwJn2fqkGT6+3wpNn0skg9J0ocf26l0535GX6AfclFRJ8b41pg3wAkrbO5fzdjysCY4EGevvl23H4GKKXFcpaLtFmUtV7V1gavXdHFG/Nk1ohjTFayRkiZ75bFe3vGBYkTnPXuswKMJucQkC7S1jo62P9HJTyFKOxtWgtJxoPUSYtiDHPOB/2pySwx8tSPhvF1pm5eEt3quvlWdJrmY8BDHz87oKDTWcBj7AU2aCHIxnKhTq7Ka+0exMKWgEsuLgJ9NKYweDJXqv46oLIsaf7QY86Wx54wv61xLmW7HhGpVJlYEyyYA/a8REuFvJmp2gmh+7BbYkxgFLzZ0=;Zqe7vwFJV6Gp2ua0Rh6xjQ=="
+secured: "6WF4JtoNrrdNWlKJulqC36qmLJvrTW5oW0rRYvxDPaTTu8dVUHmeiywnHbFOhSFN8Ds6thpeIYUdi+lbonq7E27uKvUGtl6f8jp1LsU8yWCaaZCNf+wSVmrk6H/MRO9NYVuNZCpCV8lSTQLtRviQxbKwQGOMaOnSD14qRy0fRproXQKdHX/vdTMyMxhOO2olZ6EORHERoD6Uxdfmo9BTBbXiDHMkjU3+GMUCubvv3Dj3+c0KCRCXfuTnPTDG2e+9d1MGysWw4UaqCVb0BwCWzeoGCTEFRoKubW0rtMCVg5CLqXyeUpf0EucsKtQv9YIJH0yC6WqBJXF1Eylt2UNKFY25wstI+Fjomp4ou9ON2i8mJAq7BcOU7wtjToC8l4qJkLVmJdS6lsqsUW08WF1EAVP3b3zrRViBEWgyi718XtfKB2X2ey/QmKjKjnNRCiEa16TrYnjJjOYZ/ar7+Eop+BU/6Hw7Icy3ZDzI6n1R3UFBgCgjLXEkwukiCU4uAycsBfRblAMw5qIuh4+QbyS1Vg==;HDP+4vN8t1lb7RbGowGXyA=="
 ---
 

@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump adviser says POTUS will give Biden 'more room' to answer foreign policy questions in next debate"
+    excerpt: "Trump campaign senior adviser Jason Miller told \"Fox News Sunday\" that this week's debate between President Trump and Democratic challenger Joe Biden will see a different approach than what the president displayed in their first debate."
+    publishedDateTime: 2020-10-18T14:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vzFX7mLDxJc/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d770dd1-5c4f-4ebf-b8bd-3bddaa596937/432ccfe2-5906-4648-a20c-2da01a22a711/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
     excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
     publishedDateTime: 2020-10-16T02:40:17Z

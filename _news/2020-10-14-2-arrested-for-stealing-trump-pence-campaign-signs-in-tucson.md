@@ -540,6 +540,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "A closing argument: Why voters cannot trust Trump on healthcare"
+    excerpt: "Trump knowingly downplayed the threat of the virus and failed to execute an effective national strategy in response to the pandemic."
+    publishedDateTime: 2020-10-18T15:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521561-a-closing-argument-why-voters-cannot-trust-trump-on-healthcare"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521561-a-closing-argument-why-voters-cannot-trust-trump-on-healthcare?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521561-a-closing-argument-why-voters-cannot-trust-trump-on-healthcare?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_101420getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Blessing for Trump: a campaign devoid of foreign policy"
+    excerpt: "With Americans’ focus squarely at home with the ongoing pandemic and economic collapse, foreign policy has been virtually absent from this year’s presidential campaign. Donald Trump should be grateful."
+    publishedDateTime: 2020-10-18T15:34:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521576-blessing-for-trump-a-campaign-devoid-of-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521576-blessing-for-trump-a-campaign-devoid-of-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521576-blessing-for-trump-a-campaign-devoid-of-foreign-policy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald2_10172020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Headwinds for Trump in bid to repeat Upper Midwest victories"
     excerpt: "President Donald Trump is making a late reelection pitch to voters Saturday in Michigan and Wisconsin, states in the Upper Midwest that were instrumental to his 2016 victory but may now be slipping fr"
     publishedDateTime: 2020-10-17T20:52:00Z
@@ -651,6 +683,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537901655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9H01U"
         width: 847
         height: 545
+        isCached: true
+  - title: "Trump's campaign nearly went broke for the 2020 homestretch, insiders say"
+    excerpt: "Trump's new campaign team, led by Bill Stepien, had to rush to cancel spending to salvage the president's bid for a second term."
+    publishedDateTime: 2020-10-18T15:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/5f89bdddd260780019341d65?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Jr. pushes back on Pelosi asking if steroids influenced the president"
     excerpt: "Donald Trump Jr. pushed back on Speaker Nancy Pelosi (D-Calif.) on Wednesday after the Democratic leader questioned whether steroids influenced President Trump’s"
@@ -827,6 +875,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8465264f2e188304012e3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5438%26cropY1%3D0%26cropY2%3D3057"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pelosi Sets Monday Deadline If Trump Wants Pre-Election Stimulus"
+    excerpt: "Nancy Pelosi remains hopeful a deal on a new stimulus bill can be reached before the Nov. 3 election, but said that Monday is a deadline for more progress in talks with the White House to make that happen."
+    publishedDateTime: 2020-10-18T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pelosi-sets-monday-deadline-if-trump-wants-pre-election-stimulus/2020/10/17/5ec69b6c-10e4-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JB6GGQQ4QI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
     excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"

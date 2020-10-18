@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cuban-americans-hold-huge-pro-trump-parade-south-florida-elections-approach-1538179?amp=1"
 type: article
 quality: 135
-heat: 855
+heat: 875
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/db8f4a6b-712c-4583-b634-81488d181138-GTY_994906866.JPG?auto=webp&crop=4672,2628,x1,y210&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ex-CIA Director Brennan says he hopes Trump gets 'soundly spanked by the American electorate' on Nov. 3"
+    excerpt: "John Brennan worries that if he loses, Trump could provoke civil unrest, declare martial law or take other damaging steps before Joe Biden is inaugurated."
+    publishedDateTime: 2020-10-18T12:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/john-brennan-ex-cia-director-fears-trump-havoc-after-election/3676392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3676392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3676392001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/08/16/USAT/f0c02239-7062-463b-94f2-b617ccfed2fa-ax164_4c08_9.jpg?auto=webp&crop=1023,575,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Trump 'seemingly legitimizing' the rise in hate crimes against Asian Americans, according to a UN report"
     excerpt: "Americans are at an \"alarming level,\" in part because of rhetoric from President Donald Trump."

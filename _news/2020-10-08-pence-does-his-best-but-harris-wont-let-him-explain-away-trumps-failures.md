@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2483
+heat: 2503
 published: true
 
 provider:
@@ -926,6 +926,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_40/3416916/201002-mike-pence-mc-1204_78bac30ec0c4f0f66330f46d019dc39c.JPG"
         width: 2500
         height: 1672
+        isCached: true
+  - title: "Pence tests negative and continues campaigning despite Trump diagnosis"
+    excerpt: "(CNN)Vice President Mike Pence has tested negative for Covid-19 a third time, an administration official said Sunday, after traveling to multiple states for indoor and outdoor events ..."
+    publishedDateTime: 2020-10-03T18:03:03Z
+    webUrl: "https://www.cnn.com/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/mike-pence-coronavirus-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002094925-01-pence-0925-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "President Pelosi? Pence prepares to risk it all for Trump"
     excerpt: "The vice president is under pressure from some Republicans to secure himself in Washington. Trump’s campaign has other plans."

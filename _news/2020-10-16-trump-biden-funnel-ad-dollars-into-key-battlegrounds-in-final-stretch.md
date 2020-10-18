@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-mone
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
 type: article
 quality: 190
-heat: 990
+heat: 1010
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4414f9d6-f232-4e19-ab96-8f3c7cf79afb/7eee0c83-8cea-471c-8995-0784cfc73a2b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump adviser says POTUS will give Biden 'more room' to answer foreign policy questions in next debate"
+    excerpt: "Trump campaign senior adviser Jason Miller told \"Fox News Sunday\" that this week's debate between President Trump and Democratic challenger Joe Biden will see a different approach than what the president displayed in their first debate."
+    publishedDateTime: 2020-10-18T14:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vzFX7mLDxJc/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d770dd1-5c4f-4ebf-b8bd-3bddaa596937/432ccfe2-5906-4648-a20c-2da01a22a711/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

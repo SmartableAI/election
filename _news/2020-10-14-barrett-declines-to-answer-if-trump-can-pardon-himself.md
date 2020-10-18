@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -246,6 +246,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/17/us/politics/17elections-brief-march1/17elections-brief-march1-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump campaign adviser signals president will tone it down at final debate"
+    excerpt: "Trump campaign senior adviser Jason Miller signaled Sunday that President Donald Trump will take a less combative tack toward Democratic presidential nominee Joe Biden during their televised debate this week."
+    publishedDateTime: 2020-10-18T14:11:00Z
+    webUrl: "https://www.politico.com/news/2020/10/18/trumpdebate-jason-miller-430043"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 113
+    images:
+      - url: "https://static.politico.com/b6/e5/d3d3aae54271b340df8666573432/200929-biden-trump-debate-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Pro-Trump Group Closes Campaign by Shopping Dirt on the Lincoln Project"
     excerpt: "A memo put together by America First Action goes after the spending decisions by the the anti-Trump group. But why even bother?"

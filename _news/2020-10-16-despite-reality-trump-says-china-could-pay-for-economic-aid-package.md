@@ -638,6 +638,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
+    excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"
+    publishedDateTime: 2020-10-18T14:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/twitter-removes-tweet-top-trump-covid-adviser-saying-masks-don-n1243841"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243841"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243841"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
     publishedDateTime: 2020-10-12T17:31:00Z

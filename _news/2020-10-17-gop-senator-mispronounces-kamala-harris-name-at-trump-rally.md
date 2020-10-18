@@ -1,28 +1,30 @@
 ---
 category: news
-title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
-excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
-publishedDateTime: 2020-10-17T01:36:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
+excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
+publishedDateTime: 2020-10-17T01:33:00Z
+originalUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
+    isCached: true
 
 related:
   - title: "Biden and Harris would end Trump's China policy — Pence would extend it"
@@ -1257,6 +1259,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lara Trump denies mocking Joe Biden's stutter, suggests cognitive decline"
+    excerpt: "Lara Trump on Sunday denied mocking Democratic presidential nominee Joe Biden's speech, and instead suggested that the former vice president may be experiencing a cognitive decline."
+    publishedDateTime: 2020-10-18T15:16:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/521580-lara-trump-denies-mocking-joe-bidens-stutter-suggests-cognitive"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/521580-lara-trump-denies-mocking-joe-bidens-stutter-suggests-cognitive?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/521580-lara-trump-denies-mocking-joe-bidens-stutter-suggests-cognitive?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/trumplara_10262018getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The biggest moments from the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Vice President Mike Pence and Senator Kamala Harris had some noteworthy moments until a fly stole the show."
     publishedDateTime: 2020-10-08T03:50:00Z
@@ -1369,20 +1387,20 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Republican Senator Perdue appears to mock Kamala Harris’ name at Trump rally"
+  - title: "Republican Senator Perdue appears to mock Kamala Harris' name at Trump rally"
     excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in the battleground state of Georgia on Friday, repeatedly mispronouncing the vice presidential nominee's name."
-    publishedDateTime: 2020-10-17T21:30:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-perdue-idUSKBN27205R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205R"
+    publishedDateTime: 2020-10-17T21:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-perdue-idUSKBN27205V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205V"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 137
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537857227&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04T"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537866332&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04V"
+        width: 819
         height: 545
         isCached: true
   - title: "The prosecutor vs. the 'king of sound bites': Why the Harris-Pence debate is no ordinary VP faceoff"
@@ -4082,6 +4100,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Biden’s Team Warns Supporters Not To Underestimate Trump Despite Polls"
+    excerpt: "Trump campaign believes the former vice president has a financial advantage over the president."
+    publishedDateTime: 2020-10-18T14:44:00Z
+    webUrl: "https://www.ibtimes.com/bidens-team-warns-supporters-not-underestimate-trump-despite-polls-3064113"
+    ampWebUrl: "https://www.ibtimes.com/bidens-team-warns-supporters-not-underestimate-trump-despite-polls-3064113?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bidens-team-warns-supporters-not-underestimate-trump-despite-polls-3064113?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/their-second-head-to-head-debate-was-cancelled.jpg"
+        width: 1024
+        height: 725
+        isCached: true
   - title: "President Trump in Michigan: Joe Biden is lost to 'sick' liberals"
     excerpt: "President Donald Trump drew thousands at a West Michigan airport on Saturday, holding a raucous rally less than three weeks from Election Day."
     publishedDateTime: 2020-10-18T11:19:00Z
@@ -5067,14 +5101,14 @@ related:
         isCached: true
   - title: "As senior citizens abandon Trump, Joe Biden spends big on TV ads to build on his lead with them"
     excerpt: "Biden’s push for older voters reflects what one pollster called a \"startling\" shift from 2016, when seniors helped propel Trump to the White House."
-    publishedDateTime: 2020-10-18T12:41:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/5967402002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5967402002"
+    publishedDateTime: 2020-10-18T10:20:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5967402002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5967402002"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 78
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/f3acd84d-ecad-4be2-ba69-dba06e730fa5-biden_florida.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
@@ -5961,6 +5995,17 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Trump and Biden to Court Early Voters as U.S. Campaign Gathers Steam"
+    excerpt: "U.S. presidential rivals Donald Trump and Joe Biden will court early voters on Sunday as their campaigns step up events ahead of their final debate this week. Trump on Sunday will head to Nevada, a battleground state where more than 100,"
+    publishedDateTime: 2020-10-18T14:10:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Trump Sets Hectic Campaign Pace, While Frontrunner Biden Stays Home"
     excerpt: "President Donald Trump campaigned at a frenetic pace Saturday in a three-state trip that started with a Michigan rally where he called opponent Joe Biden a \"criminal\" and pounded his claim that the Democrats are anti-American."
     publishedDateTime: 2020-10-18T01:14:00Z
@@ -6539,6 +6584,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "LrOE/SIbbkPt+w/uBuQrqQpvfCq39OFNM7yS/u4sznijsumFWEn93I3aaUBPucaSo/p8UVNA/ClBsijUxG70Mb8dDIkndC8tJe3xxwsVAQmagVDjLbiycJlFpXkewrfyKF4vwIEVpvyIUKWqy4Qo7l8htMdq4b//2Y1G3QaLOIpUPKEpjIoj2R4VSd++j0ofl05lZpPwbUxteRp/D9lEQ1opCLlhQrcR4VpvLQs3pHqa7Qcl2WTqhcDWeHp21E2uRmhVGufe2DnkZ9qSqzVJTqrhP0NyJYdvn/eft3UzhGGr6odwYC8rRhkHSC8UTyQZxHS+KwrQ+Ss5LcbYr+61it+VB2SeJOz7+2jr1tNS2tqhU/H7Wdzmfw42VRnP17rNJaeApsmpiQoxjlCtDxrn0lX/aaKqWIJ4fXqNCmrTOTHOZhmWuo13p5Ku0dSjauufau1eX15L2CSyyGZOHsaMM7SV4gltd0yWi3R50RUK96xqsEytExG5swj/GXe2Y9Z75YHf7UKxPm43KwNK0C8RNg==;XCTVs6vXgJ0KFavtgSkaGA=="
+secured: "r1DilKXVEoLKkPAraJKf0uIPDVLwN1oBdKoKqa9T3KG9Gs0KIgT+NB26mdMpDJvhMkuSDoY9QYGdFGrCRjBud/G0ViDGRUecXwo4IWGv4/SshwDXRQ673uDc1zONpH+y+Sm9RUlWLk7oBjOhHa9t7GkJLmP1LjqcBIADeIqHgmbi7ON71tr3a4e85MkpArHW8UPbhk4VXi0PoTh+ggYdUHApKjURrhNNz/hbXnP2PumCwJhhl+dIHrCvYoellvOqpUTLUuAou56BMXh5CNfn3jgraQ3HIpeGe5QDyIKRySnOdHmDhWvfuWje1kctL4KKV9t6a9HVsK2bYngfFa+pcwIFhRfJGtlibFVU5ukOPSc=;vM0rdYOg5YXyvPN4pFh5sA=="
 ---
 
