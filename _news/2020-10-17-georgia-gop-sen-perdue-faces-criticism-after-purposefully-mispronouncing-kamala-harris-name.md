@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
+    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
+    publishedDateTime: 2020-10-17T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3686517001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686517001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats must ‘leave no doubt on election day’ Kamala Harris' husband says in Michigan"
     excerpt: "Michigan Democrats urged voters to get involved in the effort to elect Joe Biden during campaign events across the state Monday. Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris,"
     publishedDateTime: 2020-10-12T23:36:00Z
@@ -74,22 +90,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/David-Purdue.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
-    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-    publishedDateTime: 2020-10-17T04:44:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-    ampWebUrl: "https://amp.freep.com/amp/3686517001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3686517001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "axS//3Ie1BZblQCEqqXUjQTqrcKkzQB67j7rfc1xDaJZOOJ1fC740p0SC3F8pWMyD9xWiq2oNaiDgUj84pROFOg8mz1JA0AqvqLGFB3zAucXV3oGKkJFWuA+dec+yziv5M4aieb6gzFSybEeePM2lrhapbjJ3Fqg6eKOyHg2dcyrsHDYIUESvEhesqpakcKiYcm2sR+4qb3EVWU/b5I8d8G+ZoTL56J8dYFQADq96N8ULqGehtU3VYMBG83o94/kMOY8mDjrk3jemVhbxv1JsGkf1UAPMiosApy8uhcDfmVl5TjJlVBBwyQIJu0+jtJVbIM0uhP9w5ipbrvsRQ8o3gpD7pQiMLueX7lJQdKWQuSdbG78MZUB4+d3xyv8A5yPc6kod6o4fOIjTGaMg7yqrntjcGWgyYGwH63i7kaZeKepOZZ1RT5ASdQgD/GhQjSEz/vjV0Ogevn+f+a1nR3fjXdiAcRudoPiUxwrqeVnr5OUQyO6NnXW2kQ3DBBf7BmUfjlM2jsnRGhEYVnP8raBTw==;P9eUu2A4baG46hvjFPKz1Q=="

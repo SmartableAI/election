@@ -143,6 +143,22 @@ related:
         width: 2000
         height: 1348
         isCached: true
+  - title: "Rural voters explain why they’re leaving Trump: ‘I went from being a pawn — to collateral damage’"
+    excerpt: "President Donald Trump has desperately tried to convince rural America that he will save them as their communities are slowly falling away. Trump has tried to prop them up with farmer funding, but the tactic shows an ignorance about the issues that rural families are facing when it comes to education and access to medical"
+    publishedDateTime: 2020-10-18T05:16:00Z
+    webUrl: "https://www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2018/08/Soy-farmer-745x430.jpg"
+        width: 745
+        height: 430
+        isCached: true
   - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
     excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
     publishedDateTime: 2020-10-14T14:41:00Z

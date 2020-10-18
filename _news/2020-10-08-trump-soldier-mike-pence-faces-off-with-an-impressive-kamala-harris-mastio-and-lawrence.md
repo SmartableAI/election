@@ -2323,6 +2323,22 @@ related:
         width: 1200
         height: 838
         isCached: true
+  - title: "Biden wins town hall ratings battle with Trump, drawing nearly 1 million more viewers than the president"
+    excerpt: "Data shows Biden ahead of Trump in TV ratings after the two dueled on separate stages Thursday evening."
+    publishedDateTime: 2020-10-18T04:20:00Z
+    webUrl: "https://www.businessinsider.com/biden-drew-23m-more-viewers-than-trump-town-hall-early-ratings-show-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-drew-23m-more-viewers-than-trump-town-hall-early-ratings-show-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-drew-23m-more-viewers-than-trump-town-hall-early-ratings-show-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 123
+    images:
+      - url: "https://i.insider.com/5f89c9cf9e9fe40019009c9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "VP debate live: Kamala Harris slams Mike Pence over coronavirus response and healthcare"
     excerpt: "Harris attacks the Trump administrations coronavirus response and plans on healthcare"
     publishedDateTime: 2020-10-08T03:07:00Z
@@ -4536,6 +4552,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Georgia senator mocks Kamala Harris' name with mispronunciations at Trump rally"
+    excerpt: "David Perdue referred to his Senate colleague, Democratic presidential nominee Joe Biden’s running mate, as 'KAH’-mah-lah? Kah-MAH’-lah? Kamala-mala-mala? Whatever.'"
+    publishedDateTime: 2020-10-18T03:47:00Z
+    webUrl: "https://www.khou.com/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 86
+    images:
+      - url: "https://media.khou.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T10:55:00Z
@@ -5361,6 +5393,22 @@ related:
         width: 570
         height: 321
         isCached: true
+  - title: "Vice presidential candidate Kamala Harris plans Florida visit"
+    excerpt: "Democratic vice presidential nominee Kamala Harris is scheduled Monday to spend time in Florida, the campaign announced Saturday. More details are expected to be provided later, but the campaign says she will travel to Orlando and Jacksonville on the first day of in-person early voting."
+    publishedDateTime: 2020-10-17T18:58:00Z
+    webUrl: "https://www.wtsp.com/article/news/politics/elections/kamala-harris-to-visit-orlando-jacksonville-florida/67-14ca96cf-c587-4523-9996-334d19ed1d2b"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/elections/kamala-harris-to-visit-orlando-jacksonville-florida/67-14ca96cf-c587-4523-9996-334d19ed1d2b"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/elections/kamala-harris-to-visit-orlando-jacksonville-florida/67-14ca96cf-c587-4523-9996-334d19ed1d2b"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 75
+    images:
+      - url: "https://media.wtsp.com/assets/CCT/images/f2bd8952-0e08-4ca5-83a8-a42f287de18b/f2bd8952-0e08-4ca5-83a8-a42f287de18b_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
     publishedDateTime: 2020-10-07T21:41:00Z
@@ -5790,6 +5838,31 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Trump and Biden Try to Woo Early U.S. Voters on Sunday"
+    excerpt: "U.S. presidential rivals Donald Trump and Joe Biden will court early voters on Sunday as their campaigns step up events ahead of their final debate this week. Trump on Sunday will head to Nevada, a battleground state where more than 100,"
+    publishedDateTime: 2020-10-18T05:22:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump Sets Hectic Campaign Pace, While Frontrunner Biden Stays Home"
+    excerpt: "President Donald Trump campaigned at a frenetic pace Saturday in a three-state trip that started with a Michigan rally where he called opponent Joe Biden a \"criminal\" and pounded his claim that the Democrats are anti-American."
+    publishedDateTime: 2020-10-18T01:14:00Z
+    webUrl: "https://www.ibtimes.com/trump-sets-hectic-campaign-pace-while-frontrunner-biden-stays-home-3063775"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/donald-trump-on-the-campaign-trail-in-florida.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z
@@ -5914,6 +5987,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 68
+  - title: "‘Well that is incredibly racist,’ says Kamala Harris campaign after David Perdue’s dogwhistle attack at Trump rally"
+    excerpt: "Republican Sen. David Perdue of Georgia was denounced for being “incredibly racist” Friday night after he willfully mispronounced the name of his Senate colleague Kamala Harris, the Democrat from California and her party’s vice presidential nominee,"
+    publishedDateTime: 2020-10-17T16:22:00Z
+    webUrl: "https://www.rawstory.com/2020/10/well-that-is-incredibly-racist-says-kamala-harris-campaign-after-david-perdues-dogwhistle-at-trump-rally/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/well-that-is-incredibly-racist-says-kamala-harris-campaign-after-david-perdues-dogwhistle-at-trump-rally/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/well-that-is-incredibly-racist-says-kamala-harris-campaign-after-david-perdues-dogwhistle-at-trump-rally/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/06/Kamala-HarrisAFP-593x430.jpg"
+        width: 593
+        height: 430
+        isCached: true
   - title: "Joe Biden Widens Lead Over President Trump in Florida, Pennsylvania, Poll Finds"
     excerpt: "Democratic presidential nominee Joe Biden is widening his lead over President Donald Trump in the critical battleground states of Florida and Pennsylvania with less than a month until the election. A Quinnipiac University poll published Wednesday found that 51% of voters in Florida support the former vice president,"
     publishedDateTime: 2020-10-07T19:42:00Z
@@ -6117,6 +6206,17 @@ related:
       name: CBS Boston / WBZ
       domain: cbslocal.com
     quality: 59
+  - title: "Georgia senator mocks Kamala Harris' name with mispronunciations at rally for President Trump"
+    excerpt: "David Perdue referred to his Senate colleague, Democratic presidential nominee Joe Biden’s running mate, as 'KAH’-mah-lah? Kah-MAH’-lah? Kamala-mala-mala? Whatever.'"
+    publishedDateTime: 2020-10-18T02:47:00Z
+    webUrl: "https://www.wusa9.com/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    ampWebUrl: "https://www.wusa9.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/nation-world/gop-senator-mispronounces-kamala-harris-name-trump-rally-georgia-david-perdue/507-19869422-c533-4925-9d04-93aa38a8f6ab"
+    type: article
+    provider:
+      name: WUSA9
+      domain: wusa9.com
+    quality: 59
   - title: "Dear Joe Biden: Don’t attend the next debate"
     excerpt: "Since the coronavirus pandemic arrived on America’s shores, Democratic presidential nominee Joe Biden has done what President Trump is seemingly incapable of doing: He’s consistently demonstrated how Americans should protect themselves and others from COVID-19."
     publishedDateTime: 2020-10-07T21:35:00Z
@@ -6233,6 +6333,20 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_1140x641.jpg"
         width: 1140
         height: 641
+        isCached: true
+  - title: "Vice-presidential candidate Kamala Harris to visit Orlando"
+    excerpt: "The Joe Biden for President campaign has announced Democratic vice-presidential candidate Kamala Harris will be in Orlando Monday. According to campaign officials, the senator will make stops in both Orlando and Jacksonville."
+    publishedDateTime: 2020-10-17T19:46:00Z
+    webUrl: "https://www.wftv.com/news/local/vice-presidential-candidate-kamala-harris-visit-orlando/LT5B5ARXAZAPJMBLNRHF6JX6YI/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 55
+    images:
+      - url: "https://www.wftv.com/resizer/G1kZY_31QlVNaOpg83QUCkCnno4=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/XZFGDVVXB6XDW7WY3K2EPVHCIA.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"

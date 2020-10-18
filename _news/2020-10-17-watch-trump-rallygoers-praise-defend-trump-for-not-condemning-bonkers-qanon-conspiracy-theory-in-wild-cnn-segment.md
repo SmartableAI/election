@@ -123,6 +123,20 @@ related:
         width: 757
         height: 430
         isCached: true
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 55
+    images:
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
+        isCached: true
 
 secured: "sOVErAM7yMY/cvZhzHl3JcwmWTSjBFkN8QSaBJfI5IhxkPPAyWP7PxsFV0siue+erPM+r7fyPwZg3zNSIOOl91i0hOPzOqpwm+IT71vw1BuHDNKA9d/jRHgIyPArW8FeeEzEX/QGkXgy0YSd+l//YB7GwmiGjStdEZ1QheXOrcbWutAAcuzx/VoyCGHrGcc1C/YAYCEaw/bwXD4+XhGP8shOmes0HGK+gT33M7AZDJV+sXmHGiG39e9cOMdEYBz2Q/wZ5cGVnf8qx/PktV+QaWefTBcGNc46EZtpc1zT3uDNZj8aBd5CTjjwreC4b74kbFJ1Zog+7ADyL+4a/woe5kTHg4/OMkTBcmNg82nTVGg=;BIHnlcLtBuuK0ZIYE1Txig=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
+    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
+    publishedDateTime: 2020-10-17T12:15:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3686517001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686517001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Watch ‘super racist’ rant against Kamala Harris by GOP senator at Georgia MAGA rally"
     excerpt: "Republicans are playing political defense in the once reliably-red state of Georgia. President Donald Trump is holding a Friday night campaign rally despite the coronavirus pandemic and had Sen. David Perdue (R-GA) warm up the crowd."
     publishedDateTime: 2020-10-17T04:13:00Z
@@ -58,22 +74,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/David-Purdue.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
-    excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-    publishedDateTime: 2020-10-17T04:44:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-    ampWebUrl: "https://amp.freep.com/amp/3686517001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3686517001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 64
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Georgia GOP Sen. Perdue faces criticism after purposefully mispronouncing Kamala Harris' name"
     excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""

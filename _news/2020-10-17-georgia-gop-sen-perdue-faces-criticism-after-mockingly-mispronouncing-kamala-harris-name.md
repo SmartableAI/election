@@ -2,19 +2,23 @@
 category: news
 title: "Georgia GOP Sen. Perdue faces criticism after 'mockingly' mispronouncing Kamala Harris' name"
 excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
-publishedDateTime: 2020-10-17T04:44:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-webUrl: "https://www.freep.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
-ampWebUrl: "https://amp.freep.com/amp/3686517001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3686517001"
+publishedDateTime: 2020-10-17T12:15:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/georgia-sen-perdue-faces-criticism-after-mocking-kamala-harris-name/3686517001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3686517001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686517001"
 type: article
-quality: 64
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -92,6 +96,6 @@ related:
         height: 675
         isCached: true
 
-secured: "s2+Dt1iqIgnfQwLAJ2Epcx9xXiqUwTWlNo3rGklIfbr/T1Y1xY26q9Hx0tAxlP8+fsp3O94W59gT2uvkIA4SL4FDGuLy0W8Ob16YOG4Ye+GeO2Kf9M3mdEC4SQdzQ/RJUlUvmcis9QHHOFm6KD9y0/J14zKqg+fnDPlK+x2Y1Wf6XRHfpJ44HLTLF0rTWPjfn/GxhLWkSc21hwMoyEkbLkQT5wZukonNqhotY82CFS5Tr8c2S2fo1Qll9zCyKirT2rpZifcVpoXnVSrJkEZFV+3eC2U4pKO6xEkJiq4FoPzbkCEilrUC6IEMDAy72gwDNus2gDAS5gB/jOYmaft4DWjBxvl3AsNPbzR/iwX/dC9rWQcIEppLJW62WEhjTKa6LOCT0o/IKGrF6Fv4zYD42qBqALR5vfos+BKCkIojEOM0us7U8f1CDk1W5YBN34hGeKd6gJFk8qpEDnR94xXfINrS+vMDoCApHk4n2uiLQU1+JawDIPpIVepfkiOTELTdEerFb3BM8TFuhctGTiBM+g==;cJU4xrfk0xWRKgrIC2oZJg=="
+secured: "TJ8tul1rCn5fuF/3/69cKgXEEzXnjcodb9tfuWgFDcuwFIh1tnbDXHUdzb5ZJd/MjoyAB1gxUucibwyMDuFLrZK88K6bPBtFTOIKyTEGoE8xtdnOBDGYiV/DqJCHMFB7ENlnhdPY++MP91i5FKLkg/18cFtinylPUP8DdrM7nQAJqVbJ02rhVdsB2NzfYVfnGq0XfpnumtFBIXTcdyJt17gEiXYHc/I54++jHfnv0y3ac1+slvhOE6tD37mQ5gzt/F3Mqg+v1boXLb9+5gCoBPXDnBrUXUGInDklOMI5lI2WtUYviMGV7LLnOpulSYMlSn2IBFQhvnM6brc5/B1TCtpB1XZyB5pyQNxpfP4WSuU=;9utfkMqfZdPfr4zDKagAaA=="
 ---
 

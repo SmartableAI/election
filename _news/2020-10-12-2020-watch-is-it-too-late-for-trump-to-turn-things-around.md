@@ -79,6 +79,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
+    excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
+    publishedDateTime: 2020-10-18T05:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3697599001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3697599001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 110
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/46ad6857-0b81-4d72-b742-1a6f11b3be15-AFP_AFP_8TB9GN.jpg?auto=webp&crop=4499,2531,x0,y172&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Coronavirus live updates: Trump breaks quarantine; 6 accused of plan to kidnap Michigan Gov. Gretchen Whitmer"
     excerpt: "President Donald Trump returned to the Oval Office Wednesday. A medical journal issued a stunning anti-Trump editorial. A second wave looms."
     publishedDateTime: 2020-10-08T16:27:00Z
@@ -204,22 +220,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-6.01.52-PM.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
-    excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
-    publishedDateTime: 2020-10-17T23:29:00Z
-    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
-    ampWebUrl: "https://amp.jsonline.com/amp/3697599001"
-    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3697599001"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 60
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/46ad6857-0b81-4d72-b742-1a6f11b3be15-AFP_AFP_8TB9GN.jpg?auto=webp&crop=4499,2531,x0,y172&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
     excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."

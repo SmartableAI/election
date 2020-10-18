@@ -430,6 +430,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Is on His Way to Victory -- Because of the Trump Miracle Economy"
+    excerpt: "Of course, President Donald Trump is headed for another election victory on Nov. 3. Why should anyone be shocked? Trump is proving once again why he's the GOAT (the greatest"
+    publishedDateTime: 2020-10-18T04:01:00Z
+    webUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297"
+    ampWebUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/288/c05df06c-70eb-450d-bd63-289fcc4e787d.jpg"
+        width: 650
+        height: 340
+        isCached: true
   - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
     excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"
     publishedDateTime: 2020-10-15T11:29:00Z

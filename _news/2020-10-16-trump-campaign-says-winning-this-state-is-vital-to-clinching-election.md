@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-president-n
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp"
 type: article
 quality: 190
-heat: 750
+heat: 770
 published: true
 
 provider:
@@ -424,6 +424,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump Is on His Way to Victory -- Because of the Trump Miracle Economy"
+    excerpt: "Of course, President Donald Trump is headed for another election victory on Nov. 3. Why should anyone be shocked? Trump is proving once again why he's the GOAT (the greatest"
+    publishedDateTime: 2020-10-18T04:01:00Z
+    webUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297"
+    ampWebUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/288/c05df06c-70eb-450d-bd63-289fcc4e787d.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "Record Black Voter Turnout Will Fire Trump, Save Lives"
     excerpt: "RealClearPolitics"

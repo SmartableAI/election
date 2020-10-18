@@ -2,19 +2,23 @@
 category: news
 title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
 excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
-publishedDateTime: 2020-10-17T23:29:00Z
-originalUrl: "https://www.jsonline.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
-webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
-ampWebUrl: "https://amp.jsonline.com/amp/3697599001"
-cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3697599001"
+publishedDateTime: 2020-10-18T05:20:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3697599001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3697599001"
 type: article
-quality: 60
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: Milwaukee Journal Sentinel
-  domain: jsonline.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -227,6 +231,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "JN0xOq1hDCmvhxJSZhitIviR5E94NLskv352AIXxoaHYr8Vm4oRnrigxYEM5r8Ta8crlenNvShACxepL/wq7e1lYjkw5YZqTl0yv50f9hVo32ZMy6+TBarA1PJBFRgbl0hGwl/IqvaG1GjEodjjIcpmhpiLZZY/PuphqgfO6Ul31vE7nUKuw0L91MtjCxc9NLd6T4Rq5pJvQKjQ4komMdLFsTCRoMGglCr3AMsIO0ZQ2+1fqSzeoPF/Ol+2UK7pMmzF8MkkKUA3EicVppxlFfNR4+LOFnt4pf/cr+NxzvaAGtbUCQZ/0PIG2EZIWf+nYsRt5+3IIDwcEzbUk1F833Qc9OAA5UnoOFTovL9I8/oA=;qsVJWbkvqHUxDW9lmp6Sbw=="
+secured: "MxKLZ/9IVavss/eGDgU8B7A4c4MdHCwnNZs1bXbiRlL47gaAny0LccUE+NfB6BiX0UCV7Wb0m5v/1qIdFtfy5osQ0S1561kkMiQg4XGLGbFgYljlWG9oN36mdpjOI995V80q4etVIwWI44p4BkObcnxWorrS1hU2oF11ttbIufaBj50xGH4tXMUc8tjn0UzsLEDYEaCGLHSAZ/0HnAAH9kfj8GlJh2L1sYL1R7aXkEQs8lhgqptsqTLjf8RLzh56grSfOAf1/7lvRQlT7rZLRJLZtw4E9t8fbJtB8vXWZD6wyAVngX/Sg63Vhy6YHqXq5Es9ri6LheAINAnAAIPQLfFox0J+Oak1Lo72dnT0hSc=;MPtoqzlZcJ/ZdajtmGNb/g=="
 ---
 
