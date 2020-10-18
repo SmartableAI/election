@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
+      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
+      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "publishedDateTime": "2020-10-18T06:21:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-replay-trump-holds-a-make-america-great-again-rally-in-janesville-wisconsin.md",
       "title": "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin",
       "excerpt": "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior.",
@@ -176,7 +232,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 910,
+      "heat": 930,
       "tags": null,
       "images": [
         {
@@ -722,7 +778,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 970,
+      "heat": 990,
       "tags": null,
       "images": [
         {
@@ -995,7 +1051,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1574,62 +1630,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp",
       "publishedDateTime": "2020-10-14T16:16:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-hunter-biden-emails-giuliani-attorney-questions-if-fbi-dismissed-potentially-damaging-findings.md",
-      "title": "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings",
-      "excerpt": "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
-      "publishedDateTime": "2020-10-14T12:10:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
 excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
 publishedDateTime: 2020-10-16T05:27:00Z
-originalUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
-webUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
+originalUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
+webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
 type: article
@@ -130,9 +130,9 @@ related:
   - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
     excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
     publishedDateTime: 2020-10-15T19:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
     type: article
     provider:
       name: ABC
@@ -598,6 +598,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "KkaezTXwRHaEW7ElknjE/SRh0MxKM7SDyx4agvgCeF9MxjQCiq/J8cMIsq43hbW0iQzBoiSnajyLfCsVNNcxlBmO8QjBwzkbbtQePmTsJN++RnwuTnOpr5CLvSTT4KWWUF/aS0Q4/OwHoH+Py/Adr8V2GRaKT22aFLyVq3oWSsOn+Xq395vm9imGVxTHZVdKYh+AiyEnAr/cVn4zGw3eToylCPM4nlVGyWJbXJ3HcqsGHqy6cTIHhAfYv298BOcIqwAWYWXsNAAwqveZw+BCokRYAfOXUT6BFFS0MhaBoZK0v7LGP3B3yIQio/nYMxLePwdjxwe3KwUliNOqyaa7DNyQVmC77r8LT8D4ESuZXfU=;us5mUxyFmBHH+6iXDT2Klw=="
+secured: "ecPokog0RwR94E3YoTGNAaCpgK0yw0wsP3TsvAKuSXtMzBXwmmuPuLzt+1rurRVkJxYUdO7aIbWdEAzl018zqvvx37N8VVzj2MPjWymG53ubOEPs3IjkGoodRTAfMZLBgpgtIUOEDUSDC0hpQlZ94fSOj7AgfeD/0YEF2D9OjI3NST/wytbagXcSMLVkB0DzjNVgiL44DNTPB7L7axLaf8I6MXegPmLclbeQe5YL/djSWwTo0eJO8Qo1N39DbhMoV32+LaiaOSolU4xee8eBCyZDGvrefV26FqDLDa4tkKZhWxp1Tidg4K042BljLDbRkZwXfE5xoSRsawAolIoq8q+ts9ljcaPHMmxnuCFcV60=;12L3AkKm54JSHrKIHCxR7w=="
 ---
 

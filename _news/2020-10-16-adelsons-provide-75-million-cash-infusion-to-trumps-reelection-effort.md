@@ -367,6 +367,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Trump continues bizarre appeals to suburban women as he campaigns in Covid hotspots"
+    excerpt: "If President Donald Trump loses his reelection bid in November, it will be in part because of his fundamental misunderstanding of the beliefs of \"suburban women,\" whom he has tried to win back with a series of bizarre and racist appeals that seem more targeted to a stereotype from the 1950s and 1960s"
+    publishedDateTime: 2020-10-18T13:14:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uu0eSl3Svjw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/donald-trump-women-gretchen-whitmer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/donald-trump-women-gretchen-whitmer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017212456-05-donald-trump-1017-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court grants Trump administration's request to halt census count while appeal plays out"
     excerpt: "The Supreme Court granted a request from the Trump administration to halt the census count while an appeal over a lower court's order that it continue plays out.\n    \n"
     publishedDateTime: 2020-10-13T21:33:10Z

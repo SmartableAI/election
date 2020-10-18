@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'SNL' mocks NBC for hosting Trump, previous affiliations with Bill Cosby, Matt Lauer: 'We have a type'"
+    excerpt: "This week’s “Saturday Night Live” included a “Weekend Update” segment that took aim at President Trump and mocked NBC for hosting him at a town hall.  After mocking the president and Democratic presidential nominee Joe Biden's dueling town halls,"
+    publishedDateTime: 2020-10-18T13:32:00Z
+    webUrl: "https://www.foxnews.com/entertainment/saturday-night-live-nbc-hosting-trump-bill-cosby-matt-lauer"
+    ampWebUrl: "https://www.foxnews.com/entertainment/saturday-night-live-nbc-hosting-trump-bill-cosby-matt-lauer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-nbc-hosting-trump-bill-cosby-matt-lauer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/WeekendUpdate1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
     excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
     publishedDateTime: 2020-10-15T22:10:00Z

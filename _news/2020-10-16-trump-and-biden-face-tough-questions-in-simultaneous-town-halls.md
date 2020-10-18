@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden vie for Catholic voters amid Supreme Court battle  "
+    excerpt: "The fight to win over swing Catholic voters in the presidential election has intensified as Democrats and Republicans on Capitol Hill battle over confirming President Donald Trump's conservative nominee to the Supreme Court.\n    \n"
+    publishedDateTime: 2020-10-18T12:02:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fPPAgCnjdZU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/catholic-vote-joe-biden-donald-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016204638-joe-biden-church-0913-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Debate commission announces topics for final debate between Trump and Biden"
     excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
     publishedDateTime: 2020-10-16T19:25:46Z

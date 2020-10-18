@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 2230
+heat: 2250
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007181137-trump-video-update-coronavirus-1007-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
+    excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
+    publishedDateTime: 2020-10-18T13:05:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-y9zniiB4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170925081333-scott-atlas-headshot-new-super-tease.jpeg"
         width: 1100
         height: 619
         isCached: true

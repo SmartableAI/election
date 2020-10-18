@@ -66,7 +66,7 @@ related:
   - title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
     excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
     publishedDateTime: 2020-10-16T05:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
     type: article
@@ -146,9 +146,9 @@ related:
   - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
     excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
     publishedDateTime: 2020-10-15T19:25:00Z
-    webUrl: "https://abcnews.go.com/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
     type: article
     provider:
       name: ABC

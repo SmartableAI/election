@@ -274,6 +274,22 @@ related:
         width: 1600
         height: 1099
         isCached: true
+  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
+    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
+    publishedDateTime: 2020-10-18T12:07:00Z
+    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
+    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
+        width: 600
+        height: 917
+        isCached: true
   - title: "Donald Trump’s COVID Results Had ‘Saturday Night Live’ Scrambling, Says Lorne Michaels"
     excerpt: "Live writers were revising the season’s first cold open right up to the last minute after President Donald Trump’s positive COVID test tossed all plans into the air. In"
     publishedDateTime: 2020-10-16T17:58:00Z

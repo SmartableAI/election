@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-04-trump-health-update-expected-at-walter-reed-medical-center.md",
+      "title": "Trump health update expected at Walter Reed Medical Center",
+      "excerpt": "President Trump’s medical team is expected to give an update on his health Sunday morning, as members of the White House press pool head to the Walter Reed Medical Center to be briefed on his condition.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bPgBX6_YUVA/trump-coronavirus-health-update-sunday-walter-reed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 455,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-health-update-sunday-walter-reed.amp",
+      "publishedDateTime": "2020-10-04T08:26:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-joe-biden-says-its-appalling-not-to-wear-a-mask-on-public-transit.md",
       "title": "Joe Biden says it's 'appalling' not to wear a mask on public transit",
       "excerpt": "Former Vice President Joe Biden touted mask-wearing as a form of patriotism on Saturday, criticizing the administration for not doing more to advance the practice during the coronavirus pandemic.",
@@ -1603,62 +1659,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-says-president-has-continuously-denounced-white-supremacists-amid-criticism.amp",
       "publishedDateTime": "2020-09-29T22:18:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-30-dana-perinos-debate-verdict-biden-cleared-the-very-low-bar-that-had-been-set-for-him.md",
-      "title": "Dana Perino's debate verdict: 'Biden cleared the very low bar that had been set for him'",
-      "excerpt": "Democrats concerned about Joe Biden's performance on a debate stage could breathe a sigh of relief Tuesday night following the fractious and bad-tempered first confrontation in Cleveland, former White House press secretary Dana Perino said.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1b639de-1691-4aa6-b589-f5ec0adde147/5b378a95-9fa4-401a-bec3-261ac93537cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
-      "publishedDateTime": "2020-09-29T21:41:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

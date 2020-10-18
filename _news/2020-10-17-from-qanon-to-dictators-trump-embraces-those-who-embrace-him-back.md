@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-th
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
+    excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
+    publishedDateTime: 2020-10-18T13:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Donald-Trump-.jpg"
+        width: 640
+        height: 414
         isCached: true
   - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
     excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."

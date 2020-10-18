@@ -175,6 +175,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Ron Johnson presses Wray on validity of Hunter Biden laptop claim"
+    excerpt: "Sen. Ron Johnson is calling on FBI Director Christopher Wray to confirm or deny details regarding a laptop said to have belonged to Democratic presidential nominee Joe Biden's son Hunter Biden."
+    publishedDateTime: 2020-10-18T13:35:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gmF5mfJ-MqI/sen-johnson-presses-wray-on-validity-of-hunter-biden-laptop-claim"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-johnson-presses-wray-on-validity-of-hunter-biden-laptop-claim.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-johnson-presses-wray-on-validity-of-hunter-biden-laptop-claim.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z

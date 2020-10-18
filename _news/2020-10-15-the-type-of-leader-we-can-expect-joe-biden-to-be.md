@@ -590,6 +590,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Will the Media Defeat Donald Trump?"
+    excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
+    publishedDateTime: 2020-10-18T12:08:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/524419_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Joe Biden's Boosters Wrote His Prodigal Son's Entire Resume"
     excerpt: "Hunter Biden profited from his father’s political connections long before he struck questionable deals in countries where Joe Biden was undertaking diplomatic missions as vice president. In fact, virtually all the jobs listed on his resume going back to his first position out of college,"
     publishedDateTime: 2020-10-16T00:00:00Z

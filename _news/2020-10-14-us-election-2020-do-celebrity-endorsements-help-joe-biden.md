@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
 type: article
 quality: 140
-heat: 460
+heat: 480
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ULKIYSQLIEI6XBYZBXYVTUKHSQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Puerto Rican newspaper picks Biden in first presidential endorsement"
+    excerpt: "Democratic presidential nominee Joe Biden notched the first presidential endorsement from El Nuevo Día, the largest circulated Puerto Rican newspaper, as he courts Latino voters ahead of the election."
+    publishedDateTime: 2020-10-18T13:15:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521572-puerto-rican-newspaper-picks-biden-in-first-presidential-endorsement"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521572-puerto-rican-newspaper-picks-biden-in-first-presidential-endorsement?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521572-puerto-rican-newspaper-picks-biden-in-first-presidential-endorsement?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09092020_1.jpg"
+        width: 980
+        height: 552
         isCached: true
   - title: "Biden's first step on taxes may be cracking down on cheats, Democrats say"
     excerpt: "Joe Biden will reverse Republican tax cuts for the wealthy and corporations on \"day one\" if he wins November's election, his Democratic running mate, Senator Kamala Harris, vowed during Wednesday night's vice-presidential debate."

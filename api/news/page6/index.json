@@ -2,6 +2,166 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-13-barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.md",
+      "title": "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’",
+      "excerpt": "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp",
+      "publishedDateTime": "2020-10-13T10:01:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-mitt-romney-criticizes-trump-democrats-as-he-decries-vile-and-hate-filled-state-of-american-politics.md",
+      "title": "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics",
+      "excerpt": "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5979016002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002",
+      "publishedDateTime": "2020-10-13T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-betting-on-the-base-can-trump-win-again.md",
+      "title": "Betting on the 'base' — can Trump win again?",
+      "excerpt": "President Trump has said he intends to win the 2020 election the same way he won the 2016 election. Not with a popular vote strategy. With an electoral vote strategy. He expects his vaunted “base” — concentrated in a few crucial states — to deliver an electoral vote majority for him just as it did four years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
+      "originalUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trump_supporter_rally_101020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp",
+      "publishedDateTime": "2020-10-13T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac.md",
       "title": "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC",
       "excerpt": "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election.",
@@ -114,7 +274,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 8700,
+      "heat": 8740,
       "tags": null,
       "images": [
         {
@@ -309,7 +469,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 523,
+      "heat": 543,
       "tags": null,
       "images": [
         {
@@ -1135,170 +1295,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ross-douthat-column-there-will-be-no-trump-coup.md",
-      "title": "Ross Douthat column: There will be no Trump coup",
-      "excerpt": "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-has-been-a-champion-for-the-black-community-paris-dennard.md",
-      "title": "Trump 'has been a champion' for the Black community: Paris Dennard",
-      "excerpt": "“There’s no doubt” that President Trump “will go down as the greatest champion for the Black community since Abraham Lincoln,” Black Voices for Trump Advisory Board member Paris Dennard told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/paris.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:30:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-rails-against-portlands-biden-fools-antifa-radicals-after-lincoln-roosevelt-statues-toppled.md",
-      "title": "Trump rails against Portland's 'Biden fools', 'Antifa radicals' after Lincoln, Roosevelt statues toppled",
-      "excerpt": "President Trump reacted to demonstrators who toppled statues of Abraham Lincoln and Theodore Roosevelt in Portland overnight, saying  \"Biden fools” and \"Antifa radicals\" were responsible as local Democratic leadership fails to bring in federal law enforcement.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p1cxsFWqEPI/trump-portland-protest-biden-fools-antifa-radicals-lincoln-roosevelt-statues-toppled",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-1229022717.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:12:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

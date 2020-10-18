@@ -155,6 +155,22 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type” WATCH"
+    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
+    publishedDateTime: 2020-10-18T05:52:00Z
+    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/"
+    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 56
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
     excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
     publishedDateTime: 2020-10-14T12:09:00Z

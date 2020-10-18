@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brothe
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/10/NDAC/060cfb7e-55ac-4251-a36e-00d717dee960-FL_LEE_pence_0529.JPG?auto=webp&crop=3255,1831,x0,y540&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Groups gather in Reading City Park to protest MIke Pence visit"
+    excerpt: "About 40 people gathered Saturday morning at City Park for a rally and a caravan to protest Vice President Mike Pence's campaign stop at Reading Regional Airport. They left the park around 11:30 a.m."
+    publishedDateTime: 2020-10-17T18:30:00Z
+    webUrl: "https://www.readingeagle.com/news/local/groups-gather-in-reading-city-park-to-protest-mike-pence-visit/article_2ea76f7e-1094-11eb-9328-9715ad3f41d4.html"
+    ampWebUrl: "https://www.readingeagle.com/news/local/groups-gather-in-reading-city-park-to-protest-mike-pence-visit/article_2ea76f7e-1094-11eb-9328-9715ad3f41d4.amp.html"
+    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/local/groups-gather-in-reading-city-park-to-protest-mike-pence-visit/article_2ea76f7e-1094-11eb-9328-9715ad3f41d4.amp.html"
+    type: article
+    provider:
+      name: Reading Eagle
+      domain: readingeagle.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/1/77/17714430-109c-11eb-ad17-d3b4fb4272e8/5f8b263fe30e9.image.jpg?resize=1024%2C768"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "fEWtYPOWd+nSMGjS1wpG3LPWyBxIwY0sT6y9fy0JZTXRxlUsYB78acXy1NEMWKkqdvddJCIoorzRGztbk29m7nhcdoAU8gCrjCUUpqFry1fX8x0+ODrPSeQsVb1+DucW4W9x3ZJbv8ARZjKyZ/JBgdkK4++HvMj7tNsOwvqO9I+YF8mRuLeWYpvK4u8DM6X7v2iIgr/cK7ThgWJtus4aBtHGdSfRvNkrULbA0Dywe24evZ4b1PGe6JZ+jro0T4ttkCl/0vPco0vVoWoWm9ZEHg3HbMlj6oPRV1XFzTWKmbQzE1mYMXB6iqPFDRH+cEIY7Mft1O41JHsVghA/q2uus5rCrF83lZqk8C6MZOKsIWA=;tce5qdOKo1jg/fhzu9KlfQ=="

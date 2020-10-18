@@ -2,6 +2,105 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-18-stimulus-bill-2-trump-says-mnuchin-hasnt-come-home-with-the-bacon.md",
+      "title": "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’",
+      "excerpt": "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus.",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/10/stimulus-2-Trump-Mnuchin.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "publishedDateTime": "2020-10-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
+      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
+      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "publishedDateTime": "2020-10-18T06:21:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-replay-trump-holds-a-make-america-great-again-rally-in-janesville-wisconsin.md",
       "title": "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin",
       "excerpt": "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior.",
@@ -250,6 +349,62 @@
       ]
     },
     {
+      "path": "_news/2020-10-17-trump-signs-law-designating-9-8-8-as-universal-number-for-national-suicide-hotline-starting-in-2022.md",
+      "title": "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022",
+      "excerpt": "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html",
+      "publishedDateTime": "2020-10-17T16:42:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ossoff-raises-1-million-in-senate-race-after-perdue-mispronounces-kamala-harriss-name.md",
       "title": "Ossoff raises $1 million in Senate race after Perdue mispronounces Kamala Harris's name",
       "excerpt": "Democratic Georgia Senate candidate Jon Ossoff announced Saturday that his campaign raised $1 million after Sen. David Perdue, R-Ga., appeared to mock the name of democratic vice presidential candidate Kamala Harris at a rally Friday. ",
@@ -423,7 +578,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 910,
+      "heat": 930,
       "tags": null,
       "images": [
         {
@@ -1139,176 +1294,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-laura-ingraham-president-joe-biden-would-be-surrounded-by-lapdogs-in-mainstream-media.md",
-      "title": "Laura Ingraham: President Joe Biden would be 'surrounded by lapdogs' in mainstream media",
-      "excerpt": "Events this week have made it more clear than ever that the mainstream media is Joe Biden's primary campaign communications team, Laura Ingraham claimed Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
-      "originalUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3c39a6d-e37a-439e-84b0-f844b788d6a4/3a53338a-e0c8-4d63-bbce-705d0589afc6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
-      "publishedDateTime": "2020-10-16T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-kimberly-klacik-reports-64m-in-fundraising-after-trump-shared-her-viral-campaign-video.md",
-      "title": "Kimberly Klacik reports $6.4M in fundraising after Trump shared her viral campaign video",
-      "excerpt": "Baltimore congressional candidate Kimberly Klacik reported $6.4 million in fundraising after President Trump shared her viral campaign video, which lambasted Democratic leadership in cities with large African American populations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-oPOdnicA4/kimberly-klacik-fundraising-trump-campaign-video",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-oPOdnicA4/kimberly-klacik-fundraising-trump-campaign-video",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07efecb3-25b4-4a16-90c7-62a678c0e391/008b1110-6bec-485c-a7c8-66fdca3df870/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kimberly-klacik-fundraising-trump-campaign-video.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kimberly-klacik-fundraising-trump-campaign-video.amp",
-      "publishedDateTime": "2020-10-16T19:10:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-facebook-reversing-ban-on-ad-that-claimed-biden-harris-supports-abortion-up-to-the-moment-of-birth.md",
-      "title": "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'",
-      "excerpt": "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp",
-      "publishedDateTime": "2020-10-16T18:07:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

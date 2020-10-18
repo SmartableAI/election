@@ -199,6 +199,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Harry Dunn death: Mum appeals to US candidate Joe Biden"
+    excerpt: "The mother of Harry Dunn has called on the US presidential candidate Joe Biden to help bring her son's alleged killer to justice if he wins the election. Charlotte Charles's 19-year-old son was killed when his motorbike and a car driven by American Anne Sacoolas crashed outside a US military base."
+    publishedDateTime: 2020-10-18T12:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-northamptonshire-54589802"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6A72/production/_109205272_harry_dunn.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
     excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
     publishedDateTime: 2020-10-13T22:05:00Z

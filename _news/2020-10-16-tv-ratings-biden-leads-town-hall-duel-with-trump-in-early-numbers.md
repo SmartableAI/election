@@ -223,6 +223,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden and Harris have awful records. Trump is making it easy for me to vote for them anyway."
+    excerpt: "Joe Biden made bad laws, Kamala Harris enforced laws badly. But I've already seen the profound damage of Trump's presidency, so I'm voting Democratic."
+    publishedDateTime: 2020-10-18T11:59:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-kamala-harris-awful-records-trump-voting-democratic-anyway-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/joe-biden-kamala-harris-awful-records-trump-voting-democratic-anyway-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-kamala-harris-awful-records-trump-voting-democratic-anyway-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 154
+    images:
+      - url: "https://i.insider.com/5f89d4259e9fe40019009cd5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris and Mike Pence debate reaction, Trump calls Covid diagnosis 'blessing' – live updates"
     excerpt: "Coronavirus dominates VP debate as Trump declares his illness a ‘blessing from god’"
     publishedDateTime: 2020-10-08T11:24:00Z
@@ -1151,6 +1167,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump and Biden try to woo early U.S. voters on Sunday"
+    excerpt: "U.S. presidential rivals Donald Trump and Joe Biden will court early voters on Sunday as their campaigns step up events ahead of their final debate this week."
+    publishedDateTime: 2020-10-18T05:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idINKBN27304I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN27304I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN27304I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537904627&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEG9H02O"
+        width: 640
+        height: 216
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1327,20 +1359,20 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Republican Senator Perdue appears to mock Kamala Harris' name at Trump rally"
+  - title: "Republican Senator Perdue appears to mock Kamala Harris’ name at Trump rally"
     excerpt: "Republican U.S. Senator David Perdue appeared to mock Kamala Harris at a rally for President Donald Trump in the battleground state of Georgia on Friday, repeatedly mispronouncing the vice presidential nominee's name."
-    publishedDateTime: 2020-10-17T21:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-perdue-idUSKBN27205V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205V"
+    publishedDateTime: 2020-10-17T21:30:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-perdue-idUSKBN27205R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27205R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27205R"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 137
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537866332&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04V"
-        width: 819
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537857227&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G04T"
+        width: 817
         height: 545
         isCached: true
   - title: "The prosecutor vs. the 'king of sound bites': Why the Harris-Pence debate is no ordinary VP faceoff"
@@ -4008,22 +4040,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "GOP senator mispronounces Kamala Harris' name at Trump rally"
-    excerpt: "David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, on Friday by repeatedly mispronouncing her name at a Georgia. Perdue was wrapping up his remarks at an event in Macon when he referred to Harris as “KAH'-mah-lah?"
-    publishedDateTime: 2020-10-17T01:33:00Z
-    webUrl: "https://www.chron.com/news/article/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    ampWebUrl: "https://www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/GOP-senator-mispronounces-Kamala-Harris-name-at-15654602.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "HA HA! Donald Trump Loses To Biden in Ratings"
     excerpt: "First, in August the Democratic National Convention beat out the Republican National Convention by a good margin, and now, as Biden and Trump competed with Town Halls on ABC and NBC respectively, Biden once again won the ratings contest,"
     publishedDateTime: 2020-10-16T17:50:00Z
@@ -4071,6 +4087,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/952810b7-35a2-40cf-a21c-4ac6525d6349-AP_APTOPIX_Election_2020_Tru.jpg?auto=webp&crop=3546,1995,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Watch ‘SNL’ Flip Between Joe Biden, Donald Trump ‘Dueling Town Halls’"
+    excerpt: "We now present a rebroadcast of those town halls the way most Americans watched them… Flipping back and forth, trying to decide between a Hallmark movie and an alien autopsy”"
+    publishedDateTime: 2020-10-18T08:59:00Z
+    webUrl: "https://www.rollingstone.com/tv/tv-news/snl-joe-biden-donald-trump-dueling-town-halls-1077269/"
+    ampWebUrl: "https://www.rollingstone.com/tv/tv-news/snl-joe-biden-donald-trump-dueling-town-halls-1077269/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/tv/tv-news/snl-joe-biden-donald-trump-dueling-town-halls-1077269/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 90
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/SNL.jpg"
+        width: 2458
+        height: 1300
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
@@ -5025,14 +5057,14 @@ related:
         isCached: true
   - title: "As senior citizens abandon Trump, Joe Biden spends big on TV ads to build on his lead with them"
     excerpt: "Biden’s push for older voters reflects what one pollster called a \"startling\" shift from 2016, when seniors helped propel Trump to the White House."
-    publishedDateTime: 2020-10-18T10:20:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5967402002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5967402002"
+    publishedDateTime: 2020-10-18T12:41:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/18/election-2020-biden-tv-ads-senior-citizens/5967402002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/5967402002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5967402002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 78
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/f3acd84d-ecad-4be2-ba69-dba06e730fa5-biden_florida.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
@@ -5905,6 +5937,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "GOP Senator Mispronounces Kamala Harris' Name at Trump Rally"
+    excerpt: "Republican Sen. David Perdue mocked Kamala Harris, his Senate colleague and the Democratic vice presidential nominee, by repeatedly mispronouncing her name at a Georgia rally for President Donald Trump."
+    publishedDateTime: 2020-10-17T01:36:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/gop-senator-mispronounces-kamala-harris-name-at-trump-rally?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Republican senator mocks Kamala Harris’ name at Trump rally"
     excerpt: "Harris’ political opponents have repeatedly mispronounced her name since she became the first Black woman and first person of South Asian descent on a national ticket."
     publishedDateTime: 2020-10-17T03:15:00Z
@@ -5919,17 +5962,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Trump and Biden Try to Woo Early U.S. Voters on Sunday"
-    excerpt: "U.S. presidential rivals Donald Trump and Joe Biden will court early voters on Sunday as their campaigns step up events ahead of their final debate this week. Trump on Sunday will head to Nevada, a battleground state where more than 100,"
-    publishedDateTime: 2020-10-18T05:22:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday"
-    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-18/trump-and-biden-try-to-woo-early-us-voters-on-sunday?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 70
   - title: "Trump Sets Hectic Campaign Pace, While Frontrunner Biden Stays Home"
     excerpt: "President Donald Trump campaigned at a frenetic pace Saturday in a three-state trip that started with a Michigan rally where he called opponent Joe Biden a \"criminal\" and pounded his claim that the Democrats are anti-American."
     publishedDateTime: 2020-10-18T01:14:00Z

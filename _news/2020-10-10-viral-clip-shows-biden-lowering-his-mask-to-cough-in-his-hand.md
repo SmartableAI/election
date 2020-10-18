@@ -575,6 +575,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Will the Media Defeat Donald Trump?"
+    excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
+    publishedDateTime: 2020-10-18T12:08:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/524419_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Type of Leader We Can Expect Joe Biden to Be"
     excerpt: "With less than 20 days until Election Day, it's time to seriously consider the type of leader the candidates would be, should they make it to Inauguration Day 2021. Certainly,"
     publishedDateTime: 2020-10-14T23:30:00Z

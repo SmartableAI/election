@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why Biden is putting so many red states in play"
+    excerpt: "Poll of the week: A new Quinnipiac University poll of likely Georgia voters finds former Vice President Joe Biden at 51% and President Donald Trump at 44%.\n    \n"
+    publishedDateTime: 2020-10-18T11:32:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rc-nVampKOc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/biden-red-states-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/biden-red-states-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153803-203-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
     excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
     publishedDateTime: 2020-10-07T23:51:23Z

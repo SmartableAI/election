@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-12-what-trump-could-learn-from-the-fall-of-frances-own-fiery-law-and-order-president.md",
+      "title": "What Trump could learn from the fall of France's own fiery 'law and order' president",
+      "excerpt": "Americans are on the eve of a momentous political choice this November. But for a jump on how the story goes from here, consider what happened in France, where another \"back to normal\" candidate challenged a firebrand incumbent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "originalUrl": "https://www.cnn.com/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200930155625-01-sarkozy-hollande-debate-2012-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/europe/trump-france-sarkozy-analysis-intl/index.html",
+      "publishedDateTime": "2020-10-12T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-democrat-jaime-harrison-shatters-senate-fundraising-record-in-bid-to-oust-south-carolina-sen-lindsey-graham.md",
       "title": "Democrat Jaime Harrison shatters Senate fundraising record in bid to oust South Carolina Sen. Lindsey Graham",
       "excerpt": "Democratic Senate candidate Jaime Harrison, running to unseat Sen. Lindsey Graham in South Carolina, raised $57 million during the final full quarter of the campaign, shattering Senate fundraising records as his party seeks to wrest control of the chamber from Republicans.\n    \n",
@@ -1632,63 +1689,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-biden-describes-the-first-debate-as-a-clownish-undertaking.md",
-      "title": "Biden describes the first debate as a 'clownish undertaking'",
-      "excerpt": "Joe Biden was asked about his first debate with President Trump, and if he could stand up to his opponent in the future. He said the debate frustrated him but should have described it as a \"clownish undertaking\" instead of calling the president a clown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "originalUrl": "https://www.nbcnews.com/video/biden-describes-the-first-debate-as-a-clownish-undertaking-93196357601",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/j/MSNBC/Components/Video/202010/nbc_spec_biden_clown_201005_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93196357601",
-      "publishedDateTime": "2020-10-05T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

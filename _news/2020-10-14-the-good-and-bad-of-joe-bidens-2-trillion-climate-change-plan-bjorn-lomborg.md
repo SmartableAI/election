@@ -215,6 +215,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Harry Dunn death: Mum appeals to US candidate Joe Biden"
+    excerpt: "The mother of Harry Dunn has called on the US presidential candidate Joe Biden to help bring her son's alleged killer to justice if he wins the election. Charlotte Charles's 19-year-old son was killed when his motorbike and a car driven by American Anne Sacoolas crashed outside a US military base."
+    publishedDateTime: 2020-10-18T12:44:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-england-northamptonshire-54589802"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6A72/production/_109205272_harry_dunn.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z

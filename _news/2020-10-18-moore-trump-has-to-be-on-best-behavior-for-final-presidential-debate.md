@@ -1311,6 +1311,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump to open a new golf course named after his mother in Scotland despite opposition from conservationists and local residents"
+    excerpt: "The 18-hole course will be called \"MacLeod\" in honor of Trump's mother, Mary MacLeod who was from the Scottish island of Lewis."
+    publishedDateTime: 2020-10-18T11:50:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f8bf5bcc21cfb0019468a51?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Palestinian premier: 'God help us' if Trump wins re-election"
     excerpt: "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians. “If we are going to live another four years with President Trump, God help us,"
     publishedDateTime: 2020-10-13T16:44:00Z
@@ -2391,6 +2407,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "BfKx0x6S8Hmp65ZnM+tBxpbuvu6JAmvy7S+W5tqrTBkBD2Z39z5UYaY6qgu4d3aKUmlOw/krH5gUl36FspcTL1TzTjegUaF2vuVBrPfAdRe45N8qjG0MIr1+Y1FWsvppj0QIuSA3/F7m8f3VdlLmEqTB9mVm/Hx7j69O2p1u8Cvq9BJNmssQpJhrvPbZDFNvQCyX57Zys1KaDAEq/CCDrDdXXGawXhJKzDC+fN65c1VNftP4hRs4Q6qhXdSUOFnA5STn3vz4n6+4RBsFMHa0e8GXwhwrdVK19MN/WYcoz5pqF0yb4mx2Mbd8o6snGMVSWMEQsZVLMvc9be5iB6l/uSyqE3FDybVfBitb9qp4L3c=;jt3uDyOsQPK9iY5FsJ+JZA=="
+secured: "Bp4VLlIJ1BjgOqcy697b96qMSj1b26RCrj8iR5UmXaqOq2q57ibv/A8kMDH6yE2S7ophXm8PUJEp0zzh/Rk/6aW5e0NCPHGgh7a0mDREHWw+/w271Brtm41wfDzk7hkHjPy1zADFuC9rud9FTWWwqUdMH+bt8tkA3qe3P59YSce4224ZHLkb5UntCyIPToplwgAB8sqJucMpt0PmCIfPjut7jsxq0Nnbd3I2Cxz+QmN8KCax7GZ5QnAdEhHmyYpIbSqy0SOQ15DnErCtStPdhUfPrt1JXZbfS/Rehe2cAPJe2uqCDxzhddkqeCwBbU1zvnVvI1WCReo1EYLmIfjZQBMxaAGRFuG4PtWG2CL1mu5ZUBQcHdNMnMyQvBD9xTGwmYecsH8TYbD2P4rllMXaF9clU0P6wuALsdhNUuCRMmzTgsx5dIOiN35CPaw7GOdlxF9v8TihNxD8pXw+hglya/9U+6g0KzdtYzmmm+FBvKZVd4NIxHq+Y0WwHr2oF5qUhCU2CexKzZhNID7xsEpTTw==;w/wlCQIVkugHNUNAcwkCFA=="
 ---
 

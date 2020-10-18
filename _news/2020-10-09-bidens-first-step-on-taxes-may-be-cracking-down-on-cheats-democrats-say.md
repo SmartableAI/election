@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Puerto Rican newspaper picks Biden in first presidential endorsement"
+    excerpt: "Democratic presidential nominee Joe Biden notched the first presidential endorsement from El Nuevo Día, the largest circulated Puerto Rican newspaper, as he courts Latino voters ahead of the election."
+    publishedDateTime: 2020-10-18T13:15:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521572-puerto-rican-newspaper-picks-biden-in-first-presidential-endorsement"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521572-puerto-rican-newspaper-picks-biden-in-first-presidential-endorsement?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521572-puerto-rican-newspaper-picks-biden-in-first-presidential-endorsement?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09092020_1.jpg"
+        width: 980
+        height: 552
+        isCached: true
   - title: "Powered by trust on the pandemic, Biden leads by 12 points nationwide: POLL"
     excerpt: "Joe Biden holds a 17-point lead over Donald Trump in trust to handle the coronavirus pandemic in a new ABC News/Washington Post poll, powering the Democrat to a double-digit advantage in vote preference with the presidential election three weeks away."
     publishedDateTime: 2020-10-11T04:39:00Z

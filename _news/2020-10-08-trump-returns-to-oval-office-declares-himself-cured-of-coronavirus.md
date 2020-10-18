@@ -544,6 +544,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
+    excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
+    publishedDateTime: 2020-10-18T13:05:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-y9zniiB4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170925081333-scott-atlas-headshot-new-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New reports show White House politicking trumps science in telling coronavirus decisions"
     excerpt: "A series of new revelations about the federal government's coronavirus response could reinforce concerns about whether the Trump administration's political motives were a higher priority than the health of Americans.\n    \n"
     publishedDateTime: 2020-09-18T17:50:22Z

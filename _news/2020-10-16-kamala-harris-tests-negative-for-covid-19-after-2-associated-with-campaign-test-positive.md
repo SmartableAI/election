@@ -3,10 +3,10 @@ category: news
 title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
 excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
 publishedDateTime: 2020-10-15T19:25:00Z
-originalUrl: "https://abcnews.go.com/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-webUrl: "https://abcnews.go.com/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-suspends-travel-campaign-test-positive-covid/story?id=73631022"
+originalUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
 type: article
 quality: 116
 heat: -1
@@ -66,7 +66,7 @@ related:
   - title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
     excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
     publishedDateTime: 2020-10-16T05:27:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-harris/update-1-kamala-harris-pauses-in-person-campaigning-after-staffer-diagnosed-with-covid-19-idUSL1N2H60U2"
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
     type: article
@@ -598,6 +598,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "xOo/MyocnnlU2sw7FiNwEZILog9DGnBlLm/EijvYj0KXBAzKoJQv2pFTVBEUZRzHJ7yIoef8FMSLEr+Llt9DB1ina/yP+JlHp3I1jMvSvYnz2FVDpX2zSYsGt7BJSRWNo6WQqb4BmpQjoELTai5xNl/CIH7mUZC+vS4RlO28YWE7YEMZWM8HfbLbcZdHspj7ojOGB/CGbi63Nag4gVJpCKmlvFzZRbLLv5i6UdlYRZodiPrhhoJNpMLp4zEcL7yKDQ6KdAqmhoLne2BQHrulEUR7ZlA43+rCeNGjhFUgSpwP3xQbeWo9rt0niyBWUbnPmYQXGwurw88JZ8BLDekkotEC0ShQSo60lmUOh1QfZzs42ddER1KAIR0+r6US5g5PqumU2fecKiVbj1Klxs0k0sUU0R8OuCWCor/EEe2dNqM1YR7OLJLKykYEH0mG4X0lV2hqxz30/MhL301hcDu2XjGqsm/NSDALCf33kDS6roNfrZBWkOmgPcg8PyQeojEas9XBKZGVqIvwOCp2GIAcHw==;gpVosFfidZSlb7MvtRw+Pg=="
+secured: "d0edkc1HaBNcl4y5mnX/cBbZp/gSGd7CAc8NPklMaefWVi5vSDj5ymPDJVjU8LXjE/PRoevHVOQhTdknvoobBfNbXHplANx/kHg5oI3Jx6AekWRvE6IKTsmiudhAAEccn+mb5jx3RodEGwsVm4n+rzRC6zqui1evdKMFtsdBgJEyQaHpXA5n0trhUr01A+FP8paYlQ7iEcizMgJRgQ0Gq4Xas9Hjg6FXwFmZf5epabq3XXAaHOpZwnwYo4pZwGrtXlkNpQrBTlvEV04ypmB1+OpbNdWjh69+YhCwrSr3Y+1wWpGj9AhC0+qyBS4tPQdex9JFaswLB4jfLLNA7nkPcuHATwILtWZFygrUqD1J40Y=;z6vADbabpNLf5Vs6RRTPIA=="
 ---
 

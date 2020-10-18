@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
+    excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
+    publishedDateTime: 2020-10-18T13:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Donald-Trump-.jpg"
+        width: 640
+        height: 414
+        isCached: true
   - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
     excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
     publishedDateTime: 2020-10-17T13:30:00Z

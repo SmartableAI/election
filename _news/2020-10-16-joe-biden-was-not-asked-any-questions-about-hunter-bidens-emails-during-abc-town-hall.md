@@ -170,6 +170,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Sen. Ron Johnson presses Wray on validity of Hunter Biden laptop claim"
+    excerpt: "Sen. Ron Johnson is calling on FBI Director Christopher Wray to confirm or deny details regarding a laptop said to have belonged to Democratic presidential nominee Joe Biden's son Hunter Biden."
+    publishedDateTime: 2020-10-18T13:35:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gmF5mfJ-MqI/sen-johnson-presses-wray-on-validity-of-hunter-biden-laptop-claim"
+    ampWebUrl: "https://www.foxnews.com/politics/sen-johnson-presses-wray-on-validity-of-hunter-biden-laptop-claim.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-johnson-presses-wray-on-validity-of-hunter-biden-laptop-claim.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC, House progressives call for ban on corporate executives in a Biden cabinet"
     excerpt: "House progressives and liberal groups Friday called for corporate lobbyists and executives to be shut out from a Biden Administration, drawing a clear line on what they expect if Democrats win the election."
     publishedDateTime: 2020-10-16T16:59:20Z

@@ -1323,6 +1323,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump to open a new golf course named after his mother in Scotland despite opposition from conservationists and local residents"
+    excerpt: "The 18-hole course will be called \"MacLeod\" in honor of Trump's mother, Mary MacLeod who was from the Scottish island of Lewis."
+    publishedDateTime: 2020-10-18T11:50:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f8bf5bcc21cfb0019468a51?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Donald Trump Threatens To Leave U.S. If He Loses Election"
     excerpt: "Donald Trump would consider losing the election as an embarrassment. On November 3rd, Americans will be heading to the polls to vote for the next President of the United States. There are two viable options for President,"
     publishedDateTime: 2020-10-17T14:47:00Z

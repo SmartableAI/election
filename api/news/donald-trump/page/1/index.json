@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-18-stimulus-bill-2-trump-says-mnuchin-hasnt-come-home-with-the-bacon.md",
+      "title": "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’",
+      "excerpt": "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus.",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/10/stimulus-2-Trump-Mnuchin.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "publishedDateTime": "2020-10-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-replay-trump-holds-a-make-america-great-again-rally-in-janesville-wisconsin.md",
       "title": "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin",
       "excerpt": "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior.",
@@ -518,7 +561,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -1262,7 +1305,7 @@
       "originalUrl": "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408",
       "featuredContent": null,
       "highlight": null,
-      "heat": 324,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -1454,49 +1497,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe.md",
-      "title": "Rick Gates Calls on Trump to Pardon Him — And Everyone Convicted of Crimes by Mueller Probe",
-      "excerpt": "Donald Trump's former 2016 deputy camping manager Rick Gates calls on the president to pardon him — and everyone else convicted of crimes by the Mueller Probe",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/",
-      "originalUrl": "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mediaite.com/wp-content/uploads/2020/10/Rick-Gates-Calls-on-Trump-to-Pardon-Him-And-Everyone-Convicted-of-Crimes-by-Mueller-Probe-1200x672.jpg",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/",
-      "cdnAmpWebUrl": "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/",
-      "publishedDateTime": "2020-10-14T18:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mediaite",
-        "domain": "mediaite.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

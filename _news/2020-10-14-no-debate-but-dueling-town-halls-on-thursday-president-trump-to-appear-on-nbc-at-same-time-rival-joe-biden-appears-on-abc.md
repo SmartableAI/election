@@ -1312,6 +1312,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Donald Trump to open a new golf course named after his mother in Scotland despite opposition from conservationists and local residents"
+    excerpt: "The 18-hole course will be called \"MacLeod\" in honor of Trump's mother, Mary MacLeod who was from the Scottish island of Lewis."
+    publishedDateTime: 2020-10-18T11:50:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f8bf5bcc21cfb0019468a51?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
   - title: "Palestinian premier: 'God help us' if Trump wins re-election"
     excerpt: "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians. “If we are going to live another four years with President Trump, God help us,"
     publishedDateTime: 2020-10-13T16:44:00Z

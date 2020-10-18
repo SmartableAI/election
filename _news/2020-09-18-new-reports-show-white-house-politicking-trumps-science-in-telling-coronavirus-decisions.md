@@ -543,6 +543,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump coronavirus adviser Scott Atlas undermines importance of masks as cases spike"
+    excerpt: "White House coronavirus task force member Dr. Scott Atlas sought to undermine the importance of face masks on Saturday as coronavirus cases spike across the US.\n    \n"
+    publishedDateTime: 2020-10-18T13:05:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5-y9zniiB4E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/scott-atlas-face-masks-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170925081333-scott-atlas-headshot-new-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's Supreme Court nominee Amy Coney Barrett was diagnosed with coronavirus this summer"
     excerpt: "Judge Amy Coney Barrett, the President's nominee for the US Supreme Court, was diagnosed with coronavirus late this summer but has recovered, according to three sources familiar with the matter.\n    \n"
     publishedDateTime: 2020-10-02T18:20:49Z
