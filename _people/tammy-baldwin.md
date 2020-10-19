@@ -10,7 +10,7 @@ website: https://www.baldwin.senate.gov/
 twitter:
   username: SenatorBaldwin
   url: https://twitter.com/SenatorBaldwin
-  followers: 126851
+  followers: 126852
 
 youtube:
   url: https://www.youtube.com/user/SenatorTammyBaldwin

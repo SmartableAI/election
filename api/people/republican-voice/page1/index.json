@@ -16,7 +16,7 @@
       "twitter": {
         "username": "Mike_Pence",
         "url": "https://twitter.com/Mike_Pence",
-        "followers": 5416020
+        "followers": 5416096
       },
       "topics": [
         "Election",
@@ -54,7 +54,7 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 87284483
+        "followers": 87284608
       },
       "topics": [
         "Election",
@@ -79,27 +79,27 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/lamar-alexander.md",
-      "title": "Lamar Alexander",
-      "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
-      "sourceUrl": "https://smartableai.github.io/election/api/people/lamar-alexander/index.json",
-      "webUrl": "https://smartable.ai/apps/election/people/lamar-alexander/",
+      "path": "_people/john-barrasso.md",
+      "title": "John Barrasso",
+      "excerpt": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/john-barrasso/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/john-barrasso/",
       "type": "profile",
-      "name": "Lamar Alexander",
-      "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
-      "location": "Tennessee",
-      "website": "https://www.alexander.senate.gov/public/",
+      "name": "John Barrasso",
+      "bio": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+      "location": "Wyoming",
+      "website": "https://www.barrasso.senate.gov/public/",
       "twitter": {
-        "username": "senalexander",
-        "url": "https://twitter.com/senalexander",
-        "followers": 136190
+        "username": "senjohnbarrasso",
+        "url": "https://twitter.com/senjohnbarrasso",
+        "followers": 149045
       },
       "youtube": {
-        "url": "https://www.youtube.com/user/lamaralexander",
-        "subscribers": 472
+        "url": "https://www.youtube.com/user/barrassowyo",
+        "subscribers": 679
       },
       "facebook": {
-        "url": "https://www.facebook.com/senatorlamaralexander"
+        "url": "https://www.facebook.com/johnbarrasso"
       },
       "topics": [
         "Election",
@@ -110,13 +110,13 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 540,
+      "heat": 547,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_400x400.JPG",
           "width": 400,
           "height": 400,
-          "title": "Lamar Alexander",
+          "title": "John Barrasso",
           "isCached": true
         }
       ],
@@ -157,9 +157,75 @@
               "isCached": true
             }
           ]
+        },
+        {
+          "path": "",
+          "title": "John Barrasso",
+          "excerpt": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+          "type": "profile",
+          "name": "John Barrasso",
+          "bio": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+          "topics": [
+            "Election",
+            "Republican Voice"
+          ],
+          "heat": 547,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_400x400.JPG",
+              "width": 400,
+              "height": 400,
+              "title": "John Barrasso",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "size": 1,
+      "size": 2,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 547,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lamar Alexander",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lamar-alexander.md",
+      "title": "Lamar Alexander",
+      "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/lamar-alexander/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/lamar-alexander/",
+      "type": "profile",
+      "name": "Lamar Alexander",
+      "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+      "location": "Tennessee",
+      "website": "https://www.alexander.senate.gov/public/",
+      "twitter": {
+        "username": "senalexander",
+        "url": "https://twitter.com/senalexander",
+        "followers": 136191
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/user/lamaralexander",
+        "subscribers": 472
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/senatorlamaralexander"
+      },
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
@@ -191,7 +257,7 @@
       "twitter": {
         "username": "seanhannity",
         "url": "https://twitter.com/seanhannity",
-        "followers": 5323020
+        "followers": 5323057
       },
       "topics": [
         "Election",

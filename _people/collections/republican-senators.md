@@ -2,10 +2,11 @@
 name: "Republican Senators"
 bio: "US senators of the Republican Party"
 type: "collection"
-heat: 540
+heat: 547
 
 items:
   - lamar-alexander
+  - john-barrasso
 
 topics:
   - Election

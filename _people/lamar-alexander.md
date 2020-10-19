@@ -10,7 +10,7 @@ website: https://www.alexander.senate.gov/public/
 twitter:
   username: senalexander
   url: https://twitter.com/senalexander
-  followers: 136190
+  followers: 136191
 
 youtube:
   url: https://www.youtube.com/user/lamaralexander

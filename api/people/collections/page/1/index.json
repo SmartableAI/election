@@ -61,15 +61,59 @@
               "isCached": true
             }
           ]
+        },
+        {
+          "path": "",
+          "title": "Michael Bennet",
+          "excerpt": "U.S. Senator for Colorado",
+          "type": "profile",
+          "name": "Michael Bennet",
+          "bio": "U.S. Senator for Colorado",
+          "topics": [
+            "Election",
+            "Democratic Voice"
+          ],
+          "heat": 598,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/897159863863836676/lopmOrpE_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Michael Bennet",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Kirsten Gillibrand",
+          "excerpt": "United States Senator for New York. Official Senate account. She/her. Find #COVID19 resources: https://t.co/8EC0oiYTP2",
+          "type": "profile",
+          "name": "Kirsten Gillibrand",
+          "bio": "United States Senator for New York. Official Senate account. She/her. Find #COVID19 resources: https://t.co/8EC0oiYTP2",
+          "topics": [
+            "Election",
+            "Democratic Voice"
+          ],
+          "heat": 381,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1122951029606297602/LjBFG3YX_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Kirsten Gillibrand",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "size": 2,
+      "size": 4,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 666,
+      "heat": 717,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
@@ -116,15 +160,37 @@
               "isCached": true
             }
           ]
+        },
+        {
+          "path": "",
+          "title": "John Barrasso",
+          "excerpt": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+          "type": "profile",
+          "name": "John Barrasso",
+          "bio": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+          "topics": [
+            "Election",
+            "Republican Voice"
+          ],
+          "heat": 547,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_400x400.JPG",
+              "width": 400,
+              "height": 400,
+              "title": "John Barrasso",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "size": 1,
+      "size": 2,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 540,
+      "heat": 547,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",

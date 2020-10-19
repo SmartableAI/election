@@ -9,7 +9,7 @@ website: https://www.whitehouse.gov/people/mike-pence/
 twitter:
   username: Mike_Pence
   url: https://twitter.com/Mike_Pence
-  followers: 5416020
+  followers: 5416096
 
 topics:
   - Election

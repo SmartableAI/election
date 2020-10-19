@@ -2,11 +2,13 @@
 name: "Democratic Senators"
 bio: "US senators of the Democratic Party"
 type: "collection"
-heat: 666
+heat: 717
 
 items:
   - kamala-harris
   - tammy-baldwin
+  - michael-bennet
+  - kirsten-gillibrand
 
 topics:
   - Election
