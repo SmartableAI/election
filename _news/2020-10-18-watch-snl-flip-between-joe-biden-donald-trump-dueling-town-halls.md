@@ -555,6 +555,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump and Biden are virtually tied in swing state Ohio 2 weeks before Election Day"
+    excerpt: "Not a single Republican candidate has ever ascended to the presidency without winning Ohio."
+    publishedDateTime: 2020-10-19T17:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-tied-in-ohio-two-weeks-until-election-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-tied-in-ohio-two-weeks-until-election-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-tied-in-ohio-two-weeks-until-election-day-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 149
+    images:
+      - url: "https://i.insider.com/5f8da1fe9e9fe4001900a0d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump insults Harris as 'a monster' morning after vice presidential debate"
     excerpt: "President Donald Trump insulted Sen. Kamala Harris as a \"monster\" and a \"communist\" in a Fox Business interview the morning after the vice presidential debate."
     publishedDateTime: 2020-10-08T14:32:00Z
@@ -4340,6 +4356,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/PDTF/952810b7-35a2-40cf-a21c-4ac6525d6349-AP_APTOPIX_Election_2020_Tru.jpg?auto=webp&crop=3546,1995,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Kamala Harris: Trump is trying to 'destroy our democracy'"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that President Trump and her political opponents are trying to destroy democracy."
+    publishedDateTime: 2020-10-19T17:23:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/kamala-harris-trump-trying-destroy-our-democracy/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/kamala-harris-trump-trying-destroy-our-democracy/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/kamala-harris-trump-trying-destroy-our-democracy/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/AP20293609207491_c0-0-3707-2162_s1200x700.jpg?1acee9eb5819ccf95e1ff691b755e070d540b0eb"
+        width: 1200
+        height: 700
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."

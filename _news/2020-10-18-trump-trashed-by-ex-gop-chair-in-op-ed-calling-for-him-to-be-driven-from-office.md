@@ -47,6 +47,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Ivanka Trump to attend fundraiser in Naples on Wednesday"
+    excerpt: "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week."
+    publishedDateTime: 2020-10-19T17:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
     excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
     publishedDateTime: 2020-10-13T15:31:00Z

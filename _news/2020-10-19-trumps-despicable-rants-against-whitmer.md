@@ -176,6 +176,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump delivers expletive-filled pep talk to campaign staff"
+    excerpt: "We are winning right now and they know it...So get off this phone and work your asses off,\" the president said in a phone call to his team."
+    publishedDateTime: 2020-10-19T16:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/80/ce/22e0d13a4f5298ce81078d6bd252/20201019-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
     publishedDateTime: 2020-10-09T21:26:00Z

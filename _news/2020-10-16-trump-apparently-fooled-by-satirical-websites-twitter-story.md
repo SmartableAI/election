@@ -160,6 +160,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump delivers expletive-filled pep talk to campaign staff"
+    excerpt: "We are winning right now and they know it...So get off this phone and work your asses off,\" the president said in a phone call to his team."
+    publishedDateTime: 2020-10-19T16:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/80/ce/22e0d13a4f5298ce81078d6bd252/20201019-donald-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump's despicable rants against Whitmer"
     excerpt: "Dean Obeidallah writes that Donald Trump's continued attacks on Michigan Governor Gretchen Whitmer -- the target of an alleged rightwing kidnap plot -- shows that he makes up for his of compassion and empathy with cruelty and vindictiveness."
     publishedDateTime: 2020-10-18T23:43:00Z

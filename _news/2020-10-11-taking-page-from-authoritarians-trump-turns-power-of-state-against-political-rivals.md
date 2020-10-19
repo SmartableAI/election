@@ -331,6 +331,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "‘Fox & Friends’ Host Steve Doocy to Trump: Stop Talking About Hunter Biden"
+    excerpt: "In the two-and-a-half days immediately following the New York Post’s hit job on Hunter Biden, Fox News reportedly dedicated three times as much airtime to the former vice president’s son as it did to the COVID-19 pandemic."
+    publishedDateTime: 2020-10-19T16:59:00Z
+    webUrl: "https://www.thedailybeast.com/fox-and-friends-host-steve-doocy-tell-trump-to-stop-talking-about-hunter-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 58
 
 secured: "XMglAqbbiyCuht3OoTTHA7ylvidAaQ1OiQ/wO60ZvnH3kr4Ux+HyOguMSfxa4mKal4WqoFdbv8+HBxY4afdngQDPkZlDtCQQ4Gdmg01dWYf47aC03eXEAwKauOk+8bbqfYIaIWu9C7R05XtA8W2UBkjMHVEH7oQc3nOQIPD05fmy7nxPH0M3bT8Mq/BMUtEKfaJAh/LqLvQ+2IDkTmQuyOwZnRviua8LKnhFStj4QJIiNGsICfppUgBqVt6f+Vey57+d2G7x/wtoNC4g6H52q9i3IKfl/+iCxe3/ZhAyPzxUIFB3X0t8+OZi4Z2CzbfcGPHRYwqPo4WnmTpMGvkhKtZ8Fo5mvqZskawVSfZaLdnQvol0xklyq29/2bLgYRlRSKEKjBX4vfgDzPV9y7VhJdXDaySm9yBqjAGk/zWYT0lUCGW6oxDKzeH3HALj8f2MvdPlbCPJwem9gd2lnlL1+TTWCGBeX504Sht5/3NsZFhkT76WiP5zAm/rgKkx3xuIR5w2WiT+1ngjGlkPFRo+iQ==;zCFITLcmYAbCAoekntujWg=="
 ---

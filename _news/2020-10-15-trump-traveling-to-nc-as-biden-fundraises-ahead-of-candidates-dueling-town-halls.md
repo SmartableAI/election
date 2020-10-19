@@ -221,6 +221,22 @@ related:
         width: 996
         height: 560
         isCached: true
+  - title: "Trump predicts victory in call with campaign staffers, suggests race has turned in last 3 weeks"
+    excerpt: "President Trump on Monday predicted said he is “going to win” on Nov. 3, saying the campaign has “never been in a stronger position.\""
+    publishedDateTime: 2020-10-19T16:03:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JcfElRhGbM/trump-predicts-victory-campaign-call"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-predicts-victory-campaign-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-predicts-victory-campaign-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
     excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
     publishedDateTime: 2020-10-12T20:43:04Z

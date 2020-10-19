@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 865
+heat: 885
 published: true
 
 provider:
@@ -367,6 +367,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420160/201014-presidents-town-hall-live-blog-cs_cf832691e86ca2039abdc1a60af3f2be.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "David Perdue mocks Kamala Harris’ name in Trump rally warm-up"
+    excerpt: "David Perdue mocked Sen. Kamala Harris on Friday, derisively mispronouncing the Democratic vice presidential candidate's name during a campaign rally in Georgia. “Kamala? Kamala? Kamala-mala-mala? I don’t know."
+    publishedDateTime: 2020-10-17T02:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/1c/32/419a55cc4a8f88519a95dc8d24d9/apperdue.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden focuses on shuttered bars and clubs in a new ad faulting Trump."
     excerpt: "A new Biden ad focuses on bars and clubs that are struggling for survival in the pandemic. By Neil Vigdor Credit...Biden Harris campaign via YouTube Joseph R. Biden Jr. is flipping the script on President Trump,"

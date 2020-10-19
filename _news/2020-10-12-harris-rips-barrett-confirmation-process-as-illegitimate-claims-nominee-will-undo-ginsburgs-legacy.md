@@ -46,6 +46,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "House Republicans urge Barr to appoint special counsel to probe alleged Biden revelations"
+    excerpt: "EXCLUSIVE: House Republicans on Monday wrote to Attorney General William Barr, urging him to appoint a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter -- specifically the elder Biden’s alleged participation in his son’s business"
+    publishedDateTime: 2020-10-19T16:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3QqEeHpmoc/house-republicans-barr-special-counsel-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0/StseSjk9bptJ7PSkN6iwwTBqP2Xixan2gtYwxF53OXkjRcvGEbYqSeWVfmbTJmhcyEcFL88asKM7gj+I77TZVZ7HbwZJXpQwgpMEs4M4YWSEVTUzyJFiTk3Q4pINEECsckvRGZRk4lyU9z0+fXzJ325Tv3YYxRolYbazZ+1HUFCY6ZV9bTmre9EkljZUT+6/c/AT04YqkyeQKQ22oTWz+f3MBPERnJOdqGO6mQX5Am0tv7M3vBC2wH8XLzVZNstfzNwkfW40Q0IxXMH6LJNaTfwa5h2KXhZ1z4lBRnSnJPOkN9iEY4iw6lNZPGb/SDDGFLIpeH14ZszpMDwQBtL/qAAtBo33+fttu5KrNcy6k=;ViNwYgLin8kdwBACeYURKA=="
 ---

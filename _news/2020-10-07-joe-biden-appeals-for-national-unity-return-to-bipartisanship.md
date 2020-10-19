@@ -237,6 +237,22 @@ related:
         width: 4017
         height: 2678
         isCached: true
+  - title: "The real Joe Biden is far from the one you endorsed"
+    excerpt: "If Joe Biden wins but is unable to carry out his duties, then it is likely to be the far left progressives who will actually be running things. Is that really what The Plain Dealer is endorsing, asks Jim Johnston of Avon Lake in a letter to the editor."
+    publishedDateTime: 2020-10-19T17:11:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V6YIY2S4QJDWJLC3VGTNZA3T5Q.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
     publishedDateTime: 2020-10-13T22:24:00Z

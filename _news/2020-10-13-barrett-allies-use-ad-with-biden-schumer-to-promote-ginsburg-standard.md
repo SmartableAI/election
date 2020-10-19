@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-sc
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 148
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5b1135c-af2a-4186-b6c8-db47b4ebffe4/130aa47a-e67a-48cf-a64e-ef6d16d07d7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans urge Barr to appoint special counsel to probe alleged Biden revelations"
+    excerpt: "EXCLUSIVE: House Republicans on Monday wrote to Attorney General William Barr, urging him to appoint a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter -- specifically the elder Biden’s alleged participation in his son’s business"
+    publishedDateTime: 2020-10-19T16:50:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3QqEeHpmoc/house-republicans-barr-special-counsel-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
         width: 1280
         height: 720
         isCached: true

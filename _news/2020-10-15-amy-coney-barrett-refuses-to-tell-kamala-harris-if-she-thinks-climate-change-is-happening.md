@@ -231,6 +231,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris"
+    excerpt: "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?"
+    publishedDateTime: 2020-10-19T16:06:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
     publishedDateTime: 2020-10-15T07:14:00Z
@@ -642,6 +658,33 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Jacksonville, Florida"
+    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting."
+    publishedDateTime: 2020-10-19T16:23:00Z
+    webUrl: "https://www.c-span.org/video/?477126-1/senator-kamala-harris-campaigns-jacksonville-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Orlando, Florida"
+    excerpt: "T11:55:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Senator Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-10-19T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?477125-1/senator-kamala-harris-campaigns-orlando-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
+    excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
+    publishedDateTime: 2020-10-19T16:53:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246557098.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 33
 
 secured: "vZ49TSlqId108NU3Tgph0EBLvYxdDEh1dOTjk9uIFGH1qyLQBVEtCqq/qmB56883m5IbwyvN4oLo7mhe/wmXKHo/DJOi/64QXjnHlZAmKLHvm7Gpqe5ytcHQ3Cl09T23dA+LQ6KlHO2a9J5XI8/LgmpNnhIVT9aEaJOnlWHjw4SYNNSbzRovYgF/hn7CZDS3PZ1SSlo1BBN+AYlSw9dQowL6JiiWv8V5IF0o7aF4nnOdLpSN5mjjQalDzGNvujEfbAMucLggvfBTDZ2ZALAejiqfbUQHKAOzXJDETPZf6+7TkSoYoPxlFtmapannCVDuPBQ8bTPOAKc5/sFUROozI/3+a6gU84xDmwsGbsmFdCoLuG5p8DfbZnZOeOo7Z5X1BxU6Rksb0Y0UDU63Zg4gIzpXZT7mnnCD9TyZQsCwaGwOIy79J08xrXYzJx9DbjPelRrfjWpVZDIsXq0KkTurQMBVgV6cRSvJBG1ixihezto1kNEQPefSUhLl89vdzSrN5klnStNlRHe+C/WHSJ8itg==;7chsNoyzUT88uuthEz4mHQ=="
 ---

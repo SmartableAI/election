@@ -333,6 +333,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden mum on Hunter Biden emails, alleged knowledge of son's overseas business dealings"
+    excerpt: "Democratic presidential nominee Joe Biden has remained mum on questions about his knowledge of his son Hunter’s overseas business dealings, which were discussed in a series of emails purportedly found on a laptop belonging to his son."
+    publishedDateTime: 2020-10-19T16:02:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pWRCY5t4ZzY/joe-biden-response-hunter-biden-emails-business-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-response-hunter-biden-emails-business-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-response-hunter-biden-emails-business-dealings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
     publishedDateTime: 2020-10-17T14:54:00Z

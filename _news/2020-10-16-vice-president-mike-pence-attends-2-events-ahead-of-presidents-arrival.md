@@ -341,6 +341,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
+    excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
+    publishedDateTime: 2020-10-19T17:01:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/19/mike-pence-campaign-fort-wayne-thursday-vote-indy-friday/3712193001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3712193001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3712193001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Mike Pence To Campaign In Miami"
     excerpt: "Vice President Mike Pence will make appearances Thursday in Miami, as President Donald Trump’s re-election campaign ratchets up its focus on Florida."
     publishedDateTime: 2020-10-14T01:49:00Z

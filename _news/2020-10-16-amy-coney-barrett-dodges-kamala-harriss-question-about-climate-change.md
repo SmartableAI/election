@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/changing-america/sustainability/climate-change/5
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp"
 type: article
 quality: 125
-heat: 945
+heat: 1025
 published: true
 
 provider:
@@ -220,6 +220,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris"
+    excerpt: "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?"
+    publishedDateTime: 2020-10-19T16:06:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 104
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
@@ -643,6 +659,33 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Jacksonville, Florida"
+    excerpt: "Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting. 2020 vice presidential candidate Sen. Kamala Harris (D-CA) speaks at a voter mobilization event in Florida’s capital of Jacksonville on the state’s first day of in-person voting."
+    publishedDateTime: 2020-10-19T16:23:00Z
+    webUrl: "https://www.c-span.org/video/?477126-1/senator-kamala-harris-campaigns-jacksonville-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Orlando, Florida"
+    excerpt: "T11:55:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Senator Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-10-19T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?477125-1/senator-kamala-harris-campaigns-orlando-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
+    excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
+    publishedDateTime: 2020-10-19T16:53:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246557098.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 33
 
 secured: "lCfBJVFINfQNnXbUFl8sPpcB58ggQnKvrYDfpJLybtZ8ixSzEOr+zsEF3rqhv13CPM1ItlCu9aQ4zBa8g2poctje/NQJXPrjpMnFOAWBMXzgLp+pI0ntSIWnsKVuT7kk51phkbMPTTa1AsNr6eyrLL4Any4vjA3GZr954SGts3LUPObjsE0F2XssYVI7QVOdkdIveeLJdpiOGOwJlUiqbc8I1q24N7BLu4yiMTHG3w30+WLq8DVOeOSAPjTOrlLgKY73eZnq2PznSAKMSjac+3tbr6kZosyEmj/b82MzN76h3eDQPiJf/hmMS9nomIuEYULTwa1x7xZovrnaGIbilXTG2glX789A6LY2NUOeen9w6LVR9VWnzG5B3E4hEqEiBUu/qQz2YrETYSAFpjQGbhoJGVrV3kzGCizBhKiyjOgXGwMxQa6qpOVBnev7hyYGIB/Fm2E9lY6TGO520YrZ9128uh7sfAV1K2wdzPkdFYkGRJLbije80xWVKUD7YiR8grxsPAwS4rtWksPNS51SSA==;wtluqwfUWLKs+cF8uD9cQA=="
 ---

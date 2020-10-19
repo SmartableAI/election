@@ -416,6 +416,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Decision on subpoena for Trump tax returns now in hands of Supreme Court"
+    excerpt: "With just over two weeks until the presidential election, a decision on whether to further delay handing over President Donald Trump's financial records to New York prosecutors now rests with the Supreme Court after Trump's attorneys filed a reply brief Monday to argue for a stay of the \"unprecedented\""
+    publishedDateTime: 2020-10-19T16:40:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iuvhoaKC9qM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/trump-tax-returns-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/trump-tax-returns-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154515-101-trump-lead-image-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judge suggests White House counsel is overriding Trump's position on Russia docs"
     excerpt: "A federal judge -- sensing the White House may be overriding the orders of President Donald Trump as he flails against the Russia investigation -- has given the Justice Department five days to explain Trump's true wishes on declassifying all Mueller investigation documents.\n    \n"
     publishedDateTime: 2020-10-16T16:56:15Z
@@ -861,6 +877,20 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419523/201012-donald-trump-ew-631p_dc603b1683dc1d03bc128161b3eafc4f.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "As Election Day nears, Trump escalates offensive against Fauci"
+    excerpt: "Trump started taking cheap shots at Dr. Anthony Fauci. Today, the president took his offensive in an even uglier direction."
+    publishedDateTime: 2020-10-19T17:06:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/election-day-nears-trump-escalates-offensive-against-fauci-ncna1243896"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_29/3397235/200715-fauci-trump-jm-1420_fa42893019e62510d62dfa516954e035.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Democrats rip Trump for suggesting Gold Star families could have given him Covid-19"
     excerpt: "Top congressional Democrats condemned President Donald Trump on Thursday after the commander in chief suggested that he might have contracted Covid-19 from Gold Star family members who were too close to him when telling stories of their loved ones who died in the line of duty."

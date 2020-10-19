@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013175114-wolf-blitzer-nancy-pelosi-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump to make first campaign appearance in months"
+    excerpt: "First lady Melania Trump will join President Donald Trump at his Erie, Pennsylvania, rally on Tuesday evening, according to a White House official. It will be the first lady's first in-person appearance at a campaign event, outside of August's Republican National Convention speech at the White House,"
+    publishedDateTime: 2020-10-19T16:29:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5CTRVHYo9ZQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/melania-trump-campaign-event/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200727212235-melania-trump-rose-garden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

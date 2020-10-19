@@ -384,6 +384,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "David Perdue mocks Kamala Harris’ name in Trump rally warm-up"
+    excerpt: "David Perdue mocked Sen. Kamala Harris on Friday, derisively mispronouncing the Democratic vice presidential candidate's name during a campaign rally in Georgia. “Kamala? Kamala? Kamala-mala-mala? I don’t know."
+    publishedDateTime: 2020-10-17T02:12:00Z
+    webUrl: "https://www.politico.com/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/16/david-perdue-mocks-kamala-harris-name-429996"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/1c/32/419a55cc4a8f88519a95dc8d24d9/apperdue.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "The Trump Taxes Story Exposes a Glaring Hole in Biden’s Criminal Justice Platform"
     excerpt: "A series of recent reports on President Donald Trump’s finances raises reasonable questions about whether Trump may have committed criminal conduct in the course of tax evasion. The fallout also exposes a glaring hole in Joe Biden’s criminal justice platform—namely,"
     publishedDateTime: 2020-10-10T12:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/c9/db/76268b5049a3bebd65210400bc30/ap20290037876267-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump delivers expletive-filled pep talk to campaign staff"
+    excerpt: "We are winning right now and they know it...So get off this phone and work your asses off,\" the president said in a phone call to his team."
+    publishedDateTime: 2020-10-19T16:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-gives-expletive-filled-pep-talk-campaign-staff-430155"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/80/ce/22e0d13a4f5298ce81078d6bd252/20201019-donald-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

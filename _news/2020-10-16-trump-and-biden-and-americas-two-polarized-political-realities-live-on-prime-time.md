@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 584
+heat: 604
 published: true
 
 provider:
@@ -330,6 +330,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "‘Fox & Friends’ Host Steve Doocy to Trump: Stop Talking About Hunter Biden"
+    excerpt: "In the two-and-a-half days immediately following the New York Post’s hit job on Hunter Biden, Fox News reportedly dedicated three times as much airtime to the former vice president’s son as it did to the COVID-19 pandemic."
+    publishedDateTime: 2020-10-19T16:59:00Z
+    webUrl: "https://www.thedailybeast.com/fox-and-friends-host-steve-doocy-tell-trump-to-stop-talking-about-hunter-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 58
 
 secured: "wkfXpWCROHw/uCvSdVN7P6ur9D199SZCNbHJwaY15CpFHBCyZV7vzm8dYD0873duGl+INIYDf9MVf1nwFOAB3sXLCbXgPNj20nDMKZDU2zGC5O+hDEV0346MD6ZB6HBDKcRCvsmoJLieTs+dfFueMV1D2bGB+nV5dRS1a6ChMAbtKqaAY2U9Djqm6yd9PC1OGIKi8YDcGUynC2YdTj9EkZstdDQPOgikAyL7Kzmlbk2oM3Ya0YNAz8ggdemPRaZ7/T5sYJ6eanQtzegaa6Tt3rqu1F70BhR/+A8bF2CQOXFWnOaauGHq70IkocaEpAvz1yQG3kxUqL1LHkNJsu6zi0JUNx+AvfyRrqVf+lIKDGs=;Fnw+tIdwkClb+wXlz2oCzQ=="
 ---
