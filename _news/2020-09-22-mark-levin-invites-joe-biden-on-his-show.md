@@ -414,6 +414,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump calls Biden 'corrupt,' campaign responds"
+    excerpt: ""
+    publishedDateTime: 2020-10-19T04:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGQyLLbbD7c/live-updates-trump-calls-biden-corrupt-campaign-responds"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-calls-biden-corrupt-campaign-responds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-calls-biden-corrupt-campaign-responds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a9d273-a728-4c7c-a878-0eea2a2d61b9/2e149a47-e5fd-4e99-97d2-03818d03c97d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z

@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Biden Campaign Warns Supporters: 'Donald Trump Can Still Win This Race'"
-excerpt: "Joe Biden's campaign is urging its supporters not to become complacent in the final weeks of the presidential race, even as polling suggests the"
-publishedDateTime: 2020-10-18T20:55:00Z
-originalUrl: "https://www.nhpr.org/post/biden-campaign-warns-supporters-donald-trump-can-still-win-race"
-webUrl: "https://www.nhpr.org/post/biden-campaign-warns-supporters-donald-trump-can-still-win-race"
+excerpt: "In a memo, Joe Biden's campaign manager cautioned supporters not to get complacent, despite his polling lead over President Trump."
+publishedDateTime: 2020-10-18T19:43:00Z
+originalUrl: "https://www.npr.org/2020/10/18/925102703/biden-campaign-warns-supporters-donald-trump-can-still-win-this-race"
+webUrl: "https://www.npr.org/2020/10/18/925102703/biden-campaign-warns-supporters-donald-trump-can-still-win-this-race"
 type: article
-quality: 70
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: New Hampshire Public Radio
-  domain: nhpr.org
+  name: NPR
+  domain: npr.org
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202010/925159348.jpg"
-    width: 800
-    height: 450
+  - url: "https://media.npr.org/assets/img/2020/10/18/ap_20292655567067_wide-73e87df71a3452cf543c36f89c075e4b00a7f326.jpg?s=1400"
+    width: 1400
+    height: 787
     isCached: true
 
 related:
@@ -3182,6 +3186,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/10/16/gettyimages-148166024_wide-128e986da94d52868af5e09e797ad12d6ecc12f6.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Election 2020 Poll: Biden's Lead Over Trump Slips To Just 5 Points"
+    excerpt: "The IBD/TIPP presidential election tracking poll, which launched Oct. 12, shows a closing gap between President Donald Trump and Democratic opponent Joe Biden."
+    publishedDateTime: 2020-10-19T03:49:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-poll-bidens-lead-over-trump-slips-just-5-points-3064231"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-poll-bidens-lead-over-trump-slips-just-5-points-3064231?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-poll-bidens-lead-over-trump-slips-just-5-points-3064231?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 105
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/democratic-presidential-candidate-joe-biden-is-to-hold.jpg"
+        width: 512
+        height: 768
         isCached: true
   - title: "Women march against Trump and Supreme Court pick Barrett"
     excerpt: "Andrea Towson takes part in a Women's March as part of a nationwide protest against President Donald Trump's decision to fill the seat on the Supreme Court left by the late Justice Ruth Bader Ginsburg"
@@ -6753,6 +6773,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "rOd4vS/EIEHZ3/QPjlyuxiUO9eqT3f7yH6J8NRkJWRZUZqJ+AlU/IV1GTAUMNZExHmVdJi6Chryn356Cvb2skmtfOi/gQG+1OCkm4N/RcG59wblmbovuKuxVXLYvMO7IvCpZQbuhNmZ6z4cV2vGF/LUY82UPp9Oj0ey04cNc8F70YuxE1TMnlCzneKQ5isEowdLkyEw1zXhpDNQvQcH68D35Puh0H3zdT7L1csjm+rPnP9YlEonZ4DG81d9+2CrSgBiajXOh/XSbfisNTr6oPtOSSgTmklZ3AQZIDcnNZbgSRA2zHLK3TfxyO0cYf3JPrD0pV1bGOUSQX5dDezARGtmWdvpPAgyH7sbM3NyyHfw=;gurzy0hKalMcee5Bp4/kbg=="
+secured: "HK1ODPT2TzEbbuIokAEtfASEn0HsH9L3szceiNf1bJB1HiO4DoF1Ov+P7jfZmm+NpbdoazaDlaBqkroKEUUZXqz04RHCfeHBImqTc/H6lWSMpsrCgjyb7cjcFk3km5HqKrv6M5c0x6QUuQMv0CPgEmoc90fH3KDlWH0t7hX0avFWNLwpP1SC+k0fybRxGOw5A46WCmDdgkNHgh8sf6eXwf1gXyO8VJRw8PKqLwO1BFANZUfQ6lN+LtXjHKQEfs+/itPDu60oBxNlh9cgRFq05W3oAtf7ASodBx8tdxJgonhMvuSdVm6fz3zRTpYJUk9NSn6Smy4jc/vT23EY63Ocm9dOXMgmTVFMF5sHrIugB2w=;TphUHa2gd/nbEkp4ZDAcnA=="
 ---
 

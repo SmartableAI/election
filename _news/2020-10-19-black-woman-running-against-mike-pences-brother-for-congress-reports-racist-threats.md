@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Black Woman Running Against Mike Pence’s Brother For Congress Reports Racist Threats"
-excerpt: "In Indiana, the Muncie Police Department is investigating what witnesses suspect was gunfire targeting Congressional candidate Jeannine Lee Lake, a Black candidate running against Vice President Mike Pence’s brother, Greg Pence, the Associated Press ..."
-publishedDateTime: 2020-10-19T00:57:00Z
-originalUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html"
-webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html"
+excerpt: "In Indiana, the Muncie Police Department is investigating what witnesses suspect was gunfire targeting Congressional candidate Jeannine Lee Lake, a Black candidate running against Vice President Mike Pence’s brother,"
+publishedDateTime: 2020-10-19T04:15:00Z
+originalUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html#!"
+webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html#!"
 ampWebUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
 cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
 type: article
@@ -92,6 +92,6 @@ related:
         height: 852
         isCached: true
 
-secured: "4SPpu+zXIKGP9VmWLPh+Z2x4HNIVyt76bLNgihZJdhHz5CrKs6RfNp1B23lqIPU9oL2u0FvEXOGvDYBFePIIvVZCaVemT6DW2DX2VRQGJ1Cjzg6w6h3OzQDpOjsIscgK6Zs/zX17WuVxYewzOjLSnr6e6nZeWIdKaAIiYX/cAlv9EKyFAqATMOxoxpXN6re98mIBySqtv4gviJSQJ94VPj7PCW12kzGAGLj4sTcuEV5/8HbyzBGoGbIVC1RSx3Fe7Y0mrpgce/Ld//Ifb2t90lwcBLPxXGsZIEZVHBxG0F5UP3jgKDu7lDQukDQEWnWfjsrp9+JD16G8PAW7YZDHu8LK4MkFWlm1s4BXjCWP9ak=;TfOFiv3ZzzOJsmgWH5gvOQ=="
+secured: "uY0m9URphC2zEL8CZNnS12foM8V3BjdwPFfVWbRCyUsByo1XxBUVT1CEkcDDcRm0e7OggupRjUaXXsm6UUoi+mpHQjLWK2E2UwJzAr8Z4pAD8U8gYGDmqcoVAmQzaUqqoVmcH5cP7TOBxC97VBDlUfrYWbFwcOV3QExb7T2glDVYBQgtPmP5MXDzUInPTwODvmr9GVKV2+f0aaCqb748QyT6zxpAGXxY19/uPHLUYVHgueewZcODDYkUC/agzqdhhKMU7+8OOssNtLl2zOCL/dblYqiWiftS73vY2K+lTGdhDDXfuuMeGLpKpk1GVcHPHN+eiYHSqTwCmUNG9iN4AEg9WLE+dNtd/Bhthx28ljI=;0So3oe7baTS7PpBNSm5nBA=="
 ---
 

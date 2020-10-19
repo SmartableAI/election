@@ -2661,6 +2661,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden Campaign Warns Supporters: 'Donald Trump Can Still Win This Race'"
+    excerpt: "In a memo, Joe Biden's campaign manager cautioned supporters not to get complacent, despite his polling lead over President Trump."
+    publishedDateTime: 2020-10-18T19:43:00Z
+    webUrl: "https://www.npr.org/2020/10/18/925102703/biden-campaign-warns-supporters-donald-trump-can-still-win-this-race"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/18/ap_20292655567067_wide-73e87df71a3452cf543c36f89c075e4b00a7f326.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Biden, Trump court early voters in crucial states"
     excerpt: "Politics Biden, Trump court early voters in crucial states. Posted [NFA] President Donald Trump and Democratic challenger Joe Biden were courting early voters on Sunday in the com"
     publishedDateTime: 2020-10-19T00:17:00Z
@@ -3186,6 +3200,22 @@ related:
       - url: "https://media.npr.org/assets/img/2020/10/16/gettyimages-148166024_wide-128e986da94d52868af5e09e797ad12d6ecc12f6.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Election 2020 Poll: Biden's Lead Over Trump Slips To Just 5 Points"
+    excerpt: "The IBD/TIPP presidential election tracking poll, which launched Oct. 12, shows a closing gap between President Donald Trump and Democratic opponent Joe Biden."
+    publishedDateTime: 2020-10-19T03:49:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-poll-bidens-lead-over-trump-slips-just-5-points-3064231"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-poll-bidens-lead-over-trump-slips-just-5-points-3064231?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-poll-bidens-lead-over-trump-slips-just-5-points-3064231?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 105
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/democratic-presidential-candidate-joe-biden-is-to-hold.jpg"
+        width: 512
+        height: 768
         isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
@@ -6168,20 +6198,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Biden Campaign Warns Supporters: 'Donald Trump Can Still Win This Race'"
-    excerpt: "Joe Biden's campaign is urging its supporters not to become complacent in the final weeks of the presidential race, even as polling suggests the"
-    publishedDateTime: 2020-10-18T20:55:00Z
-    webUrl: "https://www.nhpr.org/post/biden-campaign-warns-supporters-donald-trump-can-still-win-race"
-    type: article
-    provider:
-      name: New Hampshire Public Radio
-      domain: nhpr.org
-    quality: 70
-    images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202010/925159348.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Trump, Biden Are Campaigning Across Country From Each Other"
     excerpt: "President Donald Trump is beginning his day with a rare visit to church as he and Democratic rival Joe Biden campaign across the country from one another in key states with the Nov. 3 election close at hand."
     publishedDateTime: 2020-10-18T17:48:00Z
@@ -6757,6 +6773,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "W5UcqffW3VJvH9RNmCDIJcHb/6Ce9EMQV1hOZwHC6za74AQ1lkxiCqMrtX0UB1jVTl/3hd3TmYZUL6UZUySYaka8HPqupSlJBZRUIVLB0TOBmoqWXRMknIsUncjdUk0LxVDuiyikTcoPnxUMczZUYrxcqHuGKa8i/f6pQwAO5g0gc+KMBLokPdD16hI+cdzd6ts6l47yUwuINt5bHFq3mnCuB+Q0bDOVW9GENINBA8BekvPttQc10s/shPzh7G90lY/bFUvtu7rkylMzsUqZim0HidqsmvQAvmLDDWBl57l/iAnnWyUyM+4l2tRWG1xP1JQPbdQvAG2NjRcBsC+drD7PkLNT4LyiyQDNESfDWF4=;BhVybt/4HrDl5uoZ5WOJhQ=="
+secured: "5BWE7GY6/e0JbGyoqs8qhE50qD5A6DEv6ekJSWbW32Mq5FaBEQcr2m54Bdlwn54+F042KOKD2zHDP4pIb33nGGxeTso0cuVyyWUAdh23MhU5ct2WGCnGpjVb3Tt2xG+Mx2tzGE+ZdI4rFiNfwlAw104e3dtmD4jPIBZm2alC8AsJK0DTwVemybhAPeGEhS6Zjk5SXFZS7ofYmbElPnzcRFzlCP1j3bJB12SdWRaxbJw7oCeixAVT93xjaYGVk3XtIQsgSmm65l2G5S+mQQ73IshMl8jYs6jQvCt2xfN6wPIJCywv1sprGqY/dRDNt0LDkWjMfIZrTReTWQClvW0hFknnXKryXSFysAzYXiCeqgrEtI5+3IENWUEnIXVuumBsl4IyC8Rty60pplakK/KRaGnG/No2PnH8zlrrzXg/rxZmTXGbYrX8pGLDgdH5Et9ue7UZnXrXnkfgmX+8XhmaOayn/g0wzmnJJrt9qw/StJH3L8wbWaT1Ge0vX6ueeMozPMwEJ1b8DEb4ODGx52Dg6w==;sajtOLvuDC2s/zo/54OEyQ=="
 ---
 

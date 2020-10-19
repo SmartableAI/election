@@ -61,6 +61,17 @@ related:
         width: 2048
         height: 1440
         isCached: true
+  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
+    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
+    publishedDateTime: 2020-10-18T18:11:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "jDwy7IvApruNMgvrjVmsK3xx/zffsOrOK6+G8Wwljp24b3S69UpmaBLQvhTHnFbTE7zgTVx6kiOJ2Xr8MT6sRRdE1QPIoqf7s9nzRV7PTjkTGWkoF5O3om+/pyCDKTHIuXAau7EpYn7Z9B7TWoLNvj9gMzMk2i9aqp8ygSpchWr5I4mwrrnqHkykjqfuOrPX7TpsZcT75Tb0mJEXR6PHW8FchO1EzQ9oUoarM3Dy3/ebBoC7JE9AnNwejETqktISE5NLlL4WpWJ6EZRXatJGqH1Hac88prCdXTZ8f81eXyuzjhnGj+y4fg39PTp7cwrdMN1FxEB74HjBoNT8aFH8+/rJlMmGCeDsLeatO02UyiA=;sD2UHInVc4jD2H/CZwTx2Q=="
 ---

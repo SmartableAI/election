@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hil
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
 type: article
 quality: 109
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -61,7 +61,18 @@ related:
         width: 2048
         height: 1440
         isCached: true
+  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
+    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
+    publishedDateTime: 2020-10-18T18:11:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
-secured: "Pp8Y26st+tHQBDTEYn3UsG6RG4rWjWqklc/O1Jk1hW7ksvKRRfhAhdVKZXP29BWNLz8lIQm7yQqrqfKjM4CCKCR8oL/Ybqf3F2SFXvzj2zTz4gY+2jcivLikwbxvmFkZB6Bky7IICn4btmvHou2CVm5pggogEYKzJAIB5yGryO72JwZCqSiRDGFeWj7WWmsq8i+PGNRQhN5RfvyZWiLrBHvCyFhT0Xh9id+o94b62S7pokfxGjw1kv/EgS1sU1DmaRSqpQT7D56KexV752QqBRlia+sSeY1GGpUx0rVEDScZT1sigYX3KRRY2QO+w6ZisgvjhxzCfGDlSC17oCkPWLNm53atsekV/xcixNERANs=;wYoOwwJ3Yt8VLzlQpkz3oQ=="
+secured: "D6FoDfuhSw4w8bKh5b+uFai+NJ++V8ofQ9oDmR4nGD4JjMIpd0leZXna5HoOft4JOZHNpsYgSgOHUdGbTkskoyIbDZdQv77y5ebXdZHKmLOSKEhi0PiGryxfJ01ysuf/1Q+wi894JMXd72mAjSvPxLjY/bOoHK31iXemndnFdlRnZk1+Ac3SWQAFIo6LFo53JnqHxt1/niiDxwW50guHmI+I+Qugo5fPKWlESX9ICVGxlwVt051u8WYOncvU49QqRJxtExQX5L8F7WFS4UYltY3+UDBuigSqtzYF2zYMHXrbu3U4aaDqSxF3k58jbAGgiTMtU3wkx+3r8osQeWXpEdNBe4pfusSwVnblTyxF5zq9nlRq+QEtirUsaIcQwbeitnkot42B8/tBq+2sxMOHVZCAkaMm80D+25+a2mS5xjaqx3FhpGuclvU8+yK5q8PQR4idOXkosjoojMnmNTocHdwz5mQhCVrB8ZtmxOxGCYBp8Rg11U0qqSb3mSvYcdoT0zOjz8gx6Ir2z+5TYjvAfw==;va9lQGwYpDcV6sOhqR+E4A=="
 ---
 

@@ -415,6 +415,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live Updates: Trump calls Biden 'corrupt,' campaign responds"
+    excerpt: ""
+    publishedDateTime: 2020-10-19T04:28:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGQyLLbbD7c/live-updates-trump-calls-biden-corrupt-campaign-responds"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-calls-biden-corrupt-campaign-responds.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-calls-biden-corrupt-campaign-responds.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7a9d273-a728-4c7c-a878-0eea2a2d61b9/2e149a47-e5fd-4e99-97d2-03818d03c97d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: 2020 presidential race: Trump, Biden prepare for 1st debate"
     excerpt: "The campaign trail is starting to heat up between President Trump and Joe Biden days before the first presidential debate is scheduled to take place in Cleveland."
     publishedDateTime: 2020-09-26T05:09:18Z
