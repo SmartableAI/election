@@ -6,6 +6,9 @@ publishedDateTime: 2020-10-18T22:48:00Z
 originalUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-set-visit-north-carolina-friday-campaign-event/KPCAU2WYX5F3BDFJGBHBWM3U54/"
 webUrl: "https://www.wsoctv.com/news/local/vp-mike-pence-set-visit-north-carolina-friday-campaign-event/KPCAU2WYX5F3BDFJGBHBWM3U54/"
 type: article
+quality: 55
+heat: 55
+published: false
 
 provider:
   name: WSOC-TV
@@ -21,6 +24,6 @@ images:
     height: 628
     isCached: true
 
-secured: "kxt7AL7pcZGoz4p2DmLYYoLyofEPdmk323XbQeJgztAeGludP7ZjTWWz9iXJ8cvYLRncX/F7QaG7S4E6JT+PJoR3+3R9ZJW6DMjnyHnIxKEIqZQcSs2DD/Ms925rA83gh55GinN6jY93YjDkf6kFxZqbzmng1l2tkbSohvmxOuqkWwEXmNyoxGOIsU3gK21f6t1+WHKSZOHiRC0Cv1Q5Jot1syfIswmiMQCX176zKOJOGUiPZ1yVX8uGgdy5nTljenPdb2p0DeQV1+aVcRz9VKRnGkEE2NZeqClayksQfBi3Z7cFfoK4xdOWD/q4AArofmsrjb35mWatduckswC1pEvalJoKEq9VFmImUHhvis0=;W5edvgQN2lsX6Ro1N8Bf6A=="
+secured: "RpGAEqVlkA26RyO/tT8S32qQq/uSsE+Z3ZcmS1To91VOpZi4pL16pTv5Lr0UJUcpLAcHk+5LC2ahnqDf0goDrnxX4kRq6OMDYzby1HeLi+VJMOjJCB1v1rVJMpDpUNsceF0eZsVd3bPEOh5tRSUBcWt42SbVBKn0b7BVe7vSIMZG6gcT/YKSN1gDRCNbEF7Dd3Wj8DQzmEAd4obzTxylJ51T06OZwzNcYwbQ/SSwNMet78dhDfnvfKtDNlAAbpoO62/n8jffLWD1X1wJkPKcDPdptGCnbsjfZXic3nZEzQdZO34u2zo9upa+Zd6UH8y/naAVXBDbezLJcRAH1Xx8jBVTY5+B+gZ6M34emv4w3hgCLf67ZWYwAlIAbtwPwgRUb/poDcXR/01XFzmpcqEB6YMMCOXM7m3TAGKODd5xhISVsXUKF9GR0/5DWlPe/7RE7lktMGJjjVDx6zUDYoyLLXuXgR+yYWuh/hq5JNUUOgORbeudBfLf76lZh1xHfTbzGbx3vVRfujTyQtu00Uprog==;rcnZVo8qWrBP04m/gwjPsg=="
 ---
 

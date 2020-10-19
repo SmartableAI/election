@@ -8,6 +8,9 @@ webUrl: "https://www.mediaite.com/tv/ron-reagan-slams-trump-family-as-a-bunch-of
 ampWebUrl: "https://www.mediaite.com/tv/ron-reagan-slams-trump-family-as-a-bunch-of-grifters-in-the-white-house-says-president-reagan-would-be-horrified-by-trump-presidency/amp/"
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/ron-reagan-slams-trump-family-as-a-bunch-of-grifters-in-the-white-house-says-president-reagan-would-be-horrified-by-trump-presidency/amp/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Mediaite

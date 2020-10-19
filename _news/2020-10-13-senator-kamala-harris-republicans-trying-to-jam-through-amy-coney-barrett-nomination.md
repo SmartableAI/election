@@ -219,20 +219,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
-    excerpt: "Jon Ossoff announced that his campaign raised over $1 million in the less-than-24-hour period following David Perdue's mispronunciation of Kamala Harris' name."
-    publishedDateTime: 2020-10-17T20:57:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 102
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Kamala Harris asks Amy Coney Barrett: 'Do you believe climate change is happening?'"
     excerpt: "Supreme Court nominee Amy Coney Barrett is questioned by Democratic vice-presidential candidate Kamala Harris."
     publishedDateTime: 2020-10-15T07:14:00Z
@@ -546,6 +532,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
+    excerpt: "David Perdue mispronounced the name of vice presidential nominee Sen. Kamala Harris — a colleague he has served with on the Senate Budget Committee for almost four years — Perdue's Democratic opponent Jon Ossoff raised over $1 million online after circulating the clip of Perdue speaking at a Trump's re-election Friday night."
+    publishedDateTime: 2020-10-17T19:41:00Z
+    webUrl: "https://www.chron.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Women Marchers Led By ‘The Handmaid’s Tale’ Protesters Voice Opposition On Trump Ticket, Amy Coney Barrett Nomination"
     excerpt: "Mike Pence presidential ticket and the Supreme Court nomination of Amy Coney Barrett was coordinated Saturday by the Women’s March organization."

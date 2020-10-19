@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-court-packing-vaccine-mandate
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-court-packing-vaccine-mandate-abc-town-hall.amp"
 type: article
 quality: 179
-heat: 459
+heat: 479
 published: true
 
 provider:
@@ -180,6 +180,22 @@ related:
     quality: 116
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97b570de-e9d9-443a-87ef-32f26759a6eb/31a729dc-4d6f-4a88-9afa-2582edd94b70/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mercedes Schlapp: Biden won't answer on court packing -- but Dems' appear to draw inspiration from socialists"
+    excerpt: "Democratic presidential nominee Joe Biden continues to give ambiguous answers on whether he supports his fellow Democrats’ extreme calls for packing the Supreme Court, saying this past week that he would decide based on whether or not Judge Amy Coney Barrett is confirmed by the Senate."
+    publishedDateTime: 2020-10-19T00:49:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-court-packing-democrats-socialists-mercedes-schlapp"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-court-packing-democrats-socialists-mercedes-schlapp.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-court-packing-democrats-socialists-mercedes-schlapp.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d883f05c-fa30-4d5e-a747-ddc6c34ef96f/a38ab3a7-f62f-4739-886f-b7ee12528708/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

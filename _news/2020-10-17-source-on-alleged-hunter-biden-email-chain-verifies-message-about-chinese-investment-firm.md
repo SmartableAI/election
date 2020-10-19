@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Big Tech 'should be ashamed' for censoring Hunter Biden report: Rep. McCarthy"
+    excerpt: "House GOP Leader Kevin McCarthy slammed Big Tech on Sunday for censoring users who tried to share a New York Post article about Hunter Biden, saying Facebook and Twitter should “be ashamed of how they’re so clearly trying to aid the Joe Biden campaign.”"
+    publishedDateTime: 2020-10-18T20:26:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/87d5n4l_jm8/big-tech-should-be-ashamed-for-censorship-of-hunter-biden-report-rep-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/big-tech-should-be-ashamed-for-censorship-of-hunter-biden-report-rep-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/big-tech-should-be-ashamed-for-censorship-of-hunter-biden-report-rep-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9486502-1ba0-4d5c-b108-0d8ed198d42b/5308324a-2ca4-4433-aa76-f31c04439416/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden questions ‘memory’ of voters in poll who say they’re better off now than 4 years ago"
     excerpt: "Joe Biden was quick to dismiss voters who say they are better off now than they were in 2016. "
     publishedDateTime: 2020-10-13T04:47:30Z

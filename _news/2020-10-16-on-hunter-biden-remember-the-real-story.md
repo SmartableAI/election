@@ -602,6 +602,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump teases stepping in if Republicans oppose multi-trillion dollar stimulus package"
+    excerpt: "President Trump hinted he might intervene if Republican senators don't support a second coronavirus stimulus package worth trillions of dollars, during an interview with Charles Benson of WTMJ4 Milwaukee on Saturday. "
+    publishedDateTime: 2020-10-18T20:49:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/avJI_CYja3s/trump-threatens-action-if-gop-senators-oppose-coronavirus-stimulus"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 128
   - title: "How the Biden Campaign Responded to the Hunter Email Story"
     excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
     publishedDateTime: 2020-10-15T11:30:00Z
@@ -621,7 +630,7 @@ related:
   - title: "Will the Media Defeat Donald Trump?"
     excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
     publishedDateTime: 2020-10-18T12:08:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html#!"
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
     type: article

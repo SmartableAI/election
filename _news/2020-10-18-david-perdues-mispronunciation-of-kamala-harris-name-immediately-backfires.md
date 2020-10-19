@@ -1,22 +1,18 @@
 ---
 category: news
 title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
-excerpt: "Jon Ossoff announced that his campaign raised over $1 million in the less-than-24-hour period following David Perdue's mispronunciation of Kamala Harris' name."
-publishedDateTime: 2020-10-17T20:57:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
-webUrl: "https://www.houstonchronicle.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
+excerpt: "David Perdue mispronounced the name of vice presidential nominee Sen. Kamala Harris — a colleague he has served with on the Senate Budget Committee for almost four years — Perdue's Democratic opponent Jon Ossoff raised over $1 million online after circulating the clip of Perdue speaking at a Trump's re-election Friday night."
+publishedDateTime: 2020-10-17T19:41:00Z
+originalUrl: "https://www.chron.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
+webUrl: "https://www.chron.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
 type: article
-quality: 102
+quality: 52
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: chron.com
 
 topics:
   - Election
@@ -598,6 +594,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "3SrSWwOgWDEypci4ZB9N/xdFTgF1dwZS8iSHQWy6SlbteVzCGJmbPY/K0rmnJmaNrzlBkOVOH+6ksdbnLSEiBRUp43LXJMlC/7i3fHdzCo40lQ4zGzguGomgUidACosw/2QTE+FKWntwVcVT+JzYCRcQtlsiyXR+Vu7VGhzX3HKW9pA1AMVnFr1CVXy03oCyR1hVpZCndA/BlDBroP1nEHRYaouubw3HCVLmSg1VT8NNdxJaL3vF1AteYlqq65N1ZVDjayPgS2uVeqzztBz+jeqhkOlIC9eNsIswoZsElarmJcAc22epq1iWsciqNkk39+i9XUd5jIePDIdzDRsStNf3Uy2KQGp1I5rRE7B5GxQS7Iiz9XZ5sEm71IUAndq6C6wXaLI9cCPsWJ9eTXkuSqmjhSeGI/PrfSuc4EjViZEGFglJPBLSjM9drnVvlKB2EMj+8CPt6QvdA1eQARCedPQPb5M2OjVPpTSRyw5hIYoBcCQVCNLARBdADq2RQKCUNKtQyTDBy5pxx8cJb07y7A==;nCpJfl3/rLT56dbWLwoEyQ=="
+secured: "tamLy/sxupvrleMQI5s5WcYMikGE63H0+vZmJct/W1J/lJ7ce+B7Ze1DOA3XyIYYxOQ+mu+yfcveAdEIvWM0J+hOd3xAsFIhxwPeBCIzqaw8GaZYqTfREIHwe8FYxq6mXimP3EJB5EWlRufQxfPnkSxXQN4I8MAKSrzpQKJgw/c8yLOU0YB+0z8OdBUVS1GMPRa1y8zSOV8fVZJVNSixYLMLkzd7SPd5paWz/sKwsWsB11B24VPsvGp5LHAN+bBt2RqZU2EiyIWpb2JjCO3FGYztWLVT8DqBJHQpw6z0I8AoE8TzFTgbgevWFDQYOCej1mqHJgtYjCF+OjAsU7IP5YfMdEzUcUpN3EjsErRaiKg=;DjIRMCeyqVGaEKX7vcsIWQ=="
 ---
 

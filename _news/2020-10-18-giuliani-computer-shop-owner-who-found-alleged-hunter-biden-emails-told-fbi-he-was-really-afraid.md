@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Big Tech 'should be ashamed' for censoring Hunter Biden report: Rep. McCarthy"
+    excerpt: "House GOP Leader Kevin McCarthy slammed Big Tech on Sunday for censoring users who tried to share a New York Post article about Hunter Biden, saying Facebook and Twitter should “be ashamed of how they’re so clearly trying to aid the Joe Biden campaign.”"
+    publishedDateTime: 2020-10-18T20:26:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/87d5n4l_jm8/big-tech-should-be-ashamed-for-censorship-of-hunter-biden-report-rep-mccarthy"
+    ampWebUrl: "https://www.foxnews.com/politics/big-tech-should-be-ashamed-for-censorship-of-hunter-biden-report-rep-mccarthy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/big-tech-should-be-ashamed-for-censorship-of-hunter-biden-report-rep-mccarthy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9486502-1ba0-4d5c-b108-0d8ed198d42b/5308324a-2ca4-4433-aa76-f31c04439416/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Source on alleged Hunter Biden email chain verifies message about Chinese investment firm"
     excerpt: "One of the people on an explosive email thread involving Hunter Biden has verified the veracity of the messages, which purportedly outlines a pay out for former Vice President Joe Biden as part of a deal with a Chinese energy firm."
     publishedDateTime: 2020-10-17T00:28:57Z

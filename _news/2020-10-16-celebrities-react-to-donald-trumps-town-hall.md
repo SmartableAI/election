@@ -1559,6 +1559,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Reince Priebus ‘Not at All’ Concerned Trump Will Lose, But Election ‘Will Come Down to the Wire’"
+    excerpt: "Former RNC Chairman Reince Priebus says he remains confident in President Donald Trump's re-election, though the the 2020 contest \"will come down to the wire.\""
+    publishedDateTime: 2020-10-18T20:20:00Z
+    webUrl: "https://www.mediaite.com/tv/reince-priebus-not-at-all-concerned-trump-will-lose-but-election-will-come-down-to-the-wire/"
+    ampWebUrl: "https://www.mediaite.com/tv/reince-priebus-not-at-all-concerned-trump-will-lose-but-election-will-come-down-to-the-wire/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/reince-priebus-not-at-all-concerned-trump-will-lose-but-election-will-come-down-to-the-wire/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 77
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-18-at-3.52.35-PM-1200x658.jpg"
+        width: 1200
+        height: 658
+        isCached: true
   - title: "Taliban cheer Trump tweet promising early troop withdrawal"
     excerpt: "The Afghan Taliban on Thursday welcomed a tweet from President Donald Trump in which he promised to have the last of U.S. troops out of Afghanistan by Christmas — or at least by the end of the year. If that withdrawal happens,"
     publishedDateTime: 2020-10-08T15:31:00Z
@@ -1895,6 +1911,38 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "73-year-old Donald Trump supporter assaulted in Douglas"
+    excerpt: "A 73-year-old Vietnam veteran holding a sign supporting President Trump was assaulted in a Massachusetts intersection on Saturday, according to police."
+    publishedDateTime: 2020-10-19T02:27:00Z
+    webUrl: "https://www.bostonherald.com/2020/10/18/73-year-old-donald-trump-supporter-assaulted-in-douglas/"
+    ampWebUrl: "https://www.bostonherald.com/2020/10/18/73-year-old-donald-trump-supporter-assaulted-in-douglas/amp/"
+    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/18/73-year-old-donald-trump-supporter-assaulted-in-douglas/amp/"
+    type: article
+    provider:
+      name: Boston Herald
+      domain: bostonherald.com
+    quality: 75
+    images:
+      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/douglas.jpg?w=960&h=720"
+        width: 960
+        height: 720
+        isCached: true
+  - title: "Brian Wilson Disavows Mike Love For Headlining Donald Trump Rally"
+    excerpt: "Brian Wilson and Al Jardine of the Beach Boys have released a statement disavowing Mike Love for performing at Donald Trump's rally, Sunday. Beach Boys' Brian Wilson and Al Jardine have disavowed the current touring group,"
+    publishedDateTime: 2020-10-18T23:12:00Z
+    webUrl: "https://www.hotnewhiphop.com/brian-wilson-disavows-mike-love-for-headlining-donald-trump-rally-news.119834.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/brian-wilson-disavows-mike-love-for-headlining-donald-trump-rally-news.119834.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/brian-wilson-disavows-mike-love-for-headlining-donald-trump-rally-news.119834.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 75
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603062493_092b3bbfbd8f1fdf19cb512cde40f057.jpg/d447723e310ce64733fd2f385afc93a2/1603062493_297a25ec3dacb85b1d8c0331927d78ca.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump gaffe demotes France’s Macron"
     excerpt: "President Donald Trump likes to make fun of his rival Joe Biden’s verbal lapses but on Saturday he made his own goof as he took a pot shot at French President Emmanuel Macron and effectively demoted him."
     publishedDateTime: 2020-10-18T18:39:00Z
@@ -2037,6 +2085,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Trump, Donald Trump Jr., Ivanka Trump to visit North Carolina this week"
+    excerpt: "Donald J. Trump for President, Inc. has announced Donald Trump Jr. will host 'Make America Great Again!' events in Arden and Kernersville North Carolina on Monday. The first stop for Trump Jr. in North Carolina will be at the Emery Seal Co."
+    publishedDateTime: 2020-10-18T21:37:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/trump-jr-to-visit-nc/83-3df2fce2-c62c-4390-ad8e-0e7c98b9f839"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/trump-jr-to-visit-nc/83-3df2fce2-c62c-4390-ad8e-0e7c98b9f839"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/trump-jr-to-visit-nc/83-3df2fce2-c62c-4390-ad8e-0e7c98b9f839"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 70
+    images:
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/d420b010-22e1-46d0-bed9-f1c54a73fae9/d420b010-22e1-46d0-bed9-f1c54a73fae9_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
     excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
     publishedDateTime: 2020-10-16T14:52:00Z
@@ -2116,6 +2180,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ONOBVVRKZZCKRHGETSQ7SZCHCQ.jpg"
         width: 3591
         height: 2394
+        isCached: true
+  - title: "Exasperated Trump aides looking for new jobs as the president ignores their campaign advice: report"
+    excerpt: "According to a report from the New York Times, aides to Donald Trump are getting a jump on looking for new jobs with an eye on the fact that the president is doing nothing to stop his slide in the polls in the waning days of his re-election campaign."
+    publishedDateTime: 2020-10-18T20:28:00Z
+    webUrl: "https://www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/exasperated-trump-aides-looking-for-new-jobs-as-the-president-ignores-their-campaign-advice-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.png"
+        width: 800
+        height: 430
         isCached: true
   - title: "Calls for Congress to impeach Bill Barr grow: DOJ now a \"vehicle\" to advance Trump's reelection"
     excerpt: "\"Barr appears to embrace an autocratic view of the power of the executive branch, specifically presidential power\""
@@ -2443,6 +2523,20 @@ related:
       name: al.com
       domain: al.com
     quality: 49
+  - title: "Ice Cube Once Wanted to ‘Arrest’ President Donald Trump; Now He’s Working With Him"
+    excerpt: "Ice Cube has long been critical of the establishment, but now he's joining forces with President Donald Trump on a new plan"
+    publishedDateTime: 2020-10-18T18:34:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/ice-cube-donald-trump.html/"
+    type: article
+    provider:
+      name: The Cheat Sheet
+      domain: cheatsheet.com
+    quality: 49
+    images:
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2020/05/Ice-Cube-3.jpg"
+        width: 1024
+        height: 710
+        isCached: true
   - title: "President Donald Trump asked about maskless White House ceremony during NBC town hall"
     excerpt: "Moderator Savannah Guthrie asks President Donald Trump about a White House event where multiple attendees were seen without masks."
     publishedDateTime: 2020-10-16T02:03:00Z

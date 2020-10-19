@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brothe
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
 type: article
 quality: 125
-heat: 165
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/1/77/17714430-109c-11eb-ad17-d3b4fb4272e8/5f8b263fe30e9.image.jpg?resize=1024%2C768"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Opponent of Pence’s brother alleges racist threats, gunfire"
+    excerpt: "A Black woman running for Congress in Indiana against Vice President Mike Pence’s brother says she has received numerous racist and threatening messages and thinks she"
+    publishedDateTime: 2020-10-18T20:40:00Z
+    webUrl: "https://myfox8.com/news/opponent-of-pences-brother-alleges-racist-threats-gunfire/"
+    ampWebUrl: "https://myfox8.com/news/opponent-of-pences-brother-alleges-racist-threats-gunfire/amp/"
+    cdnAmpWebUrl: "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/opponent-of-pences-brother-alleges-racist-threats-gunfire/amp/"
+    type: article
+    provider:
+      name: WGHP
+      domain: myfox8.com
+    quality: 75
+    images:
+      - url: "https://myfox8.com/wp-content/uploads/sites/17/2020/10/AP20178794733108.jpg?w=1280"
+        width: 1280
+        height: 852
+        isCached: true
+  - title: "Black Woman Running Against Mike Pence’s Brother For Congress Reports Racist Threats"
+    excerpt: "In Indiana, the Muncie Police Department is investigating what witnesses suspect was gunfire targeting Congressional candidate Jeannine Lee Lake, a Black candidate running against Vice President Mike Pence’s brother, Greg Pence, the Associated Press ..."
+    publishedDateTime: 2020-10-19T00:57:00Z
+    webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html"
+    ampWebUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
+    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
+    type: article
+    provider:
+      name: BET
+      domain: bet.com
+    quality: 68
+    images:
+      - url: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment/_jcr_content/image.large2x1image.dimg/__1603067588904__1603065652670/101820-news-jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.jpg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "fEWtYPOWd+nSMGjS1wpG3LPWyBxIwY0sT6y9fy0JZTXRxlUsYB78acXy1NEMWKkqdvddJCIoorzRGztbk29m7nhcdoAU8gCrjCUUpqFry1fX8x0+ODrPSeQsVb1+DucW4W9x3ZJbv8ARZjKyZ/JBgdkK4++HvMj7tNsOwvqO9I+YF8mRuLeWYpvK4u8DM6X7v2iIgr/cK7ThgWJtus4aBtHGdSfRvNkrULbA0Dywe24evZ4b1PGe6JZ+jro0T4ttkCl/0vPco0vVoWoWm9ZEHg3HbMlj6oPRV1XFzTWKmbQzE1mYMXB6iqPFDRH+cEIY7Mft1O41JHsVghA/q2uus5rCrF83lZqk8C6MZOKsIWA=;tce5qdOKo1jg/fhzu9KlfQ=="

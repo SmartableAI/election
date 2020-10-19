@@ -335,6 +335,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fauci says he is 'absolutely not' surprised Trump got Covid-19"
+    excerpt: "Dr. Anthony Fauci said he is \"absolutely not\" surprised President Donald Trump contracted Covid-19 after seeing him surrounded by people not wearing face masks and flouting best public health practices.\n    \n"
+    publishedDateTime: 2020-10-19T00:47:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ltTByjQf4KI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/fauci-trump-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/fauci-trump-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
     excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
     publishedDateTime: 2020-10-13T15:48:26Z

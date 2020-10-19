@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 type: article
 quality: 185
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -185,6 +185,22 @@ related:
     quality: 131
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Buttigieg still supports expanding Supreme Court, defends Biden claim that Barrett nom is 'unconstitutional'"
+    excerpt: "Former South Bend, Ind., Mayor Pete Buttigieg, who now serves on Joe Biden's transition team, said he continues to support the concept of increasing the size of the Supreme Court, and defended the Democratic presidential nominee's claim that the nomination of Judge Amy Coney Barrett is unconstitutional."
+    publishedDateTime: 2020-10-18T23:24:00Z
+    webUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c1c3d19-6f88-4dbb-9430-c2c6b5efab4c/065de9c2-ece5-4333-8359-abe2c838c0c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

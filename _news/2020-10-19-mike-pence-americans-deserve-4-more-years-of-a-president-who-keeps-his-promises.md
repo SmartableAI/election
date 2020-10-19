@@ -8,6 +8,9 @@ webUrl: "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-
 ampWebUrl: "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp"
 cdnAmpWebUrl: "https://www-beliefnet-com.cdn.ampproject.org/c/s/www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp"
 type: article
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: Beliefnet
@@ -23,6 +26,6 @@ images:
     height: 533
     isCached: true
 
-secured: "0Y89IC11vChi6utw2MT0NxLPbmE+Ueb9+v1NMHylfqH/EY6ZYLc1sHEJrOUX+rfI8pkvSqzHpY6sHq6DPLu/9oX2Ce6jnfvxoe2gQKSnI/DhfLaJML6R4Y3VlHXvMOJ3a3Y+BNHq1e+C11PpgPA+TDR5DfqE5HHMVpbuRHsu1x7VpisEznzssHTILC4sR0WYJ7mm3cU/F+YbbHY3hIaInWBP3KeC9HL3jnLehQ5TvW5/EgjZhVpYmwTCx//4HoxWNNcI7waBT4hqL/+UkVcTHkof6YE15S9bQDkioA++dlq9uKimVyNbnlkNhuEGybglmNAfs0h75B6kvz5r2LmEXmRogsp2poVZxlSQ++tDGeQ=;1HYyO2MpD3qXc24ucywFgg=="
+secured: "9Jx940fh4pD4lLPftJwmOZyr/L14Rf0wZJXp6fhJUeWQHZNFGAAK7+ZFtpuEisn3pDuYU4VNzLJ6ZOdYmVvkPKLtkCpWowrYU49nF8bEFFQoaOHHKo+fr5HLo2TgzTK07WxJTPjN+6zfTyyJ5ifMxD6IX4ao5DFoMzSehGj4Mh0GAy0TTEFvDHuPrGQMNd3s4mUm1VDL7RWkhWqAuRqQsEG6OgsF5+Gtqzu6JTt+XkqcIex59akbHcxjDcMDVnrrORAi8bi/RrEqirv6MSAue5meJTrQa1B6d3l0GMhDb5s2udywv5FWhArdJjFIgkBfqFsgXF0WGPwXxWhNpX6eq2wpwMFssqXuuFLm0jmjJ2/VkZmMwp7eEmLkbsNdhlG6/X/CQOZh8uMg9Cw6HseOADWjsEBXVE+b1mm3FSIkFar89wJ/WRXNgrHdeRgopoLGAZLxHFbhgDmwXRbkTMxWwOpiGbEawTmXwNy6A2R5A1Lbi42TfKOzzMT4vRYCYdq+AE2o4Gat4uQcfaNr7Yddqg==;vmOWfbchFad4hi/tWdLQOw=="
 ---
 

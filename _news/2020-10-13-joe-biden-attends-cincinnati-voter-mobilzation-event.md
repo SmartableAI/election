@@ -60,6 +60,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden campaigns in Durham, NC | Charlotte Observer"
+    excerpt: "Check out photos from Democratic presidential candidate former Vice President Joe Biden campaign stop in Durham, N.C. Sunday afternoon, Oct. 18, 2020."
+    publishedDateTime: 2020-10-18T20:12:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article246542233.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
 
 secured: "2kpcECG1GSJwf+mVQU8diUufuMBAQw+2BE1m/hQdGQ7Nj85J6jE9mEc4/DAX5okjqI3MBlLz2imSRSQE86fnEA/7kQbs20zWMsfmd89Wc/kmChy3+PRzOrT4TpTrePivqeHZ3h+FlMmZbjSD5umLMWP99ZAaMQ5Q4iHZEnOpDaCJglms6pxahRdUhMvdGvR99Ngf1mejupSyFOhBXE4tIpa90dIzlJ8FjxzTS0/IDMPT/ZFRxA+8YUxkSph9p1a1qXwSa3zmrD6UuCBRoPixhAONMZzvaGDrMk9PfPb4/KlPDbkcdiXtZvwutJIjLBVtTZH2q11c/gQsSNs+0ls0fgvIvEySVIdwteq/0TJ2f0ZSEu4VFHBSfvOY0i1AXYZvnJCPWCtunKuAHxHNFlZmmTvvq6VSCkOrTSY/HYi5v/domMVwZgDElar60ovdIGIZJsXR3YVeQuhetMvMIVAgpvKEo0knt+UdiRLzhvqX7D86Tkrt2Gpn9pq13LmC7HLw3H6bkLNhE9ul+vj7+dl12Q==;ow/9PtWOs7uOPiFU2q/FkQ=="
 ---

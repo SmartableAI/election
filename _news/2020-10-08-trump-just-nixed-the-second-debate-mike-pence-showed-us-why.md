@@ -2618,7 +2618,7 @@ related:
   - title: "Joe Biden and Kamala Harris both flew on flights with people who tested positive for Covid-19 - as it happened"
     excerpt: "Biden’s campaign manager says he was more than 50 feet from the affected crew member at all times, while Harris is quarantining"
     publishedDateTime: 2020-10-15T23:01:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f88d19b8f087cfbdaeb0ca4"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
     type: article
@@ -2646,6 +2646,20 @@ related:
       - url: "https://i.insider.com/5f8a5abcd260780019341ff3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden, Trump court early voters in crucial states"
+    excerpt: "Politics Biden, Trump court early voters in crucial states. Posted [NFA] President Donald Trump and Democratic challenger Joe Biden were courting early voters on Sunday in the com"
+    publishedDateTime: 2020-10-19T00:17:00Z
+    webUrl: "https://www.reuters.com/video/watch/biden-trump-court-early-voters-in-crucia-id720948452?chan=6g5ka85"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201018&i=OVD0NUD3Z&r=OVD0NUD3Z&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
@@ -2771,6 +2785,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Trump returns to the campaign trail as he trails Biden in key battleground states"
+    excerpt: "President Trump is back on the campaign trail, making stops in Michigan, Wisconsin, Nevada and California over the weekend. But a CBS News Battleground Tracker poll shows him trailing Joe Biden in key states."
+    publishedDateTime: 2020-10-18T22:27:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-returns-to-the-campaign-trail-as-he-trails-biden-in-key-battleground-states/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 115
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/18/4a1039c6-6332-4bb1-a509-7b37ee250375/thumbnail/1200x630/ab0566d3cd5aaaa61ab62148c66ae871/1018-en-jiang-568508-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump says he will not participate in virtual debate with Joe Biden – video"
     excerpt: "Donald Trump has said he will not participate in a virtual debate with Joe Biden adding the moderator can 'cut you off'"
     publishedDateTime: 2020-10-08T16:36:00Z
@@ -2815,6 +2843,17 @@ related:
         width: 3688
         height: 2660
         isCached: true
+  - title: "Biden attacks Trump in North Carolina over COVID-19; president to campaign in Nevada"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden were courting early voters on Sunday in the competitive states of Nevada and North Carolina, as the final presidential debate looms later this week."
+    publishedDateTime: 2020-10-18T20:03:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idAFKBN27304X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idAFKBN27304X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idAFKBN27304X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 113
   - title: "LIVE updates: Arizona in the spotlight as Mike Pence, Joe Biden and Kamala Harris visit Thursday"
     excerpt: "Vice President Mike Pence is having a rally in Peoria while former Vice President Joe Biden and Kamala Harris meet with Phoenix business owners."
     publishedDateTime: 2020-10-08T15:14:00Z
@@ -3701,6 +3740,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/26/hip-hop-mogul-sean-diddy-combs-hit-out.jpg"
         width: 512
         height: 768
+        isCached: true
+  - title: "US Election 2020: Joe Biden, could be soft on China; not good for India, says Donald Trump Jr"
+    excerpt: "Forty-two-year-old Donald Trump Jr is leading the re-election campaign of his 74-year-old father. The presidential elections in the US are slated to be held on November 3."
+    publishedDateTime: 2020-10-19T03:43:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/us-election-2020-joe-biden-could-be-soft-on-china-not-good-for-india-says-donald-trump-jr-5980211.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/us-election-2020-joe-biden-could-be-soft-on-china-not-good-for-india-says-donald-trump-jr-5980211.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/us-election-2020-joe-biden-could-be-soft-on-china-not-good-for-india-says-donald-trump-jr-5980211.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 94
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/07/3840-580x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Who won vice presidential debate? Kamala Harris? Mike Pence? The fly? Will it matter?"
     excerpt: "The vice-presidential debate between Mike Pence and Kamala Harris on Wednesday featured little of the interruptions, attacks and chaos that marred the first confrontation between President Donald Trump and former Vice President Joe Biden."
@@ -4595,6 +4650,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/KOFDJ3H4GRDYPBTWWDK3CLT67M.jpg"
         width: 5205
         height: 3470
+        isCached: true
+  - title: "Struggling Ann Arbor club owner in Biden ad: 'This is Donald Trump's economy'"
+    excerpt: "A national TV ad airing Sunday from Joe Biden's campaign focuses on the Blind Pig to criticize President Trump's response to the COVID-19 pandemic."
+    publishedDateTime: 2020-10-18T17:38:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/18/national-joe-biden-ad-spotlights-ann-arbor-concert-venue/3702153001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3702153001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3702153001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 87
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/PDTN/c821f0a9-72ed-4984-9b41-435b3b3761b0-Blind_Pig_2.png?auto=webp&crop=838,471,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
@@ -6096,6 +6167,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/donald-trump-on-the-campaign-trail-in-florida.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Biden Campaign Warns Supporters: 'Donald Trump Can Still Win This Race'"
+    excerpt: "Joe Biden's campaign is urging its supporters not to become complacent in the final weeks of the presidential race, even as polling suggests the"
+    publishedDateTime: 2020-10-18T20:55:00Z
+    webUrl: "https://www.nhpr.org/post/biden-campaign-warns-supporters-donald-trump-can-still-win-race"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/medium/nprshared/202010/925159348.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Trump, Biden Are Campaigning Across Country From Each Other"
     excerpt: "President Donald Trump is beginning his day with a rare visit to church as he and Democratic rival Joe Biden campaign across the country from one another in key states with the Nov. 3 election close at hand."

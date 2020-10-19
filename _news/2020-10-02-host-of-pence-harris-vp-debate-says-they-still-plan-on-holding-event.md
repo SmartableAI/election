@@ -97,6 +97,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Steelworkers union projects Biden-Harris logo on side on Chicago's Trump Tower"
+    excerpt: "The United Steelworkers union trolled President Trump over the weekend when it used a “bat light” to project a giant campaign logo for former Vice President Joe Biden and his running mate Sen. Kamala Harris, D-Calif., onto the side of Trump Tower in downtown Chicago."
+    publishedDateTime: 2020-10-19T00:03:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wl4vXw9UcUc/steelworkers-union-trolls-trump-projects-biden-harris-logo-on-side-on-chicagos-trump-tower"
+    ampWebUrl: "https://www.foxnews.com/politics/steelworkers-union-trolls-trump-projects-biden-harris-logo-on-side-on-chicagos-trump-tower.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/steelworkers-union-trolls-trump-projects-biden-harris-logo-on-side-on-chicagos-trump-tower.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 211
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cbb0118-df6e-4597-abdb-87f5f36bab9e/25a7b3ac-b9f9-44f7-9a1f-64a06c7df3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice presidential debate between Pence and Harris: What to know"
     excerpt: "Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris will face off in their highly anticipated debate on Wednesday at University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-05T15:40:53Z

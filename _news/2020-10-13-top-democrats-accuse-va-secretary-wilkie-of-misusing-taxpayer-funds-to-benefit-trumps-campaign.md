@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "China's buying soybeans again. That could help Trump in key states"
+    excerpt: "Dave Walton's Iowa farm was struggling a year ago as President Donald Trump's trade war with China took a bite out of soybean exports.\n    \n"
+    publishedDateTime: 2020-10-18T22:48:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AenUzNbMBTc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/farmers-trump-election-trade/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/farmers-trump-election-trade/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191205154559-soybean-farm-iowa-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judges across the country cast doubt on voter fraud claims pushed by Republicans and Trump campaign"
     excerpt: "Judges across the country are rejecting arguments made by President Donald Trump's campaign and Republican leaders claiming voter fraud.\n    \n"
     publishedDateTime: 2020-10-12T19:03:02Z
@@ -142,6 +158,22 @@ related:
       - url: "https://static.politico.com/c9/db/76268b5049a3bebd65210400bc30/ap20290037876267-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump's despicable rants against Whitmer"
+    excerpt: "Dean Obeidallah writes that Donald Trump's continued attacks on Michigan Governor Gretchen Whitmer -- the target of an alleged rightwing kidnap plot -- shows that he makes up for his of compassion and empathy with cruelty and vindictiveness."
+    publishedDateTime: 2020-10-18T23:43:00Z
+    webUrl: "https://www.cnn.com/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/trump-despicable-rants-whitmer-obeidallah/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009162352-whitmer-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
