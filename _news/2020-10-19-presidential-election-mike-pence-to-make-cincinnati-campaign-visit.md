@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Pence to Hold Rally in Maine Monday, 2 Weeks Before Election"
-    excerpt: "Vice President Mike Pence is set to travel to Maine for a “Make America Great Again” rally next week, in the final stretch of the 2020 presidential campaign. The Trump campaign announced Friday that Pence would be hosting a rally in Hermon at 11:30 a."
-    publishedDateTime: 2020-10-16T21:09:00Z
-    webUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/"
-    ampWebUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    type: article
-    provider:
-      name: NECN
-      domain: necn.com
-    quality: 88
-    images:
-      - url: "https://media.necn.com/2020/10/Video-3.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Vice President Mike Pence to visit Cincinnati on Wednesday"
     excerpt: "Vice President Mike Pence will visit Cincinnati on Wednesday for a “Make America Great Again event,” the campaign announced Monday."
     publishedDateTime: 2020-10-19T10:10:00Z
@@ -105,7 +89,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Pence Campaigns in Maine"
+    excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
+    publishedDateTime: 2020-10-19T13:34:00Z
+    webUrl: "https://www.c-span.org/video/?477109-1/vice-president-pence-campaigns-maine"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "SpvZCOBlw/Qh9LNuY9NJGXrefhfCTJta6j0mTHBfBmi7OLkWtypaXI2GyT6ic/ps2MgDQEFHPMVYoZZVnTmJ6eXqsU47EP+TJBhP+f7uBwGIOWwXXq0slaUtfdIvPxFVlHUSZAaZP2hbjO80S269RSQJwnz4y3tRtcwHmNFM49oNVe+4APM8hCoknRkTLajC4dcULnDtauoIQwr4Es4pxoi9JoAgBD6POuBUWnrLYkm0RXxRAc3PfNZ7My5nalMJYRjoDuFba3B9r6iGNkkhg5v0VzPtKkVtKHtIDSxY8ctTE/SZJ/5fQtNP1Cn8T4OjdViaCRSf/PlQ0LyM44Y7BxXNyPfP1ZjacyvFMSo4MeI=;PhhaD+s78cGVeZ3ZhVfR/A=="
+secured: "/GGID1eYo3n6CTDaAGUALKTec8iimHYptNthc7yGehtlEoMRzC8kRUQwrQCR1oa2R1wjw9voEs83Ekhcec1zuGQ1DD01+7olNDtgLQ1p+ayZONylh7jcqocBj8z4bwA/O3ZLcwYBhbzaJQjD5eNTfhggw03O34BN/habMo2GAuwC9pzE8EHQo/yOb+w1/mFqyr6XuJ9pbEBo2o9BnxEMiF37eJXgD0FR2HX/ijlhqhRNKsigJTVlOtfGsWwore+NjGRdCGbZzH2ByNce8v1ngbaAelMS3OvsJhscZV73vC4m7ZtvX2iKAtTce/ZsRIN/33HLTxl6Mnx1au4/TEmWDKze0gzqEk5NAIyAchWmbzGHWiOWA97hZRWf/dva5iiTjxYy41fU4qz1CbcLqeyQ6XU2hzjSb5k6oNC/DQJMOekZJ8Q9m+bXg8xah7cd+VwU+IpweDVrW1+wzZ9t4zHXnpGwxyxL3VFj5OlsszkPbvFuQ1//uQdT/IHw0jGxYkb1Ox4HJzGXKK2GWI7Y1OO8Ow==;aX3jlgU3JD7Ln0aglyiiiA=="
 ---
 

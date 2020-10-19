@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 825
+heat: 845
 published: true
 
 provider:
@@ -367,6 +367,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420160/201014-presidents-town-hall-live-blog-cs_cf832691e86ca2039abdc1a60af3f2be.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "Biden focuses on shuttered bars and clubs in a new ad faulting Trump."
+    excerpt: "A new Biden ad focuses on bars and clubs that are struggling for survival in the pandemic. By Neil Vigdor Credit...Biden Harris campaign via YouTube Joseph R. Biden Jr. is flipping the script on President Trump,"
+    publishedDateTime: 2020-10-19T13:45:00Z
+    webUrl: "https://www.nytimes.com/2020/10/19/us/elections/biden-focuses-on-shuttered-bars-and-clubs-in-a-new-ad-faulting-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/19/us/elections/biden-focuses-on-shuttered-bars-and-clubs-in-a-new-ad-faulting-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/19/us/elections/biden-focuses-on-shuttered-bars-and-clubs-in-a-new-ad-faulting-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/18/us/politics/18elections-brief-blindpig/18elections-brief-blindpig-facebookJumbo.png"
+        width: 1050
+        height: 549
         isCached: true
   - title: "The Trump Taxes Story Exposes a Glaring Hole in Biden’s Criminal Justice Platform"
     excerpt: "A series of recent reports on President Donald Trump’s finances raises reasonable questions about whether Trump may have committed criminal conduct in the course of tax evasion. The fallout also exposes a glaring hole in Joe Biden’s criminal justice platform—namely,"

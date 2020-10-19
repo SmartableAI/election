@@ -73,14 +73,14 @@ related:
         isCached: true
   - title: "Brian Wilson, Al Jardine speak out against the Beach Boys playing Donald Trump fundraiser"
     excerpt: "Brian Wilson and Al Jardine were upset to learn Mike Love's version of the Beach Boys played a Donald Trump event. The group is in Phoenix on Oct. 25."
-    publishedDateTime: 2020-10-19T01:30:00Z
-    webUrl: "https://www.azcentral.com/story/entertainment/music/2020/10/19/brian-wilson-beach-boys-donald-trump-campaign-fundraiser/3706475001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3706475001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3706475001"
+    publishedDateTime: 2020-10-19T07:30:00Z
+    webUrl: "https://www.freep.com/story/entertainment/music/2020/10/18/brian-wilson-beach-boys-donald-trump-campaign-fundraiser/3707305001/"
+    ampWebUrl: "https://amp.freep.com/amp/3707305001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3707305001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 66
     images:
       - url: "https://www.gannett-cdn.com/-mm-/a32386b6bac5c295498643ae58b0767c6d8bb7e1/c=0-0-5348-3022/local/-/media/2018/03/15/Phoenix/Phoenix/636566945352746891-GettyImages-655073850-1-.jpg?auto=webp&format=pjpg&width=1200"

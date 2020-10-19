@@ -189,6 +189,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
+    excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."
+    publishedDateTime: 2020-10-19T13:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6ff4_NgfZxA/north-carolina-latino-voter-turnout-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-latino-voter-turnout-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-latino-voter-turnout-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292697124657.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
     excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
     publishedDateTime: 2020-10-12T20:43:04Z

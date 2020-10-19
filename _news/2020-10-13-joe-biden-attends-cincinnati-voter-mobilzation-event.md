@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Pence to Hold Rally in Maine Monday, 2 Weeks Before Election"
-    excerpt: "Vice President Mike Pence is set to travel to Maine for a “Make America Great Again” rally next week, in the final stretch of the 2020 presidential campaign. The Trump campaign announced Friday that Pence would be hosting a rally in Hermon at 11:30 a."
-    publishedDateTime: 2020-10-16T21:09:00Z
-    webUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/"
-    ampWebUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    type: article
-    provider:
-      name: NECN
-      domain: necn.com
-    quality: 88
-    images:
-      - url: "https://media.necn.com/2020/10/Video-3.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Vice President Mike Pence to visit Cincinnati on Wednesday"
     excerpt: "Vice President Mike Pence will visit Cincinnati on Wednesday for a “Make America Great Again event,” the campaign announced Monday."
     publishedDateTime: 2020-10-19T10:10:00Z
@@ -99,6 +83,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
     webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns in Maine"
+    excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
+    publishedDateTime: 2020-10-19T13:34:00Z
+    webUrl: "https://www.c-span.org/video/?477109-1/vice-president-pence-campaigns-maine"
     type: article
     provider:
       name: C-SPAN

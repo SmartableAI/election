@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Pence to Hold Rally in Maine Monday, 2 Weeks Before Election"
-    excerpt: "Vice President Mike Pence is set to travel to Maine for a “Make America Great Again” rally next week, in the final stretch of the 2020 presidential campaign. The Trump campaign announced Friday that Pence would be hosting a rally in Hermon at 11:30 a."
-    publishedDateTime: 2020-10-16T21:09:00Z
-    webUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/"
-    ampWebUrl: "https://www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    cdnAmpWebUrl: "https://www-necn-com.cdn.ampproject.org/c/s/www.necn.com/news/politics/vice-president-pence-to-hold-rally-in-maine-monday-2-weeks-before-election/2336253/?amp"
-    type: article
-    provider:
-      name: NECN
-      domain: necn.com
-    quality: 88
-    images:
-      - url: "https://media.necn.com/2020/10/Video-3.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "VP Mike Pence set to visit North Carolina Friday for campaign event"
     excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
     publishedDateTime: 2020-10-16T15:08:00Z
@@ -105,7 +89,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Pence Campaigns in Maine"
+    excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
+    publishedDateTime: 2020-10-19T13:34:00Z
+    webUrl: "https://www.c-span.org/video/?477109-1/vice-president-pence-campaigns-maine"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "pCNA4zucuoRxfag37asgtIYBDFcenEA6si1b1AxEqGvvRJ2MFvsxTQMZF+nOUByo6+1p771d2r7SeqhJ8d7nBxO7iHqkto2UtVHNhyKx6NySYFyuuU3Au87B/Zora1OXvaaFuSWtMlRFX3V+Y/VxJejxkzWgqRMxQicOdWsB8ir5vdygvLad6wJW64L8rDnPaJ1XBSFtSW7+3gsx8gxLMWg91VzbXx0pjgb1E611WqqPLpXjXXZ676tjqPr/A7DcPaRmS2+HrETvhCECt5rexk7mTF/9DhGH3cW8SJSLa1+1jG1jTJSowr8PzVuzTlrHgv2UQFJPz7SSPShNojGOMgxDSDafFClTr+cSxYfDP5A=;PYoarAfflXIjd1J/srup3w=="
+secured: "OPvWUI6orjJR84Ukmc7DZEXR8OeTXQ3U6pt37UEp3V/OJhdt7zjeE7fYALhYV5XcM+otTGif+BVnZ//d5Ifwb9ru/qW6iyFY0c6j8233CCC1pDPhTCuyNejNUTwFC2K6+nqc+QDuGcAD2E4ZgvClDtiNJPSPx9mZ7EpFrT+QvYH1g7C2qbd2JBS34v8ucai8Vu9W2HQFDPi+oMLdiab44uNLgBbkJCSPC/P7sLDvojASOCuWKY4YROXIxNF+tFeaEt/KgoQMBqlaC8oRN3C1bWn/EY0qbQWOxeSyTpjYMaqubosZqVKSaum1mJpvkKGMcm2mqHR8zStQOIDWitjilY3SMaxtX02RWSQzI+yQMFd5fuV6YAfL6OmWmiINc/tJTJLwWTzq6Syr/WN0AKHo52sCFr5uhl1uq0P9MFLHrqb1jU+58/6fMbmnZoHd+U70flaOEC2/yFXDwKvTJY3whjFBRTWlqZ+8Ii8rOK8MeDHR59/xWbp/s62QwM/F73E4uiuCboOEKnbSJWX3mP5bcA==;yQSsmRVH1qnxT8brynuUUA=="
 ---
 

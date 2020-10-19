@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden Campaigns in Durham, North Carolina"
 excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
 publishedDateTime: 2020-10-18T19:00:00Z
-originalUrl: "https://www.c-span.org/event/?477106/c2020-joe-biden-campaigns-durham-nc"
-webUrl: "https://www.c-span.org/event/?477106/c2020-joe-biden-campaigns-durham-nc"
+originalUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
+webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
 type: article
 quality: 35
 heat: -1
@@ -96,6 +96,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "sAoTZSkxTx9a+2BNxK6WEEjx6tt4F0Ea0KfzYAItAhKrLd6KArLxNro/RpMkc/KCcyle9BAe5JZzEsf6dZ2UkB/9HK8hHzCcwW/+6/ubVXIv9qER9CG9y4WlWARgGuwqH/CatDYaGe2NEmhWlaVXGWuHoqHv32AX24N8BuxzFW4Z8jTWlYHwWxL/Afd9bKkSdROB/BDyoUV1viRq39s53AnYhIndWJ1skei0hV7eMf8sWsBjSa7C8NqoYMaX7GalYKrk0F8hI0kEnz2khnNlLJNaDTx6nhmOt1PQ70u0X8QpBGB3Ze3TzoAwkRgXu03S1sf9KjwOsdeCB2GKlrgY0ezd1vRJViJskpWwoidjufQp+dXpuiE+5jVtMhU2hXBE9cvptAR1CZ82nLE0LWy2e7xRsGU6s+qZt+rD8AU9EOwm0m2/hJJtOi7b6PpuIMKNqraJ/uA9wTm8iRtL0ZDVAfFiF+Bj8Z+2Dg71m2XdtuDn3SsbQthsJB9coXVwYaOw0dhPHd9TzbTkS//Ni76oDA==;eNyW21GcchZBc58o3xCdlw=="
+secured: "v18HV3mIWZbyHIJx+Bbuyb9RqKiuHujwRiLg+/8lfH6YcUJE+ShfeTvocs8ZCC2pzZuevaRa8BYF/J9imh1owGGZfRbrgS1nOfKSYs7rQ9zP5U23JNKXdTzNnsIgHZwwR/A+PlkZokjWFdTX6KQiyN+ba5kTMu+YibQdbF09uf8VMFTJvCzfZfGMyjCQmNcLcYqrReZTotyylMQfDG8ONLT9xLbeyClrg3zULTc5z4OXNTQGTxcgoGWP03cU6ehgisTomrvYv1r/elBJHr3UjekZSSlGTeknF1Mjam8GmZw6ELj56R5hBf8G2maWyXhvecVW3lzxkxwXbv6Tje7/bxyjVetYufB0WWdUsUKEKJBTwhgJzEk3oQA/6g7WJQzsjJdm3CtRYZ9pXtdLRALGFaSDIllQfJl4+ZXFmcn/D2tBjxALE2D88VOkK7imRRjQBWB8qIYbcirvXcrlPovofIuPwD4vlQ9DmF4pVMoUQmXz3FT8flU0WiA06JfY7yhydjPS8VN9IAiBbPByE+nJMA==;nHVP45WCevxB05JK4Vh6uQ=="
 ---
 

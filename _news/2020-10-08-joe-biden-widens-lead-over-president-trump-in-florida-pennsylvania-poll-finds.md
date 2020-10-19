@@ -6448,6 +6448,20 @@ related:
       name: The Mary Sue
       domain: themarysue.com
     quality: 68
+  - title: "Trump, Biden Paint Dire Pictures Of Pandemic’s Future If The Other Is Elected"
+    excerpt: "Donald Trump tells his supporters that more lockdowns are in store if Joe Biden wins the White House. Meanwhile, Biden says the situation will get even worse under Trump who “continues to"
+    publishedDateTime: 2020-10-19T13:43:00Z
+    webUrl: "https://khn.org/morning-breakout/trump-biden-paint-dire-pictures-of-pandemics-future-if-the-other-is-elected/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 67
+    images:
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
+        isCached: true
   - title: "'This is history making for us' — Democrats in Arizona excited by Kamala Harris on ticket"
     excerpt: "For women and people of color who support Democrats, Kamala Harris brings a diversity sorely lacking in politics and at the highest levels of office."
     publishedDateTime: 2020-10-08T15:14:00Z
@@ -6796,6 +6810,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Issues Of Violence And The Pandemic Command Trump’s Trip To Michigan"
+    excerpt: "Michigan Gov. Gretchen Whitmer — recently the target of a kidnapping plot related to her coronavirus lockdown orders — charged that President Donald Trump is “inciting this kind"
+    publishedDateTime: 2020-10-19T13:43:00Z
+    webUrl: "https://khn.org/morning-breakout/issues-of-violence-and-the-pandemic-command-trumps-trip-to-michigan/"
+    type: article
+    provider:
+      name: Kaiser Health News
+      domain: khn.org
+    quality: 55
+    images:
+      - url: "https://khn.org/wp-content/themes/kaiser-healthnews-2017/static/images/placeholder.jpg"
+        width: 2700
+        height: 1800
+        isCached: true
   - title: "The Story Behind Kamala Harris’ Truancy Program"
     excerpt: "HuffPost reporter Molly Redden explains how a program trying to reduce school absences produced unintended consequences—both for California families and Harris herself."
     publishedDateTime: 2020-10-18T20:56:00Z
@@ -6888,6 +6916,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 44
+  - title: "Vice President Pence Campaigns Near Harrisburg, PA"
+    excerpt: "President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Mike Pence delivered remarks at a campaign rally in Miami,"
+    publishedDateTime: 2020-10-19T13:34:00Z
+    webUrl: "https://www.c-span.org/video/?477110-1/vice-president-pence-campaigns-harrisburg-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "zgW/4tz0JgTzLB8MIsrEVCop9iWmiapLia8ypJ/bDw7c4tAAXgg/v6NSibtcweaeTkREC/lPqRZoZnA6DLOId6oHULRecFpzbouoisGsmD4BuvC+caWerLtvpwW0FEIOmVHPfT9Mn83tOAdL2E9l0DN4gL/2NqO8OqeWoIpu+5ep2NvR63x4fJw3LMwMQ1k+FVrfu04eOE/5vbDkfwecgiRykxcoAMduOw3sFr/aDushpotlRFltw+iCdclKzbA4o12To4cwyMb83J1XzBql+ZT1/ad7b+Gbt2SgJeCFQpCBXi+L5y1Lo848xb0hZW460WxtBl5XgqmLjwQ0YIupBD6oEwz8yosOJhwbz3Y2sD8prCTxi7S1gGQUMGoKg+h2CCwqdVoSWs+wFIylRI/YIK48WHxBoKO0DLsKPRotObo6BinMLy+GKcnthL3WYa9kFt+yn7XiGwrtFpVUv6MA/xjNLRdissHbfhj/AQnNoWAMxrvfMU5fxD5vSShKVcZ3Y5QVXOu5qb+KgQulzpdzQA==;twLsLOcp9DpjbSAtzUuzMg=="
 ---

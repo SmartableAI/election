@@ -317,6 +317,22 @@ related:
         width: 4563
         height: 3042
         isCached: true
+  - title: "FLASHBACK: 2008 Obama campaign denied Biden vote influenced by payments to Hunter Biden"
+    excerpt: "Back in 2008, when then-candidate Barack Obama was running for the presidency, his campaign defended chosen running mate Joe Biden for backing a bill in the Senate despite his son Hunter working for a bank that supported the legislation."
+    publishedDateTime: 2020-10-19T13:46:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7jDh13_SqWk/flashback-2008-obama-campaign-biden-vote-payments-to-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-2008-obama-campaign-biden-vote-payments-to-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-2008-obama-campaign-biden-vote-payments-to-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Capitol-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
     publishedDateTime: 2020-10-17T14:54:00Z

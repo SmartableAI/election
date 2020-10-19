@@ -334,6 +334,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "FLASHBACK: 2008 Obama campaign denied Biden vote influenced by payments to Hunter Biden"
+    excerpt: "Back in 2008, when then-candidate Barack Obama was running for the presidency, his campaign defended chosen running mate Joe Biden for backing a bill in the Senate despite his son Hunter working for a bank that supported the legislation."
+    publishedDateTime: 2020-10-19T13:46:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7jDh13_SqWk/flashback-2008-obama-campaign-biden-vote-payments-to-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/flashback-2008-obama-campaign-biden-vote-payments-to-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-2008-obama-campaign-biden-vote-payments-to-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Capitol-thumb.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hawley wants Twitter, Facebook to come before Senate following censorship of Hunter Biden report"
     excerpt: "Facebook and Twitter showed Wednesday that they \"want to rig an election,\" Senate Judiciary Committee member Josh Hawley, R-Mo., told \"The Ingraham Angle\" after the social media giants censored or blocked dissemination of a bombshell New York Post report on Hunter Biden."
     publishedDateTime: 2020-10-15T04:24:22Z

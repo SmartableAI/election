@@ -68,6 +68,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign says Whitmer 'encouraging assassination attempts' against president with discreet TV message"
+    excerpt: "Michigan Gov. Gretchen Whitmer has been accused of encouraging assassination attempts on President Trump after displaying “8645” in the background of a national television interview Sunday."
+    publishedDateTime: 2020-10-19T13:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DUUuYsTN_ww/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "KJVB17Ufe32onYBzdUcra5OFLnktnrN4CuPvROR5WMTpPnQ6c68/qn46uYxUqzI/YzQq6KI8b+PAbw7+f1g2RXX1J1ehf2jeUJQon+CJVYp6KvOqwfEOzoBnDqbXNzbPzuT5UWeKPAOMiqXk4GmwoFi2N4X39Zo26An4xeBmLWrOpfIyWMMaR8doKeIizlcp3817YA8kXrAvXKKJU0dWVvD/jrYTNktgi9jfrszOm27btdMxeB5mxAQRRHq1LsXFwGwvHkCz1ILOAFdcipIAK41UTRCMBd9BfAcu+RA3NGwywgB/4iBnR1703Acu/g23vmkBOzZSN+8DfsK3WP8RfQFFWOSLmsPs8DUDzNi7Zrc=;kD0S7UM5KInhVJ/jj+o+zA=="
 ---

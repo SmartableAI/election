@@ -3,8 +3,8 @@ category: news
 title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
 excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
 publishedDateTime: 2020-10-18T15:53:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html#!"
+originalUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
+webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
 type: article
 quality: 74
 heat: -1
@@ -186,6 +186,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court agrees to hear key cases on Trump immigration policies"
+    excerpt: "The Supreme Court announced Monday that it will hear two key cases related to President Trump's immigration policies."
+    publishedDateTime: 2020-10-19T13:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRDc_IHiV7c/supreme-court-trump-immigration-policy-cases-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-immigration-policy-cases-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-immigration-policy-cases-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdc7dd2e-ec8a-4ca3-b01b-377e42699889/72e0bd63-e065-4820-8514-d3eaddd6c56a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump adviser says POTUS will give Biden 'more room' to answer foreign policy questions in next debate"
     excerpt: "Trump campaign senior adviser Jason Miller told \"Fox News Sunday\" that this week's debate between President Trump and Democratic challenger Joe Biden will see a different approach than what the president displayed in their first debate."
     publishedDateTime: 2020-10-18T14:30:45Z
@@ -366,6 +382,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "v7prptoO2BGd1fX7f0tjAbbvMv+YZpnP8D/DglNUJ2ZtKo0cmsSxSKN9aV0ms+y10dobyf1/8HzzhWFpoJJaudN9MlkchMrS9n9Nh3Dooe7eGZUnL8VgiLgQLNA7xyps8Dq4YSxa5zkgOb8yov01k2radGzt/9QJevbg4Jd6Lx39zRNTl0+StAc1hc0UXYwvFFe374TDbmz/6rIqcU8wzDkEbRcBgVDm8iBf9ZfoM05nFrtExPnR2At8N7o9DzituyjPlIcE1wFIVwk0cbRTrQVKxParcqWA4aoKpJQmH9ruCg0Nq2vIC3+jf4JOMMA1xPp0itx/ZlQW9tvMANaOryngrGcyX36TccwG8TaEiPk22Nxbe0OmlqUkkvW3kLRV0Td6Xw6hOyPQNnQ3k6fZNc5RKl2+is0eUm02pRiH+ULKsq/5H/Q7/5VRmyBnN4pZgwg8YkbkhrfxJnKiA2Il5Sq0ROQzv/EziLLXzE+a9Rq+axKG3ly2mFPooYeFRM4LxSQm+SqdUQZmRCQyBTZBZg==;S5vTzG0nhOk2dwIQo7TquA=="
+secured: "7z8uyCFOmfqb8+jjXtIV94Dhl2HVXxzS8/+d3T5QE+qOZ2qMrsx+c3BIIBdFbbodMwbjRuynYCg2zZaSNbA38UNjRwzE0Y+oAbG+x0eSOQtGiE5MukDvzNcJeUhtHZNP8pynnYi0ReVcqJbsxm78DKWLH0N51JfbFxr3rPSxyFL5DA5lMPOZwtwFVaie8x1SIwLcmIg4OajsZHiKsFJm6n+UZOwzxG8Kw7/mGx7+hSFHbLSVp6vqbWfYzFZuufDivfqLrc5VR2j/v8AjRsfqCq4yhAprS1R1bDuRAUVGo/0fm3U4aPdUWIMs9+UnJ2pIN1c5o3rnPiIAHW3iE5OlfeCY2gK8hiAoNoRCFtl4pDA=;St70TXmipvNxae+dstN7GQ=="
 ---
 

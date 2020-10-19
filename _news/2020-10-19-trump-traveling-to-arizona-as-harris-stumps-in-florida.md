@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-t
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
 type: article
 quality: 200
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -175,6 +175,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
+    excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."
+    publishedDateTime: 2020-10-19T13:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6ff4_NgfZxA/north-carolina-latino-voter-turnout-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-latino-voter-turnout-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-latino-voter-turnout-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292697124657.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump and Biden, both in Florida, court crucial senior voters"
     excerpt: "A new TV commercial by President Trump’s reelection campaign touts that the president is “the clear choice” for seniors, who are a key voting bloc in many of the battleground states that will decide the winner of the presidential election."
@@ -384,6 +400,6 @@ related:
       domain: washingtonexaminer.com
     quality: 53
 
-secured: "jjA0o3LobJX+SS2pFiH032i9rgDl6d78NNPtI7rMGidVcB+hxKtUGhwuDY43Ysrxi9CbNy0BI7kXO/rd1pfgTo18Z1MHqEb3cEDmwFu2cNuJaMHPoxmaRXabYw9DC9flqmCilNuTa5AZsQRZUkS36nO+08nmKZijHmmX2B6v/rkeGKbb6QRncCKx8Cduug3bfhgQgNMwQO42o7UNS42TtF0wNfjki7auJaXnWDRs0DATLPJZzweqNPPjztdQ3DT7ugGLp13RxbMZIQcxPpW+I56zNHnEIs4Ih1f8X7i2LpXqz5xSd5mJ5hlw5lZFhsd194GR5jquWDRzSZrToCXbjTtdmeh/AtOkv2iBMg4CT0w=;eW5WgX1Bc9feilj98cN0eQ=="
+secured: "VA69ZI/zPvON/lQ1FGUrDfKFuYJlbwycgEMLQ3I4eixIyBXeU98jD/zGcfhdCCgbbEA1wnaEyjH6lsHdLPQ3loQ/p1HGqjUaC1zibc7lFus/yf645vUviMilo0flUrlI43CvdXDo5O12cK4oDNxP3XfnH9BDb2OmxlwR4CFhgbTpxRg6aSVx+tajKBo8tybIFJyMXbPlzfQGT8QAw/a4r9jut5lCXeqJl+krNuBhySOz/YfadSXBjaeJs9RHfRymXz4bQEGgWgRGGYz+6edlZvwNCxMTH80IhOC2mZd+TfW19ugg8MfXLhxNHJ7MyHqoodOSeKviOtoE0slUbDpOU88YMHWXkC+tD6Vx6m2z0c8=;OgYk0jh1h1BPmqw4MFTb0w=="
 ---
 

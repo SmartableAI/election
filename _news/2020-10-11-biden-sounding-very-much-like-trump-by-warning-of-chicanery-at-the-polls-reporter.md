@@ -189,6 +189,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Supreme Court agrees to hear key cases on Trump immigration policies"
+    excerpt: "The Supreme Court announced Monday that it will hear two key cases related to President Trump's immigration policies."
+    publishedDateTime: 2020-10-19T13:57:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GRDc_IHiV7c/supreme-court-trump-immigration-policy-cases-border-wall"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-immigration-policy-cases-border-wall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-immigration-policy-cases-border-wall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bdc7dd2e-ec8a-4ca3-b01b-377e42699889/72e0bd63-e065-4820-8514-d3eaddd6c56a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump adviser says POTUS will give Biden 'more room' to answer foreign policy questions in next debate"
     excerpt: "Trump campaign senior adviser Jason Miller told \"Fox News Sunday\" that this week's debate between President Trump and Democratic challenger Joe Biden will see a different approach than what the president displayed in their first debate."
     publishedDateTime: 2020-10-18T14:30:45Z
@@ -339,7 +355,7 @@ related:
   - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
     excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
     publishedDateTime: 2020-10-18T15:53:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html#!"
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
     type: article
     provider:
       name: RealClearPolitics

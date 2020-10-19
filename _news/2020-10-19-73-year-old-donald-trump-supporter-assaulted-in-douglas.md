@@ -1959,6 +1959,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "President Donald Trump is set to visit Prescott, Tucson. Here's why"
+    excerpt: "Rural Arizona is the key for President Donald Trump to have any chance to carry Arizona on Nov. 3, and Pima County cannot be solidly blue, either."
+    publishedDateTime: 2020-10-19T02:31:00Z
+    webUrl: "https://www.tennessean.com/story/news/politics/arizona/2020/10/18/president-donald-trump-set-visit-prescott-tucson-heres-why/3683937001/"
+    ampWebUrl: "https://amp.tennessean.com/amp/3683937001"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3683937001"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/68012bc8210d5ae25ddc97577041b0babeed4697/c=0-6-2397-1360/local/-/media/2016/10/04/Phoenix/Phoenix/636112034561500935-ROB-1098.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Stimulus Package 2: Trump Warns Stepping in if GOP Opposes Big Bill"
     excerpt: "As stimulus bill negotiations inch closer toward a deal, President Donald Trump is urging GOP senators to support a multi-trillion dollar package."
     publishedDateTime: 2020-10-19T09:29:00Z
@@ -2482,6 +2498,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "A science advisor for President Donald Trump has a tweet blocked claiming masks don’t work to combat coronavirus"
+    excerpt: "A science advisor for President’s Donald Trump had a tweet blocked by Twitter on Sunday after it suggested masks don’t work to combat the spread of coronavirus. Scott Atlas, who joined the Trump Administration in August,"
+    publishedDateTime: 2020-10-19T11:48:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 54
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/67DCE3VC5FEAXBRCR57Z3HCBJI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
     excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
     publishedDateTime: 2020-10-09T11:03:00Z
@@ -2621,6 +2653,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "To7uDU7pyBba0r4nibCnnYpXp5yRL5yKs8Q1Ef5kLYQncxg7oqF0omBDBwCQSJY+D8tnjn3c3J6SjAiJSSj8dV0S9prtVCxKmO1TD+7YHFlSK4EAlZxvrvQ0yp9xrHWV2R5anDB/qJsMHCLBAM7iIdJqSAvhIWHu4r6XjQcAsqqH65O2/B3D1reXx7DpiCvNV5X3oChrt0rvF7XdBrKtPrt1d7dKQV+YbNyssNNerOh6jLEcOuX/PEPwHgw7VrRSbuV9vV9nVWVJnF+HxR49gNrYV9ySvStfpr6r0DAusGThVjsEFLuzOR06Js9r8ZilnSg5bDXL3h9jzEoageT+hTjsYCPURAumc1UtyuCYCus=;LF3UoWWIdolfqcI/0OFbqQ=="
+secured: "b7hpU7uibctWjD/inDdvEM+z6DO2q53ROnZ+OQIWEYLqdnCXYRFLm156LZmxKvZ5MVPljOOBTY0pvNVq63hJ4MJJZY1sGDLeM13NVuxtFik+tcoHYwAuL8c8b3txFoTsncU7BTN6uUtNUB9mgNL+/4TMQAi4JVaaRz6NidWh583K9WA2i16fOPfczSrYJ+S54pwcW3i/LhHyH35O+DFKyHoE5DJdI+tx4eaS9HQg4pd/lWuqHfS1dwyvT+DZ/zR+bOfVAMJIH/mdsxhXHWvXDxYed/QxaW8ip5qXUkJXyb9I33w5EBoHntzflMOPPI3rrEaCtcw2LTnrEtpJSqu2orvnJpVZKVDYOA5fzCWD7tVIOdUtPGM6S+B/jYZvbpHQsFOszaETZ+y+2GeI3LwvumUNOGmU2PNDUa0CjrechxuiSyiFAlq0H5NemV5RwTbURhYpPrYU6CGzpmQTK3L0zn9nBmrFUYsTNj/KUxS+Slz8yZdMZGo4q/tLRmEa0wPBXH7BM+NTcSw3k1+xsuyFog==;MfqciQI7Kf5fm7DB/v8LKg=="
 ---
 
