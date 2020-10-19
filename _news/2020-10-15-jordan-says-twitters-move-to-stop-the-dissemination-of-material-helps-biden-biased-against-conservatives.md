@@ -109,22 +109,6 @@ related:
         width: 1024
         height: 695
         isCached: true
-  - title: "Hawley: Americans ought to be able to sue Twitter, Facebook over blocking Hunter Biden report"
-    excerpt: "Americans who were prevented by social media giants from sharing the New York Post's reporting about Hunter Biden this week should be able to sue those companies, Sen. Josh Hawley, R-Mo., told “Hannity” Thursday night."
-    publishedDateTime: 2020-10-16T04:15:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0zC6dbYKSu4/josh-hawley-americans-sue-twitter-facebook"
-    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18153b84-b2ed-4208-acb2-b23f8fe63683/370a704c-9174-48e6-b638-9e4b1519b3c5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
     excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
     publishedDateTime: 2020-10-11T17:18:46Z

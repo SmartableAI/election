@@ -1005,6 +1005,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Government agency will investigate Trump administration political influence over FDA, CDC"
+    excerpt: "Both agencies have been caught in political crossfire since the start of the pandemic, as preventative health measures became politicized."
+    publishedDateTime: 2020-10-19T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5981174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5981174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/978858e1-2530-4004-9fa6-4eafefcf111e-VPC_TRUMP_REDFIELD_CONTRADICTION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Our goal is record Black voter turnout to fire Trump and save Black lives: NAACP president"
     excerpt: "It's not just Donald Trump and Joe Biden on the ballot, it’s a decision about the country we want. Honor John Lewis and Ruth Bader Ginsburg by voting."
     publishedDateTime: 2020-10-12T09:15:00Z
@@ -1429,6 +1445,20 @@ related:
       - url: "https://i.insider.com/5f822f5dbab422001979a9fe?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump Will Have $900 Million Of Loans Coming Due In His Second Term If He’s Reelected"
+    excerpt: "The president would likely have to engage in a series of high-stakes transactions that could produce unfathomable conflicts of interest."
+    publishedDateTime: 2020-10-19T20:32:00Z
+    webUrl: "https://www.forbes.com/sites/danalexander/2020/10/19/trump-will-have-900-million-of-loans-coming-due-in-his-second-term-if-hes-reelected/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 98
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cea5d5a6a761648d0c88f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump’s doctor says he’s no longer at risk of transmitting coronavirus, after president’s first public appearance since hospital trip"
     excerpt: "President Donald Trump on Saturday made his first public appearance since returning to the White House after being treated for the coronavirus."
@@ -2748,6 +2778,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "j4ZAnBOt9w9SWkoSmzEfneqymk0DRAfX7Y9Vz+vL4dUVEm/Nxu8gCxzMTx3ZvlPDUiGV6d9G1HyOQanSe8OQD/l0T0wZjFiBVPfbSgYgaFkCdPPzgUXfp/2eJrVLcLGQ0OaivQIP1WU/sf7svnDVV3tTolYto2z6QY3FRM0El/vhlDrcTc0ePO9uUPhxEluz4zeR009LLvSYfFqcz69ZGdQ/3f/dwkcaY99tSY/4c0rjfXTSuyNXtwkQ6WJc3RikcZEB8rj+ukn5O3iwiVhm7Jso4X7lHKK7Hwo2vFGYsPfp/afndOGkP3yTt59UPgSPSiUKbUtaOP0ppknuzfYwQKimZyWJKpbZeCgZHrxVQ+o=;A9++ZaCC/PNHZ65TrcA67A=="
+secured: "2BOeJ085G7eHb5wfO5+XFyKnRRCWLIrDsnaA7g/w/khSj8ISVSR09Yucv0azK+scAgHkkFCwGar7yILrv4inoipzv0G48J303V65wK+u87muTY3WpID5HgSGR+8In9s23AEcwX2BTQ0EGZS1iYsGQ0ewXvTw1Wvt8eQAwEojtTrpayodNq5PEehl5/Q+pcAj+yC5vQVbVNIDddhkYFzezmwNK/CY4f/AN19aus7ibSEfnwzFbvNUyZEeZ0afh+CpNlJmyDqCLZvFmxVT1SREnmVkbZxE0889y5jnk4PRISdZYYD2Y0hp27zWp0w+WolqFOQPZqd9cowFKzltCj/LpSOOdxTgmwCo0DuB+q/He0VY1krzCEgh4OO+CTtxCV4+rP1NvlQo8aUHmSsMzr6sbeGR5jDI+4Rl9cQe0M2g3zdPoQeYNLJS4sYgLYTQcauRZ4vLwKFNaBdmGo7Y7TIDAe36xDBJBE0SLIbNFZc6dTrt+2nbOPcjr0e+uOAXlfEuHuSbvE3WYH0QaqmDUhFjgQ==;GIEB3qVFrLzuWGhoqNs/uw=="
 ---
 

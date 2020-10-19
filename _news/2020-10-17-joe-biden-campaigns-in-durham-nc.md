@@ -83,6 +83,22 @@ related:
         width: 3606
         height: 2549
         isCached: true
+  - title: "Biden campaign removing retired general from ad after his complaint"
+    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
+    publishedDateTime: 2020-10-19T21:32:00Z
+    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
+    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
     excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
     publishedDateTime: 2020-10-15T20:45:00Z

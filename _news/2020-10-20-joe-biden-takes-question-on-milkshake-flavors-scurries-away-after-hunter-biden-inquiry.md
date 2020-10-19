@@ -91,6 +91,22 @@ related:
         width: 3606
         height: 2549
         isCached: true
+  - title: "Biden campaign removing retired general from ad after his complaint"
+    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
+    publishedDateTime: 2020-10-19T21:32:00Z
+    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
+    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
     excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
     publishedDateTime: 2020-10-15T20:45:00Z
@@ -271,6 +287,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "VnX9LBMcK5c0y8SaBxDOK3mS+iIV9VCKyrAiGpaohc5hzZzowCH2Sn0MvWlSvE3KFh3w6pA40QGlXuArAtESCNJNOQ5lnLHMNkX6AAul/XMTcssNzKfJhXFbQtSGRz0ei4c85obD+Gf3E8kLUK2RJaYwsg91QMeQzwI3CJmQHqne7KDcOq++wLXzh0uCZhCKsehYrwu7P8vqxbbhzopOCHGQa3+3BGMaDEiF0RQ9B9BUh+h/prmJ8OhFCKWtg2Slfn5mS7bOF39hXSfgLDDFOtAThV+3NNlNhsBfRt8AuUGRfsHIe7V5P48KtLnq+AOIc/WX+cKB0lWNluvM22tmt+icBqE5DVc7QsQUBTGAxx4=;4poRpCjXwxCJyIxWbEc0vw=="
+secured: "TeM7dk0uQyMJv1XphwVQykNdeSspunY4ebH50p07JghvYrS2xCuK76rtudWbDOR/bj9/XGRU5UnG2MzYhPS8oGvmjZvFH4WO4I35kXT7QQsCVBAQfDrqMKo7iU5Eg37FZvtwwsL6Z6RspEushRVFMrnmndQTRgg59NZIEcCPpcqZi9PlZxL/47e+z+MURjp1jpN8yZSnioXO7sTWDZS/ZeeEQ/BQgqkgmR9EUiMetcJUSXAhCM1N/EhexZD1vK9h4BxnogvHpWFPBi3Qh7jSkxfbm1uAaQa707PnXdU2TFOaEEPWGfE9RNxeoKwJxdi3oFV6sI0cerMniSBhtPmALeAqnx79l3uZ6BTma+JsMGckHbnHGgt32pF5DNlHDonA2lsm7D24DJWyTJJoBuHSi4Bagz7gsaAc9wkRPCAC4/IVZVKTlY/ShiWEwSieEbdtVg2EWIOg50vBZBa2ou5mmEwmU9Tgn/NGfFukXGVsIrGECg6QoYWV9qio4vxsaozBNVlrPTfRvMaQeDZrJMCiPw==;L6mHO3NsfxA3QtedBBHItg=="
 ---
 

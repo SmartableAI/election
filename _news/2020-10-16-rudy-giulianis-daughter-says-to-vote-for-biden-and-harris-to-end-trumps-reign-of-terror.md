@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 885
+heat: 905
 published: true
 
 provider:
@@ -431,6 +431,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump trails Biden in swing state and national polls. But here's how he can still win."
+    excerpt: "Though the landscape appears to favor Biden, several places still offer the Trump campaign hope, including one in particular: Pennsylvania."
+    publishedDateTime: 2020-10-19T20:44:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-trails-biden-swing-state-national-polls-here-s-how-ncna1243919"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243919"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243919"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421261/201019-think-donald-trump-ew-1225p_1364a403a6f1c56d2ab624f22fdac683.jpg"
+        width: 2500
+        height: 1743
         isCached: true
   - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
     excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"

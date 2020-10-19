@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Report: Shots Fired at Congressional Candidate Jeannine Lee Lake, Who’s Running Against VP Mike Pence’s Brother"
+    excerpt: "Jeannine Lee Lake, the Black woman running against VP Mike Pence's brother, says she was the target of racist threats and gunfire."
+    publishedDateTime: 2020-10-19T21:00:00Z
+    webUrl: "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/"
+    ampWebUrl: "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 55
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/10/Jeannine-Lee-Lake.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dkXMahg1NzqZZskY14NgSJPxUe7rEiax6GNIxOzI/EozHKsn+iS+Tf1yRtqOpN2sEif+BcKAiFzHal2ezq/SKutFNkTwzy1AOAc+ayQ0E4o/+KmlPcFI9GzZFOb8pYYFQHWrm6TKo2J07fqt1rj0tZkVWwG948/YIx5LWv+A/eMrzivb/Xew+DxMZHF6bCkNfbfl5jQFMN4a30xsNCTpHPcRE5CifCspbqO8uzTX3VSFXxRYrAxfS/Q69wugTi1jhyRt5GkECErX1siOtHnn2+Z+xHaPRf+9xeLiiImfGp/8UV7/klYyPllKZp1jtUWhOjRKXMYfJ6JNBdd96D9x8Yp62yb5dbsaGnc0mUhJE10=;1H+V8N5EJBHPaWd20qIWWw=="
 ---

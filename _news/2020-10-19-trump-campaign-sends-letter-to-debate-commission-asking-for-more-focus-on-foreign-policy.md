@@ -3,10 +3,10 @@ category: news
 title: "Trump campaign sends letter to debate commission asking for more focus on foreign policy"
 excerpt: "President Trump’s campaign manager sent a two page letter on Monday to the Commission on Presidential Debates, asking the committee to \"rethink and reissue\" the topics that will be discussed during this week's upcoming presidential debate in Nashville."
 publishedDateTime: 2020-10-19T19:38:30Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JEwF5UWeR2A/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JEwF5UWeR2A/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy"
-ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy.amp"
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mo1bGN_zw4/trump-campaign-letter-debate-commission-foreign-policy"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mo1bGN_zw4/trump-campaign-letter-debate-commission-foreign-policy"
+ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-letter-debate-commission-foreign-policy.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-letter-debate-commission-foreign-policy.amp"
 type: article
 quality: 166
 heat: -1
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump faces deficits in Michigan, Wisconsin with days dwindling until election: polls"
-    excerpt: "With three weeks to go until Election Day, new public opinion polls in two key battleground states President Trump flipped from blue to red four years indicate that Democratic presidential nominee Joe Biden holds sizeable leads over the president."
-    publishedDateTime: 2020-10-13T01:18:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLcbP8c7mBw/trump-deficits-michigan-wisconsin-election-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70a16502-b86c-4e51-818f-c6da8c881474/43980fb3-be0d-4bda-a962-e4c9cdd3e0d9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
     excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
@@ -196,6 +180,6 @@ related:
         height: 562
         isCached: true
 
-secured: "1wFkUzNnzFOWxk5foUWcLgKy+JJyleVPYCjAoRCUo+e+SFVnemdh1ZqsZM/NLL58cMdBDRPjGPpGfqeBVPePe6pDxGNjvQG8NfZQM7DTsLY/kIXr6TrKcVYeHSt8AtEq4IsDubfU62ebBuZRPiBN2TPRdjK9t1rEYpiquISUnJ2jOMCvunOV7zQlH2Hh9AsaHetoKhz+YZRJPKVrbObn8MiB6euST71Dsaw2yQRKl1V8FMEYV9/mLbyG0fz1Pe58SK6ccAiaQ5Jr73DhsIG/uX7PZEItNz1JuE30INtMbK736WgzVwqt+CtOmz0ug9xhTC6eXygxUXY3c92gB32zpTxkGSad6zDDl/0AM0+Rod0=;fXrapkcgsKhG51HIXMCMZw=="
+secured: "SG1uNCuMQipkic6lQ3tzpiup2HNN7LspwtVnM6w5d6lELN+IluhkEoYZA1/Xyug2I3LEK15STchfZmqC2rBWFobWpioPVu4gujnxRBZZ8Uh7LpX1NAS2FEwVMTq5ygzU1+nz5G485PVIe1RWGqpvZFqyL1i592RkpZD9pWn3KTvCHUYVCE4X7mK/GhKeDoA+fl9js3fo69aZLfPArc5XEFHEy0xqzTuMrXNFrknhiar1Pc66Esz9ZdCiB6GYsxXFBtuO1rTF4gC3UZZaP+fzSuh4b0pZIP0naqFC3aOrquPQ7bGW1lMDFv9RlJX6oSMwsdtT7gm9vxqEuc7oP17tTk/FIl/Lq0GqP092dBigcWk=;9YN8wGU9vNwP3Bmb7lMTmg=="
 ---
 

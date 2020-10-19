@@ -96,6 +96,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-15T22:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
+  - title: "Full Replay: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-16T23:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
 
 secured: "62bdN2Tlw4C3+fnG+kzv7T7J5bJzOO8thILJsaorF7xcfXyRaOfZ4q2Om++af0xwawskdRbRsGrJuxoG5IuQvlmIVodBhWmVbDx/EuB/NF0S8OCNkjTb83g2FJWhLdXSKFXhVUNaUoK2qClZ+CohUJAO0VXj+pn8g59I1lWJFJ8kh74iChRyJ/0RcK8JfHIjpR7Yr4hDHmP23HbV2jgHcsiATJGL7Z0CV7weSPO0wObPK2vzHG9Dbqpt7Qz1m+ASiXjuGZpVfXD5C79lIpyRn7hKJb9HFUHv5MUPw8o+f9xYcJ2pCu73p5+I4ynTHSCqCMvg3+L12nqvLr7vZfh8Mk4RgvwVx0bfhyHJjtfLBvubWsHZ+HyvTi6eIjStB8ZNPJC7M9O6emnBo6XdXRd7qM/yNAiOvvtk2+Z8RH+n7sLF/h92aWLF1Gt+vk88uqYPWTyB49eqUKAVY2bYzer9ZQfcoKvhzp0foM2jzmGS5gtfo7vvi3poP7EGrnyLvELpCDQVRLv7UsZzvh5+oMbO/w==;d/XKFxW6p3evynDiLRdd9A=="
 ---

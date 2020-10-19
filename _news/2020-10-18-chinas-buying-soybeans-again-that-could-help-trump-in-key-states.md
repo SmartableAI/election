@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump announces plans to remove Sudan from state sponsors of terrorism list"
+    excerpt: "President Donald Trump announced Monday that he intends to lift Sudan's state sponsor of terrorism designation -- news that comes as the transitional government in Khartoum could deliver him a diplomatic victory ahead of the US presidential election.\n    \n"
+    publishedDateTime: 2020-10-19T20:42:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DvTvk8iskM4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/sudan-state-sponsor-of-terrorism-list-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/sudan-state-sponsor-of-terrorism-list-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Democrats accuse VA secretary Wilkie of misusing taxpayer funds to benefit Trump's campaign"
     excerpt: "Top Democrats on the House and Senate Veterans Affairs committees believe VA Secretary Robert Wilkie \"may have misused taxpayer funds and other government assets in an effort to benefit the reelection of President Donald Trump and certain Republican candidates seeking office in 2020,\" according to a"
     publishedDateTime: 2020-10-13T19:00:36Z
@@ -190,6 +206,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009162352-whitmer-trump-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump campaign protests topics of final presidential debate"
+    excerpt: "A letter from manager Bill Stepien insists the event focus on foreign policy, claiming the campaigns agreed on the topics months ago."
+    publishedDateTime: 2020-10-19T20:31:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-campaign-protests-final-debate-topics-430201"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/3f/c2/9d577aa04e27942762efedc491ea/20201019-trump-biden-debate-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."

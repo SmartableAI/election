@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-16-trump-says-susan-collins-not-worth-the-work-after-opponent-raises-394-million.md",
+      "title": "Trump Says Susan Collins ‘Not Worth The Work’ After Opponent Raises $39.4 Million",
+      "excerpt": "President Donald Trump dismissed Sen. Susan Collins (R-Maine) as “not worth the work” Friday as the senator is expected to vote against Judge Amy Coney Barrett’s confirmation to the U.S. Supreme Court,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
+      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ae1e69ee9a3e704d0471%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D197%26cropY2%3D1884",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
+      "publishedDateTime": "2020-10-16T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-trump-warns-of-backlash-if-the-eu-levies-around-4-billion-in-tariffs-after-wto-ruling.md",
       "title": "Trump warns of backlash if the EU levies around $4 billion in tariffs after WTO ruling",
       "excerpt": "If they strike back, then we'll strike much harder than they'll strike. They don't want to do anything.\"",
@@ -768,7 +820,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3700,
+      "heat": 3740,
       "tags": null,
       "images": [
         {
@@ -1303,7 +1355,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 563,
+      "heat": 583,
       "tags": null,
       "images": [
         {
@@ -1500,63 +1552,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-those-waiting-for-trumps-middle-income-tax-cut-should-give-up.md",
-      "title": "Those waiting for Trump's 'middle-income tax cut' should give up",
-      "excerpt": "Shortly before the 2018 elections, Trump made up a tax-cut idea that didn't exist in reality. Shortly before the 2020 elections, he's doing it again.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/those-waiting-trump-s-middle-income-tax-cut-should-give-ncna1242955",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

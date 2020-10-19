@@ -46,6 +46,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
+    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
+    publishedDateTime: 2020-10-19T18:49:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WiuLQdaQLsM/cotton-interview-new-hampshire-biden-family-cashed-in"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
+    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
+    publishedDateTime: 2020-10-19T18:55:00Z
+    webUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Joe Biden Wants to Be ‘President of All Americans’?"
     excerpt: "It’s a meaningless platitude in a sea of meaningless platitudes. In fact, most of what Joe Biden says is a bunch of meaningless platitudes. But one sticks out, to me"
     publishedDateTime: 2020-10-08T04:01:00Z

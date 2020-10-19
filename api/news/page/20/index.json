@@ -2,6 +2,273 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-09-28-former-trump-campaign-manager-brad-parscale-hospitalized-following-reported-suicide-attempt.md",
+      "title": "Former Trump campaign manager Brad Parscale hospitalized following reported suicide attempt",
+      "excerpt": "President Donald Trump's former campaign manager Brad Parscale was hospitalized Sunday following reports of a suicide attempt at his Florida home, CNN has learned.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430103423-02-brad-parscale-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
+      "publishedDateTime": "2020-09-27T18:50:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-slams-medias-treatment-of-barretts-catholicism-i-thought-we-settled-this-with-jfk.md",
+      "title": "Trump slams media’s treatment of Barrett’s Catholicism: ‘I thought we settled this’ with JFK",
+      "excerpt": "President Donald Trump on Sunday took the media to task for going after the Catholicism of his Supreme Court justice pick, Amy Coney Barrett, saying he thought the matter had been put to rest with the election of President John F. Kennedy.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271781176125.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
+      "publishedDateTime": "2020-09-27T17:13:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-trump-continues-to-malign-mail-in-voting-says-dems-attacking-election-integrity.md",
+      "title": "Trump continues to malign mail-in voting; says Dems attacking 'election integrity'",
+      "excerpt": "President Trump continued on Sunday his attack on mail-in balloting and other alternative voting measures as the country enters the final month before this year’s presidential election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
+      "publishedDateTime": "2020-09-27T17:00:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
+      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
+      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
+          "width": 4923,
+          "height": 3282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
+      "publishedDateTime": "2020-09-27T16:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-27-new-york-times-trump-paid-no-income-taxes-in-10-out-of-15-years-beginning-in-2000.md",
+      "title": "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000",
+      "excerpt": "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html",
+      "publishedDateTime": "2020-09-27T16:22:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-trump-says-he-did-not-discuss-election-with-court-nominee-barrett.md",
       "title": "Trump says he did not discuss election with court nominee Barrett",
       "excerpt": "U.S. President Donald Trump said on Sunday he hopes his Supreme Court nominee Amy Coney Barrett is paying attention to the issue of mail-in ballot security but said he did not discuss the upcoming U.S.",
@@ -1061,270 +1328,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-pennsylvania-sheriff-lifelong-dem-decides-to-back-trump-amid-unrest.md",
-      "title": "Pennsylvania sheriff, lifelong Dem, decides to back Trump amid unrest",
-      "excerpt": "A Pennsylvania sheriff switched from Democrat to Republican amid unrest.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/L-5AijZiy3M/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pennsylvania-trump-sheriff-democrat-republican-biden-party-switch.amp",
-      "publishedDateTime": "2020-09-26T09:21:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-falsely-claimed-an-incident-where-an-election-worker-improperly-discarded-9-votes-shows-widespread-voter-fraud-heres-what-happened.md",
-      "title": "Trump falsely claimed an incident where an election worker improperly discarded 9 votes shows widespread 'voter fraud.\" Here's what happened.",
-      "excerpt": "Luzerne County officials said a \"temporary seasonal independent contractor\" had \"incorrectly discarded (the ballots) into the office trash.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6ea36474fe5b0018a8da37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-falsely-claimed-9-votes-improperly-discarded-cases-voter-fraud-2020-9?amp",
-      "publishedDateTime": "2020-09-26T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trumps-acting-bureau-of-land-management-director-just-got-removed-by-a-federal-judge-who-said-he-was-serving-unlawfully.md",
-      "title": "Trump's acting Bureau of Land Management director just got removed by a federal judge, who said he was serving unlawfully",
-      "excerpt": "Willam Perry Pendley has been key to Trump's push to loosen environmental protections and has a long history of undermining Native Americans' rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6e949874fe5b0018a8da33?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-acting-bureau-of-land-management-director-removed-by-judge-2020-9?amp",
-      "publishedDateTime": "2020-09-26T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-four-years-ago-trump-survived-access-hollywood-and-a-media-myth-of-indestructibility-was-born.md",
-      "title": "Four years ago, Trump survived ‘Access Hollywood’ — and a media myth of indestructibility was born",
-      "excerpt": "In the warped sense of time born of the Trump presidency and the pandemic pause, it seems both eons ago and only yesterday that the “Access Hollywood” story rocked the mediasphere. In fact, it was just about four years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AIEDKYHZ6II6VBPXLFARRCUYZU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/media/trump-access-hollywood-four-years-media/2020/09/25/bcd7de20-f918-11ea-89e3-4b9efa36dc64_story.html?outputType=amp",
-      "publishedDateTime": "2020-09-26T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-26-trump-claimed-he-would-mail-200-cards-to-millions-of-older-americans-weeks-before-the-election-but-its-not-clear-he-can-actually-do-it.md",
-      "title": "Trump claimed he would mail $200 cards to millions of older Americans weeks before the election — but it's not clear he can actually do it",
-      "excerpt": "Trump said Americans enrolled in Medicare would receive a $200 card in the mail so they could buy prescription drugs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f578c217ed0ee001e25ddec?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-seniors-elderly-medicare-cards-plan-election-day-prescription-drugs-2020-9?amp",
-      "publishedDateTime": "2020-09-26T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

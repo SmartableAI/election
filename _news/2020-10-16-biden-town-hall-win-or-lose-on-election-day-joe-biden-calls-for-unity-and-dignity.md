@@ -227,6 +227,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Joe Biden's socially distanced campaign"
+    excerpt: "Deanna White of Durham looks on from her vehicle as Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event at Riverside High School in Durham, North Carolina, Octob"
+    publishedDateTime: 2020-10-19T20:41:00Z
+    webUrl: "https://www.reuters.com/news/picture/joe-bidens-socially-distanced-campaign-idUSRTX83IZT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538082264&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-19T202713Z_37091_MRPRC26LJ9NSXSX_RTRMADP_0_USA-ELECTION-BIDEN"
+        width: 810
+        height: 611
+        isCached: true
   - title: "The real Joe Biden is far from the one you endorsed"
     excerpt: "If Joe Biden wins but is unable to carry out his duties, then it is likely to be the far left progressives who will actually be running things. Is that really what The Plain Dealer is endorsing, asks Jim Johnston of Avon Lake in a letter to the editor."
     publishedDateTime: 2020-10-19T17:11:00Z

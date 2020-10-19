@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-15-vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election.md",
+      "title": "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election",
+      "excerpt": "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "originalUrl": "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
+      "publishedDateTime": "2020-10-14T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "11Alive",
+        "domain": "11alive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-trump-directs-california-gop-to-fight-hard-in-court-over-ballot-boxes-despite-prosecution-threat.md",
       "title": "Trump directs California GOP to 'fight hard' in court over ballot boxes despite prosecution threat",
       "excerpt": "President Trump on Tuesday directed Republicans to “fight hard” in court after California’s top election and law enforcement officials, both Democrats, ordered the state GOP to remove unofficial ballot boxes from various locations in three counties by later this week or face prosecution.  ",
@@ -205,62 +248,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-14-trump-administration-secures-release-of-two-american-hostages-from-yemen.md",
-      "title": "Trump administration secures release of two American hostages from Yemen",
-      "excerpt": "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S48r0oidbz4/trump-release-american-hostages-yemen",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/S48r0oidbz4/trump-release-american-hostages-yemen",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 274,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp",
-      "publishedDateTime": "2020-10-14T16:16:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-15-vp-mike-pence-speaks-at-make-america-great-again-event-in-grand-rapids.md",
       "title": "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids",
       "excerpt": "Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R.",
@@ -301,6 +288,62 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-governor-cuomo-claims-trump-convinced-american-their-loved-ones-died-due-to-nursing-home-policy.md",
+      "title": "Governor Cuomo claims Trump convinced American their loved ones died due to nursing home policy",
+      "excerpt": "New York Gov. Andrew Cuomo on Wednesday blamed President Donald Trump for convincing people that the governor’s controversial March 25 nursing home mandate was responsible for 6,600 deaths",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/esR8Q-gvFHs/governor-cuomo-trump-nursing-home-policy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288757069959.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/governor-cuomo-trump-nursing-home-policy.amp",
+      "publishedDateTime": "2020-10-14T14:56:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     },
     {
@@ -376,6 +419,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
       "publishedDateTime": "2020-10-14T12:10:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-trump-determined-to-avoid-hillary-clintons-fatal-campaign-blunder.md",
+      "title": "Trump determined to avoid Hillary Clinton's fatal campaign blunder",
+      "excerpt": "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp",
+      "publishedDateTime": "2020-10-14T11:58:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -623,7 +722,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 575,
+      "heat": 615,
       "tags": null,
       "images": [
         {
@@ -675,7 +774,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -783,7 +882,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 3700,
+      "heat": 3740,
       "tags": null,
       "images": [
         {
@@ -1109,7 +1208,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 500,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -1165,7 +1264,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 210,
+      "heat": 230,
       "tags": null,
       "images": [
         {
@@ -1206,114 +1305,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-obama-to-hit-the-campaign-trail-for-biden-in-final-stretch.md",
-      "title": "Obama to hit the campaign trail for Biden in final stretch",
-      "excerpt": "Former President Barack Obama is expected to hit the campaign trail next week, Democratic officials tell CNN, as he looks to step up his work in support of his one-time partner -- former Vice President Joe Biden -- in the final stretch of the election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/74Fgc55nBhc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 515,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922125352-barack-obama-0819-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html",
-      "publishedDateTime": "2020-10-13T16:27:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trumps-campaign-nearly-went-broke-for-the-2020-home-stretch-amid-brad-parscales-200-million-budgeting-misfire-republicans-tell-insider.md",
-      "title": "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider.",
-      "excerpt": "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

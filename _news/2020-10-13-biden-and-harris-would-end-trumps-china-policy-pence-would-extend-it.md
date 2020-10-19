@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 9440
+heat: 9500
 published: true
 
 provider:
@@ -1232,6 +1232,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Why is Joe Biden so resistant to Trump’s attacks?"
+    excerpt: "If you went to President Trump’s rally on Sunday in Carson City, Nevada — a pretty typical one — here’s what you would have heard about: It’s quite a litany. But none of it seems to be working, as evidenced by the fact that the Trump campaign hasn’t settled on one (or even two or three) key attacks it wants to make on Biden."
+    publishedDateTime: 2020-10-19T20:10:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/19/why-is-joe-biden-so-resistant-trumps-attacks/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/19/why-is-joe-biden-so-resistant-trumps-attacks/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/19/why-is-joe-biden-so-resistant-trumps-attacks/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKSZULAROEI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -1551,6 +1567,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "President Trump takes a break from calling Joe Biden old to reference Bob Hope"
+    excerpt: "Trump tweeted Monday that Anthony Fauci had received more airtime than anyone since Bob Hope, the vaudevillian who died in 2003 at age 100."
+    publishedDateTime: 2020-10-19T20:50:00Z
+    webUrl: "https://www.washingtonpost.com/arts-entertainment/2020/10/19/trump-fauci-tweet-bob-hope/"
+    ampWebUrl: "https://www.washingtonpost.com/arts-entertainment/2020/10/19/trump-fauci-tweet-bob-hope/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/10/19/trump-fauci-tweet-bob-hope/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4C6PTZAQVEI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden says next presidential debate should be called off if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday that next week's scheduled debate with Republican President Donald Trump should not take place if Trump is still infected with COVID-19."
@@ -2847,6 +2879,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump needs the race to tighten in the next two weeks. Here’s where it is — and isn’t."
+    excerpt: "In 2016, for example, we understood from polling that both Donald Trump and Hillary Clinton were viewed negatively by the electorate. We also knew that, comparing the two major-party candidates on their personal qualities,"
+    publishedDateTime: 2020-10-19T21:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/19/trump-needs-race-tighten-next-two-weeks-heres-where-it-is-and-isnt/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/19/trump-needs-race-tighten-next-two-weeks-heres-where-it-is-and-isnt/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/19/trump-needs-race-tighten-next-two-weeks-heres-where-it-is-and-isnt/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZXSJBBASIMI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "'Stand back and stand by': Rhetoric some call racist has marked Trump's entire presidency"
     excerpt: "President Donald Trump's contentious comments about immigrants and people of color have been blasted by critics who say he's further dividing America."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153803-203-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign to remove retired general's image from ad after he objects "
+    excerpt: "Joe Biden's presidential campaign will remove the image of a retired Army general from an ad after the general objected to his inclusion.\n    \n"
+    publishedDateTime: 2020-10-19T20:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-PqT8CGk6uw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/biden-ad-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/biden-ad-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160202063804-gen-sean-macfarland-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Woman claims Facebook took down her account after posting about her assault at pro-Trump rally in DC"
+    excerpt: "A woman who marched at a pro-Trump rally in Washington, D.C., claims Facebook took down her entire account after she posted about being assaulted by Women’s March and Black Lives Matter activists."
+    publishedDateTime: 2020-10-19T21:48:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZgBC1tXe1M/facebook-took-down-account-post-about-assault-pro-trump-rally-dc"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-took-down-account-post-about-assault-pro-trump-rally-dc.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20d0d0f3-f762-45c6-8015-044669faf65b/1549804e-c8c7-4081-9827-8306eff4d69b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ttBSzhqH+a0Pq3KSqi9ln+GEuAZhP/mZjQrIi93XN6REr4V6mkWwX3dui5C2qQcj49ZtRPA1bVpPLzoXH5d3iF+dy3usM6v5i5jUJn789bziKJxHSlEhnuzos3/AQjqZzz+Ni9ZUs1V4ZiiaRqVR0w4h+ubFAcB8Yx1DZB1RSyEknDsDcltj0MVBdgo/vdtsEsfqosZBQBzcU39Qtk3I0/YES7mbPoIIUJiuT7a4r/SfSTqlxiJXR3YnLa30zMijd/rR9AB+RW1FfQ3skaqT9lqJcZC7OOlrQBIHHQHbUZFJLOcQlsQeIBNdb59KGM5F7bGwnOoOfw4Q6YF65obIbKuaHerzvcLVRZw89+5Mtqg=;lKHAjhPTioQWkgbi9XAn6g=="
 ---

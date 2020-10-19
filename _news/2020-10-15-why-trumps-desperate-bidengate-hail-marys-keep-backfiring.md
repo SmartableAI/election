@@ -446,6 +446,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump trails Biden in swing state and national polls. But here's how he can still win."
+    excerpt: "Though the landscape appears to favor Biden, several places still offer the Trump campaign hope, including one in particular: Pennsylvania."
+    publishedDateTime: 2020-10-19T20:44:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-trails-biden-swing-state-national-polls-here-s-how-ncna1243919"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243919"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243919"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421261/201019-think-donald-trump-ew-1225p_1364a403a6f1c56d2ab624f22fdac683.jpg"
+        width: 2500
+        height: 1743
+        isCached: true
   - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
     excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
     publishedDateTime: 2020-10-15T09:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54527265"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54527265"
 type: article
 quality: 140
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -214,6 +214,20 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07290476_1602868384.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Joe Biden's socially distanced campaign"
+    excerpt: "Deanna White of Durham looks on from her vehicle as Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event at Riverside High School in Durham, North Carolina, Octob"
+    publishedDateTime: 2020-10-19T20:41:00Z
+    webUrl: "https://www.reuters.com/news/picture/joe-bidens-socially-distanced-campaign-idUSRTX83IZT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538082264&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-19T202713Z_37091_MRPRC26LJ9NSXSX_RTRMADP_0_USA-ELECTION-BIDEN"
+        width: 810
+        height: 611
         isCached: true
   - title: "Biden town hall: Win or lose on Election Day, Joe Biden calls for unity and dignity"
     excerpt: "Democratic presidential nominee Joe Biden, in a primetime town hall Thursday, made the case that Americans want more inclusion and dignity across the board, an outlook at odds with what Biden described as President Donald Trump ’s “divide and conquer” strategy."

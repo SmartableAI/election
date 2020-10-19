@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
 type: article
 quality: 123
-heat: 563
+heat: 583
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
+    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
+    publishedDateTime: 2020-10-19T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

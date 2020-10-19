@@ -2,6 +2,280 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-09-29-trumps-supreme-court-pick-on-capitol-hill-for-meeting-with-gop-senators.md",
+      "title": "Trump's Supreme Court pick on Capitol Hill for meeting with GOP senators",
+      "excerpt": "President Donald Trump's nominee for the Supreme Court, Judge Amy Coney Barrett, will meet Republican senators throughout Tuesday on Capitol Hill, as the party finalizes plans for a quick confirmation process ahead of the November presidential election.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200926175044-barrett-for-opinion-roundup-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html",
+      "publishedDateTime": "2020-09-29T03:05:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-administration-warns-iraq-it-plans-to-shut-us-embassy-in-baghdad-after-rocket-attacks.md",
+      "title": "Trump administration warns Iraq it plans to shut U.S. Embassy in Baghdad after rocket attacks",
+      "excerpt": "In an interview with NBC News, a top U.S. general recently praised the work of Iraqi security forces protecting American interests in Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3415403/200928-embassy-iraq-mc-913_e987c429836f08e91000280c86a42f76.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241226",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241226",
+      "publishedDateTime": "2020-09-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.md",
+      "title": "Trump admin teams with nonprofit to launch 'Safety Pledge' to combat online child exploitation",
+      "excerpt": "EXCLUSIVE: The Trump administration on Tuesday is launching a safety pledge with the National Center for Missing and Exploited Children in an effort to prevent attacks from online predators and sex traffickers, as the nonprofit has seen “a dramatic increase” in reports of child sex exploitation since",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
+      "publishedDateTime": "2020-09-28T21:10:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-trump-backed-canadian-railway-to-alaska-could-free-landlocked-oil-faces-high-hurdles.md",
+      "title": "Trump-backed Canadian railway to Alaska could free landlocked oil, faces high hurdles",
+      "excerpt": "A private-sector proposal endorsed by U.S. President Donald Trump to build a railway from Canada's oil sands to ports in Alaska would free landlocked crude but faces numerous steep challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
+      "publishedDateTime": "2020-09-28T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
+      "title": "Harris to voters: Don't give up as Trump rushes court pick",
+      "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
+      "publishedDateTime": "2020-09-28T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-kamala-harris-doesnt-take-questions-after-speech-ripping-trumps-supreme-court-push.md",
       "title": "Kamala Harris doesn't take questions after speech ripping Trump's Supreme Court push",
       "excerpt": "Harris ripped Trump and the GOP for attempting to appoint a Supreme Court justice during an election year.",
@@ -1094,273 +1368,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-former-trump-campaign-manager-brad-parscale-hospitalized-following-reported-suicide-attempt.md",
-      "title": "Former Trump campaign manager Brad Parscale hospitalized following reported suicide attempt",
-      "excerpt": "President Donald Trump's former campaign manager Brad Parscale was hospitalized Sunday following reports of a suicide attempt at his Florida home, CNN has learned.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kFS_t63N4OQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200430103423-02-brad-parscale-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/brad-parscale-hospitalized/index.html",
-      "publishedDateTime": "2020-09-27T18:50:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-slams-medias-treatment-of-barretts-catholicism-i-thought-we-settled-this-with-jfk.md",
-      "title": "Trump slams media’s treatment of Barrett’s Catholicism: ‘I thought we settled this’ with JFK",
-      "excerpt": "President Donald Trump on Sunday took the media to task for going after the Catholicism of his Supreme Court justice pick, Amy Coney Barrett, saying he thought the matter had been put to rest with the election of President John F. Kennedy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rifGT98GjDk/trump-treatment-barretts-catholicism",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/AP20271781176125.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-treatment-barretts-catholicism.amp",
-      "publishedDateTime": "2020-09-27T17:13:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-trump-continues-to-malign-mail-in-voting-says-dems-attacking-election-integrity.md",
-      "title": "Trump continues to malign mail-in voting; says Dems attacking 'election integrity'",
-      "excerpt": "President Trump continued on Sunday his attack on mail-in balloting and other alternative voting measures as the country enters the final month before this year’s presidential election.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zkAINlSBtfo/trump-mailgn-mail-voting-dems-attacking-election-integrity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mailgn-mail-voting-dems-attacking-election-integrity.amp",
-      "publishedDateTime": "2020-09-27T17:00:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
-      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
-      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
-      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
-          "width": 4923,
-          "height": 3282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
-      "publishedDateTime": "2020-09-27T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-27-new-york-times-trump-paid-no-income-taxes-in-10-out-of-15-years-beginning-in-2000.md",
-      "title": "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000",
-      "excerpt": "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TyYoxDdWM3E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200924170345-01-trump-0924-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html",
-      "publishedDateTime": "2020-09-27T16:22:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden campaign to remove retired general's image from ad after he objects "
+    excerpt: "Joe Biden's presidential campaign will remove the image of a retired Army general from an ad after the general objected to his inclusion.\n    \n"
+    publishedDateTime: 2020-10-19T20:02:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-PqT8CGk6uw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/biden-ad-general/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/biden-ad-general/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160202063804-gen-sean-macfarland-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
     excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
     publishedDateTime: 2020-10-07T23:51:23Z
@@ -294,6 +310,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "WQGUznyHEKz7NJgCEjiDCCTbgTwTHwoSgOuMq8K2mvyna14KYADbvMSjlHV2NZH6uqNuK/YshLeBrS6ZgStNBOV4ddehERXtBeUlUsCWB+anz6+oPwnEDllAran9YaQmszWJyRRIwwGPo/5H7BGg8XXLPnRaeBcf79HoFGXcH7Pl/5wgCsR89lUUrZixEQ03ZDA9HztvBlbzI9+vHtW9OXyCd8I90GEoIs8TRrpJsGLeBBDqkPUbu5JXcAnVHqe6M1ZVRG7DcQeYV4oAkdviv0orQSH4oFmI84wcJ89dCRM60awoAS90pnyMstW2kqV7pZ86q+ftOlow2odXCJD0ggfr6AvEJMA8BfwBPqg8yAQ=;T1Kzk3usbGIWdzZtAB0wow=="
+secured: "ZAi4Y+8xAYUtcQffX819wOwhrZWY7J6QTB4R40YX6jF677xsAG+m0N8KjXOD7FHfAdKLTi0Rmol/2QfRK59Vpw/hjC5Q0PBGWQgUJ/iJhfeGiVuFq0DdrteeR4qyH0/oJviJ8uRpsuib7Sjf2Wgs4TubnbrbL4eSVFvyAM2M2ndxa/zBvygJNh0CGFY/+vkthDtgmuz0Y7LPV6yNH52PIna+H3CVq0iyDoL5AmHNxiOUD9LRQDHkPB8n024OuQ8ZAbf+DD1DrxkMVURA0xnHDoo6ja8pPtD8y79NeCKyCxltx6Ok/5/XGRYXx9h5FA3PcUkAG60HCssyqHIa+pF8SlP92ZjY2JJP/Xbw5eVS4pws9DCbLgqiitQhVCf28FdqxZFlkPQpk145qOvNaA3dgGAYKtPGcJWEDtGN2fqup8UkALb5ceOb7v0faxnptDUJ6DvCAUy60OXaa94VAlG6odRbtB6qt3cN77M9yz8XNL1BDsIsXbsBhA0sZhVrZJ6LzfyMvPGWqFwXkAtTnlP+AQ==;RJOSuZhA+yM6mP2YrKkgPg=="
 ---
 

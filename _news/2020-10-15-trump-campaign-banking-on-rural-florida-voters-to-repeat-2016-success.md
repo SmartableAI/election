@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
 type: article
 quality: 175
-heat: 295
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,95 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor"
-    excerpt: "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day."
-    publishedDateTime: 2020-10-09T03:23:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
+  - title: "Trump determined to avoid Hillary Clinton's fatal campaign blunder"
+    excerpt: "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there."
+    publishedDateTime: 2020-10-14T18:58:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VWdS12PwJII/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error"
+    ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TrumpPrayer.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
-    excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
-    publishedDateTime: 2020-10-12T20:43:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7QRsZmgmHI/trump-team-kicks-off-florida-fighters-against-socialism-bus-tour"
+  - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
+    excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "
+    publishedDateTime: 2020-10-17T05:24:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bHP7LJuG1HI/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed"
+    ampWebUrl: "https://www.foxnews.com/politics/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-voters-should-cancel-trump-reality-show-after-town-hall-ratings-revealed.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 164
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump-jr.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hillary-Clinton-Recent-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
-    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
-    publishedDateTime: 2020-10-13T13:18:00Z
-    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
-    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Florida worker suspended for flying Trump flag from government truck"
-    excerpt: "The 61-year-old, who has been with the town government for over two decades, was accused of flying a blue Trump flag out the driver side window of the truck earlier this month."
-    publishedDateTime: 2020-10-15T21:23:00Z
-    webUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag"
-    ampWebUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
+  - title: "Trump authorizes declassification of all Russia collusion, Hillary Clinton email probe documents"
+    excerpt: "President Trump on Tuesday said he has “full authorized the total declassification” of “any & all” documents related to the Russia investigation and the FBI’s investigation into former Secretary of State Hillary Clinton’s use of a private email server."
+    publishedDateTime: 2020-10-07T00:54:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9N72ZCxZ9aM/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-authorizes-declassification-of-all-russia-collusion-hillary-clinton-email-probe-documents.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 162
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
-    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
-    publishedDateTime: 2020-10-15T22:10:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
+  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
+    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
+    publishedDateTime: 2020-10-11T22:42:00Z
+    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 97
     images:
-      - url: "https://assets.realclear.com/images/51/519720.jpg"
-        width: 1020
-        height: 764
-        isCached: true
-  - title: "Full Replay: Donald Trump Town Hall With Florida Voters Hosted By NBC"
-    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
-    publishedDateTime: 2020-10-16T23:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/519720.jpg"
-        width: 1020
-        height: 764
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "lIp2WRWINCDpoj9cHUw9NkC5NxQstNo2e1dXQ6Z9W1iUmLiNW+qt1S74h0oLDxvGK7B95fUDJTo70cjqwPk/fnmtcA+bOYjKQ+UfKe3sAZFmi0mVsnm6Zh/+1WJcHC4q/+QRdaHU3rkrDN+tRDsL365/RS2abFKFX5NKeVOSDVgKeuuPMzxaN/X0DZIawqj79EDUb+qcUYy7KWsX+lX2HSQaoh1fvt02uB52n4fhT4jhvCYT0MlfxXkybUzKNPX7UMOssvWVc1lGkaoy+pc7+1vuT82ZhDmh4iVZPwrysxddrkMAt5ON9kJSGm7IvvsRuIlaJnavXOSALwMuRwE7uoWfQUOQoBo9Z5P2SVfzOZs=;+oXC/dTj7NH8bsJ/LNm5CQ=="

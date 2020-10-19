@@ -400,22 +400,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Draws More Viewers Than Trump in Town Hall Ratings"
-    excerpt: "More than 27 million viewers watched the dueling town halls of President Trump and Democratic presidential nominee Joe Biden, according to Nielsen ratings."
-    publishedDateTime: 2020-10-16T21:12:00Z
-    webUrl: "https://www.wsj.com/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-246186/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Biden touts plan that ‘bets on the American worker’ and targets Trump in Minnesota stop"
     excerpt: "Democratic presidential nominee Joe Biden spotlighted his blue collar roots and accused President Trump of “looking down” on working class people during a speech to a union crowd as he made his first visit to battleground Minnesota during the general election."
     publishedDateTime: 2020-09-19T02:09:00Z

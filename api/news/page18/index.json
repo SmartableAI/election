@@ -2,6 +2,274 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-09-30-joe-scarborough-urges-biden-do-not-do-anymore-debates.md",
+      "title": "Joe Scarborough urges Biden: 'Do not do anymore debates'",
+      "excerpt": "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\"",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates",
+      "originalUrl": "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/scarboroughjoe08292017msnbc.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/518888-joe-scarborough-urges-biden-do-not-do-anymore-debates?amp",
+      "publishedDateTime": "2020-09-29T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-dana-perinos-debate-verdict-biden-cleared-the-very-low-bar-that-had-been-set-for-him.md",
+      "title": "Dana Perino's debate verdict: 'Biden cleared the very low bar that had been set for him'",
+      "excerpt": "Democrats concerned about Joe Biden's performance on a debate stage could breathe a sigh of relief Tuesday night following the fractious and bad-tempered first confrontation in Cleveland, former White House press secretary Dana Perino said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1b639de-1691-4aa6-b589-f5ec0adde147/5b378a95-9fa4-401a-bec3-261ac93537cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
+      "publishedDateTime": "2020-09-29T21:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-breakingviews-debate-chaos-is-a-gift-for-a-conflicted-biden.md",
+      "title": "Breakingviews - Debate chaos is a gift for a conflicted Biden",
+      "excerpt": "Donald Trump just gave Joe Biden a gift. The first televised debate of the 2020 election could have forced the Democratic presidential nominee to explain how he can appease both economic moderates and progressives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-debate-idUSKBN26L0G1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 385,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200930&t=2&i=1535463441&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8T0C5",
+          "width": 859,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26L0G1",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26L0G1",
+      "publishedDateTime": "2020-09-29T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-joe-biden-tweets-joke-mocking-earpiece-and-drug-allegations-with-photo-of-headphones-and-ice-cream.md",
+      "title": "Joe Biden tweets joke mocking 'earpiece' and 'drug' allegations with photo of headphones and ice cream",
+      "excerpt": "\"I’ve got my earpiece and performance enhancers ready,\" Biden wrote on Twitter with a photo of tangled earbuds and a pint of ice cream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/09/29/presidential-debate-biden-posts-headphones-mocking-earpiece-theory/3581631001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/23/USAT/394278ca-5bc8-404f-b03d-507506fd915c-AP20262614815656.jpg?auto=webp&crop=3873,2179,x1324,y667&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3581631001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3581631001",
+      "publishedDateTime": "2020-09-29T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-trump-on-supreme-court-overturning-roe-v-wade-theres-nothing-happening-there.md",
+      "title": "Trump on Supreme Court overturning Roe v. Wade: 'There's nothing happening there'",
+      "excerpt": "President Trump said Tuesday night there’s “nothing happening” in the Supreme Court with Roe v. Wade, and it isn’t on the ballot with the latest Supreme Court vacancy. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump_biden_debate_split_thumb_3.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "publishedDateTime": "2020-09-29T18:45:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.md",
       "title": "Philly firefighters, paramedics union breaks with IAFF to endorse Trump",
       "excerpt": "The firefighters and paramedics union in Philadelphia broke with the International Association of Fire Fighters to endorse President Trump in the upcoming election, according to a report.",
@@ -169,7 +437,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 167,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1072,280 +1340,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trumps-supreme-court-pick-on-capitol-hill-for-meeting-with-gop-senators.md",
-      "title": "Trump's Supreme Court pick on Capitol Hill for meeting with GOP senators",
-      "excerpt": "President Donald Trump's nominee for the Supreme Court, Judge Amy Coney Barrett, will meet Republican senators throughout Tuesday on Capitol Hill, as the party finalizes plans for a quick confirmation process ahead of the November presidential election.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jzqe4VLh7as/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 334,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200926175044-barrett-for-opinion-roundup-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/29/politics/amy-coney-barrett-capitol-hill-scotus-nominee/index.html",
-      "publishedDateTime": "2020-09-29T03:05:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-administration-warns-iraq-it-plans-to-shut-us-embassy-in-baghdad-after-rocket-attacks.md",
-      "title": "Trump administration warns Iraq it plans to shut U.S. Embassy in Baghdad after rocket attacks",
-      "excerpt": "In an interview with NBC News, a top U.S. general recently praised the work of Iraqi security forces protecting American interests in Iraq.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
-      "originalUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3415403/200928-embassy-iraq-mc-913_e987c429836f08e91000280c86a42f76.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241226",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241226",
-      "publishedDateTime": "2020-09-29T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.md",
-      "title": "Trump admin teams with nonprofit to launch 'Safety Pledge' to combat online child exploitation",
-      "excerpt": "EXCLUSIVE: The Trump administration on Tuesday is launching a safety pledge with the National Center for Missing and Exploited Children in an effort to prevent attacks from online predators and sex traffickers, as the nonprofit has seen “a dramatic increase” in reports of child sex exploitation since",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RM0UseJk4RI/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-admin-teams-with-nonprofit-to-launch-safety-pledge-to-combat-online-child-exploitation.amp",
-      "publishedDateTime": "2020-09-28T21:10:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-backed-canadian-railway-to-alaska-could-free-landlocked-oil-faces-high-hurdles.md",
-      "title": "Trump-backed Canadian railway to Alaska could free landlocked oil, faces high hurdles",
-      "excerpt": "A private-sector proposal endorsed by U.S. President Donald Trump to build a railway from Canada's oil sands to ports in Alaska would free landlocked crude but faces numerous steep challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-canada-rail-idUSKBN26J2O3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535238512&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R1QJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J2O3",
-      "publishedDateTime": "2020-09-28T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-harris-to-voters-dont-give-up-as-trump-rushes-court-pick.md",
-      "title": "Harris to voters: Don't give up as Trump rushes court pick",
-      "excerpt": "Kamala Harris is urging voters not to be discouraged by Republican efforts to fill a Supreme Court seat before the election",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_e513ab92f3af4428817844586afc1f47_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/harris-voters-give-trump-rushes-court-pick-73298866",
-      "publishedDateTime": "2020-09-28T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Kamala Harris"
       ]
     }
   ],

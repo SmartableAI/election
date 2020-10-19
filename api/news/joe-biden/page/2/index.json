@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-07-joe-biden-should-stop-ducking-the-court-packing-issue.md",
+      "title": "Joe Biden should stop ducking the court-packing issue",
+      "excerpt": "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "originalUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 905,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp",
+      "publishedDateTime": "2020-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-07-russias-vladimir-putin-says-he-has-noted-joe-bidens-sharp-anti-russian-rhetoric.md",
       "title": "Russia's Vladimir Putin says he has noted Joe Biden's 'sharp anti-Russian rhetoric'",
       "excerpt": "Russian President Vladimir Putin said on Wednesday he had noted what he called harsh anti-Russian rhetoric from Democratic presidential candidate Joe Biden, but that he had been encouraged by Biden’s comments on arms control.",
@@ -1545,49 +1597,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.md",
-      "title": "Despite what you heard, Joe Biden did not use a teleprompter on Telemundo",
-      "excerpt": "An image of a woman appears on the monitor's screen. “How can you guarantee this will not continue happening in our communities,” she asks. While answering the question, Joe Biden faces the monitor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
-      "originalUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OOVYMYK4TVDOZDJRTX3FWSMZXQ.jpg",
-          "width": 4923,
-          "height": 3282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/09/despite-what-you-heard-joe-biden-did-not-use-a-teleprompter-on-telemundo.html?outputType=amp",
-      "publishedDateTime": "2020-09-27T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     }

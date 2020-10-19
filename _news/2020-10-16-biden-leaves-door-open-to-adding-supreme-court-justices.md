@@ -199,6 +199,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jim Carrey’s Biden impression is a below-average Joe"
+    excerpt: "It’s a misguided choice that makes me think more about Carrey and his style than about Biden while I’m watching."
+    publishedDateTime: 2020-10-19T21:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
     excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
     publishedDateTime: 2020-10-14T20:00:00Z

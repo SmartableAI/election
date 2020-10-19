@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brothe
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment/_jcr_content/image.large2x1image.dimg/__1603067588904__1603065652670/101820-news-jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Report: Shots Fired at Congressional Candidate Jeannine Lee Lake, Who’s Running Against VP Mike Pence’s Brother"
+    excerpt: "Jeannine Lee Lake, the Black woman running against VP Mike Pence's brother, says she was the target of racist threats and gunfire."
+    publishedDateTime: 2020-10-19T21:00:00Z
+    webUrl: "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/"
+    ampWebUrl: "https://www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/report-shots-fired-at-congressional-candidate-jeannine-lee-lake-whos-running-against-vp-mike-pences-brother/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 55
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2020/10/Jeannine-Lee-Lake.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fEWtYPOWd+nSMGjS1wpG3LPWyBxIwY0sT6y9fy0JZTXRxlUsYB78acXy1NEMWKkqdvddJCIoorzRGztbk29m7nhcdoAU8gCrjCUUpqFry1fX8x0+ODrPSeQsVb1+DucW4W9x3ZJbv8ARZjKyZ/JBgdkK4++HvMj7tNsOwvqO9I+YF8mRuLeWYpvK4u8DM6X7v2iIgr/cK7ThgWJtus4aBtHGdSfRvNkrULbA0Dywe24evZ4b1PGe6JZ+jro0T4ttkCl/0vPco0vVoWoWm9ZEHg3HbMlj6oPRV1XFzTWKmbQzE1mYMXB6iqPFDRH+cEIY7Mft1O41JHsVghA/q2uus5rCrF83lZqk8C6MZOKsIWA=;tce5qdOKo1jg/fhzu9KlfQ=="

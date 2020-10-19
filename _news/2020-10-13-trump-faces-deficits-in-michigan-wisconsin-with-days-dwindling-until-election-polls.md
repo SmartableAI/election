@@ -31,169 +31,475 @@ images:
     isCached: true
 
 related:
-  - title: "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day"
-    excerpt: "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election."
-    publishedDateTime: 2020-10-13T19:01:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+  - title: "Americans say Trump vs. Biden most important election in decades, Gallup poll finds"
+    excerpt: "A recent Gallup poll found 77% of registered voters said the outcome of the November election between President Trump and Joe Biden matters more to them than prior U.S. elections. "
+    publishedDateTime: 2020-10-19T20:59:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PICO34t4BnY/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 189
+    quality: 199
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
-    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
-    publishedDateTime: 2020-10-10T08:32:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 179
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump makes grand entrance at Iowa campaign rally"
-    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
-    publishedDateTime: 2020-10-15T03:31:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+  - title: "Trump, Biden funnel ad dollars into key battlegrounds in final stretch"
+    excerpt: "Local television markets in the battleground states of Florida, Arizona, and Pennsylvania have become ground zero for President Trump and Democratic nominee Joe Biden's ferocious advertising campaign war."
+    publishedDateTime: 2020-10-16T17:17:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0LesidV8pvc/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276724903875.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Top pro-Trump super PAC takes aim at Biden in new $10M ad blitz"
+    excerpt: "EXCLUSIVE: A leading super PAC backing President Trump's re-election is amping up a new ad blitz with a $10 million infusion on Monday to run the TV commercial in seven crucial general election battleground states."
+    publishedDateTime: 2020-10-19T10:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sq9yULbLE_M/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cbb0118-df6e-4597-abdb-87f5f36bab9e/25a7b3ac-b9f9-44f7-9a1f-64a06c7df3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
+    excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
+    publishedDateTime: 2020-10-18T02:33:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mzS17a9vhsg/twitter-employees-openly-rip-trump-praise-biden-trump-must-be-defeated"
+    ampWebUrl: "https://www.foxnews.com/politics/twitter-employees-openly-rip-trump-praise-biden-trump-must-be-defeated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-employees-openly-rip-trump-praise-biden-trump-must-be-defeated.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe6df57-c0d8-4250-8af5-e4aaabe52f66/30215794-7824-49e4-8e4e-ca9f5753628f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
+    excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzLonAcbMQg/trump-north-carolina-biden-fundraising-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's court-packing 180, says he will now tell voters his stance before election"
+    excerpt: "Democratic presidential nominee Joe Biden says that voters “do have a right to know where I stand” on expanding the number of justices on the Supreme Court."
+    publishedDateTime: 2020-10-16T01:34:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IICVCb_Wbyg/biden-clarify-court-packing-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-clarify-court-packing-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-clarify-court-packing-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Biden-Town-Hall-AP-THUMB-4.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden campaign warns against complacency in memo: 'Donald Trump can still win this'"
+    excerpt: "The Biden campaign sent out a three-page memo to supporters Saturday warning that President Trump can still win and the race is \"neck and neck\" in certain critical battleground states, including Arizona and North Carolina. "
+    publishedDateTime: 2020-10-17T17:24:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-oNgDlBvPAw/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
+    excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
+    publishedDateTime: 2020-10-16T03:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBhVvmmej2k/trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden 'most compromised person in the history of American politics': Donald Trump Jr."
+    excerpt: "The president should \"break up the highest levels of the FBI\" in response to the Hunter Biden scandal, Donald Trump Jr. said."
+    publishedDateTime: 2020-10-18T17:28:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZijtADogIt4/hunter-biden-donald-trump-jr-maria-bartiromo"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-donald-trump-jr-maria-bartiromo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-donald-trump-jr-maria-bartiromo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/72c49800-0150-478a-baa9-fbb31036e42c/8fe72c42-444b-414c-9292-b9f725ac246a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Orlando company president tells employees there could be layoffs if Biden beats Trump"
+    excerpt: "The head of a company in Florida sent letters to his employees inside their pay stub envelopes last week, warning of permanent layoffs if Joe Biden were to prevail over President Trump in the upcoming November election. "
+    publishedDateTime: 2020-10-19T21:40:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/s2fGK57CzaQ/orlando-company-president-tells-employees-there-could-be-layoffs-if-biden-wins"
+    ampWebUrl: "https://www.foxnews.com/politics/orlando-company-president-tells-employees-there-could-be-layoffs-if-biden-wins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/orlando-company-president-tells-employees-there-could-be-layoffs-if-biden-wins.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
+    excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
+    publishedDateTime: 2020-10-16T11:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZAGRIwAL84/trump-stumping-florida-biden-michigan-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
+    excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
+    publishedDateTime: 2020-10-15T18:59:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lVKFhubaFNA/trump-bidens-protected-big-tech-revoke-section-230"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-bidens-protected-big-tech-revoke-section-230.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-bidens-protected-big-tech-revoke-section-230.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8a1e875e-1c05-40d4-ae45-3af1c856fe3f/d854cedf-71ec-4e2d-ac5e-ce8a2b108e24/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump, Biden campaign in Michigan, Georgia, Florida after dueling town halls"
+    excerpt: "President Trump campaigned in Florida and Georgia and Democratic nominee Joe Biden made two stops in Michigan on Friday, a day after the candidates answered voters' questions in separate network town hall events."
+    publishedDateTime: 2020-10-17T06:52:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NOJYRBgDE-I/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
+    excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
+    publishedDateTime: 2020-10-16T13:13:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xQhhqTsPca4/trump-campaign-september-fundraising-still-short-biden-haul"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-september-fundraising-still-short-biden-haul.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden reiterates plan to convince Americans to wear masks"
+    excerpt: "Democratic presidential nominee Joe Biden says if he’s elected, he’ll gather the nation’s governors and ask them to urge residents in their states to wear masks in order to prevent the spread of the coronavirus pandemic."
+    publishedDateTime: 2020-10-16T00:54:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8L2lsjavqiU/biden-plan-americans-wear-masks-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-plan-americans-wear-masks-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-plan-americans-wear-masks-covid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
-        width: 600
-        height: 332
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump campaign rejects Taliban support for 2020 reelection"
-    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
-    publishedDateTime: 2020-10-11T15:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
+  - title: "Trump administration secures release of two American hostages from Yemen"
+    excerpt: "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday. "
+    publishedDateTime: 2020-10-14T23:16:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S48r0oidbz4/trump-release-american-hostages-yemen"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump adviser says POTUS will give Biden 'more room' to answer foreign policy questions in next debate"
+    excerpt: "Trump campaign senior adviser Jason Miller told \"Fox News Sunday\" that this week's debate between President Trump and Democratic challenger Joe Biden will see a different approach than what the president displayed in their first debate."
+    publishedDateTime: 2020-10-18T14:30:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vzFX7mLDxJc/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-adviser-says-potus-will-give-biden-more-room-to-answer-foreign-policy-questions-in-next-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8d770dd1-5c4f-4ebf-b8bd-3bddaa596937/432ccfe2-5906-4648-a20c-2da01a22a711/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump and Biden, both in Florida, court crucial senior voters"
+    excerpt: "A new TV commercial by President Trump’s reelection campaign touts that the president is “the clear choice” for seniors, who are a key voting bloc in many of the battleground states that will decide the winner of the presidential election."
+    publishedDateTime: 2020-10-16T17:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2MyhX7yTozc/trump-biden-florida-court-crucial-senior-voters"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/TrumpBidenAP-PhotoPatrick-Semansky.jpg"
+        width: 996
+        height: 560
         isCached: true
-  - title: "Trump campaign sends letter to debate commission asking for more focus on foreign policy"
-    excerpt: "President Trump’s campaign manager sent a two page letter on Monday to the Commission on Presidential Debates, asking the committee to \"rethink and reissue\" the topics that will be discussed during this week's upcoming presidential debate in Nashville."
-    publishedDateTime: 2020-10-19T19:38:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JEwF5UWeR2A/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy.amp"
+  - title: "Jon Voight slams Biden, says Trump 'must win' election"
+    excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
+    publishedDateTime: 2020-10-17T14:54:00Z
+    webUrl: "https://www.foxnews.com/entertainment/jon-voight-biden-evil-trump-win-2020-election"
+    ampWebUrl: "https://www.foxnews.com/entertainment/jon-voight-biden-evil-trump-win-2020-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jon-voight-biden-evil-trump-win-2020-election.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/640/320/Jon-Voight-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Trump predicts victory in call with campaign staffers, suggests race has turned in last 3 weeks"
-    excerpt: "President Trump on Monday predicted said he is “going to win” on Nov. 3, saying the campaign has “never been in a stronger position.\""
-    publishedDateTime: 2020-10-19T16:03:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JcfElRhGbM/trump-predicts-victory-campaign-call"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-predicts-victory-campaign-call.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-predicts-victory-campaign-call.amp"
+  - title: "Hawley: Americans ought to be able to sue Twitter, Facebook over blocking Hunter Biden report"
+    excerpt: "Americans who were prevented by social media giants from sharing the New York Post's reporting about Hunter Biden this week should be able to sue those companies, Sen. Josh Hawley, R-Mo., told “Hannity” Thursday night."
+    publishedDateTime: 2020-10-16T04:15:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0zC6dbYKSu4/josh-hawley-americans-sue-twitter-facebook"
+    ampWebUrl: "https://www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/josh-hawley-americans-sue-twitter-facebook.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18153b84-b2ed-4208-acb2-b23f8fe63683/370a704c-9174-48e6-b638-9e4b1519b3c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Republicans ask FBI if it had Hunter Biden's alleged laptop during Trump's impeachment"
+    excerpt: "EXCLUSIVE: House Republicans are calling on the FBI to reveal whether it was in possession of a laptop, that reportedly contained emails by Hunter Biden, during the impeachment of President Trump -- and claiming the agency committed a “gross error in judgement” if did not inform the White House."
+    publishedDateTime: 2020-10-15T20:29:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_P59Tje3dg4/house-gop-fbi-hunter-biden-laptop"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "If Biden is elected, Dems will change America as we know it: Graham"
+    excerpt: "Democrats want to change the United States of America as we know it by uprooting the country's constitutional process, Sen. Lindsey Graham, R-S.C., said on Monday."
+    publishedDateTime: 2020-10-12T16:45:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzIFvV4fGio/dems-change-america-wont-recognize-graham"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Biden Draws More Viewers Than Trump in Town Hall Ratings"
+    excerpt: "More than 27 million viewers watched the dueling town halls of President Trump and Democratic presidential nominee Joe Biden, according to Nielsen ratings."
+    publishedDateTime: 2020-10-16T21:12:00Z
+    webUrl: "https://www.wsj.com/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-246186/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
+    excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"
+    publishedDateTime: 2020-10-19T15:53:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/519d1dce-d470-4ec6-8e31-2cc28ea5750b/3f026495-75f6-4585-a64c-271e52683b7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden’s polling lead slips in wake of Post report on Hunter"
+    excerpt: "Joe Biden’s polling edge over President Trump eroded this week amid The Post’s scandalous revelations about his son Hunter’s foreign dealings — but the Democratic candidate"
+    publishedDateTime: 2020-10-17T08:37:00Z
+    webUrl: "https://nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/"
+    ampWebUrl: "https://nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/joe-bidens-polling-lead-slips-in-wake-of-post-report-on-hunter/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-5.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Trump administration secures release of two American hostages from Yemen"
+    excerpt: "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday."
+    publishedDateTime: 2020-10-14T23:22:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yemen"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-release-american-hostages-yemen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "RNC Chair Has Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
         height: 340
         isCached: true
-  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
-    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
-    publishedDateTime: 2020-10-10T15:30:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
+  - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
+    excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
+    publishedDateTime: 2020-10-15T23:30:00Z
+    webUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193"
+    ampWebUrl: "https://townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bronsonstocking/2020/10/15/gop-chair-has-some-important-questions-ahead-of-bidens-town-hall-event-n2578193?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
+      name: Townhall
+      domain: townhall.com
+    quality: 84
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
-        width: 2000
-        height: 1264
+      - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
+        width: 650
+        height: 340
         isCached: true
-  - title: "Sen. Tammy Baldwin demands Trump help Wisconsin fight COVID-19 surge"
-    excerpt: "Democratic Sen. Tammy Baldwin urged President Trump to send supplies to Wisconsin to tackle the COVID-19 crisis, citing six months of shortages."
-    publishedDateTime: 2020-10-17T17:54:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q2sbwRR4_vU/sen-tammy-baldwin-urges-trump-to-send-supplies-to-wisconsin-as-state-grapples-with-coronavirus-surge"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Tammy-Baldwin-REUTERS.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
-    excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
-    publishedDateTime: 2020-10-18T09:32:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/17/watch_live_trump_holds_a_make_america_great_again_rally_in_janesville_wisconsin.html#!"
+  - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
+    excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
+    publishedDateTime: 2020-10-18T15:53:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/18/cnns_jake_tapper_calls_out_lara_trump_for_mocking_joe_bidens_stutter_you_knew.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 61
+    quality: 74
     images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
-  - title: "Watch Live: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
-    excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
-    publishedDateTime: 2020-10-17T23:57:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/17/watch_live_trump_holds_a_make_america_great_again_rally_in_janesville_wisconsin.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 59
-    images:
-      - url: "https://assets.realclear.com/images/52/521717.jpg"
-        width: 1136
-        height: 852
-        isCached: true
-  - title: "Donald Trump: I Think We'll Do Better Than 2016, We're Way Ahead Of Where We Were in 2016"
-    excerpt: "The president spoke to reporters Monday as he arrived in Arizona for a campaign event."
-    publishedDateTime: 2020-10-19T18:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/19/donald_trump_i_think_well_do_better_than_2016_were_way_ahead_of_where_we_were_in_2016.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 56
-    images:
-      - url: "https://assets.realclear.com/images/52/524555.jpg"
+      - url: "https://assets.realclear.com/images/51/519907.jpg"
         width: 750
         height: 562
+        isCached: true
+  - title: "The Biden Corruption Scandal Is About Joe--Not Hunter"
+    excerpt: "The scandal indicates that Joe Biden, while vice president, knowingly allowed his son to sell access to the Obama administration, then lied about it. Read Full Article »"
+    publishedDateTime: 2020-10-19T18:08:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/19/the_biden_corruption_scandal_is_about_joe--not_hunter_526853.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "a2gUK64BPZVq3vMyc/i1D9rIwJSQRMQbSq/FmLM97h1L4Dk4enUH9+eYXqxBUbui5Iq7wkXHR65Fv/B01bMEX5bRGemah0vUIXGHMKN+P5qDI8+hOFy1cApTYsy8cl7OZXUg5TA4J1haH49fdImGUsRoFpryqZZgeIzibRyMAfic/VhVzX7P22Jx7R+Ptbk4CSBgWgcpfD2FgQ1j586cjfSw7S6M1xmMnjEbhkN3tj9CHOgd/Z20oVyN70vgZRrF4ckqdZyQbXsWoAHsRmtbqd1NaSwHt7iNP1s5+ZNoj06Kt0y9X3/mzuKIn7MkTTRLZdFoJHbMX6++m+9xXxawN9/JD+gyrCBClHln9dXU1RE=;6vYi/rX0BEAVoq6dEjW90g=="

@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-16-rnc-files-fec-complaint-against-twitter-claims-company-made-illegal-in-kind-contribution-to-biden-campaign.md",
+      "title": "RNC files FEC complaint against Twitter, claims company made 'illegal in-kind contribution' to Biden campaign",
+      "excerpt": "EXCLUSIVE: The Republican National Committee on Friday filed a complaint with the Federal Election Commission alleging that the censorship of the New York Post article about Hunter Biden’s overseas business dealings and former Vice President Joe Biden’s alleged knowledge of those dealings, amounts to",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/801397da-12bb-4527-840c-ce1354fda6ba/3ad45308-8610-4eb0-ba9c-4b408dff34dc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T09:39:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-kamala-harris-has-awkward-moment-at-nc-event-says-election-ends-in-19-days.md",
+      "title": "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'",
+      "excerpt": "Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
+      "publishedDateTime": "2020-10-16T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-watch-live-joe-biden-delivers-remarks-on-health-care-in-michigan.md",
       "title": "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan",
       "excerpt": "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care.",
@@ -282,7 +395,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 885,
+      "heat": 905,
       "tags": null,
       "images": [
         {
@@ -339,7 +452,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 604,
+      "heat": 624,
       "tags": null,
       "images": [
         {
@@ -603,7 +716,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 695,
+      "heat": 735,
       "tags": null,
       "images": [
         {
@@ -909,7 +1022,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1217,114 +1330,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-gop-senator-unloads-on-trump-in-constituent-call-saying-he-mocks-evangelicals-and-has-flirted-with-white-supremacists.md",
-      "title": "GOP senator unloads on Trump in constituent call, saying 'he mocks evangelicals' and has 'flirted with White supremacists'",
-      "excerpt": "Republican Sen. Ben Sasse criticized President Donald Trump earlier this week during a private phone call with constituents, saying a number of unflattering things about the President, including that he's \"flirted with White supremacists\" and \"kisses dictators' butts,\" his office confirmed to CNN.\n ",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
-      "publishedDateTime": "2020-10-15T16:17:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-ex-fundraiser-to-plead-guilty-in-1mdb-foreign-lobbying-case.md",
-      "title": "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case",
-      "excerpt": "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27033J",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J",
-      "publishedDateTime": "2020-10-15T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

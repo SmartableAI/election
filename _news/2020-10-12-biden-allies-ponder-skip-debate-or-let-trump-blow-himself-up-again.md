@@ -232,6 +232,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Biden, Trump reach out to Puerto Rican voters—including through relatives on the island"
+    excerpt: "When you are island born, you have the highest amount of connections to the island among family, friends and neighbors,\" said Natascha Otero, from \"Boricuas con Biden.\""
+    publishedDateTime: 2020-10-19T21:24:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/biden-trump-reach-out-puerto-rican-voters-including-through-relatives-n1243918"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243918"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243918"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421332/201019-old-san-juan-puerto-rico-ew-416p_ac7be00ac0901364061d0b8ef3b41513.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Watch live: Joe Biden delivers remarks on vision for older Americans"
     excerpt: "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla."
     publishedDateTime: 2020-10-13T17:46:00Z

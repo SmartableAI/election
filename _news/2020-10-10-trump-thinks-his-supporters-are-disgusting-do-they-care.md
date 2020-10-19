@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Trump's dishonest weekend: The President made at least 66 false or misleading claims in three days"
+    excerpt: "President Donald Trump's dishonesty is getting worse.\n    \n"
+    publishedDateTime: 2020-10-19T21:40:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K2H5w7bD2Fs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/fact-check-trump-dishonest-weekend-florida-michigan-georgia-wisconsin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 154
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
     excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
     publishedDateTime: 2020-10-18T19:06:00Z

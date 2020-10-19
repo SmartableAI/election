@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-cour
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
 type: article
 quality: 172
-heat: 312
+heat: 292
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
         width: 5472
         height: 3648
-        isCached: true
-  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
-    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
-    publishedDateTime: 2020-10-11T22:42:00Z
-    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 97
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"

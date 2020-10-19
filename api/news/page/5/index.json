@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-15-gop-senator-unloads-on-trump-in-constituent-call-saying-he-mocks-evangelicals-and-has-flirted-with-white-supremacists.md",
+      "title": "GOP senator unloads on Trump in constituent call, saying 'he mocks evangelicals' and has 'flirted with White supremacists'",
+      "excerpt": "Republican Sen. Ben Sasse criticized President Donald Trump earlier this week during a private phone call with constituents, saying a number of unflattering things about the President, including that he's \"flirted with White supremacists\" and \"kisses dictators' butts,\" his office confirmed to CNN.\n ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
+      "publishedDateTime": "2020-10-15T16:17:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-ex-fundraiser-to-plead-guilty-in-1mdb-foreign-lobbying-case.md",
+      "title": "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case",
+      "excerpt": "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27033J",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J",
+      "publishedDateTime": "2020-10-15T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
       "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
       "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
@@ -51,62 +159,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-campaign-banking-on-rural-florida-voters-to-repeat-2016-success.md",
-      "title": "Trump campaign banking on rural Florida voters to repeat 2016 success",
-      "excerpt": "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp",
-      "publishedDateTime": "2020-10-15T14:02:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -485,7 +537,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 394,
+      "heat": 414,
       "tags": null,
       "images": [
         {
@@ -1280,49 +1332,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election.md",
-      "title": "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election",
-      "excerpt": "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
-      "originalUrl": "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
-      "cdnAmpWebUrl": "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
-      "publishedDateTime": "2020-10-14T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "11Alive",
-        "domain": "11alive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

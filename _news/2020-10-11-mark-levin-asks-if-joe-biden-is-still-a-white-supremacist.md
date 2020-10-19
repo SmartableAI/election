@@ -48,20 +48,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "If Biden is elected, Dems will change America as we know it: Graham"
-    excerpt: "Democrats want to change the United States of America as we know it by uprooting the country's constitutional process, Sen. Lindsey Graham, R-S.C., said on Monday."
-    publishedDateTime: 2020-10-12T16:45:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzIFvV4fGio/dems-change-america-wont-recognize-graham"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Kyle Rittenhouse's Lawyers Demands Biden Campaign Retract Their Claim He Is a White Supremacist"
     excerpt: "Lawyers for Kyle Rittenhouse, one of the alleged shooters in Kenosha, Wisconsin, are demanding Joe Biden's Democratic presidential campaign retract their claim that the 17-year-old is a white supremac"
     publishedDateTime: 2020-09-30T18:30:00Z

@@ -209,6 +209,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jim Carrey’s Biden impression is a below-average Joe"
+    excerpt: "It’s a misguided choice that makes me think more about Carrey and his style than about Biden while I’m watching."
+    publishedDateTime: 2020-10-19T21:14:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/19/arts/jim-carreys-biden-impression-is-below-average-joe/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "If Amy Coney Barrett Has To Apologize for Saying Sexual 'Preference,' Does Joe Biden?"
     excerpt: "Sens. Mazie Hirono and Cory Booker both criticized the Supreme Court nominee for saying \"preference\" instead of \"orientation.\""
     publishedDateTime: 2020-10-14T02:45:00Z

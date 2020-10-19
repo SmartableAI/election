@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-not-white-supremacists-overtu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln.amp"
 type: article
 quality: 171
-heat: 231
+heat: 211
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "If Biden is elected, Dems will change America as we know it: Graham"
-    excerpt: "Democrats want to change the United States of America as we know it by uprooting the country's constitutional process, Sen. Lindsey Graham, R-S.C., said on Monday."
-    publishedDateTime: 2020-10-12T16:45:26Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XzIFvV4fGio/dems-change-america-wont-recognize-graham"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284768352071.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Mark Levin asks if Joe Biden is 'still a White supremacist?'"
     excerpt: "This election is not just about President Trump and Joe Biden, Republicans, Democrats, conservatives, liberals. Nope, it's deeper than that. This is a tipping point. This is about preserving, protecting our liberty,"
     publishedDateTime: 2020-10-10T21:07:00Z

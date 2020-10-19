@@ -74,6 +74,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Viral clip shows Biden lowering his mask to cough in his hand"
+    excerpt: "Joe Biden on Friday coughed into his hand during a campaign stop in Las Vegas, Nevada."
+    publishedDateTime: 2020-10-10T01:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ym08idE2ua4/biden-lowering-mask-cough-in-his-hand"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20276648948747.jpg"
+        width: 1500
+        height: 844
+        isCached: true
   - title: "Joe Biden doubles down on court packing: ‘You'll know my position’ after the election"
     excerpt: "Democratic presidential nominee Joe Biden is remaining silent on whether he supports a move by many progressives to expand the number of justices on the Supreme Court if the Democrats win back the White House and take control of the Senate in November’s elections."
     publishedDateTime: 2020-10-08T21:21:00Z

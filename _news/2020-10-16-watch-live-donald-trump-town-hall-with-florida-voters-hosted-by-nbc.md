@@ -26,83 +26,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
-    excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
-    publishedDateTime: 2020-10-15T21:02:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+  - title: "Trump presses NBC anchor to ask more about Antifa, left-wing violence"
+    excerpt: "President Trump and NBC anchor Savannah Guthrie had a testy exchange at Thursday's presidential town hall, with the former wondering she didn't ask him about left-wing actors like Antifa."
+    publishedDateTime: 2020-10-16T02:06:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32226e3-077e-4b0c-bece-647d2ac28283/d083186b-e89b-4dc9-8426-0900432df432/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor"
-    excerpt: "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day."
-    publishedDateTime: 2020-10-09T03:23:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
+  - title: "Trump says he knows 'nothing' about QAnon when pressed by NBC anchor"
+    excerpt: "President Trump told NBC anchor Savannah Guthrie on Thursday that he didn't know about the conspiracy theory QAnon, repeatedly pushing back on Guthrie's questioning about the issue."
+    publishedDateTime: 2020-10-16T01:00:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YKZzFHELk8Q/trump-qanon-town-hall-savannah-guthrie"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/975165a2-fc10-4664-96a3-0169282491b2/506a31f3-3bae-403f-9ac9-f3d8c23a6240/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
-    excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
-    publishedDateTime: 2020-10-12T20:43:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7QRsZmgmHI/trump-team-kicks-off-florida-fighters-against-socialism-bus-tour"
+  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
+    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
+    publishedDateTime: 2020-10-16T08:18:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
+    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
+    quality: 174
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump-jr.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
-    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
-    publishedDateTime: 2020-10-13T13:18:00Z
-    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
-    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Florida worker suspended for flying Trump flag from government truck"
-    excerpt: "The 61-year-old, who has been with the town government for over two decades, was accused of flying a blue Trump flag out the driver side window of the truck earlier this month."
-    publishedDateTime: 2020-10-15T21:23:00Z
-    webUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag"
-    ampWebUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
+  - title: "Sean Hannity calls out Savannah Guthrie for 'serving as a Joe Biden surrogate' at Trump-NBC town hall"
+    excerpt: "Sean Hannity accused NBC News Thursday night of turning its town hall with President Trump into a \"political debate\" with the president and moderator Savannah Guthrie on opposite sides."
+    publishedDateTime: 2020-10-16T03:02:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-trump-nbc-town-hall-savannah-guthrie"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-trump-nbc-town-hall-savannah-guthrie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-trump-nbc-town-hall-savannah-guthrie.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f49026dc-0fc8-48d7-ba89-83bf1b3de2e0/806722e6-41b3-4dc2-91a1-cd7e01b65c73/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'SNL' mocks NBC for hosting Trump, previous affiliations with Bill Cosby, Matt Lauer: 'We have a type'"
+    excerpt: "This week’s “Saturday Night Live” included a “Weekend Update” segment that took aim at President Trump and mocked NBC for hosting him at a town hall.  After mocking the president and Democratic presidential nominee Joe Biden's dueling town halls,"
+    publishedDateTime: 2020-10-18T13:32:00Z
+    webUrl: "https://www.foxnews.com/entertainment/saturday-night-live-nbc-hosting-trump-bill-cosby-matt-lauer"
+    ampWebUrl: "https://www.foxnews.com/entertainment/saturday-night-live-nbc-hosting-trump-bill-cosby-matt-lauer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/saturday-night-live-nbc-hosting-trump-bill-cosby-matt-lauer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/WeekendUpdate1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Full Replay: Donald Trump Town Hall With Florida Voters Hosted By NBC"
     excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"

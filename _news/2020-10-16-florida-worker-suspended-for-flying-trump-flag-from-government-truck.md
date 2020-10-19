@@ -32,96 +32,88 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
-    excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
-    publishedDateTime: 2020-10-15T21:02:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aaz3wCm2aas/trump-campaign-rural-florida-voters"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-rural-florida-voters.amp"
+  - title: "Whitmer tells Trump to stop focusing on her, start focusing on pandemic"
+    excerpt: "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic."
+    publishedDateTime: 2020-10-18T20:55:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic"
+    ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Government sues Melania Trump’s former best friend over ‘scathing tell-all’"
+    excerpt: "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’"
+    publishedDateTime: 2020-10-13T23:25:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IPNjwshtALo/government-sues-melania-trump-best-friend"
+    ampWebUrl: "https://www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/government-sues-melania-trump-best-friend.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ab45625-a326-4a1c-82c6-af5cd7f05f08/5467e445-6504-4c44-b26f-c96e16ddc911/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump suggests he may hold weekend rallies in Florida, Pennsylvania after receiving green light from doctor"
-    excerpt: "President Trump told Fox News' Sean Hannity in an exclusive interview Thursday that his campaign is trying to make last-minute arrangements for holding weekend rallies in Florida and Pennsylvania after White House physician Dr. Sean Conley cleared him for public engagements earlier in the day."
-    publishedDateTime: 2020-10-09T03:23:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_2RIrOjhPn0/trump-weekend-rallies-florida-pennsylvania"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-weekend-rallies-florida-pennsylvania.amp"
+  - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
+    excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
+    publishedDateTime: 2020-10-16T02:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_-zo-nyXMXw/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adelson-shells-out-75-million-to-pump-up-pro-trump-super-pac-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign says Whitmer 'encouraging assassination attempts' against president with discreet TV message"
+    excerpt: "Michigan Gov. Gretchen Whitmer has been accused of encouraging assassination attempts on President Trump after displaying “8645” in the background of a national television interview Sunday."
+    publishedDateTime: 2020-10-19T13:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DUUuYsTN_ww/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-whitmer-assassination-attempt-nbc-meet-the-press-interview.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 157
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03957425-562e-4a08-9416-8c97e308d3b0/bba0db18-ae44-4233-b350-ecf576d4d522/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
-    excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
-    publishedDateTime: 2020-10-12T20:43:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7QRsZmgmHI/trump-team-kicks-off-florida-fighters-against-socialism-bus-tour"
+  - title: "Trump teases stepping in if Republicans oppose multi-trillion dollar stimulus package"
+    excerpt: "President Trump hinted he might intervene if Republican senators don't support a second coronavirus stimulus package worth trillions of dollars, during an interview with Charles Benson of WTMJ4 Milwaukee on Saturday. "
+    publishedDateTime: 2020-10-18T20:49:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/avJI_CYja3s/trump-threatens-action-if-gop-senators-oppose-coronavirus-stimulus"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump-jr.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
-    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
-    publishedDateTime: 2020-10-13T13:18:00Z
-    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
-    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
-    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
-    publishedDateTime: 2020-10-15T22:10:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
+    quality: 128
+  - title: "Trump Says the Quiet Part Out Loud: He's Losing"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-18T11:41:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/17/trump_says_the_quiet_part_out_loud_hes_losing_526678.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/519720.jpg"
-        width: 1020
-        height: 764
-        isCached: true
-  - title: "Full Replay: Donald Trump Town Hall With Florida Voters Hosted By NBC"
-    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
-    publishedDateTime: 2020-10-16T23:58:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/51/519720.jpg"
-        width: 1020
-        height: 764
-        isCached: true
+    quality: 45
 
 secured: "1sHGjstWJFOCD0FZ7NnH6qtgbnf5Joj9G2ngMCowssyNx+jIPFyS4nAnRzdd7drs9J+YswYudomLwjPSBK9da0o5UX/NhzyYfyBVlxbo3QCTPy0EghCRdHSiY2M3T8VSXMhhG2PXO7faSb1lfYCo17ZW/gVXBSuMtvCVdWw/hGhckKc+PPcgMi1TNNZzeSusHnJLfA78yx275PYVUdXhPLBr6PNJP/ZStxrmMqvFzBa5xI3MDywczgclnMw7NVU5N6A/aK7mRyeccDu9aPwrKA6WNYNMDwsIOBNNlv7mFbMq4XnPYcPez3q4ivQAamLNrYgp1jF5NkFiE+au/P/tR543wqM8dMpbp+YbVArpKME=;jHJmPhiMO9LkVB2ETDivng=="
 ---

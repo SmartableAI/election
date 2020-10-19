@@ -376,7 +376,7 @@
       "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1183,6 +1183,54 @@
       ]
     },
     {
+      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
+      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
+      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "publishedDateTime": "2020-10-17T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
       "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
       "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
@@ -1448,58 +1496,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-susan-collins-not-worth-the-work-after-opponent-raises-394-million.md",
-      "title": "Trump Says Susan Collins ‘Not Worth The Work’ After Opponent Raises $39.4 Million",
-      "excerpt": "President Donald Trump dismissed Sen. Susan Collins (R-Maine) as “not worth the work” Friday as the senator is expected to vote against Judge Amy Coney Barrett’s confirmation to the U.S. Supreme Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ae1e69ee9a3e704d0471%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D197%26cropY2%3D1884",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "publishedDateTime": "2020-10-16T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

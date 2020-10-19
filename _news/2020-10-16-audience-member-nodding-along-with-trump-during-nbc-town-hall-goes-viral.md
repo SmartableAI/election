@@ -95,6 +95,34 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-15T22:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
+  - title: "Full Replay: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-16T23:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
 
 secured: "36oXoaMjQfoFyzX2iwFg9kWrl3tjsGGIU6pSD4kFlbe+VRdBRT0oyibv6gWed9J+4uvSHK2WFvqyz1ufOJsRMg9WwHJB5g8D3lifPCOtajavRBh7QhfVIhOuB9L8wDmR2pSy7xtj3ohRiR/HZ5IBVTs/m9tLqkYWdA2M6pB+9qXe9a3p2UT05vtxbMYTYyrx9+KjGVtoUZn9vizsyF+q1vsnTDCiq5+JJQT3w6JhRi/8fmAdbamItK6Dx91j16OrHB00SRXr/Ig/PQen+jucbvER9hBGoGFYkZL4dO8WC+8b4hmzqezopdUDKJDs8bz7Evg4nD/mCngF5oAon9IpD0dC28dEus4vRu5gMdwPfrQ=;/CU8ExdFnAsjaOyjCW0CMw=="
 ---
