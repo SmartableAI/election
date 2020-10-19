@@ -17,7 +17,7 @@
       "twitter": {
         "username": "BarackObama",
         "url": "https://twitter.com/BarackObama",
-        "followers": 124011105
+        "followers": 124011018
       },
       "topics": [
         "Election",
@@ -54,7 +54,7 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 11182514
+        "followers": 11182931
       },
       "topics": [
         "Election",
@@ -92,7 +92,7 @@
       "twitter": {
         "username": "KamalaHarris",
         "url": "https://twitter.com/KamalaHarris",
-        "followers": 6689305
+        "followers": 6689586
       },
       "topics": [
         "Election",
@@ -152,9 +152,31 @@
               "isCached": true
             }
           ]
+        },
+        {
+          "path": "",
+          "title": "Tammy Baldwin",
+          "excerpt": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+          "type": "profile",
+          "name": "Tammy Baldwin",
+          "bio": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+          "topics": [
+            "Election",
+            "Democratic Voice"
+          ],
+          "heat": 535,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Tammy Baldwin",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "size": 1,
+      "size": 2,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
@@ -186,7 +208,7 @@
       "twitter": {
         "username": "PeteButtigieg",
         "url": "https://twitter.com/PeteButtigieg",
-        "followers": 2398417
+        "followers": 2398535
       },
       "topics": [
         "Election",
@@ -222,7 +244,7 @@
       "twitter": {
         "username": "Mike_Pence",
         "url": "https://twitter.com/Mike_Pence",
-        "followers": 5415901
+        "followers": 5416020
       },
       "topics": [
         "Election",
@@ -260,7 +282,7 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 87284299
+        "followers": 87284483
       },
       "topics": [
         "Election",
@@ -298,7 +320,7 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 13179154
+        "followers": 13179207
       },
       "topics": [
         "Election",
@@ -322,6 +344,153 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/lamar-alexander.md",
+      "title": "Lamar Alexander",
+      "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/lamar-alexander/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/lamar-alexander/",
+      "type": "profile",
+      "name": "Lamar Alexander",
+      "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+      "location": "Tennessee",
+      "website": "https://www.alexander.senate.gov/public/",
+      "twitter": {
+        "username": "senalexander",
+        "url": "https://twitter.com/senalexander",
+        "followers": 136190
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/user/lamaralexander",
+        "subscribers": 472
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/senatorlamaralexander"
+      },
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lamar Alexander",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/republican-senators.md",
+      "title": "Republican Senators",
+      "excerpt": "US senators of the Republican Party",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/collections/republican-senators/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/collections/republican-senators/",
+      "type": "collection",
+      "name": "Republican Senators",
+      "bio": "US senators of the Republican Party",
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Lamar Alexander",
+          "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+          "type": "profile",
+          "name": "Lamar Alexander",
+          "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+          "topics": [
+            "Election",
+            "Republican Voice"
+          ],
+          "heat": 540,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Lamar Alexander",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 1,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lamar Alexander",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/tammy-baldwin.md",
+      "title": "Tammy Baldwin",
+      "excerpt": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/tammy-baldwin/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/tammy-baldwin/",
+      "type": "profile",
+      "name": "Tammy Baldwin",
+      "bio": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+      "location": "Wisconsin",
+      "website": "https://www.baldwin.senate.gov/",
+      "twitter": {
+        "username": "SenatorBaldwin",
+        "url": "https://twitter.com/SenatorBaldwin",
+        "followers": 126851
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/user/SenatorTammyBaldwin",
+        "subscribers": 481
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/senatortammybaldwin"
+      },
+      "instagram": {
+        "url": "https://www.instagram.com/senatorbaldwin/",
+        "followers": 16800
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 535,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tammy Baldwin",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/sean-hannity.md",
       "title": "Sean Hannity",
       "excerpt": "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com Retweets, Follows NOT endorsements!",
@@ -335,7 +504,7 @@
       "twitter": {
         "username": "seanhannity",
         "url": "https://twitter.com/seanhannity",
-        "followers": 5322982
+        "followers": 5323020
       },
       "topics": [
         "Election",

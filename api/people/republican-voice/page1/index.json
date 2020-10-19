@@ -16,7 +16,7 @@
       "twitter": {
         "username": "Mike_Pence",
         "url": "https://twitter.com/Mike_Pence",
-        "followers": 5415901
+        "followers": 5416020
       },
       "topics": [
         "Election",
@@ -54,7 +54,7 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 87284299
+        "followers": 87284483
       },
       "topics": [
         "Election",
@@ -79,6 +79,105 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/lamar-alexander.md",
+      "title": "Lamar Alexander",
+      "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/lamar-alexander/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/lamar-alexander/",
+      "type": "profile",
+      "name": "Lamar Alexander",
+      "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+      "location": "Tennessee",
+      "website": "https://www.alexander.senate.gov/public/",
+      "twitter": {
+        "username": "senalexander",
+        "url": "https://twitter.com/senalexander",
+        "followers": 136190
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/user/lamaralexander",
+        "subscribers": 472
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/senatorlamaralexander"
+      },
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lamar Alexander",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/republican-senators.md",
+      "title": "Republican Senators",
+      "excerpt": "US senators of the Republican Party",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/collections/republican-senators/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/collections/republican-senators/",
+      "type": "collection",
+      "name": "Republican Senators",
+      "bio": "US senators of the Republican Party",
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Lamar Alexander",
+          "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+          "type": "profile",
+          "name": "Lamar Alexander",
+          "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+          "topics": [
+            "Election",
+            "Republican Voice"
+          ],
+          "heat": 540,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Lamar Alexander",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 1,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lamar Alexander",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/sean-hannity.md",
       "title": "Sean Hannity",
       "excerpt": "TV Host Fox News Channel 9 PM EST. Nationally Syndicated Radio Host 3-6 PM EST. http://Hannity.com Retweets, Follows NOT endorsements!",
@@ -92,7 +191,7 @@
       "twitter": {
         "username": "seanhannity",
         "url": "https://twitter.com/seanhannity",
-        "followers": 5322982
+        "followers": 5323020
       },
       "topics": [
         "Election",

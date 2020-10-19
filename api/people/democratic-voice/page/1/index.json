@@ -17,7 +17,7 @@
       "twitter": {
         "username": "BarackObama",
         "url": "https://twitter.com/BarackObama",
-        "followers": 124011105
+        "followers": 124011018
       },
       "topics": [
         "Election",
@@ -54,7 +54,7 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 11182514
+        "followers": 11182931
       },
       "topics": [
         "Election",
@@ -92,7 +92,7 @@
       "twitter": {
         "username": "KamalaHarris",
         "url": "https://twitter.com/KamalaHarris",
-        "followers": 6689305
+        "followers": 6689586
       },
       "topics": [
         "Election",
@@ -152,9 +152,31 @@
               "isCached": true
             }
           ]
+        },
+        {
+          "path": "",
+          "title": "Tammy Baldwin",
+          "excerpt": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+          "type": "profile",
+          "name": "Tammy Baldwin",
+          "bio": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+          "topics": [
+            "Election",
+            "Democratic Voice"
+          ],
+          "heat": 535,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Tammy Baldwin",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "size": 1,
+      "size": 2,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
@@ -186,7 +208,7 @@
       "twitter": {
         "username": "PeteButtigieg",
         "url": "https://twitter.com/PeteButtigieg",
-        "followers": 2398417
+        "followers": 2398535
       },
       "topics": [
         "Election",
@@ -223,7 +245,7 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 13179154
+        "followers": 13179207
       },
       "topics": [
         "Election",
@@ -241,6 +263,54 @@
           "width": 400,
           "height": 400,
           "title": "Bernie Sanders",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/tammy-baldwin.md",
+      "title": "Tammy Baldwin",
+      "excerpt": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/tammy-baldwin/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/tammy-baldwin/",
+      "type": "profile",
+      "name": "Tammy Baldwin",
+      "bio": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+      "location": "Wisconsin",
+      "website": "https://www.baldwin.senate.gov/",
+      "twitter": {
+        "username": "SenatorBaldwin",
+        "url": "https://twitter.com/SenatorBaldwin",
+        "followers": 126851
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/user/SenatorTammyBaldwin",
+        "subscribers": 481
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/senatortammybaldwin"
+      },
+      "instagram": {
+        "url": "https://www.instagram.com/senatorbaldwin/",
+        "followers": 16800
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 535,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tammy Baldwin",
           "isCached": true
         }
       ],

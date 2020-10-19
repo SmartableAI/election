@@ -10,7 +10,7 @@ website: https://www.obama.org/
 twitter:
   username: BarackObama
   url: https://twitter.com/BarackObama
-  followers: 124011105
+  followers: 124011018
 
 topics:
   - Election

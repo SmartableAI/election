@@ -10,7 +10,7 @@ website: https://www.harris.senate.gov/
 twitter:
   username: KamalaHarris
   url: https://twitter.com/KamalaHarris
-  followers: 6689305
+  followers: 6689586
 
 topics:
   - Election

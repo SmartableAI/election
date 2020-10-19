@@ -10,7 +10,7 @@ website: https://berniesanders.com/
 twitter:
   username: BernieSanders
   url: https://twitter.com/BernieSanders
-  followers: 13179154
+  followers: 13179207
 
 topics:
   - Election

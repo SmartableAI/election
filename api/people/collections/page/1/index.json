@@ -39,9 +39,31 @@
               "isCached": true
             }
           ]
+        },
+        {
+          "path": "",
+          "title": "Tammy Baldwin",
+          "excerpt": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+          "type": "profile",
+          "name": "Tammy Baldwin",
+          "bio": "Official Twitter account of United States Senator Tammy Baldwin's office, proudly working for the State of Wisconsin.",
+          "topics": [
+            "Election",
+            "Democratic Voice"
+          ],
+          "heat": 535,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1267871657332531202/PStp0GRz_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Tammy Baldwin",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "size": 1,
+      "size": 2,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
@@ -54,6 +76,61 @@
           "width": 400,
           "height": 400,
           "title": "Kamala Harris",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/republican-senators.md",
+      "title": "Republican Senators",
+      "excerpt": "US senators of the Republican Party",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/collections/republican-senators/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/collections/republican-senators/",
+      "type": "collection",
+      "name": "Republican Senators",
+      "bio": "US senators of the Republican Party",
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Lamar Alexander",
+          "excerpt": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+          "type": "profile",
+          "name": "Lamar Alexander",
+          "bio": "7th generation Tennessean born and raised in Maryville #LowerHealthCareCosts #MakingCollegeWorthIt #OpioidCrisisResponse #RestoreOurParks",
+          "topics": [
+            "Election",
+            "Republican Voice"
+          ],
+          "heat": 540,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Lamar Alexander",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 1,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 540,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824390599361044480/nZa0YXpu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lamar Alexander",
           "isCached": true
         }
       ],

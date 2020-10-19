@@ -6,6 +6,7 @@ heat: 666
 
 items:
   - kamala-harris
+  - tammy-baldwin
 
 topics:
   - Election
