@@ -10,7 +10,7 @@ website: https://joebiden.com/
 twitter:
   username: JoeBiden
   url: https://twitter.com/JoeBiden
-  followers: 11182059
+  followers: 11182514
 
 topics:
   - Election

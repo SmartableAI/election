@@ -1,0 +1,63 @@
+{
+  "title": "People Collections",
+  "path": "_people/collections",
+  "page": 1,
+  "value": [
+    {
+      "path": "_people/collections/democratic-senators.md",
+      "title": "Democratic Senators",
+      "excerpt": "US senators of the Democratic Party",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/collections/democratic-senators/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/collections/democratic-senators/",
+      "type": "collection",
+      "name": "Democratic Senators",
+      "bio": "US senators of the Democratic Party",
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Kamala Harris",
+          "excerpt": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
+          "type": "profile",
+          "name": "Kamala Harris",
+          "bio": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
+          "topics": [
+            "Election",
+            "Democratic Voice",
+            "Kamala Harris"
+          ],
+          "heat": 666,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Kamala Harris",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 1,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 666,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kamala Harris",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    }
+  ]
+}

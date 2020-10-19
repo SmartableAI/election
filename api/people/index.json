@@ -17,7 +17,7 @@
       "twitter": {
         "username": "BarackObama",
         "url": "https://twitter.com/BarackObama",
-        "followers": 124010617
+        "followers": 124011105
       },
       "topics": [
         "Election",
@@ -54,7 +54,7 @@
       "twitter": {
         "username": "JoeBiden",
         "url": "https://twitter.com/JoeBiden",
-        "followers": 11182059
+        "followers": 11182514
       },
       "topics": [
         "Election",
@@ -92,13 +92,69 @@
       "twitter": {
         "username": "KamalaHarris",
         "url": "https://twitter.com/KamalaHarris",
-        "followers": 6689014
+        "followers": 6689305
       },
       "topics": [
         "Election",
         "Democratic Voice",
         "Kamala Harris"
       ],
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 666,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kamala Harris",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/democratic-senators.md",
+      "title": "Democratic Senators",
+      "excerpt": "US senators of the Democratic Party",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/collections/democratic-senators/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/collections/democratic-senators/",
+      "type": "collection",
+      "name": "Democratic Senators",
+      "bio": "US senators of the Democratic Party",
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Kamala Harris",
+          "excerpt": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
+          "type": "profile",
+          "name": "Kamala Harris",
+          "bio": "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her.",
+          "topics": [
+            "Election",
+            "Democratic Voice",
+            "Kamala Harris"
+          ],
+          "heat": 666,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Kamala Harris",
+              "isCached": true
+            }
+          ]
+        }
+      ],
+      "size": 1,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
@@ -130,7 +186,7 @@
       "twitter": {
         "username": "PeteButtigieg",
         "url": "https://twitter.com/PeteButtigieg",
-        "followers": 2398298
+        "followers": 2398417
       },
       "topics": [
         "Election",
@@ -166,7 +222,7 @@
       "twitter": {
         "username": "Mike_Pence",
         "url": "https://twitter.com/Mike_Pence",
-        "followers": 5415862
+        "followers": 5415901
       },
       "topics": [
         "Election",
@@ -204,7 +260,7 @@
       "twitter": {
         "username": "realDonaldTrump",
         "url": "https://twitter.com/realDonaldTrump",
-        "followers": 87284157
+        "followers": 87284299
       },
       "topics": [
         "Election",
@@ -242,7 +298,7 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 13179065
+        "followers": 13179154
       },
       "topics": [
         "Election",
@@ -279,7 +335,7 @@
       "twitter": {
         "username": "seanhannity",
         "url": "https://twitter.com/seanhannity",
-        "followers": 5322908
+        "followers": 5322982
       },
       "topics": [
         "Election",
@@ -316,7 +372,7 @@
       "twitter": {
         "username": "AndrewYang",
         "url": "https://twitter.com/AndrewYang",
-        "followers": 1712970
+        "followers": 1712983
       },
       "topics": [
         "Election",
