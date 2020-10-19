@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
 type: article
 quality: 117
-heat: 177
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,51 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
-    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
-    publishedDateTime: 2020-10-14T13:12:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
+  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
+    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
+    publishedDateTime: 2020-10-19T07:34:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+  - title: "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics"
+    excerpt: "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-10-13T16:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5979016002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
-    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
-    publishedDateTime: 2020-10-17T20:34:00Z
-    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
-        width: 1024
-        height: 689
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "hYUmxI8wyJXuGKvmLPTbFG6TP/0uJM0k+/7uAKuPLm7tXGCFMH1UNPDpqLXCULL9JO2iOn6QfdtITW5zvjz8avXr1gJbsl0vnrg+ug7Qf+Tv+KxdBJKOXYCtAiT9V8x/KUilhChWFprAKZ5lZ/Kbb/KkTzoMT/PH3CAEhuPP8jPnToe72RNHeY4vbD+qnc8EHFd+lxMM1QbJB2lJfbbQKmMAEEoxv+A/HKFRZRCBEGXgBLTzdIVoZW6bHCC4JYsYM3dRkiEoRElnhnSdpd58AipF2qPfXrF65oFFShL5uNZf6Z8Culp/r5dJAkUB4FbMwilfEeoABfDP+yeW/pOV81liS5xQZU6kCWJkbmWoVVk=;x2xK9xZyyEB269YicImjMg=="

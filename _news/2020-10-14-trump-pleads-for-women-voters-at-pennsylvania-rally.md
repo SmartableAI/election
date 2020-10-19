@@ -27,51 +27,32 @@ images:
     isCached: true
 
 related:
-  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
-    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
-    publishedDateTime: 2020-10-16T02:36:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+  - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
+    excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
+    publishedDateTime: 2020-09-19T13:55:00Z
+    webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "How ‘naked ballots’ in Pennsylvania could cost Joe Biden the election"
+    excerpt: "The 2020 presidential election could come down to envelopes. The state Supreme Court in Pennsylvania, a critical battleground state that’s seen as increasingly likely to determine who wins the White House,"
+    publishedDateTime: 2020-09-23T05:18:00Z
+    webUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html"
+    ampWebUrl: "https://www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/pennsylvania-naked-ballots-supreme-court-philadelphia-20200921.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 90
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
-    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
-    publishedDateTime: 2020-10-17T20:34:00Z
-    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
-        width: 1024
-        height: 689
+      - url: "https://www.inquirer.com/resizer/17FY_6Z7BOnr4UHN0rhcqtE1d6A=/1200x0/center/middle/www.inquirer.com/resizer/xr235XbHiAcYmTRsNsechlj3Zmk=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/CKCPX27WHNHB3I5EZNYGAYZ6PU.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "V/98XX6LZaszaIeQGW9XrYsUEwHQ+MZqGJLALA/w+ScNw4OWD+4BEpulzKd4oJtFOZpUiwowIOBgR4jJ7Tte6HNrH4yeISWrH4IrlHloxGPjOT/qF0hpiG2PnD+BFLYkb1NNIv/oFsrnECSy9U1vAC8xcg/i8/SsN/Av9b28DA+axgVwOsBm0dQubunzfLzcX+5lad/AOglCnWbAUDhIOVXsU1FrY0JfSQZ2VppWDdQFhu0LCdbGznpNwhzLUetl2FwlAI0YDmOMMYQ8SC8xS8Y3ggoI5C3NoRitBWXdlywsMNdjCb7XkR5f/PJheZgAz8wN94tyRR/krB4dhuO/0M/RuPT9qLlw8Vol3a4OTM8=;5sxQYa4OIz7KIuARr5mUkA=="

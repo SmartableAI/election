@@ -449,6 +449,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
+    excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
+    publishedDateTime: 2020-10-18T04:46:00Z
+    webUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/"
+    ampWebUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 67
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
     excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
     publishedDateTime: 2020-10-16T08:07:00Z
@@ -512,6 +528,20 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemons-Offers-Visual-Aid-for-Sen.-Perdue-to-Pronounce-Kamala-Harris-Name-Correctly.jpg"
         width: 946
         height: 532
+        isCached: true
+  - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
+    excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
+    publishedDateTime: 2020-10-19T09:50:00Z
+    webUrl: "https://www.10tv.com/video/syndication/veuer/kamala-harris-cancels-travel-after-staff-members-test-positive-for-covid-19/602-72b05335-6d45-4071-86cd-3365d78bd156"
+    type: article
+    provider:
+      name: 10TV.com
+      domain: 10tv.com
+    quality: 53
+    images:
+      - url: "https://media.tegna-media.com/assets/VEUER/images/43c5298a-0ffa-4933-8aa9-79a57d21ce16/43c5298a-0ffa-4933-8aa9-79a57d21ce16_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
     excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."

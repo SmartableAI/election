@@ -46,16 +46,16 @@ related:
   - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
     excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
     publishedDateTime: 2020-10-15T01:55:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
     type: article
     provider:
-      name: WUSA9
-      domain: wusa9.com
+      name: 11Alive
+      domain: 11alive.com
     quality: 85
     images:
-      - url: "https://media.wusa9.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
+      - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -205,6 +205,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "yDE7Etkj2Tngv7h/MwhNP1CBuCnBOvTmKbSUVTt64ZFfdX3Foqu6knNTJlobAgzqP7/2Zl94xYOgXI0i36dqC4v50jLu/5wysoMKRCNAtkLs9+h0VznhpHzgRhfExIYP2PmhGHhgDyGUR15yDtQQzrXZQpDYVMpbYeBguHwW4rDXhvn8YzELlLG0kqgO3Jk/ihAh9eGu5rV3cgXIKMsQ890dIQeObRPbRv7IYMGvxMdGeBOAV31WsdBX6O2GZ4Ye5hTd0sGdD6K2wgEl4UAey0OK5N1hlWsYkgsXOc1b21McXpWEBnrOjHbg7BNOwZp/HwLKCD1fxCSzhgewGTYJQK9rbAxdcOpolqi8c1T5fpw=;g7AgL+XqO/ybSBSYD+mXDw=="
+secured: "CDmZnx/8ilIM7MOAt6oKdFavnwULeQznbpQc1fcgmKMVtlFhxeuHvdstU6bG3voAz2JpBromA2zNOZ6oSJbsOTcxqGH6yMLPfEfXV/JBETg7fvmZV2run55pvtjR4ypbczY5gEpl2rMYGdg846O31LwW1O5eIHF3mOu+v9jIDStdJr62nspqDcJ+AJ8mvByocy/OBJzg/T1vwTCoFJtpsonRSfAKxDBX5BF1kmBqVCM2dtnhGwX9QlKLVAn3z0HeQJ3QY0xDMJPVbYlV2AhIz68w5nkT8cnAJyQNf1S1/MHvbxzNgtLfQ6osIaDKTKXyL47Csm/UpJt6lBscNqYK+yzECDgg6vrxClms4M70Oul9YgEwbOmDwX2zl2gpS6UuHK8TFnRvuW9N41IjN+Dub78oObby27brh5fAjyC1v6SbWsdF7wmH8T68eCPvQTqPrkCTnCiHZeYNlxJSc4AQJJKI88109Dkh1Q/WXQfInZ9xZ/Th/vHg6FKrUUU1SsAcuuZwNeutMoaeUvcT16rebQ==;Z+Mbpu0UBOtWok8/bn1b1w=="
 ---
 

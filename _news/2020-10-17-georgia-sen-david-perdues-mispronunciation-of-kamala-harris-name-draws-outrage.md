@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispro
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
 type: article
 quality: 120
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/3fcd34f3-d788-4bc0-95a6-39d3de585056-AP_Election_2020_Trump_10.jpg?auto=webp&crop=4995,2810,x0,y254&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "David Perdue's Mocking of Kamala Harris' Name is Turning Into the Self-Own to End All Self-Owns"
+    excerpt: "It must be hard out here for a Republican these days. Imagine having to choose between being a decent human being and appealing to your deplorable base. We learned all through the Obama years how a foreign-sounding name on a brown person gives racist ass xenophobes conservative voters the heebee jeebees."
+    publishedDateTime: 2020-10-18T15:51:00Z
+    webUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435"
+    ampWebUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 63
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fopcp5p4uhnol5lcvz4v.jpg"
+        width: 800
+        height: 532
         isCached: true
 
 secured: "ttoj4pgYrbB/Lhlz7/3zbOUuccJu9PAOm8KQfSLsVk+N7yS8B5/WEznAFO8rym3yDq906ZwNUD4b8JJlYPoqJpcmamlJlalTghD5mFc7eOx0INp1MVerUgbCZ6HF4fTDKuw1mVLbahyoJwAKrR11JGrDB6RoDOMxgHd41DbXeYjEMWOJuD+YP6yonuc0FYAympDFaMpgCPTs507SgUZIaNDOcGCzft6akADDN3nwe6M7XgcQ2H9BVzVravn8486nOK0ywgNmZBl8ll5U0NvwCQ/8Ms9LXIpa+OPjuHP9skZ8UWvmNDG8lBpUUFXyV7kKZFzpGQH39kppRUAhOBL4VSF8tog2cjlOGm4HZpyveao=;rIrzXs73WOABHiD8oH/9aA=="

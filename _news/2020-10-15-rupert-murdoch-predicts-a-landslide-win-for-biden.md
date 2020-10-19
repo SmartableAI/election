@@ -262,6 +262,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Republicans are ready to remember they hate the deficit again under Joe Biden"
+    excerpt: "GOP deficit hawks hobbled the recovery from the Great Recession, dragging down an entire generation. And they're ready to do it all again if Biden wins."
+    publishedDateTime: 2020-10-19T09:14:00Z
+    webUrl: "https://www.nbcnews.com/opinion/republicans-are-ready-remember-they-hate-deficit-again-under-joe-n1243852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420851/201016-ms-daily-roundup-cs_a97dffd16860be3c337db42b7b68d385.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "g3mdrLeDdUvy5AS+oCxQ3EkhLnoFw3lxcCprhrNDLjZwnaONy8g1nyi4h2vV0xImrEUv3VP8I0tTGnTwyieB8BU8mq5xZzpKF38V5C+r2iJgjdJzk8Fcq++PSNCu7wuNzW59Kr4KKLmkZTq1wg+X+RZMjsHx7i+NuzFNV7OQ++BIW7ZWzcyekMQyl2flrJsXpJ57d0GK7Prlw4HN2DIzwAMUbiI8lxRR5lb2+VWIhB7wp42B86KGU1i/7ItdEiaGqFp5iC1Br/DPEf8et3TuAaTbqm31brpKJUa5oxxD2xi+uWygya7Sn5wGQWqqAUetXhLddujjuEatUdiVimcKdDr8TnHM+syHu7iEaKkNl5ElvVs0unbCvH6ycBCl4DRJX+0vBwiid2WCaVV6/o4uGGImIepjEWPK9J7w39PTihHP7gyHUICvOGxLIDO7wK6oVDr+7NLWHNNv3yn6soXDWsME29f8pExV0vEn7zEcugYGJAq6RdFGpKzdmMAVmJnBWoRzTBqwJuYVVtEmorzYYw==;nT2YkObIjRF4m89hsJqSgw=="
 ---

@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "David Perdue's Mocking of Kamala Harris' Name is Turning Into the Self-Own to End All Self-Owns"
+    excerpt: "It must be hard out here for a Republican these days. Imagine having to choose between being a decent human being and appealing to your deplorable base. We learned all through the Obama years how a foreign-sounding name on a brown person gives racist ass xenophobes conservative voters the heebee jeebees."
+    publishedDateTime: 2020-10-18T15:51:00Z
+    webUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435"
+    ampWebUrl: "https://www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/david-perdues-mocking-of-kamala-harris-name-is-turning-1845406435/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 63
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fopcp5p4uhnol5lcvz4v.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "EwByrrZI0kjpJPvVSM6+/U4bQoCd1Tw3E4z9gymdN/++h8iBm0YV/PQKI/HDFdOe5gS8Pfeg54/0b1UKmxTJ0OTfWL3GNPZkljuU5R8loyO/duhmXQ0OL6NLJ+F9H6sxHMqFNBURsU8zVlZ0HOlLlfWTddhFcVseFZdS8+ah2D20N8uiSkW8jppPP5YHBMEOLUBPC6agNQ/s/RjQA27zvTLCM5p8W9K+fcwOX+Fw+26kXVtGJydXYoJE81HpIBclHMuWLgMuOOfVwuW8i+gslWxdZ94w0+/oxQr1rIGUZR7uFoSaDgz7I1khcbIMPbcpOcjUMDAmW3yYghKPqFi+O4/TOgA2HJVyvbEeohRUiQA=;gZ9+Sck0ziEiSHsLpe4FjA=="
 ---

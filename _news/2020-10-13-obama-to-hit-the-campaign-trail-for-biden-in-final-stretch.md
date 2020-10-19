@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -252,6 +252,20 @@ related:
       - url: "https://static.politico.com/66/98/f23ff2784f79af4dd34c32deaa88/gettyimages-1228187785-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Republicans are ready to remember they hate the deficit again under Joe Biden"
+    excerpt: "GOP deficit hawks hobbled the recovery from the Great Recession, dragging down an entire generation. And they're ready to do it all again if Biden wins."
+    publishedDateTime: 2020-10-19T09:14:00Z
+    webUrl: "https://www.nbcnews.com/opinion/republicans-are-ready-remember-they-hate-deficit-again-under-joe-n1243852"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 112
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420851/201016-ms-daily-roundup-cs_a97dffd16860be3c337db42b7b68d385.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
     excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"

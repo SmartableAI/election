@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Top pro-Trump super PAC takes aim at Biden in new $10M ad blitz"
+    excerpt: "EXCLUSIVE: A leading super PAC backing President Trump's re-election is amping up a new ad blitz with a $10 million infusion on Monday to run the TV commercial in seven crucial general election battleground states."
+    publishedDateTime: 2020-10-19T10:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sq9yULbLE_M/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cbb0118-df6e-4597-abdb-87f5f36bab9e/25a7b3ac-b9f9-44f7-9a1f-64a06c7df3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
     excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
     publishedDateTime: 2020-10-15T11:35:00Z

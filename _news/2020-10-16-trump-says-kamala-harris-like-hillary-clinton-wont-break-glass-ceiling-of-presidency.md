@@ -1211,6 +1211,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Biden go on offense in states they're trying to flip"
+    excerpt: "President Donald Trump and his Democratic rival Joe Biden have been on offense, with each campaigning in states they're trying to flip during the Nov. 3 election that's just over two weeks away"
+    publishedDateTime: 2020-10-19T08:51:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-offense-states-flip-73688850"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-offense-states-flip-73688850"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-offense-states-flip-73688850"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-gty-jef-201018_1603054579958_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
     publishedDateTime: 2020-10-08T03:11:00Z
@@ -2686,6 +2702,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201018&i=OVD0NUD3Z&r=OVD0NUD3Z&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Donald J. Trump: 'The Real Biden Plan' | Campaign 2020"
+    excerpt: "White House social media director tweets manipulated video to depict Biden asleep in TV interview. 1:10 . Trump retweets video falsely tying BLM and antifa to 2019 NYC subway assa"
+    publishedDateTime: 2020-10-19T08:00:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/campaign-ads-2020/donald-j-trump-the-real-biden-plan-campaign-2020/2020/10/18/259df98d-ce28-409b-bff2-0acfe600ec3a_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/pbox.php?url=https://d1i4t8bqe7zgj6.cloudfront.net/10-18-2020/t_0b8d6a1ce69d419b8974cf5fead5124a_name_Screen_Shot_2020_10_16_at_4_46_23_PM.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+        width: 1484
+        height: 834
         isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
@@ -4295,22 +4325,6 @@ related:
         width: 2458
         height: 1300
         isCached: true
-  - title: "Trump, Biden go on offense in states they're trying to flip"
-    excerpt: "President Donald Trump and his Democratic rival Joe Biden went on offense Sunday, with each campaigning in states they are trying to flip during the Nov. 3 election that is just over two weeks away. Trump began his day in Nevada,"
-    publishedDateTime: 2020-10-18T17:46:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-are-campaigning-across-country-from-15656548.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-are-campaigning-across-country-from-15656548.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-are-campaigning-across-country-from-15656548.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T11:51:00Z
@@ -5123,6 +5137,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Kennedy: Pence appeared robotic while Harris seemed comfortable during vice presidential debate | COMMENTARY"
+    excerpt: "On the presence shown by the vice presidential candidates, Harris seemed comfortable and, like Biden, often looked directly at the camera as if speaking directly to the viewer. Pence, with his usual calm and stoic visage and slow,"
+    publishedDateTime: 2020-10-19T09:03:00Z
+    webUrl: "https://www.baltimoresun.com/maryland/carroll/opinion/cc-op-kennedy-101920-20201019-msiz4niqnbafjclq5rhwrzlipq-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/carroll/opinion/cc-op-kennedy-101920-20201019-msiz4niqnbafjclq5rhwrzlipq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/carroll/opinion/cc-op-kennedy-101920-20201019-msiz4niqnbafjclq5rhwrzlipq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 81
+    images:
+      - url: "https://www.baltimoresun.com/resizer/6al2kj5_YeU3CpZd2GZns8vons0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q2QGLS2CEFBHRJP4JHESOIDDZU.jpg"
+        width: 1200
+        height: 796
+        isCached: true
   - title: "How to watch the debate between Mike Pence and Kamala Harris"
     excerpt: "Vice President Mike Pence and Senator Kamala Harris are scheduled to meet on Wednesday at 9 p.m. for their first and only debate, which comes on the heels of a chaotic, bitter clash between President Trump and former vice president Joe Biden just one week ago."
     publishedDateTime: 2020-10-07T10:04:00Z
@@ -5245,6 +5275,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W7M5NT7TFBGDJGOF6FH7CT6XVM.jpg"
         width: 1024
         height: 526
+        isCached: true
+  - title: "Kamala Harris: Faith Values Bind Us Together, Joe Biden Will Restore Them in Our Public Life"
+    excerpt: "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Vice President Pence, click here. When my sister Maya and I were growing up,"
+    publishedDateTime: 2020-10-18T23:20:00Z
+    webUrl: "https://www.beliefnet.com/columnists/news/2020/10/kamala-harris-faith-values-bind-us-together-joe-biden-will-restore-them-in-our-public-life"
+    ampWebUrl: "https://www.beliefnet.com/columnists/news/2020/10/kamala-harris-faith-values-bind-us-together-joe-biden-will-restore-them-in-our-public-life/amp"
+    cdnAmpWebUrl: "https://www-beliefnet-com.cdn.ampproject.org/c/s/www.beliefnet.com/columnists/news/2020/10/kamala-harris-faith-values-bind-us-together-joe-biden-will-restore-them-in-our-public-life/amp"
+    type: article
+    provider:
+      name: Beliefnet
+      domain: beliefnet.com
+    quality: 79
+    images:
+      - url: "https://wp-media.beliefnet.com/sites/140/2020/10/Kamala-Harris.png"
+        width: 742
+        height: 488
         isCached: true
   - title: "President Trump, Vice President Pence to Visit Miami Thursday in Bid to Sway Swing State Voters"
     excerpt: "The election ball keeps on rolling throughout South Florida this week as President Trump and Vice President Mike Pence are scheduled to be in Miami Thursday in a push to sway swing state voters. Trump’s Miami visit will come just days after Democratic nominee Joe Biden is expected to attend a pair of events in Broward County Tuesday."
@@ -5723,6 +5769,22 @@ related:
       - url: "https://media.wtsp.com/assets/CCT/images/f2bd8952-0e08-4ca5-83a8-a42f287de18b/f2bd8952-0e08-4ca5-83a8-a42f287de18b_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "VP candidate Kamala Harris to be in town for first day of early voting"
+    excerpt: "U.S. Senator and Democratic candidate for vice president, Kamala Harris, will travel to Orlando for the first day of in-person early voting in Florida."
+    publishedDateTime: 2020-10-19T06:00:00Z
+    webUrl: "https://www.clickorlando.com/news/politics/2020/10/19/vp-candidate-kamala-harris-to-be-in-town-for-first-day-of-early-voting/"
+    ampWebUrl: "https://www.clickorlando.com/news/politics/2020/10/19/vp-candidate-kamala-harris-to-be-in-town-for-first-day-of-early-voting/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2020/10/19/vp-candidate-kamala-harris-to-be-in-town-for-first-day-of-early-voting/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 75
+    images:
+      - url: "https://www.clickorlando.com/resizer/qpiGKRvh83depZOjlULXkPAxH7Q=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/57NA7ZSDRBDPNH2U77EAYEMEY4.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."
@@ -6345,6 +6407,17 @@ related:
         width: 593
         height: 430
         isCached: true
+  - title: "Things We Saw Today: The Avengers Assemble for Joe Biden and Kamala Harris"
+    excerpt: "Infinity War and Endgame, are assembling the Avengers one more time. Their mission? To fundraise for Joe Biden and Kamala Harris. The Russo brothers have recruited Chris Evans, Scarlett Johansson, Mark Ruffalo,"
+    publishedDateTime: 2020-10-18T22:45:00Z
+    webUrl: "https://www.themarysue.com/avengers-assemble-for-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.themarysue.com/avengers-assemble-for-joe-biden-and-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://www-themarysue-com.cdn.ampproject.org/c/s/www.themarysue.com/avengers-assemble-for-joe-biden-and-kamala-harris/amp/"
+    type: article
+    provider:
+      name: The Mary Sue
+      domain: themarysue.com
+    quality: 68
   - title: "Joe Biden Widens Lead Over President Trump in Florida, Pennsylvania, Poll Finds"
     excerpt: "Democratic presidential nominee Joe Biden is widening his lead over President Donald Trump in the critical battleground states of Florida and Pennsylvania with less than a month until the election. A Quinnipiac University poll published Wednesday found that 51% of voters in Florida support the former vice president,"
     publishedDateTime: 2020-10-07T19:42:00Z
@@ -6676,6 +6749,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Here's What Kamala Harris Likes to Eat (and Cook)"
+    excerpt: "While running mate Joe Biden favors the simple pleasures of a red-sauce pasta, the California senator’s food preferences have a more sophisticated flair."
+    publishedDateTime: 2020-10-18T15:12:00Z
+    webUrl: "https://www.eatthis.com/heres-what-kamala-harris-likes-to-eat-and-cook/"
+    type: article
+    provider:
+      name: Eat This, Not That!
+      domain: eatthis.com
+    quality: 55
+    images:
+      - url: "https://i2.wp.com/www.eatthis.com/wp-content/uploads/2020/10/kamala_harris.jpg?fit=1200%2C879&#038;ssl=1"
+        width: 1200
+        height: 879
+        isCached: true
   - title: "Vice-presidential candidate Kamala Harris to visit Orlando"
     excerpt: "The Joe Biden for President campaign has announced Democratic vice-presidential candidate Kamala Harris will be in Orlando Monday. According to campaign officials, the senator will make stops in both Orlando and Jacksonville."
     publishedDateTime: 2020-10-17T19:46:00Z
@@ -6689,6 +6776,20 @@ related:
       - url: "https://www.wftv.com/resizer/G1kZY_31QlVNaOpg83QUCkCnno4=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/XZFGDVVXB6XDW7WY3K2EPVHCIA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "The Story Behind Kamala Harris’ Truancy Program"
+    excerpt: "HuffPost reporter Molly Redden explains how a program trying to reduce school absences produced unintended consequences—both for California families and Harris herself."
+    publishedDateTime: 2020-10-18T20:56:00Z
+    webUrl: "https://www.kpbs.org/news/2020/oct/17/the-story-behind-kamala-harriss-truancy-program/"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 55
+    images:
+      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/10/16/gettyimages-148166024_wide-128e986da94d52868af5e09e797ad12d6ecc12f6.jpg"
+        width: 3000
+        height: 1687
         isCached: true
   - title: "Trump campaign demands new in-person debate dates after wildly accusing committee of protecting Joe Biden"
     excerpt: "President Trump's campaign has suggested the next debate went virtual to \"protect Joe Biden\" — but not for the reason that makes sense. Early Thursday, the Commission on Presidential Debates announced the next presidential debate,"

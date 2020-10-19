@@ -687,6 +687,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Can ordinary Covid patients get the Trump treatment? It's OK to ask"
+    excerpt: "By Saturday, the 58-year-old was enrolled in a clinical trial for the same antibody cocktail that President Donald Trump claimed was responsible for his coronavirus “cure.” “I had heard a little bit about it because of the news,"
+    publishedDateTime: 2020-10-19T09:03:00Z
+    webUrl: "https://www.nbcnews.com/health/health-news/can-ordinary-covid-patients-get-trump-treatment-it-s-ok-n1243756"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243756"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243756"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_36/3347846/200513-convalescent-plasma-al-1003_b370ed0b3300074d0dbe464cfb44dbcb.jpg"
+        width: 2500
+        height: 1709
+        isCached: true
   - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"
     publishedDateTime: 2020-10-18T14:41:00Z

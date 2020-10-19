@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-yo
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -217,6 +217,22 @@ related:
       - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=NEWS&ArtNo=201019455&Ref=AR"
         width: 3543
         height: 2364
+        isCached: true
+  - title: "Did you see a photo of Joe Biden supposedly kneeling during the national anthem? Not so"
+    excerpt: "Biden was kneeling to pose for a photo with dancers during an event at the Little Haiti Cultural Complex in Miami, according to captions of AP photos taken at the scene."
+    publishedDateTime: 2020-10-18T22:49:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L2AB4K5PPBECLAFEWAHMYUMV64.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Is This a Photograph of Joe Biden’s House?"
     excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."

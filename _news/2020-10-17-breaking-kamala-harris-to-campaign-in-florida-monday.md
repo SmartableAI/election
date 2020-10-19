@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
 cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
 type: article
 quality: 75
-heat: 95
+heat: 115
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://media.kvue.com/assets/ETONLINE/images/c6234b46-27b0-423f-a452-2daa2c3e2498/c6234b46-27b0-423f-a452-2daa2c3e2498_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 55
+    images:
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "MWowSI692c2e9kofXLlCXaKE2dgvmQTUM6chV1TAjOaYyhJOHRlgTZu9XieqYR0DGzL/JmrcUwp0CX4HTmxjEfr/oO5ICO7lwXohpFEgF3bDUx+3aETkxT+hTK+6IKbGpcNDpOEEHXxUis/2Wp205b4TkwD+2FycPmtZOD6Ar/jmMrjTvVyY0vN2iCABaWg54VR5nt+zkZ7Bgu9n9ZBYpx3RlMOBHsEl8f/vFh3Ppx7N1s/eUdt1HucVA6T1L40YS55lad85uYGHFxGikrP00eme3M7QIp2S4KfOqgyARK0imDy2poWW6V6hCZj+H8AD1z1cAf8OfJAL/mY0X/C7ui0F3pgQH+F5NpXVM2Du/t5w3fBZZibdcMybXX+FV1rs9PxJfos/jD2A7ePqMxKWCNjpG21+ywvBzm1KVfNXlTvE6ei7sitBX+HP0ntXPA6ZdwgJRwtiFbqCAZglUtvM6v9AbN7k07o0pzSlVBdyRQenP2ESzoC8UHRP0g4vYWiaVo7PfokxSd8xuSME8EH06Q==;Z6nz5svZ2KmAuSe7bQvU/Q=="

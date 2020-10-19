@@ -270,6 +270,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Donald Trump Is Losing His Touch. So Is the TV Producer Who Shaped His Image."
+    excerpt: "Mark Burnett helped turn Donald Trump into a national figure with “The Apprentice.” But since 2016, his impact “has kind of gone bust.”"
+    publishedDateTime: 2020-10-19T00:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/business/media/burnett-trump-apprentice.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/19/business/18JPBenSmith-print/18BenSmith-01-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "St. Louis couple who waved guns at protest have spoken to Trump about their case"
     excerpt: "Mark and Patricia McCloskey were indicted by a St. Louis grand jury last week on charges of unlawful use of a weapon and tampering with evidence."
     publishedDateTime: 2020-10-14T18:11:00Z

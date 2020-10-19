@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 55
+    images:
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "hJlEJCrMtKzhkHyrtrl3pJYT/v/1UPZBj1pxk9HhL4koD2fBbrncktLwXWsq3LlBzL9j3SkuBs/mb9GfG9Q0BxF+ksQ5NE+ZtG2Hd9aVE/1f1prHu8KDursp/adI6xrWf6nvrLDegsi6FG1oA3TuexTrYOyuguHb5dkqwBb1Q+OITu/Gdf1D9DXhlRxCc5H00kYDcz8PtW7e2SDtAJiRUse7/qKtpRszBi+QbGMdGdE7o5GBxhzYcrFM1qZfJs81TdxOSOitkRnvJT6UQmnh935TT9HRvfPxIW5ZDovRhLnzGt2gcDq3BC3x6yBBReIS34kn7/BXIRdLk4XsQq8yyqVYzFNNhWbDq0fCrtR1m/Q=;YoyOFmWFKMyVZ9D2pcRwHg=="
 ---

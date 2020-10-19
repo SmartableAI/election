@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 3480
+heat: 3500
 published: true
 
 provider:
@@ -1932,6 +1932,22 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603062493_092b3bbfbd8f1fdf19cb512cde40f057.jpg/d447723e310ce64733fd2f385afc93a2/1603062493_297a25ec3dacb85b1d8c0331927d78ca.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Stimulus Package 2: Trump Warns Stepping in if GOP Opposes Big Bill"
+    excerpt: "As stimulus bill negotiations inch closer toward a deal, President Donald Trump is urging GOP senators to support a multi-trillion dollar package."
+    publishedDateTime: 2020-10-19T09:29:00Z
+    webUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/"
+    ampWebUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-bill-2-trump-2/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/10/stimulus-bill-2-Trump-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
   - title: "Trump gaffe demotes France’s Macron"
     excerpt: "President Donald Trump likes to make fun of his rival Joe Biden’s verbal lapses but on Saturday he made his own goof as he took a pot shot at French President Emmanuel Macron and effectively demoted him."

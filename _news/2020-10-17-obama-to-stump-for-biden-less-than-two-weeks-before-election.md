@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 950
+heat: 970
 published: true
 
 provider:
@@ -500,6 +500,22 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Joe Biden’s Lies About His Son’s Burisma Dealing Are Coming Back to Haunt Him"
+    excerpt: "Joe Bidens cheating is legendary. It goes way back to his plagiarism and cheating to get through law school and his plagiarism and lying when he attempted to run for President in the late"
+    publishedDateTime: 2020-10-19T09:18:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 82
+    images:
+      - url: "https://assets.realclear.com/images/52/524490_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Biden's $2 trillion infrastructure plan gets a mixed reaction from industry groups"
     excerpt: "Democratic presidential nominee Joe Biden has managed to thread the needle with his latest massive infrastructure wish list, pleasing industry stakeholders and environmentalists alike."

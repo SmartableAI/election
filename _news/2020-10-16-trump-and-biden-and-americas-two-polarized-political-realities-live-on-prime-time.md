@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 544
+heat: 584
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Top Trump administration official met with Assad regime over imprisoned Americans"
+    excerpt: "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n"
+    publishedDateTime: 2020-10-19T02:20:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EZf3VcMsLas/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/syria-us-hostages/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170406214544-syria-bashar-al-assad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Trump's rallies make no political sense. Here's why he does them anyway."
     excerpt: "President Donald Trump's bout with coronavirus gave him the chance for a reset on the top 2020 election issue. Characteristically, he has spurned it.\n    \n"
     publishedDateTime: 2020-10-18T11:26:55Z
@@ -124,6 +140,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015184731-donald-trump-rally-greenville-north-carolina-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal judge strikes down Trump rule that could have cut food stamps for nearly 700,000 unemployed Americans "
+    excerpt: "A federal judge Sunday struck down a Trump administration rule that could have stripped food stamps from nearly 700,000 people, saying the US Department of Agriculture has been \"icily silent\" about how many Americans would have been denied benefits had the changes been in effect during the pandemic.\n"
+    publishedDateTime: 2020-10-19T01:48:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/o9aQ1SERkpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/food-stamps-trump-administration-work-requirements/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001121600-snap-food-stamps-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

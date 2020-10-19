@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5979016002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002"
 type: article
 quality: 108
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Mitt Romney denounces President Donald Trump, Democrats, media for igniting ‘conspiracy mongers’; credits Joe Biden for not ‘stooping as low’"
-    excerpt: "Mitt Romney has been one of few Republicans to publicly criticize Trump, and he was the only Republican senator to vote in favor of an impeachment charge against the president earlier this year."
-    publishedDateTime: 2020-10-13T17:36:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/mitt-romney-denounces-president-donald-trump-democrats-media-for-igniting-conspiracy-mongers-credits-joe-biden-for-not-stooping-as-low.html?outputType=amp"
+  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
+    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
+    publishedDateTime: 2020-10-19T07:34:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 55
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2CGJ4W3UYFHSTNRONOK576OUFM.jpg"
-        width: 4999
-        height: 3123
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
+    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
+    publishedDateTime: 2020-10-16T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "kvuwDgGb6HulyAmQKzsQxcLkYV13ZT+9kBHoH/55JvjHlIQ5A7tlAoxHb10rBZfNFtm1gJSPuVsN3DMxMXRz7mO8iumCCz4JBULWQ6R8FhIBCLed3s7H0kdaak/Kvs2yHZBrU6oeXj8wkyVhs34cwgXdHPzG2r6kDUbmhQyAuT2pIgTkkrwVuBp8M1tr5pps1i6YfEb1HndISOZhOxW4y61+ujYfU3OmO9zyo8c1PoDxhkdFnW3Taw8+jpn4YeRxZwD//yQVedSYC09ZmaR7+YjgkzQbv1LFcJJjunQG+ZWdWJOby0mzjAJKyn0ojwNTZCA+io9qiJ2y0GXKM8cy2e1Lp29wTI+NNCQbR08BOAI=;OxhGTjT9YaZklU3PYoA/4A=="
