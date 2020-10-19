@@ -234,20 +234,6 @@ related:
         width: 650
         height: 340
         isCached: true
-  - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
-    excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
-    publishedDateTime: 2020-10-16T13:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/52/524286.jpg"
-        width: 928
-        height: 696
-        isCached: true
 
 secured: "1ngFbeVxdlh02KJ/CTFlcuEKvrguNzdEoOV+GRskkYF7xQj6gfeVzNLXTBZAV2OdDJBcZznoMQJBHM5pxwhI+zO89jdTjhx5hBesCw1UpxXAmePvLq5/2iwBhlvsO7toige48I9nCxAeZ3fP7LLr+DjmUwL0TCHFEZ/9rPkudLmkt57HH5PvKkyccBAs5oQPgI+NmjEl8xOs1b00P2rGwIexmVZXtSIXPvq8mO7haPy5tGF8VDkUh0BlBzgEZnHjoZpKCO9RQFo0z5wHrSOjakHdh1YYwvQ6jAPr3QzvqF4omLzshDMgZxMYHmyuyvWCgxxjzA3hHGKtnZ8ICcCYZI0yxsgZP1AHs7sWMZkYaBA=;qZjIBzdC/YL2oGAQNoiyXg=="
 ---

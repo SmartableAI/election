@@ -48,17 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
-    excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."
-    publishedDateTime: 2020-10-15T14:55:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 53
 
 secured: "pOcCdQqvrKn6QrBd/PyxonH0+rT9oXyQvXf/ulJ4gm0Ah7BAHAbZGXBh8cbbz+jSuTAVA514CWCG973Bx7/SbzWmnoyvJYS5GRQj/ixlGERbaFfXiBbbz9tOO6cvst+PlDTotAEnIWY+XXX+TRbxzLvUvva7DpqUl9jAtH1dqMXC1kq1sW77bUVkZ/dG6DQps+OnxqrMWNlt1kLolTmgI86bsS/TmLU7I7wjen15NWFU0O4w1C4TbcmAao9Dq3ntSe16Yo6dK38RJ47fFLYWdae88/gI8DQrbmVDR6JbW467OpdHCd3Gd1Sw35ALgFq5oQM9KXSTnGrUfVI+0SImZxCj/nkhNORD6Hrd9huS1Adpk+cdL9pjxxSvfQ7CCQbZ8nHLZOZ90DzCv3zBhPJw/XGg27jIE7RL6bNe74x+Q961LdR4FZ9DR98JN4QAi6BAkeKcNztnjyipczw3N9M825vwDbE8lUA3wLFzE0vhlgH5qce7IsSkzXjByAylmeL+xz2oigXRZIS8r4rmqFtXhQ==;BVgyA7lX24w7dLtFkX9AyA=="
 ---

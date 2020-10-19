@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-th
 webUrl: "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-the-trump-ticket-needs-a-dose-of-mike-pence/619B0192-B950-4EBE-8189-F533DDF1733A"
 type: article
 quality: 140
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -31,20 +31,34 @@ images:
     isCached: true
 
 related:
-  - title: "Matt Gorman: Trump has a new running mate now"
-    excerpt: "Yes, Vice President Mike Pence is still around. And no, the near-constant chatter about former U.N. Ambassador Nikki Haley did not come to pass."
-    publishedDateTime: 2020-09-30T11:07:00Z
-    webUrl: "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman"
-    ampWebUrl: "https://www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-running-mate-matt-gorman.amp"
+  - title: "Victor Davis Hanson: Trump must make election about class, not race"
+    excerpt: "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose."
+    publishedDateTime: 2020-10-10T21:46:00Z
+    webUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race"
+    ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b94a65f6-5ffd-48bb-a83f-27cccf0be04a/265a668a-7607-4662-85c1-473e327e8464/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg"
         width: 1280
+        height: 720
+        isCached: true
+  - title: "Arnon Mishkin: Trump reelection in trouble, polling indicates — race is referendum on him"
+    excerpt: "Following his debate performance and hospitalization with COVID-19, President Trump continues to trail former Vice President Joe Biden in national polling in their presidential race."
+    publishedDateTime: 2020-10-10T23:33:00Z
+    webUrl: "https://www.foxnews.com/opinion/polling-trump-election-arnon-mishkin"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81202508-7b03-4a6b-ae69-4308c016af33/d037b5e2-486b-4fdf-9e57-1e6048897a4b/1280x720/match/image.jpg"
+        width: 1079
         height: 720
         isCached: true
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-tower-supporters-coronavirus-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tower-supporters-coronavirus-nyc.amp"
 type: article
 quality: 163
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/990d89dc-ff60-4740-b234-940109e5ea79/fda33ddc-3839-4fe8-aa55-2686c8523ab5/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump signs short-term spending bill to prevent government shutdown"
-    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
-    publishedDateTime: 2020-10-01T06:43:00Z
-    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
-    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "jm2PxbI4oj3oqyx8e8NsGL3V7SiPdIuM3PKwzRPTg7Vd5+5hHsPbAtu0S7mJwTEWYY6MjQa2HC3XSmabmkfJioxiFpFOQJh3cezP4sUTLaNLvg6f4XwQBQg+G0mQK12slO3cK7r+Mmty/+U6fFqwCbgxFAkH9D1rL7PoB2SK0r0YR9tMMJoO5qu5FF4BEjHL8g/oPYHMsoiugQham60qUz0Z4rjV+b1OmLRepoC05Zi1t6Y8E3lRJE7cXP73ElMwyCILTKmMfR6lihags1oKs0gm7MdFhsi+3ZynWkOTzKIkR1O8zPkO02BXFfHAFjVt8Wm/rsl6pPdB61iOfjTwMZCn2C3BYsnVzWTvjJ15o+8=;uxdTnCO3qvFvU5WHsZKmRw=="

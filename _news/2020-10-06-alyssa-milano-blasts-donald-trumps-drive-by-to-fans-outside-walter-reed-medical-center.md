@@ -174,6 +174,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
+    excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
+    publishedDateTime: 2020-10-09T12:40:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eV-uFkk29w/pelosi-25th-amendment-trumps-health"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8fe0b7e-de00-4adf-85ab-a113f04cf158/ec0cb441-0df6-492c-97c3-b8ff9080d625/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to appear at White House event, first since returning from Walter Reed"
     excerpt: "President Trump on Saturday will make his first appearance at a White House event since he returned from his stay at Walter Reed National Military Medical Center earlier this week."
     publishedDateTime: 2020-10-10T13:27:12Z

@@ -4724,6 +4724,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump and Pence are leaning into a dangerous rhetorical political strategy: communications expert"
+    excerpt: "After the debate between Sen. Kamala Harris and Vice President Mike Pence, commentators contrasted Pence’s reserved demeanor with the belligerence President Donald Trump exhibited in his debate with former Vice President Joe Biden the previous week."
+    publishedDateTime: 2020-10-19T10:26:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 87
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
+        width: 800
+        height: 412
+        isCached: true
   - title: "Democrats doubted Kamala Harris was liberal enough. Now Mike Pence calls her radical. What’s true?"
     excerpt: "Kamala Harris spent her presidential campaign trying to prove to her party she was a bona fide, enthusiastic liberal – not the “top cop” the former prosecutor called herself during her time as California’s attorney general."
     publishedDateTime: 2020-10-07T12:00:00Z

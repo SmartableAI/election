@@ -43,6 +43,52 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "One-on-one interview with Vice President Mike Pence"
+    excerpt: "After Vice President Mike Pence’s campaign rally in Berks County on Saturday, Eyewitness News spoke one-on-one with the Vice President. The"
+    publishedDateTime: 2020-10-17T21:03:00Z
+    webUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/"
+    ampWebUrl: "https://www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
+    cdnAmpWebUrl: "https://www-pahomepage-com.cdn.ampproject.org/c/s/www.pahomepage.com/top-stories/one-on-one-interview-with-vice-president-mike-pence/amp/"
+    type: article
+    provider:
+      name: WYOU
+      domain: pahomepage.com
+    quality: 75
+    images:
+      - url: "https://www.pahomepage.com/wp-content/uploads/sites/91/2020/10/vlcsnap-2020-10-17-16h53m31s475.png?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Mike Pence arrives in Berks County"
+    excerpt: "Vice President Mike Pence landed at Reading Regional Airport about 1 p.m. and has been speaking to a crowd of about 1,000 supporters. Pence was still on the ground conducting interviews at 2:30 p.m. and it was unclear when he would be setting off for his next stop."
+    publishedDateTime: 2020-10-17T18:00:00Z
+    webUrl: "https://www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.html"
+    ampWebUrl: "https://www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.amp.html"
+    cdnAmpWebUrl: "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/news/politics/vice-president-mike-pence-arrives-in-berks-county/article_d563be00-10a1-11eb-ab78-0b3976afd5ed.amp.html"
+    type: article
+    provider:
+      name: Reading Eagle
+      domain: readingeagle.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/readingeagle.com/content/tncms/assets/v3/editorial/2/f1/2f1eaf86-10a2-11eb-9cee-2706909b2f7a/5f8b30c8048eb.image.jpg?resize=1024%2C749"
+        width: 1024
+        height: 749
+        isCached: true
+  - title: "Vice President Pence speaks at Reading Regional Airport"
+    excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
+    publishedDateTime: 2020-10-18T01:33:00Z
+    webUrl: "https://www.wfmz.com/news/area/berks/vice-president-pence-speaks-at-reading-regional-airport/article_4248b3da-10d5-11eb-81d7-7f604f967283.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/97/197d2af2-3955-57f9-a37e-d506b801d511/5f8b945d9b476.image.jpg?resize=1120%2C630"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "w3IyzS68fwEWOpL03zMn35iGZusmZ7CE9myWlUz3Y6sJfvFbaiVVGD+2fu4GuTiR/3oLhSQ/FNOn1XiZD0RwG2vAOouzvMvZXV/dgsWfnIBsi7a4snwNCEHrYeZ/3F05nVGG0Fri3dhZA+ORIfw3toGeyaYkX9/CA/fMkiFccMwZ/qjWzs1J1xaNfyrKH5rb2T2N2zTUU7iKYXfJUBBeUsRUMBVlXDr+JnCnQzoI4B8d24wirTr5NiIe50sEtX8KotlfL0WfqM4DbT82R5LEJUJetVwKKBWPzkYqjGFnwJXnZwIANKUKggic3XO4+BPo/5Bm1Lm3BUK8grm+NhBotS2htLWMdPb67DjhjM6HvPs=;fzcUydMPCSaSdRWaGfXXKA=="
 ---

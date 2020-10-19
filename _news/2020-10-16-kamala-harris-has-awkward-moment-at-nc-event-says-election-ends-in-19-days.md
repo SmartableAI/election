@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-north-carolina-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp"
 type: article
 quality: 147
-heat: 187
+heat: 167
 published: true
 
 provider:
@@ -48,17 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
-    excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."
-    publishedDateTime: 2020-10-15T14:55:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 53
 
 secured: "V4MY9wzIxAh3alptgwyuyEjs4HxsbE9Ftb/3FV84jNQ+41nKZ9hcOy638amvf8CeNWiYwZiQ7PA8GqYdf7/qCfG7ZxT+mst7c8Lcnc6QDK9kc1CAHfEwtjUVLULz0mGZDLboWnE8BGBtBZMXqWyJex6wq+H8o1m9/t7Mn18X9icBDu1Ga2wDgGNtXErmcy+1f+A89GYJ52TpA2DTB4hlnm8S3BSHnv02dWUBD9svRAQm99TJZ5bhtDIxLsCxeRLmECkhgRW7/W/9BJI58tLZzkK8nHVQyT8kJQzBb99Ot/3mZERU5ZP98SitDz/vUGozteQ1z2WApYqMS3eB4q++VXTqgE2PqGoLr4zZaqsuLFAyr7cQ06hCW9zNaNTYaEjYxXtg0xW/Sa3IndcfO6dwhoqqdAT28g8cw/Nmpk1apipA2yFiRh8PKsNV+FU3KXsLb8hrl5t9+DNFAQsl2sJnAcr00E+m9x5vJaKQiv3xrhe9WPZ9lb8/e2wDJKvyqAlquMXLVaPVFfaeyJsu0v/Kzg==;TAK0r31LW86baieRtU2WZg=="
 ---

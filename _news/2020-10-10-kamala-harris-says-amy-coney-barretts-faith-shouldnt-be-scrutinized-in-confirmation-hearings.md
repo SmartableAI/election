@@ -154,20 +154,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Kamala Harris has technical difficulties signing in to Amy Coney Barrett confirmation hearing"
-    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, had a tough time on Monday when she experienced technical issues while trying to remotely participate in Amy Coney Barrett’s Senate confirmation hearings."
-    publishedDateTime: 2020-10-12T19:24:00Z
-    webUrl: "https://www.foxnews.com/media/harris-tech-issues-barrett-hearing"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 104
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6efa3b6e-e72c-4aed-b985-e65c63c2ae50/00a37f4e-77a3-4ef4-9fd9-d3c300d9e39b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "p1YRMd2nZIsmXrY15/PQxOdy3/QsMWq/YXxIIVuk/9Od9Bk7fjTC6HP/JAcFsIc/70C1nicYmdwSuwV5a4i6r6WoIoHb1Dab+EJxgUzN5+9iquo/ue9i+lEuO0w7qJVheuVrSgyC9MFeCyeu14Nz1hmLCySbO4XHOY0QOF/UwPQcLLLLezBfxetw8ArjlvBAblCHWoaktM4a9VPsug/Iqqt8rPR2mDTpuQww0KvH2X+8hTdpbU9KMzsgG4wGcGZF2kvMHzPMHVJjUvgv+RjFbs762iO6IeKJRKg09pjdMXsPzDlPWI98E2ZJ9ob29gGRC1bBJBEj1G9PGXPWaXvhIYQZk8cYuyzVB2SOil/kj+E=;gVd8iEZWBl8/I01RmMwa3A=="
 ---

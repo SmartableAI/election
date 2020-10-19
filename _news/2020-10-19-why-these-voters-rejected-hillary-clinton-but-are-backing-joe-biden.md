@@ -21,6 +21,22 @@ topics:
   - Joe Biden
 
 related:
+  - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
+    excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
+    publishedDateTime: 2020-10-19T10:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
     excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
     publishedDateTime: 2020-10-18T18:48:00Z
@@ -36,36 +52,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation"
-    excerpt: "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence."
-    publishedDateTime: 2020-10-16T03:43:00Z
-    webUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Joe Biden's polling lead is considerably stronger than Hillary Clinton's was 6 weeks before election"
-    excerpt: "Any mention of the word \"polls\" when discussing the 2020 election will evoke the predictable, and semi-understandable response of \"The polls are meaningless! They were way off in 2016! We can't trust the polls!"
-    publishedDateTime: 2020-09-23T18:31:00Z
-    webUrl: "https://www.chron.com/politics/article/Joe-Biden-polls-lead-averages-2016-Clinton-wrong-15584094.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 55
-    images:
-      - url: "https://s.hdnux.com/photos/51/02/71/10759807/3/rawImage.jpg"
-        width: 2048
-        height: 1440
         isCached: true
 
 secured: "NRrZrS6yEfmfb+JAKrWS2me9tL+Hwhwh5ilgQHXT2o8NYXomafIZn85juDHfB0H1nldy8Ew+jRFAxTya9IyStcCF89BMFXZui0u47l4kFHVkSjQRecCH+qX5giMWuKpVQvfP7+jk1Cv2EeXr38zOHyhTgX6k9j8x3STbdRMWvwD3sFnr5syAPy7cmMz4X3ISCHlHI0Q+Kwlzit8eVDjwLRo70ZWjEX+YEVSxq2TPvxytMxArPn7C26JE3Tf0iHN5lr6T/C63qohVSye8xyXG1ysZ34NB89r4J3nqXCNPpJSdxf+JPE2qAxmI7lDe7nwIceHnDfU9ddg50QqjWSw2XJcpPQbJwbm1m7YDctPXECQxZyDK6omHKxuylNzptwEfVTLuWLgUT/rRPCM3YjF7AmbHxaoUTMjiiiJjbTwqd1aEgyVg1Hx8etY4A5H2PX375VfpQfYJurqhnRoCl8Iscn3+q/ONU4TKqLBDEr+IDdlc/WeZxfNQ5uyJNaxU8u1Mru2Py6cQMzVOQlhYqxoFKA==;GdI/xNM3A8gOzgzPgQJY4g=="

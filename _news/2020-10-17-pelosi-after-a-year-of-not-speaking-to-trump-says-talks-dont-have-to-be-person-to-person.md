@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pelosi says she doesn't want to sweep up 'dumpings of this elephant' after Trump presidency"
+    excerpt: "House Speaker Nancy Pelosi appeared to compare the actions of the Trump administration to elephant dung at the conclusion of a discussion that largely focused on the ongoing negotiations for a new coronavirus relief bill."
+    publishedDateTime: 2020-10-18T16:52:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kYo-KyfYwU/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c251c6b9-f9f2-416f-bad6-901654acb68b/68637113-7e51-4b05-97ab-90610f1cd213/1280x720/match/image.jpg"
+        width: 1079
+        height: 720
+        isCached: true
   - title: "Romney rips Trump, Pelosi, Keith Olbermann, says politics now ‘a vile, vituperative, hate-filled morass'"
     excerpt: "Republican Sen. Mitt Romney of Utah is stressing that the country’s politics has “moved away from the spirited debate to a vile, vituperative, hate-filled morass that is unbecoming of any free nation.”"
     publishedDateTime: 2020-10-13T16:28:32Z

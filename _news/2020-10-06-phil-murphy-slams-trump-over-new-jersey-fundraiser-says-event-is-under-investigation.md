@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Women's marches storm NY, DC and LA protesting Trump, ACB despite social distancing mandates"
+    excerpt: "Women’s rallies against President Trump and his Supreme Court nominee Judge Amy Coney Barrett swept through cities like Los Angeles, Washington and New York on Saturday. "
+    publishedDateTime: 2020-10-18T00:13:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpT7AEbUQ6s/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288675179525-e1602784153869.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ttBSzhqH+a0Pq3KSqi9ln+GEuAZhP/mZjQrIi93XN6REr4V6mkWwX3dui5C2qQcj49ZtRPA1bVpPLzoXH5d3iF+dy3usM6v5i5jUJn789bziKJxHSlEhnuzos3/AQjqZzz+Ni9ZUs1V4ZiiaRqVR0w4h+ubFAcB8Yx1DZB1RSyEknDsDcltj0MVBdgo/vdtsEsfqosZBQBzcU39Qtk3I0/YES7mbPoIIUJiuT7a4r/SfSTqlxiJXR3YnLa30zMijd/rR9AB+RW1FfQ3skaqT9lqJcZC7OOlrQBIHHQHbUZFJLOcQlsQeIBNdb59KGM5F7bGwnOoOfw4Q6YF65obIbKuaHerzvcLVRZw89+5Mtqg=;lKHAjhPTioQWkgbi9XAn6g=="
 ---

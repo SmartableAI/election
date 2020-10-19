@@ -51,24 +51,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
-    excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
-    publishedDateTime: 2020-10-12T23:47:00Z
-    webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+  - title: "Pence to make campaign stop Monday in Bangor area"
+    excerpt: "Vice President Mike Pence will make a campaign stop in the Bangor-area town of Hermon on Monday. The former Indiana governor will appear at Dysart’s Service at 11:30 a.m. Doors will open at 9:30 a.m."
+    publishedDateTime: 2020-10-17T23:22:00Z
+    webUrl: "https://www.pressherald.com/2020/10/17/pence-to-make-campaign-stop-in-maine/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/Election_2020_Debate_75357.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "zjWwG015e03QSgoiu1tOswSyoI9DsV7EKXh3bb3Vbd3ZTPJRtgIWiWtDtZBj1ZNuPq11QTXh8Xbu9UqGOV9XR5CwndU2NTWufXQOkfiG5CWLbZPSG/5L8AAXviEToZvNMM0b13OyDVThaFgJlAlEdByn8R7oW6/qceuczZVHVS7tvUThOcvn/AI/046wP851M9ImoOh1Kw6hI2stuMHSISsuh89MLgt/lcX3cQKLKE8aTUw5XGCrhY/jKjijbc8vXOgryv5dLVFQx9GnANaQenLwEz8LTV9cE0E38iH/608Dmos2pGVnegglTBRNDmGc7/dQwsc73qMjxyGkdoyGFfjEMZutq6KrkrvGK2SqNFRgDAT+oGGgbwtnHObdrexiyeZ5i8PVRSeaqbwEcAqoQZRfWrjBiEzfcnKt1Po3cfsgVvC4os4x4CzC0jdJX0oLIPtfAU3yExwp1Ja66bW0FG9aibFMziVjPBdHOyprUpr59oAlz2vYj2kRkfU4qaKBMpf8UF6WUZLQZAgxu0ONrg==;OPgZAP7yLVnytIaD+U0jNw=="
 ---

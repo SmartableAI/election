@@ -29,171 +29,125 @@ images:
     isCached: true
 
 related:
-  - title: "Trump touts his COVID-19 treatment in first rally since diagnosis"
-    excerpt: "President Trump hailed the medical care received in his first rally since testing positive for the coronavirus, vowing to a crowd in Sanford, Florida that he would ensure the whole country enjoyed the type of treatment he received."
-    publishedDateTime: 2020-10-13T01:02:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ed56aWGnxWY/trump-rally-florida-coronavirus-treatment-positive"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive.amp"
+  - title: "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day"
+    excerpt: "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election."
+    publishedDateTime: 2020-10-13T19:01:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump faces deficits in Michigan, Wisconsin with days dwindling until election: polls"
+    excerpt: "With three weeks to go until Election Day, new public opinion polls in two key battleground states President Trump flipped from blue to red four years indicate that Democratic presidential nominee Joe Biden holds sizeable leads over the president."
+    publishedDateTime: 2020-10-13T01:18:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLcbP8c7mBw/trump-deficits-michigan-wisconsin-election-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70a16502-b86c-4e51-818f-c6da8c881474/43980fb3-be0d-4bda-a962-e4c9cdd3e0d9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
+    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
+    publishedDateTime: 2020-10-10T08:32:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump makes grand entrance at Iowa campaign rally"
+    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
+    publishedDateTime: 2020-10-15T03:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31790f6b-ec92-43ef-8975-b267c39de1ad/50309679-a9dd-431d-8943-98675c68aa9e/1280x720/match/image.jpg"
-        width: 1280
-        height: 719
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
+        width: 600
+        height: 332
         isCached: true
-  - title: "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena"
-    excerpt: "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort."
-    publishedDateTime: 2020-10-07T15:03:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nnLUyLR2awk/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena"
-    ampWebUrl: "https://www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/appeals-court-rejects-trumps-effort-block-enforcement-tax-returns-subpoena.amp"
+  - title: "Trump campaign rejects Taliban support for 2020 reelection"
+    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
+    publishedDateTime: 2020-10-11T15:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81360eac-8bd9-45d6-ade4-a674a7097bb2/99c19865-80a4-493c-a3bb-66c2aedb0f8c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump getting support from those most affected by 'asymmetrical' COVID lockdowns: Hanson"
-    excerpt: "President Trump was welcomed back to the campaign trail Monday night by a huge crowd in Sanford, Fla. for his first rally since recovering from coronavirus, and Hoover Institution senior fellow Victor Davis Hanson told “The Ingraham Angle”  the continuing support for Trump stems in part from the lockdowns."
-    publishedDateTime: 2020-10-13T04:14:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/95UIUdRW7gQ/trump-campaign-asymmetrical-covid-lockdowns"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns.amp"
+  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
+    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
+    publishedDateTime: 2020-10-10T15:30:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 155
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16b8580b-6379-444f-8b38-793de1aa526f/90f66992-98d5-4782-8269-e83c8e0305d4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
+        width: 2000
+        height: 1264
         isCached: true
-  - title: "First lady Melania Trump confirms negative COVID-19 test, says son Barron tested positive but is now negative"
-    excerpt: "First Lady Melania Trump revealed Wednesday that her 14-year-old son with President Trump, Barron, contracted coronavirus but has since tested negative."
-    publishedDateTime: 2020-10-14T20:23:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H1S4GIQaryk/first-lady-melania-trump-negative-covid-19-barron"
-    ampWebUrl: "https://www.foxnews.com/politics/first-lady-melania-trump-negative-covid-19-barron.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-negative-covid-19-barron.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/trump-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump to visit Penn., Iowa next week, stepping up travel schedule post-COVID diagnosis"
-    excerpt: "President Trump added Pennsylvania and Iowa to his campaign schedule next week, stepping up travel plans despite his recent bout with coronavirus. "
-    publishedDateTime: 2020-10-10T18:24:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Opqt4I8wVXo/trump-penn-iowa-travel-schedule-post-covid"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 147
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282563282147.jpg"
-        width: 3113
-        height: 2075
-        isCached: true
-  - title: "Florida Police Chiefs Association makes first-ever presidential endorsement, backs Donald Trump"
-    excerpt: "The organization adds its name to a growing list of law enforcement organizations that have backed President Trump for re-election."
-    publishedDateTime: 2020-10-10T23:58:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pNTRtBxJpvo/florida-police-chiefs-association-endorsement-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fauci says his comments in new Trump ad 'were taken out of context' and without his permission"
-    excerpt: "Dr. Anthony Fauci, the nation’s leading infectious disease expert, said comments of his in a recent commercial from President Trump’s campaign were used without his permission and “taken out of context.”"
-    publishedDateTime: 2020-10-11T22:54:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5rPOq6qYwm4/fauci-comments-out-of-context"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 143
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44ec5c54-5fac-46f6-b307-5b43cd4dc46c/d578bef7-c259-44b3-846c-7d0be3c01dcc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fauci says he was taken ‘out of context’ in Trump COVID-19 campaign ad"
-    excerpt: "Dr. Anthony Fauci says his words were taken “out of context” in a new political ad about the Trump administration’s response to the coronavirus pandemic, according to a report. “In my nearly"
-    publishedDateTime: 2020-10-12T13:17:00Z
-    webUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/"
-    ampWebUrl: "https://nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/12/fauci-says-he-was-taken-out-of-context-in-trump-covid-19-ad/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/fauci-ad-49.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Jimmy Kimmel mocks Donald Trump for holding rallies that could potentially infect his supporters"
-    excerpt: "Jimmy Kimmel took aim at Donald Trump for continuing to campaign after his positive COVID-19 diagnosis and subsequent treatment."
-    publishedDateTime: 2020-10-14T14:08:00Z
-    webUrl: "https://www.foxnews.com/entertainment/jimmy-kimmel-donald-trump-rallies-infect-supporters"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 102
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/kimmel-trump-ap.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "'Disgusting': Joe Biden Tells His Tens of Followers About His Trump 'Death Blow' Fantasy"
-    excerpt: "Joe Biden’s campaign said they would pull negative ads upon news that President Trump had tested positive for coronavirus and was being admitted to Walter Reed Medical Center. I mean,"
-    publishedDateTime: 2020-10-05T20:25:00Z
-    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511"
-    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/05/joe-biden-details-death-blow-fantasy-as-president-trump-battles-covid-n2577511?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 91
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/85cd2048-65ea-49c4-a5ed-58fd7b789e59.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "Watch: Trump Holds First 'MAGA' Rally Since Coronavirus Recovery"
-    excerpt: "President Trump delivers remarks at a Make America Great Again event in Sanford, Florida. Judge Amy Coney Barrett said during her confirmation hearing opening statement that she was honored to accept President Donald Trump’s nomination to the Supreme Court,"
-    publishedDateTime: 2020-10-15T09:42:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/watch_live_trump_holds_first_maga_rally_since_coronavirus.html"
+  - title: "Replay: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
+    excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
+    publishedDateTime: 2020-10-18T09:32:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/17/watch_live_trump_holds_a_make_america_great_again_rally_in_janesville_wisconsin.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 65
+    quality: 61
     images:
-      - url: "https://assets.realclear.com/images/52/521215.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
+        isCached: true
+  - title: "Watch Live: Trump Holds A \"Make America Great Again\" Rally In Janesville, Wisconsin"
+    excerpt: "President Donald Trump addresses supporters at a nighttime rally in Janesville, Wisconsin at the Southern Wisconsin Regional Airport, the second one today following a stop in Muskegon, Michigan only hours prior."
+    publishedDateTime: 2020-10-17T23:57:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/17/watch_live_trump_holds_a_make_america_great_again_rally_in_janesville_wisconsin.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 59
+    images:
+      - url: "https://assets.realclear.com/images/52/521717.jpg"
+        width: 1136
+        height: 852
         isCached: true
 
 secured: "YduvpEws1cpbVu8wO5XS6G63WAThVoAgkuHbopBT0zndPpQPqDGlIQzcAyMhfCYQD32J5pxNXBiJwuWskgmXHxsqpi/yRYrTJ9cn6GipZNK8+B+VmirXLHu0Y/dpb2pfEw/PkPUGYxaB9gOLuy0PGtbK44RNeObvwFBJDZ5Ia/d8eH++7ZZPsw5n1+VoEIVuoyK9ixwFkUa1AJuwwo+Xe4BLPnY9xz2osxIctEZH39gm0r/WmNL0JzA+v1UmuCYOZ4X4hLoVfLnTxonMIDZbp5XgmxQl+OCcfJwPLB0lxVimI7YsotE8xJYYivMhb9BexxtftUJFLsVdTn9O8SxFpLj54NJxZGZKNK4Gn/LVGyQ=;FF2xKKVGuZ3R9w3dR+3yoQ=="

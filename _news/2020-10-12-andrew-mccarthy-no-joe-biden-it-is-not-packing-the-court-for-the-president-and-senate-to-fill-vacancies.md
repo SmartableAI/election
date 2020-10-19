@@ -214,6 +214,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Sen. Marco Rubio: Joe Biden and packing the Supreme Court -- the dirty little secret Dems don't want to reveal"
+    excerpt: "Former Vice President Joe Biden can dodge the court-packing question for another 15 days, but we know exactly what he’ll"
+    publishedDateTime: 2020-10-19T10:05:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-packing-supreme-court-democrats-marco-rubio"
+    ampWebUrl: "https://www.foxnews.com/opinion/joe-biden-packing-supreme-court-democrats-marco-rubio.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/joe-biden-packing-supreme-court-democrats-marco-rubio.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e9f71ff-39c9-4b31-9cbc-68ee1d952978/2cd6b440-a924-4b86-b2b2-9fac3f868dc9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flashback: When Biden Called Court Packing a 'Bonehead Idea'"
     excerpt: "Democratic presidential nominee Joe Biden continues to avoid answering whether or not he would pack the Supreme Court as president if Judge Amy Coney Barrett is confirmed. Biden went so"
     publishedDateTime: 2020-10-12T11:35:00Z

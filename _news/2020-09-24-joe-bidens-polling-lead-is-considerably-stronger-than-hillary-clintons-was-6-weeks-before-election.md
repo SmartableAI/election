@@ -25,49 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
-    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
-    publishedDateTime: 2020-10-18T18:48:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation"
-    excerpt: "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence."
-    publishedDateTime: 2020-10-16T03:43:00Z
-    webUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp"
+  - title: "Trump's spy chief just released 'Russian disinformation' against Hillary Clinton that he acknowledged may be fabricated"
+    excerpt: "DNI John Ratcliffe said in a letter that the US intel community \"does not know the accuracy\" of the allegation or whether it's been fabricated."
+    publishedDateTime: 2020-09-29T22:27:00Z
+    webUrl: "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dni-ratcliffe-declassifies-russian-intelligence-disinformation-clinton-election-2020-9?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 101
     images:
-      - url: "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5d385b01b44ce752ae61652b?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
-    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
-    publishedDateTime: 2020-10-18T18:11:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "as0JT0b69tRw9WDyOzwTNCFNq8xRjG06JvRXWRjbByDt7KtD/b6pquQAPzRseXiUQWnFPurDebeL2JchgnV295rqLhhbtmP5WBP1Bf6uNgJJT9iWJK4Yzk1WVymBnW6UuF5W6pNpHI6dsvDmFyav/yywGL/NiD4I8CIFHVagzv6A1xwfOEq0VpzvVjVdHgZToaqMKihFgeUwQJbxvRTDvCQZHQnbVKAGs1/4Eu/SWBoq5uo+iUhCAnnUlYSjqTkUtFvOrF6hYmC/H13DK4XO5c0VexZ5IWhyYhJlHdGH4Qunfy2SznPUvTIBdwip03H5IyxYuCA54gWsJJsFzfnwOMJqzRDuXp06BOJOY90mkWvm6GdzHSXMCiGB9fa771nhnlcO+rZDPHc0UNP04dnLGInwrJDHDhoVjJ45tNx9RDQC72CU3qRqwufsvM935nUSF7+rpuet8BHIvZIf1kX+13xSjtJJ3nFEbiqWH0NKOaq3WXV8mtsTfPEZreLgJzpkwWYqaQsLLJNV1XqQmSjO6A==;s2LIUop4tD1WUi3NH4Nm1w=="
 ---

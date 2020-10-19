@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mayor-facebook-blasted-trump-zealot
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mayor-facebook-blasted-trump-zealots.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2bb84f88-e2a0-4bdd-bfd5-635cba70b0c7/2e932280-87d8-4787-bc3c-5dc98bfdc624/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Women's marches storm NY, DC and LA protesting Trump, ACB despite social distancing mandates"
+    excerpt: "Women’s rallies against President Trump and his Supreme Court nominee Judge Amy Coney Barrett swept through cities like Los Angeles, Washington and New York on Saturday. "
+    publishedDateTime: 2020-10-18T00:13:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpT7AEbUQ6s/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288675179525-e1602784153869.jpg"
         width: 1280
         height: 720
         isCached: true

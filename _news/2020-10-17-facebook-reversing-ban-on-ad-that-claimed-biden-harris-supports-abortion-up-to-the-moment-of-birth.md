@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 type: article
 quality: 185
-heat: 465
+heat: 445
 published: true
 
 provider:
@@ -233,20 +233,6 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
         width: 650
         height: 340
-        isCached: true
-  - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
-    excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
-    publishedDateTime: 2020-10-16T13:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/52/524286.jpg"
-        width: 928
-        height: 696
         isCached: true
 
 secured: "1hI2pBXqBAJYHN6f6LiSQv+JzKWdKt5UuOk10CUinoQZ61Ver7KO9fHvx2j+S/D1xQ6ehBNOuPN2Z924bfczEqIN8H8xAflc0LWIoeSBaR2RwEO9Io+2lSgCtxYAkWjmfZe5QOG27M6IQB7RpQBEah7yno8SEgIftkS+710SetMdivpa/YtW6JERb6R1jX7dmkony4AQCYcR0jv+imJo73uye/AWXIZ+n3SN++frG4x0cyhtDhWmhRIJAf2A0vWeoes46wygM0BKM7BhwyN39H3Ze7hn+fwzBtkAFZuNod+acxHLBGlqqR53jhWdfyFzTq4EANH1artB78WnmwDndOYJkvIegfXIkoEbYI1LnlI=;uWD4eUWHlMeOp0eivBILKg=="

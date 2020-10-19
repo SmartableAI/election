@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-argues-he-in-better-shape-tha
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-argues-he-in-better-shape-than-trump-just-look-at-us.amp"
 type: article
 quality: 190
-heat: 970
+heat: 950
 published: true
 
 provider:
@@ -382,22 +382,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/84ddf552-1c20-430c-87ed-eb5c0b6723d2/333fa01a-f64a-4840-a25f-15793f306578/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Biden Draws More Viewers Than Trump in Town Hall Ratings"
-    excerpt: "More than 27 million viewers watched the dueling town halls of President Trump and Democratic presidential nominee Joe Biden, according to Nielsen ratings."
-    publishedDateTime: 2020-10-16T21:12:00Z
-    webUrl: "https://www.wsj.com/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-246186/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Washington Post reporter roasted for comparing Trump, Biden teleprompter use"
     excerpt: "A Washington Post reporter was roasted on Thursday night for comparing President Trump using teleprompters during a campaign rally speech to Democratic nominee Joe Biden’s alleged use during live interviews."

@@ -45,22 +45,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump signs short-term spending bill to prevent government shutdown"
-    excerpt: "President Donald Trump signed a spending bill early Thursday to prevent an imminent government shutdown. The Senate voted 84-10 to pass the bipartisan bill, extending federal agency funding to"
-    publishedDateTime: 2020-10-01T06:43:00Z
-    webUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/"
-    ampWebUrl: "https://nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/01/trump-signs-short-term-spending-bill-to-prevent-government-shutdown/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/AP20275174301260.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "3D0hzC2j/srNzMC5719t+ilNySYrmG/wRJ78e6b6e70gFrPsCdRnApOlPJDhR2yIjI9hW4DomY3oMoXcZiW4WJ1e7m3tRGGVjLEY59jprs3NQtu/kEdNiQaqfWaJXTcnWaMxyp0Mwrqiu1l7LEDS/K2QTiyEE0rmz3kSuk0GdMlk2wU12e7FxUFX0mna3WiUKgVUOlMCf5gS8XTnWsckytUxROCNnVLebdz2Tz8xP+Xez73GI3uBhuwjJ4gCAZSTYgvrE3mGkd6t81GhHFZ4HEwXU0R1lDhYnFHxJynzMl0JuIViV48MdJ9mor/axnD8Q7Q5K6npFrL77zAq5Q5eatOzQXmY9dG9SicKrswH4AA=;abs0Oiy7lMeuI5BMkfcFJA=="
 ---

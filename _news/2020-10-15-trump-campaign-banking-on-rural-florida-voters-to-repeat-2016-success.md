@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Trump traveling to Arizona as Harris stumps in Florida"
+    excerpt: "With the November election just a little over two weeks away, President Trump and the campaign of Democratic rival Joe Biden are heading to key swing states on Monday to make a final appeal to voters."
+    publishedDateTime: 2020-10-19T11:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d85c33c-fea2-4bbc-a1f1-9578a319a0c0/72586bf0-f0a2-4f0c-a8fa-aa49a54900b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump, Biden funnel ad dollars into key battlegrounds in final stretch"
+    excerpt: "Local television markets in the battleground states of Florida, Arizona, and Pennsylvania have become ground zero for President Trump and Democratic nominee Joe Biden's ferocious advertising campaign war."
+    publishedDateTime: 2020-10-16T17:17:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0LesidV8pvc/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-funnel-advertising-money-into-key-battlegrounds-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20276724903875.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign says winning this state is vital to clinching election"
     excerpt: "President Trump's campaign manager Bill Stepien predicts that the key to reelection lies with winning the state of North Carolina. "
     publishedDateTime: 2020-10-16T18:46:12Z
@@ -47,459 +79,309 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ivanka Trump campaigns in Wisconsin, Georgia 3 weeks before Election Day"
-    excerpt: "Advisor to the president Ivanka Trump visited Wisconsin ahead of a visit to Georgia on Tuesday for campaign events three weeks before the 2020 presidential election."
-    publishedDateTime: 2020-10-13T19:01:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UHYPbLv65Gw/ivanka-trump-wisconsin-georgia-campaign-stops"
-    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-wisconsin-georgia-campaign-stops.amp"
+  - title: "Top pro-Trump super PAC takes aim at Biden in new $10M ad blitz"
+    excerpt: "EXCLUSIVE: A leading super PAC backing President Trump's re-election is amping up a new ad blitz with a $10 million infusion on Monday to run the TV commercial in seven crucial general election battleground states."
+    publishedDateTime: 2020-10-19T10:00:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sq9yULbLE_M/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-super-pac-sheldon-adelson-biden-ad-blitz.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 189
+    quality: 190
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Ivanka-Trump.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8cbb0118-df6e-4597-abdb-87f5f36bab9e/25a7b3ac-b9f9-44f7-9a1f-64a06c7df3cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump faces deficits in Michigan, Wisconsin with days dwindling until election: polls"
-    excerpt: "With three weeks to go until Election Day, new public opinion polls in two key battleground states President Trump flipped from blue to red four years indicate that Democratic presidential nominee Joe Biden holds sizeable leads over the president."
-    publishedDateTime: 2020-10-13T01:18:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLcbP8c7mBw/trump-deficits-michigan-wisconsin-election-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-deficits-michigan-wisconsin-election-polls.amp"
+  - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
+    excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
+    publishedDateTime: 2020-10-15T11:35:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gzLonAcbMQg/trump-north-carolina-biden-fundraising-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-fundraising-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden campaign warns against complacency in memo: 'Donald Trump can still win this'"
+    excerpt: "The Biden campaign sent out a three-page memo to supporters Saturday warning that President Trump can still win and the race is \"neck and neck\" in certain critical battleground states, including Arizona and North Carolina. "
+    publishedDateTime: 2020-10-17T17:24:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-oNgDlBvPAw/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-warns-against-complacency-in-memo-donald-trump-can-still-win-this.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/peter-doocy.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden moves on court packing stance, while Trump spars with NBC in dueling town halls"
+    excerpt: "Democratic presidential nomineeJoe Biden said voters deserve to know his stance on Supreme Court packing before the election, while President Trump faced a grilling by NBC on the coronavirus, taxes and white supremacy in dueling town halls Thursday night. "
+    publishedDateTime: 2020-10-16T03:24:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xBhVvmmej2k/trump-biden-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-dueling-town-halls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 183
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70a16502-b86c-4e51-818f-c6da8c881474/43980fb3-be0d-4bda-a962-e4c9cdd3e0d9/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
+    excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
+    publishedDateTime: 2020-10-16T11:56:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fZAGRIwAL84/trump-stumping-florida-biden-michigan-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stumping-florida-biden-michigan-town-halls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Live updates: 2020 Election: Trump plans return to campaign trail after coronavirus diagnosis"
-    excerpt: "President Trump will be able to return to public engagements this weekend after testing positive for the coronavirus as the presidential race heads into its final weeks. "
-    publishedDateTime: 2020-10-10T08:32:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2uBt-_ofDFQ/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-2020-election-trump-plans-return-to-campaign-trail-after-coronavirus-diagnosis.amp"
+  - title: "Live updates: Trump, Biden campaign in Michigan, Georgia, Florida after dueling town halls"
+    excerpt: "President Trump campaigned in Florida and Georgia and Democratic nominee Joe Biden made two stops in Michigan on Friday, a day after the candidates answered voters' questions in separate network town hall events."
+    publishedDateTime: 2020-10-17T06:52:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NOJYRBgDE-I/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-trump-campaign-in-michigan-georgia-florida-after-dueling-town-halls.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 180
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3ca28c14-a2f2-4855-b50e-18e1f5843862/5c761fd9-b93d-4d98-b606-4f75385a0de0/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7aa3c96a-79ab-42ad-8df9-6a33109c53c9/2d092bf2-3ce5-46cb-86bc-8ce076a4071c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Election will be seminal moment in whether Trump administration, lawmakers secure coronavirus deal"
-    excerpt: "There is almost no way to get this done before the election – even if there were to be an agreement. Nothing has moved since May. But a seminal moment is coming: the election."
-    publishedDateTime: 2020-10-13T15:50:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r9gRnNla8D8/trump-congress-coronavirus-deal-election-seminal-moment"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-congress-coronavirus-deal-election-seminal-moment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-congress-coronavirus-deal-election-seminal-moment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Doctor says Trump no longer at risk of transmitting virus"
-    excerpt: "President Donald Trump's doctor said Saturday the president is no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T02:11:59Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfLteX3PRm0/doctor-trump-risk-of-transmitting-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/699756ba-97d5-4def-a0d5-355653e387c9/298b5b20-3ab3-42d1-b551-db529a0e6716/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Supreme Court sides with Trump administration to end census count early"
-    excerpt: "The U.S. Supreme Court on Tuesday side with the Trump administration to stop the census count early instead of allowing it to continue through the end of October."
-    publishedDateTime: 2020-10-13T21:33:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H55u4s1Kkc4/supreme-court-sides-with-trump-administration-to-end-census-couont-early"
-    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-sides-with-trump-administration-to-end-census-couont-early.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-sides-with-trump-administration-to-end-census-couont-early.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b44405f-bba6-4488-b5d1-0b568bb97020/d4f32897-b495-437e-b40b-e58eb4551a80/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump makes grand entrance at Iowa campaign rally"
-    excerpt: "President Trump made a grand entrance at a campaign rally in Iowa on Wednesday night, with Election Day less than three weeks away."
-    publishedDateTime: 2020-10-15T03:31:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eKqwl6rUhIY/trump-makes-grand-entrance-at-iowa-campaign-rally"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-makes-grand-entrance-at-iowa-campaign-rally.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/new-trump-limo.gif"
-        width: 600
-        height: 332
-        isCached: true
-  - title: "Trump says he knows 'nothing' about QAnon when pressed by NBC anchor"
-    excerpt: "President Trump told NBC anchor Savannah Guthrie on Thursday that he didn't know about the conspiracy theory QAnon, repeatedly pushing back on Guthrie's questioning about the issue."
-    publishedDateTime: 2020-10-16T01:00:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YKZzFHELk8Q/trump-qanon-town-hall-savannah-guthrie"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-qanon-town-hall-savannah-guthrie.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/975165a2-fc10-4664-96a3-0169282491b2/506a31f3-3bae-403f-9ac9-f3d8c23a6240/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Whitmer tells Trump to stop focusing on her, start focusing on pandemic"
-    excerpt: "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic."
-    publishedDateTime: 2020-10-18T20:55:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Audience member nodding along with Trump during NBC town hall goes viral"
-    excerpt: "A woman seated behind President Trump during his Thursday NBC town hall in Miami went viral on social media after she was seen repeatedly nodding along with his comments and giving a thumbs up."
-    publishedDateTime: 2020-10-16T08:18:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3lkYxDz_yyM/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral"
-    ampWebUrl: "https://www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/audience-member-nodding-along-with-trump-during-nbc-town-hall-goes-viral.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0c18bef7-e206-4acf-8424-db569f9653c1/92bf2a35-d45b-4298-a03f-36e0a0673361/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump campaign rejects Taliban support for 2020 reelection"
-    excerpt: "President Trump’s campaign has firmly rejected the Taliban’s support for his 2020 reelection."
-    publishedDateTime: 2020-10-11T15:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OirX2_6GXgM/trump-campaign-taliban-2020-election-afghanistan"
+  - title: "Trump and Biden, both in Florida, court crucial senior voters"
+    excerpt: "A new TV commercial by President Trump’s reelection campaign touts that the president is “the clear choice” for seniors, who are a key voting bloc in many of the battleground states that will decide the winner of the presidential election."
+    publishedDateTime: 2020-10-16T17:55:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2MyhX7yTozc/trump-biden-florida-court-crucial-senior-voters"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4ecc20d7-7866-4baf-909b-8dfa96bdb3e4/8336188e-a1b3-4dde-a9c1-36dc5d28ca4f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/TrumpBidenAP-PhotoPatrick-Semansky.jpg"
+        width: 996
+        height: 560
         isCached: true
-  - title: "Trump claims Nov. 3 'will be the most exciting day in US election history'"
-    excerpt: "President Trump on Monday said this Election Day will be “the most exciting” in U.S. history, touting the “tremendous excitement and enthusiasm” among the electorate, while mocking his Democratic rival Joe Biden, saying “nobody” shows up to his events."
-    publishedDateTime: 2020-10-12T15:43:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/G22ntFKhKm8/trump-nov-3-most-exciting-day-in-us-election-history"
+  - title: "Trump campaign kicks off Florida 'Fighters Against Socialism' bus tour"
+    excerpt: "Donald Trump Jr. made the first of four campaign stops in Florida at the Tampa Convention Center on Sunday, as part of a statewide bus tour, heralding the dangers of an ever-growing Marxist and socialist presence within the United States. "
+    publishedDateTime: 2020-10-12T20:43:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H7QRsZmgmHI/trump-team-kicks-off-florida-fighters-against-socialism-bus-tour"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 155
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284697508156-e1602516298978.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump-jr.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump hits Fauci, says his 'pitching arm' is 'far more accurate than his prognostications'"
-    excerpt: "President Trump on Tuesday took a swipe at Dr. Anthony Fauci, saying his “pitching arm” is “far more accurate than his prognostications,” as the World Health Organization has warned against lockdowns to combat the coronavirus pandemic."
-    publishedDateTime: 2020-10-13T16:31:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/O1lRpxX06QQ/trump-hits-fauci-coronavirus-prognostications-pitching-arm"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm.amp"
+  - title: "Biden Draws More Viewers Than Trump in Town Hall Ratings"
+    excerpt: "More than 27 million viewers watched the dueling town halls of President Trump and Democratic presidential nominee Joe Biden, according to Nielsen ratings."
+    publishedDateTime: 2020-10-16T21:12:00Z
+    webUrl: "https://www.wsj.com/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-draws-more-viewers-than-trump-in-town-hall-ratings-11602882047"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-246186/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Trump Stresses Economic Record in Virtual Speech"
+    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
+    publishedDateTime: 2020-10-14T17:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-244852/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Florida worker suspended for flying Trump flag from government truck"
+    excerpt: "The 61-year-old, who has been with the town government for over two decades, was accused of flying a blue Trump flag out the driver side window of the truck earlier this month."
+    publishedDateTime: 2020-10-15T21:23:00Z
+    webUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag"
+    ampWebUrl: "https://www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/florida-worker-suspended-trump-flag.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Pelosi says she doesn't want to sweep up 'dumpings of this elephant' after Trump presidency"
-    excerpt: "House Speaker Nancy Pelosi appeared to compare the actions of the Trump administration to elephant dung at the conclusion of a discussion that largely focused on the ongoing negotiations for a new coronavirus relief bill."
-    publishedDateTime: 2020-10-18T16:52:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kYo-KyfYwU/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
+  - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."
+    publishedDateTime: 2020-10-15T13:56:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 128
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c251c6b9-f9f2-416f-bad6-901654acb68b/68637113-7e51-4b05-97ab-90610f1cd213/1280x720/match/image.jpg"
-        width: 1079
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Women's marches storm NY, DC and LA protesting Trump, ACB despite social distancing mandates"
-    excerpt: "Women’s rallies against President Trump and his Supreme Court nominee Judge Amy Coney Barrett swept through cities like Los Angeles, Washington and New York on Saturday. "
-    publishedDateTime: 2020-10-18T00:13:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OpT7AEbUQ6s/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett"
-    ampWebUrl: "https://www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/womens-marches-ny-dc-la-trump-judge-amy-coney-barrett.amp"
+  - title: "Kamala Harris Cancels Campaign Travel After Aide, Flight-Crew Member Test Positive for Coronavirus"
+    excerpt: "Democratic vice-presidential nominee Kamala Harris is canceling her campaign travel through Sunday after her communications director and a non-staff flight crew member tested positive for coronavirus."
+    publishedDateTime: 2020-10-15T14:15:00Z
+    webUrl: "https://www.wsj.com/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915"
+    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus-11602770915"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288675179525-e1602784153869.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump rushing Barrett confirmation because of contested election fears, Durbin claims"
-    excerpt: "Sen. Dick Durbin, D-Ill., said President Trump nominated Judge Amy Coney Barrett to the Supreme Court to \"rule in his favor on any election contest\" during the opening portion of Barrett's confirmation hearing on Monday."
-    publishedDateTime: 2020-10-12T14:58:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0nDms90PTU8/durbin-amy-coney-barrett-confirmation-hearing"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Dick-Durbin-donald-trump-amy-barrett.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
-    excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
-    publishedDateTime: 2020-10-10T15:30:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKivqdpxy9w/ivanka-trump-returns-to-arizona-on-sunday-for-campaign-event"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20274795229924.jpg"
-        width: 2000
-        height: 1264
-        isCached: true
-  - title: "Trump indicates he no longer has the coronavirus, says he is 'immune'"
-    excerpt: "President Trump on Sunday indicated that he is no longer testing positive for the coronavirus and claimed that he is now \"immune\" from the disease as he is set to rejoin the campaign trail soon. "
-    publishedDateTime: 2020-10-11T14:47:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/piGorazzxjQ/trump-sunday-morning-futures-interview-coronavirus"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284714411056-e1602427318571.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Twitter adds warning to 'immune' tweet by US President Trump"
-    excerpt: "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus."
-    publishedDateTime: 2020-10-11T20:38:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
-    excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
-    publishedDateTime: 2020-10-09T12:40:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0eV-uFkk29w/pelosi-25th-amendment-trumps-health"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e8fe0b7e-de00-4adf-85ab-a113f04cf158/ec0cb441-0df6-492c-97c3-b8ff9080d625/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ninth Circuit court rules Trump can’t divert military funds for border wall"
-    excerpt: "The 9th Circuit Court of Appeals on Friday ruled that President Donald Trump could not use emergency powers to divert $3.6 billion in military constructions to building the border wall, dealing another blow to the president’s signature 2016 campaign pledge."
-    publishedDateTime: 2020-10-12T19:47:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UKQP5mMFY2M/ninth-circuit-court-trump-cant-divert-military-funds-border-wall"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20277547402018.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Trump to hold first in-person event at White House since getting coronavirus"
-    excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."
-    publishedDateTime: 2020-10-09T19:49:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R4i4SBnbFh0/trump-to-hold-first-in-person-event-at-white-house-since-getting-coronavirus"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 152
-    images:
-      - url: "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Victor Davis Hanson: Trump must make election about class, not race"
-    excerpt: "We already knew that identity politics is an effective, maybe the most effective way to get Democrats to the polls in an election year. That's why they do it. What we learned last night is that identity politics has a bigger purpose."
-    publishedDateTime: 2020-10-10T21:46:00Z
-    webUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race"
-    ampWebUrl: "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab281d45-8c11-4bd0-8b40-7067347c261a/d9a98de5-8731-421a-851e-211aab65eee2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day"
-    excerpt: "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our"
-    publishedDateTime: 2020-10-13T13:18:00Z
-    webUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/"
-    ampWebUrl: "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Lara Trump: It appears by all accounts the president is clear of the coronavirus"
-    excerpt: "President Trump gets back on the campaign trail, facing an uphill battle against Joe Biden. DONALD TRUMP, PRESIDENT OF THE UNITED STATES: This is the single, most important election in the history of our country."
-    publishedDateTime: 2020-10-11T20:44:00Z
-    webUrl: "https://www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/lara-trump-it-appears-by-all-accounts-the-president-is-clear-of-the-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3adaab2-06f0-47ce-ac5b-0b8ad3188a11/c13f59d4-407f-439e-969c-06b9986355bf/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Arnon Mishkin: Trump reelection in trouble, polling indicates — race is referendum on him"
-    excerpt: "Following his debate performance and hospitalization with COVID-19, President Trump continues to trail former Vice President Joe Biden in national polling in their presidential race."
-    publishedDateTime: 2020-10-10T23:33:00Z
-    webUrl: "https://www.foxnews.com/opinion/polling-trump-election-arnon-mishkin"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 121
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81202508-7b03-4a6b-ae69-4308c016af33/d037b5e2-486b-4fdf-9e57-1e6048897a4b/1280x720/match/image.jpg"
-        width: 1079
-        height: 720
+      - url: "https://images.wsj.net/im-245286/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "McEnany praises Trump for fast-tracking 'landmark' COVID vaccines"
-    excerpt: "Breaking tonight, the Trump campaign is tellingFOX News that President Trump does in factplan to participate in the October 15th debatewith Joe Biden.  And at this hour, the president is back at the White House as he makes a speedy recovery inhis battle against COVID-19."
-    publishedDateTime: 2020-10-10T21:27:00Z
-    webUrl: "https://www.foxnews.com/transcript/mcenany-praises-trump-for-fast-tracking-landmark-covid-vaccines"
+  - title: "Kamala Harris has technical difficulties signing in to Amy Coney Barrett confirmation hearing"
+    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, had a tough time on Monday when she experienced technical issues while trying to remotely participate in Amy Coney Barrett’s Senate confirmation hearings."
+    publishedDateTime: 2020-10-12T19:24:00Z
+    webUrl: "https://www.foxnews.com/media/harris-tech-issues-barrett-hearing"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 115
+    quality: 104
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f4c81e3-648b-42f4-9aba-da8137e0836c/9b4e0855-b997-4112-8eab-a9209e2e174b/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6efa3b6e-e72c-4aed-b985-e65c63c2ae50/00a37f4e-77a3-4ef4-9fd9-d3c300d9e39b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump Is on His Way to Victory -- Because of the Trump Miracle Economy"
-    excerpt: "Of course, President Donald Trump is headed for another election victory on Nov. 3. Why should anyone be shocked? Trump is proving once again why he's the GOAT (the greatest"
-    publishedDateTime: 2020-10-18T04:01:00Z
-    webUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297"
-    ampWebUrl: "https://townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/wayneallynroot/2020/10/18/trump-is-on-his-way-to-victory--because-of-the-trump-miracle-economy-n2578297?amp=true"
+  - title: "Judge Barrett Wrecks Kamala Harris Under SCOTUS Questioning"
+    excerpt: "It's been a long day on Capitol Hill but Democrat vice presidential nominee and Senator Kamala Harris finally got her turn to go after Judge Amy Coney Barrett during Supreme"
+    publishedDateTime: 2020-10-14T00:05:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019"
+    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
     type: article
     provider:
       name: Townhall
       domain: townhall.com
     quality: 85
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/288/c05df06c-70eb-450d-bd63-289fcc4e787d.jpg"
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
         width: 650
         height: 340
         isCached: true
-  - title: "Record Black Voter Turnout Will Fire Trump, Save Lives"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-10-13T11:39:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/13/record_black_voter_turnout_will_fire_trump_save_lives_526190.html"
+  - title: "Will the Media Defeat Donald Trump?"
+    excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
+    publishedDateTime: 2020-10-18T12:08:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/18/will_the_media_defeat_donald_trump_144476.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "Trump Is Doing Exact Opposite of What He Should Be Doing"
-    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better. During the last 4 years, the American people have seen the mighty attempts at legislative overreach as practiced by Pelosi,"
-    publishedDateTime: 2020-10-15T11:29:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/15/trump_is_doing_exact_opposite_of_what_he_should_be_doing_526384.html"
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/524419_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Watch Live: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-15T22:10:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
-  - title: "Trump Says the Quiet Part Out Loud: He's Losing"
-    excerpt: "RealClearPolitics"
-    publishedDateTime: 2020-10-18T11:41:00Z
-    webUrl: "https://www.realclearpolitics.com/2020/10/17/trump_says_the_quiet_part_out_loud_hes_losing_526678.html"
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
+  - title: "Full Replay: Donald Trump Town Hall With Florida Voters Hosted By NBC"
+    excerpt: "At the same time Democratic presidential candidate Joe Biden is having a town hall on ABC News, NBC News hosts a live town hall with Republican presidential nominee President Donald Trump, moderated by Savannah Guthrie,"
+    publishedDateTime: 2020-10-16T23:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/15/watch_live_donald_trump_town_hall_with_florida_voters.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 45
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/51/519720.jpg"
+        width: 1020
+        height: 764
+        isCached: true
+  - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
+    excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
+    publishedDateTime: 2020-10-16T13:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/52/524286.jpg"
+        width: 928
+        height: 696
+        isCached: true
+  - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
+    excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."
+    publishedDateTime: 2020-10-15T14:55:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/kamala-harris-engaged-in-non-essential-travel-and-now-her-communications-director-has-covid-19?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 53
 
 secured: "lIp2WRWINCDpoj9cHUw9NkC5NxQstNo2e1dXQ6Z9W1iUmLiNW+qt1S74h0oLDxvGK7B95fUDJTo70cjqwPk/fnmtcA+bOYjKQ+UfKe3sAZFmi0mVsnm6Zh/+1WJcHC4q/+QRdaHU3rkrDN+tRDsL365/RS2abFKFX5NKeVOSDVgKeuuPMzxaN/X0DZIawqj79EDUb+qcUYy7KWsX+lX2HSQaoh1fvt02uB52n4fhT4jhvCYT0MlfxXkybUzKNPX7UMOssvWVc1lGkaoy+pc7+1vuT82ZhDmh4iVZPwrysxddrkMAt5ON9kJSGm7IvvsRuIlaJnavXOSALwMuRwE7uoWfQUOQoBo9Z5P2SVfzOZs=;+oXC/dTj7NH8bsJ/LNm5CQ=="
 ---

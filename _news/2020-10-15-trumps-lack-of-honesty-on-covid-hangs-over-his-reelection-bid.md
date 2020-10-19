@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1530
+heat: 1570
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 185
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191650-03-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Democrats hatch plans to counter Trump's attempts to cast doubt on election results"
+    excerpt: "Behind the scenes, Democrats are preparing to confront President Donald Trump if he loses the election next month to Democrat Joe Biden -- if Trump claims that the result is rigged, refuses to engage in a peaceful transition or tries to challenge the result through the courts, Congress or statehouses.\n"
+    publishedDateTime: 2020-10-19T10:31:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mpnG6y10W1w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/election-results-2020-democratic-plans-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/election-results-2020-democratic-plans-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -702,6 +718,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_36/3347846/200513-convalescent-plasma-al-1003_b370ed0b3300074d0dbe464cfb44dbcb.jpg"
         width: 2500
         height: 1709
+        isCached: true
+  - title: "Fauci says he's not surprised Trump contracted Covid-19"
+    excerpt: "The infectious disease expert told \"60 Minutes\" that the president \"sometimes equates wearing a mask with weakness.\""
+    publishedDateTime: 2020-10-19T11:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/fauci-says-he-s-not-surprised-trump-contracted-covid-19-n1243857"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243857"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243857"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421152/201019-dr-fauci-mc-1148_8ca083f9723427d6cdb9c68d82d691ab.JPG"
+        width: 2500
+        height: 1473
         isCached: true
   - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"

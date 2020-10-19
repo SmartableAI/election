@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
-    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."
-    publishedDateTime: 2020-10-15T13:56:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 128
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
     excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
     publishedDateTime: 2020-10-12T18:45:00Z
@@ -71,22 +55,6 @@ related:
       - url: "https://images.wsj.net/im-243696?size=1.5"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Judge Barrett Wrecks Kamala Harris Under SCOTUS Questioning"
-    excerpt: "It's been a long day on Capitol Hill but Democrat vice presidential nominee and Senator Kamala Harris finally got her turn to go after Judge Amy Coney Barrett during Supreme"
-    publishedDateTime: 2020-10-14T00:05:00Z
-    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019"
-    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
-        width: 650
-        height: 340
         isCached: true
 
 secured: "fV5QZ8s3tcMkYxyYNmrhmAZg5vyQKPND82bVgpuOgSYEBmpECIZyDb0OttlD80Rd4yz6oJ7CF9OBwmECa85ynZWJCsZylb6AE2LbOzz+urwcQ7fVcaqQKCg7b8mYZYzKTgE9XqYu9sZR3qDWj9qHURKUn46xuma/sV181IgLze6uhiwpZbky/o7O9EaYX+LvXBX20+VtqZ9VyiI+/T0/rgBqXVISxgTbLI9BD++Q+k0AgTDxM/ena5Oqs5PNwVsSrB+nyHt9OdbmMyNGHTnHkvBl9Ah9eDnVdRim8dTTIuf9tiAVzwDROehugNHbAVQU+W0NHvi9Ojzeh/qPh589XxBX3NddTdRR1DSvrRIgro0=;u/sAQiKlMRvEnVBDgZisBQ=="

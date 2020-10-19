@@ -4709,6 +4709,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump and Pence are leaning into a dangerous rhetorical political strategy: communications expert"
+    excerpt: "After the debate between Sen. Kamala Harris and Vice President Mike Pence, commentators contrasted Pence’s reserved demeanor with the belligerence President Donald Trump exhibited in his debate with former Vice President Joe Biden the previous week."
+    publishedDateTime: 2020-10-19T10:26:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 87
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
+        width: 800
+        height: 412
+        isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
     publishedDateTime: 2020-10-06T16:10:00Z

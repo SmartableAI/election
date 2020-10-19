@@ -4711,6 +4711,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Trump and Pence are leaning into a dangerous rhetorical political strategy: communications expert"
+    excerpt: "After the debate between Sen. Kamala Harris and Vice President Mike Pence, commentators contrasted Pence’s reserved demeanor with the belligerence President Donald Trump exhibited in his debate with former Vice President Joe Biden the previous week."
+    publishedDateTime: 2020-10-19T10:26:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-and-pence-are-leaning-into-a-dangerous-rhetorical-political-strategy-communications-expert/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 87
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
+        width: 800
+        height: 412
+        isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
     publishedDateTime: 2020-10-06T16:10:00Z
@@ -6874,6 +6890,6 @@ related:
       domain: miamiherald.com
     quality: 44
 
-secured: "seI1lYQkbZPg1TqdXA9xDqLOsEHsTHSOYzQ4VW8KxG+oM13wYZICBI6dA+MXiUbW3KXYqrIuXn+O/jRqXJf9tRDyyoau/FZIORO69phUOW3SzT3KV6mAdMKkX1EBhuCSVFOVTeT1TxwiK0PJfgM+mJbJKFCPpbzGeKDh+Nd/yeHM4jDi9EZxcw+vo/jE38Ur3dvhJznZN2mfTjxW6Fo4gakFqKIWPzJNVLKRuT7Ubo4MEdSNvba08FinbZkCwdakL+y0WKJP10Ujp29ff565Aco3aFM/6g8KZPqFbl9lnxMS3aaqd5XmR01JRSsAnCTm17GbuEHV3L+2zQo3jeYvoo8aSf3Am9GPR7+keqUk/9k=;x9JETcrKUu0L4h+ow7GZFg=="
+secured: "t4oqLB+Rs4IWTB5jh4Dm4kNV4DpejpFQhxDd+pqdyycDvcRJsV7rbipTjv8+WT39BZ3TgSnbxh0+U+qLhgLi64+fWwvRmJpge8jRHOKVqncx/7+if2nCofW0fxozlN/51E0mPN7x6TUgGB7WTbYsLqogXqnoEClKOU0O/e+x7dtMiTe4nvKvo203UIuS8FnDiS5hoEfX80V9bE3+J+Cq9ql1dMjtA+u79LsBkjavG/hJPnlO8YLb14mzU7WiSMrf6fpokTHQVfmq1c9az5PPcPYHjycnW9exNCGUIXMwTx6f0bTtFyOZURfz4+8LFbP8Bcf2QVB33E637xEKPOqMMhiNN0zyEIlsnq8AlrQa6fSxlnhsAJNAftdQDfrYhvNI5UvoE8OVZgT4cv3gY/fRlTKKHnK2iz6QtGyWNgaJ7iALk3fp3io3Cvp0GSrj2mZZN+qxBCOTEFMGWApbteM3TYuu5Qj/uTa5ZenMXUK8XEYgoXwueyU0bmh29XE2jgHuxOiSbmXo3OgfPg9I5rLN0g==;pVx7IvUhIjKleWxNntErdA=="
 ---
 

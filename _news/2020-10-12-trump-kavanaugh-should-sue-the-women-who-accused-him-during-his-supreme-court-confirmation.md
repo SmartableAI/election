@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-says-kavanaugh-should-sue-the-women-who-accused-him-during-his-confirmation-to-the-supreme-court"
 type: article
 quality: 144
-heat: -1
-published: false
+heat: 184
+published: true
 
 provider:
   name: Fox News
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
-    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
-    publishedDateTime: 2020-10-11T12:33:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
     excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
     publishedDateTime: 2020-10-06T06:58:00Z
@@ -58,6 +44,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Jimmy Dore to Trump: You Have To End These Wars Now, No Excuses, People Need Help"
+    excerpt: "Jimmy Dore, the host of the Jimmy Dore Show, made an impassioned plea directly to President Trump Monday night on the Tucker Carlson show, wondering why the president doesn't follow through on his promise to end the war in Afghanistan."
+    publishedDateTime: 2020-10-13T14:17:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/jimmy_dore_to_trump_you_have_to_end_these_wars_now_no_excuses_you_promised.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
+    images:
+      - url: "https://assets.realclear.com/images/51/518919.jpg"
+        width: 902
+        height: 676
         isCached: true
 
 secured: "KDKr6Lkq7r7YBnT2juUmLLNjksGsWmziSETvYSJ25MvfTBHbRY3cyuODG9uFTLhaJNvRX6UWx6EwxiT46rj9KkpsaQcDAEswjcm5OEhA+Sz1keUwoZa98K/W0HtIgx0Vk5+o53YhOrYLIpmIbmaFzzB0iOj7JKYqD1xuieMh6GBtnjFj7WNuioQq7xZCWf+L8G+BqpTOHknBvFJA6pP403J3zls8e7IXLHDquw8nYkaPnhVMToF5cnvSdBK/c6VtkByN2NQPvowHatn5dZvZ9MFDVw0VhYjLniXo/9morfHqMlCgcazGBGDcaMDtL0PaRjWNekt0mbWUAPcwz2djs8VcUnvMiwQ7haJ4QUTpOuo=;ba3hcnHrdnrmW94TQQghyw=="

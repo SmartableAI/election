@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.lansingstatejournal.com/amp/3656442001"
 cdnAmpWebUrl: "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Lansing State Journal
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
+    excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
+    publishedDateTime: 2020-10-15T01:55:00Z
+    webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
+    type: article
+    provider:
+      name: 11Alive
+      domain: 11alive.com
+    quality: 85
+    images:
+      - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Mike Pence rallies in Grand Rapids: 'Friends don’t let friends vote alone'"
     excerpt: "The Vice President spoke to a crowd of 300 at Lacks Enterprises in Grand Rapids, delivering remarks for more than 45 minutes."
     publishedDateTime: 2020-10-16T02:20:00Z

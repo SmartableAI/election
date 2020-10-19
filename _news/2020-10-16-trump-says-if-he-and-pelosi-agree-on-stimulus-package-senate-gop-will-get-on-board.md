@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp"
 type: article
 quality: 169
-heat: 249
+heat: 269
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pelosi says she doesn't want to sweep up 'dumpings of this elephant' after Trump presidency"
+    excerpt: "House Speaker Nancy Pelosi appeared to compare the actions of the Trump administration to elephant dung at the conclusion of a discussion that largely focused on the ongoing negotiations for a new coronavirus relief bill."
+    publishedDateTime: 2020-10-18T16:52:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kYo-KyfYwU/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c251c6b9-f9f2-416f-bad6-901654acb68b/68637113-7e51-4b05-97ab-90610f1cd213/1280x720/match/image.jpg"
+        width: 1079
+        height: 720
+        isCached: true
   - title: "Pelosi, after a year of not speaking to Trump, says talks don't have to be 'person-to-person'"
     excerpt: "House Speaker Nancy Pelosi on Friday confirmed that she has not spoken to President Trump for more than a year -- as she negotiates with the White House on a stimulus package through Treasury Secretary Steven Mnuchin."
     publishedDateTime: 2020-10-17T21:12:06Z
