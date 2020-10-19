@@ -3,14 +3,14 @@ name: "Joe Biden"
 bio: "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak"
 location: Wilmington, DE
 type: "profile"
-heat: 727
+heat: 687
 
 website: https://joebiden.com/
 
 twitter:
   username: JoeBiden
   url: https://twitter.com/JoeBiden
-  followers: 11012537
+  followers: 11182059
 
 topics:
   - Election
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Joe Biden"
 
-secured: "Xjz+0JmpM6EwvtNfdIhbQQSV5bE3K7S+FxKOkqKcL9fKMP0PttCNZ42OGWwGyvQxta2Y/chAm9ThnpFiWAgjp7l3BAWPBCHCq4EM61Y4BbSRac8eKWKEW3ooOLV4bJHmZ7Stzd7wejXC4P9QOrw9dV6sD27Z1rotX0sMGh/cacZq9cb4KrKvQSEami5ilmNm+HdvxBGFVChjiFpNztFpH8E+8FaQp4lBCEy0aO6+mKbQdksxnWTettZ5h9gek0PFYhsi3k5gztuBoEUIWge5R8sWIVJQQINAon2b66P4E+dNZ7rY5XOAvH2OtphHh+UmdGU7ryzVcjPOBBadSzW+GFqz0wfERmWLdFBhwZ1o0dYBe1riSGDqyROx5yXeeHK380ljB+rJHlG0RtvuDwKvoEJAX6C+qe5YF9Fmo4hCA9Y=;eoOPlsLx0sFQdUoPE/jbsA=="
+secured: "82lbXzk7MLXAD1naumoMGdB1cXAUSMv0oQy9HUuYZ9ZDJYH7b+5B8DH7YsTxcgNpg7zupTy/SZXQTlSnh90V/Gyw8AFRowKh/nlFt9vS29/UP2/sdImtlifuWEd0fsElr7bpDzmhvhsjEV39Lib5fm/iqUzTL5s8tuMqY4YBwYBxAoF4EZO+ypD84AYzL547ErApmgAM1V3zfu9qBCDkEuZ2Bcwx4tN7w9BogTqgxRJFyc+mYcN3fpMnltJt78K+SHLUfx0eDVZDicmtZyUjAJrLY2IOCLc7NTOw4GiSvsDolH9EbC4vIhRgmreYIhR5VZtYaTfoV7Q2ttQXLVGuWv11x+SgFkvAGYokMtP6etxx6ogssJu/1QVo5UIyH8XobxWrjVCH9paGqy3Bc/m+9bcwBVp/0zLHBNRKmp7utqE=;6Zmjs5nw3sMJJuRFmuF5hg=="
 ---
 

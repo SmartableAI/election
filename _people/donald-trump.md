@@ -3,14 +3,14 @@ name: "Donald Trump"
 bio: "45th President of the United States of America🇺🇸"
 location: Washington, DC
 type: "profile"
-heat: 709
+heat: 588
 
 website: https://www.donaldjtrump.com/
 
 twitter:
   username: realDonaldTrump
   url: https://twitter.com/realDonaldTrump
-  followers: 87241591
+  followers: 87284157
 
 topics:
   - Election
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Donald Trump"
 
-secured: "KCugNKJfpleLBkyvpGBk6BWIevYUlCJI5/4/ZBGfCwJInvhts73Y2/JkSzFHDzUtypGTUnfRqrFoWYjop+WRgiyoOmmMOzCayKDGOTfCfyApuBtlEPfX51/DnQtLTY8/KFHhfAE6E9kSOOa/+yp24s8kaIZzYaLEDKtSgfHeWhPyv5CzjqetQBncRDhfLkL/p+oIn5bHhw98L2BY/1uPehC+JyhQLcK5VJNuk+s4fL06UQRCvOSLgY18IblhdJnvFtymGf2D7V9swGqrQFOKhdc0qMsid3uQwO21m+M74iSaiYzywr3a/uAeSNh1mnKqV2suGVqQx108+j4skPo3ALFVwrDV1XzmtPa65tLwb52w2oje2zl/UCw6TUcmLzzUxqby6dhC5BPV4euWNmnV+UzvjK4Jk2aqZFuQkPhvCXs=;Q+5RS+RqmCHdSZhLW6gomQ=="
+secured: "wfXuXxCAXIhNF6fouIqCFCEd5m5ipq6VV4LrljslQQnP+rrQHQj3kM6+gFkGCHN1tdKXFvAQC2Xgkpug+CXfoJNN+ynzizV3Qt0f0Cro3LNmcSvfNJkHY+EEsoa6HeVIiRNi1W7RyWfCqnHsMLOYeKe5zNa7BxGd1B3jyaxQQwjP7Iv7UNJu/7unTg4WzytUaAFg7Z+8Vf59+vHM37sEPU9f0tOtJJX8kT8qRo9QZTaiFJvv0k2Px733jfaCyDDYR979ekLD6Nm/npM4Mg4fmhJppPwJf48gDE6P6lQbbXal2D0Dx+tvQoitGwNWWWjMiAj3k02bycL+954JxtGRu0JpQWa91+db6S0+C+hJAC/c37ccDPuICNEUJ8LEKTeP45MVxWTp4bf+Ixh2wmoDh09D47eTUucRxkEekBnYGKo=;9DFHG8Hcp4x5U1KDSSSYgg=="
 ---
 

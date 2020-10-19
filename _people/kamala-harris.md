@@ -3,14 +3,14 @@ name: "Kamala Harris"
 bio: "U.S. Senator and Democratic candidate for Vice President of the United States. Wife, Momala, Auntie. Fighting for the people. She/her."
 location: California
 type: "profile"
-heat: 686
+heat: 666
 
 website: https://www.harris.senate.gov/
 
 twitter:
   username: KamalaHarris
   url: https://twitter.com/KamalaHarris
-  followers: 6563031
+  followers: 6689014
 
 topics:
   - Election
@@ -24,6 +24,6 @@ images:
     isCached: true
     title: "Kamala Harris"
 
-secured: "VfnSb54dmY/XxUhBXq5/PCAoAcmz1d2x91s3XhAf8pHf76mN812cpk5SwtMEhHABWklWKwlV3ADTq5AfsxyOizMo6DHwmoM0/X0jcLgkwOOSjKDo942rE/Spcf3hCIyGr8phHljG8S3lrr1/lg78nVR92s06qXsRGDWedv1sEOU4HNJMD60cBVbBugv0m3Izwgi76THCD2E/VDaWLyEPlIYj/0Eq4jyMcHrQ75Ao7gAz3Mnomwyy+a8LJtT6Mkad/yXHyWVh8VvKF34QcjYlxVx6YS+ofNaR9Hn1nYAAYvopC66RaiHwn2A2wAILkx8i3gdsV5tqOUV++zhdKznBukLlHOC6jF6EUnFQZxrUmxteHoo2+OnA1kOWS3uhMd4m1qPG4O2oPBWBrUBYrrZ+Cl67TId4QLMk0OHnz1GGYJk=;e35Q1avLTa85+Sx4i3pxDg=="
+secured: "Bm76DUCk/ogsZmNYhD43pbD2V316d2jpSmzPHF/loSSTy/A9nF15tPJFO1WdC0dJ8TTBOQVttBxZH6ACUyufAVkNegs9TaRLlKt4pebXwoaQWBHUeeoMErj2br71UvjecxwmzYlqA4ATPJ26VkKPThEFbVPL4cT1zzQ6Mct6iPk8BDAttia6IlNMv/eA32kCd3gToEB8wlJZyaJcaBZslwl6JXctr1xPs3qxVVbIXodNAtEibAKJbwZy8vXa2KtX6CACr3YWsvcW0W9cYdFSUaPbuAYQOs3ZzF75gvKdVvaHlM21JTCmVsMXTPccfsiUh5xNdl015LheHJPchxMDrcKTCVnzstdpRsk4MtLpgaDQ39uU0/h3B62fEmsCaUBeXFlMF0zRJ9H1iZbv/1/qotQHZ8p9CYm3y2qUcU8j2hg=;aSXACModnRP8BnOCisqTEg=="
 ---
 

@@ -3,14 +3,14 @@ name: "Andrew Yang"
 bio: "2020 US Presidential Candidate (D). Entrepreneur & Founder of @humanityforward My book: http://bit.ly/2POZplk Join the movement: http://movehumanityforward.com"
 location: USA
 type: "profile"
-heat: 458
+heat: 439
 
 website: https://movehumanityforward.com/
 
 twitter:
   username: AndrewYang
   url: https://twitter.com/AndrewYang
-  followers: 1707574
+  followers: 1712970
 
 topics:
   - Election
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Andrew Yang"
 
-secured: "y07FqtnyCUGJnGlYZfJPrjX7L3t409VLQVF0f6g7I+h/m6i0vfzVC27eVKwgg8qVpHTzWk4nLIJHgtA0STeiKYBh2/hmC5yDrcEW0IfbqL6ih8CEuaeHFXHZWcNWdENyBbEbHKbCpqiH4fv1zOA+VdzvAYuYf/qJSi650k/Cofd8llKR3wj1xpVkhG1y2fT2Dmf7Td69boL1lrwiX5HBKiuNMTyJyL1vMZAf37ccseZhGetlf9DcZlx9q3IuUsAEPIzFSyOhAUCfANxf17zwm76wucK9macZxj7tquKcorYRiP0kvjoYmcL8HenDxFizmng6eiOyD0ZT4GVjpniIYBRuw/bpd1x3HDlxWu9tbiAexXpPzZOJ7lzxDysnKxCk7+ouN0bmBBGBzO3vx3ycB6YGoNE+y41vhKnpGkgaLpo=;8AQIrOyzPhJScdwH3JTakQ=="
+secured: "cItPG7NuIUjDchs78cAdlDrsE4kq7LyyvQIOLJltGjozJSgnlrrVMHNshns4+/TnxykzmAwKu0I+PSVYuZMlilOHozhheM/LElAh8I9QAHOXaNmH31/6SZgm3lKUhJ+bg+EZdLkumMUw3PlrnOeoLEaEK0Oeji6FkYRge5X+Oe1oEaQbs47IOkztv8EO7TVAIkYFiENrkYlC+f8UWfBNgpeOD53AfGGHtPtNiZmA4r4KAWUcWs8pAV1pc+NHWLKJuqlxxnYBjGBsQQrAdc/YvkFWIuPVPwg4586suSHfkhRuu8FfUWRxMJ3slziz3eBtem9Z4XtxWdDpt7p7HZTrfMz7D7MtMk1Mi0aHsdS+DIuvgQzkRk1gun0pYE2U2gvJpJVSzOary0I8FiIezExz+nHp6aihAgCiVQPaN3z1cK8=;Gc44V3+RKxs6aWsSTi4YRg=="
 ---
 

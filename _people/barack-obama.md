@@ -3,14 +3,14 @@ name: "Barack Obama"
 bio: "Dad, husband, President, citizen."
 location: Washington, DC
 type: "profile"
-heat: 705
+heat: 703
 
 website: https://www.obama.org/
 
 twitter:
   username: BarackObama
   url: https://twitter.com/BarackObama
-  followers: 123801390
+  followers: 124010617
 
 topics:
   - Election
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Barack Obama"
 
-secured: "ZTFCziQUZS6kxP97jZSQWve7gHvmSuWbLnJaz8f3h7T/NyC3qA/82mLJvx/rSElA1qqntG3wwVeKGwMKlhMS5ZU+0IjDh4mtdftuhIybEAYZFkFysIz/vr92kVRW54q/9n4rMukRxZh+sbEpPNuLb5hb/itloUe7RqralvKpW++J9jf1Kx5gZzjnOU1Zg3/bwFCXrKwRlpd2+O0A8bqBoj43w3PHooIC0nZhIBQZ2Z3YVJRTHwVI8u7cpDorn7f2Xa/16Pn0+oHzd49ArSImdbtg997JJDB2ODECTKepfYrnzjjNhvP1aE21x5fOItCFe6bzFh61rMBgoBt84n8AiaK4cSba2wAXnkqSJHPhfZ9rnNeanh89WVSXvVcaVRI3viElhVm04aqzwPXY1P3ssOWeBHqQDgkdk+hztmLxVNM=;VPoV5gsAvkod1UPIuZQACg=="
+secured: "zgKos1g2WyaTT3ioWO8n4984NJU9K2DexQeoXnvpBBBqiPEgmKBaE15P9Y9B+5h474DcqBer16RZzaQzTIMaPDYeXLsv3VyhDzG4aZwJYhlXbbQdO9DSUr2R3vkfK2lqKak02YQKcUUZqcKBjNPavk6aTW+GM6n+Bu59gR+voN8/H/PbvlkKXNn+T8YSY+30Q9TZY8jGB2y15o9QvvD8Yihen2LSowNtijFGhLeToAlco+0Zxifg/UpnJokvYzxg/+I66ykboHGyFHilzaC0KBGk/cah332ICxpMZienVGkKGSCjBD/MqoQVJ3xDqnWipA+NKi/FpLTag9b8iTuCtxHfdHgITmV29Ojay1CezdTWohss8s2Jlv4VX6TUpD3x2wxmmUkRn5jUn88d/JRArwt6J7IwnVvmlqxyxb30I44=;D26IUJGgPeOBC33hudc+ng=="
 ---
 

@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/joe-biden.md",
-      "title": "Joe Biden",
-      "excerpt": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
-      "sourceUrl": "https://smartableai.github.io/election/api/people/joe-biden/index.json",
-      "webUrl": "https://smartable.ai/apps/election/people/joe-biden/",
-      "type": "profile",
-      "name": "Joe Biden",
-      "bio": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
-      "location": "Wilmington, DE",
-      "website": "https://joebiden.com/",
-      "twitter": {
-        "username": "JoeBiden",
-        "url": "https://twitter.com/JoeBiden",
-        "followers": 11012537
-      },
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Joe Biden"
-      ],
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 727,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Joe Biden",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/barack-obama.md",
       "title": "Barack Obama",
       "excerpt": "Dad, husband, President, citizen.",
@@ -55,7 +17,7 @@
       "twitter": {
         "username": "BarackObama",
         "url": "https://twitter.com/BarackObama",
-        "followers": 123801390
+        "followers": 124010617
       },
       "topics": [
         "Election",
@@ -66,13 +28,51 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 705,
+      "heat": 703,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Barack Obama",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/joe-biden.md",
+      "title": "Joe Biden",
+      "excerpt": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
+      "sourceUrl": "https://smartableai.github.io/election/api/people/joe-biden/index.json",
+      "webUrl": "https://smartable.ai/apps/election/people/joe-biden/",
+      "type": "profile",
+      "name": "Joe Biden",
+      "bio": "Senator, Vice President, 2020 candidate for President of the United States, husband to @DrBiden, proud father & grandfather. Loves ice cream, aviators & @Amtrak",
+      "location": "Wilmington, DE",
+      "website": "https://joebiden.com/",
+      "twitter": {
+        "username": "JoeBiden",
+        "url": "https://twitter.com/JoeBiden",
+        "followers": 11182059
+      },
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Joe Biden"
+      ],
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 687,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Joe Biden",
           "isCached": true
         }
       ],
@@ -92,7 +92,7 @@
       "twitter": {
         "username": "KamalaHarris",
         "url": "https://twitter.com/KamalaHarris",
-        "followers": 6563031
+        "followers": 6689014
       },
       "topics": [
         "Election",
@@ -104,7 +104,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 686,
+      "heat": 666,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1093306247766515712/MBaqSY2M_400x400.jpg",
@@ -130,7 +130,7 @@
       "twitter": {
         "username": "PeteButtigieg",
         "url": "https://twitter.com/PeteButtigieg",
-        "followers": 2340174
+        "followers": 2398298
       },
       "topics": [
         "Election",
@@ -141,7 +141,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 593,
+      "heat": 610,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1296843982740361217/EaG1ATqj_400x400.jpg",
@@ -167,7 +167,7 @@
       "twitter": {
         "username": "BernieSanders",
         "url": "https://twitter.com/BernieSanders",
-        "followers": 13148530
+        "followers": 13179065
       },
       "topics": [
         "Election",
@@ -178,7 +178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 574,
+      "heat": 564,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_400x400.png",
@@ -204,7 +204,7 @@
       "twitter": {
         "username": "AndrewYang",
         "url": "https://twitter.com/AndrewYang",
-        "followers": 1707574
+        "followers": 1712970
       },
       "topics": [
         "Election",
@@ -215,7 +215,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 458,
+      "heat": 439,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1282151845364932608/pBpRlBlt_400x400.jpg",
@@ -227,6 +227,5 @@
       ],
       "content": "\r\n"
     }
-  ],
-  "nextPage": 2
+  ]
 }

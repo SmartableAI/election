@@ -2,14 +2,14 @@
 name: "Mike Pence"
 bio: "Vice President of the United States"
 type: "profile"
-heat: 595
+heat: 590
 
 website: https://www.whitehouse.gov/people/mike-pence/
 
 twitter:
   username: Mike_Pence
   url: https://twitter.com/Mike_Pence
-  followers: 5371915
+  followers: 5415862
 
 topics:
   - Election
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Mike Pence"
 
-secured: "xmSzv08azuOYc/YtcSTrQMInlRUeInHVE8AgxLvtuse37Yeu00XW22HI7wIpAEzxFRj4B0113GUOxYjhuiMmmn3NKhuJNpK35cgHv8dUgB1haUWYxr5Q5T3m4Z7MJdrcuKiKgT90RtTOnISXX2L9yPyXzCyVYu+bK6uuvkcGlpjkyK3ikoQQuY3UNk9nFA3DYs5XLe/5/6FZpEFCU3HzG6xrU6Isx97dhrpJdqaKkWg5vuKtMep6gQzeYnqACJPJ4+dN0IhVubp8KxXpMN2AJelifiyCsrKChzF2IxwaDirzXhb1dnZP4Oa8ARFDyA2TSQ8EOMSdEZel/A1M6iGgpzOYALzHabbpgnlu2m3Avl2IxLljfRPlQ+k5F4GJSSG2EZ1gMWOMsb5qAN4WVE5V6U51UwgYSfGZ6IdfaEMU7UU=;UH5bZbPB7DxQen04xCOLtQ=="
+secured: "qsnr6kQu03hsKwPKcdEXVZWAroFOjOuMWqqeZGTmbnXJZdFwqjUDNmFPmX9vvDlCLhBIrrJgqcZR+rqNtEtLbeoYF0vDVYXSANejr3DOkheJeO/1jU5n1ewh0v+C4tUMP6CntDlbR8CJPUtMrhrAPnQN0tg2ksFopyQl47NAkl5o7Aq9HWWHBf6W2bcgBy/4ulZ5pl8LrJi11sxl1sdA3PE/FuVUfCGMyh5jSkqbvGXfd5S0LQl8vkPT/Uw6RkSE0KiMjEQPbM/jVi/p1eTAInAm2MCEhH+8sxSYzXkY60JNxxRO5njgH4ny76ka1z4vb0ZLfwxIe5SYFXbD8wT1EjSLGKoGPm2ShyJeM4C3rEXFTRjAJ1ig4ZkKYhgqtQOb2EwGevF32D//PxjsH532tYfh9HLhHG07PlcZk1i3yHs=;k3a+BYvtrFKdB62QFWPfYA=="
 ---
 

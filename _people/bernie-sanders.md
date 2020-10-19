@@ -3,14 +3,14 @@ name: "Bernie Sanders"
 bio: "Bernard Sanders is an American politician who has served as the junior United States Senator from Vermont since 2007 and as U.S. Representative for the state's at-large congressional district from 1991 to 2007. "
 location: Washington, DC
 type: "profile"
-heat: 574
+heat: 564
 
 website: https://berniesanders.com/
 
 twitter:
   username: BernieSanders
   url: https://twitter.com/BernieSanders
-  followers: 13148530
+  followers: 13179065
 
 topics:
   - Election
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Bernie Sanders"
 
-secured: "I+4odalJw+b6JIDPEeuAKpaPRJY+N/y2gR63T2A5ktlmJ7XUSYcEVDCQWjR8vVHAiOD/JvjjNoiZVmbathETWOq6EzrEx74s5xnL9mLUWsredHoZ5LuNY924I92bLrMdxKQ67WxwDy0c/tStYXE5pKRKxn8RV2xJ0E/JH3Vk44pqQKhr/WcuUMjmeVPHpi4mb7mzWA7dYpkSrJTDuzaL408qAohdA8AATuAm1zMiqrkhMTFqJ30RpGbvNjAtaFxY72uGV5U0gfSmOuIOfBJp0xc2N6AK2m3l+xk/G1LZxui/Zvxh0hMy1b/BJPwZWekq6TPWE8khuEPRkCT+MAr1uj/Nn5BrmE8uLHh7HrB6DmYRsaXvse8UU+vMVNU8CtIY0kfcn4K9vXTMIVq998l8Rzl6vypt1/Fd8RNmzZNUBv0=;FoLRpRcGaVjpvyIAAHBMmQ=="
+secured: "Y1tBkcjnRGs8FjYbx02p7/CI5F5YZt+puBrQpOd0jZWwoVTkd93Bbt8KIsZdj7STsOjapp4U25YH6CRuTC3g04tkM09QUVdyhXccLQCkfx3UHmMNQvCFfMKMFzuUm9nsHrVKbB9gJvxF6fVD8UmIhkdzVgcRfVovvbo38keNFaUV7Y2PNHUwdNUAAl7VClJtjloasAmbRw+SmSjzeiC6LxQ/TKf7mUDhymbYkD+KDY3bXX2mQJ/2H8gktmevbsjPLoPjxzwKOw9Dgmv4rGqDJNF5q5dtlSpha19EM6O7QtvjnEy880Y+e9I6zgJPRD0KNYCiKc0fa8Imqe9CquhSPjGjH88kUI2YicJ4RDlDwEz94SGa+w5giJvwxA+EGqrrv65n81COgduedmrrJsCeZBH0bNphgsp8XjRCybZaza8=;aPioPpZRWLTexOYED/3anQ=="
 ---
 
