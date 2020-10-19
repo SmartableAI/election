@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Report: Vice President Mike Pence to visit Tallahassee on Saturday"
+    excerpt: "Pence 2020 campaign stop in Tallahassee this Saturday. The news came Friday morning from ABC News, which was on a media call"
+    publishedDateTime: 2020-10-19T14:21:00Z
+    webUrl: "https://www.tallahassee.com/story/news/2020/10/19/report-vice-president-mike-pence-visit-tallahassee-saturday/3709719001/"
+    ampWebUrl: "https://amp.tallahassee.com/amp/3709719001"
+    cdnAmpWebUrl: "https://amp-tallahassee-com.cdn.ampproject.org/c/s/amp.tallahassee.com/amp/3709719001"
+    type: article
+    provider:
+      name: Tallahassee Democrat
+      domain: tallahassee.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence to visit Cincinnati on Wednesday"
     excerpt: "Vice President Mike Pence will visit Cincinnati on Wednesday for a “Make America Great Again event,” the campaign announced Monday."
     publishedDateTime: 2020-10-19T10:10:00Z

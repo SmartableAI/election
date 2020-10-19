@@ -1028,6 +1028,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Supreme Court to hear case over Trump border wall"
+    excerpt: "At issue in the case is the president's February 2019 move to repurpose about $6 billion in military construction and counterdrug appropriations to finance the wall."
+    publishedDateTime: 2020-10-19T14:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/supreme-court-trump-border-wall-430137"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d4/d1/856308bf4427acaf2e8b4e196b85/gettyimages-1153119576-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump claims Covid immunity: ‘Having really a protective glow means something’"
     excerpt: "After getting an all-clear from his doctor and before resuming campaigning, the president says he passed “the highest test.”"
     publishedDateTime: 2020-10-11T16:37:00Z

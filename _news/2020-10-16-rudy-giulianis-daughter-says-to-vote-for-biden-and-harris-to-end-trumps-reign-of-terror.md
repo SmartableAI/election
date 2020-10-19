@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 845
+heat: 865
 published: true
 
 provider:
@@ -485,6 +485,20 @@ related:
     quality: 130
     images:
       - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3420200/201014-rudy-giuliani-hunter-biden-main-cover-cs_9000fe818c45c5264a1b2b19d0dece3d.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mocking Biden for listening to scientists, Trump turns to Atlas"
+    excerpt: "If Trump is mocking Biden as someone who'll \"listen to the scientists,\" to whom is the Republican listening? Unfortunately, we know the answer."
+    publishedDateTime: 2020-10-19T15:09:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/mocking-biden-listening-scientists-trump-turns-atlas-ncna1243877"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

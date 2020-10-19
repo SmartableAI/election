@@ -639,6 +639,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Supreme Court To Decide Trump Border Wall Funding Case"
+    excerpt: "The U.S. Supreme Court will hear a case this term regarding whether President Donald Trump can build his border wall using diverted military funds that were not appropriated by Congress, the court announced Monday,"
+    publishedDateTime: 2020-10-19T15:33:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/19/supreme-court-to-decide-trump-border-wall-funding-case/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8dae15f4004cf309a214cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5184%26cropY1%3D339%26cropY2%3D3255"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -1979,6 +1995,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "John Bolton Predicts Trump Won’t Go Quietly If He Loses 2020 Election: ‘He Will Not Leave Graciously’"
+    excerpt: "Former White House National Security Adviser John Bolton predicted that Donald Trump won’t leave the presidency in peace if he loses the 2020 election. Bolton gave an interview to CNN’s Jake Tapper for a special on Trump administration insiders who have turned against the president."
+    publishedDateTime: 2020-10-19T14:03:00Z
+    webUrl: "https://www.mediaite.com/tv/john-bolton-predicts-trump-wont-go-quietly-if-he-loses-2020-election-he-will-not-leave-graciously/"
+    ampWebUrl: "https://www.mediaite.com/tv/john-bolton-predicts-trump-wont-go-quietly-if-he-loses-2020-election-he-will-not-leave-graciously/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/john-bolton-predicts-trump-wont-go-quietly-if-he-loses-2020-election-he-will-not-leave-graciously/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 75
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-19-at-9.51.46-AM-1200x676.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "President Donald Trump is set to visit Prescott, Tucson. Here's why"
     excerpt: "Rural Arizona is the key for President Donald Trump to have any chance to carry Arizona on Nov. 3, and Pima County cannot be solidly blue, either."
     publishedDateTime: 2020-10-19T02:31:00Z
@@ -2216,6 +2248,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/13/us-president-donald-trump-at-his-first-campaign.jpg"
         width: 1024
         height: 643
+        isCached: true
+  - title: "Man Dangles From Roof Of Chicago's Trump Tower For 13 Hours, Demanding To Speak With President"
+    excerpt: "The man identified himself as a member of the Black Lives Matter movement. Reports say authorities have talked him down."
+    publishedDateTime: 2020-10-19T13:17:00Z
+    webUrl: "https://www.ibtimes.com/man-dangles-roof-chicagos-trump-tower-13-hours-demanding-speak-president-3064591"
+    ampWebUrl: "https://www.ibtimes.com/man-dangles-roof-chicagos-trump-tower-13-hours-demanding-speak-president-3064591?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/man-dangles-roof-chicagos-trump-tower-13-hours-demanding-speak-president-3064591?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 63
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/30/trump-tower.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "‘Donald Trump Town Hall with Savannah Guthrie’ free live stream: How to watch online without cable"
     excerpt: "Donald Trump is attending a Town Hall event hosted by Savannah Guthrie on Thursday, Oct. 15 at 8 p.m. There are several ways to watch with a free live stream."

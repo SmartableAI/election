@@ -7,7 +7,7 @@ originalUrl: "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts
 webUrl: "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/"
 type: article
 quality: 55
-heat: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Crowd gathers for Pence campaign stop in Hermon"
+    excerpt: "Several thousand people showed up for an outdoor event at Dysart's Restaurant and Truck Stop to support the Trump/Pence ticket."
+    publishedDateTime: 2020-10-19T15:41:00Z
+    webUrl: "https://www.pressherald.com/2020/10/19/crowd-gathers-for-pence-campaign-stop-in-hermon/"
+    type: article
+    provider:
+      name: Portland Press Herald
+      domain: pressherald.com
+    quality: 55
+    images:
+      - url: "http://multifiles.pressherald.com/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "‘Trying To Keep Socialism & Communism Away’: VP Mike Pence Stumps For President At Miami Rally"
     excerpt: "The Republican ticket saturated South Florida Thursday with visits by Trump, Vice Mike Pence and the president’s son Eric Trump."
     publishedDateTime: 2020-10-15T21:20:00Z

@@ -1514,6 +1514,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rolling Stone endorses Biden, calls Trump 'categorically unfit to be president'"
+    excerpt: "Rolling Stone magazine is endorsing Democratic nominee Joe Biden, saying in a piece on Monday that America has lived “under a man categorically unfit to be president” for the last four years."
+    publishedDateTime: 2020-10-19T13:15:00Z
+    webUrl: "https://thehill.com/homenews/media/521644-rolling-stone-magazine-is-proud-to-endorse-joe-biden-for-president"
+    ampWebUrl: "https://thehill.com/homenews/media/521644-rolling-stone-magazine-is-proud-to-endorse-joe-biden-for-president?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521644-rolling-stone-magazine-is-proud-to-endorse-joe-biden-for-president?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 136
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden says next presidential debate should be called off if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday that next week's scheduled debate with Republican President Donald Trump should not take place if Trump is still infected with COVID-19."
     publishedDateTime: 2020-10-07T03:28:00Z
@@ -2777,6 +2793,22 @@ related:
       - url: "https://i.insider.com/5f8983a6d260780019341c59?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "The Trump and Never-Trump eras could end soon. Thanks for the memories and inspiration."
+    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
+    publishedDateTime: 2020-10-19T12:13:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3696503001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3696503001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "'Stand back and stand by': Rhetoric some call racist has marked Trump's entire presidency"
     excerpt: "President Donald Trump's contentious comments about immigrants and people of color have been blasted by critics who say he's further dividing America."

@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump repeats inaccurate claim about masks, citing CDC study."
-    excerpt: "The interpretation that more mask-wearers are getting infected compared to non-mask wearers is incorrect,” the CDC tweeted."
-    publishedDateTime: 2020-10-15T19:47:00Z
-    webUrl: "https://www.nbcnews.com/health/health-news/trump-repeats-inaccurate-claim-about-masks-citing-cdc-study-n1243562"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243562"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243562"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420466/201016-mask-florida-mn-1200_d4b991682c84ec0d8ff9e87f6bf61179.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
   - title: "In his chess match with North Korea, Trump is clearly losing"
     excerpt: "On global affairs, Trump has said, \"If you're not a great chess master, you're going to have a problem.\" His failures with North Korea prove the point."
     publishedDateTime: 2020-10-14T13:34:00Z

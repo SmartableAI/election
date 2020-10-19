@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jake Tapper rips Joe Biden's quiet campaign schedule: 'Opposite of the word tireless'"
+    excerpt: "CNN anchor Jake Tapper on Sunday ripped Joseph R. During an interview with Democratic Sen. Chris Coons, Mr. Tapper expressed incredulity that Mr. Biden, the Democratic presidential nominee, had taken the day off Saturday less than three weeks before the election."
+    publishedDateTime: 2020-10-19T15:47:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/jake_tapper_c21-0-878-500_s1200x700.jpg?5d564dc8c21de85fddbb1ce2251f85bbcfca979a"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
     excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
     publishedDateTime: 2020-10-10T03:22:00Z
@@ -114,6 +130,15 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 55
+  - title: "Joe Biden Campaign Event in Durham, North Carolina"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
+    publishedDateTime: 2020-10-19T14:57:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "/q1BrOBxlq6wPQPOE4jTIRdskT2jakpy2NnNkX/mNlP2BziESSCOWjuiKoi6bGbjO+2jw9hPYnNgmTk45oqows3vp2YhwpsNLIxwAwNH5faTkdmEz2wRp5TjGZIZqBeYoThlUrI3r/o96FsnhtRY0EYbUN0XKSkXdATxdRF/r5ekWZi8HQvrwJcabZtZ7sa9N2z2xSsvR2s5GHRpBG4kcbDZDEZXDKXYksszCjWQ8/AOrBsADVw/fbRl+3UB43vghLmx7ldHrNW71fDVXjpWD98z3ZVVB9D4k0kaTujbi3d0kLhRaWD+gmdGQnzPEvQOqUbDQs8esjr1/CN5uFL8TNJvMFnzOpxvPicL+KE9K2k=;9M9/YCW1DglQba/tC0RERQ=="
 ---

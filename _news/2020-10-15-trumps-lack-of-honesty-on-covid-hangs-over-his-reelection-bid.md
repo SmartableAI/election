@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1570
+heat: 1590
 published: true
 
 provider:
@@ -1012,6 +1012,20 @@ related:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_29/3397371/200715-donald-trump-xi-jinping-2017-ac-1103p_1fad2f6762beb64997226994d9d52012.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Supreme Court to hear case over Trump border wall"
+    excerpt: "At issue in the case is the president's February 2019 move to repurpose about $6 billion in military construction and counterdrug appropriations to finance the wall."
+    publishedDateTime: 2020-10-19T14:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/supreme-court-trump-border-wall-430137"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d4/d1/856308bf4427acaf2e8b4e196b85/gettyimages-1153119576-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "At indoor Florida event, Trump urges seniors to shield themselves from Covid"
     excerpt: "The president added that he perhaps would have remained indoors to avoid possible infection, were it not for the office he held."

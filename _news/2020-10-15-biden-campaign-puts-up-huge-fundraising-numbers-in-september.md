@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jake Tapper rips Joe Biden's quiet campaign schedule: 'Opposite of the word tireless'"
+    excerpt: "CNN anchor Jake Tapper on Sunday ripped Joseph R. During an interview with Democratic Sen. Chris Coons, Mr. Tapper expressed incredulity that Mr. Biden, the Democratic presidential nominee, had taken the day off Saturday less than three weeks before the election."
+    publishedDateTime: 2020-10-19T15:47:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/jake_tapper_c21-0-878-500_s1200x700.jpg?5d564dc8c21de85fddbb1ce2251f85bbcfca979a"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden scales back rare Democratic investment in Texas, but dispatches Jill Biden to stoke the embers"
     excerpt: "Former vice president Joe Biden hasn’t set foot in Texas since the primary, but on Friday, his campaign announced that he’s sending wife"
     publishedDateTime: 2020-10-10T03:22:00Z
@@ -118,6 +134,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden Campaign Event in Durham, North Carolina"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
+    publishedDateTime: 2020-10-19T14:57:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "duO86polYEPISx1eXs5mel7bOXxI4/ihk64Nclz5BijxVvFXVoholOt1bRdZZWV1ivK0tOBR4ONcJFcf0E8StIzMqp0BILFYGtPpomSVbaHqa7MYmt2p8+z08OMRP1gaLn7OoNrG6UjsqSn9wCY+9D3A9jZXf8OsH2ZuIavo1G87+DT47FkD9EgFS6Y0Ad2Vw8/NUkUTzOh5SVMSD71j6AsMLWh5EhwTPWHPoNVNenVkurP9KA12z7t29gIgCY24dc5/ugcYlKPn44k7zrpmXTGTgvnuaop40UOX2lep7Ltj/KSyKQOeJieHt0xsPJkjaWk4XA6sUaJRjZZsXBb653wvon9Z+HsfJllYq0MjhwriI3Dt8RXsA/8R5w9pcms7C8LrevxvHjKtNrAYVlDhXu+1D0MNYtcCQNFH/GAaou4eTv8BsxAZraZ+Xjxib0ZBfrY3sT2Bt0dBt/nAABsrPMLEkDQzbJ8jSBud5pPMPpUb5dxPQmcpoFGCkCIMFa4w2q73CI1un1hlLg0tzH3W8A==;CK4t0SVWPY4nE9VuqYix/Q=="
 ---

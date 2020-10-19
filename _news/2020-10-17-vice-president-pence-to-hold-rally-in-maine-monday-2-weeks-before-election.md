@@ -43,6 +43,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Vice President Mike Pence to hold rally in Portsmouth"
+    excerpt: "Less than two weeks before the election, Vice President Mike Pence will visit the city on Wednesday for an afternoon rally at Port City"
+    publishedDateTime: 2020-10-19T14:40:00Z
+    webUrl: "https://www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth"
+    ampWebUrl: "https://www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth?template=ampart"
+    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth?template=ampart"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201019&Category=NEWS&ArtNo=201019599&Ref=AR"
+        width: 2000
+        height: 1694
+        isCached: true
 
 secured: "fLSDfJuaENmOKFj99ITaal1cymEWK1B8RzW1koufZ8ElpQYKGe/qpgClVrfGDZw/2ScWWWQc7pBXkOK+cWieW3HGt+fuB2pRXyWlTQOSwtIflIP9b5/EqPbEDHu/sgidECx+inuBZAtUTmLSvg4zpjmq9eUaGDNd1U9RW0NTsFUU4phPvjebNFI09T/Pa/p2Lbk/toQ5Y2Hyjao6Z0VyDamvAHP0/qVEtxu6RwLgWycHbkYfM5a4VXbN1sjnNIQANEHllqVrdmZmFuZ2K+kQuIWcmGgRmAAnwMpCV278ECkIBQuhpxn8WQ8h/CpD0RvM2MuzVMZIlCCFJUjIjG295BukJAbsrmtxbDCbxe5zq8I=;ZM2ckKg23vFW0lZC671FYQ=="
 ---

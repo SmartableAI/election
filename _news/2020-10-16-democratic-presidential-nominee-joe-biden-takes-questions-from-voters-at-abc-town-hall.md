@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Joe Biden snaps at CBS reporter for Hunter question: 'Another smear campaign, right up your alley'"
+    excerpt: "Democratic presidential nominee Joe Biden snapped at CBS News reporter Bo Erickson Friday night for asking about a New York Post report that the former vice president described as a “smear campaign.”"
+    publishedDateTime: 2020-10-19T14:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 61
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/biden_cbs_c0-0-900-525_s1200x700.jpg?18fe2bf8ee3c941346c84a9d9287e8c0f15139e7"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Executive Dysfunction: A Clinical Evaluation of Joe Biden’s Cognitive-Linguistic Deficits."
     excerpt: "As America’s day of decision draws near, the only person who believes Joe Biden’s cognitive-linguistic skills are within normal limits seems to be Joe Biden. Even Democrat media partisans like Andrea Mitchell,"
     publishedDateTime: 2020-10-13T23:41:00Z

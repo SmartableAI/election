@@ -174,6 +174,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
+    excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son, Hunter, as reported by the New York Post last week in emails allegedly coming from the"
+    publishedDateTime: 2020-10-19T15:45:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/udRsX_hHF9c/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-press-biden-on-hunter-biden-email-stories-if-debate-moderator-doesnt-adviser-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump campaign banking on rural Florida voters to repeat 2016 success"
     excerpt: "President Trump's 2020 presidential campaign has set its sights on Florida's rural voters, in an effort to repeat the electoral success that delivered the swing state for the commander-in-chief four years ago. "
     publishedDateTime: 2020-10-15T21:02:51Z

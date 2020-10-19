@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Jake Tapper rips Joe Biden's quiet campaign schedule: 'Opposite of the word tireless'"
+    excerpt: "CNN anchor Jake Tapper on Sunday ripped Joseph R. During an interview with Democratic Sen. Chris Coons, Mr. Tapper expressed incredulity that Mr. Biden, the Democratic presidential nominee, had taken the day off Saturday less than three weeks before the election."
+    publishedDateTime: 2020-10-19T15:47:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/jake-tapper-rips-joe-bidens-quiet-campaign-schedul/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/jake_tapper_c21-0-878-500_s1200x700.jpg?5d564dc8c21de85fddbb1ce2251f85bbcfca979a"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden raises record $383 million in September"
     excerpt: "The haul, announced Wednesday night, leaves him with $432 million in the bank just weeks before the Nov. 3 election."
     publishedDateTime: 2020-10-15T05:25:00Z
@@ -114,6 +130,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Joe Biden Campaign Event in Durham, North Carolina"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks at a voter mobilization event in Durham, North Carolina."
+    publishedDateTime: 2020-10-19T14:57:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaign-event-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "x0UyZJjAL4QBoqc6u3PlQAXzeJQtB9gMLP6/lDNzmpKNUcwEKQuFIRalwppbmFy3/D3yC2G5vVo5hfwHkv6IcOppXyWGs77Iu2KrhQc3CvZROCdbN6uH1COJSawnnpxmTQk0NnhAFeoBjdeoT/jMs8t/eYmbakwXIV6ZXZOtM6jrU4LSZVDWzYuCqpSVzGBMJox04qa0GwK21AciHCDKPWyURQwexam+4bdpuZ35LMyoVhF0TKKFL4IkDnWZ+DwHTPkXwc0IITYN8TKGUIIWQtqHzAIt4HWEcBoNAdwLNDVp8pizqmpGs1dhZKZ43BJtUA1H3ekLoLj6bl/5FXiEV6RKTQlV0gNygCAxvgYTeDEcwCT8iTvmvZl2OqNuo9cFw8fFiP0LmH0kckTQQBxPE50xc3bZBCU/P7S3HqJirqzoHxU2BZrscKMjszAMjcM80NFqBd50I222wFPlNFO8HpEod+S2DOZlWpA5xK0wJyxWh/2bPPuZ1VCRc4EjbqePenNSbGJ4sB/C7hjJtk2o6w==;OLyE2gTUD9whttZN86E2mw=="
 ---

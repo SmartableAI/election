@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Vice President Mike Pence to hold rally in Portsmouth"
+    excerpt: "Less than two weeks before the election, Vice President Mike Pence will visit the city on Wednesday for an afternoon rally at Port City"
+    publishedDateTime: 2020-10-19T14:40:00Z
+    webUrl: "https://www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth"
+    ampWebUrl: "https://www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth?template=ampart"
+    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/news/20201019/vice-president-mike-pence-to-hold-rally-in-portsmouth?template=ampart"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201019&Category=NEWS&ArtNo=201019599&Ref=AR"
+        width: 2000
+        height: 1694
+        isCached: true
 
-secured: "laSQE272vdWZPg+jPxTbyo/vm1cXZPm2W7tcc4/ecUknxeFfo4HYmQ0Fi5QLPIsBIol+JnAcsAjlBr8SSkD9aD0Gza+mwXoSqsvNrLU2RRG6wAAelNo0JbKuLQEkrbed/H7fUSCoOSjXMJ456vSaftCpxUPZ5i7BgU797lTLVrQ0S4TQ/7kGKOKGxQ32kw0hsfWv/AuRhTmlduUqkr4S4TSrzKnLTv483xizTvVGRO2hM/YNitDBdAv76xmtCIYRXbR16Ng7CfATyGQ6joXcIORwDAwhntZ8ZeBB0ufgqG7tQx9LUuW5xd+Ca/5oKRtCzavAgfAPycAjUakFcQz22jr052qzQjFuiBunOfWUkfw=;7Ea0734tTb1CeyyeWvw9oA=="
+secured: "cKJsIgzGbhjHS9PJ9Zfbiw+r/ItWbwsL1uxuf24TjT4l+d3UNUGl0rHZjY8f7oPe+L8Rh/9rCl+PaujrrBh9TI//rO40oM7GOa9WTlFGTE4ZDAszW3FWu5gKSoZLhIUx/6oQJ/Njk1heOcUG8JV4anIZ44vALtkeU7zEXevzB2L6c7LVjb2k4QDdnZY1uHIkjiSF/dMigKbhJWw1IOB148Metsb/hK/LOdwBqndrKsHnHgeKX8ie4VH+PqnMYmbiHkincKNH9VsG1GEjMev3xxAr0gA283nLRy1gRq5xvpBHIFc/fnPmW8b6Yo9zvpG4GwhKB8T4PrWCFRnvtB3xrxLobbf36loMMCDnVDSsZPfd4U/U3pp5ZXeq1buPVkBtqT+k6weIvC3Gp7GFDn/h6KrkCjWYtWr7dX8+nC6CHnSG8vXxrVk0ISII6AtW/rdbpIxjYLrs30ReQk/dk+KURcNG7Mx+EC7s38kDAT/nO00UsYzVznHogZL1EwmWkPdmZoLI8DHpFtPYZEL0qhuDjA==;TLn0i4l7lr9ZzM55dp7mlg=="
 ---
 

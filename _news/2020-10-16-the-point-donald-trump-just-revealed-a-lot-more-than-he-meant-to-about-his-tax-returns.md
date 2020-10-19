@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Supreme Court to hear challenges to Trump border wall funding and asylum policies"
+    excerpt: "The Supreme Court said on Monday it would take up cases concerning President Donald Trump's border wall and a controversial policy that requires asylum seekers to remain in Mexico as they await hearings in the United States.\n    \n"
+    publishedDateTime: 2020-10-19T14:29:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ub7dGVbSlM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/supreme-court-immigration-border-wall-asylum/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/supreme-court-immigration-border-wall-asylum/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200708155202-trump-wall-200th-mile-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: How one Republican senator is desperately trying to run away from Donald Trump"
+    excerpt: "Texas Sen. John Cornyn has been a stalwart defender of President Donald Trump. Like, big time.\n    \n"
+    publishedDateTime: 2020-10-19T14:32:46Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JqHnCJhtLIQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/john-cornyn-texas-mj-hegar/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/john-cornyn-texas-mj-hegar/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014113324-05-barrett-hearing-1014-cornyn-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fauci criticizes inclusion in Trump campaign ad"
     excerpt: "The nation’s top infectious disease expert said his words were “taken out of context” in the ad praising the president’s response to the pandemic."
     publishedDateTime: 2020-10-11T21:56:00Z
@@ -92,6 +124,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/1e/90/373e77a340a0b53efa330620dc46/20201018-gretchenwhitmer-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Fauci: Trump ‘equates wearing a mask with weakness’"
+    excerpt: "But the infectious disease expert also said the president “believes in science,” or else he would not have been treated at Walter Reed."
+    publishedDateTime: 2020-10-19T11:59:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/fauci-trump-wearing-mask-weakness-430114"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/fauci-trump-wearing-mask-weakness-430114"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/fauci-trump-wearing-mask-weakness-430114"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/ad/dc/4ddc83174a25a8aefdbc7e4b876c/201019-fauci-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

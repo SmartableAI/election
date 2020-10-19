@@ -145,14 +145,14 @@ related:
         isCached: true
   - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
     excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-19T09:09:00Z
-    webUrl: "https://www.tennessean.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3667187001"
+    publishedDateTime: 2020-10-19T15:48:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"

@@ -487,6 +487,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mocking Biden for listening to scientists, Trump turns to Atlas"
+    excerpt: "If Trump is mocking Biden as someone who'll \"listen to the scientists,\" to whom is the Republican listening? Unfortunately, we know the answer."
+    publishedDateTime: 2020-10-19T15:09:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/mocking-biden-listening-scientists-trump-turns-atlas-ncna1243877"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
     excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
     publishedDateTime: 2020-10-14T22:25:00Z

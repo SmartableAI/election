@@ -488,6 +488,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mocking Biden for listening to scientists, Trump turns to Atlas"
+    excerpt: "If Trump is mocking Biden as someone who'll \"listen to the scientists,\" to whom is the Republican listening? Unfortunately, we know the answer."
+    publishedDateTime: 2020-10-19T15:09:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/mocking-biden-listening-scientists-trump-turns-atlas-ncna1243877"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
     excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
     publishedDateTime: 2020-10-14T22:25:00Z
@@ -516,6 +530,6 @@ related:
       domain: thedailybeast.com
     quality: 36
 
-secured: "Y3l//4Qx1VBrp1kYZY2iTn2+Nhso4PYHrQekxacWiIWmWIP/qQppR5AwMGSAXwz3RrMEkFAltzpgvDLqf7FLLFp+W8tYgE8LJkhroxYPuZj0u5/KYFMXXaVcgeiAw8reACvU1bAldCQKH5VNJuu8iGQutGCEam25z+C1SUZQE+AaNp3VTUGBMaucG1AwC3bZCn82Lyz4ZPqf3grgLWBDmsDTjqVV26FGp4qR4eemeSHqny8jn3lts+Q/yumSkURRgap4+Hk0lH1xHIsNHdZuT0qoThB9GMU7+G4l5/eX8m6BSE7JuN3de2XK9/4YhAXhvVC3K0sA/oKoDU59GlyXzx1uHGG4unNzmTa0Ax8084o=;gyQqYLMP+O33KAPNBJM/hg=="
+secured: "le9nDVFMAcDO+3ZXIQ8iQesiiZEfSsr9413adKG0y8gS3AMDhTFINquHighXRle11IYQPp43K8mKZs84q0iNrXF+rJgsHJdFy22YDbDJTuHxVSu7WFWcyo63tM9MCjAfDr341hv90f5d4MVdrHR8sGGjFzjfvuT4jaedDVGs3MxA7marb32TOR6HWfC3rz16QZVeIt4579v8VVzSXV3kdNhtodDIE8pwKEOQ/jEdlgvhMlPYQ0UBbCoP9WiyjGaZWNdMe2CiBoKrUsKU8cHgVz0nEIIo3dZanCSDNVedLiSAnRqECbIJtk/ZxEwNvgn/PZtvlbYDNskv7+liS51dx76NxMwgFfhC8y7Pfv/KJWDxvhZwIOihAyg8FuheARwD9OKWvaWizKuMC5YQ5W/SVw9Hpb73nTRBuU7/046HkILP4QQPoYc3TlEjeU7iByzvz+1OdxmXjr8v+pfRP5nXpuyYb9mT/XJgK44Fv6cVlMijrNUUD5e490q31THaituj4Uc8oXdW2oI81jhpd1hImg==;rWlCgp/8yCVIuIuCImMLZA=="
 ---
 

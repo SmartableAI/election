@@ -2,19 +2,19 @@
 category: news
 title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
 excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-publishedDateTime: 2020-10-19T09:09:00Z
-originalUrl: "https://www.tennessean.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-webUrl: "https://www.tennessean.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-ampWebUrl: "https://amp.tennessean.com/amp/3667187001"
-cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3667187001"
+publishedDateTime: 2020-10-19T15:48:00Z
+originalUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+ampWebUrl: "https://amp.indystar.com/amp/3667187001"
+cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Tennessean
-  domain: tennessean.com
+  name: Indianapolis Star
+  domain: indystar.com
 
 topics:
   - Election
@@ -172,6 +172,6 @@ related:
         height: 720
         isCached: true
 
-secured: "dv6KKX6PcrMqCgiB3KrlYLU5tAbdT1o+APyzfFYSX2ULP6ptGPCVnV/K3sHL3VZH/WfYzpXouTYD6xgVqfRQvdVoBDMGn3PF1xCLYKhS5HwnVs0Y1G8cPcJjp+/houtdgOY52VUYohxdsizBNlikVSqcBhu2or/kknZgpNxUP1BYxP4qJfFVFwoXyxU+EiTTyem3i43dZlp0X0iiCRMxunPCKrRnvDZIBaD5++MhDsPMA7kdQXCzyQh5smKeNsF5Z+y65P7pkhb2rW9RDrdSdo7zN7sWT1iIeLRlSoJqT4B4DhUTunUFu1Z9CQOe3zO/wrYiU1GCktwA084DyfFsc0p9GAmBECWOgTkKGxQRlyM=;VkaNYkD9Ngvu1Oc2oL+/kA=="
+secured: "+954GNeKFCX1qz/mp12WUy1oc+Kvq5CTLvEw+EcbGh224t5/YW/d0CVIqqsG8ZOGzA6uSkGHaix1jD4vm8dPxV6WE0UKJH9Rt4vuiXgyh8dDAyOtWbcD0ywTUX5OcIt69ixUtA+R8C360nicu0FjcZLJ7FZYtAXy67U/8e1vAtOQDjTaCoRBs9RndbX4MgdqodxvQ8Qy38sYmrgbbw7DOUz82zr7NFdu6qBBuLJYvtEIdUpVwXo/OobkSgGA9zBBOEDOeznJHkE/iQgm9VtoTbeUdH9225D8WMrhxQkHgm7xgZ1V6A29L8evXU4dbnLbj4WthPnXiXa6pwrSUkWS/8+ObI5e9ZnhYXfm3Pp69FM=;44YBtAxsgTecGFt/GRHCDg=="
 ---
 
