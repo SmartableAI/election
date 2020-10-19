@@ -19,12 +19,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/election/learning/articles/bbc-what-is-the-electoral-college/</loc>
-    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-primaries-and-caucuses/</loc>
     <lastmod>2016-08-19T10:55:29-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -33,6 +27,12 @@
   <url>
     <loc>https://smartable.ai/apps/election/learning/videos/usagov-becoming-president-conventions-to-election/</loc>
     <lastmod>2016-07-26T08:01:50-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/election/learning/articles/bbc-what-is-the-electoral-college/</loc>
+    <lastmod>2020-10-12T00:00:00-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
