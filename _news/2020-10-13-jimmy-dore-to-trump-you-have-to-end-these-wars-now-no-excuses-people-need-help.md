@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Kavanaugh should 'sue the women' who accused him during his Supreme Court confirmation"
-    excerpt: "President Trump on Monday said Supreme Court Justice Brett Kavanaugh should “sue the women” who leveled “false and disgusting accusations” against him during his confirmation process to the high court in 2018."
-    publishedDateTime: 2020-10-12T21:31:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/liWPo5sNZ5o/trump-says-kavanaugh-should-sue-the-women-who-accused-him-during-his-confirmation-to-the-supreme-court"
+  - title: "Here's More Funny Business Regarding How Pollsters Sample Republicans for their Anti-Trump Polls"
+    excerpt: "Sorry about letting this fall through the crack folks. We all know that the polling is looking nutty. I mean, Joe Biden is ahead of Donald Trump by 10-17 points"
+    publishedDateTime: 2020-10-07T19:00:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/07/heres-more-funny-business-regarding-how-pollsters-sample-republicans-for-their-antitrump-polls-n2577654?amp=true"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
+      name: Townhall
+      domain: townhall.com
+    quality: 72
     images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/28/694940094001_6090161738001_6090159029001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Video shows Seattle-area teacher scold 10-year-old for admiring Trump: mom"
-    excerpt: "A Seattle-area middle school teacher scolded his 10-year-old student and briefly kicked him out of his virtual classroom last week after the child said he admires President Trump."
-    publishedDateTime: 2020-10-06T06:58:00Z
-    webUrl: "https://www.foxnews.com/us/seattle-teacher-trump"
-    ampWebUrl: "https://www.foxnews.com/us/seattle-teacher-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/seattle-teacher-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/School.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/c7b8ac30-e0e0-4820-9344-a4bddc8a4fb2.jpg"
+        width: 650
+        height: 340
         isCached: true
 
 secured: "CgPB18Brt6syqFVxJwDz8t0Tk3VhSlNS/QE3X1kBrmH7J9YHz6O/JJFs21cB0l4P368CACNLdGCuvbPVenHREAzNNotul9nU7m6R4TCv5+lusUzaPtwMYO1gk6ajqEqqowant1pszoTLkOL0+107Ct8u8igfFygBfTotFEZYYuoAooFnlD6Uk1BUqOx71D8mUO9nWkNZmz4JWHKEuShK/QzpXQ0/cwte3ZbhbWOMnmrNCP4071pNYi/3BQ/2WRU+ggU73L+D//sRCQis6aVY4zNp/3mLY6vq5gXqAdg/smhMxt0pNPeI9Ry/xOqz0nBUP4mHi+OUxuUxlE+9Mv8dqby+35fgSVDpSyZFOGKwGzc=;DedmZ30nkrh5Y1gYKj2MRA=="

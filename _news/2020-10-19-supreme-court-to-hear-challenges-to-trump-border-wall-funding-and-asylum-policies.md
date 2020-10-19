@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Listen to leaked call of Trump bashing Fauci"
+    excerpt: "President Donald Trump claimed on a campaign call that people are tired of hearing about coronavirus, which has killed more than 215,000 Americans, and criticized Dr. Anthony Fauci as a \"disaster\" who has been around for \"500 years.\"\n    \n"
+    publishedDateTime: 2020-10-19T19:08:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WC0BWxRTFic/trump-campaign-call-fauci-disaster-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/19/trump-campaign-call-fauci-disaster-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/19/trump-campaign-call-fauci-disaster-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump just revealed a lot more than he meant to about his tax returns"
     excerpt: "President Donald Trump is the only modern American president to never release any of his tax returns -- either while running for office or during his time in office. He's offered a series of explanations for why that is, including that he is under audit by the Internal Revenue Service and that his taxes"
     publishedDateTime: 2020-10-16T17:42:50Z

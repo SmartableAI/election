@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch: VP Mike Pence’s rally in Maine"
+    excerpt: "Vice President Mike Pence will headline a rally in Hermon on Monday morning as President Donald Trump looks to be locked in a tight race with Democratic nominee Joe Biden in Maine’s 2nd Congressional District."
+    publishedDateTime: 2020-10-19T18:05:00Z
+    webUrl: "https://bangordailynews.com/2020/10/19/politics/watch-live-vp-mike-pences-rally-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-3.jpg?fit=1024%2C718&#038;ssl=1"
+        width: 1024
+        height: 718
+        isCached: true
 
 secured: "/Ydd2pcMqEHP5lGgrhSotqkN/wpOzCEoMiahjC9rl5+XfFnSLWKelpW4svxHPCOTPdzoSh3QN4tOLibUhwdW68S4kM3V7kPI+NPjHqSWxnVwv9F9PYEG7gyFYVLElx78U5B7K0t4gb+OmsrUM/OJPEyZBuzoybn8r1TvJtSognB1OuSBS+5lRw5NPLffjitumbj9CzZBWKpRXIO67gYqKiqcycit5ZiJkhCDQrpc0A1YzhKHDit6BEBJ0vnnTvy5Z/plQOZVMJdYHoZvHv+M38oybuyL/fUI0fq+v4376dLV+WuCLBrRQf1Ryvq97Xb6F0DFICboCcjMsED7rUoQbOUjK/oVJh22seeXG8OuiWBdtqN0f36qbMuGlSJZHe3xCnH3EadsG+D0U7/RXMcguVSCB4iVXulgnufA0TSrY07a5nQhH3xedpafAvxetJemuHRDBURcp5EQAnHX2qZNjbcNdK7smogDUWAOWdwtohZqU1QBXlWCNYi5fsG8QFWUzIesaYXZai4+4I72sXXBqA==;CZyB/FqMjVp3HAgVE1+z+w=="
 ---

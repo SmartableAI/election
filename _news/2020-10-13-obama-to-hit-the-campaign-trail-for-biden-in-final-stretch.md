@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/obama-biden-campaign/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/16/world/16daily-1/16daily-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden would revamp fraying intel community"
+    excerpt: "Democratic presidential nominee Joe Biden speaks during a drive-in campaign rally on Oct. 18, 2020 in North Carolina. Biden’s advisers and allies are thinking about how to restore morale and public trust in the intelligence community’s leadership,"
+    publishedDateTime: 2020-10-19T08:32:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/biden-revamp-fraying-intel-community-430090"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/biden-revamp-fraying-intel-community-430090"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/biden-revamp-fraying-intel-community-430090"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/fc/7c/0b75d555456c903ea64a176e72b5/gettyimages-1229154699-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
     excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."

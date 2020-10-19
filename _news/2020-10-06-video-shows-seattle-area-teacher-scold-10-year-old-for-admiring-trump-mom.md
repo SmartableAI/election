@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump: Packing Supreme Court would 'permanently destroy the Court'"
+    excerpt: "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court."
+    publishedDateTime: 2020-10-11T12:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_G1y4hE0VaE/trump-fdr-supreme-court-packing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/biden-trump-split-lightned.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump: Kavanaugh should 'sue the women' who accused him during his Supreme Court confirmation"
     excerpt: "President Trump on Monday said Supreme Court Justice Brett Kavanaugh should “sue the women” who leveled “false and disgusting accusations” against him during his confirmation process to the high court in 2018."
     publishedDateTime: 2020-10-12T21:31:12Z
@@ -45,20 +59,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/28/694940094001_6090161738001_6090159029001-vs.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Jimmy Dore to Trump: You Have To End These Wars Now, No Excuses, People Need Help"
-    excerpt: "Jimmy Dore, the host of the Jimmy Dore Show, made an impassioned plea directly to President Trump Monday night on the Tucker Carlson show, wondering why the president doesn't follow through on his promise to end the war in Afghanistan."
-    publishedDateTime: 2020-10-13T14:17:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/jimmy_dore_to_trump_you_have_to_end_these_wars_now_no_excuses_you_promised.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 60
-    images:
-      - url: "https://assets.realclear.com/images/51/518919.jpg"
-        width: 902
-        height: 676
         isCached: true
 
 secured: "+tPnC3J5Yc85k7VF+AbDC/2lCG7KnuUVK/om95KcO2fAeVIgD9nmSmYfq0WuzmmXzjAe9CYiYO3YP5hxdcGtuNQmc+sER8AwHxiUP7Mxr9moCLlOuFIL6nsF5bh4LH1ZC/wr6gAyQXo1cNF3PiK6/CDzw0s42kdnIEDR2xvLam2Z7Med+dWeBdElra3xOGg18vAKJEUEV1aXFcIEMLiIPrRAP6NJC1tE7JUobGZPJ+sgbqnGvmrqgSnYJFcmYErk6e7r5+B7X6o+swWDnJE7t48xS0JS/t+QkoWAo4fWOVRP9/a9Qy9C9TkhkBo7rjYTSvNKoOwrz1rAsBk5fLlWrG2J8eRPIERFyjgl8Uqkh6k=;wMArz18EnmlGdXVliDwvUw=="

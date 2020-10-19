@@ -1057,6 +1057,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump is patient zero for misinformation. And we don't have a cure."
+    excerpt: "With President Donald Trump referring to Dr. Anthony Fauci as a “disaster” and complaining on a campaign call that “people are tired of hearing Fauci and all these idiots” continue to talk about the coronavirus,"
+    publishedDateTime: 2020-10-19T19:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-patient-zero-misinformation-we-don-t-have-cure-ncna1243879"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3419431/201012-one-time-use-donald-trump-balcony-cs-156p_6979ef6045902df3c5ed19163dc27bc1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "At indoor Florida event, Trump urges seniors to shield themselves from Covid"
     excerpt: "The president added that he perhaps would have remained indoors to avoid possible infection, were it not for the office he held."
     publishedDateTime: 2020-10-16T19:39:00Z

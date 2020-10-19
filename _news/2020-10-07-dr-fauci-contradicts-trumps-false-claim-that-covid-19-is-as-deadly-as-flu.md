@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Listen to leaked call of Trump bashing Fauci"
+    excerpt: "President Donald Trump claimed on a campaign call that people are tired of hearing about coronavirus, which has killed more than 215,000 Americans, and criticized Dr. Anthony Fauci as a \"disaster\" who has been around for \"500 years.\"\n    \n"
+    publishedDateTime: 2020-10-19T19:08:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WC0BWxRTFic/trump-campaign-call-fauci-disaster-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/19/trump-campaign-call-fauci-disaster-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/19/trump-campaign-call-fauci-disaster-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011145759-fauci-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court to hear challenges to Trump border wall funding and asylum policies"
     excerpt: "The Supreme Court said on Monday it would take up cases concerning President Donald Trump's border wall and a controversial policy that requires asylum seekers to remain in Mexico as they await hearings in the United States.\n    \n"
     publishedDateTime: 2020-10-19T14:29:55Z

@@ -32,67 +32,131 @@ images:
     isCached: true
 
 related:
-  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
-    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
-    publishedDateTime: 2020-10-08T02:50:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+  - title: "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law"
+    publishedDateTime: 2020-10-19T19:21:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 200
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Harris asks Barrett if COVID-19 is infectious and if smoking causes cancer to make climate change point"
-    excerpt: "Sen. Kamala Harris asked Judge Amy Coney Barrett if smoking causes cancer and if coronavirus is infectious, in an effort to reveal the Supreme Court nominee’s thoughts on climate change. "
-    publishedDateTime: 2020-10-14T22:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7nawF0J1w/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
+  - title: "Trump traveling to Arizona as Harris stumps in Florida"
+    excerpt: "With the November election just a little over two weeks away, President Trump and the campaign of Democratic rival Joe Biden are heading to key swing states on Monday to make a final appeal to voters."
+    publishedDateTime: 2020-10-19T11:33:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QW-97nhabNo/trump-biden-harris-pence-campaign-trail-october-19"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-19.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 200
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d85c33c-fea2-4bbc-a1f1-9578a319a0c0/72586bf0-f0a2-4f0c-a8fa-aa49a54900b3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
+  - title: "Trump campaign says winning this state is vital to clinching election"
+    excerpt: "President Trump's campaign manager Bill Stepien predicts that the key to reelection lies with winning the state of North Carolina. "
+    publishedDateTime: 2020-10-16T18:46:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LVwBLCIG3FA/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-predicts-president-needs-to-win-this-state-to-clinch-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/09109495-62e5-4525-9384-2e008a8394ce/95aac251-d7d3-4963-9fce-74dd623a0043/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
+    excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
+    publishedDateTime: 2020-10-12T23:21:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g-SyJ8tKucY/biden-spotlights-obamacare-in-supreme-battle-over-barrett"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-spotlights-obamacare-in-supreme-battle-over-barrett.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/c52e0ec4-AP20286519296935.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
+    excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."
+    publishedDateTime: 2020-10-19T13:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6ff4_NgfZxA/north-carolina-latino-voter-turnout-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/north-carolina-latino-voter-turnout-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-latino-voter-turnout-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292697124657.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Harris rips Barrett confirmation process as 'illegitimate,' claims nominee will 'undo' Ginsburg's legacy "
+    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, slammed the panel for carrying out what she called an “illegitimate” process to confirm Judge Amy Coney Barrett to the Supreme Court before Election Day, while warning President Trump’s nominee for the high"
+    publishedDateTime: 2020-10-12T17:39:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZA9VNP6jusQ/harris-rips-barrett-confirmation-process-as-illegitimate-claims-nominee-will-undo-ginsburgs-legacy"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 148
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f5b1135c-af2a-4186-b6c8-db47b4ebffe4/130aa47a-e67a-48cf-a64e-ef6d16d07d7f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump Stresses Economic Record in Virtual Speech"
+    excerpt: "President Trump cast the November election as a choice between “historic prosperity” and a “steep depression,” as he seeks to turn the focus toward his handling of the economy and away from the pandemic in the final stretch of the campaign."
+    publishedDateTime: 2020-10-14T17:17:00Z
+    webUrl: "https://www.wsj.com/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-stresses-economic-record-in-virtual-speech-11602694907"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
     quality: 135
     images:
-      - url: "https://images.wsj.net/im-240957/social"
+      - url: "https://images.wsj.net/im-244852/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
-    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
-    publishedDateTime: 2020-10-09T19:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
+  - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."
+    publishedDateTime: 2020-10-15T13:56:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-halts-travel-after-2-involved-in-campaign-test-positive-for-coronavirus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 135
+    quality: 128
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
-        width: 5472
-        height: 3648
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20287716627011.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
     excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn."
@@ -110,49 +174,63 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
-    excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
-    publishedDateTime: 2020-10-07T18:15:00Z
-    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628"
-    ampWebUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/elliebufkin/2020/10/07/flashback-heres-how-kamala-harris-has-proven-time-and-again-she-is-a-radical-leftist-n2577628?amp=true"
+  - title: "Kamala Harris Calls In-Person Hearing 'Reckless,' Sounds Health-Care Concern"
+    excerpt: "Sen. Kamala Harris (D., Calif.), the Democrats’ vice presidential nominee, delivered her opening remarks remotely from her Senate office after some brief technical difficulties. Ms. Harris sat in front of American flags and next to a copy of “I Dissent,"
+    publishedDateTime: 2020-10-12T18:45:00Z
+    webUrl: "https://www.wsj.com/livecoverage/barrett-supreme-court-confirmation-hearing-senate/card/QzBbePoaL0i6R7TmzhyA"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 77
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 112
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
-        width: 650
-        height: 340
+      - url: "https://images.wsj.net/im-243696?size=1.5"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Republican Attorneys General Spotlight 'Lawless' Record of Kamala Harris"
-    excerpt: "The Republican Attorneys General Association (RAGA) unveiled a blistering ad about their former colleague and current Democratic vice presidential candidate, Sen. Kamala Harris, ahead of Wednesday nig"
-    publishedDateTime: 2020-10-07T20:00:00Z
-    webUrl: "https://townhall.com/tipsheet/reaganmccarthy/2020/10/07/republican-attorneys-general-spotlight-lawless-record-of-kamala-harris-n2577660"
+  - title: "Kamala Harris has technical difficulties signing in to Amy Coney Barrett confirmation hearing"
+    excerpt: "Democratic vice presidential nominee Kamala Harris, a member of the Senate Judiciary Committee, had a tough time on Monday when she experienced technical issues while trying to remotely participate in Amy Coney Barrett’s Senate confirmation hearings."
+    publishedDateTime: 2020-10-12T19:24:00Z
+    webUrl: "https://www.foxnews.com/media/harris-tech-issues-barrett-hearing"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 64
+      name: Fox News
+      domain: foxnews.com
+    quality: 104
     images:
-      - url: "https://media.townhall.com/townhall/reu/s1280x720/2020/274/fe5a3c6a-4bf0-4214-9d71-e32c164b4d12.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6efa3b6e-e72c-4aed-b985-e65c63c2ae50/00a37f4e-77a3-4ef4-9fd9-d3c300d9e39b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
-    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
-    publishedDateTime: 2020-10-12T20:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
+  - title: "Judge Barrett Wrecks Kamala Harris Under SCOTUS Questioning"
+    excerpt: "It's been a long day on Capitol Hill but Democrat vice presidential nominee and Senator Kamala Harris finally got her turn to go after Judge Amy Coney Barrett during Supreme"
+    publishedDateTime: 2020-10-14T00:05:00Z
+    webUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019"
+    ampWebUrl: "https://townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/katiepavlich/2020/10/13/judge-barrett-wrecks-kamala-harris-under-scotus-questioning-n2578019?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 85
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
+    excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
+    publishedDateTime: 2020-10-16T13:35:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/kamala_harris_court_packing_a_distraction_has_all_of_a_sudden_become_an_issue.html#!"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 46
+    quality: 60
     images:
-      - url: "https://assets.realclear.com/images/52/523854.jpg"
-        width: 750
-        height: 562
+      - url: "https://assets.realclear.com/images/52/524286.jpg"
+        width: 928
+        height: 696
         isCached: true
 
 secured: "xA5Z1Yu7FF1JjjJlsJ3iszCmOf6xrS1NBcyUX7e/jr5uXo2HYUOeXS03t+7hGFSSXmGFfOF+nmPhaMReQbarx7kux3B17bgvcq/8yxCjis19tayQpMHBYcryW5KSfsg9GyptYsJwBzp59ORCgPIX3N37z+XyWY9lIRcwcTCkolNuOjE6SzQNgdvi8M5xWehwmqJxCaRo44f/Lpwww9if6IMzgUaJuKP8S227EgPx/AYtuvYa22Gzy2Ej+yxv+fQrjuRv+t7AYqgFx8HzOW4OrzEKqOoYhCyIUv6NEHYCkrrJQon/GkIa+REONK/v9PCPVTTcllq4QjCPPlqOGWFddG/bgm+1ZOp+wsjQv4fhNVs=;bQ1IHCl9dW+YGLf0XQQ2rw=="

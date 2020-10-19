@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-afte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
 type: article
 quality: 175
-heat: 735
+heat: 695
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9486502-1ba0-4d5c-b108-0d8ed198d42b/5308324a-2ca4-4433-aa76-f31c04439416/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
-    excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
-    publishedDateTime: 2020-10-15T04:00:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9gw-1GL3lwc/hunter-biden-emails-report-ron-johnson"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-report-ron-johnson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -222,22 +206,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/230d25c5-8013-4f65-a67f-1b612218889c/6e4f115f-5204-4113-bf11-ccb3658ebcae/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Noem argues Hunter Biden story 'does grave damage' to former vice president's 'credibility'"
-    excerpt: "South Dakota Gov. Kristi Noem, campaigning in the battleground state of New Hampshire on behalf of President Trump and fellow Republicans – took aim at Joe Biden over a much publicized story this week in the New York Post regarding the Democratic presidential nominee’s son Hunter Biden."
-    publishedDateTime: 2020-10-16T16:07:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QFxf9qeIFQc/noem-hunter-biden-story-joe-biden-damage-credibility"
-    ampWebUrl: "https://www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/noem-hunter-biden-story-joe-biden-damage-credibility.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/KristiNoem-NH-Oct.2020.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Hunter Biden's ex-business partner to face sentencing after court reinstates fraud conviction"
     excerpt: "Hunter Biden was never accused of having knowledge of the scheme to defraud the Oglala Sioux tribe."

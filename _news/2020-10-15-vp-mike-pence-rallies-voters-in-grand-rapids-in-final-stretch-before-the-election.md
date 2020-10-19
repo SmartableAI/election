@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rall
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
 type: article
 quality: 85
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTF/b5dcc20d-a344-4d8f-967e-067f6c5880e5-pence.PNG?auto=webp&crop=894,503,x1,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Watch: VP Mike Pence’s rally in Maine"
+    excerpt: "Vice President Mike Pence will headline a rally in Hermon on Monday morning as President Donald Trump looks to be locked in a tight race with Democratic nominee Joe Biden in Maine’s 2nd Congressional District."
+    publishedDateTime: 2020-10-19T18:05:00Z
+    webUrl: "https://bangordailynews.com/2020/10/19/politics/watch-live-vp-mike-pences-rally-in-maine/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-3.jpg?fit=1024%2C718&#038;ssl=1"
+        width: 1024
+        height: 718
         isCached: true
 
 secured: "aYOsIqgtayVP8Wheo9ciEbC9iIeSZ1TSMfZrop6o09Zoqfjm/c+yixXvKtulVeWi1GyQsZmvarMbFAdlrCReKWd+zdAa5PqDNElI3qW7aOtidY6bC+Vju5MasgiV+TcbFqRrOIaaBFmx2aP5DZ7CDXotb5kqWgtorxA9KY7k9cmKUO/YGdIzdbiv8grRgze4PliieJjjQMDXYlpKuOlG9H5AM6DlCpbB4DSGobb/UsGYbUc+MocHzxSPqTWaxRg1ghSVNKnbHJ5H3i5haY3OxWVYkj/jA4UTUUgE5f1AgJFYY2Dvzakjdp1aVyqNTCu350kmOgq0/e9QNjqvfalMxSao2QdV+r0B8uwQ3P+o73I=;mL0mO5ta+ZLNDKVQsCsW4w=="

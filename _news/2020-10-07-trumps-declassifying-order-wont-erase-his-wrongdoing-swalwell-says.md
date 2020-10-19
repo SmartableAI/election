@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/intel-dem-says-trumps-declassifying
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/intel-dem-says-trumps-declassifying-order-wont-erase-his-wrongdoing.amp"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Rising job opportunities for White working-class men could point to additional Trump support"
-    excerpt: "Following decades of declining job prospects, White men without a college education have seen employment opportunities rise, which has the potential to influence their ballot choices this election cycle."
-    publishedDateTime: 2020-10-09T12:12:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WEIUeJ-6dmI/white-working-class-job-prospects-climb-trump-economy"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 144
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/09/02/694940094001_6082525765001_6082528154001-vs.jpg"
-        width: 773
-        height: 435
-        isCached: true
 
 secured: "llsrF5syD2hS4p5CweUyhtXp9iWX1dsxK1bTCZ407Bstf4rphnucXvE6EYQJprhEjHo4RtGfoWvhXZOEYvlI33pH7Hw4P/4kei9mfs2JAnl/OLyadvT4r/VtOkeqE43IL2zO3L3LQnlMeU85zXA1MuZ4UeGsgtOaBs3A9tgG9KCaW8+3s03G+pJ+wP/hDIpGNgecnNeBls5K2qbhf9y5sr/Tu8c9QuxrC4Riz/owyrZNU1XMaPbSFV5VSXThSIAmdlkfnZkWULOsOTOPihy2fqcOR8rdCykWR1YaK6ws6hf1h1qB7QudmwdlrcLRBZxPHMNDUVxwTaH0Z9m63KuVgqRhVG9oeKGbYxGp7WC2V5Y=;23tUBTpisepUyQhbm/Shog=="
 ---

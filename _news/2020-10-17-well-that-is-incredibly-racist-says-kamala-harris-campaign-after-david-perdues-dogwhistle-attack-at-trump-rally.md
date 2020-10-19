@@ -1423,6 +1423,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump says he will take coronavirus test before next debate with Joe Biden"
+    excerpt: "President Donald Trump said Monday that he will take a coronavirus test before his next debate with Democratic presidential nominee Joe Biden later this week. Trump and Biden are set to square off Thursday for their second,"
+    publishedDateTime: 2020-10-19T19:02:00Z
+    webUrl: "https://www.cnbc.com/2020/10/19/coronavirus-trump-will-take-covid-19-test-before-joe-biden-debate.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/10/19/coronavirus-trump-will-take-covid-19-test-before-joe-biden-debate.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/19/coronavirus-trump-will-take-covid-19-test-before-joe-biden-debate.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 138
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106725721-16015644402020-09-30t020853z_375666085_rc2q8j9vphkj_rtrmadp_0_usa-election-debate.jpeg?v=1603133921"
+        width: 3185
+        height: 2291
+        isCached: true
   - title: "Biden says he would reveal his view on expanding Supreme Court post-election"
     excerpt: "Democratic presidential nominee Joe Biden said on Thursday Americans will learn his position on increasing the number of justices on the U.S. Supreme Court if he defeats President Donald Trump in the Nov."
     publishedDateTime: 2020-10-08T20:40:00Z
@@ -2432,6 +2448,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/05/USAT/9fcc0660-4bb1-44fb-97cf-0653ef0cb38c-AP_Election_2020_Debates.jpg?auto=webp&crop=4770,2684,x0,y309&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump attacked Biden by saying his opponent would 'listen to the scientists' in dealing with COVID-19"
+    excerpt: "President Donald Trump mockingly said during a rally that Joe Biden would \"listen to the scientists\" on the coronavirus."
+    publishedDateTime: 2020-10-19T19:12:00Z
+    webUrl: "https://www.businessinsider.com/trump-nevada-biden-listen-to-scientists-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-nevada-biden-listen-to-scientists-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-nevada-biden-listen-to-scientists-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f8d5a17c21cfb0019468acf?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."
@@ -4967,6 +4999,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence plans Trump campaign rally in Oakland County Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to hold a campaign rally for President Donald Trump in Michigan this week. Pence plans to host a campaign rally in Oakland County on Thursday. The Trump campaign did not provide additional details Monday afternoon."
+    publishedDateTime: 2020-10-19T18:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/vice-president-mike-pence-plans-trump-campaign-rally-in-oakland-county-thursday.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 86
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/WLTW56MQKBEXVP7X63FNRRCXLU.JPG"
+        width: 917
+        height: 688
+        isCached: true
   - title: "'Mr. Vice President, I'm speaking:' Takeaways from the VP debate between Mike Pence and Kamala Harris"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
     publishedDateTime: 2020-10-08T10:55:00Z
@@ -6985,6 +7033,15 @@ related:
     excerpt: "President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Mike Pence delivered remarks at a campaign rally in Miami,"
     publishedDateTime: 2020-10-19T13:34:00Z
     webUrl: "https://www.c-span.org/video/?477110-1/vice-president-pence-campaigns-harrisburg-pa"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Vice President Pence Campaigns Near Harrisburg, Pennsylvania"
+    excerpt: "President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Mike Pence delivered remarks at a campaign rally in Miami,"
+    publishedDateTime: 2020-10-19T18:52:00Z
+    webUrl: "https://www.c-span.org/video/?477110-1/vice-president-pence-campaigns-harrisburg-pennsylvania"
     type: article
     provider:
       name: C-SPAN

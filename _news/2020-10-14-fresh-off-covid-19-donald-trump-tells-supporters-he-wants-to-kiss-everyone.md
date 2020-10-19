@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 823
         isCached: true
+  - title: "Trump goes after Fauci, tries to buck up his campaign team"
+    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
+    publishedDateTime: 2020-10-19T19:17:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Rural voters explain why they’re leaving Trump: ‘I went from being a pawn — to collateral damage’"
     excerpt: "President Donald Trump has desperately tried to convince rural America that he will save them as their communities are slowly falling away. Trump has tried to prop them up with farmer funding, but the tactic shows an ignorance about the issues that rural families are facing when it comes to education and access to medical"
     publishedDateTime: 2020-10-18T05:16:00Z

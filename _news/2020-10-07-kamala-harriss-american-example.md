@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
-    excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn., appearing to suggest that Barrett was publicly lobbying for a judicial job from Trump by writing"
-    publishedDateTime: 2020-10-14T18:01:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7N0kkQA-2LE/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Harris asks Barrett if COVID-19 is infectious and if smoking causes cancer to make climate change point"
     excerpt: "Sen. Kamala Harris asked Judge Amy Coney Barrett if smoking causes cancer and if coronavirus is infectious, in an effort to reveal the Supreme Court nominee’s thoughts on climate change. "
     publishedDateTime: 2020-10-14T22:43:16Z
@@ -94,21 +78,19 @@ related:
         width: 5472
         height: 3648
         isCached: true
-  - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
-    excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn."
-    publishedDateTime: 2020-10-14T23:47:00Z
-    webUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-hearing-heats-up-with-more-tense-exchanges-over-obamacare.amp"
+  - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
+    excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
+    publishedDateTime: 2020-10-11T22:42:00Z
+    webUrl: "https://www.foxnews.com/politics/miami-herald-defends-kamala-harris-from-comparison-to-black-hillary-clinton"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 121
+    quality: 97
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2383d337-30dc-4cfd-85c4-2302a660ee26/053a12df-9ba3-45f7-bb58-79fa86291ba4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"

@@ -655,6 +655,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
+    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
+    publishedDateTime: 2020-10-19T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -1279,6 +1295,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Trump says he will test for COVID-19 before next presidential debate"
+    excerpt: "U.S. President Donald Trump said on Monday he would test for the coronavirus before the next presidential debate with Democratic candidate Joe Biden this week."
+    publishedDateTime: 2020-10-19T19:16:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-test-idUSKBN2742MA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742MA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742MA"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Donald Trump declares himself ready for rallies on phone call with Fox News"
     excerpt: "Donald Trump insisted on Thursday he was ready to resume campaign rallies and felt “perfect” only one week after his Covid-19 diagnosis."
     publishedDateTime: 2020-10-09T13:07:00Z
@@ -2042,6 +2069,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Trump-and-Macron-at-G7.jpg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Donald Trump Jr. Posts Sad Video From Bed Complaining No One Likes Him"
+    excerpt: "The First son claims it’s because Instagram is hiding his posts, not considering the possibility that his posts are bad."
+    publishedDateTime: 2020-10-19T19:00:00Z
+    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-jr-bed-video"
+    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-jr-bed-video/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-jr-bed-video/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5f8dda70faf1b82d3425a7b6/master/pass/donaldtrumpjr.jpg"
+        width: 2000
+        height: 1339
         isCached: true
   - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
     excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."

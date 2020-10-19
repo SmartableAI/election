@@ -170,6 +170,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Twitter adds warning to 'immune' tweet by US President Trump"
+    excerpt: "As President Trump  on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus, Twitter slapped a warning label on his tweet in which he declared he was now “immune” from the virus."
+    publishedDateTime: 2020-10-11T20:38:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tx_XT2LTV3M/twitter-adds-warning-to-immune-tweet-by-us-president-trump"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3feda8a-9f09-4f04-8b12-362f78fe55a2/4dcd18cb-2e8e-4d06-9acb-92f7162bae8e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pelosi to announce bill on 25th Amendment after questioning Trump's health"
     excerpt: "House Speaker Nancy Pelosi on Friday will introduce legislation to create a commission that would allow Congress to oust President Trump from office, using the 25th Amendment."
     publishedDateTime: 2020-10-09T12:40:49Z

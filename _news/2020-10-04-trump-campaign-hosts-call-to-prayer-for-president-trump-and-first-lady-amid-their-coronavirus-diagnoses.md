@@ -351,6 +351,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Doctor says Trump no longer at risk of transmitting virus"
+    excerpt: "President Donald Trump's doctor said Saturday the president is no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T02:11:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yfLteX3PRm0/doctor-trump-risk-of-transmitting-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doctor-trump-risk-of-transmitting-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/699756ba-97d5-4def-a0d5-355653e387c9/298b5b20-3ab3-42d1-b551-db529a0e6716/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump's coronavirus diagnosis"
+    excerpt: "President Trump's doctor said Saturday the president is no longer at risk of transmitting the coronavirus."
+    publishedDateTime: 2020-10-11T10:12:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2u0M1TJ__68/live-updates-trumps-coronavirus-diagnosis"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trumps-coronavirus-diagnosis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trumps-coronavirus-diagnosis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/699756ba-97d5-4def-a0d5-355653e387c9/298b5b20-3ab3-42d1-b551-db529a0e6716/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Live Updates: Trump tests negative for coronavirus on consecutive days"
     excerpt: ""
     publishedDateTime: 2020-10-13T05:42:50Z
@@ -366,6 +398,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42496b92-14ce-4686-a19a-adfd80e695ee/5c9baa64-c646-4abc-af68-41489334e590/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Supreme Court sides with Trump administration to end census count early"
+    excerpt: "The U.S. Supreme Court on Tuesday side with the Trump administration to stop the census count early instead of allowing it to continue through the end of October."
+    publishedDateTime: 2020-10-13T21:33:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H55u4s1Kkc4/supreme-court-sides-with-trump-administration-to-end-census-couont-early"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-sides-with-trump-administration-to-end-census-couont-early.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-sides-with-trump-administration-to-end-census-couont-early.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b44405f-bba6-4488-b5d1-0b568bb97020/d4f32897-b495-437e-b40b-e58eb4551a80/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says people 'tired' of Fauci, coronavirus"
+    excerpt: "President Trump on Monday said the American people are “tired” of the novel coronavirus, and “tired” of Dr. Anthony Fauci “and all these idiots.\""
+    publishedDateTime: 2020-10-19T18:11:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9udr85B4NEg/trump-anthony-fauci-criticism-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-anthony-fauci-criticism-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-anthony-fauci-criticism-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled."
@@ -1177,6 +1241,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ninth Circuit court rules Trump can’t divert military funds for border wall"
+    excerpt: "The 9th Circuit Court of Appeals on Friday ruled that President Donald Trump could not use emergency powers to divert $3.6 billion in military constructions to building the border wall, dealing another blow to the president’s signature 2016 campaign pledge."
+    publishedDateTime: 2020-10-12T19:47:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UKQP5mMFY2M/ninth-circuit-court-trump-cant-divert-military-funds-border-wall"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 153
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20277547402018.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump to hold first in-person event at White House since getting coronavirus"
     excerpt: "President Trump plans to hold his first in-person event at the White House on Saturday since getting coronavirus, Fox News has confirmed."
     publishedDateTime: 2020-10-09T19:49:44Z
@@ -1296,6 +1374,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-241538/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "GOP Senators Brace for Fight With Trump Over Coronavirus Aid"
+    excerpt: "The White House and Senate Republicans are divided over the size of last-minute coronavirus aid, with President Trump signaling he would support a package approaching $2 trillion, narrowing the distance with House Democrats."
+    publishedDateTime: 2020-10-16T21:07:00Z
+    webUrl: "https://www.wsj.com/articles/gop-senators-brace-for-fight-with-trump-over-coronavirus-aid-11602881510"
+    ampWebUrl: "https://www.wsj.com/amp/articles/gop-senators-brace-for-fight-with-trump-over-coronavirus-aid-11602881510"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/gop-senators-brace-for-fight-with-trump-over-coronavirus-aid-11602881510"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-246180/social"
         width: 1280
         height: 640
         isCached: true
@@ -1436,6 +1530,15 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Record Black Voter Turnout Will Fire Trump, Save Lives"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-13T11:39:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/13/record_black_voter_turnout_will_fire_trump_save_lives_526190.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "VsjBWt356g3Evc5Ox0SvzIbpM+hCj8FNaKpaDqEbt9np8PO96lbd1AcV+Nim3nd9QHZPQOycsyWigjGJWy14hG2JbyFs7OqANzLiE3rqSGbltI8HF7pYVt0FbO6nAvjpU7AComeZcE8el247fpsfcontWvHtvXahWm0/XdJUIhhkWTBUKVmvltZuLCL8CJ4TC/eM7Au8kAUmBuyalT/EecVh9LQwvZcSZ6GhuJBD5uMpsAM5DeGnBpTS8EaPWip5Ah8VwHFhmw1m7gMupdSrc5emNBEHAQAuFU+IAeQiPvSnLQIi1sUPXQIt6SK98N4uXCjHpF0qCVJ9gKM+xeaMgOaW14Wr0MYPfEsJsUR+ajQ=;EszuEKgOlKYiDE4dNi+1GA=="
 ---

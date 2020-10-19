@@ -1058,6 +1058,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump is patient zero for misinformation. And we don't have a cure."
+    excerpt: "With President Donald Trump referring to Dr. Anthony Fauci as a “disaster” and complaining on a campaign call that “people are tired of hearing Fauci and all these idiots” continue to talk about the coronavirus,"
+    publishedDateTime: 2020-10-19T19:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-patient-zero-misinformation-we-don-t-have-cure-ncna1243879"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3419431/201012-one-time-use-donald-trump-balcony-cs-156p_6979ef6045902df3c5ed19163dc27bc1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "At indoor Florida event, Trump urges seniors to shield themselves from Covid"
     excerpt: "The president added that he perhaps would have remained indoors to avoid possible infection, were it not for the office he held."
     publishedDateTime: 2020-10-16T19:39:00Z
@@ -1136,6 +1150,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "6W1/w0SJB64ZvaJR6z5ar3888QxIuoV/vvg6Zxivpna7bp2fU/t9ribE7D+zqh/n0BKGQeQQZm6uADD1lSLcm9knopdH8Wz4ePS0+pbmc86ZmlP/lg6eSlYOrnKULKMOSMgRKVGul/DKdyxgR9llBJLDQ7FTtGkcOXPxQKrmZBBarrVThAo5tlb8yYWk83k86TaR2M73D7rU1lmoPIfA5P+8I/F5/HJr7JV3eyC3NCDodRcxGjCFiphSV8IB4HqtWh2XH+uhUaBc+WZAUjpAOB0keYIs0ndpbIyccwhA0N09EUukjqjF8Jnh5BvE8OM9fpnkmhLYimMuqhzp4D9kURJHJV27rV2SddN+8Z589sg=;4nlYeInvJdAmWVbI0rVvWQ=="
+secured: "7fPZID0nSdUFVwjxOaRt9Vu8EuwZYdjg7homNPkHUcqwnCBfifTLcHyM99SX03LSP9nOHa6ZaCs4UZSR2Hpy3r9enJ6baqB2UN+ON2zlRpVYvg/6ItDdN6rPT/1zyRkaxEqf3XIwKnVgto+f7hJDEPWEUkgnYaMJU85Lj6DUgOn7Aw8rghK+K6NxtPEhrQ91svYuREjN83kPa2/mIDpveigZUmEgLEtcyKO/mbYLbVr1jBEToyGQo1CcRLs9X6z+jU/gegFIMj9ggFVtmdkOdmD/I2aAqemTexqkf63ZqeTH7LCMn+qOzZMhoGCz/RzUMrm0XMlDxvt+2whoAWS0BPYDCmF6FxDzXP/NwNvW13oJMtiTMNbWVk73e636er62j/FgROtLQ3NvO+RW6wr6KnVwD5QhladUHQT+RPZVUUNpbu+EXJhLxCYUVR+LOfKINvrMTWCxfi98XrooqFpWAYpgi9C/+wbbWDLb1F9XlmkZmsFF6xBBnTOIJyw2zRRohrXadMAV079JSfVZPyE44g==;XXPPr/jxvkj2HntTpxyyeg=="
 ---
 

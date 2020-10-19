@@ -239,6 +239,22 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Joe Biden takes question on milkshake flavors, scurries away after Hunter Biden inquiry"
+    excerpt: "Democratic presidential nominee Joe Biden was ready and willing to talk about his favorite milkshake flavors this weekend until the subject turned to his son Hunter."
+    publishedDateTime: 2020-10-19T19:13:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-takes-question-on-milkshake-flavors-scur/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Biden_70752.jpg-301da_c0-0-5329-3108_s1200x700.jpg?5e87b37174222647cce88ce9da594e5f12880f5c"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z

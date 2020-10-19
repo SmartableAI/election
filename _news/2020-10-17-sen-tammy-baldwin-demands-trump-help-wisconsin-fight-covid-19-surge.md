@@ -107,6 +107,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign sends letter to debate commission asking for more focus on foreign policy"
+    excerpt: "President Trump’s campaign manager sent a two page letter on Monday to the Commission on Presidential Debates, asking the committee to \"rethink and reissue\" the topics that will be discussed during this week's upcoming presidential debate in Nashville."
+    publishedDateTime: 2020-10-19T19:38:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JEwF5UWeR2A/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-sends-letter-to-debate-commission-asking-for-more-focus-on-foreign-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump predicts victory in call with campaign staffers, suggests race has turned in last 3 weeks"
+    excerpt: "President Trump on Monday predicted said he is “going to win” on Nov. 3, saying the campaign has “never been in a stronger position.\""
+    publishedDateTime: 2020-10-19T16:03:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4JcfElRhGbM/trump-predicts-victory-campaign-call"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-predicts-victory-campaign-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-predicts-victory-campaign-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Ivanka Trump returns to Arizona on Sunday for campaign event"
     excerpt: "Ivanka Trump heads to Arizona this weekend for a campaign event, capping off a busy week for Copper State voters."
     publishedDateTime: 2020-10-10T15:30:27Z
@@ -148,6 +180,20 @@ related:
       - url: "https://assets.realclear.com/images/52/521717.jpg"
         width: 1136
         height: 852
+        isCached: true
+  - title: "Donald Trump: I Think We'll Do Better Than 2016, We're Way Ahead Of Where We Were in 2016"
+    excerpt: "The president spoke to reporters Monday as he arrived in Arizona for a campaign event."
+    publishedDateTime: 2020-10-19T18:58:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/19/donald_trump_i_think_well_do_better_than_2016_were_way_ahead_of_where_we_were_in_2016.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 56
+    images:
+      - url: "https://assets.realclear.com/images/52/524555.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "YduvpEws1cpbVu8wO5XS6G63WAThVoAgkuHbopBT0zndPpQPqDGlIQzcAyMhfCYQD32J5pxNXBiJwuWskgmXHxsqpi/yRYrTJ9cn6GipZNK8+B+VmirXLHu0Y/dpb2pfEw/PkPUGYxaB9gOLuy0PGtbK44RNeObvwFBJDZ5Ia/d8eH++7ZZPsw5n1+VoEIVuoyK9ixwFkUa1AJuwwo+Xe4BLPnY9xz2osxIctEZH39gm0r/WmNL0JzA+v1UmuCYOZ4X4hLoVfLnTxonMIDZbp5XgmxQl+OCcfJwPLB0lxVimI7YsotE8xJYYivMhb9BexxtftUJFLsVdTn9O8SxFpLj54NJxZGZKNK4Gn/LVGyQ=;FF2xKKVGuZ3R9w3dR+3yoQ=="
