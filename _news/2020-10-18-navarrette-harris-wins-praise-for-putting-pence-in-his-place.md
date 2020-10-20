@@ -1929,7 +1929,7 @@ related:
   - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
     excerpt: "Democratic nominee says Americans are “tired” of president’s lies over Covid"
     publishedDateTime: 2020-10-20T11:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates?page=with:block-5f8eb6b78f0898b43591809d"
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates?page=with:block-5f8e9fbf8f0898b435917f5e"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
     type: article
@@ -3860,14 +3860,14 @@ related:
         isCached: true
   - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
     excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-    publishedDateTime: 2020-10-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    publishedDateTime: 2020-10-20T14:00:00Z
+    webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+    ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 98
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
@@ -5654,6 +5654,22 @@ related:
       - url: "https://imgix.bustle.com/uploads/image/2020/10/15/e18d5e16-ba9f-4512-87c8-711550ecbe50-screen-shot-2020-10-15-at-101653-am.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Conservatives voting Joe Biden over Donald Trump are patriots. Thanks for the inspiration."
+    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
+    publishedDateTime: 2020-10-20T15:18:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3696503001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3696503001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Do Karen Pence And Doug Emhoff Campaign? What The Spouses Contribute Ahead Of Mike Pence-Kamala Harris Debate"
     excerpt: "Both second lady Karen Pence and Kamala Harris’ husband, Doug Emhoff, have hit the campaign trail this year on behalf of their spouses, as the November election looms."

@@ -41,33 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Rick Gates Calls on Trump to Pardon Him — And Everyone Convicted of Crimes by Mueller Probe"
-    excerpt: "Donald Trump's former 2016 deputy camping manager Rick Gates calls on the president to pardon him — and everyone else convicted of crimes by the Mueller Probe"
-    publishedDateTime: 2020-10-15T01:18:00Z
-    webUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/"
-    ampWebUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Rick-Gates-Calls-on-Trump-to-Pardon-Him-And-Everyone-Convicted-of-Crimes-by-Mueller-Probe-1200x672.jpg"
-        width: 1200
-        height: 672
-        isCached: true
-  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
-    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
-    publishedDateTime: 2020-10-13T01:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "yIsw/mMLtJK1eeIJUgKo4XL5vkdqqaYD7wvrlzFGBFCtKNxBQ+vo63NajinG2HepITckJVKZy+atBSKDyz/wNmUrRrkUGOhwiGH81Bo4CS5oiFjvPfr35PIsTM3kuvVoSJs09byLm0gpc2Pln5HCumPZx8TfgTC7DtAxvMoqirx7RmNFK3hx0yomTEdA4VF/3wcDVLaAQfxFwGD7c/3F+Y4NiZ+KNeeP4tsMaDMLkdJRJ5aWTaUsS8S+bKqBJ2ZFDgqr/FgtIZPrtG/16uxaTTEhcEnxNaIRoOpPmAHgwd2Qu23y/cXWDz0z2I0L9wgGbRzJFdmCEu+32ZrHRKPYcY+meWDWHVjpT2F0Mrsa6ro=;cNUppqgpXGfiM43cwhtmbg=="
 ---

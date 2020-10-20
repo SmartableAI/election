@@ -365,6 +365,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says choice is 'American Dream' or 'socialist hellhole' in 2020 race"
+    excerpt: "President Trump on Tuesday equated the race between himself and Democratic nominee Joe Biden in the 2020 presidential election as a choice between the \"American Dream\" and a \"socialist hellhole.\""
+    publishedDateTime: 2020-10-20T14:13:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vBGWc24bTug/trump-biden-american-dream-socialist-hellhole"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-american-dream-socialist-hellhole.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-american-dream-socialist-hellhole.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293704879004-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
     publishedDateTime: 2020-10-17T14:54:00Z
@@ -472,6 +488,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-5.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Stars who have endorsed Trump for president"
+    excerpt: "Roseanne Barr, Trace Adkins and Kirstie Alley have spoken out in favor of Donald Trump in the 2020 presidential election"
+    publishedDateTime: 2020-10-20T12:21:00Z
+    webUrl: "https://www.foxnews.com/entertainment/stars-endorsed-trump-president"
+    ampWebUrl: "https://www.foxnews.com/entertainment/stars-endorsed-trump-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/stars-endorsed-trump-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/0ab15917-johnny-rotten-sex-pistols-reuters.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump administration secures release of two American hostages from Yemen"
     excerpt: "President Donald Trump has secured the release of two American hostages held captive by Houthis in Yemen, Secretary of State Mike Pompeo said on Wednesday."

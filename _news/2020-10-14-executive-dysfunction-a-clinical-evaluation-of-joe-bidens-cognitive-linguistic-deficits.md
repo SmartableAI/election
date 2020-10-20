@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
-    excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."
-    publishedDateTime: 2020-10-16T12:41:00Z
-    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden snaps at CBS reporter for Hunter question: 'Another smear campaign, right up your alley'"
     excerpt: "Democratic presidential nominee Joe Biden snapped at CBS News reporter Bo Erickson Friday night for asking about a New York Post report that the former vice president described as a “smear campaign.”"
     publishedDateTime: 2020-10-19T14:28:00Z

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Michelle Goldberg column: Is the Trump campaign colluding with Russia again?"
+    excerpt: "According to The Washington Post, U.S. intelligence agencies warned the White House last year that Giuliani, then searching in Ukraine for dirt about Biden and his son Hunter, was the target of a Russian influence operation."
+    publishedDateTime: 2020-10-20T14:48:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-trump-campaign-russia-hunter-biden-20201020-qtnsvdsixrexzli62o5bkmmcay-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Dc8h7rcK6xp9zygY3UMLNyYObsw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E3DWMOIFMLK7J2OA6APXQJE6OM.jpg"
+        width: 1200
+        height: 876
+        isCached: true
   - title: "Column: For President Donald Trump, for all of us, there might be no second chance to repent"
     excerpt: "Trump puts Secret Service agents at risk with COVID Car Ride — but relax, it was medically necessary » We’ve warned him innumerable times, “You’ll hurt yourself! You’ll fall!” to no avail. He tumbled entirely off his chair this morning,"
     publishedDateTime: 2020-10-05T21:25:00Z

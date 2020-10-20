@@ -60,6 +60,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Barrett confirmation is going to go 'really well,' President Trump says"
+    excerpt: "Supreme Court nominee Amy Coney Barrett has “become a major star,” President Trump told “Fox & Friends” during an exclusive interview on Tuesday, adding that “people love her.”"
+    publishedDateTime: 2020-10-20T15:06:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tGBndNpOFE4/barrett-confirmation-president-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/barrett-confirmation-president-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-confirmation-president-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "An Ex-Liberal Reluctantly Supports Trump"
     excerpt: "How historian Fred Siegel came to appreciate the president’s defense of ‘bourgeois values’ against the ‘clerisy.’"
     publishedDateTime: 2020-10-16T19:32:00Z

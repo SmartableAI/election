@@ -9,8 +9,8 @@ ampWebUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-mor
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
 type: article
 quality: 121
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hill
@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
+  - title: "NYT: Casino connections helped Trump engineer $21M windfall during 2016 race"
+    excerpt: "President Trump's tax records reveal that the president engineered a windfall of more than $21 million during his 2016 presidential run,"
+    publishedDateTime: 2020-10-09T21:19:00Z
+    webUrl: "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race"
+    ampWebUrl: "https://thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/520421-nyt-casino-connections-helped-trump-engineer-21m-windfall-during-2016-race?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: The Hill
+      domain: thehill.com
+    quality: 122
     images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
-        isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
-    excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
-    publishedDateTime: 2020-10-04T05:42:00Z
-    webUrl: "https://www.ibtimes.com/wh-chief-staff-trump-improving-doctors-were-very-concerned-3056365"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-chief-of-staff-mark-meadows-speaks.jpg"
-        width: 1024
-        height: 682
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092820getty_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "wgSv+SetjCzvy9ZLJ6QzPmMXoYSjhU/IusbUkhzzgFvv08sSfuTcJlLOfDDE65cXA9bo4t8zcNWGVz1UAza4K0/lxIqr5eSZSWIGZ6Oe7RPS5xVSMN7LbwNRgDyt9Qf9sFdARY/uO8HWTxS1Z4LATGsRg3yRDfhT6I3VPh0xco9MAUKy9oPRHywlheOKhmjgqCljkUSwJY1FBkjaGPHANJ5nAbd7MbjWnzLnU5bHOF65V5HRjmIvskmceskRpaX68b3M/CQLGKfCkQsbUwa/WSiWszFIuIMoaT3Ae/HfnFkmezIISsS6UAqOl02CRWms+4igP9Y/khw7V/GxBP+b0QHcIMObaZ1DCaaiZxERXfk=;smYLs6Y0Y0maS+AVaJBRFw=="

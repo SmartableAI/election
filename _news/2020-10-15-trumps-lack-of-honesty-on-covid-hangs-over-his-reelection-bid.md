@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1690
+heat: 1710
 published: true
 
 provider:
@@ -1100,6 +1100,20 @@ related:
     quality: 115
     images:
       - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3419431/201012-one-time-use-donald-trump-balcony-cs-156p_6979ef6045902df3c5ed19163dc27bc1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "We may never recover from the damage Trump has done to the Supreme Court"
+    excerpt: "Unless, of course, you’re a nominee for the Supreme Court of the United States. Then, based on how the Republicans have handled the vacancy created by Justice Ruth Bader Ginsburg’s death, there are no rules."
+    publishedDateTime: 2020-10-20T15:14:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/we-may-never-recover-damage-trump-has-done-supreme-court-ncna1243986"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 114
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421322/201019-scotus-rule-breaking-main-cover-cs_ba189f66d2516b7770557600c5511f72.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Q1IE"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Q1IE"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "UK PM Johnson says 'resilient' Trump will make strong recovery"
+    excerpt: "British Prime Minster Boris Johnson said on Saturday he has no doubt U.S. President Donald Trump will make a very strong recovery from COVID-19, calling him a very \"resilient character\"."
+    publishedDateTime: 2020-10-03T12:39:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0HX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0HX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "China's Xi wishes Trump speedy recovery: Chinese state media"
     excerpt: "Chinese President Xi Jinping sent a message to U.S. President Donald Trump and his wife Melania on Saturday, wishing them a speedy recovery from the coronavirus, Chinese state television reported."
     publishedDateTime: 2020-10-03T10:46:00Z

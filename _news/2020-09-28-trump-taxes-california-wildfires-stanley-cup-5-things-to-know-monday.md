@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3530752001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3530752001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_57290137ea1d4489bf90b58b7ef15c68_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump, in reversal, approves California wildfire aid"
+    excerpt: "U.S. President Donald Trump approved California's request for additional wildfire recovery relief, reversing his administration's earlier denial after intervention from the state's governor and a key Republican lawmaker."
+    publishedDateTime: 2020-10-17T05:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-wildfires-california-trump-idUSKBN27130C"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27130C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27130C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537785422&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F1ON"
+        width: 817
+        height: 545
         isCached: true
   - title: "Voter Registration Day, Trump's UN address, Tropical Storm Beta: 5 things to know Tuesday"
     excerpt: "This is a good day to register to vote, President Trump's U.N. address will be released before his latest rally and more news to start your Tuesday."

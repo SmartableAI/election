@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5956103002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5956103002"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 173
+published: true
 
 provider:
   name: USA Today
@@ -31,37 +31,48 @@ images:
     isCached: true
 
 related:
-  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
-    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
-    publishedDateTime: 2020-10-09T20:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
+  - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
+    excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
+    publishedDateTime: 2020-09-19T13:55:00Z
+    webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pence tells Reading crowd the path to victory ‘runs through Pennsylvania’"
+    excerpt: "Vice President Mike Pence returned to the critical battleground state of Pennsylvania on Saturday, declaring President Donald Trump a champion of the “forgotten men and women of America” and blasting Joe Biden as a “Trojan Horse for the radical left."
+    publishedDateTime: 2020-10-17T19:32:00Z
+    webUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html"
+    ampWebUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Morning Call PA
+      domain: mcall.com
+    quality: 74
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
+      - url: "https://www.mcall.com/resizer/b2hiFAaesVrzFrCtokD2xh0M_5M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RLJBBLSJDFRVOHOFAZPDRV7UW4.jpg"
         width: 1200
-        height: 676
+        height: 823
         isCached: true
-  - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
-    excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
-    publishedDateTime: 2020-10-16T02:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3673997001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3673997001"
+  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
+    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
+    publishedDateTime: 2020-10-17T21:41:00Z
+    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
+      name: Penn Live
+      domain: pennlive.com
+    quality: 68
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/424acc15-845d-46b8-899e-cc82488a32a4-AP_Election_2020_Biden.jpg?auto=webp&crop=4016,2259,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
+        width: 1024
+        height: 616
         isCached: true
 
 secured: "BLFPUPV05qU1peSlFlcaXwuMNCl+vrQwBjBnrKMH8wiVLO2P+7u2eWzwyzBLBogJHqopQSlNOE4HAra360QY2Dft88H2S7Uu7drwtd09i8+bb9t5imAoyyl+zAW130nhhDvV3k+COIFFpdyA1+J9B/bAJ1oeMtEzLXLl+DCnE1dtTnMflspCcrldX2oavEI4eeNJe0Zi5UH5lXETNvD0Sk4PYg7bmUWJpDU9lm66x8FpZKDWH/cQBUc0lTFdTnMY3IBLW3LCpuR0oBe+ywpQ9G1W+dUHGbgxBSQxa0euMcxZhP1NThi/Kqv6LoU85R35Ba1rYJ+3oAEtxKES+VnpRgwrOwJ+1+a9N+AbC09uC9uf40woYgQlPaQqacUo0PmrNHiSlJVLL/5YVpdEBbO72d5lc+LnhlNqGy3MV/1VePlucx4gcxoutWt2pZrH3E2UJ08UFJWMfyJSitmYTpNJKQaXdmbsQ92LqJi4V8gDiPDXfRp2xsgJa+vZf1KZjqKwm2w6llnACRDJNXjHH50gZQ==;1CJ30fOLOU+9zd01iWaCzQ=="

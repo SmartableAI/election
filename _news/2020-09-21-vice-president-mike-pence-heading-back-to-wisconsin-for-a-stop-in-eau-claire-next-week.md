@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3478216001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3478216001"
 type: article
 quality: 117
-heat: -1
-published: false
+heat: 357
+published: true
 
 provider:
   name: USA Today
@@ -31,182 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
-    excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
-    publishedDateTime: 2020-09-18T01:06:00Z
-    webUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally"
-    ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Watch live: Biden gives remarks from Duluth, Minnesota"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-18T19:16:00Z
-    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
-    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
-        width: 580
-        height: 391
-        isCached: true
-  - title: "Watch live: Biden gives remarks from Duluth, Minnesotta"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-18T19:16:00Z
-    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
-    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
-        width: 580
-        height: 391
-        isCached: true
-  - title: "Japan's Suga holds 1st phone talks with Trump as leader"
-    excerpt: "Japan’s Prime Minister Yoshihide Suga held his first talks with U.S. President Donald Trump since he took office, a diplomatic phone call that was one of his first as the country’s leader and one that"
-    publishedDateTime: 2020-09-21T03:34:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/japans-suga-holds-1st-phone-talks-trump-leader-73139314"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_fccbc16f8d65453ab031c7b6b3cba13d_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "WATCH LIVE: Trump speaks at campaign rally in Swanton, Ohio"
-    excerpt: "Republican strategists say Trump has lost support in suburbs across the state he carried in 2016, prompting debate among Republicans about whether his rural outreach can offset the continued decline in metro areas."
-    publishedDateTime: 2020-09-21T18:06:00Z
-    webUrl: "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-trump-speaks-at-campaign-rally-in-swanton-ohio"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 125
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/main10-1024x693.jpg"
-        width: 1024
-        height: 693
-        isCached: true
-  - title: "Dear Donald, Dear Mr. President: A Trump-Nixon '80s tale"
-    excerpt: "So it went, the patter of “Dear Donald” and “Dear Mr. President.” Trump, putting his usual self-congratulatory stamp on the exchanges, said shortly after the 2016 election that he didn't know Nixon “but he would write me letters."
-    publishedDateTime: 2020-09-23T14:29:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_31626c15fafe4dc49bd2bf7de674898c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
-    excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
-    publishedDateTime: 2020-09-18T03:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How to Watch, Live Stream Trump's Tuesday Rally in Pennsylvania, a Crucial State for the President"
-    excerpt: "The Trump campaign hopes to pull off a repeat victory next month in securing all 20 of the state's electoral votes."
-    publishedDateTime: 2020-09-22T19:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317"
-    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-trumps-tuesday-rally-pennsylvania-crucial-state-president-1533317?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 111
-    images:
-      - url: "https://d.newsweek.com/en/full/1639685/trump-pennsylvania-rally.jpg"
-        width: 594
-        height: 360
-        isCached: true
-  - title: "President Donald Trump welcomes high school football players on stage at rally who carried thin blue/red flags"
-    excerpt: "President Trump brought the Little Miami High School football players who carried police and fire support flags on stage at a rally outside Toledo."
-    publishedDateTime: 2020-09-22T11:50:00Z
-    webUrl: "https://www.usatoday.com/story/sports/highschool/2020/09/22/little-miami-players-who-carried-thin-line-flags-stage-trump/5862815002/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/5862815002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5862815002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/22/PCIN/b74366ce-49e5-477d-87f1-7f64aec7241e-0921_Trump_Little_Miami.jpg?auto=webp&crop=1023,576,x0,y34&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:47:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 100
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
-        width: 512
-        height: 360
-        isCached: true
-  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:22:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 100
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
-        width: 1527
-        height: 2048
-        isCached: true
   - title: "LIVE: VP Mike Pence speaks at rally in Wisconsin"
     excerpt: "Vice President Mike Pence and Democratic vice presidential candidate Sen. Kamala Harris have various events Monday."
     publishedDateTime: 2020-09-14T16:08:00Z
@@ -223,49 +47,172 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Mike Pence highlights law and order during Wisconsin visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to \"law and order\" during a campaign stop Monday in swing state Wisconsin about 70 miles from a city where sometimes violent protests erupted after the police shooting of Jacob Blake."
-    publishedDateTime: 2020-09-14T18:50:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-highlights-law-and-order-during-wisconsin-visit/article_fd3624f7-eecd-5afd-aa55-fb484f2238ca.amp.html"
+  - title: "Vice President Mike Pence to make NH campaign stop next week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
+    publishedDateTime: 2020-09-23T00:52:00Z
+    webUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
+      name: WTSP
+      domain: wtsp.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/8/1a/81a82209-647d-532f-b9f0-f1c1fcd628a4/5f5fbb9ba291e.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Pence highlights law and order during Wisconsin visit"
-    excerpt: "Vice President Mike Pence emphasized President Donald Trump's commitment to “law and order” during a campaign stop Monday in swing state Wisconsin about 70 miles from"
-    publishedDateTime: 2020-09-14T18:10:00Z
-    webUrl: "https://omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.html"
-    ampWebUrl: "https://omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/govt-and-politics/pence-highlights-law-and-order-during-wisconsin-visit/article_6f0cc684-4292-59f7-b2ef-299c519621c5.amp.html"
+  - title: "Vice President Mike Pence in Eau Claire"
+    excerpt: "Republican vice presidential candidate, Indiana Gov. Mike Pence greets the crowd before introducing Republican presidential candidate Donald Trump at a rally on August 5, 2016 in Green Bay, Wisconsin."
+    publishedDateTime: 2020-09-24T17:43:00Z
+    webUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/"
+    ampWebUrl: "https://wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+    cdnAmpWebUrl: "https://wtmj-com.cdn.ampproject.org/c/s/wtmj.com/news/2020/09/24/live-vice-president-mike-pence-in-eau-claire/amp/"
+    type: article
+    provider:
+      name: WTMJ
+      domain: wtmj.com
+    quality: 75
+    images:
+      - url: "https://wtmj.com/wp-content/uploads/2020/01/Pence-Milwaukee.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Vice President Mike Pence to make campaign stop in Council Bluffs this week"
+    excerpt: "The Trump campaign announced that Pence will host a “Make America Great Again!” event at Owen Industries Inc. in Council Bluffs on Thursday."
+    publishedDateTime: 2020-09-28T15:32:00Z
+    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
+    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
     type: article
     provider:
       name: Omaha.com
       domain: omaha.com
-    quality: 75
+    quality: 73
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/96/496d4536-ec81-54cc-9113-70b14364a41d/5f5fce38a386e.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
+        width: 512
+        height: 341
         isCached: true
-  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
-    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
-    publishedDateTime: 2020-09-18T02:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
+  - title: "Vice President Mike Pence returns to the Badger State with visit to Janesville"
+    excerpt: "Vice President Mike Pence returned to the Badger State on Monday — just a week after he last visited Wisconsin."
+    publishedDateTime: 2020-09-14T21:05:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/2020/09/14/vice-president-mike-pence-returns-badger-state/5791029002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5791029002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5791029002"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/19/PMJS/f9f3e6eb-2751-4e0a-90ba-fde31c22a82c-MJS_Pence_nws_sears_10.JPG?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
+    excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
+    publishedDateTime: 2020-09-17T23:56:00Z
+    webUrl: "https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+    ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 67
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence returns to Wisconsin for campaign bus tour and event at Eau Claire manufacturing plant"
+    excerpt: "Vice President Mike Pence stopped in western Wisconsin on Thursday to rally support for the Trump administration's efforts to revive the nation's economy clobbered by the coronavirus pandemic and to fight for voters in a politically unpredictable area of the state."
+    publishedDateTime: 2020-09-24T20:15:00Z
+    webUrl: "https://www.jsonline.com/story/news/politics/elections/2020/09/24/mike-pence-returns-wisconsin-campaign-bus-tour-eau-claire-event/3515310001/"
+    ampWebUrl: "https://amp.jsonline.com/amp/3515310001"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/3515310001"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 62
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/24/PMJS/07411742-e187-478e-86c1-f264abf0bc4d-MJS-pence25_web.jpg?auto=webp&crop=3599,2024,x1,y314&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to visit Eau Claire"
+    excerpt: "With the reopening of Hobbs Ice Arena to the public starting this weekend, Eau Claire Parks, Recreation, and Forestry is offering some dry floor activities for community members."
+    publishedDateTime: 2020-09-19T09:06:00Z
+    webUrl: "https://www.weau.com/2020/09/17/vice-president-mike-pence-to-visit-eau-claire/"
+    type: article
+    provider:
+      name: WEAU
+      domain: weau.com
     quality: 55
+    images:
+      - url: "https://gray-weau-prod.cdn.arcpublishing.com/resizer/W2DtwmpyvfW-VUvmh1r2Lapr0wk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/4JIURJEWDBERNBNF4SAHJHWKTI.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Timeline of Mike Pence’s visit to Eau Claire on Thursday"
+    excerpt: "EAU CLAIRE (WQOW) – Vice President Mike Pence is coming to Eau Claire on Thursday and now we are getting a look at his schedule for the day. Pence will arrive at the Chippewa Valley Regional Airport aboard Air Force Two at 10:50 a.m. From there he will ..."
+    publishedDateTime: 2020-09-23T17:50:00Z
+    webUrl: "https://wkow.com/2020/09/23/timeline-of-mike-pences-visit-to-eau-claire-on-thursday/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 55
+    images:
+      - url: "https://quincy-network.s3.ca-central-1.amazonaws.com/wp-content/uploads/sites/8/2020/09/Pence-8.jpg"
+        width: 871
+        height: 518
+        isCached: true
+  - title: "VP Mike Pence is Coming to Eau Claire Today. Here’s What You Need to Know."
+    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
+    publishedDateTime: 2020-09-24T15:36:00Z
+    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+    type: article
+    provider:
+      name: Volume One
+      domain: volumeone.org
+    quality: 53
+    images:
+      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "VP Mike Pence is Coming to Eau Claire Thursday. Here’s What You Need to Know."
+    excerpt: "Earning Wisconsin’s 10 electoral votes will be critical to whoever wins the White House this fall, which explains why the state has seen – and will continue to see – high-profile candidate visits."
+    publishedDateTime: 2020-09-26T01:42:00Z
+    webUrl: "https://volumeone.org/articles/2020/09/24/266755-vp-mike-pence-is-coming-to-eau-claire-today"
+    type: article
+    provider:
+      name: Volume One
+      domain: volumeone.org
+    quality: 52
+    images:
+      - url: "https://volumeone.org/uploads/image/article/266/755/266755/header_1920x1080/116077_48943956096_102c437e6d_k.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Air Force Two carrying US Vice President Mike Pence forced to make emergency landing"
+    excerpt: "A plane carrying US vice-president Mike Pence was forced to make an emergency landing after a suspected collision with birds. Air Force Two was forced to return to an airport in New Hampshire shortly after taking off for Washington DC."
+    publishedDateTime: 2020-09-23T09:35:00Z
+    webUrl: "https://www.standard.co.uk/news/world/air-force-two-mike-pence-emergency-landing-a4554066.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 48
+    images:
+      - url: "https://static.standard.co.uk/s3fs-public/thumbnails/image/2020/08/27/04/pence-27-08.jpg"
+        width: 2461
+        height: 1640
+        isCached: true
 
 secured: "1Q+g+NFTyHllogFv/JeJnAJgfVN5hndd8EGWMWRxHBXuHVw32ZR0JatPjn53mJLob6m7mtyxCXWQjbI2KRVp62R+R06w04Q+vn+hzNm7jq32yaTAQuby3Xwa+t8TzT0gGv3YWM9c4atv0kD0/+qJd2VR4dYTh9JBXw04NCTZR5jGC37QP8A1ehq2XQ3i/Zpsw6LnM8eT2RgVt64ExAfQ30+9VzuqNDXlpbZInaciClZNVr1V1urwp1TFbHf0XUcOZryuCrxnUMePOeZZzcF8ks8QD/sagWLG8eeb73BzmuS/A4OAFBzr2pvDplnefGOgb1mQLiV4IBXkPFLB+bY59WcyHpmU/Yx6sqfBDY00rtwgQcyPYcKHDuHpWXsmX7u+9xDdhnqzqM26cdYX9/HrkJV/KxgQyM4JjiVJ0I1IM30sG2H7FVvDH1sFAyXC2BA/bdGT0UB6lTladBcumXLuosrHX5RV9fAQfc+dRetAuuytIk40LS4wMVYYUWcBQxtKX0hL5V12swOYwEWs817daw==;Uhqcp6X+31WpgInNYNjUWw=="
 ---

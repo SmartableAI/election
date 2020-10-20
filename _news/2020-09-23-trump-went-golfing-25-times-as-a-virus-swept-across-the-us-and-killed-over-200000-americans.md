@@ -175,20 +175,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The American People Deserve to Know More About President Trump's Condition"
-    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
-    publishedDateTime: 2020-10-03T19:39:00Z
-    webUrl: "https://time.com/5895970/trump-covid-19-health/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 103
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
     excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."
     publishedDateTime: 2020-09-17T15:52:00Z

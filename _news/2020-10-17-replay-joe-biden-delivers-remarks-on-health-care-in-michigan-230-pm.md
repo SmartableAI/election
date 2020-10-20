@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner"
+    excerpt: "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic."
+    publishedDateTime: 2020-10-20T15:27:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan"
     excerpt: "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care."
     publishedDateTime: 2020-10-16T15:47:00Z
