@@ -610,6 +610,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cal Thomas: Can Joe Biden be trusted? Hunter Biden scandal begs the question"
+    excerpt: "Joe Biden should be pressed before Nov. 3 to explain his son Hunter's financial dealings in Ukraine and Beijing."
+    publishedDateTime: 2020-10-20T11:05:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-hunter-biden-scandal-cal-thomas"
+    ampWebUrl: "https://www.foxnews.com/opinion/joe-biden-hunter-biden-scandal-cal-thomas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/joe-biden-hunter-biden-scandal-cal-thomas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,"
     publishedDateTime: 2020-10-16T20:12:00Z

@@ -27,36 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
-    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-13T08:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+  - title: "The Note: Trump's Fauci feud keeps campaign focus on COVID-19"
+    excerpt: "It takes head-spinning logic to cast Trump's feud with Fauci as a winning campaign message for an incumbent who is down in the polls. The campaign is continuing to air ads that feature Fauci -- out of context -- appearing to applaud the president's decisions on COVID-19,"
+    publishedDateTime: 2020-10-20T10:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
-    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-13T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+  - title: "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
+    excerpt: "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov."
+    publishedDateTime: 2020-10-20T08:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 123
+    quality: 124
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
-        width: 817
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538074915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1MX"
+        width: 799
         height: 545
         isCached: true
   - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
@@ -75,37 +75,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Says All His Friends Leaving 'Sad Place' New York City Due to COVID Lockdowns"
-    excerpt: "President Donald Trump railed against the coronavirus pandemic lockdown measures being enforced in his hometown of New York City, claiming the country's largest metropolis is now a \"ghost town.\" Trump defended his nonchalant attitude toward social-distancing measures prior to contracting COVID-19,"
-    publishedDateTime: 2020-10-11T13:36:00Z
-    webUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138"
-    ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
+  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
+    publishedDateTime: 2020-10-20T00:34:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 119
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
     images:
-      - url: "https://d.newsweek.com/en/full/1649283/trump-new-york-city-lockdown.jpg"
-        width: 3000
-        height: 1933
-        isCached: true
-  - title: "Trump's COVID prognosis: 3 scenarios based on sparse facts from an opaque White House"
-    excerpt: "The president's health matters. But we can only speculate because his doctor has hidden behind confidentiality laws to withhold negative information."
-    publishedDateTime: 2020-10-10T08:22:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/10/trump-covid-19-prognosis-murky-white-house-hides-facts-column/5941684002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5941684002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5941684002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/b0891de5-111f-4a9f-89e2-cf887bf8087a-truman_balcony.jpg?auto=webp&crop=4865,2737,x0,y247&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
+        isCached: true
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
+    publishedDateTime: 2020-10-19T16:25:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
     excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
@@ -155,22 +171,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump tells Rush Limbaugh he 'might not have recovered' from COVID-19 without Regeneron antibody cocktail"
-    excerpt: "President Donald Trump expressed a rare sense of vulnerability about his sickness and hospitalization."
-    publishedDateTime: 2020-10-10T21:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tells-limbaugh-he-might-not-have-recovered-from-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 108
-    images:
-      - url: "https://i.insider.com/5f80a012ea74820019ca6469?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms"
     excerpt: "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative."
     publishedDateTime: 2020-10-16T04:09:00Z
@@ -187,65 +187,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump says he'll 'kiss everyone' in crowd at rally"
-    excerpt: "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience."
-    publishedDateTime: 2020-10-13T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/"
+  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
+    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
+    publishedDateTime: 2020-10-13T12:03:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Melania Trump said she 'chose to go a more natural route,' relying on 'vitamins and healthy food' to treat her COVID-19"
-    excerpt: "The First Lady didn't specify the supplements she used in her \"natural route\" to treat the coronavirus. Here's what we know about vitamins and COVID."
-    publishedDateTime: 2020-10-15T06:13:00Z
-    webUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f7bc7b2282c500018c78bd1?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
-    excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
-    publishedDateTime: 2020-10-10T08:24:00Z
-    webUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-plans-to-hold-outdoor-event-at-white-house-while-still-sick-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f7de0fd282c500018c791ae?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability"
-    excerpt: "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!"
-    publishedDateTime: 2020-10-17T04:33:00Z
-    webUrl: "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 92
-    images:
-      - url: "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png"
-        width: 300
-        height: 300
+        height: 675
         isCached: true
   - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
     excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
@@ -263,33 +219,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Donald Trump Doubles Down On COVID-19 Immunity: \"I'll Kiss Everyone\""
-    excerpt: "The President told those in the audience of his Florida rally that he'll give everyone a 'big fat kiss.' He's back to heating up the campaign trail to promote his bid to become America's leader once again."
-    publishedDateTime: 2020-10-13T01:14:00Z
-    webUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/donald-trump-doubles-down-on-covid-19-immunity-ill-kiss-everyone-news.119500.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 75
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602551163_d7899330b7fbf5dd52d377294a843561.jpg/f38a03882fe2aefa58769e2eea500454/1602551163_cd8a0b17d84284a41870abd86bafcfef.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
     excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
     publishedDateTime: 2020-10-15T09:42:00Z
@@ -306,94 +235,37 @@ related:
         width: 1600
         height: 1099
         isCached: true
-  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
-    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
-    publishedDateTime: 2020-10-18T12:07:00Z
-    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
-    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
+    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
-        width: 600
-        height: 917
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Donald Trump’s COVID Results Had ‘Saturday Night Live’ Scrambling, Says Lorne Michaels"
-    excerpt: "Live writers were revising the season’s first cold open right up to the last minute after President Donald Trump’s positive COVID test tossed all plans into the air. In"
-    publishedDateTime: 2020-10-16T17:58:00Z
-    webUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/"
-    ampWebUrl: "https://deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/saturday-night-live-donald-trump-covid-results-scrambling-lorne-michaels-1234598806/amp/"
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
     type: article
     provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 67
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/snl-today.jpg?w=1024"
-        width: 1024
-        height: 542
-        isCached: true
-  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
-    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
-    publishedDateTime: 2020-10-13T01:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Tells Fans On Post-Covid Comeback Tour: 'I Feel So Powerful'"
-    excerpt: "US President Donald Trump is embarking on a tour of swing states Photo: AFP / MANDEL NGAN \"I feel so powerful. I'll walk in there, I'll kiss everyone in that audience. I'll kiss t"
-    publishedDateTime: 2020-10-13T02:06:00Z
-    webUrl: "https://www.ibtimes.com/trump-tells-fans-post-covid-comeback-tour-i-feel-so-powerful-3060877"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
-        width: 1024
-        height: 651
-        isCached: true
-  - title: "Trump town hall: President Donald Trump tells Nancy Pelosi he’s ready to sign a ‘big, beautiful’ COVID stimulus"
-    excerpt: "President Donald Trump on Thursday pinned the months-long COVID-19 stimulus stalemate on House Speaker Nancy Pelosi, saying he’s ready to sign a “big, beautiful stimulus” immediately and shrugging off the fact that Republican senators have consistently thwarted several aid packages over cost concerns."
-    publishedDateTime: 2020-10-16T01:23:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/trump-town-hall-president-donald-trump-tells-nancy-pelosi-hes-ready-to-sign-a-big-beautiful-covid-stimulus.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YF444BK6UZD5TD2DU2OGPYABOQ.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "Donald Trump news – Son Barron, 14, only had covid ‘for like TWO SECONDS’, President claims as he demands schools reopen"
-    excerpt: "DONALD Trump has played down his son’s coronavirus infection insisted he recovered in “like two seconds”. Describing Barron Trump’s covid diagnosis, the President said:"
-    publishedDateTime: 2020-10-15T09:46:00Z
-    webUrl: "https://www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/"
-    ampWebUrl: "https://www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/12936099/donald-trump-news-son-barron-covid-biden-live/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 50
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/10/COMP_RR_US-ELECTIONS-LIVE_TRUMP.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
 
 secured: "f8Z/2vGrhoOPZj4yIJwZfGS87SQuPmb+4tllKvbZhAt+Rs+Yw+viTy5d8Dla3qrkk8ehpwIyIdOlpRuRZbaIoqjTD/DvnWzUXAVqF2WN93JXP88gpsemJ8kCxbUv6IvKqhYQQLVIFE+5fLsX4DH5uNtkASw7Ca2K1RCW/vJAsVJ0SZGqA0Kmetb/d+zq1AepyjL1tmMkRSv4TWLbXNJOHnQvvbtJQUNqfSA+3G7nvZ6bRb1QRb5FxOKBd/ndvWVgW4b4v3fxleYjYEMB3Rnn+hYkPDXUYU71fUNdWlGMwng8vdrOCXAJv4mVIv5FzUFUpoz2N6IUUmfaejeaD+qs+oY+Be6uNQ8ofhVsOQlzK8c=;lgRgJ48sYefKzNDptpVTLQ=="

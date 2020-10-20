@@ -63,38 +63,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump raises $135 million less than Biden in September as former VP outpaces him for another month"
-    excerpt: "President Donald Trump's campaign and the Republican National Committee announced a joint fundraising haul of $247.8 million in the month of September -- up from the $210 million the GOP raised in August, but far behind the massive total raised by former Vice President Joe Biden and Democrats in the"
-    publishedDateTime: 2020-10-16T02:54:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1WXIFFYNPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 176
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015222716-08-deuling-town-halls-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden campaign blitzes pricey football games with series of new ads"
-    excerpt: "Joe Biden's presidential campaign will air a series of ads during a slate of National Football League games over the next week, looking to use their sizable campaign war chest to air spots on some of the most popular real estate in television.\n    \n"
-    publishedDateTime: 2020-10-18T17:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lGYjBduSflU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Romney cites Trump's rhetoric as he denounces 'vile' state of American politics"
     excerpt: "Republican Sen. Mitt Romney of Utah on Tuesday issued a strong rebuke of the current tone of American politics saying they have become \"a vile, vituperative, hate-filled morass\" and roundly criticizing President Donald Trump for several of his recent comments which included insulting Democratic vice"
     publishedDateTime: 2020-10-13T17:17:09Z

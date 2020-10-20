@@ -1243,6 +1243,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Would Make a Better Wartime President Than Donald Trump: Poll"
+    excerpt: "A new poll conducted for Newsweek found that Americans of all ages and religions would prefer Biden to lead the U.S. through a conflict."
+    publishedDateTime: 2020-10-20T10:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1655458/donald-trump-joe-biden-poll-election-2020.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Why is Joe Biden so resistant to Trump’s attacks?"
     excerpt: "If you went to President Trump’s rally on Sunday in Carson City, Nevada — a pretty typical one — here’s what you would have heard about: It’s quite a litany. But none of it seems to be working, as evidenced by the fact that the Trump campaign hasn’t settled on one (or even two or three) key attacks it wants to make on Biden."
     publishedDateTime: 2020-10-19T20:10:00Z
@@ -1338,6 +1354,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumplara_10262018getty.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden has narrow lead over President Donald Trump in new Florida poll"
+    excerpt: "The survey from the University of North Florida had Biden up by one percentage point in Florida, within the poll's margin of error."
+    publishedDateTime: 2020-10-20T11:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-biden-leads-trump-narrow-florida-race-poll-finds/5988558002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5988558002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5988558002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 139
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/NSHT/a29043f7-1f36-40de-a6fa-af72d0678aeb-AP20282445647114.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The biggest moments from the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Vice President Mike Pence and Senator Kamala Harris had some noteworthy moments until a fly stole the show."
@@ -1894,6 +1926,22 @@ related:
       - url: "https://thehill.com/sites/default/files/perduedavid_012820gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
+    excerpt: "Democratic nominee says Americans are “tired” of president’s lies over Covid"
+    publishedDateTime: 2020-10-20T11:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates?page=with:block-5f8ebb4e8f08925a5d5dd0af"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/df18ba890c6b6bade2be36196f91c47920bbb3db/0_158_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60f228406160d0cec90fcaab0e0761a7"
+        width: 600
+        height: 360
         isCached: true
   - title: "Politics professor previews Pence-Harris vice presidential debate"
     excerpt: "COVID-19 safety protocols are being stepped up ahead of the first and only vice presidential debate in Salt Lake City Wednesday night between Vice President Mike Pence and Democratic nominee Senator Kamala Harris."
@@ -4526,6 +4574,22 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2020/10/SNL.jpg"
         width: 2458
         height: 1300
+        isCached: true
+  - title: "Elect Joe Biden. Reject Donald Trump."
+    excerpt: "In 2016, we broke tradition in urging you not to vote for Trump. Now we're making our first presidential endorsement. We hope it's our last."
+    publishedDateTime: 2020-10-20T10:06:00Z
+    webUrl: "https://www.azcentral.com/in-depth/opinion/todaysdebate/2020/10/20/elect-joe-biden-reject-donald-trump-editorials-debates/5919435002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5919435002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919435002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/PIND/cb16142b-cf63-4af9-bd36-29e73ac7e815-bidenIllo.png?auto=webp&crop=1279,720,x0,y93&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Jill Biden, Mike Pence to make stops in Detroit, Pontiac this week"
     excerpt: "More:President Trump in Michigan: Joe Biden is lost to 'sick' liberals Also in Michigan election tours, Vice President Mike Pence is scheduled to hit Pontiac on Thursday and Ivanka Trump and Pete Buttigeig are in the Grand Rapids area today. Trump is ..."

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump closes his campaign by insulting Dr. Fauci for telling the truth"
+    excerpt: "President Donald Trump's election endgame argument, far from bristling with new solutions to a pandemic that has killed 220,000 Americans, on Monday devolved into a campaign of insults against Dr. Anthony Fauci -- for telling the truth about the disease.\n    \n"
+    publishedDateTime: 2020-10-20T11:50:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzcTxPmGm70/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Donald Trump just revealed a lot more than he meant to about his tax returns"
     excerpt: "President Donald Trump is the only modern American president to never release any of his tax returns -- either while running for office or during his time in office. He's offered a series of explanations for why that is, including that he is under audit by the Internal Revenue Service and that his taxes"
     publishedDateTime: 2020-10-16T17:42:50Z

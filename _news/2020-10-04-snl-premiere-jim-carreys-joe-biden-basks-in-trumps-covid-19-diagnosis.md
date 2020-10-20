@@ -118,20 +118,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "How Biden would use trade agreements to fight global warming"
-    excerpt: "The former vice president and key Democrats in Congress want to use trade agreements to fight global warming, but reversing four years of Trump's \"energy dominance\" is no easy task."
-    publishedDateTime: 2020-10-14T23:19:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/biden-trade-fight-global-warming-429495"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2e/a1/3ec1bb4b45818ca7a50c55e3252c/biden-climate.jpg"
-        width: 955
-        height: 636
-        isCached: true
   - title: "Donald Trump Might Lose, but His Judges Will Keep Wrecking America for Years to Come"
     excerpt: "It's not just the Supremes. There are people like Ran Nelson and Naomi Rao. If you don't know who they are, you should."
     publishedDateTime: 2020-10-04T09:02:00Z

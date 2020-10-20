@@ -25,77 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
-    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
-    publishedDateTime: 2020-10-15T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
+  - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
+    excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
+    publishedDateTime: 2020-10-16T02:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3673997001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3673997001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
-    type: article
-    provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-13T10:03:00Z
-    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/424acc15-845d-46b8-899e-cc82488a32a4-AP_Election_2020_Biden.jpg?auto=webp&crop=4016,2259,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 674
+        height: 675
         isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-14T06:03:00Z
-    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
+  - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
+    excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."
+    publishedDateTime: 2020-10-16T12:41:00Z
+    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 53
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
         width: 1200
-        height: 674
+        height: 630
         isCached: true
-  - title: "Joe Biden Campaigns in Durham, North Carolina"
-    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
-    publishedDateTime: 2020-10-18T19:00:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
+  - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
+    excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
+    publishedDateTime: 2020-10-17T17:44:00Z
+    webUrl: "https://6abc.com/politics/fmr-president-obama-to-campaign-for-biden-in-philly/7107001/"
+    ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: 6abc News
+      domain: 6abc.com
+    quality: 69
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "r76zU3I7755lpBE/64dKiTLa9bMPJkdKXrkCDN3TbPAvfPFFKpLgpZzaAY9C9pOPXld4WLyibj53Ju3Es5G8IeUmTEjKmrPjn8xleh2ZLx0oK4cxqcxQ2wQ3LbrZyPsXS4g2xt+EygnNpn4KAtYs/1R89bnN7NMKg0kqtqppx5K4crOWM3P1SVRKOtOYoHFOjK0h473ot3G5UVSPWCFwDFd13zbPFZ6+FPovvJl0uke+eKnAJIp6P/AQcEDaswZutSDEwZwz/t9/2LsCHPBvYsw1W1IwrZHV8xs27KvfTHj4JCCeDTwLUTP2ufLSJTl36qjpmGVXbQWS3je5iN7VZj5xySgmzhOuJr7PVDmutZo=;TpBPL8PEiTl1pTtB4m7Dxg=="
 ---

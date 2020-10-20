@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump closes his campaign by insulting Dr. Fauci for telling the truth"
+    excerpt: "President Donald Trump's election endgame argument, far from bristling with new solutions to a pandemic that has killed 220,000 Americans, on Monday devolved into a campaign of insults against Dr. Anthony Fauci -- for telling the truth about the disease.\n    \n"
+    publishedDateTime: 2020-10-20T11:50:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nzcTxPmGm70/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/donald-trump-anthony-fauci-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018154650-06-donald-trump-1017-wisconsin-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court to hear challenges to Trump border wall funding and asylum policies"
     excerpt: "The Supreme Court said on Monday it would take up cases concerning President Donald Trump's border wall and a controversial policy that requires asylum seekers to remain in Mexico as they await hearings in the United States.\n    \n"
     publishedDateTime: 2020-10-19T14:29:55Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
 type: article
 quality: 126
-heat: 306
+heat: 326
 published: true
 
 provider:
@@ -153,6 +153,22 @@ related:
     provider:
       name: Indianapolis Star
       domain: indystar.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-20T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 72
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"

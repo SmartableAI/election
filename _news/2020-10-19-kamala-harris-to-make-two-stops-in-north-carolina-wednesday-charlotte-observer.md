@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Beyoncé, Kerry Washington, Kamala Harris and More Celebrate What Would've Been George Floyd's 47th Birthday"
-    excerpt: "Today marks what would have been George Floyd's 47th birthday. In honor of the occasion, a score of celebs posted tributes to his life, his memory and his impact. Actors, public figures, politicians and activists all joined in on commemorating the day,"
-    publishedDateTime: 2020-10-15T05:43:00Z
-    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
-    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
-    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
-    type: article
-    provider:
-      name: KVUE
-      domain: kvue.com
-    quality: 57
-    images:
-      - url: "https://media.kvue.com/assets/ETONLINE/images/c6234b46-27b0-423f-a452-2daa2c3e2498/c6234b46-27b0-423f-a452-2daa2c3e2498_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Kamala Harris in Florida: where and when will she campaign?"
     excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
     publishedDateTime: 2020-10-18T20:53:00Z

@@ -45,22 +45,6 @@ related:
         width: 780
         height: 551
         isCached: true
-  - title: "Watch live: Biden holds town hall event"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-10-15T22:46:00Z
-    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
-    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
     excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
     publishedDateTime: 2020-10-15T22:04:00Z
@@ -189,20 +173,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Joe Biden speaks on health care in Michigan"
-    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-16T20:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
     excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
     publishedDateTime: 2020-10-14T21:00:00Z
@@ -267,22 +237,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
-    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
-    publishedDateTime: 2020-10-19T21:20:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3668502001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3668502001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 61
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/04/23/PPHX/04596669-c723-4e59-b8ed-0338c90e3587-GALLEGO.png?auto=webp&crop=924,520,x1,y19&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z
@@ -297,6 +251,17 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
+    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
+    publishedDateTime: 2020-10-20T00:32:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 41
   - title: "Joe Biden Campaigns in Durham, NC"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
     publishedDateTime: 2020-10-17T11:10:00Z

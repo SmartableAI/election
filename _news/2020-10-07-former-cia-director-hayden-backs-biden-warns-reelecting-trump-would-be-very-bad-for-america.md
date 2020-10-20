@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html"
 type: article
 quality: 178
-heat: 338
+heat: 318
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://static.politico.com/38/ec/f9edce0343e8af6cddaa61be95f0/201006-biden-ap-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "How Biden would use trade agreements to fight global warming"
-    excerpt: "The former vice president and key Democrats in Congress want to use trade agreements to fight global warming, but reversing four years of Trump's \"energy dominance\" is no easy task."
-    publishedDateTime: 2020-10-14T23:19:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/biden-trade-fight-global-warming-429495"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2e/a1/3ec1bb4b45818ca7a50c55e3252c/biden-climate.jpg"
-        width: 955
-        height: 636
         isCached: true
   - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
     excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."

@@ -27,37 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end"
-    excerpt: "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads."
-    publishedDateTime: 2020-10-19T13:24:00Z
-    webUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp"
+  - title: "Joe Biden’s love of Amtrak tells us how he would govern"
+    excerpt: "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown."
+    publishedDateTime: 2020-10-20T10:03:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
+    excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
+    publishedDateTime: 2020-10-17T10:11:00Z
+    webUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 89
+    quality: 90
     images:
-      - url: "https://i.insider.com/5f8d83df9e9fe4001900a01e?format=jpeg"
-        width: 1419
-        height: 709
-        isCached: true
-  - title: "Joe Biden in Michigan: 'It's time to unite America' and increase affordable health care"
-    excerpt: "The promises to expand health care access come less than three weeks before Election Day, as both candidates vie for Michigan's votes."
-    publishedDateTime: 2020-10-17T10:55:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/16/joe-biden-southfield-health-care-election-2020/3676794001/"
-    ampWebUrl: "https://amp.freep.com/amp/3676794001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3676794001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 67
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/PDTF/6a691198-8926-4281-83f8-670682a8fc9b-biden_101620_kd125.jpg?auto=webp&crop=2399,1349,x0,y115&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg"
+        width: 5000
+        height: 2499
         isCached: true
 
 secured: "P5fWMzxxm8LdrexyFCXm2hG3VA4Nm8KIOFUlx2SW0WVh/pweA1u6lO8xWuEn0CG2W1eI762A+oWITJuoNDJE6ug++mJTZl8eVcHdVAh3mwhDqE6VseGYJ6tsii830doYvDHeiMlYaOSKwhHvB8uvptvCspW/gEKSQaAehJRVmiX98mfbxZN/bPXEsbgyBF6Hc6eyeoMHjCBiCCJ8/GzJjYCsZ6nQwkPZHBvZI++TvogMFJ0vhznllbjGcfuaRxftGBTPaAAqRTosHDVw+fJLjM1JSgoPmR3N/FJGWIMHt4TrJWfPyJ7p9C1H/ZlERw1v2kJZi5/p45fmrpiIHgGClx87Cv6z17BTZbcddX6mC4J4KW2RlkYT7K5s/MYzWbQfOtfxdbTkovvVBOK7XJL2Nx5z0SadbQw9qMYFdIbB2kbmZfhUUv9lk4uCAjc4GyW93+MNplZ9Xhuc5PHBLd0kCQMIzVtySlSRJRaZEeDme0o/xfGGslktDPfF1+dO1o0dqHOtcYVp+c3Hzt4y0IshfA==;C4PEzrXktLyV7yVMh+cS3A=="

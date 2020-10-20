@@ -2,29 +2,23 @@
 category: news
 title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
 excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
-publishedDateTime: 2020-10-19T21:20:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-webUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-ampWebUrl: "https://amp.cincinnati.com/amp/3668502001"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3668502001"
+publishedDateTime: 2020-10-20T00:32:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/presto/2019/04/23/PPHX/04596669-c723-4e59-b8ed-0338c90e3587-GALLEGO.png?auto=webp&crop=924,520,x1,y19&format=pjpg&width=1200"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "George Floyd's sister calls for change in new Biden ad"
@@ -41,22 +35,6 @@ related:
     images:
       - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
         width: 780
-        height: 551
-        isCached: true
-  - title: "Watch live: Biden holds town hall event"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-10-15T22:46:00Z
-    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
-    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
         height: 551
         isCached: true
   - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
@@ -187,20 +165,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Joe Biden speaks on health care in Michigan"
-    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-16T20:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
     excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
     publishedDateTime: 2020-10-16T23:49:00Z
@@ -303,6 +267,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "8o0iWJqRjmz+zt1WgT9cvDivAZQZVkn//XR+bE+QzRqZHD7rBNRjQN0A3zGkCKfklRKrTPn3+r4VbGUhQ+ajoPBLF3Y73cVDxt5LG7ZLBSwLMJR51NMV1J/u4YbDvVUc+DaZCN80Y/3Vf/RKxLOxCSpkwN37RyuTzykJD/MmeWh+n1jjrxjOYd/TJX0iO7ctl/RCWx6erZc3GDkUCSwn0W/aFrzffezsdoU9fh4p5p8hAAq9+kSPqCyvivnhy57hnUGwCChsUUjGKYI9i4bSoqvLu2iq4ihiZX3qTWgD6/Xh4mvMY19pKEFEaK+dA7VTK6g1VVjK2wnwgNJi/SblZ4sAiTOl/1ewpQCsbXlQW9w=;OVkvMnVnSs2aMCK8TDzQiQ=="
+secured: "B+Xy/uW/5dWfFsfayOyszvZ7qqYHR+EN9RV+THPDIedHPhYTsiEtNVknrSDgiQf2eng8GN2MKihoRBqaZOnFj2yrUQLC06fgCdIY96ddK8MO9b8lr74RKSnsN/VWNHHAFsLEDcZSGDjwCGd72llLmDAQDmedelzt06b4u116whkE9nEB36IMMGzbYCa4o/OMYxRtgeAuo+e73gZvJ7bSscGdga496HnNUnODN+rhumB2tsoiubleZzgdiS1BjXYEw4/N4agSCW7eFhcCLSfBNp18SRby6z4sSUXdOzbnYyQHULhfcUOdsFdxhHY6Y8nbUQaoDq48jjJkhRighO8spnFCAcAcOhg/Esndja0J+BeBjbQ29DEO31LU7XmnNVkxIUMxnXq8P6FTAhupRoh79kEZUcP7YOExOZeDUpZJeyqf6o6VFQmsF3beIvI2PLSlh4FnJUpH1zGTru66tSae3DmRBQexGEDIpEotujO5FiOyPzwgZ8AoT14bpeRiKp2SQmI+UoOVmEMDb53hnJag2A==;GQBirhVH/B1SpZXVcfgx9w=="
 ---
 

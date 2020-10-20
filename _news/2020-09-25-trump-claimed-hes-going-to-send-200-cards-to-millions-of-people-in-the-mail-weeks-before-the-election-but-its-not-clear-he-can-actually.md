@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 798
         isCached: true
+  - title: "President Donald Trump, during debate, declares, 'I brought back Big Ten football'"
+    excerpt: "While addressing debate topic of economy, President Donald Trump brought up the return of Big Ten football: \"It was me, and I'm very happy to do it.\""
+    publishedDateTime: 2020-09-30T03:50:00Z
+    webUrl: "https://www.usatoday.com/story/sports/ncaaf/bigten/2020/09/29/presidential-debate-donald-trump-i-brought-back-big-ten-football/3583550001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3583550001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3583550001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/37cbe3b4-7723-43c6-be0d-80b4491682d5-donald_trump.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "yoDImZqhE70DUz5fZ5eE7TupER1ress08WJMXJ3Swi1ya1fT7t18ynQn4utn9s4+OzlclfXi/i1GAltNEi1uRXsYnoAfY2uIaYtWkBM+zMdzK6HykrpcktB8aD4q9LTU/2ncy7OpXsROoV9JDshMab82YHNdlIMNp2YAENlysQtSGzqHXO9TON6SRDTJH1jCteZ8j3YTeGqQw4d2Oodtjs0f/g87SRH5z6e79IwOkuQTgUQjG2hYdPzFW1fXcRHUBjJ8SZFc9FUcBtPLnsrOM4iNyEbeCCea1N0BjFHXPMnLH/ZL85CfNhE9IxSGu10EgTJWH9k3ycBi6Wu+sv8cTmaTUovC5QlfkLNiLTWA8/pINGRg8Olvx/cXbKGMo2hwu5qCoB2FuiKG0qkJgxzCZSFAQL9wVByfivrYYf6lsYkwteigw5FKmz9ql4kGtID/IRiQODx4Eea4y1xUG+hKLyCqqgt7VmcS9PrWcVGYobwlV29Xf/euHEo61EY2RdbMJum1ltaooBEjRZlWYjVRJA==;733mQAjxyDtTZgVgmR2fVw=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump didn't accomplish his goals in 1st presidential debate: ANALYSIS"
-    excerpt: "Entering the first debate on Tuesday, President Donald Trump was behind nationally by approximately 7 points on average, and was behind by similar margins in nearly every target state to win the Electoral College."
-    publishedDateTime: 2020-09-30T23:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Trump has mild symptoms, will remain on job: chief of staff"
     excerpt: "President Donald Trump has mild symptoms after testing positive for COVID-19 but he was expected to remain on the job, White House Chief of Staff Mark Meadows said on Friday."
     publishedDateTime: 2020-10-02T15:43:00Z
@@ -110,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "I’m a pro-life evangelical. In supporting Trump, my movement sold its soul."
+    excerpt: "The nomination of Amy Coney Barrett to the Supreme Court injected new enthusiasm and urgency into the evangelical pro-life movement. Conservatives may soon make up a significant majority on the court,"
+    publishedDateTime: 2020-10-08T15:41:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/im-a-pro-life-evangelical-in-supporting-trump-my-movement-sold-its-soul/2020/10/07/04d90712-0733-11eb-859b-f9c27abe638d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/im-a-pro-life-evangelical-in-supporting-trump-my-movement-sold-its-soul/2020/10/07/04d90712-0733-11eb-859b-f9c27abe638d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/im-a-pro-life-evangelical-in-supporting-trump-my-movement-sold-its-soul/2020/10/07/04d90712-0733-11eb-859b-f9c27abe638d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNTBUVR63UI6VL7CBEHLG63AWE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Judge rules against Trump campaign in New Jersey lawsuit over counting ballots"
     excerpt: "A federal judge denied the campaign's motion for a preliminary injunction halting two New Jersey election rules."

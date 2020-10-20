@@ -109,20 +109,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "How Biden would use trade agreements to fight global warming"
-    excerpt: "The former vice president and key Democrats in Congress want to use trade agreements to fight global warming, but reversing four years of Trump's \"energy dominance\" is no easy task."
-    publishedDateTime: 2020-10-14T23:19:00Z
-    webUrl: "https://www.politico.com/news/2020/10/14/biden-trade-fight-global-warming-429495"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/2e/a1/3ec1bb4b45818ca7a50c55e3252c/biden-climate.jpg"
-        width: 955
-        height: 636
-        isCached: true
   - title: "SNL Premiere: Jim Carrey’s Joe Biden Basks in Trump’s COVID-19 Diagnosis"
     excerpt: "I’m not saying I want it to happen. Just imagine if it did,” the former vice president said during the SNL premiere’s opening debate sketch."
     publishedDateTime: 2020-10-04T08:07:00Z

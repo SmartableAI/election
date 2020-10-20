@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-hi
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-goes-after-dr-fauci-trashing-him-over-masks-tonys-pitching-arm-is-far-more-accurate-than-his-prognostications/amp/"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
-    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
-        width: 800
-        height: 430
-        isCached: true
 
 secured: "PJ+t4oo3AIiRJ2d27YkNoVvGMnXHbV3VQDUumVtZ/A3U9CEKodvk7HBqmLgoR9+CVfPfoONwBcvEJcJOMENo7TXM8dldYQa6/3gX7shw+D1Ru07y3xd3dP2IO/KlzgEKVDZF+4DbiJ+eoPGro+tQAxmYQGIExmYKiTASkiFdHpOXJ2QcvwiexI8vfacwYx4bsiwuKzkHM6FSFTccsVRZe4824o+7znpLBZvY1QgbUKAk4v83KB5xoMYkCoGGjFXWi+4HW6s1FE5WzdPICVUa/UaUqzmszZ+caWM5MH0pVKRmQA6oII3Tywrh6LUUp+g9VgJ9kXXW+iMXmej+KyLTQqkBORGUr59ORSToD8QMDWI=;PCqc3Rckx5Wj4aBvrM+qkA=="
 ---

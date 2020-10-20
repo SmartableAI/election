@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 624
+heat: 584
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump raises $135 million less than Biden in September as former VP outpaces him for another month"
-    excerpt: "President Donald Trump's campaign and the Republican National Committee announced a joint fundraising haul of $247.8 million in the month of September -- up from the $210 million the GOP raised in August, but far behind the massive total raised by former Vice President Joe Biden and Democrats in the"
-    publishedDateTime: 2020-10-16T02:54:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1WXIFFYNPQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 176
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015222716-08-deuling-town-halls-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump made another baseless political claim about Fauci"
     excerpt: "President Donald Trump baselessly claimed on Thursday that Dr. Anthony Fauci, a key member of the White House's Coronavirus Task Force, was a Democrat when in fact he is not registered with any political party.\n    \n"
     publishedDateTime: 2020-10-16T03:54:08Z
@@ -76,22 +60,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden campaign blitzes pricey football games with series of new ads"
-    excerpt: "Joe Biden's presidential campaign will air a series of ads during a slate of National Football League games over the next week, looking to use their sizable campaign war chest to air spots on some of the most popular real estate in television.\n    \n"
-    publishedDateTime: 2020-10-18T17:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lGYjBduSflU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

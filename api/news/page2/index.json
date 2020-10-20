@@ -2,6 +2,305 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-19-pence-to-mount-aggressive-campaign-push-in-final-two-weeks.md",
+      "title": "Pence to mount 'aggressive' campaign push in final two weeks",
+      "excerpt": "Vice President Mike Pence will travel at least five days a week and ramp up to at least two campaign rallies each day as part of a “very aggressive schedule” in the final days before the election, Pen",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
+      "originalUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp",
+      "publishedDateTime": "2020-10-19T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-warren-buffett-and-joe-biden-are-bullish-on-america-agree-the-super-rich-should-pay-higher-taxes-and-want-quarterly-earnings-guidance-to-end.md",
+      "title": "Warren Buffett and Joe Biden are bullish on America, agree the super rich should pay higher taxes, and want quarterly earnings guidance to end",
+      "excerpt": "\"Warren Buffett said it best when he stated that he should not pay a lower tax rate than his secretary,\" Biden's campaign website reads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10",
+      "originalUrl": "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8d83df9e9fe4001900a01e?format=jpeg",
+          "width": 1419,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/warren-buffett-joe-biden-share-views-america-taxes-earnings-guidance-2020-10?amp",
+      "publishedDateTime": "2020-10-19T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-ratcliffe-says-hunter-biden-laptop-emails-not-part-of-some-russian-disinformation-campaign.md",
+      "title": "Ratcliffe says Hunter Biden laptop, emails 'not part of some Russian disinformation campaign'",
+      "excerpt": "Director of National Intelligence John Ratcliffe on Monday said that Hunter Biden’s laptop “is not part of some Russian disinformation campaign,” amid claims from House Intelligence Committee Chairman Adam Schiff suggesting otherwise.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WgbIoXkNv8/ratcliffe-hunter-biden-laptop-emails-not-russian-disinformation-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9WgbIoXkNv8/ratcliffe-hunter-biden-laptop-emails-not-russian-disinformation-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ratcliffe-hunter-biden-laptop-emails-not-russian-disinformation-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ratcliffe-hunter-biden-laptop-emails-not-russian-disinformation-campaign.amp",
+      "publishedDateTime": "2020-10-19T05:28:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump.md",
+      "title": "Sacha Baron Cohen reveals how he snuck into a Mike Pence speech dressed as Trump",
+      "excerpt": "Sacha Baron Cohen has detailed how he managed to sneak into a speech by Mike Pence dressed as Donald Trump for his 'Borat' sequel",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
+      "originalUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/10/borat-mike-pence.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp",
+      "publishedDateTime": "2020-10-19T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-presidential-election-mike-pence-to-make-cincinnati-campaign-visit.md",
+      "title": "Presidential election: Mike Pence to make Cincinnati campaign visit",
+      "excerpt": "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cincinnati.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/",
+      "originalUrl": "https://www.cincinnati.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 310,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cincinnati.com/amp/3708424001",
+      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3708424001",
+      "publishedDateTime": "2020-10-19T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cincinnati Enquirer",
+        "domain": "cincinnati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trumps-campaign-is-despondent-as-he-keeps-reusing-strategies-which-worked-against-hillary-clinton-but-arent-landing-on-joe-biden-reports-say.md",
+      "title": "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say",
+      "excerpt": "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp",
+      "publishedDateTime": "2020-10-19T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-deep-in-trump-country-alabamans-hope-hell-win-90-percent-or-more.md",
       "title": "Deep in ‘Trump Country,’ Alabamans hope he’ll win 90 percent or more",
       "excerpt": "A solemn prayer rings out in a wood-paneled courtroom in Winston County, where Donald Trump won a resounding 90 percent of the vote in 2016. Republicans in this conservative bastion in northern Alabama say they hope God will allow the president — a man so unlike them in so many ways — to do even",
@@ -34,58 +333,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-beat-trump-and-rewrite-democracy-rules-to-build-a-fair-america-that-serves-its-people.md",
-      "title": "Beat Trump and rewrite democracy rules to build a fair America that serves its people",
-      "excerpt": "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3702219001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001",
-      "publishedDateTime": "2020-10-19T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -213,7 +460,7 @@
       "originalUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -422,21 +669,25 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises.md",
-      "title": "Mike Pence: Americans Deserve 4 More Years of a President Who Keeps His Promises",
-      "excerpt": "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Sen. Harris, click here. As I arrive in the great state of Utah to debate Joe Biden’s running mate,",
+      "path": "_news/2020-10-19-biden-campaign-manager-urges-supporters-to-campaign-like-were-trailing.md",
+      "title": "Biden campaign manager urges supporters to ‘campaign like we’re trailing’",
+      "excerpt": "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina.",
       "sourceUrl": null,
-      "webUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
-      "originalUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
       "tags": null,
       "images": [
         {
-          "url": "https://wp-media.beliefnet.com/sites/140/2019/04/Mike_Pence_28119020664-1.jpg",
-          "width": 800,
-          "height": 533,
+          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -444,14 +695,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
-      "cdnAmpWebUrl": "https://www-beliefnet-com.cdn.ampproject.org/c/s/www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
-      "publishedDateTime": "2020-10-18T16:05:00-07:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94105157774",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774",
+      "publishedDateTime": "2020-10-18T16:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Beliefnet",
-        "domain": "beliefnet.com",
-        "images": null,
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -461,7 +721,60 @@
       ],
       "topics": [
         "Election",
-        "Mike Pence"
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-what-does-86-45-mean-trump-campaign-claims-whitmer-is-encouraging-assassination-attempts.md",
+      "title": "What Does ‘86 45’ Mean? Trump Campaign Claims Whitmer Is ‘Encouraging Assassination Attempts’",
+      "excerpt": "Governor Gretchen Whitmer has a small “86 45” sign in her office, and now President Donald Trump’s campaign claims she’s advocating for his assassination. A tweet from the Trump War Room, which is an officially verified account with a bio stating that it is “managed by the #TeamTrump 2020 campaign,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "originalUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/president-donald-trump-pictured-in-the-oval-office.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
+      "publishedDateTime": "2020-10-18T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -577,58 +890,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-coronavirus-updates-trump-pelosi-mcconnell-face-deadline-for-stimulus-deal-sturgis-rally-linked-to-cases.md",
-      "title": "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases",
-      "excerpt": "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
-      "publishedDateTime": "2020-10-18T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-vice-president-mike-pence-to-hold-rally-monday-in-york-county.md",
       "title": "Vice President Mike Pence to hold rally Monday in York County",
       "excerpt": "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!",
@@ -724,6 +985,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-michigan-gov-gretchen-whitmer-says-president-trump-is-inciting-domestic-terrorism-with-his-lock-her-up-chants.md",
+      "title": "Michigan Gov. Gretchen Whitmer says President Trump is inciting ‘domestic terrorism’ with his ‘lock her up’ chants",
+      "excerpt": "Michigan Gov. Gretchen Whitmer said that the rhetoric is “incredibly disturbing” a little more than a week after authorities said they had thwarted an alleged plot to kidnap her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/lrSpB0fFIbK0wcATo0_BT_purRQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7DS6PDTSRF4TNDATKXWBQFGBA.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-rnc-chairwoman-say-republicans-who-distance-themselves-from-trump-are-hurting-themselves-in-the-long-run.md",
       "title": "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'",
       "excerpt": "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president.",
@@ -732,7 +1045,7 @@
       "originalUrl": "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -776,21 +1089,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-it-needs-to-stop-whitmer-slams-donald-trump-for-rally-attack.md",
-      "title": "‘It needs to stop’: Whitmer slams Donald Trump for rally attack",
-      "excerpt": "Trump’s barbs at Michigan Governor Gretchen Whitmer, the target of a kidnapping plot, prompted chants of ‘lock her up’.",
+      "path": "_news/2020-10-18-the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot.md",
+      "title": "The crazy uncle: Trump puts right-wing extremism on the ballot",
+      "excerpt": "What if the result of the 2016 election was primarily the product of a flawed electoral-college system, the mistaken assumption of too many voters and pundits that Donald Trump couldn’t win, and a last-minute intervention by an FBI director?",
       "sourceUrl": null,
-      "webUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "originalUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
+      "webUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html",
+      "originalUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20290786790341.jpg?resize=1200%2C630",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CD6BW7QP5EI6XCRVEN7PD2ZO64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -798,16 +1111,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
-      "publishedDateTime": "2020-10-18T09:05:00-07:00",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Al Jazeera English",
-        "domain": "aljazeera.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -881,49 +1194,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-stimulus-bill-2-trump-says-mnuchin-hasnt-come-home-with-the-bacon.md",
-      "title": "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’",
-      "excerpt": "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus.",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
-      "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2020/10/stimulus-2-Trump-Mnuchin.jpg?quality=65&strip=all",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-2-trump-mnuchin/amp/",
-      "publishedDateTime": "2020-10-18T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1037,271 +1307,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-living-and-learning-donald-trump-has-never-met-a-mistake-he-didnt-repeat.md",
-      "title": "Living and learning: Donald Trump has never met a mistake he didn’t repeat",
-      "excerpt": "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
-      "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/cYD80D5Ij1vd9mvtNW30qxnUC-Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6PB4IDWS2FHFTPB27EWL7PU5PQ.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-18T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19.md",
-      "title": "Kamala Harris’ Political Director shares update after two involved in campaign test positive for COVID-19",
-      "excerpt": "Kamala Harris cancels all campaign events through the weekend after two people involved with the campaign test positive for COVID-19. Her Political Director Vincent Evans says the campaign is taking every precaution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688",
-      "originalUrl": "https://www.msnbc.com/the-week/watch/kamala-harris-political-director-shares-update-after-two-involved-in-campaign-test-positive-for-covid-19-94067269688",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/n_johnson_harris_201017_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp-video/mmvo94067269688",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp-video/mmvo94067269688",
-      "publishedDateTime": "2020-10-17T21:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-signs-law-designating-9-8-8-as-universal-number-for-national-suicide-hotline-starting-in-2022.md",
-      "title": "Trump signs law designating 9-8-8 as universal number for national suicide hotline starting in 2022",
-      "excerpt": "President Donald Trump on Saturday signed into a law a bipartisan bill that will make 9-8-8 the universal telephone number to reach the national suicide prevention hotline starting in 2022.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4_MT-McEHSw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/national-suicide-hotline-988-trump-signs-law/index.html",
-      "publishedDateTime": "2020-10-17T16:42:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ossoff-raises-1-million-in-senate-race-after-perdue-mispronounces-kamala-harriss-name.md",
-      "title": "Ossoff raises $1 million in Senate race after Perdue mispronounces Kamala Harris's name",
-      "excerpt": "Democratic Georgia Senate candidate Jon Ossoff announced Saturday that his campaign raised $1 million after Sen. David Perdue, R-Ga., appeared to mock the name of democratic vice presidential candidate Kamala Harris at a rally Friday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IR7NliYNX3s/ossoff-raises",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/081a6c40-dd52-414e-8d63-9ca720cac7f7/518c3dc2-a2a5-402c-ae4b-77e7c7f5058e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ossoff-raises.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ossoff-raises.amp",
-      "publishedDateTime": "2020-10-17T15:17:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-trump-slams-republican-critic-who-warned-of-november-bloodbath.md",
-      "title": "Trump slams Republican critic who warned of November 'bloodbath'",
-      "excerpt": "U.S. President Donald Trump on Saturday attacked a longtime congressional critic who warned this week that his handling of the coronavirus pandemic and authoritarian leaders could cause a \"Republican bloodbath in the Senate\" in the Nov.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-republicans/trump-slams-republican-critic-who-warned-of-november-bloodbath-idUSKBN2720PJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537867561&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G0JA",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2720PJ",
-      "publishedDateTime": "2020-10-17T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

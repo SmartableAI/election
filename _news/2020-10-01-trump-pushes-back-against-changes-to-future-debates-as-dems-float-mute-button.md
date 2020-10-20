@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
+    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-20T11:49:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dem 'Squad' accuses Twitter of shielding Trump from hate-tweets after dismissing attacks on them"
     excerpt: "Democratic Reps. Rashida Tlaib and Alexandria Ocasio-Cortez are complaining that Twitter has gone the extra mile to shield President Trump from tweets wishing him harm or death after the platform failed to protect others. "
     publishedDateTime: 2020-10-03T15:29:08Z

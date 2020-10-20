@@ -29,53 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Schiff: If Trump wanted more infections 'would he be doing anything different'?"
-    excerpt: "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness."
-    publishedDateTime: 2020-10-10T02:54:00Z
-    webUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different"
-    ampWebUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
+  - title: "Sen. Chuck Grassley: 'I'd be very concerned' about how Donald Trump's tax returns got out"
+    excerpt: "Asked about the substance of the New York Times' reporting that Trump paid $750 in income tax in 2016 and 2017, Grassley said he doesn't have enough evidence."
+    publishedDateTime: 2020-09-30T23:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/30/chuck-grassley-says-donald-trump-tax-returns-should-not-have-gotten-out/5874449002/?ref=hvper.com"
+    ampWebUrl: "https://amp.usatoday.com/amp/5874449002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5874449002"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
     images:
-      - url: "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
-        isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
+      - url: "https://www.gannett-cdn.com/presto/2018/09/17/PDEM/80644d4b-a019-4ee7-a6b1-39785f7db425-grassley.jpg?auto=webp&crop=5999,3360,x0,y39&format=pjpg&width=1200"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "EIGQ//FY5zrlrEaapeNcV4jQJpbDAZA6EPmGhJxDfZoPtukjpI/Lqhr+rxx8qeXb3jsN+OoVSol/Az8ApRJlsp2iFDKEHzYIoFhcHEYk/WhGI7f7QyDnCe3HxQh0hRJfh6yCI5T3rETpZifaNW+IvSGw/sWz5HlnvpoilxdylFYpBXWhvf9iv71OJfRGWtIlUJS7F34rfUveF3TycGRa+cLz5C9GVCbqVpIcDc8naAe9g45Hg+lROQTVHhViLsUe4Vmrh5zE3hB9XX1zO2JjugwkFIztfLRIE+bOhhd7N267YtWBSYj3BaZvJ3gYRL4TFP8uqFxP/ibhWOI+pUTEeikt2mo5ygwRdoKbEmwQLvTfX5jhiS20mWft8hT5T5JHcw72S6YN7/SA17gRaDhhmm47iNYR2FwORli/2KI5RQvkrTk9u5hAUHhyz+JUZg/1BMThmpPyQWKhpyHlO+5iMFSMe0D2ZuM1yYRBQE9x3xsDouubMuDSPCi+uARK/jBws/oIHPz7xT1heaJ+uyMV4A==;fiysPP/1K4xqlZsgQb6iyg=="

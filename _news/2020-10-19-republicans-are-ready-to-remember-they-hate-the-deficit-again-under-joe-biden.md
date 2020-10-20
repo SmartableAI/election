@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Former RNC chairman endorses Biden with two weeks left in the election"
+    excerpt: "Former Republican National Committee Chairman Michael Steele endorsed Democratic presidential candidate Joe Biden on Tuesday, saying the former vice president \"will pursue options that work towards healing the divide\" worsened by President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-20T11:21:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FsCMXMLYt40/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007141632-amanpour-michael-steele-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump raises $135 million less than Biden in September as former VP outpaces him for another month"
+    excerpt: "President Donald Trump's campaign and the Republican National Committee announced a joint fundraising haul of $247.8 million in the month of September -- up from the $210 million the GOP raised in August, but far behind the massive total raised by former Vice President Joe Biden and Democrats in the"
+    publishedDateTime: 2020-10-16T02:54:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I1WXIFFYNPQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fundraising-september/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015222716-08-deuling-town-halls-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Obama to hit the campaign trail for Biden in final stretch"
     excerpt: "Former President Barack Obama is expected to hit the campaign trail next week, Democratic officials tell CNN, as he looks to step up his work in support of his one-time partner -- former Vice President Joe Biden -- in the final stretch of the election.\n    \n"
     publishedDateTime: 2020-10-13T23:27:04Z
@@ -43,6 +75,54 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200922125352-barack-obama-0819-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Jennifer Lopez and Alex Rodriguez endorse Joe Biden"
+    excerpt: "Jennifer Lopez and Alex Rodriguez endorsed Joe Biden in a new video released Friday, encouraging Latinos to make their voices heard in this election.\n    \n"
+    publishedDateTime: 2020-10-16T15:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zCpUX5FWwbI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/jennifer-lopez-alex-rodriguez-biden-endorsement/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/jennifer-lopez-alex-rodriguez-biden-endorsement/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190309230719-jennifer-lopez-alex-rodriguez-oscars-022419-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: This is Joe Biden's best electoral path"
+    excerpt: "A big question heading into this cycle was whether Democrats' best path to winning back the White House ran through the Sunbelt or the Great Lakes (i.e. Rust Belt). While we won't know for certain which pathway was best for them until the votes are actually counted, the current data shows a pretty clear"
+    publishedDateTime: 2020-10-18T16:44:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Uyz89ih1fw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-election-2020-best-electoral-path/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-election-2020-best-electoral-path/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden campaign blitzes pricey football games with series of new ads"
+    excerpt: "Joe Biden's presidential campaign will air a series of ads during a slate of National Football League games over the next week, looking to use their sizable campaign war chest to air spots on some of the most popular real estate in television.\n    \n"
+    publishedDateTime: 2020-10-18T17:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lGYjBduSflU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-ads-nfl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -62,6 +142,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: This is Biden's shortest path to the White House"
+    excerpt: "Two weeks before Election Day, Joe Biden appears well-positioned to finish the job that Democrats above all hired him to do: Rebuild the party's blue wall in the Rust Belt.\n    \n"
+    publishedDateTime: 2020-10-20T04:57:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E0KSID12jFQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/rust-belt-swing-states-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/rust-belt-swing-states-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019093822-20201019-brownstein-battleground-states-rust-belt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign to remove retired general's image from ad after he objects "
     excerpt: "Joe Biden's presidential campaign will remove the image of a retired Army general from an ad after the general objected to his inclusion.\n    \n"
     publishedDateTime: 2020-10-19T20:02:16Z
@@ -78,85 +174,101 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden crosses 270 threshold in CNN's Electoral College outlook for first time "
-    excerpt: "Joe Biden is surging in the battle for the White House with less than four weeks to go until Election Day.\n    \n"
-    publishedDateTime: 2020-10-07T23:51:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2E8_r9CBU_Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/electoral-college-joe-biden-donald-trump/index.html"
+  - title: "Biden says he's 'not a fan' of court-packing and that he doesn't want to make the election about the issue"
+    excerpt: "Democratic presidential nominee Joe Biden said Monday that he's \"not a fan\" of court-packing, providing his clearest position on an issue he has sought to avoid discussing following the death of Justice Ruth Bader Ginsburg.\n    \n"
+    publishedDateTime: 2020-10-13T12:54:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s8tvjwJnP4Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/joe-biden-court-packing-not-a-fan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/joe-biden-court-packing-not-a-fan/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163735-01-joe-biden-florida-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "The original 'Hamilton' cast will reunite to host a virtual fundraiser for Joe Biden"
-    excerpt: "The original cast of \"Hamilton\" is reuniting to put together a virtual fundraiser for Democratic nominee Joe Biden.\n    \n"
-    publishedDateTime: 2020-10-14T17:27:18Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4cwPC46h-RI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/hamilton-joe-biden-fundraiser-trnd/index.html"
+  - title: "CNN Poll of Polls averages show Biden advantage in Pennsylvania, Michigan, Wisconsin two weeks from Election Day"
+    excerpt: "CNN Poll of Polls averages across 10 key battleground states suggest tight races heading into the final two weeks of the campaign in seven states and former Vice President Joe Biden ahead in the averages of the other three, all of which President Donald Trump won in 2016.\n    \n"
+    publishedDateTime: 2020-10-20T11:17:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QTPcYu0GhHM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/cnn-poll-of-polls-pennsylvania-michigan-wisconsin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/cnn-poll-of-polls-pennsylvania-michigan-wisconsin/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 169
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014110142-01-hamilton-cast-2016-new-york-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016184912-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Michelle Obama releases closing campaign message: Vote for Biden 'like your lives depend on it'"
-    excerpt: "Former first lady Michelle Obama is making her closing message to Americans in a campaign video released less than one month until Election Day, imploring people to vote as she shares why she believes the stakes are so high this year.\n    \n"
-    publishedDateTime: 2020-10-06T13:48:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PcumDGemN28/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/michelle-obama-vote-joe-biden-closing-message/index.html"
+  - title: "Fact-checking Biden's claim that Barrett's SCOTUS confirmation process is \"not constitutional\""
+    excerpt: "In the lead up to Monday's confirmation hearings to install Judge Amy Coney Barrett on the US Supreme Court, Democratic presidential candidate and former Vice President Joe Biden raised concerns that the efforts to put Barrett on the court are unconstitutional and exemplify court packing.\n    \n"
+    publishedDateTime: 2020-10-13T17:32:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3JThIySjyK8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/biden-barrett-unconstitutional-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/biden-barrett-unconstitutional-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002172437-michelle-obama-dnc-august-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092125-07-barrett-hearing-1013-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden campaign mulls possible 'climate czar' position"
-    excerpt: "A Biden administration would seek to rejoin the Paris Climate Accord. This website uses cookies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media,"
-    publishedDateTime: 2020-10-07T20:02:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/biden-transition-climate-czar-427392"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/07/biden-transition-climate-czar-427392"
+  - title: "US authorities investigating if recently published emails are tied to Russian disinformation effort targeting Biden"
+    excerpt: "US authorities are investigating whether recently published emails that purport to detail the business dealings of Joe Biden's son in Ukraine and China are connected to an ongoing Russian disinformation effort targeting the former vice president's campaign, a US official and a congressional source briefed"
+    publishedDateTime: 2020-10-16T17:39:53Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vt8g63LFi24/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/russian-disinformation-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/russian-disinformation-investigation/index.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 153
     images:
-      - url: "https://static.politico.com/fe/16/ebeda94544409667c33b3c956052/201007-biden-wisc-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Watch live: Biden delivers remarks in Ohio"
-    excerpt: "Watch live coverage as Democratic presidential nominee Joe Biden makes a campaign stop and delivers remarks in Cincinnati, Ohio."
-    publishedDateTime: 2020-10-12T19:32:00Z
-    webUrl: "https://www.nbcnews.com/video/watch-live-biden-delivers-remarks-in-ohio-93675589765"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo93675589765"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo93675589765"
+  - title: "Biden Is Not Out of the Woods"
+    excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
+    publishedDateTime: 2020-10-14T09:14:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/biden_ohio_remarks.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static01.nyt.com/images/2020/10/14/opinion/14edsall1/14edsall1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Indian-Americans Overwhelmingly Support Joe Biden, New Poll Shows"
+    excerpt: "Americans plan to cast ballots for the Democratic ticket of former Vice President Joseph R. Biden Jr. and Senator Kamala Harris, according to a survey released Wednesday, despite elaborate overtures by the Trump White House to win their support."
+    publishedDateTime: 2020-10-14T14:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14indians-survey/14indians-survey-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden campaign lashes out at New York Post"
     excerpt: "The campaign cast the allegations against Joe and Hunter Biden as “Russian disinformation,” while Republicans complained that social media companies were censoring the story."
@@ -174,21 +286,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "'Hamilton' cast to host virtual fundraiser for Joe Biden's campaign"
-    excerpt: "The world may be turned upside down, but the “Hamilton” cast is not letting Joe Biden throw away his shot. Biden’s presidential campaign announced Monday night that it will be holding a virtual grassroots fundraiser with the cast of the hit musical on Oct."
-    publishedDateTime: 2020-10-15T08:50:00Z
-    webUrl: "https://www.nbcnews.com/news/latino/hamilton-cast-host-virtual-fundraiser-joe-biden-s-campaign-n1243226"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243226"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243226"
+  - title: "How Joe Biden Became the Unlikeliest of Online Fund-Raising Superstars"
+    excerpt: "Four inflection points transformed Mr. Biden from a pauper during the primaries to a powerhouse against President Trump."
+    publishedDateTime: 2020-10-14T18:26:00Z
+    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
+      name: New York Times
+      domain: nytimes.com
     quality: 135
     images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_20/3346401/200512-hamilton-al-1112_c856a6acd5b1adf1863e270d3441f211.jpg"
-        width: 2500
-        height: 1839
+      - url: "https://static01.nyt.com/images/2020/10/13/us/-promo-1602638834025/-promo-1602638834025-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Biden asked about transgender rights by mother with a transgender child"
     excerpt: "Joe Biden was asked by a mother with a transgender child what his views on transgender rights are during a town hall in Philadelphia. Biden assured \"there should be zero discrimination.\""
@@ -238,37 +350,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden campaign manager urges supporters to ‘campaign like we’re trailing’"
-    excerpt: "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina."
-    publishedDateTime: 2020-10-18T23:09:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94105157774"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774"
+  - title: "The Big Role That Big Donors Still Play, Quietly, for Joe Biden"
+    excerpt: "The Biden campaign has trumpeted its success with small donations, but in the last six months it has raised almost $200 million from donors who gave at least $100,000. As sums have grown, transparency has diminished."
+    publishedDateTime: 2020-10-20T10:18:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/politics/joe-biden-donors.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/politics/joe-biden-donors.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/politics/joe-biden-donors.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden's 2020 appeal to the white working class can work. Just ask my dad."
-    excerpt: "The fact that Biden might be succeeding with white noncoastal voters might surprise some on the actual coasts, but it doesn’t surprise me."
-    publishedDateTime: 2020-10-09T21:39:00Z
-    webUrl: "https://www.nbcnews.com/think/opinion/joe-biden-s-2020-appeal-white-working-class-can-work-ncna1241727"
-    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1241727"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1241727"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 132
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3417006/201002-think-randy-lewellen-with-daughter-se-1059a_3350f9af48be7d86da91e68a1315f0d2.jpg"
-        width: 2404
-        height: 1533
+      - url: "https://static01.nyt.com/images/2020/10/19/us/politics/19biden-donors-1/merlin_178633746_6905179f-6b42-4eb0-a2b7-b2ca1221976d-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Feds examining if alleged Hunter Biden emails are linked to a foreign intel operation"
     excerpt: "One email, which has not been confirmed to be authentic, suggested a meeting between Joe Biden and a rep from a Ukraine firm that once paid his son Hunter."
@@ -285,6 +381,34 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_40/3416670/201001-hunter-joe-biden-mn-1135_40d23272b4793a220e9310508e06c432.jpg"
         width: 2500
         height: 1563
+        isCached: true
+  - title: "How Biden would use trade agreements to fight global warming"
+    excerpt: "The former vice president and key Democrats in Congress want to use trade agreements to fight global warming, but reversing four years of Trump's \"energy dominance\" is no easy task."
+    publishedDateTime: 2020-10-14T23:19:00Z
+    webUrl: "https://www.politico.com/news/2020/10/14/biden-trade-fight-global-warming-429495"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/2e/a1/3ec1bb4b45818ca7a50c55e3252c/biden-climate.jpg"
+        width: 955
+        height: 636
+        isCached: true
+  - title: "Wall Street starts to move on to President Biden"
+    excerpt: "The wide Biden lead in polls and online markets points to Trump needing to overturn multiple state results for serious uncertainty to emerge, a much less likely outcome than if the results are extremely close” Ryan Detrick,"
+    publishedDateTime: 2020-10-15T12:05:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-money/2020/10/15/wall-street-starts-to-move-on-to-president-biden-790999"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "AOC, House progressives warn Biden on corporate hires"
     excerpt: "A letter from left-wing lawmakers and groups calls for corporate lobbyists and high-ranking executives to be shut out of a Biden administration."
@@ -309,6 +433,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "There’s a Corrupt Presidential Offspring in This Race All Right. Her Name Isn’t Hunter Biden."
+    excerpt: "As the right races manically to pin whatever it can on Joe Biden’s son, let’s not forget who’s actually made millions while in the White House."
+    publishedDateTime: 2020-10-20T08:57:00Z
+    webUrl: "https://www.thedailybeast.com/theres-already-a-corrupt-presidential-kid-her-name-is-ivanka-trump"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 34
 
 secured: "gLj2Lg+IZ5K8FKggNzkUABpGHh4iHlkZPbRSqJwaVWtS0mBwvUYQgQG2OLZKxjSZ9Zk+nOfUHVsttpp7OtsPqfwG6SsMni5is5dbqcRwkqMrGymjDwyIwiCwsKZqMIlpzB5CUxS1BCsj0TECJ+XZGlqIXKgRA20+ybPCyHCaxj8A0++3Jd9p73RqUoWF1oab/pzlKHi5v4RGplPTXPpFWaTVvV0e9WA8r/YNNyokTJRLBxPZ+UC9Sw+E5sp0eNpCf7dQlhl5wafCk5mUBtFay7G1rjsjH2uOdWCI2LtqRFYEF15uA4/4iAgLVo/szKYN2USBJHf/DOTZEQHfopv7svWstRg5tJv0hu2aM8ZOxH0=;T8AS4sDQypybcghfOyKCSA=="
 ---

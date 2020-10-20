@@ -75,6 +75,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
+    excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
+    publishedDateTime: 2020-10-14T11:39:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-donald-trump-nbc-town-hall-joe-biden-20201014-3mb3cyabd5eb3ihztlgrfejhca-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/5Dl-w7Vb_-EYCL90Aijv_x9y3gg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XYZQSCXJENC6BPEH23GCYA2NM4.aspx"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work"
     excerpt: "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate."
     publishedDateTime: 2020-10-13T11:21:00Z
@@ -184,6 +200,22 @@ related:
       - url: "https://deadline.com/wp-content/uploads/2020/10/Biden-Trump.jpg?w=1000"
         width: 1000
         height: 563
+        isCached: true
+  - title: "‘Donald Trump Town Hall with Savannah Guthrie’ free live stream: How to watch online without cable"
+    excerpt: "Donald Trump is attending a Town Hall event hosted by Savannah Guthrie on Thursday, Oct. 15 at 8 p.m. There are several ways to watch with a free live stream."
+    publishedDateTime: 2020-10-15T20:59:00Z
+    webUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html"
+    ampWebUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 61
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ONOBVVRKZZCKRHGETSQ7SZCHCQ.jpg"
+        width: 3591
+        height: 2394
         isCached: true
   - title: "Tucker Carlson Rips Town Halls: Biden ‘Skated By’ While Trump Was Confronted for ‘Performative Disavowals’ of White Supremacy, QAnon"
     excerpt: "Fox News' Tucker Carlson blasted both town halls with Joe Biden and Donald Trump, slamming Savannah Guthrie for confronting the president to make \"performative disavowals\" of white supr"

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Analysis: This is Joe Biden's best electoral path"
-    excerpt: "A big question heading into this cycle was whether Democrats' best path to winning back the White House ran through the Sunbelt or the Great Lakes (i.e. Rust Belt). While we won't know for certain which pathway was best for them until the votes are actually counted, the current data shows a pretty clear"
-    publishedDateTime: 2020-10-18T16:44:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Uyz89ih1fw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/politics/joe-biden-election-2020-best-electoral-path/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/joe-biden-election-2020-best-electoral-path/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015213641-joe-biden-abc-town-hall-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "tdOugd3RS/NhM+j9+NpfAB//MuTNGTjZEFbwAKHKrTTGojvm3psWt9z2al9dvY3IPiza+XTBRBqrOrncXLQ61FaYYR/xBuBhqboQEcyWB1tpOg5zXeEctwVntMb8YzgkEH5mdvRozu56fybTAJzpCYezn8YLwFLm4jhttTsTzPhasddDmZk0s1nV0fFFtsKQ837BuBnga9OOjBJC7/A9Tk2mn4vbwlYSfRb3GrSmz8FiuUiPbuYu9X0fWPbo0sIS493N2dyTI7u3ecNmKrhsNN7Vc8Es2fwfoGb2XbGk/BaFJ7c0UE41Wjoa6OQRvaHW9DCeUGLq0rtsR+FuCbSNRNNkID/9YgwyZtYxkquLuzs=;qRr7fTfEaNC/fjTCEMmfUA=="
 ---

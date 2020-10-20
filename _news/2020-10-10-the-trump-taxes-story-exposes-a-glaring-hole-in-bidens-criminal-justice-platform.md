@@ -272,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Election live updates: Trump, Biden presidential campaigns in final push"
+    excerpt: "President Donald Trump and Joe Biden are heading into the final stretch of the 2020 presidential campaign. Sahil Kapur Republican senators are increasingly voicing fears that Trump could lose the election,"
+    publishedDateTime: 2020-10-20T10:25:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-trump-biden-presidential-campaigns-final-push-n1243927"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1243927"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1243927"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 164
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Sen. Perdue appears to mock Kamala Harris' name at Trump rally"
     excerpt: "A representative for David Perdue claimed the Republican senator mispronounced it, that it was a mistake and Perdue he \"didn't mean anything by it.\""
     publishedDateTime: 2020-10-17T04:27:00Z
@@ -287,6 +303,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3420928/201016-david-perdue-ac-1130p_7ee8d22a91ffa79563298c7838950429.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "I'm a Republican voting for Joe Biden over Trump. Because I'm an American first."
+    excerpt: "America has watched as the Republican Party stopped pursuing its animating principles of freedom and opportunity and instead gave up its voice on things that mattered."
+    publishedDateTime: 2020-10-20T08:43:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/i-m-republican-voting-joe-biden-over-trump-because-i-ncna1243952"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1243952"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1243952"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 155
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3421378/201019-think-michael-steele-2009-ew-638p_8325ad15ee5bcfae28f4b10138156bad.jpg"
+        width: 2500
+        height: 1666
         isCached: true
   - title: "Second Debate Canceled as Biden Condemns Trump for ‘Reckless’ Conduct"
     excerpt: "President Trump has refused to participate in a virtual event, so next week’s debate is off. Instead, there may be dueling town halls on the same night, as the president ramps up plans for resuming his rallies."
@@ -416,6 +448,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump and Biden Will Be Muted for Parts of Their Next Debate"
+    excerpt: "In an unusual move meant to avoid interruptions like those that marred the first debate, the organizers said they would turn off each candidate’s audio feed while his rival had the floor."
+    publishedDateTime: 2020-10-20T10:18:00Z
+    webUrl: "https://www.nytimes.com/2020/10/19/us/politics/trump-biden-muted-debate.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/19/us/politics/trump-biden-muted-debate.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/19/us/politics/trump-biden-muted-debate.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/19/lens/19debate-muting-photo/19debate-muting-photo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Holds Rally in Nevada After Biden Campaigns in North Carolina"
     excerpt: "Joe Biden is vastly outspending President Trump in TV advertising, maintaining a nearly 2-to-1 advantage on the airwaves. The Trump campaign is projecting a confidence that doesn’t match the difficult reality his team is grappling with."
     publishedDateTime: 2020-10-20T00:37:00Z
@@ -447,6 +495,22 @@ related:
       - url: "https://static.politico.com/60/5d/07a88c7b468f8bb48b6353a2aa86/ap20266752991184-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Voters Prefer Biden Over Trump on Almost All Major Issues, Poll Shows"
+    excerpt: "Joe Biden leads President Trump, 50 percent to 41 percent, a New York Times/Siena College poll shows, with voters favoring him by wide margins on the coronavirus and law and order."
+    publishedDateTime: 2020-10-20T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/politics/biden-trump-times-poll.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/politics/biden-trump-times-poll.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/politics/biden-trump-times-poll.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/us/-promo-1603167098634/-promo-1603167098634-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump and Biden will have mics cut during opponent's answers in final debate"
     excerpt: "Debate commission institutes microphone muting for Trump-Biden debate Sections TV Featured More from NBC Follow NBC News President Donald Trump and Joe Biden will have their microphones cut off during Thursday’s final presidential debate while their opponent delivers initial two-minute answers to each debate topic,"
@@ -509,6 +573,22 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3420232/201014-ms-daily-roundup-cs_9ad523825d1760247a93da7f1c5223b7.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris, Mass Incarceration and Me"
+    excerpt: "Many progressives mistrust her for her past as a prosecutor. As an ex-convict — and also the son of a crime victim — I can tell you it’s not that simple."
+    publishedDateTime: 2020-10-20T09:07:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/magazine/kamala-harris-crime-prison.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/magazine/kamala-harris-crime-prison.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/magazine/kamala-harris-crime-prison.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/25/magazine/25mag-harris-1/25mag-harris-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus"
     excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus."

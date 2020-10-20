@@ -110,38 +110,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden says he's 'not a fan' of court-packing and that he doesn't want to make the election about the issue"
-    excerpt: "Democratic presidential nominee Joe Biden said Monday that he's \"not a fan\" of court-packing, providing his clearest position on an issue he has sought to avoid discussing following the death of Justice Ruth Bader Ginsburg.\n    \n"
-    publishedDateTime: 2020-10-13T12:54:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s8tvjwJnP4Y/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/joe-biden-court-packing-not-a-fan/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/joe-biden-court-packing-not-a-fan/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201005163735-01-joe-biden-florida-1005-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact-checking Biden's claim that Barrett's SCOTUS confirmation process is \"not constitutional\""
-    excerpt: "In the lead up to Monday's confirmation hearings to install Judge Amy Coney Barrett on the US Supreme Court, Democratic presidential candidate and former Vice President Joe Biden raised concerns that the efforts to put Barrett on the court are unconstitutional and exemplify court packing.\n    \n"
-    publishedDateTime: 2020-10-13T17:32:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3JThIySjyK8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/13/politics/biden-barrett-unconstitutional-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/13/politics/biden-barrett-unconstitutional-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092125-07-barrett-hearing-1013-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden tops 270 in POLITICO's Election Forecast"
     excerpt: "To win reelection, Trump would now have to sweep five toss-up states, plus a “lean Democratic” state like Wisconsin or Pennsylvania."
     publishedDateTime: 2020-10-12T08:36:00Z
@@ -238,38 +206,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden Is Not Out of the Woods"
-    excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
-    publishedDateTime: 2020-10-14T09:14:00Z
-    webUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/opinion/biden-trump-presidential-election.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/14/opinion/14edsall1/14edsall1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Indian-Americans Overwhelmingly Support Joe Biden, New Poll Shows"
-    excerpt: "Americans plan to cast ballots for the Democratic ticket of former Vice President Joseph R. Biden Jr. and Senator Kamala Harris, according to a survey released Wednesday, despite elaborate overtures by the Trump White House to win their support."
-    publishedDateTime: 2020-10-14T14:07:00Z
-    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/biden-harris-indian-americans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14indians-survey/14indians-survey-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Allegation on Biden Prompts Pushback From Social Media Companies"
     excerpt: "Joe Biden’s campaign rejected assertions made in a published report that were based on unverified material from Trump allies. Facebook and Twitter found the story dubious enough to limit access to it on their platform."
     publishedDateTime: 2020-10-15T02:04:00Z
@@ -285,22 +221,6 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/14/us/politics/14biden1/14biden1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "How Joe Biden Became the Unlikeliest of Online Fund-Raising Superstars"
-    excerpt: "Four inflection points transformed Mr. Biden from a pauper during the primaries to a powerhouse against President Trump."
-    publishedDateTime: 2020-10-14T18:26:00Z
-    webUrl: "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/14/us/politics/joe-biden-fund-raising.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/13/us/-promo-1602638834025/-promo-1602638834025-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Biden says small groups, PPE, necessary for schools to be open during pandemic"
     excerpt: "Former Vice President Joe Biden outlines his plan for reopening schools safely during the coronavirus pandemic and focused on rate of transmission in the community, making sure teachers and proper PPE,"
@@ -331,20 +251,6 @@ related:
       - url: "https://static.politico.com/65/ac/d885bdd04d24856933469af10242/gettyimages-1277705292-1.jpg"
         width: 1160
         height: 774
-        isCached: true
-  - title: "Wall Street starts to move on to President Biden"
-    excerpt: "The wide Biden lead in polls and online markets points to Trump needing to overturn multiple state results for serious uncertainty to emerge, a much less likely outcome than if the results are extremely close” Ryan Detrick,"
-    publishedDateTime: 2020-10-15T12:05:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-money/2020/10/15/wall-street-starts-to-move-on-to-president-biden-790999"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "bMK5jzzcvHMgisUaiuhMHtAnc2kgDeqg/b8Bp8iWt9FlJu0wfM09EhtiWYwSZ1e1Xer3lstNUwZmZzTovsJDoqNV1esV3sfHwgYQWuvD5J5p8SVuJhaFn33/L8EmoI+QS+rjmdE1cdsqKPVya05+f5tJsxowmNH3woOoDyUK72sfc/+PPcaOpI8ZrD3NFojbAAxlphvKD726t95+TucdYMUcs5e86/ZQXFp7ywo98p/ImnWjIZhKO7WOEIUS9DCKioT4I8/8XbeVhiIm87HOzWS05PrVivCfIUYbJKMDwIC/xIepIy3T163prAOAKZ2f5eBF9IfIPUvXMH8V93C3fDW+p0WLVH+D7V3+7mV476NRrYfUig9zr6eEXY/zZ/jl7sDojmCpfpirXkMfFdStY6bzMiGiClozF3esIFlbRFOakOjlA7bpYrgkdrNyi5td/iDHFbRgaWCx5F0/HXjmCirw4eHBQzyEVs19/4Cc+8Z40jNOoCEiVi7/6E/WQUJhzciVaOMX3qy01FhY15boBQ==;ewzkE2m/pIf/zu0lW598gg=="

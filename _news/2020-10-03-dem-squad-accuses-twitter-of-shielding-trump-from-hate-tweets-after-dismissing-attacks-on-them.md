@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump continues swing through battleground states with stop in Pennsylvania"
+    excerpt: "With the November election exactly two weeks away, President Trump is continuing his tour of the pivotal battleground states with a campaign stop in Pennsylvania, where he's currently trailing Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-20T11:49:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hkEnqKrT4kw/trump-biden-harris-pence-campaign-trail-october-20"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-20.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/44a51563-b1f8-4175-9291-2372bfcfd512/993301a0-09e7-401d-b6b2-8cd86a8d4fe1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump pushes back against changes to future debates as Dems float ‘mute button’"
     excerpt: "President Trump on Thursday pushed back against the idea of possible changes to future debates with Democratic nominee Joe Biden after the Commission on Presidential Debates suggested they could modify the rules and format -- and some Democrats even floated that the next showdowns include a \"mute button.\" "
     publishedDateTime: 2020-10-01T18:41:44Z

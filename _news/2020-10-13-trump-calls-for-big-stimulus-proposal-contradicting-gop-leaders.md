@@ -29,70 +29,161 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
-    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
-    publishedDateTime: 2020-10-15T23:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
+  - title: "Trump administration denies California relief for 6 fires"
+    excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
+    publishedDateTime: 2020-10-16T16:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
+    excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702SX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
-        width: 816
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ"
+        width: 908
         height: 545
         isCached: true
-  - title: "Ivanka Trump to attend fundraiser in Naples on Wednesday"
-    excerpt: "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week."
-    publishedDateTime: 2020-10-19T17:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
+  - title: "Trump administration denies California relief for 6 fires"
+    excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
+    publishedDateTime: 2020-10-16T19:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
+    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
+    publishedDateTime: 2020-10-09T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump administration rejects California's request for wildfire disaster assistance"
+    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-16T10:11:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Government agency will investigate Trump administration political influence over FDA, CDC"
+    excerpt: "Both agencies have been caught in political crossfire since the start of the pandemic, as preventative health measures became politicized."
+    publishedDateTime: 2020-10-19T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5981174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5981174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/978858e1-2530-4004-9fa6-4eafefcf111e-VPC_TRUMP_REDFIELD_CONTRADICTION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Exxon Mobil, after Trump's fundraising remarks, says its CEO and Trump had no phone call"
-    excerpt: "Exxon Mobil Corp said there had been no phone call between its chief executive, Darren Woods, and President Donald Trump after the president invoked the company's name at a rally in Arizona on Monday when he said he could raise more money than his Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-20T02:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-exxon-mobil/exxon-mobil-after-trumps-fundraising-remarks-says-its-ceo-and-trump-had-no-phone-call-idUSKBN2750CN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750CN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750CN"
+  - title: "Trump administration reverses course on California's request for wildfire disaster assistance"
+    excerpt: "The federal government had denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538108580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J06F"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
-    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
-    publishedDateTime: 2020-10-17T17:40:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
+    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
+    publishedDateTime: 2020-10-14T13:12:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "Donald Trump administration to face more lawsuits challenging H-1B rules close to two weeks before elections"
+    excerpt: "B workers and also made qualifying for H-1B visa tougher. First of the lawsuit filed by US IT companies on October 16 was against the wage hike rule. Two more are likely to follow in the coming days,"
+    publishedDateTime: 2020-10-18T07:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 71
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
-        width: 800
-        height: 430
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/08/Visa-Passport-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "2ceA4akh74Rg0lk76NL+8UX2RTEut2JvroyHimJTG/eNwXgyFvxvhupfhKqFrhNO6BRKTl4ZIn5o/gUtjxPGneZwe5U1j445TLyM5774KcNPBcl8Tis0E8SiKStzLFZ3vZVwtxk0lMzS0Pw9WMrlN4qnSvkRU2OUD0opHBkIJvLnA3UecuL1eFBxqeRZj9EEvm5buEqC15kQaK56nGh/nWn1I76gOFJxX+VZrytye+XtAVkihV4NNDqSll/q6XRWVsXGz4urdgDypLM6wJuq9raxx4oeE5cK/vTSQrpjlVzr6m26XNb0b3xefNGkgvwzLYuj5DMfM43+DJjz3H2kl1+CBTPfnbOoWPf7WQvOTy4TcrIzRxA1zj7DYM6zMHvSfWhvYvYvbOGiM82u15jfoqXtMo7ft32gvIotegT0V8cSP0wzCaYrbVUN1EvzgpN/Hc0Ijtso1/og7G9t20P90Egt8K+J/Fm1OS2+1C0xf5azdXjSxiu7JJE2UK/b+WfZMRBbKWI0m/toQMnY3wd/DQ==;lAnig38zVq693L/90UryrQ=="
 ---
