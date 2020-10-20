@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavir
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -79,7 +79,18 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Trump Calls Fauci a 'Disaster' and Seeks to Reassure His Team He Can Win"
+    excerpt: "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov."
+    publishedDateTime: 2020-10-20T04:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-19/trump-blasts-fauci-seeks-to-reassure-his-team-he-has-pathway-to-win"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-19/trump-blasts-fauci-seeks-to-reassure-his-team-he-has-pathway-to-win?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-19/trump-blasts-fauci-seeks-to-reassure-his-team-he-has-pathway-to-win?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
-secured: "Iu8rYaXGTK6BdnaLM+/COW0HEOEDyeBmW0Lg11ncQnQHb4WeJiMvzGc6QYsH4QJ/X5Fz56AvkV2rQpUILKt1PSFi1PcfRPnxchxWBzidGwkhfBDzHgUmiBAgH/tv7NUu1Y03gaT9XHmJNIAUPV0gUSf33GIGV5WgPGvc90seUH0FumoBfQ5yQBLhMg0om8a3kui9uOrEtAv8RhLVcRcnBalKsTvJt8wSoQBefNwl+uI7rH3ASrA9kqKegnFSQBmjrhIA7D5+FUBTStRLmzOFYVbjiBZ+MMJ94ObCEVSDUXMFTmTs1BdwNN5HMx8mV8owhgBS5WjvLIvIJqj37mSE8xRUSuG/LbHMpe62rrUZzDI=;58XsM7rwBWlZdt//8TEAeg=="
+secured: "TKlnOA7TdIEyl2T3pnZMqdtQOqEWTo6wdDvODK7JxEVY88519m6wnXMC30xxBYB+HOmEUwVqf5dZ+MFnKgQCUYyH+lkElChg/PXBozfF311Y31g00cZ2WrQ22UwTgQw3v+Q9WniGOvnjUcMZxX2k0K4oUWYW8/kBdtXoMo/P0XVmFOMr0NNXg+F+GWMvUztjV1+LWBFn2NFaqWNfitcR8ryOSgAdgtG+qpATvSVwmRXiJHS94mWOsl3/6Key0NorkrwiOf1po/xad6BkE+j1FeCRw9SdjC30agDIqzD19Kfq/TOthwBndu/Qfh2WbdZFHg9Cpf4v+T3mj2LA/chJSSKuENO+kbWc/p4b23WcYjQOfBnxI+UsYNEWwurgvsIkph/JSZ+dAg7bJvll3PuyhiqWRZbdWkdkQY0MghQmCb0rHA+pkU4Gh+32LtzIbzyfBPv+QuGjsbLCEhGcQLHid57lzOgd3dx2g5I79jYs+eLekKJUElESp0x4Zvenc8ZfY45/iCpUdXowDHHkv735cQ==;iV/pmD0avxqwPQwfFZU3sg=="
 ---
 

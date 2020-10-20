@@ -79,6 +79,17 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Trump Calls Fauci a 'Disaster' and Seeks to Reassure His Team He Can Win"
+    excerpt: "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov."
+    publishedDateTime: 2020-10-20T04:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-19/trump-blasts-fauci-seeks-to-reassure-his-team-he-has-pathway-to-win"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-19/trump-blasts-fauci-seeks-to-reassure-his-team-he-has-pathway-to-win?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-19/trump-blasts-fauci-seeks-to-reassure-his-team-he-has-pathway-to-win?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 54
 
 secured: "oOOZUGtwzHM8luLLJ/RrHOpRtSZXR9NnrOwHzheAXCkgX1pU/ghx/lGoO1c9HxQzouTzxUqNj7/hJEe+xrcvXqwKeih+Q5JlR4O4Sb5kmXEpYYioAnomzJsCk+cjBRPizQ8MDwBG5sE8Few0GtONWo7IaPQ1tBMcTVrYs2oktzPpOePfx2GoHKzT1+zu75pBXOqrcAOWA+FAVdJtdGRm5yNesAz34YJMoUlaPuloJvnjy0ao8aoks6aDl4qaYX0E46Ya8GjYo/VCJRq2H+C9P9AnWwNz2bjBdD/m6T6qyW86L+qSJbhOR97aP3MHOKWnkB8CG2Rsp+LMpFb1ZzkicCFIQdQeojoP0d/tDIXLQ80=;aKi+lZqbrdV1pKywD/Pw6w=="
 ---

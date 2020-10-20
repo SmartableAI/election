@@ -677,7 +677,7 @@ related:
   - title: "Joe Biden’s Lies About His Son’s Burisma Dealing Are Coming Back to Haunt Him"
     excerpt: "Joe Bidens cheating is legendary. It goes way back to his plagiarism and cheating to get through law school and his plagiarism and lying when he attempted to run for President in the late"
     publishedDateTime: 2020-10-19T09:18:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html"
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.amp.html"
     type: article

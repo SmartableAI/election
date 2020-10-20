@@ -3829,6 +3829,20 @@ related:
         width: 3264
         height: 1809
         isCached: true
+  - title: "Kamala Harris is ready for a 2024 presidential run. But progressives have other ideas."
+    excerpt: "Harris would have to fend off left-wing challengers in the next primary who have misgivings about her centrist positions and career as a prosecutor."
+    publishedDateTime: 2020-10-20T04:17:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-2024-presidential-campaign-left-progressive-candidates-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f8ceabdc21cfb0019468ab5?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "5 takeaways from the vice-presidential debate between Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and vice-presidential nominee Sen. Kamala Harris faced off in the only vice-presidential debate before the election. Moderated by Susan Page, Washington bureau chief for USA Today,"
     publishedDateTime: 2020-10-08T03:36:00Z
@@ -7188,6 +7202,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "O2Bz6v6EDRgLKNubPaDybQWF6/vax32OKETfrUFlyYcpkCvx63E9D4CrYlz8lnK2bCjGbAlRTeexzZKEp7BzgCQLZSFXcd67GKPGhOamPdqco0uRrqR6plJ4p/plQBRLmJScKC7dKDyigQXEnduO8hiYn41K3U7poR3iOwYo/SXNf/S4N5PAxA+4z49MrtD1lQgfYlS1HVEDwEklfCWmCzB38Fau9qeD5gmxdjTslzd9ZwTKtgeGpxOqqKEcgE1VFxqwB6+dQXRpIFP9S/OIHNuTEH15/gvD9im+Zh8JSl0iWI37fcCLM+oW8N/6/hmKLGMQUCrDuNBw4wTovWFsWK6VCda73c4Mdt6wbKC8Tvk=;v3UGRlbnECnocmCHiookug=="
+secured: "6ZRCGdXge6y9/zGuwrvMRX8enW67TbSTD0w3Bmxk3RopaqsNscAZm+VRccywGsqxFPvKrQ2ocN3gdyJG2dTb057fXPPMhzH0o1n7jffLOT0A7QNXM2Eyz4EAllZGhv3jGnTbhTU0MZUd+/7RsqyrX0TmhPvPeZc+GSShpT6n86JXR9gLRVUXSRhWzZzjqq2rn6AqegwFZY18WlRAXLbypQo7pCaN1ErvaapKkfZlH0lTihVYVGOyKOOAEdlgI4tYEpG9k+B4gwUeoehisKZLhFKhacDyUh8yM+x4BKaGMQzNOLBqzpZ7RtcS/tvBG26REhZdYcJ6ztA3QkfZLbcETSML1w07L/Ekzwu0uqdCykCBeU5lkJwdBYxOlRi+1RQnSh/q+qlh8JurXlFOC0gSTra98qVYX7TJAowva6gTwrys2UYRxtg7jZ1yttcUuujpVnuK3UTH9VvoP9n8yAD5UJg79p2OxM5xE4O+ZLqAtKuJH3ovFg/YfqWmbSdyOGFsK9c4JVSI61kOEQloFLBajQ==;x7jwaF06rxmhRuW9ZhyDbA=="
 ---
 

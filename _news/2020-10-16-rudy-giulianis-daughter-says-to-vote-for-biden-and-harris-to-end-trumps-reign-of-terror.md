@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 965
+heat: 985
 published: true
 
 provider:
@@ -579,6 +579,20 @@ related:
     quality: 130
     images:
       - url: "https://media3.s-nbcnews.com/j/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden can't ignore Black men. Ice Cube's Trump defection proves it."
+    excerpt: "In these last days of the 2020 election season, the Democrats should be wary of dismissing this Ice Cube moment, and what it represents."
+    publishedDateTime: 2020-10-19T23:37:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/biden-can-t-ignore-black-men-ice-cube-s-trump-ncna1243937"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_43/3421392/201019-ice-cube-trump-biden-main-cover-cs_83cb6e5db171fa242e694bd42c83e85d.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

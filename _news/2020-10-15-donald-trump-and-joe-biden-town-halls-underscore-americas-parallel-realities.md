@@ -583,6 +583,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden can't ignore Black men. Ice Cube's Trump defection proves it."
+    excerpt: "In these last days of the 2020 election season, the Democrats should be wary of dismissing this Ice Cube moment, and what it represents."
+    publishedDateTime: 2020-10-19T23:37:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/biden-can-t-ignore-black-men-ice-cube-s-trump-ncna1243937"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_43/3421392/201019-ice-cube-trump-biden-main-cover-cs_83cb6e5db171fa242e694bd42c83e85d.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
     excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
     publishedDateTime: 2020-10-14T22:25:00Z

@@ -3842,6 +3842,20 @@ related:
         width: 3264
         height: 1809
         isCached: true
+  - title: "Kamala Harris is ready for a 2024 presidential run. But progressives have other ideas."
+    excerpt: "Harris would have to fend off left-wing challengers in the next primary who have misgivings about her centrist positions and career as a prosecutor."
+    publishedDateTime: 2020-10-20T04:17:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-2024-presidential-campaign-left-progressive-candidates-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f8ceabdc21cfb0019468ab5?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "Kamala Harris, Mike Pence to Take Center Stage for Highly Anticipated VP Debate"
     excerpt: "What a difference eight days makes. Just last week the nation settled in for the first televised debate between President Donald Trump and Democratic challenger Joe Biden. Before the dust from that contest had a chance to settle Trump revealed he’s contracted COVID-19 and a small platoon of his inner circle have since come forward to reveal they’ve contracted the disease as well."
     publishedDateTime: 2020-10-07T19:27:00Z

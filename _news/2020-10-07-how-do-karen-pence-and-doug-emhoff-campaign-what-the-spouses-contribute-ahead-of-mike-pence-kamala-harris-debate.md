@@ -3846,6 +3846,20 @@ related:
         width: 3264
         height: 1809
         isCached: true
+  - title: "Kamala Harris is ready for a 2024 presidential run. But progressives have other ideas."
+    excerpt: "Harris would have to fend off left-wing challengers in the next primary who have misgivings about her centrist positions and career as a prosecutor."
+    publishedDateTime: 2020-10-20T04:17:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-2024-presidential-campaign-left-progressive-candidates-2020-10"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/5f8ceabdc21cfb0019468ab5?width=1200&format=jpeg"
+        width: 1200
+        height: 599
+        isCached: true
   - title: "5 takeaways from the vice-presidential debate between Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and vice-presidential nominee Sen. Kamala Harris faced off in the only vice-presidential debate before the election. Moderated by Susan Page, Washington bureau chief for USA Today,"
     publishedDateTime: 2020-10-08T03:36:00Z

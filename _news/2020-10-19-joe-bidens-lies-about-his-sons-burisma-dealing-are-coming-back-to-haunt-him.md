@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden’s Lies About His Son’s Burisma Dealing Are Coming Back to Haunt Him"
 excerpt: "Joe Bidens cheating is legendary. It goes way back to his plagiarism and cheating to get through law school and his plagiarism and lying when he attempted to run for President in the late"
 publishedDateTime: 2020-10-19T09:18:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html"
-webUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html"
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.html#!"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/19/joe_bidens_lies_about_his_sons_burisma_dealing_are_coming_back_to_haunt_him_144479.amp.html"
 type: article
@@ -827,6 +827,6 @@ related:
       domain: realclearpolitics.com
     quality: 33
 
-secured: "b0auHuCNwQSEhsJZk9H6oL59iZEd10xrSPaoYyEy1Zt0jgIe9Xfm3+2HThMNTayw7EvsCZRhyD3P1UCm3kP38WBaurgV1UOkVg2SYEBrVCkCJsiub8QRW70zJmbkzR+vCEShafEaDOa9VkYUV/vDvYHMxAyi2bEdAZLb4ssFnl4OTIkTei2J8i+H0P9Tb5bXoLH7wy/kvBq06eh4eV79YIX9SLqqkBan9GWTGXzWI9+aeXLMmvGmoyfCQt//waQY16A6FQx9NEWIIRQavGNnBEZRMOicV2nRGQqhzoCkYgPzC1vhRGGvbO2fAMA+fc/nHiASRFVhEbiEJQglanYR7ys4KX0g0s+txy40rfrVPOTVFy8x+0nSeifYHimVBizRKqcOBC/PB5Ip8gyhuAEXYgT+JZoeJ7NE5R7FjY4eRjM5dcT+MYgI9p6nKIcSzn90i8KtDqfgPJYV1rQow2fgLq/SAiLaF/H6ocbPzRVcMQTvJ0L5qt9q6Mdy9iZggF8R8dOWf4PcXpmzk+xy3PZThw==;MYfzBQ33vhTheEdtvNlCbA=="
+secured: "9Hwj0LCNJnuwBngQ7TeTwvYjbkq7uJuGO9HyJnGCOJ5Q/g9Oz1VV0d7jVYcQVN5lX3aUBu6VWwm6+6DCuAvh2ivAfCPxA0BCs6bjJvjvi2c4j5DSCii1+CUw3rDfDUkvoBNAEkyd5IiOYJ/wpkmmhOjFrcJYGXG4WvWZd6IdStJmVIXs4Kod/cheR7xsCeMXGi3ncbfoAr0SganmoMtuCjG4zTMq0hdydAgtaPG9IL5JCwcFRan0y52jtldIgtCwpbznJfFoOkcY/XJSr0fbmHSeBe1/Ek8Cgk9Qv/vHTarQsD8epvJeLMcCjJBDqY7NDNtcV5K/8w6u9L6NB7m65N7L4G6Tg/QAEnKNPxZQ76k=;q7gMqE7C7ihvOtJAeaJb8Q=="
 ---
 

@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "NJ Attorney General is suing Trump administration over Tweet"
+    excerpt: "New Jersey Attorney General Gurbir Grewal is suing the Trump administration over claims the president made earlier this year on social media, regarding low-income housing and its connection to rises in crime. "
+    publishedDateTime: 2020-10-20T04:55:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KcbvdFF3xIU/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
     excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."
     publishedDateTime: 2020-10-19T13:25:29Z

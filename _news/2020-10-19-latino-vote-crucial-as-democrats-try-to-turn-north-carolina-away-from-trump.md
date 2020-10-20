@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "NJ Attorney General is suing Trump administration over Tweet"
+    excerpt: "New Jersey Attorney General Gurbir Grewal is suing the Trump administration over claims the president made earlier this year on social media, regarding low-income housing and its connection to rises in crime. "
+    publishedDateTime: 2020-10-20T04:55:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KcbvdFF3xIU/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet"
+    ampWebUrl: "https://www.foxnews.com/politics/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nj-attorney-general-is-suiing-the-trump-administration-over-a-tweet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
     excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn., appearing to suggest that Barrett was publicly lobbying for a judicial job from Trump by writing"
     publishedDateTime: 2020-10-14T18:01:32Z

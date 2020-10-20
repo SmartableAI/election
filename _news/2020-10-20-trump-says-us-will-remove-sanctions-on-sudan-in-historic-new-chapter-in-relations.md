@@ -957,6 +957,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Pelosi Shifts Deadline If Trump Wants Pre-Election Stimulus"
+    excerpt: "Nancy Pelosi set a Tuesday deadline for more progress with the White House on a fiscal stimulus deal before the Nov. 3 election, while President Donald Trump renewed his offer to go beyond the dollar amounts now on the table."
+    publishedDateTime: 2020-10-20T00:36:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/pelosi-shifts-deadline-if-trump-wants-pre-election-stimulus/2020/10/17/5ec69b6c-10e4-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JB6GGQQ4QI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
     excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"
     publishedDateTime: 2020-10-08T00:54:00Z
