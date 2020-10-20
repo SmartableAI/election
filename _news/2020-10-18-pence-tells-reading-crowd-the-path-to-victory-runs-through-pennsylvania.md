@@ -27,33 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Judge throws out Trump campaign lawsuit over Pennsylvania poll-watching law and mail-in ballots"
-    excerpt: "The Trump campaign had challenged the battleground state’s poll-watching law and how mail-in ballots are collected and counted."
-    publishedDateTime: 2020-10-10T21:28:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/judge-throws-out-trump-campaigns-pennsylvania-lawsuit/5956103002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5956103002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5956103002"
+  - title: "Pence in Michigan says 'road to victory' runs through state"
+    excerpt: "Vice President Mike Pence told a Michigan crowd Wednesday that enthusiasm on the campaign trial doesn't match polls that have Joe Biden ahead of President Donald Trump. Pence spoke outdoors to about 300 people at Lacks Enterprises in Cascade Township,"
+    publishedDateTime: 2020-10-14T21:26:00Z
+    webUrl: "https://www.chron.com/news/article/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/8bc0821d-3529-4ac9-921f-5c7197680059-AP_Election_2020_Lawsuits_Glance.jpg?auto=webp&crop=4855,2731,x0,y168&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
-    excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
-    publishedDateTime: 2020-09-19T13:55:00Z
-    webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
     excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
     publishedDateTime: 2020-10-17T21:41:00Z

@@ -327,20 +327,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "New poll shows Joe Biden ahead in Michigan"
-    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-12T18:55:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facebook And Twitter Limit Sharing New York Post Story About Joe Biden"
     excerpt: "The social media companies said they wanted to slow the spread of possibly false information. But their actions drew charges of censorship from President Trump's allies."
     publishedDateTime: 2020-10-14T22:49:00Z

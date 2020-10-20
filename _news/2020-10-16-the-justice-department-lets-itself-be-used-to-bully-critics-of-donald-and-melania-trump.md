@@ -31,131 +31,85 @@ images:
     isCached: true
 
 related:
-  - title: "Officials in Scotland approve another Trump golf course"
-    excerpt: "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists"
-    publishedDateTime: 2020-10-17T18:09:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
+  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
+    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
+    publishedDateTime: 2020-10-19T07:34:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
-  - title: "'Put these animals in jail': Trump condemns protestors in Portland and continues his 'law and order' campaign rhetoric"
-    excerpt: "Trump's comments are a continuation of attacks on Democratic presidential candidate Joe Biden, who he has claimed is weak on \"law and order.\""
-    publishedDateTime: 2020-10-12T16:27:00Z
-    webUrl: "https://www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/put-these-animals-in-jail-trump-condemns-protestors-in-portland-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f846841bab422001979ac2c?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Donald Trump to open a new golf course named after his mother in Scotland despite opposition from conservationists and local residents"
-    excerpt: "The 18-hole course will be called \"MacLeod\" in honor of Trump's mother, Mary MacLeod who was from the Scottish island of Lewis."
-    publishedDateTime: 2020-10-18T11:50:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-to-open-scottish-golf-course-named-after-his-mother-mary?amp"
+  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-20T12:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 93
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
     images:
-      - url: "https://i.insider.com/5f8bf5bcc21cfb0019468a51?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Barbra Streisand shades Donald Trump at event for Gov. Andrew Cuomo"
-    excerpt: "Barbra Streisand got back to her New York roots while introducing Gov. Andrew Cuomo at a virtual event for his new book, “American Crisis: Leadership Lessons from the COVID-19 Pandemic,” on Thursday night."
-    publishedDateTime: 2020-10-16T22:23:00Z
-    webUrl: "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/"
-    ampWebUrl: "https://pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/"
-    cdnAmpWebUrl: "https://pagesix-com.cdn.ampproject.org/c/s/pagesix.com/2020/10/16/barbra-streisand-shades-donald-trump-at-event-for-gov-andrew-cuomo/amp/"
-    type: article
-    provider:
-      name: Page Six
-      domain: pagesix.com
-    quality: 75
-    images:
-      - url: "https://pagesix.com/wp-content/uploads/sites/3/2020/10/barbra-streisand-donald-trump-andrew-cuomo.jpg?quality=90&strip=all&w=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Demi Lovato calls out Donald Trump on political anthem Commander in Chief"
-    excerpt: "Demi Lovato has called out President Donald Trump on his handling of racial injustice and the coronavirus pandemic on her new politically-charged anthem 'Commander in Chief'."
-    publishedDateTime: 2020-10-14T08:00:00Z
-    webUrl: "https://tulsaworld.com/people/demi-lovato-calls-out-donald-trump-on-political-anthem-commander-in-chief/article_b035d3c4-7c88-5e29-bac0-cb701efa0806.html"
-    ampWebUrl: "https://tulsaworld.com/people/demi-lovato-calls-out-donald-trump-on-political-anthem-commander-in-chief/article_b035d3c4-7c88-5e29-bac0-cb701efa0806.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/people/demi-lovato-calls-out-donald-trump-on-political-anthem-commander-in-chief/article_b035d3c4-7c88-5e29-bac0-cb701efa0806.amp.html"
+  - title: "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics"
+    excerpt: "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-10-13T16:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5979016002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002"
     type: article
     provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 74
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/5/2b/52bdaeee-08a1-531e-84e4-d64f512b8d85/5f86b0636f75e.image.jpg"
-        width: 1000
-        height: 650
-        isCached: true
-  - title: "Rick Gates Calls on Trump to Pardon Him — And Everyone Convicted of Crimes by Mueller Probe"
-    excerpt: "Donald Trump's former 2016 deputy camping manager Rick Gates calls on the president to pardon him — and everyone else convicted of crimes by the Mueller Probe"
-    publishedDateTime: 2020-10-15T01:18:00Z
-    webUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/"
-    ampWebUrl: "https://www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/rick-gates-calls-on-trump-to-pardon-him-and-everyone-convicted-of-crimes-by-mueller-probe/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Rick-Gates-Calls-on-Trump-to-Pardon-Him-And-Everyone-Convicted-of-Crimes-by-Mueller-Probe-1200x672.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200"
         width: 1200
-        height: 672
+        height: 675
         isCached: true
-  - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
-    excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."
-    publishedDateTime: 2020-10-19T13:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 65
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Donald-Trump-and-Franklin-Graham.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
-    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
-    publishedDateTime: 2020-10-17T20:34:00Z
-    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
+  - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
+    excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
+    publishedDateTime: 2020-10-19T21:25:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 53
+    quality: 86
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
         width: 1024
-        height: 689
+        height: 681
+        isCached: true
+  - title: "The price of arrogance: Trump fails to follow the rules when rewriting regulations, leading to chaos and court challenges"
+    excerpt: "Election day is two weeks away. Our running list of 99 reasons why Donald Trump must be made a one-term president still finds ample fodder in the daily failures, fumbles and foibles of the 45th president and his factotums."
+    publishedDateTime: 2020-10-20T08:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 50
+    images:
+      - url: "https://www.nydailynews.com/resizer/aa1mrddi0o7hgZ0CgJEYoy-Lpnc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WQSQVXEAZRBHJOKHZBGIL773IY.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "hYUmxI8wyJXuGKvmLPTbFG6TP/0uJM0k+/7uAKuPLm7tXGCFMH1UNPDpqLXCULL9JO2iOn6QfdtITW5zvjz8avXr1gJbsl0vnrg+ug7Qf+Tv+KxdBJKOXYCtAiT9V8x/KUilhChWFprAKZ5lZ/Kbb/KkTzoMT/PH3CAEhuPP8jPnToe72RNHeY4vbD+qnc8EHFd+lxMM1QbJB2lJfbbQKmMAEEoxv+A/HKFRZRCBEGXgBLTzdIVoZW6bHCC4JYsYM3dRkiEoRElnhnSdpd58AipF2qPfXrF65oFFShL5uNZf6Z8Culp/r5dJAkUB4FbMwilfEeoABfDP+yeW/pOV81liS5xQZU6kCWJkbmWoVVk=;x2xK9xZyyEB269YicImjMg=="

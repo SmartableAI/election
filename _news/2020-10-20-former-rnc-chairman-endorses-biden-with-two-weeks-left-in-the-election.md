@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 730
+heat: 770
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201016184912-biden-trump-split-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Former top special operations commander who oversaw bin Laden raid says he voted for Biden"
+    excerpt: "Retired Navy Adm. William McRaven, the former head of US Special Operations Command who oversaw the successful raid that killed Osama bin Laden, said he is voting for Democratic presidential nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-20T12:06:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5gSxto1qzFI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/william-mcraven-joe-biden-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/william-mcraven-joe-biden-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111211090948-william-mcraven-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Fact-checking Biden's claim that Barrett's SCOTUS confirmation process is \"not constitutional\""
     excerpt: "In the lead up to Monday's confirmation hearings to install Judge Amy Coney Barrett on the US Supreme Court, Democratic presidential candidate and former Vice President Joe Biden raised concerns that the efforts to put Barrett on the court are unconstitutional and exemplify court packing.\n    \n"
@@ -408,6 +424,20 @@ related:
       - url: "https://static.politico.com/66/98/f23ff2784f79af4dd34c32deaa88/gettyimages-1228187785-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Admiral from bin Laden raid endorses Biden in dramatic fashion"
+    excerpt: "\"I am a pro-life, pro-Second Amendment, small-government, strong-defense and a national-anthem-standing conservative,\" William McRaven wrote. \"But...\""
+    publishedDateTime: 2020-10-20T12:53:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/admiral-bin-laden-raid-endorses-biden-dramatic-fashion-ncna1243990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2018_47/2651946/181119-bill-mcraven-bin-laden-raid-cs-346p_6c1152a6118e48d78078afdd1fbb9522.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Republicans are ready to remember they hate the deficit again under Joe Biden"
     excerpt: "GOP deficit hawks hobbled the recovery from the Great Recession, dragging down an entire generation. And they're ready to do it all again if Biden wins."

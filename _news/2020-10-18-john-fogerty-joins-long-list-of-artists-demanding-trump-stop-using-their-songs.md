@@ -27,53 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
-    excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
-    publishedDateTime: 2020-10-20T08:54:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
+  - title: "John Fogerty demands the president stop using his music: Donald Trump IS the ‘fortunate son’"
+    excerpt: "The rock legend tweets about his cease-and-desist order against President Trump, who regularly plays the classic Creedence Clearwater Revival anti-war"
+    publishedDateTime: 2020-10-19T02:56:00Z
+    webUrl: "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 114
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
-    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
-    publishedDateTime: 2020-10-20T10:04:00Z
-    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
-    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
-    publishedDateTime: 2020-10-20T11:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
-        width: 800
-        height: 430
+      - url: "https://images.mktw.net/im-246451/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "l9pXKoewxfUu0EBIIRA875Bvv06T6v6CLSQxN9e/FP9A9YtzQyM+/mHvIeSoTNRvKnxDSK4W8Q4+Q+RjKOzgG0zTjRsmtm/Gx+6C+0mK8efUqLe+Q0ROowMBNwCrIOZiX5//OStg0T3/bUVwOtADesOz/cDLRs2uZiHeVCHyISjwnROuPKFCB0EXLRZW+NT2Uj6bCkkm3fknRMx9duJsuxhuznBiHpeItaMatKPJsSHNYV28IbtGe+k43HsLmrL/l76juZQsnasG+k9AorEXV9egF9eB56sgvbF6O4ct/7b5zAjb2lXZ8dOYVKLP/+ym6/jNJzyoqKVFj9bDO0F59CzyNvs2Ox60MDbk4Vt+mMA=;wa+VYZPUJg+4I/W+FhxJ4A=="

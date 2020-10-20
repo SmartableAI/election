@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "House Republicans urge Barr to appoint special counsel to probe alleged Biden revelations"
-    excerpt: "EXCLUSIVE: House Republicans on Monday wrote to Attorney General William Barr, urging him to appoint a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter -- specifically the elder Biden’s alleged participation in his son’s business"
-    publishedDateTime: 2020-10-19T16:50:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/j3QqEeHpmoc/house-republicans-barr-special-counsel-biden"
+  - title: "Plurality of Catholics Back Barrett, Biden Lead Holds Steady"
+    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
+    publishedDateTime: 2020-10-20T12:02:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 146
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
-        width: 1280
-        height: 720
+      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
+        width: 750
+        height: 552
         isCached: true
 
 secured: "Lt/wyG+K9fhIbX2Xv74273YWIQJPSLAjS3ASxS8H4vhda6WEtoMK+z6b1ZbUsaw5u3jhK6LkKv2Dz1uJJQBL3WttHqX4tXiEhiczn95bqyPLTYVRmVIvDY8TOKAAo6JW0ma20zfW8VJf3qDBu6BjLisqKG2XomtRkQ6CyeQlTFIRJoEA3SftrHIMiQQbUuxn5Bz8Jd2HoVcQ7dznKeLTMO0LJxz80UhH4NLCVfbnIh2hZr3ukdYaTuLDGQVaknq282Tb/lfvxkiXaYs2GWf8Wit0Ks/e/rr8bsZdkoYru+D0J4xwbP56V+9UtM5JzT7IbWJNtvwrWvMw3Egpoce7VeNwfDHWslLCMzvu+74CMJ0=;9G+eW8XJ1SfyMxOVuvQoCA=="

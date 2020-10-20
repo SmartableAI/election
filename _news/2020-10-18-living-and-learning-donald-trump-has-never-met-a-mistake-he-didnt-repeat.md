@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html?outputType=amp"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Women in key state have ‘wised up’ to Trump — and it could cost him everything: report"
+    excerpt: "On Monday, the Philadelphia Inquirer reported that President Donald Trump is bleeding support from white women in Pennsylvania — and it could be the fatal blow that costs him the entire election. “President Donald Trump recently pitched suburban women with a plea at a rally in Johnstown,"
+    publishedDateTime: 2020-10-19T15:14:00Z
+    webUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/trump-flickr.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Don Lemon Goes OFF on NBC for Letting Trump Dictate Their Programming: ‘Outright Embarrassing Ratings Ploy!’"
     excerpt: "CNN's Don Lemon tore into NBC for setting up a town hall with President Trump in direct competition with ABC's event with Joe Biden."
     publishedDateTime: 2020-10-15T12:58:00Z

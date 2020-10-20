@@ -1,0 +1,53 @@
+---
+category: news
+title: "Trump slams debate moderator Welker as 'terrible,' 'totally partisan'"
+excerpt: "President Trump said he is ready for Thursday's debate against Democratic presidential nominee Joe Biden, but claimed that it will not be fair because the moderator, NBC's Kristen Welker, will be biased against him."
+publishedDateTime: 2020-10-20T13:12:59Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqO0LmFk3KQ/trump-slams-debate-moderator-kristen-welker"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CqO0LmFk3KQ/trump-slams-debate-moderator-kristen-welker"
+ampWebUrl: "https://www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1df101ed-4ddd-407f-ae39-a12f276397cf/a6fdfdd2-0702-448a-93c1-a621b104cc66/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Trump calls NBC's Kristen Welker 'terrible and unfair' before she moderates next debate"
+    excerpt: "President Trump let everyone know just how he perceives NBC News' Kristen Welker -- the scheduled moderator for the upcoming presidential debate in Nashville, Tenn. -- calling her “terrible and unfair” Saturday in a pre-debate offensive attack."
+    publishedDateTime: 2020-10-18T09:28:00Z
+    webUrl: "https://www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate"
+    ampWebUrl: "https://www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/745c01a0-6b66-4bcf-84cc-80436d1ac538/f6ffaf80-861f-4362-9b46-57f0baededd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "5cISOb+TI/kntpxcgwrFoIBFLQsgS0/uRc7T1U8eDnN8/7UU+6l7OEOvhiBvbReznDw5OdfLNmvFyc2dtIPLzVUtstal4xcAL6TXOzHitRlOHKR0JaS2BbP76WGHK8A4zcA0v5WhfZpJpEWJV2ztQZ193umhqU4D/pS1DJ6m/egj/nPO51ueGZX3HV5aBGw3PDGMBXwmLUDz/vem+/wSs99uSsKCZmsYJjRtF7LIwQK6r9B4CE8Th+uo/C6S6Em4XYKPiRDwlDlLWZI4ccmytMFNlM2WaTyZPhFj41JkIp4tiGMCl8kozrnjJheyBCDZJGXL7/LRIgJ5Mu6Mbbe2NV+5HV8sdqCazdZM6roY8ZQ=;ScauPe7xcnzSD3L5te0L5g=="
+---
+

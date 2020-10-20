@@ -3,8 +3,8 @@ category: news
 title: "Black Woman Running Against Mike Pence’s Brother For Congress Reports Racist Threats"
 excerpt: "In Indiana, the Muncie Police Department is investigating what witnesses suspect was gunfire targeting Congressional candidate Jeannine Lee Lake, a Black candidate running against Vice President Mike Pence’s brother,"
 publishedDateTime: 2020-10-19T04:15:00Z
-originalUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html#!"
-webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html#!"
+originalUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html"
+webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html"
 ampWebUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
 cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
 type: article
@@ -108,6 +108,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uY0m9URphC2zEL8CZNnS12foM8V3BjdwPFfVWbRCyUsByo1XxBUVT1CEkcDDcRm0e7OggupRjUaXXsm6UUoi+mpHQjLWK2E2UwJzAr8Z4pAD8U8gYGDmqcoVAmQzaUqqoVmcH5cP7TOBxC97VBDlUfrYWbFwcOV3QExb7T2glDVYBQgtPmP5MXDzUInPTwODvmr9GVKV2+f0aaCqb748QyT6zxpAGXxY19/uPHLUYVHgueewZcODDYkUC/agzqdhhKMU7+8OOssNtLl2zOCL/dblYqiWiftS73vY2K+lTGdhDDXfuuMeGLpKpk1GVcHPHN+eiYHSqTwCmUNG9iN4AEg9WLE+dNtd/Bhthx28ljI=;0So3oe7baTS7PpBNSm5nBA=="
+secured: "e+XCofeLHvwzNrTylkKcqmvX+vACk9BAVeDJIcoloewVIy6GjKXJcA3RN7qMjkoUQS249AyxAeeqJLmENbAaoBmvFKoj4lo1sinJMYPagM9Rgq3kKBUktychRBmVo2rcPzvDDEE0dB7YITdr6U8I7pF9FjaFty6a/eIhkRHAjm6Aqs9Npg6gaZlpjF3egH6Wy35XxCzVvcpnR8jrVvvy61WEd3mlKWvdrRJ8d80UJwT3vlvra17FxsrrGznqMXQdanywx5ZaNnTjm9Dd0WdjZjjKzdBCPKua73qSIaTeKrLnDoymCn6oUkI54umrUKN6+pKv7hYz+OEeEOoAprHbdkGcgxrjpGKVVf48eC8GVcY=;XgJ0xdN1WtMGx+3Kbdp/ug=="
 ---
 

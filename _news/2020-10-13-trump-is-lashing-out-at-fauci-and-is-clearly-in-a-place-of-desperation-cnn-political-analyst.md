@@ -63,6 +63,38 @@ related:
         width: 799
         height: 545
         isCached: true
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
     excerpt: "Melania Trump said Wednesday that after an initial negative test, 14-year-old Barron Trump tested positive for COVID-19."
     publishedDateTime: 2020-10-15T05:39:00Z
@@ -76,6 +108,22 @@ related:
     quality: 123
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
+    excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
+    publishedDateTime: 2020-10-14T12:39:00Z
+    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/"
+    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 122
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
         width: 1200
         height: 675
         isCached: true
@@ -110,6 +158,22 @@ related:
       - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
         width: 911
         height: 455
+        isCached: true
+  - title: "UPDATE 1-Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
+    excerpt: "U.S. President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday and sought to reassure campaign workers he still has a path to victory on Election Day 15 days away despite slipping opinion poll numbers."
+    publishedDateTime: 2020-10-19T17:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-idUSL1N2HA15G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538059176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1FP"
+        width: 817
+        height: 545
         isCached: true
   - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
@@ -191,22 +255,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
-    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
-    publishedDateTime: 2020-10-13T12:03:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
-    images:
-      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
     excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
     publishedDateTime: 2020-10-13T14:41:00Z
@@ -254,22 +302,6 @@ related:
       - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603074875_79594a1cccfcca5b2fe1eb37a854852d.jpg/2275496a769e107a023dfcf84a404d29/1603074875_795eae86f187d7863bd541172bb14f0b.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
-    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
-    publishedDateTime: 2020-10-13T17:55:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
-        width: 800
-        height: 403
         isCached: true
 
 secured: "vXPVopovWpCk3TXwSphp9DSZAkrGhKqyq8ua+7ckIyjbX2q1M8UuqwGhZ57nAsEt7xplLaK5+idy5ncl6wTLjmeC4hSFHD9EL6u9fbdaT9hkBCMLfJFo0xb89IeuXStK3YPAFGyU7kxlRPJ2FroD/mEYx4q/ITyf6pI/f+KNLoqwOp6OJkYiP+ctg/CJRW7Hwe5LQLCuH8DRjtiSK9OUBOSyFSM+WnHLtiC0f46kBIGh5pxHMDtiNQ8KZ/dG5isnU0YAj2tcR+A0JyPY7geRIzfwyw/X+w2/d/57YvwHdOw820Ob/TLTRFkz+dfpUmMv0uU2LGQwxpQCzrx7ukZ4RLIxEcvVwgd1VBH4hYD7vaQ=;F2eUKJqAm3WPhBMs4va5UA=="

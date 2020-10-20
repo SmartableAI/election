@@ -31,54 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
-    excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
-    publishedDateTime: 2020-10-20T08:54:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
-    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
-    publishedDateTime: 2020-10-20T10:04:00Z
-    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+  - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
+    excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
+    publishedDateTime: 2020-10-19T10:40:00Z
+    webUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 103
+    quality: 114
     images:
-      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8d4e0bc21cfb0019468ac4?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs"
-    excerpt: "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies."
-    publishedDateTime: 2020-10-18T16:24:00Z
-    webUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs"
-    ampWebUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
+  - title: "These voters rejected Hillary Clinton, but they’re voting for Joe Biden. Here are the many reasons why."
+    excerpt: "For many who sat out 2016, voted for third-party candidates or backed Donald Trump, Joe Biden is more acceptable than Hillary Clinton was, in ways large and small."
+    publishedDateTime: 2020-10-18T18:48:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-nyt-joe-biden-hillary-clinton-20201018-zjgn3ucq5jhqbds4cj64rt5rf4-story.html?outputType=amp"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 71
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
     images:
-      - url: "https://media.vanityfair.com/photos/5f8c5eaa936b35581b460cbb/master/pass/john-fogerty.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
+    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
+    publishedDateTime: 2020-10-18T18:11:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
 
 secured: "vGeWzqgMxhZdKrnzaay7qCLasyNWLoFSeCMJWaR+327i8RT/rEQtEL7USLQi8HVaNbdvqbUtedJ9LyNH/e0xEQkA+rgks0cV9yhKpykwQG6IKsAi33eeTL7uHY1N5XL6LhuxTWln/nxb1prLUXP2f6143jJ8ynCXOgSzpE3MX7UnwlvQ46numQkItuWXEWVfBFxBFX1jIHDlCY2vXT3ZiLPpUiYGVpCuW5lBeN78J8ZH2fJZGBFEroKaRDwBpv2nRYWs+kEI61SnseyGObvg8uhVzFXCAUN6WGmIK5XAJmZj+m95oOpcW74iR4SSL5wqShymQi9JIcMR8NR+IG2lzVhvFRIWlfVZ/S1ZC0zjYWI=;k3lQizcc7+OR2Uk74zFKDA=="
 ---

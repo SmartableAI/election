@@ -2,6 +2,161 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-18-whitmer-says-trump-inciting-domestic-terrorism-as-trump-campaign-adviser-dismisses-presidents-incendiary-rhetoric-as-having-fun-at-rallies.md",
+      "title": "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies",
+      "excerpt": "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e1LPyD80W_A/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201008124357-01-gretchen-whitmer-lead-image-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/politics/gretchen-whitmer-lara-trump-cnntv/index.html",
+      "publishedDateTime": "2020-10-18T08:02:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-stimulus-bill-2-trump-says-mnuchin-hasnt-come-home-with-the-bacon.md",
+      "title": "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’",
+      "excerpt": "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus.",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2020/10/stimulus-2-Trump-Mnuchin.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "publishedDateTime": "2020-10-18T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
+      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
+      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amp.spot.im/loader.png",
+          "width": 375,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
+      "publishedDateTime": "2020-10-18T06:21:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-living-and-learning-donald-trump-has-never-met-a-mistake-he-didnt-repeat.md",
       "title": "Living and learning: Donald Trump has never met a mistake he didn’t repeat",
       "excerpt": "At his Thursday night town hall, Joe Biden admitted that some of the 1994 crime bill he coauthored was a mistake, reminding us of our own mea culpa on stop-and-frisk four years ago.",
@@ -10,7 +165,7 @@
       "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -42,92 +197,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-snl-michael-che-jokes-about-nbc-trump-town-hall-on-weekend-update-what-can-we-say-we-have-a-type.md",
-      "title": "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”",
-      "excerpt": "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
-      "originalUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
-      "publishedDateTime": "2020-10-17T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the-military.md",
-      "title": "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military",
-      "excerpt": "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.html",
-      "originalUrl": "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/3c/d3ce265c-fa12-11ea-baa9-2fa13ab2c22d/5f6557423aa11.image.jpg?resize=1024%2C1408",
-          "width": 1024,
-          "height": 1408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html",
-      "cdnAmpWebUrl": "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html",
-      "publishedDateTime": "2020-10-17T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -353,58 +422,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-as-hundreds-gather-for-womens-march-to-protest-trump-and-barretts-nomination-dozens-expected-to-rally-in-support.md",
-      "title": "As hundreds gather for Women's March to protest Trump and Barrett's nomination, dozens expected to rally in support",
-      "excerpt": "Thousands were expected to march Saturday to protest Amy Coney Barrett's nomination to the Supreme Court and galvanize voters ahead of Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/9e6406db-0225-4915-8768-061a85d9b01d-002_AP_Womens_March_Washington-2.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3693810001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693810001",
-      "publishedDateTime": "2020-10-17T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
       "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
       "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
@@ -569,58 +586,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-officials-in-scotland-approve-another-trump-golf-course.md",
-      "title": "Officials in Scotland approve another Trump golf course",
-      "excerpt": "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "publishedDateTime": "2020-10-17T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-breaking-kamala-harris-to-campaign-in-florida-monday.md",
       "title": "BREAKING: Kamala Harris to campaign in Florida Monday",
       "excerpt": "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida.",
@@ -629,7 +594,7 @@
       "originalUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1089,58 +1054,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-17-trump-wanted-john-mccain-to-apologize-to-him-after-the-2016-election-longtime-aide-says-in-new-book.md",
-      "title": "Trump wanted John McCain to apologize to him after the 2016 election, longtime aide says in new book",
-      "excerpt": "\"Well, that's the real reason I unendorsed you,\" Sen. John McCain admitted to Trump during a call, referring to the Access Hollywood recording.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f1207543f737074423f5836?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp",
-      "publishedDateTime": "2020-10-17T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
       "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
       "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
@@ -1189,58 +1102,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-17-trump-heads-to-michigan-wisconsin-in-re-election-campaign-push.md",
-      "title": "Trump heads to Michigan, Wisconsin in re-election campaign push",
-      "excerpt": "President Donald Trump will take his re-election push to Michigan and Wisconsin on Saturday before launching a tour of western states to shore up political support as he trails Democratic rival Joe Biden in national polls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537831308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G06C",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27206X",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X",
-      "publishedDateTime": "2020-10-17T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
       "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
       "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
@@ -1285,6 +1146,167 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
+      "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
+      "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "publishedDateTime": "2020-10-17T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-donald-trumps-covid-19-diagnosis-is-forcing-him-to-face-his-personaland-politicalvulnerability.md",
+      "title": "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability",
+      "excerpt": "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485",
+      "originalUrl": "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-laura-ingraham-president-joe-biden-would-be-surrounded-by-lapdogs-in-mainstream-media.md",
+      "title": "Laura Ingraham: President Joe Biden would be 'surrounded by lapdogs' in mainstream media",
+      "excerpt": "Events this week have made it more clear than ever that the mainstream media is Joe Biden's primary campaign communications team, Laura Ingraham claimed Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
+      "originalUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c3c39a6d-e37a-439e-84b0-f844b788d6a4/3a53338a-e0c8-4d63-bbce-705d0589afc6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/laura-ingraham-media-joe-biden-lapdogs.amp",
+      "publishedDateTime": "2020-10-16T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     }

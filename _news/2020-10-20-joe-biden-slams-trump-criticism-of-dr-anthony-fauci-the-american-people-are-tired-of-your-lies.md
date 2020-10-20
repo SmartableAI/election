@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-f
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
 type: article
 quality: 86
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: International Business Times
@@ -30,6 +30,88 @@ images:
     width: 1024
     height: 681
     isCached: true
+
+related:
+  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
+    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
+    publishedDateTime: 2020-10-19T07:34:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
+    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
+    publishedDateTime: 2020-10-16T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-20T12:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics"
+    excerpt: "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi."
+    publishedDateTime: 2020-10-13T16:40:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5979016002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The price of arrogance: Trump fails to follow the rules when rewriting regulations, leading to chaos and court challenges"
+    excerpt: "Election day is two weeks away. Our running list of 99 reasons why Donald Trump must be made a one-term president still finds ample fodder in the daily failures, fumbles and foibles of the 45th president and his factotums."
+    publishedDateTime: 2020-10-20T08:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 50
+    images:
+      - url: "https://www.nydailynews.com/resizer/aa1mrddi0o7hgZ0CgJEYoy-Lpnc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WQSQVXEAZRBHJOKHZBGIL773IY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "DQrcT+610uKmdZUVd2A1fIxYsTUgb9Zl9cet4/FCUCs0tQy/lSdpfw0gkGTGkyPe7Slf74ErfU83oM59HmC6TKBHK3QOIXdAvBoKqaR43vP6BNDgeJO4HHFKouIGAPeibeNTdPE7kpHSjPBuQZE50NiCAFzXEgF8fnP909BOqGLEX1KtqNQVCnaoWkSRsLeEUuOVRE0Ec35+DU8P7f9rGvT5GNd0K5m+sC82Ke4lsUei9C0rHaO3+5b0voI+E93jf5M/1fL1bIImI0gNYI6LCZocoHGXvae/NIGDle2iSZbPaLO8NX4+UVg+mtZaE3bVDKiMaArgcuXkUJ4f6wlHNp8eqKkhK9vTua8fDWRk+QpGmgsKmyR1aLvMBTSfHSY6TwKHfiaDyPJzf2LqOXkyKCQfV1thKly0lak8w+aUGiunGvNh/RSij2J/jG4dKVvwA0TNr+o2mrtirPg+aIkGnObJS9a2IMYUEEF3RZ2QPouFWbQg8CxfqrJkYl7VCesp5OxyAug9MDb9YmkzPYaWnA==;tFIPqdq6aNCTldfjXT+lUA=="
 ---

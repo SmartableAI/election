@@ -31,54 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Asks Supreme Court To Block Tax Records From NY Prosecutor—Again"
-    excerpt: "President Donald Trump has filed an emergency request with the Supreme Court to block a prosecutor from obtaining his tax records, after a federal Appeals Court ruled last week that the Manhattan District Attorney could retrieve the highly sought after records as part of an investigation into the president’s financial history."
-    publishedDateTime: 2020-10-13T18:42:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85f2bdb9f4e00cf0b32ef3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D205%26cropY2%3D1893"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Thousands protest Trump's Supreme Court pick at Washington Women's March"
-    excerpt: "Thousands marched to the U.S. Supreme Court in Washington on Saturday to commemorate the late Justice Ruth Bader Ginsburg and protest President Donald Trump's rush to push through Amy Coney Barrett as her replacement."
-    publishedDateTime: 2020-10-18T08:57:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-protest-idINKBN273036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN273036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN273036"
+  - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
+    excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702SX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537901655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9H01U"
-        width: 847
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ"
+        width: 908
         height: 545
         isCached: true
-  - title: "Trump Loses Latest Fight To Keep Tax Returns From Manhattan D.A., Supreme Court Battle Looms"
-    excerpt: "A federal appeals court rejected Donald Trump’s latest attempt to keep eight years of tax returns from Manhattan’s district attorney."
-    publishedDateTime: 2020-10-07T15:45:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
+  - title: "Trump administration rejects California's request for wildfire disaster assistance"
+    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-16T10:11:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump administration reverses course on California's request for wildfire disaster assistance"
+    excerpt: "The federal government had denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 114
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de0dd33fa87183df1ec42%2F0x0.jpg%3FcropX1%3D28%26cropX2%3D2971%26cropY1%3D0%26cropY2%3D1963"
-        width: 1199
-        height: 800
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "Trump administration replaced 'pandemic playbook,' then ignored aspects of its own plans"
+    excerpt: "The White House and federal health officials said they did not throw out the pandemic playbook left to them by the Obama administration, but used more recent reports to guide them as they responded to COVID-19."
+    publishedDateTime: 2020-10-14T11:40:00Z
+    webUrl: "https://www.jsonline.com/story/news/2020/10/14/trump-ditched-obama-pandemic-plan-but-ignored-aspects-his-own/5953152002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5953152002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5953152002"
+    type: article
+    provider:
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/01/PMJS/25158114-05cc-4799-bb45-671f3fff94a7-MJS_trump_2_hoffman.jpg_trump.JPG?auto=webp&crop=2399,1349,x1,y13&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "foK/C6DYMFFmeh1WPGR+R3T4+KYXiotQgkIDVKhNjp4axEg0Ukjabf1QuNX1WyyK3WKtP1+Otu65+4ypu15RL6QNLZKlLImk33S8LrcIUF6DxbtwDa9moHU70XJkDQD+rUuXJGqM0lTbV5CNLNCs/sw7oPwUZiSp2h17cvRC64J5DIjmVuRPd7WqyKngDnWGVUojMk0dNLYiG4iqCNLnHVUt7I4loAzGQNDB/jIicQl19XP2IZbOwbUdtyIrBZwlPD2RvUpZaB1PDageCgo4wllvV7d5ni4qUSGQfQU9XcNhVdisMohZyWTT3cvBygkO0qRT+HyEswYfPM/bLaVhqvbUf2cGaSSBJsE9g1xRvno=;Vh0DNm8eXYhzjAlOkdhJ3A=="
 ---

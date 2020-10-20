@@ -47,37 +47,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
-    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
-    publishedDateTime: 2020-10-16T06:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
+    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
+    publishedDateTime: 2020-10-20T11:37:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 64
     images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mitt Romney Drops Statement on Trump-Biden Election, Gets Dragged For Equating President With Keith Olbermann"
-    excerpt: "Trump statement on the state of American politics, decrying how \"vile\" the election has become -- but is getting dragged for questionably equating President Donald Trump with Keith Olbermann."
-    publishedDateTime: 2020-10-13T17:41:00Z
-    webUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/"
-    ampWebUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 86
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/07/Mitt-Romney-Getty-1076859904.jpg"
-        width: 1200
-        height: 624
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
+        width: 800
+        height: 430
         isCached: true
   - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
     excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"

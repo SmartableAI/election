@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden backers have looming sense of deja vu"
-    excerpt: "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton."
-    publishedDateTime: 2020-10-20T02:34:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dvqIv88vUQ/biden-backers-have-looming-sense-of-deja-vu"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
+  - title: "Trump urges Barr to 'act fast,' 'appoint somebody' to probe Hunter Biden business dealings"
+    excerpt: "President Trump on Tuesday said Attorney General William Barr needs to “act” and “appoint somebody” after nearly a dozen House Republicans urged him to tap a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter."
+    publishedDateTime: 2020-10-20T12:44:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291811263827.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "0LTJdGu6s/Rr/Is1Z9pNrhyWuijdUnY4ly8Ma6UBX3QnOjLWuUK9v4eSD/dqxBh2aclfsv0BA6w0SWw4a3J8/JyZmSTI569PegWtlWjnRr7xmyFJsP4q6VA+5OVDBy5J2Ao0TN8i2jivRUQ86SjAkQU0Pakp2MFLMz8FRLaH5kEpwOyiEeLf8EWogaFfFLHjHMsRszbehQeRGDKlXTuarHJe2JeWsiaLjItD9H0aqBwWlax8WVU79QusFTJLdGi1yU7cAgch+ePISFAnGtf9jtYfrVO7OmWxo1fB3/dQMIXmdlSRP79Ei3QgQOIdue8Vjx9bU4uDSHpbjvjv3UpzTHQ7szzQIzKkCyRlHsZEf1Q=;APE6MRPcZS3/7vix3DxCbg=="

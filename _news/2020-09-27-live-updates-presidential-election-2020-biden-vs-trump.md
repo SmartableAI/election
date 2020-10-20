@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3385
+heat: 3405
 published: true
 
 provider:
@@ -1841,6 +1841,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-245386/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Fends Off President Trump’s 2016 Playbook"
+    excerpt: "Despite attacks, the Democratic nominee has a higher favorability rating than either the president or Hillary Clinton had in 2016."
+    publishedDateTime: 2020-10-20T13:20:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-fends-off-president-trumps-2016-playbook-11603199517"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-246853/social"
         width: 1280
         height: 640
         isCached: true

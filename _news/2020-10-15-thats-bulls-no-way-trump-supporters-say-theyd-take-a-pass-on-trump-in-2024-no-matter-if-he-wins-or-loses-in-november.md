@@ -29,319 +29,169 @@ images:
     isCached: true
 
 related:
-  - title: "Proud Boys Supporter Warns of 'Civil War' if Donald Trump Loses Election"
-    excerpt: "A video has emerged of a Proud Boys supporter warning that there will be a \"civil war\" if Donald Trump does not get re-elected in November and advises people to stock up on guns. The clip featuring the self-proclaimed supporter of the far-right group was posted online by actor and blogger Walter Masterson and took place during a Trump rally in Staten Island,"
-    publishedDateTime: 2020-10-12T07:41:00Z
-    webUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208"
-    ampWebUrl: "https://www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-trump-civil-war-qanon-1538208?amp=1"
+  - title: "Ross Douthat column: There will be no Trump coup"
+    excerpt: "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance."
+    publishedDateTime: 2020-10-12T14:54:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 139
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1649423/proud-boys.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fact check: Fake Trump tweet says Supreme Court should decide every election"
-    excerpt: "A Facebook user posted an image purportedly of a tweet from President Donald Trump's Twitter account. It's not real."
-    publishedDateTime: 2020-10-15T21:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-trump-tweet-supreme-court-deciding-elections-fake/3573638001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3573638001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3573638001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 137
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/91e97ece-ba0e-4de1-be9f-81a94365f0c5-AP_Trump_4.jpg?auto=webp&crop=5945,3344,x55,y15&format=pjpg&width=1200"
+      - url: "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Democrats urge early voting, massive turnout as Trump stokes fears of contested election"
-    excerpt: "Joe Biden supporter Cindy Kalogeropoulos took no chances when her absentee ballot arrived on Sept. 29. The Michigan retiree filled it out, drove 7 miles to the nearest drop box and hung around to make sure election officials picked it up - all within 48 hours of"
-    publishedDateTime: 2020-10-15T10:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-contested-insight-idUSKBN2701AN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701AN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701AN"
+  - title: "Trump lost the ratings battle: What that really means"
+    excerpt: "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included."
+    publishedDateTime: 2020-10-18T17:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means"
+    ampWebUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 131
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537567295&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0U1"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "President Trump will be discharged from Walter Reed, doctors say"
-    excerpt: "Dr. Sean Conley said the president \"may not be out of the woods yet,\" but he is healthy enough to return to the White House."
-    publishedDateTime: 2020-10-05T19:27:00Z
-    webUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://i.insider.com/5f7b3460282c500018c78907?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Trump's Columbus Day proclamation includes stark warnings"
-    excerpt: "President Donald Trump’s proclamation Friday commemorating Columbus Day includes stark warnings of “radical activists” seeking to tarnish the explorer’s legacy"
-    publishedDateTime: 2020-10-10T02:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-columbus-day-proclamation-includes-stark-warnings-73531752"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2ce87445e0364020bc9de911a121d356_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump makes water demand of farms priority for new office"
-    excerpt: "President Donald Trump on Tuesday created what he called a “subcabinet” for federal water issues, with a mandate that includes water-use changes sought by corporate farm interests and oil and gas. An executive order from Trump put Interior Secretary David Bernhardt and Environmental Protection Agency Administrator Andrew Wheeler in charge of the interagency water body."
-    publishedDateTime: 2020-10-14T03:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-makes-water-demand-farms-priority-office-73598631"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_947d61939cc946fca02d39436612c252_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "White Christian Support For Trump Down Since August, Poll Finds"
-    excerpt: "Among Catholics, Trump now trails Biden, a Catholic, 44% to 51%, with Hispanic Catholics overwhelmingly favoring Biden 67% to 26%."
-    publishedDateTime: 2020-10-13T20:19:00Z
-    webUrl: "https://www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/"
-    ampWebUrl: "https://www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/13/white-christian-support-for-trump-down-since-august-poll-finds/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8609c584539e20a9353d59%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D217%26cropY2%3D1905"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pelosi Sets Monday Deadline If Trump Wants Pre-Election Stimulus"
-    excerpt: "Nancy Pelosi remains hopeful a deal on a new stimulus bill can be reached before the Nov. 3 election, but said that Monday is a deadline for more progress in talks with the White House to make that happen."
-    publishedDateTime: 2020-10-18T14:28:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/pelosi-sets-monday-deadline-if-trump-wants-pre-election-stimulus/2020/10/17/5ec69b6c-10e4-11eb-b404-8d1e675ec701_story.html"
+  - title: "On Columbus Day in 1963, Trump marched up Fifth Avenue in New York City’s parade"
+    excerpt: "When Trump was a 17-year-old senior at New York Military Academy, there was no talk of Indigenous People’s Day, no beheading of statues and no pandemic canceling parades."
+    publishedDateTime: 2020-10-12T11:13:00Z
+    webUrl: "https://www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/"
+    ampWebUrl: "https://www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JB6GGQQ4QI6XNAERUPGOXWHAE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NDFZU3FXH4I6LCV42CJZF3OGCI.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Twitter suspends accounts of alleged Black Trump supporters over spam, manipulation"
-    excerpt: "Twitter Inc on Tuesday said it suspended a group of accounts that claimed to be owned by African-American supporters of President Donald Trump and his re-election campaign due to spam and platform manipulation."
-    publishedDateTime: 2020-10-14T01:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-twitter-disinformation-idUSKBN26Y2ZM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26Y2ZM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537348147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C1UL"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump warns of backlash if the EU levies around $4 billion in tariffs after WTO ruling"
-    excerpt: "If they strike back, then we'll strike much harder than they'll strike. They don't want to do anything.\""
-    publishedDateTime: 2020-10-16T11:35:00Z
-    webUrl: "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
-    images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?format=jpeg"
-        width: 2500
-        height: 1249
-        isCached: true
-  - title: "Bob Dole says none of his Republican friends on the presidential debate commission support Trump"
-    excerpt: "The former GOP senator and presidential nominee called the nonpartisan organization \"biased\" after it canceled an upcoming debate amid health concerns."
-    publishedDateTime: 2020-10-10T14:21:00Z
-    webUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bob-dole-donald-trump-presidential-debate-commission-elections-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f81abdbbab422001979a977?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 562
-        isCached: true
-  - title: "At Least 23 Billionaires Made Six-Figure Donations To Committees Supporting Donald Trump Since July"
-    excerpt: "Big money donors from Bass Pro Shops, Ashley Furniture, Apollo Global Management and more donated to Trump in recent months."
-    publishedDateTime: 2020-10-16T17:48:00Z
-    webUrl: "https://www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/"
-    ampWebUrl: "https://www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelatindera/2020/10/16/at-least-23-billionaires-made-six-figure-donations-to-committees-supporting-donald-trump-since-july/amp/"
+  - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
+    excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
+    publishedDateTime: 2020-10-11T22:13:00Z
+    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/"
+    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 111
+    quality: 119
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8861ee059dd50bed444a17%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f837ffc613e1c0cfca4dd19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D227%26cropY2%3D2759"
         width: 1200
-        height: 851
+        height: 675
         isCached: true
-  - title: "73-year-old Donald Trump supporter assaulted in Douglas"
-    excerpt: "A 73-year-old Vietnam veteran holding a sign supporting President Trump was assaulted in a Massachusetts intersection on Saturday, according to police."
-    publishedDateTime: 2020-10-19T02:27:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/18/73-year-old-donald-trump-supporter-assaulted-in-douglas/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/18/73-year-old-donald-trump-supporter-assaulted-in-douglas/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/18/73-year-old-donald-trump-supporter-assaulted-in-douglas/amp/"
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Trump officials, while painting a rosy picture in public, warned conservative allies that coronavirus could harm economy"
+    excerpt: "On television, Larry Kudlow was optimistic. \"We have contained this,\" President Donald Trump's top economic advisor said of the coronavirus."
+    publishedDateTime: 2020-10-15T03:00:00Z
+    webUrl: "https://www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
+    images:
+      - url: "https://i.insider.com/5f87afa5ea23a5001903d79f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Twitter said it had to temporarily lock Trump's account after he shared a columnist's email address, violating the company's policies"
+    excerpt: "Twitter confirmed that it locked Trump's account after he shared the email address of a journalist to his 87 million followers."
+    publishedDateTime: 2020-10-07T04:19:00Z
+    webUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 563
+        isCached: true
+  - title: "Does Trump merit the hatred? Let us count the ways"
+    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
+    publishedDateTime: 2020-10-16T09:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
     quality: 75
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/douglas.jpg?w=960&h=720"
-        width: 960
-        height: 720
+      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
+        width: 1200
+        height: 815
         isCached: true
-  - title: "Stimulus Package 2: Trump Warns Stepping in if GOP Opposes Big Bill"
-    excerpt: "As stimulus bill negotiations inch closer toward a deal, President Donald Trump is urging GOP senators to support a multi-trillion dollar package."
-    publishedDateTime: 2020-10-19T09:29:00Z
-    webUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/"
-    ampWebUrl: "https://heavy.com/news/stimulus-bill-2-trump-2/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-bill-2-trump-2/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/stimulus-bill-2-Trump-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
-  - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
-    excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
-    publishedDateTime: 2020-10-13T17:00:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 72
-    images:
-      - url: "https://media.vanityfair.com/photos/5f85d3d4b13a7bb1006f71b8/master/pass/donaldtrumprally.jpg"
-        width: 2000
-        height: 1348
-        isCached: true
-  - title: "Trump Tries To Out-macho Covid And Signs Of Election Defeat"
-    excerpt: "President Donald Trump doubled down Tuesday on the macho image his fans adore after declaring himself cured of Covid-19 and scoffing at disastrous opinion polls only four weeks before election day against Democrat Joe Biden."
-    publishedDateTime: 2020-10-06T16:21:00Z
-    webUrl: "https://www.ibtimes.com/trump-tries-out-macho-covid-signs-election-defeat-3057581"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/06/no-mask-no-worries-says-us-president-donald.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
-    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
-    publishedDateTime: 2020-10-05T22:54:00Z
-    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
-    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
+  - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
+    excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
+    publishedDateTime: 2020-10-17T19:10:00Z
+    webUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/"
+    ampWebUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
     type: article
     provider:
       name: Mediaite
       domain: mediaite.com
-    quality: 66
+    quality: 73
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-16.jpg"
         width: 1200
-        height: 675
+        height: 624
         isCached: true
-  - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
-    excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
-    publishedDateTime: 2020-10-14T14:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
+  - title: "Collins: Maskless Trump Set a Poor Example at White House"
+    excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."
+    publishedDateTime: 2020-10-07T02:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Report: Some People Thinking a Drug-Addled Maniac (Donald Trump) Shouldn’t Be in Charge of the Nuclear Codes"
-    excerpt: "The New York Times reports that while some national security experts have long argued that the POTUS should not have “the unchecked authority” to launch nuclear weapons, Trump’s long rants—described by one doctor as “steroid-induced psychosis”—and wildly erratic behavior since he was put on experimental medications after testing positive for COVID-19 have underscored the danger of giving a total lunatic the power to nuke another country."
-    publishedDateTime: 2020-10-12T18:46:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-steroids-nuclear-war/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 56
-    images:
-      - url: "https://media.vanityfair.com/photos/5f71fc761974fdefdd159dfd/master/pass/trump-tik-tok.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Trump Gathers Supporters At White House, Plans More Rallies"
-    excerpt: "US President Donald Trump was readying to host hundreds of partisans at the White House on Saturday, in hopes of relaunching his struggling campaign less than four weeks from Election Day. Trump has declared he is feeling \"really good\" -- but doubts linger over his health,"
-    publishedDateTime: 2020-10-10T18:46:00Z
-    webUrl: "https://www.ibtimes.com/trump-gathers-supporters-white-house-plans-more-rallies-3060042"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
+  - title: "Trump Defends Promoting Conspiracy That Navy SEALs Didn’t Kill Bin Laden: ‘That Was an Opinion’"
+    excerpt: "President Trump defended his promotion of a QAnon conspiracy theory claiming the Navy SEAL team who eliminated Osama bin Laden only killed a body double."
+    publishedDateTime: 2020-10-16T01:42:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-defends-promoting-conspiracy-that-navy-seals-didnt-kill-bin-laden-that-was-an-opinion/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 43
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/10/donald-trump-returned-to-the-white-house-on.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-9.04.09-PM-1200x677.jpg"
+        width: 1200
+        height: 677
         isCached: true
 
 secured: "zd7iE43QZG7tqrt4MYXJL4sFMgETj/HJkrv/zXE/CAxVSP/KumaMgOJU8fgvU3SHawT4LtKDwc8XMzEGCJal63ZZtKk5i/5I8aO0g1jjodubwcJxuja27IRqyFwHJkj666rXyQc0zsEuyYJCMIjeBVe/zPITJuWyzPqpQsW+vnFwZtjLU+O0zLCh75TMaJXA4DRbYDVi865afTAYmoYsv3WEWr2FyAqoObhb2TZ8j8H95I95FhwFnBSXFq2cAif9LctF4p1b0MZbUfuRvmqiR8DNdTSkyx5BdEebLh3tzXcitV9GgnB6wq853qXYBqHYQzaEr8u5uJ2qBUd5ep4C1NIMBOVO/UamJirGLLCj879OxlEaYWoBNf1sB3/DXlsE5qxpSUz3StYeRztMSZgGq6iMIDWyjBAmhIpsurbN3Lys2ADMUR59Zkq28Txqp8pAojXWUbwbOjqrSWRieKYTHdpl6dXpH5B63wCjt8GBRUSw/b8z2bLDEbnBcPaUYwo5i0RkfM5Q80z62blHRKbSqQ==;iqg7ZwoqQbWBenBLc7sqQA=="

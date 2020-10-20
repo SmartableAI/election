@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispro
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422"
 type: article
 quality: 120
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/fopcp5p4uhnol5lcvz4v.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
+    excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
+    publishedDateTime: 2020-10-20T09:49:00Z
+    webUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 53
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2016/06/perdue2.jpg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "ttoj4pgYrbB/Lhlz7/3zbOUuccJu9PAOm8KQfSLsVk+N7yS8B5/WEznAFO8rym3yDq906ZwNUD4b8JJlYPoqJpcmamlJlalTghD5mFc7eOx0INp1MVerUgbCZ6HF4fTDKuw1mVLbahyoJwAKrR11JGrDB6RoDOMxgHd41DbXeYjEMWOJuD+YP6yonuc0FYAympDFaMpgCPTs507SgUZIaNDOcGCzft6akADDN3nwe6M7XgcQ2H9BVzVravn8486nOK0ywgNmZBl8ll5U0NvwCQ/8Ms9LXIpa+OPjuHP9skZ8UWvmNDG8lBpUUFXyV7kKZFzpGQH39kppRUAhOBL4VSF8tog2cjlOGm4HZpyveao=;rIrzXs73WOABHiD8oH/9aA=="

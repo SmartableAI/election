@@ -684,6 +684,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "For reasons unknown, Trump says Biden 'should be in jail'"
+    excerpt: "At long last, Trump knows what he wants to say about his rival: he wants voters to believe Biden, for reasons unknown, is a criminal."
+    publishedDateTime: 2020-10-20T12:15:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/reasons-unknown-trump-says-biden-should-be-jail-ncna1243982"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420105/201014-joe-biden-al-1105_7e0ca1c40ad905c846644ad4311264ca.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump says Biden has 'gone into hiding' as the former VP preps for debate"
+    excerpt: "Trump said Tuesday in a more than 45-minute interview on Fox News' \"Fox and Friends\" that Biden is \"imploding\" and has \"gone into hiding\" as the former vice president preps for the final presidential debate on Thursday."
+    publishedDateTime: 2020-10-20T13:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/election-live-updates-trump-biden-presidential-campaigns-final-push-n1243927/ncrd1243993"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jake Tapper Calls Out Lara Trump for Publicly Mocking Joe Biden’s Stutter"
     excerpt: "The anchor also tore into the presidential daughter-in-law over “lock her up” chants at a Trump rally about Gov. Gretchen Whitmer, who was the target of a kidnapping plot."
     publishedDateTime: 2020-10-18T16:21:00Z

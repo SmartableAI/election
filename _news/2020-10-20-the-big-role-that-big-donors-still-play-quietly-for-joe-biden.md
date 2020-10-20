@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former top special operations commander who oversaw bin Laden raid says he voted for Biden"
+    excerpt: "Retired Navy Adm. William McRaven, the former head of US Special Operations Command who oversaw the successful raid that killed Osama bin Laden, said he is voting for Democratic presidential nominee Joe Biden.\n    \n"
+    publishedDateTime: 2020-10-20T12:06:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5gSxto1qzFI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/william-mcraven-joe-biden-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/william-mcraven-joe-biden-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/111211090948-william-mcraven-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Fact-checking Biden's claim that Barrett's SCOTUS confirmation process is \"not constitutional\""
     excerpt: "In the lead up to Monday's confirmation hearings to install Judge Amy Coney Barrett on the US Supreme Court, Democratic presidential candidate and former Vice President Joe Biden raised concerns that the efforts to put Barrett on the court are unconstitutional and exemplify court packing.\n    \n"
     publishedDateTime: 2020-10-13T17:32:17Z
@@ -410,6 +426,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Admiral from bin Laden raid endorses Biden in dramatic fashion"
+    excerpt: "\"I am a pro-life, pro-Second Amendment, small-government, strong-defense and a national-anthem-standing conservative,\" William McRaven wrote. \"But...\""
+    publishedDateTime: 2020-10-20T12:53:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/admiral-bin-laden-raid-endorses-biden-dramatic-fashion-ncna1243990"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media3.s-nbcnews.com/j/newscms/2018_47/2651946/181119-bill-mcraven-bin-laden-raid-cs-346p_6c1152a6118e48d78078afdd1fbb9522.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Republicans are ready to remember they hate the deficit again under Joe Biden"
     excerpt: "GOP deficit hawks hobbled the recovery from the Great Recession, dragging down an entire generation. And they're ready to do it all again if Biden wins."
     publishedDateTime: 2020-10-19T09:14:00Z
@@ -443,6 +473,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "3P7pfCdS3aw230ROKIL6T5yUcDRKTBqfLX72LJFO5EzcvoYOG0XqSHhAvT1+WFByimRC8RO0dKr5pxKGi841CA7A5VPL/dfdPTON61LyPIh0mGhRSBWV9fQUKXQvFMsagmFfXC3YUcKbiQOVhTEXkvdKpmoDrm4E0VozalDYvLAejfq7wB4ie8D/bHFqZAjMGfT/WaXUrvR+OL/v9t2EOFet4MKqSotXPchHUuYz3DiJh8GMbUIIlmVlMY4QsusPqSP9mK/UEiQZuhLDWp6ueJFHVWoTnR/cpu9VCn2TVVhpqJAf6zm7KykayU3MGjNW7UcXUcpHq+CbJbIaoyKeqWxOqPCEOrHXvk39mcELMbc=;QIe5nNJygMy1fv3WddViuA=="
+secured: "KbQM2dMSJPpnghiUQV9obxfPKjYYnJybfkVWXyQgaF1NM7J0J/eIpl/EV+OBQRHlRzmmUS9VrhJmydVm3yMBYUAiVQi/hQyMV0fqMgMPsaPt/lj5CgYcX/1MFyYaPqaBStMpdcICAdwQJ4VGdGTtxIUlkuHFKH4QBYOkobeFIXuT6ZTu+kWIQm83vikvcsJVE966EiGIq4l1xMZfNP3XMTNA6pyUMgnIaQwrPSf7QGqlv1rILz/7bRQoQZn+y6X38J9nr3DYfTFvv6zRQX1Ujq8eqBAzdk4ZVUfxNPrRlFDM9Q55MGK/cMk8oy7KMpt60Qi4XtnrNQt70xQV9B/60O/ykqxmaudFxrgKPC6juSf3h+Ife0YAT4lSBDSE9M2nDmHgXXHjs0xIVm1l4xvytivErO2owSkb7O6RnfwovIanna1/LMiyb0oklszdc90rS+RT93vFlGllGScsUpF6OE1eb7WdTsGohdJaB7DpyHnfSZh0CbkafZBsgomJ6pHceiHWKbLSc7kAipLOjenV1w==;s3cGBk9aj1KCZxEW9TLf7Q=="
 ---
 

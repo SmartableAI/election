@@ -9,7 +9,7 @@ ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rall
 cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
 type: article
 quality: 85
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
-    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-10-14T21:18:00Z
-    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "aYOsIqgtayVP8Wheo9ciEbC9iIeSZ1TSMfZrop6o09Zoqfjm/c+yixXvKtulVeWi1GyQsZmvarMbFAdlrCReKWd+zdAa5PqDNElI3qW7aOtidY6bC+Vju5MasgiV+TcbFqRrOIaaBFmx2aP5DZ7CDXotb5kqWgtorxA9KY7k9cmKUO/YGdIzdbiv8grRgze4PliieJjjQMDXYlpKuOlG9H5AM6DlCpbB4DSGobb/UsGYbUc+MocHzxSPqTWaxRg1ghSVNKnbHJ5H3i5haY3OxWVYkj/jA4UTUUgE5f1AgJFYY2Dvzakjdp1aVyqNTCu350kmOgq0/e9QNjqvfalMxSao2QdV+r0B8uwQ3P+o73I=;mL0mO5ta+ZLNDKVQsCsW4w=="
 ---

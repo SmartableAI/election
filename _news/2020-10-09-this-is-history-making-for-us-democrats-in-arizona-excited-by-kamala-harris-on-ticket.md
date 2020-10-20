@@ -1358,7 +1358,7 @@ related:
   - title: "Joe Biden has narrow lead over President Donald Trump in new Florida poll"
     excerpt: "The survey from the University of North Florida had Biden up by one percentage point in Florida, within the poll's margin of error."
     publishedDateTime: 2020-10-20T11:19:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-biden-leads-trump-narrow-florida-race-poll-finds/5988558002/"
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-biden-leads-trump-narrow-florida-race-poll-finds/5988558002/?ref=hvper.com"
     ampWebUrl: "https://amp.usatoday.com/amp/5988558002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5988558002"
     type: article
@@ -1929,8 +1929,8 @@ related:
         isCached: true
   - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
     excerpt: "Democratic nominee says Americans are “tired” of president’s lies over Covid"
-    publishedDateTime: 2020-10-20T11:30:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates?page=with:block-5f8ebb4e8f08925a5d5dd0af"
+    publishedDateTime: 2020-10-20T11:57:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates?page=with:block-5f8eb6b78f0898b43591809d"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
     type: article
@@ -1939,7 +1939,7 @@ related:
       domain: theguardian.com
     quality: 131
     images:
-      - url: "https://i.guim.co.uk/img/media/df18ba890c6b6bade2be36196f91c47920bbb3db/0_158_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=60f228406160d0cec90fcaab0e0761a7"
+      - url: "https://i.guim.co.uk/img/media/a74c21eb71b23eab9149e761ce5523336c18ee62/0_259_3908_2346/master/3908.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f8c5581f7751b4b9e4b9612dbcd244a7"
         width: 600
         height: 360
         isCached: true
@@ -3859,6 +3859,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
+    excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
+    publishedDateTime: 2020-10-20T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 98
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Our resident Mike Pence biographer details the veep's ticks, traits and other debate skills ahead of the big showdown with Kamala Harris"
     excerpt: "Mike Pence's debates in 1990, 2000 and 2016 show the evolution of the man who will face Democratic vice presidential nominee Kamala Harris"
     publishedDateTime: 2020-10-06T21:43:00Z
@@ -4863,6 +4879,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins | Charlotte Observer"
+    excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
+    publishedDateTime: 2020-10-20T12:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246502245.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246502245.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 88
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Watch here: Vice presidential debate between Mike Pence and Kamala Harris with live fact-checking"
     excerpt: "The vice presidential debate between Vice President Mike Pence and Democratic vice presidential nominee Sen. Kamala Harris begins at 8 p.m. CT Wednesday. It is the only scheduled debate between the vice presidential hopefuls and will be hosted b Washington Bureau chief Susan Page at the University of Utah in Salt Lake City."
     publishedDateTime: 2020-10-07T15:11:00Z
@@ -5304,6 +5336,22 @@ related:
     quality: 85
     images:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-42-1602990161.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump Demands Bill Barr Investigate Unverified Hunter Biden Story Before Election: ‘Needs to Act and Act Fast’"
+    excerpt: "During a Fox & Friends interview, President Donald Trump demanded that Attorney General Bill Barr investigate his opponent's son based on an unverified story that even Fox News refused to run."
+    publishedDateTime: 2020-10-20T13:17:00Z
+    webUrl: "https://www.mediaite.com/news/trump-demands-bill-barr-investigate-unverified-hunter-biden-story-before-election-needs-to-act-and-act-fast/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-demands-bill-barr-investigate-unverified-hunter-biden-story-before-election-needs-to-act-and-act-fast/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-demands-bill-barr-investigate-unverified-hunter-biden-story-before-election-needs-to-act-and-act-fast/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 85
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Donald-Trump-Bill-Barr-GettyImages-1228303212-1200x675.jpg"
         width: 1200
         height: 675
         isCached: true
@@ -6163,6 +6211,22 @@ related:
       - url: "https://www.clickorlando.com/resizer/qpiGKRvh83depZOjlULXkPAxH7Q=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/57NA7ZSDRBDPNH2U77EAYEMEY4.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "56 photos of Kamala Harris to celebrate her 56th birthday"
+    excerpt: "Vice Presidential candidate Sen. Kamala Harris turns 56 Tuesday, Oct. 20. Here's a look back at her life and career in photos."
+    publishedDateTime: 2020-10-20T12:37:00Z
+    webUrl: "https://omaha.com/news/national/56-photos-of-kamala-harris-to-celebrate-her-56th-birthday/collection_ae9cd839-dc2a-50e4-ae7c-3abefe9d034a.html"
+    ampWebUrl: "https://omaha.com/news/national/56-photos-of-kamala-harris-to-celebrate-her-56th-birthday/collection_ae9cd839-dc2a-50e4-ae7c-3abefe9d034a.amp.html"
+    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/national/56-photos-of-kamala-harris-to-celebrate-her-56th-birthday/collection_ae9cd839-dc2a-50e4-ae7c-3abefe9d034a.amp.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 75
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/5/51/551dbff4-af0b-50c9-8f08-2a9aaad9fe46/5f8df81a4b944.image.jpg?resize=1024%2C685"
+        width: 1024
+        height: 685
         isCached: true
   - title: "Watch live at 9 p.m.: Vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "The debate, which will take place in Salt Lake City, Utah, is set to begin at 9 p.m. and run for 90 minutes."

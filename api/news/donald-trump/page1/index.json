@@ -10,7 +10,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-mike-pence-reelect-president-donald-trump-to-renew-americas-promise.md",
-      "title": "Mike Pence: Reelect President Donald Trump to renew America’s promise",
-      "excerpt": "When Donald Trump announced his candidacy for president, he launched a movement to restore the promise of America. Since taking office, President Trump has delivered record-breaki",
+      "path": "_news/2020-10-20-exxon-mobil-said-a-hypothetical-call-where-trump-got-its-ceo-to-donate-25-million-to-his-campaign-never-happened.md",
+      "title": "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened",
+      "excerpt": "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/opinion/2020/10/20/mike-pence-reelect-president-trump-renew-americas-promise-editorials-debates/3706197001/",
-      "originalUrl": "https://www.usatoday.com/in-depth/opinion/2020/10/20/mike-pence-reelect-president-trump-renew-americas-promise-editorials-debates/3706197001/",
+      "webUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1210,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
+          "url": "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +76,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3706197001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706197001",
-      "publishedDateTime": "2020-10-20T02:59:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp",
+      "publishedDateTime": "2020-10-20T03:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,24 +102,23 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Mike Pence"
+        "Donald Trump"
       ]
     },
     {
-      "path": "_news/2020-10-20-gov-doug-ducey-increasingly-sounds-like-a-guy-campaigning-for-a-trump-appointment.md",
-      "title": "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment",
-      "excerpt": "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest.",
+      "path": "_news/2020-10-20-donald-trump-brings-his-spit-venomspread-virus-tour-to-arizona.md",
+      "title": "Donald Trump brings his 'Spit Venom/Spread Virus' tour to Arizona",
+      "excerpt": "Donald Trump will be welcomed in Prescott by just the type of crowd who are most emboldened by his hateful rhetoric.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/",
+      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/ej-montini/2020/10/18/donald-trump-brings-his-spit-venom-spread-virus-tour-arizona/3705170001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/ej-montini/2020/10/18/donald-trump-brings-his-spit-venom-spread-virus-tour-arizona/3705170001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 125,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200",
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/NLED/fa75bc9d-102c-4af6-8965-d14257a84419-AP20291791315079.jpg?auto=webp&crop=3546,1995,x0,y0&format=pjpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -129,9 +128,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5984704002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002",
-      "publishedDateTime": "2020-10-20T01:54:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3705170001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3705170001",
+      "publishedDateTime": "2020-10-20T01:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",
@@ -265,111 +264,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-joe-biden-slams-trump-criticism-of-dr-anthony-fauci-the-american-people-are-tired-of-your-lies.md",
-      "title": "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'",
-      "excerpt": "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "originalUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1",
-      "publishedDateTime": "2020-10-19T14:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
-      "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
-      "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3702824001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001",
-      "publishedDateTime": "2020-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -590,7 +484,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -687,6 +581,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-beat-trump-and-rewrite-democracy-rules-to-build-a-fair-america-that-serves-its-people.md",
+      "title": "Beat Trump and rewrite democracy rules to build a fair America that serves its people",
+      "excerpt": "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3702219001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001",
+      "publishedDateTime": "2020-10-19T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-john-fogerty-demands-the-president-stop-using-his-music-donald-trump-is-the-fortunate-son.md",
       "title": "John Fogerty demands the president stop using his music: Donald Trump IS the ‘fortunate son’",
       "excerpt": "The rock legend tweets about his cease-and-desist order against President Trump, who regularly plays the classic Creedence Clearwater Revival anti-war",
@@ -695,7 +641,7 @@
       "originalUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -747,7 +693,7 @@
       "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -791,21 +737,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-what-does-86-45-mean-trump-campaign-claims-whitmer-is-encouraging-assassination-attempts.md",
-      "title": "What Does ‘86 45’ Mean? Trump Campaign Claims Whitmer Is ‘Encouraging Assassination Attempts’",
-      "excerpt": "Governor Gretchen Whitmer has a small “86 45” sign in her office, and now President Donald Trump’s campaign claims she’s advocating for his assassination. A tweet from the Trump War Room, which is an officially verified account with a bio stating that it is “managed by the #TeamTrump 2020 campaign,",
+      "path": "_news/2020-10-19-coronavirus-updates-trump-pelosi-mcconnell-face-deadline-for-stimulus-deal-sturgis-rally-linked-to-cases.md",
+      "title": "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases",
+      "excerpt": "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
-      "originalUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/president-donald-trump-pictured-in-the-oval-office.jpg",
-          "width": 1024,
-          "height": 682,
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -813,16 +759,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
-      "publishedDateTime": "2020-10-18T14:12:00-07:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3695793001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001",
+      "publishedDateTime": "2020-10-18T12:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -895,58 +841,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-michigan-gov-gretchen-whitmer-says-president-trump-is-inciting-domestic-terrorism-with-his-lock-her-up-chants.md",
-      "title": "Michigan Gov. Gretchen Whitmer says President Trump is inciting ‘domestic terrorism’ with his ‘lock her up’ chants",
-      "excerpt": "Michigan Gov. Gretchen Whitmer said that the rhetoric is “incredibly disturbing” a little more than a week after authorities said they had thwarted an alleged plot to kidnap her.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/lrSpB0fFIbK0wcATo0_BT_purRQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7DS6PDTSRF4TNDATKXWBQFGBA.JPG",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-18T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-rnc-chairwoman-say-republicans-who-distance-themselves-from-trump-are-hurting-themselves-in-the-long-run.md",
       "title": "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'",
       "excerpt": "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president.",
@@ -955,7 +849,7 @@
       "originalUrl": "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -999,21 +893,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot.md",
-      "title": "The crazy uncle: Trump puts right-wing extremism on the ballot",
-      "excerpt": "What if the result of the 2016 election was primarily the product of a flawed electoral-college system, the mistaken assumption of too many voters and pundits that Donald Trump couldn’t win, and a last-minute intervention by an FBI director?",
+      "path": "_news/2020-10-18-it-needs-to-stop-whitmer-slams-donald-trump-for-rally-attack.md",
+      "title": "‘It needs to stop’: Whitmer slams Donald Trump for rally attack",
+      "excerpt": "Trump’s barbs at Michigan Governor Gretchen Whitmer, the target of a kidnapping plot, prompted chants of ‘lock her up’.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html",
+      "webUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
+      "originalUrl": "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 205,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CD6BW7QP5EI6XCRVEN7PD2ZO64.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20290786790341.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1021,16 +915,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-18T09:41:00-07:00",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun",
+      "publishedDateTime": "2020-10-18T09:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1051,25 +945,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate.md",
-      "title": "Trump calls NBC's Kristen Welker 'terrible and unfair' before she moderates next debate",
-      "excerpt": "President Trump let everyone know just how he perceives NBC News' Kristen Welker -- the scheduled moderator for the upcoming presidential debate in Nashville, Tenn. -- calling her “terrible and unfair” Saturday in a pre-debate offensive attack.",
+      "path": "_news/2020-10-18-stimulus-bill-2-trump-says-mnuchin-hasnt-come-home-with-the-bacon.md",
+      "title": "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’",
+      "excerpt": "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate",
-      "originalUrl": "https://www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate",
+      "webUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
+      "originalUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
+      "highlight": null,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/745c01a0-6b66-4bcf-84cc-80436d1ac538/f6ffaf80-861f-4362-9b46-57f0baededd7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://heavy.com/wp-content/uploads/2020/10/stimulus-2-Trump-Mnuchin.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1077,23 +967,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-calls-nbcs-kristen-welker-terrible-and-unfair-before-she-moderates-next-debate.amp",
-      "publishedDateTime": "2020-10-18T02:28:00-07:00",
+      "ampWebUrl": "https://heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-2-trump-mnuchin/amp/",
+      "publishedDateTime": "2020-10-18T06:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1103,8 +984,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -1116,7 +996,7 @@
       "originalUrl": "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-living-and-learning-20201018-cd5ns2otkzbypdo2jmtq4mhvmi-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1137,49 +1017,6 @@
       "provider": {
         "name": "New York Daily News",
         "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-snl-michael-che-jokes-about-nbc-trump-town-hall-on-weekend-update-what-can-we-say-we-have-a-type.md",
-      "title": "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”",
-      "excerpt": "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
-      "originalUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/",
-      "publishedDateTime": "2020-10-17T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1246,58 +1083,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-as-hundreds-gather-for-womens-march-to-protest-trump-and-barretts-nomination-dozens-expected-to-rally-in-support.md",
-      "title": "As hundreds gather for Women's March to protest Trump and Barrett's nomination, dozens expected to rally in support",
-      "excerpt": "Thousands were expected to march Saturday to protest Amy Coney Barrett's nomination to the Supreme Court and galvanize voters ahead of Election Day.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/9e6406db-0225-4915-8768-061a85d9b01d-002_AP_Womens_March_Washington-2.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3693810001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693810001",
-      "publishedDateTime": "2020-10-17T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-us-spies-say-the-hunter-biden-email-controversy-shows-how-exploitable-and-grotesquely-vulnerable-trump-and-giuliani-are-to-russian-intelligence.md",
       "title": "US spies say the Hunter Biden email controversy shows how 'exploitable' and 'grotesquely vulnerable' Trump and Giuliani are to Russian intelligence",
       "excerpt": "\"They want to protect their boy in the White House because Trump's policies have been strategically fantastic for Russia,\" said a former CIA spy.",
@@ -1330,58 +1115,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-officials-in-scotland-approve-another-trump-golf-course.md",
-      "title": "Officials in Scotland approve another Trump golf course",
-      "excerpt": "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "publishedDateTime": "2020-10-17T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1538,6 +1271,258 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
+      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
+      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
+      "publishedDateTime": "2020-10-17T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
+      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
+      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
+      "publishedDateTime": "2020-10-17T00:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-watchdog-claims-trump-campaign-illegally-coordinated-with-a-super-pac-in-2016-through-its-work-with-cambridge-analytica.md",
+      "title": "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica",
+      "excerpt": "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp",
+      "publishedDateTime": "2020-10-17T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-donald-trumps-covid-19-diagnosis-is-forcing-him-to-face-his-personaland-politicalvulnerability.md",
+      "title": "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability",
+      "excerpt": "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485",
+      "originalUrl": "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-from-qanon-to-dictators-trump-embraces-those-who-embrace-him-back.md",
+      "title": "From QAnon to dictators, Trump embraces those who embrace him back",
+      "excerpt": "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 285,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWRT55AP5AI6XADUB2KDVEN7BA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-16T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

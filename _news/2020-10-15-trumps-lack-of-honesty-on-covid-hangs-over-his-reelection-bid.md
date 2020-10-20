@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1670
+heat: 1690
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018210212-02-donald-trump-1018-nevada-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Trump reset will never come no matter how much he needs it"
+    excerpt: "Around the time the President fell ill with Covid-19, his friends called in to try and buck him up -- and offer some friendly nudging.\n    \n"
+    publishedDateTime: 2020-10-20T13:00:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8QM167Y-jJA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/borger-column-trump-reset/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/borger-column-trump-reset/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

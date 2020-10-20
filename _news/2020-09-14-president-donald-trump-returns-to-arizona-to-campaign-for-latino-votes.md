@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5771841002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5771841002"
 type: article
 quality: 125
-heat: 485
+heat: 465
 published: true
 
 provider:
@@ -222,17 +222,6 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-18/the-latest-mcconnell-senate-will-vote-on-trump-court-pick?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "The Latest: President Trump Returns to the Oval Office"
-    excerpt: "President Donald Trump has returned to the Oval Office for the first time since he was diagnosed with COVID-19."
-    publishedDateTime: 2020-10-07T21:21:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2020-10-07/the-latest-india-adds-72k-virus-cases-gives-festival-rules?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

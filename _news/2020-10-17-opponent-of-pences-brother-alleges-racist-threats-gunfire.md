@@ -82,7 +82,7 @@ related:
   - title: "Black Woman Running Against Mike Pence’s Brother For Congress Reports Racist Threats"
     excerpt: "In Indiana, the Muncie Police Department is investigating what witnesses suspect was gunfire targeting Congressional candidate Jeannine Lee Lake, a Black candidate running against Vice President Mike Pence’s brother,"
     publishedDateTime: 2020-10-19T04:15:00Z
-    webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html#!"
+    webUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.html"
     ampWebUrl: "https://www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
     cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/10/18/jeannine-lee-lake-mike-pence-brother-opponent-racial-harassment.amp.html"
     type: article

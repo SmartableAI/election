@@ -107,6 +107,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
+    excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
+    publishedDateTime: 2020-10-20T09:49:00Z
+    webUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 53
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2016/06/perdue2.jpg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "dN0zD/kWXH/2GbqpTQ/COKPPS1U7SLCKF3wRN7LY9v51KIf5Ms5m9qBQbKxAl1RvNGjiMPPlqFq7RjL/wjZORCSeB4zWaCeRbQFIXaVrAgjnRTJdJcfiQI9BYSX4VYvjzkZg6gwrKXpkdhnngx7LpmhYFDNFWbwINjEXU2jACRKaGKxCJq6S6m5eaSNaM5wOUEoFAalEeAO+cWzRiZJ3ajsSu8Buhgtwxc8o4EGOekjzOtrKc4RK02rO3Vz4/of/RRokCR8h36/Cqm54AUkqbvsE11Vv58Hu8f+xM3AHXmnZmFboT+Hwy7uIEGJS3U1/zkYUZ9g82CfaHHyp+VuUOFh9dsVVILZBNmqrdLpP27qdPlmDQEDdPBWJwup+zhxApsAQ/IUxQwmhYy0NWKIh/GYvflxtA0jWeS9GcOjANkwbIbIWb5Vf5SF6fPXgaBHiBKUrzwxRn+oklJQfh0RDxTcmS8Rb6EMa61TfEC0c/5c1Tz+boCiamGhEYCcZNvVt0Aff2/IcAezJEh9vB+jfMQ==;OVUbecJnzF6GxDICavrGGQ=="
 ---

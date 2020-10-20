@@ -63,6 +63,22 @@ related:
         width: 791
         height: 545
         isCached: true
+  - title: "President Trump will be discharged from Walter Reed, doctors say"
+    excerpt: "Dr. Sean Conley said the president \"may not be out of the woods yet,\" but he is healthy enough to return to the White House."
+    publishedDateTime: 2020-10-05T19:27:00Z
+    webUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/president-trump-will-be-discharged-from-walter-reed-doctors-say-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f7b3460282c500018c78907?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Federal judge says Trump administration's actions against TikTok 'likely exceed' the president's authority"
     excerpt: "The federal judge, who on Sunday blocked Trump's proposed ban, said TikTok would \"suffer irreparable harm\" if the order were to go into effect."
     publishedDateTime: 2020-09-28T21:44:00Z

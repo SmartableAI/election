@@ -45,59 +45,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-mike-pence-reelect-president-donald-trump-to-renew-americas-promise.md",
-      "title": "Mike Pence: Reelect President Donald Trump to renew America’s promise",
-      "excerpt": "When Donald Trump announced his candidacy for president, he launched a movement to restore the promise of America. Since taking office, President Trump has delivered record-breaki",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/in-depth/opinion/2020/10/20/mike-pence-reelect-president-trump-renew-americas-promise-editorials-debates/3706197001/",
-      "originalUrl": "https://www.usatoday.com/in-depth/opinion/2020/10/20/mike-pence-reelect-president-trump-renew-americas-promise-editorials-debates/3706197001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3706197001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706197001",
-      "publishedDateTime": "2020-10-20T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-why-vice-president-pence-was-in-northern-maine-on-monday.md",
       "title": "Why Vice President Pence was in northern Maine on Monday",
       "excerpt": "When you think of the battlegrounds that could decide whether President Trump or Democratic nominee Joe Biden wins next month’s general election, Maine often doesn’t come to mind.",
@@ -388,6 +335,49 @@
       ]
     },
     {
+      "path": "_news/2020-10-19-mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises.md",
+      "title": "Mike Pence: Americans Deserve 4 More Years of a President Who Keeps His Promises",
+      "excerpt": "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Sen. Harris, click here. As I arrive in the great state of Utah to debate Joe Biden’s running mate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "originalUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-media.beliefnet.com/sites/140/2019/04/Mike_Pence_28119020664-1.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
+      "cdnAmpWebUrl": "https://www-beliefnet-com.cdn.ampproject.org/c/s/www.beliefnet.com/columnists/news/2020/10/mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises/amp",
+      "publishedDateTime": "2020-10-18T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beliefnet",
+        "domain": "beliefnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-vice-president-mike-pence-to-hold-rally-monday-in-york-county.md",
       "title": "Vice President Mike Pence to hold rally Monday in York County",
       "excerpt": "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!",
@@ -596,7 +586,7 @@
       "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -768,7 +758,7 @@
       "originalUrl": "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -790,6 +780,58 @@
         "name": "11Alive",
         "domain": "11alive.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week.md",
+      "title": "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week",
+      "excerpt": "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "originalUrl": "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 449,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/",
+      "publishedDateTime": "2020-10-14T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -854,7 +896,7 @@
       "originalUrl": "https://www.chron.com/news/article/Pence-in-Michigan-says-road-to-victory-runs-15648291.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -940,7 +982,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 9740,
+      "heat": 9820,
       "tags": null,
       "images": [
         {
@@ -1396,63 +1438,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-10-mike-pence-and-the-gop-mount-a-last-stand-in-arizona.md",
-      "title": "Mike Pence and the GOP Mount a Last Stand in Arizona",
-      "excerpt": "Most voters have made up their minds, so the Trump campaign is rallying the conservative ‘old guard.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "originalUrl": "https://www.wsj.com/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-243001/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mike-pence-and-the-gop-mount-a-last-stand-in-arizona-11602278392",
-      "publishedDateTime": "2020-10-09T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],
