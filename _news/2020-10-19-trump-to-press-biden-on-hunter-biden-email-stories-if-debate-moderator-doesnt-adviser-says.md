@@ -474,6 +474,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump Urges Barr to Initiate Investigation into Joe Biden and Son"
+    excerpt: "The president’s request of the attorney general comes as he escalates his campaign to discredit his Democratic opponent two weeks before the election."
+    publishedDateTime: 2020-10-20T19:14:00Z
+    webUrl: "https://www.wsj.com/articles/trump-urges-barr-to-initiate-investigation-into-joe-biden-and-son-11603220876"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-urges-barr-to-initiate-investigation-into-joe-biden-and-son-11603220876"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-urges-barr-to-initiate-investigation-into-joe-biden-and-son-11603220876"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-247269/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Joe Biden’s polling lead slips in wake of Post report on Hunter"
     excerpt: "Joe Biden’s polling edge over President Trump eroded this week amid The Post’s scandalous revelations about his son Hunter’s foreign dealings — but the Democratic candidate"
     publishedDateTime: 2020-10-17T08:37:00Z

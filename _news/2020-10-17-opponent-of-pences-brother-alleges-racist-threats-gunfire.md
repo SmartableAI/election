@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brothe
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929"
 type: article
 quality: 125
-heat: 225
+heat: 265
 published: true
 
 provider:
@@ -111,6 +111,28 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
+    excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
+    publishedDateTime: 2020-10-20T18:27:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246579118.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246579118.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246579118.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 47
+  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother | Charlotte Observer"
+    excerpt: "An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
+    publishedDateTime: 2020-10-20T18:54:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246579118.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246579118.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246579118.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 37
 
 secured: "fEWtYPOWd+nSMGjS1wpG3LPWyBxIwY0sT6y9fy0JZTXRxlUsYB78acXy1NEMWKkqdvddJCIoorzRGztbk29m7nhcdoAU8gCrjCUUpqFry1fX8x0+ODrPSeQsVb1+DucW4W9x3ZJbv8ARZjKyZ/JBgdkK4++HvMj7tNsOwvqO9I+YF8mRuLeWYpvK4u8DM6X7v2iIgr/cK7ThgWJtus4aBtHGdSfRvNkrULbA0Dywe24evZ4b1PGe6JZ+jro0T4ttkCl/0vPco0vVoWoWm9ZEHg3HbMlj6oPRV1XFzTWKmbQzE1mYMXB6iqPFDRH+cEIY7Mft1O41JHsVghA/q2uus5rCrF83lZqk8C6MZOKsIWA=;tce5qdOKo1jg/fhzu9KlfQ=="
 ---

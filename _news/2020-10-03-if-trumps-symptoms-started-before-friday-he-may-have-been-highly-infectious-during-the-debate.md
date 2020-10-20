@@ -31,51 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Schiff: If Trump wanted more infections 'would he be doing anything different'?"
-    excerpt: "Rep. Adam Schiff (D-Calif.) on Thursday tore into President Trump’s handling of the coronavirus, warning that a rally he plans to hold at the White House Saturday runs the risk of spreading the illness."
-    publishedDateTime: 2020-10-10T02:54:00Z
-    webUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different"
-    ampWebUrl: "https://thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/520458-schiff-if-trump-wanted-more-infected-would-he-be-doing-anything-different?amp"
+  - title: "The Note: Stagnant race, battleground deficits highlight Trump debate-season challenges"
+    excerpt: "The race for president keeps not changing and the latest ABC News/Washington Post poll shows a 53-43 Biden advantage among registered voters in the upcoming race."
+    publishedDateTime: 2020-09-28T11:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/stagnant-race-battleground-deficits-highlight-trump-debate-season/story?id=73210215"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://thehill.com/sites/default/files/schiffadam_092320gn2_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/trump-rally_hpMain_20200926-182602_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
+  - title: "It’s Not ‘The Economy, Stupid’: Voters Might Forgive Donald Trump for Covid-Year Numbers Even Though Swing-State Unemployment Rates Remain High"
+    excerpt: "Economic turmoil this year is “not going to affect anything” on Election Day, said Brianna Mack, assistant professor of politics and government at Ohio Wesleyan University. “It’s not like pandemic politics anymore."
+    publishedDateTime: 2020-09-22T21:17:00Z
+    webUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/"
+    ampWebUrl: "https://www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zengernews/2020/09/22/its-not-the-economy-stupid-voters-might-forgive-donald-trump-for-covid-year-numbers-even-though-swing-state-unemployment-rates-remain-high/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
-        isCached: true
-  - title: "WH Chief Of Staff: Trump Improving But Doctors Were 'Very Concerned'"
-    excerpt: "White House Chief of Staff Mark Meadows said Saturday Donald Trump's health, including a fall in his blood oxygen level, had left the president's doctors \"very concerned\" but that he had improved and there was never a risk he would have to hand over power."
-    publishedDateTime: 2020-10-04T05:42:00Z
-    webUrl: "https://www.ibtimes.com/wh-chief-staff-trump-improving-doctors-were-very-concerned-3056365"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/04/white-house-chief-of-staff-mark-meadows-speaks.jpg"
-        width: 1024
-        height: 682
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a670e8d3947b81cddc7ba%2F0x0.jpg%3FcropX1%3D170%26cropX2%3D3239%26cropY1%3D511%26cropY2%3D2236"
+        width: 1199
+        height: 674
         isCached: true
 
 secured: "BC16ziJ1ca746Ya40EHoFvab2vrwfQ3nqPj92BBOaBBlkfbEgnRpffniWfXjmW26Y2uWrD0Jqn7HLSSu6r0SPPHxrz/hCqasQ81B2/b1VosOQduNGaOLkD51paN97/3mLHulQ/71EJ1z4InQGbUDowWYTxnSmsD+x/PMIpSWaictt4qkhYlimFtPwqzH5I9s6HtFZl/qrvl55tU/oKfjtNKJf19ag+UXIjE7t94Hs92gqsKmABQ5X+FdvG+zW/jv7+dwl5nA+H7KFc5L+i9LSlNX9WlNDRCGyualfEblyZIyPy5sdg42CfKOIfKEXc9oOeoFvx8714DG5NHg2QH7YULEcRCpiYt4pM2ycYtYapw=;w82hOINOTL/E7EqlG/jloQ=="

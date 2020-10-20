@@ -95,6 +95,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Donald Trump Just Lost His Go-To Debate Move"
+    excerpt: "On Monday night, the Commission on Presidential Debates unanimously approved a new rule for Thursday night's final debate that will make it virtually impossible for Donald Trump to be, well, Donald Trump."
+    publishedDateTime: 2020-10-20T18:34:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/20/donald_trump_just_lost_his_go-to_debate_move_526981.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524696_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "Mp8jBsD4liCnvf0ddLp4lfVR1u7IwrbmjDRkPk7xcGdIylqG3z0EBGA+jCL9sC47a8ncxA1zCat3mdHTRmKCGAYaGOVA2B38YwxJBaBbPCA6p4qylK3W6BqOK2m84KcBl9f4FvIZCMDrQi0OgHYuz6fsMUy/eHTO2oni4VPnRepRkKckhJAW12MnrFL8mvp0WGggGjo+rDamD/r2IAwq7bH124Fr+H875gz0/HRo/Py/Uhw1Mp2V2jM5yM9ATgzK8tSaoWVCn6xOKtc9eP7c5rgJWel/R9N77p3jtSMSldtTc7OvK+XH7HEX5k2MfIRl37YyMi3DypFZO9nHe9E9Qq2VXILHI9aiUT57mvAvXN0=;zQOaHBhVKcV+dbMyocQGqg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3629112001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001"
 type: article
 quality: 125
-heat: 145
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,34 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump Headed For Trouble -- And Not Changing Course"
+    excerpt: "President Donald Trump is down in the polls, running out of time, and facing a resurgent coronavirus across the United States. Yet seemingly headed for defeat, he is doing nothing to change course. Proud of his status as a non-politician who won the White House in his first shot,"
+    publishedDateTime: 2020-10-14T17:09:00Z
+    webUrl: "https://www.ibtimes.com/trump-headed-trouble-not-changing-course-3062172"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/14/president-donald-trump-has-begun-a-punishing-cycle.jpg"
+        width: 1024
+        height: 656
+        isCached: true
+  - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
+    excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
+    publishedDateTime: 2020-10-09T11:03:00Z
+    webUrl: "https://www.salon.com/2020/10/09/wishing-donald-trump-well-its-just-another-way-of-normalizing-the-regime/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 53
+    images:
+      - url: "https://media.salon.com/2020/07/donald-trump-0730202.jpg"
+        width: 846
+        height: 571
         isCached: true
 
 secured: "2edok6EMLwObZVgVfsgFUUjKJxgwqKQRt9wGmjeqqUl/ygwmAZBOPOXAdE0PCp7VdNhhWwNCxFcOVLhz2Kv13MwWH4Fez957PVNsOoPpy3Q5Nu7WCNG8LLGMW8nE+GL6T++w8lQK1CcWUejjHRZc5nJY80JJySsc5oQ8ctUPGPdSd32WLoyf5rnP/4DgPj6bu6kD8nSnX97XbjspuDcIXJjnYqP4tykHf5PIrDzMeFovEDpeBLvxSPu0426Ey1WmVkvwDlSR5OuQt9QO6f96EQ3YlE+NvYaX2mVslleeS4nP7mL9niHIEOSnwoMQnj2spAg3pMe0VjaFeWpY0e3jy1+B8QGVcMsW0VlEmTMpiOLSr9ohqiqrENkXzNYDpFBNSbMqdZTcXNpJEFvVJvxQ3rNj7tnkdJjYL2jXfwKYuaIU7QK5FYleTwxwywxL52x9x2GL2PZTb2ou/QQYgQRasPBK+lHsv0yuFylnUsTKVoO9yoPW/tY4f/oSQ1xP7NsunYTWiX/PHIpJPk3AA1DkjQ==;KuBNo5g5xkUjRHv43UXDtw=="

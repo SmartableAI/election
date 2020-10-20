@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Coffee Bean Caucus that predicted Hillary Clinton victory backs Biden"
+    excerpt: "The Iowa diner known as Hamburg Inn No. 2 first made its way onto the national political map when Ronald Reagan, one of the most popular presidents of his era, stopped there on a post-White House speaking jaunt."
+    publishedDateTime: 2020-10-20T19:27:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9vxa8M1fEng/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/20201016_093151-e1603217428414.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
     excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "
     publishedDateTime: 2020-10-17T05:24:12Z

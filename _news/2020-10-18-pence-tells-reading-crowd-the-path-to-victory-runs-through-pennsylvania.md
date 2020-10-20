@@ -43,22 +43,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
-    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
-    publishedDateTime: 2020-10-17T21:41:00Z
-    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
-    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 68
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
-        width: 1024
-        height: 616
-        isCached: true
 
 secured: "0CycivJ93VEEjJ4UY3ceHd0duqh2sX8Ss48GBvSWfOEc5G7JGOG05B9LXETZcy7SnxXt/1rgvAhNJyNqTujvUq2mipnVBrGT+7LnkbaqkGz7sG8u4G0rLh9MxHuJOftwQpo8yXPRnV12AGSJPDT28Or7a1LyK3E2RRrksL15Sm+h/bpmZO4mDMzpui2KNAOrSoijP0RhdsRRk2Tw+oFV4XAofLQxuTaQJylCUswPXB5VcJ8AFueKiZjma7v3qECxBJMQ7vDlVvH69uh1FLVHWKciwzlEvFzoBo5Egb+IJclHof47YjrgS0FEda/7wc8YH9QavEevQuVjcv6LZcK9Hj/eXP76mmucE+tQZ0mn29I=;Bn4VnQXcXW7RK2Xf4gvhnA=="
 ---

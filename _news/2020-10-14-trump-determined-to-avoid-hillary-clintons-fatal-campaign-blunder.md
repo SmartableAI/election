@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-presiden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/56f7aee2-127a-431b-a0ee-460b6468c3fe/f3fb124b-ba4f-48d6-8063-fc8728caf2c6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Coffee Bean Caucus that predicted Hillary Clinton victory backs Biden"
+    excerpt: "The Iowa diner known as Hamburg Inn No. 2 first made its way onto the national political map when Ronald Reagan, one of the most popular presidents of his era, stopped there on a post-White House speaking jaunt."
+    publishedDateTime: 2020-10-20T19:27:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9vxa8M1fEng/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/coffee-bean-caucus-predicted-hillary-clinton-victory-backs-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/20201016_093151-e1603217428414.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hillary Clinton: Voters should 'cancel' Trump 'reality show' after town hall ratings revealed"
     excerpt: "Former Democratic nominee Hillary Clinton on Friday urged her supporters to \"cancel\" the “Trump reality show” in the November election. "

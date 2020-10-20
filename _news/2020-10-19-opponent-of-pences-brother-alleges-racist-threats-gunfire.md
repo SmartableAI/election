@@ -107,6 +107,28 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
+    excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
+    publishedDateTime: 2020-10-20T18:27:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246579118.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246579118.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246579118.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 47
+  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother | Charlotte Observer"
+    excerpt: "An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
+    publishedDateTime: 2020-10-20T18:54:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246579118.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246579118.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246579118.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 37
 
 secured: "dkXMahg1NzqZZskY14NgSJPxUe7rEiax6GNIxOzI/EozHKsn+iS+Tf1yRtqOpN2sEif+BcKAiFzHal2ezq/SKutFNkTwzy1AOAc+ayQ0E4o/+KmlPcFI9GzZFOb8pYYFQHWrm6TKo2J07fqt1rj0tZkVWwG948/YIx5LWv+A/eMrzivb/Xew+DxMZHF6bCkNfbfl5jQFMN4a30xsNCTpHPcRE5CifCspbqO8uzTX3VSFXxRYrAxfS/Q69wugTi1jhyRt5GkECErX1siOtHnn2+Z+xHaPRf+9xeLiiImfGp/8UV7/klYyPllKZp1jtUWhOjRKXMYfJ6JNBdd96D9x8Yp62yb5dbsaGnc0mUhJE10=;1H+V8N5EJBHPaWd20qIWWw=="
 ---

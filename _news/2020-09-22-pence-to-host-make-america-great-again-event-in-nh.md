@@ -21,53 +21,37 @@ topics:
   - Mike Pence
 
 related:
-  - title: "Vice President Mike Pence to make NH campaign stop next week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in the Granite State. The Make America Great Again event will be Sept. 22 at Gate K at AutoServ Hangar in Gilford. Doors open at 1:00 p.m. and close at 2:30 p."
-    publishedDateTime: 2020-09-23T00:52:00Z
-    webUrl: "https://www.wtsp.com/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/politics/vice-president-mike-pence-to-make-nh-campaign-stop-next-week/97-a217996a-574a-40ca-a40b-b254d00779c9"
+  - title: "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids"
+    excerpt: "Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R."
+    publishedDateTime: 2020-10-14T22:55:00Z
+    webUrl: "https://www.wkyc.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 75
+      name: WKYC3
+      domain: wkyc.com
+    quality: 74
     images:
-      - url: "https://media.wtsp.com/assets/WCSH/images/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224/88fd385d-3c0d-42cc-b7d1-3bd6d2cda224_750x422.jpg"
+      - url: "https://media.wkyc.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Vice President Mike Pence to make campaign stop in Council Bluffs this week"
-    excerpt: "The Trump campaign announced that Pence will host a “Make America Great Again!” event at Owen Industries Inc. in Council Bluffs on Thursday."
-    publishedDateTime: 2020-09-28T15:32:00Z
-    webUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.html"
-    ampWebUrl: "https://omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
-    cdnAmpWebUrl: "https://omaha-com.cdn.ampproject.org/c/s/omaha.com/news/state-and-regional/govt-and-politics/vice-president-mike-pence-to-make-campaign-stop-in-council-bluffs-this-week/article_265f8884-307d-5010-8131-a50374e8a8bb.amp.html"
+  - title: "VP Mike Pence speaks at 'Make America Great Again' event in Grand Rapids"
+    excerpt: "GRAND RAPIDS, Mich. — Grand Rapids is once again a stop on the campaign trail. Vice President Mike Pence visited Grand Rapids Wednesday, Oct. 14 for a “Make America Great Again” event. The vice president touched down in Air Force Two at the Gerald R."
+    publishedDateTime: 2020-10-18T19:46:00Z
+    webUrl: "https://www.13newsnow.com/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    ampWebUrl: "https://www.13newsnow.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
+    cdnAmpWebUrl: "https://www-13newsnow-com.cdn.ampproject.org/c/s/www.13newsnow.com/amp/article/news/local/vice-president-pence-visiting-grand-rapids-wednesday/69-725b1966-a80b-47e1-9192-69b46c5c7c07"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 73
+      name: WVEC
+      domain: 13newsnow.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/0/83/083fca39-f0e6-5963-8e20-8d0b547e974d/5f71fa5e04a74.image.jpg"
-        width: 512
-        height: 341
-        isCached: true
-  - title: "NH Primary Source: Vice President Mike Pence to hold rally at Laconia Airport next week"
-    excerpt: "Vice President Mike Pence plans to return to New Hampshire to visit the Lakes Region next Tuesday, Sept. 22, the Trump campaign announced early Thursday, confirming WMUR's Wednesday night report."
-    publishedDateTime: 2020-09-17T23:56:00Z
-    webUrl: "https://www.wmur.com/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    ampWebUrl: "https://www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/nh-primary-source-vice-president-mike-pence-plans-visit-to-laconia-next-week/34047202"
-    type: article
-    provider:
-      name: WMUR9
-      domain: wmur.com
-    quality: 67
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/mike-pence-at-exeter-town-hall-1477089715.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://media.13newsnow.com/assets/WZZM/images/f718784b-362c-4aa8-950d-55cb610ad3b2/f718784b-362c-4aa8-950d-55cb610ad3b2_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "W2uqwN65y8sg//Fw3CCDz4FixIAX6FXhRw1ygfDOMGbLDc88tPUezJndhvFi2Iw+KemhYTaG0Won6q9zsKbMFsPONlhlw2FNindbMQRk8iRVxP4om04jia0tznNdVSo/gt/dca0+wKOhXuyzfvwTlhmtOkUoGMqZif6kSO2kYENtrLyXNUsjqPLybY+lCBOAkPjqLKOoOWjYU1JMfV3TdCGkLQJB+KM0zwk1n0B0yBzVwC/oUqU5cfk7aZrKNQJTWysxbM8ohANTqcDj3BUZkZDZXUL8QiJPFYqPvzQEpRCgzC1u/DPDBXAkVhn4mVSqqnISW1OhSR466bMXi4/peMdb11MKS0skaptFamZzid4dVLPAOTPbOieQOLRQcL1iK+X1h2r170tc6m6OuzZVR+SS7QZq2nQtVdEV1SNBO7ixJnx/V40BvEfG5jgek/ZkOhUjyonsYKR2p90Yd/HDwNWULbLC4wQH2bvPXXWQ3YE/rXxjSgNAWPDFEQS9/4V+LOtI6y0B2oiEJHJwP4wI5w==;gRmFfads9kj9cbfbScEgkA=="

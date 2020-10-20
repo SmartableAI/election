@@ -398,6 +398,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's tweet on 'total' declassification of Russia docs not an order, White House tells judge"
+    excerpt: "The White House chief of staff told the judge to ignore Trump's tweet saying he had authorized the declassification of 'any & all documents' relating to the Russia probe."
+    publishedDateTime: 2020-10-20T18:42:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/trump-s-tweet-total-declassification-russia-docs-not-order-white-n1244022"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244022"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244022"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421533/201020-mark-meadows-jm-1223_4f352f1cd014dfe5fff1f27e1f61d38d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Hoping to shore up support, Trump directs more money to farmers"
     excerpt: "The more Donald Trump worries about losing, the more he sends taxpayer money to farmers hurt by his policies and failures."
     publishedDateTime: 2020-10-13T12:57:00Z
@@ -492,6 +508,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "Qu4hG2QP1HuRskfkxeeu8TtkLptRK3lt/cIV5FS0qJf9k4iUCPFSSxKdgyQ3chVb9upZbuQRnXla2RuzKtfQMHcEpwNUD9Bjg2772+rB2BLtgP74BeoBgtr1H9aINQC0BXED7qvfLJ3qA/T8dyHb1sks0fEMiBvQTuy/64Gp8nO6lUbL03+wZZ73s50SirWje/blXzBYFTnjQPRShSdn2f/TE+ruCnsnuRIj/4rHriOAqoeJJ0ocFlO9/D2zBIybQ0pYZtZXT5T3Vtye2lEIz+qwZmt4goQWcXKEAGPQXSG+PcE3HvXrzmZ4wT75ipAw88J5fsNVem4OMIBz8DhHtLdVaw98UAAzpVilbcxjjVg=;U5SUZJ4x9SrpDzKmqlbcpw=="
+secured: "mqcyqgNHMoAGaxSuHynYF2Uap/AK/WEjBl6HmXhXQxBHZYqzJAQvQwlSRLp0siMOfslV9nHerz8i5YIeY3Ft+VowY/y/o73XlwZZQsRTc4iJ0qnoDfmKDGV1QXIzEZiYq70HFjvN9xKVdeI6cUZV7N9k82/ek/Snt7W4eRfgjzIc/RK3nWqeVM0+GJjeyB59imkV65TKTevt69hJLJiFgH2OWNXohuSFnRXiQLCgnOTK83PSc9twj2BnXD/wM/DPyB/L1ZIJU9bToy+56vjuVOTFtSJ5ZGzDXmPP5UMqRbqoZ6gU3ClRTMr7/sU0VNwfMVn92Z9w8gvKMmNJbBbHq5HpS0AM6lC8moK7DdPwyOkGgVQqQVr8Mt1MxgyMJPbR/sAMioB83b8lvyG1Qy1oUhBzd+IZwapg5O6NZfqAd3IJ4KViLAZ1CppduJPkr6y5mHnlZ1iA1HJQKFE8yLZ+zYZ5nLczjmKzY6NvsTJQ25a8aKc9r0K7ClzUXvIGbRet231/jNX4npCMcSngEgXnJw==;AFLG3/UkHxJMkv3fqOA9GA=="
 ---
 

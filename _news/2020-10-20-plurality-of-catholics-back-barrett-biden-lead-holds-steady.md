@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Plurality of Catholics Back Barrett, Biden Lead Holds Steady"
+title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
 excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
-publishedDateTime: 2020-10-20T12:02:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
+publishedDateTime: 2020-10-20T14:35:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
 ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 320
         isCached: true
 
-secured: "S5WA2NMzsrbNH2ZegeLI+e18x3Od8I/fMuAkovoxouucveAH8WDcQ1+eDC490G0kLzmL42lqT+X5F0WRi3bOhCnksEiI/ZUNU2BQWDh1nwnbxVNdwC91zlLSl5QhXyTWs9OQ5+N9ipCiHbRfhyNukm6hSUlwwmdX94y5gvqJYgGQzyVgXvVZsWUjVJwAldN+6r4Dpg67hT5KNS59IRyGu61XlgAA2ZO61LnTguSRpFGv3n1fsCA+zmeij4wNBERaRwY5aVDxSKzQs6Br6O4jvO1P0uwe1nqvHrRSJ4qZF0XfVLBH5C7MKxGXTY5JcPF9qcKk4wG7QXEoHyhZKKkcrCmbYTfNPxThzdEacKO4qzg=;SPuoLpg8ypMFsLeztSEdtQ=="
+secured: "zupXpDGHa29gavIvFTz5Z+NBdJHMYU1NeoEPPRIkoFHL1uqvNzoIJi10wMXjNS+g3pnqupmJ3NQr3VIarhyt09n44/YF8xT4IGX6eaBy7zNnM9vTuz1hYEI+dJktzp2ezTrsHubtUwgCq1/pch81kfowiVK05uQWiwCkRhvgD+GCYti6S4gTFSoML/i7E8vLeUyscYtQqbkd4zPayIbX+1MiaCUbjtN4OYefltN+nwTUrycXvHQZjpfLVG+92rqBEZkfFAI0rbG6s8AYximLaasPTpOH5ZAXlDk/Q731NAthEdgc2ML06fhuC7cApjTwdKAW19hRNNPRFY1f/AciLV1hNB6RFvAZLDk1H22NdA8=;Es5HH4y9nW/OxvnuPoI3Bg=="
 ---
 

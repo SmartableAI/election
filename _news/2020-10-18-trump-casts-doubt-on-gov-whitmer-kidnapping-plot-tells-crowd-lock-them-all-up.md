@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘It needs to stop’: Whitmer slams Donald Trump for rally attack"
-    excerpt: "Trump’s barbs at Michigan Governor Gretchen Whitmer, the target of a kidnapping plot, prompted chants of ‘lock her up’."
-    publishedDateTime: 2020-10-18T16:05:00Z
-    webUrl: "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 125
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20290786790341.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Michigan Gov. Gretchen Whitmer says President Trump is inciting ‘domestic terrorism’ with his ‘lock her up’ chants"
     excerpt: "Michigan Gov. Gretchen Whitmer said that the rhetoric is “incredibly disturbing” a little more than a week after authorities said they had thwarted an alleged plot to kidnap her."
     publishedDateTime: 2020-10-18T19:08:00Z
@@ -58,38 +42,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/lrSpB0fFIbK0wcATo0_BT_purRQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7DS6PDTSRF4TNDATKXWBQFGBA.JPG"
         width: 1200
         height: 675
-        isCached: true
-  - title: "What Does ‘86 45’ Mean? Trump Campaign Claims Whitmer Is ‘Encouraging Assassination Attempts’"
-    excerpt: "Governor Gretchen Whitmer has a small “86 45” sign in her office, and now President Donald Trump’s campaign claims she’s advocating for his assassination. A tweet from the Trump War Room, which is an officially verified account with a bio stating that it is “managed by the #TeamTrump 2020 campaign,"
-    publishedDateTime: 2020-10-18T21:12:00Z
-    webUrl: "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200"
-    ampWebUrl: "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/president-donald-trump-pictured-in-the-oval-office.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Lara Trump Defends President Going After Gov. Whitmer: He Wasn’t Provoking People, ‘He Was Having Fun at a Trump Rally’"
-    excerpt: "CNn's Jake Tapper opened his interview with Trump 2020 campaign senior adviser Lara Trump Sunday confronting her over President Donald Trump continuing to attack Michigan Governor Gretchen Whitme"
-    publishedDateTime: 2020-10-18T14:04:00Z
-    webUrl: "https://www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/"
-    ampWebUrl: "https://www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 51
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/tapper-lara-trump.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "9TkDyf2u9y276htAMLRRRnpTGv9bhnxLfYXiDPPOWEAruWXwVCHwcTpoeYL4p4pDSbOMlLIlh7hfX8MqRoWCysgr1315Xz1bFh56u7Kin5wRCR8yhCk9iUfj5RQ8tGYvhg1s/jZnVb5iAZ1JnhKSceRkN6MIjD113mvWrPp/+ARevgxLbRse0yQuz1U3WEMmWqXe9y4odV7DzgCwL1FDs6Q8GiTAXsGs6WysoPPyDIIJOFtxKKIem3M0bNBYWCPUqBWZRX/3ISeT15m7m0vxnaAgNoiFueOcw6OzuVPwioufa7PIUOd1+kdVtatnMFq2g2Asz/55KD1XqCWHmPwAb0+Q3rWtf++WxAui6Vr+Sb0=;ololNFT6cAtwh18sfrOk+w=="

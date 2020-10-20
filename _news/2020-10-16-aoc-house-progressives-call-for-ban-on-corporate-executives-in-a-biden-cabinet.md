@@ -223,6 +223,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden considering former Ohio Gov. Kasich for Cabinet position: Report"
+    excerpt: "Kasich is one of several conservative politicians and executives being considered."
+    publishedDateTime: 2020-10-20T19:48:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ggq3QOQYLUY/biden-considering-kasich-cabinet-position"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-considering-kasich-cabinet-position.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-considering-kasich-cabinet-position.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23d0ced5-35cd-4c65-bd68-90fc2c44909e/cc99c12a-752d-44dd-a3fe-d312ae773476/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Obama to hit trail for Biden, takes to airwaves for Senate Democrats"
+    excerpt: "Obama is starring in new campaign commercials for Democrats locked in key Senate races, as the party hopes to win back the majority in the chamber for the first time in six years."
+    publishedDateTime: 2020-10-20T19:22:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fU30Ana0OXU/obama-trail-biden-airwaves-senate-democrats"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-trail-biden-airwaves-senate-democrats.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-trail-biden-airwaves-senate-democrats.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36b8ecdc-458b-440e-9add-164aea9990e1/8b1a2c74-0af6-45fb-b024-7391f3aedd59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z

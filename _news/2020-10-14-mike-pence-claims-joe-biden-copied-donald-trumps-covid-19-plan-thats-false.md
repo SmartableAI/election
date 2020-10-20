@@ -1628,6 +1628,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "As Biden and Trump battle for white voters, district-level polls are revealing"
+    excerpt: "They had access to polling conducted at the Congressional district level, which showed Donald Trump gaining ground big time in White working-class House districts. Support our journalism. Subscribe today."
+    publishedDateTime: 2020-10-20T18:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/20/biden-trump-battle-white-voters-district-level-polls-are-revealing/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/20/biden-trump-battle-white-voters-district-level-polls-are-revealing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/biden-trump-battle-white-voters-district-level-polls-are-revealing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 136
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K4MQKMQS4UI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 1260
+        isCached: true
   - title: "Biden says next presidential debate should be called off if Trump still has COVID"
     excerpt: "Democratic presidential candidate Joe Biden said on Tuesday that next week's scheduled debate with Republican President Donald Trump should not take place if Trump is still infected with COVID-19."
     publishedDateTime: 2020-10-07T03:28:00Z
@@ -3496,6 +3512,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Trump pressures Barr to investigate Bidens as election nears"
+    excerpt: "With just two weeks to go before Election Day, Trump for the first time explicitly called on Barr to investigate the Bidens and even pointed to the nearing Nov. 3 election as reason that Barr should not delay taking action."
+    publishedDateTime: 2020-10-20T19:46:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-pressures-Barr-to-investigate-Bidens-as-15661982.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-pressures-Barr-to-investigate-Bidens-as-15661982.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-pressures-Barr-to-investigate-Bidens-as-15661982.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 105
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
     publishedDateTime: 2020-10-10T02:22:00Z
@@ -3878,14 +3910,14 @@ related:
         isCached: true
   - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
     excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-    publishedDateTime: 2020-10-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    publishedDateTime: 2020-10-20T14:00:00Z
+    webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+    ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 98
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
@@ -4671,6 +4703,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/cc/7cc2031e-e7e6-5e22-8d72-187a61d02fb9/5f8dc945c5724.image.jpg?resize=1024%2C682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "In debate countdown, Donald Trump holds rally, Joe Biden hits prep"
+    excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best"
+    publishedDateTime: 2020-10-20T19:15:00Z
+    webUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 90
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Trump_28260-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
@@ -7389,7 +7437,7 @@ related:
   - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Jacksonville, Florida"
     excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Jacksonville, Florida, voter mobilization event. It was the state's first day of in-person voting."
     publishedDateTime: 2020-10-20T17:21:00Z
-    webUrl: "https://www.c-span.org/event/?477126/c2020-sen-kamala-harris-dca-campaigns-jacksonville-fl"
+    webUrl: "https://www.c-span.org/video/?477126-1/senator-kamala-harris-speaks-biden-campaign-event-jacksonville-florida"
     type: article
     provider:
       name: C-SPAN
