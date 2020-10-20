@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/donald-trump-covid-stimulus/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 166
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170120165006-trump-sports-gal-12-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: The new debate rules will make it very hard for Donald Trump to be Donald Trump"
+    excerpt: "On Monday night, the Commission on Presidential Debates unanimously approved a new rule for Thursday night's final debate that will make it virtually impossible for Donald Trump to be, well, Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-20T17:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKX840-AnKs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/donald-trump-mute-joe-biden-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/donald-trump-mute-joe-biden-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001053-44-debate-clevelant-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

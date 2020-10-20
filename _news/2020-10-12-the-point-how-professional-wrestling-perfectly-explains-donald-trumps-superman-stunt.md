@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: The new debate rules will make it very hard for Donald Trump to be Donald Trump"
+    excerpt: "On Monday night, the Commission on Presidential Debates unanimously approved a new rule for Thursday night's final debate that will make it virtually impossible for Donald Trump to be, well, Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-20T17:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tKX840-AnKs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/donald-trump-mute-joe-biden-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/donald-trump-mute-joe-biden-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200930001053-44-debate-clevelant-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Twitter bans posts wishing for Trump death. The Squad wonders where that policy was for them"
     excerpt: "The four progressive Democratic congresswomen known as \"The Squad\" expressed surprise on Friday night when Twitter posted about its policy against wishing harm or death to someone in light of President Trump's Covid-19 diagnosis.\n    \n"
     publishedDateTime: 2020-10-03T18:21:26Z

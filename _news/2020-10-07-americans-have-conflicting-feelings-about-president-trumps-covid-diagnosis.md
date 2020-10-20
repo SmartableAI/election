@@ -47,6 +47,22 @@ related:
         width: 594
         height: 393
         isCached: true
+  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
+    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
+    publishedDateTime: 2020-10-12T12:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
     excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
     publishedDateTime: 2020-09-19T23:33:00Z
@@ -143,6 +159,54 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
+    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
+    publishedDateTime: 2020-10-12T14:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26X0GN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X0GN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X0GN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537087640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B09C"
+        width: 830
+        height: 545
+        isCached: true
+  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
+    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
+    publishedDateTime: 2020-10-12T19:05:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN26X0GH"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X0GH"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X0GH"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537092866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B08V"
+        width: 861
+        height: 545
+        isCached: true
+  - title: "Donald Trump Accuses Ilhan Omar of Marrying Her Brother, Entering America Illegally"
+    excerpt: "President Donald Trump accused Democratic Congresswoman Ilhan Omar of Minnesota of marrying her own brother and entering America illegally at a campaign rally in Ocala, Florida on Friday night. Trump urged the Justice Department to probe Omar,"
+    publishedDateTime: 2020-10-17T01:53:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-accuses-ilhan-omar-marrying-her-brother-entering-america-illegally-1539976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 119
+    images:
+      - url: "https://d.newsweek.com/en/full/1654733/omar.jpg"
+        width: 2500
+        height: 1854
+        isCached: true
   - title: "Trump calls off stimulus package talks, meaning Americans likely won't receive a $1,200 stimulus check before the election"
     excerpt: "House Democrats had passed two measures that would have provided $1,200 to each adult and another $1,200 for each dependant child."
     publishedDateTime: 2020-10-07T10:18:00Z
@@ -158,6 +222,22 @@ related:
       - url: "https://i.insider.com/5f7cf91d282c500018c79042?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump made it hard for me to protect America. How could I vote for him again? How could anyone?"
+    excerpt: "My job was to keep Americans safe and Trump was my biggest obstacle. He ignored white nationalist violence, ignored COVID-19, and nearly started a war."
+    publishedDateTime: 2020-10-13T09:22:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/13/trump-threatens-american-safety-former-dhs-secretary-column/5960384002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5960384002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960384002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/USAT/49a62616-af33-4d3a-a552-37d15de3305e-Neumann.jpg?auto=webp&crop=479,269,x1,y160&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Why the Russians may know more about Trump's health and COVID diagnosis than the American public"
     excerpt: "Russia and other US foes have almost certainly deployed every tool in their spy kits to determine how sick the president is, according to experts."
@@ -270,6 +350,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f856ecc602ccad0d5e6af39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D183%26cropY2%3D1872"
         width: 1200
         height: 676
+        isCached: true
+  - title: "The Trump administration's race to get a coronavirus vaccine means Americans may not know which treatment works best"
+    excerpt: "The US isn't testing each company's vaccines against one another, meaning Americans won't necessarily know which vaccine is the most effective."
+    publishedDateTime: 2020-10-13T20:02:00Z
+    webUrl: "https://www.businessinsider.com/trumps-operation-warp-speed-may-mean-moderately-effective-vaccines-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trumps-operation-warp-speed-may-mean-moderately-effective-vaccines-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-operation-warp-speed-may-mean-moderately-effective-vaccines-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f85e0c291aa9e001880b4e5?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Photos from Trump's Florida rally show supporters close together and not wearing masks even after Trump experienced COVID-19 first hand"
     excerpt: "The White House doctor said Trump tested negative on \"consecutive\" days and is no longer infectious but did not say which days he tested negative on."
@@ -424,6 +520,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence and Eric Trump events in South Florida on Thursday | PHOTOS"
+    excerpt: "Multiple events around South Florida featuring Vice President Mike Pence and Eric Trump that lead up to a televised town hall with President Donald Trump in Miami."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-trump-events-south-florida-101520-20201015-5fjpafihovbopaiaksxtpc6eeu-photogallery.html"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 70
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Pe_TMvDNtVnUiRg_Ok0FbraCXtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNJEX3DDIFHYFNW5Q7PLRAJMIU.jpg"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "Trump has induced a dissociative mental state that is eroding America’s sense of self"
+    excerpt: "Americans teeter on the brink of a state of collective fugue. A psychiatric state of mind, the fugue is caused by extreme distress in the aftermath of one or more cataclysmic events. The fugue state causes a person to fail to recall intrinsic identifying personal characteristics and to no longer remember what they believed in"
+    publishedDateTime: 2020-10-16T21:20:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-has-induced-a-dissociative-mental-state-that-is-eroding-americas-sense-of-self/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2017/01/Trump-Thank-You-Rally-721x430.jpg"
+        width: 721
+        height: 430
+        isCached: true
   - title: "65% Of Americans Agree Trump Could've Avoided Getting Coronavirus, Reuters Poll Reveals"
     excerpt: "The president announced his coronavirus diagnosis on Friday after senior counselor Hope Hicks tested positive for the virus."
     publishedDateTime: 2020-10-05T03:18:00Z
@@ -486,17 +612,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Trump Plays Down Virus as He Steps up Pitch for Second Term"
-    excerpt: "In the week since President Donald Trump emerged from coronavirus isolation, he has demonstrated new determination to minimize the threat of the virus that has killed more than 215,000 Americans and complicated his chances of winning another four years in the White House."
-    publishedDateTime: 2020-10-17T05:50:00Z
-    webUrl: "https://www.usnews.com/news/health-news/articles/2020-10-17/trump-plays-down-virus-as-he-steps-up-pitch-for-second-term"
-    ampWebUrl: "https://www.usnews.com/news/health-news/articles/2020-10-17/trump-plays-down-virus-as-he-steps-up-pitch-for-second-term?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/health-news/articles/2020-10-17/trump-plays-down-virus-as-he-steps-up-pitch-for-second-term?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "Gy6kq+UuuoQH+O2j1nx7ziCrJ4RRrHvY57CIFsKECfLlFZxeJvorDYozAaJDUUzO57WRnHPDlRK6vZ37FtsN3d0w9lg84TsxWux/gXFQHZ6U9sGHF5ozDOQU3FdSnzEzMUUvU69oXOU0RXBYX3+QTMbdg9XPyRCH/mWXbMvomlJ4IPTRE1HH+1aRsmAxtzuTSzZN5ygsozJfq2s/2f24oc1NJruCIDUfvIBTnuVtlpbD9QocyDFP8jaAm/dcyQO33i19wd9VWHpxJg+gdiv96nPrI1agSjw/mxnIqWCh/BToSiAmBGRzJuiFyv/guWpSDPs6OpfBRx6VZnzAcqgakMMtKyLk4tq1xHKUFr1K/Gk=;XXhmYrFHF+mwzQ7mNyyEUA=="
 ---

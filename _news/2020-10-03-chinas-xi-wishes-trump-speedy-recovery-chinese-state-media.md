@@ -39,17 +39,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "UK PM Johnson says 'resilient' Trump will make strong recovery"
-    excerpt: "British Prime Minster Boris Johnson said on Saturday he has no doubt U.S. President Donald Trump will make a very strong recovery from COVID-19, calling him a very \"resilient character\"."
-    publishedDateTime: 2020-10-03T12:39:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-trump-johnson/uk-pm-johnson-says-resilient-trump-will-make-strong-recovery-idUSKBN26O0HX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26O0HX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26O0HX"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "v//AvWqdF4+nmnHPsLpdU36nZvr4LHTStM4wnhlNn1kNQfYOV9DtsJ9a1YVUMZJx+kIW9XRI5KvcG6q3KrvKHg0aGVQfsTwwf8fMqmOOjBl9OmnabDMUdRaGlMm5P3DKuVaTyJ78HxU/v8sAp7gWgn4cjWgVL3gWlzEgPkM02YFd9Hd+ZyD3DWLyX4B9alyfC755zeSiZfC0xpNTIgxW1JRjU2N9mSbhtRKHF46VJidqpZTHVTEi1EE1NQlJTKUWQA7yEJjZhHrvrsDxT1ri7zYC330IGdk1J5o66/C/VtX3tyoWyV3BgKENCjDDufz70SIKpfBmKKQ4Bd2hZTHihXt3Y0gKzvFxbTDxuWqwWxPHsJekZ+H1HbMZfXKDcYNrq+yI9gjlzlKLrl09CB+FGY5uvW1fCozHtPDK3BgfvYjYAXJkg6OVKdJroBniVBNQACRRx5/G3uaoscvOmUZkl91vj61A6PpihiQ1rIOEYvQqm77PzEp5+6w4LZbNFPfY1Soajz0zHPpKm7XduiX8jw==;AAauSgPcmTaOJInaeXobJg=="
 ---

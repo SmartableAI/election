@@ -43,22 +43,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
-    excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
-    publishedDateTime: 2020-10-16T12:47:00Z
-    webUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698"
-    ampWebUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1653787/trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
     excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
     publishedDateTime: 2020-10-16T17:21:00Z
@@ -91,6 +75,22 @@ related:
         width: 1199
         height: 782
         isCached: true
+  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
+    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
+    publishedDateTime: 2020-10-16T01:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
     excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
     publishedDateTime: 2020-10-18T13:35:00Z
@@ -107,19 +107,51 @@ related:
         width: 640
         height: 414
         isCached: true
-  - title: "Why Beijing May Want To Keep Trump In The White House"
-    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
-    publishedDateTime: 2020-10-20T07:16:00Z
-    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
+  - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
+    excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
+    publishedDateTime: 2020-10-17T13:30:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
+        width: 757
+        height: 430
+        isCached: true
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
-        width: 1024
-        height: 681
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
+        isCached: true
+  - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
+    excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"
+    publishedDateTime: 2020-10-17T01:54:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Rallygoers-Unanimously-Praise-Defend-Trump-for-Not-Condemning-Bonkers-QAnon-Conspiracy-Theory-1200x676.jpg"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "no+lwq4glMZfokLrG2/6zgoKJUJvgPfM+6PJCCgzr9g1Mo6RR9ew8JH6uKhwLsKW4eN/wdURTLwUYwS2kUulJGUCeb/ippFUWsJtl6lY9Oj1/xV9jrU94f5V8h9ImlUqOU+exWtU14ZKoRoh01BVQ9BueP1rDfMPDkekrJnl2DYVwRvEM1linJdQ8gWkYyKfA1oTvysDV6rcGl0W4SSQUQYpvb+IWJvkmON8SG1oVEdt7mZqLhtuiSoVM8s+3PGUY73wZ4fIjjPXoHnLPAPstjdVZLeF8aq+OAss1waV/vF3PdiP3vKjKBe7Wsznm/VZus+7z2nY2jWhHyRbC0q5JDF8DOU21QloS1UX6NrmVD0=;HJvPUWNJUx0GDFjtQ/D+hw=="

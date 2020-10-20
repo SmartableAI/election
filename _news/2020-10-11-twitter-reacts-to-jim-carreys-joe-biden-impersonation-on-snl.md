@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-imperso
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Joe Biden Remarks in Michigan on Health Care"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
+    publishedDateTime: 2020-10-19T06:17:00Z
+    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "QUglJL1vjWGjl9p5zR5KDw/8NKzhqSEZldLb/k9W8kvCg2Aj+xa25T2vblCQeuJj6Ana2pdQ7mR6flfVD9aRo1wCZ4zCjzipUODB4Ru6i1aVSx4rEa/1Bz306omGkbr10Y7CcOWMSi82qfgs3XDXIq+Xe/5ujg8/BqJBrRPHnWkXb0AFX3fyUcFNVsitqgLU61GxODE7dRPpxhYS+nfQKR1yirUUhL5QQOjnKq+ICOWveaCBT6OCEs9H+5sDUfEN4Pu/qMc8ANG7QTZEKyRjHrA0r/yUN1c+OXnejyFvU56eC48bVdjjLvpuzsRGzCaLUSys2Va9z+UAf9OKlfTzd9vfkZHVE9R544oRq05MP7tJVwOPrfQSVjsuChkA8RlsUFkg5llP0j5HFHCUvUShf3itzLhDG4u6WxlGtdOsfPl4tlQI1oFm5l0y/rWSjnwsAm5hDOFZg0ujKyC35MuYTMn/2PjptvREAAV/EQiOfOMEd1qGBaZ7BpJmC9IZGZ+Hylmi56D1a0LcgscBmkZcng==;JUuGjaL1GNO2S9R4ko7xrQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-says-all-his-friends-leaving-sad-plac
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-says-all-his-friends-leaving-sad-place-new-york-city-due-covid-lockdowns-1538138?amp=1"
 type: article
 quality: 119
-heat: 179
+heat: 159
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
-    excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."
-    publishedDateTime: 2020-10-11T17:21:00Z
-    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-ready-election-fight-3060417"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
 
 secured: "7Z5adAekErR8sjcpzbtFCFrC8g5MO9CDowfWnaFgB/rq3QtcWa767pC1nycnWqUlo872AfBpabo/DhftmHBP2mhAlxDNwSElQFcrB5lWEli5X9psru6XJDFPOELomPzY8lZ5+gDVM3C5kUrTnEKVHsIwlQyC0rTLFisTNDViguQeqN9mIUbecaVPopCq8GhSyWYJ1uw1s7KCwgu3R9OmI+ACmwnnw9SNbm7KPRr41PhgORJdM6TnzphxcEEYED5ysnrJULXl/b8ygdSDLC4kVVGfKMrcSmQRKkfnJH5ydh9AjLxj2moEDGb4IOOyQMeki+YpUSX5zhr8AB+ak4DwWZAAhTCIotcmHzItljumjx/CYCVseWoLBMDc356DX1TtYMKStQorG8gKBkkbsRsFBiW96m/JNKNXOeUx5cfc5mX5p7GTT2b1sls8J38+g5gSl+1KielmNXHq14JHu5YdWhqiV5rrrGt8DkHPQNVzAkE3zgZG4LweLQ03jKepALw2DYqegSr/SbpdUNFp6f/lpw==;Ndam7ykeGQJp25+IxtVfWg=="
 ---

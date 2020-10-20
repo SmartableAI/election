@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/donald-trump-shown-gasping-air-white-house-r
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-shown-gasping-air-white-house-return-video-twitter-users-claim-3057543?amp=1"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: International Business Times
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says"
-    excerpt: "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects."
-    publishedDateTime: 2020-10-03T02:31:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1"
+  - title: "Scaramucci Hits Trump Over White House Return: ‘The American Mussolini Standing on the Balcony’"
+    excerpt: "Anthony Scaramucci likened President Donald Trump to Mussolini in reacting to his return from Walter Reed Medical Center."
+    publishedDateTime: 2020-10-06T03:29:00Z
+    webUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/"
+    ampWebUrl: "https://www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/scaramucci-hits-trump-over-white-house-return-the-american-mussolini-standing-on-the-balcony/amp/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: Mediaite
+      domain: mediaite.com
+    quality: 63
     images:
-      - url: "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg"
-        width: 2500
-        height: 1535
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/scaramucci.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "6yZ1TTjSdOpO6ULe3xk3ztHnRFQfAs1cxgBeeWnplX5DvWUch1uu1TxgNX5wDiH0DVrehRhnby9o9FTmzEvpIwYnuVX7VIAI/JzWDNMA649U1gll2hoiR1l9d6tYRCZV61cXczDOhEhn4yfpu/dBIVkpEcgp6HnKhPsbwmU2eoOzhb7DDSOHSpLBFxpK6JbvWr1EvO3jBshqaT2x2KreELUljLUNnr6VfutmeBHv5lzOkLmhHS9HxVtwge147a7kCYQKxrPkF22v31ry4j5+IEVNqaDY2imxlpHaxAgT5ZFfnNZM1YfFkD/Nv0poIOpaH7xN6fhkQfcDRtvL61Any9v6SIIrcCytEswkR4ISfjgJSDzviaciXa6U0/U55c5+8WcZ5c1uk1qlFV5oU5feQu+hHxENAGo7/+XhcjGWvJSSQqy+Hg7nzFd3CPor8OBMnCgtW7RSz3e7GloBQqbsJmkJlKm6tjfC2195WyLbeA5Sk5J4QCV7O0JecYbfjB3kcs64WJ8kygPkprxoDAhrog==;xNLJsOb746dcBZtBsGb3Mg=="

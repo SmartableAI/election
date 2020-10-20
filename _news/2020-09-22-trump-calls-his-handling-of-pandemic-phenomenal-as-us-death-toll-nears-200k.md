@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Factbox: What Trump's taxes are reported to show"
+    excerpt: "President Donald Trump has relied on heavy losses across his business empire to help nearly erase his federal income tax bill, according to a report on Sunday from The New York Times."
+    publishedDateTime: 2020-09-28T05:22:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-taxes-factbox-idUSKBN26J00L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26J00L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26J00L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200928&t=2&i=1535135271&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG8R00I"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump Says Coronavirus 'Affects Virtually Nobody,' As U.S. Has World's Highest Death Toll"
     excerpt: "At a campaign event on Monday, Joe Biden struck a different tone to the president, stating the number of dead cannot become \"background noise.\""
     publishedDateTime: 2020-09-22T07:53:00Z

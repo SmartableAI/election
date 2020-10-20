@@ -29,52 +29,77 @@ images:
     isCached: true
 
 related:
-  - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
-    excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
-    publishedDateTime: 2020-10-16T02:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3673997001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3673997001"
+  - title: "Biden town hall questioner worked as speechwriter in Obama administration: report"
+    excerpt: "A participant in Thursday night's ABC News town hall with Democratic nominee Joe Biden previously worked as a speechwriter in the Obama administration, but only identified during the televised event a"
+    publishedDateTime: 2020-10-16T19:05:00Z
+    webUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration"
+    ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Hill
+      domain: thehill.com
     quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/424acc15-845d-46b8-899e-cc82488a32a4-AP_Election_2020_Biden.jpg?auto=webp&crop=4016,2259,x0,y0&format=pjpg&width=1200"
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101520getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
+    excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
+    publishedDateTime: 2020-10-16T12:35:00Z
+    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/"
+    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 113
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
-    publishedDateTime: 2020-10-17T17:44:00Z
-    webUrl: "https://6abc.com/politics/fmr-president-obama-to-campaign-for-biden-in-philly/7107001/"
-    ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
+  - title: "Joe Biden snaps at CBS reporter for Hunter question: 'Another smear campaign, right up your alley'"
+    excerpt: "Democratic presidential nominee Joe Biden snapped at CBS News reporter Bo Erickson Friday night for asking about a New York Post report that the former vice president described as a “smear campaign.”"
+    publishedDateTime: 2020-10-19T14:28:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
     type: article
     provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 69
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 61
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
-        width: 1280
-        height: 720
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/biden_cbs_c0-0-900-525_s1200x700.jpg?18fe2bf8ee3c941346c84a9d9287e8c0f15139e7"
+        width: 1200
+        height: 700
         isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+  - title: "Executive Dysfunction: A Clinical Evaluation of Joe Biden’s Cognitive-Linguistic Deficits."
+    excerpt: "As America’s day of decision draws near, the only person who believes Joe Biden’s cognitive-linguistic skills are within normal limits seems to be Joe Biden. Even Democrat media partisans like Andrea Mitchell,"
+    publishedDateTime: 2020-10-13T23:41:00Z
+    webUrl: "https://humanevents.com/2020/10/13/executive-dysfunction-a-clinical-evaluation-of-joe-bidens-cognitive-linguistic-deficits/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
+      name: Human Events
+      domain: humanevents.com
+    quality: 45
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
+      - url: "https://humanevents.com/wp-content/uploads/2020/10/construct.png"
         width: 1920
-        height: 1080
+        height: 642
         isCached: true
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "twUVk+X6rDK0ofL5/+MepIgxg00BPKrkMnQHkEJ8nqr0N3BUfkqth2b1Bf50i5Azzx7RVlKMQXCnhJfmZJt4oJXcdYCKn7vrYjtZBwARTNZXayTJfOZ9+WXMywb3IhzIeOjobmnjt7jQHcgk6WDwwcifhRFVw+ZGN8vNo1asA7D3DCTWblVUNI3qlwha8522kElg2ek8uaJWe7wxfqU94cw9ZiwqXrecOjohKTCxOUQY1M/c9o2+c25wjYYJwhPirEjEcZVEv/zD82ZXaF9JhC4B8hY9G4E5AnoFmD/gjuIjCKfdEdI7CjceaHP72TVI73FrWESMirAN0FpTZV2KfeirIaHfW71DdsE8tbKCmZI=;3rf9Dmv7CtIGXo+D0hbt5A=="
 ---

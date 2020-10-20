@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Beyoncé, Kerry Washington, Kamala Harris and More Celebrate What Would've Been George Floyd's 47th Birthday"
+    excerpt: "Today marks what would have been George Floyd's 47th birthday. In honor of the occasion, a score of celebs posted tributes to his life, his memory and his impact. Actors, public figures, politicians and activists all joined in on commemorating the day,"
+    publishedDateTime: 2020-10-15T05:43:00Z
+    webUrl: "https://www.kvue.com/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+    ampWebUrl: "https://www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+    cdnAmpWebUrl: "https://www-kvue-com.cdn.ampproject.org/c/s/www.kvue.com/amp/article/entertainment/entertainment-tonight/beyonce-kerry-washington-kamala-harris-and-more-celebrate-what-wouldve-been-george-floyds-47th-birthday/603-cdff26cc-6b54-4a85-a15a-c52638b58f77"
+    type: article
+    provider:
+      name: KVUE
+      domain: kvue.com
+    quality: 57
+    images:
+      - url: "https://media.kvue.com/assets/ETONLINE/images/c6234b46-27b0-423f-a452-2daa2c3e2498/c6234b46-27b0-423f-a452-2daa2c3e2498_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Kamala Harris in Florida: where and when will she campaign?"
     excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
     publishedDateTime: 2020-10-18T20:53:00Z
@@ -74,6 +90,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/qRV7rDp4P/qLM3z5/S08EigWQwF/X0Cj95LmjCE7SG2VurmIx3drrOsEtZKwmZsG/Q12C8kEKwW/9gPrH3t44JVITCN/TLmrLvTBLk4Xt0neqfOXoVRjK/KDSBU+Mn2oyCqsifvMchQLhuosBBbvuWs26l0swU/cj/VyH+iTETB6npkm5+Uu+Wrgz9V70zcQrZ7wPOhTT9/H/76t4GqZRQthOGF2wnJmh8hSilCiCaWAkBObBuv/pIDEYCnQ8nBMY7et8fCtK4mB8AlI/ZTSMJMthjk7ttRwBgiaGvAmTVW7T2+zFj/C67teQXdcbDVmvVf0zJAnWQtkixmRhX1LiKQeRUM35J89Ffi4b85O1g=;neI3gWExlobJnqwINUSigQ=="
+secured: "MjYYeOKsKOB28WNL9PN9w3jUwAOTv1k84aZ7rj3plEO43xR9aMKoL7A6X/S5z1rF8BVx6gLL1APGwRdsvHt8ue+YSw5PaT5Y3JNS6qaKQI1Dxp/lFVjhKtdjuFkMuljCyxwSPtxAm7WXL7q+68TtQeN8poPJqjq/9zsokNttF1u3lTLi2bIBZ6YodWKTvhTtf8vVFUwtpH70uvN2mcv60e+WbRkMgai8h8qEtK2FQrgjVU3uQSdcG9YNHZVahrp5V0/S/nNckgioUN/brNx4aBF67JdwwFF5kSRLbm++Jm9Obk21LCuSYzQQV6u7qmQZnGn79x8KXKHytE6hEoUkWhRUHaOJvYZ+dbnySmIqHoZWYeKLmE0Y1G4dtDyJCmhn/twja8IlvdIUbxWs3wvG6SppfcMbFeOx2+5FK5VM84UwphPep8HZkKCvqZRlfluZZ6AdCW+2nwlPi+Idsi+RZNYIU5mUgWjAyFvjjboAlOnPyjwy0uSpjCy5pFmMSthqD/8UDuL373b4N8UAYXQ6fw==;NJK14qWgjTkooEdpV+OfrQ=="
 ---
 

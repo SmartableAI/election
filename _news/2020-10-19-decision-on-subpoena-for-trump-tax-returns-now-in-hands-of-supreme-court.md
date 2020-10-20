@@ -399,6 +399,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump accidentally revealed a *lot* about his taxes "
+    excerpt: "Donald Trump is the only modern American president to never release any of his tax returns -- either while running for president or during his time in office. He's offered a series of explanations for why that is, including that he is under audit by the Internal Revenue Service and that his taxes are"
+    publishedDateTime: 2020-10-20T15:42:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2GF-5RRWif8/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/20/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/20/trump-debate-guthrie-questions-taxes-cillizza-the-point.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020082430-the-point-trump-accidentally-revealed-about-taxes-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court won't revive Democratic-led lawsuit over payments to Trump"
     excerpt: "The Supreme Court won't revive a lawsuit by Democratic members of Congress who argued that President Donald Trump has been violating the Foreign Emoluments Clause of the Constitution, which bans foreign payments to a sitting US president.\n    \n"
     publishedDateTime: 2020-10-13T15:48:26Z
@@ -428,6 +444,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200904115344-01-melania-trump-0903-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump cancels plans to attend Tuesday rally citing Covid recovery"
+    excerpt: "Melania Trump is canceling her first campaign appearance in months because she is not feeling well as she continues to recover from Covid-19.\n    \n"
+    publishedDateTime: 2020-10-20T17:07:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BojWy6hze4M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/melania-trump-campaign-rally/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/melania-trump-campaign-rally/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200612105925-02-melania-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -1100,6 +1132,20 @@ related:
     quality: 115
     images:
       - url: "https://media4.s-nbcnews.com/j/newscms/2020_42/3419431/201012-one-time-use-donald-trump-balcony-cs-156p_6979ef6045902df3c5ed19163dc27bc1.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Where did the Trump campaign's $1 billion go?"
+    excerpt: "A GOP strategist said, \"You could literally have 10 monkeys with flamethrowers go after the money, and they wouldn't have burned through it as stupidly.\""
+    publishedDateTime: 2020-10-20T17:08:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/where-did-trump-campaign-s-1-billion-go-ncna1244023"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -1947,6 +1947,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
+    excerpt: "Democratic nominee says Americans are ‘tired’ of president’s lies over Covid"
+    publishedDateTime: 2020-10-20T17:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/20/donald-trump-joe-biden-us-elections-debate-coronavirus-covid-19-fauci-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 131
+    images:
+      - url: "https://i.guim.co.uk/img/media/a74c21eb71b23eab9149e761ce5523336c18ee62/697_678_3211_1927/master/3211.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=caf6831cf2af31c4a6d108308219a8ae"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Politics professor previews Pence-Harris vice presidential debate"
     excerpt: "COVID-19 safety protocols are being stepped up ahead of the first and only vice presidential debate in Salt Lake City Wednesday night between Vice President Mike Pence and Democratic nominee Senator Kamala Harris."
     publishedDateTime: 2020-10-07T16:07:00Z
@@ -2650,6 +2666,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 122
+  - title: "New in the polls Tuesday: Race narrows in North Carolina, Florida; voters nationally favor Biden over Trump"
+    excerpt: "Democratic presidential candidate Joe Biden is pulling ahead of President Donald Trump — but it continues to be overwhelmingly close."
+    publishedDateTime: 2020-10-20T15:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/20/2020-election-race-tightens-nc-florida-biden-trump/5989550002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5989550002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5989550002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/04/08/USAT/61d72c12-07a1-4898-9b3a-36c24c8d7a8b-trump_biden.jpg?auto=webp&crop=2399,1349,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'I'm speaking': Kamala Harris curbs Mike Pence's interruption in vice presidential debate"
     excerpt: "Sen. Kamala Harris swiftly reclaimed her time when Vice President Mike Pence interrupted her at the vice presidential debate."
     publishedDateTime: 2020-10-08T11:29:00Z
@@ -3865,14 +3897,14 @@ related:
         isCached: true
   - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
     excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-    publishedDateTime: 2020-10-20T14:00:00Z
-    webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
-    ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
+    publishedDateTime: 2020-10-20T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
     type: article
     provider:
-      name: Wichita Eagle
-      domain: kansas.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 98
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
@@ -5089,6 +5121,22 @@ related:
         width: 800
         height: 412
         isCached: true
+  - title: "50 Cent Would Rather Endorse Donald Trump Than Let Joe Biden Raise His Taxes"
+    excerpt: "Cent is officially the latest celebrity to hop aboard the Trump 2020 train ahead of the presidential election next month. The rapper shared a screenshot of an infographic from the CNBC show Power Lunch on his Instagram account on Monday displaying the top tax rates by state under Joe Biden's suggested tax plan."
+    publishedDateTime: 2020-10-20T16:51:00Z
+    webUrl: "https://www.vanityfair.com/style/2020/10/50-cent-endorses-donald-trump-joe-biden-tax-plan"
+    ampWebUrl: "https://www.vanityfair.com/style/2020/10/50-cent-endorses-donald-trump-joe-biden-tax-plan/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/50-cent-endorses-donald-trump-joe-biden-tax-plan/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 87
+    images:
+      - url: "https://media.vanityfair.com/photos/5f8f0243faf1b82d3425a7bc/master/pass/50.jpg"
+        width: 2000
+        height: 1338
+        isCached: true
   - title: "Kamala Harris: Biden win needed to secure pre-existing condition protections"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that the presidential election is directly tied to whether or not people will continue to enjoy insurance protections for pre-existing conditions under Obamacare."
     publishedDateTime: 2020-10-20T07:12:00Z
@@ -5342,6 +5390,22 @@ related:
       - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-42-1602990161.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins | Raleigh News & Observer"
+    excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
+    publishedDateTime: 2020-10-20T11:00:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/election/article246502245.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/election/article246502245.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 85
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump Demands Bill Barr Investigate Unverified Hunter Biden Story Before Election: ‘Needs to Act and Act Fast’"
     excerpt: "During a Fox & Friends interview, President Donald Trump demanded that Attorney General Bill Barr investigate his opponent's son based on an unverified story that even Fox News refused to run."
@@ -7325,6 +7389,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Jacksonville, Florida"
+    excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Jacksonville, Florida, voter mobilization event. It was the state's first day of in-person voting."
+    publishedDateTime: 2020-10-20T17:21:00Z
+    webUrl: "https://www.c-span.org/event/?477126/c2020-sen-kamala-harris-dca-campaigns-jacksonville-fl"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 47
   - title: "User Clip: Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
     excerpt: "Joe Biden Lies to Seniors About What Trump Said on Coronavirus, Veterans"
     publishedDateTime: 2020-10-13T23:27:00Z

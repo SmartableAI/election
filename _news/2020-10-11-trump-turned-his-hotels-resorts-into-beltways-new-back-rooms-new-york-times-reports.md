@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Moved Millions From Jointly Owned Hotel To Campaign Tax-Free, Times' Tax Documents Suggest"
-    excerpt: "A New York Times report showed that $21 million was billed to a shell company for expenses right as Donald Trump needed cash for a floundering campaign, and right before a $10 million surprise campaign boost."
-    publishedDateTime: 2020-10-10T12:28:00Z
-    webUrl: "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793"
-    ampWebUrl: "https://www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-moved-millions-jointly-owned-hotel-campaign-tax-free-times-tax-documents-3059793?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/03/24/no-gambling-on-health-the-hotels-of-the.jpg"
-        width: 1024
-        height: 597
-        isCached: true
 
 secured: "6hrCdrAkKPwcUM/lwD4JSg5F0u+2WulTFrLjVr2RYBsnfUp3bz6fGZherFtqJs/NFs+cSPqf6lRhW14Tq+w7gWuXkZjqzPytSnjOXcncK1tmdiqJd9+x8gD/ZmRppgPEsraBtQu1x4L+CGPEFQ+ugYDVOLB/+4P9wdzcG2bmIxGC/EoSnV2XDA7TvnM9dhmB6yMVyEChbD6QWPamAdkkHgTycOGDkzPQvrPjVi6/ODC5cTRdzF/HIeYv7KhyARX7FbTALkMMR1nF+BBCqe38mPNCSDjZI0FMYHGQ2M+kffBMes1X/xHI3TKV2I0XRr9mOCqMATneu8ljUtTDm+ku+FRYWkCtGPMrDPD8JSo8XkU=;ENPA4ljuSIc7N+mSYcybUw=="
 ---

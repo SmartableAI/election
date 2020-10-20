@@ -123,22 +123,6 @@ related:
         width: 2400
         height: 1550
         isCached: true
-  - title: "Asian Doll Catches Heat For Endorsing Donald Trump For President"
-    excerpt: "The rapper apologized for offending anyone, but stood by her words. The President has millions of supporters, but for those who stand behind Donald Trump, the backlash can be swift. In less than one month,"
-    publishedDateTime: 2020-10-13T05:07:00Z
-    webUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 75
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602564536_352e5e27f27c7df6d612af935bc4631e.jpg/c2d42380cafbff355aec3f821f34215f/1602564536_042399b7a1c110bb889ca4458ce0e5c4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "QmoKV+vgM5VRxxNy4F2mLUcBqGBc9MrHYw/7iPyzmQhceTGM1on4+RFJTgJicZN4DRlvPnav0XbJgzahnZwWiL/eEFx+OZijC9gj4bWIKYqVHz4uEG747wec6bInTupS3mIZ59C430FpRVrqctDNarz0SZrOdFunY4KLH7DKdJjyC73Qiv1XDo7FWwOfhNTbVCWZSb7yYFQZAagLcNxpVKeHjUZm+PuRY3uAxFlLMqbHJ8Tkw9QhxBlOj4nu38FZbGOcDAoQkw4J5o1PNFzJQyKrAhTJ82eOdZIBe50hir2sv5KAfs65b2M/g35FO4ROStQyrIq8HITb8D//73bbuS9Are4GxO6bmvhzP/9uHm4=;71FoAETHvUESW6KQc3IrJA=="
 ---

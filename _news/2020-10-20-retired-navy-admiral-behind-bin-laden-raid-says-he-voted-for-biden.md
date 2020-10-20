@@ -47,6 +47,22 @@ related:
         width: 780
         height: 551
         isCached: true
+  - title: "Watch live: Biden holds town hall event"
+    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
+    publishedDateTime: 2020-10-15T22:46:00Z
+    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
+    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "What we know – and don't know – about Hunter Biden's alleged laptop"
     excerpt: "A central figure has contradicted himself about his actions and motivations, raising questions about his account."
     publishedDateTime: 2020-10-15T22:04:00Z
@@ -175,6 +191,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Joe Biden speaks on health care in Michigan"
+    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T20:56:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
     excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
     publishedDateTime: 2020-10-16T23:49:00Z
@@ -288,6 +318,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "8kUgbLnDsuYr5g327svP0Atch2i0jvkOHa+osPuL9kMlTXffOqQSFdSDAWlzxqCW7clPiXM1clB1PagYDv1Pn7XPBcDxzUQ2hDKoqzd1RgB32EWol1j3lJSlMklrKMVnZQW3RirrVV1HRqG/nRUA6Y4y7F9WIVDu85/lHLzHGcpVDcvF5bfBPbzxKPQbMhrP6b/zW0QfGpKQnoSohtQRWtuXEWg+uHru5v46XuNXadPuLIJZBHWOzZyoCqFkTfXBAodyFvxz7qUz4x84ewS70qFI2yWfcO5j1MX5TFG4gMwZpd54/yMi16qEPNA/hqL8RFoyrn+m0c280rrM7WA50hVOClVkWtVKuV2fmACR8Is=;a2/a0JtEF4HhdLA/36ViXA=="
+secured: "thcf/RwqdCBxxJFq0Etk2lHwMgn/kxANN8XbUYzlgNfFBazqZEtaMV9G3aVH6OS0AwrsY/tSvCcH7jafWz8uq+9ZA/xJCKcVkPAhKa8Y8MbgkWj6q8H3AhI4Hn0wOCunQqMPtdZOFWTV1oLRZCcgvASprakGuTbsN0ePu/udJQRIY9GilM/8fe7t0DIjWPyyVu5pzlxS9UO6VxxM8S3cW75hRYh81+7iOfZdWFBBL5paTJU0hFjlaCSJjVHmbFXN5Ig484zIraIKfqkoZr7P+KrQ58hPXOL1FRiSwNCtNPb8ybFUwUB1Fzd/aXs7lPnnzCEU5s7qmyLEyTsyv50R/NoZp4NfsN6ZzpiD/u9wze1OPxD0l6ZUL9gvMdh0DulNqpXP8cH3DJk2Dn7x5utoTphXE5j44qhTGw46FkSKLorjnWIAjVcomvFgAiQFTzyBFLgXXfPFN1pJdBtNqxYNhIu4KN3DaRe4jD2U9kNyeDYRK4cY3mlExYPp1t5b3Fng6MXfLE+gYB8+6oJy0CzVIg==;L8pBuUMCtwEvbnM73MfVFQ=="
 ---
 
