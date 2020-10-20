@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1650
+heat: 1670
 published: true
 
 provider:
@@ -780,6 +780,22 @@ related:
     quality: 132
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3419420/201012-mark-meadows-se-100p_ffeb1013c4c4127403a6cc52d2414c26.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Twitter removes tweet from top Trump Covid-19 adviser saying masks don't work"
+    excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers, which falsely claimed that masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site Sunday morning,"
+    publishedDateTime: 2020-10-20T00:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/twitter-removes-tweet-top-trump-covid-adviser-saying-masks-don-n1243841"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243841"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243841"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3421064/201018-scott-atlas-jm-0956_9068008567fcbb25af5a336daf35d123.jpg"
         width: 2500
         height: 1667
         isCached: true

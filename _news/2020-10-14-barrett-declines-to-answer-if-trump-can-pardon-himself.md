@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn"
 type: article
 quality: 175
-heat: 615
+heat: 675
 published: true
 
 provider:
@@ -60,6 +60,38 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017195213-03-donald-trump-1017-michigan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "There's no one left to rein in Trump's reckless rally strategy as virus rages"
+    excerpt: "The last time coronavirus cases were surging in the United States, President Donald Trump pressed his advisers to allow him back on the trail and in front of the massive rally crowds he believes are his political lifeline.\n    \n"
+    publishedDateTime: 2020-10-20T01:23:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RNhtfQOnKBA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/donald-trump-campaign-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/donald-trump-campaign-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019175506-donald-trump-october-18-2020-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DOJ says Trump acted in his official capacity when denying E. Jean Carroll's rape allegation"
+    excerpt: "The Justice Department said Monday that President Donald Trump had acted in his official capacity when denying a rape claim made by a longtime magazine columnist, and therefore shouldn't be sued personally for defamation.\n    \n"
+    publishedDateTime: 2020-10-19T23:26:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Hr6XYNRmO8k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/trump-jean-e-carroll-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/trump-jean-e-carroll-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200908194011-e-jean-carroll-june-2019-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -222,6 +254,22 @@ related:
       - url: "https://static.politico.com/3f/c2/9d577aa04e27942762efedc491ea/20201019-trump-biden-debate-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump taps 2016 brain trust to stage another stunner in 2020"
+    excerpt: "Corey Lewandowski, David Bossie and many others from Trump's first run have resurfaced to offer advice and reassurance to the trailing incumbent."
+    publishedDateTime: 2020-10-20T00:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-2016-campaign-staff-return-2020-elections-430186"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/34/2f/37a2bdae4e069ad2868adf02f2fa/gettyimages-650653526.jpg"
+        width: 4834
+        height: 3221
         isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."

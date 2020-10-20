@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Barrett allies use ad with Biden, Schumer to promote ‘Ginsburg Standard’"
-    excerpt: "Supporters of Judge Amy Coney Barrett’s nomination to the Supreme Court are promoting the “Ginsburg Standard” of not answering questions about hypothetical cases, as Barrett’s confirmation hearings get underway in the Senate. "
-    publishedDateTime: 2020-10-13T17:01:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kTbLpIZ0UqA/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard"
-    ampWebUrl: "https://www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/barrett-allies-use-ad-with-biden-schumer-to-promote-ginsburg-standard.amp"
+  - title: "Biden backers have looming sense of deja vu"
+    excerpt: "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton."
+    publishedDateTime: 2020-10-20T02:34:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dvqIv88vUQ/biden-backers-have-looming-sense-of-deja-vu"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7c204b7-5802-4d50-ad0a-59e6e92a598b/54ad03db-d03d-4987-b285-b56ea5d7d5e9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20291811263827.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "0LTJdGu6s/Rr/Is1Z9pNrhyWuijdUnY4ly8Ma6UBX3QnOjLWuUK9v4eSD/dqxBh2aclfsv0BA6w0SWw4a3J8/JyZmSTI569PegWtlWjnRr7xmyFJsP4q6VA+5OVDBy5J2Ao0TN8i2jivRUQ86SjAkQU0Pakp2MFLMz8FRLaH5kEpwOyiEeLf8EWogaFfFLHjHMsRszbehQeRGDKlXTuarHJe2JeWsiaLjItD9H0aqBwWlax8WVU79QusFTJLdGi1yU7cAgch+ePISFAnGtf9jtYfrVO7OmWxo1fB3/dQMIXmdlSRP79Ei3QgQOIdue8Vjx9bU4uDSHpbjvjv3UpzTHQ7szzQIzKkCyRlHsZEf1Q=;APE6MRPcZS3/7vix3DxCbg=="

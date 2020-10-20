@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump hits ‘whatever’ in his long COVID retreat"
+    excerpt: "Trump has the “whatever, leave us alone” voters squarely on his side, but what about other voters?"
+    publishedDateTime: 2020-10-19T22:00:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jwNULzOOXfc/trump-hits-whatever-in-his-long-covid-retreat"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-hits-whatever-in-his-long-covid-retreat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chris-stirewalt.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Appeals court rejects Trump's effort to block enforcement of tax returns subpoena"
     excerpt: "The Second Circuit Court of Appeals Wednesday upheld a lower court ruling allowing Manhattan District Attorney Cy Vance's office to enforce a subpoena to get President Trump's tax returns and other documents dating back to 2011, rejecting Trump's attempt to block the effort."
     publishedDateTime: 2020-10-07T15:03:27Z
@@ -78,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/81360eac-8bd9-45d6-ade4-a674a7097bb2/99c19865-80a4-493c-a3bb-66c2aedb0f8c/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump slams Cuomo over 'apology tour' as NY governor warns public should be 'skeptical' of COVID vaccine"
+    excerpt: "President Donald Trump on Monday slammed New York Gov. Andrew Cuomo for taking a so-called “apology tour” to promote his book on leadership while the coronavirus pandemic is still raging and crime has been steadily increasing this year. "
+    publishedDateTime: 2020-10-19T23:06:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pk3ZwRzgT2A/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-cuomo-over-apology-tour-as-ny-governor-warns-public-should-be-skeptical-of-covid-vaccine.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289680956035.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "First lady Melania Trump confirms negative COVID-19 test, says son Barron tested positive but is now negative"
     excerpt: "First Lady Melania Trump revealed Wednesday that her 14-year-old son with President Trump, Barron, contracted coronavirus but has since tested negative."

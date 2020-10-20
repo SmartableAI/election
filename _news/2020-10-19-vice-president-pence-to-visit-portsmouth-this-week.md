@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wmur.com/amp/article/vice-president-pence-to-visit-ports
 cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/vice-president-pence-to-visit-portsmouth-this-week/34407701"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vice President Mike Pence scheduled to visit Jacksonville on Saturday"
+    excerpt: "Jacksonville FL — Vice President Mike Pence is scheduled to make a campaign stop in Jacksonville on Saturday. Pence’s communications director Katie Miller tweeted that Pence would also be visiting Tallahassee on Saturday as well. Details about Pence ..."
+    publishedDateTime: 2020-10-19T22:58:00Z
+    webUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/"
+    ampWebUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
+    type: article
+    provider:
+      name: WOKV
+      domain: wokv.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
+        width: 3686
+        height: 2658
+        isCached: true
   - title: "'It's on, North Carolina': Vice President Pence greets supporters in Selma"
     excerpt: "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,"
     publishedDateTime: 2020-10-16T21:38:00Z

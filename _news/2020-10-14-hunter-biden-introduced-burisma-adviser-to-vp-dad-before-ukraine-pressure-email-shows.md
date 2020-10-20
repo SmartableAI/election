@@ -269,6 +269,22 @@ related:
         width: 4563
         height: 3042
         isCached: true
+  - title: "Meadows teases Biden family connection with Romania to surface 'in the days to come'"
+    excerpt: "Hunter Biden's overseas business interests extended to Romania as well as China and Ukraine, and Americans can expect to learn more \"in the days to come,\" White House chief of staff Mark Meadows suggested on Fox Business Network's “The Evening Edit\" Monday. "
+    publishedDateTime: 2020-10-20T00:14:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-OuH6jPgLuM/mark-meadows-hunter-biden-romania-burisma-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-hunter-biden-romania-burisma-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-hunter-biden-romania-burisma-emails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202010/2339/854081161001_6202930902001_6202925792001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden mum on Hunter Biden emails, alleged knowledge of son's overseas business dealings"
     excerpt: "Democratic presidential nominee Joe Biden has remained mum on questions about his knowledge of his son Hunter’s overseas business dealings, which were discussed in a series of emails purportedly found on a laptop belonging to his son."
     publishedDateTime: 2020-10-19T16:02:35Z

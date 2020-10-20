@@ -253,6 +253,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
+    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
+    publishedDateTime: 2020-10-20T00:57:00Z
+    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
+    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 70
   - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
     excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
     publishedDateTime: 2020-10-14T21:18:00Z

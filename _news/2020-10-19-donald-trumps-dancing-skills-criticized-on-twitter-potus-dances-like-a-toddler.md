@@ -3,8 +3,8 @@ category: news
 title: "Donald Trump's Dancing Skills Criticized On Twitter: POTUS ‘Dances Like A Toddler'"
 excerpt: "Several Twitter users including Jason Alexander criticized President Donald Trump after he was spotted dancing at a rally over the weekend."
 publishedDateTime: 2020-10-19T06:42:00Z
-originalUrl: "https://www.ibtimes.com/donald-trumps-dancing-skills-criticized-twitter-potus-dances-toddler-3064335"
-webUrl: "https://www.ibtimes.com/donald-trumps-dancing-skills-criticized-twitter-potus-dances-toddler-3064335"
+originalUrl: "https://ibtimes.com/donald-trumps-dancing-skills-criticized-twitter-potus-dances-toddler-3064335"
+webUrl: "https://ibtimes.com/donald-trumps-dancing-skills-criticized-twitter-potus-dances-toddler-3064335"
 ampWebUrl: "https://www.ibtimes.com/donald-trumps-dancing-skills-criticized-twitter-potus-dances-toddler-3064335?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trumps-dancing-skills-criticized-twitter-potus-dances-toddler-3064335?amp=1"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 682
     isCached: true
 
-secured: "o87ZUs4yxYeQAM/s92qsSbjpxAoTUqjwDQlWqXuL6sOH+Ouq9llV5F1X7MYPEtCdp81MPvf/WgIhVvi4+h5RVaU/LTSGQhy3EqlWCR8Aih7hDThmMBEl8CwqcQ2otyMxm5qKQZZtHhOvL6nbGYF/+IvfX3xSZyR8gF6hVm82zTX7ol4BH+mRbpA4dLMcrc5BcYWnlVypHso1gITZD7jMD+Sb+frhQxo2KH4R9W/DGRkYYUsEaTBnBdzriJ5ZO3sU0NnoR+PFyMWQ22KFxjmctaaGurzZMKSsGEBTRkNqCLNhboWH+WnSu3O1NpJmVtZolCl/rIMi1u+RY5nSUsRPXTSKmBTDsVjLR3YYqCTrPxedLSh7uS0t6W4vUVYniJqtxrVvnUcTQzbsP5ycM/C1Kn+PEzCZBgUfKyWF9tXVtK0bTKaY68guwF/uUB4ESdp2HeU7LVZgrROuGHX7QjU9y+2YgdlGAkNU0Q9lM81MQ5A1iqJsgQNLtQvEkm+mEmTOkZOkcIdpGYkQw0rE4gtFsw==;HvaHIx73yt180gmFhSropA=="
+secured: "Mq1qz1DnsZhlZA51wQU8VBQCWyVW9826zapAZk+rEN+a6Tl5w0wqReKMX2LFRmqMdrQMY+/YzYUQZiUPJVS7UCIniqD2Rtdb8QV34SP2SpUiLSKqgrUopM1+A+mPcTDKmX9h9yyFPLUgO2EGPT569ZyItgVNQHVQw2PYKYhHIIgE94m6k9UlLvWChrji/ycyOrBEONn/OE0E0wyaZslty5VVqw+hQeza4PROlbOaqC2KsTYjTQTpX2vaPPadkN7xo+9m3lwG6F9XDiqG08Ht+prJVr2mEe4aHJZ7wux4KJJSqRnnR7jpA32VPDN1dVBCvbBSW3DruAa9d7Pkn+aFUrvsGYUujpfvs3U9Kyf/h3U=;Gp0u0ZNvHKD3EwYV0X6+8w=="
 ---
 

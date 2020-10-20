@@ -272,6 +272,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Donald Trump has a problem: White women in Pennsylvania"
+    excerpt: "The 71-year-old resident of the battleground state of Pennsylvania, a registered Democrat, voted for Donald Trump. It wasn’t that she was unhappy with former President Barack Obama: She voted for him,"
+    publishedDateTime: 2020-10-19T20:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/82/a9/4165163c4bf894339ab3ce59e328/201019-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Donald Trump Is Losing His Touch. So Is the TV Producer Who Shaped His Image."
     excerpt: "Mark Burnett helped turn Donald Trump into a national figure with “The Apprentice.” But since 2016, his impact “has kind of gone bust.”"
     publishedDateTime: 2020-10-19T00:07:00Z

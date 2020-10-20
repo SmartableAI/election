@@ -263,6 +263,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
+    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
+    publishedDateTime: 2020-10-20T00:32:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/23/PPHX/04596669-c723-4e59-b8ed-0338c90e3587-GALLEGO.png?auto=webp&crop=924,520,x1,y19&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brookly
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/"
 type: article
 quality: 135
-heat: 136
+heat: 135
 published: true
 
 provider:

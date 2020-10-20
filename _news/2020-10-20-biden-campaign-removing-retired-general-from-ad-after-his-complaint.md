@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
+    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
+    publishedDateTime: 2020-10-20T00:32:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 61
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/04/23/PPHX/04596669-c723-4e59-b8ed-0338c90e3587-GALLEGO.png?auto=webp&crop=924,520,x1,y19&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z
@@ -291,6 +307,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "QosWq9dz7l3pEVz8yvhbVCOjB72mGVWiZC/TwRJRHtNbc3+KMFEv0Wq6+3g+pQHKz7qPZDA2PwiCi3j3jpcLZRv/ZCNMpGCwbXK8pJXBja3vZqTKNTogVGem2+BY4vB75GZ1tOvL3vAWsnWx4jW6N4lVul+Z6LYUCtJBf20fgm2O/ENOf9E5GxN4ZgpEMHUcAOI5cescjqaU10L3+MI7SIgM/wYMDdNLi/cyisiLHAX3Hlkns4Ag0tHEjBk1LfMcuY+jo2ze7vfTffq9LqUg+I+0dXOMHulS/hMIwsZIOcVLuTeDxHgYR8QK0DB6J8eWc1fYavyssPuQBaOPz/nN/iR+oKNjMnqR6pPFhzdn97A=;/mniS8RejLpX69intxJ9DQ=="
+secured: "KDYC442A4TjMV5GOfqeEZYpNhpxxDmJaecX1mOeXcnWISShcl/RsZ68eYqPCy4Wbxd2GAjAi9cJF5CP0hNPHyhonl7SxfCIc+UmJQgXiefMM/Wp7R8YntHkSlzcfcvpIH82lV7F9+n0UrVrLYFzIEWhzpTo5whTsxleE1OBl/TPfk3qyf8PRuQxMve3bVDOYYRCXE7dUfyATeFKlUVuSOwvHFHVfvUcAniOO0E8NHDdWTMdCvqnfDHJMFJEoLNtO5LuSSRXok9Mztqmvr7qcpAjl2Wub/f6sfJVMl0H8EQgx2dNHmctQThm+WKPM8+HV0Qmwo9WwQUfz1w004QLnErNzXaGek+O/RlkHESUGaoztu1CdAyqiS8MRKMLyzIb1nppjeejeuPMnxxcxDRFdV0InxnzuWXhGsDpftXQisC9UW1rEmXetlylwemF8UfXHRL98fyUPnZZlcAaeA9Pzb8Wu970LaNAOgqNq56xp2ItN7aLGcFgJ2lJwxCmNHcTx4tDBt9+EvlRzk/XA9wGM5Q==;uB2ir5VnecsVpnymzXybeA=="
 ---
 

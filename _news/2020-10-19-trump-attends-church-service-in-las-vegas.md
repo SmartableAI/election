@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-atten
 webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/"
 type: article
 quality: 105
-heat: 106
+heat: 105
 published: true
 
 provider:

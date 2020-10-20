@@ -79,6 +79,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Debate commission says it will mute Trump, Biden while opponent talks"
+    excerpt: "The Commission on Presidential Debates (CPD) will mute President Trump and former Vice President Joe Biden during the two-minute response times allotted to their opponents for commenting on topics during Thursday's debate in Nashville."
+    publishedDateTime: 2020-10-20T00:04:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWFsn9AP8iU/debate-commission-mute-rules-trump-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/debate-commission-mute-rules-trump-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/debate-commission-mute-rules-trump-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
+    excerpt: ""
+    publishedDateTime: 2020-10-20T03:55:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pBtZirhE0ME/trump-tells-arizona-rally-bidens-lucky-barr-hasnt-locked-him-up"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tells-arizona-rally-bidens-lucky-barr-hasnt-locked-him-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tells-arizona-rally-bidens-lucky-barr-hasnt-locked-him-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z
@@ -92,6 +124,22 @@ related:
     quality: 188
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfe6df57-c0d8-4250-8af5-e4aaabe52f66/30215794-7824-49e4-8e4e-ca9f5753628f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump claims he could out-raise Biden by calling Wall Street, energy execs"
+    excerpt: "The president he has avoided doing so because he would be “totally compromised” by the donors."
+    publishedDateTime: 2020-10-20T00:59:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4Lg9l5Dzy8M/trump-fundraising-biden-exxon-wall-street-energy-arizona-rallies"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-fundraising-biden-exxon-wall-street-energy-arizona-rallies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fundraising-biden-exxon-wall-street-energy-arizona-rallies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9bd0c668-2bcb-4147-b32b-86ea3ab8d555/4d16ccff-2265-470b-a895-3813dc29f8ac/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

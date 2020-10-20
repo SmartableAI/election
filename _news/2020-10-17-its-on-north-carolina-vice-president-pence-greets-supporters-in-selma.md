@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence scheduled to visit Jacksonville on Saturday"
+    excerpt: "Jacksonville FL — Vice President Mike Pence is scheduled to make a campaign stop in Jacksonville on Saturday. Pence’s communications director Katie Miller tweeted that Pence would also be visiting Tallahassee on Saturday as well. Details about Pence ..."
+    publishedDateTime: 2020-10-19T22:58:00Z
+    webUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/"
+    ampWebUrl: "https://www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wokv-com.cdn.ampproject.org/c/s/www.wokv.com/news/local/vice-president-mike-pence-scheduled-visit-jacksonville-saturday/UEIWENOENNCWBONYS5TRQQ37UA/?outputType=amp"
+    type: article
+    provider:
+      name: WOKV
+      domain: wokv.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/23PKWX22FQ5XKKKYT7SOUCDWB4.jpg"
+        width: 3686
+        height: 2658
+        isCached: true
   - title: "Vice President Pence Delivers Remarks in Selma, North Carolina"
     excerpt: "Vice President Pence delivers remarks at a campaign rally in Selma, North Carolina. President Trump delivered remarks at a campaign rally in Greenville, NC, less than three weeks before Election Day and on the first"
     publishedDateTime: 2020-10-16T13:32:00Z

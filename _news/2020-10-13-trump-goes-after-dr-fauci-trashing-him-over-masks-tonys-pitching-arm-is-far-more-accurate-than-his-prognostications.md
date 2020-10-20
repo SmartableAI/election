@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: Trump Rally Crowd Boos Dr. Fauci as President Calls Him a ‘Nice Guy,’ Then Trashes Him as ‘A Democrat’"
-    excerpt: "President Donald Trump supporters erupted into boos at his Thursday rally after the president called Dr. Anthony Fauci a \"nice guy\" before trashing him as \"a Democrat.\""
-    publishedDateTime: 2020-10-15T19:32:00Z
-    webUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/"
-    ampWebUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
+  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
+    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
+    publishedDateTime: 2020-10-13T15:03:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 56
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Outnumbered-Overtime-With-Harris-Faulkner-01_54_30-PM-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "PJ+t4oo3AIiRJ2d27YkNoVvGMnXHbV3VQDUumVtZ/A3U9CEKodvk7HBqmLgoR9+CVfPfoONwBcvEJcJOMENo7TXM8dldYQa6/3gX7shw+D1Ru07y3xd3dP2IO/KlzgEKVDZF+4DbiJ+eoPGro+tQAxmYQGIExmYKiTASkiFdHpOXJ2QcvwiexI8vfacwYx4bsiwuKzkHM6FSFTccsVRZe4824o+7znpLBZvY1QgbUKAk4v83KB5xoMYkCoGGjFXWi+4HW6s1FE5WzdPICVUa/UaUqzmszZ+caWM5MH0pVKRmQA6oII3Tywrh6LUUp+g9VgJ9kXXW+iMXmej+KyLTQqkBORGUr59ORSToD8QMDWI=;PCqc3Rckx5Wj4aBvrM+qkA=="

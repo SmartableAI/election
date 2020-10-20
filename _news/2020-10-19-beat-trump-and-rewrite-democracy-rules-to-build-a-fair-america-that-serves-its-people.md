@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
 type: article
 quality: 118
-heat: 178
+heat: 158
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
-    excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
-    publishedDateTime: 2020-10-19T21:25:00Z
-    webUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814"
-    ampWebUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
-        width: 1024
-        height: 681
         isCached: true
 
 secured: "kLoEx65xhZ8LKTEWcIji3w4gplyxrQPQePY9B0jr1m1RnwuZLwQT2+r5cGn7m3tj1BHV8hUqjHK4Zf2W9wEwiauQdB4AHO+2P1p7B64bqWx+7SHCyTeMWvAy/RU7CI7BJQJsvoikbDzNpyeQRCaN/spiU7I9juKcbDJX8kbRbAMTao4IW8x9kWgt8Q7uzbgoNleLrYQ+3YRWWQPqOpY/i/KlVTxjGza6yCqKkoM+yumRL47JjLVvFdpv79DtcBCVRso6JUKgcUc2HU4F3u0cR8PXzj9IYx4z7FX3lsnBoVVfeE4QbkNhzReWX6K47wO4Ewqblf8rCQNjV5DCPhgoE674b686ZGaCVTQSc88BFCoWAGOTA45TtYlC+tyVd7mRhtKHuz4/hmPLkN+8MtzwpbUrF5JWt8Dz9yj83NeKaYjQvkah7S4dcf23cRKlKrmMKS56hP1MaKrBDbReh5OduqgN45O1ymIsE7MK7pLv+ngHX1Mjjn2DDo/fb6ZmjligYw7qObDjVFzkEdcOP4+4kQ==;QZIBJEQc6wyGuRMJUu1O9w=="

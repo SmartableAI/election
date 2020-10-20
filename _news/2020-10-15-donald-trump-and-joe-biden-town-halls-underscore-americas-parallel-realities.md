@@ -415,6 +415,54 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump Holds Rally in Nevada After Biden Campaigns in North Carolina"
+    excerpt: "Joe Biden is vastly outspending President Trump in TV advertising, maintaining a nearly 2-to-1 advantage on the airwaves. The Trump campaign is projecting a confidence that doesn’t match the difficult reality his team is grappling with."
+    publishedDateTime: 2020-10-20T00:37:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/18/us/trump-vs-biden"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/18/us/trump-vs-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/18/us/trump-vs-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/18/us/politics/18elections-brief-trumpchurch/18elections-brief-trumpchurch-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump ties Fauci to Biden — to Biden's delight"
+    excerpt: "The Democrat’s campaign seemed gleeful to be linked with someone who has continually rated as one of the most trusted voices on Covid-19."
+    publishedDateTime: 2020-10-19T22:31:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-ties-fauci-to-biden-430217"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-ties-fauci-to-biden-430217"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-ties-fauci-to-biden-430217"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/60/5d/07a88c7b468f8bb48b6353a2aa86/ap20266752991184-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump and Biden will have mics cut during opponent's answers in final debate"
+    excerpt: "Debate commission institutes microphone muting for Trump-Biden debate Sections TV Featured More from NBC Follow NBC News President Donald Trump and Joe Biden will have their microphones cut off during Thursday’s final presidential debate while their opponent delivers initial two-minute answers to each debate topic,"
+    publishedDateTime: 2020-10-20T00:48:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/trump-biden-will-have-mics-cut-during-opponent-s-answers-n1243954"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243954"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243954"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3417472/201005-trump-biden-mn-0820_f94f10961603bcd1ed00b4ab51abc89d.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "The Trump Taxes Story Exposes a Glaring Hole in Biden’s Criminal Justice Platform"
     excerpt: "A series of recent reports on President Donald Trump’s finances raises reasonable questions about whether Trump may have committed criminal conduct in the course of tax evasion. The fallout also exposes a glaring hole in Joe Biden’s criminal justice platform—namely,"
     publishedDateTime: 2020-10-10T12:29:00Z

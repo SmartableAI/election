@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 type: article
 quality: 185
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham considers subpoenas for Twitter, Facebook execs over Hunter Biden emails"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., is considering subpoenaing social media executives over their platforms' role in suppressing news about the explosive, alleged emails involving the former Vice President Joe Biden's son Hunter."
+    publishedDateTime: 2020-10-19T22:26:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LuAQZD6buNM/graham-subpoena-twitter-facebook-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b248eb-9792-4412-9b00-fb894179f113/d012e81f-4403-4a19-bf7b-657194a73d60/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

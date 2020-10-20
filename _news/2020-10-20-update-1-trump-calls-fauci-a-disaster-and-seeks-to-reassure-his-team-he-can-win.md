@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
 type: article
 quality: 120
-heat: 160
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
+    publishedDateTime: 2020-10-20T00:34:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
     publishedDateTime: 2020-10-19T16:25:00Z
@@ -47,21 +63,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
-    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+  - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
+    excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
+    publishedDateTime: 2020-10-19T21:25:00Z
+    webUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814"
+    ampWebUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 86
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
-        width: 800
-        height: 430
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "oOOZUGtwzHM8luLLJ/RrHOpRtSZXR9NnrOwHzheAXCkgX1pU/ghx/lGoO1c9HxQzouTzxUqNj7/hJEe+xrcvXqwKeih+Q5JlR4O4Sb5kmXEpYYioAnomzJsCk+cjBRPizQ8MDwBG5sE8Few0GtONWo7IaPQ1tBMcTVrYs2oktzPpOePfx2GoHKzT1+zu75pBXOqrcAOWA+FAVdJtdGRm5yNesAz34YJMoUlaPuloJvnjy0ao8aoks6aDl4qaYX0E46Ya8GjYo/VCJRq2H+C9P9AnWwNz2bjBdD/m6T6qyW86L+qSJbhOR97aP3MHOKWnkB8CG2Rsp+LMpFb1ZzkicCFIQdQeojoP0d/tDIXLQ80=;aKi+lZqbrdV1pKywD/Pw6w=="

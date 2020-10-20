@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvani
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/12/politics/women-voters-pennslyvania/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -254,6 +254,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/15/world/15daily-1/15daily-1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Donald Trump has a problem: White women in Pennsylvania"
+    excerpt: "The 71-year-old resident of the battleground state of Pennsylvania, a registered Democrat, voted for Donald Trump. It wasn’t that she was unhappy with former President Barack Obama: She voted for him,"
+    publishedDateTime: 2020-10-19T20:14:00Z
+    webUrl: "https://www.politico.com/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/19/trump-white-women-pennsylvania-430165"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/82/a9/4165163c4bf894339ab3ce59e328/201019-trump-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Melania Trump slams former friend who wrote tell-all: 'She hardly knew me'"
     excerpt: "The first lady blasted Stephanie Winston Wolkoff's book as \"idle gossip\" and said she needs to look \"within\" at \"her own dishonest behavior.\""

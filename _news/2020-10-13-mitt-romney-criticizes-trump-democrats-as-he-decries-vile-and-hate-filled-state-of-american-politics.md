@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Joe Biden Slams Trump Criticism Of Dr. Anthony Fauci, The American People Are 'Tired Of Your Lies'"
-    excerpt: "Biden leaped to Fauci's defense after Trump referred to him as a \"disaster\" and the scientists advising the White House on coronavirus as \"idiots.\""
-    publishedDateTime: 2020-10-19T21:25:00Z
-    webUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814"
-    ampWebUrl: "https://www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-slams-trump-criticism-dr-anthony-fauci-american-people-are-tired-your-lies-3064814?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 86
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
-        width: 1024
-        height: 681
-        isCached: true
 
 secured: "kvuwDgGb6HulyAmQKzsQxcLkYV13ZT+9kBHoH/55JvjHlIQ5A7tlAoxHb10rBZfNFtm1gJSPuVsN3DMxMXRz7mO8iumCCz4JBULWQ6R8FhIBCLed3s7H0kdaak/Kvs2yHZBrU6oeXj8wkyVhs34cwgXdHPzG2r6kDUbmhQyAuT2pIgTkkrwVuBp8M1tr5pps1i6YfEb1HndISOZhOxW4y61+ujYfU3OmO9zyo8c1PoDxhkdFnW3Taw8+jpn4YeRxZwD//yQVedSYC09ZmaR7+YjgkzQbv1LFcJJjunQG+ZWdWJOby0mzjAJKyn0ojwNTZCA+io9qiJ2y0GXKM8cy2e1Lp29wTI+NNCQbR08BOAI=;OxhGTjT9YaZklU3PYoA/4A=="
 ---

@@ -631,6 +631,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Every Celebrity to Speak Out in Support of Donald Trump"
+    excerpt: "This week actress Kirstie Alley faced intense backlash when she voiced her support for Trump and tweeted about her intentions to vote for the Republican on November 3. Here are the president's other famous supporters."
+    publishedDateTime: 2020-10-19T16:29:00Z
+    webUrl: "https://www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320"
+    ampWebUrl: "https://www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1654848/kirstie-alley.jpg"
+        width: 2500
+        height: 1671
+        isCached: true
   - title: "Supreme Court To Decide Trump Border Wall Funding Case"
     excerpt: "The U.S. Supreme Court will hear a case this term regarding whether President Donald Trump can build his border wall using diverted military funds that were not appropriated by Congress, the court announced Monday,"
     publishedDateTime: 2020-10-19T15:33:00Z
@@ -932,6 +948,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7JB6GGQQ4QI6XNAERUPGOXWHAE.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Trump says US will remove sanctions on Sudan in historic new chapter in relations"
+    excerpt: "Trump tweeted that he will remove Sudan from the state sponsors of terrorism list in a historic move that marks a new chapter in relations between the two countries."
+    publishedDateTime: 2020-10-20T01:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pompeo-sudan-ap-jc-201019_1603141774822_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
     excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"
@@ -1467,6 +1499,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cea5d5a6a761648d0c88f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
         width: 1200
         height: 675
+        isCached: true
+  - title: "President Trump Says Sudan to Be Removed From U.S. List of State Sponsors of Terrorism"
+    excerpt: "The move would open the door for the country to get international loans and aid needed to revive its battered economy"
+    publishedDateTime: 2020-10-19T21:10:00Z
+    webUrl: "https://time.com/5901546/us-terrorism-list-sudan/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 97
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/us-terrorism-list-sudan.jpg"
+        width: 5399
+        height: 3599
         isCached: true
   - title: "Trump’s doctor says he’s no longer at risk of transmitting coronavirus, after president’s first public appearance since hospital trip"
     excerpt: "President Donald Trump on Saturday made his first public appearance since returning to the White House after being treated for the coronavirus."
@@ -2776,6 +2822,15 @@ related:
         width: 846
         height: 571
         isCached: true
+  - title: "Trump Says Sudan to Be Removed From Terrorism List"
+    excerpt: "President Donald Trump says Sudan will be removed from the U.S. list of state sponsors of terrorism, a move that would open the door for the African country to get the international loans and aid that are essential for reviving its battered economy and rescuing the country’s transition to democracy."
+    publishedDateTime: 2020-10-20T01:21:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-19/trump-says-sudan-will-be-removed-from-terrorism-list"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "OboiRU+bxewuU7HROyGNFjKHRwjD7UEAjQdEcqC1S412T1dOiu4i5MJpfxWbXOVeIU7FxGF5opfzbwTWRg1r7kYVGCFYB7y+pd8QV7xjZrusjHfRdS8Hq9l9L6SgbiSYohii0n+zRRFInZS+ft8S1NvQD2U3l0wccX0D7YZJfciiU9TCA0wMqJpRXbkN/DTWIORmYBs0wkGq3+ub4iquDwSC27SFrQWHoQcyaNJPNVXiSxBgvZwMYTMSC3sqpV8JtThuxBae9zCis7Dts/iDvO5x0orGIe3/fz4j5ZkDlmtpQvl5RJaZ6w2Im8S46HwrkNHoO5yfJxfAIU88XmvUCc6cgpam3wyJInb6UhJqiUPUz75h6JuvEp0fxX3LjuMZBgKQcfmuShDDF/DEa0SBMKG7GU38GU/thE3HE4MgFIPI2QCyN5v6l2PHEhW8+rou5Igj4VrkpOLjIh/EvAp6cJgm+OI2T/w3uZ9gbMR6vOj3CR7xTPQ+JLzdA8WE2cQDKB6QftcG8BxECH8S070i0Q==;rhhMp2NTEYMaoUE/Fopl1Q=="
 ---

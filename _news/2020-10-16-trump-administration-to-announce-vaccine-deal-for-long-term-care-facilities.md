@@ -224,6 +224,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obamacare premiums decline for 3rd year in a row as Trump seeks to take down the landmark law"
+    excerpt: "Even as the Trump administration seeks to kill the Affordable Care Act, it is taking credit for making it more attractive to consumers.\n    \n"
+    publishedDateTime: 2020-10-20T00:56:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ozHLOl5eca8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/obamacare-premiums-2021-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/obamacare-premiums-2021-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009171411-healthcare-gov-website-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Columnist who has accused Trump of sexual assault seeks to block DOJ intervention in defamation case"
     excerpt: "Lawyers for E. Jean Carroll, the magazine columnist who has accused President Donald Trump of sexually assaulting her in the 1990s, asked a judge to block the Department of Justice from intervening in her defamation lawsuit against the President, saying to allow it would \"distort the law.\"\n    \n"
     publishedDateTime: 2020-10-06T12:20:03Z
@@ -287,6 +303,22 @@ related:
       - url: "https://static.politico.com/55/75/cf3d86ee411bac5950cd3e79c807/gettyimages-803354590-1.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Is the Trump Campaign Colluding With Russia Again?"
+    excerpt: "The Treasury Department last month imposed sanctions on four people linked to Russia for attempting to influence the presidential election, including a Ukrainian parliamentarian n"
+    publishedDateTime: 2020-10-20T00:45:00Z
+    webUrl: "https://www.nytimes.com/2020/10/19/opinion/trump-campaign-rudy-giuliani.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/19/opinion/trump-campaign-rudy-giuliani.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/19/opinion/trump-campaign-rudy-giuliani.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/opinion/19goldberg1/19goldberg1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "FDA pushes back on Trump administration attempt to rebrand ‘emergency authorization’"
     excerpt: "The administration proposed labeling a Covid-19 vaccine authorization a ‘pre-licensure,’ which FDA says would undermine its procedures."

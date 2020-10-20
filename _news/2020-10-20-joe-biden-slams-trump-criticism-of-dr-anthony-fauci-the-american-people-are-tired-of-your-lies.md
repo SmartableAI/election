@@ -32,55 +32,55 @@ images:
     isCached: true
 
 related:
-  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
-    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
-    publishedDateTime: 2020-10-19T07:34:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
+  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
+    publishedDateTime: 2020-10-20T00:34:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
-    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
-    publishedDateTime: 2020-10-16T02:36:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+  - title: "UPDATE 1-Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
+    excerpt: "U.S. President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday and sought to reassure campaign workers he still has a path to victory on Election Day 15 days away despite slipping opinion poll numbers."
+    publishedDateTime: 2020-10-19T17:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-idUSL1N2HA15G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538059176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1FP"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics"
-    excerpt: "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi."
-    publishedDateTime: 2020-10-13T16:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5979016002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002"
+  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
+    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
+    publishedDateTime: 2020-10-19T16:25:00Z
+    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
-secured: "KpQe2g7iizyjIxO5+xCeSOKmvdOgb07rxSmRHFYrxBARw/x0sqv/DJftS65YPcaRus5IbGiODzeauQnce4A7c+Utr4qUEj9+xyspsHkTi6f7Va8c0lQpUP6dfe2zEqEYBwPNIz7EsR0atm3tJb62RxEW9Ca0PfiH2LY+aZILVWzc88gE8p+lB0mX8YzVJrr3v6sLCj1soAGeP/iFKpEmi1uAuFynS8XelDRxx8N9Vk7pMNs8U/m02dW17mUo62Lx1ygueF44fl7Gk5l1l+SAOPDHofPTBIz4iLROAo8+y32KubKhDpT0EFPPC7SND3qoJHLFHMbhpmDUfDl9EJh8TFqQf1i87ABoSOn0VDlWT9U=;RWtTrww3cRggtCWYE6K6wQ=="
+secured: "DQrcT+610uKmdZUVd2A1fIxYsTUgb9Zl9cet4/FCUCs0tQy/lSdpfw0gkGTGkyPe7Slf74ErfU83oM59HmC6TKBHK3QOIXdAvBoKqaR43vP6BNDgeJO4HHFKouIGAPeibeNTdPE7kpHSjPBuQZE50NiCAFzXEgF8fnP909BOqGLEX1KtqNQVCnaoWkSRsLeEUuOVRE0Ec35+DU8P7f9rGvT5GNd0K5m+sC82Ke4lsUei9C0rHaO3+5b0voI+E93jf5M/1fL1bIImI0gNYI6LCZocoHGXvae/NIGDle2iSZbPaLO8NX4+UVg+mtZaE3bVDKiMaArgcuXkUJ4f6wlHNp8eqKkhK9vTua8fDWRk+QpGmgsKmyR1aLvMBTSfHSY6TwKHfiaDyPJzf2LqOXkyKCQfV1thKly0lak8w+aUGiunGvNh/RSij2J/jG4dKVvwA0TNr+o2mrtirPg+aIkGnObJS9a2IMYUEEF3RZ2QPouFWbQg8CxfqrJkYl7VCesp5OxyAug9MDb9YmkzPYaWnA==;tFIPqdq6aNCTldfjXT+lUA=="
 ---
 

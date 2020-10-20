@@ -255,6 +255,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Documents show alleged Hunter Biden signature, FBI contacts with computer repair store owner"
+    excerpt: "The document allegedly signed by Biden details repair work that was to be performed on three MacBook Pro laptops at “The Mac Shop” in Wilmington, Delaware."
+    publishedDateTime: 2020-10-19T23:10:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K2INPc9xd3M/hunter-biden-emails-documents-alleged-signature-fbi-paperwork"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Scalise, McMorris Rodgers demand answers on Twitter's 'unprecedented' actions on Hunter Biden story"
     excerpt: "EXCLUSIVE: House Minority Whip Steve Scalise and Rep. Cathy McMorris Rodgers lead more than a dozen House Republicans in demanding answers from Twitter for their “unparalleled” and “unprecedented” actions the social media platform took in reducing the circulation of a New York Post article about Hunter"
     publishedDateTime: 2020-10-16T18:23:17Z

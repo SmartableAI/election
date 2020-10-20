@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
 type: article
 quality: 123
-heat: 583
+heat: 603
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 114
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "After Fauci said he's not surprised Trump got COVID-19, president calls top disease expert a 'disaster'"
+    excerpt: "\"I think deep down, he believes in science,\" Fauci said of Trump. \"If he didn't, he would not have entrusted his health\" to the Walter Reed doctors."
+    publishedDateTime: 2020-10-19T23:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/19/anthony-fauci-trump-getting-covid-19-absolutely-not-surprise/3709244001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3709244001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3709244001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/a30fa486-0dc7-4676-b4eb-19203fc74e96-AP_APTOPIX_Virus_Outbreak_Congress_1.jpg?auto=webp&crop=2831,1592,x1,y248&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -1693,6 +1693,20 @@ related:
         width: 1199
         height: 778
         isCached: true
+  - title: "US elections 2020: Joe Biden's and Donald Trump's possible paths to power"
+    excerpt: "Lauren Gambino, political correspondent for Guardian US, discusses which states Biden will need to win to take the White House, and what Trump will need to do to retain the presidency"
+    publishedDateTime: 2020-10-20T02:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/audio/2020/oct/20/us-elections-2020-joe-biden-and-donald-trumps-possible-paths-to-power-podcast"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 134
+    images:
+      - url: "https://i.guim.co.uk/img/media/3cc060c73a643a8a3bbc3a5ca533b0640bdcdf98/0_250_7500_4500/master/7500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6095e73e7046e1fa21ac3eb05593c3ee"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden says he and Trump 'shouldn't have a debate' if the president still has COVID-19"
     excerpt: "Biden said he's \"looking forward to being able to debate\" Trump, but \"we're going to have to follow very strict guidelines.\""
     publishedDateTime: 2020-10-07T02:42:00Z
@@ -1756,6 +1770,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPHX/8c1670ed-ac72-42f3-aba9-8ee71d47355d-GettyImages-1228795132.jpg?auto=webp&crop=3030,1704,x0,y165&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's new political strategy: Attack Biden by attacking Fauci, scientists: ANALYSIS"
+    excerpt: "With just two weeks to go until Election Day and polls showing his Democratic opponent Joe Biden with a formidable edge in the polls, President Donald Trump has stepped up his attacks -- on science and scientists."
+    publishedDateTime: 2020-10-19T23:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-political-strategy-attack-biden-attacking-fauci-scientists/story?id=73698045"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 133
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's Big Spend: Dem nominee hits half-billion-dollar mark for ads in Trump challenge"
     excerpt: "Joe Biden’s campaign has spent over $500 million on TV, digital and radio ads this year. Biden’s campaign has opened its checkbooks to target voters through ad buys in key states such as Ohio, Iowa, Pennsylvania,"
@@ -2815,6 +2845,20 @@ related:
         width: 1484
         height: 834
         isCached: true
+  - title: "Trump attacks Biden, Fauci over coronavirus"
+    excerpt: "On the campaign trail, President Donald Trump repeatedly criticized Dr. Anthony Fauci and attacked his Democratic rival Joe Biden for wanting to follow the advice of the top infectious disease expert in the United States."
+    publishedDateTime: 2020-10-19T23:09:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/19/trump-attacks-biden-fauci-over-coronavirus/5984723002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a7a54b62-ba66-42b8-961b-590d385457af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
     publishedDateTime: 2020-10-14T22:32:00Z
@@ -3434,6 +3478,22 @@ related:
       - url: "https://i.insider.com/5f7cd59b282c500018c78f99?width=600&format=jpeg&auto=webp"
         width: 600
         height: 450
+        isCached: true
+  - title: "Election 2020 Polls: Biden Widens Lead Over Trump As US Coronavirus Cases Surge"
+    excerpt: "The coronavirus pandemic is playing a key role in the 2020 election, with the majority of Americans saying they trust Biden over Trump to handle the crisis."
+    publishedDateTime: 2020-10-20T03:03:00Z
+    webUrl: "https://ibtimes.com/election-2020-polls-biden-widens-lead-over-trump-us-coronavirus-cases-surge-3064871"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-polls-biden-widens-lead-over-trump-us-coronavirus-cases-surge-3064871?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-polls-biden-widens-lead-over-trump-us-coronavirus-cases-surge-3064871?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 101
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/19/democratic-presidential-nominee-joe-biden-leads-in-polls.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Joe Biden, Kamala Harris to make campaign appearance in Arizona"
     excerpt: "Joe Biden and running mate Sen. Kamala Harris are coming to Arizona to campaign Thursday just as early voting gets started. The Biden campaign announced the visit to Arizona late Thursday, hours after President Donald Trump announced he would return to the battleground state for his sixth and seventh visits on Monday and Tuesday."
@@ -4441,6 +4501,22 @@ related:
         width: 2458
         height: 1300
         isCached: true
+  - title: "Jill Biden, Mike Pence to make stops in Detroit, Pontiac this week"
+    excerpt: "More:President Trump in Michigan: Joe Biden is lost to 'sick' liberals Also in Michigan election tours, Vice President Mike Pence is scheduled to hit Pontiac on Thursday and Ivanka Trump and Pete Buttigeig are in the Grand Rapids area today. Trump is ..."
+    publishedDateTime: 2020-10-19T20:24:00Z
+    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/19/jill-biden-mike-pence-detroit-pontiac-michigan/3710604001/"
+    ampWebUrl: "https://amp.freep.com/amp/3710604001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3710604001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/05208a420be8c489fe9ef8bb2fd732a59d2a9bf9/c=0-98-1920-1183/local/-/media/2015/09/09/DetroitFreePress/DetroitFreePress/635774172406625329-obama-09.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Kamala Harris: Trump is trying to 'destroy our democracy'"
     excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that President Trump and her political opponents are trying to destroy democracy."
     publishedDateTime: 2020-10-19T17:23:00Z
@@ -4456,6 +4532,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/AP20293609207491_c0-0-3707-2162_s1200x700.jpg?1acee9eb5819ccf95e1ff691b755e070d540b0eb"
         width: 1200
         height: 700
+        isCached: true
+  - title: "The Latest: Trump plans to debate Biden despite rule changes"
+    excerpt: "The nonpartisan Commission on Presidential Debates announced Monday that the second and final debate between the two candidates will have each nominee muted while the other delive"
+    publishedDateTime: 2020-10-20T01:04:00Z
+    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-plans-to-debate-biden-despite-rule-changes/article_ddca9ef0-eced-5ad9-9805-0a2762ca4ad9.html"
+    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-plans-to-debate-biden-despite-rule-changes/article_ddca9ef0-eced-5ad9-9805-0a2762ca4ad9.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-plans-to-debate-biden-despite-rule-changes/article_ddca9ef0-eced-5ad9-9805-0a2762ca4ad9.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/7/cc/7cc2031e-e7e6-5e22-8d72-187a61d02fb9/5f8dc945c5724.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."

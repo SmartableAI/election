@@ -228,6 +228,17 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Kamala Harris: Woman of firsts and star of the Democratic Party"
+    excerpt: "Democratic vice presidential nominee California Sen. Kamala Harris is largely described in terms of her firsts. She is the first woman of color on a presidential ticket, who, if elected, would be the first woman just a heartbeat from the Oval Office."
+    publishedDateTime: 2020-10-19T21:47:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/kamala-harris-woman-of-firsts-and-star-of-the-democratic-party?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 65
 
 secured: "XsjBspM2bJiLsdRssDA7tCK1TOXiQQtyucFoqyZdbVCn7GydSdV3BaYL8ynnhIjCBIg8uKNj8UjrknuoXHOXpW0/HalEmQYUWTPyTIhgFl2DPzqK9PoaUEoogOhRZx1CAoDKdCs0s3mpZvEpdYEwcQ28JZTA2IKN/r/Z6b5CFQsRnIJYGNgRVzuVqFQrRYdyMqwhOltOYyyR1fvGoDscffMNVFHQ4chmIK47Fylfu9C0Gh94sDisbYVL2bZGHueyD9vg8qZaKDtIAHJGrs4U1weKhPkD/CyvxbMBavOuCc7Y7QEJYwGQ6HckOS6atvqnnQwCUrbZhlVB3GxQL8igC4zFUbrJgHcNx9BJSn+taWLQlyaMVm+JrGOV6tM/r/A7bnEbgWESSSYANa6Kd1oEL0HpLyYv+GL4YZ8ZgpXxB/38vp8NNjX5ksw5+8D0kH71t8Jdy1OllMZDRRp2AfkDqntTa7SPqNrsJcjqA+Ov33VW+DQIzEteLsutR4BB1LqjjoudSi7YV48bL35Vs8PbIg==;SWEmSdV5yNZAQX+QwN8YEw=="
 ---

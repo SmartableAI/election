@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
 type: article
 quality: 129
-heat: 429
+heat: 449
 published: true
 
 provider:
@@ -237,6 +237,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
+    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
+    publishedDateTime: 2020-10-20T00:57:00Z
+    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
+    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 70
   - title: "Trump lies about reports of a ‘red wave’ — then touts nonexistent Michigan ‘man of the year’ award"
     excerpt: "President Donald Trump ticked off several lies in just under 60 seconds while visiting his supporters in Michigan on Saturday. He told his supporters that the press was predicting an astounding “red wave” in November,"
     publishedDateTime: 2020-10-17T23:42:00Z
