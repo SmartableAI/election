@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 9640
+heat: 9660
 published: true
 
 provider:
@@ -4977,6 +4977,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/04/shutterstock_16342936991-800x412.jpg"
         width: 800
         height: 412
+        isCached: true
+  - title: "Kamala Harris: Biden win needed to secure pre-existing condition protections"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that the presidential election is directly tied to whether or not people will continue to enjoy insurance protections for pre-existing conditions under Obamacare."
+    publishedDateTime: 2020-10-20T07:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/kamala-harris-joe-biden-win-needed-secure-pre-exis/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/kamala-harris-joe-biden-win-needed-secure-pre-exis/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/kamala-harris-joe-biden-win-needed-secure-pre-exis/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 87
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Harris_77492.jpg-fa82b_c0-185-4186-2626_s1200x700.jpg?57c666196d5ee08c294b86cf3c57075591484a81"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."

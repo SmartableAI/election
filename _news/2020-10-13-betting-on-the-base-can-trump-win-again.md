@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Why Beijing May Want To Keep Trump In The White House"
+    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
+    publishedDateTime: 2020-10-20T07:16:00Z
+    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "2p3zzwj7JcmsjpLIBH8JD5IC8oiIv2WE/WhV0TD9t9WiTmEd7+QVNNUDrnKNuE6FQ1Z9MmvtpkfQwKWtVrTc8Pp0g24pMIfHcYrHORtYJX10ALKyNFyX9qo8bEFOBNc4V4zrHWmMYZTJAA5C1rJahI2Bg598Aia43HF/6xycY3WPjoq7w+1Yi1eH+XrGq7ukD0d2AOSMqpxRYf7V1lPETakHdyzkviCZlMPP/JCrlLzsDZUflwG4qcsjcvSNrnlD4iMUAhHv19aMrtBUZWHm94DvfL5OVPSIsdh5Qs4rWm5VqJngcxQeOQF3bmu1kYyOgKUp5r1fw0xud+M2juYPA+ajkNMJ6ZTi0+9TEFNSM/Y=;p5L9EMqtj2B2pT3qkWpX8g=="
 ---

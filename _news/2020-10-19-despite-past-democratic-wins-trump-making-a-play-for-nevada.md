@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Why Beijing May Want To Keep Trump In The White House"
+    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
+    publishedDateTime: 2020-10-20T07:16:00Z
+    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "xSoXxuKdaOwFGuJF9VEh/56B5uN9p2Rsohvzn36HiTD2d1b6LX9mPmpQ4GPiIgH1SE9OJ0ZtubxJyWqc/2pVcNi+G7F3x0vFjVuog5dB/UeCHktaablUDe+rUa5YDyKAwS5wvEqJ0dAVtvmoVsVSBX4mawmMp8/UQvvkb/t3wsFrbRmiDlLTPiTm7NlpaDx68hY1xkOus6CJHDeisLJuZHHPmt3rY1td6PWwdiDHlXod0NBdk3xOlAtz63RhkatCNpHJw1kXnmdId9XAayujesY6y93vV6ibCqOM5dLOELUJ6/r74UvrfE+mBngR/y5gJsraJkYhwvpGXEhrLBZxEiDii5+0SaIRsZJOgIU5Xq076Er0jQywN1o1rjlRxZhiJbnYHnpI8zhF3D4J+oMg+om+btfaAA/9EoYHX0a96s73DCAemNA61SvUp3xNeNQTOGXobHnmZG5ZDnq6lBSVhP0hUsLbQ1/QID2PwDG3hUSKZhjFodaRUnpUFBYSiW7mn0jUXeOz0gEkgeEakryn1A==;HqJWlxCkDnd82LWsy3Q/Vw=="
 ---

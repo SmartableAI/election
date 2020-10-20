@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
 type: article
 quality: 105
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
+    excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
+    publishedDateTime: 2020-10-20T07:10:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
 secured: "UDbzBwWh0qKaWsL2xLwLw4WZTv/a/Z413Oq7QZ5jeqzl6QP55TU3rI69im9R1ETwPIEh7JKd0UCYLfemB2rzMeEwX3fi8LLgRxnszwqOsUJj2Bbfx0dnPSSSV8Unop8oFpuXfb9zkD0UoVjrWU8eybewwut7nkZefpdVTI3HaIPWy12Cbseb9M+LBQMZD3KNDEr0d6a3uzNrJafb3r4pRFec421OE22RHAPLgCJLhW2CfLxLuTM+9/ittUY5iRArkSG4zuIjD3Age/Gq6cI3cdHohlCcu3v0Tts7rxst5OEa9ocd/MaYR344M5saA3o2rVrdjrc7X89b5TD93qBMW6n/jC2488oGTDw9HSon5Os=;SdE8oWgMcBoq/EruVkkyHg=="
 ---

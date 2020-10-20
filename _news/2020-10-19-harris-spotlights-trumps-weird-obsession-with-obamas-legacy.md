@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/122b0447-7cfd-4389-afca-2c5288314c25/9ecd5f22-f2bb-472c-b366-071726e32b25/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump launches $55M ad blitz in final stretch"
+    excerpt: "President Trump's re-election campaign and the Republican National Committee (RNC) are carpeting the airwaves the final two weeks leading up to Election Day on Nov. 3 with a massive $55 million ad blitz that will run in the key battleground states that will decide the winner of the White House race."
+    publishedDateTime: 2020-10-20T06:11:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kyYR3xwRuMQ/trump-launches-final-55-million-ad-blitz-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293800513779.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
     excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."

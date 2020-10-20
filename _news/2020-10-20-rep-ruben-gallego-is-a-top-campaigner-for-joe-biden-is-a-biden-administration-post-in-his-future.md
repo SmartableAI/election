@@ -2,19 +2,19 @@
 category: news
 title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
 excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
-publishedDateTime: 2020-10-20T00:32:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+publishedDateTime: 2020-10-19T21:20:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+webUrl: "https://www.cincinnati.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/3668502001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3668502001"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -303,6 +303,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "yFn8pb8vhsoZnWhVA/7wCY7r23a9sEJOsZacU9jyqCX7g6/08Loo7yqVTPc6BGNBfMr9E/sTOg+LxZwNCBWEIBM54r5i0cwfaDmrHPuhfpuUmtWv7RgzR3Vd54hELdFAKtvGz9A6FiZqLYJAxj3kJuUOQaboYEE5+wLvfl5Kb3KXlgRUXw2/jrsg+GCY0FYN2wzRCQBGyTtu9dbJSgP6/SVjb6lp/X017R2v2Y8NJrIgyZpQUcX8yuGXiC/j8Q2J4UbqDJ5o6Xr/fK64eUgLyx/qRG6hFC5syOk3n5J3UliqSkyd5X1Ow4/4uxrpdCDLsof/q9G7fHMLWwkI0SdCwU5ENcQIy4GDubfK3Pvb8xFmHc47MNuRwzZPhQQRFtqUaB2COx6FLWtMxFam4/+GVc+2zWuUtej+/yoUdH7h+eHZjivpdW8AfywkorFZv3koTuwDbn+Q7T7uAHcagQmugp2NCirHSIynFyybyBsvo2dirYRglfOHeKKbpsRkIgDOO863DY1KXKjA6fcaODarOA==;GnomCUHwn2tA3vZg74PLqA=="
+secured: "8o0iWJqRjmz+zt1WgT9cvDivAZQZVkn//XR+bE+QzRqZHD7rBNRjQN0A3zGkCKfklRKrTPn3+r4VbGUhQ+ajoPBLF3Y73cVDxt5LG7ZLBSwLMJR51NMV1J/u4YbDvVUc+DaZCN80Y/3Vf/RKxLOxCSpkwN37RyuTzykJD/MmeWh+n1jjrxjOYd/TJX0iO7ctl/RCWx6erZc3GDkUCSwn0W/aFrzffezsdoU9fh4p5p8hAAq9+kSPqCyvivnhy57hnUGwCChsUUjGKYI9i4bSoqvLu2iq4ihiZX3qTWgD6/Xh4mvMY19pKEFEaK+dA7VTK6g1VVjK2wnwgNJi/SblZ4sAiTOl/1ewpQCsbXlQW9w=;OVkvMnVnSs2aMCK8TDzQiQ=="
 ---
 

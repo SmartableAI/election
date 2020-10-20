@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
+    excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
+    publishedDateTime: 2020-10-20T07:10:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
 
 secured: "V/98XX6LZaszaIeQGW9XrYsUEwHQ+MZqGJLALA/w+ScNw4OWD+4BEpulzKd4oJtFOZpUiwowIOBgR4jJ7Tte6HNrH4yeISWrH4IrlHloxGPjOT/qF0hpiG2PnD+BFLYkb1NNIv/oFsrnECSy9U1vAC8xcg/i8/SsN/Av9b28DA+axgVwOsBm0dQubunzfLzcX+5lad/AOglCnWbAUDhIOVXsU1FrY0JfSQZ2VppWDdQFhu0LCdbGznpNwhzLUetl2FwlAI0YDmOMMYQ8SC8xS8Y3ggoI5C3NoRitBWXdlywsMNdjCb7XkR5f/PJheZgAz8wN94tyRR/krB4dhuO/0M/RuPT9qLlw8Vol3a4OTM8=;5sxQYa4OIz7KIuARr5mUkA=="
 ---

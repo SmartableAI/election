@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump launches $55M ad blitz in final stretch"
+    excerpt: "President Trump's re-election campaign and the Republican National Committee (RNC) are carpeting the airwaves the final two weeks leading up to Election Day on Nov. 3 with a massive $55 million ad blitz that will run in the key battleground states that will decide the winner of the White House race."
+    publishedDateTime: 2020-10-20T06:11:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kyYR3xwRuMQ/trump-launches-final-55-million-ad-blitz-in-final-stretch"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293800513779.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
     excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn., appearing to suggest that Barrett was publicly lobbying for a judicial job from Trump by writing"
     publishedDateTime: 2020-10-14T18:01:32Z

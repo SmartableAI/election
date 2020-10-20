@@ -4977,6 +4977,22 @@ related:
         width: 800
         height: 412
         isCached: true
+  - title: "Kamala Harris: Biden win needed to secure pre-existing condition protections"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris said Monday that the presidential election is directly tied to whether or not people will continue to enjoy insurance protections for pre-existing conditions under Obamacare."
+    publishedDateTime: 2020-10-20T07:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/19/kamala-harris-joe-biden-win-needed-secure-pre-exis/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/kamala-harris-joe-biden-win-needed-secure-pre-exis/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/kamala-harris-joe-biden-win-needed-secure-pre-exis/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 87
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Harris_77492.jpg-fa82b_c0-185-4186-2626_s1200x700.jpg?57c666196d5ee08c294b86cf3c57075591484a81"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Mike Pence and Kamala Harris VP Debate Will Have Plexiglass Barrier Because of Coronavirus Concerns"
     excerpt: "A plexiglass barrier will separate Vice President Mike Pence and Sen. Kamala Harris at their vice presidential debate Wednesday, the second such measure taken to reduce the risk of coronavirus transmission on the heels of President Donald Trump contracting COVID-19."
     publishedDateTime: 2020-10-06T16:10:00Z
@@ -7202,6 +7218,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jgzZjEvT56xkSRNgqLATIfwh5y0eih+e9iGxKBm3lRmpbIBPR6ukVJCBj0XIUDyOf0LSxeKnX5DcmlXagajimvfpiALzVv9xWbO7vDFwE6I7D08m29CfrVwncOUoad5R8+x1u3gDclgamAemjIJgBV2L7ogJvQc+ODgERE/SiDIWAU99sxPzQwIZ++zHdn8AUIqg69r0+vUqU2YggmBMmV56Yip6nsgMQ+8WgsObKX5yeELr6XG14nr5A28h0o1Ga1uCO+JmK/rphq/VIa5XG5vNys2jImqUyZydkSo3FoDxgubDAxmJPlr9MdFaKe9SNozUmor5js2Fj+bSP+Zsp1vyQ68tM3nqNIVKAN/yt7U=;4SVLTWrsv8RREKjXJvpTiQ=="
+secured: "ggKtA7KQXateItj04PbyB8elvaS43Przv6X0czY2+uCAqZQ7NgE+oHnfksk9mWcsJSTpXBKk0syrGIVD+bg/97CXvQg22BSW79qngI70a0fpcGWfQF+m3hh2Fxa3wafQnROmX4sPlXWv99htzvu46cbMbtIcq5pCRJ93odGTFFrkrUDVrTnvmsaKSHZJw8OGAEVB+bE3dY4rYRw0HGgG+B37VlCGG0Bb0RuXwDeYQrY506Hsk3fPd05ImXPQshDT0qVaboXwm3m6q/Cj/ypSeRNXW/P+ETDVqll09vDF80CFZw0D6Ep5/f3nY67qLpoJ0gbyUhw1dPbxSvBf6RL0jQ8PjJdDUcQaC+CyacRJvg80gAU0AP6eESK2lCJCFHkAD1pevaU3b42BncNj2AscwHKHHjZ7upP6hHXTDOvEqUr25HVlyjaq5cnHO79WNN5zDSXV40iATAP5dqxnbDIulv0Bpd1UQ3bY5f54GrlERQON6il6G+xCNRSxBF/sFimXjsmh2x5TaF6oAlJXZjvLoQ==;oo/zlJnohBMvjESphnrjmQ=="
 ---
 
