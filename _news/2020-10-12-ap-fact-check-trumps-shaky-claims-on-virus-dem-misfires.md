@@ -31,165 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'"
-    excerpt: "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\""
-    publishedDateTime: 2020-10-15T20:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
-    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
-    publishedDateTime: 2020-10-16T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
+  - title: "Fact check: Trump's hospital records, weight have not been released"
+    excerpt: "Social media posts claim President Donald Trump is underrepresenting his weight by nearly 80 pounds. His latest physical results reveal this is false."
+    publishedDateTime: 2020-10-08T01:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/07/fact-check-trumps-hospital-records-weight-havent-been-released/5913031002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5913031002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/07/NLED/2dddc1bf-c758-4a68-98cc-f4d5dc745c71-AP20280801146522.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 676
         isCached: true
-  - title: "Fact-check: Is Chris Pratt a Donald Trump Supporter?"
-    excerpt: "The 'Guardians of the Galaxy' star began trending over the weekend due to a poll posted on social media which asked Twitter users to ditch one of the famous Chris A-listers; Chris Pine, Chris Evans, Chris Hemsworth and Chris Pratt."
-    publishedDateTime: 2020-10-19T12:48:00Z
-    webUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240"
-    ampWebUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+  - title: "Fact check: Viral post is fake Trump quote about Amy Coney Barrett"
+    excerpt: "A post claims the president said he picked the Supreme Court nominee based on her looks. He never said that. We rate this claim false."
+    publishedDateTime: 2020-10-14T18:18:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/14/fact-check-post-misquotes-donald-trump-why-he-chose-amy-coney-barrett/3642654001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3642654001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3642654001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/7978c3d8-a7cc-4264-8321-eeb1886ea47c-AFP_AFP_8QT6KT.jpg?auto=webp&crop=4479,2519,x1,y24&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact-check: Did Trump's 'Liberate Michigan' Tweet Inspire Plot to Kidnap Gov. Whitmer?"
+    excerpt: "The governor of Michigan has linked the plot to kidnap her to President Donald Trump's rhetoric during the pandemic."
+    publishedDateTime: 2020-10-09T10:46:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-liberate-michigan-tweet-plot-kidnap-gretchen-whitmer-governor-1537719?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 125
+    quality: 117
     images:
-      - url: "https://d.newsweek.com/en/full/1620141/chris-pratt.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://d.newsweek.com/en/full/1648482/michigan-governor-gretchen-whitmer.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-17T16:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
+  - title: "Fact check: Satirical post falsely claims Trump would be fine if he hadn't gotten tested"
+    excerpt: "A liberal commentator's Facebook post claims Trump would be fine if he didn't get tested, satirically referencing debunked claim about coronavirus."
+    publishedDateTime: 2020-10-06T22:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/06/fact-check-post-claims-trump-would-be-fine-if-he-hadnt-gotten-tested-satire/3626371001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3626371001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3626371001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 122
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
-    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
-    publishedDateTime: 2020-10-16T02:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
+  - title: "Fact check: Alex Jones' claims about Trump's COVID-19 treatments, 'deep state' are false"
+    excerpt: "An InfoWars video claims evidence is mounting the president is being deliberately killed by his doctors on behalf of the \"deep state.\" That's false."
+    publishedDateTime: 2020-10-11T18:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/11/fact-check-alex-jones-false-claims-donald-trump-covid-19-treatment/5924540002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5924540002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5924540002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 121
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/460fd447ea1cbd8510959c5c38ba81f33286cb31/c=0-106-2048-1258/local/-/media/2020/10/05/USATODAY/usatsports/donald-trump-at-a-desk.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
-    excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
-    publishedDateTime: 2020-10-15T12:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-vaccine/fact-check-the-recovery-of-trump-and-johnson-from-covid-19-does-not-prove-vaccines-are-unnecessary-idUSKBN2701GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GY"
+  - title: "Fact check: Trump's antibody therapy not made from fetal stem cells but fetal-derived cells used during testing"
+    excerpt: "A post online falsely claims the antibody therapy received by President Donald Trump to treat COVID-19 is made from fetal stem cells."
+    publishedDateTime: 2020-10-10T04:24:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/08/fact-check-trumps-antibody-therapy-not-made-fetal-stem-cells/5901542002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5901542002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5901542002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537572406&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0WX"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
-    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
-    publishedDateTime: 2020-10-09T17:43:00Z
-    webUrl: "https://heavy.com/news/biden-taxes/"
-    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-19T15:48:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/d890957a-cfab-4eaa-ae7a-03b8ca543956-Antibodies.jpg?auto=webp&crop=2347,1321,x0,y156&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-20T10:27:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
+  - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
+    excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
+    publishedDateTime: 2020-10-04T23:19:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/2020/10/04/president-trump-makes-surprise-visit-suv-outside-walter-reed/3619686001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 72
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/a1626c6f-f577-4a36-aee8-a0aa4e3b95ec-Screen_Shot_2020-10-04_at_6.59.46_PM.jpg?quality=10"
+        width: 2062
+        height: 1154
         isCached: true
-  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
-    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
-    publishedDateTime: 2020-10-12T00:40:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
+  - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
+    excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
+    publishedDateTime: 2020-10-01T01:09:00Z
+    webUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/professional-clown-clowns-are-virtuosos-donald-trump-is-not-clown-2020-9?amp"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 65
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 96
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://i.insider.com/5f74e45074fe5b0018a8e596?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "5k1KKqHhcASRkThqiAtwtUPADJJXqDWeP/18SOCttLix5CFZ70YZ8nftPZmELzZgNWKhPxxFzfOjghivZ6uTSMJhVUbivtWNk+BJb+J8EIxWrAiUBPKVop+sYv0RB9CRFQBcJUYmWEarpVtE9Socqwg05FQvxUs+djoJvBVSwRKq6sXdjYo7RtpRS1vR6Ej4zSsFXEGckuEM4C1ZHMgEAqQQfNAia03hWeoLwDOspAkN9dG0dJaeHWZrSjqNdD/SSWddP2pKxV5YaavS6Fo7C8I2xgbMYLFfOyJnVZhZ4seOEsxuArlqrwFxcf2uPUbJm5ijA24ZcjvwQw7n+b1T1e/FgFmEueOt2gnzQ+BXd5E=;a1yEVaRYqUV4jlbxRfifqA=="

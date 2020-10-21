@@ -377,6 +377,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Vice President Mike Pence To Hold Rally In Portsmouth, New Hampshire"
+    excerpt: "Vice President Mike Pence will make a campaign stop in Portsmouth, New Hampshire Wednesday afternoon. He will headline a rally at Port City Air at 1:30 p.m. before moving on to Ohio for an evening event in Cincinnati."
+    publishedDateTime: 2020-10-21T13:00:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/21/vice-president-mike-pence-portsmouth-new-hampshire-rally/amp/"
+    type: article
+    provider:
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 55
   - title: "Air Force Two carrying Mike Pence forced to make emergency landing after suspected bird strike at New Hampshire airport"
     excerpt: "AIR Force Two, which was carrying Mike Pence, had to make an emergency landing after running into a possible bird strike. The plane was forced to return to Manchester-Boston Regional Airport right after take off due to what is believed to be a bird strike."
     publishedDateTime: 2020-09-22T23:53:00Z

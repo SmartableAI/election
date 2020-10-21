@@ -544,6 +544,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Echoes of Nixon reverberate as Trump presses Barr to target Biden"
+    excerpt: "Nearly a half-century after Nixon, we heard a different president \"endeavouring to misuse\" the DOJ, committing an impeachable offensive on live television."
+    publishedDateTime: 2020-10-21T13:00:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/echoes-nixon-reverberate-trump-presses-barr-target-biden-ncna1244127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_07/3203706/doj_seal_158214905-maddowblog_db0a880705db3abf58456b13e1e5ced0.jpg"
+        width: 830
+        height: 553
+        isCached: true
   - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
     excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"
     publishedDateTime: 2020-10-20T21:51:00Z
@@ -812,6 +828,6 @@ related:
       domain: thedailybeast.com
     quality: 36
 
-secured: "EG+IFpky9FHVu6OKxzRm5TCxXxfoEua05AlhAfA68qgNWzzjz6Ojif3wJiII3HdPEPD2RlBTOCXGPYmK7R3gybETijFTnFtqy9XqHmW8dilc2hezeM/qLgSKg6FcbX5BOWilFb99ov+VpKF4soA3Kmlzfb/ZDHim/DWRAPv+QCiO03NWEkKAvkwf65579wJw+46sy+FVj3iXav8O+jD9fCcUWICyEDL904Lq8IV6Ltd7sWewA9Ca2iU8noiaIs6tLTU+IsAfcpEwcQ6Ho2v/YdgMat30euF1wJDeOhKjUDRkRLyRPb/6YH1PO9eJUDt+86rpk+D2xbWWWCy2UsU/VYX1iN2psDub2swFX+fvSpA=;ul8UUY8LE0bEUO8fHp0U2w=="
+secured: "1OroyDDeOigSBohrHNfPZFnd7UdXrsV370a6Aw7w4JEhCOO+Xqb+R6e2i0rwpeBpLAfgoTyWd7NmqDMwenPpy/Cxp29zqVPCzjaqMgXhJkAuoCZBBN8i87ilLLmkJ/S5qwK6xckXTTA/+tVJvqOjddZcPq6d9uWnftxKUA8P1qEtW8ddDKAND+qDVgYwYafJ6PJYTlj9HNg4LbKe9c27sXqYa73ciJFHrXjt4uI6Q8QeiOfvCBzcsLZ8FYFwifcEMGppbSw//3VO97D4pdCo2gj300lHGPHhYifz74A59wko7/ebonfPwoxp1fRuanVO6xDqMSiOwcy0OLnaiV4YxBxd5qtqbskryklbM8yEulBHWl7hWCVE9Q2p9bFeXtkdzmPVdADGBMNXBGC7uXfyN6dT2wtJQktJ4L+reAfSnYgx+JM4MrPOZXHCW9GmHAh0JRa2EYh9IFXUTjNpkrBENurbCOUIRAXjPThs00RTSUySH99aFVZbS/9JgPrdcrStQhguVP5TeeMMAR3t3lyPAA==;X+yr/MwxhJEBL/1qTmvGOw=="
 ---
 

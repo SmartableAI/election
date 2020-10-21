@@ -35,6 +35,29 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Bitcoin Proponents Bemoan Joe Biden's Proposed Capital Gains Hike"
+    excerpt: "A number of bitcoin proponents have been discussing the capital gains tax Joe Biden plans to invoke if he wins the American presidency."
+    publishedDateTime: 2020-10-20T21:18:00Z
+    webUrl: "https://news.bitcoin.com/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike/"
+    type: article
+    provider:
+      name: Bitcoin.com
+      domain: bitcoin.com
+    quality: 55
+    images:
+      - url: "https://news.bitcoin.com/wp-content/uploads/2020/10/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "2kpcECG1GSJwf+mVQU8diUufuMBAQw+2BE1m/hQdGQ7Nj85J6jE9mEc4/DAX5okjqI3MBlLz2imSRSQE86fnEA/7kQbs20zWMsfmd89Wc/kmChy3+PRzOrT4TpTrePivqeHZ3h+FlMmZbjSD5umLMWP99ZAaMQ5Q4iHZEnOpDaCJglms6pxahRdUhMvdGvR99Ngf1mejupSyFOhBXE4tIpa90dIzlJ8FjxzTS0/IDMPT/ZFRxA+8YUxkSph9p1a1qXwSa3zmrD6UuCBRoPixhAONMZzvaGDrMk9PfPb4/KlPDbkcdiXtZvwutJIjLBVtTZH2q11c/gQsSNs+0ls0fgvIvEySVIdwteq/0TJ2f0ZSEu4VFHBSfvOY0i1AXYZvnJCPWCtunKuAHxHNFlZmmTvvq6VSCkOrTSY/HYi5v/domMVwZgDElar60ovdIGIZJsXR3YVeQuhetMvMIVAgpvKEo0knt+UdiRLzhvqX7D86Tkrt2Gpn9pq13LmC7HLw3H6bkLNhE9ul+vj7+dl12Q==;ow/9PtWOs7uOPiFU2q/FkQ=="
 ---

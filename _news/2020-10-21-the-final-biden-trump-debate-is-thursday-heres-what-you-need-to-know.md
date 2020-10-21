@@ -1829,6 +1829,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden has narrow lead over President Trump in new Florida poll"
+    excerpt: "The survey from the University of North Florida had Biden up by one in Florida, within the poll's margin of error."
+    publishedDateTime: 2020-10-21T12:15:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/20/poll-race-between-trump-and-biden-florida-essentially-toss-up/5985316002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5985316002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5985316002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/NSHT/a29043f7-1f36-40de-a6fa-af72d0678aeb-AP20282445647114.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Damage control? Trump hints at leaving the country if he loses the election"
     excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
     publishedDateTime: 2020-10-17T19:07:00Z
@@ -1877,6 +1893,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Ups Pressure on Barr to Probe Bidens as Election Nears"
+    excerpt: "President Donald Trump is calling on Attorney General William Barr to launch an investigation into unverified claims about Democrat Joe Biden and his son Hunter, effectively demanding that the Justice Department muddy his political opponent and abandon the department's historic resistance to getting involved in elections."
+    publishedDateTime: 2020-10-21T11:15:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-20/trump-pressures-barr-to-investigate-bidens-as-election-nears"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-20/trump-pressures-barr-to-investigate-bidens-as-election-nears?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-20/trump-pressures-barr-to-investigate-bidens-as-election-nears?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 85
   - title: "Fauci Says He Isn't Endorsing Trump's Reelection Despite Being Included In POTUS Ad"
     excerpt: "The Trump campaign released a 30-second ad Saturday that shows Fauci praising the administration's handling of the coronavirus pandemic."
     publishedDateTime: 2020-10-12T02:01:00Z
@@ -3096,6 +3123,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "IatGKD+SAhcGbycMix25PLYtvnkFO8QBRYKB5aB7nQow8KM0u13uiGwtaT0R6KG9Xte6b56kft+fowMh84dArGE9sxYlH+ATqFXC9lb7349occok8f5P6SvpylL4WfZLQD0S0OjyXfXEpXFnZQ4pDeO6oXniKABldHkchpxVANm2Vwa8Aqfr/ncCafzlhkmyNtJi8CzBGbtOk/AWabwy7uDUHb2MsdHnLeh2pZn3jl21u6sAymDULNhL5VYlXeaISHbjaY5FrvYFDd1s4t1OovsYkTlRPxbo146bv6ZrviwdD2ObEscpxTclJ4lwvyfgSyumcnskoXOGYsz7niUy4HAn6hMaAkBTyLPS6eqFLSM=;BZeDikaGcXdhf1MQghbDxg=="
+secured: "tKiW0NIKdLpbilK1R3U7ohMM08rsP7n044EzXYN9RricSY3iG4uu3rBHJnemYFH1ZhLf3HSm2AV5yVyJv5Mphaevy/DdFplGMqEl/wDEQwxtbI2JiDhSBt1zPuLaOZD6jDGJhfRG97Fr/jUI5iM0+8uGspmYNDwCW+gM1crmQ19j1IrKw9I1ut9UPSgrcfTbezdH58fawMC3WCrK6/b1nkbpwx5w3vdoDGKCuHyQcYA91M2eLZ9FTqZleRegbkobwCFh5FCVt5nYbkSu1GHok/FtjSDcANwT6A6pRLSXvHSRDQsvYIsGAVtTWSmtB/cIcqSrA2BCgPM99l9SIxldKErKfV/tQyKuawnaMTr0T0GcAGxphPv2/JKJvOlClRlSSjJygEkhQ1urBj0F2lduYEKcyzUxhYgO64QVVjQ/FHABAWj5oJbMyAsCcpCePGz+EXEJ5y12ml/Ebv1DONtEceADBqILC66908Q95QcLS0k0A3QMOQeZyDWw9t2rg4bctl+uSdwdJnvP97R8mPUm2A==;8IrJ9lMq9MIIRDbYRKrpLA=="
 ---
 

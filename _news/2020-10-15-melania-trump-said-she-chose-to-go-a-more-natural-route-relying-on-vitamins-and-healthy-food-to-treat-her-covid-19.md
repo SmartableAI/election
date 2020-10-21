@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/melanie-trump-used-vitamins-health-f
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp"
 type: article
 quality: 101
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
+    excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
+    publishedDateTime: 2020-10-21T01:37:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "3lU6RVrYxAPWvn/78K5NVAtjepVzlPH+j6iI91un8MAlS6ewoO+BD158Wn5E0EY3eXv3xkdW5sy9ps+5UENlyleoE6vhDsQwntzECp6tYse2sWizMsOSs5zwrYwt0fQAaf2Tgcy7xdix0nkW2OW+REzxE0GrEAxH5JOJ6XaG6OlEU7KZJPnUf+FFdDGXCcu6kW2nJ5TtcQMShNijSgxY/Xe6uZ8FsSbAmAuItcV/hDUhy1Cbu7qCbc82AGX4stPXSFez1+w4Fe9jZ3dTuOSNLl24nf0yBtD+UKMjXmJypR3RbypoD9nEYOwNT7TsSPypp+SWK4jWFdrXCUolzHHksqCRLfpYDSwUDZqW0QPBiHAQqERVTA7GPbFqmu1uYomE1rofSmJWUz0zQAixdapswOsHzd3qRtFjaV4XVivgPjAG6Xb1BuMjSc6vW1RMQUTkvGuCNiPzQZpo2yd8G9Q8hojKhOuelwIYwZOCmKok03rNAB1+4OIc7kBRSkiSmOKa4WibTYKwTwMJKOvMpLT3BA==;WiP4L8wIolSzdfCpJXqnpQ=="
 ---

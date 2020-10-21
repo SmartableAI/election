@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minut
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html"
 type: article
 quality: 193
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump administration pushes for last-minute foreign policy wins in final campaign sprint"
+    excerpt: "Less than two weeks from Election Day, the Trump administration is working hard to secure foreign policy victories aimed at providing a last-minute boost in the polls.\n    \n"
+    publishedDateTime: 2020-10-21T12:20:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-bMVO94qS18/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-foreign-policy-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-foreign-policy-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020081638-donald-trump-phoenix-rally-1019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "QAnon supporters behind canceled Pence fundraiser gave Trump $1 million"
     excerpt: "The couple made their donation in August before a scheduled fundraiser with Pence was canceled after their promotion of the QAnon conspiracy theory came to light."
     publishedDateTime: 2020-10-17T13:27:00Z

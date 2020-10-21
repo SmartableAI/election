@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5595
+heat: 5615
 published: true
 
 provider:
@@ -3809,6 +3809,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Biden Has Big Cash Advantage Over Trump in Race's Final Stretch"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden's campaign entered the final stretch of the race with a large cash advantage over President Donald Trump, disclosures filed with the Federal Election Commission showed on Tuesday."
+    publishedDateTime: 2020-10-21T10:21:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-20/us-president-trumps-re-election-campaign-ended-sept-with-63-million-in-cash"
+    ampWebUrl: "https://www.usnews.com/news/us/articles/2020-10-20/us-president-trumps-re-election-campaign-ended-sept-with-63-million-in-cash?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2020-10-20/us-president-trumps-re-election-campaign-ended-sept-with-63-million-in-cash?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

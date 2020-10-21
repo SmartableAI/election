@@ -27,53 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
-    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
-    publishedDateTime: 2020-10-18T19:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
+  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
+    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
+    publishedDateTime: 2020-10-15T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
+      name: Reuters
+      domain: reuters.com
+    quality: 111
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths"
-    excerpt: "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news."
-    publishedDateTime: 2020-10-18T23:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
+  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
+    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
+    publishedDateTime: 2020-10-10T19:43:00Z
+    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Second Stimulus Check Update: Pelosi Slams Trump's Relief Proposal As 'Grossly Inadequate'"
-    excerpt: "The Trump administration's $1.8 trillion offer remains below the $2.2 trillion bill passed by House Democrats last week."
-    publishedDateTime: 2020-10-12T01:20:00Z
-    webUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446"
-    ampWebUrl: "https://www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/second-stimulus-check-update-pelosi-slams-trumps-relief-proposal-grossly-inadequate-3060446?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/05/democratic-house-speaker-nancy-pelosi-wants-to-spend.jpg"
-        width: 1024
-        height: 682
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
+        width: 769
+        height: 433
         isCached: true
   - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
     excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
@@ -91,6 +73,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Joe Biden Campaigns in Durham, North Carolina"
+    excerpt: "Democratic presidential candidate Joe Biden delivered remarks at a voter mobilization event in Durham, NC, where early voting is already underway."
+    publishedDateTime: 2020-10-18T19:00:00Z
+    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "nFfsniZ+kCzAvB+cF0ZLhToTHFiOmauSZE9cWPqNB99AzXquIER+U1Wu728MmfEoDj6lxoAOiVogVNgh7+C0+L56TFwidxqxuom9lE5ukY2hsbHqVpoG+EuSCw3rCYw6gzBHvF4OuyvMmyeRFiRxymo3oVlDrQhjFve2EOrSj9VUFLBRkLACdRsgidOi7aaJMZuWXQUd4L0s9EANc8Emr5JAsNp9YpyLXP6HLg+r+6PqS8Mc/i7eFzeL85y6+7wsK+RgzVIguRqPtVivmJCmB2TpxsyPeHrU1cQBXVJ3ctwAeiwgtFNOOrklWHwJ2FS04iCRSocD/Yw/XBETLWaX2vleHNONPV00VKyqAuZIKQwQOGyTsKfmvYqCqgR2clvxiD7i2M4BP0gQlo4JXlWNZjwW9m6UuFjFHo4dc9xg66ZRRqtTUaeHy/s7fMzHynswsbuom9xvrN4tUH01AUt4MqmGwg+MoO7t+ChnkjJvgzoFn/ocywAlCG4BRxKGuaG6vIHwu5Lo9qM6GEUlxqQ53w==;ZVxietBFceWC04N9918IXg=="
 ---

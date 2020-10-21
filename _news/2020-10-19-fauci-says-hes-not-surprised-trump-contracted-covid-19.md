@@ -608,6 +608,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Stimulus talks come down to a Trump loyalty litmus test"
+    excerpt: "If House Speaker Nancy Pelosi is successful in getting Treasury Secretary Steve Mnuchin and the White House to sign off on a nearly $2 trillion stimulus proposal and it gets drafted before the election, she'll force Senate Majority Leader Mitch McConnell to make a wrenching decision.\n    \n"
+    publishedDateTime: 2020-10-21T12:45:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LVvs6oahMGk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/stimulus-state-of-play-nancy-pelosi-steve-mnuchin/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/stimulus-state-of-play-nancy-pelosi-steve-mnuchin/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
   - title: "Trump Funnels Record Subsidies to Farmers Ahead of Election Day"
     excerpt: "Despite an extraordinary government bailout, America’s agriculture sector remains under severe economic pressure."
     publishedDateTime: 2020-10-12T20:00:00Z
@@ -831,6 +842,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_36/3347846/200513-convalescent-plasma-al-1003_b370ed0b3300074d0dbe464cfb44dbcb.jpg"
         width: 2500
         height: 1709
+        isCached: true
+  - title: "Why hasn't Trump donated more money to his own campaign?"
+    excerpt: "As October got underway, Trump had only chipped in about $8,000 to his campaign, despite the \"whatever it takes\" rhetoric from a few weeks earlier."
+    publishedDateTime: 2020-10-21T13:43:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/why-hasn-t-trump-donated-more-money-his-own-campaign-ncna1244133"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244133"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244133"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2016_51/1839726/dollars_2545d1825bc673aaecd8fa01a99bcdba.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"

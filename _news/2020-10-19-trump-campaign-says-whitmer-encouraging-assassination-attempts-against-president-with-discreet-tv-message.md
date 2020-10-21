@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Nodding lady' at Trump town hall accuses critics of targeting her employees"
+    excerpt: "\"Nodding lady\" Marya Joli says her employees have been receiving hate messages since her appearance on an NBC town hall."
+    publishedDateTime: 2020-10-21T12:52:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SBDgWZZ1Xfs/nodding-lady-trump-town-hall-hate-messages"
+    ampWebUrl: "https://www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nodding-lady-trump-town-hall-hate-messages.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/120832826_10157610663063365_1553076211698567708_n.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Adelson shells out $75 million to pump up pro-Trump super PAC in final stretch"
     excerpt: "Casino magnate and Republican megadonor Sheldon Adelson and his wife Miriam contributed $75 million last month to a super PAC backing President Trump’s re-election bid as the race for the White House entered its closing weeks."
     publishedDateTime: 2020-10-16T02:40:17Z

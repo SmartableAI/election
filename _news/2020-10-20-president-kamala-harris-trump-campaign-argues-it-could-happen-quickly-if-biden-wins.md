@@ -2,19 +2,19 @@
 category: news
 title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
 excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-publishedDateTime: 2020-10-20T14:00:00Z
-originalUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
-webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
-ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
+publishedDateTime: 2020-10-20T12:00:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
 type: article
 quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -1290,22 +1290,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKSZULAROEI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Biden has big cash advantage over Trump in race's final stretch"
-    excerpt: "U.S. Democratic presidential candidate Joe Biden's campaign entered the final stretch of the race with a large cash advantage over President Donald Trump, disclosures filed with the Federal Election Commission showed on Tuesday."
-    publishedDateTime: 2020-10-21T06:34:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-fundraising-idUSKBN2760AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2760AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2760AE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538264536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K09K"
-        width: 817
-        height: 545
         isCached: true
   - title: "Trump tends to his electoral map, Biden prepping for debate"
     excerpt: "President Donald Trump is hopping from one must-win stop on his electoral map to the next in the leadup to a final presidential debate that may be his last, best chance to alter the trajectory of the"
@@ -7698,7 +7682,16 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Charlotte, North Carolina"
+    excerpt: "Senator Kamala Harris (D-CA) delivers remarks at a campaign event in Charlotte, North Carolina. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Jacksonville, Florida,"
+    publishedDateTime: 2020-10-20T17:24:00Z
+    webUrl: "https://www.c-span.org/video/?477200-1/senator-kamala-harris-campaigns-charlotte-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
-secured: "A6HaqFEalS+dsmc1H+y729+cApY6IWmAHhXWg0nlzsA/UWq/cs35/0xptmCNSOHU8AyqM+mZPebNJxAqfLy9oTGOqBOcsIsQcvyCGhRQFti7VXyQFWTHdTIF8GKarI/OFvc68NRyUud4PTxAhc+MgIGfam4n3ezeEHofCMH2EPBXgZiXQs1aEQ3vv7uPLrjoyXd0OXSG7gXSA4mHRq9mIboC9vCer8bxNx+mYQIcSM66tYJ2JIbqFQuVVRTPYr/gyF4O/duPp6V8nX7cI3+mhVNQaAqSfaRaBV5PZiM/tiFwPYyD8HIrABkGv03aORN6hmceEyWI7o0M2UduqabhOlrKYhpgMlzN/mG5QJ2P9BQ=;NHP//SVJBt76rhBtc6DfFQ=="
+secured: "n8JMarA2qTvRbm+8vt85R0JFYXhG24rOnbdNC4mmIs8tpUdgiDicGZS7hUCV0cSPa4mQn94yYyodErmM0tq9BeJG7yYBet+V5UPaCG/XmWc498R4r4TKwqpyvfit5mbLvlEPxjSyRVmSf9uKUTJOUHF6c1Zf6Uavm3HevZhUEuheTCKV7Uk/3cNbOkjQgTOJDOUihw8kiTaSageB0nUZKNrxOq15pQANOqqG+0HtS5lkz2o8sBIb50ciJ49cOZEVsiruf71r2jCPD4i2ynrc6580mEVJw+OrYRUOQyzn9oiLxSFIrYq49lF24qfen6HGeVSVbQDcoESKuBGsuS4sdPNJOcNKjgVej4mlI6MfAcM=;Ts/SsYqnkVlJQf3NivP+Gw=="
 ---
 

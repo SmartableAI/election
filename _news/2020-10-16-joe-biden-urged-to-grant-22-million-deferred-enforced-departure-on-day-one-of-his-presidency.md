@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urg
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
 type: article
 quality: 113
-heat: 133
+heat: 173
 published: true
 
 provider:
@@ -31,10 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "Bitcoin Proponents Bemoan Joe Biden's Proposed Capital Gains Hike"
+    excerpt: "A number of bitcoin proponents have been discussing the capital gains tax Joe Biden plans to invoke if he wins the American presidency."
+    publishedDateTime: 2020-10-20T21:18:00Z
+    webUrl: "https://news.bitcoin.com/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike/"
+    type: article
+    provider:
+      name: Bitcoin.com
+      domain: bitcoin.com
+    quality: 55
+    images:
+      - url: "https://news.bitcoin.com/wp-content/uploads/2020/10/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
     publishedDateTime: 2020-10-12T23:00:00Z
     webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
     type: article
     provider:
       name: C-SPAN

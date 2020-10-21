@@ -529,6 +529,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Echoes of Nixon reverberate as Trump presses Barr to target Biden"
+    excerpt: "Nearly a half-century after Nixon, we heard a different president \"endeavouring to misuse\" the DOJ, committing an impeachable offensive on live television."
+    publishedDateTime: 2020-10-21T13:00:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/echoes-nixon-reverberate-trump-presses-barr-target-biden-ncna1244127"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244127"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244127"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_07/3203706/doj_seal_158214905-maddowblog_db0a880705db3abf58456b13e1e5ced0.jpg"
+        width: 830
+        height: 553
+        isCached: true
   - title: "Trump's cash woes mount as Biden laps him"
     excerpt: "Altogether, including the campaigns, national parties and affiliated fundraising committees, Biden announced a cash edge of $432 million to Trump’s $251 million earlier this month, but the campaign-to-campaign comparison is important — and even more stark."
     publishedDateTime: 2020-10-21T08:42:00Z

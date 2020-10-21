@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5972629002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5972629002"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 111
     images:
       - url: "https://i.insider.com/5f7fc1caea74820019ca6178?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
+    excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
+    publishedDateTime: 2020-10-13T14:41:00Z
+    webUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f850341c255d800190b97bf?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

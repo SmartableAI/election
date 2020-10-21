@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-north-carolina-electi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp"
 type: article
 quality: 147
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "ABC News reporter scolds Kamala Harris for speaking to 'Avengers' stars instead of press"
+    excerpt: "ABC News chief White House correspondent Jonathan Karl fired off a snarky tweet directed at vice presidential candidate Kamala Harris on Tuesday night after she held fundraiser with the cast of “The Avengers."
+    publishedDateTime: 2020-10-21T12:42:00Z
+    webUrl: "https://www.foxnews.com/media/abc-news-karl-kamala-harris-avengers"
+    ampWebUrl: "https://www.foxnews.com/media/abc-news-karl-kamala-harris-avengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abc-news-karl-kamala-harris-avengers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kamala-harris-Jonathan-Karl.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris calls Barrett hearings 'illegitimate process,' says Republicans 'doing great harm'"
     excerpt: "Calif., on Wednesday described the Amy Coney Barrett confirmation hearings an “illegitimate process” hours after she had made similar claims during her grilling of the Supreme Court nominee earlier in the day."
     publishedDateTime: 2020-10-15T13:41:00Z

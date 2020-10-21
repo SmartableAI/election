@@ -1296,22 +1296,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden has big cash advantage over Trump in race's final stretch"
-    excerpt: "U.S. Democratic presidential candidate Joe Biden's campaign entered the final stretch of the race with a large cash advantage over President Donald Trump, disclosures filed with the Federal Election Commission showed on Tuesday."
-    publishedDateTime: 2020-10-21T06:34:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-fundraising-idUSKBN2760AE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2760AE"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2760AE"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 140
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538264536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K09K"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Trump tends to his electoral map, Biden prepping for debate"
     excerpt: "President Donald Trump is hopping from one must-win stop on his electoral map to the next in the leadup to a final presidential debate that may be his last, best chance to alter the trajectory of the"
     publishedDateTime: 2020-10-21T05:09:00Z
@@ -4056,14 +4040,14 @@ related:
         isCached: true
   - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
     excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-    publishedDateTime: 2020-10-20T14:00:00Z
-    webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
-    ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
-    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
+    publishedDateTime: 2020-10-20T12:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
     type: article
     provider:
-      name: Wichita Eagle
-      domain: kansas.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 98
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
@@ -7698,6 +7682,15 @@ related:
     excerpt: "President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Pence delivers remarks at a campaign rally in New Cumberland, Pennsylvania. Vice President Mike Pence delivered remarks at a campaign rally in Miami,"
     publishedDateTime: 2020-10-19T18:52:00Z
     webUrl: "https://www.c-span.org/video/?477110-1/vice-president-pence-campaigns-harrisburg-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Charlotte, North Carolina"
+    excerpt: "Senator Kamala Harris (D-CA) delivers remarks at a campaign event in Charlotte, North Carolina. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Jacksonville, Florida,"
+    publishedDateTime: 2020-10-20T17:24:00Z
+    webUrl: "https://www.c-span.org/video/?477200-1/senator-kamala-harris-campaigns-charlotte-north-carolina"
     type: article
     provider:
       name: C-SPAN

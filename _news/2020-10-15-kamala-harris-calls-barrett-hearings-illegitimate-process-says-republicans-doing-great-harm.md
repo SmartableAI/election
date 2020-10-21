@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ABC News reporter scolds Kamala Harris for speaking to 'Avengers' stars instead of press"
+    excerpt: "ABC News chief White House correspondent Jonathan Karl fired off a snarky tweet directed at vice presidential candidate Kamala Harris on Tuesday night after she held fundraiser with the cast of “The Avengers."
+    publishedDateTime: 2020-10-21T12:42:00Z
+    webUrl: "https://www.foxnews.com/media/abc-news-karl-kamala-harris-avengers"
+    ampWebUrl: "https://www.foxnews.com/media/abc-news-karl-kamala-harris-avengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abc-news-karl-kamala-harris-avengers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/kamala-harris-Jonathan-Karl.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kamala Harris engaged in nonessential travel, and now her communications director has COVID-19"
     excerpt: "Reinforcing the longstanding media narrative that Sen. Kamala Harris of California has not been taking the pandemic seriously by engaging in nonessential travel across state lines, her communications director has contracted the deadly coronavirus."
     publishedDateTime: 2020-10-15T14:55:00Z
