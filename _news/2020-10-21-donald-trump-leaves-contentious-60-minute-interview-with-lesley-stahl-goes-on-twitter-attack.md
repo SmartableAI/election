@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump, unhappy with questions from ‘60 Minutes’ host Lesley Stahl, threatens to release interview himself"
+    excerpt: "President Trump lashed out at “60 Minutes” host Lesley Stahl and threatened to release their interview after he cut off their conversation at the White House on Tuesday because he didn’t like the aggressive tone of her questions."
+    publishedDateTime: 2020-10-21T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6GBNYQTEUI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 1024
+        isCached: true
 
 secured: "X35+p5yaegqDxnVLspn+PqpnB5BmQi9BLPmCHaVEvweaCxWd4gAncovMEKZE6HzMQjFAWzGdVIbDuSp+GSY/0+IuF4l8uT9Z7W90W1o6LNpZo0NUmNPA/hIFTTyR9vkVn6l7TUuvxt1DG2x97SbZBDXKP7iZwxRflQJzdEIa2aSgOlELctP4BZn638hlJ2QJVvsLCMedqsNkhDwwbJFiaEWInSGV1yz9jxFErff2LcHl/J/BbBmNK6Co76JBef5ptmwBns0MTJvSJBAaXI+CxFI+xlGILDNc1B9CiPBuPd12StwaCzbtN7ArtlsVEU6BLUhqxJK/gVTit1iLzZKYt2bcigRnUKGXDokcaLmnoeE=;qBeY6PkZhHJnbAuku6ef7g=="
 ---

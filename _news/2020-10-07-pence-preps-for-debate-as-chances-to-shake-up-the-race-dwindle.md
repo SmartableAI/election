@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Pence preps for debate as chances to shake up the race dwindle"
-excerpt: "Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald Trump faced former Vice President Joe Biden on the debate stage.\n    \n"
+excerpt: "(CNN)Vice President Mike Pence is set to square off with Sen. Kamala Harris at the vice presidential debate Wednesday in Salt Lake City just over one exceptionally long week since President Donald ..."
 publishedDateTime: 2020-10-07T01:33:28Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PbDsqxrMROg/index.html"
+originalUrl: "https://www.cnn.com/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
+webUrl: "https://www.cnn.com/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/06/politics/mike-pence-vp-debate-prep/index.html"
 type: article
-quality: 185
-heat: 305
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Democratic Voice
   - Mike Pence
+  - Democratic Voice
 
 images:
   - url: "https://cdn.cnn.com/cnnnext/dam/assets/200826232610-mike-pence-rnc-august-26-2020-01-super-tease.jpg"
@@ -96,37 +96,7 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "What caused Mike Pence’s bloody eye"
-    excerpt: "Vice President Mike Pence ignited speculation about his health when he arrived at the only vice presidential debate Wednesday night with a bloody left eye, but a senior administration official on Thursday said there’s no reason to be concerned."
-    publishedDateTime: 2020-10-08T14:57:00Z
-    webUrl: "https://www.politico.com/news/2020/10/08/vice-president-mike-pence-bloody-eye-debate-427912"
-    ampWebUrl: "https://www.politico.com/amp/news/2020/10/08/vice-president-mike-pence-bloody-eye-debate-427912"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/08/vice-president-mike-pence-bloody-eye-debate-427912"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 135
-    images:
-      - url: "https://static.politico.com/c4/9f/168e43a244849a2d6519243d7b4b/gettyimages-1279073912-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "Pence plays Covid defense and other things to watch at the vice presidential debate"
-    excerpt: "It’s the former radio host (turned governor) vs. the former prosecutor (turned senator) in Salt Lake City Wednesday for the first and only vice presidential debate."
-    publishedDateTime: 2020-10-07T19:54:00Z
-    webUrl: "https://www.politico.com/news/2020/10/07/vp-debate-2020-what-to-watch-427305"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 109
-    images:
-      - url: "https://static.politico.com/6a/92/4dbc48bc421b81bf662001ed0fcb/201007-pence-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "62zAOvENznbqoXPiZ5BQptTU6GjSDckLIoqQ4iOcEYdVxbRyR/Hg4c5rMr/6N13z+3J207aDIhcQdMeu4qRGKPDzc4ZUAQM5Nbzp7FZ24lXjDKZIXaLot3wm1AXfHdmd0yvSH6dhLgme7Xc8lTe04a29F26G0oPLZYB1ycJn+3dKH0nnP78HK6s6xFBHBToeIfUAlz32oA98Q2IqGlB/NCOC48lyfDhC7ZtvKRTHeqmdIXOlyifPpvdGHGSQ4Qc2ycFk2zNWisQ6KrjHLFIvjqBcv3F00VG4+tGCcJmbOnv2GFC7Aeg11g58f9Rzw/IoBRVBfAgs4u+5bnRes/gGdJg1fwVCFYnYFl2gyJpiJDQ=;fIOGcXtLE4Qi++RmCyNLjA=="
+secured: "MMXxTHdRwnH4KlawyWw9ZGWjSgzEoHwGqCTPo3WyL6EDt312F4S3cKVKGrtjZ0oZa123xe+4tSY48Zwaob7l3St96VXn0NSTseTllan3SmHsB8YOJNuAqNcpkTzpgqkg9Dh4DrVzpsorrp+1dZA9EzH0LuAi1Ebjd/UdY8gC9wQbg90Qvd0AvpJsEkusIDY7XU6oHjeOvFdfyAr7loxUA5aZgTGOJ/y55hHgbmSFacmXRNzZ5+tIX456t2lip5sVOIp1GXxrJEz0ezicGR27471dTWcuM0My81V9CbQ96/Fm6uT6RqvsOA+CHabIa8VHQqLyigFbFf38iOUQhJ6+kRR2DY5drikioxxXbbXAD8E=;qwQl8HCSie3QMxuzDErAXw=="
 ---
 

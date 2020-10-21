@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-y
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/27/politics/trump-income-taxes-new-york-times-report/index.html"
 type: article
 quality: 169
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Uses E.P.A. Office to Widen ‘Anarchist’ War vs. New York"
-    excerpt: "The president has painted New York as an “anarchist jurisdiction,” but his administration’s threats to withhold funds are being dismissed as a politicized campaign tactic."
-    publishedDateTime: 2020-09-23T08:20:00Z
-    webUrl: "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.html"
-    ampWebUrl: "https://www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/22/nyregion/trump-epa-anarchist-jurisdiction.amp.html"
+  - title: "New York Times: Tax records show Trump maintains Chinese bank account "
+    excerpt: "President Donald Trump's tax records show he has pursued expansive business projects in China for years and even maintains a Chinese bank account, The New York Times reported Tuesday, disclosures that deal a blow to the President's efforts to paint Democratic nominee Joe Biden as the presidential candidate"
+    publishedDateTime: 2020-10-21T01:41:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJz7Px1UJvY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-china-taxes-financial-records/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020081317-donald-trump-air-force-one-1019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "In deep-blue New York City, a gated beachfront haven where Trump flags fly."
+    excerpt: "Trump’s hometown, New York City, has not exactly been hospitable to him as a politician. In the 2016 election, Hillary Clinton outpolled him here more than four to one. His home borough within the city,"
+    publishedDateTime: 2020-10-20T20:25:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/elections/in-deep-blue-new-york-city-a-gated-beachfront-haven-where-trump-flags-fly.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/elections/in-deep-blue-new-york-city-a-gated-beachfront-haven-where-trump-flags-fly.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/elections/in-deep-blue-new-york-city-a-gated-beachfront-haven-where-trump-flags-fly.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2020/09/22/nyregion/22ny-anarchists2/22ny-anarchists2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/20elections-briefing-Queens/20elections-briefing-Queens-facebookJumbo.jpg"
         width: 1050
-        height: 549
-        isCached: true
-  - title: "Trump lashes out at New York Times report alleging years of tax avoidance"
-    excerpt: "According to The New York Times, Trump only paid $750 in federal income taxes the year he won the presidency and again during his first year in office."
-    publishedDateTime: 2020-09-27T23:00:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-lashes-out-new-york-times-report-alleging-years-tax-n1241220"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1241220"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241220"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 134
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3415366/200927-donald-trump-jm-1433_2ecab3b8e6edbead73e1276361056151.jpg"
-        width: 2500
-        height: 1667
+        height: 550
         isCached: true
 
 secured: "UbHLkuFKdB3WULsiXO0uylvWQevpueByXSOi0Q7PwrRWtpY+jOmSEYEXlUswKFMRn8j7825hYhnY9/Lb8VaH8jShrwdfbsfOAUSkBSmMstl6cpk8+cICf6Z+4IqukyYWnmf9m/nhePLwyXFjiQOykEVGJy89puDLffrZW2P+fhZVqYJFYTRqk/3r9pV2R70zRHweKHCKTZpfh4rwhmSoNPM+ATyDmQCD0RMMEWZ+AcH0SuYs09EvV34BKFZn/ZO/zzYUuOz5+vDRMF7/Wpz7a2eVm5gztsmTgDfUhc0LG4cfuX8hlo7ch7oT36jhHVrZTXyw4drUaEji+epTwSefCrcxd7OIHXR9goaCYe3YsCA=;UDDpKdUxlkT2mbgcTx4wDw=="

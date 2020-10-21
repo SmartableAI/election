@@ -367,6 +367,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "FBI agrees with DNI Ratcliffe that Hunter Biden laptop, emails not part of Russian disinformation campaign"
+    excerpt: ""
+    publishedDateTime: 2020-10-21T01:41:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uXqPS4YO5I/fbi-says-they"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-says-they.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-says-they.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden lashes out at CBS reporter when asked about NY Post report: 'I have no response, another smear campaign'"
     excerpt: "Democratic presidential nominee Joe Biden was finally asked about the explosive New York Post report that alleges emails show his son made millions trading on his father's influence."
     publishedDateTime: 2020-10-17T02:03:00Z

@@ -351,6 +351,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "FBI agrees with DNI Ratcliffe that Hunter Biden laptop, emails not part of Russian disinformation campaign"
+    excerpt: ""
+    publishedDateTime: 2020-10-21T01:41:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uXqPS4YO5I/fbi-says-they"
+    ampWebUrl: "https://www.foxnews.com/politics/fbi-says-they.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-says-they.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Hunter Biden emails under investigation by Senate Homeland Security Committee after hard-drive report emerges"
     excerpt: "The Senate Homeland Security and Governmental Affairs Committee is investigating newly released emails which revealed that Hunter Biden introduced his father, former Vice President Joe Biden, to a top executive at Ukrainian natural gas firm Burisma Holdings in 2015 at Hunter's request. "
     publishedDateTime: 2020-10-14T15:47:51Z

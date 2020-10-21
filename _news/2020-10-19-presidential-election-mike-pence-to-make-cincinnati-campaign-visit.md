@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cincinnati.com/amp/3708424001"
 cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3708424001"
 type: article
 quality: 90
-heat: 310
+heat: 330
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
     quality: 75
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/dc24b0d/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.wcpo.com%2Fsharescnn%2Fphoto%2F2017%2F06%2F16%2F1497572980_61272533_ver1.0_640_480.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Vice President Pence to campaign in Waterford Thursday"
+    excerpt: "Vice President Mike Pence is scheduled to hold a “Make America Great Again” rally in Michigan on Thursday, Oct. 22."
+    publishedDateTime: 2020-10-21T01:32:00Z
+    webUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/"
+    ampWebUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 75
+    images:
+      - url: "https://www.clickondetroit.com/resizer/VC9YfWLy9HeJe-EysXd4Zgl3g5Y=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/Q6W35VUWDNFGLOOIQX4ZAQQTGE.jpg"
         width: 1280
         height: 720
         isCached: true

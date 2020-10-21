@@ -335,6 +335,22 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
+    excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
+    publishedDateTime: 2020-10-21T01:37:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "f98xQXGEBQSt/22e0So0NaXi5UhDZDtFy1pqMhreWLMklm4t+1sDgIk3ZZzfJDTppvcAqAyLe/my3iP99WCUqRL207R4wgsMYjx6O3GfMvNMfwxzmDPJVaXiRlYa7f953CqRm9HZpwRyXmsiAVKSyuyDO+6VfuCCUN9Ro2dVQJWGn3PdYatnLu34r2ArSHgNM9/qpLouALgfDSipTzBQpEKxNKoL82Y+xY6HkCkn3fmSV/ckkmW5Wl+t9cQTUg7XBkzHkFS5twnD5j26CU5T50EXSdTLWGU7pfCh7zsp8JU9EVEspkLy98P5VOQHt6d2iW0kj+sb8le7Rarh3X5qa6vM4LLxWdiz2zSMO5WE6xfyrYoNqu62zS7gxYXI2plCB2zqdOYlIbM1/CZsh/GktJU/NVGHm4uZWeUYWV5g/d5mHZd4kLl4eWVfeQG9JEEBc8q+6//YK1qkYtRFkScMLiNKCWUTB34xx6b9/lFBb4NJch20gjerkXVLEI1pnHPSmUqGKBkXX5Pe6SAtVH2yxQ==;8WUTxJCULj2jk5U9qCp2bw=="
 ---

@@ -2970,6 +2970,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 days before final debate, Trump shuns formal practice in favor of Pennsylvania rally as Biden holes up for prep"
+    excerpt: "Trump, trailing in polls in most battleground states, continued his travel blitz in the race’s final fortnight."
+    publishedDateTime: 2020-10-21T01:19:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-debate-updates-20201020-5uxcjblxr5a3vafkfo22sqdkhu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-debate-updates-20201020-5uxcjblxr5a3vafkfo22sqdkhu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-debate-updates-20201020-5uxcjblxr5a3vafkfo22sqdkhu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lOISlRgokkdBDHm4kRD0PHh9uJo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W76N5ZNR45HERANS4IW2L2ISFQ.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
     publishedDateTime: 2020-10-14T22:32:00Z
@@ -4744,6 +4760,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
     ampWebUrl: "https://www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "The Latest: Trump plans to debate Biden despite rule changes"
+    excerpt: "The Latest on the 2020 presidential campaign (all times local): 8:50 p.m. President Donald Trump plans to attend Thursday’s debate with Democratic nominee Joe Biden despite rule changes — opposed by his campaign — that are meant to foster more ordered discussions."
+    publishedDateTime: 2020-10-21T01:16:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
     type: article
     provider:
       name: Houston Chronicle

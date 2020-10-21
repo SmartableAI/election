@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior officials urge Election Day patience, while Trump calls for fast results "
+    excerpt: "Senior Department of Homeland Security officials on Tuesday urged patience from voters and warned that election results won't likely be known on Election Day this year -- comments that are in contrast with those of President Donald Trump, who has said he wants immediate results.\n    \n"
+    publishedDateTime: 2020-10-21T00:39:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2fPvCJN0_Ws/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/election-day-results-calls-for-patience/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/election-day-results-calls-for-patience/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190813111158-ken-cuccinelli-presser-uscis-081219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration hypes immigration enforcement in key swing state ahead of election"
     excerpt: "When the idea of erecting billboards of immigration violators initially came up at least a year ago, US Immigration and Customs Enforcement officials didn't think much of it. The proposal was considered to be a low priority, according to two sources familiar with the discussions.\n    \n"
     publishedDateTime: 2020-10-16T17:48:41Z

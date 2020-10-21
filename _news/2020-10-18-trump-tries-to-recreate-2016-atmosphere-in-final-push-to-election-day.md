@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior officials urge Election Day patience, while Trump calls for fast results "
+    excerpt: "Senior Department of Homeland Security officials on Tuesday urged patience from voters and warned that election results won't likely be known on Election Day this year -- comments that are in contrast with those of President Donald Trump, who has said he wants immediate results.\n    \n"
+    publishedDateTime: 2020-10-21T00:39:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2fPvCJN0_Ws/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/election-day-results-calls-for-patience/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/election-day-results-calls-for-patience/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 185
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190813111158-ken-cuccinelli-presser-uscis-081219-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats hatch plans to counter Trump's attempts to cast doubt on election results"
     excerpt: "Behind the scenes, Democrats are preparing to confront President Donald Trump if he loses the election next month to Democrat Joe Biden -- if Trump claims that the result is rigged, refuses to engage in a peaceful transition or tries to challenge the result through the courts, Congress or statehouses.\n"
     publishedDateTime: 2020-10-19T10:31:19Z

@@ -2981,6 +2981,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2 days before final debate, Trump shuns formal practice in favor of Pennsylvania rally as Biden holes up for prep"
+    excerpt: "Trump, trailing in polls in most battleground states, continued his travel blitz in the race’s final fortnight."
+    publishedDateTime: 2020-10-21T01:19:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-debate-updates-20201020-5uxcjblxr5a3vafkfo22sqdkhu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-debate-updates-20201020-5uxcjblxr5a3vafkfo22sqdkhu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-debate-updates-20201020-5uxcjblxr5a3vafkfo22sqdkhu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 119
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lOISlRgokkdBDHm4kRD0PHh9uJo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W76N5ZNR45HERANS4IW2L2ISFQ.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump shared a picture mocking Joe Biden as a nursing-home resident as polls find seniors abandoning the president"
     excerpt: "The tweet, which appeared to mock Biden's age and health, came as Trump and Biden battle for older Americans' votes."
     publishedDateTime: 2020-10-14T22:32:00Z
@@ -4755,6 +4771,22 @@ related:
     webUrl: "https://www.chron.com/news/article/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
     ampWebUrl: "https://www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
     cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "The Latest: Trump plans to debate Biden despite rule changes"
+    excerpt: "The Latest on the 2020 presidential campaign (all times local): 8:50 p.m. President Donald Trump plans to attend Thursday’s debate with Democratic nominee Joe Biden despite rule changes — opposed by his campaign — that are meant to foster more ordered discussions."
+    publishedDateTime: 2020-10-21T01:16:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Trump-tells-staffers-We-re-going-to-15658252.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -7525,6 +7557,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "6oB4KDPojIdK16aqqyUiSJ5kqFS3a01gGhxZHDhyyrH7Y2pQaEHqV1CNsu3zrvqqx9dWGpGSFJp0/5a6VCpB1oOxAaf8NpZZ9W5rt4vyQ6T5QZMixDfxp+RAGqjZqf1TLeHA6wMvSJSD+0t3sJQ/msCK9RI45OtiIR9tVm4Bu2BPSJi0k5qPqPiKNT0M0DSOE22GwHTqTnspJB7808Hk9TjjYd2sBhhk6h952+5wmi1olOi4NYZbQlJzKKLkPqvGtxb5ynjLesJimMBOAHJ7kFMxlwSQPMiBEoaLCWV5d3YszR5lU/wJds02ODSMdv9wQdLMWeJKqW8eMFPYICE57/BvRXrbEWE5QkKdbA4i4FI=;5kOeH4yXNjHHyrGfZ/CgWw=="
+secured: "UomAZS4VV2oJ/7vUbr6pDW4FXkVcDuC3gfKphKfQBMAFCkHWE8dRsScWxLBNxU0AXyEHcDt4O8eh0ZfyCICBmRrJuW22veDtY8x3XpdP1r9LZSF7V/S//e1Rd7cxoxAfjI1Ii1IQvjoxFt9kszW7EaoQCsDDbOsXM7S6MLRhUNytLmU8JaJyAACyXKPBpS832EwRIlEJLRwb2qqO+ns4pDWHX5lfdR0RMnK7mrzKXSmYT1qnS3K8FJILxSwj7W+fs9417IiC1lmgCyoCwXO4qmGk+nvHY5gktAY4LuE1gaRepsaddK9beA4mIWnDMqs1PeqotdM45F0gfqZ6bezWwYbXCnfL9D63I/slE4JEmnrSat3eskgkXrJ7D642huwgFb5LoXfjh5vOIS8ZlmfyBD4DFtwMDSgoU5CxWnmshiqvvXt1j2Td0fwsXbglMqMpJQQY8u4/5BP670se9wdNktJm9ZRMhysV0IC1jFPhk5Pd6IBIBT41mL66ryZ/NjwooPN21THtmNde9eWmngCoIQ==;gi3IXJ0wz0biBpZRkX/zTA=="
 ---
 

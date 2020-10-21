@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/report-trump-prematurely-ended-60-mi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10?amp"
 type: article
 quality: 123
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump, unhappy with questions from ‘60 Minutes’ host Lesley Stahl, threatens to release interview himself"
+    excerpt: "President Trump lashed out at “60 Minutes” host Lesley Stahl and threatened to release their interview after he cut off their conversation at the White House on Tuesday because he didn’t like the aggressive tone of her questions."
+    publishedDateTime: 2020-10-21T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6GBNYQTEUI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 1024
         isCached: true
 
 secured: "rcmIxTMJkNjUiWm+zneHvWfKwwHtyBnHtdWfmlnFBsOhzc1CjA8zrjDeBW6VYR+oJ1dvkRdEXLQ2AQ2Cb4JZzi7e/mcwTAaEyvv9DvP320J70VbS7Tj33/lC7eMzt+a9FTKn8LSCMI1+ptW3xekIJNruIKp5IpWr13YYj1USEKeJHEpkaG76fcOmsLUurvJJHt18OmcQdByRJFNUdPyzyfuUvwBVGEJ0H55w2BlD5ooGYLbiMlDK0p4INhZ0w5qqBosQASYGbYsMmP9n2J9NOyLDRR5u0KFxIxHcZyGQKNz7E2OeAMC2UHOZVUX9zJHaYg50uwqi9UjOUf9emVDQbBuQcRUMnNlh7A5YHM6gUZU=;dbi+lc/1I5nPOqJz8sD25Q=="

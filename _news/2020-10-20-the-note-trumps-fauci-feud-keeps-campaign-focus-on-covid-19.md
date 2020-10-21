@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
         width: 800
         height: 430
+        isCached: true
+  - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
+    excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
+    publishedDateTime: 2020-10-21T01:37:00Z
+    webUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649"
+    ampWebUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "Y93gNM4bikw2ApP87WVdMLThu0ytp7Sr8os5ThheaaNJzw9DnSBxANl2/nFQbtSul7S2WZPCyX7HX24RDqetlvsSoNILmsh58rNQH7n4zr/U4oTFV/AQP+d9bnIF2Ei7BCCoJ9vikJden1KlFlPwUDB3j7kFnDitZlLxKpBng9HOrIaIZxKkRtBxeOQfWhkwUhZ6+pJlSQuCf8DkLCe+uQe4dIA0+P+GDfmKUmaek4opX2buxCkO2ZnlUYkyR9SRAfJFBnZ2vqp4yIkMge9xIi3SKFTkUf88umsWqT3ShezG9zJGdPezORG8GffwC0qvp0HrPZuS7aeWTABJI2Yh0GrGO7DN4EFNrypaqFlY2rPtY1jk9JLQITbbhbQSgVSPSvxmohvCwlWiGsV2ikL2k8Jh/cBWPrymmAzcr15NA++CG3me4q2EsouLYU0oKlHpkyz96wBYu43IbOIZF1++4BekUi33KUEHlcvb3K6Z8/m0g0kmSbSYhTQlKsZJHsAOVGbTs275ASYJYqg0g+VhTg==;ZCrFduX9qgxw8wwcqZuzhg=="
