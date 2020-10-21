@@ -31,179 +31,174 @@ images:
     isCached: true
 
 related:
-  - title: "Trump tries to shore up support from big business, Iowans"
-    excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa"
-    publishedDateTime: 2020-10-15T01:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
+  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-21T03:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
-    excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
-    publishedDateTime: 2020-10-16T12:47:00Z
-    webUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698"
-    ampWebUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Reuters
+      domain: reuters.com
     quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1653787/trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump Loses Latest Fight To Keep Tax Returns From Manhattan D.A., Supreme Court Battle Looms"
-    excerpt: "A federal appeals court rejected Donald Trump’s latest attempt to keep eight years of tax returns from Manhattan’s district attorney."
-    publishedDateTime: 2020-10-07T15:45:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 114
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de0dd33fa87183df1ec42%2F0x0.jpg%3FcropX1%3D28%26cropX2%3D2971%26cropY1%3D0%26cropY2%3D1963"
-        width: 1199
-        height: 800
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump, forced into playing defense, looks to shore up support in Iowa: ‘I’m a little bit concerned’"
-    excerpt: "The president sought to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa."
-    publishedDateTime: 2020-10-15T05:07:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html?outputType=amp"
+  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
+    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
+    publishedDateTime: 2020-10-20T17:37:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
+    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
+    publishedDateTime: 2020-10-19T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-20T12:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 111
     images:
-      - url: "https://www.chicagotribune.com/resizer/K5BfMJN8NlAQpKsWIxZcoMuzPvg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MWSPPR724FALPNFEZ2KCEXQSI4.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
-    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
-    publishedDateTime: 2020-10-13T12:03:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
+    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
+    publishedDateTime: 2020-10-16T01:20:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
     images:
-      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
+      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Are Ben Sasse and other Republicans Trying to Cancel Donald Trump?"
-    excerpt: "Sasse and others avoided criticizing Trump when he was up. Now that he’s down, they’re turning on him. The hypocrisy is rich."
-    publishedDateTime: 2020-10-16T20:07:00Z
-    webUrl: "https://nationalinterest.org/blog/2020-election/why-are-ben-sasse-and-other-republicans-trying-cancel-donald-trump-170869"
-    ampWebUrl: "https://nationalinterest.org/blog/2020-election/why-are-ben-sasse-and-other-republicans-trying-cancel-donald-trump-170869?amp"
-    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/why-are-ben-sasse-and-other-republicans-trying-cancel-donald-trump-170869?amp"
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 75
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-12T151726Z_1902732187_RC23HJ9V5YBP_RTRMADP_3_USA-COURT-BARRETT.JPG"
-        width: 1200
-        height: 823
-        isCached: true
-  - title: "Trump goes after Fauci, tries to buck up his campaign team"
-    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
-    publishedDateTime: 2020-10-19T19:17:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
-  - title: "Fresh Off COVID-19, Donald Trump Tells Supporters He Wants to “Kiss Everyone”"
-    excerpt: "On Monday night, hours after attacking Joe Biden for supposedly improperly wearing a mask, Donald Trump flew to Florida in the apparent hope of helping the state kill off a few more residents by holding another of his patented campaign rallies that brought thousands of people together with practically zero social distancing,"
-    publishedDateTime: 2020-10-13T17:00:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/donald-trump-covid-19-rally-kisses/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 72
-    images:
-      - url: "https://media.vanityfair.com/photos/5f85d3d4b13a7bb1006f71b8/master/pass/donaldtrumprally.jpg"
-        width: 2000
-        height: 1348
-        isCached: true
-  - title: "Rural voters explain why they’re leaving Trump: ‘I went from being a pawn — to collateral damage’"
-    excerpt: "President Donald Trump has desperately tried to convince rural America that he will save them as their communities are slowly falling away. Trump has tried to prop them up with farmer funding, but the tactic shows an ignorance about the issues that rural families are facing when it comes to education and access to medical"
-    publishedDateTime: 2020-10-18T05:16:00Z
-    webUrl: "https://www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rural-voters-explain-why-theyre-leaving-trump-i-went-from-being-a-pawn-to-collateral-damage/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2018/08/Soy-farmer-745x430.jpg"
-        width: 745
-        height: 430
-        isCached: true
-  - title: "BUSTED: Fake Black Trump ‘supporters’ — with tens of thousands of followers — purged on social media"
-    excerpt: "Forbes reported that Twitter is suspending several fake accounts posing as Black supporters of President Donald Trump, saying that they violate the guidelines on spam and account manipulation. Many of these accounts used identical language over and over,"
-    publishedDateTime: 2020-10-14T14:41:00Z
-    webUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/busted-fake-black-trump-supporters-with-tens-of-thousands-of-followers-purged-on-social-media/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 60
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/blacks_4_trump_shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Mass. middle schooler who supports Trump asks for staff training"
-    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
-    publishedDateTime: 2020-10-14T11:48:00Z
-    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
     quality: 55
     images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
         isCached: true
 
 secured: "dnabPE2AyFrrF/t2NZfqDvvc14wH8GZMBnT7RJk+tzhoCJTrlC/ojojuy7hQkvDuC8sD016GS3R++7gT9JKWTodvlnuUZEJCuBReBVv8lhc8eh15SCeBiCevzmh45WouyE0BDgr5LHNQ2Lavi4nF+TrBhEbL8/zJYeKDI9mmGMMui3/EiPfhbvcapVgmtFKjPZCKfi9vCR2PufTTDemRr+U9vkziKBz80cdqvPObpxaAfJd+1QcB24oM1Lne6mpiWgMeaGd7Rf8YuL6Xz3CSY48YpfuI4oMX8ZiseWUctSzW+GUEBjN24Z8CTrJ3N2e2y2PUSDE5TDGpKKxhq6fcDmil0WbOS/iYbWMILX1XiA8=;AJnl+wadMOhQZXCmUP7JpQ=="

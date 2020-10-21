@@ -285,6 +285,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Rep. Jim Jordan calls for special counsel investigation into Hunter Biden emails"
+    excerpt: "Republican Rep. Jim Jordan, R-Ohio, echoed President Trump's call for Attorney General William Barr to tap a special counsel to investigate alleged revelations coming Hunter Biden's laptop in the wake of last week's New York Post bombshell report. "
+    publishedDateTime: 2020-10-21T02:07:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2qtNptL2e3w/jim-jordan-special-counsel-investigation-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-special-counsel-investigation-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-special-counsel-investigation-hunter-biden-emails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c599d91a-7795-4d77-9263-86c7c85e6b09/96aea856-8913-4668-8cfd-bdb177f84643/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meadows teases Biden family connection with Romania to surface 'in the days to come'"
     excerpt: "Hunter Biden's overseas business interests extended to Romania as well as China and Ukraine, and Americans can expect to learn more \"in the days to come,\" White House chief of staff Mark Meadows suggested on Fox Business Network's “The Evening Edit\" Monday. "
     publishedDateTime: 2020-10-20T00:14:56Z

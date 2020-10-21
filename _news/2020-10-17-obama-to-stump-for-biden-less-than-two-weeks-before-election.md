@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1350
+heat: 1370
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rep. Jim Jordan calls for special counsel investigation into Hunter Biden emails"
+    excerpt: "Republican Rep. Jim Jordan, R-Ohio, echoed President Trump's call for Attorney General William Barr to tap a special counsel to investigate alleged revelations coming Hunter Biden's laptop in the wake of last week's New York Post bombshell report. "
+    publishedDateTime: 2020-10-21T02:07:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2qtNptL2e3w/jim-jordan-special-counsel-investigation-hunter-biden-emails"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-jordan-special-counsel-investigation-hunter-biden-emails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-jordan-special-counsel-investigation-hunter-biden-emails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c599d91a-7795-4d77-9263-86c7c85e6b09/96aea856-8913-4668-8cfd-bdb177f84643/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden says 'chicanery' at polls is the only way he could lose U.S. election"
     excerpt: "Democratic nominee Joe Biden said the only way he could lose the 2020 election was through “chicanery,” before later adding he would accept the results of the election. "

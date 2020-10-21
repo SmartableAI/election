@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Donald Trump's war chest has dwindled as election draws near"
+    excerpt: "President Donald Trump's campaign entered October with just $63.1 million in remaining cash reserves, new filings show, underscoring his financial vulnerabilities as Election Day fast approaches.\n    \n"
+    publishedDateTime: 2020-10-21T03:52:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aPYT7mj1hw4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/president-donald-trump-dwindling-cash-stockpile/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/president-donald-trump-dwindling-cash-stockpile/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020205351-trump-white-house-1020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican Massachusetts governor will not support Trump's reelection effort"
     excerpt: "Republican Massachusetts Gov. Charlie Baker isn't backing President Donald Trump's reelection bid, his communications director Lizzy Guyton told CNN affiliate WCVB on Wednesday.\n    \n"
     publishedDateTime: 2020-10-15T00:55:26Z

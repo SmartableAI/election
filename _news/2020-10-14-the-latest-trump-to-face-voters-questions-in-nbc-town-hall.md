@@ -199,6 +199,20 @@ related:
         width: 1024
         height: 673
         isCached: true
+  - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
+    excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
+    publishedDateTime: 2020-10-21T03:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-strongmen-how-us-leader-fell-autocrats-3065738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ZmaagPekFMafMKy6o6ecNO7QCEEK+RVT+qoHgKi4yNDmMCes4S+MY15i/aU/f5w6vFWYeltfFbI7TB9g1WqRBJ1dXh03Yhj9njn7m1wY3Abcaq+OmjEAhKUVVDEOe4mrkXmBRKqpSFjkHhloAYR+iH9gn20Xo3iA9Zo1YsK1t+G6eovBlFWhERtTgiXcONrB3tHeiX4JIxdUAWSgF9rj4mfTwXKAO2fGdVJLggetznq601Q+pmATyBT3sa+UlPtEHFdK0xNV2VPsQIZo+m28spVQ9b4YZapS0NJQ+f4awT1SYX/iY/tLabgGPMB3J/q/4Vt4xIQsI6PGbUPusvTlesEFWJeRK60E8YU4pem0sBwPkqGxkJRmpe78hLIZsEkaHR7SINiICYE9s9onebUDEmXph4+Bz0QYX9F7zslkgU0/PCqJJVDtwj+cwPuXbIOHRfQjROKZohjis4ChVZGke2dTysbe9hdWVdq8RLKgFQWV9rZ2xB4VF5HjGGpdRImsmtKQmVIglylglXlEel6JHg==;WgzyEZHglNQY77DDBwljIw=="
 ---

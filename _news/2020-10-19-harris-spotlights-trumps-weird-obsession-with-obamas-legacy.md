@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -249,6 +249,20 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/283/f1dd55fa-c588-4af6-9eee-335ffba85773.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Kamala Harris: More Than Fair To Say Trump Has \"Exhibited A Reckless Disregard For Human Life\""
+    excerpt: "Democratic nominee for vice president Sen. Kamala Harris at a virtual campaign event with Milwaukee voters on Tuesday: \"Frankly, I think that it is more than fair to say that Donald Trump has exhibited a reckless disregard for human life."
+    publishedDateTime: 2020-10-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/20/kamala_harris_more_than_fair_to_say_trump_has_exhibited_a_reckless_disregard_for_human_life.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/52/524726.jpg"
+        width: 858
+        height: 642
         isCached: true
   - title: "Kamala Harris: Woman of firsts and star of the Democratic Party"
     excerpt: "Democratic vice presidential nominee California Sen. Kamala Harris is largely described in terms of her firsts. She is the first woman of color on a presidential ticket, who, if elected, would be the first woman just a heartbeat from the Oval Office."

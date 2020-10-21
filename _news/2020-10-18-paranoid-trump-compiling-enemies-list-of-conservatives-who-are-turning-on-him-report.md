@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
-    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
-    publishedDateTime: 2020-10-16T01:20:00Z
-    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    type: article
-    provider:
-      name: TMZ
-      domain: tmz.com
-    quality: 75
-    images:
-      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
     excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
     publishedDateTime: 2020-10-17T13:30:00Z
@@ -142,20 +126,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
         width: 757
         height: 430
-        isCached: true
-  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
-    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
-    publishedDateTime: 2020-10-18T04:50:00Z
-    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 55
-    images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
-        width: 928
-        height: 523
         isCached: true
   - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
     excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"

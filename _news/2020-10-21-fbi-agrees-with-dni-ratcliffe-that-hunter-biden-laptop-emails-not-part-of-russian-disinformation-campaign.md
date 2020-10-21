@@ -1,7 +1,7 @@
 ---
 category: news
 title: "FBI agrees with DNI Ratcliffe that Hunter Biden laptop, emails not part of Russian disinformation campaign"
-excerpt: ""
+excerpt: "EXCLUSIVE: The FBI on Tuesday said they have “nothing to add” to the statement Director of National Intelligence John Ratcliffe that the laptop and emails purportedly belonging to Hunter Biden are not being investigated as Russian disinformation, Fox News has learned."
 publishedDateTime: 2020-10-21T01:41:25Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uXqPS4YO5I/fbi-says-they"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8uXqPS4YO5I/fbi-says-they"

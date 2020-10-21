@@ -1360,6 +1360,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
+    excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
+    publishedDateTime: 2020-10-21T03:18:00Z
+    webUrl: "https://www.reuters.com/article/usa-election/trump-to-campaign-in-pennsylvania-as-early-voting-surges-past-35-million-mark-idUSKBN2750L5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538256491&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K06Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "The biggest moments from the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "Vice President Mike Pence and Senator Kamala Harris had some noteworthy moments until a fly stole the show."
     publishedDateTime: 2020-10-08T03:50:00Z
@@ -2667,6 +2683,22 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 122
+  - title: "As VP Kamala Harris could be a powerful voice for women's retirement security"
+    excerpt: "That voice is sorely needed on many issues, but few more urgently than in the area of women’s retirement security. Simply put, the financial survival of many older women depends on it. If the Biden/Harris ticket prevails in November,"
+    publishedDateTime: 2020-10-20T01:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521753-as-vp-kamal-harris-could-be-a-powerful-voice-for-womens-retirement-security"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521753-as-vp-kamal-harris-could-be-a-powerful-voice-for-womens-retirement-security?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521753-as-vp-kamal-harris-could-be-a-powerful-voice-for-womens-retirement-security?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_10072020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "New in the polls Tuesday: Race narrows in North Carolina, Florida; voters nationally favor Biden over Trump"
     excerpt: "Democratic presidential candidate Joe Biden is pulling ahead of President Donald Trump — but it continues to be overwhelmingly close."
     publishedDateTime: 2020-10-20T15:59:00Z
@@ -3894,6 +3926,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "In debate countdown, Donald Trump holds rally, Joe Biden hits prep"
+    excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best"
+    publishedDateTime: 2020-10-20T19:15:00Z
+    webUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/"
+    ampWebUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 100
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Trump_28260-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Mike Pence, Kamala Harris to square off in only vice presidential debate"
     excerpt: "Sen. Kamala Harris and Vice President Mike Pence are preparing for their only debate Wednesday night, which will be staged with expanded COVID-19 safety precautions days after President Donald Trump tested positive."
     publishedDateTime: 2020-10-07T13:32:00Z
@@ -4738,21 +4786,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "In debate countdown, Donald Trump holds rally, Joe Biden hits prep"
-    excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best"
-    publishedDateTime: 2020-10-20T19:15:00Z
-    webUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/"
-    ampWebUrl: "https://www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/10/20/presidential-debate-preview/amp/"
+  - title: "Conservatives voting Joe Biden over Donald Trump are patriots. Thanks for the inspiration."
+    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
+    publishedDateTime: 2020-10-20T22:08:00Z
+    webUrl: "https://www.freep.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
+    ampWebUrl: "https://amp.freep.com/amp/3696503001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3696503001"
     type: article
     provider:
-      name: The Denver Post
-      domain: denverpost.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 90
     images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Trump_28260-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "In debate countdown, Trump holds rally, Biden does prep"
     excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best chance to alter the trajectory of the 2020 campaign."
@@ -5843,22 +5891,6 @@ related:
     provider:
       name: The Arizona Republic
       domain: azcentral.com
-    quality: 80
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Conservatives voting Joe Biden over Donald Trump are patriots. Thanks for the inspiration."
-    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
-    publishedDateTime: 2020-10-20T22:08:00Z
-    webUrl: "https://www.freep.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
-    ampWebUrl: "https://amp.freep.com/amp/3696503001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3696503001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
     quality: 80
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"

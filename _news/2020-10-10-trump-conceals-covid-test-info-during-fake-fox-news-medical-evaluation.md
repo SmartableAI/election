@@ -88,6 +88,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "President Donald Trump's war chest has dwindled as election draws near"
+    excerpt: "President Donald Trump's campaign entered October with just $63.1 million in remaining cash reserves, new filings show, underscoring his financial vulnerabilities as Election Day fast approaches.\n    \n"
+    publishedDateTime: 2020-10-21T03:52:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aPYT7mj1hw4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/president-donald-trump-dwindling-cash-stockpile/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/president-donald-trump-dwindling-cash-stockpile/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020205351-trump-white-house-1020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Barrett declines to commit to recusing herself from a Trump election case"
     excerpt: "Judge Amy Coney Barrett on Tuesday eluded efforts by Democratic lawmakers to commit to recusing herself from any Supreme Court election dispute between President Donald Trump and former Vice President Joe Biden.\n    \n"
     publishedDateTime: 2020-10-13T16:14:50Z

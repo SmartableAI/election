@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243238"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243238"
 type: article
 quality: 131
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,24 @@ images:
     width: 2500
     height: 1667
     isCached: true
+
+related:
+  - title: "Tiffany Trump says her father 'has always supported' LGBTQ people"
+    excerpt: "\"Prior to politics, he supported gays, lesbians, the LGBQIA+ community,\" she said of the president at a Trump Pride event in Florida."
+    publishedDateTime: 2020-10-21T01:52:00Z
+    webUrl: "https://www.nbcnews.com/feature/nbc-out/tiffany-trump-says-her-father-has-always-supported-lgbtq-people-n1244078"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244078"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244078"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/tiff-trump-pride.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "t3hDDWex6A6b6/+s96NGi+pYtzMVtae6w/26/iiOLBWWJUtu+yItfdc/KTP0id67R3+o23kcSpB9pLU2a0n+GLa+XPoJG2R8LicghufUQKe3K4rCvuzYpGL3I7KiTHC0pNc/qbR5AajHXdzDQ6xbhW4el5hzR6bwIurW/KH/CdHDZ7dkDqO5FLg6bBuMPjwcl+LZsjKOZhmjwZPxkyJFyY3RAcqGKvmHfnTnsD58MqU9EhQF2nl00kJamgSbevkgHtOzhixiimarNny4akV5iTQ6SHlbV/l2mXUvDgJUHFGkMEOEv9Mmat1W1il0yNwKell6+4Wmp0RvMa+E1S3ZrppV4KZ+7JXsNspPQRKbEZ0=;aLR1xqT/FCCBrvKhqgnI8g=="
 ---

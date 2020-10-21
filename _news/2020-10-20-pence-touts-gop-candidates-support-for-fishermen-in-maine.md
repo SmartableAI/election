@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expressnews.com/news/amp/Pence-touts-GOP-candidates-supp
 cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Pence-touts-GOP-candidates-support-for-fishermen-15658753.php"
 type: article
 quality: 75
-heat: 115
+heat: 155
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "Photo Gallery: Maine Republicans greet Mike Pence in Hermon"
+    excerpt: "Speaking to a crowd of several hundred people gathered Monday in a Hermon truck yard, Vice President Mike Pence urged voters to \"go get it done\" with just 15 days remaining before Election Day."
+    publishedDateTime: 2020-10-20T11:17:00Z
+    webUrl: "https://www.sunjournal.com/2020/10/20/photo-gallery-maine-republicans-greet-mike-pence-in-hermon/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/20347226_18pence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Watch: VP Mike Pence’s rally in Maine"
     excerpt: "Vice President Mike Pence will headline a rally in Hermon on Monday morning as President Donald Trump looks to be locked in a tight race with Democratic nominee Joe Biden in Maine’s 2nd Congressional District."
     publishedDateTime: 2020-10-19T18:05:00Z
@@ -54,6 +68,20 @@ related:
       - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-3.jpg?fit=1024%2C718&#038;ssl=1"
         width: 1024
         height: 718
+        isCached: true
+  - title: "Janet Mills criticizes Mike Pence for Hermon campaign rally"
+    excerpt: "Credit: Linda Coan O'Kresik / BDN Gov. Janet Mills on Tuesday admonished Vice President Mike Pence a day after he headlined an outdoor campaign rally in Hermon where a large crowd violated state ..."
+    publishedDateTime: 2020-10-20T22:35:00Z
+    webUrl: "https://bangordailynews.com/2020/10/20/politics/janet-mills-criticizes-mike-pence-for-hermon-campaign-rally/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Pence-P-LCO.jpg?fit=2500%2C1425&#038;ssl=1"
+        width: 2500
+        height: 1425
         isCached: true
 
 secured: "ehS4iFDoBNNq+29+zZKpLBXLchxdzfCbH+EinvbhdYg8tJZmvmQAWV0pWgNC8MAF5XRNJTQdfoFdAFuiHuJ77oZ34ApHjs49ESB5K2htPO6d2bJ4XKz7RqqlmDREmTcQw+/dpkGngFdw8y5E0D/lU3Uq4gyW/cXqJz0pFMAumq5ZeVVdQWoFKONqIf0hpF2q/z6u/iXQcGvy5t+GGj8W4sZ7bPoJyzh3HoKhtEZkyu1KxQGExr8aV90WSfNxbe9r6mfiMmRCu23tjsftkMw9UHBEY99Qo+pa0QI0vghpfRakAojaio/E9+GCqrrXbCNKKVF5yDilYywWR29DreEwsQu/achNtcUZrqLld+FRXiU=;1Uq3P6wQ26hZfM4oh78Z6Q=="

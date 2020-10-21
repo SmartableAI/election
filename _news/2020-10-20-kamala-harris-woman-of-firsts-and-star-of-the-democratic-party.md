@@ -260,6 +260,20 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "Kamala Harris: More Than Fair To Say Trump Has \"Exhibited A Reckless Disregard For Human Life\""
+    excerpt: "Democratic nominee for vice president Sen. Kamala Harris at a virtual campaign event with Milwaukee voters on Tuesday: \"Frankly, I think that it is more than fair to say that Donald Trump has exhibited a reckless disregard for human life."
+    publishedDateTime: 2020-10-20T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/20/kamala_harris_more_than_fair_to_say_trump_has_exhibited_a_reckless_disregard_for_human_life.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 68
+    images:
+      - url: "https://assets.realclear.com/images/52/524726.jpg"
+        width: 858
+        height: 642
+        isCached: true
   - title: "Kamala Harris: Court Packing A Distraction, Has \"All Of A Sudden\" Become An Issue"
     excerpt: "CNN's Don Lemon spoke with vice presidential nominee Sen. Kamala Harris about the dueling town halls between President Donald Trump and her running mate, Democratic presidential nominee Joe Biden. \"I think that Joe Biden has been consistent about saying that this is not the time right now to have this discussion."
     publishedDateTime: 2020-10-16T13:35:00Z

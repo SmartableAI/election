@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump touts fracking policy in Pennsylvania rally, says Biden 'will shut it all down'"
+    excerpt: "President Trump told backers at an Erie, Pa., rally Tuesday night that the battleground state is crucial to his chances of winning re-election, and his stance on fracking is crucial to the Keystone state."
+    publishedDateTime: 2020-10-21T02:09:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXoaSe8Ouo4/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40241d64-a7f5-4845-ac9e-033d6ed293ba/d8286a5d-e3f4-4445-8624-bd0f99c4d418/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
     publishedDateTime: 2020-10-15T18:59:33Z
@@ -429,6 +445,22 @@ related:
         width: 996
         height: 560
         isCached: true
+  - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
+    excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."
+    publishedDateTime: 2020-10-21T02:15:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PNX54X_Hg5w/former-rnc-chairman-michael-steele-endorses-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/michael-steele-Getty-Images.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
     publishedDateTime: 2020-10-17T14:54:00Z
@@ -458,6 +490,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18153b84-b2ed-4208-acb2-b23f8fe63683/370a704c-9174-48e6-b638-9e4b1519b3c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ben Carson blasts Biden's plan for American suburbs: 'We want people to be able to have choice'"
+    excerpt: "Secretary of Housing and Urban Development Dr. Ben Carson sounded the alarm Tuesday over Joe Biden's plan to reinstall an Obama-era low-income housing regulation that the Trump administration rolled back in July. "
+    publishedDateTime: 2020-10-21T04:11:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vMSD3MCTskQ/ben-carson-biden-plan-suburbs-identity-politics"
+    ampWebUrl: "https://www.foxnews.com/politics/ben-carson-biden-plan-suburbs-identity-politics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ben-carson-biden-plan-suburbs-identity-politics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/728ec57f-b3ef-49e4-ae0e-af99076eb5fe/1ace783d-1313-4c5b-8493-dbc0fc3ec261/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

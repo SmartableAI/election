@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-tow
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
 type: article
 quality: 124
-heat: 344
+heat: 364
 published: true
 
 provider:
@@ -199,6 +199,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
         width: 1024
         height: 673
+        isCached: true
+  - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
+    excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
+    publishedDateTime: 2020-10-21T03:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-strongmen-how-us-leader-fell-autocrats-3065738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "n+yT2a6sHuQVGAxS8U4e+j8OqOzrb/VlTk7pFIuU3vsffMrW/ZptBvlBtdH4QHaPvBVjywLzV5kqlczAEPhgIg3a7Q8Nttj4Vrwem8wtinPZIiyJp30B2ROd5vAjFGIfRTs61DOV2bWJmL3BmV8tpwWiTNdjrgAFXBqPueucgdBiqAtzziGxDJcLbEj6OKPwbmIosKLPrCbPHONKIiRS6B4mMFwIl65H6sjqIolIAruLrOWkbV3Qy/CgDo4bBPYzT8U9P99PLh+j2Ranp6pWY4XJTxZWcu35k+cowfbVkuvGh5245SSv3pvkc26jiuHMCssjBVGnvmdA8svUNZmdgOqkkvaEvAPerwwpQ9tFezfVVzOSsKpPhk7ODG5/nQn8a0cIG7j1FtPYgPQGTuxqjBbymgoBKx/nDfG3ZzxHDB/gkYycsprG0he1AyNxR7x6CMRWGXPb6u/DRrJimRNnYWxWo9K1tmC6Q6ot70j8BAedD7aJfYJjhAti4hZ8JRoiC42n+1bJll8nmXtMp80KhQ==;Fk0cO+RlLUqPBcZJx6xkVQ=="

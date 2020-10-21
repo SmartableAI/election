@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
 type: article
 quality: 129
-heat: 469
+heat: 489
 published: true
 
 provider:
@@ -207,17 +207,17 @@ related:
         isCached: true
   - title: "VP Mike Pence to campaign in Michigan again this week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
-    publishedDateTime: 2020-10-21T01:14:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    publishedDateTime: 2020-10-21T05:14:00Z
+    webUrl: "https://www.kgw.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.kgw.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
     type: article
     provider:
-      name: 11Alive
-      domain: 11alive.com
+      name: KGW8
+      domain: kgw.com
     quality: 75
     images:
-      - url: "https://media.11alive.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
+      - url: "https://media.kgw.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -280,6 +280,17 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Vice President Mike Pence to visit Michigan on Thursday"
+    excerpt: "Vice President Mike Pence will be in Michigan on Thursday, Oct. 22. Pence will host a \"Make America Great Again\" event in Waterford Township at 12:30 p.m. The event will take place at Barnstormers. Doors open at 10:30 a."
+    publishedDateTime: 2020-10-20T21:38:00Z
+    webUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.html"
+    ampWebUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
+    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
+    type: article
+    provider:
+      name: WNEM-TV
+      domain: wnem.com
+    quality: 55
   - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
     excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
     publishedDateTime: 2020-10-14T21:18:00Z

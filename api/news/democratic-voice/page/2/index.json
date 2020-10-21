@@ -2,25 +2,25 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-14-trump-supporters-in-battleground-states-largely-favor-lgbtq-rights-poll-finds.md",
-      "title": "Trump supporters in battleground states largely favor LGBTQ rights, poll finds",
-      "excerpt": "Likely voters in 10 battleground states were found to overwhelmingly support LGBTQ rights, according to a survey by Hart Research and the Human Rights Campaign.",
+      "path": "_news/2020-10-14-barrett-declines-to-answer-if-trump-can-pardon-himself.md",
+      "title": "Barrett declines to answer if Trump can pardon himself",
+      "excerpt": "Sen. Patrick Leahy (D-VT) questions Supreme Court nominee Amy Coney Barrett on whether the president of the United States has the power to pardon themselves of a crime. CNN's Manu Raju tells us more.\n    \n",
       "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/feature/nbc-out/majority-trump-supporters-battleground-states-favor-lgbtq-rights-poll-finds-n1243238",
-      "originalUrl": "https://www.nbcnews.com/feature/nbc-out/majority-trump-supporters-battleground-states-favor-lgbtq-rights-poll-finds-n1243238",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/exEsfdCiy9E/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/exEsfdCiy9E/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 131,
+      "heat": 715,
       "tags": null,
       "images": [
         {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_42/3419912/201013-florida-maga-rally-ac-605p_88c2fc711100d696b6d237e864a0bcd2.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014114644-09-barrett-hearing-1014-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +28,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1243238",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243238",
-      "publishedDateTime": "2020-10-13T21:04:00-07:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/14/amy-coney-barrett-supreme-court-confirmation-hearing-presidential-pardon-sot-vpx.cnn",
+      "publishedDateTime": "2020-10-14T09:04:30-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,7 +54,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },

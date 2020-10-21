@@ -293,6 +293,22 @@ related:
         width: 1024
         height: 662
         isCached: true
+  - title: "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden"
+    excerpt: "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump."
+    publishedDateTime: 2020-10-20T20:42:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 70
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG"
+        width: 3000
+        height: 2187
+        isCached: true
   - title: "Joe Biden takes question on milkshake flavors, scurries away after Hunter Biden inquiry"
     excerpt: "Democratic presidential nominee Joe Biden was ready and willing to talk about his favorite milkshake flavors this weekend until the subject turned to his son Hunter."
     publishedDateTime: 2020-10-19T19:13:00Z
@@ -308,6 +324,20 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Biden_70752.jpg-301da_c0-0-5329-3108_s1200x700.jpg?5e87b37174222647cce88ce9da594e5f12880f5c"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
+    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
+    publishedDateTime: 2020-10-21T03:45:00Z
+    webUrl: "https://tulsaworld.com/article_0346b718-cd6f-56a1-b748-63e502647644.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/34/0346b718-cd6f-56a1-b748-63e502647644/5f8facfc3043c.preview.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
     excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."

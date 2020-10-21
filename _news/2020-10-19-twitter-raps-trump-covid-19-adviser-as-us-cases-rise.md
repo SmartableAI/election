@@ -25,172 +25,179 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Ross Douthat column: There will be no Trump coup"
-    excerpt: "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance."
-    publishedDateTime: 2020-10-12T14:54:00Z
-    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp"
+  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-21T03:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
+    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
+    publishedDateTime: 2020-10-20T17:37:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
     type: article
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump lost the ratings battle: What that really means"
-    excerpt: "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included."
-    publishedDateTime: 2020-10-18T17:30:00Z
-    webUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means"
-    ampWebUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "On Columbus Day in 1963, Trump marched up Fifth Avenue in New York City’s parade"
-    excerpt: "When Trump was a 17-year-old senior at New York Military Academy, there was no talk of Indigenous People’s Day, no beheading of statues and no pandemic canceling parades."
-    publishedDateTime: 2020-10-12T11:13:00Z
-    webUrl: "https://www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/"
-    ampWebUrl: "https://www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/history/2020/10/12/columbus-day-trump-parade-new-york/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NDFZU3FXH4I6LCV42CJZF3OGCI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Twitter Flags Trump Tweet He’s That Immune To Covid-19 Coronavirus, Not Contagious"
-    excerpt: "Presumably, Trump was referring to the Covid-19 coronavirus infection that he’s had over the past week or so and not something like cat scratch fever or Bieber fever. The tweet sounds like positive news for the President."
-    publishedDateTime: 2020-10-11T22:13:00Z
-    webUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/"
-    ampWebUrl: "https://www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2020/10/11/twitter-flags-trump-tweet-hes-that-immune-to-covid-19-coronavirus-not-contagious/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 119
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f837ffc613e1c0cfca4dd19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D227%26cropY2%3D2759"
+      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump officials, while painting a rosy picture in public, warned conservative allies that coronavirus could harm economy"
-    excerpt: "On television, Larry Kudlow was optimistic. \"We have contained this,\" President Donald Trump's top economic advisor said of the coronavirus."
-    publishedDateTime: 2020-10-15T03:00:00Z
-    webUrl: "https://www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-officials-privately-warned-conservative-allies-covid-19-harm-nyt-2020-10?amp"
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 100
+    quality: 120
     images:
-      - url: "https://i.insider.com/5f87afa5ea23a5001903d79f?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Twitter said it had to temporarily lock Trump's account after he shared a columnist's email address, violating the company's policies"
-    excerpt: "Twitter confirmed that it locked Trump's account after he shared the email address of a journalist to his 87 million followers."
-    publishedDateTime: 2020-10-07T04:19:00Z
-    webUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-locked-president-trump-account-shared-email-2020-10?amp"
+  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
+    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
+    publishedDateTime: 2020-10-19T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 115
     images:
-      - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
-    excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
-    publishedDateTime: 2020-10-14T21:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-third-term-election-2024-constitution-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Does Trump merit the hatred? Let us count the ways"
-    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
-    publishedDateTime: 2020-10-16T09:03:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-20T12:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
+    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
+    publishedDateTime: 2020-10-16T01:20:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
     quality: 75
     images:
-      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
+      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
         width: 1200
-        height: 815
+        height: 675
         isCached: true
-  - title: "Joe Biden Claps Back at Lara Trump Over Coronavirus Comments: ‘She Doesn’t Know What She’s Talking About’"
-    excerpt: "Joe Biden rebuked Lara Trump's assertion that had he been president when the coronavirus pandemic started, there would be 2 million Americans dead rather than the 218,000 who have died on President Donald Trump's watch."
-    publishedDateTime: 2020-10-17T19:10:00Z
-    webUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/"
-    ampWebUrl: "https://www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/joe-biden-claps-back-at-lara-trump-over-coronavirus-comments-she-doesnt-know-what-shes-talking-about/amp/"
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 73
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-16.jpg"
-        width: 1200
-        height: 624
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
-  - title: "Collins: Maskless Trump Set a Poor Example at White House"
-    excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."
-    publishedDateTime: 2020-10-07T02:31:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-06/collins-maskless-trump-set-a-poor-example-at-white-house?context=amp"
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
     quality: 55
-  - title: "Trump Defends Promoting Conspiracy That Navy SEALs Didn’t Kill Bin Laden: ‘That Was an Opinion’"
-    excerpt: "President Trump defended his promotion of a QAnon conspiracy theory claiming the Navy SEAL team who eliminated Osama bin Laden only killed a body double."
-    publishedDateTime: 2020-10-16T01:42:00Z
-    webUrl: "https://www.mediaite.com/trump/trump-defends-promoting-conspiracy-that-navy-seals-didnt-kill-bin-laden-that-was-an-opinion/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 43
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-15-at-9.04.09-PM-1200x677.jpg"
-        width: 1200
-        height: 677
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
         isCached: true
 
 secured: "eb26dtMVyCVJ2mTkBATHxRc/l8AeNGOxvlvtaVKsWC63/S+s3KWB51Qv3A+cab/A2kIl9ndl3ULEO9pl9sw0sYtPAzldrMgqFzXcHPEhct4I4ncJXJ4/NSIUF3518wmvZYuVB9VEI8+y7zaKEGvBHD3uvpOjRYyjL91J0F2Z/jKVsRH7aPNqo7k8+WHt04dY+JohB1qUzBnUy9TJLujY8BY47xqUNyCvnfPSHLdyOz/ts4nXoIq/y+Vz0lvsc2gpi+4eLYQ0GdWHJv0C+B+E3V8STIb0ckX4lABukhE9v7Kb0xXVLUIBQzcJm5D3DmeXzPy5fG6DpC9UJje+7oP0l2GLo9cn6wnUa7qPX/kqrSM=;YH/s9N836WGYPTDYQflxYw=="

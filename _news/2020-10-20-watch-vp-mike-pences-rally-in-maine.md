@@ -55,6 +55,34 @@ related:
         width: 1024
         height: 625
         isCached: true
+  - title: "Photo Gallery: Maine Republicans greet Mike Pence in Hermon"
+    excerpt: "Speaking to a crowd of several hundred people gathered Monday in a Hermon truck yard, Vice President Mike Pence urged voters to \"go get it done\" with just 15 days remaining before Election Day."
+    publishedDateTime: 2020-10-20T11:17:00Z
+    webUrl: "https://www.sunjournal.com/2020/10/20/photo-gallery-maine-republicans-greet-mike-pence-in-hermon/"
+    type: article
+    provider:
+      name: Sun Journal
+      domain: sunjournal.com
+    quality: 55
+    images:
+      - url: "https://multifiles.pressherald.com/uploads/sites/10/2020/10/20347226_18pence-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Janet Mills criticizes Mike Pence for Hermon campaign rally"
+    excerpt: "Credit: Linda Coan O'Kresik / BDN Gov. Janet Mills on Tuesday admonished Vice President Mike Pence a day after he headlined an outdoor campaign rally in Hermon where a large crowd violated state ..."
+    publishedDateTime: 2020-10-20T22:35:00Z
+    webUrl: "https://bangordailynews.com/2020/10/20/politics/janet-mills-criticizes-mike-pence-for-hermon-campaign-rally/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 55
+    images:
+      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Pence-P-LCO.jpg?fit=2500%2C1425&#038;ssl=1"
+        width: 2500
+        height: 1425
+        isCached: true
 
 secured: "rmDhVMIhBBHFtX4FUrV37BokViZBnWfQBjMGK9YS9EC6J+Zlg67UX7L1iucj20OOFivtop/ZFftz7KeTj11GfxDfdo9LMpU/bB8m18BqZC4V4omvEppVJG+g3XUKiHPQ6YLG20Tw6LieLVIschIwEKXaEhtcltUz1tGhWceo9qFaSsWEtR+VoNRIRzhKvWJacXDs83KW5fm33R1Bs0/jqNXSn3gyTNS0Nowm1fWgtfLX8Zn77EBowoMsZF9bgqrehC7ZjKn6zH1m72nyJNUpScVell0OWP5WS6yg57Z9e+rtK7Vo4Z4DFD25DmDFEPxcg5OtKwnfZ1raW4FRtg/rTZ8LkUysbJT7poH9VMQny1stegror1WxLQbmdhix7NRTXEXpa592RHqsS4ZxuPmkM5wEjIzAHYpJ0jRafJthHjkP6QtJiEAC5wQSYTwe1q6Un7jGROv9aqUg9VS9LWVatbxdXqW0SGPlR72sBVWDCxhrjOdzScWSyjvkjoeHoVdT0MKIAcyTwWQSW1rnHsqQcA==;XyYVV2CIQdPsle5CnA60lQ=="
 ---

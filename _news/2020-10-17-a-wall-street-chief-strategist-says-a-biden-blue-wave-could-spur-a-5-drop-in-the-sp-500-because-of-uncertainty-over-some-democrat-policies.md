@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
+    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
+    publishedDateTime: 2020-10-21T05:12:00Z
+    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
     excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
     publishedDateTime: 2020-10-13T12:00:00Z

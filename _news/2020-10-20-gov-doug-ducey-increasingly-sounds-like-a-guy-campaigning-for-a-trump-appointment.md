@@ -1067,6 +1067,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
+    excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
+    publishedDateTime: 2020-10-21T03:28:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
     excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"
     publishedDateTime: 2020-10-08T00:54:00Z
@@ -1464,6 +1480,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Is Trump Really That Racist?"
+    excerpt: "We know his rhetoric has been described as boundary-breaking when it comes to race. But U.S. presidents have been enacting racist policies forever. So as President Trump wraps up his first (and maybe only) term in office,"
+    publishedDateTime: 2020-10-21T05:37:00Z
+    webUrl: "https://www.npr.org/2020/10/19/925385389/is-trump-really-that-racist"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 105
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/20/trump-vs-others_wide-af1f9fc7e2b9af4b6adbcdbb774bfc015333d92a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Silicon Valley's biggest billionaires have reportedly poured millions into a super PAC-run series of anti-Trump TV ads ahead of Election Day"
     excerpt: "Google CEO Eric Schmidt funded a super PAC that is spending more than any other group on ads for Biden."
     publishedDateTime: 2020-10-20T22:40:00Z
@@ -2842,6 +2872,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "U.S. President Donald Trump departs the White House"
+    excerpt: "Supporters of U.S. President Donald Trump look on as Marine One departs the White House in Washington, DC on Tuesday, October 2020. Trump is scheduled to host a campaign rally in Erie, Pennsylvania before returning to the White House tonight."
+    publishedDateTime: 2020-10-21T00:21:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/77c3dd9b4802714071a2ffefb827f287/US-President-Donald-Trump-departs-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/77c3dd9b4802714071a2ffefb827f287/TRUMP-DEPARTS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "A science advisor for President Donald Trump has a tweet blocked claiming masks don’t work to combat coronavirus"
     excerpt: "A science advisor for President’s Donald Trump had a tweet blocked by Twitter on Sunday after it suggested masks don’t work to combat the spread of coronavirus. Scott Atlas, who joined the Trump Administration in August,"
     publishedDateTime: 2020-10-19T11:48:00Z

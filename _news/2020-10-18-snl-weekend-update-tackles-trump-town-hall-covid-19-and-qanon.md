@@ -25,86 +25,145 @@ images:
     isCached: true
 
 related:
-  - title: "From QAnon to dictators, Trump embraces those who embrace him back"
-    excerpt: "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions."
-    publishedDateTime: 2020-10-17T00:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
+  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-21T03:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 129
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWRT55AP5AI6XADUB2KDVEN7BA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump critics who embraced Hogan are baffled by his vote for long-dead Reagan"
-    excerpt: "Larry Hogan’s decision to repudiate President Trump by casting a write-in vote for Ronald Reagan has drawn swift and sustained backlash from many Democratic supporters and some anti-Trump Republicans who had admired Hogan’s willingness to break with the White House."
-    publishedDateTime: 2020-10-20T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63KJTAQSQII6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1280
-        height: 1025
-        isCached: true
-  - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
-    excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
-    publishedDateTime: 2020-10-16T17:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 115
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89d386eeaf66f5cfa918a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5226%26cropY1%3D265%26cropY2%3D3205"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump Promotes Baseless, QAnon-Endorsed Conspiracy Theory Alleging Obama Staged Bin Laden’s Killing"
-    excerpt: "President Trump promoted a baseless conspiracy theory on Tuesday alleging the Obama administration covered up a plot to stage Osama Bin Laden’s death, a wild accusation that was pushed by Twitter accounts linked to the QAnon conspiracy theory."
-    publishedDateTime: 2020-10-14T13:40:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/14/trump-promotes-baseless-qanon-endorsed-conspiracy-theory-alleging-obama-staged-bin-ladens-killing/amp/"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T08:38:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86fcdaa93641012f51b7b8%2F0x0.jpg"
-        width: 1199
-        height: 782
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
-    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
-    publishedDateTime: 2020-10-16T01:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
+    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-13T20:55:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
+    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
+    publishedDateTime: 2020-10-20T17:37:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
+    quality: 120
     images:
-      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
         isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
+    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
+    publishedDateTime: 2020-10-19T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
+    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
+    publishedDateTime: 2020-10-20T12:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
     excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
     publishedDateTime: 2020-10-16T01:20:00Z
@@ -121,53 +180,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
-    excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
-    publishedDateTime: 2020-10-18T13:35:00Z
-    webUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 68
+    quality: 61
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Donald-Trump-.jpg"
-        width: 640
-        height: 414
-        isCached: true
-  - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
-    excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
-    publishedDateTime: 2020-10-17T13:30:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
-        width: 757
-        height: 430
-        isCached: true
-  - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
-    excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"
-    publishedDateTime: 2020-10-17T01:54:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 53
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Rallygoers-Unanimously-Praise-Defend-Trump-for-Not-Condemning-Bonkers-QAnon-Conspiracy-Theory-1200x676.jpg"
-        width: 1200
-        height: 676
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
 
 secured: "7P3zcrDWJLsefsRpIteg/lP2X38pTs2hSg4hN1mtv6FqXE54rj3gRAJlrcOODEHVBoc2vFSQJ0jI4kbG71dzJ4xhvo/+RFuZ2XkF+Qdppw/oH1YUMULwRuw5LkkA6H+c7p5U9uElS+OFy9SUmgk7nVmJAnovMvZ5nOdrVyA7YGEyjcuX5c0pTxxKNZ46Xk/lTQchAOMmIEiTqqIdRwrCelaMJiS2efAoxfHzze7QVT2Q27vrsKshi1/EoUUrzxJpRKTTBD2WKGbxPSomWn/Lao+X9gH/axSFXUg8eJdHhQ845qFKqLa4KWb4pUXdn7NhT8ufg3dyRgseeFBH15AKN/Y0UuQtJ9Rty6fxmqR3QpA3sEhm6z9JvdCf4lSxoi+jbG0ESWd+guQOHOXhFHxzNbb16U53Ch0zMUNqRpn2ZiODBjcWCm8HCwdqO9CiBKH7+6A0nlYGJvG74IaHV5tWxZApWnGW9bO5ADu+jXV9l8/7KMrtdT3ZrFOW+e5y+ZIGjCgw4Nmb+1mBucyNUnDlxQ==;D/2srrZpcDBHbRtknfSc0w=="

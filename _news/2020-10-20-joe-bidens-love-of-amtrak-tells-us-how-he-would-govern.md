@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
+    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
+    publishedDateTime: 2020-10-21T05:12:00Z
+    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
     excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
     publishedDateTime: 2020-10-17T10:11:00Z
