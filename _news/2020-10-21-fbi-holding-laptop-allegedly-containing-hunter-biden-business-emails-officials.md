@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:11:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNAu_6K7AUw/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
     excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
     publishedDateTime: 2020-10-15T04:00:35Z
@@ -445,6 +461,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f796f0e1-696b-4992-b9ba-da1064a892da/0b6b02e5-8614-43f2-bbcf-34d666086897/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:16:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
     excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"

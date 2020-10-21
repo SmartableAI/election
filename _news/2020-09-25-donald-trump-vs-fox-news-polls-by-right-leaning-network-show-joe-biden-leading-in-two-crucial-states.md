@@ -1184,6 +1184,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Lawyers favor Biden in campaign donations, including Trump's re-election firm"
+    excerpt: "Lawyers at Jones Day, a firm that has earned millions of dollars as outside counsel to U.S. President Donald Trump's re-election campaign, have donated nearly $90,000 to his Democratic rival Joe Biden's campaign since last year compared to $50 to Trump's campaign,"
+    publishedDateTime: 2020-10-21T18:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-lawyers-donations-idUSL1N2HC1M7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2HC1M7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2HC1M7"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 132
   - title: "Ask Trump and Biden how they'd fix gross inadequacies of US health care: Medical students"
     excerpt: "We hope Trump and Biden discuss health care in the first presidential debate. We're medical students who already see it's chaotic, costly and unequal."
     publishedDateTime: 2020-09-21T09:23:00Z
@@ -2986,6 +2997,22 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PCTMRWWNQZB3NPRWOD7VLWW36E.jpg"
         width: 6000
         height: 3081
+        isCached: true
+  - title: "5 questions as Trump and Biden prepare for final debate"
+    excerpt: "President Donald Trump and his Democratic rival, Joe Biden, meet on the debate stage for the second and final time Thursday night in Tennessee. The 90-minute prime-time meeting comes just 12 days before Election Day."
+    publishedDateTime: 2020-10-21T19:21:00Z
+    webUrl: "https://www.chron.com/news/article/5-questions-as-Trump-and-Biden-prepare-for-final-15665004.php"
+    ampWebUrl: "https://www.chron.com/news/amp/5-questions-as-Trump-and-Biden-prepare-for-final-15665004.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/5-questions-as-Trump-and-Biden-prepare-for-final-15665004.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"

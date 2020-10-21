@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minut
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html"
 type: article
 quality: 193
-heat: 313
+heat: 333
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020081638-donald-trump-phoenix-rally-1019-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Election live updates: Trump '60 Minutes' interview, Biden's new ad"
+    excerpt: "All eyes are on the campaign trail as President Donald Trump and Joe Biden barrel through the remaining days of the 2020 presidential election. The campaigns are in full preparation mode on Wednesday ahead of Thursday's final presidential debate."
+    publishedDateTime: 2020-10-21T19:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-21-trump-biden-election-n1244076"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244076"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244076"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "QAnon supporters behind canceled Pence fundraiser gave Trump $1 million"
     excerpt: "The couple made their donation in August before a scheduled fundraiser with Pence was canceled after their promotion of the QAnon conspiracy theory came to light."

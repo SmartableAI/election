@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 1083
+heat: 1123
 published: true
 
 provider:
@@ -338,6 +338,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/70d23c3b973042cab2d1b7b6a7e2b527cd1b5e4c/0_168_4835_2903/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84234382a5a7db8e7a6d8265e63a8328"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
+    excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"
+    publishedDateTime: 2020-10-21T19:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F5TQJ5FGVZGYZBWBHISZKJ47FA.JPG"
+        width: 1300
+        height: 838
         isCached: true
   - title: "At Supreme Court Hearing, Kamala Harris Summons Her Prosecutorial Instincts"
     excerpt: "Joe Biden picked Kamala Harris in no small part for her prosecutorial pluck, on clear display in the Supreme Court hearing this week."
@@ -712,6 +728,15 @@ related:
     excerpt: "T11:55:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Senator Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Javascript must be enabled in order to access C-SPAN videos."
     publishedDateTime: 2020-10-19T16:12:00Z
     webUrl: "https://www.c-span.org/video/?477125-1/senator-kamala-harris-campaigns-orlando-florida"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Comments to Reporters in North Carolina"
+    excerpt: "Senator Kamala Harris (D-CA) responds to reporters' questions about President Trump’s criticism of Hunter Biden and whether she and Joe Biden think they need to win North Carolina on election day to secure the White House."
+    publishedDateTime: 2020-10-21T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477189-1/senator-harris-democrats-win-north-carolina"
     type: article
     provider:
       name: C-SPAN

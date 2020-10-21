@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden endorses Democratic challenger in Texas House district"
+    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
+    publishedDateTime: 2020-10-21T19:20:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
     excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
     publishedDateTime: 2020-10-15T20:45:00Z
@@ -297,6 +313,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "FD/FBGZMsop84Qak/13Mo+LNh88w/0ljz/M9fQQmd7248doeESxWf6F34SXIK4S/CL96If3mv7igFcI8WhBEVlZc0zZiIR1urI3DbKHD2MHos0PFbR/7SRpk8blgbL3OrV0Oi0WofcpzUOC1rfWbKD1UQEug6+QRnZAwpQwFbl2bQPZxe+WH6SztCWP/sG6VgA8si1xNji+nt5oylkblK38DUo6FCo1Wrnmm9V62WQV1b/S1CH2Bd0YnUd8+CMdyf+sxH1cRglFQmw+FFoN0s6Ew0YdlNZ1h/+TR9Sfh9G1RI2sgNm1c+cj/pqCXRGdLc7UeVv0nokZt36TzAit1KTAE2ODl8yW0zL9Xy3UjsUY=;G8hXtxzlE0Bi2YcrkmZLuw=="
+secured: "UQWoJRS0o2HL0ytJ1BQDb5lLIvDMqlZXO23Ld5eRAYRxnsol177RUH+fUcuNxWbRW6S0sfi0crLUJ5Bz19zilTSgLCMKsseb/29sW4b6FWgvkcW55A6vV7fC9iUReswkI13Df48vCy+APnHNg14g0eRcMFGqlrTbhNH7eEDI4g5dowi7w2lsEw3jELGA8GJ83U70JzPTbomzVIdCNWvMHHLCXeBFG/x5o+ubpd6uvKMoBZr043hwPeFAfvGfKp/PCr+0ivMYPXgkAp7HYD9IqTzzsZoWGQ+aq74sdeQbBjmYB1EkVJjGyYSp22lCmnoQQ/45KOBB63Fis+iQPrx7K3CJnqGby+awM3Hq9bOmC1QhqKY7aZ9tMJOokEJ/zMZTEjxeWXTCE74mdW0K8z9Jg+fR9Z2w58p/XsdnSqkvUxup+ZKhoixb9GevwkPLOeXrmCrqIHh8ftA/6SnKWa6v1IlVvufdJ1vPajwJzgbzwbQTsRQ5LuvLc/FzcrGqmRMrvC2qCekNYh28UsmjUG83jw==;XbJGTeCxH0YFE3LXUp2gzw=="
 ---
 

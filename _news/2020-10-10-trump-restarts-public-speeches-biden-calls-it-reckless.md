@@ -4069,14 +4069,14 @@ related:
         isCached: true
   - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
     excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-    publishedDateTime: 2020-10-20T12:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246502245.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246502245.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246502245.html"
+    publishedDateTime: 2020-10-20T14:00:00Z
+    webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+    ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 98
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"
@@ -5834,6 +5834,22 @@ related:
       - url: "https://media.11alive.com/assets/WXIA/images/53d0a801-391d-409d-afaf-d476899ee36b/53d0a801-391d-409d-afaf-d476899ee36b_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
+    excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
+    publishedDateTime: 2020-10-21T18:16:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."

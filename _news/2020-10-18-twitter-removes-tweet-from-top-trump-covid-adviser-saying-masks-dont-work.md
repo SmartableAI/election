@@ -907,6 +907,22 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Reports of Trump's secret Chinese bank account spark controversy"
+    excerpt: "There's a lot to unpack in the new reporting, but it's probably worth dwelling on Trump's previously undisclosed bank account in China."
+    publishedDateTime: 2020-10-21T19:35:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/reports-trump-s-secret-chinese-bank-account-spark-controversy-ncna1244186"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244186"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244186"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_25/3390933/200618-trump-xi-mn-1030_3e485175a14ddbfa89b54f94cfca7782.jpg"
+        width: 2476
+        height: 1238
+        isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
     publishedDateTime: 2020-10-12T17:31:00Z

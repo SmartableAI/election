@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
 type: article
 quality: 185
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Maryland man charged after note discovered threatening televised execution of 'Grandpa Biden,' Harris"
+    excerpt: "A Maryland man is facing a federal charge for allegedly threatening the lives of Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris, D-Calif., in a handwritten note left at the home of a Biden/Harris supporter."
+    publishedDateTime: 2020-10-21T19:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEuVON5F1a0/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600f2c8e-4145-4869-b692-bda1beee0577/3edf21f2-94b7-4936-8ade-adcf5f57fd92/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views"
     excerpt: "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\""
     publishedDateTime: 2020-10-14T01:52:58Z

@@ -127,6 +127,22 @@ related:
         width: 1320
         height: 742
         isCached: true
+  - title: "Man accused of threatening Biden, Harris in note to neighbor"
+    excerpt: "A Maryland man has been charged with making death threats against Democratic presidential candidate Joe Biden and running mate U.S. Sen. Kamala Harris in a letter left on the doorstep of a neighbor wh"
+    publishedDateTime: 2020-10-21T19:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/man-accused-threatening-biden-harris-note-neighbor-73740399"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 150
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a6b9ced35bd543a295f3a608c3f79711_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "See what they paid: Joe Biden and Kamala Harris release 2019 tax returns"
     excerpt: "Democratic nominees Joe Biden and Kamala Harris released their 2019 tax returns as an explosive report shed light on President Trump's income taxes."
     publishedDateTime: 2020-09-29T23:15:00Z

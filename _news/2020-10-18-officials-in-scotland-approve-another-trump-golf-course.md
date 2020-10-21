@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/officials-scotlan
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Feds investigating scam emails threatening voters if they don't vote for Trump"
+    excerpt: "These emails are meant to intimidate and undermine American voters’ confidence in our elections,” said Christopher Krebs, DHS cybersecurity director."
+    publishedDateTime: 2020-10-21T18:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/election-2020-feds-investigating-voter-email-threats-purportedly-from-proud-boys/3713840001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713840001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713840001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/7c0ccccb-0363-499d-b1b3-c8b2156822f0-14_XXX__JG_Georgia_Vote_11_6_2018_jmg_39800.JPG?auto=webp&crop=4175,2348,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
     excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
     publishedDateTime: 2020-10-16T02:36:00Z

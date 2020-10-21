@@ -899,6 +899,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 56
+  - title: "Home Depot Co-Founder Ken Langone: \"Fraud\" For Biden To Say He Won't Raise Middle Class Taxes"
+    excerpt: "Home Depot co-founder Ken Langone argued Tuesday on FBN's \"Morning with Maria Bartiromo\" that \"the middle class will not be exempt\" from Joe Biden's tax plan, despite his promise not to raise taxes on anyone making less than $400,"
+    publishedDateTime: 2020-10-21T15:03:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/home_depot_co-founder_ken_langone_fraud_for_biden_to_say_he_wont_raise_middle_class_taxes.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 54
+    images:
+      - url: "https://assets.realclear.com/images/48/484232.jpg"
+        width: 800
+        height: 599
+        isCached: true
   - title: "Notice Biden Camp Isn't Denying the Facts on Sleazy Scoop"
     excerpt: "Notice that Joe Biden and his campaign aren't disputing the basic facts The Post has uncovered about Hunter Biden's cashing in on his dad's high office. The ex-veep called a lid for the day at 9:… That was when Democrats owned the House for 42 years straight,"
     publishedDateTime: 2020-10-15T12:31:00Z

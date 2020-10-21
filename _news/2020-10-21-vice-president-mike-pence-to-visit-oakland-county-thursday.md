@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Mike Pence holding campaign rally in Oakland County"
+    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township on Thursday with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
+    publishedDateTime: 2020-10-21T12:20:00Z
+    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html"
+    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
+        width: 698
+        height: 392
+        isCached: true
   - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
     excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
     publishedDateTime: 2020-10-17T20:30:00Z

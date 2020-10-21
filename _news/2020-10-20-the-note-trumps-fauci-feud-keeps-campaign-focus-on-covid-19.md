@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Raw Story‘Vote these monsters out’: Trump officials weigh deep funding cuts to COVID-19 relief, newborn screenings in Democratic-led cities"
+    excerpt: "Documents obtained by Politico reveal that the Trump White House is weighing millions of dollars in federal funding cuts to Covid-19 relief, newborn screenings, and other crucial healthcare programs in Democrat-led cities,"
+    publishedDateTime: 2020-10-21T18:11:00Z
+    webUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 41
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/WUSA_05-17-2020_10.37.29-0002-796x430.jpg"
+        width: 796
+        height: 430
         isCached: true
 
 secured: "Y93gNM4bikw2ApP87WVdMLThu0ytp7Sr8os5ThheaaNJzw9DnSBxANl2/nFQbtSul7S2WZPCyX7HX24RDqetlvsSoNILmsh58rNQH7n4zr/U4oTFV/AQP+d9bnIF2Ei7BCCoJ9vikJden1KlFlPwUDB3j7kFnDitZlLxKpBng9HOrIaIZxKkRtBxeOQfWhkwUhZ6+pJlSQuCf8DkLCe+uQe4dIA0+P+GDfmKUmaek4opX2buxCkO2ZnlUYkyR9SRAfJFBnZ2vqp4yIkMge9xIi3SKFTkUf88umsWqT3ShezG9zJGdPezORG8GffwC0qvp0HrPZuS7aeWTABJI2Yh0GrGO7DN4EFNrypaqFlY2rPtY1jk9JLQITbbhbQSgVSPSvxmohvCwlWiGsV2ikL2k8Jh/cBWPrymmAzcr15NA++CG3me4q2EsouLYU0oKlHpkyz96wBYu43IbOIZF1++4BekUi33KUEHlcvb3K6Z8/m0g0kmSbSYhTQlKsZJHsAOVGbTs275ASYJYqg0g+VhTg==;ZCrFduX9qgxw8wwcqZuzhg=="

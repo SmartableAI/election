@@ -56,6 +56,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Maryland man facing federal charge for allegedly threatening Biden and Harris"
+    excerpt: "A Maryland man is facing a federal charge for allegedly threatening Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris, authorities announced Wednesday.\n    \n"
+    publishedDateTime: 2020-10-21T19:45:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y--nriY6APo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/maryland-man-threat-biden-harris/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 197
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200810103806-joe-biden-kamala-harris-lead-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Georgia Republican senator willfully mispronounces Kamala Harris' name at Trump rally"
     excerpt: "Sen. David Perdue, a Georgia Republican who's locked in a tight reelection battle against Democrat Jon Ossoff, willfully mispronounced his Senate colleague Kamala Harris' name on Friday during remarks ahead of President Donald Trump's rally in the Peach State.\n    \n"
     publishedDateTime: 2020-10-17T00:43:08Z
@@ -863,6 +879,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 60
+  - title: "Even Mike Huckabee Tells Trump It’s a ‘Mistake’ to Focus on Hunter Biden"
+    excerpt: "While Fox News continues to promote the Hunter Biden story non-stop, Huck thinks Trump should focus more on the economy and taxes in the closing days of the election."
+    publishedDateTime: 2020-10-21T19:48:00Z
+    webUrl: "https://www.thedailybeast.com/even-mike-huckabee-tells-trump-its-a-mistake-to-focus-on-hunter-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 59
   - title: "Grit Your Teeth, Vote for Joe Biden and Then, Fingers Crossed, Push Him Hard to Do Better"
     excerpt: "There is no sane alternative, but his outlook is the same old centrist proactive-fear-of-prompting-a-backlash-with-too-much-progressivism that got us here in the first place."
     publishedDateTime: 2020-10-16T07:10:00Z

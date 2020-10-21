@@ -2,19 +2,19 @@
 category: news
 title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
 excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-publishedDateTime: 2020-10-20T12:00:00Z
-originalUrl: "https://www.miamiherald.com/news/politics-government/election/article246502245.html"
-webUrl: "https://www.miamiherald.com/news/politics-government/election/article246502245.html"
-ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246502245.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246502245.html"
+publishedDateTime: 2020-10-20T14:00:00Z
+originalUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
 type: article
 quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Wichita Eagle
+  domain: kansas.com
 
 topics:
   - Election
@@ -5817,6 +5817,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
+    excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
+    publishedDateTime: 2020-10-21T18:16:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Who Won The Vice Presidential Debate? VIDEO Of Key Moments, How Experts Felt About Mike Pence, Kamala Harris"
     excerpt: "Vice President Mike Pence and Sen. Kamala Harris debated Wednesday night in Salt Lake City amid an ongoing pandemic that has resulted in over 210,000 deaths in the U.S. and with questions about the direction of the economy."
     publishedDateTime: 2020-10-08T03:25:00Z
@@ -7708,6 +7724,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "HIfZkr48YxYcBpvKt5/asIuylJe3Y+43ARdIa14iyco5KeKwZhKtJ0fwY63pt/SNoF8WxCTLLHWJ6VOqo2JlTH1KXi2PNDdtGJLkZcxVPxH5UJPyTlTpZTo2BiyfsSx9qYzle6PSOfdP7e2s3PGLvAxq3KXnLKWLwNwJDZNF+oOek4NhxY97Rm86pTbrm2ZrODqFViNZJ54VfQ/4sbVvTpIGID5X1sMjZ9z5AUZBMPBtEx4spwIampxIoldMJLgPji/tthKJnW33sCUmNxM231lmkEvZ6S6dM6HkEdbsKDL8WopPpKibf4u3KF2FInnfkgm2Zjz5E5Pe94U8RlojUfRiPqN+41WoovRtjopWqX4Bu8Hj//79gei+WKFfyZrCloKG3jivroyJb3ry92uDGy2GL//AY4Mxd65ajHApcAwZOHfCd43YPeCsy3e52bO8dcdQAomcc1LhjZHFuoneBNS8YYa1awMuF06sLeBQLiUd6fK0kUUPEcksyk1SGM4xOAc5nwdvVTrCISFBZq5Uxw==;wWwk8Clf6I2dgDZUpwtdvQ=="
+secured: "vJuff7EJH3hd2vXs/ZNl48hiXk7lNUsz/94cnvOXs5aEIUmSoFJeJIUOHJQ+nJwupmvqD5mVSaTqqNWGBuYwRnelayXY5B/HWBHcLhEgE7YCVxCB69BdcLP3uspV/GLk5iA35bjYTTN/7UYsP6UMMzVwE8zehAXeaxv4yG7h36ljnQjgbvHP49pD5FBQc/pyJx6nZs6nTDaFRWoJq+De4sF9quV5B44M6zQT0s6+qL4mE6YrBiwXChznmPcxuEzbDwa9LinsPfFGJZeqkExpX99yxlX7iALp6B5k2c0p2wbzWFMxB2ocxvQlvrqzB4hbg72lbo1WkWvXxRIX6zvKG4mHfybtQ5OTFPSNjG+KZkU=;1loVNCqBxs0eMYYjzk38Kw=="
 ---
 

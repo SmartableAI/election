@@ -128,6 +128,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Karl Rove: Trump campaign should focus on the economy, not Hunter Biden"
+    excerpt: "With less than two weeks left before the 2020 presidential election, former White House deputy chief of staff Karl Rove said it would be more “effective” for the Trump campaign to focus on the economy as opposed to the Hunter Biden “scandal.”"
+    publishedDateTime: 2020-10-21T18:50:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gtc-_ypVeWo/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "The 6 topics Biden and Trump will debate at Thursday's final faceoff"
+    excerpt: "The stakes couldn’t be higher for Thursday’s second and final presidential debate between Democratic nominee Joe Biden and President Trump. Here's a look at the six topics that will be debated."
+    publishedDateTime: 2020-10-21T19:02:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xF0kLlM8fwM/presidential-debate-topics-biden-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/presidential-debate-topics-biden-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-topics-biden-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20294710883639.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z
@@ -617,6 +649,22 @@ related:
       - url: "https://images.wsj.net/im-247269/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Karl Rove: Trump campaign should focus on the economy, not Hunter Biden"
+    excerpt: "With less than two weeks left before the 2020 presidential election, former White House deputy chief of staff Karl Rove said it would be more “effective” for the Trump campaign to focus on the economy as opposed to the Hunter Biden “scandal."
+    publishedDateTime: 2020-10-21T19:03:00Z
+    webUrl: "https://www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/karl-rove-trump-campaign-should-focus-on-the-economy-not-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Brian Arbour: Everybody likes Joe Biden – here's why that's very bad news for Trump"
     excerpt: "Everybody likes Joe. Well, not everybody. Our most recent Fox News poll shows that 41% of those surveyed have an unfavorable impression of Democratic presidential nominee Joe Biden. But more crucially,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1910
+heat: 1930
 published: true
 
 provider:
@@ -889,6 +889,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2016_51/1839726/dollars_2545d1825bc673aaecd8fa01a99bcdba.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Reports of Trump's secret Chinese bank account spark controversy"
+    excerpt: "There's a lot to unpack in the new reporting, but it's probably worth dwelling on Trump's previously undisclosed bank account in China."
+    publishedDateTime: 2020-10-21T19:35:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/reports-trump-s-secret-chinese-bank-account-spark-controversy-ncna1244186"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244186"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244186"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_25/3390933/200618-trump-xi-mn-1030_3e485175a14ddbfa89b54f94cfca7782.jpg"
+        width: 2476
+        height: 1238
         isCached: true
   - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"

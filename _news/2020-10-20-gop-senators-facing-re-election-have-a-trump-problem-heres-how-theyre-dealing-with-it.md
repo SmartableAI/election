@@ -485,6 +485,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Lawyers From Firm Used By Trump Campaign Donated $50 To Him—And $90,000 To Joe Biden"
+    excerpt: "Lawyers from Jones Day, the firm providing counsel to Trump’s re-election campaign, have donated far more to Democratic rival Joe Biden than they did to him, a Reuters analysis published Wednesday shows."
+    publishedDateTime: 2020-10-21T19:00:00Z
+    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/21/lawyers-from-firm-used-by-trump-campaign-donated-50-to-him-and-90000-to-joe-biden/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 113
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9083ca421548d89e4a00ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5562%26cropY1%3D58%26cropY2%3D3187"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "At Least 23 Billionaires Made Six-Figure Donations To Committees Supporting Donald Trump Since July"
     excerpt: "Big money donors from Bass Pro Shops, Ashley Furniture, Apollo Global Management and more donated to Trump in recent months."
     publishedDateTime: 2020-10-16T17:48:00Z
@@ -728,6 +742,22 @@ related:
       - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
         width: 375
         height: 211
+        isCached: true
+  - title: "Mitt Romney Says He Voted Against Trump in 2020 Election"
+    excerpt: "Sen. Mitt Romney (R-UT) has already voted against President Donald Trump in the November election, he said Wednesday."
+    publishedDateTime: 2020-10-21T19:00:00Z
+    webUrl: "https://www.mediaite.com/news/mitt-romney-says-he-voted-against-trump-in-2020-election/"
+    ampWebUrl: "https://www.mediaite.com/news/mitt-romney-says-he-voted-against-trump-in-2020-election/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/mitt-romney-says-he-voted-against-trump-in-2020-election/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 90
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Mitt-Romney-1200x681.jpg"
+        width: 1200
+        height: 681
         isCached: true
   - title: "Tommy Lee Threatens To Leave US If Donald Trump Wins 2020 Presidential Election"
     excerpt: "While some people are still deciding how they will vote, Tommy Lee is already planning on how he will deal with the results of the US presidential election. In a recent interview, Lee opened up about his feelings regarding the commander in chief and why he may be relocating to another country if Donald Trump beats out Democrat presidential nominee Joe Biden."

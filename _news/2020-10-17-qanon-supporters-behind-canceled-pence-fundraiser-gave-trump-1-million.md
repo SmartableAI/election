@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Election live updates: Trump '60 Minutes' interview, Biden's new ad"
+    excerpt: "All eyes are on the campaign trail as President Donald Trump and Joe Biden barrel through the remaining days of the 2020 presidential election. The campaigns are in full preparation mode on Wednesday ahead of Thursday's final presidential debate."
+    publishedDateTime: 2020-10-21T19:32:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-21-trump-biden-election-n1244076"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244076"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244076"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Donald Trump's Fake Populism"
     excerpt: "The mess the nation faces is bigger than Donald Trump. If he is voted out in November, the people who cast ballots for him will remain, pining for the policies he promoted. About 40 percent of American voters want tariffs and a border wall."
     publishedDateTime: 2020-10-16T10:00:00Z

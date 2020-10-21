@@ -271,6 +271,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Raw Story‘Vote these monsters out’: Trump officials weigh deep funding cuts to COVID-19 relief, newborn screenings in Democratic-led cities"
+    excerpt: "Documents obtained by Politico reveal that the Trump White House is weighing millions of dollars in federal funding cuts to Covid-19 relief, newborn screenings, and other crucial healthcare programs in Democrat-led cities,"
+    publishedDateTime: 2020-10-21T18:11:00Z
+    webUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 41
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/WUSA_05-17-2020_10.37.29-0002-796x430.jpg"
+        width: 796
+        height: 430
+        isCached: true
 
 secured: "JKv5ClgFDGV+QhZB2xL9Up/5HIG+i8YtP3oUcBnXjdw85KB9Eej3HvOWa/XxbXGPvJDnEcrtcjCE7xP3ZU9qBb0lr8sesGSW5amleVP1lJvLH8iNFFNhDPiJyEC1y7C9MakeEH0BGbvKkWzL/N+mZHETtjz2tjxJl6ABRisKovvgM/AxmsT/FGvXHMgw8NqrcBmSU/rAfGZiLeEqIyAMudPZbc3CwdJl47GZoLDAooXd7iMPV+vgfASkOZE/Y8F25BV/o++qS/RZnAysCw/+3DJgw67uzfAZ0r0aCuj4b4ZpSVPW6veLpVJDMedy0NGIC1+OxeBm+GuEuwr2T7gX8RB2Rw4QHBw1zba9SzPh6pE=;aIrgOnmqChIjYKDkySD6yg=="
 ---

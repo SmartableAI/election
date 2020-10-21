@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years"
-    excerpt: "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n"
-    publishedDateTime: 2020-10-14T21:39:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
     excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
     publishedDateTime: 2020-10-16T21:32:13Z
@@ -76,22 +60,6 @@ related:
     quality: 160
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200626131818-trump-john-kelly-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The Point: Donald Trump is doing the exact opposite of what he should in the last days of 2020 campaign"
-    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better.\n    \n"
-    publishedDateTime: 2020-10-14T17:16:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlqUqf8tZW4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 159
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

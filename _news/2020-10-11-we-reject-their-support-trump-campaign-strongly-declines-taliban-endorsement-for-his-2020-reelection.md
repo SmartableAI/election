@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "'Panicked' Sen. Ron Johnson touts Trump to Wisconsin leaders"
+    excerpt: "A “panicked” Sen. Ron Johnson is urging members of the state chamber of commerce in battleground Wisconsin to vote for President Donald Trump"
+    publishedDateTime: 2020-10-21T18:54:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0ebf4b9746484c1c86c0e2d61e5e0069_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
     excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
     publishedDateTime: 2020-10-12T14:43:00Z

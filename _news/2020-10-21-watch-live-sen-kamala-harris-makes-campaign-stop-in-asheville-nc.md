@@ -338,6 +338,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
+    excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"
+    publishedDateTime: 2020-10-21T19:06:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/kamala-harris-husband-doug-emhoff-to-campaign-in-west-michigan-for-biden.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 89
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F5TQJ5FGVZGYZBWBHISZKJ47FA.JPG"
+        width: 1300
+        height: 838
+        isCached: true
   - title: "At Supreme Court Hearing, Kamala Harris Summons Her Prosecutorial Instincts"
     excerpt: "Joe Biden picked Kamala Harris in no small part for her prosecutorial pluck, on clear display in the Supreme Court hearing this week."
     publishedDateTime: 2020-10-15T17:42:00Z
@@ -716,6 +732,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Comments to Reporters in North Carolina"
+    excerpt: "Senator Kamala Harris (D-CA) responds to reporters' questions about President Trump’s criticism of Hunter Biden and whether she and Joe Biden think they need to win North Carolina on election day to secure the White House."
+    publishedDateTime: 2020-10-21T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477189-1/senator-harris-democrats-win-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
     excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
     publishedDateTime: 2020-10-19T16:53:00Z
@@ -726,6 +751,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "pgeciEova4qy36/9I4bR6F9lvYHY+K+Y41LN9duCKC772TSfDMDDmxNdrgBBvWvZh+psHiP2KTJXlInX4U7sPj7lRGKexh2wt0vWWTyMtKP8FC9Ftf4DIQ3TdG4181C7hHLkDSlv8B9TsCn3X1g7bh0xXgKYNbLQQTpbdwBl4jLxrTzObNZBfh2NTAQ0EbDGndCorneNzZw1x3W8xJzvBEMiwSUQ+GM2z35VmA3ZqSwl3vcSlUlwqhMygwFXr+UGXyBs5WKINhRi4T3ot1fFb6IWLuaT3aGSSEU43CO1gnPGdFMN0FXied1BNUqHTa6Eqcn5uLqEqx0LxenUJAbjNdSY4mw+9cwM19dqa1v/3Fc=;o3D3cPiuE/95GLcBSCGLqg=="
+secured: "l5WRO5frs9iZIePD5GcXPNbEr8tQZ5Boxtslt/17qcgMTYCks+LkSHfGL2uHfJcet2zUbCj1AZFw6YfeWfUhs+I9u4oUD9R/5Xbvk8i3JJo07qgF78g2z6EjNBp5zE2SFt23zcI/eU4FpqnMfcPukxmJ61YMKDtHQpUHI4RQuvANB2X6B0ESL4g72Vt2Fucw/HNtwZ+6GC8Zjkpxbc1kvWnT2eKkZDZ5W4WZ+UfWvlN430ELT0yQR4SCsBIox2Pshl/1RAs+96utkiC49RwRsd44LOzOgn9vclutksEWVT0/Ai+UUdDLzVK7WgaGuvVIErJqfiQLoQniOYWZ9NcfrIajMmoTsjzfclkRgJQveSMeqTMuhNXMuZyoCeMZ9VbFrlZyYYgRhP+Sm93Z1Dsxey1AhILWPFQQe7bJNDDwBGeuYPF+qUpcOVyRiz32gBWtl4kKZYkbgTtIwD7NNPUSpfznuQFXAqsmqubx26cNUMkKEdfGP3bX1EY2IwMCTmPUpRxBqbsDLVqAVBVxT87YYA==;7nNHTWQ6JxUCEq7yxy1COw=="
 ---
 

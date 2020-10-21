@@ -7,7 +7,7 @@ originalUrl: "https://www.thedailybeast.com/trump-said-hed-ban-foreign-lobbyist-
 webUrl: "https://www.thedailybeast.com/trump-said-hed-ban-foreign-lobbyist-fundraising-now-theyre-bankrolling-his-campaign"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,86 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+
+related:
+  - title: "Inside Melania Trump's unprecedented campaign trail absence"
+    excerpt: "First lady Melania Trump -- in a historic break from precedent -- has yet to set foot on the campaign trail this year even as her husband, President Donald Trump, fights for votes, especially among suburban White women with whom she could hold appeal.\n    \n"
+    publishedDateTime: 2020-10-21T19:31:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RINuL4HzoFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190604162208-01-melania-trump-0603-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Melania Trump renews focus on ex-friend with essay railing against 'pettiness'"
+    excerpt: "First lady Melania Trump penned an essay on the White House website on Friday that railed against what she described as the \"pettiness\" of the media and ex-friend and former adviser Stephanie Winston Wolkoff.\n    \n"
+    publishedDateTime: 2020-10-16T15:37:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MFLVF8aOKt8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/melania-trump-stephanie-winston-wolkoff-white-house-essay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/melania-trump-stephanie-winston-wolkoff-white-house-essay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201002001026-melania-trump-file-september-14-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Feds chased suspected foreign link to Trump's 2016 campaign cash for three years"
+    excerpt: "For more than three years, federal prosecutors investigated whether money flowing through an Egyptian state-owned bank could have backed millions of dollars Donald Trump donated to his own campaign days before he won the 2016 election, multiple sources familiar with the investigation told CNN.\n    \n"
+    publishedDateTime: 2020-10-14T21:39:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/u9T-O-K-ifQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/trump-campaign-donation-investigation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201014123055-20201014-trump-mueller-investigation-campaign-donation-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Donald Trump is doing the exact opposite of what he should in the last days of 2020 campaign"
+    excerpt: "President Donald Trump has a simple strategy for the final weeks of the 2020 campaign: If some of me is good, more of me is better.\n    \n"
+    publishedDateTime: 2020-10-14T17:16:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vlqUqf8tZW4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/donald-trump-biden-2020-campaign/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
+    excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."
+    publishedDateTime: 2020-10-20T09:14:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/trump-campaign-s-2020-shot-shot-remake-2016-flopping-hard-ncna1243955"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421330/201019-trump-campaign-rally-cs-413p_39a8ae7346ff9df90a548d4d6702e2f0.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "s61jAblcNrE18nuUNLA8A3hp0DzPEAS0S8xROyyFc9w5W4v0fYtAFlqkD7WicCrKRjJYcmxINub0O53WfFaGkjr7kCWA9QN69KRNw4tDai+LtmA2a12EIQOzBBT3NRCfyZDjFzkQ1ZeHz7q0aiI3e3hh31qD1H2ij/l/i+sO09eBQJsXwPvaeblWmlqttvvvoZF9IjAIxxvDhSBtL4lM672cxxzHSzfWlVizGZCGhtvotAlIJ/1D6LDm6+kt/Oap7YzSf+401Z5BUbFwL6k5+RXC6CCmVC9LlwQdxusI0VnjZS/oUvbxenbh6r+U5U7cvbNXwSgLN4cyZRUrI0iPc9/t1/5uHO2gZtHxs644+yjFegFQTVX+2nC6ClWzla9uAIyF98GDB/A8Rf0IF0bNoZFyTu5vdWlDm2l7cVm+taKu0YgozuO0CHS8OYM16jCDsKu/gEgoeh3tRFlZGCkSG/CTIEJVrNFBZEKPiVRA6e/X+28A7SPl9Ql/ikvA1dK38PlDN0DQ+yQEedpYENHblw==;1IDKH9oujom2D/66wc19PQ=="
 ---

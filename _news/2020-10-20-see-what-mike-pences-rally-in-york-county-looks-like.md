@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ydr.com/amp/5982553002"
 cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
 type: article
 quality: 75
-heat: 115
+heat: 135
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mike Pence holding campaign rally in Oakland County"
+    excerpt: "Vice President Mike Pence will host a campaign rally in Waterford Township on Thursday with a focus on fracking, trade, the economy, and contrasting Joe Biden's record on China vs."
+    publishedDateTime: 2020-10-21T12:20:00Z
+    webUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.html"
+    ampWebUrl: "https://www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/news/elections/mike-pence-holding-campaign-rally-in-oakland-county/article_8a2ccb3e-1204-11eb-ad85-d3fd58cc75ed.amp.html"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/5/69/569d3f64-120f-11eb-b03b-cf485488bd15/5f8d95192e5c9.image.jpg"
+        width: 698
+        height: 392
+        isCached: true
   - title: "Vice President Mike Pence To Visit Oakland County Thursday"
     excerpt: "Vice President Mike Pence will be visiting Oakland County on Thursday for a Make America Great Again! just weeks ahead of the Nov. 3 election. Pence will speak at a rally located at Barnstormers, 1675 Airport Rd."
     publishedDateTime: 2020-10-20T22:13:00Z
