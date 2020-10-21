@@ -3,8 +3,8 @@ category: news
 title: "Let's not pretend David Perdue wasn't being racist about Kamala Harris"
 excerpt: "Anushay Hossain writes that Sen. David Perdue's purposeful mispronunciation of Sen. Kamala Harris' first name was racist and \"familiar to too many immigrants and people of color across America who have personal and painful stories of being bullied over our names."
 publishedDateTime: 2020-10-18T23:03:00Z
-originalUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/"
-webUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/"
+originalUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
+webUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
 type: article
@@ -122,6 +122,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "1GlJRfT3rzgDFY8hXH7x2yOCjaJLp7ccCPzlPOj/cDRyClQtu79i7UhmZ16aWa6VpiWeJ3u5FiZckhk/whDmBf30DeSoYm0uQ9AEWzEfXqplXiuosyLSzz0FI/gmtUziiTAzflCAnCIZfBC3iUwFOquf7J/3ZHaF0mFm1p8GGvBCKv5jXqPy+/INSR3v7U35ioqFHw2yaDXgzr29CDvrd1vj8PIkdfP16nMAWq/gFOd2CExDCCHWiuErSAamJcVdpIVXw3Nn1HtFld8nfJy1q9VyE5ZBVtml5DFpgedySrZfnSVQPTo3mhdm28A7pj7VH+x0WEjWAaKJawA3DYto+swnR8mL2Hjo0YAzJ+eaZ1/RzfAjDL03ZmIsrXwnUdaqETbmHXHRf5IlG31r1BipuJHYSnmPen9nJ72O1ZnkNGjlpWFne5FQvG1dlOnWyMOq9QiKH6DgsZehn1L+QZVo3g2jeVR1NBm039W4AdjLcE4hXhRr+Qe1feKjdDJpUhiCs7nZLGQrHOhG1NLAguCbZw==;ZOBQ05piLnB06P9dQ9Oq0g=="
+secured: "zhRBxxWcOokVsQwyeZw6+7prJQ8uMZxkM683yN6x5wOExHsR03Kbi9mJXG60jkQbc1oVC1C97NZRk4WIZA2mbRxQQGNYBafgwU2bANvxxWzLIC5+Y/1l0JjBtPGUtjCAxQsG1uB/tIAy/m5XruLfnb4QSD2alCHngpdRTUsUnUsESTNSVoat1V9K/846pd7xXak36bue+4P73nbszds8rD57ix4AKT6GQ+TbLLwGPs57a0T38mzUNPwjoX84w/fIM2YfQi/ziZNKdH3uqbH6tYH50M+D3JMem1m8UBiaix3tEiS3Fi6B9V5iV6gd21rmOYwutaj6TzQanFbpTgjs5EGXBjJtXU/lXG43kaDmv6s=;2Q4ecxxVHDOaOes7PMermA=="
 ---
 

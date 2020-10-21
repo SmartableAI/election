@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump lashes out wildly as he seeks an election comeback"
+    excerpt: "President Donald Trump is struggling to find a compelling rationale for his reelection ahead of the final presidential debate, firing off wild, scattershot attacks against an expanding list of perceived political enemies.\n    \n"
+    publishedDateTime: 2020-10-21T10:54:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U0IMd0tS6iE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/2020-election-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/2020-election-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020081638-donald-trump-phoenix-rally-1019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Republican Massachusetts governor will not support Trump's reelection effort"
     excerpt: "Republican Massachusetts Gov. Charlie Baker isn't backing President Donald Trump's reelection bid, his communications director Lizzy Guyton told CNN affiliate WCVB on Wednesday.\n    \n"
     publishedDateTime: 2020-10-15T00:55:26Z

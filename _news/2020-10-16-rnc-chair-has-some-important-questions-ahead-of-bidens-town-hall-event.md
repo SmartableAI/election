@@ -352,6 +352,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to hold campaign rally in North Carolina as Biden preps for final debate in Delaware"
+    excerpt: "With the November election less than two weeks away, President Trump is continuing his campaign swing through the pivotal battleground states with a planned rally in North Carolina, where he's currently neck-and-neck with Democratic rival Joe Biden. "
+    publishedDateTime: 2020-10-21T11:56:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tj9K1x6Tfkk/trump-biden-harris-pence-campaign-trail-october-21"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-21.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-harris-pence-campaign-trail-october-21.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/70e3d4b4-5e63-4832-8c75-ee41ed434ffa/50aacca5-a79f-4a2c-a351-5e34e1c22c5f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
     excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
     publishedDateTime: 2020-10-16T13:13:45Z
@@ -461,22 +477,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/TrumpBidenAP-PhotoPatrick-Semansky.jpg"
         width: 996
         height: 560
-        isCached: true
-  - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
-    excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."
-    publishedDateTime: 2020-10-21T02:15:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PNX54X_Hg5w/former-rnc-chairman-michael-steele-endorses-joe-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/michael-steele-Getty-Images.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
@@ -666,6 +666,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
+    excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."
+    publishedDateTime: 2020-10-21T02:18:00Z
+    webUrl: "https://www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-rnc-chairman-michael-steele-endorses-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/michael-steele-Getty-Images.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
     excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"
     publishedDateTime: 2020-10-15T23:30:00Z
@@ -697,6 +713,22 @@ related:
       - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "To All Those Biden Supporters Out There, Here's the Bill He Wants to Leave Us as President"
+    excerpt: "President Joe Biden will wreck the economy. Are we talking about another depression like Trump says on the stump? Probably not, but it’s not going to be pretty.The Wall Street"
+    publishedDateTime: 2020-10-20T16:40:00Z
+    webUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/20/wsj-heres-the-cost-of-bidenomics--its-not-pretty-n2578351"
+    ampWebUrl: "https://townhall.com/tipsheet/mattvespa/2020/10/20/wsj-heres-the-cost-of-bidenomics--its-not-pretty-n2578351?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/mattvespa/2020/10/20/wsj-heres-the-cost-of-bidenomics--its-not-pretty-n2578351?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 75
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/245/e0f89a19-216e-468f-8b8e-f8c571a1ad1b.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
     excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."

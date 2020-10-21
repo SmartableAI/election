@@ -191,22 +191,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
-    excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
-    publishedDateTime: 2020-10-15T02:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising/biden-and-democrats-raised-record-383-million-in-sept-for-white-house-bid-idUSKBN27004S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27004S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27004S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537515404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E033"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Biden campaign co-chair says Supreme Court packing question is 'hypothetical'"
     excerpt: "\"I think it's a legitimate question for you to ask, but it is a distraction with 22 days before the election,\" Richmond said on ABC's \"This Week.\" Speaking with guest host Jon Karl, the congressman was asked where Biden stood on the issue of court-packing."
     publishedDateTime: 2020-10-11T15:26:00Z

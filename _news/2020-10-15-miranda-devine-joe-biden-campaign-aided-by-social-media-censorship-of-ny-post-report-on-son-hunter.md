@@ -446,6 +446,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "FBI holding laptop allegedly containing Hunter Biden business emails: officials"
+    excerpt: "FBI in possession of Hunter Biden's purported laptop, sources say The FBI is in possession of the laptop purportedly belonging to Hunter Biden which allegedly contained emails revealing details of his foreign business dealings,"
+    publishedDateTime: 2020-10-21T09:21:00Z
+    webUrl: "https://www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials"
+    ampWebUrl: "https://www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/fbi-holding-laptop-allegedly-containing-hunter-biden-business-emails-officials.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Joe-Hunter-Biden-FBI-THUMB.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "New York Post Editorial Board: Biden campaign not denying Post report on Hunter profiting from Joe being VP"
     excerpt: "Notice that Joe Biden and his campaign aren’t disputing the basic facts The New York Post has uncovered about Hunter Biden’s cashing in on his dad’s high office."
     publishedDateTime: 2020-10-15T11:07:00Z

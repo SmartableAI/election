@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
 type: article
 quality: 114
-heat: 194
+heat: 154
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
-    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
-    publishedDateTime: 2020-10-21T09:04:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 66
-    images:
-      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
     excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
     publishedDateTime: 2020-10-20T11:37:00Z
@@ -80,17 +64,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
-    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
-    publishedDateTime: 2020-10-18T18:11:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "KHIHi/PbThIc+XEHqDqc2JemTtBCErVY+i74QKVhCljzd1FXM4fFEccON3D9af8e9/1iuHmAo+J4vqByxGwtvU3cmBKVNmFxB6wyFY4ofb4jt5V3z8rBavLpdxKYl2QuLqpowA5bs+hLCjiR19tn61qB4HsylTBEw50Q4/8y9Fa83hNokpzgHfetipUS5BsAyPANYp3+UMmT4AyNh9VTYjZSQyZUjtV1fGXgytlXkdr4IvIlx+Mz5OCrSrP3b7SvVxvWiGvKHwJvyqqYKDf4ru1M/XrADQw4gYV2SMKg3BcEjE3TRKk+rG+bNl6+Q8k8Y8uTaGMM09wbgic4P0zygZbg72i4jSLCr4VssgIRx413XN+YXBDdf/EmKoXDREI1JojBFTrmVnqxc5fIGpj5dGOBb+etwC8pHxSCZd440fuMnP3ayE+9lRKc2UyxMByWLZEIj/O1sQ0uPvirABmfk+fI+UTEfZvdV+moGmjruGlRf3XUIn+8JiQIIT9OMp2gezZUqVIyQtDTm/+iqDZ/iQ==;/Ob5B35WSrKRHhf3CkiiTQ=="
 ---

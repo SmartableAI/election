@@ -63,33 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
-    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
-    publishedDateTime: 2020-10-21T09:04:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 66
-    images:
-      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
-    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
-    publishedDateTime: 2020-10-18T18:11:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "vGeWzqgMxhZdKrnzaay7qCLasyNWLoFSeCMJWaR+327i8RT/rEQtEL7USLQi8HVaNbdvqbUtedJ9LyNH/e0xEQkA+rgks0cV9yhKpykwQG6IKsAi33eeTL7uHY1N5XL6LhuxTWln/nxb1prLUXP2f6143jJ8ynCXOgSzpE3MX7UnwlvQ46numQkItuWXEWVfBFxBFX1jIHDlCY2vXT3ZiLPpUiYGVpCuW5lBeN78J8ZH2fJZGBFEroKaRDwBpv2nRYWs+kEI61SnseyGObvg8uhVzFXCAUN6WGmIK5XAJmZj+m95oOpcW74iR4SSL5wqShymQi9JIcMR8NR+IG2lzVhvFRIWlfVZ/S1ZC0zjYWI=;k3lQizcc7+OR2Uk74zFKDA=="
 ---

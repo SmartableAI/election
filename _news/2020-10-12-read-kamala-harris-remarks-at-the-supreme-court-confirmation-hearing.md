@@ -99,7 +99,7 @@ related:
   - title: "Let's not pretend David Perdue wasn't being racist about Kamala Harris"
     excerpt: "Anushay Hossain writes that Sen. David Perdue's purposeful mispronunciation of Sen. Kamala Harris' first name was racist and \"familiar to too many immigrants and people of color across America who have personal and painful stories of being bullied over our names."
     publishedDateTime: 2020-10-18T23:03:00Z
-    webUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/"
+    webUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
     type: article

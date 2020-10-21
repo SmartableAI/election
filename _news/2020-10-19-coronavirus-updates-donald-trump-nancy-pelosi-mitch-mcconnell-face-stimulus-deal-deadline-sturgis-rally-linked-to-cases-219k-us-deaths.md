@@ -63,6 +63,38 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-13T10:03:00Z
+    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
+    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
+    publishedDateTime: 2020-10-14T06:03:00Z
+    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 53
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "hyHWDdJbH9qEbC2o0eAeIbXpKVIM1jdg70uI0AzGKCvtcitcGJW/jpzgKkOHNsqnbZK5tTDqqYDIKLecsIwpQqzToTspVCbVmIHs4pD6lvoXD0vxBxHRSes5xgIUfik9AJ20bnQWyHoc6iGSDeLul4lwlTGtQUXtIGgM0jPkzru0dmR4ZgjBFVe8r43QAtaIMI3LLIsKpbSS4860n2UE/CtskcSTvpRwf6HwtMGsEZXCJVn8tMFoJMoRoKZau9XtVamOsxcXLXfUqKivp+XRU29r9+DcrXc+syZIj+N7menTulYLFnzk7AzbyD+yuu9iTywJb1LZ0slUHvArxNjxn5rUJdm676dTCBgMecp9etI=;ZawLOcQYnqWYKD7Pn37UCw=="
 ---

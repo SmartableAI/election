@@ -9,7 +9,7 @@ ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-c
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/19/joe-biden-snaps-at-cbs-reporter-for-hunter-questio/"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,77 +25,6 @@ images:
     width: 1200
     height: 700
     isCached: true
-
-related:
-  - title: "Biden town hall questioner worked as speechwriter in Obama administration: report"
-    excerpt: "A participant in Thursday night's ABC News town hall with Democratic nominee Joe Biden previously worked as a speechwriter in the Obama administration, but only identified during the televised event a"
-    publishedDateTime: 2020-10-16T19:05:00Z
-    webUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration"
-    ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 120
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101520getty_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
-    excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
-    publishedDateTime: 2020-10-16T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 113
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
-    excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."
-    publishedDateTime: 2020-10-16T12:41:00Z
-    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 97
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Executive Dysfunction: A Clinical Evaluation of Joe Biden’s Cognitive-Linguistic Deficits."
-    excerpt: "As America’s day of decision draws near, the only person who believes Joe Biden’s cognitive-linguistic skills are within normal limits seems to be Joe Biden. Even Democrat media partisans like Andrea Mitchell,"
-    publishedDateTime: 2020-10-13T23:41:00Z
-    webUrl: "https://humanevents.com/2020/10/13/executive-dysfunction-a-clinical-evaluation-of-joe-bidens-cognitive-linguistic-deficits/"
-    type: article
-    provider:
-      name: Human Events
-      domain: humanevents.com
-    quality: 45
-    images:
-      - url: "https://humanevents.com/wp-content/uploads/2020/10/construct.png"
-        width: 1920
-        height: 642
-        isCached: true
-  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
-    publishedDateTime: 2020-10-16T13:13:00Z
-    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "bkcb1MMjmbFB1JDP0vmRfrXtXEkLpHRnboojsAATykDviU3bg+NY4FyTqnqMDaaRrKj4SKq8owRgR6O4p/DGB6fziL+HndxlmJiIkZ5alYqXwsM3FA39WZki5R6nIGLZNOwqlaSjhe7OKFg7HcIbJzfux7G79fgppxmI3J8opksKwWr9MPjcIwdoR949P+iAam4wKLFZYksWqmE6DaH53GkQMYJMsQNsWR2VfFImBOXC5MCHp0ozyWS+3Tb9IiN20Rz/ithZx5NidHEdW36pwsGzbSCrjMXpWrSQj9Fh2kmvkOy/0xua3wyZTjtfll7/BjL7l875Bk5hWSLixovCg1cLyunwwuwzPAedunlOGcqasLTxFvRryGSFCiT/PSUntvT708zhsSxUYgo8DdtrVB/f5Q1OSjOAi3MCetbGBBi2kVs/fCRv2rXGBmErm53/k0LWRLxIoI9WEvKa+rTo3XxU+oFdfAjgCiH4seOSBThqGwfEQnQSpAqZQvwkJwVd31MrrlVQMxEHvgwrNcafuA==;G0a9L1qSA86UrMZ6NW2Qng=="
 ---

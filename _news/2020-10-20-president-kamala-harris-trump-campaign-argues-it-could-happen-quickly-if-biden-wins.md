@@ -2,19 +2,19 @@
 category: news
 title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
 excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-publishedDateTime: 2020-10-20T12:00:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+publishedDateTime: 2020-10-20T14:00:00Z
+originalUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
 type: article
 quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Wichita Eagle
+  domain: kansas.com
 
 topics:
   - Election
@@ -7699,6 +7699,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "iiWln0HaJ/K+pTzs7klNIaXA+B3nKSOjsr9NixTbAsu3vsqk1YP8KweCWCVdgMdsAAzNId6AFPQuEmmyjaCRtgAKRfFwP14UVUjr52y0nu+Setw0nwG4b+vQfxDbJg46AlaNAojPgniafjjJf3orayylkXqml+zO22x74wts07OvJ1O7+QQ47hZryh4zZJnRcwsT40LeWG0mJMNTA4phThaF+/G6BY6BFlCAtUMypmHQF+XScr5TsuOhXTDkESpvYi/RuWCvz0j51Q7khGpcOENr6L7pG7tCJnNNTN5GK5INlqHx0WzspV6CwitBiHnoxHyoFlXxC5RSTT0qLDN2nLA3GF7GovftWMaHl+PBPo6G5D80TToBcoswOFPpPr7nOGzm22CxDXS+ojfKpwFGv4tq3/0wGVVR4LhNVhY6rZnvQ01t6j+aJMgXIfgvprFtTck+Fbb5HvJ/W64UJ9wRLgk123eadCExCavLU7s3xX/gI60PFeucUPm3KODgjUouD/r/8H7AYzGdKp1NlTJ0Pg==;OoZgRCtsgmXx3gKWcnsYzg=="
+secured: "A6HaqFEalS+dsmc1H+y729+cApY6IWmAHhXWg0nlzsA/UWq/cs35/0xptmCNSOHU8AyqM+mZPebNJxAqfLy9oTGOqBOcsIsQcvyCGhRQFti7VXyQFWTHdTIF8GKarI/OFvc68NRyUud4PTxAhc+MgIGfam4n3ezeEHofCMH2EPBXgZiXQs1aEQ3vv7uPLrjoyXd0OXSG7gXSA4mHRq9mIboC9vCer8bxNx+mYQIcSM66tYJ2JIbqFQuVVRTPYr/gyF4O/duPp6V8nX7cI3+mhVNQaAqSfaRaBV5PZiM/tiFwPYyD8HIrABkGv03aORN6hmceEyWI7o0M2UduqabhOlrKYhpgMlzN/mG5QJ2P9BQ=;NHP//SVJBt76rhBtc6DfFQ=="
 ---
 

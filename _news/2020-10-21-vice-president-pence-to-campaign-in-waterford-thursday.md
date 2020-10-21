@@ -91,6 +91,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to hold rally in Portsmouth"
+    excerpt: "PORTSMOUTH – Less than two weeks before the election, Vice President Mike Pence will visit the city on Wednesday for an afternoon rally at Port City Air at Portsmouth International Airport at Pease. President Donald Trump’s campaign confirmed the visit ..."
+    publishedDateTime: 2020-10-21T11:16:00Z
+    webUrl: "https://www.seacoastonline.com/story/news/politics/elections/2020/10/19/vice-president-mike-pence-to-hold-rally-in-portsmouth/42856821/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/42856821"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/42856821"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/af38759e5d697536d44706d4f3407cd2b6519afc/c=0-284-2000-1409/local/-/media/2020/10/19/Portsmouth/ghows-FD-201019666-9c12fa71.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z
@@ -169,15 +185,6 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
     webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
     type: article
     provider:
       name: C-SPAN

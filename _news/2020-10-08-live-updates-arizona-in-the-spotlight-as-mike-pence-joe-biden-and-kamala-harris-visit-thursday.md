@@ -4053,14 +4053,14 @@ related:
         isCached: true
   - title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
     excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-    publishedDateTime: 2020-10-20T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+    publishedDateTime: 2020-10-20T14:00:00Z
+    webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
+    ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 98
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c95d70f4-ece1-471e-9a5d-90013c5bb184/393adf9d-d841-4d86-883e-a644d1981e3c/1280x720/match/image.jpg"

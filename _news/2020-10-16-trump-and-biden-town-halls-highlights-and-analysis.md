@@ -256,6 +256,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama returns to the campaign trail, rallying support for Biden in hopes of ending Trump's presidency"
+    excerpt: "Barack Obama had always intended to sit out the first presidential election of his post-presidency, taking heed of the private guidance given to him from Presidents George W. Bush and George H.W. Bush.\n    \n"
+    publishedDateTime: 2020-10-21T10:08:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/05RGWUF-eT0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/obama-campaign-biden-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/obama-campaign-biden-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/181102185538-01-barack-obama-1102-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden will participate in competing town halls on Thursday night after cancellation of second debate"
     excerpt: "President Donald Trump will participate in a town hall with NBC News on Thursday night, the network announced.\n    \n"
     publishedDateTime: 2020-10-14T11:56:08Z
@@ -495,6 +511,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/20/us/-promo-1603167098634/-promo-1603167098634-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Biden braces for Trump's attacks on Hunter at debate"
+    excerpt: "Donald Trump has made clear he’s coming after Hunter Biden at Thursday’s debate for allegedly profiting off his father’s position. And Joe Biden would seem to have an easy comeback: Look at what your own kids have done since you became president."
+    publishedDateTime: 2020-10-21T09:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/biden-braces-for-trumps-attacks-on-hunter-debate-430441"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/24/fd/2171cd4849f09d1e7e82d029056b/202120-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump's cash woes mount as Biden laps him"
     excerpt: "Altogether, including the campaigns, national parties and affiliated fundraising committees, Biden announced a cash edge of $432 million to Trump’s $251 million earlier this month, but the campaign-to-campaign comparison is important — and even more stark."

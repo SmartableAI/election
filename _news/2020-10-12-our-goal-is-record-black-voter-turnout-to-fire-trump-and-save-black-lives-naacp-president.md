@@ -1225,6 +1225,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meadows says Trump didn't intend to order declassification of all Russia probe documents"
+    excerpt: "The White House chief of staff said Trump's tweets about the Russia probe this month \"were not self-executing declassification orders.\""
+    publishedDateTime: 2020-10-21T11:30:00Z
+    webUrl: "https://www.cbsnews.com/news/mark-meadows-trump-russia-probe-declassification-clarification/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mark-meadows-trump-russia-probe-declassification-clarification/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mark-meadows-trump-russia-probe-declassification-clarification/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/26/e0ecf7e2-43b9-4b3c-9339-ea3d3b973755/thumbnail/1200x630g6/951daf6478e682cffb94fe069044a768/gettyimages-1228156937.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How the US has voted in every presidential election from George Washington to Donald Trump — and what it means for today"
     excerpt: "The US political map hasn't always looked the way it does today. See how the map has changed over 58 presidential elections."
     publishedDateTime: 2020-10-16T18:59:00Z

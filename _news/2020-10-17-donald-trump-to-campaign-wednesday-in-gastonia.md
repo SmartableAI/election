@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politi
 cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
-    excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
-    publishedDateTime: 2020-10-17T17:44:00Z
-    webUrl: "https://6abc.com/politics/fmr-president-obama-to-campaign-for-biden-in-philly/7107001/"
-    ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
-    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
-    type: article
-    provider:
-      name: 6abc News
-      domain: 6abc.com
-    quality: 69
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Second lady Karen Pence will be in Mount Joy on Wednesday"
     excerpt: "Second lady Karen Pence is scheduled to visit Lancaster County on Wednesday, less than two weeks before the Nov. 3 election."
     publishedDateTime: 2020-10-20T14:27:00Z

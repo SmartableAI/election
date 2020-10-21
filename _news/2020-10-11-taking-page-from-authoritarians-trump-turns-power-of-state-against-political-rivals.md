@@ -272,6 +272,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "POLITICO Playbook: New poll: Biden edges Trump on the economy"
+    excerpt: "ONALD TRUMP was apparently so angry with CBS’ LESLEY STAHL that he cut short an interview and tweeted out a clip of the anchor"
+    publishedDateTime: 2020-10-21T11:02:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2020/10/21/new-poll-biden-edges-trump-on-the-economy-490664"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/fd/30/b4d31a8e493580d7c6d59ec77bf4/gettyimages-1229190970.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Romney decries state of America's 'vile, vituperative, hate-filled' politics, puts blame largely on Trump"
     excerpt: "Romney said he's \"troubled\" by U.S. politics having \"moved away from spirited debate to a vile, vituperative, hate-filled morass\" unbecoming of America."
     publishedDateTime: 2020-10-13T15:28:00Z

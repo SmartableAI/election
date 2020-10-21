@@ -304,6 +304,22 @@ related:
         width: 4834
         height: 3221
         isCached: true
+  - title: "Trump Records Shed New Light on Chinese Business Pursuits"
+    excerpt: "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account."
+    publishedDateTime: 2020-10-21T10:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
     publishedDateTime: 2020-10-09T21:26:00Z
@@ -450,6 +466,6 @@ related:
       domain: thedailybeast.com
     quality: 45
 
-secured: "DpNhepQjrF33pYpZbfIfe6dUSom/eietcTmG5FbfOhEDNezXt/x/M3A/Lq0YZSFzovG/K8erp39/Dz3QdVsLfTy6OzPqCOTOHc/1Dl9a8+dBIDA48tPoKeqGIO0V/+gJY3Ia1K/2ZVGLzp2hFIeIgMtRV+BgsmcHXExU9jWvP21brcbnf1RNHKBEketrURAXS7GR+QLTlcJE4Hz0O+2zJ2sbVP32rrh6GeZZ8UlyU/Lzk5z9kaswG7tgA75MLa4Xoeu0qQN3E9p5QYZ0/tYqZBQ8nsejYTxMLDagjlYkKjL3/PIBPV0cCBkXYNz6zxDZ3c5xxEp2siTl0X4orfZgiqRoVIWfvOwFDVls9p//+lo=;VA5GeV9NoHN8uRk2EPBOFw=="
+secured: "+lViZYXT3VbXo9RK6WuiYYNkN27y21HEIBsbY3DQnGRQIiesDIPiC9s2yMoHvr6rcL0gK1lSxfMePvvvnIOMsKyp+hWl9nPWLoAdr2U2gGTi0kJaeGtimSZ2tyhW+mRasuVDvTy3MhYZE1AI2HOGP/xWNni3OFZq8+IjqEXAQ1W2d+Oc6qbBsSlc63J8AtssDlggA5StX6Nab+mPF2JshFtltnBuZW9GkFPCcyY8PGgYFI6GnrJDhTtTF1ezSJsbhWF/fHgPpVaHrhh2XsRLvfacPyFD2mmTEY7TnJM7N/MNpVacVz0MX4TYrdb5IrIwmCTbNXhtUanx3AnrTE7vyLWB1aqyWjLPuOFoPomiSkTwi19fst0O+1QDcTnibPq+XXzuN8G7go4hrWiMPKOymDHDuvuErBk+txRwAXJA1h2KeRf7bUavMNM1XNJp6lcHLlfbJFzQ0vy97WITMShOE4k2OllSbo+nOZziXI2mZdKbqPonFNUyK1V5lPnVQTY1nZG7oKJ+dy0JDA+xA7f0CQ==;9xEeKlhVMprzrIPI6VzvbQ=="
 ---
 

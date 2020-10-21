@@ -304,6 +304,22 @@ related:
         width: 4834
         height: 3221
         isCached: true
+  - title: "Trump Records Shed New Light on Chinese Business Pursuits"
+    excerpt: "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account."
+    publishedDateTime: 2020-10-21T10:29:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/trump-taxes-china.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/multimedia/xxtrump-china-1/xxtrump-china-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump yard sign rigged with razor blades left town worker needing 13 stitches"
     excerpt: "The worker was trying to move a sign that was too close to the road when \"he was cut by razor blades that had been attached to the bottom edge of the sign,\" the sheriff's office said."
     publishedDateTime: 2020-10-09T14:29:00Z

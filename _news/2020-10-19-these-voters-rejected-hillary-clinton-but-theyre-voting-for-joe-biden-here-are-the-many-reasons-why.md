@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
-    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
-    publishedDateTime: 2020-10-21T09:04:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 66
-    images:
-      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
     excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
     publishedDateTime: 2020-10-20T11:37:00Z
@@ -79,17 +63,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
-    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
-    publishedDateTime: 2020-10-18T18:11:00Z
-    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
-    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 55
 
 secured: "D6FoDfuhSw4w8bKh5b+uFai+NJ++V8ofQ9oDmR4nGD4JjMIpd0leZXna5HoOft4JOZHNpsYgSgOHUdGbTkskoyIbDZdQv77y5ebXdZHKmLOSKEhi0PiGryxfJ01ysuf/1Q+wi894JMXd72mAjSvPxLjY/bOoHK31iXemndnFdlRnZk1+Ac3SWQAFIo6LFo53JnqHxt1/niiDxwW50guHmI+I+Qugo5fPKWlESX9ICVGxlwVt051u8WYOncvU49QqRJxtExQX5L8F7WFS4UYltY3+UDBuigSqtzYF2zYMHXrbu3U4aaDqSxF3k58jbAGgiTMtU3wkx+3r8osQeWXpEdNBe4pfusSwVnblTyxF5zq9nlRq+QEtirUsaIcQwbeitnkot42B8/tBq+2sxMOHVZCAkaMm80D+25+a2mS5xjaqx3FhpGuclvU8+yK5q8PQR4idOXkosjoojMnmNTocHdwz5mQhCVrB8ZtmxOxGCYBp8Rg11U0qqSb3mSvYcdoT0zOjz8gx6Ir2z+5TYjvAfw==;va9lQGwYpDcV6sOhqR+E4A=="
 ---
