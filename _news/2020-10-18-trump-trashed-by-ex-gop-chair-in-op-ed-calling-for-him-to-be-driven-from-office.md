@@ -31,68 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
-    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
-    publishedDateTime: 2020-10-15T23:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "Ivanka Trump to attend fundraiser in Naples on Wednesday"
-    excerpt: "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week."
-    publishedDateTime: 2020-10-19T17:13:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
+  - title: "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks"
+    excerpt: "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate."
+    publishedDateTime: 2020-10-17T15:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3693805001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 125
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Exxon Mobil, after Trump's fundraising remarks, says its CEO and Trump had no phone call"
-    excerpt: "Exxon Mobil Corp said there had been no phone call between its chief executive, Darren Woods, and President Donald Trump after the president invoked the company's name at a rally in Arizona on Monday when he said he could raise more money than his Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-20T02:40:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-exxon-mobil/exxon-mobil-after-trumps-fundraising-remarks-says-its-ceo-and-trump-had-no-phone-call-idUSKBN2750CN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750CN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750CN"
+  - title: "Trump Lashes Out at ‘Embarrassment’ Ben Sasse After ‘Leaked’ Audio of Senator Trashing Him"
+    excerpt: "President Donald Trump lashed out at Nebraska Republican Senator Ben Sasse on the heels of an audio recording that featured Sasse thoroughly trashing Trump."
+    publishedDateTime: 2020-10-17T14:15:00Z
+    webUrl: "https://www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/"
+    ampWebUrl: "https://www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
+      name: Mediaite
+      domain: mediaite.com
+    quality: 65
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538108580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J06F"
-        width: 817
-        height: 545
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Ben-sasse-GettyImages-1229069841-1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
-    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
-    publishedDateTime: 2020-10-13T15:31:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+  - title: "Trump Lashes Back at Nebraska Sen. Sasse After Criticism"
+    excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state."
+    publishedDateTime: 2020-10-18T01:31:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "CgJZoc/65eCI0BK2JkGFu9xh3MWWSWG+B9+eEn63cPeiz7F/2OW8QjabMfo5X/JBVaDXoGMVMNPiwQPIGFXoCHeEkeDyC7m3XFVS8XwinLFbODCDgohmsSlu19P1RRrW9zUECr/NYkS2tbROa7sbsjiBX5hziVDvyD6GQyJ5MPrXNhzBrUQ/QKE/PH6+nGkn3RhxpxWVeU+nYRjO5KwOjODPgLVmNogaHEDHZMsJQUU+of61svOTUimo78yisapcFmsBmcIWYEzak95d2z+Dwq5Ch5sE3evMdl4DzrZgmGe+GWZsNHwLdZq9ZhHQLDpnO6WhiFG8ixqLOrbut75/fi78RIJZbCYSie0HU0VOLbw=;8hG82bgTtTIl5QfQP1+c/g=="
 ---

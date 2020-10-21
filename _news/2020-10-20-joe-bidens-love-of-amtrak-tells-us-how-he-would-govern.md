@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 205
 published: true
 
 provider:
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-17T16:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
+  - title: "Greenwald slams Schiff over Biden emails on Fox"
+    excerpt: "Greenwald, the journalist who in 2013 worked with whistleblower Edward Snowden to published leaked intelligence on the National Security Agency's surveillance programs, accused Schiff of lying about Russia being behind a New York Post story on Hunter Biden 's emails."
+    publishedDateTime: 2020-10-20T18:24:00Z
+    webUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox"
+    ampWebUrl: "https://thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521896-greenwald-slams-schiff-over-biden-emails-on-fox?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 122
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+      - url: "https://thehill.com/sites/default/files/greenwaldglenn_01222020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "'Black lives matter': Navy SEAL who oversaw bin Laden raid says he voted for Joe Biden"
+    excerpt: "The retired Navy SEAL did not specifically name President Trump, but ended the op-ed by saying \"I voted for Joe Biden.\""
+    publishedDateTime: 2020-10-21T05:12:00Z
+    webUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/navy-seal-voted-for-joe-biden-mcraven-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 117
+    images:
+      - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
   - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
     excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
@@ -78,38 +94,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-19T15:48:00Z
-    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
-    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
-    publishedDateTime: 2020-10-20T10:27:00Z
-    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "eV/S19m2TguHfPLLHyMQKg+Wk/DvDnRBYg9qx0WtLwta1U2UleEnRSFnhGnPcuEDZ2EyuqpAyvxS/MD17Fb8G9tRsQq5ditlLL3aoHilKkGNk6tA4lfh5sojnSz7R07M9/Mnbx2/dFmi/GBqjCxmLuifRNxLz+UgtT3roSe3oCpL8ZxVjRo4Tv6g9tvp4FeVlvYI80C7g24LaOHT0bP/3F2QKqYlDmcKJMEZTQGEw5afrwPNyuIClnvdnEQ+RyVCVdKAB0EMRvvJSiiKGrrfTIbnDRc0xDJLu+IYXK6iGcbfUb7k/lIt/gOq8GC5Rq5Ye465UUV2SraHrQDn2auLTnKVNBP86X9T477JfeFWyoY4pdanLc+WEfGINy5FrC7ObqfOoz92sv5P8YPPAipL3o57lbEOHM70/NIsripXIVlBTeI+JCAhuH16lprREI3nuSmURW3TE1EHhbx07r2EntzBNR6Cuf1skoMH4wLAo2yp0F98R0vNeMh3JIwaqTIBO2QLltPQEWDw4glQCWdo2g==;ZSkJbMENPT0i+qh39NubeQ=="

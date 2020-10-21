@@ -31,140 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says crime bill was a 'mistake' during ABC town hall"
-    excerpt: "Former Vice President Joe Biden acknowledged on Thursday that his support for a crime bill that is widely blamed for increasing mass incarceration of people of color was a mistake, but defended some aspects of the measure."
-    publishedDateTime: 2020-10-16T01:56:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
+  - title: "Biden's non-answer answer on police and 'court-packing'"
+    excerpt: "While we seem to be left with two Biden non-answers, Biden’s non-answer on America’s system of justice gives us his implicit answer on packing the court. The key to that answer lies in Biden’s most important political audience — the left."
+    publishedDateTime: 2020-10-17T16:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
+      - url: "https://thehill.com/sites/default/files/bidenjoe6_09292020getty.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
-    excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
-    publishedDateTime: 2020-10-16T01:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+  - title: "On Joe Biden can provide the fact-based policymaking we desperately need"
+    excerpt: "Despite the cacophony and disinformation flying around this appalling campaign season, the candidates’ positions on the economy are actually fairly clear."
+    publishedDateTime: 2020-10-16T19:30:00Z
+    webUrl: "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need"
+    ampWebUrl: "https://thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521383-on-joe-biden-can-provide-the-fact-based-policymaking-we-desperately-need?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q2_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
-    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
-    publishedDateTime: 2020-10-16T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
-    excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
-    publishedDateTime: 2020-10-16T02:54:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/joe-biden-insists-he-wont-ban-fracking-philadelphia-town-hall/3673997001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3673997001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3673997001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 120
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/424acc15-845d-46b8-899e-cc82488a32a4-AP_Election_2020_Biden.jpg?auto=webp&crop=4016,2259,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Impatient Democrats want Biden to do more in Texas"
-    excerpt: "The whispers about Texas are picking up again."
-    publishedDateTime: 2020-10-16T19:22:00Z
-    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "'Mr. Rogers' versus 'someone's crazy uncle': There wasn't a debate Thursday, but the dueling-town-hall format played to Joe Biden's strengths"
-    excerpt: "During the split-screen chaos, Biden's penchant for retail politics kept him in a strong place at a time when President Donald Trump needed momentum."
-    publishedDateTime: 2020-10-16T14:17:00Z
-    webUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5f88f94ed260780019341bed?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Joe Biden could return to Irish roots as US president"
-    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
-    publishedDateTime: 2020-10-18T03:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Is This a Photograph of Joe Biden’s House?"
-    excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."
-    publishedDateTime: 2020-10-17T21:36:00Z
-    webUrl: "https://www.snopes.com/fact-check/biden-mansion-tweet/"
-    type: article
-    provider:
-      name: Snopes.com
-      domain: snopes.com
-    quality: 55
-    images:
-      - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
-        width: 1122
-        height: 748
-        isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "uT49upqCuWq8aW9b1LttglhRe31jy0tdLvub9QeGq1+OLLLsXj3OXhtgTrZOjDYE1+Ytuo9iMEL9TN4FWtQ7uaIYyJXM3NdG02H4rA38gE1VsoVrc8mtIh+6sphedlBYkwUXbtTK8jnb4j5vh17G1Urg+sC13qoXZmPYeEXD9vmCVdBSXi4HIM7Df1ROBY3dzMkELqHn6IwwR/9DvJIbw1bo8bC+wHlBeEQMpkOnWoMV7+5awytMuDfIcNz6lmlcVwEXoZwEvmUaM/foYN+VfqGRZCibjWY6/7r2/pjiUdu92hqiy9OvFUN3gveooFhvPJ1BLIRkVhNsfD1Pcw8Vtd1mU/UDe5Y/Soo2kDlBaiCFWNGm29psO7K63TAsi37bXnVxGuZt+RAmvfpDiwkCrrkV25XaNusr4pElHjFmypRkja6uE8vz0kSvXxgzFpnELh3EkKtb2ZpPfqstLFLgKTS1NKH0IydamiDHN7Kb4tfqo+zOWSIWi6XigwZAgqXHvBZ+MYOKKFzh2n7ZYJoM/Q==;rfUBaTUH43M4JMg0iP8jMQ=="

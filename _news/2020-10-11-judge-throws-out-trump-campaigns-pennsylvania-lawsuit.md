@@ -73,6 +73,38 @@ related:
         width: 784
         height: 545
         isCached: true
+  - title: "Trump makes 1st public appearance since his hospital stay"
+    excerpt: "President Donald Trump has made his first public appearance since returning to the White House after being treated for the coronavirus"
+    publishedDateTime: 2020-10-10T18:33:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-restarting-campaign-white-house-florida-events-73533619"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9069dcf49a294ded8e03b9ed532f28c1_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump says he's ready for rallies; doctor says therapy done"
+    excerpt: "President Donald Trump insists he is ready to resume campaign rallies and feels “perfect” one week after his diagnosis with the coronavirus that has killed more than 210,000 Americans"
+    publishedDateTime: 2020-10-11T04:19:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_a3e8cbcf458646c987a0d847ba3edfa0_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump returns to campaign trail with Minnesota rally after widely panned debate"
     excerpt: "Trump and his campaign see Minnesota as a special project, their best chance to flip a state Hillary Clinton won in 2016. Biden is leading in polls."
     publishedDateTime: 2020-09-30T23:13:00Z
@@ -180,6 +212,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "These Zip Codes Are Donating the Most Money to Donald Trump"
+    excerpt: "Though both Joe Biden and President Trump have similar numbers of donations overall, Biden received more money from his top 50 zip codes."
+    publishedDateTime: 2020-10-11T15:00:00Z
+    webUrl: "https://www.newsweek.com/these-zip-codes-are-donating-most-money-donald-trump-1537837"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 105
+    images:
+      - url: "https://d.newsweek.com/en/full/1648618/zip-codes-donating-most-money-donald-trump.jpg"
+        width: 1010
+        height: 720
+        isCached: true
+  - title: "Donald Trump declares himself ready for rallies on phone call with Fox News"
+    excerpt: "Donald Trump insisted on Thursday he was ready to resume campaign rallies and felt “perfect” only one week after his Covid-19 diagnosis."
+    publishedDateTime: 2020-10-09T13:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/politics/elections/2020/10/09/donald-trump-declares-himself-ready-rallies-https-platform-videoelephant-video-2018352-2018352-p/5935284002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/09/USAT/e67808b0-8854-456e-9690-c1ede6dacad3-133293ad-e8d9-4205-8007-a1a4de89a127_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "Trump's reported tax methods would be par for the course for the rich, experts say"
     excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to file zero-liability tax returns."
     publishedDateTime: 2020-09-29T05:56:00Z
@@ -202,22 +262,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 98
-  - title: "Mike Pence, Donald Trump Jr. to hold campaign rallies in Michigan Thursday"
-    excerpt: "The Trump campaign is continuing a busy schedule of events in Michigan with two high-profile surrogates visits planned for Thursday. Vice President Mike Pence is scheduled to hold a campaign rally at Barnstormers Aviation in Waterford Township before departing for another rally in Fort Wayne,"
-    publishedDateTime: 2020-10-21T01:20:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 98
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7GTM7PSQJVDMFHZUIMZUDUAVXY.JPG"
-        width: 1300
-        height: 903
-        isCached: true
   - title: "RPT-Trump's reported tax methods would be par for the course for the rich, experts say"
     excerpt: "President Donald Trump has denied an expose by The New York Times saying he effectively paid no income tax for most of the past two decades, but experts said the methods it was reported he employed to reduce his bill are commonly used by wealthy property developers to"
     publishedDateTime: 2020-09-28T21:17:00Z
@@ -306,6 +350,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/458aca1a-332f-4f80-b4b5-3379ac04e496-VicePresidentPence_Peoria_Oct8_2.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Ivanka Trump coming to Arizona on Sunday to help President Donald Trump, GOP"
+    excerpt: "Ivanka Trump will headline a moderated discussion on Sunday about the Trump administration's policies and how they have affected Arizonans."
+    publishedDateTime: 2020-10-09T22:07:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/09/ivanka-trump-coming-arizona-sunday-help-trump-gop/5938960002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5938960002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5938960002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/16/PPHX/ffbf1acb-ff36-4c4b-a0b6-dae34b3c670f-b6b2a32c-e3c5-42c6-98ac-2fd216be7e30_thumbnail.png?auto=webp&crop=849,478,x6,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Mike Pence has personal and professional ties to Arizona. Here are 5 things you may not know"
     excerpt: "Pence returns to the Phoenix area Thursday to host a rally at a tactical-gear supply business in Peoria, as Arizona counts down to the Nov. 3 election."

@@ -27,85 +27,240 @@ images:
     isCached: true
 
 related:
-  - title: "From QAnon to dictators, Trump embraces those who embrace him back"
-    excerpt: "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions."
-    publishedDateTime: 2020-10-17T00:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
+  - title: "2020 Watch: Is it too late for Trump to turn things around?"
+    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
+    publishedDateTime: 2020-10-12T10:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWRT55AP5AI6XADUB2KDVEN7BA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump critics who embraced Hogan are baffled by his vote for long-dead Reagan"
-    excerpt: "Larry Hogan’s decision to repudiate President Trump by casting a write-in vote for Ronald Reagan has drawn swift and sustained backlash from many Democratic supporters and some anti-Trump Republicans who had admired Hogan’s willingness to break with the White House."
-    publishedDateTime: 2020-10-20T21:55:00Z
-    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
+  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
+    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
+    publishedDateTime: 2020-10-19T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63KJTAQSQII6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1280
-        height: 1025
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
-    excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
-    publishedDateTime: 2020-10-16T17:21:00Z
-    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/"
-    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
+  - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
+    excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
+    publishedDateTime: 2020-10-15T19:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408"
+    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 115
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89d386eeaf66f5cfa918a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5226%26cropY1%3D265%26cropY2%3D3205"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
-    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
-    publishedDateTime: 2020-10-16T01:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+  - title: "Trump's campaign nearly went broke for the 2020 homestretch, insiders say"
+    excerpt: "Trump's new campaign team, led by Bill Stepien, had to rush to cancel spending to salvage the president's bid for a second term."
+    publishedDateTime: 2020-10-18T15:32:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
+    quality: 124
     images:
-      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f89bdddd260780019341d65?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
-    excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
-    publishedDateTime: 2020-10-18T13:35:00Z
-    webUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+  - title: "Trump, again, turns to the Supreme Court to fight subpoena for his tax returns"
+    excerpt: "The Supreme Court has previously rejected Trump's claims he is absolutely immune from criminal investigations while in office."
+    publishedDateTime: 2020-10-13T20:51:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/trump-turns-supreme-court-fight-subpoena-his-tax-returns/5927775002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5927775002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927775002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
+    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
+    publishedDateTime: 2020-10-20T00:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Does Trump merit the hatred? Let us count the ways"
+    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
+    publishedDateTime: 2020-10-16T09:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
+    images:
+      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
+        width: 1200
+        height: 815
+        isCached: true
+  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
+    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
+    publishedDateTime: 2020-10-18T05:09:00Z
+    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
+    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
+    publishedDateTime: 2020-10-18T12:07:00Z
+    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
+    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
+        width: 600
+        height: 917
+        isCached: true
+  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
+    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
+    publishedDateTime: 2020-10-20T00:57:00Z
+    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
+    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 70
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 68
+    quality: 67
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Donald-Trump-.jpg"
-        width: 640
-        height: 414
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Women in key state have ‘wised up’ to Trump — and it could cost him everything: report"
+    excerpt: "On Monday, the Philadelphia Inquirer reported that President Donald Trump is bleeding support from white women in Pennsylvania — and it could be the fatal blow that costs him the entire election. “President Donald Trump recently pitched suburban women with a plea at a rally in Johnstown,"
+    publishedDateTime: 2020-10-19T15:14:00Z
+    webUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/trump-flickr.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
+    excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
+    publishedDateTime: 2020-10-16T14:52:00Z
+    webUrl: "https://www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/"
+    ampWebUrl: "https://www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 66
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/AP20289001375327.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
+    excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
+    publishedDateTime: 2020-10-16T22:50:00Z
+    webUrl: "https://www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/"
+    ampWebUrl: "https://www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 66
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/10/AP20289001375327-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
+    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
+    publishedDateTime: 2020-10-17T22:54:00Z
+    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
+    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
     excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
@@ -122,6 +277,65 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
         width: 757
         height: 430
+        isCached: true
+  - title: "WATCH: Trump Fan Outside Rally Laughs As Another Tells ABC News Reporter ‘Put A Bullet In Your Head, Buddy’"
+    excerpt: "ABC News reporter Will Steakin was shocked when a Trump supporter outside President Donald Trump's Ocala, Florida rally told him \"Put a bullet in your head, buddy. I got one,\" drawing laughter from the woman he was interviewing."
+    publishedDateTime: 2020-10-17T12:59:00Z
+    webUrl: "https://www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/"
+    ampWebUrl: "https://www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 57
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Steakin-Trump-fan-10-16-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "WATCH: Trump Rally Crowd Boos Dr. Fauci as President Calls Him a ‘Nice Guy,’ Then Trashes Him as ‘A Democrat’"
+    excerpt: "President Donald Trump supporters erupted into boos at his Thursday rally after the president called Dr. Anthony Fauci a \"nice guy\" before trashing him as \"a Democrat.\""
+    publishedDateTime: 2020-10-15T19:32:00Z
+    webUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/"
+    ampWebUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Outnumbered-Overtime-With-Harris-Faulkner-01_54_30-PM-1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
+    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
+    publishedDateTime: 2020-10-13T01:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "WATCH: Former NSA, CIA Director Gen. Michael Hayden Warns Against Second Term for Trump in New Ad: ‘I Don’t Know What Happens to America’"
+    excerpt: "Former NSA, CIA Director Gen. Michael Hayden warns against second term for Trump in new Republican Voters Against Trump Ad: 'I don't know what happens to America'"
+    publishedDateTime: 2020-10-07T03:48:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 42
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Gen.-Michael-Hayden-Warns-Against-Second-Term-for-Trump-in-New-Ad.jpg"
+        width: 842
+        height: 473
         isCached: true
 
 secured: "sOVErAM7yMY/cvZhzHl3JcwmWTSjBFkN8QSaBJfI5IhxkPPAyWP7PxsFV0siue+erPM+r7fyPwZg3zNSIOOl91i0hOPzOqpwm+IT71vw1BuHDNKA9d/jRHgIyPArW8FeeEzEX/QGkXgy0YSd+l//YB7GwmiGjStdEZ1QheXOrcbWutAAcuzx/VoyCGHrGcc1C/YAYCEaw/bwXD4+XhGP8shOmes0HGK+gT33M7AZDJV+sXmHGiG39e9cOMdEYBz2Q/wZ5cGVnf8qx/PktV+QaWefTBcGNc46EZtpc1zT3uDNZj8aBd5CTjjwreC4b74kbFJ1Zog+7ADyL+4a/woe5kTHg4/OMkTBcmNg82nTVGg=;BIHnlcLtBuuK0ZIYE1Txig=="

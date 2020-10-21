@@ -31,126 +31,126 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says crime bill was a 'mistake' during ABC town hall"
-    excerpt: "Former Vice President Joe Biden acknowledged on Thursday that his support for a crime bill that is widely blamed for increasing mass incarceration of people of color was a mistake, but defended some aspects of the measure."
-    publishedDateTime: 2020-10-16T01:56:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521326-biden-says-1994-crime-bill-was-a-mistake-during-abc-town-hall?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
-    excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
-    publishedDateTime: 2020-10-16T01:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+  - title: "Barack Obama to hold his first in-person event for Joe Biden"
+    excerpt: "Former President Barack Obama is returning to Philadelphia for his first in-person 2020 campaign event for Joe Biden"
+    publishedDateTime: 2020-10-21T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q2_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_780daad769b74145af658daf2b35df6e_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
-    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
-    publishedDateTime: 2020-10-16T19:55:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
+  - title: "Biden town hall questioner worked as speechwriter in Obama administration: report"
+    excerpt: "A participant in Thursday night's ABC News town hall with Democratic nominee Joe Biden previously worked as a speechwriter in the Obama administration, but only identified during the televised event a"
+    publishedDateTime: 2020-10-16T19:05:00Z
+    webUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration"
+    ampWebUrl: "https://thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/521418-biden-town-hall-questioner-worked-as-speechwriter-in-obama-administration?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
+      name: The Hill
+      domain: thehill.com
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101520getty_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Joe Biden Once Said Packing the Supreme Court Was a Bonehead Idea—What Will he Say Tonight?"
-    excerpt: "Biden, who once said he was staunchly opposed the idea of court packing, has avoided giving a clear answer on what he'd do if elected as president in less than three weeks."
-    publishedDateTime: 2020-10-15T10:00:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-once-said-packing-supreme-court-was-bonehead-ideawhat-will-he-say-tonight-1539196"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-once-said-packing-supreme-court-was-bonehead-ideawhat-will-he-say-tonight-1539196?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-once-said-packing-supreme-court-was-bonehead-ideawhat-will-he-say-tonight-1539196?amp=1"
+  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
+    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
+    publishedDateTime: 2020-10-15T21:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: Reuters
+      domain: reuters.com
+    quality: 111
     images:
-      - url: "https://d.newsweek.com/en/full/1652231/joe-biden-oct-13.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Impatient Democrats want Biden to do more in Texas"
-    excerpt: "The whispers about Texas are picking up again."
-    publishedDateTime: 2020-10-16T19:22:00Z
-    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+  - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
+    excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."
+    publishedDateTime: 2020-10-21T05:30:00Z
+    webUrl: "https://www.wkyc.com/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28"
+    ampWebUrl: "https://www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28"
+    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "'Mr. Rogers' versus 'someone's crazy uncle': There wasn't a debate Thursday, but the dueling-town-hall format played to Joe Biden's strengths"
-    excerpt: "During the split-screen chaos, Biden's penchant for retail politics kept him in a strong place at a time when President Donald Trump needed momentum."
-    publishedDateTime: 2020-10-16T14:17:00Z
-    webUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-won-biden-trump-town-hall-crazy-uncle-mister-rogers-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
-    images:
-      - url: "https://i.insider.com/5f88f94ed260780019341bed?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Joe Biden could return to Irish roots as US president"
-    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
-    publishedDateTime: 2020-10-18T03:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: WKYC3
+      domain: wkyc.com
     quality: 75
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
-        width: 1024
-        height: 576
+      - url: "https://media.wkyc.com/assets/CCT/images/aef4a02d-ebe4-4a90-ad65-84b544f05c88/aef4a02d-ebe4-4a90-ad65-84b544f05c88_750x422.jpg"
+        width: 750
+        height: 422
         isCached: true
-  - title: "Is This a Photograph of Joe Biden’s House?"
-    excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."
-    publishedDateTime: 2020-10-17T21:36:00Z
-    webUrl: "https://www.snopes.com/fact-check/biden-mansion-tweet/"
+  - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
+    excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
+    publishedDateTime: 2020-10-17T17:44:00Z
+    webUrl: "https://6abc.com/politics/fmr-president-obama-to-campaign-for-biden-in-philly/7107001/"
+    ampWebUrl: "https://6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
+    cdnAmpWebUrl: "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/barack-obama-philadelphia-president-philly-joe-biden/7107001/"
     type: article
     provider:
-      name: Snopes.com
-      domain: snopes.com
+      name: 6abc News
+      domain: 6abc.com
+    quality: 69
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "This Bay of Pigs vet in Miami is all in for Joe Biden, rejects GOP’s socialist attacks | Opinion"
+    excerpt: "But finally, somebody with credibility and authority — a Bay of Pigs veteran, no less — is addressing the most damaging accusation by the Donald Trump campaign and the Florida GOP against Joe Biden and down-ballot Democrats."
+    publishedDateTime: 2020-10-20T19:14:00Z
+    webUrl: "https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article246563553.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 62
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/768a4e71-5e14-4b0c-ba99-683904aba9e4/9e7359bc-5471-40fb-bf91-0c8183522592/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why These Voters Rejected Hillary Clinton but Are Backing Joe Biden"
+    excerpt: "Samantha Kacmarik, a Latina college student in Las Vegas, said that four years ago, she had viewed Hillary Clinton as part of a corrupt political establishment. Flowers Forever, a Black transgender music producer in Milwaukee,"
+    publishedDateTime: 2020-10-18T18:11:00Z
+    webUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/"
+    ampWebUrl: "https://www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/why-these-voters-rejected-hillary-clinton-but-are-backing-joe-biden/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "Bitcoin Proponents Bemoan Joe Biden's Proposed Capital Gains Hike"
+    excerpt: "A number of bitcoin proponents have been discussing the capital gains tax Joe Biden plans to invoke if he wins the American presidency."
+    publishedDateTime: 2020-10-20T21:18:00Z
+    webUrl: "https://news.bitcoin.com/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike/"
+    type: article
+    provider:
+      name: Bitcoin.com
+      domain: bitcoin.com
     quality: 55
     images:
-      - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
-        width: 1122
-        height: 748
+      - url: "https://news.bitcoin.com/wp-content/uploads/2020/10/bitcoin-proponents-bemoan-joe-bidens-proposed-capital-gains-hike.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
     excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
@@ -166,6 +166,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "KqPKfqgeG5ugpWrqnITqg2Qqi99pH/39ccWgeuOcnLjvVna+8ynaHLEpPfhvgUnamo7kFqu5rXrry1FkeJoJ0aLxj4uPmWPAMXflkXZIz9FU+5JGAW3VSufrEorWoYwVbcNfGBELPqMBKq4hkn4akytUoH10aEoWEBw+m2oV9VXdxTxrMqmrvnKREGH0U30hHH3r2BRjHLiBurtmlA/lG8cOD51Vl1SyHOPVBKjjN79SsMNLgZRdHjC1+nJYmwaonddW+rfubMwldWD4HSuSAQYIrpx0AVefZTPh/FEmBT33Po7/E7omIhhNfmQEpYPEHShJ/DmjxcXR6eWD+p3iruOy1iSvKFk2L5a3ZCPAmjV+veXYvXQD8453vVV7Z5kqkcSAe4ff3JayEq3vIfEsfptfUWAlhC0eGrOr0ItcZlbAtkV5cwwSHtCBlLd1pvKcj47AgGW7wZp7Lnw9YVnk/5btKnUmmnMrN2tudyLWixG+UmzBI8cwFJ22MaeF0Yor5inHAFYAKt6KEHDCjZ16Mw==;QlYijuqfSahg0rixo8sLvw=="
 ---

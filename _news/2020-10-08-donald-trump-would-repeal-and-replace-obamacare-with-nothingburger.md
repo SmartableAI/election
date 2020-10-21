@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3629112001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3629112001"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
+    excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
+    publishedDateTime: 2020-10-09T11:03:00Z
+    webUrl: "https://www.salon.com/2020/10/09/wishing-donald-trump-well-its-just-another-way-of-normalizing-the-regime/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 53
+    images:
+      - url: "https://media.salon.com/2020/07/donald-trump-0730202.jpg"
+        width: 846
+        height: 571
         isCached: true
 
 secured: "2edok6EMLwObZVgVfsgFUUjKJxgwqKQRt9wGmjeqqUl/ygwmAZBOPOXAdE0PCp7VdNhhWwNCxFcOVLhz2Kv13MwWH4Fez957PVNsOoPpy3Q5Nu7WCNG8LLGMW8nE+GL6T++w8lQK1CcWUejjHRZc5nJY80JJySsc5oQ8ctUPGPdSd32WLoyf5rnP/4DgPj6bu6kD8nSnX97XbjspuDcIXJjnYqP4tykHf5PIrDzMeFovEDpeBLvxSPu0426Ey1WmVkvwDlSR5OuQt9QO6f96EQ3YlE+NvYaX2mVslleeS4nP7mL9niHIEOSnwoMQnj2spAg3pMe0VjaFeWpY0e3jy1+B8QGVcMsW0VlEmTMpiOLSr9ohqiqrENkXzNYDpFBNSbMqdZTcXNpJEFvVJvxQ3rNj7tnkdJjYL2jXfwKYuaIU7QK5FYleTwxwywxL52x9x2GL2PZTb2ou/QQYgQRasPBK+lHsv0yuFylnUsTKVoO9yoPW/tY4f/oSQ1xP7NsunYTWiX/PHIpJPk3AA1DkjQ==;KuBNo5g5xkUjRHv43UXDtw=="

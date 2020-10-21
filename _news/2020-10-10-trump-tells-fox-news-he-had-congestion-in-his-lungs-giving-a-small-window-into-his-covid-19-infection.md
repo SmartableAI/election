@@ -47,22 +47,6 @@ related:
         width: 3000
         height: 1933
         isCached: true
-  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
-    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
-    publishedDateTime: 2020-10-14T07:37:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump plans to hold an outdoor event at the White House over the weekend. He still hasn't released a negative COVID-19 test."
     excerpt: "ABC News and The New York Times said Trump was planning to address \"hundreds\" on the White House lawn from a balcony."
     publishedDateTime: 2020-10-10T08:24:00Z
@@ -79,6 +63,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
+    excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."
+    publishedDateTime: 2020-10-11T17:21:00Z
+    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-ready-election-fight-3060417"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
 
 secured: "mljBmmaA5nvqECv6N2AKzkYEX44vxGLLBSMO6jGMpNWOHRdDkopjh4x7nlo6DW5vUOufZDxtsS3EVnwnTNbQIbWow8t3hU7jqeq30FaOEQU88dEKxbsrkwN5goW7dwj7jXveIq8g3E+BaX9SYqp7ucl+JmcsUTxDWblbYl6yRdaiV5xMef1PSu7wVUc7hLsmB8tfxrB/6NpddlPb9l0JVGeyymI58YA7mISt3kva0DYZtczyQaDxumQW/VqgzwKHnbW5AewBd4JD6pxdmjjD/f7U6LwKzCsEabWnSGZv8uRxNYt8gXkBmIFyn4dRV3loJmQW0HBddTkg79F9GI5aFT5aXk1nWGtOA5OMIdnHzQmj1z3LIm7f7GvQMb+Gv5tEHwa92+ygFHc4V3QFaaWjxn7Z+pRGFgsnNcEs1Gp/CENJWl9CSZJSJQW8n79F7AydKoTdrI614xW8jvwjwZJId3D3fZG0FkFJyQKv77t4RRcQ6znAmRowzPsDzQtu4c7d089ctEEUyV5vp1BqnqUqyw==;znLUlEYgIZ0XGLGUt2FDLw=="
 ---

@@ -47,21 +47,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "'Animal Crossing' Now Has Joe Biden Island With Ice Cream And Dogs"
-    excerpt: "Joe Biden has taken his presidential campaign to \"Animal Crossing: New Horizons\" as he now has his own island in the game."
-    publishedDateTime: 2020-10-19T11:37:00Z
-    webUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299"
-    ampWebUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
+  - title: "Joe Biden Once Said Packing the Supreme Court Was a Bonehead Idea—What Will he Say Tonight?"
+    excerpt: "Biden, who once said he was staunchly opposed the idea of court packing, has avoided giving a clear answer on what he'd do if elected as president in less than three weeks."
+    publishedDateTime: 2020-10-15T10:00:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-once-said-packing-supreme-court-was-bonehead-ideawhat-will-he-say-tonight-1539196"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-once-said-packing-supreme-court-was-bonehead-ideawhat-will-he-say-tonight-1539196?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-once-said-packing-supreme-court-was-bonehead-ideawhat-will-he-say-tonight-1539196?amp=1"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/soundbitedemocratic-presidential-challenger-joe-biden-calls-republican-incumbent.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1652231/joe-biden-oct-13.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "TyjPxPtLQxcSS65kmITl4/q478ZeKRbBiVM4+MEeEl4TLODGoX7otugWEBAfPtV7h6KIOggrZ4PsDHh59a+g5bjjwznNzp01JiGdK8kLDuBi3X/bkD2XtX/9WG4pHeM00Nk7eh4mEvpdZ+OaH+DFe275TE4B9vCgPm0+wPjo90MqCTw8sT9uBsamMvVBfbgVslaUSzzF6aMp9jTtu+tgPY+FbXNAoxaEh9iL5OsgyJ2SUDtlXH/ZHGPBwvACVlWSZrwTHvdfgJVRSdJPDvf04n3wIbUvvyhTKscX+niJHBIPoYAl8KVxgwTMEcasqfUZ/E3QsVdcoXDMXZj1LEap+P0SWpsYkRtTGIiLZl0OFes=;L8OAQwLlqtqCC3+n+Dui1g=="

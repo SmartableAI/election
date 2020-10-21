@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-famil
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mary-trump-alleges-lawsuit-family-fleeced-millions-dollars/story?id=73220517"
 type: article
 quality: 120
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 992
     height: 559
     isCached: true
-
-related:
-  - title: "Trump Family Lawsuit: President, Sister, Brother Sued By Niece Mary Trump For Defrauding Inheritance"
-    excerpt: "Mary Trump, the president's niece, filed a lawsuit Thursday against him and his siblings claiming the family defrauded her out of millions of dollars in inheritance."
-    publishedDateTime: 2020-09-25T02:36:00Z
-    webUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396"
-    ampWebUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 60
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/07/us-president-donald-trump-speaks-after-stepping-off.jpg"
-        width: 1024
-        height: 693
-        isCached: true
 
 secured: "06WwizTWlZFrjOpxLVoXGe9jCUln3j72xk/Hd6RIZ3ijNbT3eVLg+W2gXg9BDKGZ6jXyv+7wx95Es40huVG4qKT/CGRqt8zHf1q1ovj5RogqEqJDr1KH09HBvNVZTP0N0ZzdXFMvQXNuHpVPN6JsS7aRk0aLyLPzRZgnoZQq0xoITGKvpq1MH/8dbzvImoMSjTmgrxEG8bkjXUdp2412j93bEWi6karUGSINO4w/UnrsFP5XET3huhrSGWx4S+E4zsM1cbst8j9zZsx15cSG3E1G5fj0KYwFQ3WEMmb4tC4smkNOAyaiyLKAJNm3QEFSX+2QHjVJL030Xn9Qwad0aPRu/KKiwb+dCkUuJ5WbM0o=;poM6UEGRb4mXGSoQ6a5Pfw=="
 ---

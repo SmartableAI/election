@@ -31,53 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden’s love of Amtrak tells us how he would govern"
-    excerpt: "After the first presidential debate, Joe Biden did what he has done many times before: boarded a train. “The Build Back Better Express” would lumber for the better part of a day between Cleveland and Johnstown."
-    publishedDateTime: 2020-10-20T10:03:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
+  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
+    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
+    publishedDateTime: 2020-10-16T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SVBWLIQDUII6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
-    excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""
-    publishedDateTime: 2020-10-17T10:11:00Z
-    webUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-market-outlook-sp-500-dow-biden-blue-wave-2020-10?amp"
+  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
+    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
+    publishedDateTime: 2020-10-16T02:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 90
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/5f3fa81089aff80028ab70e7?format=jpeg"
-        width: 5000
-        height: 2499
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
-    excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
-    publishedDateTime: 2020-10-13T12:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246174970.html"
+  - title: "Gov. Doug Ducey did not mock Joe Biden, he mocked Doug Ducey"
+    excerpt: "How can Arizona Gov. Doug Ducey proclaim his decency while promoting the election of a man who engages in ugly, insolent, disrespectful diatribes?"
+    publishedDateTime: 2020-10-20T13:35:00Z
+    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/20/gov-doug-ducey-did-not-mock-joe-biden-mocked-himself/5988271002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5988271002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5988271002"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 73
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 75
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/6bbb92b6-9b86-4fe9-aafa-96c3e56b9b22/f3f62c82-9b9f-4647-92a7-18f79ea97253/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/55052bf3-daaf-4435-a4a0-1ed3baf804a5-AP20293762278951.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
     excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."

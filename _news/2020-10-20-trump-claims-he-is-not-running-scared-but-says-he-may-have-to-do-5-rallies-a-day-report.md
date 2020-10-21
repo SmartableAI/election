@@ -31,51 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
-    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
-    publishedDateTime: 2020-10-20T10:04:00Z
-    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+  - title: "Report: Trump Paid Nearly $200,000 In Taxes To China"
+    excerpt: "A report from the New York Times reveals a decade of Donald Trump’s unsuccessful business activities in China, including an undisclosed bank account that paid nearly $200,000 in taxes, undermining his own exaggerated claims of Hunter Biden’s business dealings there,"
+    publishedDateTime: 2020-10-21T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9011cc4e3fc4181ce3e597%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1994"
+        width: 1199
+        height: 799
+        isCached: true
+  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
+    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
+    publishedDateTime: 2020-10-16T06:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 103
+    quality: 109
     images:
-      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider."
-    excerpt: "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well."
-    publishedDateTime: 2020-10-13T23:25:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10"
+  - title: "Trump is letting it slip that he knows he is losing badly: report"
+    excerpt: "According to a report at Politico, the normally self-assured Donald Trump has assumed a defensive posture in his recent rally speeches, openly begging for votes because he knows deep down that he will not be re-elected on Nov."
+    publishedDateTime: 2020-10-17T13:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 75
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Trump ‘is hemorrhaging support’ and is flailing badly to win it back: reporter"
+    excerpt: "President Donald Trump is trailing Democratic rival Joe Biden in the polls, and one veteran journalist said that he seems clueless about how to stop the bleeding. Journalist Alex Wagner, the host of Showtime’s “The Circus,"
+    publishedDateTime: 2020-10-21T12:30:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
     quality: 71
     images:
-      - url: "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
-    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
-    publishedDateTime: 2020-10-17T22:54:00Z
-    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
-    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
-    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 66
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/01/Trump-Justin-Follett-2-e1552430064870-764x430.jpg"
+        width: 764
+        height: 430
         isCached: true
 
 secured: "vGeWzqgMxhZdKrnzaay7qCLasyNWLoFSeCMJWaR+327i8RT/rEQtEL7USLQi8HVaNbdvqbUtedJ9LyNH/e0xEQkA+rgks0cV9yhKpykwQG6IKsAi33eeTL7uHY1N5XL6LhuxTWln/nxb1prLUXP2f6143jJ8ynCXOgSzpE3MX7UnwlvQ46numQkItuWXEWVfBFxBFX1jIHDlCY2vXT3ZiLPpUiYGVpCuW5lBeN78J8ZH2fJZGBFEroKaRDwBpv2nRYWs+kEI61SnseyGObvg8uhVzFXCAUN6WGmIK5XAJmZj+m95oOpcW74iR4SSL5wqShymQi9JIcMR8NR+IG2lzVhvFRIWlfVZ/S1ZC0zjYWI=;k3lQizcc7+OR2Uk74zFKDA=="

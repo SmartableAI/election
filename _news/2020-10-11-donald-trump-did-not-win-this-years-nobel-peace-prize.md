@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Wishing Donald Trump well: It's just another way of normalizing the regime"
+    excerpt: "We're expected to wish Trump a full recovery just because he's the president. But he's done nothing to earn that"
+    publishedDateTime: 2020-10-09T11:03:00Z
+    webUrl: "https://www.salon.com/2020/10/09/wishing-donald-trump-well-its-just-another-way-of-normalizing-the-regime/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 53
+    images:
+      - url: "https://media.salon.com/2020/07/donald-trump-0730202.jpg"
+        width: 846
+        height: 571
+        isCached: true
 
 secured: "6DkyJcgYdoUQApWNwPIJAuxS6nbZ3PZ9Sftjew98CVCZFXeAkzLil9yGaeuJczfcCCVGaO5CFfbk5AVvQJlEoNuUzilMI/YljTbhTiGZwLlffROhoCAoemv61xxmKvcvObfRIPo8cTKMpYh3j3eDtkY5wY9J1V1j5nUtsBUE2nkmNr26HoHA6fOyN/iPlPXIMDSFNbr9d3sc3UaJW/hREcBx9NuJ/RQ9tbPWU5JD4foP3TJRddt2sU5tr31RRqPAoJ4tc7pQm9WQ7Fpa4gianLPhZ1vaOmg6H6X79R1BNOVxHr/lPv76x4xr4HzVoCfRE/2GXzJgAYvQjOsM1wNy3CUuGBWh7ubvyVCKxenSXBTcwP5U9J6g4Owlfc6rzKcnhYOCmrLGD064uFINA/QKjvKYNWOrkzquePg1J4zdC+y89K/LcBs/1qZya1kDBfgKNtS3tbcU2reWHpX7XrsG/hnpk+7tCsbFMw98u9Ot5ZheyAWCo/4TxFStcWkGzP5IyYGLXBaNyBFvgHKvGvl/pA==;b2f3oR68NsZ7fY6NoomOJw=="
 ---

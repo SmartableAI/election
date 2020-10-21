@@ -89,6 +89,54 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Jr. urges hunters to vote for his father"
+    excerpt: "Donald Trump Jr. released a new video on Wednesday encouraging hunters and other outdoorsmen to vote for his father next month."
+    publishedDateTime: 2020-10-07T17:33:00Z
+    webUrl: "https://thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father"
+    ampWebUrl: "https://thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/energy-environment/520002-donald-trump-jr-urges-hunters-to-vote-for-his-father?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpjrdon_061219gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "We should listen to scientists sounding the alarm on Trump"
+    excerpt: "The fact that so many scientists are speaking out now is a testament to the damage that the Trump administration has done to our country and scientific institutions."
+    publishedDateTime: 2020-10-12T21:43:00Z
+    webUrl: "https://thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump"
+    ampWebUrl: "https://thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520664-we-should-listen-to-scientists-sounding-the-alarm-on-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
+        width: 797
+        height: 551
+        isCached: true
+  - title: "The final two weeks — key factors Trump needs to keep the White House"
+    excerpt: "Can Donald Trump pull another victory out of the jaws of defeat and overcome significant obstacles fomented by social unrest, an economic downturn driven by COVID-19, and chaos on Capitol Hill?"
+    publishedDateTime: 2020-10-14T00:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house"
+    ampWebUrl: "https://thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520870-the-final-two-weeks-key-factors-trump-needs-to-keep-the-white-house?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_093020upi2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Daily 202: Trump faces historic gender gap heading into first debate"
     excerpt: "In Pennsylvania, women favor Joe Biden by 23 points and men narrowly prefer President Trump by seven points, according to a fresh Washington Post-ABC News poll, which has the Democratic nominee edging the president by nine points overall among likely voters in the Keystone State."
     publishedDateTime: 2020-09-29T15:30:00Z
@@ -120,6 +168,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/bdc7ac76-4564-45b8-a102-9e26fb927601-AP_Election_2020_Debate_1.jpg?auto=webp&crop=4895,2753,x0,y248&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump to resume public events, starting today on the White House balcony"
+    excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
+    publishedDateTime: 2020-10-10T17:45:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-trump-campaign-event-white-house-20201010-4725dvz25jhebdhku5gf5eahhe-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 124
+    images:
+      - url: "https://www.chicagotribune.com/resizer/cHJjzXPTqoLa50ZEN2bjroeMHQg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6TXVNEALUFFMJ7DLWG4S4CJ3BY.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "World leaders react after President Trump, first lady test positive for coronavirus"
     excerpt: "World leaders expressed their hope for a swift recovery for President Donald Trump after he announced that he and the first lady tested positive for COVID-19 overnight."
@@ -199,6 +263,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Currency Traders Are Betting Against Trump, Too"
+    excerpt: "This is certainly what traders are betting on. In recent weeks, the yuan has appreciated strongly against the U.S. dollar — so much so that over the weekend, the People’s Bank of China removed one of the signature tools it uses to stabilize a weaker currency."
+    publishedDateTime: 2020-10-13T00:19:00Z
+    webUrl: "https://www.washingtonpost.com/business/currency-traders-are-betting-against-trump-too/2020/10/12/3df6d0ea-0ce9-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G6QCKDAM5EI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 959
+        isCached: true
   - title: "Trump could face a relapse, experts warn, as president opts to downplay nation's coronavirus threat despite massive death toll"
     excerpt: "President Donald Trump rolled out of Walter Reed hospital confidently urging the nation not to fear the coronavirus despite experts warning the U.S. death toll, at more than 210,000, could almost double by year's end."
     publishedDateTime: 2020-10-06T19:21:00Z
@@ -215,6 +293,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Latest: Trump holds 2nd rally since contracting virus"
+    excerpt: "WASHINGTON (AP) — The Latest on the 2020 presidential race (all times local): 8:55 p.m. President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a Democratic administration could threaten the suburbs."
+    publishedDateTime: 2020-10-14T01:41:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Romney-wants-election-rhetoric-toned-15644042.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Romney-wants-election-rhetoric-toned-15644042.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Romney-wants-election-rhetoric-toned-15644042.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
+  - title: "President Donald Trump makes first public appearance since returning from hospital"
+    excerpt: "Trump is also priming for a Florida rally on Monday and campaign events in Iowa and Pennsylvania later in the week.T he president addressed the large crowd even as the White House refuses to declare that he is no longer contagious and against the guidance of public health officials."
+    publishedDateTime: 2020-10-10T22:36:00Z
+    webUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html"
+    ampWebUrl: "https://www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2020/10/president-donald-trump-makes-first-public-appearance-since-returning-from-hospital.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 49
 
 secured: "Mr7zpAJVjF+f3ezyo08tBndazYNLX2Kbne731pLDDRlKgk7ThEuqlKdk+GRgEO1o3jZ5Emup1rRQoVp35t60CdGmbFE7lvabER8vh4KfpR8cD+myACxp72//YMgx0weLkO82b4bPxLzm4iUp6wL51u9jiTlWIIhxDckkTjGQWpTkSSfWy8Y1vNUPYfXBuvwdkjpvkipstX6bDLw2EA4yWoRz1P4fXSosZa3Ju0NjW6gSxPK0irp8pChBSaj0Q5dt1X66HfKw1jWX5m0MJyKjk/if1hM5tZsfF2MLMFfV6L80LVD9oT22dbY/zbrDfcQkQiAf8TZ0hkmNyAJiBzGdNzR1ccttB4wNE1RrRn4ySoeu1FXCrS1PCS3h4us9R/srskFodd02vZ6lz1QesA+gCYM+KR9TTsxugQ1lP7MQ9/u30fGthfoSV7k6u87rTQoVSVz69p1KBbIZFadPiuMpu1hkdFlPHTunyAsXh5Nkcx3PTAI0j6Sf7k1GbKSR3lH9Na2HESYMzpdV6GhRnZqe3A==;fJfYSSmVfWHL1XCSoWCpKQ=="
 ---

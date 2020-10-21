@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trum
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 225
 published: true
 
 provider:
@@ -111,17 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
-    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
-    publishedDateTime: 2020-09-29T06:26:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 51
 
 secured: "DRU7kRH9RMCHXJAbw1X19wAtYUXm5gAIvhxzGlHtFt8jCLvNpfYGVbjyJW3Fq7ENYhBh/r12KSVDr+y/Htw49Om81d9Y9ogGyWSEMNoB+6jXP+MuDLPLqlPUSMY+pUGdngkI0+v5KKcNZoMVntMcNMg10HydBaayq+S6o0cMhBF5g1WvUffBtUBpvDqobLO3jkznbblvHivSDQ57SwRKfBulTlMwX4SM9jC06NT9p6944fI9kaqiccy4gh7jTp7tzJYBAAC3vn6kfLpFi9e9uSdPAwED8Rw4o+OWYTl9heifxRiW0QiBs8U9DJUqdQGK/6DCOwoXPj8SZvIyneMjBTh1UTeHXf9Sj8xGmff4sHk=;Q36KTQnd825Sr1v0OHr93w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-
 webUrl: "https://lancasteronline.com/news/politics/second-lady-karen-pence-will-be-in-mount-joy-on-wednesday/article_6c911526-12e0-11eb-b73c-c7f86ed6b0f9.html"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 945
     height: 630
     isCached: true
-
-related:
-  - title: "Donald Trump to campaign Wednesday in Gastonia"
-    excerpt: "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign."
-    publishedDateTime: 2020-10-16T21:46:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    type: article
-    provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 75
-    images:
-      - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "b6Ww5azY5ffoX4LipLzJrxZRNEsRdyTTUr1IBl0l12dEQJn93vlfdLMiZ9UgMFw9gQGXf7/yTabu0OpF5D6f/YOsdyvFR68Zwiyf5Lpfe4+5K4zCXCiJ6UdAWvGX0YyZ7+qkzjHI2dOdw5recY3BLkYVxqYtvj8lgo+/Y5WUreSSkPgcOykMPqIl233NML4OIzm+edcHVcbkSEBgpzVFxlnogGUKiOlk2k625AEjJDLaihraO1ftkJYKUy9ko2KJhT4ar+b4BxqT/h3rB+VopFhCzJxMMG9FX0YgxDt7difwYF+qRudytg/JZqyjOjvRtq5G/0dZq0sD0H2jW2/f6JhQb1gQiQbaYH0VYYHlFrU=;aeZvFMmfw2/MabilbDbt4A=="
 ---

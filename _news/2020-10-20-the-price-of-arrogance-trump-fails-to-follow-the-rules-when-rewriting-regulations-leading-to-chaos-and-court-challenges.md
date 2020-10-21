@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Beat Trump and rewrite democracy rules to build a fair America that serves its people"
-    excerpt: "Trump keeps giving us new reasons to vote him out. Biden will fight for a functioning democracy that delivers the change most Americans want."
-    publishedDateTime: 2020-10-19T07:34:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/19/beat-trump-elect-biden-nd-democracy-time-reform-and-vote-trump-out-column/3702219001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3702219001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702219001"
+  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
+    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
+    publishedDateTime: 2020-10-18T18:14:00Z
+    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics"
-    excerpt: "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi."
-    publishedDateTime: 2020-10-13T16:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/mitt-romney-reprimands-trump-democrats-vile-political-rhetoric/5979016002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5979016002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5979016002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/a1de24b1-d792-4a04-a430-84543f6d2b79-Romney_2.jpg?auto=webp&crop=3999,2249,x0,y197&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "HdDeooMAxyRFdiWqTjFXXmnW+JrV6f7/RWG5Qh4t3EcnVMTIjYEh3lImalIOjvIr2565zrp1aOFdhNFtPXEPF9EX8UIGU3PRCuCk0go5YODLAc85vk9zKyqg4HouhKRgLDnGHGMwG2k4BFUvuHBgMaNjrseD9+mJQ9BNuVJ6Fmd5YBIyt5ROkDdgtMjErahDQWGjQqAvbaK9MdtlSBN18M3ZnSmLvNZ+UHoE5w7n31/WJPxpZU0N27fJIyIZBN9LzOIAIRC2gAraxWROu845dOkTk/tfxUkgqBHMD3jxFSL4OmDHboJWcpvmUVZ2+1qqF0yPLhuACqF+MALtlVfCwzMMgMs+fRCBpyEXWusOmEo=;6sNOtOHFAqp0RPdGS5g0/A=="

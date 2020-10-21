@@ -25,101 +25,85 @@ topics:
   - Donald Trump
 
 related:
-  - title: "It’s ‘now or never’ for ex-Trump aides weighing speaking out"
-    excerpt: "With just weeks left before the Nov. 3 election, it’s decision time for a number of current and former Trump administration officials who are debating whether to speak out against President Donald Tru"
-    publishedDateTime: 2020-09-26T05:43:00Z
-    webUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/its-now-or-never-for-ex-trump-aides-weighing-speaking-out/2020/09/26/a25565de-ffb9-11ea-b0e4-350e4e60cc91_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Donald Trump's tax returns has many wondering what they're doing wrong"
-    excerpt: "Tax breaks for businesses likely helped cushion the tax bill for President Donald Trump, as the speculation continues about Trump's tax audit and tax returns."
-    publishedDateTime: 2020-09-29T11:18:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/09/29/donald-trump-tax-returns-income/3570417001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3570417001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3570417001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/09/USAT/d780f55e-a075-44f4-8b81-96e00a1463d5-USP_News__President_Trump.jpg?auto=webp&crop=4945,2782,x0,y368&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump gets experimental drug aimed at curbing severe illness"
-    excerpt: "The experimental antibody drug given to President Donald Trump has been called one of the most promising approaches to preventing serious illness from a COVID-19 infection"
-    publishedDateTime: 2020-10-02T23:34:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-experimental-drug-aimed-curbing-severe-illness-73397767"
+  - title: "Dear Donald, Dear Mr. President: A Trump-Nixon '80s tale"
+    excerpt: "So it went, the patter of “Dear Donald” and “Dear Mr. President.” Trump, putting his usual self-congratulatory stamp on the exchanges, said shortly after the 2016 election that he didn't know Nixon “but he would write me letters."
+    publishedDateTime: 2020-09-23T14:29:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/dear-donald-dear-mr-president-trump-nixon-80s-73190860"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_765454725e2a4d1cafa0c309fa21f42a_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/US/WireAP_31626c15fafe4dc49bd2bf7de674898c_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Elon Musk won't say whether he's voting for Trump: 'Let's just see how the debates go'"
-    excerpt: "Tesla CEO Elon Musk says he's waiting to see how the presidential debates go before saying who he's voting for, but that Trump has been \"supportive.\""
-    publishedDateTime: 2020-09-28T23:39:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-discusses-trump-biden-election-voting-2020-9?amp"
+  - title: "Mark Cuban says 'idiot' Donald Trump once told him to run for president"
+    excerpt: "Dallas Mavericks owner Mark Cuban said President Donald Trump is an \"idiot\" for how he's run the country as president."
+    publishedDateTime: 2020-09-30T17:18:00Z
+    webUrl: "https://www.usatoday.com/story/sports/nba/mavericks/2020/09/30/mark-cuban-calls-president-donald-trump-an-idiot/3587381001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3587381001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3587381001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 117
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f71db660ab50d00184acba5?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/bb91078b-8ea8-4702-b16e-61c98afa0ed4-USP_NBA__Dallas_Mavericks_at_Indiana_Pacers_1.JPG?auto=webp&crop=2248,1265,x0,y310&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Trump said Jews are 'only in it for themselves' and 'stick together,' according to a new report"
-    excerpt: "The president made the remarks in front of administration officials after a phone call with Jewish lawmakers, according to The Washington Post."
-    publishedDateTime: 2020-09-23T17:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-jews-are-only-in-it-for-themselves-stick-together-2020-9?amp"
+  - title: "Trump didn't accomplish his goals in 1st presidential debate: ANALYSIS"
+    excerpt: "Entering the first debate on Tuesday, President Donald Trump was behind nationally by approximately 7 points on average, and was behind by similar margins in nearly every target state to win the Electoral College."
+    publishedDateTime: 2020-09-30T23:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-accomplish-goals-1st-presidential-debate-analysis/story?id=73350018"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f6b77a0c4049200115cb23b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-pause-gty-ps-200929_1601436698704_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "People who follow Trump's advice and hang around watching polling places will be prosecuted, Nevada's attorney general says"
-    excerpt: "Trump refused to commit to accepting the results of the 2020 election, instead telling supporters to \"go into the polls and watch very carefully.\""
-    publishedDateTime: 2020-09-30T13:14:00Z
-    webUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nevada-attorney-general-prosecute-people-watching-polls-trump-suggestion-2020-9?amp"
+  - title: "Donald Trump and Richard Nixon exchanged letters in the 80s. Read some of them here."
+    excerpt: "I think that you are one of this country’s great men, and it was an honor to spend an evening with you,” Trump writes to Nixon in June 1982, less than eight years after Nix"
+    publishedDateTime: 2020-09-23T18:57:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-donald-trump-richard-nixon-20200923-6bte5uijzjfbrkyctaogarkeru-story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 118
     images:
-      - url: "https://i.insider.com/5f7471ad0ab50d00184ad361?width=1200&format=jpeg"
+      - url: "https://www.chicagotribune.com/resizer/dRmA3Z-OerO_mNQ_2cuYGF954mY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/IL2Q6GTPVLYRN273X7QD4NNRKA.aspx"
         width: 1200
-        height: 600
+        height: 927
+        isCached: true
+  - title: "Trump Family Lawsuit: President, Sister, Brother Sued By Niece Mary Trump For Defrauding Inheritance"
+    excerpt: "Mary Trump, the president's niece, filed a lawsuit Thursday against him and his siblings claiming the family defrauded her out of millions of dollars in inheritance."
+    publishedDateTime: 2020-09-25T02:36:00Z
+    webUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396"
+    ampWebUrl: "https://www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-family-lawsuit-president-sister-brother-sued-niece-mary-trump-defrauding-3051396?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 60
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/07/us-president-donald-trump-speaks-after-stepping-off.jpg"
+        width: 1024
+        height: 693
         isCached: true
 
 secured: "SxNZErlA+ZJm90c+ELyI+mrs+qa0o4d1M2mk8//ua9O6iCdIWLXgzFQwHG+M+rVSyR/QQkEQvEx8iN4mXiTzA7NWqvoEWRYRT9tCrI8f56wr8f0ViNebbuEp8exMP8V0kUNS42ugmOkmXyf+7oc8WXK4Uwg3Xc0IrRTapEXZjA/dY2qNLH1nPqfBLjWuAyzTEsEI74mT+NyNYT83eavyE/f+rVTfHKoTvXuYyQ97XkSDkBaHuBD2dyRnl3hoE5pVr1t1zz8+Yt3nGzj3kPadMjQJx2BSaE/G/VhlDqwOcXm+53ovinkO3rZwunqzr7z363rSmY+WUIeJTZ61Dz0rB+yHi6rSFLi1fX2ghAkzfMKPvZ4U27+v5LdBu1iaC2qugQbQP9FqLgq7VrQUSn8sQAqQCi/dBVLGBpxsPH+DTWydtfsXAyR5Q6mxnEB1Pp41+vqxWV5vDkWdrh94yC38y1alMqt4enrKw1c3etR0T5HjT4VqTNoW3whsjJpEexhZKKkFD0qmWSbSbtHo44vSRg==;b/yI5QlEbJ9nondmwFgJbw=="

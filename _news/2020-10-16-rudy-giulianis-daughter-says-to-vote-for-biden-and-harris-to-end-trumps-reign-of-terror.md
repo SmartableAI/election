@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1245
+heat: 1265
 published: true
 
 provider:
@@ -785,6 +785,20 @@ related:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_42/3420105/201014-joe-biden-al-1105_7e0ca1c40ad905c846644ad4311264ca.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Poll: Biden, Trump locked in tight race for Iowa"
+    excerpt: "Joe Biden has pulled even with Donald Trump among registered voters in Iowa, according to a new survey that also shows the Democratic nominee ahead of the Republican incumbent in likely voter models."
+    publishedDateTime: 2020-10-21T15:08:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/biden-trump-tight-race-iowa-430766"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/13/c5/9546a4af4987ae23d96540844252/201021-trump-iowa-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump says Biden has 'gone into hiding' as the former VP preps for debate"
     excerpt: "Trump said Tuesday in a more than 45-minute interview on Fox News' \"Fox and Friends\" that Biden is \"imploding\" and has \"gone into hiding\" as the former vice president preps for the final presidential debate on Thursday."

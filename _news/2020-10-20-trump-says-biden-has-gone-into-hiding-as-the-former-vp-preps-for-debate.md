@@ -800,6 +800,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Poll: Biden, Trump locked in tight race for Iowa"
+    excerpt: "Joe Biden has pulled even with Donald Trump among registered voters in Iowa, according to a new survey that also shows the Democratic nominee ahead of the Republican incumbent in likely voter models."
+    publishedDateTime: 2020-10-21T15:08:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/biden-trump-tight-race-iowa-430766"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 130
+    images:
+      - url: "https://static.politico.com/13/c5/9546a4af4987ae23d96540844252/201021-trump-iowa-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "NBC Staffers Seethe as Trump Gleefully Uses the Network Against Biden"
     excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
     publishedDateTime: 2020-10-14T22:25:00Z

@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Eric Trump, Vice President Mike Pence to visit Pa. Friday, Saturday"
+    excerpt: "Eric Trump is hosting several campaign events for his father President Donald Trump in Pennsylvania Friday and Saturday. There is a Catholics for Trump event"
+    publishedDateTime: 2020-10-16T09:18:00Z
+    webUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/"
+    ampWebUrl: "https://www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/top-stories/eric-trump-vice-president-mike-pence-to-visit-pa-friday-saturday/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 90
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2020/07/0b4e231f4016435c96a9d4630ea6f691.jpg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Jim Carrey returned to 'SNL' to absolutely nail the role of the fly on Mike Pence's head"
     excerpt: "That's when Jim Carrey appeared as Joe Biden, who comes up with a scheme to sabotage Pence that involves teleportation. No spoilers, but the veteran comedian at one point plays an elderly presidential candidate and 1980s Jeff Goldblum and a fly,"
     publishedDateTime: 2020-10-11T13:48:00Z

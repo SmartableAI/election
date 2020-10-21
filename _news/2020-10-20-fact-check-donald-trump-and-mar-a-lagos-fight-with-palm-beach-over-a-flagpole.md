@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5921390002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: USA Today
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fact-check: Is Chris Pratt a Donald Trump Supporter?"
-    excerpt: "The 'Guardians of the Galaxy' star began trending over the weekend due to a poll posted on social media which asked Twitter users to ditch one of the famous Chris A-listers; Chris Pine, Chris Evans, Chris Hemsworth and Chris Pratt."
-    publishedDateTime: 2020-10-19T12:48:00Z
-    webUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240"
-    ampWebUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+  - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
+    excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
+    publishedDateTime: 2020-10-20T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-gop-senators-blocked-nomination-merrick-garland-2016/5916555002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5916555002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916555002"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1620141/chris-pratt.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
-    excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
-    publishedDateTime: 2020-10-15T12:36:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-vaccine/fact-check-the-recovery-of-trump-and-johnson-from-covid-19-does-not-prove-vaccines-are-unnecessary-idUSKBN2701GY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 111
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537572406&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0WX"
-        width: 818
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "SbySr07Ryy5gHwub8NKYtP7nXoBtB0j4PVBKBx9NjmL7GTpTcRxjRU7NeFcCA/OYQddwy+TXSU6oeQv1blAW7mVXTAuN0KbHJYlnlFEbOuZ1NWO2bLpaVKLPOaD+maZJQ1dx31VnBIISRLHnBESH9AVHbn4PnVuHPXm8Qpvx0Fa0OUIykBMI2PUqNA3N30SdPCzTs3L196g5XRsE0som40EPukaNfOVl13BKTSwbBptUKQFcNRhNnIynVcVkhVN5fBEQ3xfYT1T/iAD2aRXlG0ci8jNLSZ/+4ptAU1xcGPdu+mXI5rI15w+hfXy8aGnZBAQb2CZwG+OfX0vH7s51/kp1fqaQXNfbkjrJcGC9T4Hi6nS0Xss8whfMYgGRyPWbTZiV7YuntxiYWH8amiW/vugMaIWHedgWtzbMAbLLcobfo8vSpdwlAVWTbvFxv/twxMHWFTCozKim+o6b+9lkDlRnQGASe9IOvx+pf7QozvblmUG9o3tHmRqDuEGbDtsAZy+ZXn9X1nt8ATNP2SjTxA==;3ZFpkLgLSR3k1NGYi2+S4A=="

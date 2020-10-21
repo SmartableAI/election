@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms"
-    excerpt: "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative."
-    publishedDateTime: 2020-10-16T04:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3667827001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001"
+  - title: "COVID Positive Donald Trump Holds White House Rose Garden Event Saturday"
+    excerpt: "Donald Trump is going back to the scene of the crime -- aka The Rose Garden at The White House, and it's happening today."
+    publishedDateTime: 2020-10-10T15:53:00Z
+    webUrl: "https://www.tmz.com/2020/10/10/trump-rose-garden-event/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/10/trump-rose-garden-event/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/10/trump-rose-garden-event/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
+      name: TMZ
+      domain: tmz.com
+    quality: 74
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
+      - url: "https://imagez.tmz.com/image/c8/16by9/2020/10/10/c87b1f39177848a9b68260690f99a7e3_xl.jpg"
         width: 1200
         height: 675
         isCached: true

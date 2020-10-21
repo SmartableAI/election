@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Column: Upon his release from hospital, President Trump is denounced as a heretic by media high priests"
+    excerpt: "Estimates released in September show a death rate that is low across the board, especially among the young and healthy, but the drumbeat in politics and media has been all about fear. The high priests of the Washington establishment media who have thrown their lot in with the Democratic Party and Joe Biden for the 2020 campaign were outraged by Trump."
+    publishedDateTime: 2020-10-07T10:03:00Z
+    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 109
+    images:
+      - url: "https://www.chicagotribune.com/resizer/70JOGZkj3argNBh0CWW4_Jqf2AY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UFHVOGS3GFKFB7CNA27ZYEPPXM.jpg"
+        width: 1200
+        height: 777
+        isCached: true
   - title: "President Donald Trump left hospital to wave to crowd from SUV outside Walter Reed"
     excerpt: "President Donald Trump left the hospital minutes after tweeting that he was going to surprise supporters outside Walter Reed."
     publishedDateTime: 2020-10-04T23:19:00Z
@@ -140,6 +156,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/a1626c6f-f577-4a36-aee8-a0aa4e3b95ec-Screen_Shot_2020-10-04_at_6.59.46_PM.jpg?quality=10"
         width: 2062
         height: 1154
+        isCached: true
+  - title: "Trump promised to bring China to heel. He didn’t and the result is a pitched conflict between the world’s two major powers."
+    excerpt: "Aides say the president is standing up to Beijing. But critics warn he’s created a dangerously tense relationship born out of a chaotic and undisciplined style that has defined many aspects of his presidency."
+    publishedDateTime: 2020-10-12T00:22:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R476SQQKSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump reportedly wanted to rip open his button-down to reveal a Superman T-shirt to surprise people when he left the hospital"
+    excerpt: "Upon leaving the hospital, Trump would rip open a button-down dress shirt to reveal a t-shirt with the Superman logo."
+    publishedDateTime: 2020-10-10T23:07:00Z
+    webUrl: "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 98
+    images:
+      - url: "https://i.insider.com/5f822f5dbab422001979a9fe?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
     excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
@@ -157,6 +205,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Supreme Court Allows Trump to Wind Down Census Early"
+    excerpt: "The U.S. Supreme Court on Tuesday allowed President Donald Trump's administration to wind down population counting for the 2020 U.S. census earlier than planned, in a blow to civil rights groups concerned about an undercount,"
+    publishedDateTime: 2020-10-14T07:22:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-allows-trump-to-wind-down-census-early"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "enExae5gD/1+4JZ1K3y4bbYJmjUmR3Be0KP+svFtuVu2QVYzyA+Y6Asl7vKZJFt2teS8ELWGHOVLCNh1hae+V4xxI+V8RhTEHYsxcERdqqdcfGJWl21cLI3SM5U+trf4524+KnUdL3cUt+gIH29TqcwRhpSmR+hK7F+TIy8lPtx+gNtO1ZiPZnINljxB6xIZd/gtMbgRLaAnlsXFS/u8vWN9xQcYuEoTX1YAFjHu/KZUV0NQT7rVUKm+iVGTehARw1UHLDQRQS74GJvaHS7PSAoJ7Fp+v5aqP3er/m/XO8qf+TnwFdBcJzNOgEhqgXX/A+EP9UJRyHXRYrx8/kpa/IC1u2OOb9dgFBoRdCC/nwc=;zT380pVmpylutEBFqHbFwA=="
 ---

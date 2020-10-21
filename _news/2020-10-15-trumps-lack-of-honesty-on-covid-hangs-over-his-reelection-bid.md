@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 1870
+heat: 1890
 published: true
 
 provider:
@@ -841,6 +841,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421152/201019-dr-fauci-mc-1148_8ca083f9723427d6cdb9c68d82d691ab.JPG"
         width: 2500
         height: 1473
+        isCached: true
+  - title: "Offered hypothetical do-over, Trump wouldn't change COVID response"
+    excerpt: "There's no shortage of ways Trump could've answered these questions coherently, but that might've led him to express a degree of regret over his failures."
+    publishedDateTime: 2020-10-21T15:39:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/offered-hypothetical-do-over-trump-wouldn-t-change-covid-response-ncna1244149"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244149"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244149"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3416796/201001-donald-trump-ac-657p_0f3a4227e5f7399f4831d9f66c52353a.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Why hasn't Trump donated more money to his own campaign?"
     excerpt: "As October got underway, Trump had only chipped in about $8,000 to his campaign, despite the \"whatever it takes\" rhetoric from a few weeks earlier."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5911905002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5911905002"
 type: article
 quality: 122
-heat: 662
+heat: 642
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/08/Election_2020_Pence_57522.jpg-f34e6_c0-0-5230-3050_s1200x700.jpg?70a6d040525b95b75fe6c36479c516dde92ee6e5"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
-    excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
-    publishedDateTime: 2020-10-13T13:05:00Z
-    webUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday"
-    ampWebUrl: "https://www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
-    cdnAmpWebUrl: "https://www-wxyz-com.cdn.ampproject.org/c/s/www.wxyz.com/news/vice-president-mike-pence-to-be-in-grand-rapids-wednesday?_amp=true"
-    type: article
-    provider:
-      name: WXYZ Detroit
-      domain: wxyz.com
-    quality: 75
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2844be0/2147483647/strip/true/crop/640x360+0+60/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsharing.theindychannel.com%2Fsharescnn%2Fphoto%2F2016%2F09%2F26%2F1474892345_46933702_ver1.0_640_480.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Vice President Mike Pence headed to Selma, NC for MAGA event Friday"
     excerpt: "Vice President Mike Pence is returning to North Carolina for another campaign event. Pence is scheduled to arrive in Selma, North Carolina, on Friday Oct. 17. The event will be held at The Farm at 95."

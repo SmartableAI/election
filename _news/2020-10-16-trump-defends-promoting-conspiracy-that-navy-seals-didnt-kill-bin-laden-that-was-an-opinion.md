@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Ross Douthat is right about Trump"
+    excerpt: "For the past four years the New York Times’ Ross Douthat has been consistently advocating the incompetence argument. In the wake of rising fears that Trump intends to launch a s"
+    publishedDateTime: 2020-10-13T11:19:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/10/13/why-ross-douthat-is-right-about-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/13/why-ross-douthat-is-right-about-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/13/why-ross-douthat-is-right-about-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJNV5QQJ44I6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump lost the ratings battle: What that really means"
     excerpt: "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included."
     publishedDateTime: 2020-10-18T17:30:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Supreme Court temporarily allows Trump administration to end census head count"
+    excerpt: "The early completion date likely will result in undercounting racial and ethnic minorities and others in hard-to-reach communities."
+    publishedDateTime: 2020-10-13T22:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/2020-census-supreme-court-lets-administration-end-head-count-now/5975298002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5975298002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5975298002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/28/USAT/29c99289-a9bf-437a-8521-d282b629793c-GTY_1228773157.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "On Columbus Day in 1963, Trump marched up Fifth Avenue in New York City’s parade"
     excerpt: "When Trump was a 17-year-old senior at New York Military Academy, there was no talk of Indigenous People’s Day, no beheading of statues and no pandemic canceling parades."
@@ -121,36 +153,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "'That's bulls---. No way!': Trump supporters say they'd take a pass on Trump in 2024 no matter if he wins or loses in November"
-    excerpt: "They love Trump and will wait for hours in line to see him. But even his most ardent supporters don't want the president on the ballot after 2020."
-    publishedDateTime: 2020-10-14T21:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-third-term-election-2024-constitution-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/5f8604dffd1f49001964d62a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Does Trump merit the hatred? Let us count the ways"
-    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
-    publishedDateTime: 2020-10-16T09:03:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
-        width: 1200
-        height: 815
-        isCached: true
   - title: "Collins: Maskless Trump Set a Poor Example at White House"
     excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."
     publishedDateTime: 2020-10-07T02:31:00Z
@@ -162,6 +164,36 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Editorial Counterpoint: Why Donald Trump is the president we need"
+    excerpt: "President Donald Trump should be re-elected, by issue: “The big difference between success and failure in the presidency,” President John F. Kennedy said in 1962, “is the difference between a bill being defeated in Congress and the country getting wiped out in a nuclear attack."
+    publishedDateTime: 2020-10-12T23:47:00Z
+    webUrl: "https://www.startribune.com/editorial-counterpoint-why-donald-trump-is-the-president-we-need/572719481/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 55
+    images:
+      - url: "https://stmedia.stimg.co/ows_d30bdba4-bad0-43c7-90b0-07c2fd61ef2e.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "A science advisor for President Donald Trump has a tweet blocked claiming masks don’t work to combat coronavirus"
+    excerpt: "A science advisor for President’s Donald Trump had a tweet blocked by Twitter on Sunday after it suggested masks don’t work to combat the spread of coronavirus. Scott Atlas, who joined the Trump Administration in August,"
+    publishedDateTime: 2020-10-19T11:48:00Z
+    webUrl: "https://www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html"
+    ampWebUrl: "https://www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/coronavirus/2020/10/a-science-advisor-for-president-donald-trump-has-a-tweet-blocked-claiming-masks-dont-work-to-combat-coronavirus.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 54
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/67DCE3VC5FEAXBRCR57Z3HCBJI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "PFa5lbKfFCQHE6RMrkF+yX4Q1051IuyiNaoNORiarhCTYvYFOpCGit2x8oBxIUQPToYgAosJqbzi2kToPc+jpgB7fpTilyxGnCHSjpgGWUXTNNZAilzs7iZ7qB+O48mtBHODIutxW6Xc5tbMJa3BhDsFy7Mz5ASZG0y09uoo4qIVzK7y763/HeK3HmPoIluKnUfLkzKAZz2qF20OV3cIHIxSo1GDlGWP16MP/9hC4jMsuD27asDumjaY/YVxNkPEB17IqO15opbVVKxTba8TENGBhuCLsBV1VLu5HuiNTzpbGpZjyM9KnkCyZBMP4z3e2dEvbrwGm48emqXzVbZQgR8t9cJ/ctZokIrUw6tYxI4=;266BcJEBPHp8VEzTlX9WXw=="
 ---

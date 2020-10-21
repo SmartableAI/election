@@ -1487,20 +1487,6 @@ related:
         width: 576
         height: 324
         isCached: true
-  - title: "How is Joe Biden going to combat the Trump lie machine?"
-    excerpt: "Joe Biden was fed up. \"Stop talking about how you care about people,\" he snapped at his opponent. \"Show me something. Show me a policy. Show me a policy where you take responsibility.\" But facing President Trump on Tuesday in the first of three presidential debates will be the biggest night of Biden's political career."
-    publishedDateTime: 2020-09-29T10:06:00Z
-    webUrl: "https://theweek.com/articles/940099/how-joe-biden-going-combat-trump-lie-machine"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 70
-    images:
-      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/trump_debate_lies.jpg?itok=gbMHZ9zc"
-        width: 1260
-        height: 560
-        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-27T06:56:00Z

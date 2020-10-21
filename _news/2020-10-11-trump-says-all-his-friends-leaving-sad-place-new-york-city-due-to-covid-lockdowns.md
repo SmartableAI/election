@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
-    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
-    publishedDateTime: 2020-10-14T07:37:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump tells Fox News he had 'congestion' in his lungs, giving a small window into his COVID-19 infection"
     excerpt: "\"Initially, I think they had some congestion in there, but ultimately it tested good, and with each day it got better,\" Trump said."
     publishedDateTime: 2020-10-10T11:13:00Z
@@ -79,6 +63,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
+    excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."
+    publishedDateTime: 2020-10-11T17:21:00Z
+    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-ready-election-fight-3060417"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
 
 secured: "7Z5adAekErR8sjcpzbtFCFrC8g5MO9CDowfWnaFgB/rq3QtcWa767pC1nycnWqUlo872AfBpabo/DhftmHBP2mhAlxDNwSElQFcrB5lWEli5X9psru6XJDFPOELomPzY8lZ5+gDVM3C5kUrTnEKVHsIwlQyC0rTLFisTNDViguQeqN9mIUbecaVPopCq8GhSyWYJ1uw1s7KCwgu3R9OmI+ACmwnnw9SNbm7KPRr41PhgORJdM6TnzphxcEEYED5ysnrJULXl/b8ygdSDLC4kVVGfKMrcSmQRKkfnJH5ydh9AjLxj2moEDGb4IOOyQMeki+YpUSX5zhr8AB+ak4DwWZAAhTCIotcmHzItljumjx/CYCVseWoLBMDc356DX1TtYMKStQorG8gKBkkbsRsFBiW96m/JNKNXOeUx5cfc5mX5p7GTT2b1sls8J38+g5gSl+1KielmNXHq14JHu5YdWhqiV5rrrGt8DkHPQNVzAkE3zgZG4LweLQ03jKepALw2DYqegSr/SbpdUNFp6f/lpw==;Ndam7ykeGQJp25+IxtVfWg=="
 ---

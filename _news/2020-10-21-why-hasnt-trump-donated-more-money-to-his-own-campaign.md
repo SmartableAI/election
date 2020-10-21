@@ -859,6 +859,22 @@ related:
         width: 2500
         height: 1473
         isCached: true
+  - title: "Offered hypothetical do-over, Trump wouldn't change COVID response"
+    excerpt: "There's no shortage of ways Trump could've answered these questions coherently, but that might've led him to express a degree of regret over his failures."
+    publishedDateTime: 2020-10-21T15:39:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/offered-hypothetical-do-over-trump-wouldn-t-change-covid-response-ncna1244149"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244149"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244149"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3416796/201001-donald-trump-ac-657p_0f3a4227e5f7399f4831d9f66c52353a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Twitter removes tweet from top Trump Covid adviser saying masks don't work"
     excerpt: "Twitter on Sunday removed a tweet from one of President Donald Trump's top Covid-19 advisers falsely claiming masks don't work to prevent the spread of coronavirus. The tweet no longer appeared on the site as of Sunday morning,"
     publishedDateTime: 2020-10-18T14:41:00Z
@@ -1315,6 +1331,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "twXkqabOnLk8PVQFOyFkYa2f1kXeEckllNkwixtYte9EJMFLdOMQxUAvtiSD5yks8COwI7Dqy2HTLh15qn0uoydID2tGyWdHZXPYG1qMSeVTzEtSB3qkL1+z8jkR4Re7zS32IRq30G8aGQ+JgA1l1mqxIfe0lgL7O2gmxFyxGOq3Bz4/nmHYQQwScWUfkPRaPtB14RC8FsCX8xxo9ADZlXk0x0aGF5IY0OHx/ASai6Q/3p743mkqNGI5O6ONlvoS1DVP0JwnxAc936G8db/wOkQKeMh7OV/1azK47/gLWD3Xk/f6fHA4IqIn7T0nihmUVTBbm6GwKXnVPwdkDot3DZJmPxgsn1CP08XtNC9UtS0=;RZ+JjFwp1wkXfny+BAhK8A=="
+secured: "Sh8AcUZR2FXvxNMjHYRoe9A33q2rvCBZsepXhB1sKT9GaVnlm7xvIl/BqRz5BGCV8Ch9ZtnAHnZonw6Z1K2tQ1uLRCXwIyD5mIrn9WwPweId4d9x8XPd/irezixEzmx+aIxNIQhbgYEdifqN3bMB05jXbeDY7m9bo3UYpqmVaLLAttJxXb69hO4CpMIHAl1+pKlTzaTicSMHEQjyhbvzpecl30IbF9u/pHGes7vVo3ywItomS+jd3riQi3LFKRPq+L/ZT8TFtOiVNoiEfA7RjFq89MU3HKyS5SxF2LWCnS5SWf0p4EYCyQuCjmNmRNaRviOiJdx8fNSgwJQEpaOLzG1S+CAMD10VujpHwSX5QNyHflTayJyuuupYfEOcL/MxdnszWTPvhkQHguwi+ba9oUjTyv9t11zjg3iFvIjUczzYbpESpWuFZMf+aBYKJ4FKe3megk7W1TbtoaJ5O/iITAtHX4tBWhxgfo8gK2EIkho9t2zfWealieqcU3q3HfUaq+PziqGllvK72unTXiFlZw==;QcmCiZrgNpqHNASEZihioA=="
 ---
 

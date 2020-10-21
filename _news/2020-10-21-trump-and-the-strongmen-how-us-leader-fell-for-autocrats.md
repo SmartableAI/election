@@ -29,271 +29,175 @@ images:
     isCached: true
 
 related:
-  - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
-    excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
-    publishedDateTime: 2020-10-15T19:00:00Z
-    webUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408"
-    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
+  - title: "Trump administration denies California relief for 6 fires"
+    excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
+    publishedDateTime: 2020-10-16T16:23:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
-    excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
-    publishedDateTime: 2020-10-14T12:39:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
+  - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
+    excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702SX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
-        width: 1200
-        height: 675
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ"
+        width: 908
+        height: 545
         isCached: true
-  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
-    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
-    publishedDateTime: 2020-10-21T05:26:00Z
-    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+  - title: "Trump administration denies California relief for 6 fires"
+    excerpt: "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires"
+    publishedDateTime: 2020-10-16T19:24:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/power-thousands-california-prevent-fires-73648980"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/power-thousands-california-prevent-fires-73648980"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 114
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
-        width: 911
-        height: 455
+      - url: "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
-    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
-    publishedDateTime: 2020-10-16T04:42:00Z
-    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
-    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
-    publishedDateTime: 2020-10-16T06:54:00Z
-    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 109
-    images:
-      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
-    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
-    publishedDateTime: 2020-10-20T00:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
+  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
+    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
+    publishedDateTime: 2020-10-09T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 107
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump administration rejects California's request for wildfire disaster assistance"
+    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-16T10:11:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
+    images:
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Government agency will investigate Trump administration political influence over FDA, CDC"
+    excerpt: "Both agencies have been caught in political crossfire since the start of the pandemic, as preventative health measures became politicized."
+    publishedDateTime: 2020-10-19T20:53:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/19/gao-investigate-trump-administration-influence-over-fda-cdc/5981174002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5981174002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5981174002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/17/USAT/978858e1-2530-4004-9fa6-4eafefcf111e-VPC_TRUMP_REDFIELD_CONTRADICTION_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
-    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
-    publishedDateTime: 2020-10-18T05:09:00Z
-    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+  - title: "Trump administration reverses course on California's request for wildfire disaster assistance"
+    excerpt: "The federal government had denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
+    images:
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
+    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
+    publishedDateTime: 2020-10-13T15:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
+    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
+    publishedDateTime: 2020-10-14T13:12:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
     quality: 75
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "Savannah Guthrie Compared To Matt Lauer After NBC Announces Trump Town Hall"
-    excerpt: "Savannah Guthrie is scheduled to host a live town hall with President Donald Trump, and the internet is not happy about it. After Trump tested positive for COVID-19, his second debate with democratic presidential nominee Joe Biden was switched to a virtual event."
-    publishedDateTime: 2020-10-14T20:09:00Z
-    webUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211"
-    ampWebUrl: "https://www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/savannah-guthrie-compared-matt-lauer-after-nbc-announces-trump-town-hall-3062211?amp=1"
+  - title: "Donald Trump administration to face more lawsuits challenging H-1B rules close to two weeks before elections"
+    excerpt: "B workers and also made qualifying for H-1B visa tougher. First of the lawsuit filed by US IT companies on October 16 was against the wage hike rule. Two more are likely to follow in the coming days,"
+    publishedDateTime: 2020-10-18T07:32:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/donald-trump-administration-to-face-more-lawsuits-challenging-h-1b-rules-close-to-two-weeks-before-elections-5977441.html/amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/02/01/matt-lauer-savannah-guthrie.jpg"
-        width: 1024
-        height: 735
-        isCached: true
-  - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
-    excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
-    publishedDateTime: 2020-10-15T18:13:00Z
-    webUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746"
-    ampWebUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 71
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg"
-        width: 1024
-        height: 664
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/08/Visa-Passport-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
-  - title: "Savannah Guthrie Is Being Praised for How She Handled Donald Trump at NBC’s Town Hall"
-    excerpt: "Today show cohost Savannah Guthrie moderated a town hall with President Donald Trump on NBC October 15 and is garnering a fair amount of praise for her handling of the situation, which once again saw POTUS avoiding answering questions and going off on rambling tangents."
-    publishedDateTime: 2020-10-16T23:35:00Z
-    webUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall"
-    ampWebUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
-    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
+  - title: "News Update: Court reverses decision on Arizona voter registration deadline; Donald Trump, Jr. coming back to Arizona for campaign events"
+    excerpt: "The court has reversed its decision on extending Arizona's voter registration deadline; voters now only have until tomorrow, Oct. 15 to get registered. Donald Trump, Jr. is coming back to"
+    publishedDateTime: 2020-10-14T13:00:00Z
+    webUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.html"
+    ampWebUrl: "https://www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/video/news-update-court-reverses-decision-on-arizona-voter-registration-deadline-donald-trump-jr-coming-back/video_bcbd69f4-98b0-5cca-a4ee-17e6f08ff6ba.amp.html"
     type: article
     provider:
-      name: Glamour
-      domain: glamour.com
-    quality: 68
-    images:
-      - url: "https://media.glamour.com/photos/5f899352a927d2469afbc1dc/master/pass/GettyImages-1208231958.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "Donald Trump Gets In Heated Exchange With Savannah Guthrie In Opener To NBC News Town Hall"
-    excerpt: "Donald Trump’s town hall with NBC News — competing against a similar event with Joe Biden on ABC News — opened with a contentious series of questions with moderator Savannah"
-    publishedDateTime: 2020-10-16T01:30:00Z
-    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/"
-    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-savannah-guthrie-1234598497/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 65
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Biden-Trump.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
-    excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
-    publishedDateTime: 2020-10-16T15:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/07/trump-shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Savannah Guthrie Praised by 'Today' Show Team After President Donald Trump's Controversial Town Hall"
-    excerpt: "Savannah Guthrie moderated a controversial town hall with the President Donald Trump on Thursday, and her Today show team is supporting her all the way. The journalist received praise from co-hosts Hoda Kotb and Al Rocker for how she handled her conversation with Trump,"
-    publishedDateTime: 2020-10-16T20:39:00Z
-    webUrl: "https://www.etonline.com/savannah-guthrie-praised-by-today-show-team-after-president-donald-trumps-controversial-town-hall"
-    ampWebUrl: "https://www.etonline.com/savannah-guthrie-praised-by-today-show-team-after-president-donald-trumps-controversial-town-hall?amp"
-    cdnAmpWebUrl: "https://www-etonline-com.cdn.ampproject.org/c/s/www.etonline.com/savannah-guthrie-praised-by-today-show-team-after-president-donald-trumps-controversial-town-hall?amp"
-    type: article
-    provider:
-      name: Entertainment Tonight
-      domain: etonline.com
-    quality: 60
-    images:
-      - url: "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2020-03/gettyimages-1208164244.jpg?h=2e976bc2&itok=Qi0Oo6TH"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”"
-    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
-    publishedDateTime: 2020-10-18T05:52:00Z
-    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com"
-    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 59
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type” WATCH"
-    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
-    publishedDateTime: 2020-10-18T05:52:00Z
-    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/"
-    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
-    type: article
-    provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 56
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
-    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
-    publishedDateTime: 2020-10-14T12:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
-    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
-    publishedDateTime: 2020-10-15T21:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
-        width: 1024
-        height: 673
-        isCached: true
+      name: AZFamily
+      domain: azfamily.com
+    quality: 22
 
 secured: "3qwE7XjOiuLSgwCLFSYqDvXSzGfdKEhmyA3y9zR9zWnPsG1UEtn3fP7bJfJedBVQfVv3gs0EaGxvXWvFZINOQBIs9/YCliEedCE/GtftQgUd9jaa5LSuaUEkEs1xOKAB3jE/RekzjOCP4EkMKyqRDHf9qmoHXIx9KvIRek2RUgtxygZxHXNWl9NgijEIN4Schg8u/KIy/9/GpSukx7jxHe5C4GoGTz5FHp3WgDWO+AOaFFH5FzF53S74Z/Q0bKix5pvOGXMucDdltnZkq+j5HF1tnT+HIrcxKkxWTNYDe3hw+gt/s3y901xdbqBEm+2EUUDQkMttxn5x732glz7jc9COxDJN/Ut67AgJKr6mi0uMD/wR1kSaqO31HypUTK1KYlIJroVurUbX4iLUqB1WWR/Q9mVsgBY1bWqp6zD3H936wo8uu4ZC0G+WK44O/bj276cxbMLi4GzcROjnOrJBS00/PYRvTGEkCXBt/LLrr+0sGbRQB8Moa3OXNd26JOpDoWQyDAQgPGNhhGORhZnqDw==;86fPaSPt3fyVeu998M+gqw=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
-    excerpt: "Melania Trump said Wednesday that after an initial negative test, 14-year-old Barron Trump tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T05:39:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/14/melania-trump-says-son-barron-trump-tested-positive-covid-19/3656978001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3656978001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656978001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
     excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
     publishedDateTime: 2020-10-20T19:23:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
-    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
-    publishedDateTime: 2020-10-16T02:36:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Judge throws out Trump campaign lawsuit over Pennsylvania poll-watching law and mail-in ballots"
     excerpt: "The Trump campaign had challenged the battleground state’s poll-watching law and how mail-in ballots are collected and counted."
@@ -132,54 +100,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump Pleads For Women Voters At Pennsylvania Rally"
-    excerpt: "An increasingly desperate President Trump called on suburban women to support him during a rally in Johnstown."
-    publishedDateTime: 2020-10-14T13:12:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/trump-pleads-women-voters-pennsylvania-rally"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017941/suburban-women-will-you-please-like-me-trump-asks-at-pa-rally"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
-    excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
-    publishedDateTime: 2020-10-15T09:42:00Z
-    webUrl: "https://www.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    ampWebUrl: "https://amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
-    quality: 75
-    images:
-      - url: "https://d.ibtimes.co.uk/en/full/1600176/barron-trump-melania-trump.jpg"
-        width: 1600
-        height: 1099
-        isCached: true
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
     excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
     publishedDateTime: 2020-10-17T21:41:00Z
@@ -196,17 +116,6 @@ related:
         width: 1024
         height: 616
         isCached: true
-  - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
-    excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
-    publishedDateTime: 2020-10-20T07:10:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
 
 secured: "0CycivJ93VEEjJ4UY3ceHd0duqh2sX8Ss48GBvSWfOEc5G7JGOG05B9LXETZcy7SnxXt/1rgvAhNJyNqTujvUq2mipnVBrGT+7LnkbaqkGz7sG8u4G0rLh9MxHuJOftwQpo8yXPRnV12AGSJPDT28Or7a1LyK3E2RRrksL15Sm+h/bpmZO4mDMzpui2KNAOrSoijP0RhdsRRk2Tw+oFV4XAofLQxuTaQJylCUswPXB5VcJ8AFueKiZjma7v3qECxBJMQ7vDlVvH69uh1FLVHWKciwzlEvFzoBo5Egb+IJclHof47YjrgS0FEda/7wc8YH9QavEevQuVjcv6LZcK9Hj/eXP76mmucE+tQZ0mn29I=;Bn4VnQXcXW7RK2Xf4gvhnA=="
 ---

@@ -19,67 +19,49 @@ topics:
   - Joe Biden
 
 related:
-  - title: "No need for Biden to quarantine after flying with person who tested positive for COVID-19: campaign"
-    excerpt: "Democratic U.S. presidential candidate Joe Biden flew on an airplane with a person who subsequently tested positive for COVID-19 but Biden was not in close contact with the person and there is no need for him to quarantine,"
-    publishedDateTime: 2020-10-15T21:00:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-plane-idUSKBN2702XL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702XL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702XL"
+  - title: "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'"
+    excerpt: "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more."
+    publishedDateTime: 2020-10-11T10:41:00Z
+    webUrl: "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325"
+    ampWebUrl: "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 111
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537649639&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1SF"
-        width: 817
-        height: 545
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+  - title: "‘SNL’: Which Actors Played Joe Biden Before Jim Carrey?"
+    excerpt: "Actor Jim Carrey will take on the role of presidential nominee Joe Biden on Saturday Night Live this season. The announcement may have come as a surprise to some fans as Biden has been skillfully played by other actors on the series in the past."
+    publishedDateTime: 2020-09-17T07:22:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/snl-which-actors-played-joe-biden-before-jim-carrey.html/"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
+      name: The Cheat Sheet
+      domain: cheatsheet.com
     quality: 55
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2020/09/SNL.jpg"
+        width: 1200
+        height: 798
         isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-13T10:03:00Z
-    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
+  - title: "‘SNL’: Some Viewers Want Woody Harrelson To Replace Jim Carrey as Joe Biden"
+    excerpt: "Although it was only his third appearance as Joe Biden on Saturday Night Live, some viewers are ready to replace Jim Carrey with someone like Woody Harrelson. Carrey’s version of Biden comes after both Harrelson and SNL alum Jason Sudeikis masterfully portrayed Biden during previous seasons."
+    publishedDateTime: 2020-10-18T14:04:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/snl-some-viewers-want-woody-harrelson-to-replace-jim-carrey-as-joe-biden.html/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
+      name: The Cheat Sheet
+      domain: cheatsheet.com
     quality: 53
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2020/10/SNL-2.jpg"
         width: 1200
-        height: 674
-        isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-14T06:03:00Z
-    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 53
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+        height: 801
         isCached: true
 
 secured: "v18HV3mIWZbyHIJx+Bbuyb9RqKiuHujwRiLg+/8lfH6YcUJE+ShfeTvocs8ZCC2pzZuevaRa8BYF/J9imh1owGGZfRbrgS1nOfKSYs7rQ9zP5U23JNKXdTzNnsIgHZwwR/A+PlkZokjWFdTX6KQiyN+ba5kTMu+YibQdbF09uf8VMFTJvCzfZfGMyjCQmNcLcYqrReZTotyylMQfDG8ONLT9xLbeyClrg3zULTc5z4OXNTQGTxcgoGWP03cU6ehgisTomrvYv1r/elBJHr3UjekZSSlGTeknF1Mjam8GmZw6ELj56R5hBf8G2maWyXhvecVW3lzxkxwXbv6Tje7/bxyjVetYufB0WWdUsUKEKJBTwhgJzEk3oQA/6g7WJQzsjJdm3CtRYZ9pXtdLRALGFaSDIllQfJl4+ZXFmcn/D2tBjxALE2D88VOkK7imRRjQBWB8qIYbcirvXcrlPovofIuPwD4vlQ9DmF4pVMoUQmXz3FT8flU0WiA06JfY7yhydjPS8VN9IAiBbPByE+nJMA==;nHVP45WCevxB05JK4Vh6uQ=="

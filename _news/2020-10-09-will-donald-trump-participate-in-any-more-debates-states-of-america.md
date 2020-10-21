@@ -39,22 +39,6 @@ related:
         width: 594
         height: 393
         isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump eyes Cuban American judge from Florida for Supreme Court"
     excerpt: "Barbara Lagoa would bring lengthy judicial experience and two potential political benefits: She is a Cuban American from a battleground state."
     publishedDateTime: 2020-09-19T23:33:00Z
@@ -150,38 +134,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/13/NPPP/3253e320-e0cc-4691-951e-4e6f07e850ec-thumbnail_IMG_20201008_165418.jpg?auto=webp&crop=787,443,x34,y482&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
-    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
-    publishedDateTime: 2020-10-12T14:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26X0GN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X0GN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X0GN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537087640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B09C"
-        width: 830
-        height: 545
-        isCached: true
-  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
-    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
-    publishedDateTime: 2020-10-12T19:05:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN26X0GH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X0GH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X0GH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537092866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B08V"
-        width: 861
-        height: 545
         isCached: true
   - title: "Americans have 'conflicting' feelings about President Trump's COVID diagnosis"
     excerpt: "The spectrum of reactions in the days since Trump's COVID diagnosis reflect the complexity of America's political and moral moment."

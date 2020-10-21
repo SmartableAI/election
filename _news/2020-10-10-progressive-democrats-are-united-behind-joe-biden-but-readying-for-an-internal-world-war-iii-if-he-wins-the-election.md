@@ -327,19 +327,19 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Did Joe Biden really say he was running for the Senate?"
-    excerpt: "During his Florida rally, President Trump mocked Joe Biden, claiming that his rival told supporters he was running for the US Senate. Here's what Biden said in full. Did Joe Biden really say he was running for the Senate?"
-    publishedDateTime: 2020-10-14T01:28:00Z
-    webUrl: "https://www.bbc.com/news/av/election-us-2020-54531569"
+  - title: "New poll shows Joe Biden ahead in Michigan"
+    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-12T18:55:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08v5qvf.jpg"
-        width: 400
-        height: 225
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facebook And Twitter Limit Sharing New York Post Story About Joe Biden"
     excerpt: "The social media companies said they wanted to slow the spread of possibly false information. But their actions drew charges of censorship from President Trump's allies."

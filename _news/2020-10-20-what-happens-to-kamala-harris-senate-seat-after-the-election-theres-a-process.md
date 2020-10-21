@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "How Kamala Harris highlights what women in politics face"
+    excerpt: "With Senator Kamala Harris as a historic vice-presidential running mate, it's impossible to avoid the topic of gender this election cycle - but are the rules of the race really different for women? Here's how her nomination highlights the issues women in politics have faced for decades - and how things are changing - with analysis from Debbie Walsh,"
+    publishedDateTime: 2020-10-21T13:26:00Z
+    webUrl: "https://www.bbc.com/news/amp/election-us-2020-54574584"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54574584"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54574584"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AC45/production/_115010144_gettyimages-1228948146.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
     excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
     publishedDateTime: 2020-10-17T02:33:00Z
@@ -284,20 +300,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
-  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
-    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
-    publishedDateTime: 2020-10-16T11:49:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 94
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
   - title: "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video"
     excerpt: "Coney Barrett faces second day of Senate judiciary committee"
     publishedDateTime: 2020-10-15T01:30:00Z
@@ -335,22 +337,6 @@ related:
       name: Time
       domain: time.com
     quality: 83
-  - title: "Kamala Harris blasts Senate GOP for ignoring coronavirus safety, relief"
-    excerpt: "Sen. Kamala Harris blasted Senate Republicans Monday for holding a confirmation hearing for Supreme Court nominee Amy Coney Barrett, saying they are ignoring the safety issues related to COVID-19."
-    publishedDateTime: 2020-10-12T19:06:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/11/supreme_court_barrett_senators_to_watch_21307_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Trump boasts Amy Coney Barrett was ‘toying’ with ‘evil’ Democrats"
     excerpt: "President Donald Trump is bragging that his nominee for the U.S. Supreme Court, the supposedly non-partisan and non-political branch of government, was “toying” with the Democratic U.S. Senators on the Judiciary Committee this week."
     publishedDateTime: 2020-10-15T23:20:00Z
@@ -494,22 +480,6 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
-    excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
-    publishedDateTime: 2020-10-16T08:07:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    type: article
-    provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 62
-    images:
-      - url: "https://media.wcnc.com/assets/WCNC/images/648fddce-80bd-4ba4-b4a3-0a14d91c24b8/648fddce-80bd-4ba4-b4a3-0a14d91c24b8_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket?"
     excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."

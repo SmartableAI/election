@@ -3,18 +3,18 @@ category: news
 title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
 excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
 publishedDateTime: 2020-10-20T12:00:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+originalUrl: "https://www.miamiherald.com/news/politics-government/election/article246502245.html"
+webUrl: "https://www.miamiherald.com/news/politics-government/election/article246502245.html"
+ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246502245.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246502245.html"
 type: article
 quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
@@ -7692,6 +7692,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "n8JMarA2qTvRbm+8vt85R0JFYXhG24rOnbdNC4mmIs8tpUdgiDicGZS7hUCV0cSPa4mQn94yYyodErmM0tq9BeJG7yYBet+V5UPaCG/XmWc498R4r4TKwqpyvfit5mbLvlEPxjSyRVmSf9uKUTJOUHF6c1Zf6Uavm3HevZhUEuheTCKV7Uk/3cNbOkjQgTOJDOUihw8kiTaSageB0nUZKNrxOq15pQANOqqG+0HtS5lkz2o8sBIb50ciJ49cOZEVsiruf71r2jCPD4i2ynrc6580mEVJw+OrYRUOQyzn9oiLxSFIrYq49lF24qfen6HGeVSVbQDcoESKuBGsuS4sdPNJOcNKjgVej4mlI6MfAcM=;Ts/SsYqnkVlJQf3NivP+Gw=="
+secured: "jBMLDOGJ9cbb5pZQLGE6F7vJ+5itQFubi4RZbjbv2qSZxY+D+RxBbTxpzqrB5nUWBPVAllmk+9SkfMkvzEufv0NJ1m21D+FtOc3ebAgTPqpFbUtxt6c/N+pEGyLvxErSPJYHymZtCgWMvGzBqrFdCS5vyZv4UzHsliohUWVSfQsFuOsSWetEmwyJUldsuoHsq9D9K7Zb6Dhg17xJQky6tWbEzUm4xqLzfs9kSP7bI/N2PA/zM1Mai16FvCTw2wg8UhNpCntJLMo9M7MUNH2DKZE9XgP3Q8v1wD7J+xxhvK/6QeekgPY9E+IjGbkL6BziUMBFw2F+9brFWM/mgFIc52WhdiqMHaySu/V+YTUufIU=;jg+/o8Te4xwoEmHeCi4BgQ=="
 ---
 

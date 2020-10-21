@@ -43,22 +43,6 @@ related:
         width: 812
         height: 545
         isCached: true
-  - title: "Why Trump's illness probably won't persuade anti-maskers to take the coronavirus seriously"
-    excerpt: "Data show more people may wear masks after Trump's coronavirus diagnosis, but some will be anti-mask regardless of evidence. Psychologists explain why"
-    publishedDateTime: 2020-10-11T09:16:00Z
-    webUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/5f7c9266282c500018c78d96?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Anti-Trump Ad Compares US Political Climate To 1930s Germany That Saw Rise Of Hitler, Nazis"
     excerpt: "The ad was released by the Jewish Democratic Council of America, which describes itself as a progressive Jewish group The ad juxtaposes images of 1930s Germany with Trump campaign rallies A recent report said Trump made anti-Semitic remarks after talking with Jewish lawmakers A progressive Jewish group on Tuesday released a 30-second campaign ad that compares the current climate in the United States to 1930s Germany,"
     publishedDateTime: 2020-09-29T20:20:00Z

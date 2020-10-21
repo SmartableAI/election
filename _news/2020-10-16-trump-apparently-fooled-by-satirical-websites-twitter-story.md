@@ -288,6 +288,22 @@ related:
         width: 4834
         height: 3221
         isCached: true
+  - title: "Donald Trump’s Strongman Act, and Its Limits"
+    excerpt: "The president walks a thin line between authoritarianism and show business. But the theater of politics only works when you don’t acknowledge it’s theater."
+    publishedDateTime: 2020-10-21T09:00:00Z
+    webUrl: "https://www.nytimes.com/2020/10/21/magazine/donald-trumps-strongman-act-and-its-limits.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/21/magazine/donald-trumps-strongman-act-and-its-limits.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/magazine/donald-trumps-strongman-act-and-its-limits.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/25/magazine/25mag-screenland/25mag-screenland-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump Records Shed New Light on Chinese Business Pursuits"
     excerpt: "As he raises questions about his opponent’s standing with China, President Trump’s taxes reveal details about his own activities there, including a previously unknown bank account."
     publishedDateTime: 2020-10-21T10:29:00Z

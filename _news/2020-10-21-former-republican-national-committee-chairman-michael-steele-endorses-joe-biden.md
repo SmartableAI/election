@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/"
 type: article
 quality: 121
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Joe Biden Remarks in Michigan on Health Care"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
-    publishedDateTime: 2020-10-19T06:17:00Z
-    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "g8BOqSXYKJ5U2jexKmMgazkHMGsI47jkck+TpYAVNd/6zvVHQ8cZ5EtIld5uXNs44pFrPyXlsRUcAWH4CLGZjNUXZZgMr5YPMLXE+kmtf46IiNaLSVEwt36W+rRyD0xf834V2x5j9eo600zt1h6a6IVnBKQtsVb9GOl5vXrXl611R32dqgYNq7RjY6gRFrc+O3A7N/a3H24icvVo86lsbhFvLvOVh3BELniRYWzQTwwoZj2XkKVepd4DlsCvUiPmsecDwwEPJ/DE2OFRA3QE5Yhx4n0+a5CPABSik1+mA8sQP5QorRTmIiumtIMv0jKm4KNMtNiNpeHob9SeAeuRzc2c9IEH1vpE7vSEIlo17tZf5nZZNIrrqRC5lTLsAVJs3RGliIIyxsh/FWaYoRhMuGygy3ThjvcMfwGrlyy0BUml6MtHmTk0Xiy0F6gU0siiM1UEyeuEmt9AqHh2Diyz5/WhJzmtOJOntqKZnMqS1dvVeoEM4Qh2JVR6Q+q/gcFLHgajj+EOnI9/d3gE+WujAg==;jYssGFE0vYGrjlZVjfsCVQ=="
 ---

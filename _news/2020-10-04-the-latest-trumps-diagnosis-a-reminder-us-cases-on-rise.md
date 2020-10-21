@@ -183,22 +183,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "WATCH: President Trump, Wearing Mask, Leaves Walter Reed With a Thumbs-Up and a Fist Pump"
-    excerpt: "President Donald Trump left Walter Reed Monday, three days after being checked in to be treated for the coronavirus."
-    publishedDateTime: 2020-10-05T22:54:00Z
-    webUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/"
-    ampWebUrl: "https://www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/watch-president-trump-wearing-mask-leaves-walter-reed-with-a-thumbs-up-and-a-fist-pump/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 66
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Erin-Burnett-OutFront-07_07_02-PM-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "VbVh7+Jlwraw8+hEC1r8PE9D86C9Dtv5TyLGioKX62XYbi8goHSWSWrN4f1YqUgz1fVejElAA68iGRc+C7DbpHZVsEL5nrAp5iQRdyvowkq6VtEEkgpMSRUgOEl0qvwlqjjUIcjJ138/Wmkg6jwI0mEojkuSfi6SPiW4zKsEJyEvJt6+auR8G5nokNhg0y9hkNHGzlntgQy+r3gjO6Ap2FBU4dpVTMx4EwwYJlfvraQQfuSeZyDow0YXTrofUNaeD1aH4cMyJVt/0nVAOc48qJif+6fsI1o9EGNAXmjAasPqkvsdp94w2tRn3pZrJFlBgYkWpPWwL/aVS4Q6C45lDQclAD1H2n/S/TM43xGtrfWIxrtWqkL0PP0tSLWKaT/G63a8ut65fPRHHm/u/LHFzst2rbCoThXnu6YNinJ5QjZOxktlim/ubEXvqK9qDo8gvV8LyhGtCVl+hN3GOfNnyosZ8Sqo1H4kwsGJ3Mf68PJ+tHA4zEXS2BkoOVICRpOwtHNpbgvJiagcChkPCOzkJA==;1vfn+dM5Q3QAPIf0NW3NdA=="
 ---

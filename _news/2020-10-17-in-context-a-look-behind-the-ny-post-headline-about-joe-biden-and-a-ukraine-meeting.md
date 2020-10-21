@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 797
         isCached: true
+  - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
+    excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
+    publishedDateTime: 2020-10-16T01:14:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q2_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
     excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
     publishedDateTime: 2020-10-15T10:14:00Z
@@ -91,22 +107,17 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
-    excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
-    publishedDateTime: 2020-10-15T17:16:00Z
-    webUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463"
-    ampWebUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
+  - title: "Impatient Democrats want Biden to do more in Texas"
+    excerpt: "The whispers about Texas are picking up again."
+    publishedDateTime: 2020-10-16T19:22:00Z
+    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 108
-    images:
-      - url: "https://d.newsweek.com/en/full/1653127/hunter-biden.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
     excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
     publishedDateTime: 2020-10-17T10:07:00Z
@@ -122,6 +133,22 @@ related:
       - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
         width: 1200
         height: 799
+        isCached: true
+  - title: "Joe Biden could return to Irish roots as US president"
+    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
+    publishedDateTime: 2020-10-18T03:19:00Z
+    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 75
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "CAL THOMAS: Can Joe Biden be trusted?"
     excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
@@ -139,21 +166,21 @@ related:
         width: 900
         height: 1217
         isCached: true
-  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
-    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
-    publishedDateTime: 2020-10-15T11:07:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
+  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
+    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
+    publishedDateTime: 2020-10-16T15:23:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: Cleveland.com
+      domain: cleveland.com
     quality: 73
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
-        width: 1024
-        height: 576
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
+        width: 5220
+        height: 2715
         isCached: true
 
 secured: "vcTKTXyRk7iQjt/oDFVgquiTl66J67stM4HSmBnoY1lIObja91RxgtkJ5b6IdW/tauj/OxWjEQR30KkRYFBE5DH3LdGg790+WMPf7U2Y8B3EUmEy6r7Gxoxo0oFIEqA8rCwrpEd0J8xaH/qfZ56oHXweU4f5BM008RmolYcch8ylkIf1+SYx8pBfbgIIOeeKj0Yu68Rwm8hAbkNzEDnMZDJcjYi4eITw5//etJKa8gvOmB4gK1lMrbpft/9a/FlNK9UD/hi3XBOSECjJQ4oF7Zr8fiEahRP0059/cyL45Ytoo7q93JGVh0kmcTaC7oigatyKgCuHLI6pHTB3FiOPUrr8+VjAX3rWm12CSSReDhPYlMB1TxIOmcUjY3IXO3Uum5Q0XyvOFj5zTQVbBeoHQqgHlQSPWKeKbwFwDVBL1+AJFNqmbOI22vWy4WT2qwx4mPqyj0XkXN3nO9V8GN3egAg4aneBvUQl4PY9IxOaPtg6JfABhLn7gp4WbVVnaAILvP5cF+8xjD0y2JlVY9g21w==;cO5vISP295OHSxg9eDntXA=="

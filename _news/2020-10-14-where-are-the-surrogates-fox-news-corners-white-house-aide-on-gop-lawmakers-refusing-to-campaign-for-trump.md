@@ -31,31 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "Conservative group head: Trump loss would not vindicate 'the old GOP formula'"
-    excerpt: "Oren Cass, executive director of the conservative think tank American Compass, said Thursday that if President Trump loses his reelection bid, the Republican Party’s takeaway should not be that “the o"
-    publishedDateTime: 2020-10-15T19:24:00Z
-    webUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula"
-    ampWebUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
     images:
-      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
-        width: 797
-        height: 551
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
         isCached: true
-  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
-    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
-    publishedDateTime: 2020-10-15T18:30:00Z
-    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
+  - title: "As hundreds gather for Women's March to protest Trump and Barrett's nomination, dozens expected to rally in support"
+    excerpt: "Thousands were expected to march Saturday to protest Amy Coney Barrett's nomination to the Supreme Court and galvanize voters ahead of Election Day."
+    publishedDateTime: 2020-10-17T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3693810001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693810001"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/9e6406db-0225-4915-8768-061a85d9b01d-002_AP_Womens_March_Washington-2.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "TGU9I/2RVNJE1NFzKdzC5kH/wQKnun0oP/VthwuEv+9X7mtkPUku6LZ8X4Gm2/3ftdbtKhASjWjpCD0SzzWbia4iLDgxw5QoTTcGHx0nzIE+GPTGOcf3DPgC2g/0suYVtCePru1E6VGrNlUcMcEua+fRyjy7Et/PHBjk5fAxVEl8BedweGfAbiY425pfo5r2xw/yYETmgB5c6Oj2haXXOjAU4nX15K3DiT/QaMU39HCnI5euC+Ybc0ZIHJo1CJOD7Fu/bBJCh/93yUTczaM4I16EiHySgwhWROri7crqYuc45EqLJvjuUYIJS9VYxM2ujrp2Mazj0JIjWwjLjHUuQVvc9wU1/8mkufrGPnFKWUA=;k2oYdPlUjOynqgH7fVQmdQ=="
 ---

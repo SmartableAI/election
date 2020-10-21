@@ -141,6 +141,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Former President Obama Campaigns in Philadelphia for Joe Biden"
+    excerpt: "President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden. Former President Obama campaigns in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-20T18:26:00Z
+    webUrl: "https://www.c-span.org/video/?477092-1/president-obama-campaigns-philadelphia-joe-biden"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "SutyPVbW4Z1omA96bcs/xcQ5xZTt9bx5FwYGxeCcwTGKz9ORiDucj+Qzu16wd8lsVxM6xOGRqSMAEKVSGApjjcWkHQiyVeFe8fKkQjVX/dqYrKbaLV6vaO8/z/3poBITRkm0A9FVKROq2ZYWtTijNJ/fcq04Ewr+NL/5e+VhtnZddRCu5wfWiJke4ITYj0bXremyC7OrD0gmDsXNL7uJGHwyRe3uUg0L/UHj5TdDdrRR+Yo2mTrfbNxceULZU3I3NXKJU+f0iunp+NIUC1dHha8AEy00XFqxvju84SVSZchRkuzns5PsdUAlbTgZ5KR24HKOkSrtY8lXWnavQxe/STGaE/OhP7P6+Zlnj/QEw0//mugWdadm/uk4hPjzeM3Ptquj/p0xxlJhY2+UxzlunfkcrTaEtJoLwMAbcPek+b+Q1Oh0tmfga67dbx5I+cGSykkxhgFPJLchS5WIyHi6z39vEe9sGG57AbsjObHKKAdd8rwxvShAGJWGkRVRhN2vn3Gmb1cCoDp73XKZRTQABA==;omsmZhi4+UOxBwXhCVjhBg=="
 ---

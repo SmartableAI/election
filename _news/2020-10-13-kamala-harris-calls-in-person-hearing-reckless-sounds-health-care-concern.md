@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden enters final stretch with large cash advantage over Trump"
+    excerpt: "Democratic presidential nominee Joe Biden had nearly three times as much cash in his campaign coffers than President Trump at the start of this month, according to the latest fundraising filings from both major party nominees."
+    publishedDateTime: 2020-10-21T14:36:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2Lv0xCOy6JQ/biden-cash-advantage-over-trump-presidential-election"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cash-advantage-over-trump-presidential-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cash-advantage-over-trump-presidential-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20295013465553.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
     excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."
     publishedDateTime: 2020-10-12T23:21:13Z

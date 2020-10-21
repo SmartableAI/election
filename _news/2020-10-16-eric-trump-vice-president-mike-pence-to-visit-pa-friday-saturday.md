@@ -27,110 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+  - title: "Saturday Night Live: Jim Carrey, Mike Pence and a very pesky fly"
+    excerpt: "Low-energy sketch skewers vice-presidential debate and comic Bill Burr hosts for the first time"
+    publishedDateTime: 2020-10-11T15:51:00Z
+    webUrl: "https://www.theguardian.com/tv-and-radio/2020/oct/11/saturday-night-live-jim-carrey-mike-pence-pesky-fly"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump hosts White House event, Delta threatens Louisiana, NBA Finals: 5 things to know this weekend"
-    excerpt: "Trump plans White House event amid coronavirus questions, Delta threatens Louisiana, NBA Finals Game 6 and more things to start your weekend."
-    publishedDateTime: 2020-10-10T08:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/10/trump-white-house-coronavirus-delta-nba-finals-lakers-heat/3592092001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592092001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592092001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/USAT/687fdb68-1f73-456a-8a89-73c4208ff441-12345.jpg?auto=webp&crop=2160,1215,x226,y22&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump: Barron 'free' of coronavirus"
-    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
-    publishedDateTime: 2020-10-15T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://i.guim.co.uk/img/media/4b91b1911c3a57a16fabcf48c5c1a68186077354/0_100_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab91fc335b64e343b497ddd0d450cacc"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
-    excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
-    publishedDateTime: 2020-10-12T02:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
+  - title: "Jim Carrey returned to 'SNL' to absolutely nail the role of the fly on Mike Pence's head"
+    excerpt: "That's when Jim Carrey appeared as Joe Biden, who comes up with a scheme to sabotage Pence that involves teleportation. No spoilers, but the veteran comedian at one point plays an elderly presidential candidate and 1980s Jeff Goldblum and a fly,"
+    publishedDateTime: 2020-10-11T13:48:00Z
+    webUrl: "https://mashable.com/video/snl-jim-carrey-debate-fly-maya-rudolph-kamala-harris/"
+    ampWebUrl: "https://mashable.com/video/snl-jim-carrey-debate-fly-maya-rudolph-kamala-harris.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/snl-jim-carrey-debate-fly-maya-rudolph-kamala-harris.amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
+      name: Mashable
+      domain: mashable.com
+    quality: 66
     images:
-      - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://mondrian.mashable.com/2020%252F10%252F11%252Fd6%252Fb7e3e060eb6c4ebfb25046cce24636db.53424.png%252F1200x630.png?signature=9P-G81GvVzhCukasPC8Cf2i2Npw="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump said in March that he didn't have 'a lot of time' to meet Fauci as the coronavirus spread across the US, according to a new recording"
-    excerpt: "Trump made the comment during a March 19 interview with the journalist Bob Woodward. CNN published a segment of interview audio on Monday."
-    publishedDateTime: 2020-10-06T09:55:00Z
-    webUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-too-busy-fauci-coronavirus-spread-bob-woodward-recording-2020-10?amp"
+  - title: "VIDEO: SATURDAY NIGHT LIVE Tackles the Vice Presidential Debate, and the Fly on Mike Pence's Head"
+    excerpt: "Live returned last night for a new hilarious episode. Last night's Cold Open tackled the vice presidential debate between Mike Pence and Kamala Harris. In the sketch, Susan Page (Kate McKinnon) moderates a debate between Senator Harris (Maya Rudolph) and Vice President Pence (Beck Bennett),"
+    publishedDateTime: 2020-10-11T13:18:00Z
+    webUrl: "https://www.broadwayworld.com/bwwtv/article/VIDEO-SATURDAY-NIGHT-LIVE-Tackles-the-Vice-Presidential-Debate-and-the-Fly-on-Mike-Pences-Head-20201011"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
+      name: BroadwayWorld
+      domain: broadwayworld.com
+    quality: 42
     images:
-      - url: "https://i.insider.com/5f7c319c94fce90018f7b416?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
-    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
-    publishedDateTime: 2020-10-15T12:32:00Z
-    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
-    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
-        width: 1024
-        height: 682
+      - url: "https://cloudimages.broadwayworld.com/columnpiccloud/1250-275a6e21d6837a7509534c07cd00f328.jpg"
+        width: 1250
+        height: 625
         isCached: true
 
 secured: "vZAVlY6B9lqtyH5gCgQuNNKxw+Hx81jpwJaW8qnqFRqjxFfVFe8IKGYKZ+YPRI19a5PycVgc6bMcmV+9/44h0ktDbaOzBl+bNmGSp163W23q/pkxHjQcGCdP+2M6O9osSKQr2lWyCZ5fohC+I5jZHljzngcINEi/qk2DNd4Ys3dIElMc1Z9+ocqtFAYw0MnkJH0p88FSwetPG/0J3U3e2yUhJqI8sJoGy4ViPe8WDFBwzR1H0pT/80Jpf4C5pVqJkSuxewcIYHX3DKE0tYUxeVCHsHHoTwFO17lrtMGmLvJ43AMAscQ8k2iHatPXbATttNtNDRbNxnETUg86RE4+32gY1wG8MU7xmnhOJEGxLa8LUUC02nciHhwl5njnBUUiBKMbMZDZO7hpjRteVzp2bmhIkUMorvRfGW9Nf8qTn3SHXrLNYDau3X80NXfE400BUImh6FgyXsnwpmVnT5dkm2hkFfT8hU92r1fwFtdmZXsh/VoSYHhheO91Xu3O6hS7HAz8Lxt4Rd1gyfvXMHMrAg==;3P1RvO9zxSbk6EP/wpuZnw=="
