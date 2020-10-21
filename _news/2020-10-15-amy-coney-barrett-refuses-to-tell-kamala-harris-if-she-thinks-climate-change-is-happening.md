@@ -490,6 +490,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
+    excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
+    publishedDateTime: 2020-10-21T20:49:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 74
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/1e75b5e3-b357-4b02-8c76-a940b6dc3e9c/8a3b25d6-86ec-4b3d-b6ba-d26038094981/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WATCH: Vice President nominee Kamala Harris speaks at Orlando 'drive-in rally'"
     excerpt: "Democratic vice presidential nominee Kamala Harris will be encouraging early voting during campaign stops in Orlando and Jacksonville."
     publishedDateTime: 2020-10-20T14:18:00Z

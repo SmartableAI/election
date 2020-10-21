@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Sued Over Alleged Voter Intimidation By Rights Group"
+    excerpt: "President Donald Trump is being sued by a voting rights group who claim that his statements around the legitimacy of the 2020 presidential election and his lack of commitment to a peaceful transfer of power amount to voter intimidation,"
+    publishedDateTime: 2020-10-21T21:11:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/21/trump-sued-over-alleged-voter-intimidation-by-rights-group/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/21/trump-sued-over-alleged-voter-intimidation-by-rights-group/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/21/trump-sued-over-alleged-voter-intimidation-by-rights-group/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a16aa8514995245bf026%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D94%26cropY2%3D3226"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
     excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
     publishedDateTime: 2020-10-14T12:39:00Z

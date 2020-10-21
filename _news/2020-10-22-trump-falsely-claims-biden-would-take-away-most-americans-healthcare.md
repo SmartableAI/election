@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Column: Will Joe Biden end the wars Donald Trump hasn’t?"
+    excerpt: "He said our endless wars would end. He pledged to make our allies bear their full share of defense costs. He raised the possibility of a firm restraint in dealing with the rest of the world. Like most of Trump’s promises,"
+    publishedDateTime: 2020-10-21T20:58:00Z
+    webUrl: "https://www.chicagotribune.com/columns/steve-chapman/ct-column-biden-afghanistan-iraq-trump-chapman-20201021-7mv7uip44zenpbpyrtstu2dnnu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/columns/steve-chapman/ct-column-biden-afghanistan-iraq-trump-chapman-20201021-7mv7uip44zenpbpyrtstu2dnnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/steve-chapman/ct-column-biden-afghanistan-iraq-trump-chapman-20201021-7mv7uip44zenpbpyrtstu2dnnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/E8J0H-C7dJEujDCXkkvQhWaHGL0=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/37BSU75SX5CXHBTZXEUJPIPIMQ.JPG"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump has 87% chance of winning the election, stock market researcher says"
     excerpt: "History suggests the rise of the stock market in the past three years bodes well for the president's reelection chances."
     publishedDateTime: 2020-10-20T17:02:00Z

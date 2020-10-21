@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-17-its-on-north-carolina-vice-president-pence-greets-supporters-in-selma.md",
+      "title": "'It's on, North Carolina': Vice President Pence greets supporters in Selma",
+      "excerpt": "Vice President Mike Pence traveled to Selma on Friday for a \"Make America Great Again\" event at The Farm at 95. Supporters were lined up well before the 2:30 p.m. event. \"I'm here for one reason and one reason only,",
+      "sourceUrl": null,
+      "webUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "originalUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7084491_101620-wtvd-Gloria-5pm-Pence-in-Selma-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "cdnAmpWebUrl": "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-in-nc-selma/7078972/",
+      "publishedDateTime": "2020-10-16T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVD",
+        "domain": "abc11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-opponent-of-pences-brother-alleges-racist-threats-gunfire.md",
+      "title": "Opponent of Pence's brother alleges racist threats, gunfire",
+      "excerpt": "A Black woman running for Congress in Indiana against Vice President Mike Pence's brother says she has received numerous racist and threatening messages and thinks she heard gunfire before a campaign",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_dd8ad0e12c23463da4021f5640723e72_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/opponent-pences-brother-alleges-racist-threats-gunfire-73660929",
+      "publishedDateTime": "2020-10-16T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence.md",
+      "title": "EXCLUSIVE: NBC2 speaks one-on-one with Vice President Mike Pence",
+      "excerpt": "All eyes are on Florida Thursday as President Donald Trump visits Miami for town hall meeting to be broadcast on NBC. Vice President Mike Pence held a rally Thursday in Miami befo",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
+      "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2020/10/pence.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/",
+      "publishedDateTime": "2020-10-16T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-fact-check-fake-quote-says-biden-wants-to-lock-down-us.md",
       "title": "Fact check: Fake quote says Biden wants to 'lock down' US",
       "excerpt": "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?",
@@ -10,7 +148,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -269,7 +407,7 @@
       "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-administration-denies-california-relief-fires-73657293",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -1171,161 +1309,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
-      "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
-      "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
-      "publishedDateTime": "2020-10-15T18:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
-      "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
-      "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
-      "publishedDateTime": "2020-10-15T18:07:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-pence-touts-anti-socialism-in-miami-campaign-stop.md",
-      "title": "Pence touts anti-socialism in Miami campaign stop",
-      "excerpt": "Vice President Mike Pence traveled to Florida on Thursday to rally Hispanic voters by highlighting President Donald Trump's record opposing socialist leaders across Latin America. (Oct. 15)",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
-      "originalUrl": "https://www.jsonline.com/videos/news/nation/2020/10/15/pence-touts-anti-socialism-miami-campaign-stop/3671610001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/91dffbe1-e4dc-4656-8571-0b21820a99e0_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

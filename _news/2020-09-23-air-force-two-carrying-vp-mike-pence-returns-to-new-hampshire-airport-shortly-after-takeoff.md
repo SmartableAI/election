@@ -399,6 +399,17 @@ related:
       name: CBS Boston
       domain: cbslocal.com
     quality: 55
+  - title: "Pence drops by New Hampshire to read teleprompter"
+    excerpt: "The vice president will never be accused of being a great orator, or terribly inspiring on the stump. And he didn’t exceed expectations Wednesday. Even when he adopts a folksy tone à la George W. Bush,"
+    publishedDateTime: 2020-10-21T21:46:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/21/nation/pence-drops-by-new-hampshire-read-teleprompter/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/21/nation/pence-drops-by-new-hampshire-read-teleprompter/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/21/nation/pence-drops-by-new-hampshire-read-teleprompter/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 55
   - title: "Air Force Two carrying Mike Pence forced to make emergency landing after suspected bird strike at New Hampshire airport"
     excerpt: "AIR Force Two, which was carrying Mike Pence, had to make an emergency landing after running into a possible bird strike. The plane was forced to return to Manchester-Boston Regional Airport right after take off due to what is believed to be a bird strike."
     publishedDateTime: 2020-09-22T23:53:00Z

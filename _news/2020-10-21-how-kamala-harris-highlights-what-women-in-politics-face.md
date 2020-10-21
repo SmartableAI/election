@@ -491,6 +491,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
+    excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
+    publishedDateTime: 2020-10-21T20:49:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 74
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/1e75b5e3-b357-4b02-8c76-a940b6dc3e9c/8a3b25d6-86ec-4b3d-b6ba-d26038094981/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WATCH: Vice President nominee Kamala Harris speaks at Orlando 'drive-in rally'"
     excerpt: "Democratic vice presidential nominee Kamala Harris will be encouraging early voting during campaign stops in Orlando and Jacksonville."
     publishedDateTime: 2020-10-20T14:18:00Z
@@ -751,6 +767,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "fBjjxAa/smKtmLYiXFO2S0tK4dDH2httTgTOmlxNndl0ALNpJRErsAqKgJsyzqFp4Yj5zTsBfrSBe5ZeN/MhpZdheJpI60PxcaPuuZoMe/zAToDv1X4v3edKjBhpy5HaxpzXPuW1iiOoV5siHlq6BwsrvKxim/VTJQpvi8BFUj1CCmKucgOYWPjQbcm9qWhqDIvTYjKEfEvSf+jLnsOCiatMZslS9djYMCD4pUbTUuZHFaqiIEUzxDqmfNle0B73akQpOeY6iJFlxYE1YuEwo8v83aWPFc/mjmoUISnucSidGnWoGv2ujziR/YO7vOHuKuRixXLnn3uCKLxaPjwy8bAjFqqH9GZyJqok9ifvohk=;vWCtA4cOeZpJNBdVELNd9Q=="
+secured: "U5IVOQwRH0ZfHPZwrM4AWv53+oU98/BmSkLxrYyfKz2jlh6sL26PNbNO1sShtZYs+qosdJjQCNy+TFK+GhqcEiV7gnCiCXq2ZyKAlY5gFQW9cF8nV3TykrpVIFf0mR+LX5dFqWvt4xQUjwsF2pgM6puZZWQZj11Ptxd4QiAzMhgQGBy3bK0GxGfBSQoz52WtQpYNBy4RxD+++jT9wb+Ll7wKdpVg5zNT+40PuqxbibN8j6rnM3CZt4cZrPHyX8Sz7PtaH5e9xGy3VoECZFTs3UAxKFc8sMS3y6NfeKZngopoZGC1dukQuOu2nMRKzlTK61o3Y5WfxVIRhwymxoKLlW4pbkMY4TEtG+vgVZt7+Cq4kGY0cakGpmjouJs7NGcov4MgfLE8U7RFMc7AhxBWR7rKsbBfWPn1PjDXtba9+Y14wx08BO+o2Mbi+LlNrB7SPStfI4kWaX1Rv5qaIFpExy8rFrFpv/8yLP30xNoWaAYMjNP5joxjqA6An6Ws8/Np5JFvTv06hvf5xYSFTPcJFQ==;AE9kiLUbj+UJ/Q3m41N2lw=="
 ---
 

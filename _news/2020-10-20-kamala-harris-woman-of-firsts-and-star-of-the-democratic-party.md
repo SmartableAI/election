@@ -138,6 +138,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump takes aim at familiar target: Obama"
+    excerpt: "Hours before former President Barack Obama headlined his first in-person rally for Democratic presidential nominee Joe Biden, President Trump’s re-election campaign took aim at both Obama and Biden."
+    publishedDateTime: 2020-10-21T20:38:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UCts-RsTNy0/trump-takes-aim-at-an-old-and-familiar-target-obama"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-takes-aim-at-an-old-and-familiar-target-obama.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-aim-at-an-old-and-familiar-target-obama.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d9c8eb4-85dd-456e-93e6-f7e90207a826/48b8e16c-a1dd-4ef8-8eed-517736fdd999/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
     excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."
     publishedDateTime: 2020-10-19T13:25:29Z

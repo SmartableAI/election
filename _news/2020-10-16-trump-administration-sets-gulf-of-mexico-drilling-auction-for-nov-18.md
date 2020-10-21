@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "For the final debate, forget the 'Trump curve.' Grade the president on facts and truth."
+    excerpt: "It doesn't matter if Trump interrupts less. If he lies, undermines public health or destabilizes our election, his grade should be unfit for office."
+    publishedDateTime: 2020-10-21T21:21:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/21/trump-biden-debate-curve-grade-on-truth-facts-fitness-column/5991855002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991855002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991855002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/ce9bad06-224d-4cde-889b-6541e32030b5-GTY_1281118864.jpg?auto=webp&crop=5055,2843,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Government agency will investigate Trump administration political influence over FDA, CDC"
     excerpt: "Both agencies have been caught in political crossfire since the start of the pandemic, as preventative health measures became politicized."
     publishedDateTime: 2020-10-19T20:53:00Z

@@ -1,20 +1,24 @@
 ---
 category: news
 title: "The Media Officially Becomes the Communications Department for Joe Biden"
-excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
-publishedDateTime: 2020-10-21T09:09:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
-webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was"
+publishedDateTime: 2020-10-21T04:01:00Z
+originalUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475"
+webUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475"
+ampWebUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
+cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Townhall
+  domain: townhall.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://media.townhall.com/townhall/reu/ha/2020/274/b8408f0f-20a7-49c2-a381-0a3dece0c9ab.jpg"
+    width: 650
+    height: 340
     isCached: true
 
 related:
@@ -678,6 +682,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Doug Schoen: Biden's ahead in polls — but so was Hillary Clinton. Can Trump still win?"
+    excerpt: "Yet, for many Americans, Biden’s current position feels reminiscent of the two weeks before the 2016 election, when Hillary Clinton held a similar lead. At this point in 2016, FiveThirtyEight’s election model gave Hillary Clinton an 86% chance of winning."
+    publishedDateTime: 2020-10-21T21:01:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/doug-schoen.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
     excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"
     publishedDateTime: 2020-10-19T15:53:00Z
@@ -835,6 +855,6 @@ related:
         height: 500
         isCached: true
 
-secured: "z5TxfO6MC1pqIU4Wa4wYprLaH4zgxwOwk3H4z4F6BI6Qvn/a9cTvODCWw2/v/VbBNHKyH1Y1OsvnD4OKfS2gcds+NKzwW0m91IT7AVAV2f6nHkQiJeMgkTwaw0WObo3XQz3cy1svWuW0AdZQO9ACULZOFb5UhvQqTNkotHuX/x0wB2MVjVs+W1vQ+WvO4OLQ1fxVWM+rwfFuplq+tsYYTf2ivvpo5AJNxreOv0feLhfNFUlCGVYA2xSFeYzB4qo8XOnIN1pCn3efKgiIGfGEjH4V+rrWqeAOdyXyk8Lzz1cMCiFjrrwAoN9wn4ZJyRshlGSduX+654Z5GTV+8Hjx+D49CFGQW5B6mzXduARjEo1dAVTfnTukj5O3S7KWwgXXk2bVlTqaJ9Hpk990VZT3FcNovC7fsWaotQp1YmYY1KeI0f8VoQ5yBa/m6ABgcVq+0PXKHgBgm3d8+XHT0wcLBP5ciReupYUZEpLK7NyaXW6FThRyj2CMhw+O4pGsKPZQYhuOIbt9opdh9dqAg+/0xw==;hguNSCRvl/hm2WEdWpMBPw=="
+secured: "KhPQoLN5uRh7W+jgmGApIyu2UZ04dGWJ7pbnCvyx507hhxbLnexerGJJPCsIHneG+r17dWsrK0HQi1tadkd8ms2ixNMUTzu0mrKoEYGYpn90TLXqOti1j1n/2cfrkjkzsMaFjR59BX5xAwVLxZSyQgmv/KeeTxF16ZhGxEJpjOlmwRH/wjt6MMNDsAGEqCmnYjmoWyBEn2MV/XuQRvEUrqHNT5V2VQgT91KeFI8U+YgAD6Yqw9iIDQ8Um/a848xnMDLPxaspQw7IcyeAr8PHgszX83ofWLLZYdu+In1CQRaI+yHiTRt5l7tFBmOtKTSv9HXBrGYPjKGVBRR+/3xRtW/XB/qtCe2lqufC9X256qY=;RQVwo/Vu94GH1xk7YDMD7A=="
 ---
 

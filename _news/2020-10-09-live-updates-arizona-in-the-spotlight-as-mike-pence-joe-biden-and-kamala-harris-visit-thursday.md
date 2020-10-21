@@ -5695,6 +5695,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Maryland man arrested after threatening to kidnap, kill Joe Biden and Kamala Harris"
+    excerpt: "A Maryland man charged with threatening to kidnap and kill Democratic presidential nominee Joe Biden and his running mate Kamala Harris has been arrested, according to published reports citing law enforcement officials."
+    publishedDateTime: 2020-10-21T20:36:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
+    ampWebUrl: "https://amp.freep.com/amp/3717293001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3717293001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/12/USAT/86e41e32-558e-4f2b-b835-7d9703b77fda-desk_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z
@@ -5826,13 +5842,13 @@ related:
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
     publishedDateTime: 2020-10-21T18:16:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
+    webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 82
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"

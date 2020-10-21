@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1219
+heat: 1239
 published: true
 
 provider:
@@ -665,6 +665,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Doug Schoen: Biden's ahead in polls — but so was Hillary Clinton. Can Trump still win?"
+    excerpt: "Yet, for many Americans, Biden’s current position feels reminiscent of the two weeks before the 2016 election, when Hillary Clinton held a similar lead. At this point in 2016, FiveThirtyEight’s election model gave Hillary Clinton an 86% chance of winning."
+    publishedDateTime: 2020-10-21T21:01:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/doug-schoen.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
     excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"
     publishedDateTime: 2020-10-19T15:53:00Z
@@ -778,20 +794,20 @@ related:
         height: 340
         isCached: true
   - title: "The Media Officially Becomes the Communications Department for Joe Biden"
-    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
-    publishedDateTime: 2020-10-21T09:09:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was"
+    publishedDateTime: 2020-10-21T04:01:00Z
+    webUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475"
+    ampWebUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
+      name: Townhall
+      domain: townhall.com
     quality: 84
     images:
-      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
-        width: 750
-        height: 500
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/b8408f0f-20a7-49c2-a381-0a3dece0c9ab.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "To All Those Biden Supporters Out There, Here's the Bill He Wants to Leave Us as President"
     excerpt: "President Joe Biden will wreck the economy. Are we talking about another depression like Trump says on the stump? Probably not, but it’s not going to be pretty.The Wall Street"

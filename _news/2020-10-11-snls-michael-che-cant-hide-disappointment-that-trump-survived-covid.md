@@ -88,6 +88,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Mitt Romney says he did not vote for Trump in the 2020 election"
+    excerpt: "Sen. Mitt Romney said Wednesday he did not vote for President Donald Trump's reelection, the latest break between the GOP's 2012 presidential nominee and the leader of his party.\n    \n"
+    publishedDateTime: 2020-10-21T20:48:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v3OFaufj_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/mitt-romney-trump-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200417144014-mitt-romney-0124-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Donald Trump's war chest has dwindled as election draws near"
     excerpt: "President Donald Trump's campaign entered October with just $63.1 million in remaining cash reserves, new filings show, underscoring his financial vulnerabilities as Election Day fast approaches.\n    \n"
     publishedDateTime: 2020-10-21T03:52:56Z
@@ -453,6 +469,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201020082430-the-point-trump-accidentally-revealed-about-taxes-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fauci and Trump spoke during the President's Covid-19 recovery"
+    excerpt: "Before President Donald Trump started trashing Dr. Anthony Fauci this week as a \"disaster,\" the two men spoke during the President's Covid-19 recovery, two administration officials tell CNN.\n    \n"
+    publishedDateTime: 2020-10-21T21:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VWiS8hVO5jw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-fauci-covid-19-recovery/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-fauci-covid-19-recovery/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

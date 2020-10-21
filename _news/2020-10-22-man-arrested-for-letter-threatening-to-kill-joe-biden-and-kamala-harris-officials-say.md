@@ -3,18 +3,18 @@ category: news
 title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
 excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
 publishedDateTime: 2020-10-21T18:16:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
-webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
+originalUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
+webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
+ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: News Tribune
+  domain: thenewstribune.com
 
 topics:
   - Election
@@ -5705,6 +5705,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Maryland man arrested after threatening to kidnap, kill Joe Biden and Kamala Harris"
+    excerpt: "A Maryland man charged with threatening to kidnap and kill Democratic presidential nominee Joe Biden and his running mate Kamala Harris has been arrested, according to published reports citing law enforcement officials."
+    publishedDateTime: 2020-10-21T20:36:00Z
+    webUrl: "https://www.freep.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
+    ampWebUrl: "https://amp.freep.com/amp/3717293001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3717293001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 84
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/12/USAT/86e41e32-558e-4f2b-b835-7d9703b77fda-desk_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Second debate with Joe Biden going virtual amid President Trump’s COVID-19 diagnosis"
     excerpt: "The second presidential debate between President Donald Trump and Democratic nominee Joe Biden will take place virtually amid the fallout from the president’s diagnosis of COVID-19."
     publishedDateTime: 2020-10-08T10:40:00Z
@@ -7724,6 +7740,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "I8L5QIAcXWLD9oi49FJItiVqFZCoWYi9me+TndxHwo4uKYx2HiJy52h4LGZHBfbz1xU+36fovdQ5F7KnlFVwzi0QJ0NQXYn09J1RvY1exKaokNASCisYEHnjcijJh5QZ8SfI8T6TkOL1Og303YvEbqxUY8tMaR6028foPG5dRjxEQpfsJqo0jKfG9kfm5bdy/Vhv9UzG6363cBL9LDJZyHIupWuhd64zIqo2d6paloFoycQqtv1sRGx0Sz5/Sf2HUFjn985MpRNX9XEP01eO3/nUJ9Qp/BZ2bl+PEyvEx+jPsQjhp5scIYl8RTB1Y7BB/4O+Cvi8jMghT9vmhr4UR81HFYqsP8aNNhuRAZa4+nI=;F7hFjZYOw5s9T3OS+nj1vQ=="
+secured: "cb/XwdFMGNpnVZR0MjAf7fhyKBU6puN781z8LEDiesa52R0G21KkguAG35GYAkj+GgRB354VsOu4pPT4xrAz1uSs/37LePMi8WV5mW7XTNZfUcfOFPKj46E87lS6K7rn6zPyv3quzsjYZne9RyD3tHHnYC1uxrPpVOA5YmLFWJL83/hQM/9GOH1ilr91/xFnrlWjqMCUfzv6khoppJqcS6g5fAxpFHpbfSNeqvQDLVCIpOvimeorLnrpdQCD5BnGxh5/THjaSz4W/rU7AVmJbH96ZdZxDA9KHdIm9FySW1qxcRbJKBDo6OgRMXqktgJvam1J1EjHag5PBodDwTYKukdeHB894eVyzd205RERuAY=;+h3ogkLPCzAoZBxoHOqrZg=="
 ---
 

@@ -503,6 +503,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
+    excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
+    publishedDateTime: 2020-10-21T20:49:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246576558.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 74
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/1e75b5e3-b357-4b02-8c76-a940b6dc3e9c/8a3b25d6-86ec-4b3d-b6ba-d26038094981/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris to make two stops in North Carolina Wednesday | Charlotte Observer"
     excerpt: "Kamala Harris will visit North Carolina on Wednesday, almost a week after canceling a visit due to COVID-19 cases among a staffer and flight crew member. A brief statement released by the Joe Biden presidential campaign Monday said Harris plans to visit Asheville and Charlotte."
     publishedDateTime: 2020-10-19T15:41:00Z

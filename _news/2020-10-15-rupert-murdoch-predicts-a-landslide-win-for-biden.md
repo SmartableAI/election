@@ -168,6 +168,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Actor Sam Elliott narrates Biden campaign ad aired during World Series"
+    excerpt: "Actor Sam Elliott narrated an ad for Joe Biden's presidential campaign that aired on Tuesday during the first game of the World Series.\n    \n"
+    publishedDateTime: 2020-10-21T20:51:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jFQR3PzIwHg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/sam-elliott-biden-ad-world-series/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/sam-elliott-biden-ad-world-series/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190409160459-sam-elliott-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign to remove retired general's image from ad after he objects "
     excerpt: "Joe Biden's presidential campaign will remove the image of a retired Army general from an ad after the general objected to his inclusion.\n    \n"
     publishedDateTime: 2020-10-19T20:02:16Z

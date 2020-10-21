@@ -1996,6 +1996,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden has big cash advantage over Trump in final stretch"
+    excerpt: "World News Biden has big cash advantage over Trump in final stretch. Posted . U.S. Democratic presidential candidate Joe Biden's campaign entered the final stretch of the race wit"
+    publishedDateTime: 2020-10-21T21:23:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD12U7OR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201021&i=OVD12U7OR&r=OVD12U7OR&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z

@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fact check: Biden leveraged $1B in aid to Ukraine to oust corrupt prosecutor, not to help his son"
+    excerpt: "Despite a Senate GOP investigation that found no wrongdoing by Joe Biden on foreign policy in Ukraine, claims to the contrary continue to circulate."
+    publishedDateTime: 2020-10-21T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/21/fact-check-joe-biden-leveraged-ukraine-aid-oust-corrupt-prosecutor/5991434002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991434002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991434002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/27/USAT/dadf01aa-eb70-4664-bb52-7c5b64523d76-EPA_FILE_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.JPG?auto=webp&crop=3499,1969,x0,y219&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
     excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
     publishedDateTime: 2020-10-19T15:48:00Z

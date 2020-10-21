@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1430
+heat: 1490
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/36b8ecdc-458b-440e-9add-164aea9990e1/8b1a2c74-0af6-45fb-b024-7391f3aedd59/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Special Ops commander who oversaw bin Laden raid endorses Biden"
+    excerpt: "The Special Operations Commander who led the mission to assassinate Osama Bin Laden says he is a conservative but voted for Joe Biden. "
+    publishedDateTime: 2020-10-21T21:44:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Bp5jrgkBrA/special-ops-commander-who-oversaw-bin-laden-raid-endorses-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/special-ops-commander-who-oversaw-bin-laden-raid-endorses-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/special-ops-commander-who-oversaw-bin-laden-raid-endorses-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c7f9ff4-65e4-4165-9aa4-5efe700736a5/b71debd9-2387-43bb-9caa-7bf76d7cb037/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -704,6 +720,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Michael Moore tells progressives Biden could be pressured to pass Medicare-for-all"
+    excerpt: "Filmmaker Michael Moore urged backers of Sen. Bernie Sanders to get out and vote for Democratic presidential nominee Joe Biden, arguing they could help push the former vice president leftward to pass progressive priorities like Medicare-for-all."
+    publishedDateTime: 2020-10-21T20:17:00Z
+    webUrl: "https://www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all"
+    ampWebUrl: "https://www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Michael-Moore-Reuters.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Why the media are suddenly chattering about Joe Biden’s cabinet"
     excerpt: "Presidential candidates are often warned not to measure the drapes, a reminder that first they have to actually win the election before sitting in the Oval Office."
     publishedDateTime: 2020-10-15T07:06:00Z
@@ -867,6 +899,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 65
+  - title: "Obama Campaigns For Joe Biden In Philadelphia"
+    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
+    publishedDateTime: 2020-10-21T21:21:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Biden campaign agrees to remove retired general from ad after he complains"
     excerpt: "Former Vice President Joe Biden's campaign will remove a portion of an ad that features a retired general after he objected to being included in it."
     publishedDateTime: 2020-10-19T21:05:00Z

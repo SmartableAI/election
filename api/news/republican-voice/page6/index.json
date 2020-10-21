@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-30-dana-perinos-debate-verdict-biden-cleared-the-very-low-bar-that-had-been-set-for-him.md",
+      "title": "Dana Perino's debate verdict: 'Biden cleared the very low bar that had been set for him'",
+      "excerpt": "Democrats concerned about Joe Biden's performance on a debate stage could breathe a sigh of relief Tuesday night following the fractious and bad-tempered first confrontation in Cleveland, former White House press secretary Dana Perino said.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1wK2Djh6cjA/presidential-debate-analysis-perino-hume-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1b639de-1691-4aa6-b589-f5ec0adde147/5b378a95-9fa4-401a-bec3-261ac93537cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/presidential-debate-analysis-perino-hume-biden.amp",
+      "publishedDateTime": "2020-09-29T21:41:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-trump-on-supreme-court-overturning-roe-v-wade-theres-nothing-happening-there.md",
       "title": "Trump on Supreme Court overturning Roe v. Wade: 'There's nothing happening there'",
       "excerpt": "President Trump said Tuesday night there’s “nothing happening” in the Supreme Court with Roe v. Wade, and it isn’t on the ballot with the latest Supreme Court vacancy. ",
@@ -1619,62 +1675,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-trump-touts-return-of-pac-12s-college-football-season-youre-welcome.md",
-      "title": "Trump touts return of Pac-12's college football season: 'You're welcome!!!'",
-      "excerpt": "Trump called out Pac-12 officials at a White House press briefing last week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/50m0FrRHHys/trump-pac-12-college-football-season",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab215347-e557-4d3f-9fc7-e778370fc4e0/f369f538-086f-4f4d-b2bf-476624d1cbab/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
-      "publishedDateTime": "2020-09-24T18:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2044,6 +2044,22 @@ related:
         width: 935
         height: 526
         isCached: true
+  - title: "Mel Brooks Praised For First Ever Political Video Endorsing Joe Biden, Kamala Harris"
+    excerpt: "Brooks’ name began to trend on Twitter as fans praised the star for making his first-ever political video. In the clip, Brooks reveals that he is voting for Democratic presidential nominee Joe Biden in the upcoming election."
+    publishedDateTime: 2020-10-21T19:26:00Z
+    webUrl: "https://www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228"
+    ampWebUrl: "https://www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/mel-brooks-praised-first-ever-political-video-endorsing-joe-biden-kamala-harris-3066228?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 83
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/people-stand-in-line-on-the-first-day-AFP_8RX84X-7.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Catholic voters can't ignore abortion or Kamala Harris' religious bigotry in 2020 election"
     excerpt: "As Pope Francis has said, 'The right to life is the first among human rights.' So why make American Catholics feel like they shouldn't vote for life?"
     publishedDateTime: 2020-09-22T11:21:00Z
