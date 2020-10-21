@@ -111,6 +111,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Falsely Claims Biden Would Take Away Most Americans’ Healthcare"
+    excerpt: "President Donald Trump has repeatedly suggested in recent weeks that most Americans would lose their private health insurance if Joe Biden is elected president, an inaccurate claim that attempts to link Biden to single-payer healthcare even though the former vice president has consistently criticized the idea."
+    publishedDateTime: 2020-10-21T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/joewalsh/2020/10/21/trump-falsely-claims-biden-would-take-away-most-americans-healthcare/"
+    ampWebUrl: "https://www.forbes.com/sites/joewalsh/2020/10/21/trump-falsely-claims-biden-would-take-away-most-americans-healthcare/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joewalsh/2020/10/21/trump-falsely-claims-biden-would-take-away-most-americans-healthcare/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f906b4b26a4c7fe56555d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D147%26cropY2%3D1779"
+        width: 1199
+        height: 675
+        isCached: true
+  - title: "Trump releases 'Promise to Indian Country' tribal policy on the heels of Biden plan"
+    excerpt: "The Trump administration released its tribal policy proposals via conference call two weeks before the election."
+    publishedDateTime: 2020-10-21T17:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/nation/2020/10/21/trump-releases-promise-indian-country-tribal-policy/6000180002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6000180002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6000180002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 134
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/11/26/PPHX/3be1835d-873f-4541-97e7-3f4be4977b0a-MMIW2.jpeg?auto=webp&crop=2999,1687,x1,y168&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Democrats urge early voting, massive turnout as Trump stokes fears of contested election"
     excerpt: "Joe Biden supporter Cindy Kalogeropoulos took no chances when her absentee ballot arrived on Sept. 29. The Michigan retiree filled it out, drove 7 miles to the nearest drop box and hung around to make sure election officials picked it up - all within 48 hours of"
     publishedDateTime: 2020-10-15T10:20:00Z
@@ -174,22 +206,6 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Joe Biden pressed on supporting a 1994 crime bill"
-    excerpt: "Joe Biden regrets supporting the bill. “The mistake came in terms of what the states did locally,” he said. Joe Biden regrets supporting the bill. “The mistake came in terms"
-    publishedDateTime: 2020-10-16T01:21:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q5D_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "The tricky politics of court-packing for Joe Biden"
     excerpt: "Biden repeated Thursday night that he is not a fan of court-packing, yet he sounded more open to it than ever before."
@@ -300,22 +316,6 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/mcraven_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "USA Today backs Biden with first endorsement"
-    excerpt: "USA Today, the nation’s highest-circulation newspaper, made its first presidential endorsement on Tuesday, announcing its support for Democratic nominee Joe Biden Joe Biden Nearly 300 former national security officials sign Biden endorsement letter Trump narrows Biden's lead in Pennsylvania: poll Florida breaks first-day early voting record with 350K ballots cast MORE."
-    publishedDateTime: 2020-10-20T13:22:00Z
-    webUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/usatoday_getty_022019.jpg"
         width: 980
         height: 551
         isCached: true
@@ -442,22 +442,6 @@ related:
     quality: 118
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/44d82bc8-b5e7-465a-8356-77d198bf1114-Stacey_Abrams.JPG?auto=webp&crop=2999,1687,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Joe Biden declines to say whether he will expand the size of the Supreme Court if he wins"
-    excerpt: "The Democratic presidential candidate said whatever he decides to do will depend on the Senate's handling of Judge Amy Coney Barrett's confirmation."
-    publishedDateTime: 2020-10-16T22:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-hall-joe-biden-vague-court-packing-says-depends-senate/3672724001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3672724001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3672724001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -917,22 +901,6 @@ related:
         width: 1200
         height: 823
         isCached: true
-  - title: "'Animal Crossing' Now Has Joe Biden Island With Ice Cream And Dogs"
-    excerpt: "Joe Biden has taken his presidential campaign to \"Animal Crossing: New Horizons\" as he now has his own island in the game."
-    publishedDateTime: 2020-10-19T11:37:00Z
-    webUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299"
-    ampWebUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/soundbitedemocratic-presidential-challenger-joe-biden-calls-republican-incumbent.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Trump gaffe demotes France’s Macron"
     excerpt: "President Donald Trump likes to make fun of his rival Joe Biden’s verbal lapses but on Saturday he made his own goof as he took a pot shot at French President Emmanuel Macron and effectively demoted him."
     publishedDateTime: 2020-10-18T18:39:00Z
@@ -996,38 +964,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
         width: 375
         height: 249
-        isCached: true
-  - title: "Joe Biden's big lead on health care issues"
-    excerpt: "Health care has fragmented into multiple issues in this campaign cycle, and Joe Biden leads President Trump on almost all of them, according to our KFF polling. The big picture: Biden’s commanding leads on protecting people with pre-existing conditions and managing the coronavirus outbreak suggest that Trump’s record and rhetoric on those issues,"
-    publishedDateTime: 2020-10-21T09:48:00Z
-    webUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
-    ampWebUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 75
-    images:
-      - url: "https://images.axios.com/iiMe_pWvOG9thYzTHy1HDzV_dOo=/fit-in/1366x1366/2020/10/20/1603237182398.png"
-        width: 1366
-        height: 898
-        isCached: true
-  - title: "One-on-one with Joe Biden"
-    excerpt: "Democratic presidential nominee Joe Biden talks exclusively with WISN 12 News' Adrienne Pedersen about his confidence in winning Wisconsin, the surge in coronavirus cases and about Hunter Biden."
-    publishedDateTime: 2020-10-21T01:59:00Z
-    webUrl: "https://www.wisn.com/article/one-on-one-with-joe-biden/34431537"
-    ampWebUrl: "https://www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
-    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
-    type: article
-    provider:
-      name: WISN 12 NEWS
-      domain: wisn.com
-    quality: 75
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/images/joe-biden-1603240622.jpg?crop=1xw:1xh;center,top&resize=1200:*"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
@@ -1123,22 +1059,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
-    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
-    publishedDateTime: 2020-10-21T09:04:00Z
-    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 66
-    images:
-      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Rural voters explain why they’re leaving Trump: ‘I went from being a pawn — to collateral damage’"
     excerpt: "President Donald Trump has desperately tried to convince rural America that he will save them as their communities are slowly falling away. Trump has tried to prop them up with farmer funding, but the tactic shows an ignorance about the issues that rural families are facing when it comes to education and access to medical"
     publishedDateTime: 2020-10-18T05:16:00Z
@@ -1170,22 +1090,6 @@ related:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-AFP.png"
         width: 800
         height: 430
-        isCached: true
-  - title: "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military"
-    excerpt: "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews"
-    publishedDateTime: 2020-10-18T05:00:00Z
-    webUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.html"
-    ampWebUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 58
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/3c/d3ce265c-fa12-11ea-baa9-2fa13ab2c22d/5f6557423aa11.image.jpg?resize=1024%2C1408"
-        width: 1024
-        height: 1408
         isCached: true
   - title: "Ice Cube Offers Explanation For Working With The Trump Administration"
     excerpt: "With the 2020 election season in its final days, Ice Cube created a political stir online yesterday. A large section of the Twitterverse was shocked to learn that the N.W.A. member has been working with the Republican Donald Trump Administration."
@@ -1228,20 +1132,6 @@ related:
       - url: "https://static.billboard.com/files/2020/04/Donald-Trump-October-28-2019-billboard-1548-1587753435-1024x677.jpg"
         width: 1024
         height: 677
-        isCached: true
-  - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
-    excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
-    publishedDateTime: 2020-10-16T13:52:00Z
-    webUrl: "https://www.washingtonian.com/2020/10/16/tj-ducklo-32-joe-bidens-press-secretary-and-he-has-stage-4-cancer/"
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 55
-    images:
-      - url: "https://www.washingtonian.com/wp-content/uploads/2020/10/20200226_winyaindigosociety_charleston_sc_0003-1024x681.jpg"
-        width: 1024
-        height: 681
         isCached: true
   - title: "Trump Plays Down Virus as He Steps up Pitch for Second Term"
     excerpt: "In the week since President Donald Trump emerged from coronavirus isolation, he has demonstrated new determination to minimize the threat of the virus that has killed more than 215,000 Americans and complicated his chances of winning another four years in the White House."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-o
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp"
 type: article
 quality: 169
-heat: 269
+heat: 289
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
     quality: 148
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Some media liberals urge revenge, payback if Trump loses"
+    excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."
+    publishedDateTime: 2020-10-21T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/some-media-liberals-urge-revenge-payback-if-trump-loses"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc6cce86-a83c-48ed-9313-0f297469ba42/5177576a-8942-4aa9-b4bd-d612b069c42d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

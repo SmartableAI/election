@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-09-24-fact-check-in-2016-trump-didnt-tweet-about-replacing-scalia-on-supreme-court.md",
+      "title": "Fact check: In 2016, Trump didn't tweet about replacing Scalia on Supreme Court",
+      "excerpt": "A tweet that purports to be from Donald Trump in 2016 that said \"Obama should wait until he leaves office to pick another Justice\" is fake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/09/23/fact-check-trump-didnt-tweet-replacing-scalia-supreme-court/3492943001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/09/08/USAT/e1f3a2f9-834b-472b-996a-026721e73ac6-AP_Trump_6.jpg?auto=webp&crop=5999,3375,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3492943001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3492943001",
+      "publishedDateTime": "2020-09-23T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-23-trump-nominates-former-nunes-aide-as-intelligence-community-inspector-general.md",
       "title": "Trump nominates former Nunes aide as intelligence community inspector general",
       "excerpt": "President Donald Trump intends to nominate Allen Souza as the next inspector general for the intel community after firing the previous inspector general, Michael Atkinson, in April.\n    \n",
@@ -1100,7 +1152,7 @@
       "originalUrl": "https://www.cbsnews.com/news/mike-pence-plane-hits-bird-returns-airport-new-hampshire-airport/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -1302,58 +1354,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-trump-makes-bizarre-claim-that-protesters-are-throwing-cans-of-goya-foods-products-and-bumble-bee-tuna-fish.md",
-      "title": "Trump makes bizarre claim that protesters are throwing cans of Goya Foods products and Bumble Bee tuna fish",
-      "excerpt": "At his rally, Trump also praised violence against journalists, reiterated false election fraud claims, and leveled an attack against Rep. Ilhan Omar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f6ac1e839ab3b001192c7a2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-protesters-throwing-cans-goya-bumble-bee-tuna-soup-2020-9?amp",
-      "publishedDateTime": "2020-09-22T21:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

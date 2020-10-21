@@ -2,6 +2,105 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-15-pence-rallies-in-grand-rapids-friends-dont-let-friends-vote-alone.md",
+      "title": "Pence rallies in Grand Rapids: ‘Friends don’t let friends vote alone’",
+      "excerpt": "Vice President Mike Pence urged Michiganders to vote during a rally near the state’s second-largest city, as Michigan remains key for both the Democratic and Republican campaigns’ bid for the White House.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/",
+      "originalUrl": "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PLSJ/6aa2c2e5-b4b6-41a0-959a-9e8af3bce6dc-Pence_Grand_Rapids.jpg?auto=webp&crop=3007,1692,x0,y150&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.lansingstatejournal.com/amp/3656442001",
+      "cdnAmpWebUrl": "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001",
+      "publishedDateTime": "2020-10-14T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lansing State Journal",
+        "domain": "lansingstatejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-hunter-biden-emails-giuliani-attorney-questions-if-fbi-dismissed-potentially-damaging-findings.md",
+      "title": "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings",
+      "excerpt": "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
+      "publishedDateTime": "2020-10-14T12:10:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-trump-determined-to-avoid-hillary-clintons-fatal-campaign-blunder.md",
       "title": "Trump determined to avoid Hillary Clinton's fatal campaign blunder",
       "excerpt": "Focusing on tight races and battlegrounds, Clinton lost critical states in the Rust Belt after not campaigning there.",
@@ -603,7 +702,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 400,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -700,58 +799,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-trumps-campaign-nearly-went-broke-for-the-2020-home-stretch-amid-brad-parscales-200-million-budgeting-misfire-republicans-tell-insider.md",
-      "title": "Trump's campaign nearly went broke for the 2020 home stretch amid Brad Parscale's $200 million budgeting misfire, Republicans tell Insider.",
-      "excerpt": "Money has been tight for the 2020 reelection effort since the demotion of the Trump campaign manager, even as the president tweets that all is well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-campaign-nearly-went-broke-amid-200-million-budget-shortfall-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1148,7 +1195,7 @@
       "originalUrl": "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1288,49 +1335,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-palestinian-premier-god-help-us-if-trump-wins-re-election.md",
-      "title": "Palestinian premier: 'God help us' if Trump wins re-election",
-      "excerpt": "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians. “If we are going to live another four years with President Trump, God help us,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "originalUrl": "https://www.chron.com/news/article/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/53/60/20102170/3/rawImage.jpg",
-          "width": 2048,
-          "height": 1445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
-      "publishedDateTime": "2020-10-13T09:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

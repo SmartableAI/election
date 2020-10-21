@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-d
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
 type: article
 quality: 125
-heat: 945
+heat: 925
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537676515&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F04L"
         width: 817
         height: 545
-        isCached: true
-  - title: "Joe Biden has a better option than court-packing: Legislating"
-    excerpt: "A Democratic Congress and president could prevent an activist Supreme Court from dismantling the regulatory state."
-    publishedDateTime: 2020-10-20T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2020/10/20/biden-court-packing-alternatives/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CKX2KQPGII6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 961
         isCached: true
   - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
     excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."

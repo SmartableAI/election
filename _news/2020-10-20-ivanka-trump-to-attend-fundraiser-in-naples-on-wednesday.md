@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3702824001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
+    excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
+    publishedDateTime: 2020-10-14T09:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937767002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence to be in Grand Rapids Wednesday"
     excerpt: "Vice President Mike Pence will travel to Grand Rapids on Wednesday, Oct. 14. Pence will deliver remarks on the \"historic accomplishments of the Trump administration.\" The event will take place at 12:30 p."
     publishedDateTime: 2020-10-13T13:05:00Z

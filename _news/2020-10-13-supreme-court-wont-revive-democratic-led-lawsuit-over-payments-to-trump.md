@@ -463,6 +463,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Judge to hear DOJ request to represent Trump in rape defamation lawsuit"
+    excerpt: "The Justice Department is set to argue in federal court Wednesday that President Donald Trump acted in his official capacity when denying a rape claim made by a longtime magazine columnist, and therefore shouldn't be sued personally for defamation.\n    \n"
+    publishedDateTime: 2020-10-21T17:20:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kYORdX3XaHY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/e-jean-carroll-trump-defamation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/e-jean-carroll-trump-defamation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021123405-trump-e-jean-carroll-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Melania Trump details Covid illness and reveals son Barron contracted it"
     excerpt: "First lady Melania Trump detailed her experience with Covid-19 in an essay posted on the White House website, including that her son, Barron, 14, tested positive.\n    \n"
     publishedDateTime: 2020-10-14T21:24:17Z

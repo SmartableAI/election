@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump heads to Iowa, Amy Coney Barrett confirmation hearings, Billboard Music Awards: 5 things to know Wednesday"
+    excerpt: "President Trump heads to Iowa, Amy Coney Barrett confirmation hearings resume for a third day and more things to start your Wednesday morning."
+    publishedDateTime: 2020-10-14T09:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/14/trump-iowa-amy-coney-barrett-billboard-music-awards/5937767002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937767002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937767002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6c2a0c79-e2fc-4c78-a068-a33ceb6bff94-AP_Election_2020_Trump.jpg?auto=webp&crop=3341,1879,x1290,y427&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump, Donald Trump Jr., Ivanka Trump to visit North Carolina this week"
     excerpt: "Donald J. Trump for President, Inc. has announced Donald Trump Jr. will host 'Make America Great Again!' events in Arden and Kernersville North Carolina on Monday. The first stop for Trump Jr. in North Carolina will be at the Emery Seal Co."
     publishedDateTime: 2020-10-18T21:37:00Z

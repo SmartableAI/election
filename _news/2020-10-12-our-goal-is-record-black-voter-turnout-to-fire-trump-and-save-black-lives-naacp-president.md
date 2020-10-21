@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5960096002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960096002"
 type: article
 quality: 115
-heat: 155
+heat: 135
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Live: President Trump's Campaign Remarks From Johnstown PA"
-    excerpt: "Trailing in the polls, President Donald Trump returns to the battleground state Pennsylvania on Tuesday. Trump will speak at a rally at the John Murtha Johnstown-Cambria County Airport at 7 p.m. Trump has returned to the campaign trail after having tested positive for the coronavirus almost two weeks ago."
-    publishedDateTime: 2020-10-14T01:11:00Z
-    webUrl: "https://patch.com/pennsylvania/pittsburgh/watch-live-president-trumps-campaign-remarks-johnstown-pa"
-    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/ap/22920172/20201013/041125/styles/patch_image/public/ap20286856381385-1___13155747467.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
   - title: "President Donald Trump is set to visit Prescott, Tucson. Here's why"
     excerpt: "Rural Arizona is the key for President Donald Trump to have any chance to carry Arizona on Nov. 3, and Pima County cannot be solidly blue, either."
     publishedDateTime: 2020-10-19T02:31:00Z

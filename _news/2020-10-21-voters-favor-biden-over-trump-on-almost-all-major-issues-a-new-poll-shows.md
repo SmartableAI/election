@@ -576,6 +576,38 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Team Trump's attacks on Biden take an amazingly ironic turn"
+    excerpt: "Team Trump wants voters to believe Joe Biden has been principally focused on \"creating wealth for him and his family.\" No, seriously, that's the new pitch."
+    publishedDateTime: 2020-10-21T17:13:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/team-trump-s-attacks-biden-take-amazingly-ironic-turn-ncna1244161"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244161"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244161"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_39/3414055/200922-1x1-donald-trump-joe-biden-ew-156p_49bedb605e6f4b1bc0b530874e8009f2.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "The final showdown: 5 things to watch in last Trump-Biden debate"
+    excerpt: "WASHINGTON — Any Americans still on the fence — and who haven't been among the hordes of early voters — will have one final chance to hear from President Donald Trump and Joe Biden in their last debate Thursday,"
+    publishedDateTime: 2020-10-21T17:10:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/final-showdown-5-things-watch-last-trump-biden-debate-n1244074"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244074"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244074"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421792/201021-debate-five-things-main-cover-cs_807a4cdac29d749047330a95afa21e7d.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump and Biden will have mics cut during opponent's answers in final debate"
     excerpt: "Debate commission institutes microphone muting for Trump-Biden debate Sections TV Featured More from NBC Follow NBC News President Donald Trump and Joe Biden will have their microphones cut off during Thursday’s final presidential debate while their opponent delivers initial two-minute answers to each debate topic,"
     publishedDateTime: 2020-10-20T00:48:00Z

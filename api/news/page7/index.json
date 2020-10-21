@@ -2,6 +2,114 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-15-gop-senator-unloads-on-trump-in-constituent-call-saying-he-mocks-evangelicals-and-has-flirted-with-white-supremacists.md",
+      "title": "GOP senator unloads on Trump in constituent call, saying 'he mocks evangelicals' and has 'flirted with White supremacists'",
+      "excerpt": "Republican Sen. Ben Sasse criticized President Donald Trump earlier this week during a private phone call with constituents, saying a number of unflattering things about the President, including that he's \"flirted with White supremacists\" and \"kisses dictators' butts,\" his office confirmed to CNN.\n ",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/YDHojv2L_M0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200518181852-senator-ben-sasse-1-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/ben-sasse-trump-criticism/index.html",
+      "publishedDateTime": "2020-10-15T16:17:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-senate-panel-sets-october-22-vote-on-trump-court-pick-despite-democrats-protests.md",
+      "title": "Senate panel sets October 22 vote on Trump court pick despite Democrats' protests",
+      "excerpt": "The Republican-led U.S. Senate Judiciary Committee on Thursday scheduled an Oct. 22 vote to advance conservative appellate judge Amy Coney Barrett's nomination to the Supreme Court to the full Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "originalUrl": "https://www.reuters.com/article/uk-usa-court-barrett-idUKKBN2701AT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537566094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0SM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT",
+      "publishedDateTime": "2020-10-15T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-sasse-blasted-trump-in-private-phone-call-he-kisses-dictators-butts.md",
       "title": "Sasse blasted Trump in private phone call: 'He kisses dictators' butts'",
       "excerpt": "Ben Sasse (R-Neb.) blasted President Trump for “mistreat [ing] women,” “kiss [ing] dictators’ butts” and mocking evangelicals in private in a recording obtained by the Washington Examiner. In what appears to be a private call with constituents,",
@@ -163,58 +271,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-amy-coney-barrett-dodges-kamala-harriss-question-about-climate-change.md",
-      "title": "Amy Coney Barrett dodges Kamala Harris's question about climate change",
-      "excerpt": "I will not express a view on a matter of public policy, especially one that is politically controversial,” Barrett said.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
-      "originalUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 985,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_amybarrett_getty101520.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
-      "publishedDateTime": "2020-10-15T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -387,6 +443,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19.md",
+      "title": "Kamala Harris cancels campaign travel after two staffers test positive for COVID-19",
+      "excerpt": "The Biden campaign said Thursday that Kamala Harris will be suspending her campaign travel until Sunday because two people involved in the campaign, Harris' communications director, Liz Allen, and a non-staff flight crew member have tested positive for COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/cc10423c-39d7-4270-9400-2c0531d11341/thumbnail/1200x630/1959e172e605cd7efe1545259aa66bf4/gettyimages-1228948443.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "publishedDateTime": "2020-10-15T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-aide-flight-crew-member-test-positive-for-coronavirus.md",
       "title": "Kamala Harris Cancels Campaign Travel After Aide, Flight-Crew Member Test Positive for Coronavirus",
       "excerpt": "Democratic vice-presidential nominee Kamala Harris is canceling her campaign travel through Sunday after her communications director and a non-staff flight crew member tested positive for coronavirus.",
@@ -553,21 +661,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-15-biden-campaign-announces-record-383m-fundraising-haul-in-september.md",
-      "title": "Biden campaign announces record $383M fundraising haul in September",
-      "excerpt": "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far.",
+      "path": "_news/2020-10-15-biden-campaign-puts-up-huge-fundraising-numbers-in-september.md",
+      "title": "Biden campaign puts up huge fundraising numbers in September",
+      "excerpt": "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september",
-      "originalUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september",
+      "webUrl": "https://www.cbsnews.com/news/biden-campaign-fundraising-september/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-campaign-fundraising-september/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -575,16 +683,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp",
-      "publishedDateTime": "2020-10-15T05:27:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-september/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-september/",
+      "publishedDateTime": "2020-10-15T05:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -617,7 +725,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1890,
+      "heat": 1910,
       "tags": null,
       "images": [
         {
@@ -1223,105 +1331,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-pence-rallies-in-grand-rapids-friends-dont-let-friends-vote-alone.md",
-      "title": "Pence rallies in Grand Rapids: ‘Friends don’t let friends vote alone’",
-      "excerpt": "Vice President Mike Pence urged Michiganders to vote during a rally near the state’s second-largest city, as Michigan remains key for both the Democratic and Republican campaigns’ bid for the White House.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/",
-      "originalUrl": "https://www.lansingstatejournal.com/story/news/local/2020/10/14/pence-rallies-grand-rapids-friends-dont-let-friends-vote-alone/3656442001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PLSJ/6aa2c2e5-b4b6-41a0-959a-9e8af3bce6dc-Pence_Grand_Rapids.jpg?auto=webp&crop=3007,1692,x0,y150&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.lansingstatejournal.com/amp/3656442001",
-      "cdnAmpWebUrl": "https://amp-lansingstatejournal-com.cdn.ampproject.org/c/s/amp.lansingstatejournal.com/amp/3656442001",
-      "publishedDateTime": "2020-10-14T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lansing State Journal",
-        "domain": "lansingstatejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-hunter-biden-emails-giuliani-attorney-questions-if-fbi-dismissed-potentially-damaging-findings.md",
-      "title": "Hunter Biden emails: Giuliani attorney questions if FBI dismissed potentially damaging findings",
-      "excerpt": "As bombshell revelations concerning Hunter Biden, the son of former Vice President Joe Biden, begin to unravel from an abandoned hard drive, red flags are being raised over what – if anything – federal investigators did with the findings.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hD1b9QecZRo/hunter-biden-emails-giuliani-attorney-fbi",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp",
-      "publishedDateTime": "2020-10-14T12:10:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

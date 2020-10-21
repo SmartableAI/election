@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-30-trump-on-supreme-court-overturning-roe-v-wade-theres-nothing-happening-there.md",
+      "title": "Trump on Supreme Court overturning Roe v. Wade: 'There's nothing happening there'",
+      "excerpt": "President Trump said Tuesday night there’s “nothing happening” in the Supreme Court with Roe v. Wade, and it isn’t on the ballot with the latest Supreme Court vacancy. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXXvb4g8YHU/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/trump_biden_debate_split_thumb_3.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supreme-court-overturning-roe-v-wade-nothing-happening-there.amp",
+      "publishedDateTime": "2020-09-29T18:45:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-philly-firefighters-paramedics-union-breaks-with-iaff-to-endorse-trump.md",
       "title": "Philly firefighters, paramedics union breaks with IAFF to endorse Trump",
       "excerpt": "The firefighters and paramedics union in Philadelphia broke with the International Association of Fire Fighters to endorse President Trump in the upcoming election, according to a report.",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pac-12-college-football-season.amp",
       "publishedDateTime": "2020-09-24T18:47:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-25-new-flynn-court-docs-show-fbi-employees-discussing-probe-of-trump-aide-a-nightmare.md",
-      "title": "New Flynn court docs show FBI employees discussing probe of Trump aide: 'A nightmare'",
-      "excerpt": "In an Aug. 2016 exchange obtained by the Justice Department, an FBI analyst said that some agents “want a Clinton presidency.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/szvY96dCf8c/flynn-court-docs-fbi-employee-texts",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9104d171-3d0a-4adc-aaa2-28dcf12f0fd8/20d61489-587a-47cc-880a-3116f235afb3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flynn-court-docs-fbi-employee-texts.amp",
-      "publishedDateTime": "2020-09-24T17:21:34-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

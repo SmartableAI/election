@@ -31,92 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "Joe Biden should stop ducking the court-packing issue"
-    excerpt: "Progressive Democrats should take note that no less a figure than the late Justice Ruth Bader Ginsburg opposed court-packing."
-    publishedDateTime: 2020-10-07T13:30:00Z
-    webUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue"
-    ampWebUrl: "https://thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/judiciary/519879-joe-biden-should-stop-ducking-the-court-packing-issue?amp"
+  - title: "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep"
+    excerpt: "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign."
+    publishedDateTime: 2020-10-21T17:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 143
     images:
-      - url: "https://thehill.com/sites/default/files/conservativecourts2020_080119hillillustration.jpg"
-        width: 980
-        height: 551
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS"
+        width: 817
+        height: 545
         isCached: true
-  - title: "'Record-breaking group' of faith leaders endorses Biden"
-    excerpt: "More than 1,600 faith leaders have endorsed Democratic nominee Joe Biden for president as of Friday, including some who could influence evangelical votes, according to a faith voters outreach group."
-    publishedDateTime: 2020-10-09T19:47:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520407-record-breaking-group-of-faith-leaders-endorses-biden?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_093020getty_blowout.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "17-year-old climate activist Greta Thunberg endorses Joe Biden"
-    excerpt: "\"I never engage in party politics. But the upcoming US elections is above and beyond all that,\" the 17-year-old climate activist from Sweden tweeted."
-    publishedDateTime: 2020-10-10T17:03:00Z
-    webUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/climate-change-activist-greta-thunberg-endorses-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/5f81d732642e9400180b52ca?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden maintains 12-point national lead: poll"
-    excerpt: "Democratic presidential nominee Joe Biden holds a 12-point lead among likely voters in a national poll released by The Washington Post and ABC News early Sunday. Biden is supported by 54 percent of likely voters while Trump is backed by 42 percent,"
-    publishedDateTime: 2020-10-11T11:32:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520505-biden-maintains-12-point-national-lead-poll"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520505-biden-maintains-12-point-national-lead-poll?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520505-biden-maintains-12-point-national-lead-poll?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpbiden2.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Nebraska district could prove pivotal for Biden in November"
-    excerpt: "Democratic presidential nominee Joe Biden appears poised to flip Nebraska’s critical 2nd Congressional District in November, giving Democrats hope in a red state that doles out Electoral College votes per congressional district."
-    publishedDateTime: 2020-10-10T22:05:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520413-nebraska-district-could-prove-pivotal-for-biden-in-november?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_trumpdonald_100920getty_split_nebraska.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Budowsky: President Bush, please vote Biden"
-    excerpt: "I hope you will say a little prayer for democracy and inform the nation you will vote for Biden, the only candidate whose election would prevent four more years of the dangers you warned about in your brilliant speech at the George W."
-    publishedDateTime: 2020-10-14T12:10:00Z
-    webUrl: "https://thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden"
-    ampWebUrl: "https://thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520907-budowsky-president-bush-please-vote-biden?amp"
+  - title: "Biden campaign announces record $383M fundraising haul in September"
+    excerpt: "Democratic presidential nominee Joe Biden's (D) campaign announced late Wednesday that it had raised a massive $383 million during the third quarter of 2020, marking the best period for the campaign so far."
+    publishedDateTime: 2020-10-15T12:27:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
     type: article
     provider:
       name: The Hill
@@ -127,533 +63,668 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "How to watch ABC News' Joe Biden town hall"
-    excerpt: "Democratic nominee Joe Biden had been scheduled to debate the president on Thursday, but will now appear in an ABC News town hall. Here's how to watch."
-    publishedDateTime: 2020-10-14T19:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/watch-abc-news-joe-biden-town-hall/story?id=73594963"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-town-hall-01-gty-llr-201013_1602630940640_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden hedges on support for 'court-packing' proposal"
-    excerpt: "Democratic presidential candidate Joe Biden kept his options open on Thursday when asked if he would add judges to the Supreme Court to balance the 6-3 conservative majority that would likely take hold if President Donald Trump's third nominee is confirmed."
-    publishedDateTime: 2020-10-16T02:40:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-court/biden-hedges-on-support-for-court-packing-proposal-idUSKBN27107R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27107R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27107R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201016&t=2&i=1537676515&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9F04L"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden ramping up virtual fundraisers in final stretch of campaign cycle"
-    excerpt: "Joe Biden's campaign will host 53 fundraisers total over 14 days, in order to secure voters before Election Day."
-    publishedDateTime: 2020-10-07T09:40:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-ramping-virtual-fundraisers-final-stretch-campaign/story?id=73452165"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-wave-mask_hpMain_20201006-224125_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
-    excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
-    publishedDateTime: 2020-10-15T02:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising/biden-and-democrats-raised-record-383-million-in-sept-for-white-house-bid-idUSKBN27004S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27004S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27004S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537515404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E033"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden campaign co-chair says Supreme Court packing question is 'hypothetical'"
-    excerpt: "\"I think it's a legitimate question for you to ask, but it is a distraction with 22 days before the election,\" Richmond said on ABC's \"This Week.\" Speaking with guest host Jon Karl, the congressman was asked where Biden stood on the issue of court-packing."
-    publishedDateTime: 2020-10-11T15:26:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/520526-biden-campaign-co-chair-says-supreme-court-packing-question-is?amp"
+  - title: "Amy Coney Barrett dodges Kamala Harris's question about climate change"
+    excerpt: "I will not express a view on a matter of public policy, especially one that is politically controversial,” Barrett said."
+    publishedDateTime: 2020-10-15T19:42:00Z
+    webUrl: "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss"
+    ampWebUrl: "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/richmondcedric_061020gn_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://thehill.com/sites/default/files/ca_amybarrett_getty101520.jpg"
+        width: 1440
+        height: 880
         isCached: true
-  - title: "Joe Biden says he's 'not a fan' of court packing as SCOTUS hearings continue"
-    excerpt: "As the Senate confirmation hearings for Supreme Court nominee Amy Coney Barrett continue, former Vice President Joe Biden says he is \"not a fan\" of court packing."
-    publishedDateTime: 2020-10-13T21:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-fan-court-packing-scotus-hearings-continue/story?id=73585081"
+  - title: "Joe Biden pressed on supporting a 1994 crime bill"
+    excerpt: "Joe Biden regrets supporting the bill. “The mistake came in terms of what the states did locally,” he said. Joe Biden regrets supporting the bill. “The mistake came in terms"
+    publishedDateTime: 2020-10-16T01:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-supporting-1994-crime-bill/story?id=73645853"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 122
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/biden-ap-ml-201013_1602603114866_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q5D_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden says Barrett's Catholic faith shouldn't be factor in her confirmation hearings"
-    excerpt: "Biden expressed the same sentiment as Democratic senators who are so far focusing on the threat they feel Barrett's confirmation to the Supreme Court would pose to Obamacare."
-    publishedDateTime: 2020-10-12T21:12:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-amy-coney-barrett-confirmation-hearings/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-amy-coney-barrett-confirmation-hearings/"
+  - title: "USA Today backs Biden with first endorsement"
+    excerpt: "USA Today, the nation’s highest-circulation newspaper, made its first presidential endorsement on Tuesday, announcing its support for Democratic nominee Joe Biden Joe Biden Nearly 300 former national security officials sign Biden endorsement letter Trump narrows Biden's lead in Pennsylvania: poll Florida breaks first-day early voting record with 350K ballots cast MORE."
+    publishedDateTime: 2020-10-20T13:22:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521818-usa-today-makes-first-ever-endorsement-for-biden?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 118
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/12/498f145a-b39f-4e4c-8082-5a8fc675accc/thumbnail/1200x630g2/a226aaf6d83d6cbf0a3c183f724b6c40/gettyimages-1229009797.jpg"
+      - url: "https://thehill.com/sites/default/files/usatoday_getty_022019.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "How Kamala Harris highlights what women in politics face"
+    excerpt: "With Senator Kamala Harris as a historic vice-presidential running mate, it's impossible to avoid the topic of gender this election cycle - but are the rules of the race really different for women? Here's how her nomination highlights the issues women in politics have faced for decades - and how things are changing - with analysis from Debbie Walsh,"
+    publishedDateTime: 2020-10-21T13:26:00Z
+    webUrl: "https://www.bbc.com/news/amp/election-us-2020-54574584"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54574584"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54574584"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/AC45/production/_115010144_gettyimages-1228948146.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "WATCH LIVE: Sen. Kamala Harris makes campaign stop in Asheville, N.C."
+    excerpt: "North Carolina is one of the key battleground states that former Vice President Joe Biden and President Donald Trump are targeting in the final stretch of the election."
+    publishedDateTime: 2020-10-21T15:39:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/watch-live-sen-kamala-harris-makes-campaign-stop-in-asheville-n-c"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-makes-campaign-stop-in-asheville-n-c"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/watch-live-sen-kamala-harris-makes-campaign-stop-in-asheville-n-c"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 125
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/08/2020-08-11T213032Z_1658354923_RC2XBI9DJ7NH_RTRMADP_3_USA-ELECTION-BIDEN-HARRIS-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
+    excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
+    publishedDateTime: 2020-10-21T17:26:00Z
+    webUrl: "https://www.bbc.com/news/election-us-2020-54631308"
+    ampWebUrl: "https://www.bbc.com/news/amp/election-us-2020-54631308"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/election-us-2020-54631308"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 124
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13242/production/_115020487_ek3is4owaaehs6e.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Nearly 300 former national security officials sign Biden endorsement letter"
+    excerpt: "Nearly 300 more former national security officials have signed onto a letter endorsing Democratic candidate Joe Biden for president."
+    publishedDateTime: 2020-10-20T09:37:00Z
+    webUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter"
+    ampWebUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
+    excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-10-16/senator-perdue-backlash-butchering-kamala-harris-name?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 122
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/63f57f9/2147483647/strip/true/crop/4094x2674+331+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9d%2F11%2F14d71293448aaf5c09503c5d0596%2F2020-election-michigan-absent-voter-ballot-71580.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Kamala Harris pauses in-person campaigning after staffer diagnosed with COVID-19"
+    excerpt: "U.S. Democratic vice presidential nominee Kamala Harris canceled travel plans through Sunday as a precaution after one of her staff members tested positive for COVID-19, the Biden campaign said in a statement."
+    publishedDateTime: 2020-10-16T05:27:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-harris-idUSKBN2701ZI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701ZI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701ZI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537597034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E18Q"
+        width: 780
+        height: 545
+        isCached: true
+  - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
+    excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."
+    publishedDateTime: 2020-10-15T19:25:00Z
+    webUrl: "https://abcnews.go.com/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/kamala-harris-tests-negative-covid-19-campaign-test/story?id=73631022"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 116
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-abc-er-201013_1602629962175_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden declines to say whether he will expand the size of the Supreme Court if he wins"
+    excerpt: "The Democratic presidential candidate said whatever he decides to do will depend on the Senate's handling of Judge Amy Coney Barrett's confirmation."
+    publishedDateTime: 2020-10-16T22:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/15/town-hall-joe-biden-vague-court-packing-says-depends-senate/3672724001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3672724001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3672724001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Biden reaches out to Catholics like himself, embracing a key group in big 2020 states"
-    excerpt: "President Trump has maligned Biden’s faith, but Biden is seeking to firm up a connection that reverberates in the upper Midwest and the Sun Belt while avoiding religious overtones in the Supreme Court nomination fight."
-    publishedDateTime: 2020-10-14T01:17:00Z
-    webUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/catholics-biden-trump-coney-barrett/2020/10/13/330d5bba-0427-11eb-b7ed-141dd88560ea_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ACMVNGALCYI6XG7GZ4S7WQU7DI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden Says Amy Coney Barrett Appointment 'Not Constitutional' as He Evades Court Packing Question Again"
-    excerpt: "\"Look, the only court packing is going on right now. It's going on with the Republicans packing the court now,\" Joe Biden said."
-    publishedDateTime: 2020-10-11T02:07:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-says-amy-coney-barrett-appointment-not-constitutional-he-evades-court-packing-question-1538111?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 107
-    images:
-      - url: "https://d.newsweek.com/en/full/1649258/joe-biden.jpg"
-        width: 2500
-        height: 1571
-        isCached: true
-  - title: "Detroit pastor wants Biden to reach out more to Black community"
-    excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
-    publishedDateTime: 2020-10-01T19:52:00Z
-    webUrl: "https://www.cbsnews.com/video/detroit-pastor-wants-biden-to-reach-out-more-to-black-community/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/01/0b79fbfd-2239-43f0-8b45-220c14a49773/thumbnail/1200x630/5dd6caec806d41fa8bf76a61c547bca6/1001-cbsn-camcan-detroitbidenblackcom-557960-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Battle for the suburbs: can Joe Biden flip Texas? – video"
-    excerpt: "Texas is a rapidly changing state with the fastest growing population in America. Hispanic Texans are set to become the majority by 2022, but will this help Joe Biden flip a Republican stronghold? Oli"
-    publishedDateTime: 2020-10-07T10:14:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/07/battle-for-the-suburbs-can-joe-biden-flip-texas-video"
+  - title: "Kamala Harris cancels events after flying with two people who tested positive for Covid – live"
+    excerpt: "Harris’s communications director and a ‘non-staff flight crew member’ tested positive after she was in contact with them while wearing an N95 mask"
+    publishedDateTime: 2020-10-15T18:52:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates?page=with:block-5f8899c88f0851521938a74e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/15/amy-coney-barrett-senate-hearing-donald-trump-joe-biden-us-election-coronavirus-covid-live-updates"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 105
+    quality: 113
     images:
-      - url: "https://i.guim.co.uk/img/media/ad2b6c6bc07ee8a1c8603135263f9c5f9afdd033/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddfef1d2d526de95827d109c891e36aa"
-        width: 1200
-        height: 630
+      - url: "https://i.guim.co.uk/img/media/a494b17be81715d755d0be38d9345052ccc89706/0_149_4474_2685/master/4474.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8382397e597090c821b55af6b6b8a51c"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Examining Joe Biden's Record On Race: 1994 Crime Bill Sponsorship"
-    excerpt: "In the second part of a series on former Vice President Joe Biden's record on race, NPR's Steve Inskeep examines the long-term consequences of his sponsorship of the 1994 Crime Bill."
-    publishedDateTime: 2020-10-13T09:05:00Z
-    webUrl: "https://www.npr.org/2020/10/13/923170325/examining-joe-bidens-record-on-race-1994-crime-bill-sponsorship"
+  - title: "WATCH: Sen. Kamala Harris questions Supreme Court nominee Amy Coney Barrett on voter suppression"
+    excerpt: "The Supreme Court nominee has refused in two days of testimony in her confirmation hearing to opine on many topics, including whether a president can unilaterally delay the election."
+    publishedDateTime: 2020-10-15T00:28:00Z
+    webUrl: "https://www.pbs.org/newshour/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/politics/sen-kamala-harris-questions-supreme-court-nominee-amy-coney-barrett-on-voter-suppression"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
+      name: PBS
+      domain: pbs.org
+    quality: 112
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/10/2020-10-12T172504Z_1286218462_RC25HJ95J0MV_RTRMADP_3_USA-COURT-BARRETT1-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Kamala Harris injects heat and light at Amy Coney Barrett hearing"
+    excerpt: "The campaigns are intensifying in the final three weeks of the election. In national politics, the focus was on the U.S. Senate hearings on the confirmation of Amy Coney Barrett to the U.S. Supreme Court."
+    publishedDateTime: 2020-10-15T16:05:00Z
+    webUrl: "https://www.houstonchronicle.com/opinion/article/Kamala-Harris-injects-heat-and-light-at-Amy-Coney-15648917.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
     quality: 105
     images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://s.hdnux.com/photos/01/14/55/72/20111037/7/rawImage.jpg"
+        width: 2048
+        height: 1744
         isCached: true
-  - title: "New poll shows Joe Biden ahead in Michigan"
-    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-12T18:55:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
+  - title: "Senator Kamala Harris questions Amy Coney Barrett on climate change"
+    excerpt: "During Senate confirmation hearings on Wednesday, Senator Kamala Harris asked Supreme Court nominee Amy Coney Barrett about her views on climate change. Barrett called it \"very contentious matter of public debate."
+    publishedDateTime: 2020-10-16T17:11:00Z
+    webUrl: "https://www.cbsnews.com/video/senator-kamala-harris-questions-amy-coney-barrett-on-climate-change/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook And Twitter Limit Sharing New York Post Story About Joe Biden"
-    excerpt: "The social media companies said they wanted to slow the spread of possibly false information. But their actions drew charges of censorship from President Trump's allies."
-    publishedDateTime: 2020-10-14T22:49:00Z
-    webUrl: "https://www.npr.org/2020/10/14/923766097/facebook-and-twitter-limit-sharing-new-york-post-story-about-joe-biden"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
-    images:
-      - url: "https://media.npr.org/assets/img/2020/10/14/gettyimages-1165948314_wide-94737daf8ae51aa6447620c7627e1ed015c5018b.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Joe Biden once again says he’s ‘not a fan’ of expanding Supreme Court, says GOP ‘court-packing’ by rushing to fill seat"
-    excerpt: "Joe Biden says he is “not a fan” of adding seats to the Supreme Court, after weeks of avoiding questions about the idea that’s been pushed by progressives and used by Republicans to attack him."
-    publishedDateTime: 2020-10-13T13:41:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-supreme-court-expansion-20201013-yhw3tx2el5fctfbb24wn7f7wne-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/lhpLP6O2R93TguuCfUGToqd2e14=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZFXRSDUWO5GW3D4KZJPC77LCIM.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/f5232d35-12a8-4058-8f65-4a63922f4d16/thumbnail/1200x630/b0d15f3cd593a7247ff342ec1f1ffa68/cbsn-fusion-senator-kamala-harris-questions-amy-coney-barrett-on-climate-change-thumbnail-567264-640x360.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Progressive Democrats are united behind Joe Biden but readying for an internal 'World War III' if he wins the election"
-    excerpt: "Trump term has kept the left in line behind Biden. Don't expect them to stick together if Biden wins."
-    publishedDateTime: 2020-10-10T00:11:00Z
-    webUrl: "https://www.businessinsider.com/progressive-democrats-united-biden-against-trump-2020-10"
+  - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
+    excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
+    publishedDateTime: 2020-10-15T05:06:00Z
+    webUrl: "https://www.houstonchronicle.com/bayarea/article/Amy-Coney-Barrett-Harris-climate-change-15648374.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 98
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/53/24/20100396/7/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Amy Coney Barrett refuses to tell Kamala Harris if she thinks climate change is happening"
+    excerpt: "Supreme court nominee accuses Democratic senator of soliciting an opinion ‘on a very contentious matter of public debate’"
+    publishedDateTime: 2020-10-15T05:03:00Z
+    webUrl: "https://www.theguardian.com/us-news/2020/oct/15/amy-coney-barrett-refuses-to-tell-kamala-harris-if-she-thinks-climate-change-is-happening"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2020/oct/15/amy-coney-barrett-refuses-to-tell-kamala-harris-if-she-thinks-climate-change-is-happening"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2020/oct/15/amy-coney-barrett-refuses-to-tell-kamala-harris-if-she-thinks-climate-change-is-happening"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 96
+  - title: "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video"
+    excerpt: "Coney Barrett faces second day of Senate judiciary committee"
+    publishedDateTime: 2020-10-15T01:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2020/oct/15/kamala-harris-presses-amy-coney-barrett-on-whether-she-believes-climate-change-is-real-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 93
     images:
-      - url: "https://i.insider.com/5f7f6da2ea74820019ca6095?width=1200&format=jpeg"
+      - url: "https://i.guim.co.uk/img/media/70d23c3b973042cab2d1b7b6a7e2b527cd1b5e4c/0_168_4835_2903/master/4835.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84234382a5a7db8e7a6d8265e63a8328"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Why Joe Biden can't expect to automatically get the Latino vote"
-    excerpt: "Pundits assume that because Trump has insulted Mexicans, Latinos are a sure vote for Biden. A recent survey of Arizona Latinos suggests otherwise."
-    publishedDateTime: 2020-10-03T13:14:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/2020/10/03/joe-biden-wont-automatically-get-latino-vote-heres-why/3533570001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3533570001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3533570001"
+  - title: "At Supreme Court Hearing, Kamala Harris Summons Her Prosecutorial Instincts"
+    excerpt: "Joe Biden picked Kamala Harris in no small part for her prosecutorial pluck, on clear display in the Supreme Court hearing this week."
+    publishedDateTime: 2020-10-15T17:42:00Z
+    webUrl: "https://time.com/5900467/kamala-harris-supreme-court-hearing/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/fe1ce342e3f4fb0d9107daa0b1f5bec2ef4acb12/c=0-285-4756-2968/local/-/media/Phoenix/Phoenix/2014/09/18/1411086458000-latino-vote.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 677
-        isCached: true
-  - title: "Howie Carr: Media continue to cover up Joe Biden’s mental decline"
-    excerpt: "The media have been ignoring and/or covering up Biden’s obvious mental decline for more than a year now, even though the video evidence is at their fingertips."
-    publishedDateTime: 2020-10-03T18:52:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/03/howie-carr-media-continue-to-cover-up-joe-bidens-mental-decline/amp/"
+      name: Time
+      domain: time.com
+    quality: 83
+  - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
+    excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
+    publishedDateTime: 2020-10-14T21:00:00Z
+    webUrl: "https://patch.com/minnesota/southwestminneapolis/kamala-harris-remarks-george-floyd-s-47th-birthday"
+    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
     type: article
     provider:
-      name: Boston Herald
-      domain: bostonherald.com
+      name: Patch
+      domain: patch.com
     quality: 75
     images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/Virus_Outbreak_Trump_82294-1.jpg?w=1024&h=684"
-        width: 1024
-        height: 684
+      - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "NBC News to Hold Town Hall With Joe Biden in Miami"
-    excerpt: "NBC News will hold a town hall event in Miami on Monday with Joe Biden, who spent part of the day in South Florida participating in campaign events. The town hall, hosted by “Nightly News” anchor Lester Holt,"
-    publishedDateTime: 2020-10-05T20:50:00Z
-    webUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/politics/decision-2020/bc-news-to-hold-town-hall-with-joe-biden-in-miami/2652846/?amp"
+  - title: "BREAKING: Kamala Harris to campaign in Florida Monday"
+    excerpt: "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida."
+    publishedDateTime: 2020-10-17T16:14:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: Palm Beach Post
+      domain: palmbeachpost.com
     quality: 75
     images:
-      - url: "https://media.nbcnewyork.com/2020/10/AP_20280035813476.jpg?crop=0px%2C0px%2C4245px%2C2388px&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
-    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
-    publishedDateTime: 2020-10-09T17:43:00Z
-    webUrl: "https://heavy.com/news/biden-taxes/"
-    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
-  - title: "Opinion/Chidester: Joe Biden’s credibility issue"
-    excerpt: "\"Since the early 1970s, Joe Biden has been a serial liar when it comes to his ‘work’ in the civil rights movement. It's the equivalent of"
-    publishedDateTime: 2020-10-10T15:44:00Z
-    webUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue"
-    ampWebUrl: "https://www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
-    cdnAmpWebUrl: "https://www-seacoastonline-com.cdn.ampproject.org/c/s/www.seacoastonline.com/opinion/20201010/opinionchidester-joe-bidenrsquos-credibility-issue?template=ampart"
-    type: article
-    provider:
-      name: Seacoastonline.com
-      domain: seacoastonline.com
-    quality: 75
-    images:
-      - url: "https://www.seacoastonline.com/apps/pbcsi.dll/bilde?Site=SO&Date=20201010&Category=OPINION&ArtNo=201019995&Ref=AR"
-        width: 520
-        height: 816
-        isCached: true
-  - title: "Joe Biden's tax returns: 3 things we can learn about Social Security"
-    excerpt: "Although many retirees pay no tax on the benefits, those whose \"provisional income\" exceeds $25,000 or $32,000 for joint filers are taxed."
-    publishedDateTime: 2020-10-11T00:23:00Z
-    webUrl: "https://www.azcentral.com/story/money/2020/10/10/3-things-we-can-learn-about-social-security-from-the-bidens-tax-returns/114243008/"
-    ampWebUrl: "https://amp.azcentral.com/amp/114243008"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/114243008"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/09/27/USATODAY/usatsports/joe-biden-whitehousegov.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Joe Biden addresses idea of Supreme Court packing: 'I'm not a fan'"
-    excerpt: "Biden argued that the focus should remain on Republicans’ efforts to push through Amy Coney Barrett as a replacement for Ruth Bader Ginsburg before the election."
-    publishedDateTime: 2020-10-13T20:44:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/biden-on-high-court-packing-says-hes-not-a-fan/507-31793940-b31b-4183-ba4d-08c1489e3ab0"
+  - title: "Kamala Harris to campaign in Florida on Monday"
+    excerpt: "Kamala Harris (D-Calif.) took a COVID-19 test on Saturday and the virus was not detected, according to a campaign aide. Driving the news: The Democratic vice presidential nominee paused her campaign travel through Sunday after her communications director tested positive for the coronavirus."
+    publishedDateTime: 2020-10-17T21:54:00Z
+    webUrl: "https://www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
+    ampWebUrl: "https://www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/kamala-harris-test-negative-covid-19-florida-678e31bb-387f-468b-b123-08052062cb8d.html"
     type: article
     provider:
-      name: KING5
-      domain: king5.com
+      name: Axios
+      domain: axios.com
     quality: 75
     images:
-      - url: "https://media.king5.com/assets/CCT/images/3480a00c-67c9-4add-bf94-9afc4fb2e924/3480a00c-67c9-4add-bf94-9afc4fb2e924_750x422.jpg"
+      - url: "https://images.axios.com/uiWeMyAsIiogKtDBqaVoppQU27c=/fit-in/1366x1366/2020/10/17/1602970013282.jpg"
+        width: 1366
+        height: 909
+        isCached: true
+  - title: "Sen. Kamala Harris campaigning in Jacksonville Monday"
+    excerpt: "Sen. Kamala Harris, Democratic vice presidential nominee, is planning a campaign stop in Jacksonville on Monday. Details on the visit have not been released yet. Harris is resuming in-person campaigning after two people associated with the campaign tested positive for coronavirus."
+    publishedDateTime: 2020-10-17T20:26:00Z
+    webUrl: "https://www.firstcoastnews.com/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
+    ampWebUrl: "https://www.firstcoastnews.com/amp/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
+    cdnAmpWebUrl: "https://www-firstcoastnews-com.cdn.ampproject.org/c/s/www.firstcoastnews.com/amp/article/news/politics/kamala-harris-campaigning-in-jacksonville-monday/77-ab01292c-b50e-4e10-8fac-ddd2a18f118c"
+    type: article
+    provider:
+      name: First Coast News
+      domain: firstcoastnews.com
+    quality: 75
+    images:
+      - url: "https://media.firstcoastnews.com/assets/WTLV/images/627406b8-f5dd-4959-90dc-63b6acd29c17/627406b8-f5dd-4959-90dc-63b6acd29c17_750x422.png"
         width: 750
         height: 422
         isCached: true
-  - title: "Joe Biden: I'm 'not a fan' of court-packing"
-    excerpt: "Democratic presidential nominee Joseph R. Biden partially ended his stonewalling on Supreme Court-packing this week, saying he’s “not a fan” of the practice that liberals are calling for as payback for confirming Judge Amy Coney Barrett for the Supreme Court."
-    publishedDateTime: 2020-10-14T02:19:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/13/joe-biden-im-not-fan-court-packing/"
+  - title: "Sen. Kamala Harris will campaign in Jacksonville on Monday"
+    excerpt: "Sen. Kamala Harris will travel to Jacksonville and Orlando on Monday to campaign during the first day of in-person early voting in Florida."
+    publishedDateTime: 2020-10-17T19:29:00Z
+    webUrl: "https://news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/"
+    ampWebUrl: "https://www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp"
+    cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/news/politics/2020/10/17/sen-kamala-harris-will-campaign-in-jacksonville-on-monday/?outputType=amp"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: News4Jax
+      domain: news4jax.com
     quality: 75
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2019/03/15/Supreme_Court_37806.jpg-5e141_c0-89-5568-3337_s1200x700.jpg?0c80d9a17edda4869c69b2190de84c73868e539b"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Joe Biden, after avoiding questions on court packing, says he is 'not a fan'"
-    excerpt: "\"I'm not a fan of court packing but I don't want to get off on that whole issue,\" Biden told a Cincinnati television station in an interview."
-    publishedDateTime: 2020-10-13T20:01:00Z
-    webUrl: "https://www.freep.com/story/news/politics/elections/2020/10/13/joe-biden-addressing-court-packing-says-he-not-fan/5979046002/"
-    ampWebUrl: "https://amp.freep.com/amp/5979046002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5979046002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 72
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coming soon to gas station TV screens in battleground states: Ads for Joe Biden"
-    excerpt: "Flush with a recent surge of cash, the Democratic National Committee is launching a wave of unconventional ads encouraging people to vote."
-    publishedDateTime: 2020-10-14T09:00:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246431365.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246431365.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246431365.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 71
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/9c976b97-2305-4a0f-b21c-31d6d1115dc7/48a910bf-c782-4ffc-ba75-d0603b5c4817/1280x720/match/image.jpg"
-        width: 1080
+      - url: "https://www.news4jax.com/resizer/qpiGKRvh83depZOjlULXkPAxH7Q=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/57NA7ZSDRBDPNH2U77EAYEMEY4.jpg"
+        width: 1280
         height: 720
         isCached: true
-  - title: "Joe Biden Campaign Isn’t Selling ‘I’m Speaking’ Shirts, But Here’s Where You Can Buy Them"
-    excerpt: "T-shirts, coffee mugs, face masks, and other products were selling online after the Harris-Pence debate, capturing key phrases from the event."
-    publishedDateTime: 2020-10-08T14:20:00Z
-    webUrl: "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881"
-    ampWebUrl: "https://www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/joe-biden-campaign-isnt-selling-im-speaking-shirts-heres-where-you-can-buy-them-3058881?amp=1"
+  - title: "'Animal Crossing' Now Has Joe Biden Island With Ice Cream And Dogs"
+    excerpt: "Joe Biden has taken his presidential campaign to \"Animal Crossing: New Horizons\" as he now has his own island in the game."
+    publishedDateTime: 2020-10-19T11:37:00Z
+    webUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299"
+    ampWebUrl: "https://www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/animal-crossing-now-has-joe-biden-island-ice-cream-dogs-3064299?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 66
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/19/senator-kamala-harris-is-to-formally-accept-the.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/30/soundbitedemocratic-presidential-challenger-joe-biden-calls-republican-incumbent.jpg"
         width: 1024
-        height: 682
+        height: 576
         isCached: true
-  - title: "I served 15 years as general counsel for the Republican Party. Here's why I'm voting for Joe Biden | Opinion"
-    excerpt: "Joe Biden is a problem solver who will work with Republicans to address critical issues facing us during this time of unprecedented upheaval."
-    publishedDateTime: 2020-10-13T15:41:00Z
-    webUrl: "https://www.tennessean.com/story/opinion/2020/10/13/im-lifelong-republican-and-im-voting-joe-biden/5975577002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5975577002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5975577002"
+  - title: "Joe Biden's big lead on health care issues"
+    excerpt: "Health care has fragmented into multiple issues in this campaign cycle, and Joe Biden leads President Trump on almost all of them, according to our KFF polling. The big picture: Biden’s commanding leads on protecting people with pre-existing conditions and managing the coronavirus outbreak suggest that Trump’s record and rhetoric on those issues,"
+    publishedDateTime: 2020-10-21T09:48:00Z
+    webUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    ampWebUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 56
+      name: Axios
+      domain: axios.com
+    quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/10/NLED/8b84935a-6a1f-43dc-9a00-fac4d0a05776-AP20284773795313.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://images.axios.com/iiMe_pWvOG9thYzTHy1HDzV_dOo=/fit-in/1366x1366/2020/10/20/1603237182398.png"
+        width: 1366
+        height: 898
+        isCached: true
+  - title: "One-on-one with Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden talks exclusively with WISN 12 News' Adrienne Pedersen about his confidence in winning Wisconsin, the surge in coronavirus cases and about Hunter Biden."
+    publishedDateTime: 2020-10-21T01:59:00Z
+    webUrl: "https://www.wisn.com/article/one-on-one-with-joe-biden/34431537"
+    ampWebUrl: "https://www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/joe-biden-1603240622.jpg?crop=1xw:1xh;center,top&resize=1200:*"
         width: 1200
         height: 675
         isCached: true
-  - title: "Editorial: Joe Biden's leadership would benefit our country"
-    excerpt: "A Biden administration has an opportunity to demonstrate that the presidency can be — should be — about more than the chief executive’s vanity or need for constant attention."
-    publishedDateTime: 2020-10-11T11:14:00Z
-    webUrl: "https://omaha.com/opinion/editorial/editorial-joe-bidens-leadership-would-benefit-our-country/article_48cd10a0-0314-5bb3-adff-48779fe262cd.html"
+  - title: "WATCH: Vice President nominee Kamala Harris speaks at Orlando 'drive-in rally'"
+    excerpt: "Democratic vice presidential nominee Kamala Harris will be encouraging early voting during campaign stops in Orlando and Jacksonville."
+    publishedDateTime: 2020-10-20T14:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/2020/10/19/democratic-vp-nominee-kamala-harris-campaigns-orlando/3708455001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3708455001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3708455001"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 55
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 71
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8c/48cd10a0-0314-5bb3-adff-48779fe262cd/5f80b9709c912.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PBRE/59193f60-c191-4084-999c-d0f97da822b2-BRE_AP_Kamala_Harris_02.jpg?auto=webp&crop=3980,2239,x0,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris to make two stops in North Carolina Wednesday | Charlotte Observer"
+    excerpt: "Kamala Harris will visit North Carolina on Wednesday, almost a week after canceling a visit due to COVID-19 cases among a staffer and flight crew member. A brief statement released by the Joe Biden presidential campaign Monday said Harris plans to visit Asheville and Charlotte."
+    publishedDateTime: 2020-10-19T15:41:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article246555648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article246555648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246555648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/a3270031-586e-48ae-9de2-0b9a14248687/01c7d70f-98b4-4b30-8887-d9631f2436e7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris cancels travel through Sunday after staffer tests positive for COVID-19"
+    excerpt: "Democratic vice presidential nominee Kamala D. Harris is canceling travel plans through Sunday after her communications director tested positive for the coronavirus."
+    publishedDateTime: 2020-10-16T03:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/15/kamala-harris-cancels-travel-through-sunday-after-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/15/kamala-harris-cancels-travel-through-sunday-after-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/15/kamala-harris-cancels-travel-through-sunday-after-/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 68
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/13/Supreme_Court_Barrett_89620.jpg-1fd29_c0-0-3513-2049_s1200x700.jpg?55b321e0026dbb50574414a129505f8801aac6e6"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
+    excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
+    publishedDateTime: 2020-10-18T04:46:00Z
+    webUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/"
+    ampWebUrl: "https://www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/news/world/outrage-over-mispronunciation-of-kamala-harris-name-supporters-launch-online-campaign-4176955/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 67
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/08/Kamala-Harris-1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
+    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
+    publishedDateTime: 2020-10-21T09:04:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 66
+    images:
+      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "What Happens To Kamala Harris' Senate Seat After The Election? There's A Process"
+    excerpt: "Ever since Democratic presidential nominee Joe Biden named Sen. Kamala Harris (D-California) as his running mate, Harris has been taking on both her congressional responsibilities and campaigning duties."
+    publishedDateTime: 2020-10-20T13:37:00Z
+    webUrl: "https://www.elitedaily.com/p/what-happens-to-kamala-harris-senate-seat-after-the-election-theres-a-process-39335037"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 65
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/10/19/4c46921e-b617-4491-ab6f-e18129ad003b-getty-1228948863.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
         height: 630
         isCached: true
-  - title: "Elizabeth Warren stumps for Joe Biden at N.H. rally"
-    excerpt: "The scene in the parking lot of Teamsters Local 633 in Manchester, N.H., offered a sharp contrast to the big gatherings Warren hosted during the New Hampshire presidential primary, when supporters packed large venues and waited in long lines for a selfie with the Massachusetts senator."
-    publishedDateTime: 2020-10-10T20:25:00Z
-    webUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/10/nation/elizabeth-warren-stumps-joe-biden-nh-rally/?outputType=amp"
+  - title: "Alicia Andrews: Joe Biden is the better presidential candidate to manage foreign affairs and the military"
+    excerpt: "The United States needs a leader who understands that when it comes to foreign policy, we need allies, we need thorough plans and to listen to our military leaders, Andrews"
+    publishedDateTime: 2020-10-18T05:00:00Z
+    webUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.html"
+    ampWebUrl: "https://tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/opinion/columnists/alicia-andrews-joe-biden-is-the-better-presidential-candidate-to-manage-foreign-affairs-and-the/article_0a9ad984-fa02-11ea-bb44-d382e7707112.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 58
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/d/3c/d3ce265c-fa12-11ea-baa9-2fa13ab2c22d/5f6557423aa11.image.jpg?resize=1024%2C1408"
+        width: 1024
+        height: 1408
+        isCached: true
+  - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
+    excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
+    publishedDateTime: 2020-10-16T13:52:00Z
+    webUrl: "https://www.washingtonian.com/2020/10/16/tj-ducklo-32-joe-bidens-press-secretary-and-he-has-stage-4-cancer/"
+    type: article
+    provider:
+      name: Washingtonian
+      domain: washingtonian.com
+    quality: 55
+    images:
+      - url: "https://www.washingtonian.com/wp-content/uploads/2020/10/20200226_winyaindigosociety_charleston_sc_0003-1024x681.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 55
+    images:
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
+    excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
+    publishedDateTime: 2020-10-19T09:50:00Z
+    webUrl: "https://www.10tv.com/video/syndication/veuer/kamala-harris-cancels-travel-after-staff-members-test-positive-for-covid-19/602-72b05335-6d45-4071-86cd-3365d78bd156"
+    type: article
+    provider:
+      name: 10TV.com
+      domain: 10tv.com
+    quality: 53
+    images:
+      - url: "https://media.tegna-media.com/assets/VEUER/images/43c5298a-0ffa-4933-8aa9-79a57d21ce16/43c5298a-0ffa-4933-8aa9-79a57d21ce16_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
+    excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
+    publishedDateTime: 2020-10-20T09:49:00Z
+    webUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 53
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2016/06/perdue2.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Kamala Harris leaves campaign trail after positive COVID test on staff. Will it hurt her ticket? | Charlotte Observer"
+    excerpt: "Kamala Harris is off the campaign trail because two people involved in her campaign tested positive for COVID-19 — has both positives and negatives for Democrats, political experts said Thursday."
+    publishedDateTime: 2020-10-15T21:02:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246481970.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/70f7fa99-4b85-46e4-837e-1a7993be9522/60c69175-10cb-490d-936b-43105ffe89f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
+    excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
+    publishedDateTime: 2020-10-14T20:00:00Z
+    webUrl: "https://www.elitedaily.com/p/kamala-harris-grilling-amy-coney-barrett-on-the-affordable-care-act-is-everything-38532442"
+    type: article
+    provider:
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 50
+    images:
+      - url: "https://imgix.bustle.com/uploads/getty/2020/10/13/8790f30f-3e1d-4148-a1b0-ccd0413eb6d7-getty-1229045538.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Kamala Harris suspends travel after two associated with campaign test positive for COVID-19"
+    excerpt: "Senator Kamala Harris's travel has been canceled through Sunday after two people associated with the campaign tested positive for coronavirus."
+    publishedDateTime: 2020-10-15T23:38:00Z
+    webUrl: "https://www.bostonglobe.com/2020/10/15/nation/senator-kamala-harris-travel-canceled-through-sunday-after-2-people-associated-with-campaign-contract-coronavirus/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/10/15/nation/senator-kamala-harris-travel-canceled-through-sunday-after-2-people-associated-with-campaign-contract-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/10/15/nation/senator-kamala-harris-travel-canceled-through-sunday-after-2-people-associated-with-campaign-contract-coronavirus/?outputType=amp"
     type: article
     provider:
       name: The Boston Globe
       domain: bostonglobe.com
-    quality: 55
-  - title: "WATCH: Joe Biden Tells Local Reporter Court-Packing is ‘A Legitimate Question’ — Then Gives Almost Perfect Answer"
-    excerpt: "Local CBS Nevada reporter Orko Manna took another crack at asking Joe Biden about adding justices to the Supreme Court, and the former vice president acknowledged it's \"a legitimate question\" — then gave an almost perfect answer."
-    publishedDateTime: 2020-10-10T14:07:00Z
-    webUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/"
-    ampWebUrl: "https://www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/opinion/watch-joe-biden-tells-local-reporter-court-packing-is-a-legitimate-question-then-gives-almost-perfect-answer/amp/"
+    quality: 45
+  - title: "Here’s How To Visit Joe Biden’s ‘Animal Crossing’ Island, Which Is Decked Out In Campaign Stuff"
+    excerpt: "The presidential election is less than a month away, and Democratic candidate Joe Biden’s campaign found a new way to reach voters. While it might be unconventional, Biden's campaign has a new virtual field office on an island in Animal"
+    publishedDateTime: 2020-10-17T16:00:00Z
+    webUrl: "https://www.elitedaily.com/p/heres-how-to-visit-joe-bidens-animal-crossing-island-which-is-decked-out-in-campaign-stuff-39314113"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 54
+      name: Elite Daily
+      domain: elitedaily.com
+    quality: 43
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Joe-Biden-10-9c.jpg"
+      - url: "https://imgix.bustle.com/uploads/image/2020/10/17/8d59e681-577a-4830-893b-4d428623c657-combine_images-2.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden says voters 'don't deserve' to know his position on packing the Supreme Court with additional justices ahead of the November election"
-    excerpt: "Joe Biden said on Friday that American voters 'don't deserve' to know his stance on packing the Supreme Court in remarks made to a reporter in Las Vegas, Nevada, during a campaignn stop."
-    publishedDateTime: 2020-10-10T21:32:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-8826943/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8826943/amp/Joe-Biden-says-voters-dont-deserve-know-position-packing-Supreme-Court.html"
+  - title: "Joe Biden campaigns in Durham, NC | Charlotte Observer"
+    excerpt: "Check out photos from Democratic presidential candidate former Vice President Joe Biden campaign stop in Durham, N.C. Sunday afternoon, Oct. 18, 2020."
+    publishedDateTime: 2020-10-18T20:12:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/national-politics/article246542233.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 54
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/10/10/22/34237734-0-image-a-34_1602363783713.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "How the biggest Democratic stronghold in Texas could cost Joe Biden a win here"
-    excerpt: "No region of the state is more solidly Democratic than the Texas border, yet its abysmal turnout could be a key to Donald Trump winning Texas."
-    publishedDateTime: 2020-10-03T09:13:00Z
-    webUrl: "https://www.sfchronicle.com/news/politics/texas_legislature/article/Democratic-stronghold-texas-joe-biden-texas-border-15616152.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 51
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/36/57/20048852/13/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Joe Biden has a history of keeping women safe from domestice violence | Opinion"
-    excerpt: "Many Floridians are wondering who the real Joe Biden beyond the public persona that we know well from his decades in public service. As a senior advisor to Vice President Biden in the White House from 2015-2017,"
-    publishedDateTime: 2020-10-12T21:09:00Z
-    webUrl: "https://www.miamiherald.com/opinion/op-ed/article246405055.html"
-    ampWebUrl: "https://amp.miamiherald.com/opinion/op-ed/article246405055.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article246405055.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 51
-  - title: "Joe Biden Remarks to Reporters on Supreme Court Confirmation Hearing."
-    excerpt: "Joe Biden speaks briefly with reporters before departing for Ohio. Asked if the nominee’s faith should be considered, he responded “No. Her faith should not be considered...No one’s faith should be questioned."
-    publishedDateTime: 2020-10-12T23:08:00Z
-    webUrl: "https://www.c-span.org/event/?476830/"
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Orlando, Florida"
+    excerpt: "T11:55:00-04:00 Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Senator Kamala Harris (D-CA) delivers campaign remarks in Orlando, Florida. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-10-19T16:12:00Z
+    webUrl: "https://www.c-span.org/video/?477125-1/senator-kamala-harris-campaigns-orlando-florida"
     type: article
     provider:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
+    excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
+    publishedDateTime: 2020-10-19T16:53:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/national-politics/article246557098.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 33
 
 secured: "EIeP4HqVybNbQGaNc7B6hTd5yS5tZVIT7+jaON7ClsMRJvosJKf08ppfaH4/HCd3N5X9UaY5gIdjWtHebQsrDS5rUG3U1jKU1iXRqQqctWmQU2HUZtod9CnIv9FBbKXcHyR8jTaxb687mQYHZMdcUSbB66Xha2OlQX3l/jqKRliHeZKrd6cnNFbuRBCjliqNCQfYA3cgPK2Ze9iewWjpW1K3ALEZizPQMUo52VNG/VpCJL+hccUp3f5YXJnD6x2puVmkE8UZXkNBuG3X7zP92LjmzaMJobYg3QJqmMbq4AnVYq+2Zp3sjHFgJzLV05LjVkHJwYkDUCqAL2lymOhZ2ti0aNiFIxn0rurAFD+7mKUqBaUaV+zeTRh1HEyiSyZ5d+Nz8VQkUkhdXo/2blC754n8I/OAl7f1ID18cHTBOV3gMtR757y+o0YPKgzNE47l/kODYinscthh3SzSAOExbFxgVIdjSDmX2VIGKBLFsITUuC44TY+dDfCjU1/0YxOTr35oGYH6+rezejcq6yL+vw==;cWKu3OvcvfwGrs43y5ZcWA=="
 ---

@@ -3637,6 +3637,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Biden building war chest to battle Trump after the election: report"
+    excerpt: "The Daily Beast reported that Joe Biden is amassing a large pool of funds — not to run his campaign, but to cover the legal expenses of duking it out with President Donald Trump in the event that the election ends up in the courtroom."
+    publishedDateTime: 2020-10-20T18:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 105
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump: Kamala Harris will have to take over for Biden after three months"
     excerpt: "President Trump predicted Thursday that Joseph R. Biden wouldn’t last more than a few months if he’s elected president before Sen. Kamala D. Harris, his running mate, would have to take over."
     publishedDateTime: 2020-10-10T02:22:00Z

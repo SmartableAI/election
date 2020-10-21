@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-yo
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 265
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden calls controversial New York Post story about his son Hunter a 'smear campaign'"
-    excerpt: "Biden forcefully pushed back against the report that Hunter tried to set up a meeting between a Ukrainian official and the former Vice President."
-    publishedDateTime: 2020-10-17T18:13:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/joe-biden-hunter-biden-new-york-post-donald-trump-disinformation-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/5f8b2e529e9fe40019009f10?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 375
-        isCached: true
   - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
     excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
     publishedDateTime: 2020-10-16T21:44:00Z
@@ -122,22 +106,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Joe Biden could return to Irish roots as US president"
-    excerpt: "Mr Biden was vice president. He wants to return, but next time as president. For now, heaven can wait. For Ronald Reagan it was Ballyporeen. For Barack Obama it was Moneygall. For Joe Biden it is Carlingford."
-    publishedDateTime: 2020-10-18T03:19:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-northern-ireland-54557939"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-northern-ireland-54557939"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/158D7/production/_114897288_hi063809777.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "CAL THOMAS: Can Joe Biden be trusted?"
     excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
     publishedDateTime: 2020-10-21T06:00:00Z
@@ -153,22 +121,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/c/4c/c4c50070-b312-11e8-a5a2-574bfb12c724/5b9322aedfd4a.image.jpg"
         width: 900
         height: 1217
-        isCached: true
-  - title: "Joe Biden’s contradictory statements show he’s not being honest with voters"
-    excerpt: "Joe Biden is not up for the job and is anything but a model of integrity, writes Marcia S. Hanzal of Avon in a letter to the editor."
-    publishedDateTime: 2020-10-16T15:23:00Z
-    webUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html"
-    ampWebUrl: "https://www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/joe-bidens-contradictory-statements-show-hes-not-being-honest-with-voters.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 73
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RKTVKHVIOJGHRNG2YQIQHIHO7A.jpg"
-        width: 5220
-        height: 2715
         isCached: true
   - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
     excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"

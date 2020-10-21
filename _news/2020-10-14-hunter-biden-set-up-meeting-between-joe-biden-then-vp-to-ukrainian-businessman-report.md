@@ -266,6 +266,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden counting on press, Big Tech to protect him from answering questions: Cruz"
+    excerpt: "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings."
+    publishedDateTime: 2020-10-21T16:06:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/41ZRRWz5D6k/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-joe-hunter-twitter-facebook-big-tech-senate-ted-cruz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z
@@ -788,6 +804,22 @@ related:
     quality: 79
     images:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/289/1271df3f-91af-4add-b909-675291f26ca3.png"
+        width: 650
+        height: 340
+        isCached: true
+  - title: "The FBI Learned Quite a Bit Now That Hunter Biden's Alleged Laptop Is In Their Possession"
+    excerpt: "Ever since the New York Post broke their initial story about Hunter Biden's alleged laptop containing emails that detailed his corrupt international business dealings – including in Ukraine and China – one of the Democrat's and the media's main talking points has been that this is part of a Russia disinformation campaign."
+    publishedDateTime: 2020-10-21T01:55:00Z
+    webUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/20/the-fbi-learned-quite-a-bit-now-that-hunter-bidens-alleged-laptop-is-in-their-possession-n2578477"
+    ampWebUrl: "https://townhall.com/tipsheet/bethbaumann/2020/10/20/the-fbi-learned-quite-a-bit-now-that-hunter-bidens-alleged-laptop-is-in-their-possession-n2578477?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/tipsheet/bethbaumann/2020/10/20/the-fbi-learned-quite-a-bit-now-that-hunter-bidens-alleged-laptop-is-in-their-possession-n2578477?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 76
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2019/277/24e3deaa-5f96-48e9-9eb5-7dc1caf22d4b.png"
         width: 650
         height: 340
         isCached: true

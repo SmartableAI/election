@@ -95,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Nearly 300 former national security officials sign Biden endorsement letter"
-    excerpt: "Nearly 300 more former national security officials have signed onto a letter endorsing Democratic candidate Joe Biden for president."
-    publishedDateTime: 2020-10-20T09:37:00Z
-    webUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter"
-    ampWebUrl: "https://thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521793-nearly-300-former-national-security-officials-join-biden-endorsement-letter?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "The Finance 202: Joe Biden's tax plan would barely dent growth, conservative group finds"
     excerpt: "President Trump says Joe Biden’s tax plan would bring about a depression and destroy the country. Independent studies have found no support for that claim. And the latest, an updated examination of the Biden proposal from the right-leaning American Enterprise Institute,"
     publishedDateTime: 2020-10-14T12:10:00Z

@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-09-29-michael-cohen-said-trumps-biggest-fear-is-ending-up-with-a-massive-tax-bill-and-face-possible-tax-fraud-charges.md",
+      "title": "Michael Cohen said Trump's 'biggest fear' is ending up with a massive tax bill and face possible tax fraud charges",
+      "excerpt": "The president's former personal attorney hinted that more could come to light after The New York Times published details of his taxes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9",
+      "originalUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f73030a74fe5b0018a8de1a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/cohen-says-trump-fears-tax-fraud-charges-nyt-story-2020-9?amp",
+      "publishedDateTime": "2020-09-29T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-29-trumps-supreme-court-pick-on-capitol-hill-for-meeting-with-gop-senators.md",
       "title": "Trump's Supreme Court pick on Capitol Hill for meeting with GOP senators",
       "excerpt": "President Donald Trump's nominee for the Supreme Court, Judge Amy Coney Barrett, will meet Republican senators throughout Tuesday on Capitol Hill, as the party finalizes plans for a quick confirmation process ahead of the November presidential election.\n    \n",
@@ -1316,58 +1368,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-reports-former-donald-trump-campaign-manager-brad-parscale-hospitalized-after-threatening-to-harm-himself.md",
-      "title": "Reports: Former Donald Trump campaign manager Brad Parscale hospitalized after threatening to harm himself",
-      "excerpt": "Multiple outlets reported former Donald Trump campaign manager Brad Parscale was taken to a hospital without incident after police were called.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/09/27/brad-parscale-donald-trump-florida-hospitalized/3557987001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/28/USAT/14a80ae8-91ab-40af-9e4e-33a0a81364af-AP19227844022730.jpg?auto=webp&crop=5258,2958,x0,y267&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3557987001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3557987001",
-      "publishedDateTime": "2020-09-27T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -751,6 +751,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Huckabee Urges Trump To Stop Focusing On Hunter Biden"
+    excerpt: "\"Forget about all the distractions of everything except one thing: Remind the American people that it is their lives that are really on the mark right now.\""
+    publishedDateTime: 2020-10-21T17:08:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/21/huckabee-urges-trump-to-stop-focusing-on-hunter-biden/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/21/huckabee-urges-trump-to-stop-focusing-on-hunter-biden/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/21/huckabee-urges-trump-to-stop-focusing-on-hunter-biden/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90695c6ddfc07a9dd340f1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1687"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z

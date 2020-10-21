@@ -2,6 +2,62 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-09-19-ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.md",
+      "title": "Ginsburg vacancy puts pressure on Trump-critic Republicans in Senate",
+      "excerpt": "Supreme Court Justice Ruth Bader Ginsburg’s death Friday has put a spotlight on a handful of unpredictable Republican senators.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zVhiNaItgRE/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/collins-romney-murkowski.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ginsburg-vacancy-puts-pressure-on-trump-critic-republicans-in-senate.amp",
+      "publishedDateTime": "2020-09-19T02:59:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-current-events-electric-fence-deters-trump-sign-thieves.md",
       "title": "Current events: Electric fence deters Trump sign thieves",
       "excerpt": "A Massachusetts man tired of people stealing his Donald Trump campaign sign has come up with a shocking solution: an electrified fence",
@@ -335,7 +391,7 @@
       "originalUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1307,63 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-18-joe-biden-cnns-anderson-cooper-appear-to-dispense-with-social-distancing-during-town-hall-commercial-break.md",
-      "title": "Joe Biden, CNN’s Anderson Cooper appear to dispense with social distancing during town hall commercial break",
-      "excerpt": "A former CNN employee noticed that Anderson Cooper and Joe Biden stopped social distancing during Thursday’s town hall when they thought the liberal network cut to a commercial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
-      "originalUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/Biden-Anderson-Cooper-REUTERS.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/joe-biden-anderson-cooper-cnn-town-hall-social-distance.amp",
-      "publishedDateTime": "2020-09-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
       ]
     }
   ],

@@ -107,6 +107,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Some media liberals urge revenge, payback if Trump loses"
+    excerpt: "Media commentators, who are unloading everything they have on President Trump, are no longer content with the idea of him merely losing."
+    publishedDateTime: 2020-10-21T16:27:00Z
+    webUrl: "https://www.foxnews.com/media/some-media-liberals-urge-revenge-payback-if-trump-loses"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fc6cce86-a83c-48ed-9313-0f297469ba42/5177576a-8942-4aa9-b4bd-d612b069c42d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fC/NdGuGlsVcVqUKK6lVkQvX8QcGQFrkFt8OkMBjAAkmG8aZJnUqOB6KZV8+HuI1zPsLvritks2QxU7rn+S8DSnAD8VUUzP09xtAl4IFo/iLtTcpAHoR+3fR2FQufRgtvl5cDbObuoZsEjfs3JrqSRfdoFSz+Ckj80/2vJpp6UWIVlSgS4hZ2AXi8tz27eye2wWUL12YCQF2hf7pP0Da1zEZN4o28P/GqsaywQH05htOAk+qscMRgblanYbaJdKsbEvBTU5eQwA8yBSKg1hChGY+vEHfXF8rGLGnRh9wdAQLG8Ul9esQTAQ7sMacPo5J7KZr1xeLNUqB7e5myUYlvBQldCsq81O74eyCdjsUPns=;m4JcYBT1pvol4KVGEixTzQ=="
 ---

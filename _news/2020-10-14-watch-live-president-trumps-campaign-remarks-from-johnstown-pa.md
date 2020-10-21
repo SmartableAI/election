@@ -27,37 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Our goal is record Black voter turnout to fire Trump and save Black lives: NAACP president"
-    excerpt: "It's not just Donald Trump and Joe Biden on the ballot, it’s a decision about the country we want. Honor John Lewis and Ruth Bader Ginsburg by voting."
-    publishedDateTime: 2020-10-12T09:15:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/12/black-voters-turn-out-fire-donald-trump-and-enablers-naacp-column/5960096002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5960096002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5960096002"
+  - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
+    excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
+    publishedDateTime: 2020-10-21T03:28:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 115
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/11/USAT/3552bc64-fdf6-4fba-97f5-8484fdd8cf22-AP_Voters_of_Color_Debate_Reaction.jpg?auto=webp&crop=5820,3274,x0,y296&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Donald Trump is set to visit Prescott, Tucson. Here's why"
-    excerpt: "Rural Arizona is the key for President Donald Trump to have any chance to carry Arizona on Nov. 3, and Pima County cannot be solidly blue, either."
-    publishedDateTime: 2020-10-19T02:31:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/arizona/2020/10/18/president-donald-trump-set-visit-prescott-tucson-heres-why/3683937001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/3683937001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/3683937001"
+  - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
+    excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
+    publishedDateTime: 2020-10-20T22:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998366002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/68012bc8210d5ae25ddc97577041b0babeed4697/c=0-6-2397-1360/local/-/media/2016/10/04/Phoenix/Phoenix/636112034561500935-ROB-1098.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
         width: 1200
-        height: 678
+        height: 675
+        isCached: true
+  - title: "Trump, unhappy with questions from ‘60 Minutes’ host Lesley Stahl, threatens to release interview himself"
+    excerpt: "President Trump lashed out at “60 Minutes” host Lesley Stahl and threatened to release their interview after he cut off their conversation at the White House on Tuesday because he didn’t like the aggressive tone of her questions."
+    publishedDateTime: 2020-10-21T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6GBNYQTEUI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 1024
+        isCached: true
+  - title: "Ice Cube Once Wanted to ‘Arrest’ President Donald Trump; Now He’s Working With Him"
+    excerpt: "Ice Cube has long been critical of the establishment, but now he's joining forces with President Donald Trump on a new plan"
+    publishedDateTime: 2020-10-18T18:34:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/ice-cube-donald-trump.html/"
+    type: article
+    provider:
+      name: The Cheat Sheet
+      domain: cheatsheet.com
+    quality: 49
+    images:
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2020/05/Ice-Cube-3.jpg"
+        width: 1024
+        height: 710
         isCached: true
 
 secured: "MjemKgY7GxKjr5h347iVGYHVQo1FHmZj1OelLKGzJ1OLaxnGKScwgAjnlpN+5BoYIIPVQx0LbF1FY2BNeCQ9PF8Kbq+Y8W0pVR4aDgUomFPdKGHvMwvinKcuRi//Zf9TpFBIvw9JL+cqmuVKL1GV0dUE7o6giT7XAeS0imuoMWjbFJt25S/mkUIYsZcjFoQx8iazpnz3cmwO3xDGZ+xMTEAxZbHRyoPvDT2J63/jSVpsiw4ullf9CklNcdzQEZ97khCuCkRVUkM+Zrc0rGUjzPMwAEUuIu9QJ0HRtAtxEoIUPVRROW39L2O19gwReIMCMA979p10rJm/3WBc5PdfCf1joMGuTe0SJcyssEp1Whc=;2cVaDth5DtB9kf67vIpBIQ=="

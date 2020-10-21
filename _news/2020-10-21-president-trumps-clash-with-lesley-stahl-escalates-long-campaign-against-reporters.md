@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
 type: article
 quality: 119
-heat: -1
-published: false
+heat: 199
+published: true
 
 provider:
   name: USA Today
@@ -31,53 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
-    excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
-    publishedDateTime: 2020-10-20T08:54:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
+  - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
+    excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
+    publishedDateTime: 2020-10-20T22:38:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998366002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
-    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
-    publishedDateTime: 2020-10-20T10:04:00Z
-    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
+  - title: "Trump, unhappy with questions from ‘60 Minutes’ host Lesley Stahl, threatens to release interview himself"
+    excerpt: "President Trump lashed out at “60 Minutes” host Lesley Stahl and threatened to release their interview after he cut off their conversation at the White House on Tuesday because he didn’t like the aggressive tone of her questions."
+    publishedDateTime: 2020-10-21T01:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-60-minutes-leslie-stahl/2020/10/20/d7ef0554-132a-11eb-bc10-40b25382f1be_story.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 108
     images:
-      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6GBNYQTEUI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 1024
         isCached: true
-  - title: "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs"
-    excerpt: "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies."
-    publishedDateTime: 2020-10-18T16:24:00Z
-    webUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs"
-    ampWebUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
+  - title: "Watch Live: President Trump's Campaign Remarks From Johnstown PA"
+    excerpt: "Trailing in the polls, President Donald Trump returns to the battleground state Pennsylvania on Tuesday. Trump will speak at a rally at the John Murtha Johnstown-Cambria County Airport at 7 p.m. Trump has returned to the campaign trail after having tested positive for the coronavirus almost two weeks ago."
+    publishedDateTime: 2020-10-14T01:11:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/watch-live-president-trumps-campaign-remarks-johnstown-pa"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29017355/watch-live-president-trumps-campaign-remarks-from-johnstown-pa"
     type: article
     provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 71
+      name: Patch
+      domain: patch.com
+    quality: 75
     images:
-      - url: "https://media.vanityfair.com/photos/5f8c5eaa936b35581b460cbb/master/pass/john-fogerty.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://patch.com/img/cdn20/ap/22920172/20201013/041125/styles/patch_image/public/ap20286856381385-1___13155747467.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "Ice Cube Once Wanted to ‘Arrest’ President Donald Trump; Now He’s Working With Him"
+    excerpt: "Ice Cube has long been critical of the establishment, but now he's joining forces with President Donald Trump on a new plan"
+    publishedDateTime: 2020-10-18T18:34:00Z
+    webUrl: "https://www.cheatsheet.com/entertainment/ice-cube-donald-trump.html/"
+    type: article
+    provider:
+      name: The Cheat Sheet
+      domain: cheatsheet.com
+    quality: 49
+    images:
+      - url: "https://www.cheatsheet.com/wp-content/uploads/2020/05/Ice-Cube-3.jpg"
+        width: 1024
+        height: 710
         isCached: true
 
 secured: "aMfGJ6PRPFVUXvcEHftEciNeuC8MRCZkDcfGeb5sUTDNwbPqv/kyntBGZ/87EwM39qg/7r8waSpyEtbEj8/RR00NVAo+K9xsZSB/i/MtMf0zPGqWNQSCPoqNfwPpvoHRU4nDVWwvW5X7ASKNznxxpKDWrOp1ux1U+QDK9AKXsxskpMh0KQHIpr7bOhFHxNvuVbkwrgSdsed1bBasgVsSutl4zNjMm64W8yi8inxeU5LbDT+xi2hV4QqZcE2QPqv97VV7tmHaQpiKiRaM4dCCp0ZajFYPmY3KqVl9RjLLzJLW/YEEGRSjF0lj+FZ8PjrcNcL2DOMmqFkCrwpWsIbrli8g0hYaT7WuqsfFyuEQosn6r22nJPkt2a5Bz/M9g/TL+AqLhezacDTAo3/KroTOwSuxMgzy66G0OMQDY0pcxH9V0timyGqknyJxe8mQfCsEMTfbagoQ8eO6giTt1IhEq76eqeQtsrxx0mmNto/VqfKyN6Jd4YQVuP7wt5noJPCdmPcuOQ5SBRCryHGwukmYAw==;t1NCOkyv+6cZf9Aef/eY9A=="

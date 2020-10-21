@@ -47,6 +47,36 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Perdue's rival raises nearly $2M after senator mispronounces Kamala Harris's name"
+    excerpt: "Democratic Georgia Senate candidate Jon Ossoff said his campaign raised nearly $2 million after Sen. David Perdue (R-Ga.) mispronounced Sen. Kamala Harris’s (D-Calif.) name at a Trump campaign event."
+    publishedDateTime: 2020-10-19T13:02:00Z
+    webUrl: "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name"
+    ampWebUrl: "https://thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/521641-perdues-rival-raises-2m-after-senator-mispronounces-kamala-harriss-name?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 120
+    images:
+      - url: "https://thehill.com/sites/default/files/ossoffjohn_perduedavid_072920getty_split.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Kamala Harris' staff tests positive for COVID..."
+    excerpt: "Watch \"Kamala Harris suspends campaign travel as her staff tests positive for COVID-19 \", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-15T17:12:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201015201341-kamala-harris-suspends-campaign-travel-as-her-staff-tests-positive-for-covid-19/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/15/story_07275107_1602793145.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Democrats must ‘leave no doubt on election day’ Kamala Harris' husband says in Michigan"
     excerpt: "Michigan Democrats urged voters to get involved in the effort to elect Joe Biden during campaign events across the state Monday. Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris,"
     publishedDateTime: 2020-10-12T23:36:00Z
@@ -111,21 +141,51 @@ related:
         width: 800
         height: 532
         isCached: true
-  - title: "GOP senator who mocked Kamala Harris once asked Black supporter if he liked ‘Perdue chicken’ and about Herman Cain"
-    excerpt: "Ga., drew swift backlash on Friday night after he deliberately mispronounced Democratic vice presidential nominee Kamala Harris‘ first name at a rally, adding several syllables as he drew laughs from the crowd."
-    publishedDateTime: 2020-10-20T09:49:00Z
-    webUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-senator-who-mocked-kamala-harris-once-asked-black-supporter-if-he-liked-perdue-chicken-and-about-hermain-cain/amp/"
+  - title: "Poultry company distances itself from GOP's Perdue amid uproar over Republican mocking Kamala Harris"
+    excerpt: "Sen. David Perdue, Georgia Republican, unwillingly put the chicken company sharing his surname on the defensive Saturday by ruffling feathers during a Trump rally the night before."
+    publishedDateTime: 2020-10-17T22:35:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/17/perdue-distances-chicken-giant-from-gop-senator-am/"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 53
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 60
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2016/06/perdue2.jpg"
-        width: 800
-        height: 430
+      - url: "https://twt-thumbs.washtimes.com/media/image/2018/01/14/trump_42066_c0-0-2973-1734_s1200x700.jpg?f05d20b9dd9583e95c8cd473cbc2c16a25fe80c2"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Don Lemon Fires Back at Sen. Perdue, Offers Up Remedial Visual Aid for Pronouncing Kamala Harris’ Name Correctly"
+    excerpt: "CNN's Don Lemon fires back at Sen. David Perdue, offers up grade school-level visual aid for pronouncing Kamala Harris' name correctly"
+    publishedDateTime: 2020-10-17T03:33:00Z
+    webUrl: "https://www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/don-lemon-fires-back-at-sen-perdue-offers-up-remedial-visual-aid-for-pronouncing-kamala-harris-name-correctly/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 54
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Don-Lemons-Offers-Visual-Aid-for-Sen.-Perdue-to-Pronounce-Kamala-Harris-Name-Correctly.jpg"
+        width: 946
+        height: 532
+        isCached: true
+  - title: "David Perdue's mispronunciation of Kamala Harris' name immediately backfires"
+    excerpt: "David Perdue mispronounced the name of vice presidential nominee Sen. Kamala Harris — a colleague he has served with on the Senate Budget Committee for almost four years — Perdue's Democratic opponent Jon Ossoff raised over $1 million online after circulating the clip of Perdue speaking at a Trump's re-election Friday night."
+    publishedDateTime: 2020-10-17T19:41:00Z
+    webUrl: "https://www.chron.com/politics/article/David-Perdue-Kamala-Harris-name-Jon-Ossoff-video-15655519.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 52
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/61/11/20124283/12/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "TJ8tul1rCn5fuF/3/69cKgXEEzXnjcodb9tfuWgFDcuwFIh1tnbDXHUdzb5ZJd/MjoyAB1gxUucibwyMDuFLrZK88K6bPBtFTOIKyTEGoE8xtdnOBDGYiV/DqJCHMFB7ENlnhdPY++MP91i5FKLkg/18cFtinylPUP8DdrM7nQAJqVbJ02rhVdsB2NzfYVfnGq0XfpnumtFBIXTcdyJt17gEiXYHc/I54++jHfnv0y3ac1+slvhOE6tD37mQ5gzt/F3Mqg+v1boXLb9+5gCoBPXDnBrUXUGInDklOMI5lI2WtUYviMGV7LLnOpulSYMlSn2IBFQhvnM6brc5/B1TCtpB1XZyB5pyQNxpfP4WSuU=;9utfkMqfZdPfr4zDKagAaA=="

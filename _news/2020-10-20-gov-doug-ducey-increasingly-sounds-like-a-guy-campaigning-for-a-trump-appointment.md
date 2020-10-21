@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/5984704002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002"
 type: article
 quality: 119
-heat: 179
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,53 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
-    excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
-    publishedDateTime: 2020-10-21T03:28:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5998605002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002"
+  - title: "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?"
+    excerpt: "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?"
+    publishedDateTime: 2020-10-21T17:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5996029002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened"
-    excerpt: "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign."
-    publishedDateTime: 2020-10-20T10:04:00Z
-    webUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 103
-    images:
-      - url: "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "John Fogerty Joins Long List of Artists Demanding Trump Stop Using Their Songs"
-    excerpt: "John Fogerty, the singer and principal songwriter from Woodstock-era swamp rock group Creedence Clearwater Revival, has joined the growing list of musicians demanding that President Donald Trump stop blasting their tunes at his pep rallies."
-    publishedDateTime: 2020-10-18T16:24:00Z
-    webUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs"
-    ampWebUrl: "https://www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/style/2020/10/john-fogerty-joins-long-list-of-artists-demanding-trump-stop-using-their-songs/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 71
-    images:
-      - url: "https://media.vanityfair.com/photos/5f8c5eaa936b35581b460cbb/master/pass/john-fogerty.jpg"
-        width: 2000
-        height: 1333
+        height: 676
         isCached: true
 
 secured: "C/q1M7AZS9yO3fNelzHESDAz8Hp7N91A/m2FWw1MP5yBxi7ihVXe+92bsTgAC1Cqt7EMBFfD3N45v4OiPT20oGLiuk6YUmQ/X5A26bj0ohW8reHBJDsGo6a8PlzChJwA1ymYutSJmyytTb0iWqgiWzdxQihzwwhZ+c6dq0ujymEgPNg63SlO/8Jy6cAqDpxP56ytRmUMMbDwHU8f21C79iR1PqvfksSMm68Il3XRUchChDjTK0hNJUUtpHqEjvDkfIVym/K5fUZlTdTIqjXB+J49kaV5OAtxTEgY4LL1ew/75xex3ODHm06Tfwmb7zsgvPRA56ICISLolOH3Xlz+al22s4Zk499LJ0yS416vwA0=;QCqcWL9ZhFEXjGCgtfKRTQ=="

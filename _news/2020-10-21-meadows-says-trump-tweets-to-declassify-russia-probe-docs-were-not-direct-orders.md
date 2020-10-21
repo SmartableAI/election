@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/meadows-trump-tweets-declassify-rus
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp"
 type: article
 quality: 169
-heat: 169
+heat: 170
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 340
     isCached: true
 
-secured: "4rj78eG8OJS5tRqqHXgxoK//H+Va3XHDklV4W0BPxiEch2wIlL14hk1Rkd94DIHITCSISqBnBmM6MZd8vufY9+IYPAvk3V2RJf7OLMnWcV0MOyHWSB4yk3WSsjQJ5E3M4bvuyffmNwKp1jTw9cZKu+JVYI7wMZ0H832Wt2eqfaPNDBmcexm/eGmHS0aEZBpQBbsNkDBviR8w4lMrCvDNpFjUlBydtV1a5ESzcQ1lOBRVo1NmEnb1hQY2cOC6PD71xsF2Hnh7Y2XjYpvMXxaer2DoQ//mUxk83j0HG+PidG2YLdHj1TiKFkCF76fC9IFrribON6lB3ybaJCYZ3eZGTLfskh+ls3AMgRMHTiLyJhI=;RlrmhlYBfLaTb3ZGvvzL7g=="
+secured: "guaOpQFvGfKqZqro4Isv6Lw4TvuRuoG2jrgH3r6fxxUzRxcdQ+yfnoQ3k+Xc1AQaCk2laaOU9kW5Yv9ldm2zoVgkxCsca26MW1lmBJDX6FeNUWn46GzczRI6JxoJfmE2FmvbE5RY1IbR+1ieAy0J+Ya3GyB7LeLD/Od5hQC+veGGm6pM4EBaiLQqI8eE2dZJBKYAi+lkxp0x/dQRVCz9jJjdlDfpz75ZsomcNYI1KUZMt29uLpaenwS76LW5VfFnHUMKTwiPcpkZZVpcrptiG11lIR63IvSTOzvvWKKMU9VZuZEIMca88OookklMgBNDO53Cm0LP1JZbvgY61Y/Z12Da2KcXPHbMzMCdrPcYt9k=;qFw1XiVSGBYzV6Wf0C+TAg=="
 ---
 

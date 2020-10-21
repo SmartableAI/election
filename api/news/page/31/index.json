@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-09-15-top-trump-health-appointee-michael-caputo-warns-of-armed-insurrection-after-election.md",
+      "title": "Top Trump health appointee Michael Caputo warns of armed insurrection after election",
+      "excerpt": "The assistant secretary for public affairs at the Department of Health and Human Services promoted conspiracy theories in a Facebook Live event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
+      "originalUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C7HHXAHW4UI6VBPXLFARRCUYZU.jpg&w=1440",
+          "width": 1440,
+          "height": 990,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2020/09/14/michael-caputo-coronavirus-cdc/?outputType=amp",
+      "publishedDateTime": "2020-09-14T22:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-15-victor-davis-hanson-argues-biden-is-being-held-hostage-by-his-own-party.md",
       "title": "Victor Davis Hanson argues Biden is being ‘held hostage’ by his own party",
       "excerpt": "Hoover Institution Senior Fellow Victor Davis Hanson said Joe Biden is being held hostage by the Democrats as to not compromise his own campaign.",
@@ -1286,58 +1338,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-joe-and-jill-biden-voting-early-in-delawares-primary.md",
-      "title": "Joe and Jill Biden voting early in Delaware's primary",
-      "excerpt": "Democratic presidential nominee Joe Biden and his wife Jill Biden are voting early on Monday in Delaware’s primary election.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
-      "originalUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_bidenjill_02032020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/516272-joe-and-jill-biden-vote-early-for-delawares-primary?amp",
-      "publishedDateTime": "2020-09-14T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

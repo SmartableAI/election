@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-does-appearing-at-trump-rallies-help-martha-mcsally-in-arizonas-us-senate-race.md",
+      "title": "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?",
+      "excerpt": "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5996029002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002",
+      "publishedDateTime": "2020-10-21T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-trump-jobs-boom-is-a-convenient-myth.md",
+      "title": "The Trump ‘Jobs Boom’ Is a Convenient Myth",
+      "excerpt": "Covid economy, but unemployment declined steadily starting in 2010.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "originalUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247630?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "publishedDateTime": "2020-10-21T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-wants-to-cut-democrat-cities-covid-fundingduring-a-surge-in-cases.md",
       "title": "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases",
       "excerpt": "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer.",
@@ -53,7 +162,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1922,
+      "heat": 1782,
       "tags": null,
       "images": [
         {
@@ -105,7 +214,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -357,6 +466,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-21-president-trumps-clash-with-lesley-stahl-escalates-long-campaign-against-reporters.md",
+      "title": "President Trump's clash with Lesley Stahl escalates long campaign against reporters",
+      "excerpt": "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5998605002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002",
+      "publishedDateTime": "2020-10-20T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-election-2020-live-updates-trump-says-he-wasnt-wasnt-coming-to-erie-in-a-pre-covid-world.md",
       "title": "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world",
       "excerpt": "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans.",
@@ -515,58 +676,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-donald-trump-leaves-contentious-60-minute-interview-with-lesley-stahl-goes-on-twitter-attack.md",
-      "title": "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack",
-      "excerpt": "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5998366002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002",
-      "publishedDateTime": "2020-10-20T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -987,21 +1096,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-gov-doug-ducey-increasingly-sounds-like-a-guy-campaigning-for-a-trump-appointment.md",
-      "title": "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment",
-      "excerpt": "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest.",
+      "path": "_news/2020-10-20-exxon-mobil-said-a-hypothetical-call-where-trump-got-its-ceo-to-donate-25-million-to-his-campaign-never-happened.md",
+      "title": "Exxon Mobil said a 'hypothetical call' where Trump got its CEO to donate $25 million to his campaign never happened",
+      "excerpt": "At a Monday rally in Arizona, the president claimed that he could easily call up companies' CEOs and raise money for his reelection campaign.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/op-ed/laurieroberts/2020/10/19/gov-doug-ducey-campaigning-trump-cabinet-appointment/5984704002/",
+      "webUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
+      "originalUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 123,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/f345bcfb-7ba6-4e14-8eee-e4443e9a72e1-cent02-7ctxpoou45sr4ft8hle_original.jpg?auto=webp&crop=3887,2187,x0,y197&format=pjpg&width=1200",
+          "url": "https://i.insider.com/5f8eb486c21cfb0019468efc?width=1200&format=jpeg",
           "width": 1200,
-          "height": 675,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1009,16 +1118,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5984704002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984704002",
-      "publishedDateTime": "2020-10-20T01:54:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp",
+      "publishedDateTime": "2020-10-20T03:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1156,7 +1265,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1441,110 +1550,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-john-fogerty-demands-the-president-stop-using-his-music-donald-trump-is-the-fortunate-son.md",
-      "title": "John Fogerty demands the president stop using his music: Donald Trump IS the ‘fortunate son’",
-      "excerpt": "The rock legend tweets about his cease-and-desist order against President Trump, who regularly plays the classic Creedence Clearwater Revival anti-war",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-246451/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
-      "publishedDateTime": "2020-10-18T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-kirstie-alley-responds-to-nasty-people-criticizing-her-decision-to-vote-again-for-donald-trump.md",
-      "title": "Kirstie Alley responds to 'nasty people' criticizing her decision to vote again for Donald Trump",
-      "excerpt": "Actress Kirstie Alley is standing up for her decision to vote for President Donald Trump. The \"Cheers\" actress faced \"nasty\" backlash online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/f2a21d0b-8395-4ade-a00c-0d9b30914ae7-GTY_1017791726.JPG?auto=webp&crop=3853,2168,x0,y1000&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3706149001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706149001",
-      "publishedDateTime": "2020-10-18T17:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

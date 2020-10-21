@@ -41,6 +41,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Supporters gather for Vice President Mike Pence in Portsmouth"
+    excerpt: "Pence ticket in the presidential election are arriving at Portsmouth International Airport at Pease Wednesday for a rally featuring Vice President Mike Pence."
+    publishedDateTime: 2020-10-21T15:52:00Z
+    webUrl: "https://www.seacoastonline.com/story/news/politics/elections/2020/10/21/supporters-gather-vice-president-mike-pence-portsmouth/6004836002/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/6004836002"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/6004836002"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/NFDD/c4b3128d-fc67-450a-9f24-3b6bb1d97e78-NHPOR-102220-pence-early1.jpg?auto=webp&crop=1477,831,x0,y66&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Photo Gallery: Maine Republicans greet Mike Pence in Hermon"
     excerpt: "Speaking to a crowd of several hundred people gathered Monday in a Hermon truck yard, Vice President Mike Pence urged voters to \"go get it done\" with just 15 days remaining before Election Day."
     publishedDateTime: 2020-10-20T11:17:00Z

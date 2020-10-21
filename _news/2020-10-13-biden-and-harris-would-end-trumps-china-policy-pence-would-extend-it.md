@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10280
+heat: 10300
 published: true
 
 provider:
@@ -3625,6 +3625,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537946116&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-18T182609Z_37081_MRPRC2MKJ9VV7W1_RTRMADP_0_USA-COURT-BARRETT-PROTEST"
         width: 810
         height: 540
+        isCached: true
+  - title: "Biden building war chest to battle Trump after the election: report"
+    excerpt: "The Daily Beast reported that Joe Biden is amassing a large pool of funds — not to run his campaign, but to cover the legal expenses of duking it out with President Donald Trump in the event that the election ends up in the courtroom."
+    publishedDateTime: 2020-10-20T18:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 105
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
+        width: 800
+        height: 430
         isCached: true
   - title: "Trump pressures Barr to investigate Bidens as election nears"
     excerpt: "With just two weeks to go before Election Day, Trump for the first time explicitly called on Barr to investigate the Bidens and even pointed to the nearing Nov. 3 election as reason that Barr should not delay taking action."

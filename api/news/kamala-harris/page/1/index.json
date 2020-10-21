@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-maryland-man-charged-with-threatening-biden-harris-in-letter-on-supporters-doorstep.md",
+      "title": "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep",
+      "excerpt": "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1083,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2762NM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM",
+      "publishedDateTime": "2020-10-21T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.md",
       "title": "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America",
       "excerpt": "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America.",
@@ -32,58 +85,6 @@
         "name": "Oregonian",
         "domain": "oregonlive.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-californias-democratic-base-to-newsom-pick-a-filibuster-foe-to-replace-kamala-harris-if-she-wins.md",
-      "title": "California’s Democratic base to Newsom: Pick a filibuster foe to replace Kamala Harris if she wins",
-      "excerpt": "California progressive and labor leaders have a demand of Gov. Gavin Newsom should Sen. Kamala Harris be elected vice president: Pick a replacement who will help get rid of the Senate filibuster to improve Democrats’ chances of passing bills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/politics/article/California-s-Democratic-base-to-Newsom-Pick-a-15659636.php",
-      "originalUrl": "https://www.houstonchronicle.com/politics/article/California-s-Democratic-base-to-Newsom-Pick-a-15659636.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/14/63/21/20132942/5/rawImage.jpg",
-          "width": 2048,
-          "height": 1377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -150,6 +151,58 @@
       "topics": [
         "Election",
         "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-talk-of-the-county-reader-opinion-our-garbage-collector-is-more-qualified-to-run-for-office-than-kamala-harris.md",
+      "title": "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris",
+      "excerpt": "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
+      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-19T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Kamala Harris"
       ]
     },
@@ -268,49 +321,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-17-breaking-kamala-harris-to-campaign-in-florida-monday.md",
-      "title": "BREAKING: Kamala Harris to campaign in Florida Monday",
-      "excerpt": "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida.",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
-      "originalUrl": "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/3693432001",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001",
-      "publishedDateTime": "2020-10-17T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-facebook-reversing-ban-on-ad-that-claimed-biden-harris-supports-abortion-up-to-the-moment-of-birth.md",
       "title": "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'",
       "excerpt": "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth.",
@@ -376,7 +386,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/georgia-sen-david-perdues-mispronunciation-kamala-harris-draws/story?id=73666422",
       "featuredContent": null,
       "highlight": null,
-      "heat": 240,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -489,7 +499,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1265,
+      "heat": 1305,
       "tags": null,
       "images": [
         {
@@ -534,21 +544,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-16-amy-coney-barrett-dodges-kamala-harriss-question-about-climate-change.md",
-      "title": "Amy Coney Barrett dodges Kamala Harris's question about climate change",
-      "excerpt": "I will not express a view on a matter of public policy, especially one that is politically controversial,” Barrett said.",
+      "path": "_news/2020-10-15-kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19.md",
+      "title": "Kamala Harris cancels campaign travel after two staffers test positive for COVID-19",
+      "excerpt": "The Biden campaign said Thursday that Kamala Harris will be suspending her campaign travel until Sunday because two people involved in the campaign, Harris' communications director, Liz Allen, and a non-staff flight crew member have tested positive for COVID-19.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
-      "originalUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss",
+      "webUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "originalUrl": "https://www.cbsnews.com/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 985,
+      "heat": 259,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/ca_amybarrett_getty101520.jpg",
-          "width": 1440,
-          "height": 880,
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/15/cc10423c-39d7-4270-9400-2c0531d11341/thumbnail/1200x630/1959e172e605cd7efe1545259aa66bf4/gettyimages-1228948443.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -556,16 +566,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/sustainability/climate-change/521237-amy-coney-barrett-dodges-kamala-harriss?amp",
-      "publishedDateTime": "2020-10-15T12:42:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-cancels-campaign-travel-after-two-staffers-test-positive-for-covid-19/",
+      "publishedDateTime": "2020-10-15T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "CBS News",
+        "domain": "cbsnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -651,7 +661,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10280,
+      "heat": 10300,
       "tags": null,
       "images": [
         {
@@ -692,6 +702,58 @@
       "topics": [
         "Election",
         "Mike Pence",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-kamala-harris-says-its-reckless-to-hold-supreme-court-hearings-during-a-pandemic.md",
+      "title": "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic",
+      "excerpt": "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "publishedDateTime": "2020-10-12T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Kamala Harris"
       ]
     },
@@ -792,49 +854,6 @@
       "topics": [
         "Election",
         "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-kamala-harris-faces-sexism-and-racism-as-online-commenters-label-her-black-hillary.md",
-      "title": "Kamala Harris faces sexism and racism as online commenters label her ‘Black Hillary’",
-      "excerpt": "Political consultants and researchers say the reaction to Harris’ debate performance is something women of color have always experienced.",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
-      "originalUrl": "https://www.miamiherald.com/news/politics-government/election/article246337265.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/bfa91447-3f07-4552-baec-ae2268b015a0/54c7f40c-b3c5-4899-a9ac-f5fac2cab0f8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.miamiherald.com/news/politics-government/election/article246337265.html",
-      "cdnAmpWebUrl": "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246337265.html",
-      "publishedDateTime": "2020-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami Herald",
-        "domain": "miamiherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -1011,7 +1030,7 @@
       "originalUrl": "https://www.newsweek.com/kanye-west-tweets-video-vote-kanye-hat-kamala-harris-head-during-vp-debate-1537319",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 118,
       "tags": null,
       "images": [
         {

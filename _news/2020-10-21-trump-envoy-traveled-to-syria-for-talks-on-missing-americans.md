@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/top-us-official-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
 type: article
 quality: 125
-heat: 165
+heat: 166
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-13-palestinian-premier-god-help-us-if-trump-wins-re-election.md",
+      "title": "Palestinian premier: 'God help us' if Trump wins re-election",
+      "excerpt": "Prime Minister Mohammad Shtayyeh said the last four years of the Trump administration have greatly harmed the Palestinians. “If we are going to live another four years with President Trump, God help us,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
+      "originalUrl": "https://www.chron.com/news/article/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/14/53/60/20102170/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Palestinian-premier-God-help-us-if-Trump-wins-15643530.php",
+      "publishedDateTime": "2020-10-13T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-mitt-romney-criticizes-trump-democrats-as-he-decries-vile-and-hate-filled-state-of-american-politics.md",
       "title": "Mitt Romney criticizes Trump, Democrats as he decries 'vile' and 'hate-filled' state of American politics",
       "excerpt": "Utah Sen. Mitt Romney, the 2012 Republican nominee for president, directly criticized President Donald Trump and Speaker Nancy Pelosi.",
@@ -118,7 +161,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10280,
+      "heat": 10300,
       "tags": null,
       "images": [
         {
@@ -411,6 +454,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-kamala-harris-says-its-reckless-to-hold-supreme-court-hearings-during-a-pandemic.md",
+      "title": "Kamala Harris says it's 'reckless' to hold Supreme Court hearings during a pandemic",
+      "excerpt": "Harris also criticized Republicans, saying they are prioritizing pushing through Amy Coney Barrett's confirmation over a coronavirus stimulus package.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 319,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f84911591aa9e001880b021?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/kamala-harris-calls-supreme-court-hearing-reckless-during-pandemic-2020-10?amp",
+      "publishedDateTime": "2020-10-12T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     },
     {
@@ -932,7 +1027,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520631-biden-faith-shouldnt-be-a-subject-in-barrett-confirmation-fight",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1200,114 +1295,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-ross-douthat-column-there-will-be-no-trump-coup.md",
-      "title": "Ross Douthat column: There will be no Trump coup",
-      "excerpt": "Three weeks from now, we will reach an end to speculation about what Donald Trump will do if he faces political defeat, whether he will leave power like a normal president or attempt some wild resistance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "originalUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/72Z9mwCrlBipIBIMR9gq9Pquer8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TFVUIW4JNJCEHDJBVTNV4WNEWY.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-donald-trump-is-not-an-authoritarian-20201012-ffpc7bpkujbp7otj3r3ld2tdna-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-12T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-trump-has-been-a-champion-for-the-black-community-paris-dennard.md",
-      "title": "Trump 'has been a champion' for the Black community: Paris Dennard",
-      "excerpt": "“There’s no doubt” that President Trump “will go down as the greatest champion for the Black community since Abraham Lincoln,” Black Voices for Trump Advisory Board member Paris Dennard told “Fox & Friends” on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uvO13RMffaQ/trump-champion-black-community-paris-dennard",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/paris.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T07:30:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

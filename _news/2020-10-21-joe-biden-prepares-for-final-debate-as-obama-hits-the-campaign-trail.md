@@ -93,6 +93,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "The best case against a Biden presidency: Him"
+    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
+    publishedDateTime: 2020-10-21T16:45:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
     excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
     publishedDateTime: 2020-10-15T20:45:00Z
@@ -186,22 +202,6 @@ related:
       - url: "https://i.insider.com/5f8a00499e9fe40019009e3b?width=1200&format=jpeg"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
-    excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
-    publishedDateTime: 2020-10-14T21:00:00Z
-    webUrl: "https://patch.com/minnesota/southwestminneapolis/kamala-harris-remarks-george-floyd-s-47th-birthday"
-    ampWebUrl: "https://patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/minnesota/southwestminneapolis/amp/29018972/kamala-harris-remarks-on-george-floyds-47th-birthday"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 75
-    images:
-      - url: "https://patch.com/img/cdn20/getty/22887410/20201014/115957/styles/patch_image/public/gettyimages-1228230080___14114308192.jpg?width=984"
-        width: 984
-        height: 738
         isCached: true
   - title: "Harry Dunn death: Mum appeals to US candidate Joe Biden"
     excerpt: "The mother of Harry Dunn has called on the US presidential candidate Joe Biden to help bring her son's alleged killer to justice if he wins the election. Charlotte Charles's 19-year-old son was killed when his motorbike and a car driven by American Anne Sacoolas crashed outside a US military base."
@@ -297,6 +297,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "a3yY/Mi0XhMkRZayxKciU3uTUlCgCV/RmZSKlGMb9IJe1MvI5evB1wP1NYgEm6HKzrOU/xIlM/3oKijfe4KkLiNdBwefhAEJJtZ7gsHzmVbZ43kQ3RpsBNNOYOFTD1udt8i8V9k5nZOVNOtGUSJEiijq8X6exstdgKCMtT6C3OkwT7O/xzipWGp/o8XI9SU1SjMcJgftXr+jCYMtLOnUGKOLBpcLyvyiNrdh16g5+POb6yze6jtCXju2Ak1YajCeMf4HrSaqYMLTnKGhqCf+G1ZSPYHiPn0KMNQBV4KGYVY2fwLBePc1DuFpa9gJisvmyQJ8EJGRnb1PS2w1E36tes66nuStLIvxkFN9SNRA5Fc=;Q5JYzPAHMESvQhK2qnuKWg=="
+secured: "k94dTC2cN5pTffUbu+Gk3CBLqLLoMDW5u6OIY4JAkEZlmmV9zbkkWR9gkDp3U9tN8Y/yGYC4gOFyl/HrdYEWFhLwN1zxF/0zLZNszYPdKRAWzOI0E1jbExHIUxHM3L6HGeNRGJ0GBIk8CsyFv6gyfOs3CzcxVh8/LyCaCHiYer4VMCWWqd3Thja4QKv9T2VMZ3KwfWUBnWQ/VNNRsdwSapVKuxQ2E9nEckTZyTm/ycFRq7K8v/q1vWfyk3uItIW2imoR7beGaOZN63+BLtg+1GXlaug7fXWPRCzhiWp4kEhksV5dtgreqDQavMq8RJ0NTAklAFY7r8LPqfEb2hy9YQAfPCR0R3V2VmjhgLczhbgfSIqIIkyEZhH0Q1VlzYJPP0B8Z15kQmMWc1TnM8upqEKdSqCi5kFtgWbwNPZZhVrziVFLiKB3hO/wXXP+iNiPTE9hc/oszPV6lX7ZedSsOqYkllecFUCnG3/4Q1K0JxwbY+jBDKJ7vvpNHDdVSLASFmoePn+eRwjtrJSCf/PM7Q==;J6neRU5hQ/CvgpPTU2RewA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mediaite.com/news/mitt-romney-drops-statement-on-trump-b
 cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/mitt-romney-drops-statement-on-trump-biden-election-gets-dragged-for-equating-president-with-keith-olbermann/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 624
     isCached: true
-
-related:
-  - title: "Ice Cube Once Wanted to ‘Arrest’ President Donald Trump; Now He’s Working With Him"
-    excerpt: "Ice Cube has long been critical of the establishment, but now he's joining forces with President Donald Trump on a new plan"
-    publishedDateTime: 2020-10-18T18:34:00Z
-    webUrl: "https://www.cheatsheet.com/entertainment/ice-cube-donald-trump.html/"
-    type: article
-    provider:
-      name: The Cheat Sheet
-      domain: cheatsheet.com
-    quality: 49
-    images:
-      - url: "https://www.cheatsheet.com/wp-content/uploads/2020/05/Ice-Cube-3.jpg"
-        width: 1024
-        height: 710
-        isCached: true
 
 secured: "Tr1MFM8AjUpoM4o6sAlrKNaUSvWVFeBQikSIQvw7isFeQ05PVzFSiOdUP1li4You+fydlW7SAIp4tMkLJELv3v4hb75KKDykos0vgRNrOT/axrWPlU1lrjMNR1wIuv/NM5AXwVn1w+ZUIICCrOSb0W83pNjVZ1hT//VMEezlc93VaXTMjbn6IwLPTSYS1eCYaPdbjiRGw43WZIZXfUfMI/EORfzhNlhKtdiwQZp+NgTiUCTZ3glpaYAKN1HhdVEwrHQOYIykChXvbcfXuf8QyGIiKKbX7XXA3z6+52jGxFygS3H4Ir3ogypGgSlc5j+zBPVz+7/zPLqg4zEZ9XocCAG9wP/Y7F2VON4h/M4/GdU=;BjcG6FTsYXfEsekMIC0WjA=="
 ---

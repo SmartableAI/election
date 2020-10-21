@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'Mistake' for Trump to focus so much on Hunter Biden allegations, says Mike Huckabee"
+    excerpt: "President Trump leading with the Hunter Biden email story at the next presidential debate \"is a mistake,\" Fox News contributor Mike Huckabee said on Wednesday."
+    publishedDateTime: 2020-10-21T17:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5Nm439w3bbA/mike-huckabee-hunter-biden-trump-mistake"
+    ampWebUrl: "https://www.foxnews.com/politics/mike-huckabee-hunter-biden-trump-mistake.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-huckabee-hunter-biden-trump-mistake.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump stumping in Florida, Georgia as Biden heads to Michigan after competing town halls"
     excerpt: "With the November election less than three weeks away, President Trump and Democratic rival Joe Biden will stump in key battleground states on Friday, making a final appeal to voters one night after their dueling town halls."
     publishedDateTime: 2020-10-16T11:56:23Z
@@ -446,6 +462,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293704879004-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden would return to Obama-era immigration policies if elected, report says"
+    excerpt: "EXCLUSIVE: Joe Biden, if elected president, would undo a number of key Trump administration’s policies related to immigration, and specifically illegal immigration, a new report predicts -- concluding that the differences between the two candidates on the issues is “stark.”"
+    publishedDateTime: 2020-10-21T16:57:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DXN1yLgMO34/biden-obama-era-immmigration-policies-report"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-obama-era-immmigration-policies-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-obama-era-immmigration-policies-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11598c90-e6f7-4df5-8671-3a8bf384c4e9/d5a8c37d-61c8-4a04-acfe-10c423f7a4ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump and Biden, both in Florida, court crucial senior voters"
     excerpt: "A new TV commercial by President Trump’s reelection campaign touts that the president is “the clear choice” for seniors, who are a key voting bloc in many of the battleground states that will decide the winner of the presidential election."

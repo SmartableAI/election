@@ -3637,6 +3637,22 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Biden building war chest to battle Trump after the election: report"
+    excerpt: "The Daily Beast reported that Joe Biden is amassing a large pool of funds — not to run his campaign, but to cover the legal expenses of duking it out with President Donald Trump in the event that the election ends up in the courtroom."
+    publishedDateTime: 2020-10-20T18:47:00Z
+    webUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/biden-building-war-chest-to-battle-trump-after-the-election-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 105
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Trump-and-Biden.jpg"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Trump pressures Barr to investigate Bidens as election nears"
     excerpt: "With just two weeks to go before Election Day, Trump for the first time explicitly called on Barr to investigate the Bidens and even pointed to the nearing Nov. 3 election as reason that Barr should not delay taking action."
     publishedDateTime: 2020-10-20T19:46:00Z
@@ -7692,6 +7708,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "jBMLDOGJ9cbb5pZQLGE6F7vJ+5itQFubi4RZbjbv2qSZxY+D+RxBbTxpzqrB5nUWBPVAllmk+9SkfMkvzEufv0NJ1m21D+FtOc3ebAgTPqpFbUtxt6c/N+pEGyLvxErSPJYHymZtCgWMvGzBqrFdCS5vyZv4UzHsliohUWVSfQsFuOsSWetEmwyJUldsuoHsq9D9K7Zb6Dhg17xJQky6tWbEzUm4xqLzfs9kSP7bI/N2PA/zM1Mai16FvCTw2wg8UhNpCntJLMo9M7MUNH2DKZE9XgP3Q8v1wD7J+xxhvK/6QeekgPY9E+IjGbkL6BziUMBFw2F+9brFWM/mgFIc52WhdiqMHaySu/V+YTUufIU=;jg+/o8Te4xwoEmHeCi4BgQ=="
+secured: "HIfZkr48YxYcBpvKt5/asIuylJe3Y+43ARdIa14iyco5KeKwZhKtJ0fwY63pt/SNoF8WxCTLLHWJ6VOqo2JlTH1KXi2PNDdtGJLkZcxVPxH5UJPyTlTpZTo2BiyfsSx9qYzle6PSOfdP7e2s3PGLvAxq3KXnLKWLwNwJDZNF+oOek4NhxY97Rm86pTbrm2ZrODqFViNZJ54VfQ/4sbVvTpIGID5X1sMjZ9z5AUZBMPBtEx4spwIampxIoldMJLgPji/tthKJnW33sCUmNxM231lmkEvZ6S6dM6HkEdbsKDL8WopPpKibf4u3KF2FInnfkgm2Zjz5E5Pe94U8RlojUfRiPqN+41WoovRtjopWqX4Bu8Hj//79gei+WKFfyZrCloKG3jivroyJb3ry92uDGy2GL//AY4Mxd65ajHApcAwZOHfCd43YPeCsy3e52bO8dcdQAomcc1LhjZHFuoneBNS8YYa1awMuF06sLeBQLiUd6fK0kUUPEcksyk1SGM4xOAc5nwdvVTrCISFBZq5Uxw==;wWwk8Clf6I2dgDZUpwtdvQ=="
 ---
 

@@ -2,6 +2,168 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-maryland-man-charged-with-threatening-biden-harris-in-letter-on-supporters-doorstep.md",
+      "title": "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep",
+      "excerpt": "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1083,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2762NM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM",
+      "publishedDateTime": "2020-10-21T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-does-appearing-at-trump-rallies-help-martha-mcsally-in-arizonas-us-senate-race.md",
+      "title": "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?",
+      "excerpt": "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5996029002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002",
+      "publishedDateTime": "2020-10-21T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-trump-jobs-boom-is-a-convenient-myth.md",
+      "title": "The Trump ‘Jobs Boom’ Is a Convenient Myth",
+      "excerpt": "Covid economy, but unemployment declined steadily starting in 2010.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "originalUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-247630?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
+      "publishedDateTime": "2020-10-21T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-wants-to-cut-democrat-cities-covid-fundingduring-a-surge-in-cases.md",
       "title": "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases",
       "excerpt": "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer.",
@@ -57,7 +219,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 169,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -109,7 +271,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1922,
+      "heat": 1782,
       "tags": null,
       "images": [
         {
@@ -161,7 +323,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -412,7 +574,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/barack-obama-hold-person-event-biden-73729555",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -722,6 +884,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-president-trumps-clash-with-lesley-stahl-escalates-long-campaign-against-reporters.md",
+      "title": "President Trump's clash with Lesley Stahl escalates long campaign against reporters",
+      "excerpt": "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/04/USAT/dc6fb90e-c99e-4518-b016-c173b2945faa-AP_Virus_Outbreak_Stahl.JPG?auto=webp&crop=4161,2341,x0,y241&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5998605002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998605002",
+      "publishedDateTime": "2020-10-20T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1099,218 +1313,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-pro-trump-hay-bale-sculpture-crops-up-after-tennesee-mans-traditional-signs-were-cut-down.md",
-      "title": "Pro-Trump hay bale sculpture crops up after Tennesee man's traditional signs were cut down",
-      "excerpt": "Hay is for…campaign signs. At least on one Tennessee man’s property.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AxKgxYL8s8g/pro-trump-hay-bale-sculpture-tennesee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AxKgxYL8s8g/pro-trump-hay-bale-sculpture-tennesee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-2020-Hay-ADRIAN-POWELL-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp",
-      "publishedDateTime": "2020-10-20T17:44:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-donald-trump-leaves-contentious-60-minute-interview-with-lesley-stahl-goes-on-twitter-attack.md",
-      "title": "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack",
-      "excerpt": "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5998366002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002",
-      "publishedDateTime": "2020-10-20T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-former-republican-national-committee-chairman-michael-steele-endorses-joe-biden.md",
-      "title": "Former Republican National Committee Chairman Michael Steele endorses Joe Biden",
-      "excerpt": "I'm a lifelong Republican – and I'm still a Republican. But this ballot is how we restore the soul of our nation,\" said Michael Steele, who called Joe Biden \"a good man.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
-      "originalUrl": "https://www.cbsnews.com/news/michael-steele-former-rnc-chairman-endorses-joe-biden/?intcid=CNI-00-10aaa3b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/20/8b2ae190-028b-48df-97ab-e57073925f6d/thumbnail/1200x630/e15f5b854e52d31c88c781a758089c07/gettyimages-824448112.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/michael-steele-former-rnc-chairman-endorses-joe-biden/",
-      "publishedDateTime": "2020-10-20T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-targets-pennsylvania-women-but-will-do-so-without-wife-melania.md",
-      "title": "Trump targets Pennsylvania women, but will do so without wife Melania",
-      "excerpt": "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\"",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716",
-      "publishedDateTime": "2020-10-20T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
