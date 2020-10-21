@@ -496,6 +496,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump's cash woes mount as Biden laps him"
+    excerpt: "Altogether, including the campaigns, national parties and affiliated fundraising committees, Biden announced a cash edge of $432 million to Trump’s $251 million earlier this month, but the campaign-to-campaign comparison is important — and even more stark."
+    publishedDateTime: 2020-10-21T08:42:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-cash-woes-430691"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-cash-woes-430691"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-cash-woes-430691"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/51/58/bc1e8be243eeb693c35dffb5c966/102120-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
     excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"
     publishedDateTime: 2020-10-20T21:51:00Z

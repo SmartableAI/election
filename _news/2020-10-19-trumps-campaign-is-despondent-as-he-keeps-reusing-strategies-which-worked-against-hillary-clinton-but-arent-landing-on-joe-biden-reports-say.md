@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-team-worry-using-2016-strategy
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-team-worry-using-2016-strategy-against-biden-failing-reports-2020-10?amp"
 type: article
 quality: 114
-heat: 174
+heat: 194
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/wV4WN5WMZKbUNF31PhqBQTHBk1g=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6KWL2LPXPZC63DUJQT7KCQXTGU.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden is selling seniors fear: Rudy Giuliani says the Democratic campaign is misrepresenting Donald Trump’s record"
+    excerpt: "As this presidential campaign enters its final act, Joe Biden is attempting to con American seniors into abandoning their greatest ally in the federal government, Donald J. Trump."
+    publishedDateTime: 2020-10-21T09:04:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-biden-is-selling-seniors-fear-20201021-isgf4hykezcqzouoq53eeyg7bu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 66
+    images:
+      - url: "https://www.nydailynews.com/resizer/cxsZviuXKgbKG4lQLR2McijWxtM=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MCDACMTOPNHVXKNFHZGTBPONQE.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
     excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."

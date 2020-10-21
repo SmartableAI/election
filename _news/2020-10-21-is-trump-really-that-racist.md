@@ -1081,6 +1081,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Final Biden-Trump Debate Is Thursday. Here's What You Need To Know"
+    excerpt: "The debate likely marks President Trump's last chance to reach a massive audience as he trails Joe Biden in polls nationally and in key states."
+    publishedDateTime: 2020-10-21T09:00:00Z
+    webUrl: "https://www.npr.org/2020/10/21/925386863/the-final-biden-trump-debate-is-thursday-heres-what-you-need-to-know"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/19/2020-10-22-biden-trump_debate-faq_wide-3ac15f12e01e48307f6112269a9fa25092d7e09d.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
     excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
     publishedDateTime: 2020-10-20T08:54:00Z
@@ -3066,6 +3080,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "pnG5z8UPamPqb+XqT1SsuUTntr30NO/53XcpzUZ+P0VcY5vHBlR18Fg8xJBVLm/i/+yGexsPUlNB3xTSXqrkAHwGU8KELqaoJK0whv6rcq9D/y/Iw9r3TMCSEidqANNPuhsf+/PNGjHpiy8aZ8PaEPOtaeNODp7cy264Z8AiaXSywDmK4mVkuOIeDFep+UpBoJB+KlgIjsaq2wHiN5AceChdobgxEnHq/q9V1H4hgN92wSqwIK+ee/SnfaJ0G5GZPqSsatB7kJbzyInZ1gCRVAjYAzTbD0sDYi9ZHBpKq1j4nIxPZnIZIQY8+eJgtF+KOxsOdkbUjPspCZaZbsrl8HbtKa20clwqojYSr0VJqxk=;2rmnNA09yKpas7Bn4k3/ig=="
+secured: "XnUC5zolyUnfpefZHzSfEbou46g6IoDM88A7ngLKIjSxqFy9mUsE6yDgml9xfm5IqC31nZG9wDKf9214g1xucOTzlYVZnu6tKUUHQkHRqZPQydXZiJB+FjD8uKZAxtleHErLU+ZxbISQQWDwgJiEyAcXU8pn7x3hiyaHfk4WTrWoG6MRWs2DPM6qQilI1HB2Fs0H8HXTLn1zXQc3nB2WrXAsKLIN4y1pMD1ZP0DJiRmkQr6fq8R9z/Ag8+36oLI1uZ8iRvmGIXA6xquEvz3l9Hi+RLbQCdI6nIUxLpT9hEDQgfCiYOx0HxRSCUfC12gIXRvB6A05Hewo4NQAdZpKcAe7zGM6h697pKZOhZ2ZrTkSVdgO6oajkCj/Q/B/d1z1eRf0sJ8+h/cEUl5DohWWCgUn/2PPVT0tbtCVqmbRDxobxUHWAGlirc3VIq3Rgr+b0enX8hDK9JXCRUvLChuN5e0SUe1bD4hw+/R/TrWch4X+757eyQKk5B5fcRI835BLo+iiKmRp656LZp1xgICtjg==;sGUDk1Om/ilV0XQEGS10fw=="
 ---
 

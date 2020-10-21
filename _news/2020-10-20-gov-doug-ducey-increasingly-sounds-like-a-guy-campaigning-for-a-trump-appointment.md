@@ -1083,6 +1083,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Final Biden-Trump Debate Is Thursday. Here's What You Need To Know"
+    excerpt: "The debate likely marks President Trump's last chance to reach a massive audience as he trails Joe Biden in polls nationally and in key states."
+    publishedDateTime: 2020-10-21T09:00:00Z
+    webUrl: "https://www.npr.org/2020/10/21/925386863/the-final-biden-trump-debate-is-thursday-heres-what-you-need-to-know"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/19/2020-10-22-biden-trump_debate-faq_wide-3ac15f12e01e48307f6112269a9fa25092d7e09d.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "President Trump's clash with Lesley Stahl escalates long campaign against reporters"
     excerpt: "President Trump's abrupt ending of a '60 Minutes' interview and criticism of Lesley Stahl reflect escalating campaign against reporters, moderators."
     publishedDateTime: 2020-10-21T03:28:00Z

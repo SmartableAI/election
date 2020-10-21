@@ -678,6 +678,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "The Media Officially Becomes the Communications Department for Joe Biden"
+    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
     excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
     publishedDateTime: 2020-10-18T15:53:00Z

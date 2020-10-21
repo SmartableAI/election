@@ -336,6 +336,22 @@ related:
         width: 469
         height: 351
         isCached: true
+  - title: "Barr's defense of Trump in E. Jean Carroll's suit could give presidents carte blanche"
+    excerpt: "If President Donald Trump and the Justice Department have their way, presidents will be legally permitted to defame anyone during their four (or eight) years in office. On Wednesday, a federal judge in Manhattan will hear arguments on the Justice Department's motion to substitute the United States for Trump as the defendant in a defamation suit."
+    publishedDateTime: 2020-10-21T09:20:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/barr-s-defense-trump-e-jean-carroll-s-suit-could-ncna1244088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421572/201020-ONE-TIME-USE-e-jean-carroll-cs-222p_23661d234dc9620b78178430deffa91b.jpg"
+        width: 3003
+        height: 2096
+        isCached: true
   - title: "‘Where are all of the arrests?’: Trump demands Barr lock up his foes"
     excerpt: "The day-long run of tweets and retweets marked the most frantic stretch of Trump’s public activity since he left Walter Reed."
     publishedDateTime: 2020-10-07T20:03:00Z

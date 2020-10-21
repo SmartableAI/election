@@ -277,6 +277,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Joe Biden's big lead on health care issues"
+    excerpt: "Health care has fragmented into multiple issues in this campaign cycle, and Joe Biden leads President Trump on almost all of them, according to our KFF polling. The big picture: Biden’s commanding leads on protecting people with pre-existing conditions and managing the coronavirus outbreak suggest that Trump’s record and rhetoric on those issues,"
+    publishedDateTime: 2020-10-21T09:48:00Z
+    webUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    ampWebUrl: "https://www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/joe-biden-donald-trump-health-care-coronavirus-preexisting-conditions-c8d58431-0e79-44a6-8965-2da5f4c16563.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 75
+    images:
+      - url: "https://images.axios.com/iiMe_pWvOG9thYzTHy1HDzV_dOo=/fit-in/1366x1366/2020/10/20/1603237182398.png"
+        width: 1366
+        height: 898
+        isCached: true
   - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
     excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
     publishedDateTime: 2020-10-13T22:05:00Z
@@ -338,6 +354,20 @@ related:
       - url: "http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "The greatest risk for a Biden administration"
+    excerpt: "The greatest risk for a possible Biden administration and Democratic majority is not attacking these disasters aggressively enough. Big problems call for big solutions — and if the problems are not fixed,"
+    publishedDateTime: 2020-10-21T09:48:00Z
+    webUrl: "https://theweek.com/articles/944800/greatest-risk-biden-administration"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 55
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/biden_go_big.jpg?itok=0cFJOnsA"
+        width: 1260
+        height: 560
         isCached: true
   - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
     excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"

@@ -320,6 +320,22 @@ related:
         width: 700
         height: 489
         isCached: true
+  - title: "Barr's defense of Trump in E. Jean Carroll's suit could give presidents carte blanche"
+    excerpt: "If President Donald Trump and the Justice Department have their way, presidents will be legally permitted to defame anyone during their four (or eight) years in office. On Wednesday, a federal judge in Manhattan will hear arguments on the Justice Department's motion to substitute the United States for Trump as the defendant in a defamation suit."
+    publishedDateTime: 2020-10-21T09:20:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/opinion/barr-s-defense-trump-e-jean-carroll-s-suit-could-ncna1244088"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244088"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244088"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 128
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421572/201020-ONE-TIME-USE-e-jean-carroll-cs-222p_23661d234dc9620b78178430deffa91b.jpg"
+        width: 3003
+        height: 2096
+        isCached: true
   - title: "N.J. mayor ignores calls to resign over profane social media post about Trump, his supporters"
     excerpt: "\"Those who feel that they've been condemned, they can have recourse at the voting booth in two years,\" Flemington Mayor Betsy Driver said Tuesday."
     publishedDateTime: 2020-10-15T21:15:00Z

@@ -681,6 +681,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "The Media Officially Becomes the Communications Department for Joe Biden"
+    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "CNN's Jake Tapper Calls Out Lara Trump For Mocking Joe Biden's Stutter: \"You Knew\""
     excerpt: "CNN's Jake Tapper coldly ended an interview with the president's daughter in law Lara Trump on Sunday when she claimed she did not know that former VP Joe Biden has struggled with a stutter when she made fun of the way he speaks."
     publishedDateTime: 2020-10-18T15:53:00Z
@@ -710,6 +726,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zUDpiwnQx+WBaUvtFXYX2NPEouPhA4RxBfnTCpFBiYrhOuLzqOgx+YqcK13IWt5npi6X5MsyettV9ii5c8CGs4usjJNXdPZp/Yt5o+RphTZtmfNji9wDaLqZf8bgeb5fXNBor2grMf25Uv7yxav4xILxpp/t0MfIGgmnofiaqIlk8g28sqhXDv+RqyvWqqOAO/Ub8Y3nDinBj0FVcrl7A27azlrjogykc0yiEEPI8F4GoIcT2JQzdQ8N3FH9iB5oFuWDlhTcVACjlnXn/0P8kv69otwXhuQY2ielIp4f5BbAgaaM3TsZ7ZKnSjQAh+6CmFgbUxtfmnF//BIPvIhuqrkRy5sn5QSTIoIeQ9M/lWc=;zOm68JcLx2jThB+cymQ98w=="
+secured: "abkucnzipNCc8MQajAr/wLufATqXeJ9aEmwmoN/BM/eiQ1FogWJEpxKBAzbNiKIf9r2AXwsoK9uWwQXMbgMziyd6j4xOQqphVeIbrBWpK446HaRH3A31cqp8AxM2ksYivCngCLkSJ+GfhMnGREJZZtDpjpH+OJJpOlC7DZ+shW9RxU0Mys+DGfHxm7Q/uunG6DbeFzUbxXSCi1Lg44dgFQ1ImfoCLFsF9/CjNHkoJ1Y9W/cjFX/WL/wOm3HK1r1NjI82jTZc9yeSDnHEXI5NbYvO9NTaBxzqEmMnPdQsezbweGI3gyj6SgzAQh5AiW7eni7BdYmgKV8t1tYVRQL7YadWRjP4KnCJDFbzr4Lt2A0=;okgwo9gH0D8vZebqPSEo2Q=="
 ---
 

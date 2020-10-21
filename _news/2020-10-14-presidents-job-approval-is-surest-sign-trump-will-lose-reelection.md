@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/520955-presidents-job-approval-
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection?amp"
 type: article
 quality: 140
-heat: 4140
+heat: 4160
 published: true
 
 provider:
@@ -1066,6 +1066,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/pompeo-sudan-ap-jc-201019_1603141774822_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "The Final Biden-Trump Debate Is Thursday. Here's What You Need To Know"
+    excerpt: "The debate likely marks President Trump's last chance to reach a massive audience as he trails Joe Biden in polls nationally and in key states."
+    publishedDateTime: 2020-10-21T09:00:00Z
+    webUrl: "https://www.npr.org/2020/10/21/925386863/the-final-biden-trump-debate-is-thursday-heres-what-you-need-to-know"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/19/2020-10-22-biden-trump_debate-faq_wide-3ac15f12e01e48307f6112269a9fa25092d7e09d.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
     excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."

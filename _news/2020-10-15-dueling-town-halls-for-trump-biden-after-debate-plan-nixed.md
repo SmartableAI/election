@@ -521,6 +521,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Joe Biden Would Make a Better Wartime President Than Donald Trump: Poll"
+    excerpt: "A new poll conducted for Newsweek found that Americans of all ages and religions would prefer Biden to lead the U.S. through a conflict."
+    publishedDateTime: 2020-10-20T10:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 150
+    images:
+      - url: "https://d.newsweek.com/en/full/1655458/donald-trump-joe-biden-poll-election-2020.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Mike Pence should have self-quarantined instead of debating Kamala Harris"
     excerpt: "After all the hubbub over the plexiglass dividers placed between Vice President Pence and Democratic vice presidential nominee Sen. Kamala D. Harris (Calif.), it turned out that Pence would have been wise to duck out altogether."
     publishedDateTime: 2020-10-08T04:00:00Z
@@ -1257,22 +1273,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Joe Biden Would Make a Better Wartime President Than Donald Trump: Poll"
-    excerpt: "A new poll conducted for Newsweek found that Americans of all ages and religions would prefer Biden to lead the U.S. through a conflict."
-    publishedDateTime: 2020-10-20T10:09:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-make-better-wartime-president-donald-trump-poll-1540497?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 140
-    images:
-      - url: "https://d.newsweek.com/en/full/1655458/donald-trump-joe-biden-poll-election-2020.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Why is Joe Biden so resistant to Trump’s attacks?"
     excerpt: "If you went to President Trump’s rally on Sunday in Carson City, Nevada — a pretty typical one — here’s what you would have heard about: It’s quite a litany. But none of it seems to be working, as evidenced by the fact that the Trump campaign hasn’t settled on one (or even two or three) key attacks it wants to make on Biden."
     publishedDateTime: 2020-10-19T20:10:00Z
@@ -1288,6 +1288,38 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XKSZULAROEI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden has big cash advantage over Trump in race's final stretch"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden's campaign entered the final stretch of the race with a large cash advantage over President Donald Trump, disclosures filed with the Federal Election Commission showed on Tuesday."
+    publishedDateTime: 2020-10-21T06:34:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-fundraising-idUSKBN2760AE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2760AE"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2760AE"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538264536&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K09K"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Trump tends to his electoral map, Biden prepping for debate"
+    excerpt: "President Donald Trump is hopping from one must-win stop on his electoral map to the next in the leadup to a final presidential debate that may be his last, best chance to alter the trajectory of the"
+    publishedDateTime: 2020-10-21T05:09:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-electoral-map-biden-prepping-debate-73729083"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-electoral-map-biden-prepping-debate-73729083"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-electoral-map-biden-prepping-debate-73729083"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_eb6d675103304f93a7ae8bd46efb9865_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "\"Mr. Vice President, I'm speaking\": Kamala Harris rebukes Pence's interruptions during debate"
     excerpt: "Senator Kamala Harris and Vice President Mike Pence faced off Wednesday in the only vice presidential debate of this election. Each were given two, uninterrupted minutes to answer each question, and early on in the evening,"
@@ -1988,6 +2020,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/a74c21eb71b23eab9149e761ce5523336c18ee62/0_259_3908_2346/master/3908.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f8c5581f7751b4b9e4b9612dbcd244a7"
         width: 600
         height: 360
+        isCached: true
+  - title: "Final Trump vs. Biden debate: Brace for another barroom brawl despite the new mute button"
+    excerpt: "Before officials announced microphones would be cut for portions of the debate, Republicans were eying the match up as Trump's last chance to reset."
+    publishedDateTime: 2020-10-21T06:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-biden-debate-comes-after-commission-vows-cut-microphones/3698841001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3698841001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3698841001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/d41c650c-2081-45fb-af02-85dd01ebb991-AP_Election_2020_Debate.jpg?auto=webp&crop=5149,2897,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden criticises Donald Trump for renewed Fauci attack over Covid – US politics live"
     excerpt: "Democratic nominee says Americans are ‘tired’ of president’s lies over Covid"
@@ -4106,6 +4154,22 @@ related:
       - url: "https://media.nbcnewyork.com/2020/09/pence-harris.jpg?fit=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Opinion/Al Southwick: As Joe Biden's running mate, Kamala Harris making history"
+    excerpt: "Joe Biden’s campaign for president has already made history. By choosing Kamala Harris as his running mate, he broke two enduring traditions. She"
+    publishedDateTime: 2020-10-21T03:29:00Z
+    webUrl: "https://www.telegram.com/news/20201020/opinional-southwick-as-joe-bidens-running-mate-kamala-harris-making-history"
+    ampWebUrl: "https://www.telegram.com/news/20201020/opinional-southwick-as-joe-bidens-running-mate-kamala-harris-making-history?template=ampart"
+    cdnAmpWebUrl: "https://www-telegram-com.cdn.ampproject.org/c/s/www.telegram.com/news/20201020/opinional-southwick-as-joe-bidens-running-mate-kamala-harris-making-history?template=ampart"
+    type: article
+    provider:
+      name: Telegram
+      domain: telegram.com
+    quality: 96
+    images:
+      - url: "https://www.telegram.com/apps/pbcsi.dll/bilde?Site=WT&Date=20201020&Category=NEWS&ArtNo=201029976&Ref=AR"
+        width: 800
+        height: 533
         isCached: true
   - title: "How Vice President Mike Pence and Sen. Kamala Harris stack up against each other"
     excerpt: "Here's how Vice President Mike Pence stacks up against Sen. Kamala Harris. The two go head-to-head in the Wednesday, Oct. 7 vice presidential debate."
@@ -6966,6 +7030,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump Traverses US As Obama Steps Up Support For Biden"
+    excerpt: "Former president Barack Obama holds his first rally Wednesday in support of US election front runner Joe Biden, while Donald Trump campaigned frantically and accused his opponent, who stayed home in Delaware,"
+    publishedDateTime: 2020-10-21T06:27:00Z
+    webUrl: "https://www.ibtimes.com/trump-traverses-us-obama-steps-support-biden-3065380"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/us-president-donald-trump-believes-hes-on-a.jpg"
+        width: 1024
+        height: 730
+        isCached: true
   - title: "President Donald Trump, in treatment for COVID, says he’s ‘looking forward’ to debate against Joe Biden next week"
     excerpt: "President Donald Trump, at least five days into COVID-19 treatment, says he’s eager to take the stage against Democratic challenger Joe Biden in the next scheduled presidential debate in Miami next week,"
     publishedDateTime: 2020-10-06T16:04:00Z

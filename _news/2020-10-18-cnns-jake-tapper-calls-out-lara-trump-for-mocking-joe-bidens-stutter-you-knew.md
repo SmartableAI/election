@@ -692,6 +692,22 @@ related:
         width: 650
         height: 340
         isCached: true
+  - title: "The Media Officially Becomes the Communications Department for Joe Biden"
+    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 84
+    images:
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "The Biden Corruption Scandal Is About Joe--Not Hunter"
     excerpt: "The scandal indicates that Joe Biden, while vice president, knowingly allowed his son to sell access to the Obama administration, then lied about it. Read Full Article »"
     publishedDateTime: 2020-10-19T18:08:00Z

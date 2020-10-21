@@ -1067,6 +1067,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Final Biden-Trump Debate Is Thursday. Here's What You Need To Know"
+    excerpt: "The debate likely marks President Trump's last chance to reach a massive audience as he trails Joe Biden in polls nationally and in key states."
+    publishedDateTime: 2020-10-21T09:00:00Z
+    webUrl: "https://www.npr.org/2020/10/21/925386863/the-final-biden-trump-debate-is-thursday-heres-what-you-need-to-know"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/19/2020-10-22-biden-trump_debate-faq_wide-3ac15f12e01e48307f6112269a9fa25092d7e09d.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Gov. Doug Ducey increasingly sounds like a guy campaigning for a Trump appointment"
     excerpt: "Conventional wisdom says Arizona Gov. Doug Ducey won’t abandon his job to join the Trump administration should the president be re-elected. After watching Monday’s Trump rally in Prescott, I’m wondering whether it’s time to put conventional wisdom to rest."
     publishedDateTime: 2020-10-20T08:54:00Z
@@ -3066,6 +3080,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Rqk6gyxoVf4oVsf/uqW41lTQfj1dWvFgnh1dE2s+Lf0F2SdY2YI0ATP2Q2gZbFEnlukijJglUoiAQB/T8yWJpS/D1nshAxdhVacecGy0HH5dqZCU3bLNQnNcs/a8v/gJqYQjm08pJ+sTjn04Uqd1paR5TUT3tLajFXLF4y5xQ163AzvBwpcj96+EaSnj6d7X9wS/56/G6IYmwcFPbyD/3z+8Ctiwnng3wr7WaN8BJFwK43sn7p1NkbgawRUr+ZAHvzCKKcmTFSc4pCsb0f/6U3WNJiM/cftqE+fyan3M9Xv6AYkcTNK9PaS5VlgRW9HiXZGNfy+TYYmnKA7Mp1bpOWv1bQhX2ovnAlVK/iCii88=;XkTcySk9GCPVWV6nIIXbYw=="
+secured: "n3gGkToqrbeEaaWFMnPy1IOybM+5UGKorydpk2dxXiLTi9jgsF0yDgnpNgiqGVjCHx1fZjpAGFW/Z5/oficgsXL+fTpcvsLkO5bu0rfJd5bT+FQMe5IoffP4LIefSOVIH0x1c2zLQc51tUmbBOlFvOWChbhW1jHLFKfFDAnVtT2FH9Qy/y45fkxpepMWxr6RsJiIOy0bsP4ngn7PRM7o+b/vqQ8dtGki8oxFsl4kUem3FBaDMoYLBDklVIZLFsZnsrEyZivozmFzmtGG9IrpEsPamnw/zNOg6L1RMfhrQ2+hJ58d4OSyGND6WiFMuqJV8vgzepegaxHs5r1AXfrE2Aq+Y6bKpIZ8vm6q4K3oqKNfex9LLVvg9e4HOCbXQ0AbTndVmLGW3+tGBxRl7EeJ8sW69VZKEuryZGMjN6Ne/bXhA+VmgIQZUYiWZWPEx5UaJspb2L8/TwDIQjAUPawZyI73YhDC+WmN19heW2a9yKtAuNRVoJjf2AjfUxx6vVrXQwf6YQZbla7P09aHKgEaeA==;KkCFdjR6TOn32n1fJsSU5A=="
 ---
 
