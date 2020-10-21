@@ -111,6 +111,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump Tax Revelations Spark Outrage Among Some, but Supporters Defend President"
+    excerpt: "A report that Donald Trump paid little or no federal income tax in recent years sparked broad outrage on Monday, from rich Democrats to teachers and coffee shop workers taking to social media to claim they had paid more taxes than the U."
+    publishedDateTime: 2020-09-29T06:26:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-09-28/trumps-tax-revelations-spark-outrage-among-some-but-supporters-defend-president?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 51
 
 secured: "0vDZ4N/j/+Bd8UUkCr7i1dHY35kxexfIsNBpiGgnyhKd/aiLeiDIMy1hBW+cqU3F7ICyvtpp+nUVsJw18Bawn3eOIgf/h+dnffn84FPRHMlpMptKwIj7zcin/TdecJqT5Mo3LtgCNJOhzFJ9dci7kxrq1bgAeGAyryyaQkxd+VAMd9ybnI38sMEeyvBOqFyBIkxnxj7bM19ocrgexNlJA7vaBBiFXCSbMzZVD2MpB3t8JAS+8FngSrbyD4e3pygL3KFltJkHn9QP1stSXjm1jWG1shGY8opXzMysMR5tPmH7fskkNNsdX6axD7hoZjF0kyfJh2ot1PsVNYDn2gw9XXfU0CHVmOHWMw9HU5B1/m2yN9JwdepKKffJpmK/wNH4EX8v9fI/uh9d2Q6o2yI2udXKtBVcbWPdjERaq//HmV6G0lY1y6fLpaNZ4ttnXvU4eHwwtgepR3OQPkpephmegjtwNZiEFNm1hVzxbI9L+GefW40uDq3dLcGtgqHRvcyteIFTb8HkkerW6p2QPk/B9A==;GTUSM2gwtqf9fX74WK8FFw=="
 ---

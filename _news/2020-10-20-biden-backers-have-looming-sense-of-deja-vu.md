@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
 type: article
 quality: 175
-heat: 196
+heat: 216
 published: true
 
 provider:
@@ -35,6 +35,22 @@ related:
     excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
     publishedDateTime: 2020-10-20T14:35:00Z
     webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
+        width: 750
+        height: 552
+        isCached: true
+  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
+    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
+    publishedDateTime: 2020-10-20T22:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
     ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
     type: article

@@ -79,38 +79,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Trump hails experimental treatment for his virus recovery"
-    excerpt: "President Donald Trump is crediting an experimental drug treatment with helping his recovery from COVID-19 and suggesting his diagnosis could be a “blessing in disguise” for the nation’s battle agains"
-    publishedDateTime: 2020-10-08T08:40:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/trump-hails-experimental-treatment-virus-recovery-73493708"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_8d5ab77409174e9c873674c8bf8467e9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump on drugs. Who could have seen this coming?"
-    excerpt: "President Trump on drugs. Wow. I have to admit that I failed to see this one coming. Trump’s political career has been such a wild ride all by itself, it never occurred to me to wonder what would happen if this grandiose narcissist with the bombastic flair were to be filled to the gills with a powerful steroid."
-    publishedDateTime: 2020-10-10T02:30:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/trump-on-drugs-who-could-have-seen-this-coming/2020/10/09/d7219e90-0a4a-11eb-859b-f9c27abe638d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/trump-on-drugs-who-could-have-seen-this-coming/2020/10/09/d7219e90-0a4a-11eb-859b-f9c27abe638d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/trump-on-drugs-who-could-have-seen-this-coming/2020/10/09/d7219e90-0a4a-11eb-859b-f9c27abe638d_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ANHDEYAJW4I6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Facebook pulls Trump post comparing COVID-19 to flu; Twitter adds warning"
     excerpt: "Facebook removed a post by President Trump comparing the coronavirus to the seasonal flu, while Twitter added a warning about \"misleading\" info."
     publishedDateTime: 2020-10-06T16:46:00Z
@@ -126,22 +94,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/4f226958-92b1-4ba0-924d-a73395cbea00-trump_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "The health of his political opponents has always been fair game for Trump"
-    excerpt: "During the 2016 and 2020 presidential campaigns, Donald Trump repeatedly mocked the health of Hillary Clinton and Joe Biden."
-    publishedDateTime: 2020-10-06T16:23:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/06/health-his-political-opponents-has-always-been-fair-game-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/10-05-2020/t_374a983ef17b4a77be9edafed014a5ce_name_71828b02_b366_11ea_98b5_279a6479a1e4_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
         isCached: true
   - title: "Trump calls for the FDA to approve one of the COVID-19 treatments he got"
     excerpt: "These are Business Insider's biggest healthcare stories for October 8."
@@ -526,22 +478,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/254ba0dc-4449-49f3-8f00-5c3548dcfccb-Melania_Donald_Virus_Outbreak_Trump.jpg?auto=webp&crop=4811,2706,x1,y143&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "3 congressmen flew on a commercial Delta flight after a journey on Air Force One with President Trump"
-    excerpt: "The Republican politicians have been criticized after they flew on a Delta flight to Washington DC, hours after Trump tested positive for COVID-19."
-    publishedDateTime: 2020-10-04T15:47:00Z
-    webUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/minnesota-congressmen-flew-delta-days-after-being-plane-with-trump-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 110
-    images:
-      - url: "https://i.insider.com/5f79a8fc2400440019129d95?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump says he is awaiting the results of a COVID-19 test after his counselor Hope Hicks tested positive"
     excerpt: "Hicks reportedly traveled with President Donald Trump on Air Force One to and from the first debate on Tuesday."
@@ -1206,20 +1142,6 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08tvj7w.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Trump Restarts Public Speeches, Falsely Claims Covid Has A Cure"
-    excerpt: "US President Donald Trump will give a public speech at the White House on Saturday for the first time since testing positive for Covid-19, and will also hold a Florida rally next week in an attempt to relaunch his stumbling reelection campaign with only 25 days to go."
-    publishedDateTime: 2020-10-09T21:41:00Z
-    webUrl: "https://www.ibtimes.com/trump-restarts-public-speeches-falsely-claims-covid-has-cure-3059629"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/09/president-donald-trump-is-itching-to-get-back.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Raw Story‘Mission Accomplished’: Trump ridiculed for premature commemorative coin celebrating him taking out COVID-19"
     excerpt: "The coronavirus is still raging across the United States, particularly in the White House, but that doesn’t mean that President Donald Trump isn’t ready for a “Mission Accomplished” moment. Like George W."

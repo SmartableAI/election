@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "INDIANAPOLIS – Vice President Mike Pence was among dozens of politicians and high-profile dignitaries at a White House Rose Garden event when President Donald Trump announced Amy Coney Barrett ..."
+    publishedDateTime: 2020-10-04T15:37:27Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence, who will assume the presidency if Trump is incapacitated, has tested negative for COVID-19"
     excerpt: "Thursday night. Both Vice President Mike Pence and his wife Karen received negative results on Friday."
     publishedDateTime: 2020-10-02T12:49:00Z

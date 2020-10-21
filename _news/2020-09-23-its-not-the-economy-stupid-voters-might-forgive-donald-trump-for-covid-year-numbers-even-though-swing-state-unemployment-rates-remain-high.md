@@ -47,22 +47,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "If Trump's symptoms started before Friday, he may have been highly infectious during the debate"
-    excerpt: "People can be contagious before showing COVID-19 symptoms. Depending on when Trump's started, he might have been infectious when debating Biden."
-    publishedDateTime: 2020-10-03T12:53:00Z
-    webUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-most-infectious-during-debate-biden-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/5f73e3400ab50d00184ad2eb?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "FSU2Vq1t9eMxBsOYDEbfivTsCUmjhfKoUTDLH8jxUFCvCm48GrdrVVsajCVccGerawhLKcD8um+G+35bvBhz0oISVjrsGvmZU2Y5J/Q0f8ohwiIu3IyZEcszyUrg0SzVLCMxYgT6cvd2dMn0jth3YXBo75kDwF4XlZkSGRkn/812rrfJ9WUAYS/CYfV9XPUIR+UrPL+PUizJMfw1q7foHskhqVofUCnTA3pr5dSQf7N0cPTSQn0mz08N1y3sTnOyXYCaiLieSbgim1rmEe3m6C25a6WK4WUgtTDkGue5Ob0k108OpKqsAfAcyaYxb2eA734ePYgMjBb9HGG/OiaisHYi2BdB5i8G3mTgudxM4YM=;Vp53HPCG83skVX3yw089FQ=="
 ---

@@ -27,37 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "How the US has voted in every presidential election from George Washington to Donald Trump — and what it means for today"
-    excerpt: "The US political map hasn't always looked the way it does today. See how the map has changed over 58 presidential elections."
-    publishedDateTime: 2020-10-16T18:59:00Z
-    webUrl: "https://www.businessinsider.com/presidential-election-results-every-year-donald-trump-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/presidential-election-results-every-year-donald-trump-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/presidential-election-results-every-year-donald-trump-2020-10?amp"
+  - title: "BREAKING: Kamala Harris to campaign in Florida Monday"
+    excerpt: "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida."
+    publishedDateTime: 2020-10-17T16:14:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/politics/2020/10/17/kamala-harris-resume-person-campaigning-florida-monday/3693432001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3693432001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3693432001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 75
     images:
-      - url: "https://i.insider.com/5f89d085d260780019341de5?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/-mm-/a25cc4d5877a7de0f911736664113501ea7c37c0/c=0-0-1280-720/local/-/media/2020/08/24/PalmBeachPost/ghows_gallery_ei-LK-200829833-381fbd87.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’"
-    excerpt: "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,"
-    publishedDateTime: 2020-10-20T17:40:00Z
-    webUrl: "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/"
+  - title: "WATCH: Vice President nominee Kamala Harris speaks at Orlando 'drive-in rally'"
+    excerpt: "Democratic vice presidential nominee Kamala Harris will be encouraging early voting during campaign stops in Orlando and Jacksonville."
+    publishedDateTime: 2020-10-20T14:18:00Z
+    webUrl: "https://www.palmbeachpost.com/story/news/2020/10/19/democratic-vp-nominee-kamala-harris-campaigns-orlando/3708455001/"
+    ampWebUrl: "https://amp.palmbeachpost.com/amp/3708455001"
+    cdnAmpWebUrl: "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/3708455001"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 76
+      name: Palm Beach Post
+      domain: palmbeachpost.com
+    quality: 71
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-12.29.29-PM.png"
-        width: 800
-        height: 430
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PBRE/59193f60-c191-4084-999c-d0f97da822b2-BRE_AP_Kamala_Harris_02.jpg?auto=webp&crop=3980,2239,x0,y201&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Kamala Harris to make two stops in North Carolina Wednesday | Charlotte Observer"
+    excerpt: "Kamala Harris will visit North Carolina on Wednesday, almost a week after canceling a visit due to COVID-19 cases among a staffer and flight crew member. A brief statement released by the Joe Biden presidential campaign Monday said Harris plans to visit Asheville and Charlotte."
+    publishedDateTime: 2020-10-19T15:41:00Z
+    webUrl: "https://www.charlotteobserver.com/news/article246555648.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/article246555648.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article246555648.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998031001/a3270031-586e-48ae-9de2-0b9a14248687/01c7d70f-98b4-4b30-8887-d9631f2436e7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris in Florida: where and when will she campaign?"
+    excerpt: "Joe Biden's running mate will resume her campaign in Florida as the Democrats look to overhaul the Republicans in the most vital of swing states."
+    publishedDateTime: 2020-10-18T20:53:00Z
+    webUrl: "https://en.as.com/en/2020/10/18/latest_news/1603050982_131904.html"
+    type: article
+    provider:
+      name: as.com
+      domain: as.com
+    quality: 55
+    images:
+      - url: "https://as01.epimg.net/en/imagenes/2020/10/18/latest_news/1603050982_131904_1603057692_noticia_normal.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "hJlEJCrMtKzhkHyrtrl3pJYT/v/1UPZBj1pxk9HhL4koD2fBbrncktLwXWsq3LlBzL9j3SkuBs/mb9GfG9Q0BxF+ksQ5NE+ZtG2Hd9aVE/1f1prHu8KDursp/adI6xrWf6nvrLDegsi6FG1oA3TuexTrYOyuguHb5dkqwBb1Q+OITu/Gdf1D9DXhlRxCc5H00kYDcz8PtW7e2SDtAJiRUse7/qKtpRszBi+QbGMdGdE7o5GBxhzYcrFM1qZfJs81TdxOSOitkRnvJT6UQmnh935TT9HRvfPxIW5ZDovRhLnzGt2gcDq3BC3x6yBBReIS34kn7/BXIRdLk4XsQq8yyqVYzFNNhWbDq0fCrtR1m/Q=;YoyOFmWFKMyVZ9D2pcRwHg=="

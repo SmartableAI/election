@@ -104,6 +104,22 @@ related:
         width: 2402
         height: 1730
         isCached: true
+  - title: "Let's not pretend David Perdue wasn't being racist about Kamala Harris"
+    excerpt: "Anushay Hossain writes that Sen. David Perdue's purposeful mispronunciation of Sen. Kamala Harris' first name was racist and \"familiar to too many immigrants and people of color across America who have personal and painful stories of being bullied over our names."
+    publishedDateTime: 2020-10-18T23:03:00Z
+    webUrl: "https://edition.cnn.com/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/18/opinions/perdue-racist-kamala-harris-name-hossain/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201018155529-david-perdue-georgia-rally-1016-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "bMKItcKAd7VVcAs1Tu3FwvGmGVNAfdlIjZtLnejV10abKTKF2iQP+2JNsPzo53Zh6a32zor5AlyJg/QOyi6XSulel9DaWbgoOAmjkH6diNGBe64K6Vg4BWzGuJS+PQm1mQBvyTdXRU8D2XEyipxYCs0XxYTH9W/3m05Dh8cu62M17oP8TlA/jVSJrztHgqt2v/Sac96iB56qpKO1+FI6zSRrh7K/TlZwMNIEHTDuGjhz6oDAeng11XuQDPHPw1lY/HxOmKpv+0HQJvIa0qG8SRXaZPKZtL2z5ATQ0yV1M41DMaThYED4Xz3xW7/Klhg/imXo++N0hRIytD/VPUFHzKWO+4xIWLGtfK/Flx19eg64hnqiDeAIcXFSje6qmDQpBzDJjdc8O3yn2ee0sVlLIcUPPoFMxco5svDgio9rfjyyL3pEFLNvFdsvryi1YZWQKI4TjUKwAD289uRYlymPJ33J6xfX+G2r42nCb/7hVyIS+/rys5PXMrus6I83adusfPbE1HLinbmyLoykJA98IQ==;5wI3yY+L0GYNDqNju81tkg=="
 ---

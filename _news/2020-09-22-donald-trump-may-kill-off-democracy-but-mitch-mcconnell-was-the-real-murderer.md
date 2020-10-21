@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mitch McConnell says Senate Republicans will vote on a slim coronavirus relief plan as Trump presses them to 'go big'"
+    excerpt: "Senate Republicans and Trump may be on a collision course as the president seeks another large stimulus package ahead of Election Day."
+    publishedDateTime: 2020-10-14T01:12:00Z
+    webUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/5f5a676fe6ff30001d4e819e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "uodAjF3i3SYnobLQEkdWffNCILrvWBSqbSIYCIRalRaKRQAw5TY9OjmHNf26zqJ5C5g25kQu8DFp4Fps5mIScLWS9syCBqM7WaUMIiCf2QhRjZB1CEayF7xJ5UmbriELXFHyxhsIT+rRfjuFvKb0RUKAgA0mlvv+51Akf37c5kqQDFHEzwfYFMmw/+5pCmDjQ8A2LNrFI4TBXekD5AolC/33WvKbRFd9kQDmCRdYYkc590NuH1vis6YNiGk8cWzjYkI2HyJZOlhUr8gmXVMYPs8Ra173joRXq6SwVUr7AZGB6tpcryQqu22X0JxJWNDXl5ut6dOq0ESX55Vx3BpQQoNsbvNSdGV8/YxasuSmvXU=;cJKMmmbcdAeKuTZhzXr3MA=="
 ---

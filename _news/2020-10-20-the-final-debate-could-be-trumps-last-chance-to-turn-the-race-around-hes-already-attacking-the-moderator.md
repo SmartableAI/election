@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "2020 Watch: Is it too late for Trump to turn things around?"
-    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
-    publishedDateTime: 2020-10-12T10:59:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
-    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
-    publishedDateTime: 2020-10-19T18:35:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
     excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
     publishedDateTime: 2020-10-15T19:00:00Z
@@ -79,37 +47,53 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump's campaign nearly went broke for the 2020 homestretch, insiders say"
-    excerpt: "Trump's new campaign team, led by Bill Stepien, had to rush to cancel spending to salvage the president's bid for a second term."
-    publishedDateTime: 2020-10-18T15:32:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-nearly-went-broke-insiders-say-2020-10?amp"
+  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
+    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
+    publishedDateTime: 2020-10-16T04:42:00Z
+    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 124
+    quality: 113
     images:
-      - url: "https://i.insider.com/5f89bdddd260780019341d65?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Trump didn't deny New York Times report that claims hes $400 million debt when pressed during town hall"
+    excerpt: "\"What I'm saying is that it's a tiny percentage of my net worth... The amount of money — $400 million, is a peanut,\" Trump said."
+    publishedDateTime: 2020-10-16T06:54:00Z
+    webUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f8916f1d260780019341bf5?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump, again, turns to the Supreme Court to fight subpoena for his tax returns"
-    excerpt: "The Supreme Court has previously rejected Trump's claims he is absolutely immune from criminal investigations while in office."
-    publishedDateTime: 2020-10-13T20:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/13/trump-turns-supreme-court-fight-subpoena-his-tax-returns/5927775002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5927775002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5927775002"
+  - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
+    excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"
+    publishedDateTime: 2020-10-14T12:14:00Z
+    webUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/#!"
+    ampWebUrl: "https://deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/donald-trump-nbc-news-town-hall-1234597151/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
+      name: Deadline.com
+      domain: deadline.com
+    quality: 77
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/04/USAT/dc42f208-e8ce-4df7-a647-0ee34d21106c-123_President_Donald_Trump_Debate_Night.jpg?auto=webp&crop=2999,1687,x0,y73&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://deadline.com/wp-content/uploads/2020/10/AP_20280081514930.jpg?w=1024"
+        width: 1024
+        height: 741
         isCached: true
   - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
     excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
@@ -127,192 +111,94 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
-    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
-    publishedDateTime: 2020-10-18T12:07:00Z
-    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
-    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+  - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
+    excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
+    publishedDateTime: 2020-10-15T18:13:00Z
+    webUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746"
+    ampWebUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
     quality: 71
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
-        width: 600
-        height: 917
-        isCached: true
-  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
-    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
-    publishedDateTime: 2020-10-07T02:35:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 67
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Women in key state have ‘wised up’ to Trump — and it could cost him everything: report"
-    excerpt: "On Monday, the Philadelphia Inquirer reported that President Donald Trump is bleeding support from white women in Pennsylvania — and it could be the fatal blow that costs him the entire election. “President Donald Trump recently pitched suburban women with a plea at a rally in Johnstown,"
-    publishedDateTime: 2020-10-19T15:14:00Z
-    webUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 67
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/trump-flickr.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
-    excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
-    publishedDateTime: 2020-10-16T14:52:00Z
-    webUrl: "https://www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/"
-    ampWebUrl: "https://www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 66
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2020/10/AP20289001375327.jpg?w=1024&h=683"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg"
         width: 1024
-        height: 683
+        height: 664
         isCached: true
-  - title: "President Donald Trump coming to California for private fundraiser at tech mogul’s estate"
-    excerpt: "Tech mogul Palmer Luckey slated to host event at his Newport Beach home, as latest fundraising numbers show Trump falling behind Joe Biden."
-    publishedDateTime: 2020-10-16T22:50:00Z
-    webUrl: "https://www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/"
-    ampWebUrl: "https://www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/10/16/president-donald-trump-coming-to-orange-county-for-private-fundraiser/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 66
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/10/AP20289001375327-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
-    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
-    publishedDateTime: 2020-10-17T22:54:00Z
-    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
-    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
-    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
-    type: article
-    provider:
-      name: Winston-Salem Journal
-      domain: journalnow.com
-    quality: 66
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
-    excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
-    publishedDateTime: 2020-10-17T13:30:00Z
-    webUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+  - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
+    excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
+    publishedDateTime: 2020-10-16T15:37:00Z
+    webUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
     quality: 62
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
-        width: 757
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/07/trump-shutterstock.jpg"
+        width: 800
         height: 430
         isCached: true
-  - title: "WATCH: Trump Fan Outside Rally Laughs As Another Tells ABC News Reporter ‘Put A Bullet In Your Head, Buddy’"
-    excerpt: "ABC News reporter Will Steakin was shocked when a Trump supporter outside President Donald Trump's Ocala, Florida rally told him \"Put a bullet in your head, buddy. I got one,\" drawing laughter from the woman he was interviewing."
-    publishedDateTime: 2020-10-17T12:59:00Z
-    webUrl: "https://www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/"
-    ampWebUrl: "https://www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/watch-trump-fan-outside-rally-laughs-as-another-tells-abc-news-reporter-put-a-bullet-in-your-head-buddy/amp/"
+  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type”"
+    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
+    publishedDateTime: 2020-10-18T05:52:00Z
+    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/?ref=hvper.com"
+    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 57
+      name: Deadline.com
+      domain: deadline.com
+    quality: 59
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Steakin-Trump-fan-10-16-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "WATCH: Trump Rally Crowd Boos Dr. Fauci as President Calls Him a ‘Nice Guy,’ Then Trashes Him as ‘A Democrat’"
-    excerpt: "President Donald Trump supporters erupted into boos at his Thursday rally after the president called Dr. Anthony Fauci a \"nice guy\" before trashing him as \"a Democrat.\""
-    publishedDateTime: 2020-10-15T19:32:00Z
-    webUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/"
-    ampWebUrl: "https://www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/watch-trump-rally-crowd-boos-dr-fauci-as-president-calls-him-a-nice-guy-then-trashes-him-as-a-democrat/amp/"
+  - title: "‘SNL’: Michael Che Jokes About NBC Trump Town Hall On Weekend Update: “What Can We Say We Have A Type” WATCH"
+    excerpt: "Live took on the competing ABC Joe Biden and NBC Donald Trump town halls during its latest episode.  The show kicked off with a cold opening that saw Alex Baldwin reprise his role"
+    publishedDateTime: 2020-10-18T05:52:00Z
+    webUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/"
+    ampWebUrl: "https://deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/10/snl-weekend-update-michael-che-nbc-trump-town-hall-1234599328/amp/"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
+      name: Deadline.com
+      domain: deadline.com
     quality: 56
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Outnumbered-Overtime-With-Harris-Faulkner-01_54_30-PM-1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://deadline.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-9.19.43-PM.png?w=1000"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "The Latest: Trump Tells Fla. Supporters He Feels 'Powerful'"
-    excerpt: "President Donald Trump has returned to the campaign trail, holding his first rally since he contracted the coronavirus."
-    publishedDateTime: 2020-10-13T01:33:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-12/the-latest-bidens-traveling-press-pool-stuck-in-delaware?context=amp"
+  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
+    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
+    publishedDateTime: 2020-10-14T12:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
-  - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
-    excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"
-    publishedDateTime: 2020-10-17T01:54:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
+  - title: "Trump Mulls Higher US Stimulus Offer As Mnuchin Downplays Deal"
+    excerpt: "Getting a new stimulus spending package approved by Congress is unlikely before the November election, US Treasury Secretary Steven Mnuchin said Thursday, even as his boss President Donald Trump indicated he may raise his offer amid an impasse with the Democrats."
+    publishedDateTime: 2020-10-15T21:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-mulls-higher-us-stimulus-offer-mnuchin-downplays-deal-3062833"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 53
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Rallygoers-Unanimously-Praise-Defend-Trump-for-Not-Condemning-Bonkers-QAnon-Conspiracy-Theory-1200x676.jpg"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "WATCH: Former NSA, CIA Director Gen. Michael Hayden Warns Against Second Term for Trump in New Ad: ‘I Don’t Know What Happens to America’"
-    excerpt: "Former NSA, CIA Director Gen. Michael Hayden warns against second term for Trump in new Republican Voters Against Trump Ad: 'I don't know what happens to America'"
-    publishedDateTime: 2020-10-07T03:48:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-former-nsa-cia-director-gen-michael-hayden-warns-against-second-term-for-trump-in-new-ad-i-dont-know-what-happens-to-america/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 42
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Gen.-Michael-Hayden-Warns-Against-Second-Term-for-Trump-in-New-Ad.jpg"
-        width: 842
-        height: 473
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/15/us-treasury-secretary-steven-mnuchin-has-spent-weeks-AFP_8T74F9.jpg"
+        width: 1024
+        height: 673
         isCached: true
 
 secured: "lha58caB/gp6S/hFidTmpn/Jn3wUlgTZfi8X1pMa+7/NbGT39i+g7/XarOCyDzqdEBoToV/G9aDlhrO6UH70SEcFA4hxeqrcQBofVEgyzvVMXzHRRxoEqlGvAhknKv/GqEP/ItpOTmq6FgfkhHylf2R7eKfh7pL2DedqqM6QOc3eWzdMxE/Wikpbo+/oQFsmLZXyLJixJvuvCeNVnBKlHt/3k1u9vN213oMJF6WZKjUBKFz6rOey7lqoq24BEiV8Q3SiebJbRjJVAfFWq8/QKiaqkFgBjWV2ClXl99h/EBR+zHkGfhFbZ9s55ydm6Tfmm1KoIAUA/YvyQHBZ4MLR0y8os5lJYMeXoIrv6rnLu1ZrkwrqPw5RAJkRpuRs9oqpTcGu+hxlp+SjvOvRDo1o7wErpEeY2/gwhxiE9Un4bJP1tIN9Vy5ER/dlroJMHXtrAet4IQKc+ct2F89aQT27PIF8FoKjqOjNIIi+TBQLkNpXTduSoVdd7gsThsh+h18n9SN6Gnve3hY0ljHuKU1Sfg==;dua3bGPE3y4F3HAKds9nvQ=="

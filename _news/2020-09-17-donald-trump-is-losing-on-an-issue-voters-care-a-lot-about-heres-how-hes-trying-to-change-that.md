@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The American People Deserve to Know More About President Trump's Condition"
+    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
+    publishedDateTime: 2020-10-03T19:39:00Z
+    webUrl: "https://time.com/5895970/trump-covid-19-health/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 103
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Millions of poor Americans could get left out of Trump's legally dubious plan to send $200 drug discount cards to 33 million Medicare beneficiaries"
     excerpt: "Trump's legally dubious pledge could leave out 13 million low-income Americans receiving federal aid within Medicare."
     publishedDateTime: 2020-09-25T23:53:00Z

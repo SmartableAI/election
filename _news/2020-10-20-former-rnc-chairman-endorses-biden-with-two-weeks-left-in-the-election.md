@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 770
+heat: 790
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201019093822-20201019-brownstein-battleground-states-rust-belt-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: What you need to know about Joe Biden's tax plan"
+    excerpt: "Democratic presidential candidate Joe Biden has put forth several proposals that would change the tax code.\n    \n"
+    publishedDateTime: 2020-10-20T21:46:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KcgaOEB0b5s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/joe-biden-tax-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/joe-biden-tax-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914121834-biden-tax-spending-plans-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

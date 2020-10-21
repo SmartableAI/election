@@ -497,6 +497,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
+    excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"
+    publishedDateTime: 2020-10-20T21:51:00Z
+    webUrl: "https://www.nytimes.com/2020/10/20/us/elections/voters-favor-biden-over-trump-on-almost-all-major-issues-a-new-poll-shows.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/20/us/elections/voters-favor-biden-over-trump-on-almost-all-major-issues-a-new-poll-shows.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/20/us/elections/voters-favor-biden-over-trump-on-almost-all-major-issues-a-new-poll-shows.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 148
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/world/20elections-briefing-poll-1/20elections-briefing-poll-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump and Biden will have mics cut during opponent's answers in final debate"
     excerpt: "Debate commission institutes microphone muting for Trump-Biden debate Sections TV Featured More from NBC Follow NBC News President Donald Trump and Joe Biden will have their microphones cut off during Thursday’s final presidential debate while their opponent delivers initial two-minute answers to each debate topic,"
     publishedDateTime: 2020-10-20T00:48:00Z
@@ -544,6 +560,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_40/3416631/201001-joe-biden-mn-0937_4ba57d20761f5bb371daa61b3b55ab52.JPG"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump-Biden debate will have muted mics. That's bad for the candidates, and voters."
+    excerpt: "Presidential debates are supposed to educate voters by allowing them to see how candidates perform in one of the campaign's few unmediated spaces."
+    publishedDateTime: 2020-10-20T21:44:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-biden-debate-will-have-muted-mics-s-bad-candidates-ncna1244026"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244026"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244026"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 144
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3421501/201020-muting-trump-social-al-1055_8c9639596c06d61ee6a458dae43a0ae8.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Trump trails Biden in swing state and national polls. But here's how he can still win."
     excerpt: "Though the landscape appears to favor Biden, several places still offer the Trump campaign hope, including one in particular: Pennsylvania."

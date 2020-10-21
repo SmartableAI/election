@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-debate-moderator-kriste
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "McEnany claims debate moderator Kristen Welker gave Biden 'some cover' by eschewing foreign policy"
+    excerpt: "White House press secretary Kayleigh McEnany accused NBC News correspondent Kristen Welker Tuesday of giving Democratic nominee Joe Biden \"cover\" in this week's presidential debate by ignoring foreign policy as a topic."
+    publishedDateTime: 2020-10-20T20:27:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e8nlIHSEDwo/kayleigh-mcenany-second-debate-kristen-welker"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-second-debate-kristen-welker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-second-debate-kristen-welker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/218735bc-a4eb-4254-9c9a-bd895165e956/f1085213-9e82-42a5-91eb-29a5dce42708/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump calls NBC's Kristen Welker 'terrible and unfair' before she moderates next debate"
     excerpt: "President Trump let everyone know just how he perceives NBC News' Kristen Welker -- the scheduled moderator for the upcoming presidential debate in Nashville, Tenn. -- calling her “terrible and unfair” Saturday in a pre-debate offensive attack."
     publishedDateTime: 2020-10-18T09:28:00Z

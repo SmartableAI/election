@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ydr.com/amp/5982553002"
 cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/5982553002"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: YDR
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to hold rally Monday in York County"
-    excerpt: "Vice President Mike Pence will be in Fairview Township on Monday, holding a rally at the Capital City Airport in Fairview Township, according to President Donald Trump's website. The \"Make America Great Again!"
-    publishedDateTime: 2020-10-18T19:31:00Z
-    webUrl: "https://www.ydr.com/story/news/crime/2020/10/18/vice-president-mike-pence-hold-rally-monday-york-county/3703933001/"
-    ampWebUrl: "https://amp.ydr.com/amp/3703933001"
-    cdnAmpWebUrl: "https://amp-ydr-com.cdn.ampproject.org/c/s/amp.ydr.com/amp/3703933001"
+  - title: "Vice President Mike Pence To Visit Oakland County Thursday"
+    excerpt: "Vice President Mike Pence will be visiting Oakland County on Thursday for a Make America Great Again! just weeks ahead of the Nov. 3 election. Pence will speak at a rally located at Barnstormers, 1675 Airport Rd."
+    publishedDateTime: 2020-10-20T22:13:00Z
+    webUrl: "https://patch.com/michigan/troy/vice-president-mike-pence-visit-oakland-county-thursday"
+    ampWebUrl: "https://patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/michigan/troy/amp/29031441/vice-president-mike-pence-to-visit-oakland-county-thursday"
     type: article
     provider:
-      name: YDR
-      domain: ydr.com
+      name: Patch
+      domain: patch.com
     quality: 75
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/30/PPYR/c302c7aa-57ec-4889-8356-201f2b62b871-PMK_8808.JPG?auto=webp&crop=4927,2772,x0,y495&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://patch.com/img/cdn20/getty/24007010/20201020/061203/styles/patch_image/public/gettyimages-1280045144___20181119393.jpg?width=984"
+        width: 852
+        height: 639
         isCached: true
   - title: "In Berks County, Vice President Mike Pence makes his case for four more years"
     excerpt: "He touted President Donald Trump and the administration's accomplishments: \"That's what leadership looks like.\""
@@ -58,20 +58,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/dailylocal.com/content/tncms/assets/v3/editorial/3/ee/3eeb823e-71d6-507c-ad7b-048ace5ca669/5f8bb6dee2c0a.image.jpg?resize=1024%2C735"
         width: 1024
         height: 735
-        isCached: true
-  - title: "VP Mike Pence headlining Hermon rally on Monday in 1st Maine visit"
-    excerpt: "The rally at the Dysarts Service station set for 11:30 a.m. is among at least two stops Pence will make on Monday."
-    publishedDateTime: 2020-10-17T07:33:00Z
-    webUrl: "https://bangordailynews.com/2020/10/16/politics/pence-coming-to-maine-on-monday/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-2.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
         isCached: true
 
 secured: "YA0LEo8S6HEQnAAG66fkBBudIrNXzSOJeF5Feiu/NJuIV13O7sDUGHPh5AjdX3OL8JbDT6MC19Sw0+/s/+GR+qJdCzlEOXYStUyA8Abnr6grzvwsjUe4x2okSfDZ7tEJAYbXJ5fz1YqzxCglsFiO6Fft6tYQGBQDDDX7FGS7tiPra97mjCvzFwNkVFHnFj7gWl5RH4ysgWsNb6tm3GaFzi3EeKSxFZ4doYZSbosxYUvAiTiHnKkLqakSdV7RzCgFBXhaJ6stgcVC7LJnnn5EyzGB+IFz1mGlOPGJlfEql9M5CjTPhY+c3heIOMXa07c8JDSehNmWhehdHg814h5zFe6fstCC+Bz8/uFi6cxMMHE=;dmaFLQ2zq5vFpqyHEKLcAg=="

@@ -43,30 +43,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GOP Senators Facing Re-Election Have a Trump Problem. Here's How They're Dealing With It"
-    excerpt: "As the likelihood that Democrats take control of the Senate grows, Republican candidates are trying to save themselves."
-    publishedDateTime: 2020-10-20T13:19:00Z
-    webUrl: "https://time.com/5899843/republicans-senate-donald-trump/"
+  - title: "Trump: Nebraska Sen. Sasse 'a liability to Republican Party'"
+    excerpt: "President Donald Trump pushed back Saturday at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment\" to the state. The president's Twitter attack came after Sasse told constituents in a telephone town hall Wednesday that Trump has “flirted with white supremacists,"
+    publishedDateTime: 2020-10-17T16:39:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 91
-  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
-    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
-    publishedDateTime: 2020-10-17T17:40:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 71
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
-        width: 800
-        height: 430
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Trump Lashes Back at Nebraska Sen. Sasse After Criticism"
     excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state."

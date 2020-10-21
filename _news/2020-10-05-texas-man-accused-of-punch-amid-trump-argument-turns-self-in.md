@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/texas-man-accused-punch-amid-trump-argument-turns-73427562"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -122,22 +122,6 @@ related:
       - url: "https://api.time.com/wp-content/uploads/2020/10/donald-trump-back-in-the-oval-office-02.jpg"
         width: 2400
         height: 1550
-        isCached: true
-  - title: "Asian Doll Catches Heat For Endorsing Donald Trump For President"
-    excerpt: "The rapper apologized for offending anyone, but stood by her words. The President has millions of supporters, but for those who stand behind Donald Trump, the backlash can be swift. In less than one month,"
-    publishedDateTime: 2020-10-13T05:07:00Z
-    webUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/asian-doll-catches-heat-for-endorsing-donald-trump-for-president-news.119507.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 75
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1602564536_352e5e27f27c7df6d612af935bc4631e.jpg/c2d42380cafbff355aec3f821f34215f/1602564536_042399b7a1c110bb889ca4458ce0e5c4.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "Stp3RAn4W+Cwn5yywIWcC8o8PztZ5FfbeEgfSj/mxbGi1Y23Zih/cnuyskqGYiMYM+RzZuan6RR0uUNx8f4acYO0jHtLdNkij86+Meq0bgawdmfcdZYaNgHLJhbRsWm6FfUPjLNFyAOfpPB66NpYTZfybUUrTD4QfHHtoNs0w2z6rW4ETODemxJlOrOdTLIkDkh/jOYYQdmGRh8yge6wvPf5e4Xv+MozcRC71kMDWJVtvEUS6JfzgLkK/DZpwJK7b+pE/eFs2W/VvZI2Q9qHx09u7wZ5rSiG4TuNkQ9mxFuivNGxEO9g9VpHXXmAWUBKbpws04mZNBmk9xZA57kAWV/3/wJWGeM5ampbFM9fTxk=;fK5CXS619e9tiMqpeql2SA=="

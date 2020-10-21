@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/entertainment/sacha-cohen-trump-trnd/index.html"
 type: article
 quality: 150
-heat: -1
-published: false
+heat: 170
+published: true
 
 provider:
   name: CNN
@@ -32,22 +32,15 @@ images:
     isCached: true
 
 related:
-  - title: "QAnon supporters behind canceled Pence fundraiser gave Trump $1 million"
-    excerpt: "The couple made their donation in August before a scheduled fundraiser with Pence was canceled after their promotion of the QAnon conspiracy theory came to light."
-    publishedDateTime: 2020-10-17T13:27:00Z
-    webUrl: "https://www.nbcnews.com/politics/2020-election/qanon-supporters-behind-canceled-pence-fundraiser-gave-trump-1-million-n1243759"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243759"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243759"
+  - title: "Sacha Baron Cohen Pranks Mike Pence as Trump in ‘Borat 2’ Trailer"
+    excerpt: "The stunt was caught on camera during Vice President Pence’s speech at CPAC this year, but no one knew at the time it was Baron Cohen in the elaborate Trump costume."
+    publishedDateTime: 2020-10-01T15:33:00Z
+    webUrl: "https://www.thedailybeast.com/sacha-baron-cohen-pranks-mike-pence-as-trump-in-borat-2-trailer"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media1.s-nbcnews.com/i/newscms/2020_42/3420816/201016-qanon-se-222p_21fd7d7d084c8aa0a512e1925ea27f26.jpg"
-        width: 2500
-        height: 1669
-        isCached: true
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
 
 secured: "SN/JcBLdBBHJhTcN4XXqUK6+1AH1pbMK6M7xEjl/t3jhRU+EaUzB9Lom17X1eZ3Kc2RW/ZqMFUFaPGRpX9Vzs8RCHzYlR+o4rlykAgWsnukDxooTy4XLINtID3U4Q5TBSa5Ju8tgQn0nSr7a5A64hafoRW6tCChRa8BULP1nZ/BGrNy99zMiUvSB5gsxNpOjiENSxsqq/Z8j0KOnALbyjr+noB7KYNxlQiFIlV1YiVwz3IaEivH5t0rq4b0DNd938Z8L2UepZwKdzQ5ZFUGk5DU4u0idiwwA5Vc0xE0YjRk8ftHrl25RYM/zGX+hWfDQcQXwlQm5Wk5kIm+CCpeMKbVzZ6VgZJIoabNvKFoeGHg=;b6scO0z0rZk+hSd4os/y5g=="
 ---

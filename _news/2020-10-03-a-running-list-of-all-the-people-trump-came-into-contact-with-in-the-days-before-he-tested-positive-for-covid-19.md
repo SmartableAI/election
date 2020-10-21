@@ -271,22 +271,6 @@ related:
         width: 4475
         height: 2977
         isCached: true
-  - title: "Trump says he is free of COVID-19 as he aims to get back to campaign trail"
-    excerpt: "U.S. President Donald Trump said on Sunday he is fully recovered from COVID-19 and will not be a transmission risk to others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
-    publishedDateTime: 2020-10-11T18:26:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26W09G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W09G"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W09G"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
-        width: 861
-        height: 545
-        isCached: true
   - title: "Trump's doctor says he's no longer a risk for transmitting COVID-19 to others"
     excerpt: "President Donald Trump's physician said Trump is not a \"transmission risk to others\" in a memo released after he held his first public event."
     publishedDateTime: 2020-10-11T02:06:00Z
@@ -302,22 +286,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/03/USAT/13aef549-972b-4572-8065-d687015d7504-PRESIDENT_DONALD_TRUMP.jpg?auto=webp&crop=2882,1621,x0,y93&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump says he is recovered from COVID-19, prepares for return to campaign trail"
-    excerpt: "U.S. President Donald Trump said on Sunday he had fully recovered from COVID-19 and was not an infection risk for others, freeing him to return to holding big campaign rallies during the final weeks of the race for the White House."
-    publishedDateTime: 2020-10-11T21:16:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUSKBN26W0AG"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26W0AG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26W0AG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201011&t=2&i=1537013841&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9A05D"
-        width: 861
-        height: 545
         isCached: true
   - title: "Trump's COVID-19 diagnosis centers presidency and campaign on pandemic: ANALYSIS"
     excerpt: "His silence amid the shockwaves served as a chilling reminder that everything about his presidency -- and perhaps even about the nation's stability -- was suddenly at stake. A presidency that has so often devolved into pettiness and name-calling now confronts a deeply personal crisis that expands into the nation's health and security."
@@ -383,22 +351,6 @@ related:
         width: 760
         height: 545
         isCached: true
-  - title: "Families who endured COVID-19 don’t agree with Donald Trump’s sugar-coated experience"
-    excerpt: "When Carol Ackerman’s dad was dying of COVID-19, he wasn’t getting treated by infectious disease specialists. So, why does the president get special treatment?"
-    publishedDateTime: 2020-10-08T00:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/families-endured-covid-19-dont-agree-donald-trumps/story?id=73484581"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/families-endured-covid-19-dont-agree-donald-trumps/story?id=73484581"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/families-endured-covid-19-dont-agree-donald-trumps/story?id=73484581"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/covid-survivors-change-02-ht-llr-201007_1602109481695_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "President Trump And First Lady Test Positive For Covid-19 Coronavirus, What This Means"
     excerpt: "Apparently he and the First Lady, Melania Trump, This Tweet came just two days after both had appeared on stage at the first Presidential debate in Cleveland without face masks. Well, Trump did have a face mask,"
     publishedDateTime: 2020-10-02T07:03:00Z
@@ -414,22 +366,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f76bc7e50dc7ad90de9d070%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3938%26cropY1%3D74%26cropY2%3D3028"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Trump, still facing health questions, holds first public event since COVID-19 diagnosis"
-    excerpt: "U.S. President Donald Trump will on Saturday hold his first public event since being diagnosed with COVID-19 more than a week ago, aiming to show he has beaten the virus and is ready to resume campaigning,"
-    publishedDateTime: 2020-10-10T17:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26V09I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26V09I"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26V09I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201010&t=2&i=1536938601&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG99050"
-        width: 819
-        height: 545
         isCached: true
   - title: "Fact check: Trump could have been exposed to COVID-19 before Sept. 29 presidential debate"
     excerpt: "A claim suggesting Trump caught COVID-19 from the 'left' during the Sept. 29 debate is conspiratorial with no basis in fact. We rate it false."
@@ -492,22 +428,6 @@ related:
     quality: 112
     images:
       - url: "https://i.insider.com/5f77aec5282c500018c786ca?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump, who is still infected with COVID-19 and likely contagious, has returned to the Oval Office"
-    excerpt: "A US Marine was spotted outside the Oval Office on Wednesday afternoon, indicating the president is inside the room."
-    publishedDateTime: 2020-10-07T20:10:00Z
-    webUrl: "https://www.businessinsider.com/trump-returns-to-oval-office-while-sick-contagious-with-covid-19-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-returns-to-oval-office-while-sick-contagious-with-covid-19-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-returns-to-oval-office-while-sick-contagious-with-covid-19-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 112
-    images:
-      - url: "https://i.insider.com/5f7e1996c655f6001969ec65?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -584,34 +504,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "GOP voters not swayed by Trump COVID diagnosis"
-    excerpt: "Supporters of President Donald Trump at an early voting site in northern Virginia are strongly supporting the President after his hospitalization for the coronavirus. (October 6)"
-    publishedDateTime: 2020-10-07T08:48:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/06/gop-voters-not-swayed-trump-covid-diagnosis/5901627002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/046ba8d2-653b-468d-b831-ef425749e3a1_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Experts: Trump should rest more after COVID"
-    excerpt: "Two Houston doctors that have treated hundreds of people suffering from COVID-19 say they'd keep a patient with President Donald Trump's age and physiology in the hospital for at least a week. (Oct. 7"
-    publishedDateTime: 2020-10-07T19:10:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/07/experts-trump-should-rest-more-after-covid/5913775002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/707c0300-57bf-4595-a4fe-0fe95243102b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Joe Biden makes campaign stop in Erie, Pa."
     excerpt: "Watch \"Joe Biden makes campaign stop in Erie, Pa.\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-10-10T22:33:00Z
@@ -639,36 +531,6 @@ related:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5f8371d5e4b04d445762fba5-1602449877042?location=LANDSCAPE"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Trump returns to campaign trail after bout with covid-19, amid criticism he is still not taking pandemic seriously"
-    excerpt: "President Trump returned to the campaign trail Monday, holding his first rally since being hospitalized earlier this month, as part of an intense effort to demonstrate that his bout with covid-19 is behind him and that he is the more vigorous of the two septuagenarian candidates vying for the presidency."
-    publishedDateTime: 2020-10-13T02:15:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-rally-covid-florida-biden/2020/10/12/00c10916-0c99-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEO3FNQM4AI6XCRVEN7PD2ZO64.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "President Trump Makes First Public Appearance Since His Hospitalization for COVID-19"
-    excerpt: "President Donald Trump on Saturday made his first public appearance since returning to the White House after being treated for the coronavirus. The White House has refused to declare that he is no longer contagious,"
-    publishedDateTime: 2020-10-10T20:09:00Z
-    webUrl: "https://time.com/5898983/trump-white-house-covid-19-hospital/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 98
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/AP20284653128349.jpg"
-        width: 4458
-        height: 2972
         isCached: true
   - title: "This chart shows the dozens of high-level officials Trump has interacted with over the past week and the results of their COVID-19 tests"
     excerpt: "Trump was in contact with dozens of high-level government officials in the days prior to testing positive for COVID-19."
@@ -781,22 +643,6 @@ related:
       - url: "https://imagez.tmz.com/image/d0/16by9/2020/10/10/d004f24fd2d842c3893a71b13bc31855_xl.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump Tests Negative for COVID-19"
-    excerpt: "Donald Trump's physician said the president has tested negative for COVID-19, according to a memo released by the White House on Monday afternoon, about 90 minutes before he is set to hold a rally in Florida."
-    publishedDateTime: 2020-10-13T02:10:00Z
-    webUrl: "https://www.wfaa.com/article/entertainment/entertainment-tonight/donald-trump-tests-negative-for-covid-19/603-a3c8d41f-6611-411c-997e-5710a6123c60"
-    ampWebUrl: "https://www.wfaa.com/amp/article/entertainment/entertainment-tonight/donald-trump-tests-negative-for-covid-19/603-a3c8d41f-6611-411c-997e-5710a6123c60"
-    cdnAmpWebUrl: "https://www-wfaa-com.cdn.ampproject.org/c/s/www.wfaa.com/amp/article/entertainment/entertainment-tonight/donald-trump-tests-negative-for-covid-19/603-a3c8d41f-6611-411c-997e-5710a6123c60"
-    type: article
-    provider:
-      name: WFAA8
-      domain: wfaa.com
-    quality: 75
-    images:
-      - url: "https://media.wfaa.com/assets/ETONLINE/images/46ad6ebb-b917-417a-af12-81971b7c2d74/46ad6ebb-b917-417a-af12-81971b7c2d74_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Joe Biden surges to 14-point lead against President Donald Trump in national poll after Tuesday’s debate"
     excerpt: "Joe Biden surged from an 8-point lead to a 14-point lead after the debate, according to the latest Wall Street Journal/NBC News poll."

@@ -47,21 +47,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
-    excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
-    publishedDateTime: 2020-10-16T12:47:00Z
-    webUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698"
-    ampWebUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
+  - title: "Trump critics who embraced Hogan are baffled by his vote for long-dead Reagan"
+    excerpt: "Larry Hogan’s decision to repudiate President Trump by casting a write-in vote for Ronald Reagan has drawn swift and sustained backlash from many Democratic supporters and some anti-Trump Republicans who had admired Hogan’s willingness to break with the White House."
+    publishedDateTime: 2020-10-20T21:55:00Z
+    webUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-reagan-vote-backlash/2020/10/20/d8fafc34-1233-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
-      - url: "https://d.newsweek.com/en/full/1653787/trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/63KJTAQSQII6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1280
+        height: 1025
         isCached: true
   - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
     excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
@@ -95,6 +95,22 @@ related:
         width: 1199
         height: 782
         isCached: true
+  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
+    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
+    publishedDateTime: 2020-10-16T01:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
     excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
     publishedDateTime: 2020-10-16T01:20:00Z
@@ -111,19 +127,51 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why Beijing May Want To Keep Trump In The White House"
-    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
-    publishedDateTime: 2020-10-20T07:16:00Z
-    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
+  - title: "Watch: Trump rallygoers offer bizarre explanations to defend president’s failure to condemn QAnon"
+    excerpt: "President Donald Trump’s fierce supporters are offering bizarre and baseless explanations to defend his refusal to condemn QAnon conspiracy theories during his town hall with NBC News moderator Savannah Guthrie."
+    publishedDateTime: 2020-10-17T13:30:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-trump-rallygoers-offer-bizarre-explanations-to-defend-presidents-failure-to-condemn-qanon/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 62
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/cnn_anon-757x430.jpg"
+        width: 757
+        height: 430
+        isCached: true
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
     quality: 55
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
-        width: 1024
-        height: 681
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
+        isCached: true
+  - title: "WATCH: Trump Rallygoers Praise, Defend Trump for Not Condemning Bonkers QAnon Conspiracy Theory in Wild CNN Segment"
+    excerpt: "CNN reporter Gary Tuchman interviews Trump rallygoers who unanimously praise and defend Trump for not condemning absurd QAnon conspiracy theory"
+    publishedDateTime: 2020-10-17T01:54:00Z
+    webUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-trump-rallygoers-praise-defend-trump-for-not-condemning-bonkers-qanon-conspiracy-theory-in-wild-cnn-segment/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Trump-Rallygoers-Unanimously-Praise-Defend-Trump-for-Not-Condemning-Bonkers-QAnon-Conspiracy-Theory-1200x676.jpg"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "UvGitXsWwPG1hwFDsRNaZy6KsJHk7fzvyzAWMZPcl/L1Fo7q7A3Q5U6cfWThdhMiDCQE7bEWVLzMHcL9wEjo0UZqfYd0F/r7w0VX25LPLbuzy8mrEr9wX2DxLn8Q9jJR1w1EaDhXPYvnAznnvTLQgGBziSR722H2IuiH2OINfqcqHZfthZIo+PlVGTmZK4YjPshxx1yAYgGOde+/UpK5JFbrcm/SuhIlWpfaGtjUntDoc8cLjrHphHPpiXauaTgoemtMFQSXZZTUa1mxARYvX5aFFXj86gKaQJb/vwB+seYFRwgLs1bNp92ifKw7quJt24BP+Upaq/nqyfMaTd2YZAP7Lr8ccmYG+lEvXudncjo=;e8sgXdZExITJSP6JP4pLQg=="

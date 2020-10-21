@@ -96,6 +96,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Poll shows Trump gaining on Biden, still lagging among key demographics"
+    excerpt: "President Trump has narrowed the gap in his race with former Vice President Joe Biden, but still needs to win over certain voter demographics if he expects to maintain the presidency in November, according to a poll released Tuesday."
+    publishedDateTime: 2020-10-20T20:07:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cESP3Erzvqc/poll-trump-narrows-gap-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/poll-trump-narrows-gap-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/poll-trump-narrows-gap-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de0caf77-51bd-4b88-b97c-0610014cd030/78755833-b4fd-4cbc-b064-c1f84122fe96/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tells Arizona rally Biden’s lucky Barr hasn’t locked him up"
     excerpt: ""
     publishedDateTime: 2020-10-20T03:55:32Z
@@ -368,6 +384,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Many Trump supporters feel need to hide their support for president: poll"
+    excerpt: "A new poll in the battleground state of New Hampshire indicates that voters who back President Trump are far less likely to express their support publicly than those who back Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-20T20:14:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9CK1f6AghPc/trump-supporters-hide-their-support"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-supporters-hide-their-support.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supporters-hide-their-support.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/IMG_2240.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump says choice is 'American Dream' or 'socialist hellhole' in 2020 race"
     excerpt: "President Trump on Tuesday equated the race between himself and Democratic nominee Joe Biden in the 2020 presidential election as a choice between the \"American Dream\" and a \"socialist hellhole.\""
     publishedDateTime: 2020-10-20T14:13:06Z
@@ -473,6 +505,22 @@ related:
       - url: "https://images.wsj.net/im-247269/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Brian Arbour: Everybody likes Joe Biden – here's why that's very bad news for Trump"
+    excerpt: "Everybody likes Joe. Well, not everybody. Our most recent Fox News poll shows that 41% of those surveyed have an unfavorable impression of Democratic presidential nominee Joe Biden. But more crucially,"
+    publishedDateTime: 2020-10-20T19:53:00Z
+    webUrl: "https://www.foxnews.com/opinion/joe-biden-bad-news-trump-brian-arbour"
+    ampWebUrl: "https://www.foxnews.com/opinion/joe-biden-bad-news-trump-brian-arbour.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/joe-biden-bad-news-trump-brian-arbour.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23d0ced5-35cd-4c65-bd68-90fc2c44909e/cc99c12a-752d-44dd-a3fe-d312ae773476/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
     excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"

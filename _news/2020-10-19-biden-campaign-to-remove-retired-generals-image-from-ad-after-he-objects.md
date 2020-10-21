@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: What you need to know about Joe Biden's tax plan"
+    excerpt: "Democratic presidential candidate Joe Biden has put forth several proposals that would change the tax code.\n    \n"
+    publishedDateTime: 2020-10-20T21:46:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KcgaOEB0b5s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/joe-biden-tax-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/joe-biden-tax-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914121834-biden-tax-spending-plans-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says he's 'not a fan' of court-packing and that he doesn't want to make the election about the issue"
     excerpt: "Democratic presidential nominee Joe Biden said Monday that he's \"not a fan\" of court-packing, providing his clearest position on an issue he has sought to avoid discussing following the death of Justice Ruth Bader Ginsburg.\n    \n"
     publishedDateTime: 2020-10-13T12:54:33Z

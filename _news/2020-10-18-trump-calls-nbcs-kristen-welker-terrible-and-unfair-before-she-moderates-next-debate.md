@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McEnany claims debate moderator Kristen Welker gave Biden 'some cover' by eschewing foreign policy"
+    excerpt: "White House press secretary Kayleigh McEnany accused NBC News correspondent Kristen Welker Tuesday of giving Democratic nominee Joe Biden \"cover\" in this week's presidential debate by ignoring foreign policy as a topic."
+    publishedDateTime: 2020-10-20T20:27:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e8nlIHSEDwo/kayleigh-mcenany-second-debate-kristen-welker"
+    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-second-debate-kristen-welker.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-second-debate-kristen-welker.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/218735bc-a4eb-4254-9c9a-bd895165e956/f1085213-9e82-42a5-91eb-29a5dce42708/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MQoGu9UoogvQgu63+nZy5kU6y9MNdYEKEV39a+TmYSl6u1IWz5XrzP90hDk85A5yDOfBx/ESw6RWC9FBd/uMch5B20V9jukhY8no/HGn5EkFBEAvUTnsMVVpFiMYuMfny8OoMDud8fED+sio8kVqst2uuJneEuJfnB4+orgs3vaEAzHnMctfe1wWQwxrsnEBy8ZRYuo8t08QHcBHTMFaK90DTQVtxA4Q665v6y3i8Q7Hqdo2Iv2TeLSCYtu3kftveLuAwVV//AAXuBZiKLykS9L45oKS2YaoGSfyxoAOlkeK12V21WRGw0EGnsdRGcamixMebDkC3BQuzcKPrOS3ioaWD0bNIWKz8tELbfWCTFI=;3WKXSLw7iJwPsjpkQJLR4w=="
 ---

@@ -80,6 +80,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump administration moves to bar convicted felons, gang members from asylum"
+    excerpt: "The Trump administration on Tuesday announced a new rule to amend asylum regulations in a way that would bar immigrants with certain criminal convictions from being eligible for asylum."
+    publishedDateTime: 2020-10-20T21:19:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPVlcCDMnDo/trump-administration-bar-convicted-felons-gang-members-asylum"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-bar-convicted-felons-gang-members-asylum.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-bar-convicted-felons-gang-members-asylum.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74bdf425-eb50-4282-b1b3-9b0b9b8b9156/ebe3063b-6938-4d07-b3b3-63876b0ffd11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lightning Will Have to Strike Twice for Trump to Win"
+    excerpt: "A repeat of 2016 would require widespread polling errors that again all work in the president’s favor."
+    publishedDateTime: 2020-10-20T23:24:00Z
+    webUrl: "https://www.wsj.com/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    ampWebUrl: "https://www.wsj.com/amp/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-247433/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Will the Media Defeat Donald Trump?"
     excerpt: "President Trump and everyone else knew that the NBC Townhall exposition would be contentious and that the ABC Townhall with Joe Biden, broadcast at the same time, would be gentle. And"
     publishedDateTime: 2020-10-18T12:08:00Z

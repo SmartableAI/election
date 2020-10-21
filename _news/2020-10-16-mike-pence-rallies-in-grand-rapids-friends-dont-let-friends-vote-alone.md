@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "VP Mike Pence rallies voters in Grand Rapids in final stretch before the election"
-    excerpt: "Michigan has hosted both the major party candidates, President Donald Trump and Joe Biden, as well as others connected to their campaigns in recent weeks."
-    publishedDateTime: 2020-10-15T01:55:00Z
-    webUrl: "https://www.11alive.com/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    ampWebUrl: "https://www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    cdnAmpWebUrl: "https://www-11alive-com.cdn.ampproject.org/c/s/www.11alive.com/amp/article/news/politics/vp-mike-pence-rallies-voters-in-grand-rapids-in-final-stretch-before-the-election/69-e115fb74-34b3-4e88-832e-b0563a3a3edd"
-    type: article
-    provider:
-      name: 11Alive
-      domain: 11alive.com
-    quality: 85
-    images:
-      - url: "https://media.11alive.com/assets/WZZM/images/6a051c69-2f1a-4994-aa31-292d17bab10f/6a051c69-2f1a-4994-aa31-292d17bab10f_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Pence rallies in Grand Rapids: ‘Friends don’t let friends vote alone’"
     excerpt: "Vice President Mike Pence urged Michiganders to vote during a rally near the state’s second-largest city, as Michigan remains key for both the Democratic and Republican campaigns’ bid for the White House."
     publishedDateTime: 2020-10-14T21:09:00Z
@@ -59,29 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Watch: VP Mike Pence’s rally in Maine"
-    excerpt: "Vice President Mike Pence will headline a rally in Hermon on Monday morning as President Donald Trump looks to be locked in a tight race with Democratic nominee Joe Biden in Maine’s 2nd Congressional District."
-    publishedDateTime: 2020-10-19T18:05:00Z
-    webUrl: "https://bangordailynews.com/2020/10/19/politics/watch-live-vp-mike-pences-rally-in-maine/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://i1.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/Election-2020-Pence-3.jpg?fit=1024%2C718&#038;ssl=1"
-        width: 1024
-        height: 718
-        isCached: true
-  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
-    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-10-14T21:18:00Z
-    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "/Ydd2pcMqEHP5lGgrhSotqkN/wpOzCEoMiahjC9rl5+XfFnSLWKelpW4svxHPCOTPdzoSh3QN4tOLibUhwdW68S4kM3V7kPI+NPjHqSWxnVwv9F9PYEG7gyFYVLElx78U5B7K0t4gb+OmsrUM/OJPEyZBuzoybn8r1TvJtSognB1OuSBS+5lRw5NPLffjitumbj9CzZBWKpRXIO67gYqKiqcycit5ZiJkhCDQrpc0A1YzhKHDit6BEBJ0vnnTvy5Z/plQOZVMJdYHoZvHv+M38oybuyL/fUI0fq+v4376dLV+WuCLBrRQf1Ryvq97Xb6F0DFICboCcjMsED7rUoQbOUjK/oVJh22seeXG8OuiWBdtqN0f36qbMuGlSJZHe3xCnH3EadsG+D0U7/RXMcguVSCB4iVXulgnufA0TSrY07a5nQhH3xedpafAvxetJemuHRDBURcp5EQAnHX2qZNjbcNdK7smogDUWAOWdwtohZqU1QBXlWCNYi5fsG8QFWUzIesaYXZai4+4I72sXXBqA==;CZyB/FqMjVp3HAgVE1+z+w=="
 ---

@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Claiming Covid-19 'Immunity,' Trump Ready For Election Fight"
-    excerpt: "US President Donald Trump on Sunday declared himself immune from Covid-19 and ready for a fight as his White House race against surging rival Joe Biden enters its critical final weeks. Trump was given the all-clear Saturday to return to the campaign trail after he was ruled no longer a coronavirus transmission risk -- although he has yet to be declared virus-free."
-    publishedDateTime: 2020-10-11T17:21:00Z
-    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-ready-election-fight-3060417"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
 
 secured: "6501zPLaGdayOUJBY6Yh16zslUz7Y++bG6wW+I4I3ncDS5h9puleN2yKpQ/ciasJVEtjhP4DGGnAO/stawBEUw42mFzg3V0zYfZz1uc6YcBwbZ6UWhl7sPtAsJPTM8PdYkilnnikFhTgU88iY8fClUuNu7VfvPG7g1VZEYWCTx+PC9s52qH/vkttvdosePse0g1gXuMF9D0L0MjXnLoJe0IjO99oY04HnoRsnsC92fQBznYci5K+QeaCIKkROFtOzvvAD5BpGmJCKcnwaL8GdqRkW9qSS4SrQEVaOLlEv9bqnzJ8xDEzh238FZXiGZ+y7E7xuJr0/2asaAw4IgQMeGqlMzc+ck5oAD05N/YZ3t4=;yYkTj9OLHJQW6QNHQpDiYA=="
 ---

@@ -44,7 +44,23 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
+    excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
+    publishedDateTime: 2020-10-20T22:32:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/20/plurality_of_catholics_back_barrett_biden_lead_holds_steady.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "http://assets.realclear.com/images/52/524567_5_.jpg"
+        width: 750
+        height: 552
+        isCached: true
 
-secured: "zupXpDGHa29gavIvFTz5Z+NBdJHMYU1NeoEPPRIkoFHL1uqvNzoIJi10wMXjNS+g3pnqupmJ3NQr3VIarhyt09n44/YF8xT4IGX6eaBy7zNnM9vTuz1hYEI+dJktzp2ezTrsHubtUwgCq1/pch81kfowiVK05uQWiwCkRhvgD+GCYti6S4gTFSoML/i7E8vLeUyscYtQqbkd4zPayIbX+1MiaCUbjtN4OYefltN+nwTUrycXvHQZjpfLVG+92rqBEZkfFAI0rbG6s8AYximLaasPTpOH5ZAXlDk/Q731NAthEdgc2ML06fhuC7cApjTwdKAW19hRNNPRFY1f/AciLV1hNB6RFvAZLDk1H22NdA8=;Es5HH4y9nW/OxvnuPoI3Bg=="
+secured: "fHh5PYaOPWeq8RcboDuykYUmszI7jxP2q1s4p9tdYtBeQ83tMmwY+sTbXRq8mydY0gAM18IHuullXo9iyW3+oKKM38jKLvIXmKc0rZ5cnGA+ieHgjVMdaS95258JHQJSQWh7Yg3x4zslB0o400sDB/dIXyWxOdTkvDQCkIn6zMEjEKlkvHHAlSn25SOCQopIdHx8bTM1DUbA9kONfPiX4LZPa84c8mytPmjONTc1Je2735Y6p4EEZdYySonEFGEHjJDqVzHJ+vY12mnXRPDkxDJCVTbBUPADNwtOakjIC2sXKeiJJTCGBebRSgzIjPEUZJJgUX1hfufy2NLVYZCwFAjyDuvv5Mumo0Fd8GUX0BgffVT2o9XESWtkBYzRiuR6TnoQNtAiN/mhIirXrMoUplUrMuIkk2jZ6vyknUkI3/VcCY5LqWeJY8g9MCw+ql3rfjy2RThXf2flQZdeBvhoZJpk19/mb8VwjDX+WspFLLmxHaLHzojFKyvf8YtPqfPcYTVNF6Cse0qEP0eVkwGWMA==;/mvh/TSkjCSAuop0uPNM9Q=="
 ---
 

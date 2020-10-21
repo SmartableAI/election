@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mattperez/2020/10/09/trump-says-scans-found-congestion-in-his-lungs-doesnt-know-if-hes-virus-free-yet/amp/"
 type: article
 quality: 118
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Trump got a $21 million tax break for saving the forest outside his NY mansion. Now the deal is under investigation."
-    excerpt: "New York Attorney General Letitia James (D) is investigating whether the Trump Organization improperly inflated the value of Seven Springs estate."
-    publishedDateTime: 2020-10-09T12:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-got-a-21-million-tax-break-for-saving-the-forest-outside-his-ny-mansion-now-the-deal-is-under-investigation/2020/10/07/de84c1ba-ff6b-11ea-830c-a160b331ca62_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 102
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EF72L5QIAUI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 1079
-        isCached: true
 
 secured: "9Bh2NpjDvszJXiijcIUefrudndaPwSvbyT4/nGIHdVuqjri9zhNxObp/dwG69drmGq4K++5FxEBq+dxLR53qQiNxt7pOTnRNf32zjyOdZKsFQTKwhgiOuocwhp0x3pL8z2JTs0gCd4/NmDwmzomThpK+2J4gyfSv4/65dvpFbfq78myVxAWpY+YOxXIu9jCMXWjwoElo1RkSq+wv1jSkIyNcfPyPJEr5tgbEj2kQ5Ab3DPs2IOv8QB6JiK0Z5tX+U/T3MaU6sk26bpVe3Ebk/COmgIWRmKh8U9N2Q2y0JvGFK6pVyEWdDec7ehs6RwWG1sYjhkxE3iy3wFjmih4tQE12HtkMpFi3wY1yJSSmIJM=;pACON5IkRtawyoSPB1Iifg=="
 ---

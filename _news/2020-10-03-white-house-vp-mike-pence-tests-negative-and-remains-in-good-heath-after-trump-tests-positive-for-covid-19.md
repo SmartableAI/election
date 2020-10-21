@@ -263,6 +263,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mike Pence ramps up public appearances while Trump remains hospitalized, concerning experts"
+    excerpt: "INDIANAPOLIS – Vice President Mike Pence was among dozens of politicians and high-profile dignitaries at a White House Rose Garden event when President Donald Trump announced Amy Coney Barrett ..."
+    publishedDateTime: 2020-10-04T15:37:27Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/04/mike-pence-vice-president-not-in-quarantine-campaiging/3615907001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3615907001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3615907001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/24/PIND/a785aae8-ef19-4144-83aa-156692d5a0f6-Pence_10.JPEG?auto=webp&crop=4556,2563,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Check’s in the mail: Trump offering government aid, including cash, in weeks before the election"
     excerpt: "In recent days, President Donald Trump has promised millions of Medicare recipients that — thanks to him — they’ll soon be getting an “incredible” $200 card in the mail to help them pay for prescriptions."
     publishedDateTime: 2020-10-01T13:33:00Z

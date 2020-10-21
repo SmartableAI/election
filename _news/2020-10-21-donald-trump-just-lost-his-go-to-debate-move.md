@@ -74,6 +74,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump administration moves to bar convicted felons, gang members from asylum"
+    excerpt: "The Trump administration on Tuesday announced a new rule to amend asylum regulations in a way that would bar immigrants with certain criminal convictions from being eligible for asylum."
+    publishedDateTime: 2020-10-20T21:19:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPVlcCDMnDo/trump-administration-bar-convicted-felons-gang-members-asylum"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-bar-convicted-felons-gang-members-asylum.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-bar-convicted-felons-gang-members-asylum.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74bdf425-eb50-4282-b1b3-9b0b9b8b9156/ebe3063b-6938-4d07-b3b3-63876b0ffd11/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "An Ex-Liberal Reluctantly Supports Trump"
     excerpt: "How historian Fred Siegel came to appreciate the president’s defense of ‘bourgeois values’ against the ‘clerisy.’"
     publishedDateTime: 2020-10-16T19:32:00Z
@@ -87,6 +103,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-245973/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Lightning Will Have to Strike Twice for Trump to Win"
+    excerpt: "A repeat of 2016 would require widespread polling errors that again all work in the president’s favor."
+    publishedDateTime: 2020-10-20T23:24:00Z
+    webUrl: "https://www.wsj.com/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    ampWebUrl: "https://www.wsj.com/amp/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lightning-will-have-to-strike-twice-for-trump-to-win-11603235714"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-247433/social"
         width: 1280
         height: 640
         isCached: true
@@ -107,6 +139,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ZcLYsQJHPfRKxu8Eh7J3tyNYN5Ex/ZxETdqZKHCpy5E0K+oBb/ir+100inCtjLccPfawlsRfjYzFycnCkc0RpaiyZNG4/bGMM/H31aXdlW9hO54P0CQ6WZ97uPu7i4XdQX4LQ+QbXvVgbcrrvWmOpv42K4it6thNeuni5sY6DgGFsTTJJLzhJGm+x+Qg4wmAn5Zns2Xyy0g0fJ1TYI2/z7Z3Ot3hCGPl4tu2ntJtild6scJGL90X7SBvalU/Z/sFWWcHM5VGrwUD52zrYHbXGG7OXW6fEqYiHxe4Z/VVAkayxYt/kfMKLaBHUTejUr4I+uCrd/5vIr7aO21zI7Mrr1IE7SxUmtr5bo65Tk3Mp10=;nHF13hgpE6TBBLKTNrrj8w=="
+secured: "2Q/xeyvR7dRWbYxMrbwpRlUYv08MwhUvCA6Zn5OOZ/llrzYKgrcFfux6WcM51d0urebGSVcRoaSxBU/ZHr7STAromXvrQfxm0Fe3BY91/eKKosFvj0fGEmOAX4C/DlgunHbZnWH2V62dif4sHuV21OQ7EN6taCx7bbeGpPyZ7QWX2GmG33NQ0q5CbTr0bYJtGSsy9pt1RuBPCCaBLbyIKKcKcs2Cdj923buxg4UVPM/XYAJd7Zw+LtWUalxjYkb2oE3GZnwGSeeOBPRohnp+Jn4lbEfnOItae1P8qC2xw+ztNaF0/Wg7G41/5afTTFEuXzzRGLyechYHs1wj9PI5TIZEd7auK516K2UVBx6+NCb2YdsCECZUSP3Pti/Z9Z8UDXqZfUjfH9WPobO5GagDTTchG021FJW1AnK20iJ2Lrq/9zG4n8OyukasBGBmoLZQ3QBCQFQoWrs3kUSFPGplASwi89QK5hKDqYzG7FE/19lHUOTgaGhs7cUldCiLqyZnsGpkU27y3cmws6CjvVqt4A==;/OXa+k2kuagwFWN/AHU/dg=="
 ---
 

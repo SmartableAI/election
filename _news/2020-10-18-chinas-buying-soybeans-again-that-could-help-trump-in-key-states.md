@@ -423,6 +423,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Trump Finally Slaps Google, and Protects Democracy"
+    excerpt: "His motives may not be pure and his timing is suspect, but applaud the president for trying to cut one of our monopolistic and anti-democratic tech giants down to size."
+    publishedDateTime: 2020-10-20T21:02:00Z
+    webUrl: "https://www.thedailybeast.com/trump-finally-slaps-google-with-anti-trust-suit-and-protects-democracy"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "4u9uZYkMPaqm1XLmoErpzP1B0a/mbUJ1V9DoV9ICyGo570Uq+e8ZkQQLgGWl6idw5EJjNHwFZuHxnZoKknOzVuOkuBFp6RivqlVchIruyBlVYPEsKuLoexyCOk7gk7S3dAg7hBbY1ytbMxpNl1GZmOd94BSoz/kk5TYXYd1UMQ/C7YKeuotFTQRL594t256sQweQ4ea0lj5f0FG7qtIeNaUrJV0VOPCCea5wJVSWitzB55nE1ap0danQ1CtAYZipj30d+5WFNUzdNq/wQUo6CGHIZzvQs+qTme1fbQAEREqOymbRbe4eYALJqpxI+ISL5jII1hR6XjdKkBa6yna7qK+sXOUgmbbOljUtuKYowgQ=;VEcrpfx6aMIQ/b9dltgFFA=="
 ---

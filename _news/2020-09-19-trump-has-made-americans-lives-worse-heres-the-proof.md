@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/opinions/2020/09/18/trump-has-made-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/09/18/trump-has-made-americans-lives-worse-heres-proof/?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -174,6 +174,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/08/13/USAT/4fcfc399-0a9d-4711-b0f5-5cfa45f23ae3-AP20226667076368.jpg?auto=webp&crop=2756,1551,x0,y140&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The American People Deserve to Know More About President Trump's Condition"
+    excerpt: "T he world’s attention turned to U.S. President Donald Trump on Friday, when we learned via his early morning tweet that he and First Lady Melania Trump had tested positive for"
+    publishedDateTime: 2020-10-03T19:39:00Z
+    webUrl: "https://time.com/5895970/trump-covid-19-health/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 103
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/trump-health-covid-19.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Donald Trump Is Losing On An Issue Voters Care A Lot About. Here's How He's Trying to Change That"
     excerpt: "With nearly 200,000 Americans dead from COVID-19 and millions more who lost their health insurance when they lost their jobs this year, President Donald Trump tried this week—as he has done throughout his presidency—to change the conversation."

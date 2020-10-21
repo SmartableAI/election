@@ -130,22 +130,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Taliban cheer Trump tweet promising early troop withdrawal"
-    excerpt: "The Afghan Taliban on Thursday welcomed a tweet from President Donald Trump in which he promised to have the last of U.S. troops out of Afghanistan by Christmas — or at least by the end of the year. If that withdrawal happens,"
-    publishedDateTime: 2020-10-08T15:31:00Z
-    webUrl: "https://www.chron.com/news/article/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Taliban-welcome-Trump-tweet-promising-early-troop-15630502.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
   - title: "John Oliver Says Donald Trump's COVID-19 Diagnosis Was 'Utterly Inevitable'"
     excerpt: "John Oliver talked about President Donald Trump’s COVID-19 diagnosis and blasted the first family for not wearing masks during the first presidential debate."
     publishedDateTime: 2020-10-06T03:06:00Z

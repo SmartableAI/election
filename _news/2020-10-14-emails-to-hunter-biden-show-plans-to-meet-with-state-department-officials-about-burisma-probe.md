@@ -457,6 +457,17 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Sources tell Fox News FBI has possession of purported Hunter Biden laptop"
+    excerpt: ""
+    publishedDateTime: 2020-10-20T22:48:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/L3kraosJ3u0/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sources-tell-fox-news-fbi-has-possession-of-purported-hunter-biden-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
   - title: "Republicans blast Biden for saying voters don't deserve to know court packing stance"
     excerpt: "Republicans condemned Democratic nominee Joe Biden for saying voters don’t “deserve” to know his stance on court packing until after they’ve voted. "
     publishedDateTime: 2020-10-10T20:11:36Z

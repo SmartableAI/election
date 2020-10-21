@@ -2,19 +2,19 @@
 category: news
 title: "President Kamala Harris? Trump campaign argues it could happen quickly if Biden wins"
 excerpt: "The Trump campaign wants to convince you that electing Joe Biden would quickly put Kamala Harris in charge of the country."
-publishedDateTime: 2020-10-20T14:00:00Z
-originalUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
-webUrl: "https://www.kansas.com/news/politics-government/election/article246502245.html"
-ampWebUrl: "https://amp.kansas.com/news/politics-government/election/article246502245.html"
-cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/politics-government/election/article246502245.html"
+publishedDateTime: 2020-10-20T12:00:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+webUrl: "https://www.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/election/presidential-election/article246502245.html"
 type: article
 quality: 98
 heat: -1
 published: false
 
 provider:
-  name: Wichita Eagle
-  domain: kansas.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -2953,6 +2953,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump and Joe Biden will have mics muted during parts of final debate"
+    excerpt: "President Trump and Joe Biden will have their mics muted during their opponent's two minutes of uninterrupted time at Thursday's debate. Sean Sullivan, a CBSN political contributor and national politics reporter for the Washington Post,"
+    publishedDateTime: 2020-10-20T21:47:00Z
+    webUrl: "https://www.cbsnews.com/video/president-trump-and-joe-biden-mics-muted-during-parts-of-debate-thursday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/20/459c840d-4166-4daf-80a8-fbf3b0cfcb21/thumbnail/1200x630/f8d0c87b8360e2532afc955f00fba7e6/cbsn-fusion-president-trump-and-joe-biden-will-have-mics-muted-during-parts-of-debate-thursday-thumbnail-570900-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Trump and Joe Biden campaign in key battleground states Friday"
     excerpt: "With Election Day a little more than two weeks away, President Trump and Joe Biden hit the campaign trail in key battlegrounds Friday. Meantime, there are mounting concerns over whether the president's personal attorney,"
     publishedDateTime: 2020-10-17T01:13:00Z
@@ -4641,14 +4655,14 @@ related:
         isCached: true
   - title: "Elect Joe Biden. Reject Donald Trump."
     excerpt: "In 2016, we broke tradition in urging you not to vote for Trump. Now we're making our first presidential endorsement. We hope it's our last."
-    publishedDateTime: 2020-10-20T10:06:00Z
-    webUrl: "https://www.azcentral.com/in-depth/opinion/todaysdebate/2020/10/20/elect-joe-biden-reject-donald-trump-editorials-debates/5919435002/"
+    publishedDateTime: 2020-10-20T13:42:00Z
+    webUrl: "https://www.indystar.com/in-depth/opinion/todaysdebate/2020/10/20/elect-joe-biden-reject-donald-trump-editorials-debates/5919435002/"
     ampWebUrl: "https://amp.usatoday.com/amp/5919435002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5919435002"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 90
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/09/PIND/cb16142b-cf63-4af9-bd36-29e73ac7e815-bidenIllo.png?auto=webp&crop=1279,720,x0,y93&format=pjpg&width=1200"
@@ -4718,6 +4732,22 @@ related:
       - url: "https://www.denverpost.com/wp-content/uploads/2020/10/Election_2020_Trump_28260-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
+        isCached: true
+  - title: "In debate countdown, Trump holds rally, Biden does prep"
+    excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best chance to alter the trajectory of the 2020 campaign."
+    publishedDateTime: 2020-10-20T22:33:00Z
+    webUrl: "https://www.chron.com/news/article/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Running-Angry-Trump-attacks-Dr-Fauci-press-15660099.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "VP debate takeaways: 5 things from Mike Pence and Kamala Harris more important than that fly"
     excerpt: "The debate between Pence and Harris lacked the name calling and searing insults of the Trump-Biden showdown. But there were flashes of tension."
@@ -5776,6 +5806,22 @@ related:
     provider:
       name: The Arizona Republic
       domain: azcentral.com
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Conservatives voting Joe Biden over Donald Trump are patriots. Thanks for the inspiration."
+    excerpt: "Conservatives are setting aside policy priorities to vote for Biden and other Democrats. Would I be this honorable if our situations were reversed?"
+    publishedDateTime: 2020-10-20T22:08:00Z
+    webUrl: "https://www.freep.com/story/opinion/voices/2020/10/19/never-trump-conservatives-for-biden-patriots-role-models-column/3696503001/"
+    ampWebUrl: "https://amp.freep.com/amp/3696503001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3696503001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
     quality: 80
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
@@ -7436,7 +7482,7 @@ related:
   - title: "Senator Kamala Harris Speaks at Biden Campaign Event in Jacksonville, Florida"
     excerpt: "Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, spoke at a Jacksonville, Florida, voter mobilization event. It was the state's first day of in-person voting."
     publishedDateTime: 2020-10-20T17:21:00Z
-    webUrl: "https://www.c-span.org/video/?477126-1/senator-kamala-harris-speaks-biden-campaign-event-jacksonville-florida"
+    webUrl: "https://www.c-span.org/event/?477126/c2020-sen-kamala-harris-dca-campaigns-jacksonville-fl"
     type: article
     provider:
       name: C-SPAN
@@ -7479,6 +7525,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "3rGu3YtQ1WioZz2c84b+BUkZXGJkAXdoV7n+SR16h198TTeyhE0ua9xqcPrMnPcgZigsBAC1ijW19Um8YUm7azrYTpTTeEtHg4k4MMevAF0b3tEDx5AE/AfppiXXXIXT/eqGNwqzKi+qL9LLbXTDfY75Zt4W4DQiJBBCbOrxXtWA7qL6lQXO36cR2GVBHhUFxvwVQ3OYeMiM1lpvGHGYSSena6BpaGTqiALnDy+uxBTY/Y4dkrn8/depvD9KAqQKhH/Bv07ZEsJuwZNgUz0t1+LOEcODq1wOYhlnxT6/6o7GbLKn22LXQnSn0rC4H9lEvcmfB7GqvvxV5ZFVzW9I+54idD/jvSLXnkrBA7Tq8b8=;laBvLuEoPaZ+KAkrrWoU+g=="
+secured: "vbvQggQ9zUMa/CaxmwDVtdoHwBUcy2zl7iF0Ys3X3G0GihG9/b00g2lpfGuIZ0/n+3aye1cvD0QGNOyZkuz0QrRs39YTfuNHUv0V1KJS/Quo7i9jz+MC4WdSVBZC/57Qxvt+6fqxR9lQCBvAXjW2q+PKX2nemCxh+eMB5NVFosC4xeT/TN4dj5xY7hH+Bqnu0wCvXxLbcixmNgcOlYi48uMCbRkthkNcRT4gLSksm3t32He2EZmSy2rLlp+KpRsVJp6YvrdgqDN9K+V/tvQeRe4+3rHpusBB0eeaVXVVoLNoB6HMG67owlw5ljp5AAgpgSWaqSXmXqtKyaq8/9Gfqm6TSydkVVd1oEzFbaeqOck=;1gTgb+nm5QVzPEjALBOY0Q=="
 ---
 

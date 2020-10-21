@@ -576,6 +576,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Brazil's Bolsonaro endorses Trump's reelection"
+    excerpt: "Both have faced criticism for their skepticism of scientific expertise, particularly during the coronavirus pandemic as the two presidents have disparaged their own public health officials."
+    publishedDateTime: 2020-10-20T20:42:00Z
+    webUrl: "https://www.politico.com/news/2020/10/20/brazils-bolsonaro-endorses-trumps-reelection-430301"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/20/brazils-bolsonaro-endorses-trumps-reelection-430301"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/20/brazils-bolsonaro-endorses-trumps-reelection-430301"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/f8/d1/7da9cbcd44a088a68ca18fead750/20201020-jair-bolsonaro-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "In North Carolina, Biden slams Trump for Covid 'lie,' warns 'things are getting worse'"
     excerpt: "Joe Biden lambasted President Donald Trump for his \"lies\" about the state of the Covid-19 pandemic during a campaign stop in Durham, North Carolina on Sunday. Biden highlighted increasing case counts,"
     publishedDateTime: 2020-10-18T19:35:00Z
@@ -704,22 +720,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Donald Trump's Fake Populism"
-    excerpt: "The mess the nation faces is bigger than Donald Trump. If he is voted out in November, the people who cast ballots for him will remain, pining for the policies he promoted. About 40 percent of American voters want tariffs and a border wall."
-    publishedDateTime: 2020-10-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/16/opinion/trump-working-class-economy.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/16/opinion/16stockman/merlin_168748716_43a40eab-bb9b-42ae-81b8-b28c2616078f-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
   - title: "Leon Panetta defends bin Laden raid after Trump ignites conspiracy"
     excerpt: "Former CIA Director Leon Panetta, who oversaw the raid that killed Osama bin Laden, defended the mission after President Donald Trump amplified conspiracy theories that the terrorist leader's death was a hoax."
     publishedDateTime: 2020-10-15T19:24:00Z
@@ -735,22 +735,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015140856-leon-panetta-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Science journal editor calls out Trump administration"
-    excerpt: "H. Holden Thorp wrote that the FDA Commissioner was pressured by the White House to overstate the benefits of convalescent plasma."
-    publishedDateTime: 2020-10-15T18:03:00Z
-    webUrl: "https://www.nbcnews.com/science/science-news/science-journal-editor-calls-out-trump-administration-n1243552"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243552"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243552"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420453/201016-stephen-hahn-mn-1125_30f64aa6510cffa45dee1bf96ae50eaa.jpg"
-        width: 2500
-        height: 1667
         isCached: true
   - title: "Trump administration reverses course on California wildfire aid"
     excerpt: "The request was for September, when blazes scorched nearly 1.9 million acres, destroyed over 3,300 structures and killed at least 3 people."
@@ -1147,6 +1131,20 @@ related:
     quality: 115
     images:
       - url: "https://media2.s-nbcnews.com/j/newscms/2020_07/3189201/us_dollars_119586743-maddowblog_9bd61cd82c016cab92893bcb60eb95b4.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "White House to court: Trump's declassification tweet wasn't true"
+    excerpt: "Trump tweeted that he was declassifying \"any and all\" documents related to the Russia scandal, with \"no redactions.\" Today, the White House walked it back."
+    publishedDateTime: 2020-10-20T20:04:00Z
+    webUrl: "https://www.nbcnews.com/rachel-maddow-show/white-house-court-trump-s-declassification-tweet-wasn-t-true-n1244052"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2020_33/3403533/200810-donald-trump-mark-meadows-ew-706p_fee2d01bda7c34ca9b0bad35a15b6210.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
         isCached: true
