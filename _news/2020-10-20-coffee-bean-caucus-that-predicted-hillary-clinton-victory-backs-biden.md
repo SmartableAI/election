@@ -109,6 +109,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Hillary Clinton Mocked for Her 'Black Hole of Cringe' Birthday Message to Kamala Harris"
+    excerpt: "Democratic vice presidential candidate Sen. Kamala Harris turned 56 on Tuesday, gathering birthday greetings throughout the day on social media. Many celebrities, politicians, voters, colleagues, friends,"
+    publishedDateTime: 2020-10-20T22:15:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/20/why-hillary-clinton-is-being-mocked-for-her-birthday-message-to-kamala-harris-n2578450"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 57
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2019/60/32c28ada-c980-4373-bb6d-88386aae861c.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "RNoW+3zV/M04YYYNBL47d366PasgQvp84vaiglFes1L9Bxww6SX5Z3eg3rUwyHro+xGiPS6noyMMBce5Pk8QT2nrUkId99uK4Tb9CWYikpjyGYW7ArtoP3nFAG/GJm/Szm1dr+4aAAeB2RtkMGzAOXRl16ceHuNPENOfx1hGSUCXKDDVdp8VSGrAgsXwd2hxIXqksNeAguqzjqnIBa1uYx1QF7wR/XiFblLo5SgjOFMG9WzhbYSbpjSDHHKiEj9u6B0fZsXUqGUDHjNNzoh1B6ZpkMJ2/lv+bok99RtDHQ7JNdz8Rql8nzsQZqsi2TrOHrLxCYQrLUWXyfF9BzFbxwRZYc8aLVx4jiu6IkUFgw8=;XF+I+x+pEDY+pCHzD5nLXg=="
 ---

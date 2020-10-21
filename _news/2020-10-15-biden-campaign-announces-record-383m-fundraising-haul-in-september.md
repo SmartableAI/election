@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/521134-biden-campaign-announce
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september?amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://i.insider.com/5f81ebbb642e9400180b52df?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Will Joe Biden Bring Republicans Into His Cabinet? It Seems Possible."
+    excerpt: "Although appointing GOP members to top cabinet positions is a way to reward those who have endorsed Biden’s presidential candidacy, it could worry or demobilize Democratic voters who see a Biden-led party as one that neglects progressive and far-left concerns."
+    publishedDateTime: 2020-10-20T23:12:00Z
+    webUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063"
+    ampWebUrl: "https://nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/coronavirus/will-joe-biden-bring-republicans-his-cabinet-it-seems-possible-171063?amp"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 75
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-20T100035Z_581827861_RC2AMJ9873X7_RTRMADP_3_USA-ELECTION-ECONOMY-BIDEN%20copy.jpg"
+        width: 1700
+        height: 1133
         isCached: true
   - title: "Jake Tapper rips Joe Biden's quiet campaign schedule: 'Opposite of the word tireless'"
     excerpt: "CNN anchor Jake Tapper on Sunday ripped Joseph R. During an interview with Democratic Sen. Chris Coons, Mr. Tapper expressed incredulity that Mr. Biden, the Democratic presidential nominee, had taken the day off Saturday less than three weeks before the election."

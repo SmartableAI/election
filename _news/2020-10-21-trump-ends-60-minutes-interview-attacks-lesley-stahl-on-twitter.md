@@ -94,6 +94,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump abruptly ends '60 Minutes' interview, taunts CBS' Lesley Stahl"
+    excerpt: "President Donald Trump abruptly ended a taped interview at the White House with \"60 Minutes\" reporter Lesley Stahl on Tuesday then taunted the veteran CBS News journalist in tweets. \"I am pleased to inform you that,"
+    publishedDateTime: 2020-10-21T04:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-abruptly-ends-60-minutes-interview-taunts-cbs-lesley-stahl-n1244104"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244104"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244104"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3416796/201001-donald-trump-ac-657p_0f3a4227e5f7399f4831d9f66c52353a.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "lwyaaUOmz/Ar/ANvD+FFkYdCUZZ+ntkUIzv02CjaIqbqXq4530gvoeBF3Sjr+gpl6oLKz3QWqAM8/PrnnVD9oVgdVEyH1vP+X2WulfO95huV5VCWRt77GnWIsoQPZIhQ/5IKkdMo/1Q9bolWNeWNgbIYMbijr8seSlXs6h5Z8ajKgJqhRJs0okjFOOjm46multuFJec1Chv/TISJHGIMMaQ0VXstQNUrKu+Hx+cMoE9YqeK9OdVZLImm/+7JmLG26VyucJe5H6VUIbUpTOre1SyXZ+M8dm7Wdw/widjwaNQswFdmWceSf7+rF97JTsl5oIE73JGdcXqtEaqJpwbs/OxGsg7pP3YJaCDdnKzc/mY=;5J5YKumeIG6WrLomJhHIdg=="
 ---

@@ -767,6 +767,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "NYPD says union's Trump endorsement won't affect enforcement"
+    excerpt: "The New York Police Department says a police union’s endorsement of President Donald Trump shouldn’t sway how officers treat people who protest or vote against the president"
+    publishedDateTime: 2020-10-21T05:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/nypd-unions-trump-endorsement-affect-enforcement-73723067"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/nypd-unions-trump-endorsement-affect-enforcement-73723067"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/nypd-unions-trump-endorsement-affect-enforcement-73723067"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7d8c1ae5e4bb42c38587b1cf3e7c5d59_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection"
     excerpt: "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider."
     publishedDateTime: 2020-10-10T22:08:00Z

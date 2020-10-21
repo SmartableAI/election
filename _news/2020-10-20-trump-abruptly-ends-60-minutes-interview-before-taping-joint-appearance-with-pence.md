@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minut
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/trump-interview-60-minutes/index.html"
 type: article
 quality: 193
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 135
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_42/3420453/201016-stephen-hahn-mn-1125_30f64aa6510cffa45dee1bf96ae50eaa.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump abruptly ends '60 Minutes' interview, taunts CBS' Lesley Stahl"
+    excerpt: "President Donald Trump abruptly ended a taped interview at the White House with \"60 Minutes\" reporter Lesley Stahl on Tuesday then taunted the veteran CBS News journalist in tweets. \"I am pleased to inform you that,"
+    publishedDateTime: 2020-10-21T04:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-abruptly-ends-60-minutes-interview-taunts-cbs-lesley-stahl-n1244104"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244104"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244104"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3416796/201001-donald-trump-ac-657p_0f3a4227e5f7399f4831d9f66c52353a.jpg"
         width: 2500
         height: 1667
         isCached: true

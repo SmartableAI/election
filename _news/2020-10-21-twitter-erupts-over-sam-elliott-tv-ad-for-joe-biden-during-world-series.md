@@ -339,6 +339,45 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Can Joe Biden be trusted?"
+    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m not a crook. I earned everything I’ve got."
+    publishedDateTime: 2020-10-21T05:10:00Z
+    webUrl: "https://www.minotdailynews.com/opinion/national-columnists/2020/10/can-joe-biden-be-trusted/"
+    type: article
+    provider:
+      name: Minot Daily News
+      domain: minotdailynews.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "What you need to know about Joe Biden's tax plan"
+    excerpt: "In general, Biden is proposing to raise taxes on the wealthy and on corporations by reversing some of the Republican-backed tax cuts that President Donald Trump signed into law in"
+    publishedDateTime: 2020-10-21T02:00:00Z
+    webUrl: "https://www.wdrb.com/news/national/what-you-need-to-know-about-joe-bidens-tax-plan/article_28451f8c-1341-11eb-a401-472a556b662e.html"
+    type: article
+    provider:
+      name: WDRB
+      domain: wdrb.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/a/d7/ad7f1080-1180-11eb-8b8e-f385863a0ff6/5f8ca5c0e104f.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
+        isCached: true
+  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
+    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
+    publishedDateTime: 2020-10-21T01:11:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    type: article
+    provider:
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 48
   - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
     excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
     publishedDateTime: 2020-10-20T00:32:00Z
@@ -360,6 +399,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "pcfvVqq32pC16WyAHKueiJeTepENdty6Y2Pg5eZ3GcSoA0dSya29E5LPNs5wvCkmymn7+zLX4FFjfoMgpGhC01p7VHYQul2Q529pbkzqiVOtGPjzwRzWzHHrZ2GMB/QUG/yuoH+ABVfMPcsLUMy9PfCyRWdk6imc1n5FGNfI4fkAN9HiYvCKCmnlGPJY4m9hK519UuN/q5uW3uwjp/Mx3cUlofqKu4wPoV+yKQddJ3CKW88Q1seRuczAbqo9WRWev8xdgdWYyUw8jGaepFT7SyIEVP84eX/0qwZWFdLlub74YOU9QdUgeISzXWnaFmEz/gQVzLiipivFf/O5gC8+ykAPEZIiyXcNREFZbev/cw4=;AKKpU8/u1WBVtLzKFKLSEA=="
+secured: "QehKPtJGk49bwSfy30nPi6jXbrZixHW0zM4uONgh03z/MZyVWpj1TJ/jbRIt/53SCozKw6fxjyNBoMhJsh4+NH3SPE2z4bpMMqd0n/6bV9rcOULSdgxkVLvD59vjgvOzRUhGs0vRO4dAewBcQ9fPV62Si4B1g2jydKJLYiCk38K+rFpTOuva2ZGXiEUSyPesLofd27SK7NewsZGVfn/ZAMluVYz6xyLT8H9hjcoGL3/NOp/cF0k7kBe8bNz56OzRKgSVf/Iy2EgBFzlMztC2pXwSgldkX0W+wF75C14jPbWoVL4CobqMd0ljQtuYljNjPImK5bH5JZjZPxVgnepMFIQNQl/evG47w5bg49IdLEQIGDU/XcBeup8CW9Myc4uzTktQGrxN1QVP2nwn3dHVvbcJsfhBFYSX5jMkBLf69kOHrzNxCvxUpDnfL1Y5hU3ZY9Y/+ECUbUraM8KcPCSwB9dfDJ2oPeY2EqP5IS+vovjrr4WPBhT6s3HJGdGS8aCE9b0ZQTYd/nq26hLIvVP8YQ==;8pDYNgkuqM/IFJmhg3ggXw=="
 ---
 

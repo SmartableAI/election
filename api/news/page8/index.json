@@ -2,6 +2,171 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-14-trump-prays-for-wisdom-and-grace-to-lead-country-in-call-with-evangelical-leaders.md",
+      "title": "Trump prays for 'wisdom and grace' to lead country in call with evangelical leaders",
+      "excerpt": "President Trump thanked everyone who prayed for him after recovering from the coronavirus on a campaign prayer call with evangelical leaders.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp",
+      "publishedDateTime": "2020-10-14T10:42:03-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit.md",
+      "title": "‘Socialist Nightmare’: Trump Casts Democratic Plans As Apocalyptic Amid Polling Deficit",
+      "excerpt": "In a speech to a consortium of economic clubs, the president warned of a ‘catastrophe of unimaginable proportions’ under Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/",
+      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87300c45fb6fbb5e859664%2F0x0.jpg%3FcropX1%3D127%26cropX2%3D4299%26cropY1%3D192%26cropY2%3D2538",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/",
+      "publishedDateTime": "2020-10-14T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.md",
+      "title": "Turley: Court-packing would be a 'blunder of the first order' by Biden",
+      "excerpt": "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
+      "originalUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/826bf8c5-7513-4888-b950-2911d89eb94e/d73bb5e3-e212-48a4-980d-7dbc454e86bd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
+      "publishedDateTime": "2020-10-14T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-barrett-declines-to-answer-if-trump-can-pardon-himself.md",
       "title": "Barrett declines to answer if Trump can pardon himself",
       "excerpt": "Sen. Patrick Leahy (D-VT) questions Supreme Court nominee Amy Coney Barrett on whether the president of the United States has the power to pardon themselves of a crime. CNN's Manu Raju tells us more.\n    \n",
@@ -66,7 +231,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -174,7 +339,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/520955-presidents-job-approval-is-surest-sign-trump-will-lose-reelection",
       "featuredContent": null,
       "highlight": null,
-      "heat": 4120,
+      "heat": 4140,
       "tags": null,
       "images": [
         {
@@ -443,7 +608,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -1100,7 +1265,7 @@
       "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 10140,
+      "heat": 10180,
       "tags": null,
       "images": [
         {
@@ -1198,158 +1363,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-runs-retro-clip-of-mike-pence-honoring-veterans-on-memorial-day.md",
-      "title": "Trump runs retro clip of Mike Pence honoring veterans on Memorial Day",
-      "excerpt": "President Trump linked to a video of Vice President Mike Pence honoring military veterans on Memorial Day on his former Indiana talk radio show and remarked: “So cool!” “Wow. Our",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
-      "originalUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201013-pence-memorial-day.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/13/trump-tweets-clip-of-mike-pence-honoring-veterans-on-memorial-day/amp/",
-      "publishedDateTime": "2020-10-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-kkk-social-visit-cards-left-at-joe-biden-supporters-homes-in-tennessee.md",
-      "title": "KKK 'Social Visit' Cards Left at Joe Biden Supporters' Homes in Tennessee",
-      "excerpt": "Residents in Shelbyville also said that signs showing support for Democratic candidate appeared to have been run over by a car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "originalUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1650165/kkk.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kkk-cards-shelbyville-biden-signs-tennessee-1538522?amp=1",
-      "publishedDateTime": "2020-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-trump-says-hell-kiss-everyone-in-crowd-at-rally.md",
-      "title": "Trump says he'll 'kiss everyone' in crowd at rally",
-      "excerpt": "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/13/trump-says-hell-kiss-everyone-crowd-rally/5975301002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/0e385ace-fd32-4196-b1c2-1265f34474f5_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

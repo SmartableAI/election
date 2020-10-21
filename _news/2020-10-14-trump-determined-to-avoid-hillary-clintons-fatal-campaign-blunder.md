@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/back-on-the-campaign-trail-presiden
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/back-on-the-campaign-trail-president-trump-refuses-to-repeat-hillary-clintons-fatal-error.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -108,6 +108,20 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20282070998414.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Hillary Clinton Mocked for Her 'Black Hole of Cringe' Birthday Message to Kamala Harris"
+    excerpt: "Democratic vice presidential candidate Sen. Kamala Harris turned 56 on Tuesday, gathering birthday greetings throughout the day on social media. Many celebrities, politicians, voters, colleagues, friends,"
+    publishedDateTime: 2020-10-20T22:15:00Z
+    webUrl: "https://townhall.com/tipsheet/elliebufkin/2020/10/20/why-hillary-clinton-is-being-mocked-for-her-birthday-message-to-kamala-harris-n2578450"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 57
+    images:
+      - url: "https://media.townhall.com/townhall/reu/s1280x720/2019/60/32c28ada-c980-4373-bb6d-88386aae861c.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "NrlgoFXGVsX16rqePmNwL4Vbfxqiv8yr32VkpEpudc+fv4N7N58nDiq+zjQL5a+qLWmlKFVmHAIsV/kBjiEpUcLvSp+brQ3BsU25S9DG37+BMNn2Ym5iAaCvt6V+RaCYwXQHeCOxKVIxikldcTVOWseGUoHTNmJiEpRK9qRKwICs+B21FCWetKjNMLXI0s4EIQddBUOQXrXKSpEsiNiAfrdXB9YQ/0scxHF+oQWr+4NyTUJCNwNMINHy2nSJcXp9HH5mk5szDdV9ptQ86ibT4nJnsFhOkLeIPaENPn80BRR3QGX0AZbO9/bLS5hE63Igt9njk5ugimSkpHZKDce1ECZnBQLmvsfmx+eiyvuwQZg=;tU1VJdigkYUXJKKZklhh4Q=="

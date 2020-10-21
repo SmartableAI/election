@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
   - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
     excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
     publishedDateTime: 2020-10-16T04:42:00Z
@@ -215,6 +231,6 @@ related:
         height: 673
         isCached: true
 
-secured: "HuvR7nJ95jtpRWSqbbK46UA0yJKqAikK9MdiIYdrc1Eqciwh6/NAU2vuczOo1iFGMWK0l5gWAre1V+q1Gg64KBTopa2nXDy2MHmPIHTWwz4iJ2+uIDxGXM8SvnqYeffPUKg0yJu2ETyp67fkYYubTKQZPO7wcMdcDM3hY/sQibQVFKJX0IRLdy5T9hC8QzvHrtRO+Do6p1j4K5EBMNN+Gy3u24WloiMZTjpm/Ubx/3AzNgW0+eyGA4Odrcl6yj+isusc/yniiGQ/Sz0mRb5c+TO9ncCT+4UhfRTcYQSnT1j7eGtf+wKJIRINF/Waplez1ma+WAxtKXHBQYsArBMex3/G4tEWP/M/DRPBlCHdRrE=;bI9Zbo2WyAFIXbVo0g5gNA=="
+secured: "3qwE7XjOiuLSgwCLFSYqDvXSzGfdKEhmyA3y9zR9zWnPsG1UEtn3fP7bJfJedBVQfVv3gs0EaGxvXWvFZINOQBIs9/YCliEedCE/GtftQgUd9jaa5LSuaUEkEs1xOKAB3jE/RekzjOCP4EkMKyqRDHf9qmoHXIx9KvIRek2RUgtxygZxHXNWl9NgijEIN4Schg8u/KIy/9/GpSukx7jxHe5C4GoGTz5FHp3WgDWO+AOaFFH5FzF53S74Z/Q0bKix5pvOGXMucDdltnZkq+j5HF1tnT+HIrcxKkxWTNYDe3hw+gt/s3y901xdbqBEm+2EUUDQkMttxn5x732glz7jc9COxDJN/Ut67AgJKr6mi0uMD/wR1kSaqO31HypUTK1KYlIJroVurUbX4iLUqB1WWR/Q9mVsgBY1bWqp6zD3H936wo8uu4ZC0G+WK44O/bj276cxbMLi4GzcROjnOrJBS00/PYRvTGEkCXBt/LLrr+0sGbRQB8Moa3OXNd26JOpDoWQyDAQgPGNhhGORhZnqDw==;86fPaSPt3fyVeu998M+gqw=="
 ---
 

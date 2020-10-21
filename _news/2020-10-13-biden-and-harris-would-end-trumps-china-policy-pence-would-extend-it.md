@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10140
+heat: 10180
 published: true
 
 provider:
@@ -687,6 +687,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f825b2e8118f5d60fbcc30e%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Joe Biden Projected to Spend Twice as Much as Trump on TV Ads by Election Day, Analysis Finds"
+    excerpt: "A new analysis find that President Donald Trump and Democratic presidential nominee Joe Biden will spend a combined total of between $2.75 billion and $2.8 billion by November 3, but Biden's campaign will double the amount Trump will spend on television advertising."
+    publishedDateTime: 2020-10-21T00:29:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-projected-spend-twice-much-trump-tv-ads-election-day-analysis-finds-1540797"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-projected-spend-twice-much-trump-tv-ads-election-day-analysis-finds-1540797?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-projected-spend-twice-much-trump-tv-ads-election-day-analysis-finds-1540797?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 144
+    images:
+      - url: "https://d.newsweek.com/en/full/1655985/biden-trump-supporters.jpg"
+        width: 3000
+        height: 2061
         isCached: true
   - title: "Fact-checking the 2020 vice presidential debate between Mike Pence and Kamala Harris"
     excerpt: "ABC News fact-checks Vice President Mike Pence and Democratic challenger Sen. Kamala Harris during the 2020 vice presidential debate."
@@ -4801,6 +4817,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/43750160-57d3-4bab-9820-9c6a6b37ceaa-GTY_1279695671.jpg?auto=webp&crop=2999,1687,x0,y123&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "In debate countdown, President Trump holds rally, Joe Biden does prep"
+    excerpt: "President Trump shunned formal debate practice Tuesday, opting for another rally two days ahead of the final presidential debate. Democrat Joe Biden took the opposite approach, holing up for debate prep."
+    publishedDateTime: 2020-10-21T01:49:00Z
+    webUrl: "https://www.wmur.com/article/in-debate-countdown-president-trump-holds-rally-joe-biden-does-prep/34429104"
+    ampWebUrl: "https://www.wmur.com/amp/article/in-debate-countdown-president-trump-holds-rally-joe-biden-does-prep/34429104"
+    cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/in-debate-countdown-president-trump-holds-rally-joe-biden-does-prep/34429104"
+    type: article
+    provider:
+      name: WMUR9
+      domain: wmur.com
+    quality: 90
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/trump-rally-ap-1603244064.jpg?crop=1.00xw:0.846xh;0,0.0725xh&resize=1200:*"
+        width: 1200
+        height: 677
         isCached: true
   - title: "In debate countdown, Trump holds rally, Biden does prep"
     excerpt: "President Donald Trump shunned formal debate practice Tuesday and was heading instead for another of his big rallies, two days ahead of the final presidential debate that may be his last, best chance to alter the trajectory of the 2020 campaign."

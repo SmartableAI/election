@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-21-barack-obama-holds-first-in-person-rally-for-joe-biden-wednesday.md",
+      "title": "Barack Obama holds first in-person rally for Joe Biden Wednesday",
+      "excerpt": "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkyc.com/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "originalUrl": "https://www.wkyc.com/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wkyc.com/assets/CCT/images/aef4a02d-ebe4-4a90-ad65-84b544f05c88/aef4a02d-ebe4-4a90-ad65-84b544f05c88_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "publishedDateTime": "2020-10-20T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYC3",
+        "domain": "wkyc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-pollster-who-predicted-2016-result-says-trump-on-track-to-win-again-with-help-of-hidden-support.md",
       "title": "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support",
       "excerpt": "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected.",
@@ -150,6 +193,58 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-joe-biden-cameron-peak-calwood-fires-are-deadly-signs-of-climate-change.md",
+      "title": "Joe Biden: Cameron Peak, CalWood fires are 'deadly signs' of climate change",
+      "excerpt": "Joe Biden's statement on Northern Colorado's Cameron Peak fire was the first time a major party presidential candidate has name-checked the fire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/NLED/ac97ee10-b8a3-4a7c-b59f-791edcb6daa7-AP20292646434924.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3711004001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711004001",
+      "publishedDateTime": "2020-10-20T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -315,6 +410,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-joe-biden-is-making-a-late-push-for-cuban-american-voters-in-florida-will-it-matter.md",
+      "title": "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?",
+      "excerpt": "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5884192002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002",
+      "publishedDateTime": "2020-10-20T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -546,7 +693,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 273,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -1149,162 +1296,6 @@
         "name": "The Arizona Republic",
         "domain": "azcentral.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
-      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
-      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "publishedDateTime": "2020-10-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-biden-campaign-faces-backlash-for-tv-ad-depicting-michigan-tech-ceo-as-struggling-bar-owner.md",
-      "title": "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner",
-      "excerpt": "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp",
-      "publishedDateTime": "2020-10-20T08:27:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-fact-check-donald-trump-and-mar-a-lagos-fight-with-palm-beach-over-a-flagpole.md",
-      "title": "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole",
-      "excerpt": "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
-      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/06/NPPP/1185959b-15ea-409c-bdb8-596e01e6c47c-100506_met_trump1of2.jpg.JPG?auto=webp&crop=2399,1350,x0,y71&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5921390002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002",
-      "publishedDateTime": "2020-10-20T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -329,6 +329,20 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Can Joe Biden be trusted?"
+    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m not a crook. I earned everything I’ve got."
+    publishedDateTime: 2020-10-21T05:10:00Z
+    webUrl: "https://www.minotdailynews.com/opinion/national-columnists/2020/10/can-joe-biden-be-trusted/"
+    type: article
+    provider:
+      name: Minot Daily News
+      domain: minotdailynews.com
+    quality: 55
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.minotdailynews.com/images/2016/11/03084632/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
     excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
     publishedDateTime: 2020-10-21T03:45:00Z
@@ -343,6 +357,31 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "What you need to know about Joe Biden's tax plan"
+    excerpt: "In general, Biden is proposing to raise taxes on the wealthy and on corporations by reversing some of the Republican-backed tax cuts that President Donald Trump signed into law in"
+    publishedDateTime: 2020-10-21T02:00:00Z
+    webUrl: "https://www.wdrb.com/news/national/what-you-need-to-know-about-joe-bidens-tax-plan/article_28451f8c-1341-11eb-a401-472a556b662e.html"
+    type: article
+    provider:
+      name: WDRB
+      domain: wdrb.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/a/d7/ad7f1080-1180-11eb-8b8e-f385863a0ff6/5f8ca5c0e104f.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
+        isCached: true
+  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
+    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
+    publishedDateTime: 2020-10-21T01:11:00Z
+    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
+    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
+    type: article
+    provider:
+      name: CBS Boston
+      domain: cbslocal.com
+    quality: 48
   - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
     excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
     publishedDateTime: 2020-10-20T00:32:00Z

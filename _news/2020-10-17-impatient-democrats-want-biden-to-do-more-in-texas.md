@@ -169,6 +169,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "CAL THOMAS: Can Joe Biden be trusted?"
+    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
+    publishedDateTime: 2020-10-21T06:00:00Z
+    webUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.html"
+    ampWebUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
+    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
+    type: article
+    provider:
+      name: Scottsbluff Star Herald
+      domain: starherald.com
+    quality: 75
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/c/4c/c4c50070-b312-11e8-a5a2-574bfb12c724/5b9322aedfd4a.image.jpg"
+        width: 900
+        height: 1217
+        isCached: true
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
     publishedDateTime: 2020-10-15T11:07:00Z

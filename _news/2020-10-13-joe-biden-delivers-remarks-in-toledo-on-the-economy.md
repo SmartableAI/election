@@ -297,6 +297,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "One-on-one with Joe Biden"
+    excerpt: "Democratic presidential nominee Joe Biden talks exclusively with WISN 12 News' Adrienne Pedersen about his confidence in winning Wisconsin, the surge in coronavirus cases and about Hunter Biden."
+    publishedDateTime: 2020-10-21T01:59:00Z
+    webUrl: "https://www.wisn.com/article/one-on-one-with-joe-biden/34431537"
+    ampWebUrl: "https://www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
+    cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/one-on-one-with-joe-biden/34431537"
+    type: article
+    provider:
+      name: WISN 12 NEWS
+      domain: wisn.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/images/joe-biden-1603240622.jpg?crop=1xw:1xh;center,top&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Former Republican National Committee chairman endorses Joe Biden for president"
+    excerpt: "Former Republican National Committee Chairman Michael Steele announced in an ad by the Lincoln Project that he is voting for Democratic presidential nominee Joe Biden on Election Day."
+    publishedDateTime: 2020-10-21T00:43:00Z
+    webUrl: "https://www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president"
+    ampWebUrl: "https://www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president?_amp=true"
+    cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/election-2020/former-republican-national-committee-chairman-endorses-joe-biden-for-president?_amp=true"
+    type: article
+    provider:
+      name: KJRH
+      domain: kjrh.com
+    quality: 71
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/9530e12/2147483647/strip/true/crop/1000x563+0+81/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F79%2Fd8%2Facd014b74556a695e7f764d3cf97%2Fmichael-steele.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."
     publishedDateTime: 2020-10-13T22:24:00Z
@@ -333,6 +365,17 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Go From There | Joe Biden For President 2020"
+    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to it. Get up-to-the-minute news sent straight to your device."
+    publishedDateTime: 2020-10-21T05:56:00Z
+    webUrl: "https://www.stltoday.com/go-from-there-joe-biden-for-president-2020/video_9ef511f8-1135-59f6-baa7-4ed7fb41fa55.html"
+    ampWebUrl: "https://www.stltoday.com/go-from-there-joe-biden-for-president-2020/video_9ef511f8-1135-59f6-baa7-4ed7fb41fa55.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/go-from-there-joe-biden-for-president-2020/video_9ef511f8-1135-59f6-baa7-4ed7fb41fa55.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "nRNT3P42E2cDq11ZPJ5wFK/j00796x58aSlvWwlZ6mB7jxlknEr1aftxyHY6ZkjgfULZfRereonsJdRUbLx8KdDepb0Yd7U2OhBMvBUWcWi3aDQUom4W1h7i5AbAqzVkgWR7ylKQixbTw3+zdEoVUGHXbrlVQ+3vfyFXCY77uOM6TykKXF2A4HrojEq3QNkOyBKm2JKKjgJsig2obgb9e3unb6KW8ujihlwWQe6BQ//rBpE3JCDRlfGZWEsuGBd+MfZtw5o7MdIbQ70XN/6a5yAAzezp17Yf/OsBIUTokai3GMrENrIPZcXPazMGuoXLNbtABqAe1sAfhzKgNXH3QH4OX4D6m2zOeWFtKqnel93RROhL+QMaYXG+3X2bSEXl4IRx9esk2prBHjnihvTUS2DhHKHXBvnL3xcvp6hZnupz1E3GqqksNm0g1IjIXy9dqxal8EOdbSb8gyxjW0r0zh+HQ271oYVakYethyv8cRytXItNeKzwxFtpeo6qqyCMXIYk6EEOZWu6049NIuQE6w==;E6N+j6h2Sfr1paiyo2/aCg=="
 ---

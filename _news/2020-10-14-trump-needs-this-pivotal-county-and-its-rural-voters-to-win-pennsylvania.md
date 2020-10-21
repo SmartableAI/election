@@ -335,6 +335,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump, in Pennsylvania, faces an old foe: Obama"
+    excerpt: "The president’s rally Tuesday night came only hours before his predecessor was set to hold his own rally in the state."
+    publishedDateTime: 2020-10-21T02:30:00Z
+    webUrl: "https://www.politico.com/news/2020/10/20/trump-obama-pennsylvania-430349"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5b/c4/4dffd5d14567b100759c19d555c8/201020-trump-pa-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "‘He’s just so angry all the time’: Trump hemorrhaging support among suburban women"
     excerpt: "It’s hard to overstate just how badly the president is performing with white, college-educated women in the suburbs of Detroit."
     publishedDateTime: 2020-10-14T08:43:00Z

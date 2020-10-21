@@ -767,6 +767,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "NYPD says union's Trump endorsement won't affect enforcement"
+    excerpt: "The New York Police Department says a police union’s endorsement of President Donald Trump shouldn’t sway how officers treat people who protest or vote against the president"
+    publishedDateTime: 2020-10-21T05:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/nypd-unions-trump-endorsement-affect-enforcement-73723067"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/nypd-unions-trump-endorsement-affect-enforcement-73723067"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/nypd-unions-trump-endorsement-affect-enforcement-73723067"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7d8c1ae5e4bb42c38587b1cf3e7c5d59_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump to resume public events, starting today on the White House balcony"
     excerpt: "President Donald Trump will make his first public appearance since returning from a three-day hospitalization for COVID-19."
     publishedDateTime: 2020-10-10T17:45:00Z
@@ -3050,6 +3066,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "U+Zhudkga3GpDbf9uew4MtQ6/CH8wi6fVxCxWhb1/cWR3YwypoTX22+0W6F8Amg2CwY6XxzT5OMW6h6uhN3KObROot3GQcQZKNzTWIwaUW8L7siLHeEyN6sY2ddvmm7wYd60TPkzFg4yjuKzs13nhv9N1DLipe4Hu9Xz63MCPxLz77XoNi+KmrW9GhGzXjurcswEBQf2WFh4k1y7q///Wh02XX0wteS3fuWE1+b7tSlZmOVczqW09LXTZUC6xO6ZxLpA/+b8qStIfDUCBC1mUzuE1pUSkBZjDtEV0TCJjDeOe4vRE7qfnLGmGvW1wxasX9C41bZdgRrs/3PUSxsFv9hRcClH1PK572tJwR3QEB8=;kCwGQb2h2rk65pWkEvqonw=="
+secured: "aMfGJ6PRPFVUXvcEHftEciNeuC8MRCZkDcfGeb5sUTDNwbPqv/kyntBGZ/87EwM39qg/7r8waSpyEtbEj8/RR00NVAo+K9xsZSB/i/MtMf0zPGqWNQSCPoqNfwPpvoHRU4nDVWwvW5X7ASKNznxxpKDWrOp1ux1U+QDK9AKXsxskpMh0KQHIpr7bOhFHxNvuVbkwrgSdsed1bBasgVsSutl4zNjMm64W8yi8inxeU5LbDT+xi2hV4QqZcE2QPqv97VV7tmHaQpiKiRaM4dCCp0ZajFYPmY3KqVl9RjLLzJLW/YEEGRSjF0lj+FZ8PjrcNcL2DOMmqFkCrwpWsIbrli8g0hYaT7WuqsfFyuEQosn6r22nJPkt2a5Bz/M9g/TL+AqLhezacDTAo3/KroTOwSuxMgzy66G0OMQDY0pcxH9V0timyGqknyJxe8mQfCsEMTfbagoQ8eO6giTt1IhEq76eqeQtsrxx0mmNto/VqfKyN6Jd4YQVuP7wt5noJPCdmPcuOQ5SBRCryHGwukmYAw==;t1NCOkyv+6cZf9Aef/eY9A=="
 ---
 

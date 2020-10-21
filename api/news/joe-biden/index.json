@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-21-barack-obama-holds-first-in-person-rally-for-joe-biden-wednesday.md",
+      "title": "Barack Obama holds first in-person rally for Joe Biden Wednesday",
+      "excerpt": "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wkyc.com/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "originalUrl": "https://www.wkyc.com/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wkyc.com/assets/CCT/images/aef4a02d-ebe4-4a90-ad65-84b544f05c88/aef4a02d-ebe4-4a90-ad65-84b544f05c88_750x422.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "cdnAmpWebUrl": "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/nation-world/obama-biden-philadelphia-drive-in-rally/507-8b4145e9-61a0-4652-92dc-c2ff8fb35e28",
+      "publishedDateTime": "2020-10-20T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WKYC3",
+        "domain": "wkyc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-joe-biden-cameron-peak-calwood-fires-are-deadly-signs-of-climate-change.md",
+      "title": "Joe Biden: Cameron Peak, CalWood fires are 'deadly signs' of climate change",
+      "excerpt": "Joe Biden's statement on Northern Colorado's Cameron Peak fire was the first time a major party presidential candidate has name-checked the fire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
+      "originalUrl": "https://www.usatoday.com/story/news/2020/10/19/joe-biden-cameron-peak-fire-deadly-sign-climate-change/3711004001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/NLED/ac97ee10-b8a3-4a7c-b59f-791edcb6daa7-AP20292646434924.jpg?auto=webp&crop=5123,2882,x0,y260&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3711004001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711004001",
+      "publishedDateTime": "2020-10-20T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-joe-biden-is-making-a-late-push-for-cuban-american-voters-in-florida-will-it-matter.md",
+      "title": "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?",
+      "excerpt": "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
+      "originalUrl": "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5884192002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002",
+      "publishedDateTime": "2020-10-20T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-former-republican-national-committee-chairman-michael-steele-endorses-joe-biden.md",
       "title": "Former Republican National Committee Chairman Michael Steele endorses Joe Biden",
       "excerpt": "I'm a lifelong Republican – and I'm still a Republican. But this ballot is how we restore the soul of our nation,\" said Michael Steele, who called Joe Biden \"a good man.\"",
@@ -694,7 +841,7 @@
       "originalUrl": "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1011,7 +1158,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/521134-biden-campaign-announces-record-383m-fundraising-in-september",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1120,7 +1267,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad",
       "featuredContent": null,
       "highlight": null,
-      "heat": 565,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -1172,7 +1319,7 @@
       "originalUrl": "https://www.bbc.com/news/election-us-2020-54527265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 560,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -1400,158 +1547,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-sasse-its-grotesque-biden-and-dems-wont-discuss-suicide-bombing-court-packing.md",
-      "title": "Sasse: 'It's grotesque' Biden and Dems won't discuss 'suicide bombing' court packing",
-      "excerpt": "What they’re really talking about — or refusing to talk about — is the suicide bombing of two branches of government.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "originalUrl": "https://www.politico.com/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b6/9e/daa9bbd04e869f2f46bb5dcf784c/20201011-bensasse-gty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/11/ben-sasse-supreme-court-packing-428633",
-      "publishedDateTime": "2020-10-11T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-joe-biden-to-campaign-in-cincinnati-and-toledo-on-monday.md",
-      "title": "Joe Biden to campaign in Cincinnati and Toledo on Monday",
-      "excerpt": "Joe Biden returns to Ohio on Monday, with stops in Cincinnati and Toledo, as Vice President Mike Pence campaigns in Columbus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
-      "originalUrl": "https://www.cincinnati.com/story/news/politics/elections/2020/10/11/joe-biden-campaign-cincinnati-and-toledo-monday/5960275002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cincinnati.com/amp/5960275002",
-      "cdnAmpWebUrl": "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/5960275002",
-      "publishedDateTime": "2020-10-11T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-11-twitter-reacts-to-jim-carreys-joe-biden-impersonation-on-snl.md",
-      "title": "Twitter Reacts To Jim Carrey's Joe Biden Impersonation On 'SNL'",
-      "excerpt": "Jim Carrey's portrayal of Joe Biden on \"Saturday Night Live\" left some viewers disappointed. Some called for Jason Sudeikis or Woody Harrelson to play the former vice-president once more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
-      "originalUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/09/19/jim-carrey.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-jim-carreys-joe-biden-impersonation-snl-3060325?amp=1",
-      "publishedDateTime": "2020-10-11T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
