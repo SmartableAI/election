@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "One-on-one with Vice President Mike Pence 13 days before the election"
+    excerpt: "Local and national elections & political news, delivered to your inbox With just 13 days left until Election Day, Vice President Mike Pence stopped in the Buckeye State to rally Trump's base, making the case for four more years.Like Gov. Mike DeWine ..."
+    publishedDateTime: 2020-10-22T03:23:00Z
+    webUrl: "https://www.wlwt.com/article/one-on-one-with-vice-president-mike-pence-13-days-before-the-election/34444030"
+    ampWebUrl: "https://www.wlwt.com/amp/article/one-on-one-with-vice-president-mike-pence-13-days-before-the-election/34444030"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/one-on-one-with-vice-president-mike-pence-13-days-before-the-election/34444030"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 90
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-1-jpg-1603335232.jpg?crop=1.00xw:0.915xh;0,0.00794xh&resize=1200:*"
+        width: 556
+        height: 314
+        isCached: true
   - title: "Presidential election: Mike Pence to hold Cincinnati rally"
     excerpt: "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken Airport."
     publishedDateTime: 2020-10-22T06:43:00Z
@@ -187,6 +203,22 @@ related:
         width: 911
         height: 683
         isCached: true
+  - title: "Vice President Mike Pence to visit northwest Ohio on Friday"
+    excerpt: "Vice President Mike Pence will be making a stop in northwest Ohio Friday, Oct. 23. According to the President's website, State Representative Haraz Ghanbari and State Senator Theresa Gavarone will join the Vice President for a Make America Great Again Victory Rally in Swanton."
+    publishedDateTime: 2020-10-22T02:24:00Z
+    webUrl: "https://www.wzzm13.com/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    ampWebUrl: "https://www.wzzm13.com/amp/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    cdnAmpWebUrl: "https://www-wzzm13-com.cdn.ampproject.org/c/s/www.wzzm13.com/amp/article/news/politics/campaign-2020/vice-president-mike-pence-to-visit-northwest-ohio-on-friday/512-b05ab072-4803-49d2-94ef-87b528286fe4"
+    type: article
+    provider:
+      name: WZZM
+      domain: wzzm13.com
+    quality: 75
+    images:
+      - url: "https://media.wzzm13.com/assets/WTOL/images/c07e0669-34dd-4a27-9728-6b8e285f7bee/c07e0669-34dd-4a27-9728-6b8e285f7bee_750x422.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z
@@ -295,6 +327,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Pence Campaigns in Maine"
     excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
     publishedDateTime: 2020-10-19T13:34:00Z
@@ -305,6 +346,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "gGOIxwQ8vi+TW5Sq68SbN06cEuQBATazvvaZlnKOKJNvP64jzwULFR6MyWkEBobDSQsN8ksNrcKAct2I6paF431YCvMXJJxnqgPbBAV52HL+beK6ue3wyHmgcbt2fbPPuo6OjN32JEVqK6ReAGZ19oHhfjAE4VCn6x5O+9to8esPKp1JjA432ECRDI1GGtyxbuyWdBjUltIlCY00Wn3NGhUP9+xb56Q+K33DzzIxmdisATSVSIYsqX9Cu/1uRmrchs6sJ8LG4ggcCG4jQ3R5EK+exx1fo4pBmEma8cLirHc9xATTHhtGKbdus4LYECgQoZ3puGKiK0uB0a0R0CNoT6woP/23dJc8+gGrSwgMrEU=;aRJSQB/mC/1J2Eqf8NdJcw=="
+secured: "39bGLDMtsdIay0/u3hiI/RO/ugWpNQxuAtFLVFs2Gq31l7K6VqUlpe3KiBX7aRW3S09Tih9UessVFWySlW0uS35ySaSF9rgWxYiT93IirLuEqlOK0EmB1joUFCHFt1dsjSnCQT4NJifyiTodPPKBflz6VwSnrEUSZoaa3n7KCFwmGkOMAfZhRU7zL052NvrrRedF3P6rZw977iFlVcO5VHROgbQOyDWC1cug4MSQY4EmbiOOwt/URCF+eHkpEhRYOi4LPzlKh+GmmKdykSAuzI611AKKwGSQ8nZH6ZnBfbspHT6cEKSQEy/yOY0u6v4bu5d37Dt8RIBGErYjIEsHX2+ccC0VDQZLSCYNK46et0V4xKPgdohONg2+ztAsjqqza/tP63MPJEmlEEYYjkMxc1Jk8UiiEIXslJJssQWCq9cXaACj9HGqs4vypzK39B5/6RU+v86dZLVhVJRHuLuw9bGghQOG1RwuVm3XGUKGH6j4zqGdCG39uU88P4OHQgAWtqH8c17UiKIxi0Pp0A60+g==;TUoBIF2foB/jTn3cIMtPAg=="
 ---
 

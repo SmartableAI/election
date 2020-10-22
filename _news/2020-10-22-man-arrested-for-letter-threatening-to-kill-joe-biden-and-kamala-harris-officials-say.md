@@ -3,18 +3,18 @@ category: news
 title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
 excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
 publishedDateTime: 2020-10-21T18:16:00Z
-originalUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
-webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -7772,6 +7772,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Cm1PAW8Ku6V7korv98UGtQVKw5Bf80w7sYjoQ9Jx9dh9j24qwhdBpOXKZor84RNNDn6etWatGHolMAOzz/KyyfE/ekMI2ikXioC3sMbw18OWjZlkOoQKdWLqyhj0EIPSxeqsatlqIQ0vvb/bAtBkr4mbc5R5u0Tqx31amOSxTvLX7X0E0dYgv2yd3PV9KPAgSCbFJMrcavTMsWA+EC3DGeP/+o2s5CRMJuc6zu9Qxz7cPQUj6ybFCOMLS7Rk1yS12VTMUJ2b0iK75eqvOtPQXus3w/PwkCYdAtMelh8EioRJ96VA+3/ab4DrCGREgJ8MRLv++7zdWielmmA1/XBBihlIP3ibx2unmokjaYgXJNY=;sjVj1VrJB3vXS02b/hAj2Q=="
+secured: "0Mooo1gTxBWvObkkN48IQ1W5ZJaChou8GapCJLVxi5EPigHJvJCLtoEJmJkHiY60khAEMY34vMBlC/wr3/4nFjwQ/cxrq8Q60PlwXGUin3e6nwRbPdl93gxdxwc6cI8edTdwK5f25jSZ41IdyKsBIyC84VK0UQ6ySZo4k9pu0WiHuSmvaQ6qu1/lOXSObV0rbbmnNV+tGzF7/h3SIsGUrLgVhLDUgew1XQJC+PF/Lou1voNKw8mELBgWv3Z8RLdaVh8Dvvc5UNFcEeW+Jecyi6mrUJzMl2VPUtEDCYyNr7dSGgbm011ogPFdsZh6lJqCZnG0HEyL0ZedghM3m8Cp215DSR/ABNX01J22GHhAGik=;UceqvlX7A0rsKHWsav+ENw=="
 ---
 

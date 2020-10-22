@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/jennifer-lawrence-says-president-donald-trum
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/jennifer-lawrence-says-president-donald-trump-completely-changed-her-political-views-3066615?amp=1"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 683
     isCached: true
 
-secured: "niAcI5Chuu+q/LsODQX5EyvTsteQvCeRb4OtwRXC0TtgAZVt+zaPhs3fn7utKRNhRaySZ3VReoOfantVWMQ0ACoAbYoJjSGhIxzPxEj5BYTloKhvKXSK32cCw3FOgsI6beHbi5qZdgS3s1MUmWzY3I+fTq/FqiNHkPkPcOWdGwtBoKAQjd25UFuX3Sqii28dxzlhqT/vRi6gQJjvZSxyoOGibPh42W4ZiZVF6W0GP+/21R76kntOqcVV4DXz7ZTYDe7cxDIjt0yNv0uvfOOPkHO/gAMsEC/H7aZTWVet/xswHmMj2Xq/30H4m0aG9EflBf51qjGdnswfc80QxyJDuDbIiKZrfEwKpfNCRxkejXc=;n95HLG8tI6Ixveg9GiC6Lg=="
+related:
+  - title: "Jennifer Lawrence says Trump 'changed everything' about her political views"
+    excerpt: "Jennifer Lawrence said on Wednesday that despite formerly voting Republican, she won't be supporting Donald Trump."
+    publishedDateTime: 2020-10-22T15:27:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/21/trump-election-changed-jennifer-lawrences-republican-views/6004508002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6004508002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004508002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 123
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/26/USAT/27985702-65b1-4f3c-bd87-16531ef2393b-1040038846.JPG?auto=webp&crop=3999,2249,x1,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "iKojT6qU9EHwsApw9slmbj8tcBRM3ry2KctL1zlGNyhYDKR5r62fpE6ctrlpU3V99zLo6RF+MmaAmk1jGJX8uLW8zmGFN7R1pgJWSUQyLpBZc/NFTcfbQcdsbavR9tU+cg//k34IvHS4AfGEo0PD9/A/wqZZkAEGh6QEmK2zC7302IEBSx7IdgLjJv3CcGmdHJ4d49TyZi/WLixg2PrG2SpojgClJ/0zy6wCyAWxDDsTceuK8wJEuisTftr7JEhGKgRaBkemyJ4xLo0fInrD3o73vSnpeYR9pubBPVkIrAX/428W2xhz/0vQ7vNLfD1v6YO4W3PUiBY5iDZ/fi90ln0wOdS0B9UW1DDdY15Ya3G2e96/qJwsAO0QNrxif7A6mphQ/J6yt3BlR8srO58emQQ2Bj9MWdsflqihj3Bbej/kX/3M58i/asZh9KAmjgaeRPR7dMKUI4F4jWm2jlWuE7YW3ZA93YR/+WcIfgRxJDDyLYZPhx+4J5iqp8fgr33D+b9NoJZRATJr67JXFuLVqA==;io2nBv81njDyijVA0dTCKw=="
 ---
 

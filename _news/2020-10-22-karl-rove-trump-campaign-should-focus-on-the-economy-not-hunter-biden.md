@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump Jr: Media, Big Tech 'doing whatever they can' to help elect Joe Biden"
+    excerpt: "The Trump campaign is up against Big Tech giants and the mainstream media who are practically campaigning for Joe Biden, Donald Trump Jr. told \"Fox & Friends.\""
+    publishedDateTime: 2020-10-22T14:54:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0Cxn378dkAU/trump-jr-biden-debate-hunter-media-social-media-donald-jr-campaign-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-biden-debate-hunter-media-social-media-donald-jr-campaign-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-biden-debate-hunter-media-social-media-donald-jr-campaign-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
     excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
     publishedDateTime: 2020-10-15T11:35:00Z
@@ -695,6 +711,22 @@ related:
     quality: 150
     images:
       - url: "https://images.wsj.net/im-247269/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Joe Biden Blitzes TV While Trump Spends on Events, Fundraising"
+    excerpt: "The Democrat’s presidential campaign effort outspent the president’s by at least $110 million and ended the third quarter with more cash on hand."
+    publishedDateTime: 2020-10-22T15:18:00Z
+    webUrl: "https://www.wsj.com/articles/joe-biden-blitzes-tv-while-trump-spends-on-events-fundraising-11603379652"
+    ampWebUrl: "https://www.wsj.com/amp/articles/joe-biden-blitzes-tv-while-trump-spends-on-events-fundraising-11603379652"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/joe-biden-blitzes-tv-while-trump-spends-on-events-fundraising-11603379652"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-248142/social"
         width: 1280
         height: 640
         isCached: true

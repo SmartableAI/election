@@ -127,6 +127,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'60 Minutes' bothers Trump with the truth about the economy"
+    excerpt: "Trump's insistence that he created the strongest economy in history is demonstrably ridiculous, and insisting otherwise doesn't turn fiction into fact."
+    publishedDateTime: 2020-10-22T15:34:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/60-minutes-bothers-trump-truth-about-economy-ncna1244289"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244289"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244289"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421686/201020-donald-trump-point-ac-830p_948a6fbc3a6645808a8c6eae697cbd0c.jpg"
+        width: 2500
+        height: 1783
+        isCached: true
   - title: "Trump ends ’60 Minutes’ interview, attacks Lesley Stahl on Twitter"
     excerpt: "The president, reportedly frustrated by the line of questioning, said he was considering posting the interview before airtime “for the sake of accuracy in reporting.”"
     publishedDateTime: 2020-10-20T22:45:00Z

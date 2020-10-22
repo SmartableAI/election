@@ -349,6 +349,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tomi Lahren on final presidential debate: Time for Joe Biden to 'face the music'"
+    excerpt: "Fox Nation host Tomi Lahren and country music star John Rich appeared on \"Fox & Friends\" to preview the second presidential debate just hours before it airs."
+    publishedDateTime: 2020-10-22T15:40:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yE8YPf4_mp0/tomi-lahren-trump-biden-final-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/tomi-lahren-trump-biden-final-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tomi-lahren-trump-biden-final-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Meadows teases Biden family connection with Romania to surface 'in the days to come'"
     excerpt: "Hunter Biden's overseas business interests extended to Romania as well as China and Ukraine, and Americans can expect to learn more \"in the days to come,\" White House chief of staff Mark Meadows suggested on Fox Business Network's “The Evening Edit\" Monday. "
     publishedDateTime: 2020-10-20T00:14:56Z

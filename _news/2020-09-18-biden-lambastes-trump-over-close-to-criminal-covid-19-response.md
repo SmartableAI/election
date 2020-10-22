@@ -3288,6 +3288,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The final presidential debate between Trump and Biden is tonight. Here's how to watch"
+    excerpt: "The final presidential debate airs tonight. President Donald Trump and Democratic nominee Joe Biden will face off for the second and final time before Election Day in tonight's debate. Kristen Welker of NBC News will moderate."
+    publishedDateTime: 2020-10-22T15:47:00Z
+    webUrl: "https://www.chron.com/news/election2020/article/The-first-presidential-debate-between-Trump-and-15667203.php"
+    ampWebUrl: "https://www.chron.com/news/election2020/amp/The-first-presidential-debate-between-Trump-and-15667203.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/election2020/amp/The-first-presidential-debate-between-Trump-and-15667203.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 83
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "President Trump wants a marathon debate with Joe Biden hosted by future Texan Joe Rogan"
     excerpt: "President Donald Trump tweeted that he would be game for a four-hour debate with presidential nominee Joe Biden moderated by Rogan, host of one of \"The Joe Rogan Experience,\" one of the most popular podcasts worldwide."
     publishedDateTime: 2020-09-14T22:52:00Z

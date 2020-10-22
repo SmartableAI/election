@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1652231/joe-biden-oct-13.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden says he'll create a commission to decide whether to reform the federal judiciary and pack the courts: 'It's getting out of whack'"
+    excerpt: "Court packing alone could \"turn the Supreme Court into just a political football,\" Democratic nominee Joe Biden told CBS News."
+    publishedDateTime: 2020-10-22T14:18:00Z
+    webUrl: "https://www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-commission-to-study-court-packing-and-reform-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 93
+    images:
+      - url: "https://i.insider.com/5f91858eabcd0c0018d68fed?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "NnxkjK11NXx/qn2O4HGTxMeGMsMgeZDlAnbDYqlUJauHFHJvzdyQNl7QXONSOH3O75bGOcBNUWvwlAzHcNav2VGEqJ/W0HyjLVFDgQHMsJNHJomweX5NLuaawpynj05NUze5dUsykUkhW0TrECDy9Ao0kz+BFJYnUHRVqZCVFzaLJH1fbpo/8b9vZUF8kCrhTJN0bl/jWuoPfvKKxLALI/PmM45iwnabiVnhFa1vw2f1iyiV6JjOlHH/cTQMBVZje59zWz4mtd+8JUlBvXKtGpm1UcrO5T7ROuyara1TpaLdn3yhhZBfLDR7ccJyd3q4DKlKNOAgcQc5oBqxUhIrqnLc++9gotEYJSWS1JMmLd8=;QaHRoEuUVO7YPp8R8V0OHA=="

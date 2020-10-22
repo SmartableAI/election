@@ -142,6 +142,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'60 Minutes' bothers Trump with the truth about the economy"
+    excerpt: "Trump's insistence that he created the strongest economy in history is demonstrably ridiculous, and insisting otherwise doesn't turn fiction into fact."
+    publishedDateTime: 2020-10-22T15:34:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/60-minutes-bothers-trump-truth-about-economy-ncna1244289"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244289"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244289"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421686/201020-donald-trump-point-ac-830p_948a6fbc3a6645808a8c6eae697cbd0c.jpg"
+        width: 2500
+        height: 1783
+        isCached: true
 
 secured: "yp9BZqH+7z8GIYe/Bh5GXIBRpMEx9Y4EeomFVEtc4UiY7u/bHYODFTxEzkNFcErnuDJ9ChDHMz8j64PP6+E5GLsRRfbC+6nrttop/AfMvN04jAj+P+TIG7vCErels0LXkA5FctvEJgLwQZ0StA2vm91yiJav8bufJv9HagyJTY6M0j2DNELdLWHCf+LePLk0tBTiEqmPRrZEU2ayGWSqWRa2S5PbOmQ7XdnW58/GmRYmoqapNgR8TjEkxJ4moNAhbXO0la4QRdDJLN8m4F5uCuT8SN1bQxxeJWXBAQ+TSFkGKdRtweiUsihj1Lll5Hs298+p2Zs8iVufp7PXCgZysIsX0Y8+tHG1uXGSyrn+15TtpVki2AZMhAJMsvrj63TPzoyYsUSmd+hnQuFMGf988VYkRQPqyNYaXF2WCVEy0Q2uNIoerRuUyYWD+avbpxOuI5hHRMMsHIs4QbF8fXKfHTIOqdIPJR5OXVZe2SQwR90/7fNnjmZ2JrZgvSh18SAMzjINsmya0rpnt4ucM/9MDQ==;EfGdpRPUf3pUKMU+2PV7Fw=="
 ---

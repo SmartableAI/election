@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump administration pitches second-term policies to Indian Country"
+    excerpt: "The Trump administration is promising the Native American community improved infrastructure, increased business opportunities, higher quality education, and better health care should he be elected for a second term."
+    publishedDateTime: 2020-10-22T15:24:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gXh1GWG4AzI/trump-administration-releases-policy-pitch-to-indian-country"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-administration-releases-policy-pitch-to-indian-country.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-administration-releases-policy-pitch-to-indian-country.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/screen-shot-2018-06-22-at-7.04.19-am-10604.jpg"
+        width: 948
+        height: 702
+        isCached: true
 
 secured: "o1hFlDpclVFdOSTRmJ9c18zXFp5OdaLnnzeTRCSfq/GT9vR6v6sYIDmUeEiOyKavxU5qJLiBS6EbPrHCx0w9EzUGJJ38wfArCcuFvJ/e01fs9tLSkl2Fg8fN5gY+ZU5Kl2SszlKOdOEzU1Wap7y+yyp42WgsX2Cco3fBEFNs6vpwqMwB7+FYtCMda2E8mlGn8EeXUZWEHxaOpzBcyYM8mG+/BOyc7tKm7qpQ4YZZRvQFIwJHrtZfitbu3Q3kdqUMssfdM4TizuunNx9wUq5lsykxTVE0DHlctHA/MCb+o3RvDBmFHcsj/BFR6K2K24HsEgUdmny8qNyvicec9b2PdVhreFeO28zi3MDCAlAojDE=;Kq0Qp20/D4pqF7RYayhqhQ=="
 ---

@@ -302,6 +302,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "2020 Election Live Updates: On Court Packing, Biden Would Create a Panel to Study Changes"
+    excerpt: "Republican senators advanced President Trump’s Supreme Court nominee, setting up a final vote on Monday. Joe Biden said that courts were “getting out of whack” but that he’d ask scholars for advice rather than take quick action."
+    publishedDateTime: 2020-10-22T14:22:00Z
+    webUrl: "https://www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight"
+    ampWebUrl: "https://www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 141
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/22/multimedia/22elections-briefing-biden/22elections-briefing-biden-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden Is Not Out of the Woods"
     excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
     publishedDateTime: 2020-10-14T09:14:00Z

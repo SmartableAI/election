@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 1343
+heat: 1363
 published: true
 
 provider:
@@ -539,6 +539,22 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Harris_Florida_23635.jpg-db79e_c0-330-2941-2045_s1200x700.jpg?d9394c5196ed85a18a11bc2ef335aa3e6e4be451"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Sen. Kamala Harris to campaign in Cleveland on Saturday"
+    excerpt: "Sen. Kamala Harris is going to Cleveland Saturday to campaign for the Democratic presidential ticket. Harris initially planned to visit Cleveland on Oct. 16, but that trip was delayed when two staff members tested positive for COVID-19 ."
+    publishedDateTime: 2020-10-22T14:59:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/2020/10/22/sen-kamala-harris-campaign-cleveland-ohio-saturday-oct-24/3726561001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3726561001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3726561001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PBRE/1c0d9df4-a64c-417e-8fab-193061138de3-BRE_AP_Kamala_Harris_17.jpg?auto=webp&crop=3588,2018,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."

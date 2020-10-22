@@ -985,6 +985,22 @@ related:
         width: 2476
         height: 1238
         isCached: true
+  - title: "Some Republicans Are Abandoning the Trump Ship"
+    excerpt: "How some G.O.P. senators are distancing themselves from President Trump, and why some people continue to support him."
+    publishedDateTime: 2020-10-22T14:21:00Z
+    webUrl: "https://www.nytimes.com/2020/10/22/opinion/letters/trump-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/22/opinion/letters/trump-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/22/opinion/letters/trump-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/15/us/politics/16dc-repubs-hp-weekendbriefing/15dc-barrett-sub1-hp-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "The news media helps Trump avoid the stench of death"
     excerpt: "As President Donald Trump heads into his final sprint to Election Day, nearly every news report notes that he is running behind in the polls. Journalists aren’t shying away from describing his wilder rhetoric as “studded with lies and falsehoods."
     publishedDateTime: 2020-10-21T19:55:00Z

@@ -349,6 +349,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tomi Lahren on final presidential debate: Time for Joe Biden to 'face the music'"
+    excerpt: "Fox Nation host Tomi Lahren and country music star John Rich appeared on \"Fox & Friends\" to preview the second presidential debate just hours before it airs."
+    publishedDateTime: 2020-10-22T15:40:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yE8YPf4_mp0/tomi-lahren-trump-biden-final-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/tomi-lahren-trump-biden-final-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tomi-lahren-trump-biden-final-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says 'chicanery' at polls is the only way he could lose U.S. election"
     excerpt: "Democratic nominee Joe Biden said the only way he could lose the 2020 election was through “chicanery,” before later adding he would accept the results of the election. "
     publishedDateTime: 2020-10-11T01:30:14Z
