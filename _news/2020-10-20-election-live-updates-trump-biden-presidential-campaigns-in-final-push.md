@@ -208,6 +208,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "5 things to watch for in the final Trump-Biden debate"
+    excerpt: "Time is running out on President Donald Trump.\n    \n"
+    publishedDateTime: 2020-10-22T10:02:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_PvoO9Jp-B4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/presidential-debate-tonight/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/presidential-debate-tonight/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021094311-03-biden-trump-split-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "After leaving Venezuela, one will vote for Trump, the other Biden"
+    excerpt: "American politics have taken on a déjà-vu feeling for Venezuelan-Americans, many of whom say the 2020 race recalls the decades-long political fractures experienced back home by millions of Venezuelans.\n    \n"
+    publishedDateTime: 2020-10-22T10:00:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/beWi-CtsJ6o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/us-election-venezuela-trump-biden-intl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/us-election-venezuela-trump-biden-intl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021130944-03-perez-family-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Debate commission announces topics for final debate between Trump and Biden"
     excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
     publishedDateTime: 2020-10-16T19:25:46Z
@@ -319,6 +351,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Election live updates: Trump, Biden to face off at final debate"
+    excerpt: "How Biden or Trump could win. The second and final presidential debate is set for Thursday night, giving President Trump an opportunity to make up ground against Joe Biden. Trump, who's trailing in national polling by about 9 points,"
+    publishedDateTime: 2020-10-22T10:12:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 165
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Trump and Harris head to North Carolina today, and Pence speaks in New Hampshire and Ohio."
     excerpt: "Holds a rally in Gastonia, N.C. Former Vice President Joseph R. Biden Jr. No events scheduled; preparing for Thursday’s debate. Vice President Mike Pence 1:30 p.m.: Holds a rally in Portsmouth, N.H. 6 p."
@@ -640,6 +688,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Trump, Biden presidential campaigns in final push"
+    excerpt: "President Donald Trump and Joe Biden are heading into the final stretch of the 2020 presidential campaign. With two weeks to go until Election Day and millions of people already casting their ballots at early voting sites or by mail,"
+    publishedDateTime: 2020-10-22T00:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/blog/election-live-updates-trump-biden-presidential-campaigns-final-push-n1243927"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna1243927"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna1243927"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
     excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"
     publishedDateTime: 2020-10-20T21:51:00Z
@@ -736,6 +800,22 @@ related:
         width: 2500
         height: 1743
         isCached: true
+  - title: "‘Biden was simply seen as the better human’: Why Trump needs to tone it down in the debate"
+    excerpt: "Four years ago, as he took the stage in the final debate, Donald Trump was similarly backed into a corner. His performance that night offers clues to his approach this time around."
+    publishedDateTime: 2020-10-22T08:34:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/trump-biden-debate-430949"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/trump-biden-debate-430949"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/trump-biden-debate-430949"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/f9/f0/46a25da24896b3b9307ebf657b46/201021-trump-debate-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
     excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
     publishedDateTime: 2020-10-15T09:13:00Z
@@ -779,6 +859,22 @@ related:
     quality: 133
     images:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421944/201021-rudy-giuliani-2018-ac-525p_4116787e0e156c4353b10ae9bf4c8e17.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In rare gloves-off moment, Obama calls on voters to hand Trump a clear defeat"
+    excerpt: "The former president attacked his successor in personal and policy terms, urging Americans to \"turn out like never before\" and declaring, \"We cannot leave any doubt in this election.\""
+    publishedDateTime: 2020-10-22T11:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/rare-gloves-moment-obama-calls-voters-hand-trump-clear-defeat-n1244224"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244224"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244224"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 132
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421972/201019-barack-obama-se-627p_7e79a76e6e0a71d73a88c6400522b279.jpg"
         width: 2500
         height: 1667
         isCached: true
@@ -914,6 +1010,15 @@ related:
     excerpt: "Trump wants to use his NBC event—running alongside Biden’s ABC one—to embarrass his rival in TV ratings numbers. NBC staffers worry the network is playing directly into his hands."
     publishedDateTime: 2020-10-14T22:25:00Z
     webUrl: "https://www.thedailybeast.com/nbc-staffers-seethe-as-trump-gleefully-uses-the-network-against-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 60
+  - title: "Trump Wants To Make the Next Debate All About Biden. Hunter Biden"
+    excerpt: "After all, by targeting Hunter Biden, making the debate moderator the enemy of the president, and casting other quintessentially Trumpian grievances into the air, the Trump campaign can try to take the focus away from the coronavirus catastrophe that continues to drag his presidency into a deficit."
+    publishedDateTime: 2020-10-22T08:57:00Z
+    webUrl: "https://www.thedailybeast.com/trump-wants-to-make-the-next-debate-all-about-biden-hunter-biden"
     type: article
     provider:
       name: The Daily Beast

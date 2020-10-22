@@ -138,6 +138,15 @@ related:
         width: 3543
         height: 2364
         isCached: true
+  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
+    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
+    publishedDateTime: 2020-10-22T09:43:00Z
+    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 23
 
 secured: "F5HC/VcyoQu1qVvLxjuOiZsGyAVc2aYS2vdxoW4MSP0HrC7cirtDElKG2GYFNXKuL8DXNpCn7tK0717gIHwOJis5+pv6FuLmdKtEjR3mMcnxtMRnst7n9r0lgVuAG/tBs1oWmMEariWGz4MTz1VtKu4TfPAAFsLGrPQkDlsKAzLOD/6vbcODLZ1KKgu3bV7GkiTheGiVIzh6BksxOC67VNzjwLZuYy6bGs2ZIFYspXZOGGJ6uXSbB/tbIBtxMEj1cxgqZyl7ZAEeAtrXGx/SBEHpgGNeN8LbKcFHpksg295MXBLLVl5HKbqwJ/K81CZyhA+E2kxU3nV3q2KIo4U4VWBadUPyx43P9YYbzDX+N35qmADD6STYaY48nSVURcQJiqDTBZOurwjNcDgtqgMcLQRGfYqSG6Rm0+b8TIAKEnDywlHZ4GkB1DPDwvLdPbdPAf3Qv+1aN0wYugOeqgkV09FLfedyGZQVsvRxbZDO1NzGc/hjsIGEUOXtZhASzEWLpD2iam48IeUTGq7xmBQ5CQ==;GQNubD0quTVtKSILCTxyRg=="
 ---

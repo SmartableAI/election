@@ -699,6 +699,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump national security adviser says president will respect results of election"
+    excerpt: "Robert O’Brien, President Donald Trump’s national security adviser, said Wednesday that Trump would accept the results of the election if he loses on Nov. 3. I"
+    publishedDateTime: 2020-10-22T02:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-obrien-transfer-power-431067"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-obrien-transfer-power-431067"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-obrien-transfer-power-431067"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 146
+    images:
+      - url: "https://static.politico.com/d1/3f/6d7c4d7c4464b31bc530dc45c972/apobrien.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
     excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
     publishedDateTime: 2020-10-12T15:49:00Z

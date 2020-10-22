@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.md",
+      "title": "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations",
+      "excerpt": "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
+      "publishedDateTime": "2020-10-22T02:09:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.md",
+      "title": "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'",
+      "excerpt": "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "publishedDateTime": "2020-10-21T23:52:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-ingraham-democrats-hiding-true-agenda-from-middle-working-class-by-trotting-out-biden-cliches.md",
       "title": "Ingraham: Democrats hiding 'true agenda' from middle, working class by trotting out Biden cliches",
       "excerpt": "President Trump, not Joe Biden, is the candidate who truly fights for the working class, Laura Ingraham argued Wednesday on \"The Ingraham Angle.\"",
@@ -1005,62 +1117,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-20-biden-campaign-faces-backlash-for-tv-ad-depicting-michigan-tech-ceo-as-struggling-bar-owner.md",
-      "title": "Biden campaign faces backlash for TV ad depicting Michigan tech CEO as struggling bar owner",
-      "excerpt": "The Biden team is under fire for releasing a TV campaign ad last week depicting a Michigan bar owner struggling to keep his business afloat during the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nLpF-VPDeIQ/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/blind-pig.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp",
-      "publishedDateTime": "2020-10-20T08:27:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
       "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
       "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
@@ -1467,7 +1523,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1279,
+      "heat": 1339,
       "tags": null,
       "images": [
         {
@@ -1597,62 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
       "publishedDateTime": "2020-10-19T11:24:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-texas-gop-sen-cornyn-tries-to-distance-himself-from-trump-says-he-disagrees-with-president-privately.md",
-      "title": "Texas GOP Sen. Cornyn tries to distance himself from Trump, says he disagrees with president 'privately'",
-      "excerpt": "Texas Sen. John Cornyn became the latest GOP senator to distance himself from President Trump this weekend ahead of a surprisingly tight re-election battle.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d525362d-ca07-450b-ad54-963f429c47b4/33964c7c-f88b-4e92-99c6-bb09dd3e26cb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "publishedDateTime": "2020-10-19T11:00:32-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

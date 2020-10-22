@@ -715,6 +715,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump national security adviser says president will respect results of election"
+    excerpt: "Robert O’Brien, President Donald Trump’s national security adviser, said Wednesday that Trump would accept the results of the election if he loses on Nov. 3. I"
+    publishedDateTime: 2020-10-22T02:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-obrien-transfer-power-431067"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-obrien-transfer-power-431067"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-obrien-transfer-power-431067"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 146
+    images:
+      - url: "https://static.politico.com/d1/3f/6d7c4d7c4464b31bc530dc45c972/apobrien.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
     excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
     publishedDateTime: 2020-10-12T15:49:00Z
@@ -1457,6 +1473,6 @@ related:
       domain: thedailybeast.com
     quality: 44
 
-secured: "m9ULqSDNs6eZ+WZDKSLN9RlYMNJQWuoNoNCTdXjO5SDSviviWM9ss5gnHhIs7NPNeL2bGXirwqo+T/QjFpMWUNAuYCQzRHzj44cYAFpR9Lh++0hbl/pT5vvUF4IvyRfstAW9XDwyALTzC77/FfdMPRVSG0wFjsYLLY4/eWvaaQoN7atDDaZrWx0tnm4afKfvh9lMSR98zhuOD5J/0MB9200KRazBdvqX+7qGyUz2qRKqc2bNUTj0P//VGWesalMY4524P45obwD9zn8M8jcVwUjAOPNB/QRgh5oSovt37kYv4F4sINi7yFVNt6UygBMgp1MLYqGMTLbSkadHO2U8YspwIdaEvD8TbgqwoBztiug=;w+SbiWCALf6Au5DLXY+gDQ=="
+secured: "OI6db01IimVguyKvNndJa3PlJw/w6GEdmKAshNiRn+geXJFiDcWibVCtA79cc1uDQxcpr7cS4eaFECMZfk+4kfPVf1kFN8rx5w+4A0dR9fcaHlRSiLVbmAl5VxaZRN+3q+feyendQjcfYQXfPGd+eWYcHEyI0gYGYVbo9vfgH2YqxV21efDZQqLE7Yj2GwMxd975iQTyo8w11ZOGrtP7hCqgBlH0z6OaB2Y20UjpKUs/S3hmah9I64ESDgQIEY7CjGg0mqXJDpP3J14PvmRbiPAni4Z8N2USazgVsNUoc+OQer3M4fPghr1xEa7KhWUMzosQ0ZdIVqDKHsB36Rxb5j8U4l/1641869hu/PnJuEpGJto3RV5j6F7ZeyOITffoppgdkhZc055vYbNQ2WOC24nT5tQbmN8oLOx0vVdpWt3x5c94RZs0vSqG9NCxK5ey6veD/c/b+T/fUjcP1GhrRww0QXXoIio1iArt7pTZfAmNEe8Bf56ltlePxVhD69/VAwTW/mKOSnVq5cDOzZNdqA==;EZupMJnssaRqidrY+az8vg=="
 ---
 

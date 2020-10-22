@@ -2,6 +2,322 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-18-officials-in-scotland-approve-another-trump-golf-course.md",
+      "title": "Officials in Scotland approve another Trump golf course",
+      "excerpt": "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
+          "width": 834,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
+      "publishedDateTime": "2020-10-17T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-a-georgia-state-lawmaker-crowdsurfed-over-maskless-attendees-at-a-georgia-trump-rally.md",
+      "title": "A Georgia state lawmaker crowdsurfed over maskless attendees at a Georgia Trump rally",
+      "excerpt": "Vernon Jones, a Black Democratic lawmaker who has endorsed President Trump for reelection, defied health guidelines with the stunt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
+      "originalUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8afdf99e9fe40019009ee6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
+      "publishedDateTime": "2020-10-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-bidens-non-answer-answer-on-police-and-court-packing.md",
+      "title": "Biden's non-answer answer on police and 'court-packing'",
+      "excerpt": "While we seem to be left with two Biden non-answers, Biden’s non-answer on America’s system of justice gives us his implicit answer on packing the court. The key to that answer lies in Biden’s most important political audience — the left.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
+      "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe6_09292020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp",
+      "publishedDateTime": "2020-10-17T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-not-going-to-waste-a-single-minute-on-tweets-gop-sen-sasse-pushes-back-after-trump-attacks.md",
+      "title": "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks",
+      "excerpt": "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3693805001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001",
+      "publishedDateTime": "2020-10-17T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-trump-keeps-chipping-away-at-obamacare-with-only-weeks-until-the-election-and-a-supreme-court-hearing.md",
+      "title": "Trump keeps chipping away at Obamacare with only weeks until the election -- and a Supreme Court hearing",
+      "excerpt": "The Trump administration has taken a step to weaken the Affordable Care Act in a key battleground state, with only weeks to go until Election Day as well as Supreme Court arguments that could determine the landmark law's future.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
+      "publishedDateTime": "2020-10-17T08:00:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-trump-joked-that-hell-find-a-way-to-fire-florida-gov-ron-desantis-if-he-loses-the-state-in-november.md",
+      "title": "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November",
+      "excerpt": "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
+      "originalUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
+      "publishedDateTime": "2020-10-17T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-trump-continued-to-put-us-in-danger-by-referencing-us-says-rachel-vindman-wife-of-key-impeachment-witness.md",
       "title": "Trump 'continued to put us in danger' by referencing us, says Rachel Vindman, wife of key impeachment witness",
       "excerpt": "Rachel Vindman -- the wife of former Lt. Col. Alexander Vindman, a key witness in President Donald Trump's impeachment inquiry -- slammed the President on Friday for going after her husband and family.\n    \n",
@@ -303,58 +619,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-donald-trumps-covid-19-diagnosis-is-forcing-him-to-face-his-personaland-politicalvulnerability.md",
-      "title": "Donald Trump’s COVID-19 Diagnosis Is Forcing Him to Face His Personal—and Political—Vulnerability",
-      "excerpt": "His supporters reveled in his return. A Congressman crowed that Trump had beaten the virus just like he beat the Russia investigation and the Democrats’ impeachment. His press secretary– who announced her own case of COVID-19 earlier that day–hailed his ability to “stand strongly on the balcony!",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485",
-      "originalUrl": "https://time.com/magazine/us/?fbclid=IwAR1PXVeu5HzM0p1kM6bnvjiTmcPUkjAhVV1b08_60EGRzpbiXmai1j475uopage%2F480page%2F3page%2F4page%2F3page%2F4page%2F3page%2F10page%2F3page%2F5page%2F3page%2F485page/485",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/themes/time2014/img/time-logo-og.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -691,7 +955,7 @@
       "originalUrl": "https://abc11.com/mike-pence-vice-president-in-nc-selma/7078972/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -786,7 +1050,7 @@
       "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1021,279 +1285,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-rnc-files-fec-complaint-against-twitter-claims-company-made-illegal-in-kind-contribution-to-biden-campaign.md",
-      "title": "RNC files FEC complaint against Twitter, claims company made 'illegal in-kind contribution' to Biden campaign",
-      "excerpt": "EXCLUSIVE: The Republican National Committee on Friday filed a complaint with the Federal Election Commission alleging that the censorship of the New York Post article about Hunter Biden’s overseas business dealings and former Vice President Joe Biden’s alleged knowledge of those dealings, amounts to",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-J7vNMJ9ohk/rnc-fec-twitter-complaint-claims-company-made-illegal-in-kind-contribution-biden-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/801397da-12bb-4527-840c-ce1354fda6ba/3ad45308-8610-4eb0-ba9c-4b408dff34dc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T09:39:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-administration-denies-california-relief-for-6-fires.md",
-      "title": "Trump administration denies California relief for 6 fires",
-      "excerpt": "President Donald Trump’s administration has rejected California’s request for disaster relief funds aimed at cleaning up the damage from six recent wildfires",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/trump-administration-denies-california-relief-fires-73657293",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/trump-administration-denies-california-relief-fires-73657293",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Technology/WireAP_4d73d046a9a84e92b48cb83ea814f652_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293",
-      "publishedDateTime": "2020-10-16T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-kamala-harris-has-awkward-moment-at-nc-event-says-election-ends-in-19-days.md",
-      "title": "Kamala Harris has awkward moment at NC event, says election 'ends in 19 days'",
-      "excerpt": "Calif., had an awkward moment during a virtual campaign event in North Carolina Thursday, as she and a staff member broke out into laughter in the middle of a serious push for people to vote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-north-carolina-election-ends-in-19-days.amp",
-      "publishedDateTime": "2020-10-16T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-maryland-republican-gov-hogan-a-longtime-trump-critic-casts-a-ballot-for-reagan.md",
-      "title": "Maryland Republican Gov. Hogan, a longtime Trump critic, casts a ballot for Reagan",
-      "excerpt": "Maryland Gov. Larry Hogan, a Republican and outspoken critic of President Donald Trump, wrote in Ronald Reagan for president when he cast his 2020 ballot.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSfMrKIuFVM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pSfMrKIuFVM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190423112439-01-larry-hogan-nh-0423-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/larry-hogan-ronald-reagan-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/larry-hogan-ronald-reagan-donald-trump/index.html",
-      "publishedDateTime": "2020-10-16T07:55:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-trump-says-susan-collins-not-worth-the-work-after-opponent-raises-394-million.md",
-      "title": "Trump Says Susan Collins ‘Not Worth The Work’ After Opponent Raises $39.4 Million",
-      "excerpt": "President Donald Trump dismissed Sen. Susan Collins (R-Maine) as “not worth the work” Friday as the senator is expected to vote against Judge Amy Coney Barrett’s confirmation to the U.S. Supreme Court,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "originalUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89ae1e69ee9a3e704d0471%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D197%26cropY2%3D1884",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/16/trump-says-susan-collins-not-worth-the-work-after-opponent-sara-gideon-raises-394-million/amp/",
-      "publishedDateTime": "2020-10-16T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

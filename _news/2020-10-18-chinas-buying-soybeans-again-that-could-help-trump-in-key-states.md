@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama delivers scathing rebuke of Trump before final debate"
+    excerpt: "Barack Obama, in a moment of catharsis that doubled as a warning against Democratic complacency, blasted President Donald Trump in a speech dripping with ridicule ahead of Thursday's crucial debate -- perhaps the President's last chance to turn around his campaign.\n    \n"
+    publishedDateTime: 2020-10-22T05:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STLfRRr35mA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/election-2020-donald-trump-barack-obama-joe-biden-swing-states/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/election-2020-donald-trump-barack-obama-joe-biden-swing-states/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump announces plans to remove Sudan from state sponsors of terrorism list"
     excerpt: "President Donald Trump announced Monday that he intends to lift Sudan's state sponsor of terrorism designation -- news that comes as the transitional government in Khartoum could deliver him a diplomatic victory ahead of the US presidential election.\n    \n"
     publishedDateTime: 2020-10-19T20:42:14Z

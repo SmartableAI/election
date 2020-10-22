@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Biden's Amtrak trips prompt House Republican scrutiny on costs, impact on railroad operations"
+    excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-republican-scrutiny-on-costs-impact-on-railroad-operations"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "27Mo/6+SUoJ49qTKk4dVHKV2yAo+aB6f1uBXK1/1Sk1/xgWW2GRARMdHi0Q7gpP1LsYqNsOykFdTHCM08e6e0n6iRqmRq5Qje2+ulpE+YIxvCEacAS/AW81oRM62PdGG9gvr+F7Uusc+1xXpgSQAD16cYHHDFpAlStQ9g9gkrZ/qAlN4y3smCcsOlv+2Cj/4jVkryNhQKUzKlKCUq8UFWmvNYMaA5RY8cAxkT5Z+I/S2UPzbW6byjvn+CtERe0Ud3xZcIGspjqSKF6V1rFbFnDBWuh9gO5+EdQTpw8jKVVEKBoctUdVmNsg7YiaZFaw3NNfhWhmTi/WJitFxEaDM07HR9CRYhgqf3oZIXHl2AZU=;4GiEaflJlKJ/K4yUeHL9GA=="
 ---

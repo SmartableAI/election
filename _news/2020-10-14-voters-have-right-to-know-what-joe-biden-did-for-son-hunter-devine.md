@@ -942,6 +942,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Replay: Obama Campaigns For Joe Biden In Philadelphia"
+    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
+    publishedDateTime: 2020-10-22T06:48:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Biden campaign agrees to remove retired general from ad after he complains"
     excerpt: "Former Vice President Joe Biden's campaign will remove a portion of an ad that features a retired general after he objected to being included in it."
     publishedDateTime: 2020-10-19T21:05:00Z

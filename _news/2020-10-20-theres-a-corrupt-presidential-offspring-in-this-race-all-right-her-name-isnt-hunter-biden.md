@@ -519,6 +519,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Attacks on Hunter Biden Draw Attention to Another Deadly Pandemic"
+    excerpt: "We would hope that they recognize that until COVID arrived, the only national health crisis was around substance use disorders,” said one addiction treatment advocate."
+    publishedDateTime: 2020-10-22T09:07:00Z
+    webUrl: "https://www.thedailybeast.com/attacks-on-hunter-biden-draw-attention-to-another-deadly-pandemic"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
 
 secured: "k1O+bektiD0axhMLwDQFN8QTvuG3GS2Xz4EA7OITixA8VvW9TcuFJ2l04Zy60++rqB29nPTt0ZthqPK+5anNvt9WwWvmYLlad9kMv8DYVdIjT/rdm3YJFxD8B6O2XGH1cWsEBJWsVYzjqLma/BJanyI1URCWR4y+v2vAUertvmOaRBiEzX56PFZ+bYXvgLiLDS6290GDbqwVJ2Vp58vkbLiU8SVwP2hbM6NY7V3G5kgOM3kKDJw5keZcXp9nTaPTOaiaCT/JSjWS337wsPQ5zLZSTq5cotnsMKevCEsKJIpV+5kEMEC30ntZX34rOVZJboe5beYzQbnVXFCsyVHGTKLr1RhpqnhRFTbpyT5BcPpLyXcfec+Gloxv3LITwq+Sia97kBinhBWapl17FIBSJ39IzqxcqTAy/fJGRrtbfp9eaCwNJEx61t9OcPcj9RmCdWMfG5icB3ybYQ6c2/Gsv52eKqk3ZrHVzGMhD3tcGsJQTQReNJIGBLT4AB6o3PtCXAXoS1IabkfRJOwb5vLxxg==;kpwBxJ7TlJZlMvFluFLKGg=="
 ---

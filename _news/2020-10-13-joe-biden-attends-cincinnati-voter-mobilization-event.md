@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Presidential election: Mike Pence to hold Cincinnati rally"
+    excerpt: "Vice President Mike Pence is set to make a campaign stop in Cincinnati on Wednesday for an event at Lunken Airport."
+    publishedDateTime: 2020-10-22T06:43:00Z
+    webUrl: "https://www.cincinnati.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3708424001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3708424001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/09/PPYR/0ea78851-6e13-4da1-8218-e394036a551b-PABEA-090920-PenceVisit07.jpg?auto=webp&crop=2399,1350,x0,y167&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Report: Vice President Mike Pence to visit Tallahassee on Saturday"
     excerpt: "Pence 2020 campaign stop in Tallahassee this Saturday. The news came Friday morning from ABC News, which was on a media call"
     publishedDateTime: 2020-10-19T14:21:00Z
@@ -131,6 +147,38 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Mike Pence in Cincinnati: ‘The road to victory runs right through Ohio’"
+    excerpt: "Less than two weeks from Election Day, Vice President Mike Pence told a raucous crowd at Lunken Airport that Ohio is key to a Republican victory on Nov. 3. “Ohio and America need four more years of President Donald Trump in the White House,"
+    publishedDateTime: 2020-10-22T06:50:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/20/ohio-election-2020-vp-mike-pence-visits-cincinnati-stump-trump/3711735001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3711735001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3711735001"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/PCIN/3daa00f4-7ec1-41f8-a0f1-e13176d7e41f-mike.pence1.jpg?auto=webp&crop=3899,2193,x1,y407&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence To Make Campaign Stop In Pittsburgh"
+    excerpt: "Vice President Mike Pence speaks to supporters during a rally at Weldall Manufacturing on October 13, 2020 in Waukesha, Wisconsin. ( Scott Olson/Getty Images) PITTSBURGH, PA — Vice President ..."
+    publishedDateTime: 2020-10-22T11:53:00Z
+    webUrl: "https://patch.com/pennsylvania/pittsburgh/vice-president-mike-pence-make-campaign-stop-pittsburgh"
+    ampWebUrl: "https://patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/29034204/vice-president-mike-pence-to-make-campaign-stop-in-pittsburgh"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 75
+    images:
+      - url: "https://patch.com/img/cdn20/getty/22920172/20201022/075313/styles/patch_image/public/gettyimages-1280045144___22074708591.jpg?width=984"
+        width: 911
+        height: 683
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z
@@ -144,6 +192,22 @@ related:
     quality: 69
     images:
       - url: "https://kubrick.htvapps.com/vidthumb/0cfc3653-25a7-4a6f-b768-7e34be140483/0cfc3653-25a7-4a6f-b768-7e34be140483_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
+    excerpt: "In yet another confirmation of Ohio's status as an unexpected battleground state, Vice President Mike Pence is returning for a visit Friday afternoon. The appearance at the Toledo Airport comes just two days after he appeared in Cincinnati. It also will ..."
+    publishedDateTime: 2020-10-22T11:01:00Z
+    webUrl: "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
+    ampWebUrl: "https://amp.dispatch.com/amp/3725007001"
+    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3725007001"
+    type: article
+    provider:
+      name: Columbus Dispatch
+      domain: dispatch.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NCOD/46f0cddc-0a11-4474-8fa6-b921fa59ef6b-Mike_Pence_in_Cincy.JPG?auto=webp&crop=3899,2194,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

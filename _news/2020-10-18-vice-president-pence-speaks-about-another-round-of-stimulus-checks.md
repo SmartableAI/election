@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 749
         isCached: true
+  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
+    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
+    publishedDateTime: 2020-10-22T10:05:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Pence speaks at Reading Regional Airport"
     excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
     publishedDateTime: 2020-10-18T01:33:00Z

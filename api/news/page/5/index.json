@@ -2,6 +2,336 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-19-thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany.md",
+      "title": "‘Thousands upon thousands’ of Trump supporters greet president in California: McEnany",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qcf1o3RKkNA/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Qcf1o3RKkNA/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/thousands-upon-thousands-of-trump-supporters-greet-president-in-california-mcenany.amp",
+      "publishedDateTime": "2020-10-18T22:43:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-john-fogerty-demands-the-president-stop-using-his-music-donald-trump-is-the-fortunate-son.md",
+      "title": "John Fogerty demands the president stop using his music: Donald Trump IS the ‘fortunate son’",
+      "excerpt": "The rock legend tweets about his cease-and-desist order against President Trump, who regularly plays the classic Creedence Clearwater Revival anti-war",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672?mod=home-page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-246451/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/john-fogerty-demands-the-president-stop-using-his-music-trump-is-the-fortunate-son-11603071672",
+      "publishedDateTime": "2020-10-18T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-kirstie-alley-responds-to-nasty-people-criticizing-her-decision-to-vote-again-for-donald-trump.md",
+      "title": "Kirstie Alley responds to 'nasty people' criticizing her decision to vote again for Donald Trump",
+      "excerpt": "Actress Kirstie Alley is standing up for her decision to vote for President Donald Trump. The \"Cheers\" actress faced \"nasty\" backlash online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/18/kirstie-alley-donald-trump-support-nasty-critics-twitter/3706149001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/18/USAT/f2a21d0b-8395-4ade-a00c-0d9b30914ae7-GTY_1017791726.JPG?auto=webp&crop=3853,2168,x0,y1000&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3706149001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3706149001",
+      "publishedDateTime": "2020-10-18T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-gives-offering-while-attending-church-services-in-las-vegas.md",
+      "title": "Trump gives offering while attending Church services in Las Vegas",
+      "excerpt": "As the collection was being taken up, Trump reached into his back pocket a pulled out a number of $20 bills, which he later deposited into a bucket that was being passed around.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7X4zWZh-wu4/trump-gives-offering-while-attending-church-services-in-las-vegas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7X4zWZh-wu4/trump-gives-offering-while-attending-church-services-in-las-vegas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-gives-offering-while-attending-church-services-in-las-vegas.amp",
+      "publishedDateTime": "2020-10-18T17:06:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-jim-carrey-spoofs-joe-biden-town-hall-with-mr-rogers-comparison-on-snl.md",
+      "title": "Jim Carrey spoofs Joe Biden town hall with Mr. Rogers comparison on 'SNL'",
+      "excerpt": "Jim Carrey's Joe Biden put on a sweater and sang the classic Mr. Rogers theme song during the spoof of his town hall",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl",
+      "originalUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jim-Carrey-Joe-Biden-Mr.-Rogers.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jim-carrey-joe-biden-town-hall-mr-rogers-comparison-snl.amp",
+      "publishedDateTime": "2020-10-18T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-biden-campaign-manager-urges-supporters-to-campaign-like-were-trailing.md",
+      "title": "Biden campaign manager urges supporters to ‘campaign like we’re trailing’",
+      "excerpt": "In a memo obtained by NBC News, former Vice President Joe Biden’s campaign manager warned about complacency. Biden spoke to supporters at a drive-in rally in North Carolina.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/biden-campaign-manager-urges-supporters-to-campaign-like-we-re-trailing-94105157774",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/j/MSNBC/Components/Video/202010/nn_avi_biden_on_the_trail_201018_1920x1080.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo94105157774",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94105157774",
+      "publishedDateTime": "2020-10-18T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-mike-pence-americans-deserve-4-more-years-of-a-president-who-keeps-his-promises.md",
       "title": "Mike Pence: Americans Deserve 4 More Years of a President Who Keeps His Promises",
       "excerpt": "Kamala Harris and Vice President Mike Pence, to speak directly to Utahns and the nation in this forum. To read exclusive commentary by Sen. Harris, click here. As I arrive in the great state of Utah to debate Joe Biden’s running mate,",
@@ -901,7 +1231,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1530,
+      "heat": 1550,
       "tags": null,
       "images": [
         {
@@ -998,322 +1328,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-officials-in-scotland-approve-another-trump-golf-course.md",
-      "title": "Officials in Scotland approve another Trump golf course",
-      "excerpt": "Authorities in Scotland have approved plans by President Donald Trump’s family business to build a second golf course in Aberdeenshire, despite campaigning from environmental activists",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/site/ABCNews_flat_black.png",
-          "width": 834,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305",
-      "publishedDateTime": "2020-10-17T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-a-georgia-state-lawmaker-crowdsurfed-over-maskless-attendees-at-a-georgia-trump-rally.md",
-      "title": "A Georgia state lawmaker crowdsurfed over maskless attendees at a Georgia Trump rally",
-      "excerpt": "Vernon Jones, a Black Democratic lawmaker who has endorsed President Trump for reelection, defied health guidelines with the stunt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
-      "originalUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8afdf99e9fe40019009ee6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/georgia-lawmaker-crowd-surfs-over-maskless-trump-supporters-at-rally-2020-10?amp",
-      "publishedDateTime": "2020-10-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-bidens-non-answer-answer-on-police-and-court-packing.md",
-      "title": "Biden's non-answer answer on police and 'court-packing'",
-      "excerpt": "While we seem to be left with two Biden non-answers, Biden’s non-answer on America’s system of justice gives us his implicit answer on packing the court. The key to that answer lies in Biden’s most important political audience — the left.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
-      "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe6_09292020getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp",
-      "publishedDateTime": "2020-10-17T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-not-going-to-waste-a-single-minute-on-tweets-gop-sen-sasse-pushes-back-after-trump-attacks.md",
-      "title": "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks",
-      "excerpt": "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3693805001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001",
-      "publishedDateTime": "2020-10-17T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-keeps-chipping-away-at-obamacare-with-only-weeks-until-the-election-and-a-supreme-court-hearing.md",
-      "title": "Trump keeps chipping away at Obamacare with only weeks until the election -- and a Supreme Court hearing",
-      "excerpt": "The Trump administration has taken a step to weaken the Affordable Care Act in a key battleground state, with only weeks to go until Election Day as well as Supreme Court arguments that could determine the landmark law's future.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BX10t0iauOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201016161329-obamacare-sign-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
-      "publishedDateTime": "2020-10-17T08:00:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-joked-that-hell-find-a-way-to-fire-florida-gov-ron-desantis-if-he-loses-the-state-in-november.md",
-      "title": "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November",
-      "excerpt": "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
-      "originalUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp",
-      "publishedDateTime": "2020-10-17T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

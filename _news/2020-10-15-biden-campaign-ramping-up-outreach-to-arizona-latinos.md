@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ramping-up-outreach-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ramping-up-outreach-to-arizona-latinos.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://images.wsj.net/im-245257/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Biden's Amtrak trips prompt House Republican scrutiny on costs, impact on railroad operations"
+    excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-republican-scrutiny-on-costs-impact-on-railroad-operations"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "YdXu/AF+jwryMWbY/CNp5bts/00204zOe3mzaBDwN+nIDEolEQCCAEeDmnXXa+xplRnsmw/NudWa9AbZzRtVb6COxzhLOOIVJ5h8EmXlwp66uL4y0XFNesKfC59nQGl7LLAfZVsgEMJDw3vP0IudmJHCxEek3N3AFqM7ZhRMZVkoo4xkT7x9PeL3IMcQZesG7wRT8qLe2xIHMrp+GTvfTFlXHXWxxoSzoFab+/PvQ9sjsX4z0BDEHUMZcQ6ruQ3MEVNGQ+VQ9DDrGOjSmChRqammLBrUiJEg+LoDQ6nl354/GkOHhemh1cptc1+AuI4AyNwxwU5NDFKgb0nvMBFr3VVxO5yoxXzEcWKawOcSSkU=;pyiezdiYhYNHQeYe86y6vw=="

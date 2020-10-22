@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
+    excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
+    publishedDateTime: 2020-10-22T07:39:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/christians-vote-trump-faith-leaders-surround-him-column/5984383002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5984383002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984383002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/c5f96609-ba4c-4d45-8d44-5cd061817507-AP_Election_2020_Pence_wave.jpg?auto=webp&crop=5482,3084,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ZdUXL/T+62H+qXDTHS4kSqLw5qy1VnYG5Kv3BJgyULQturuw0CaxZ3Q+UgAnBsfRCuXAU+prDchy3zjcuI5GV8MUpGwB/LBPuwTLc4fqCFN8382fSt/tl5xX6z7Hz3BpS/mUY3Xb5U3f7xUQUaGk+s3j1vROkg2Tu70pEbkJUIqIpOSmru6p3LogQFdSNBFpMa0QJ5VcIK1MpATz6RRnffpMdZxC9l2PNlUXzZ700qcUpwYfWZIATr6ZwPdB145NXmLpB6Ortx5g71IEkz1NgNzHIdXh/xJ5+hswSl98IuiDgibfZLuZjxmKbDYpm1XgGGWwKcwOuLzf1oDbpbIzqcvSDiom7AOTPPtqZbk7D53V6Z25fKj7dn2acPFmwr9u4eaLBmjECuRXKqPvtcFnUSCgVcV1vAzEjlhiYYKN2cYsz5hPeu7sjVPMQvIBKeN5rUlPOmOUeKBYn/j900CV9d6NzCtkXXR6lsGqXTxvubbxRMJdSlpUQUG5hkRN6xduRmqmsVOCrG3H1b0LcB968A==;p9YYvCE+OO+CYkK55gkz6g=="
 ---

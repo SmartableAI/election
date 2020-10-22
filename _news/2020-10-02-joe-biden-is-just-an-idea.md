@@ -732,6 +732,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The final Trump, Biden presidential debate: What to know"
+    excerpt: "The presidential debate on Thursday will give voters their final opportunity to compare President Trump and Democratic nominee Joe Biden side-by-side during an event that represents an opportunity for Trump and a potential pitfall for Biden in a race that polls indicate Biden is leading significantly"
+    publishedDateTime: 2020-10-22T10:49:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K20TIlelzjA/trump-biden-what-to-know-about-the-final-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-what-to-know-about-the-final-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-what-to-know-about-the-final-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
     excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
     publishedDateTime: 2020-09-30T10:38:45Z

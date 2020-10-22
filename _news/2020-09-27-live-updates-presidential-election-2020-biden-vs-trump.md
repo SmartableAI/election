@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3405
+heat: 3425
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 205
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c7f3aac-3deb-420d-81f8-2770ac684543/75a7591d-1b5d-4d4d-b157-f8bc6aab4269/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump, Biden to meet in final presidential debate before election"
+    excerpt: "The new debate format follows the first presidential debate, which was marred by Trump speaking over Democratic nominee Joe Biden and insulting his intelligence while Biden told Trump to “shut up” and called him a “clown.”"
+    publishedDateTime: 2020-10-22T07:37:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nUW9gf7Pwvo/live-updates-trump-biden-to-square-off-in-final-presdiential-debate-election"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-to-square-off-in-final-presdiential-debate-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-to-square-off-in-final-presdiential-debate-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 201
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/667bdc72-7e39-43da-a35c-42b1672e6a72/8a511d93-df6b-40f2-bc9c-4073271781ee/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

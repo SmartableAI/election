@@ -956,6 +956,20 @@ related:
         width: 750
         height: 562
         isCached: true
+  - title: "Replay: Obama Campaigns For Joe Biden In Philadelphia"
+    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
+    publishedDateTime: 2020-10-22T06:48:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
+        isCached: true
   - title: "Joe Biden was not asked any questions about Hunter Biden's emails during ABC town hall"
     excerpt: "Former Vice President Joe Biden was not asked one question in a Thursday night town hall about a highly publicized news story involving his son Hunter’s business dealings in Ukraine."
     publishedDateTime: 2020-10-16T02:27:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-afte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
 type: article
 quality: 175
-heat: 855
+heat: 875
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Hunter biz partner confirms e-mail, details Joe Biden’s push to make millions from China: Goodwin"
+    excerpt: "Wait until Scranton hears about this. One of Joe Biden’s ways of contrasting himself with President Trump has been to declare the election a battle of Park Avenue values vs. Scranton, Pa., values."
+    publishedDateTime: 2020-10-22T04:44:00Z
+    webUrl: "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/"
+    ampWebUrl: "https://nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/hunter-biz-partner-confirms-e-mail-details-joe-bidens-push-to-make-millions-from-china/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 122
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/biden-china-nypost-cover.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Miranda Devine: Joe Biden campaign aided by social media censorship of NY Post report on son Hunter"
     excerpt: "In case there was any doubt that Facebook and Twitter are corruptly partisan, the social-media giants censored The New York Post’s story Wednesday on Hunter Biden’s e-mails suggesting he took cash for access to his ¬father,"

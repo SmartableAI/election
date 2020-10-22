@@ -767,6 +767,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Face to face: Trump, Biden to meet for final debate"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden are set to square off in their final debate Thursday"
+    publishedDateTime: 2020-10-22T03:14:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/face-face-trump-biden-meet-final-debate-73749912"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/face-face-trump-biden-meet-final-debate-73749912"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/face-face-trump-biden-meet-final-debate-73749912"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_9acd0561bbac4fc2b7863720edba65a8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How to watch the final 2020 presidential debate between Trump and Biden"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden will share the same debate stage for the last time on Thursday evening."
+    publishedDateTime: 2020-10-22T06:42:00Z
+    webUrl: "https://www.businessinsider.com/how-to-watch-final-02020-presidential-debate-biden-trump-livestream-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/how-to-watch-final-02020-presidential-debate-biden-trump-livestream-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-watch-final-02020-presidential-debate-biden-trump-livestream-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 140
+    images:
+      - url: "https://i.insider.com/5f90604f212113001873fec8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Huckabee Urges Trump To Stop Focusing On Hunter Biden"
     excerpt: "\"Forget about all the distractions of everything except one thing: Remind the American people that it is their lives that are really on the mark right now.\""
     publishedDateTime: 2020-10-21T17:08:00Z
@@ -924,6 +956,22 @@ related:
     quality: 137
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/e5c5e019-0aac-446d-80d4-79f63e86b62d-Debate-recap-topper_promo_copy.jpg?auto=webp&crop=2025,1139,x612,y1361&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How to watch the last presidential debate between Joe Biden and Donald Trump"
+    excerpt: "The first debate was combative. The second debate was cancelled. Now, the final debate between Trump and Biden is finally here."
+    publishedDateTime: 2020-10-22T10:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-how-watch-showdown-between-trump-and-biden/3721531001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3721531001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3721531001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/2d9681d7-b115-4529-ab47-c73281618b0b-AFP_AFP_8TK9Z3.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -1995,17 +2043,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Face to face: Trump, Biden to meet for final debate"
-    excerpt: "President Donald Trump and Democratic challenger Joe Biden are set to square off in their final debate Thursday, one of the last high-profile opportunities for the trailing incumbent to change the trajectory of an increasingly contentious campaign."
-    publishedDateTime: 2020-10-22T00:16:00Z
-    webUrl: "https://www.businessinsider.com/face-to-face-trump-biden-to-meet-for-final-debate-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/face-to-face-trump-biden-to-meet-for-final-debate-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/face-to-face-trump-biden-to-meet-for-final-debate-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
@@ -3022,21 +3059,37 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Face to face: Trump and Biden to meet for final debate"
+  - title: "Face to face: President Trump and Joe Biden to meet for final debate"
     excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, are set to square off in their final debate Thursday, one of the last high-profile opportunities for the trailing incumbent to change the trajectory of an increasingly contentious campaign."
-    publishedDateTime: 2020-10-22T01:29:00Z
-    webUrl: "https://www.chron.com/news/article/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    publishedDateTime: 2020-10-22T08:24:00Z
+    webUrl: "https://www.clickorlando.com/news/politics/2020/10/22/face-to-face-trump-and-biden-to-meet-for-final-debate/"
+    ampWebUrl: "https://www.clickorlando.com/news/politics/2020/10/22/face-to-face-trump-and-biden-to-meet-for-final-debate/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2020/10/22/face-to-face-trump-and-biden-to-meet-for-final-debate/?outputType=amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Click Orlando
+      domain: clickorlando.com
     quality: 90
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
+      - url: "https://www.clickorlando.com/resizer/18BAYHR5l8OCVvUrUAzoAVjOTvw=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/PAXUSMLDLJA63FGZOXV4ECKF44.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hot topics: After chaotic debate, President Trump, Joe Biden try again"
+    excerpt: "After meeting in perhaps the most cacophonous debate in modern history, President Donald Trump and his Democratic rival, Joe Biden, will take the stage Thursday to try again."
+    publishedDateTime: 2020-10-22T05:02:00Z
+    webUrl: "https://www.clickorlando.com/news/politics/2020/10/22/viewers-guide-after-chaotic-debate-trump-biden-try-again/"
+    ampWebUrl: "https://www.clickorlando.com/news/politics/2020/10/22/viewers-guide-after-chaotic-debate-trump-biden-try-again/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2020/10/22/viewers-guide-after-chaotic-debate-trump-biden-try-again/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 90
+    images:
+      - url: "https://www.clickorlando.com/resizer/YPLArIomi4h75z-9qUShCk5lt60=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/6XQDLIRDKBHDTIDG4GJNKRE52I.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "In pitch for Biden, Obama urges voters to vote Trump out"
     excerpt: "With less than two weeks until Election Day, Obama delivered a sweeping condemnation of Trump while urging Black men, progressives and other voters not to sit out the Nov. 3 election. “This election requires every single one of us to do our part."
@@ -3925,6 +3978,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Face to Face: Trump and Biden to Meet for Final Debate"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden are set to square off in their final debate Thursday."
+    publishedDateTime: 2020-10-22T04:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/face-to-face-trump-and-biden-to-meet-for-final-debate"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/face-to-face-trump-and-biden-to-meet-for-final-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/face-to-face-trump-and-biden-to-meet-for-final-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "In Rebuke of Trump, Obama Urges Voters to Show up for Biden"
     excerpt: "Former President Barack Obama is blasting President Donald Trump’s handling of the coronavirus pandemic, his response to racial unrest and his fundamental unfitness for the job in his first in-person campaign pitch for Joe Biden."
     publishedDateTime: 2020-10-22T01:07:00Z
@@ -3936,6 +4000,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Trump And Biden To Do Battle In Final Debate"
+    excerpt: "President Donald Trump squares off against Democratic challenger Joe Biden on Thursday in what promises to be a bruising final debate with less than two weeks left in their turbulent fight for the White House."
+    publishedDateTime: 2020-10-22T08:45:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-do-battle-final-debate-3066894"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/us-president-donald-trump-l-and-former-vice.jpg"
+        width: 1024
+        height: 690
+        isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z

@@ -715,6 +715,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump national security adviser says president will respect results of election"
+    excerpt: "Robert O’Brien, President Donald Trump’s national security adviser, said Wednesday that Trump would accept the results of the election if he loses on Nov. 3. I"
+    publishedDateTime: 2020-10-22T02:51:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-obrien-transfer-power-431067"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-obrien-transfer-power-431067"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-obrien-transfer-power-431067"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 146
+    images:
+      - url: "https://static.politico.com/d1/3f/6d7c4d7c4464b31bc530dc45c972/apobrien.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "In North Carolina, Biden slams Trump for Covid 'lie,' warns 'things are getting worse'"
     excerpt: "Joe Biden lambasted President Donald Trump for his \"lies\" about the state of the Covid-19 pandemic during a campaign stop in Durham, North Carolina on Sunday. Biden highlighted increasing case counts,"
     publishedDateTime: 2020-10-18T19:35:00Z

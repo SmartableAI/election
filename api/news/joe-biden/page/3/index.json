@@ -2,6 +2,115 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-09-30-snl-is-back-this-weekend-with-jim-carrey-as-joe-biden-chris-rock-as-host-and-a-whole-lot-of-restrictions-heres-what-to-expect.md",
+      "title": "SNL is back this weekend with Jim Carrey as Joe Biden, Chris Rock as host and a whole lot of restrictions. Here’s what to expect.",
+      "excerpt": "Live\" will return for its 46th season with more Alec Baldwin as Trump, Maya Rudolph as Kamala Harris and three new cast members.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
+      "originalUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5YMXTXXAE5AYZDIB7AP26UBZAU.JPG&w=1440",
+          "width": 1440,
+          "height": 1240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/arts-entertainment/2020/09/30/saturday-night-live-coronavirus-shows/?outputType=amp",
+      "publishedDateTime": "2020-09-30T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-09-30-biden-hes-the-racist.md",
+      "title": "Biden: 'He's the racist'",
+      "excerpt": "During the first presidential debate, President Donald Trump claimed he ended racial sensitivity training because it was \"racist\" and Joe Biden responded that Trump is the racist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
+      "originalUrl": "https://www.nbcnews.com/video/biden-he-s-the-racist-92828741868",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202009/biden_trump_racist.nbcnews-fp-1200-630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo92828741868",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo92828741868",
+      "publishedDateTime": "2020-09-29T23:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-30-joe-scarborough-urges-biden-do-not-do-anymore-debates.md",
       "title": "Joe Scarborough urges Biden: 'Do not do anymore debates'",
       "excerpt": "MSNBC's Joe Scarborough called on Joe Biden to \"not do anymore debates,\" tweeting that the first showdown between the current president and the former vice president was \"a disgrace.\"",
@@ -1461,115 +1570,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-pelosi-wont-rule-out-new-impeachment-to-delay-scotus-vote-if-biden-wins.md",
-      "title": "Pelosi won't rule out new impeachment to delay SCOTUS vote if Biden wins",
-      "excerpt": "\"Well, we have our options,\" Pelosi told ABC's \"This Week.\" \"We have arrows in our quiver that I’m not about to discuss right now.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568",
-      "originalUrl": "https://www.nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_38/3413482/200920-nancy-pelosi-jm-1004_6b21c48e95f8662c4ac1a999feb91c40.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1240568",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1240568",
-      "publishedDateTime": "2020-09-20T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-20-joe-biden-headed-to-manitowoc-monday-for-second-wisconsin-visit.md",
-      "title": "Joe Biden headed to Manitowoc Monday for second Wisconsin visit",
-      "excerpt": "Joe Biden’s campaign announced Sunday that the Democratic presidential nominee would be campaigning in Manitowoc, a city of about 32,000 about 80 miles north of Milwaukee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/7KN6ALZjhRV7F00K3ELugGBCmio=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/56ARINV5NBFBRB6OWNFZDGUDME.aspx",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-joe-biden-wisconsin-visit-20200920-63chvaaa45ettkmmoctiq6w3uq-story.html?outputType=amp",
-      "publishedDateTime": "2020-09-20T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

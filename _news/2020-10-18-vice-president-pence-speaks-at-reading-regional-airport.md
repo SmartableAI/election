@@ -89,6 +89,22 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Here's what Vice President Mike Pence might talk about during Fort Wayne campaign stop"
+    excerpt: "Vice President Mike Pence will stump for President Donald Trump in Indiana Thursday at the Fort Wayne Aero Center."
+    publishedDateTime: 2020-10-22T10:05:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/22/vice-president-mike-pence-campaign-fort-wayne-indiana-thursday/6006586002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6006586002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6006586002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 67
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5"
     excerpt: "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,"
     publishedDateTime: 2020-10-22T03:44:00Z

@@ -180,6 +180,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Former President Barack Obama To Campaign For Joe Biden In Miami on Saturday"
+    excerpt: "Former President Barack Obama is coming to town Saturday to campaign for his former VP Joe BidenPlexiglass dividers were seen being put into place ahead of tonight's debate between President Trump and former Vice President Joe Biden."
+    publishedDateTime: 2020-10-22T11:41:00Z
+    webUrl: "https://miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/"
+    ampWebUrl: "https://miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4810811-former-president-barack-obama-to-campaign-for-joe-biden-in-miami-on-saturday/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 52
   - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
     excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
     publishedDateTime: 2020-10-16T13:14:00Z
@@ -194,6 +205,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
+    excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
+    publishedDateTime: 2020-10-22T08:50:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/10/21/former-president-barack-obama-speaks-at-socially-distant-rally-at-south-philadelphia-sports-complex-for-joe-biden/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 47
   - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
     publishedDateTime: 2020-10-16T13:13:00Z

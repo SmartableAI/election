@@ -2,6 +2,274 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-donald-trump-says-he-may-change-personality-if-he-wins-being-politically-correct-takes-time.md",
+      "title": "Donald Trump Says He May Change Personality If He Wins: 'Being Politically Correct Takes Time'",
+      "excerpt": "The president said he could change his behavior in a second term, suggesting time constraints in his first had shaped his actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
+      "originalUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1656907/trump.jpg",
+          "width": 2500,
+          "height": 1639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
+      "publishedDateTime": "2020-10-22T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-presidential-debate-trump-history-shows-kristen-welker-has-her-work-cut-out-for-her.md",
+      "title": "Presidential debate: Trump history shows Kristen Welker has her work cut out for her",
+      "excerpt": "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8d742268-bae4-414c-98ce-7376ea3bcff5-XXX_NUP_189887_0045_dcb.JPG?auto=webp&crop=6191,3482,x0,y314&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3718392001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718392001",
+      "publishedDateTime": "2020-10-22T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.md",
+      "title": "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations",
+      "excerpt": "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
+      "publishedDateTime": "2020-10-22T02:09:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.md",
+      "title": "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'",
+      "excerpt": "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp",
+      "publishedDateTime": "2020-10-21T23:52:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-latest-trump-abruptly-ends-60-minutes-interview.md",
+      "title": "The Latest: Trump abruptly ends '60 Minutes' interview",
+      "excerpt": "President Donald Trump on Tuesday abruptly ended an interview with CBS’ “60 Minutes” that is set to air this Sunday",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_4f10d43eec564a0eabbb3fb9f0919b8c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "publishedDateTime": "2020-10-21T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
       "title": "Gallery: Pence visits the Granite State",
       "excerpt": "Visit the post for more.",
@@ -1023,7 +1291,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1064,267 +1332,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-maryland-man-charged-with-threatening-biden-harris-in-letter-on-supporters-doorstep.md",
-      "title": "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep",
-      "excerpt": "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
-      "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2762NM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM",
-      "publishedDateTime": "2020-10-21T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-does-appearing-at-trump-rallies-help-martha-mcsally-in-arizonas-us-senate-race.md",
-      "title": "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?",
-      "excerpt": "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 140,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/5996029002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002",
-      "publishedDateTime": "2020-10-21T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-trump-jobs-boom-is-a-convenient-myth.md",
-      "title": "The Trump ‘Jobs Boom’ Is a Convenient Myth",
-      "excerpt": "Covid economy, but unemployment declined steadily starting in 2010.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "originalUrl": "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-247630?width=620&size=1.5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821",
-      "publishedDateTime": "2020-10-21T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-trump-wants-to-cut-democrat-cities-covid-fundingduring-a-surge-in-cases.md",
-      "title": "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases",
-      "excerpt": "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases",
-      "originalUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/5f9041e5936b35581b460cdf/master/pass/Trump10.21.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp",
-      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp",
-      "publishedDateTime": "2020-10-21T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanity Fair",
-        "domain": "vanityfair.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-meadows-says-trump-tweets-to-declassify-russia-probe-docs-were-not-direct-orders.md",
-      "title": "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders",
-      "excerpt": "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp",
-      "publishedDateTime": "2020-10-21T07:48:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

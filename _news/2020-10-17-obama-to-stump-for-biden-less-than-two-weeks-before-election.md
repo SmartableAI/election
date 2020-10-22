@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1530
+heat: 1550
 published: true
 
 provider:
@@ -935,6 +935,20 @@ related:
     excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
     publishedDateTime: 2020-10-21T21:21:00Z
     webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/524812.jpg"
+        width: 750
+        height: 562
+        isCached: true
+  - title: "Replay: Obama Campaigns For Joe Biden In Philadelphia"
+    excerpt: "Former President Barack Obama campaigned Tuesday for Joe Biden at a Philadelphia GOTV event. \"I am so confident in Joe Biden and Kamala Harris surrounding themselves with people who are serious, who know what they're doing,"
+    publishedDateTime: 2020-10-22T06:48:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/watch_live_obama_campaigns_for_joe_biden_in_philadelphia.html#!"
     type: article
     provider:
       name: RealClearPolitics

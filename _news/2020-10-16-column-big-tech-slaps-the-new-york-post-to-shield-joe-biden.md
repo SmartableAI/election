@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-yo
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -138,6 +138,15 @@ related:
         width: 3543
         height: 2364
         isCached: true
+  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
+    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
+    publishedDateTime: 2020-10-22T09:43:00Z
+    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
+    type: article
+    provider:
+      name: CNSNews.com
+      domain: cnsnews.com
+    quality: 23
 
 secured: "XEAy2KnQhZJUfFXfAQVXAiehcMmfaFHWhPbzm6d6jXuFWaFJZf+vsQjGIpHx9aYNFJkQX2B4DirQiwO0wPnLKG+DNWSsDX/rhojdNY6y+nXCBrXt1RWh2iY6Wve2cvC+2ACNzkLKge/LsuqZzS3LxGmv9IDQfjV1Q5KSCXB2xH+YaTPepPEyVXJeZGNi7u0tG3wkAYSTX0Dqzj5YWyJg6ljntDViJ33/iS7NJVxEIRQyeSL6OXYajJuhi51XD1LDGAb/AhazBM/yWOVFM4f7gs9pphKLEfyUzYSAH4JgX71o0fEcjXqx0IO5fKC1tInXykHudy7+uV0fE2fu/hQMHVAizSAlZJktcU3C6IffkZs=;J77rxGZvo3EiauyrpEq2bg=="
 ---

@@ -93,6 +93,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump seeds the ground for possible loss with personal attacks"
+    excerpt: "It’s a change from 2016, where Trump presented himself as an outsider eager to disrupt the entire establishment. Now, he’s the president."
+    publishedDateTime: 2020-10-22T08:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/trump-attacks-election-431051"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/10/7c/3ed4f2a444579dbeb55d41268dd6/201021-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Trump Campaign Is Mysteriously Sending Money Back and Forth to State Parties"
+    excerpt: "The president, like Joe Biden, is taking advantage of loopholes in campaign finance laws to score huge checks. From there, however, the money trail gets bizarre."
+    publishedDateTime: 2020-10-22T09:02:00Z
+    webUrl: "https://www.thedailybeast.com/the-trump-campaign-is-mysteriously-sending-money-back-and-forth-to-state-parties"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 40
   - title: "Trump Said He'd Ban Foreign Lobbyist Fundraising. Now They’re Bankrolling His Campaign."
     excerpt: "Lobbyists representing foreign governments have bundled nearly 2 million dollars for the president’s re-elect."
     publishedDateTime: 2020-10-20T08:42:00Z

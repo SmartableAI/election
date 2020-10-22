@@ -159,6 +159,38 @@ related:
         width: 1199
         height: 675
         isCached: true
+  - title: "Viewers' Guide: After chaotic debate, Trump, Biden try again"
+    excerpt: "After meeting in perhaps the most cacophonous debate in modern history, President Donald Trump and his Democratic rival, Joe Biden, will take the stage Thursday to try again"
+    publishedDateTime: 2020-10-22T10:42:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/viewers-guide-chaotic-debate-trump-biden-73756252"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/viewers-guide-chaotic-debate-trump-biden-73756252"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/viewers-guide-chaotic-debate-trump-biden-73756252"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_fbc97af7cd974c3f9862e996fe31178f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
+    excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
+    publishedDateTime: 2020-10-22T06:50:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-idUSKBN2750L5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750L5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750L5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538249929&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K042"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
     excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
     publishedDateTime: 2020-10-22T00:28:00Z
@@ -415,6 +447,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden Corruption and the Thursday Debate | Opinion"
+    excerpt: "We have a scandal involving Vice President Joe Biden, his brothers and his son dealing with China, Russia, Ukraine, Romania, Kazakhstan, Oman and possibly other foreign influence buyers."
+    publishedDateTime: 2020-10-21T19:14:00Z
+    webUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101"
+    ampWebUrl: "https://www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-corruption-thursday-debate-opinion-1541101?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1656418/bidens.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "If Trump wins, here are the states that will deliver him the victory"
     excerpt: "Over 41 million early and mail votes have already been cast and Trump is lagging in four swing states that are critical to his reelection chances."
     publishedDateTime: 2020-10-21T22:07:00Z
@@ -478,6 +526,22 @@ related:
       - url: "https://i.insider.com/5f8e27adc21cfb0019468eba?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "\"60 Minutes\" preview: Biden plans commission to study Supreme Court; Trump wants U.S. \"to get back to normal\""
+    excerpt: "The separate interviews on CBS News' \"60 Minutes\" are set to air Sunday – just nine days before the U.S. election."
+    publishedDateTime: 2020-10-22T11:16:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-60-minutes-biden-supreme-court/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/22/b42ef257-1a7e-4996-a3e3-b1323f2ef66c/thumbnail/1200x630/821cd8fe35737239e88b468fad9722e8/bidentrump-new.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Trump-Biden town halls, Amy Coney Barrett hearings, Medicare open enrollment begins: 5 things to know Thursday"
     excerpt: "NBC and ABC host dueling town halls with Trump and Biden, final day of hearings in Amy Coney Barrett's nomination and more things to know Thursday."
@@ -723,6 +787,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How the Trump Campaign is Trying to Suppress the Black Vote"
+    excerpt: "Trump has a tendency to say the quiet part out loud, but in Wilmington, he was practically shouting that not all votes are created equal. And in North Carolina in particular, that means one thing: suppress Black voters."
+    publishedDateTime: 2020-10-22T11:42:00Z
+    webUrl: "https://time.com/5902729/black-voter-suppression-2020/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2020/10/black-voter-suppression-2020.jpg"
+        width: 2400
+        height: 1482
+        isCached: true
   - title: "How Trump And The GOP Moved $8.1 Million Of Donor Money Into The President’s Business"
     excerpt: "Donald Trump hasn’t donated a dollar to his own reelection effort, but his businesses have managed to take in millions from others."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -855,6 +933,22 @@ related:
       - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Mitt-Romney-1200x681.jpg"
         width: 1200
         height: 681
+        isCached: true
+  - title: "Obama blasts Trump during rally for Joe Biden in Philadelphia"
+    excerpt: "Barack Obama blasted President Trump's handling of the coronavirus pandemic, his response to racial unrest and his fundamental unfitness for the job during a rally in Philadelphia."
+    publishedDateTime: 2020-10-22T06:45:00Z
+    webUrl: "https://abc7ny.com/politics/obama-to-hold-drive-in-rally-for-biden-in-philly-today/7217787/"
+    ampWebUrl: "https://abc7ny.com/amp/barack-obama-philadelphia-citizens-bank-park-rally-in-philly-drive-in/7217787/"
+    cdnAmpWebUrl: "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/barack-obama-philadelphia-citizens-bank-park-rally-in-philly-drive-in/7217787/"
+    type: article
+    provider:
+      name: abc7NY
+      domain: abc7ny.com
+    quality: 90
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7231118_102120-wpvi-obama-philly-11pm-CC-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Tommy Lee Threatens To Leave US If Donald Trump Wins 2020 Presidential Election"
     excerpt: "While some people are still deciding how they will vote, Tommy Lee is already planning on how he will deal with the results of the US presidential election. In a recent interview, Lee opened up about his feelings regarding the commander in chief and why he may be relocating to another country if Donald Trump beats out Democrat presidential nominee Joe Biden."
@@ -1217,6 +1311,17 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "What To Expect At Thursday Night's Debate Between President Trump and Former VP Joe Biden"
+    excerpt: "Plexiglass dividers were seen being put into place ahead of tonight's debate between President Trump and former Vice President Joe Biden. Also keeping the two separate—a mute button that will give each candidate 2 uninterrupted minutes to speak at the start of each topic."
+    publishedDateTime: 2020-10-22T11:40:00Z
+    webUrl: "https://miami.cbslocal.com/video/4810810-what-to-expect-at-thursday-nights-debate-between-president-trump-and-former-vp-joe-biden/"
+    ampWebUrl: "https://miami.cbslocal.com/video/4810810-what-to-expect-at-thursday-nights-debate-between-president-trump-and-former-vp-joe-biden/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4810810-what-to-expect-at-thursday-nights-debate-between-president-trump-and-former-vp-joe-biden/amp/"
+    type: article
+    provider:
+      name: CBS Miami
+      domain: cbslocal.com
+    quality: 61
   - title: "Ice Cube Offers Explanation For Working With The Trump Administration"
     excerpt: "With the 2020 election season in its final days, Ice Cube created a political stir online yesterday. A large section of the Twitterverse was shocked to learn that the N.W.A. member has been working with the Republican Donald Trump Administration."
     publishedDateTime: 2020-10-15T09:44:00Z
@@ -1392,6 +1497,34 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/a/d7/ad7f1080-1180-11eb-8b8e-f385863a0ff6/5f8ca5c0e104f.image.jpg?resize=946%2C630"
         width: 946
         height: 630
+        isCached: true
+  - title: "A Look At Donald Trump's Record On Auto Jobs"
+    excerpt: "Trump railed against free trade agreements and boasted he would be able to strong-arm Detroit's \"Big Three\" to shift jobs from Mexico to the United States. But did he make good on those promises? The trend in US auto employment has mirrored the larger dynamic in manufacturing jobs,"
+    publishedDateTime: 2020-10-22T03:23:00Z
+    webUrl: "https://www.ibtimes.com/look-donald-trumps-record-auto-jobs-3066528"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/21/us-president-donald-trump-met-with-general-motors.jpg"
+        width: 1024
+        height: 730
+        isCached: true
+  - title: "What it Means to Vote for Joe Biden"
+    excerpt: "One of your neighbors posted in Politics & Government. Click through to read what they have to say. (The views expressed in this post are the author’s own.)"
+    publishedDateTime: 2020-10-22T09:57:00Z
+    webUrl: "https://patch.com/florida/palmharbor/what-it-means-vote-joe-biden"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 55
+    images:
+      - url: "https://patch.com/img/cdn20/users/583297/20201020/111417/styles/patch_image/public/voting___20110535314.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "U.S. Sen. James Lankford: Donald Trump is the better presidential candidate to manage foreign affairs and the military"
     excerpt: "President Trump’s unorthodox style and willingness to ask the questions no one is supposed to ask has made the diplomatic corps cringe, Lankford writes. But, it has also made the"

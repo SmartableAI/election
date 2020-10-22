@@ -188,6 +188,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, Biden traveling to Tennessee for final presidential debate showdown"
+    excerpt: "President Trump and Democratic rival Joe Biden are preparing to face off for the second and final debate on Thursday night in Tennesee with the November election just 12 days away."
+    publishedDateTime: 2020-10-22T11:48:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Zy9-lYIGcgw/trump-biden-nashville-tennessee-final-presidential-debate-on-the-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-nashville-tennessee-final-presidential-debate-on-the-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-nashville-tennessee-final-presidential-debate-on-the-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/biden-trump-split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
     excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
     publishedDateTime: 2020-10-15T11:35:00Z
@@ -694,6 +710,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "David Bossie: Biden must answer these questions at presidential debate with Trump"
+    excerpt: "Thursday night’s final debate between President Trump and former Vice President Joe Biden is certain to be a historic event."
+    publishedDateTime: 2020-10-22T11:05:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-trump-presidential-debate-david-bossie"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-presidential-debate-david-bossie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-presidential-debate-david-bossie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Brian Arbour: Everybody likes Joe Biden – here's why that's very bad news for Trump"
     excerpt: "Everybody likes Joe. Well, not everybody. Our most recent Fox News poll shows that 41% of those surveyed have an unfavorable impression of Democratic presidential nominee Joe Biden. But more crucially,"
     publishedDateTime: 2020-10-20T19:53:00Z
@@ -790,6 +822,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Why Biden stays quiet as Trump slams Lesley Stahl and other targets"
+    excerpt: "The Biden campaign declared a lid at 10:41 a.m. yesterday--telling reporters that no more news would be made that day. There have been a lot of early lids lately. The former VP has been off the trail for several days as he prepares for tonight’s second and final debate against President Trump,"
+    publishedDateTime: 2020-10-22T07:19:00Z
+    webUrl: "https://www.foxnews.com/media/why-biden-stays-quiet-as-trump-slams-lesley-stahl-and-other-targets"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11598c90-e6f7-4df5-8671-3a8bf384c4e9/d5a8c37d-61c8-4a04-acfe-10c423f7a4ad/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
     excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."
     publishedDateTime: 2020-10-21T02:18:00Z
@@ -883,6 +929,6 @@ related:
         height: 500
         isCached: true
 
-secured: "lX/VjHbFXP9HsreLt5heREpW7rGwqEfIAFDoheDHmPBc2+iLJFIiY94J0xQYLlUMaunO+1yXMJuu0QXEQ+9/YgaQR5bkNWuPB4xqoTt6bRaYVr5O9EVhi1tZIxnBPA7CGizLn+MsQPWgbK/3JbTWp6rv/izBC+o/sYC0NWyxc7E17CvHWi1GKvTeLjTWDP7meEyOchA6wlRS7iPf4Y/JN2Dh32hlvax+6YsRXn1gPL+y3f+mgDxbQTBOiWJZwE7sYaQFWTEH1s0+Sl0l/hIdlaAQotFfIkeMu1TXstWlMcQRhzb9IPU/00HAotjuVeFGaZS2F6FPihcR8HtvTODLMPPcV9ckk/KU5uHiq672eMg=;vs75FHSbtZZ0O+KzkUYyeA=="
+secured: "fKaQ44U6DbXIEyxg2EZ5FknQYIhDGgDgkxMaizSGci7wNmQRcK9UUSH3qDG2ZZrRc02T023CefIudzRrH2wXon8BGa0oWClVD/SsJlLeiTeMJ/gIh+yqI+UQtsTmMHj/3J8uB4yElHoE8slFxKWDjMR66YfhXvi3rbE4QnX64chcIO5ls+99Q9jho5+uTzQ+fKAMtAoHGBjqjMTXKM4ujgbZd9MTzBgyi2oqla65ufz4bRRPjf2vMH1ptTI5ZIN+NCSq259Db/mgYsQYSzMH42PXgc3FlRBBSwqCwofdDfeDHO12+yFKH72+Gv5nqQdGTQVYCVSpqzU6pRV8PI9P7a57fqhiux5aiU2diHnzDOCjZzz4FLSyGpdquH+qGAkaDMwdBwe2yu9cLe0ota4ZgdupHYWEyTS2dQ58f5gDh/uM8uZJsdqTFqZ/MRBlAEuVlV9oR2ySpBRCBAk/kYAqvencZNTph6/OcE7zfeDcoxnS5I2+rKLlBRIYBd7t4UW/Oi2m3pMA383caQYEfrS4ww==;6RLm0roTxPUZ5WAeb62ZDQ=="
 ---
 

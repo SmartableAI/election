@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-donald-trump-says-he-may-change-personality-if-he-wins-being-politically-correct-takes-time.md",
+      "title": "Donald Trump Says He May Change Personality If He Wins: 'Being Politically Correct Takes Time'",
+      "excerpt": "The president said he could change his behavior in a second term, suggesting time constraints in his first had shaped his actions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
+      "originalUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1656907/trump.jpg",
+          "width": 2500,
+          "height": 1639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-personality-politically-correct-1541236?amp=1",
+      "publishedDateTime": "2020-10-22T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-presidential-debate-trump-history-shows-kristen-welker-has-her-work-cut-out-for-her.md",
+      "title": "Presidential debate: Trump history shows Kristen Welker has her work cut out for her",
+      "excerpt": "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8d742268-bae4-414c-98ce-7376ea3bcff5-XXX_NUP_189887_0045_dcb.JPG?auto=webp&crop=6191,3482,x0,y314&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3718392001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718392001",
+      "publishedDateTime": "2020-10-22T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-latest-trump-abruptly-ends-60-minutes-interview.md",
+      "title": "The Latest: Trump abruptly ends '60 Minutes' interview",
+      "excerpt": "President Donald Trump on Tuesday abruptly ended an interview with CBS’ “60 Minutes” that is set to air this Sunday",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_4f10d43eec564a0eabbb3fb9f0919b8c_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "publishedDateTime": "2020-10-21T23:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-trump-grants-clemency-to-five-backed-by-ally-alice-johnson.md",
       "title": "Trump grants clemency to five backed by ally Alice Johnson",
       "excerpt": "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson.",
@@ -314,7 +470,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1942,
+      "heat": 2122,
       "tags": null,
       "images": [
         {
@@ -626,7 +782,7 @@
       "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2020/10/20/president-trump-rips-media-targets-chris-wallace-lesley-stahl/5998605002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1152,7 +1308,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1406,158 +1562,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
-      "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
-      "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3702824001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001",
-      "publishedDateTime": "2020-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-tells-campaign-staff-were-going-to-win-calls-fauci-a-disaster.md",
-      "title": "Trump tells campaign staff ‘we’re going to win’, calls Fauci a ‘disaster’",
-      "excerpt": "President Trump told campaign staff “we’re going to win this race” in a rouse-the-troops phone call Monday morning where said he would have up to five rallies",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
-      "originalUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-staff-win.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
-      "publishedDateTime": "2020-10-19T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sen-cory-gardner-tied-to-president-trumps-vindictive-base-faces-conundrum-in-colorado.md",
-      "title": "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado",
-      "excerpt": "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PFTC/271b51e9-c3fa-4b03-8386-6fdcd3e33fc6-101320_GardnerHickenlooperDebate_15_bb.jpg?auto=webp&crop=3299,1856,x0,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3711527001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711527001",
-      "publishedDateTime": "2020-10-19T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

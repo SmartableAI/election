@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10360
+heat: 10380
 published: true
 
 provider:
@@ -573,6 +573,22 @@ related:
     quality: 149
     images:
       - url: "https://i.insider.com/5f8da1fe9e9fe4001900a0d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "'Tweeting at the television doesn't fix things': Obama digs into Trump at a drive-in rally for Joe Biden and Kamala Harris"
+    excerpt: "Former President Barack Obama excoriated President Donald Trump at a Wednesday rally for Biden, accusing the incumbent of \"unpresidential behavior.\""
+    publishedDateTime: 2020-10-22T11:08:00Z
+    webUrl: "https://www.businessinsider.com/obama-attacks-trump-drive-in-rally-joe-biden-kamala-harris-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/obama-attacks-trump-drive-in-rally-joe-biden-kamala-harris-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/obama-attacks-trump-drive-in-rally-joe-biden-kamala-harris-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 149
+    images:
+      - url: "https://i.insider.com/5f36ba46e89ebf001f044a33?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

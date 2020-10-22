@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama delivers scathing rebuke of Trump before final debate"
+    excerpt: "Barack Obama, in a moment of catharsis that doubled as a warning against Democratic complacency, blasted President Donald Trump in a speech dripping with ridicule ahead of Thursday's crucial debate -- perhaps the President's last chance to turn around his campaign.\n    \n"
+    publishedDateTime: 2020-10-22T05:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/STLfRRr35mA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/election-2020-donald-trump-barack-obama-joe-biden-swing-states/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/election-2020-donald-trump-barack-obama-joe-biden-swing-states/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200218073745-obama-trump-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "There's no one left to rein in Trump's reckless rally strategy as virus rages"
     excerpt: "The last time coronavirus cases were surging in the United States, President Donald Trump pressed his advisers to allow him back on the trail and in front of the massive rally crowds he believes are his political lifeline.\n    \n"
     publishedDateTime: 2020-10-20T01:23:50Z

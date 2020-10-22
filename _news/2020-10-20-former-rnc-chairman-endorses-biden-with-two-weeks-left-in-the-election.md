@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -505,6 +505,15 @@ related:
     excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
     publishedDateTime: 2020-10-15T13:00:00Z
     webUrl: "https://www.thedailybeast.com/fox-news-owner-rupert-murdoch-predicts-a-landslide-win-for-biden"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
+  - title: "Attacks on Hunter Biden Draw Attention to Another Deadly Pandemic"
+    excerpt: "We would hope that they recognize that until COVID arrived, the only national health crisis was around substance use disorders,” said one addiction treatment advocate."
+    publishedDateTime: 2020-10-22T09:07:00Z
+    webUrl: "https://www.thedailybeast.com/attacks-on-hunter-biden-draw-attention-to-another-deadly-pandemic"
     type: article
     provider:
       name: The Daily Beast

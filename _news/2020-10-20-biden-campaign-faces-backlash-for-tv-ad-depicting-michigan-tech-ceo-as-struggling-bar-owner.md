@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-ad-michigan-tech-ceo-struggling-bar-owner.amp"
 type: article
 quality: 165
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,33 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Live: Joe Biden Delivers Remarks On Health Care In Michigan"
-    excerpt: "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care."
-    publishedDateTime: 2020-10-16T15:47:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html"
+  - title: "Biden faces backlash for saying 'America was an idea' that 'we've never lived up to'"
+    excerpt: "Joe Biden was facing intense backlash Wednesday night for referring to America as an \"idea\" that \"we've never lived up to.\""
+    publishedDateTime: 2020-10-22T06:52:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8dr8oiN-7Vg/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-faces-backlash-for-saying-america-was-an-idea-that-weve-never-lived-up-to.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
     images:
-      - url: "https://assets.realclear.com/images/52/524025.jpg"
-        width: 1102
-        height: 826
-        isCached: true
-  - title: "Replay: Joe Biden Delivers Remarks On Health Care In Michigan (2:30 p.m.)"
-    excerpt: "Democratic nominee Joe Biden will make a campaign stop in Southfield, Michigan on Friday afternoon to deliver remarks on expanding access to health care."
-    publishedDateTime: 2020-10-17T01:35:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/16/watch_live_biden_delivers_remarks_on_health_care_in_michigan.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 64
-    images:
-      - url: "https://assets.realclear.com/images/52/524025.jpg"
-        width: 1102
-        height: 826
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f93da98f-cf85-410a-865f-986bff199415/14f02d01-20fb-42ab-be54-7fb6e3dfe8d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "PdrU1ZCjXQcjCRnTQNBMZxLxE6vv18nex2QxG8u9KGdWTcVoAo7EwiT0pS4aAYRwAssIIkbxx0Wp7b05YGmXOer8yNFiJapuXScnEuG0JkAENXhZgsjZvBo9sAzAk4x2bsvMKgvx5BTJIop560vUVvKtmuTsYt/HIoGjOgiwnH5LuzBYkWn7moXOISlfqk0yDxjKmf6w7XQ1sMY7YdHrjM5peywB2VqkQ/t7OqX6keJHVcxzDX6Viw47id9vV7qCk+HvLczozFJC3l0fJqh3LPtStGwtxWtUWgel7PJEbJ0WkNfDzOVxYTfJsBqQZxnJVTUnl5nF2qzBhMX5cFgvsf8nYm4b3/DdtLhliwJ9e0A=;A3Dky5VECFEWkQuvvrRItQ=="

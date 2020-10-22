@@ -510,6 +510,15 @@ related:
       name: The Daily Beast
       domain: thedailybeast.com
     quality: 45
+  - title: "Attacks on Hunter Biden Draw Attention to Another Deadly Pandemic"
+    excerpt: "We would hope that they recognize that until COVID arrived, the only national health crisis was around substance use disorders,” said one addiction treatment advocate."
+    publishedDateTime: 2020-10-22T09:07:00Z
+    webUrl: "https://www.thedailybeast.com/attacks-on-hunter-biden-draw-attention-to-another-deadly-pandemic"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
   - title: "There’s a Corrupt Presidential Offspring in This Race All Right. Her Name Isn’t Hunter Biden."
     excerpt: "As the right races manically to pin whatever it can on Joe Biden’s son, let’s not forget who’s actually made millions while in the White House."
     publishedDateTime: 2020-10-20T08:57:00Z

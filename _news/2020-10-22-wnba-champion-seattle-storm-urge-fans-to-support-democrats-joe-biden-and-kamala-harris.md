@@ -2,22 +2,23 @@
 category: news
 title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
 excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-publishedDateTime: 2020-10-22T02:21:00Z
-originalUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
+publishedDateTime: 2020-10-22T02:35:00Z
+originalUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+ampWebUrl: "https://amp.freep.com/amp/3722503001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
 type: article
-quality: 82
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
+  - Joe Biden
   - Kamala Harris
 
 images:
@@ -375,6 +376,22 @@ related:
       name: Time
       domain: time.com
     quality: 83
+  - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Charlotte Observer"
+    excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
+    publishedDateTime: 2020-10-22T03:59:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 82
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
     excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
     publishedDateTime: 2020-10-14T21:00:00Z
@@ -532,22 +549,6 @@ related:
     quality: 74
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/1e75b5e3-b357-4b02-8c76-a940b6dc3e9c/8a3b25d6-86ec-4b3d-b6ba-d26038094981/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Charlotte Observer"
-    excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
-    publishedDateTime: 2020-10-22T03:59:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246610668.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 72
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -902,6 +903,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "wOy+gPcjtU2eMu+dhu/t0amyVOK2KLjdPFsb6MQCqAB4qoAhWxbbMJxBDEJyjToNeoJWpptCowoHIjhZEHQuDv0lH8RREMWb2OQ5pnFuMasiDeWTgzRmWSVjHmAN2nDNIicOYCp0B4+h6kxKRD7bYWiJexqeXl2SnyeHLd6FOaUlB2Nk+/cyuZtI8IZILoEE11IrsgmQfdP2CWEgoHm3LgcJVgM3ilJW9UO8cCp5Yj8ux3ArwPNz5TfJrTb4juChsTgg1bFgFiRqh7vE3KVSC0N+4Pv1moN9tntLCXFQLNAjN7r5C+uyXor1Y1F0c3DhEUIbEkoJiUkaWCNOSYMe7O96A53V+nk+5DoB3x1Tpas=;7QSEyAv1pA1ZUf74pK5QAw=="
+secured: "ur++Okuqg8DSL5URwZFqNuM17S/0SO2pvAWpBM7M+dg10m7WqhlvKq/e95mt/RcRO2XAmFYARwuDSWOqP99UOrQsfeleLK0rsqNjRJSbPtmUPm0Hs3ayf9wrAjP1Rp2zfWMuAkieri0xoE2j37HRuKe7aHKfpOsBeWcRWn1Lh9wJp9JiucZgRptVYT1pPswTxCGAZktBxmhuIjg2ezKKAN6odFCoXCNJOpel4cV0Nv1bnW+joUWFvAT7c3lyCb8PsP7JQ483tJ0ZdBw1THHE5dF1cBiUJtO4zkDKHLfXQtHeYaM1bOSQxbk11JqUlUE35FoQuvaw37DriUCM0e77pUSenX288e/ZN+5o7lWV+rk=;IkSIP63jA3xYFGiurjVYIQ=="
 ---
 

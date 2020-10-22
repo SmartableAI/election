@@ -8,7 +8,7 @@ webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246
 ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
 cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
 type: article
-quality: 72
+quality: 82
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Election
   - Kamala Harris
+  - Joe Biden
 
 images:
   - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
@@ -350,6 +351,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
+    excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
+    publishedDateTime: 2020-10-22T02:35:00Z
+    webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+    ampWebUrl: "https://amp.freep.com/amp/3722503001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 92
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
     excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"
     publishedDateTime: 2020-10-21T19:06:00Z
@@ -375,22 +392,6 @@ related:
       name: Time
       domain: time.com
     quality: 83
-  - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
-    excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-    publishedDateTime: 2020-10-22T02:21:00Z
-    webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 82
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
     excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
     publishedDateTime: 2020-10-14T21:00:00Z
@@ -902,6 +903,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "3mQqNJPm0oQQeXD/Gycd0H7FzwzUGH6cRNz6NGV9FKgoOdlIGC9VmV+WvqGYnG4savP+Nc/T9B3tMbxq4SEaKccQFy73dThpSBA9j8YPuYHHwhdd/tXQs8NAHRdAoWO8nislXbTXt0srcgvJ2kw2eMe2BMzfzU2AIOjifdWBOjZsw0Tqe5IgSLy8OR6F+E3xaiK5AdU/ZoB6bDzOiRkFJ83VdTNKvSt0Q08jCZ+oFnpkKVh3gYl4vwtqieYbcM56dWL1B6WIjkSw+KaXDJHn+9p4hf7mgxLTHSxQswMTfLir4KY1rf8iAge2t6tiIf79abqSwyz5/G2FQSt51A6uaL26FaPF8YknGqlK5JOtcS0=;wWAcBIejYLVIEVX3YetwdQ=="
+secured: "Dds1XbJOnOkyXlXkKduFByYB46CwfZtOvZ7bj8GzN/X/lkpqxQuVGaqmJZ9irx26czf8O4OP4sly17UpzkU4+E0fou1xzRztizETrrOCd35+UiqqHOZk5rBe88p2t61SC3TQcjzSUL3wVfEqBVoL4GPWiE07p+dQEhvu6klrKsuZKuSaNiLVz1WRewHewaleOanQi6DE5GQJLu+akiTQdCzSjpU4TYJmrFFddWjzgCcQ3b/GdN3uSiHL2U03tO/iYhRzMdEWrdKk8L/s+GfJhi8gqjt21dtyqFXC3rdDGohvgO+W4t3ymWJZVRtEm5KSKqXYzQgznbwfGEQiXgoIPQN9DAsrnyNOK3Pkw8tbReThzQpA/dY0MFaya1KPHEAEshrqGuXUCyc4j62ZiyT+9DJcFgT0P8ArCQsUIq8tuR5pLoznocB01+PKMF46tE86PdtsODt3IYFncZrNezTHSRa1Q5CPSL3xMKScN2E7HYVyafldcz+0BxVzIJhwl+lXHIGGJr+/gjKVnV0UFTElwA==;jtEzO4PDoQbfEMc/5zR6iQ=="
 ---
 

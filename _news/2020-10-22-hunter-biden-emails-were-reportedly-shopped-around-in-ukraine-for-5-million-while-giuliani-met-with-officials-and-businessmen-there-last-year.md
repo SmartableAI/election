@@ -47,7 +47,23 @@ related:
         width: 733
         height: 366
         isCached: true
+  - title: "Hannity Says Americans Should ‘Demand a Full Physical and Cognitive Assessment’ of Joe Biden"
+    excerpt: "Sean Hannity said Wednesday night that Joe Biden should undergo a \"full physical and cognitive assessment,\" raising questions about his cognitive abilities ahead of the final presidential de"
+    publishedDateTime: 2020-10-22T01:52:00Z
+    webUrl: "https://www.mediaite.com/tv/hannity-says-americans-should-demand-a-full-physical-and-cognitive-assessment-of-joe-biden/"
+    ampWebUrl: "https://www.mediaite.com/tv/hannity-says-americans-should-demand-a-full-physical-and-cognitive-assessment-of-joe-biden/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/hannity-says-americans-should-demand-a-full-physical-and-cognitive-assessment-of-joe-biden/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 64
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/hannity-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "Ek9bD92vzpOQxaVTCPentZUVuJJU0mMXo+bemlNK/pz+LusMZ9PVfmNWq+x/XpvJx2+Sdt/ZzmK8kpIj1Am3StH6plceJOQbfhEU0QaShyFfRpAu9oxrh/bJdATkL4U0H4pMt0EAE6yU5CFpZ8Sv3J0gIJK0HCYgNIbJY9iWoqiGTNxpkQ1Vhu9J4SHGByhSAHmdtmmCRO37FLUflzH8HFpaCL32r4XMvMRlw6IhaXSG80JrgAgA9QSkdqtiHpCJL7sIYqzpI5iwtz9qnIoPK3gpQfSCPZJQrhx+T/uH6LGTr4NeVlU7k1XhFIJnoJkQ37GwIfXJrMuY+4CH7MAu5hSuT291M+n5hCzIgmT2e4Q=;t3a5MYc/iZZN0TOgW0RrHg=="
+secured: "ZkvXnxnnYDDeGTZ4nTCdaztnjgWhnsIRMfdUTgZtWvqiRt7PLb7TLcAwPf0JXTDPiubetYEyDpRVaItjJ9x7F6Y83bPdKCEJxVH0v1p7FNiNJjquMNzG2crc2vErNyhqJ1wbCfD9PIXykR1ceywIdO0WnHksIErodvq9zBjI0PXrvIL9BhzZIMHJoxJsfEWUEIza8eq0vbaLK8e+PJ5TdAy9Mwd0hN+p6AsaIW6E8/hJ5QRGFOrn/dC4we21d8LONNvmZgX9XF5RsNtsPCa6C3evlpIMS6PBaqo9k2h/6XPOv21WnzkfO8qupmQ54xdBeSFA6ObbM6OHfjmu2QAMs2aE5CxzklMVLMSkV6Yti+dO8BcsAsAJGlQa8d1RRoLXX/TIIs7kcFFOEHteiBn4kkYR5FovtiBAIU5W+Si48l0/ghPbVUXFboostIJM+w1+V44/I346q6GSyZyIdTNNLr+GSJIyNAfQdS1T0vjS/OfBNYjP1k4Fth+YKEfqCDAzJvaXzrOPveob2GjI8dapbg==;iz/nqFMMN9ZKCU9W9PYhNA=="
 ---
 

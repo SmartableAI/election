@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5921390002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002"
 type: article
 quality: 121
-heat: 141
+heat: 161
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
+    excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
+    publishedDateTime: 2020-10-22T07:39:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/christians-vote-trump-faith-leaders-surround-him-column/5984383002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5984383002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984383002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/c5f96609-ba4c-4d45-8d44-5cd061817507-AP_Election_2020_Pence_wave.jpg?auto=webp&crop=5482,3084,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
     excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
     publishedDateTime: 2020-10-20T23:30:00Z
