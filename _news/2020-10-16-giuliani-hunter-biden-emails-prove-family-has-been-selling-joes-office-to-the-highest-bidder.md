@@ -319,6 +319,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hunter Biden business associate's text messages indicate meeting with Joe Biden"
+    excerpt: "EXCLUSIVE: Text messages obtained by Fox News show the CEO of a Jim and Hunter Biden joint venture with a Chinese energy firm discussing a meeting with Joe Biden in May 2017, despite past claims from the former vice president that he did not talk about his son's business dealings."
+    publishedDateTime: 2020-10-22T18:34:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nZUreaZYU6A/hunter-biden-business-associate-text-messages-joe-biden-meeting"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-associate-text-messages-joe-biden-meeting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-associate-text-messages-joe-biden-meeting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Graham predicts Biden will 'do whatever he is told by the left' on court-packing"
     excerpt: "The backlash against Sen. Dianne Feinstein, D-Calif., over her kind words for Senate Judiciary Committee Chairman Lindsey Graham following Judge Amy Coney Barrett's Supreme Court confirmation hearing shows the left has “taken over the Democratic Party,” Graham told “Fox & Friends\" Friday."
     publishedDateTime: 2020-10-16T20:05:56Z

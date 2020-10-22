@@ -428,6 +428,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "First lady Melania Trump back to traveling after coronavirus diagnosis"
+    excerpt: "First lady Melania Trump made her first public appearance since her coronavirus diagnosis on Thursday while traveling to Tennessee with President Trump for the final presidential debate."
+    publishedDateTime: 2020-10-22T19:14:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-TM3sBnacc/melania-trump-coronavirus-first-lady-debate-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-coronavirus-first-lady-debate-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-coronavirus-first-lady-debate-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/melania-donald-trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McConnell refocuses on Trump's judicial nominees as coronavirus talks stall"
     excerpt: "Senate Majority Leader Mitch McConnell, R-Ky., has turned the Senate's gaze to confirming judicial nominees as talks about a fifth coronavirus stimulus package have stalled."
     publishedDateTime: 2020-09-18T16:10:23Z

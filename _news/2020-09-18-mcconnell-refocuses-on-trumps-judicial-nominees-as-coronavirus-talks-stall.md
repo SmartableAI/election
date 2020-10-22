@@ -431,6 +431,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "First lady Melania Trump back to traveling after coronavirus diagnosis"
+    excerpt: "First lady Melania Trump made her first public appearance since her coronavirus diagnosis on Thursday while traveling to Tennessee with President Trump for the final presidential debate."
+    publishedDateTime: 2020-10-22T19:14:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-TM3sBnacc/melania-trump-coronavirus-first-lady-debate-travel"
+    ampWebUrl: "https://www.foxnews.com/politics/melania-trump-coronavirus-first-lady-debate-travel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/melania-trump-coronavirus-first-lady-debate-travel.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/melania-donald-trump.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "WV official corrects Trump's ballot-selling mailman story, says 'election will be safe, secure and fair'"
     excerpt: "West Virginia's Republican Secretary of State Mac Warner clarified a false claim made by President Trump during Tuesday night's debate about a mailman who sold ballots, saying that the incident never happened and \"voters should be confident that this election will be safe, secure, and fair.\""
     publishedDateTime: 2020-10-01T19:26:59Z

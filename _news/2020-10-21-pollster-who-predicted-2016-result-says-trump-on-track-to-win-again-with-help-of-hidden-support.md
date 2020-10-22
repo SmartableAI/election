@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
-    excerpt: ""
-    publishedDateTime: 2020-10-21T00:46:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9jTEfWRWh8/trump-campaign-spanish-language-ad-por-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "nmZYEZPqHBmWWGQ3yLZOXkgkGuPl2Fsq2GErh4sjkFVMZbeUnigk7rnxL9sdLu3FV7h0N2OPGQB4Cf0T765GNdnHnmsFOEbTkeDsXCS0X/XWr2wyGdJtVUS9+paurw5Bszck6pOuyh5tiuKcRUvXdJcVdnYCorfHplpPfEwPJTyUNMrZRU21RLBF6GTsBuD3Xg3nRZfXguYBcv7MUCuL0NSctuDtw8WForfEmAadmomsi5fNLTlWA+G4x+CXGBak43AUEpVQN+sgKKjT9wVRt/IVipedB5Qx+uh6+1SJgYqEJoadbOcmu6PcpW/dk/tB8N2yPf2hiIqw6afHTDKId9okxLcNY8rON15/qkcf8oE=;geBW2pVeqcz62THOfSCpdg=="
 ---

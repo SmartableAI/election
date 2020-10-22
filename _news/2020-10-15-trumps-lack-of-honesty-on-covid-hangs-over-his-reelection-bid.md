@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 2090
+heat: 2110
 published: true
 
 provider:
@@ -1377,6 +1377,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/5e/d6/57869b9c4c39aa021efc2f0f8b18/200915-john-ratcliffe-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The Fear Behind Donald Trump’s Obsession with Immunity"
+    excerpt: "President Donald Trump removes his mask upon return to the White House from Walter Reed National Military Medical Center on Oct. 5, 2020. | Win McNamee/ Donald Trump has been talking a lot of late about immunity."
+    publishedDateTime: 2020-10-22T19:12:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/22/fear-donald-trump-obsession-immunity-430928"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/79/90/90a7115d4bb5854038db7f5798cf/trump-immunity-773.jpg"
         width: 1160
         height: 773
         isCached: true

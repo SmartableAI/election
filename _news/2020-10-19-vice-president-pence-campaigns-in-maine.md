@@ -326,19 +326,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence campaigns on administration's record during Waterford visit"
+    excerpt: "Vice President Mike Pence made a campaign stop Thursday in Michigan, one of 2020's battleground states this election for a Make America Great Again! event in Waterford Township. During his stop, the VP said Michigan voters were part of a movement that elected Donald Trump president in 2016 and encouraged voters to do the same in 2020."
+    publishedDateTime: 2020-10-22T18:12:00Z
+    webUrl: "https://www.fox2detroit.com/news/vice-president-mike-pence-campaigns-on-administrations-record-during-waterford-visit"
+    ampWebUrl: "https://www.fox2detroit.com/news/vice-president-mike-pence-campaigns-on-administrations-record-during-waterford-visit.amp"
+    cdnAmpWebUrl: "https://www-fox2detroit-com.cdn.ampproject.org/c/s/www.fox2detroit.com/news/vice-president-mike-pence-campaigns-on-administrations-record-during-waterford-visit.amp"
+    type: article
+    provider:
+      name: WJBK
+      domain: fox2detroit.com
+    quality: 48
   - title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
     webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
     type: article
     provider:
       name: C-SPAN

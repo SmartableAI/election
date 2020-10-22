@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Rep. Paul Gosar calls for defunding NPR over lack of Hunter Biden laptop coverage"
+    excerpt: "Rep. Paul Gosar, R-Ariz., called for defunding NPR after the outlet said it would not cover the Hunter Biden laptop story because it was a waste of time."
+    publishedDateTime: 2020-10-22T18:47:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mp3BtkTZcpU/paul-gosar-defunding-npr-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/paul-gosar-defunding-npr-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paul-gosar-defunding-npr-hunter-biden-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-NPR.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Sen. Hawley demands answers from Facebook for ‘censoring a news report’ on Hunter Biden"
     excerpt: "Sen. Josh Hawley, R-Mo., is demanding to know why Facebook is “censoring a news report” on Hunter Biden after the platform admitted it was limiting distribution of the story until independent fact-checkers could verify its accuracy."
     publishedDateTime: 2020-10-14T18:53:19Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "NYC, Seattle and Portland sue Trump over 'anarchist' designation"
+    excerpt: "New York and its fellow cities branded anarchist jurisdictions by the Trump administration will file a lawsuit Thursday challenging a move to pull their federal funds. The Justice Department last month slapped the label on New York,"
+    publishedDateTime: 2020-10-22T18:14:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2020/10/22/nyc-seattle-and-portland-sue-trump-over-anarchist-designation-1329484"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/4e/f1/029fed4c408dbb7f628018f16b8b/blas1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "NYC, Seattle and Portland to sue Trump over 'anarchist' designation"
     excerpt: "New York and its fellow cities branded anarchist jurisdictions by the Trump administration will file a lawsuit Thursday challenging a move to pull their federal funds. The Justice Department last month slapped the label on New York,"
     publishedDateTime: 2020-10-22T17:34:00Z

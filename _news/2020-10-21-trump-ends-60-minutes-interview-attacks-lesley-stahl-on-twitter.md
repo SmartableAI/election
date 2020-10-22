@@ -174,6 +174,22 @@ related:
         width: 2500
         height: 1783
         isCached: true
+  - title: "On health care, Trump undercuts himself with '60 Minutes' video"
+    excerpt: "If Dems had scripted Trump's rhetoric on health care for him, it probably wouldn't have been much different from what he told \"60 Minutes.\""
+    publishedDateTime: 2020-10-22T19:08:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/health-care-trump-undercuts-himself-60-minutes-video-ncna1244323"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244323"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244323"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422162/201022-trump-60-minutes-interview-al-1314_005a4a0a10453ec8af3c4527549a3597.JPG"
+        width: 2500
+        height: 1250
+        isCached: true
 
 secured: "yp9BZqH+7z8GIYe/Bh5GXIBRpMEx9Y4EeomFVEtc4UiY7u/bHYODFTxEzkNFcErnuDJ9ChDHMz8j64PP6+E5GLsRRfbC+6nrttop/AfMvN04jAj+P+TIG7vCErels0LXkA5FctvEJgLwQZ0StA2vm91yiJav8bufJv9HagyJTY6M0j2DNELdLWHCf+LePLk0tBTiEqmPRrZEU2ayGWSqWRa2S5PbOmQ7XdnW58/GmRYmoqapNgR8TjEkxJ4moNAhbXO0la4QRdDJLN8m4F5uCuT8SN1bQxxeJWXBAQ+TSFkGKdRtweiUsihj1Lll5Hs298+p2Zs8iVufp7PXCgZysIsX0Y8+tHG1uXGSyrn+15TtpVki2AZMhAJMsvrj63TPzoyYsUSmd+hnQuFMGf988VYkRQPqyNYaXF2WCVEy0Q2uNIoerRuUyYWD+avbpxOuI5hHRMMsHIs4QbF8fXKfHTIOqdIPJR5OXVZe2SQwR90/7fNnjmZ2JrZgvSh18SAMzjINsmya0rpnt4ucM/9MDQ==;EfGdpRPUf3pUKMU+2PV7Fw=="
 ---

@@ -637,6 +637,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Trump And Biden On Global Issues: From Reproductive Rights To Refugees"
+    excerpt: "Here are the positions of the two candidates on issues ranging from the Mexico City policy (involving abortion services) to refugees to membership in the World Health Organization."
+    publishedDateTime: 2020-10-22T18:51:00Z
+    webUrl: "https://www.npr.org/sections/goatsandsoda/2020/10/22/926692628/trump-and-biden-on-global-issues-from-reproductive-rights-to-refugees"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/22/global-aid_wide-575a80bf9d18bd171db381a219a5fecc8d42678a.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Five things to know about Kristen Welker, the moderator of the final presidential debate between Biden and Trump"
     excerpt: "The NBC News journalist, who covers the White House, will be the second Black woman to moderate a debate solo. The first was Carole Simpson in 1992."
     publishedDateTime: 2020-10-21T14:39:00Z
@@ -1639,6 +1653,6 @@ related:
         height: 682
         isCached: true
 
-secured: "imODsOR2LrxZxQUXW+gs2ll4cbZL59XoGyfolhoiRTa4Q1AWrcumeE9aK5GblGeFHK3GB0mVQly9z0iGz+a2s1gS3MsSnRYveAOkockhOmPX3C05XKyH/l5JBoOSEOpniNfJQT2mN4DCpbib305K8sKa3QzrVyObVDMCZeEVa91TjcAiEl8do5esRccpsIYp6AqO5pOo1kNQspD55e/DQ5hz7yydfORqGoXK1YsZdhyYCScivqAqiPL7FaUmy7TSOft8nz51IueWryuJV82W3hox1hXsUyny2LWBsjZipLAAF8hboE7NUNlfoKvUrg7Rx17lfIx52cjkmFti22QiEmjGDzMlk/CvWqqsYzaexDE=;Uei5Ujyg7TqVa/ITb8m9fQ=="
+secured: "KVDKQgmnE9OwEYB1L2bUzrJNY6D8UgVt6XdNVYVIGKoy8MFfL9k80czuknjHzMggvQSnDAEX2H10xSKtS/b+L+GUIVKT+7TAYALaukb4qkDG8PZ1/xzkE6InUuQUKAvLmeAOzMrvTbLIcid/r13cA686ZCWyBv9A94NuusSJLLjefD7hFeVOt2DfGEhfoRcbi1UsSnf2wN23EFYEcEWfiu3zhgJcsFFo5Lal8vABqnqx2HF/KhmyIi5cHWsoD4h9NiUy5sjoJxPS77nNpTc5Q4hBTumciQmo9OJf/8BN39AMN2Ur/i/BVxpdbPLiU/f4BvcPE4Kz1NxhKDZA3RRhaXcP6s76prZuCjmNsVmeDwdTIMA4TxXHrRKwxHLWFat0rTxg/74yt8eS4SNnWZSjTrlRTxWo3sChcv96eIWg6l5HgwWon27xlNN9jc6WJ6x+L868Ot0HQqHErQ5g6Lg1xKTZ0eyyS1faYBFd6U9tpRRcH+pZMgglN+jBMU6OlaOFWOzZKKNVsmLAIgdWhi5O1A==;YnBP22eR/5+j9F9W+FS2Nw=="
 ---
 

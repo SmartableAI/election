@@ -2,105 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-19-texas-gop-sen-cornyn-tries-to-distance-himself-from-trump-says-he-disagrees-with-president-privately.md",
-      "title": "Texas GOP Sen. Cornyn tries to distance himself from Trump, says he disagrees with president 'privately'",
-      "excerpt": "Texas Sen. John Cornyn became the latest GOP senator to distance himself from President Trump this weekend ahead of a surprisingly tight re-election battle.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d525362d-ca07-450b-ad54-963f429c47b4/33964c7c-f88b-4e92-99c6-bb09dd3e26cb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "publishedDateTime": "2020-10-19T11:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-mike-pence-to-return-to-indy-to-vote-early.md",
-      "title": "Mike Pence to return to Indy to vote early",
-      "excerpt": "After canceling an earlier trip, Vice President Mike Pence will come back to Indianapolis to vote early. That's according to his communications director, Katie Mills. Mills released Pence's travel schedule this week on Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "originalUrl": "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WTHR/images/d211e1dc-bb5e-468d-9207-9ec5e8a88223/d211e1dc-bb5e-468d-9207-9ec5e8a88223_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "publishedDateTime": "2020-10-19T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTHR",
-        "domain": "wthr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
       "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
       "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
@@ -747,7 +648,7 @@
       "originalUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1290,6 +1191,114 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-what-does-86-45-mean-trump-campaign-claims-whitmer-is-encouraging-assassination-attempts.md",
+      "title": "What Does ‘86 45’ Mean? Trump Campaign Claims Whitmer Is ‘Encouraging Assassination Attempts’",
+      "excerpt": "Governor Gretchen Whitmer has a small “86 45” sign in her office, and now President Donald Trump’s campaign claims she’s advocating for his assassination. A tweet from the Trump War Room, which is an officially verified account with a bio stating that it is “managed by the #TeamTrump 2020 campaign,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "originalUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/president-donald-trump-pictured-in-the-oval-office.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
+      "publishedDateTime": "2020-10-18T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-dnc-chair-perez-says-dems-take-nothing-for-granted-despite-bidens-lead-in-polls.md",
+      "title": "DNC chair Perez says Dems 'take nothing for granted' despite Biden's lead in polls",
+      "excerpt": "The Biden campaign and DNC are holding a position that no lead is stable or consistent, even if polling has shown otherwise.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/77krYsaull8/dems-take-nothing-granted-despite-bidens-lead-polls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/77krYsaull8/dems-take-nothing-granted-despite-bidens-lead-polls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/6d40902d-AP20202668742629.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
+      "publishedDateTime": "2020-10-18T13:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole"
-    excerpt: "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false."
-    publishedDateTime: 2020-10-20T14:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5921390002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002"
+  - title: "AP Explains: What's next for Trump's Supreme Court nominee"
+    excerpt: "S.C., said in a statement after the Democrats' announcement that Barrett “deserves to be on the Supreme Court and she will be confirmed.\" In a statement Wednesday with Senate Democratic Leader Chuck Schumer,"
+    publishedDateTime: 2020-10-22T18:22:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-explains-supreme-court-nomination-73754471"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-explains-supreme-court-nomination-73754471"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-explains-supreme-court-nomination-73754471"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/NPPP/1185959b-15ea-409c-bdb8-596e01e6c47c-100506_met_trump1of2.jpg.JPG?auto=webp&crop=2399,1350,x0,y71&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_79c51426e4874bda9db129e7fad959d1_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
-    excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
-    publishedDateTime: 2020-10-22T07:39:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/christians-vote-trump-faith-leaders-surround-him-column/5984383002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5984383002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984383002"
+  - title: "As hundreds gather for Women's March to protest Trump and Barrett's nomination, dozens expected to rally in support"
+    excerpt: "Thousands were expected to march Saturday to protest Amy Coney Barrett's nomination to the Supreme Court and galvanize voters ahead of Election Day."
+    publishedDateTime: 2020-10-17T21:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/17/womens-march-2020-protest-trump-amy-coney-barrett-nomination/3693810001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3693810001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693810001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 103
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/c5f96609-ba4c-4d45-8d44-5cd061817507-AP_Election_2020_Pence_wave.jpg?auto=webp&crop=5482,3084,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/9e6406db-0225-4915-8768-061a85d9b01d-002_AP_Womens_March_Washington-2.jpg?auto=webp&crop=5999,3375,x0,y400&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

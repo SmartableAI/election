@@ -8,7 +8,7 @@ webUrl: "https://www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight"
 ampWebUrl: "https://www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/10/22/us/trump-biden-debate-tonight.amp.html"
 type: article
-quality: 141
+quality: 151
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Joe Biden
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://static01.nyt.com/images/2020/10/22/multimedia/22elections-briefing-biden/22elections-briefing-biden-facebookJumbo.jpg"
@@ -562,6 +563,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "IRC3wpS/VORDZ2xJbOnQftnJapGrjJ0d227FqwA5zsqWTuRloWCpC3sPR0LizRfhmUx/ipM2NIMozup781LJUZr8DGbNg7Tq8UzOs4j+4KATty9tWhou3nYFILL6sS5rjNzcU+UxRRJRQBixoWoO0wdmNF4kJ9puEgupEpUNTEZS22gXAimIQdUhRgs/VgUPYY8fzyzBc85u7oxmf41gMc7toZM1Y5hukmyynUxeOAksyKt6GQ47sO5ixVAc8bVG6PVOF+S8bSbIeR4aQhqJ64DsAVO3UwKjajsnU2tgBEqltR4A1y2uCDG9uyvSmA24q36i9z6DoPklyqFJjNcLVDrSvsAk8WfCnKUL7snKQsU=;nOF0EMQOBTYv6OYT8Lda4w=="
+secured: "326RZuWvs0ZLQ15vaB2RFsAxzk5J9puUufN7AmXBPmZWjuHCp/56OFMhL5M36Vm6NMRboYfglI0/pjB6PjIAkulOocIwCkUsDkZAjnUPQ6cdyM3dAajV85iwkj7NG0/Q9SdhlGF5U7xHn1oLNlhl8c2NzrkfHi8PdkL66tdtYULVne22UvYgFQS7hI6r8wPVJqGYBl+J+7y8iEht/agneSW33T5y/khGKOUK1oDEgh3/E0TJkpIEfpsyERSHQT2E21pN31/YXqYlaLYjnLBlGosClgwhUfVUrJSOwb62TLWlthRNzFqU+AKXl5ei8rvd+zfTky5d2eks3Qqgs/X5GEl+nshoc7QG3f0nD2keBcbksJuOSOexBwPHPdapxN2pjc2h5PI/7/Tz6MpWJlpigw8I6AydnSCIw/tSDjCFPNsqcx20n15lkRjChBFtftauRdNNt1H7f8TIFt9T0jZAivIGEzW5hC4PsLSPCMEDg/HKemmIcr4XWxethA6MYimBM1yT2lxhVnrbfQR/W2NCqQ==;+Cw910s+t4eX8J2iYPROyw=="
 ---
 

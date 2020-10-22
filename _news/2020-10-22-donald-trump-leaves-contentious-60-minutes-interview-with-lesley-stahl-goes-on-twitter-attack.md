@@ -2,19 +2,23 @@
 category: news
 title: "Donald Trump leaves contentious '60 Minutes' interview with Lesley Stahl, goes on Twitter attack"
 excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
-publishedDateTime: 2020-10-22T11:37:00Z
-originalUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
-webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
-ampWebUrl: "https://amp.azcentral.com/amp/5998366002"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5998366002"
+publishedDateTime: 2020-10-22T09:19:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5998366002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002"
 type: article
-quality: 62
+quality: 112
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -138,6 +142,6 @@ related:
         height: 3321
         isCached: true
 
-secured: "ym3m8l7fAfnpG4cWNpt5de96tbmLv+c1/IIicjU4ayrfodTtA0cngE5UZQ4xwKe0LwtcespujZPDUikrx29CPu17u7DChVQ+DLYw5Fo2DKZwrzmNRt3K5MkrLvaZYSCl9IKnIo8gXfQtrDI1DruxFNAbtTcAwR9EmqH+Iocb59TlR7ivsKVrVBoj/SlUcsD39MGfiGXolZZFg3nQo4sKQG+nZR9udsM9CobmnNk/THzZvvZ3k4E8mNruB2dXWe2srmWanQ628myZGiJdJ2E2SVlwhzbiORg3o1CsUDMopNyw6hJzQ2x8ZoGEyGNnmhPyQscszdo9U/NnAiXSGDu9zw/8GTNWfWlLAkrrFUeZ62E=;NvyJLLhFjRaP+locjta1gw=="
+secured: "m07/xm43q5HuKaBwgLGtgHQ62Ww/iveS5i91SDu4azjO2KRyVRw3P4+0em3gBoLrTWIrnJxj6ZTMzCZBgTxUXvgWTPmftc38+NT3fwVKk2/jrITDL0oGJn+bRp5/GrvFzIXFv3DAaxN+DIMbYl+hz3xb8cOJBG1ulefd40uJsz38fgNQ9JedkoZEAiOVMHz02RG9/HOOW0/9XDHK7nuEBO031AubXmCN0xASs4yTh4kp8W9hgX0l1YqSV2BkFrtDBa39x5W7bxy4/+vPmL0jvqRYo6xaAUpd0msIKkbTBaVOQvoZ2Uh3fULNHmh/doeaIFCQD85C8WgD513CdrISZxe9cUr9jR/fCWB5Lo7SFdE=;4XNeTXwFXKWLMz5ZrWOCOA=="
 ---
 

@@ -1,15 +1,13 @@
 ---
 category: news
 title: "Biden proposes panel to study reforming 'out of whack' U.S. judiciary"
-excerpt: "Democratic U.S. presidential nominee Joe Biden said that if elected he would put together a bipartisan commission of scholars to examine reforming a federal judiciary he called \"out of whack,\" noting that there are alternatives to consider besides expanding the Supreme"
+excerpt: "U.S. Democratic presidential candidate Joe Biden delivers remarks during a voter mobilization event, at Miramar Regional Park in Miramar, Florida, U.S., October 13, 2020. REUTERS/Tom Bren"
 publishedDateTime: 2020-10-22T14:36:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-biden-court-idUSKBN277238"
-webUrl: "https://www.reuters.com/article/us-usa-election-biden-court-idUSKBN277238"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN277238"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN277238"
+originalUrl: "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238"
+webUrl: "https://www.reuters.com/news/picture/biden-proposes-panel-to-study-reforming-idUSKBN277238"
 type: article
-quality: 125
-heat: 145
+quality: 105
+heat: 125
 published: true
 
 provider:
@@ -25,29 +23,27 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538470114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L175"
-    width: 817
-    height: 545
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538470114&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L175"
+    width: 810
+    height: 540
     isCached: true
 
 related:
-  - title: "Joe Biden Urged To Grant 2.2 Million Deferred Enforced Departure On ‘Day One Of His Presidency’"
-    excerpt: "In a letter shared exclusively with this publication, Democratic presidential nominee Joe Biden is being urged to promise roughly 2.2 million people at risk of future deportation protections to remain in the U."
-    publishedDateTime: 2020-10-16T12:35:00Z
-    webUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/"
-    ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
+  - title: "Honeymoon over? Saudi Arabia-U.S. ties face reset with Biden win"
+    excerpt: "U.S. Democratic presidential candidate Joe Biden speaks during a voter mobilization event at the Michigan State Fairgrounds in Novi, Michigan, October 16, 2020. REUTERS/Tom Brenner/File Ph"
+    publishedDateTime: 2020-10-22T06:24:00Z
+    webUrl: "https://www.reuters.com/news/picture/honeymoon-over-saudi-arabia-us-ties-face-idUSKBN2770LM"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 113
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f88e1ce890b284b1282a55b%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538412905&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L0D4"
+        width: 810
+        height: 540
         isCached: true
 
-secured: "RjHfncKwP4IQOQkIrHApbf7rKdV6Mxc4EMxb/ZCgTGerdK1GUiM906Z+EjYYDq75Q4GpNdQNUlY3u0vTsJlB/21TyCLsCY0LHWG4EiH+LXuvSJFFVmQZIo/BJBmiUlQd/fyL7BPlBZ+9REB1OR70711jajscPviv2OcS50hEhj16qf4qMvpk0wo1lBQ0Cg5M7jnAiSOxU91SHAtSM+d9EoY7SacrilFakK7lZ5E4XIcNcuC+FnJZfhsGm2jNm6Jt+nGCJkEG0Hhv4Z8vmnqz+/UZtuCV3Zpgqy+BNJKyR3pWo0jTgahlnvEVp3OwpNrrGqXjCBHLtsBXC6/LQVsE856wx13kdAr6p/1pl4YhX9w=;SOtrHr+serVCNiS7/+rfMA=="
+secured: "X0+rDN9M6E+gHICqOrh5DPEBUdD2tsRva//nPKhtMHu3tepfxkOMwZ5hnW3rwPrrAAHRsbl3mwD1YG1omt2MQVd/cxCkYSRUcnVvsYY7tlfIf7vWqe16fzLW2k6pQiobBN+alcjkGJ36z7AyTSbaw/sVJQQ8/W3MigjdD2pabWVuZc4wxTaqEVEZYVIQiHTVx37wAcDqotPBscVmOxfN2XrZIQZAogVssma+dikpy9DvFSbZdtzp6a5DYQuE/5VHPYiPjn9vB5MNRgvpda30zfrQR9YsEdHLGAjFeqdDL6BjuLfLe6L9GmJPoNp+28SgtWxtluLOsbeZRWY8zsP41F2QuoCP1tJXDu4LD3mYk3w=;cSbEY4jkkZmFcyr6GNcwGw=="
 ---
 

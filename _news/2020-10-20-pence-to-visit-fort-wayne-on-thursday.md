@@ -137,6 +137,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence will hold rally Saturday in Lakeland"
+    excerpt: "The rally will be the first official campaign event in Polk County for either of the major parties during the 2020 election."
+    publishedDateTime: 2020-10-22T19:43:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/2020/10/22/vice-president-mike-pence-hold-rally-saturday-lakeland-linder-international-airport/3726543001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3726543001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3726543001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Mike Pence to hold 'MAGA' rally Saturday in Lakeland"
     excerpt: "Vice President Mike Pence will hold a \"Make America Great Again\" rally Saturday in Lakeland. The event will be held at 3:30 p.m. at Lakeland Linder International Airport. It will be followed by a second Florida rally at 6:30 p."
     publishedDateTime: 2020-10-22T17:26:00Z

@@ -30,97 +30,85 @@ images:
     isCached: true
 
 related:
-  - title: "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board"
-    excerpt: "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board."
-    publishedDateTime: 2020-10-16T01:14:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp"
+  - title: "Trump’s Mission: Burn it down"
+    excerpt: "Trump can’t beat Biden as Biden is currently defined."
+    publishedDateTime: 2020-10-22T19:39:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ks2EwAeq9BE/trumps-mission-burn-it-down"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-mission-burn-it-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9375a979-3951-45a7-b621-8a930ac310b9/81b3d6f4-fac0-49c0-867d-5701e2cd8c63/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
+    excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
+    publishedDateTime: 2020-10-21T14:48:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXsdBGgFzjI/meadows-trump-tweets-declassify-russia-probe-documents"
+    ampWebUrl: "https://www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-trump-tweets-declassify-russia-probe-documents.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Pelosi says she doesn't want to sweep up 'dumpings of this elephant' after Trump presidency"
-    excerpt: "House Speaker Nancy Pelosi appeared to compare the actions of the Trump administration to elephant dung at the conclusion of a discussion that largely focused on the ongoing negotiations for a new coronavirus relief bill."
-    publishedDateTime: 2020-10-18T16:52:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4kYo-KyfYwU/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-says-she-doesnt-want-to-sweep-up-dumpings-of-this-elephant-after-trump-presidency.amp"
+  - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
+    excerpt: ""
+    publishedDateTime: 2020-10-21T00:46:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9jTEfWRWh8/trump-campaign-spanish-language-ad-por-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Pro-Trump hay bale sculpture crops up after Tennesee man's traditional signs were cut down"
+    excerpt: "Hay is for…campaign signs. At least on one Tennessee man’s property."
+    publishedDateTime: 2020-10-21T00:44:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AxKgxYL8s8g/pro-trump-hay-bale-sculpture-tennesee"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c251c6b9-f9f2-416f-bad6-901654acb68b/68637113-7e51-4b05-97ab-90610f1cd213/1280x720/match/image.jpg"
-        width: 1079
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-2020-Hay-ADRIAN-POWELL-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Pelosi, after a year of not speaking to Trump, says talks don't have to be 'person-to-person'"
-    excerpt: "House Speaker Nancy Pelosi on Friday confirmed that she has not spoken to President Trump for more than a year -- as she negotiates with the White House on a stimulus package through Treasury Secretary Steven Mnuchin."
-    publishedDateTime: 2020-10-17T21:12:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3X2d-1_gcwI/pelosi-trump-talks-person-to-person"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-trump-talks-person-to-person.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-talks-person-to-person.amp"
+  - title: "The Trump ‘Jobs Boom’ Is a Convenient Myth"
+    excerpt: "Covid economy, but unemployment declined steadily starting in 2010."
+    publishedDateTime: 2020-10-21T17:02:00Z
+    webUrl: "https://www.wsj.com/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821"
+    ampWebUrl: "https://www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-trump-jobs-boom-is-a-convenient-myth-11603298821"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c251c6b9-f9f2-416f-bad6-901654acb68b/68637113-7e51-4b05-97ab-90610f1cd213/1280x720/match/image.jpg"
-        width: 1079
-        height: 720
-        isCached: true
-  - title: "Romney rips Trump, Pelosi, Keith Olbermann, says politics now ‘a vile, vituperative, hate-filled morass'"
-    excerpt: "Republican Sen. Mitt Romney of Utah is stressing that the country’s politics has “moved away from the spirited debate to a vile, vituperative, hate-filled morass that is unbecoming of any free nation.”"
-    publishedDateTime: 2020-10-13T16:28:32Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lrNMwgsIMzE/romney-urges-political-leaders-tone-down-hateful-rhetoric"
-    ampWebUrl: "https://www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-urges-political-leaders-tone-down-hateful-rhetoric.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-14-at-1.48.30-PM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McEnany slams Pelosi's push to remove Trump on 25th Amendment"
-    excerpt: "House Speaker Nancy Pelosi is \"projecting\" when it comes to talk of removing President Trump due to his health, White House press secretary Kayleigh McEnany told \"Fox & Friends\" Friday."
-    publishedDateTime: 2020-10-09T15:48:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WW5bdycyAy0/pelosi-trump-25th-amendment-white-house-congress-kayleigh-mcenany"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e1ae883-5f3a-4ee1-a040-836ff1fc032e/562323ac-48aa-4952-9692-711b5c004789/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump hits back at Pelosi's 25th Amendment move, says her real target is 'Sleepy Joe'"
-    excerpt: "The White House pounced on Speaker Nancy Pelosi's 25th Amendment talk Friday, hitting her for her own mental fitness for office and also suggesting she was trying to target Democrat Joe Biden."
-    publishedDateTime: 2020-10-09T16:52:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rGHDYKpM_Ao/trump-pelosis-25th-amendment-move-dem-target-really-sleepy-joe"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 148
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20166815809777.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.wsj.net/im-247630?width=620&size=1.5"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "m5Ckg1tJnA4D9gFdvzxEEmoIspQX8Rhl+HXqlxktOddha9JSCjbbqkw9YvbGjfPuW/Se4PLcI4n4PRBHVlvzYLMcj/g212sUk+ulFuwpZn4cTohvLoZE3Mk5V21+kARN7v1twwomZs/kf7ZD/3Q3WIsTxdCUKVBwePcnyyYUkETlT8gTKAZhO+Y8cp0E+X91852JVtz+CucUiN3j8XC/wbuEJ6YKXpPlVT5s4OuVekq/yKo8tMVdAbZ+AaGtKtQydnZDfGymxLIjYHqN/AKGUqmQ69WHNjcjmAEHAvAgbQUKDC4VimycAA4IvLrtFtY5S+Er+57DJkMYJ5KymoCPofU+HMMcA4SHUon6XT+hYwk=;78ejQxuFE5V1eVpJRShcQw=="

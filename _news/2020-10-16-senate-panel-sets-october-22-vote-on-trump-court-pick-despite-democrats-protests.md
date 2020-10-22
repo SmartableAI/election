@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2701AT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2701AT"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.insider.com/5f8ac006d260780019342001?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump rejoices as Senate panel approves Barrett while Democrats boycott"
+    excerpt: "U.S. Senator Mike Lee (R-UT) speaks with Senate Judiciary Committee Chairman Lindsey Graham (R-SC) at a Senate Judiciary Committee meeting on the nomination of Judge Amy Coney Barrett to be an associ"
+    publishedDateTime: 2020-10-22T18:15:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-rejoices-as-senate-panel-approves-idUSKBN2771B6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538471929&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L17U"
+        width: 810
+        height: 521
         isCached: true
 
 secured: "vNWrSIufRUveg2emx30QgVO99dOMi5zaDL+v7fiJnVjmhxFkO5oyMKP3RglSAPWd4NjuMS1JAFwWmZkLx6gF8SYdBIrt1Zd1ckAd9DHyYoMRVetY4l2AYb2scBpIkBfHl1xQMfnJ2ecP6JTVwtQ6suojraWbTflkDzAL4ItC1mvl5Ga07zHco0zSfEwQkQC0gVKD0hVf4lvp8qh9OPKidJJ1wyoV4ILdt1kheKaF6HdqgXDpMBRD9J0leFHdtZooB2cFypPL67iaPoFTjZ9Sz7kqwRzkW743KdI5xxr9m1jV0O5d+4WRcJ9G4Q1bzhu8jSZdPcoRkmJxwnqvG+JuJGWlOE6Xn4xab4qsnnc+VGU=;Qz38f6WfhWFuL//WJ3V8WQ=="

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fact check: Senate Republicans moving to confirm Trump's Supreme Court nominee but blocked Obama's"
-    excerpt: "A claim addressing the double standard for consideration of the two presidents' Supreme Court nominees was correct on substance, off on timing."
-    publishedDateTime: 2020-10-20T23:30:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-gop-senators-blocked-nomination-merrick-garland-2016/5916555002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5916555002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5916555002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2019/12/17/USAT/304f1850-0bf1-4dd3-8a14-837260789dff-AP_17128533809612.jpg?auto=webp&crop=1701,957,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "sVDTT2X59Oyi/vfS6dg0sORwusI+T/z2aNi7Dz6HBx5By3qQKOR5TaA7LsGXbLcA8yxICFJ6kM1lbWmlYhRXQcRxJy8J4dopjJp2Wn4Z9D/zS7HLbm8HqwqS/vmqvgBc+dKAZF7lDt/xUt9dMCcss+BZi/jlniJ3iF1AYm9blX9Tm/qIjWXqzn/ruJjoPQoRG4o5aauqsIBdMNvQZ+gpMQnwJ3eu8vpO1yVwzcBTcDczU10wkKRch284mncJAhEH5I/UOMhGnTvGDOR5ZjjSyC2Myu07tvZtFcAOcQ/t3tMgFFt3HhwK5mpFIi6FjGhpVtMEXEZCwYTghG46mQ2LyrEfKbBd6ERr9PFOMgWAe0U=;+YbaK+SBtVzGqHPlLiPuCw=="
 ---

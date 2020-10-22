@@ -109,6 +109,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump leaves contentious '60 Minutes' interview with Lesley Stahl, goes on Twitter attack"
+    excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
+    publishedDateTime: 2020-10-22T09:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998366002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, unhappy with questions from ‘60 Minutes’ host Lesley Stahl, threatens to release interview himself"
     excerpt: "President Trump lashed out at “60 Minutes” host Lesley Stahl and threatened to release their interview after he cut off their conversation at the White House on Tuesday because he didn’t like the aggressive tone of her questions."
     publishedDateTime: 2020-10-21T01:10:00Z
@@ -124,22 +140,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6GBNYQTEUI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 1024
-        isCached: true
-  - title: "Donald Trump leaves contentious '60 Minutes' interview with Lesley Stahl, goes on Twitter attack"
-    excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
-    publishedDateTime: 2020-10-22T11:37:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5998366002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5998366002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "I6dRTPvAF14wusMKAKCT6l3HW7k2oL0DiWuS1IkAnsIOxj6+uAWmX6yOV6eiDKX4+apDZbKedDsf/KgLEi1hBzI46pty9Nj0pnQggijC7DUEGKuEG1f9PFNNyQR3S+6e4EfAHn7v9O9ZdN1d/uFQ1PVrZNE4tC04nDh72NZKB4NHQg7RMR0lXq4/q/qTncCnF52tVBk1ZTV49URLg8fCe5b9cLv9WddtwRWDLMLQKE+36Sycxa9EZi6yW90e1ap7ksSB7uVVEbhRKYLjbX+vg38WbECnoG425uYIOG3fKjoLv5j5vCBUdV8l5Kj0+b2inKpiUhNS24h3+yPOCytr7gD4kkgXCXpbaq9v5YTKPFw=;UEqRcGlS//EBmvmP9Lauiw=="

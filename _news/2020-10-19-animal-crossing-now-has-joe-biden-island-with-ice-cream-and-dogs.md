@@ -356,6 +356,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
+  - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
+    excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
+    publishedDateTime: 2020-10-22T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/democrats-color-rally-kamala-harris-amid-racial-microaggressions/story?id=73720515"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 94
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video"
     excerpt: "Coney Barrett faces second day of Senate judiciary committee"
     publishedDateTime: 2020-10-15T01:30:00Z
@@ -413,14 +427,14 @@ related:
         isCached: true
   - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
     excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-    publishedDateTime: 2020-10-22T02:21:00Z
-    webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
+    publishedDateTime: 2020-10-22T02:35:00Z
+    webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+    ampWebUrl: "https://amp.freep.com/amp/3722503001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
+      name: Detroit Free Press
+      domain: freep.com
     quality: 82
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"

@@ -2,19 +2,19 @@
 category: news
 title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
 excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-publishedDateTime: 2020-10-22T02:21:00Z
-originalUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
-cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
+publishedDateTime: 2020-10-22T02:35:00Z
+originalUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+ampWebUrl: "https://amp.freep.com/amp/3722503001"
+cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: The Arizona Republic
-  domain: azcentral.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - Election
@@ -352,6 +352,20 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 96
+  - title: "Democrats of color rally around Kamala Harris amid racial microaggressions, political attacks"
+    excerpt: "Kamala Harris' path on the campaign trail has been filled with discrimination, as she is the first Black and Indian Democratic vice presidential nominee, and a woman."
+    publishedDateTime: 2020-10-22T19:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/democrats-color-rally-kamala-harris-amid-racial-microaggressions/story?id=73720515"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 94
+    images:
+      - url: "https://s.abcnews.com/images/Politics/kamala-harris-01-gty-jt-200926_1601131851322_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kamala Harris presses Amy Coney Barrett on whether she believes climate change is real – video"
     excerpt: "Coney Barrett faces second day of Senate judiciary committee"
     publishedDateTime: 2020-10-15T01:30:00Z
@@ -934,6 +948,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "Zi8HtQZe+Y2/9tHadXZTUm+JAhDY8EKxtPZpUBslFBYP2PnyVYyrmqxsQDBai6JOyVpkt04MCvxqf9YWwsDOJSDJXx0SnKXsyr9z1iHBuosLtkT7XcfrEFm8BU/fw6jRh/L7ZR+kQD1Yk2X1Lvis7OmvMctY8BGF/+yCXqwAA5xLnyBy51OcxrgbUWhTvZq7bx7ljfTlNcmIy5SwHqoCsJzSGmsfDwvcZ67CI4GOfV4UDiysBvfTolDsZUMZ4JpgLMNQhP80W4jDdEUf9+rf13LUTYS/XkfyxyUY/Crq1+UvWJtLS/QXTDKL3IJlCVzGi6QdLRTSYxzCZpkdBQQLpdQtaZ5TipDvOdhz3m7jMBU=;+mH7O+xOZwbWV7AvaEflxQ=="
+secured: "jefPD1uwHLyMZQJE4QtthoQJ7Gf4JZkg5pWB/BCHO9qiLtgkLADAaPu+7rgMOKAD7JYv61XIda1RWm8pqS7BJw3QKH7HARQ1P1t0g+DL4BRz2x4pKxx6EcBtgvTZ0UvpKpRyc7znjobJAqsVXuW5gD/ubNw5kccJOibJIHG2OBIzN1WeKY8x89nZ2PYKM1zxGU2nwBHukiwc/Nl+lmd1Ys6cBDV85O6IyGsBNFxjiHRV4CFSTDa2oRHp/A1nyqn5k7hcBw9MZbrT+UNRxo1BKPKV1VJeADcjV9oAlTdQb8AhoF/GpOuIEfXgVwGnNNXdqOqKPJda2wn2qNbw77pjgC3CwYpmwKTW11oaIlIhzp4=;io+GVtZwQVsdSWT9b/w2jw=="
 ---
 

@@ -169,6 +169,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "3 Cities Designated As 'Anarchist' Filing Lawsuit Against Trump Administration"
+    excerpt: "After months of street protests, President Trump described New York City, Portland and Seattle as lawless places and threatened to withhold federal aid. City officials say the law is on their side."
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.npr.org/sections/live-updates-protests-for-racial-justice/2020/10/22/926695864/3-cities-designated-as-anarchist-filing-lawsuit-against-trump-administration"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 101
+    images:
+      - url: "https://media.npr.org/assets/img/2020/10/22/ap_20133094368037_wide-0ecc215828e095c74a18670fb311744097545173.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Donald Trump administration to face more lawsuits challenging H-1B rules close to two weeks before elections"
     excerpt: "B workers and also made qualifying for H-1B visa tougher. First of the lawsuit filed by US IT companies on October 16 was against the wage hike rule. Two more are likely to follow in the coming days,"
     publishedDateTime: 2020-10-18T07:32:00Z

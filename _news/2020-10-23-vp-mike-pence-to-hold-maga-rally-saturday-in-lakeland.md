@@ -139,6 +139,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence will hold rally Saturday in Lakeland"
+    excerpt: "The rally will be the first official campaign event in Polk County for either of the major parties during the 2020 election."
+    publishedDateTime: 2020-10-22T19:43:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/2020/10/22/vice-president-mike-pence-hold-rally-saturday-lakeland-linder-international-airport/3726543001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3726543001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3726543001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "VP Mike Pence in Pa. Saturday: Here's what to know about tickets, schedule"
     excerpt: "Vice President Mike Pence is once again making his way to central Pennsylvania, but this time the campaign trail is taking him to Berks County. Pence, who was last in Pennsylvania"
     publishedDateTime: 2020-10-16T02:52:00Z
@@ -186,6 +202,6 @@ related:
         height: 528
         isCached: true
 
-secured: "EyJw2naLnHlNGd0h/18VS0rl3h39XBcpm9+WGdvh0/6Ta48Kn2ksR0iG9Qw+I4ZPdS0X/Z3V8ZB+uiUQAfkgP8BaD8tHyMvP7/xw9VC626P1/YbVbe1C0Bpz89OOMTjjNPNAZPG/WYX5N0HgcPk7U1QOSMMLKg2qpdlUGZNg03Wv9+Obq67MiPQVpnGiZavGv6R3zwhH6UEkv3a90raaCUuJLhVgjTnbtVQE1coiJ+kT81ztPKiIpiuLO/3c5SI0VlWk9cCWd1EQLUUrhQqv/zJrL+N/WogYcL/Fvork62DeoXOK7RO3RJhh+1mwhssO8WdWI7C4g7JznRrzijep7ILDHIY2ZDm1GYEwE6UsD+o=;cfPAVInA42OVc6HGxiSzjw=="
+secured: "2AMUQs/hSBsUX2HBHNuDmuSEnePrORff78Jj4F6bW7XU8jhn23UCjmc1HB/rhLm+duqTdLFbXRI/BsIUqfHXODVrB4x2RYsAQWIlT0L4pjd8gy8um2wOn1dRHe8cReIn4LrD5ceYxWxz5C/1jAnWNra1RPH1C8/4KJjep7ManGBwMG9U0aU81qoRiLYWwAj4U18rI4jW6gUn5Gu98utHh5dkfhU0A/FwUzs0SVySFgGUwK8d6+RHukzFtbebRm0V4OTIQu9A0GPbzcObV/BsLQElfHYX7Ri9y7s4Usg7V8JnQdV5gCoeNuU1JZokDEwsLSGhFxBSlGC84f9+7W4+EY/Te1hUM5fwWeDgo8IQ7fR4ljuZIbT/VI/4u96icHym+rOUqgIQu5+4m748T5PPaY09HkmfApZaXtY4hem7EF6Y4+FFmfGm8b4dhmeeS7gRjfcWoXKG0r/KYX2GSElYq5vXNDcifL9v8AaxzuK2Kb+zoRyqWyFP9sU/mtrix13rzRIKavedyX4k185x2mxWtw==;3ku/9dbT/YTgEdYPgGkV9w=="
 ---
 

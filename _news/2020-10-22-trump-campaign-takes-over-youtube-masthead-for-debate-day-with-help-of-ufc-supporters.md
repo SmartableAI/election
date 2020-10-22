@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
 type: article
 quality: 168
-heat: 208
+heat: 188
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
-    excerpt: ""
-    publishedDateTime: 2020-10-21T00:46:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9jTEfWRWh8/trump-campaign-spanish-language-ad-por-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
     excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
     publishedDateTime: 2020-10-21T03:53:06Z

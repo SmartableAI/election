@@ -57,6 +57,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "How come we never talk about Joe Biden’s health care plan?"
+    excerpt: "We're preoccupied with Trump's attack on Obamacare, but Biden's plan could produce the most intense fight of his presidency."
+    publishedDateTime: 2020-10-22T19:31:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFPHNGAROEI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Progressives blast Biden plan to form panel on Supreme Court reform"
+    excerpt: "Progressive groups are blasting Democratic nominee Joe Biden’s plan to form a commission to study judiciary reforms and whether justices should be added to the Supreme Court."
+    publishedDateTime: 2020-10-22T19:37:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Barr should appoint a special counsel to investigate the Hunter Biden allegations"
     excerpt: "White House Chief of Staff Mark Meadows confirmed to me Wednesday morning that he has discussed the need for such a special counsel with President Trump."
     publishedDateTime: 2020-10-22T15:28:00Z
@@ -88,6 +120,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/47a2b65a-0c84-45b1-af3d-3dc09e5f4d28-GTY_1229033254.jpg?auto=webp&crop=5297,2980,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fact check: Fabricated Biden quote supports transgender children’s right to transition"
+    excerpt: "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,"
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772PM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7"
+        width: 818
+        height: 545
         isCached: true
   - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
     excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."

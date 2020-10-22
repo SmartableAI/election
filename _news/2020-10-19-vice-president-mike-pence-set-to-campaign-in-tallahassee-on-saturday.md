@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/-mm-/3658fd42755583d64b04f69690f6d4a6f28401aa/c=0-270-5184-3186/local/-/media/2020/09/09/JacksonvilleFL/ghows_gallery-LK-622009997-f7614850.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence will hold rally Saturday in Lakeland"
+    excerpt: "The rally will be the first official campaign event in Polk County for either of the major parties during the 2020 election."
+    publishedDateTime: 2020-10-22T19:43:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/2020/10/22/vice-president-mike-pence-hold-rally-saturday-lakeland-linder-international-airport/3726543001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3726543001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3726543001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

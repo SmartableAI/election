@@ -312,7 +312,7 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 141
+    quality: 151
     images:
       - url: "https://static01.nyt.com/images/2020/10/22/multimedia/22elections-briefing-biden/22elections-briefing-biden-facebookJumbo.jpg"
         width: 1050

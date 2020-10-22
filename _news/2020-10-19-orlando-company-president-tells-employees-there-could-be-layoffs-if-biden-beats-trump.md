@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hunter Biden revelations roil 2020 race hours before Trump, Biden take debate stage"
+    excerpt: "President Trump and Democratic challenger Joe Biden are set to take the debate stage to discuss issues including coronavirus, national security, and climate change, but one subject looming over it is the latest details regarding Hunter Biden's business dealings and whether or not his father was involved."
+    publishedDateTime: 2020-10-22T19:20:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/F9w8qz8gKDs/hunter-biden-revelations-roil-2020-race-hours-before-trump-biden-take-debate-stage"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-revelations-roil-2020-race-hours-before-trump-biden-take-debate-stage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-revelations-roil-2020-race-hours-before-trump-biden-take-debate-stage.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump faces deficits in Michigan, Wisconsin with days dwindling until election: polls"
     excerpt: "With three weeks to go until Election Day, new public opinion polls in two key battleground states President Trump flipped from blue to red four years indicate that Democratic presidential nominee Joe Biden holds sizeable leads over the president."
     publishedDateTime: 2020-10-13T01:18:39Z
@@ -414,6 +430,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "President Trump plans to bring Hunter Biden associate Tony Bobulinski as guest to debate"
+    excerpt: ""
+    publishedDateTime: 2020-10-22T19:46:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oRQf9zSi2Ow/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "

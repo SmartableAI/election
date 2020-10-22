@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump leaves contentious '60 Minutes' interview with Lesley Stahl, goes on Twitter attack"
+    excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
+    publishedDateTime: 2020-10-22T09:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5998366002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5998366002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump cannot count on last-minute deciders to save him"
     excerpt: "Politics Trump cannot count on last-minute deciders to save him. Posted . Four years ago, U.S. President Donald Trump rode a wave of late-deciding voters to a shocking election vi"
     publishedDateTime: 2020-10-15T23:30:00Z
@@ -124,22 +140,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
         width: 4981
         height: 3321
-        isCached: true
-  - title: "Donald Trump leaves contentious '60 Minutes' interview with Lesley Stahl, goes on Twitter attack"
-    excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
-    publishedDateTime: 2020-10-22T11:37:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/20/lesley-stahl-donald-trump-leaves-contentious-60-minutes-interview/5998366002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5998366002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5998366002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 62
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "kDbGxlu3LzVFXdCL0PAsd+B5V4+kI4H+IkwGuuLRKG6fGSMhLzKZlqqZ06x9W33m87wRqVOQDtRTTpZ4O4d4Fo7BgDSx351uH3EgYDtji2Lji1SbBuj+v+oQBYzIy+Nq9QFHa8cQ99n1mL2STGsOP+lskaKK0655ZFAquMa3Q4LoTsR8XLV9BDeeV5oDi/7U9FjG10hokC66nT2PXVF9Yfg/FSizlQq1DQlcq3nsvVnoq4pvESAISVzz3gQWha816wQhVnjo+RbY6wx36OReclDlUQbeRMMW1lGi0J6R8TIoOTR4ca49nZgyJ/zrhE76tMY8T6sWHIv6p1cXd2snlVpdwedp+UFB+SDAdiDy6IY=;PFRYyeUppfMi2G/A+2q1xg=="

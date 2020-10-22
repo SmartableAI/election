@@ -159,6 +159,22 @@ related:
         width: 2500
         height: 1783
         isCached: true
+  - title: "On health care, Trump undercuts himself with '60 Minutes' video"
+    excerpt: "If Dems had scripted Trump's rhetoric on health care for him, it probably wouldn't have been much different from what he told \"60 Minutes.\""
+    publishedDateTime: 2020-10-22T19:08:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/health-care-trump-undercuts-himself-60-minutes-video-ncna1244323"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244323"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244323"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422162/201022-trump-60-minutes-interview-al-1314_005a4a0a10453ec8af3c4527549a3597.JPG"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump ends ’60 Minutes’ interview, attacks Lesley Stahl on Twitter"
     excerpt: "The president, reportedly frustrated by the line of questioning, said he was considering posting the interview before airtime “for the sake of accuracy in reporting.”"
     publishedDateTime: 2020-10-20T22:45:00Z

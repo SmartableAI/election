@@ -1381,6 +1381,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Fear Behind Donald Trump’s Obsession with Immunity"
+    excerpt: "President Donald Trump removes his mask upon return to the White House from Walter Reed National Military Medical Center on Oct. 5, 2020. | Win McNamee/ Donald Trump has been talking a lot of late about immunity."
+    publishedDateTime: 2020-10-22T19:12:00Z
+    webUrl: "https://www.politico.com/news/magazine/2020/10/22/fear-donald-trump-obsession-immunity-430928"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/79/90/90a7115d4bb5854038db7f5798cf/trump-immunity-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "We may never recover from the damage Trump has done to the Supreme Court"
     excerpt: "Unless, of course, you’re a nominee for the Supreme Court of the United States. Then, based on how the Republicans have handled the vacancy created by Justice Ruth Bader Ginsburg’s death, there are no rules."
     publishedDateTime: 2020-10-20T15:14:00Z

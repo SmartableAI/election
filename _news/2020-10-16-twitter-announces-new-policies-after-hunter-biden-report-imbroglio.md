@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/twitter-announces-new-policies-afte
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp"
 type: article
 quality: 175
-heat: 915
+heat: 935
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 171
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b248eb-9792-4412-9b00-fb894179f113/d012e81f-4403-4a19-bf7b-657194a73d60/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Rep. Paul Gosar calls for defunding NPR over lack of Hunter Biden laptop coverage"
+    excerpt: "Rep. Paul Gosar, R-Ariz., called for defunding NPR after the outlet said it would not cover the Hunter Biden laptop story because it was a waste of time."
+    publishedDateTime: 2020-10-22T18:47:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Mp3BtkTZcpU/paul-gosar-defunding-npr-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/politics/paul-gosar-defunding-npr-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/paul-gosar-defunding-npr-hunter-biden-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-NPR.jpg"
         width: 1280
         height: 720
         isCached: true
