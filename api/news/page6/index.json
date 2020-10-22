@@ -2,6 +2,326 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-19-what-does-86-45-mean-trump-campaign-claims-whitmer-is-encouraging-assassination-attempts.md",
+      "title": "What Does ‘86 45’ Mean? Trump Campaign Claims Whitmer Is ‘Encouraging Assassination Attempts’",
+      "excerpt": "Governor Gretchen Whitmer has a small “86 45” sign in her office, and now President Donald Trump’s campaign claims she’s advocating for his assassination. A tweet from the Trump War Room, which is an officially verified account with a bio stating that it is “managed by the #TeamTrump 2020 campaign,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "originalUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/president-donald-trump-pictured-in-the-oval-office.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1",
+      "publishedDateTime": "2020-10-18T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-dnc-chair-perez-says-dems-take-nothing-for-granted-despite-bidens-lead-in-polls.md",
+      "title": "DNC chair Perez says Dems 'take nothing for granted' despite Biden's lead in polls",
+      "excerpt": "The Biden campaign and DNC are holding a position that no lead is stable or consistent, even if polling has shown otherwise.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/77krYsaull8/dems-take-nothing-granted-despite-bidens-lead-polls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/77krYsaull8/dems-take-nothing-granted-despite-bidens-lead-polls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/6d40902d-AP20202668742629.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
+      "publishedDateTime": "2020-10-18T13:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.md",
+      "title": "Whitmer tells Trump to stop focusing on her, start focusing on pandemic",
+      "excerpt": "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
+      "publishedDateTime": "2020-10-18T13:55:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-trump-attends-church-service-in-las-vegas.md",
+      "title": "Trump attends church service in Las Vegas",
+      "excerpt": "U.S. President Donald Trump made a rare visit to church Sunday as he and Democratic rival Joe Biden campaigned across the country from one another. (Oct. 18)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2020/10/18/trump-attends-church-service-las-vegas/3704176001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/210c8f2c-cf3c-46f1-803f-5fbfcb0902fc_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-michigan-gov-gretchen-whitmer-says-president-trump-is-inciting-domestic-terrorism-with-his-lock-her-up-chants.md",
+      "title": "Michigan Gov. Gretchen Whitmer says President Trump is inciting ‘domestic terrorism’ with his ‘lock her up’ chants",
+      "excerpt": "Michigan Gov. Gretchen Whitmer said that the rhetoric is “incredibly disturbing” a little more than a week after authorities said they had thwarted an alleged plot to kidnap her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/lrSpB0fFIbK0wcATo0_BT_purRQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E7DS6PDTSRF4TNDATKXWBQFGBA.JPG",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot.md",
+      "title": "The crazy uncle: Trump puts right-wing extremism on the ballot",
+      "excerpt": "What if the result of the 2016 election was primarily the product of a flawed electoral-college system, the mistaken assumption of too many voters and pundits that Donald Trump couldn’t win, and a last-minute intervention by an FBI director?",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html",
+      "originalUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CD6BW7QP5EI6XCRVEN7PD2ZO64.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp",
+      "publishedDateTime": "2020-10-18T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-whitmer-says-trump-inciting-domestic-terrorism-as-trump-campaign-adviser-dismisses-presidents-incendiary-rhetoric-as-having-fun-at-rallies.md",
       "title": "Whitmer says Trump 'inciting' domestic terrorism as Trump campaign adviser dismisses President's incendiary rhetoric as 'having fun' at rallies",
       "excerpt": "Michigan Gov. Gretchen Whitmer called out President Donald Trump on Sunday for incendiary comments he made about her during a weekend campaign rally, saying the President's heightened rhetoric just days after authorities foiled a plot by extremists to kidnap her is \"inciting this kind of domestic terrorism.\"\n",
@@ -486,7 +806,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1570,
+      "heat": 1590,
       "tags": null,
       "images": [
         {
@@ -698,7 +1018,7 @@
       "originalUrl": "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1003,314 +1323,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-wanted-john-mccain-to-apologize-to-him-after-the-2016-election-longtime-aide-says-in-new-book.md",
-      "title": "Trump wanted John McCain to apologize to him after the 2016 election, longtime aide says in new book",
-      "excerpt": "\"Well, that's the real reason I unendorsed you,\" Sen. John McCain admitted to Trump during a call, referring to the Access Hollywood recording.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10",
-      "originalUrl": "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f1207543f737074423f5836?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-john-mccain-apology-mark-salter-2020-10?amp",
-      "publishedDateTime": "2020-10-17T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
-      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
-      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "publishedDateTime": "2020-10-17T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-trump-heads-to-michigan-wisconsin-in-re-election-campaign-push.md",
-      "title": "Trump heads to Michigan, Wisconsin in re-election campaign push",
-      "excerpt": "President Donald Trump will take his re-election push to Michigan and Wisconsin on Saturday before launching a tour of western states to shore up political support as he trails Democratic rival Joe Biden in national polls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1560,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537831308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G06C",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN27206X",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X",
-      "publishedDateTime": "2020-10-17T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
-      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
-      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
-      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
-      "publishedDateTime": "2020-10-17T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-kimberly-klacik-reports-64m-in-fundraising-after-trump-shared-her-viral-campaign-video.md",
-      "title": "Kimberly Klacik reports $6.4M in fundraising after Trump shared her viral campaign video",
-      "excerpt": "Baltimore congressional candidate Kimberly Klacik reported $6.4 million in fundraising after President Trump shared her viral campaign video, which lambasted Democratic leadership in cities with large African American populations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-oPOdnicA4/kimberly-klacik-fundraising-trump-campaign-video",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h-oPOdnicA4/kimberly-klacik-fundraising-trump-campaign-video",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07efecb3-25b4-4a16-90c7-62a678c0e391/008b1110-6bec-485c-a7c8-66fdca3df870/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kimberly-klacik-fundraising-trump-campaign-video.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kimberly-klacik-fundraising-trump-campaign-video.amp",
-      "publishedDateTime": "2020-10-16T19:10:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-from-qanon-to-dictators-trump-embraces-those-who-embrace-him-back.md",
-      "title": "From QAnon to dictators, Trump embraces those who embrace him back",
-      "excerpt": "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWRT55AP5AI6XADUB2KDVEN7BA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp",
-      "publishedDateTime": "2020-10-16T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

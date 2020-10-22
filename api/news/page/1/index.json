@@ -2,6 +2,334 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-anti-trump-lincoln-project-shared-content-us-later-idd-as-iranian-disinformation.md",
+      "title": "Anti-Trump Lincoln Project shared content US later ID'd as Iranian disinformation",
+      "excerpt": "The anti-Trump Lincoln Project PAC shared content on Twitter that U.S. intelligence officials later labeled as Iranian disinformation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o71t80LssBI/lincoln-project-iranian-misinformation-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/o71t80LssBI/lincoln-project-iranian-misinformation-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Capture-2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-iranian-misinformation-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-iranian-misinformation-trump.amp",
+      "publishedDateTime": "2020-10-22T10:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-posts-full-60-minutes-interview-us-elections-news.md",
+      "title": "Trump posts full ’60 Minutes’ interview: US Elections news",
+      "excerpt": "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "publishedDateTime": "2020-10-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-got-81-of-the-evangelical-vote-in-2016-meet-the-conservatives-who-are-working-to-vote-him-out.md",
+      "title": "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out.",
+      "excerpt": "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
+      "originalUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
+      "publishedDateTime": "2020-10-22T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-donna-brazile-confident-joe-biden-will-handle-hunter-email-controversy-bring-it-up.md",
+      "title": "Donna Brazile confident Joe Biden will handle Hunter email controversy: 'Bring it up!'",
+      "excerpt": "Joe Biden should not let President Trump interrupt him during the final presidential debate Thursday night, former DNC Interim Chair Donna Brazile argues.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pa5seKo_ce4/biden-debate-trump-hunter-email-controversy-donna-brazile",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pa5seKo_ce4/biden-debate-trump-hunter-email-controversy-donna-brazile",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp",
+      "publishedDateTime": "2020-10-22T10:14:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-if-biden-wins-and-dems-control-congress-scotus-will-be-expanded-graham.md",
+      "title": "If Biden wins and Dems control Congress, SCOTUS will be expanded: Graham",
+      "excerpt": "Joe Biden and the Democratic Party want to expand the Supreme Court to at least 13 seats to make it liberal if Republicans succeed in confirming Amy Coney Barrett, Sen. Lindsey Graham, R-S.C., told \"Fox & Friends\" on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/smIlMw3BoLU/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/smIlMw3BoLU/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-supreme-court-election-barrett-senate-confirmation-vote-lindsey-graham.amp",
+      "publishedDateTime": "2020-10-22T09:58:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-nyc-joining-portland-seattle-to-sue-trump-admin-over-defunding-for-anarchist-jurisdictions.md",
+      "title": "NYC joining Portland, Seattle to sue Trump admin over defunding for 'anarchist jurisdictions'",
+      "excerpt": "New York City is joining Seattle and Portland, Ore., to file a complaint against the Trump administration in a Seattle court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1KlqhlFN8Bs/anarchist-jurisdiction-new-york-city-portland-seattle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/05/bill-de-blasio-donald-trump-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T09:47:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons.md",
       "title": "John Brennan says Trump wouldn't qualify for a security clearance \"for a variety of reasons'",
       "excerpt": "When asked if someone with the amount of debt President Trump has would qualify for a security clearance, former CIA director John Brennan said he thinks President Trump wouldn’t qualify for a security clearance “for a variety of reasons.",
@@ -498,6 +826,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-22-linda-ronstadt-slams-donald-trumps-state-of-emergency-at-the-us-southern-border-encouraging-resentment.md",
+      "title": "Linda Ronstadt slams Donald Trump's 'state of emergency' at the U.S. southern border, 'encouraging resentment'",
+      "excerpt": "Linda Ronstadt bashed Donald Trump and his administration’s handling of the situation at the United States’ southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
+      "originalUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rodstadt-Trump_Getty-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
+      "publishedDateTime": "2020-10-22T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-12-days-out-from-election-day-mike-pence-is-holding-a-rally-in-deeply-red-indiana-why.md",
       "title": "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?",
       "excerpt": "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states.",
@@ -914,21 +1299,21 @@
       ]
     },
     {
-      "path": "_news/2020-10-22-the-latest-trump-abruptly-ends-60-minutes-interview.md",
-      "title": "The Latest: Trump abruptly ends '60 Minutes' interview",
-      "excerpt": "President Donald Trump on Tuesday abruptly ended an interview with CBS’ “60 Minutes” that is set to air this Sunday",
+      "path": "_news/2020-10-22-honeymoon-over-saudi-arabia-us-ties-face-reset-with-biden-win.md",
+      "title": "Honeymoon over? Saudi Arabia-U.S. ties face reset with Biden win",
+      "excerpt": "U.S. Democratic presidential candidate Joe Biden speaks during a voter mobilization event at the Michigan State Fairgrounds in Novi, Michigan, October 16, 2020. REUTERS/Tom Brenner/File Ph",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
+      "webUrl": "https://www.reuters.com/news/picture/honeymoon-over-saudi-arabia-us-ties-face-idUSKBN2770LM",
+      "originalUrl": "https://www.reuters.com/news/picture/honeymoon-over-saudi-arabia-us-ties-face-idUSKBN2770LM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_4f10d43eec564a0eabbb3fb9f0919b8c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538412905&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9L0D4",
+          "width": 810,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -936,16 +1321,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "publishedDateTime": "2020-10-21T23:41:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T23:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -962,383 +1347,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-gallery-pence-visits-the-granite-state.md",
-      "title": "Gallery: Pence visits the Granite State",
-      "excerpt": "Visit the post for more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "originalUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems15-1.jpg?w=1024&h=627",
-          "width": 1024,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "cdnAmpWebUrl": "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/gallery-pence-visits-the-granite-state/amp/",
-      "publishedDateTime": "2020-10-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston Herald",
-        "domain": "bostonherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ingraham-democrats-hiding-true-agenda-from-middle-working-class-by-trotting-out-biden-cliches.md",
-      "title": "Ingraham: Democrats hiding 'true agenda' from middle, working class by trotting out Biden cliches",
-      "excerpt": "President Trump, not Joe Biden, is the candidate who truly fights for the working class, Laura Ingraham argued Wednesday on \"The Ingraham Angle.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuH1Ia8_6RA/ingraham-democrats-true-agenda-middle-working-class",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuH1Ia8_6RA/ingraham-democrats-true-agenda-middle-working-class",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8444f0ee-8648-4409-a0ef-47a007399b43/4c457b58-807d-4865-8683-f24e2ce1a494/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class.amp",
-      "publishedDateTime": "2020-10-21T22:03:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.md",
-      "title": "Hunter Biden: Here's what he has said about his Burisma role in Ukraine",
-      "excerpt": "The son of former Vice President Joe Biden has mostly remained mum on the allegations of impropriety while working on the board of Ukrainian oil company Burisma. Here’s what he has said about it in the past.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0M2AcnWkhFg/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f3a7762-f52e-46a0-9028-8d3839245c76/529fc3a8-4e55-4ff9-a9aa-8dfd05a806c2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-heres-what-he-has-said-about-his-burisma-role-in-ukraine.amp",
-      "publishedDateTime": "2020-10-21T21:36:46-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-campaign-takes-over-youtube-masthead-for-debate-day-with-help-of-ufc-supporters.md",
-      "title": "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters",
-      "excerpt": "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp",
-      "publishedDateTime": "2020-10-21T19:20:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-grants-clemency-to-five-backed-by-ally-alice-johnson.md",
-      "title": "Trump grants clemency to five backed by ally Alice Johnson",
-      "excerpt": "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441",
-      "publishedDateTime": "2020-10-21T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-jennifer-lawrence-says-trump-altered-her-political-views-theres-been-a-line-drawn-in-the-sand.md",
-      "title": "Jennifer Lawrence says Trump altered her political views: ‘There’s been a line drawn in the sand’",
-      "excerpt": "Jennifer Lawrence said despite the fact she grew up in a Republican household, because of Trump, she has become more open-minded about politics \"based on the things I learned.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "originalUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Jennifer-Lawrence-reupload_AP.png?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/jennifer-lawrence-trump-altered-political-views.amp",
-      "publishedDateTime": "2020-10-21T17:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.md",
-      "title": "Trump envoy Richard Grenell met with Venezuelan politician in bid to oust Maduro: report",
-      "excerpt": "Richard Grenell, the Trump administration's special envoy for Serbia and Kosovo Peace Negotiations, reportedly tried in September to negotiate with a Venezuelan politician close to the country's strongman president, Nicolas Maduro, in order to obtain the controversial leader's peaceful exit from office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2O_DUTKVGX8/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a48f33cf-f562-420c-8473-8ca7a7d0522b/2b3b7cc9-f7cf-4984-bda2-bb84843fd1e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-envoy-richard-grenell-met-with-venezuelan-politician-in-bid-to-oust-maduro-report.amp",
-      "publishedDateTime": "2020-10-21T17:27:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
+        "Joe Biden"
       ]
     }
   ],

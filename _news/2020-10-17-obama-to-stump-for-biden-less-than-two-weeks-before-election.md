@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/obama-to-stump-for-biden-less-than-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-to-stump-for-biden-less-than-two-weeks-before-election.amp"
 type: article
 quality: 190
-heat: 1570
+heat: 1590
 published: true
 
 provider:
@@ -719,6 +719,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6729064b-80bc-422e-b189-47661a5a1ba3/98ac0c8a-2d4f-40be-b442-1f78e38ba4b5/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Cher campaigning for Joe Biden in Nevada and Arizona"
+    excerpt: "Cher is getting out on the campaign trail for former Vice President Joe Biden and Sen. Kamala Harris. The campaign announced in an email obtained by Fox News on Thursday that the singer-actress, 74, will \"travel to Nevada and Arizona to campaign on behalf of Joe Biden and Kamala Harris."
+    publishedDateTime: 2020-10-22T17:13:00Z
+    webUrl: "https://www.foxnews.com/entertainment/cher-campaigning-biden-nevada-arizona"
+    ampWebUrl: "https://www.foxnews.com/entertainment/cher-campaigning-biden-nevada-arizona.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/cher-campaigning-biden-nevada-arizona.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Cher.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Cal Thomas: Can Joe Biden be trusted? Hunter Biden scandal begs the question"
     excerpt: "Joe Biden should be pressed before Nov. 3 to explain his son Hunter's financial dealings in Ukraine and Beijing."

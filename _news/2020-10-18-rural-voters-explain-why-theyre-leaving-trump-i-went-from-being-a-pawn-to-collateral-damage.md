@@ -271,6 +271,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "2020 Presidential Debate: Predictions & Odds For Joe Biden & Donald Trump’s Final showdown"
+    excerpt: "Predictions, betting odds and picks for tonight's final Presidential Debate between Donald Trump and Joe Biden. From Antifa to White Supremacy, which topics will be discussed? And yes, you can even bet on the fly making his return."
+    publishedDateTime: 2020-10-22T17:37:00Z
+    webUrl: "https://www.forbes.com/sites/zackjones/2020/10/22/2020-presidential-debate-predictions--odds-for-joe-biden--donald-trumps-final-showdown/"
+    ampWebUrl: "https://www.forbes.com/sites/zackjones/2020/10/22/2020-presidential-debate-predictions--odds-for-joe-biden--donald-trumps-final-showdown/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zackjones/2020/10/22/2020-presidential-debate-predictions--odds-for-joe-biden--donald-trumps-final-showdown/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 130
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91c175646512a0bc5fe5c7%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
     excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"
     publishedDateTime: 2020-10-22T15:20:00Z
@@ -1310,6 +1326,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/trump_debate_lies.jpg?itok=gbMHZ9zc"
         width: 1260
         height: 560
+        isCached: true
+  - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
+    excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
+    publishedDateTime: 2020-10-22T06:25:00Z
+    webUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 70
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603347710_7b987da563e06aa13399873c4d3427f3.jpg/9e63961120160ca0c8457438ae717356/1603347710_25e8d958f46e8b87c3a5d322492457c0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe"
     excerpt: "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham."

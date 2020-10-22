@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
+    excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
+    publishedDateTime: 2020-10-22T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5AU6OATBEI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Joe Biden’s tax plan would likely hit wealthy Californians hard. Here’s why"
     excerpt: "Because the rich in California tend to be richer than most and pay a higher share of state income taxes, Californians could feel more of a sting than other states from Joe Biden’s tax plan. The Democratic presidential candidate has proposed steep tax increases on people earning more than $400,"
     publishedDateTime: 2020-10-13T12:00:00Z

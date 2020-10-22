@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why is Donald Trump so obsessed with this '60 Minutes' interview?"
+    excerpt: "With 12 days to go before an election in which he is currently a clear underdog, President Donald Trump has latched onto an issue that he seems to believe will change the trajectory of the race: His decision to abruptly end an interview with Lesley Stahl of \"60 Minutes.\"\n    \n"
+    publishedDateTime: 2020-10-22T16:03:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DHEYnKgD3Wg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/donald-trump-lesley-stahl-60-minutes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/donald-trump-lesley-stahl-60-minutes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201017001035-donald-trump-october-15-2020-02-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump administration pushes for last-minute foreign policy wins in final campaign sprint"
     excerpt: "Less than two weeks from Election Day, the Trump administration is working hard to secure foreign policy victories aimed at providing a last-minute boost in the polls.\n    \n"
     publishedDateTime: 2020-10-21T12:20:05Z

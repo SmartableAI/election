@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
+    excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/22/fact-check-post-misquotes-joe-biden-court-packing/3713908001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713908001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713908001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says he'll create a commission to decide whether to reform the federal judiciary and pack the courts: 'It's getting out of whack'"
     excerpt: "Court packing alone could \"turn the Supreme Court into just a political football,\" Democratic nominee Joe Biden told CBS News."
     publishedDateTime: 2020-10-22T14:18:00Z

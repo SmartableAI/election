@@ -63,20 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump cannot count on last-minute deciders to save him"
-    excerpt: "Politics Trump cannot count on last-minute deciders to save him. Posted . Four years ago, U.S. President Donald Trump rode a wave of late-deciding voters to a shocking election vi"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-cannot-count-on-last-minute-decide-idRCV008V1O?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
-        width: 4981
-        height: 3321
-        isCached: true
 
 secured: "OJUTpNlU4/53Qc0WUcc3ABLMOIBoov7GahO+Fn8QY9unG1pP+nvDPIW2TfdRriomKhpkXIDa7HZUKTVsmQlrhcaGb+55uOC5KSBLY4UGMYkOpA/xLQHRBKmv5L6AuzTyolOAHOZYbUZEm91iHoBvFVJwezT+HhAoIt9y1MsVeZdlbsxoLWz+hQwaY8+qk4LGSsQ1xfC7tJ9VPIy9ARHLBfRbSnSryGeyDiSfUqsHTI5Ll1GuNz8FQqe4l7SsOT3XSFBWUS6hYAw3o+et1QGV7Y/5q+b3ofsuHyeBoPyqdDUee72iHoGl6Oa3W5565bp4UHD71qXtrO7jo5qNdTxqdw3qNHLwcItPuD5/VBX1fo7D36nsatTLNZsUO9gvGShP3/oqVApnLjvdaHpGIrhudrpcus1rPgI5UBhGXDV8hkqL5xbdi1azsGccliRomdzkC/79hrZa4qePbU8nS7CVjAIO7EN8A2A91kbgrKuzWW+isG4ouy3Uk1Xq7UGrScoiD6QZFL01pQ2l4bA4WyjYQQ==;aH1rZ0si6giSAke9h0onOw=="
 ---

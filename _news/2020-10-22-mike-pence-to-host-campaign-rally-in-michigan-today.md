@@ -697,6 +697,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
+    excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
+    publishedDateTime: 2020-10-22T17:37:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CYIB5TI7JFBXBD2CNQUQJFKTN4.png"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Damage control? Trump hints at leaving the country if he loses the election"
     excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
     publishedDateTime: 2020-10-17T19:07:00Z
@@ -1109,6 +1125,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BHg2Jm3gN2tFoxGl7lHufWOovRLk6M9dbPk/B//iWkAmtTOIRxFvNLWta129jfpatuTqfN0hv/lhiw/0JdazonjaM4e12GDGTkL2TnfC9+QaLf64QzfBnJng/nbrJnxa7wIkbmMwy21F+zit+RwLLDMeqFopCenUHtk7XMZI1b40jD2uhKReqTAAxz+bRn5BHFpEP9gxCc7xy8p7FxgbQk53x4lN10o2oBR+9c0vaVLOcLULSQXl0lUMqXOzBHmYOAF/vIJN1EcDyB8IHPvYOZ3BVn5lo9kZj+EOKOWs2IUW3j+aWo72ZPAtMH+L3/Qq+KNehwz4B0RGsf92ft2O3R1gPKLlThHLs1oN/GbsFkc=;GQcayp+S2uIHSp+1KPX5Ag=="
+secured: "Eoee3enI0/sohqQ3paYtdr2VCDIP4bhKEGvqM2ZDp32PM+8Zgg1xiHIhS35roY65J5AU/1wB/dXie8DtuUsTc3UsKLWip61mcpgDJlDDQfgqDLrT/pyc5XRdyQflYsMRRDlrMPpnDTjmznQo4g1CVj8GX/QlEhavajaPBufyyZKvLvBJrOMGU8Vfd2obuBSkqW52uML2S7lbC+pgteV64U3UIhAU8zy4e9M+4nN+zxAAQ9u7/hcStawTZGFbEYR1wN0OzUa1Xox5rsr9Ks3lF8deRabk71ULfDt/GxYD3dqybXVrCTSVRQhqay0bvhmw7AZEb7b/pVSBCeOxJZvIVJEN8dOZrPwg8YlsACNQiaW9wHqqoqPRMzjDXBLk/Sr6hiRXQAijdPtkLO/iDp7TPNtsRfsEmpYEOGKw+spR9CCpBrtzvZgOrWs+D0ZvAKxwrmCt9eL0Cbg/IR4IDYSXicjawSE16yN8NahGQ91p6Xoum2ZgCqgLHeVYNTFlvvpBhWh8OGa4zZ9U9V8laH4eBQ==;v7K7eMXBlK9LZMYXG9b99A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/521658-pence-to-mount-aggressi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521658-pence-to-mount-aggressive-campaign-schedule-in-final-two-weeks?amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 2000
         height: 1694
         isCached: true
+  - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
+    excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."
+    publishedDateTime: 2020-10-22T16:12:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 55
 
 secured: "cKJsIgzGbhjHS9PJ9Zfbiw+r/ItWbwsL1uxuf24TjT4l+d3UNUGl0rHZjY8f7oPe+L8Rh/9rCl+PaujrrBh9TI//rO40oM7GOa9WTlFGTE4ZDAszW3FWu5gKSoZLhIUx/6oQJ/Njk1heOcUG8JV4anIZ44vALtkeU7zEXevzB2L6c7LVjb2k4QDdnZY1uHIkjiSF/dMigKbhJWw1IOB148Metsb/hK/LOdwBqndrKsHnHgeKX8ie4VH+PqnMYmbiHkincKNH9VsG1GEjMev3xxAr0gA283nLRy1gRq5xvpBHIFc/fnPmW8b6Yo9zvpG4GwhKB8T4PrWCFRnvtB3xrxLobbf36loMMCDnVDSsZPfd4U/U3pp5ZXeq1buPVkBtqT+k6weIvC3Gp7GFDn/h6KrkCjWYtWr7dX8+nC6CHnSG8vXxrVk0ISII6AtW/rdbpIxjYLrs30ReQk/dk+KURcNG7Mx+EC7s38kDAT/nO00UsYzVznHogZL1EwmWkPdmZoLI8DHpFtPYZEL0qhuDjA==;TLn0i4l7lr9ZzM55dp7mlg=="
 ---

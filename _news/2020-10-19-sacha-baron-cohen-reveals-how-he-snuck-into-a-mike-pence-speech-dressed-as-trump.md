@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck
 cdnAmpWebUrl: "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/sacha-baron-cohen-reveals-how-he-snuck-into-a-mike-pence-speech-dressed-as-trump-2791022?amp"
 type: article
 quality: 85
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Flashback: Sacha Baron Cohen Interviews Donald Trump as Ali G"
+    excerpt: "IMDb, the world's most popular and authoritative source for movie, TV and celebrity content."
+    publishedDateTime: 2020-10-22T15:47:00Z
+    webUrl: "https://www.imdb.com/news/ni63067400/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 35
 
 secured: "KSCiQ+G5SVhFcLNbeSl3l0l9u5YJ9qDuP2LJuHx/F9Bl8IEGzrtf0Aa9Oxlr3h+Omr+xLuxw8AVnOqG5d7ZWoSSebnoWwMZI2VAP1K8Y6U9ZHBIuOgFe2wysM8OMSC8ueu71bKStlk9kdPLLNlIDLTEy6mZaLOvqlhQj7bX2RP2miVzGbVOWMo6ezZ0v//qKlE677mjIeoyxhHh8Jj3pMiuOP0lovsiMNnR7TtboZtQR4UkPdexH7Fdh6GJXc7Jx2G3R/BKSVa5dc9vXmtZ47KQXgN61Yh6FsBbMUWDBr4mUVYlX1sv1MdtZ9c4R/qFRZsYjrrZX+5Rx7RgoSUATqv1oQPkuRtcRhAh0kYdF8vw=;xE7yqDFFRjz/N5HvolvNcg=="
 ---

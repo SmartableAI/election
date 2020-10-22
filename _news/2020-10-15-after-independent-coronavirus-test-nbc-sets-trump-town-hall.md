@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/independent-coron
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
 type: article
 quality: 125
-heat: 885
+heat: 865
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a16aa8514995245bf026%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D94%26cropY2%3D3226"
         width: 1200
         height: 675
-        isCached: true
-  - title: "President Trump abruptly ended his '60 Minutes' interview after 45 minutes"
-    excerpt: "The news came shortly after President Donald Trump tweeted a video of '60 Minutes' host Lesley Stahl not wearing a mask inside the White House."
-    publishedDateTime: 2020-10-20T20:55:00Z
-    webUrl: "https://www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5f8f4967b0526700185cc768?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
     excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."

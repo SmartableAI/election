@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/top-us-official-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
 type: article
 quality: 125
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/aa00b792-4b99-491c-a637-77a687c2e455-Pence.jpg?auto=webp&crop=3281,1846,x0,y9&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "How Donald Trump’s ‘America first’ agenda has damaged global human rights"
+    excerpt: "The Trump administration's overt transgressions of international norms embolden other world leaders to violate human rights."
+    publishedDateTime: 2020-10-22T13:50:00Z
+    webUrl: "https://theconversation.com/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    ampWebUrl: "https://theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 74
+    images:
+      - url: "https://images.theconversation.com/files/364520/original/file-20201020-17-oqamgw.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
 
 secured: "bMNlOgTESScs2E1q0SCLWWchW6H99Cfagj8Yl2k3XonOiUW86BSfBIl7h7xJD/ndagbxwC8KpHgYBO3FIThn700fmP31rmCjJMvaYO442zJ3tRppFtbQHYeV/9YhZNeLsaaIkIiFKnyoN8anEsUltlIuybRwx+cXt94ieAGHLvycDAwBt74IbaIlWy0P1sjx2OPmCDbeUFgngrKdT+ISZJGkONjtGC3g4jTK6uoycO5Duj1fmjgAKVdaaIqJIQAb0Ehclgub4V7FwqeDtO7BAGZ7z65lidGVZ8X0MKHUskgZuHxSVcNlJ0kRE3tYkCqCQSiAr6DojzIdvzeNngVCjyKNTsW1wARF8irAsYWZGTI=;mt+oC40s+t8dboIY1ERpAA=="

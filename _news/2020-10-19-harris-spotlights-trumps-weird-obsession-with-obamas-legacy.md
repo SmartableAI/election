@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20295013465553.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden vs. Trump: ObamaCare, access to health care in rural US impacts voters' decisions"
+    excerpt: "With only days until the 2020 presidential election, the topic of health care access, insurance and affordability is front and center in the minds of millions of Americans."
+    publishedDateTime: 2020-10-22T17:50:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W5VcaQJcRJk/biden-vs-trump-rural-health-care-access-obamacare-impacts-voter-decisions"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-vs-trump-rural-health-care-access-obamacare-impacts-voter-decisions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-vs-trump-rural-health-care-access-obamacare-impacts-voter-decisions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/stephb.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden spotlights Obamacare in Supreme battle over Barrett"
     excerpt: "Democratic presidential nominee Joe Biden's making it clear that his opposition to the confirmation of Amy Coney Barrett to the Supreme Court centers on the possibility that President Trump’s high court nominee could potentially cast the decisive vote to strike down the national health care law."

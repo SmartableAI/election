@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi shuts down reporter asking question on Joe Biden's 'corruption'"
+    excerpt: "House Speaker Nancy Pelosi on Thursday refused to address allegations of \"corruption\" against Democratic presidential nominee Joe Biden and quickly shut down a question from a reporter on the topic. "
+    publishedDateTime: 2020-10-22T16:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CCcVpdg2-Y/pelosi-shuts-down-reporter-question-joe-biden-corruption"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pompeo calls tech firms ‘inconsistent’ after censorship of Hunter Biden story"
     excerpt: "Secretary of State Mike Pompeo on Thursday hit tech giants like Twitter and Facebook for what he said was “inconsistent” cracking down on accounts -- a day after the two social media platforms shut down accounts for sharing a New York Post story on Hunter Biden."
     publishedDateTime: 2020-10-15T18:43:48Z

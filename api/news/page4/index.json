@@ -2,6 +2,365 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-21-incoming-sarasota-school-board-member-getting-backlash-for-calling-trump-supporters-nazis.md",
+      "title": "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’",
+      "excerpt": "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3710042001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001",
+      "publishedDateTime": "2020-10-20T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.md",
+      "title": "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America",
+      "excerpt": "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America.",
+      "sourceUrl": null,
+      "webUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
+      "originalUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG",
+          "width": 2968,
+          "height": 2220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
+      "publishedDateTime": "2020-10-20T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-says-were-up-in-nc-amid-reported-internal-worries-about-keeping-state-red.md",
+      "title": "Trump says 'we're up' in NC amid reported internal worries about keeping state red",
+      "excerpt": "Polls show Trump essentially tied with Democratic nominee Joe Biden",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oFGyaaY0NdA/trump-north-carolina-biden-polls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20289760366040-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-biden-polls.amp",
+      "publishedDateTime": "2020-10-20T13:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-first-lady-melania-trump-will-not-travel-to-pa-rally-due-to-lingering-cough-after-covid-battle.md",
+      "title": "First lady Melania Trump will not travel to PA rally due to 'lingering cough' after COVID battle",
+      "excerpt": "First Lady Melania Trump will not accompany President Donald Trump to a campaign rally in Pennsylvania Tuesday evening due to a “lingering cough” despite having recovered from the novel coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pmN1DlBQdjA/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pmN1DlBQdjA/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp",
+      "publishedDateTime": "2020-10-20T10:44:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote.md",
+      "title": "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’",
+      "excerpt": "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
+      "originalUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-12.29.29-PM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
+      "publishedDateTime": "2020-10-20T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
+      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
+      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "publishedDateTime": "2020-10-20T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-fact-check-donald-trump-and-mar-a-lagos-fight-with-palm-beach-over-a-flagpole.md",
+      "title": "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole",
+      "excerpt": "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
+      "originalUrl": "https://www.usatoday.com/story/news/factcheck/2020/10/20/fact-check-donald-trump-and-mar-lagos-fight-over-flagpole/5921390002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/06/NPPP/1185959b-15ea-409c-bdb8-596e01e6c47c-100506_met_trump1of2.jpg.JPG?auto=webp&crop=2399,1350,x0,y71&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5921390002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5921390002",
+      "publishedDateTime": "2020-10-20T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-nc-governor-caught-on-hot-mic-telling-biden-theyll-drag-cal-cunningham-across-the-line-after-scandal.md",
       "title": "NC governor caught on hot mic telling Biden they'll drag Cal Cunningham ‘across the line’ after scandal",
       "excerpt": "\"I think Cal's going to get across the line, too,\" Gov. Roy Cooper appeared to say on Monday.",
@@ -437,7 +796,7 @@
       "originalUrl": "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -871,7 +1230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 600,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -969,366 +1328,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-texas-gop-sen-cornyn-tries-to-distance-himself-from-trump-says-he-disagrees-with-president-privately.md",
-      "title": "Texas GOP Sen. Cornyn tries to distance himself from Trump, says he disagrees with president 'privately'",
-      "excerpt": "Texas Sen. John Cornyn became the latest GOP senator to distance himself from President Trump this weekend ahead of a surprisingly tight re-election battle.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEuD2mfTJr4/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d525362d-ca07-450b-ad54-963f429c47b4/33964c7c-f88b-4e92-99c6-bb09dd3e26cb/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-sen-john-cornyn-tries-to-distance-himself-from-trump-ahead-of-tight-re-election-battle.amp",
-      "publishedDateTime": "2020-10-19T11:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-mike-pence-to-return-to-indy-to-vote-early.md",
-      "title": "Mike Pence to return to Indy to vote early",
-      "excerpt": "After canceling an earlier trip, Vice President Mike Pence will come back to Indianapolis to vote early. That's according to his communications director, Katie Mills. Mills released Pence's travel schedule this week on Twitter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "originalUrl": "https://www.wthr.com/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WTHR/images/d211e1dc-bb5e-468d-9207-9ec5e8a88223/d211e1dc-bb5e-468d-9207-9ec5e8a88223_750x422.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "cdnAmpWebUrl": "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/mike-pence-to-return-to-indy-to-vote-early/531-25ced010-a0a8-40a5-a7d9-049e18bd8af7",
-      "publishedDateTime": "2020-10-19T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTHR",
-        "domain": "wthr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
-      "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
-      "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3702824001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001",
-      "publishedDateTime": "2020-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-trump-tells-campaign-staff-were-going-to-win-calls-fauci-a-disaster.md",
-      "title": "Trump tells campaign staff ‘we’re going to win’, calls Fauci a ‘disaster’",
-      "excerpt": "President Trump told campaign staff “we’re going to win this race” in a rouse-the-troops phone call Monday morning where said he would have up to five rallies",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
-      "originalUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/trump-staff-win.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/19/trump-tells-staff-were-going-to-win-during-internal-call/amp/",
-      "publishedDateTime": "2020-10-19T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sen-cory-gardner-tied-to-president-trumps-vindictive-base-faces-conundrum-in-colorado.md",
-      "title": "Sen. Cory Gardner, tied to President Trump's 'vindictive' base, faces conundrum in Colorado",
-      "excerpt": "Larimer County has never shown strong voter support for U.S. Sen. Cory Gardner. Not in 2014, when Larimer County, home to Colorado State University, handed the CSU alumnus his Senate seat by a margin of 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/19/colorado-election-2020-cory-gardner-donald-trump-campaign-base-conundrum/3711527001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/14/PFTC/271b51e9-c3fa-4b03-8386-6fdcd3e33fc6-101320_GardnerHickenlooperDebate_15_bb.jpg?auto=webp&crop=3299,1856,x0,y306&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3711527001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3711527001",
-      "publishedDateTime": "2020-10-19T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-talk-of-the-county-reader-opinion-our-garbage-collector-is-more-qualified-to-run-for-office-than-kamala-harris.md",
-      "title": "Talk of the County reader opinion: ‘Our garbage collector is more qualified to run for office’ than Kamala Harris",
-      "excerpt": "Being from California, if Kamala Harris had any decency and actually believed in law and order, then why didn’t she visit two police officers who were shot while sitting in their car from California?",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
-      "originalUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/Y-l6TvPRVPV9unrZaobdN9beS4E=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/S2FMJGCNYMIPZRCS3E742QM3PA.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/lake-county-news-sun/opinion/ct-lns-talk-of-county-st-1024-20201019-ud6xyzj5g5barc32qyvbydlxcm-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-19T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-does-team-trump-realize-that-hillary-clinton-isnt-running.md",
-      "title": "Does Team Trump realize that Hillary Clinton isn't running?",
-      "excerpt": "Clinton said of Republicans in 2017, \"It appears they don't know I'm not president.\" She could say now, \"It appears they don't know I'm not a candidate.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-team-trump-realize-hillary-clinton-isn-t-running-ncna1243882",
-      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/does-team-trump-realize-hillary-clinton-isn-t-running-ncna1243882",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/j/newscms/2016_42/1758506/161020-final-debate-clinton-trump-end-1217a_10a97711107374366ede83a1d78e9a8d.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Donald Trump’s ‘America first’ agenda has damaged global human rights"
+    excerpt: "The Trump administration's overt transgressions of international norms embolden other world leaders to violate human rights."
+    publishedDateTime: 2020-10-22T13:50:00Z
+    webUrl: "https://theconversation.com/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    ampWebUrl: "https://theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-donald-trumps-america-first-agenda-has-damaged-global-human-rights-148030"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 74
+    images:
+      - url: "https://images.theconversation.com/files/364520/original/file-20201020-17-oqamgw.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "jj8VCEx9Vbn4g0th2nljnyXEy8oLpXdV7EI7dz1mSWdBK7CxLa3koXgngbRbSvkqNUs3V0pTMCudm9wmk6naHMg30zm/qSx2v/SgNM1Pw+2UFH8eao3N/u0w3bZK3dHmFAj0QZrr9J4wbFwngjvPRU4lZHnQjqepqWkQLwuLJDhMYqmD+hopgnKpoERzsLbK7M57Kcm/Ul2JMxdM2rYNKj4kIsexeJD5iUbreklJpOT+EM17D2DKYkG3/bB0/ApDjPHopK52BgTzZS/zNXuO4ADOW0zgxLwMtmh9vBoaEFykTC6ZPEZ9jTtQK2tWkgmlAkSFQTwbR8qFt4RxWh5RF4z5f5eolMf+0+sME8sPZ7I=;oHGJW9S1+w0IC71DPn5v1A=="
 ---

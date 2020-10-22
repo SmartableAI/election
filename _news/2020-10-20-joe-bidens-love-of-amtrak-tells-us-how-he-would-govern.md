@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-am
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2020/10/20/joe-bidens-love-amtrak-tells-us-how-he-would-govern/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.insider.com/5d07f57cf2f4796a1323eb05?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "If Joe Biden loses, it probably won’t be because of an increase in GOP voter registration"
+    excerpt: "Voter registration numbers recently released in Florida, North Carolina and Pennsylvania are not necessarily a sign of some significant underlying shift."
+    publishedDateTime: 2020-10-22T17:24:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/22/if-joe-biden-loses-it-probably-wont-be-because-an-increase-gop-voter-registration/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D5AU6OATBEI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "A Wall Street chief strategist says a Biden blue wave could spur a 5% drop in the S&P 500 because of uncertainty over some Democrat policies"
     excerpt: "If Biden wins, there will be a sell-off. If Trump wins, you'll see the Dow and S&P easily climb to new highs.\""

@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-22-election-live-updates-romney-backs-voting-this-year-on-trump-nominee-to-replace-ginsburg.md",
+      "title": "Election live updates: Romney backs voting this year on Trump nominee to replace Ginsburg",
+      "excerpt": "Meanwhile, Trump is headed to Pennsylvania, while Democratic nominee Joe Biden is dispatching his running mate, Kamala D. Harris, to Michigan, while he holds fundraisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
+      "originalUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 471,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/09-21-2020/t_a061c2a3a54f468bb08a4cef8f392f08_name_20200918_Trump_Biden_rally_v1_Still002.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/elections/2020/09/22/trump-biden-supreme-court-live-updates/?outputType=amp",
+      "publishedDateTime": "2020-09-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-trump-real-estate-rates-dropped-where-hes-disliked-nyc-increased-where-he-is-liked-vegas.md",
       "title": "Trump Real Estate Rates Dropped Where He’s Disliked (NYC), Increased Where He Is Liked (Vegas)",
       "excerpt": "A new book, White House Inc., reports prices in Trump buildings appear to be affected by President Trump’s popularity in that given area.",
@@ -1516,58 +1568,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-who-is-amy-coney-barrett-the-judge-trump-has-considered-for-a-supreme-court-seat.md",
-      "title": "Who is Amy Coney Barrett, the judge Trump has considered for a Supreme Court seat",
-      "excerpt": "Barrett was floated by Trump as a possible replacement for Justice Ruth Bader Ginsberg in 2019 to associates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
-      "originalUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f65580657b7da001ee129bd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/who-is-amy-coney-barrett-positions-judicial-history-supreme-court-2020-9?amp",
-      "publishedDateTime": "2020-09-18T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

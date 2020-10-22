@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote.md",
+      "title": "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’",
+      "excerpt": "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
+      "originalUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-12.29.29-PM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
+      "publishedDateTime": "2020-10-20T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
+      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
+      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
+      "publishedDateTime": "2020-10-20T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-fact-check-donald-trump-and-mar-a-lagos-fight-with-palm-beach-over-a-flagpole.md",
       "title": "Fact check: Donald Trump and Mar-a-Lago's fight with Palm Beach over a flagpole",
       "excerpt": "Donald Trump and Palm Beach sparred over the size of a flag at his estate. A post about that fight is a mixture of true and false.",
@@ -840,58 +940,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-19-rnc-chairwoman-say-republicans-who-distance-themselves-from-trump-are-hurting-themselves-in-the-long-run.md",
-      "title": "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'",
-      "excerpt": "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10",
-      "originalUrl": "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp",
-      "publishedDateTime": "2020-10-18T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot.md",
       "title": "The crazy uncle: Trump puts right-wing extremism on the ballot",
       "excerpt": "What if the result of the 2016 election was primarily the product of a flawed electoral-college system, the mistaken assumption of too many voters and pundits that Donald Trump couldn’t win, and a last-minute intervention by an FBI director?",
@@ -1450,7 +1498,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1560,
+      "heat": 1580,
       "tags": null,
       "images": [
         {
@@ -1491,54 +1539,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-scotus-to-hear-trump-administrations-argument-to-exclude-illegal-immigrants-from-census.md",
-      "title": "SCOTUS to hear Trump Administration’s argument to exclude illegal immigrants from census",
-      "excerpt": "The U.S. Supreme Court on Friday agreed to hear oral arguments over President Donald Trump’s effort to exclude illegal immigrants from the population totals used to allocate",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
-      "originalUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Supreme_Court.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/scotus-to-hear-arguments-over-excluding-illegal-immigrants-from-census/amp/",
-      "publishedDateTime": "2020-10-17T00:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

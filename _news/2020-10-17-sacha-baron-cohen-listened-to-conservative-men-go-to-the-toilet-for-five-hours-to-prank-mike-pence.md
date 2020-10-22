@@ -75,6 +75,15 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Flashback: Sacha Baron Cohen Interviews Donald Trump as Ali G"
+    excerpt: "IMDb, the world's most popular and authoritative source for movie, TV and celebrity content."
+    publishedDateTime: 2020-10-22T15:47:00Z
+    webUrl: "https://www.imdb.com/news/ni63067400/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 35
 
 secured: "pFlrV3eI69wpBRFY8cJWsJoEbDMVr9rWKzfWG2dEAREaXD3UfSTpOwNx/Hohdfqcgmc3Vnnue9vrrl1fXzi6z//C2mLBjx0tPx1tKL/F4LOluFg+TYY9/FMbFU/ccg3P7aT5ZvPfk90pbO884enhR3TiSTJ/dMQXmfHPuLPrsUWLcx4x0eIg/K38kwysTNpZe5sRZfKSzKnNs5Z61n8hxolFGFpwn5PcwhtsxQwmQVE2ChOCSBQpVaczjDtIsuMzto3IsE9uU7OYAWQIicPEAlLxNwIPjvdq+Vg3km+EzJH9KzliAq+cNtRCCsW4NYDmseZGTzbv416yDG9BGde2/SXbzevnE9uO9wsCibU2f7o=;26kg+k8KyT4XjBbFFRTfUw=="
 ---

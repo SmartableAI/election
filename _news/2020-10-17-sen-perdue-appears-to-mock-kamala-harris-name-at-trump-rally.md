@@ -289,6 +289,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and Trump prepare for a final showdown with lessons from the first debate"
+    excerpt: "Inside Joe Biden's house in Wilmington, Delaware, Bob Bauer, the typically soft-spoken veteran Democratic attorney, goes on the attack against the former vice president.\n    \n"
+    publishedDateTime: 2020-10-22T16:34:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gfRTfLg16FE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022110005-05-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden hold dueling town halls as Covid cases spike and millions cast their votes early"
     excerpt: "President Donald Trump and former Vice President Joe Biden will participate in dueling town halls on Thursday, hoping to connect with voters as Covid-19 cases soar across the US and the President looks for a game-changing moment in a shaky reelection bid.\n    \n"
     publishedDateTime: 2020-10-15T23:42:30Z

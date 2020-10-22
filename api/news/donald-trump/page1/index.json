@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-23-trump-posts-full-60-minutes-interview-us-elections-news.md",
+      "title": "Trump posts full ’60 Minutes’ interview: US Elections news",
+      "excerpt": "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,",
+      "sourceUrl": null,
+      "webUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "cdnAmpWebUrl": "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
+      "publishedDateTime": "2020-10-22T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Jazeera English",
+        "domain": "aljazeera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/aljazeera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-trump-got-81-of-the-evangelical-vote-in-2016-meet-the-conservatives-who-are-working-to-vote-him-out.md",
+      "title": "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out.",
+      "excerpt": "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
+      "originalUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp",
+      "publishedDateTime": "2020-10-22T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-john-brennan-says-trump-wouldnt-qualify-for-a-security-clearance-for-a-variety-of-reasons.md",
       "title": "John Brennan says Trump wouldn't qualify for a security clearance \"for a variety of reasons'",
       "excerpt": "When asked if someone with the amount of debt President Trump has would qualify for a security clearance, former CIA director John Brennan said he thinks President Trump wouldn’t qualify for a security clearance “for a variety of reasons.",
@@ -220,6 +324,63 @@
       ]
     },
     {
+      "path": "_news/2020-10-22-linda-ronstadt-slams-donald-trumps-state-of-emergency-at-the-us-southern-border-encouraging-resentment.md",
+      "title": "Linda Ronstadt slams Donald Trump's 'state of emergency' at the U.S. southern border, 'encouraging resentment'",
+      "excerpt": "Linda Ronstadt bashed Donald Trump and his administration’s handling of the situation at the United States’ southern border.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
+      "originalUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Rodstadt-Trump_Getty-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/linda-ronstadt-donald-trump-state-emergency-southern-border-resentment.amp",
+      "publishedDateTime": "2020-10-22T05:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-election-2020-updates-i-think-the-mute-is-very-unfair-trump-on-debate-mics.md",
       "title": "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics",
       "excerpt": "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware.",
@@ -408,58 +569,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-latest-trump-abruptly-ends-60-minutes-interview.md",
-      "title": "The Latest: Trump abruptly ends '60 Minutes' interview",
-      "excerpt": "President Donald Trump on Tuesday abruptly ended an interview with CBS’ “60 Minutes” that is set to air this Sunday",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_4f10d43eec564a0eabbb3fb9f0919b8c_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-melania-trump-lingering-cough-covid-19-73716606",
-      "publishedDateTime": "2020-10-21T23:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -792,7 +901,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2202,
+      "heat": 2242,
       "tags": null,
       "images": [
         {
@@ -844,7 +953,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -1467,106 +1576,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote.md",
-      "title": "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’",
-      "excerpt": "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
-      "originalUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-12.29.29-PM.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/",
-      "publishedDateTime": "2020-10-20T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/rawstory.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-trump-hosting-sinclair-town-hall-in-white-house-rose-garden.md",
-      "title": "Trump hosting Sinclair ‘town hall’ in White House Rose Garden",
-      "excerpt": "President Trump on Tuesday will tape a “town hall” event in the White House Rose Garden with Eric Bolling, the former Fox News host, for the Sinclair Broadcasting Network. The event",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "originalUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/201020-trump-sinclair-town-hall.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/20/trump-hosting-sinclair-town-hall-in-white-house-rose-garden/amp/",
-      "publishedDateTime": "2020-10-20T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

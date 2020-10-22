@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-pers
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -179,6 +179,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 52
+  - title: "Waka Flocka Flame Thinks Donald Trump Is A Better President Than Barack Obama"
+    excerpt: "Over the last few weeks, Hip Hop artists have revealed their support for incumbent President Donald Trump over former Vice President Joe Biden. For example, 50 Cent suggested having lower taxes for wealthy people is more important than being concerned about Trump’s racist rhetoric and policies."
+    publishedDateTime: 2020-10-22T11:04:00Z
+    webUrl: "https://allhiphop.com/news/waka-flocka-flame-thinks-donald-trump-is-a-better-president-than-barack-obama/"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 52
+    images:
+      - url: "https://s34449.pcdn.co/wp-content/uploads/2020/09/waka-flocka-1.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
     excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
     publishedDateTime: 2020-10-16T13:14:00Z

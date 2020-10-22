@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 2290
+heat: 2310
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's case of coronavirus changed the conversation"
+    excerpt: "Coronavirus remains the most prominent thing Americans have seen, read or heard about President Donald Trump, but the details and the tone of what they have heard about it have shifted following Trump's own case of the virus.\n    \n"
+    publishedDateTime: 2020-10-22T16:00:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TiAeHMonQQU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/the-breakthrough-trump-biden-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/the-breakthrough-trump-biden-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201009173159-trump-white-house-balcony-1005-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

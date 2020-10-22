@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/campaign/521501-bidens-non-answer-answer
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521501-bidens-non-answer-answer-on-police-and-court-packing?amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
+    excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/22/fact-check-post-misquotes-joe-biden-court-packing/3713908001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713908001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713908001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Once Said Packing the Supreme Court Was a Bonehead Idea—What Will he Say Tonight?"
     excerpt: "Biden, who once said he was staunchly opposed the idea of court packing, has avoided giving a clear answer on what he'd do if elected as president in less than three weeks."

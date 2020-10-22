@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/white-house/520406-donald-trump-is-a-tax
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520406-donald-trump-is-a-tax-loser-just-like-a-lot-of-other-people?amp"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://i.insider.com/5f89b555d260780019341d29?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Trump cannot count on last-minute deciders to save him"
-    excerpt: "Politics Trump cannot count on last-minute deciders to save him. Posted . Four years ago, U.S. President Donald Trump rode a wave of late-deciding voters to a shocking election vi"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-cannot-count-on-last-minute-decide-idRCV008V1O?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
-        width: 4981
-        height: 3321
         isCached: true
 
 secured: "Pi+gHmIPcz8XaT72TuDnhHl1qkqj5wAC83qqvICoWo5pHi+zrfLfFiHNzheDKwK2fCqtpQCpdCPZvAL1hP6u9T+sJiLez89SDR6WH9pLl1RoDQE7I30YNbV/uTgaq5WcZpATfaGDNITyLLeKJYAdnYQPpyIDxDSX4A0TSg2shizC3WFoSwXX9bjjwIHBb7AmzYV5pkvVOdOF9j393K4m9+HQcV3vu5xzxhSNhjw2XyM/MNsfZyISNxjad8uTwCpj12FejlL2OSk3Lztvyxv/dzj2Y16JgYSRujgV3QBhUOVaoTpqBzMUE75zjdsHEnaOg9npXwZzUqHV02srVN1J+KTTMLEJ3/J+Db0UnNXQipQhbaA/qp8y+Q0rPABr4+zmah/CM1pcRe6QsMDVCTQO9w25CMSYI1Sk3blooHsPDPooVL2sTg9aVtEmzx+rnVNJ7cwm74rKaYiAxruND8p3xpQsfI+uDBObe5KzytGXNhA6mDc1wwhR+rjh+nUbvsj6HvwMesanD3kwy0NU7hzSBw==;/zTj8/Gd9VWeX9ygWi5xOg=="

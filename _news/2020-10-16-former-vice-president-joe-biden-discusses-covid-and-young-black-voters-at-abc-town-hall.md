@@ -189,6 +189,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 52
+  - title: "Waka Flocka Flame Thinks Donald Trump Is A Better President Than Barack Obama"
+    excerpt: "Over the last few weeks, Hip Hop artists have revealed their support for incumbent President Donald Trump over former Vice President Joe Biden. For example, 50 Cent suggested having lower taxes for wealthy people is more important than being concerned about Trump’s racist rhetoric and policies."
+    publishedDateTime: 2020-10-22T11:04:00Z
+    webUrl: "https://allhiphop.com/news/waka-flocka-flame-thinks-donald-trump-is-a-better-president-than-barack-obama/"
+    type: article
+    provider:
+      name: AllHipHop
+      domain: allhiphop.com
+    quality: 52
+    images:
+      - url: "https://s34449.pcdn.co/wp-content/uploads/2020/09/waka-flocka-1.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
     excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
     publishedDateTime: 2020-10-22T08:50:00Z

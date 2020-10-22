@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democrat
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Sanders: Progressives will work to 'rally the American people' if Biden wins"
+    excerpt: "Sen. Bernie Sanders (I-Vt.) predicted that progressives would look to move Democratic presidential nominee Joe Biden toward their priorities if he wins the White House this November and Democrats sweep Congress."
+    publishedDateTime: 2020-10-22T17:24:00Z
+    webUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins"
+    ampWebUrl: "https://thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/522262-sanders-progressives-will-work-to-rally-the-american-people-if-biden-wins?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/sandersbernie_022620gn28_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "i/2xWSwX2xrNrQ1yIOu7ghbmuxNg1OsxuAKOZAeIqCcmd9FUham6BVHa0b8bk/5QQDSRzdFhsLujS4cykU2j8hQN0JMxgfi4roD4AystKbrSMito9vE9MR7hwULp8o3JcjzjqjEZxgAGKKsrfxgKWuFiFqh+xUkXFEN+DsRDxr4pVXS7nHOthwXOmHWaFqCBRyBR4bdUHx8jw0kbtzLSs9vmZzLWUG/ALPUMBTqLGbisOXC8v911ImnBIYxv/Oo+j4pqPeIbwom7wkIU8lKkDEvikVlfMiVWD6ouHvbnKxqG7sk8SxcuiCcH9mWNhXEIwz/v7VArMGxbFfN9sfjO0Gkx51ezORWI9NVok7NzpDxC7YSk4/Ak0BCxw4tfcaV3cN/VM7JtptpWSWakci8XzMFkWcQ/MZemki0z95oN93/qoJEtdRld3gk3uE9g7QpVZotYhnDG2tuOzgth4YW6LUuN0Lq9E+9SzvpnhceARSclUx3wbyQA0XJhH9TuweSkTdpJIvdZ3HXPzKuCmOqmSg==;Gpa64dvWtL3nbY0kOG+q4g=="
 ---

@@ -2,23 +2,22 @@
 category: news
 title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
 excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-publishedDateTime: 2020-10-22T02:35:00Z
-originalUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-ampWebUrl: "https://amp.freep.com/amp/3722503001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
+publishedDateTime: 2020-10-22T02:21:00Z
+originalUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
 type: article
-quality: 92
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
@@ -185,6 +184,22 @@ related:
     quality: 123
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_09212020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trailer park residents say landlord threatened to double rent if Biden wins"
+    excerpt: "A Colorado trailer park's owner is accused of threatening tenants with sharp rent increases and other costs if President Trump does not win reelection."
+    publishedDateTime: 2020-10-22T17:04:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
         width: 980
         height: 551
         isCached: true
@@ -919,6 +934,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "DMaFiKf9oWkQKTQkdQYmJ0NkP2Cdpa/nqIJeoJjiX6GhlP1rz6oFYQzeOH4cpXhj4kYFs1ty4UgURFYJk9eX8vgNloOmBWy6m7DgrsqNeCHVGMKbtd/8i/i3A6tfiASLGaT6Pq8VfNpJth9cpseh8LegE6LSrdo0p7vJNPnpsuyjGtC6xaSoGfFG8oUBF0ewL8TU6UfLdxMsflxdOTdx7ZDAxqYYYAG/sN7v/rCS/UjYWA7/KAGVkDnpdRhpfTqe2yvIbvgUN4t2kADmBPy6A89Rp/gSFxUdZ8ZCoHW0p2VvQfQMjW44Oxk0cFNcodCUOd0WEQM11UVmCupfBCAS7CJAFaAM5zNdG4ItwnAJfRlrqjhRq3ekhw8FJr372gUFGMtlq4+Prb5CthyZOgUdrYGuu73Vurex9USWv/RN2dLPZbXUd9kc64+c3pygVFF2td8JMrVcMPeKKZlykPrEZ3196G5Xi9dlV35pLAfC9bwlgndYst0jrKxjXtGZenV78/nSDTkKCao54ePBdRkQIA==;az7XvoO8uE7n9zrdyjNXUg=="
+secured: "Zi8HtQZe+Y2/9tHadXZTUm+JAhDY8EKxtPZpUBslFBYP2PnyVYyrmqxsQDBai6JOyVpkt04MCvxqf9YWwsDOJSDJXx0SnKXsyr9z1iHBuosLtkT7XcfrEFm8BU/fw6jRh/L7ZR+kQD1Yk2X1Lvis7OmvMctY8BGF/+yCXqwAA5xLnyBy51OcxrgbUWhTvZq7bx7ljfTlNcmIy5SwHqoCsJzSGmsfDwvcZ67CI4GOfV4UDiysBvfTolDsZUMZ4JpgLMNQhP80W4jDdEUf9+rf13LUTYS/XkfyxyUY/Crq1+UvWJtLS/QXTDKL3IJlCVzGi6QdLRTSYxzCZpkdBQQLpdQtaZ5TipDvOdhz3m7jMBU=;+mH7O+xOZwbWV7AvaEflxQ=="
 ---
 

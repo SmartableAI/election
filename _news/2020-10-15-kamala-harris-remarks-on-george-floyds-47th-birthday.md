@@ -187,6 +187,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trailer park residents say landlord threatened to double rent if Biden wins"
+    excerpt: "A Colorado trailer park's owner is accused of threatening tenants with sharp rent increases and other costs if President Trump does not win reelection."
+    publishedDateTime: 2020-10-22T17:04:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522261-trailer-park-residents-say-landlord-threatened-to-double-rent-if-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_10152020_gettyimages.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Republican senator faces backlash after mocking colleague Kamala Harris’ name"
     excerpt: "Sen. David Perdue purposefully butchered his colleague Sen. Kamala Harris' name at a Trump rally, drawing criticism. They've served together since 2017."
     publishedDateTime: 2020-10-17T02:33:00Z
@@ -350,22 +366,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
-    excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-    publishedDateTime: 2020-10-22T02:35:00Z
-    webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-    ampWebUrl: "https://amp.freep.com/amp/3722503001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 92
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Kamala Harris’ husband Doug Emhoff to campaign in West Michigan for Biden"
     excerpt: "Doug Emhoff, the husband of Democratic vice presidential nominee Kamala Harris, is planning several campaign visits in Michigan Friday. Joe Biden’s presidential campaign announced Emhoff will visit Muskegon County,"
     publishedDateTime: 2020-10-21T19:06:00Z
@@ -406,6 +406,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
+    excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
+    publishedDateTime: 2020-10-22T02:21:00Z
+    webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "BREAKING: Kamala Harris to campaign in Florida Monday"
     excerpt: "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida."

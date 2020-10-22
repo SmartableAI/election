@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1545
+heat: 1565
 published: true
 
 provider:
@@ -269,6 +269,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201001093441-joe-biden-0918-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and Trump prepare for a final showdown with lessons from the first debate"
+    excerpt: "Inside Joe Biden's house in Wilmington, Delaware, Bob Bauer, the typically soft-spoken veteran Democratic attorney, goes on the attack against the former vice president.\n    \n"
+    publishedDateTime: 2020-10-22T16:34:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gfRTfLg16FE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022110005-05-trump-biden-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

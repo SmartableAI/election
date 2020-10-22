@@ -111,22 +111,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump abruptly ended his '60 Minutes' interview after 45 minutes"
-    excerpt: "The news came shortly after President Donald Trump tweeted a video of '60 Minutes' host Lesley Stahl not wearing a mask inside the White House."
-    publishedDateTime: 2020-10-20T20:55:00Z
-    webUrl: "https://www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-trump-prematurely-ended-60-minutes-interview-did-not-return-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 123
-    images:
-      - url: "https://i.insider.com/5f8f4967b0526700185cc768?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
     excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
     publishedDateTime: 2020-10-07T10:27:00Z

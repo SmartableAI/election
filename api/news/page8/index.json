@@ -2,6 +2,317 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-16-sean-hannity-says-savannah-guthrie-was-joe-bidens-surrogate-in-trump-town-hall-ambush.md",
+      "title": "Sean Hannity says Savannah Guthrie was 'Joe Biden's Surrogate' in Trump Town Hall 'Ambush'",
+      "excerpt": "Fox News host Sean Hannity accused the chair of Donald Trump's televised town hall of acting as Joe Biden's \"surrogate,\" claiming the president had been \"ambushed\" when challenged over previous comments he made on the subject of white supremacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
+      "originalUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 370,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1653728/trump-guthrie-town-hall.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-hannity-guthrie-biden-1539659?amp=1",
+      "publishedDateTime": "2020-10-16T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-end-this-nightmare-rudy-giulianis-daughter-urges-americans-to-vote-for-joe-biden-in-vanity-fair-editorial.md",
+      "title": "'End this nightmare': Rudy Giuliani's daughter urges Americans to vote for Joe Biden in Vanity Fair editorial",
+      "excerpt": "Caroline Giuliani called her father the \"president's personal bulldog,\" and described Trump's time in the White House as a \"reign of terror.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
+      "originalUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f88b9f19e9fe40019009a62?width=1200&format=jpeg",
+          "width": 733,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rudy-giulianis-daughter-urges-americans-to-vote-for-biden-2020-10?amp",
+      "publishedDateTime": "2020-10-16T00:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-twitter-announces-new-policies-after-hunter-biden-report-imbroglio.md",
+      "title": "Twitter announces new policies after Hunter Biden report imbroglio",
+      "excerpt": "A top policy executive at Twitter announced policy changes at the social media giant late Thursday after the company faced its toughest allegations yet of censorship in order to protect Democratic candidates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Jx3asnkKSlg/twitter-announces-new-policies-after-hunter-biden-report-imbroglio",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 915,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-announces-new-policies-after-hunter-biden-report-imbroglio.amp",
+      "publishedDateTime": "2020-10-15T21:19:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-the-fbi-is-investigating-whether-purported-hunter-biden-burisma-emails-were-part-of-a-foreign-intelligence-operation.md",
+      "title": "The FBI is investigating whether purported Hunter Biden-Burisma emails were part of a foreign intelligence operation",
+      "excerpt": "The news comes shortly after it was reported that one of the sources of the emails, Rudy Giuliani, was a target for Russian intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
+      "originalUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f2232ad40c1f34f271cefc4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-investigating-hunter-biden-burisma-emails-foreign-intelligence-operation-2020-10?amp",
+      "publishedDateTime": "2020-10-15T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-gloats-about-us-marshals-killing-of-portland-antifa-suspect.md",
+      "title": "Trump gloats about US Marshals' killing of Portland 'antifa' suspect",
+      "excerpt": "President Donald Trump on Thursday gloated over the September killing of Portland, Oregon, murder suspect Michael Reinoehl by law enforcement officers who had been deputized as US Marshals.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9nwJfPhxlyA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015154515-101-trump-lead-image-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/trump-fugitive-shooting/index.html",
+      "publishedDateTime": "2020-10-15T20:26:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-donald-trump-jr-and-special-guest-to-visit-volusia-saturday.md",
+      "title": "Donald Trump Jr. and 'special guest' to visit Volusia Saturday",
+      "excerpt": "Donald Trump Jr., son of the president, will headline a Trump campaign rally Saturday in Volusia County that's expected to attract thousands of supporters. The event also promises a \"special guest.\" The \"Fighting Against Socialism Bus Tour\" is expected to arrive at the 2A Ranch,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
+      "originalUrl": "https://www.news-journalonline.com/story/news/politics/elections/2020/10/15/donald-trump-jr-and-special-guest-visit-volusia-saturday/3668401001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/10/NTFO/a30fece2-3b0c-4563-8054-f08340a39889-101020_Donald_Trump_Jr_11.jpg?auto=webp&crop=4511,2538,x0,y229&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.news-journalonline.com/amp/3668401001",
+      "cdnAmpWebUrl": "https://amp-news--journalonline-com.cdn.ampproject.org/c/s/amp.news-journalonline.com/amp/3668401001",
+      "publishedDateTime": "2020-10-15T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daytona Beach News-Journal",
+        "domain": "news-journalonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-savannah-guthrie-grills-trump-at-nbcs-town-hall.md",
       "title": "Savannah Guthrie grills Trump at NBC's town hall",
       "excerpt": "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n",
@@ -1037,317 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biden-campaign-puts-up-huge-fundraising-numbers-in-september.md",
-      "title": "Biden campaign puts up huge fundraising numbers in September",
-      "excerpt": "Shattered records with $383 million haul, giving his campaign a whopping $432 million cash on hand and an enormous leg up on Trump's in campaign's homestretch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/biden-campaign-fundraising-september/",
-      "originalUrl": "https://www.cbsnews.com/news/biden-campaign-fundraising-september/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/07/e09696b0-d773-4f59-8cdb-a9f02a49b57f/thumbnail/1200x630/a99e3f72fd1556e17b867982d953ea7a/cbsn-fusion-joe-biden-campaigns-in-pennsylvania-calls-for-national-unity-at-gettysburg-thumbnail-561204-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-campaign-fundraising-september/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-campaign-fundraising-september/",
-      "publishedDateTime": "2020-10-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trumps-lack-of-honesty-on-covid-hangs-over-his-reelection-bid.md",
-      "title": "Trump's lack of honesty on Covid hangs over his reelection bid",
-      "excerpt": "President Donald Trump's refusal to tell America the truth about the pandemic in a bid to save his political skin, on display at a potential super-spreader rally in Iowa on Wednesday night, is fostering a vacuum in national leadership and crucial public health mobilization as a winter of sickness and",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ljN9iFIgX0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0ljN9iFIgX0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 2090,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014163724-01-donald-trump-1014-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html",
-      "publishedDateTime": "2020-10-15T03:51:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-steve-martin-shows-off-his-mike-pence-themed-halloween-costume.md",
-      "title": "Steve Martin shows off his Mike Pence-themed Halloween costume",
-      "excerpt": "Steve Martin has shared a look at his Halloween costume honouring last week's vice presidential debate and an incident involving Mike Pence",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/film/steve-martin-shows-off-his-mike-pence-themed-halloween-costume-2785564",
-      "originalUrl": "https://www.nme.com/news/film/steve-martin-shows-off-his-mike-pence-themed-halloween-costume-2785564",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2020/10/steve-martin.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/film/steve-martin-shows-off-his-mike-pence-themed-halloween-costume-2785564?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/film/steve-martin-shows-off-his-mike-pence-themed-halloween-costume-2785564?amp",
-      "publishedDateTime": "2020-10-15T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-melania-trump-said-she-chose-to-go-a-more-natural-route-relying-on-vitamins-and-healthy-food-to-treat-her-covid-19.md",
-      "title": "Melania Trump said she 'chose to go a more natural route,' relying on 'vitamins and healthy food' to treat her COVID-19",
-      "excerpt": "The First Lady didn't specify the supplements she used in her \"natural route\" to treat the coronavirus. Here's what we know about vitamins and COVID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7bc7b2282c500018c78bd1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-14T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-trump-forced-into-playing-defense-looks-to-shore-up-support-in-iowa-im-a-little-bit-concerned.md",
-      "title": "Trump, forced into playing defense, looks to shore up support in Iowa: ‘I’m a little bit concerned’",
-      "excerpt": "The president sought to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html",
-      "originalUrl": "https://www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/K5BfMJN8NlAQpKsWIxZcoMuzPvg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MWSPPR724FALPNFEZ2KCEXQSI4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-updates-20201015-yqjsrfinizdn3aem3ahup6e6wy-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-14T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.md",
-      "title": "Biden once again shatters fundraising record with eyepopping $383 million haul last month",
-      "excerpt": "Joe Biden shattered the monthly record for fundraising during a presidential campaign when he hauled in a massive $364.5 million in August.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
-      "publishedDateTime": "2020-10-14T19:43:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

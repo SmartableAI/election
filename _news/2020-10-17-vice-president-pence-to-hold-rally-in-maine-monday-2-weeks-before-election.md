@@ -59,6 +59,17 @@ related:
         width: 2000
         height: 1694
         isCached: true
+  - title: "Vice President Mike Pence To Campaign In Oakland County Thursday"
+    excerpt: "(CBS DETROIT) – Vice President Mike Pence is returning to Michigan Thursday for a campaign rally. The visit comes less than two weeks before Election Day and before the second presidential ..."
+    publishedDateTime: 2020-10-22T16:12:00Z
+    webUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/"
+    ampWebUrl: "https://detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    cdnAmpWebUrl: "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/2020/10/22/vice-president-mike-pence-to-campaign-in-oakland-county-thursday/amp/"
+    type: article
+    provider:
+      name: CBS Detroit
+      domain: cbslocal.com
+    quality: 55
 
 secured: "fLSDfJuaENmOKFj99ITaal1cymEWK1B8RzW1koufZ8ElpQYKGe/qpgClVrfGDZw/2ScWWWQc7pBXkOK+cWieW3HGt+fuB2pRXyWlTQOSwtIflIP9b5/EqPbEDHu/sgidECx+inuBZAtUTmLSvg4zpjmq9eUaGDNd1U9RW0NTsFUU4phPvjebNFI09T/Pa/p2Lbk/toQ5Y2Hyjao6Z0VyDamvAHP0/qVEtxu6RwLgWycHbkYfM5a4VXbN1sjnNIQANEHllqVrdmZmFuZ2K+kQuIWcmGgRmAAnwMpCV278ECkIBQuhpxn8WQ8h/CpD0RvM2MuzVMZIlCCFJUjIjG295BukJAbsrmtxbDCbxe5zq8I=;ZM2ckKg23vFW0lZC671FYQ=="
 ---

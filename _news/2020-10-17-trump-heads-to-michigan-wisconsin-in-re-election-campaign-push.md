@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27206X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X"
 type: article
 quality: 140
-heat: 1560
+heat: 1580
 published: true
 
 provider:
@@ -684,6 +684,22 @@ related:
       - url: "https://media.ksdk.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
+    excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
+    publishedDateTime: 2020-10-22T17:37:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CYIB5TI7JFBXBD2CNQUQJFKTN4.png"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Damage control? Trump hints at leaving the country if he loses the election"
     excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."

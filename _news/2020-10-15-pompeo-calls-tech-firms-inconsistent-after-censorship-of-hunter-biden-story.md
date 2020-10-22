@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pelosi shuts down reporter asking question on Joe Biden's 'corruption'"
+    excerpt: "House Speaker Nancy Pelosi on Thursday refused to address allegations of \"corruption\" against Democratic presidential nominee Joe Biden and quickly shut down a question from a reporter on the topic. "
+    publishedDateTime: 2020-10-22T16:03:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6CCcVpdg2-Y/pelosi-shuts-down-reporter-question-joe-biden-corruption"
+    ampWebUrl: "https://www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-shuts-down-reporter-question-joe-biden-corruption.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rudy Giuliani: Purported Hunter Biden emails will 'shock the hell out of you'"
     excerpt: "Emails, texts and photos found on an abandoned laptop that purportedly belonged to Hunter Biden, the son of former Vice President Joe Biden, allegedly show federal crimes among other shocking things, President Trump's personal attorney Rudy Giuliani told \"Fox & Friends\" on Friday."
     publishedDateTime: 2020-10-16T17:26:45Z
