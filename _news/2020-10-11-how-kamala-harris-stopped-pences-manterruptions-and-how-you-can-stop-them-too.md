@@ -704,6 +704,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Harris-Pence debate: A round-by-round scorecard of the vice presidential matchup"
+    excerpt: "Vice President Mike Pence and California Sen. Kamala Harris were on stage together for their only debate Wednesday night in Salt Lake City. This year, the vice presidential candidates may face ..."
+    publishedDateTime: 2020-10-08T01:35:00Z
+    webUrl: "https://www.latimes.com/politics/story/2020-10-07/harris-pence-vice-presidential-debate-scorecard"
+    ampWebUrl: "https://www.latimes.com/politics/story/2020-10-07/harris-pence-vice-presidential-debate-scorecard?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2020-10-07/harris-pence-vice-presidential-debate-scorecard?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 145
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3a4ea78/2147483647/strip/true/crop/2048x1338+0+14/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2F1c%2F8f4e391c8defa310673814d338b7%2Fimg-53a8ac21-turbine-la-bio-melanie-mason"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Joe Biden Projected to Spend Twice as Much as Trump on TV Ads by Election Day, Analysis Finds"
     excerpt: "A new analysis find that President Donald Trump and Democratic presidential nominee Joe Biden will spend a combined total of between $2.75 billion and $2.8 billion by November 3, but Biden's campaign will double the amount Trump will spend on television advertising."
     publishedDateTime: 2020-10-21T00:29:00Z

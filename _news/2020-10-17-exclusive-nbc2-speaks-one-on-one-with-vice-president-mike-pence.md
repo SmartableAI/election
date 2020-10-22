@@ -9,7 +9,7 @@ ampWebUrl: "https://nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-o
 cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/election/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/amp/"
 type: article
 quality: 75
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/97/197d2af2-3955-57f9-a37e-d506b801d511/5f8b945d9b476.image.jpg?resize=1120%2C630"
         width: 1120
         height: 630
+        isCached: true
+  - title: "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5"
+    excerpt: "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,"
+    publishedDateTime: 2020-10-22T03:44:00Z
+    webUrl: "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/"
+    type: article
+    provider:
+      name: WABI
+      domain: wabi.tv
+    quality: 55
+    images:
+      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG"
+        width: 980
+        height: 550
         isCached: true
 
 secured: "q7+nFajhfvH/wtL06Gh6h4cfxXbZcnD3ATZpz6UK/KeLOTTUIml91cdOnTlIA3d8WZuhS6cQKrBJmSGRvU69/jPGLuJpOb85szTD240YmAG3qmNlAnMgTAPimQXlp5FsmC8G55J9xVVXuUkJ9kTM8s88U+qUGs0GVaLbdO9yYBqXVrX88VbGqvyO+S5bfrMYXl9bxmXpMDpmmUcCg3QStJX5dXSzle6AigyIeLMnMC2NT3jGE7TkDSzGvbrIrPqK3FBxLdH7AZUr4fztUCzyVZeJkB5wiXYHesx35N+qBXnzPxHkh39tP+mLIRgq7tswnfUW1NeKgcu0Y8JEwbssgRtVbRNH/DtQVbcG/m4gmjCpplhr/AvLDptf9LKo+cGtW7f2w2G38fpjSYVm7QkElZe+tKGSAhE2N67KHAxDKcAoBP7DqtfeYsRC5ZHNXFon34aFvEvo2mCpwESv7RM483f2lyCxFsU5RQsK5F7hK0tZB6Tzc5Sbhrtu3fN2wgmlwezsa2LwLFy23mHmZy1B9Q==;vXCBARW/KUtTamo0VcAFWA=="

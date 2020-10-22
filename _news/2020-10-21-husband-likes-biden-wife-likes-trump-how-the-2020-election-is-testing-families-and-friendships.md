@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6004687002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004687002"
 type: article
 quality: 142
-heat: 1922
+heat: 1942
 published: true
 
 provider:
@@ -430,6 +430,22 @@ related:
       - url: "https://i.insider.com/5f909edf212113001874006c?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump’s campaign is laser-focused on appealing to Donald Trump"
+    excerpt: "Earlier this month, an ad released by President Trump’s reelection campaign kicked up a furor because it implied an endorsement from Anthony S. Fauci, the government’s top infectious-disease expert. In retrospect,"
+    publishedDateTime: 2020-10-21T19:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/21/trumps-campaign-is-laser-focused-appealing-donald-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/21/trumps-campaign-is-laser-focused-appealing-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/21/trumps-campaign-is-laser-focused-appealing-donald-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GRHAZJQQIYI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
     excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."

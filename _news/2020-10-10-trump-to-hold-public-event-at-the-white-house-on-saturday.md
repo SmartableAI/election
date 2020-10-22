@@ -699,6 +699,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Labor chiefs call 'emergency' session over Trump's election threats"
+    excerpt: "The scenario-gaming reflects an unease among union officials about both the outcome and Trump's suggestions that he will not accept losing."
+    publishedDateTime: 2020-10-22T02:29:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/labor-chiefs-call-emergency-session-over-trump-s-election-threats-n1244145"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244145"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244145"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421816/201021-seiu-vote-miami-jm-1119_0d2fb96567ccbe37c56cb51e40757fda.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump administration renews push for nuclear arms agreement with Russia before election"
     excerpt: "With only weeks to go until the general election, the Trump administration is renewing a push to finalize a nuclear agreement with Moscow, hoping that a deal may force China to reconsider its position on trilateral arms talks."
     publishedDateTime: 2020-10-12T15:49:00Z
@@ -1319,6 +1335,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Iran behind threatening pro-Trump emails to U.S. voters, feds say"
+    excerpt: "The Iranian government is behind recent emails threatening Americans with retribution if they do not vote to reelect President Donald Trump, national security officials said on Wednesday. In addition,"
+    publishedDateTime: 2020-10-22T00:41:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/iran-voter-registration-fbi-431048"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/5e/d6/57869b9c4c39aa021efc2f0f8b18/200915-john-ratcliffe-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "We may never recover from the damage Trump has done to the Supreme Court"
     excerpt: "Unless, of course, you’re a nominee for the Supreme Court of the United States. Then, based on how the Republicans have handled the vacancy created by Justice Ruth Bader Ginsburg’s death, there are no rules."
     publishedDateTime: 2020-10-20T15:14:00Z
@@ -1383,6 +1413,22 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 102
+  - title: "What Donald Trump Learned From David Duke’s Political Rise"
+    excerpt: "David Duke got trounced in his bid for the Louisiana governorship, losing to Edwin Edwards by 22 percentage points. And yet, the neo-Nazi and former Klan leader could frame his defeat as a kind of triumph."
+    publishedDateTime: 2020-10-22T00:49:00Z
+    webUrl: "https://slate.com/news-and-politics/2020/10/donald-trump-cnn-interview-david-duke-1991.html"
+    ampWebUrl: "https://slate.com/news-and-politics/2020/10/donald-trump-cnn-interview-david-duke-1991.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/news-and-politics/2020/10/donald-trump-cnn-interview-david-duke-1991.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 85
+    images:
+      - url: "https://compote.slate.com/images/36941fca-478c-4b21-a79c-db91ec071ba3.jpeg?width=780&height=520&rect=1559x1039&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
   - title: "Here’s How the GOP Can Get Rid of That Trump Stench"
     excerpt: "Donald Trump is headed toward a massive defeat —at least, if any of the polls (or our eyes) are to be believed. What is more, there’s a decent chance a massive blue wave could do the unthinkable, sweeping even “safe” Republicans like South Carolina Senator Lindsey Graham out to sea."
     publishedDateTime: 2020-10-10T08:22:00Z

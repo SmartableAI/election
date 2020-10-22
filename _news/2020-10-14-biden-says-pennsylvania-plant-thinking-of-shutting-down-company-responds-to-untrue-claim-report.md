@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-pennsylvania-plant-think
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-pennsylvania-plant-thinking-of-shutting-down-company-responds-to-untrue-claim-in-memo-report.amp"
 type: article
 quality: 160
-heat: 160
+heat: 180
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Philadelphia-area Biden supporters confident they'll make the difference for him in Pennsylvania"
+    excerpt: "The path to the White House for Joe Biden could run through the suburbs of Philadelphia. While there's little doubt that the former vice president will win the liberal suburbs of Bucks, Chester, Delaware,"
+    publishedDateTime: 2020-10-21T19:07:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/philadelphia-area-biden-supporters-confident-theyll-make-the-difference-for-him-in-pennsylvania?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 52
 
 secured: "6Mm76HZp/3tYqIsQ66SS1DHXYdBEK+6U2oMklUCm6plUW42IleA40gfkDA3bMd3v0Z8rHXkjZojVfsY/0TFlNUNpYcKdj8qFmAlErW55I6O6v9sVxnX1YNWw74s1lIPZlWxaNXeat/uPmJgk+DmVcfiSBZerOib8Dmrfy7ACyqKfkKdsx40+VeR3Hl1fDIGgyeznVvWVnEL6vs0eTPIsE3QAQ5uoVMK8fuWufs163vp7qqv4YFQ71TVTj8WN9rgA0phLRdFYdBCs7fGo5WZso+wtCUQduX5DKKWNySqY+/6k6ghbINXmZb5LLQQz+OIBOtGN7+zDFr00339Q5q2nmhN+129ZuS9tnTLmSQ2immA=;QFrQYSbWMo6GUx0oI2gouw=="
 ---

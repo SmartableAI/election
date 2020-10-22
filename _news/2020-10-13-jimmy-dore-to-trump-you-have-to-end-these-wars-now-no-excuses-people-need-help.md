@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Trump campaign announces the launch of new national Spanish-language ad \"Por Trump\""
-    excerpt: ""
-    publishedDateTime: 2020-10-21T00:46:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/w9jTEfWRWh8/trump-campaign-spanish-language-ad-por-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-spanish-language-ad-por-trump.amp"
+  - title: "Pro-Trump hay bale sculpture crops up after Tennesee man's traditional signs were cut down"
+    excerpt: "Hay is for…campaign signs. At least on one Tennessee man’s property."
+    publishedDateTime: 2020-10-21T00:44:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AxKgxYL8s8g/pro-trump-hay-bale-sculpture-tennesee"
+    ampWebUrl: "https://www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pro-trump-hay-bale-sculpture-tennesee.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/42dd33d5-AP20294037644605.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Trump-2020-Hay-ADRIAN-POWELL-1.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

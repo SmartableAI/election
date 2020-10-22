@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
-      "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
-      "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3702824001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001",
-      "publishedDateTime": "2020-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-19-trump-tells-campaign-staff-were-going-to-win-calls-fauci-a-disaster.md",
       "title": "Trump tells campaign staff ‘we’re going to win’, calls Fauci a ‘disaster’",
       "excerpt": "President Trump told campaign staff “we’re going to win this race” in a rouse-the-troops phone call Monday morning where said he would have up to five rallies",
@@ -1275,6 +1223,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-take-nothing-granted-despite-bidens-lead-polls.amp",
       "publishedDateTime": "2020-10-18T13:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.md",
+      "title": "Whitmer tells Trump to stop focusing on her, start focusing on pandemic",
+      "excerpt": "Michigan Gov. Gretchen Whitmer had stern words for President Trump on Sunday – telling him to stop spending so much time criticizing her and instead spend more time on fighting the novel coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4qZrdrARkJc/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/c4a1ac56-untitled.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp",
+      "publishedDateTime": "2020-10-18T13:55:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

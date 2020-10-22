@@ -384,6 +384,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eric Trump accuses Biden of 'hiding from one of the biggest scandals in American history'"
+    excerpt: "Joe Biden is keeping a low profile ahead of Thursday's presidential debate both because he doesn't have the \"stamina\" to actively campaign and is afraid of questions about potential corruption involving himself and his son Hunter, Eric Trump claimed on \"Hannity\" Wednesday. "
+    publishedDateTime: 2020-10-22T03:39:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sj0FizH3ksA/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
     publishedDateTime: 2020-10-15T18:59:33Z
@@ -871,6 +887,6 @@ related:
         height: 500
         isCached: true
 
-secured: "bCzrvRIFni/50KurPgqFhbHMEu56dX3618atKLOV886LUuHUrH+ayYoK39BcAKKD295Gp0UJrhifkEM0edaQdhXRzIVOoIR80FsMbDgjGxz86YFL6jL8cBPf3qZPStNDAnPzIlJvMyb0lnI5BBeYcmTtNaILhG5lAv/0/ha7Rok2Hx9gplUJ6MjmppjOaxVpKpyZ+zx6WQ1MPnT3mhaFkWY8ZGFRGZWucr5yTDDAFditRRmCt/7FxFDPfa8GWT3UyWuVwWmpUcJCHz+6chQugJ78nmwTNLJ47Z0kHlwzmfkmB2WhyUFSW/CYG3Fjo4K35MhoGhzQB1PN8DTkX//q7udQ4rs81aEhLoeR4YvpHCA=;p0S3SS/tkQX0WkWtg/eZkQ=="
+secured: "XaLfEhpOQp74E96WY5fBTQhRoBSpKjTlv6+/GWaG2oiec2WQdKMgvhU8RNfZjFvGnvv/IB7HQedD/sOyrwK9zo+kNj0Z5qqQLBOefbuFaeMUyluV+2SmJDcMgZhu2reD3My2bd2ooZWwegeNhhGHw5zoE2rssIN/lefmwBdlyRv86XQMgRxZOgMlcfDBt0doPOvajYeSNP6OG/kCXXFhIM4Bta78XIZ9b7cklfEzvw7CE7O7EA7dPKJuJx7Sx+Y5PcrB32S7LCWho1Kw9CqYvJQWe0c9mlcaIvZaVi6eFHLKQ2KqRg2xy0CzALPAL9DPch0LUXazqfCRW/7R/I/ydRatBxsAkTv1cYvtHU9Nmzw2vasXudELpp9PX4YnyLv4B3eX243RliRbps1TiIJKk6aHbh3Hh3xtGbzHVDbNaycbD8dH2eKUWKqefsc2wEpJUsjBs3o30ZkTGlv9C2VEKFwiMAKHC46sA2+UAB6Heg16lEH1d6lRpT5B7tcT5f3IPLjCqSsEs86mMu+yYXN06g==;B9AYMFA3+/zJuZCX4tutsw=="
 ---
 

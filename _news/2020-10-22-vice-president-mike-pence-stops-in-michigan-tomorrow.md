@@ -811,17 +811,17 @@ related:
         isCached: true
   - title: "VP Mike Pence to campaign in Michigan again this week"
     excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
-    publishedDateTime: 2020-10-21T02:14:00Z
-    webUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    publishedDateTime: 2020-10-21T05:14:00Z
+    webUrl: "https://www.kgw.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.kgw.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: KGW8
+      domain: kgw.com
     quality: 75
     images:
-      - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
+      - url: "https://media.kgw.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
         isCached: true
@@ -1061,6 +1061,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "8VpbOEwju1pMGm/A1YX6PyjFytR6y6Cngv7xq5aWhS3yv9P6+9zORE5tdcQfZNIWfhF9kdRyoJ3BjsT2urm4nHuaTBm/G0TDNRUcNHiJ7dwUQE2vsJGg+StgjfCAb8AMEuQrLi2ydIzUifpF9OjPzKbRvjI0WZ0hpchfre27t8fFaYxqM0+hSpUZQggyhOTxHuEPMf3uPzfMjGTmX2OLrxscIF3IWA66qDUZvoZNl6JYMWJvBLUDFP9dcmk4bs2PYQBC8mW6sFSlGBW/eq4S0cqCSSCNFkvzfgT/9BKw5DlH+KdjJlaIU7Wvx8ZraGzXqkbhSGjuPuwkAUkV89p9trXEkbtbyV9jjKSYvYZ0Cvk=;Tgf05bJ9spnLIgnCAb3nKA=="
+secured: "gr1cA6H4gMNYlqiUFgYIt6TujPOciq0y4WfR7DgXrHsqlljr9fdgAVbQve8CqxXB5r3HoNhl6bQ9V4ovTfUoDCN0NsNutqVl12sK07GYEy0OoNIaPova8ZtA1vXNKhExZEYWdMaPHpyijAgxnTIDkgdhFLYePxUBBNuva0G8cT8UagicGmTcVmx5cMS3sAWJ0gcsOUmXYE0OO0qutULxP2dxtXpqlk3MUvgKsp3+G1575gxJ8cfOtHNkwgAP0kJ6Q8XuAMt5aifEPGQCP8ulqBkscxMOw75qDSrDUBYP3K/sBmjcMGaUiOOj7vbZzxt/oe36pWjqZhdf07Zpk9ihPUNzZ/gmsCwqDCs0UV3xRhzMAT12TXoeI4u4m7Omt96gMK23GA0TXYD5M7ypAzeivrqpwz1QJPGWciP6XroX6uvcInxPhpRfRzltTMNZLs0BJ3DUCHNz5Hl/ccHyNJaNY1uXAw1IMYWvfNfQ2O1rn0r13Cwgk0SZ1eW/vduZMYVeqNK69XcuQXfQ3temfpjVSg==;SV5FeFn91Z2ZFWLRDiwzXg=="
 ---
 

@@ -375,6 +375,22 @@ related:
       name: Time
       domain: time.com
     quality: 83
+  - title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
+    excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
+    publishedDateTime: 2020-10-22T02:35:00Z
+    webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+    ampWebUrl: "https://amp.freep.com/amp/3722503001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 82
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
     excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."
     publishedDateTime: 2020-10-14T21:00:00Z
@@ -672,6 +688,20 @@ related:
         width: 1024
         height: 1408
         isCached: true
+  - title: "In rare move, Seattle Storm endorse Joe Biden and Kamala Harris: 'These are not typical times'"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-22T03:29:00Z
+    webUrl: "https://www.startribune.com/in-rare-move-seattle-storm-endorse-joe-biden-and-kamala-harris-these-are-not-typical-times/572824402/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 58
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1603304987"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "He’s 32. He’s Joe Biden’s Press Secretary. And He Has Stage 4 Cancer."
     excerpt: "TJ Ducklo found out what it’s like to work a presidential campaign while you’re battling a devastating personal health crisis."
     publishedDateTime: 2020-10-16T13:52:00Z
@@ -831,6 +861,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "klb7eZAM/98Wx8L1nNKHGmeOpQoLSR14cBETwvvTtfop6LJPqCJrTcMT5SuNx4bB6HxomY38e8rE2ETLX1Nz4w7PrPEUfhgnVzpRaH7xXQL0Z3cTIob6euJllTcIq/rRTRqI3e+9+8fA64o6vuwxZ/7J4nhSDKrgZ8YrMe8F9/LtHtNlXs1Nvymv2VjQog/ckCzAaFXPE6HuojHl6KIKbnyE+iQKPOqn55Wry2QKe2ZCpO2wW64bH06mLlZfiDs4y0EATGSfD18YgyyfjSxFYfLkm9fC9p25bBCrdrCKy7Qu2+2qmcS8Hdod94nFxcfKEG27Fvdo1nYkwwiKrhFU7uuKoEU10jhug+qn0HQdn9Y=;RuW4g0vtN8EMh/erxtFYUg=="
+secured: "ATFFY5gySCY6rZBySUBcLMh//2p9uEKcDCzt1UATAdj7RhglWQXbkIJnlAxw3ThZk/2A2RCWZWlcikhs3RU0H1v68M+nZGjtZbdDXwuc4XPAIQ7OPXrwDBqTbGACNNM4/YBS5uqaagp55hb1kZ4ganDfdWy9OPjZPvlipyrUDii8DRkFsDg+sbFgU34IJeImBymQuy1p2CI0Pw4hpDrxk/W4IoZuPhgfl0sDzJgXoCVjs5+61zo5h07V7r6wTdypxJQ4wK5VHw40tc17rAD5kokUwzS1tzcYHMk66BgS9ZKVOE6OwbVYQdSYaZbzCIX3IbGi/DhFE9vMPMo7INMD+8rtqoBLp7DWTXz4a8NVnoD/b410AWvoqVb3P7ZJMrwNgnbCUbtfhm7u0tfrT313a/p6nh20cZ8fNMAHElyXdtcHQRo7nOY+5142BTPoogU8IgPVtNHM777Gj+sCSeKEtnEZsMtG8hx0nojBZqYJO73c4DZsnuEu9ybV3VUST/mxMTp0nPjSKqYuuyis84PH8A==;BG+o6Fi5bIwLEW1UYED1Rw=="
 ---
 

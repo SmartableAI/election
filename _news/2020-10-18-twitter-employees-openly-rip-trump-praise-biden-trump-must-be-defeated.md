@@ -367,6 +367,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Eric Trump accuses Biden of 'hiding from one of the biggest scandals in American history'"
+    excerpt: "Joe Biden is keeping a low profile ahead of Thursday's presidential debate both because he doesn't have the \"stamina\" to actively campaign and is afraid of questions about potential corruption involving himself and his son Hunter, Eric Trump claimed on \"Hannity\" Wednesday. "
+    publishedDateTime: 2020-10-22T03:39:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sj0FizH3ksA/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says Biden family 'protected' by Big Tech, threatens platforms 'unless they shape up'"
     excerpt: "President Trump said that the Biden family has been “protected” by Big Tech after censorship of a damning New York Post report, and threaten to revoke their Section 230 protections “unless they shape up.” "
     publishedDateTime: 2020-10-15T18:59:33Z

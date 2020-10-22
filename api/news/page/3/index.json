@@ -2,62 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-10-20-first-lady-melania-trump-will-not-travel-to-pa-rally-due-to-lingering-cough-after-covid-battle.md",
-      "title": "First lady Melania Trump will not travel to PA rally due to 'lingering cough' after COVID battle",
-      "excerpt": "First Lady Melania Trump will not accompany President Donald Trump to a campaign rally in Pennsylvania Tuesday evening due to a “lingering cough” despite having recovered from the novel coronavirus.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pmN1DlBQdjA/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pmN1DlBQdjA/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20288723563703.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/first-lady-melania-trump-not-longer-travel-pa-lingering-cough-covid-battle.amp",
-      "publishedDateTime": "2020-10-20T10:44:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-21-pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote.md",
       "title": "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’",
       "excerpt": "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,",
@@ -1036,7 +980,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1259,
+      "heat": 1279,
       "tags": null,
       "images": [
         {
@@ -1332,6 +1276,58 @@
       "topics": [
         "Election",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ivanka-trump-to-attend-fundraiser-in-naples-on-wednesday.md",
+      "title": "Ivanka Trump to attend fundraiser in Naples on Wednesday",
+      "excerpt": "First daughter Ivanka Trump will be the special guest at a fundraiser in Naples on Wednesday. Her visit will the campaign's second visit in a week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2020/10/18/ivanka-trump-attend-fundraiser-naples/3702824001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/13/PAPN/07ca4d7d-ac9f-49d1-b24a-73ea98e9a36a-cent02-7cqq5o1gxdk11a63bhj8_original.jpg?auto=webp&crop=2999,1687,x0,y402&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/3702824001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3702824001",
+      "publishedDateTime": "2020-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

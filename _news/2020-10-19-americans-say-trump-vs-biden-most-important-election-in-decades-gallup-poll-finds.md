@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1259
+heat: 1279
 published: true
 
 provider:
@@ -364,6 +364,22 @@ related:
     quality: 181
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a3fbf4f-6076-40df-8823-df6b439f99dc/a8433a2c-7c62-4227-ad56-00b87f9fb54a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Eric Trump accuses Biden of 'hiding from one of the biggest scandals in American history'"
+    excerpt: "Joe Biden is keeping a low profile ahead of Thursday's presidential debate both because he doesn't have the \"stamina\" to actively campaign and is afraid of questions about potential corruption involving himself and his son Hunter, Eric Trump claimed on \"Hannity\" Wednesday. "
+    publishedDateTime: 2020-10-22T03:39:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sj0FizH3ksA/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals"
+    ampWebUrl: "https://www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/eric-trump-joe-biden-hiding-from-one-of-biggest-scandals.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab13a510-e846-4585-bd04-4a85898edcf5/984db21c-8bea-498b-94cb-3419adf8236f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

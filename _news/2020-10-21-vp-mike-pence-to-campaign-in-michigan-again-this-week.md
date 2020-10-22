@@ -2,26 +2,26 @@
 category: news
 title: "VP Mike Pence to campaign in Michigan again this week"
 excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
-publishedDateTime: 2020-10-21T02:14:00Z
-originalUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-webUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-ampWebUrl: "https://www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+publishedDateTime: 2020-10-21T05:14:00Z
+originalUrl: "https://www.kgw.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+webUrl: "https://www.kgw.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+ampWebUrl: "https://www.kgw.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: KHOU 11
-  domain: khou.com
+  name: KGW8
+  domain: kgw.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
+  - url: "https://media.kgw.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
     width: 750
     height: 422
     isCached: true
@@ -1061,6 +1061,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "5WI2aIVWGdRS31BAm6IRpUVFJFOzQg0hIfs0HP8RJmrO/oe8tm8d4+IjQ0PBkIvjod6uqjDk+K1tKAxoVVpKkRIxGW/Y4Ksk3jH6C4HB7F7buyOjGvKzhEuGTIV6zfwnqbaRCoZuHQthPXfxOh52NB+OSP/Jxng9cfDG1Tc6ZKElP/tx85gtaQd4gRVYQyz5nGmkPPrU16PmzpjYkaZnDo4ecEgg0CJgDdPEX9mug4RCfuCRF413Jk0pHY3rOrPoWZ3dJ9vr4jSlG5VNF5GGl7QwW5ULs+K6OexuSiKGnvER7VnbzfZr9x9liRqxa78olaMAZZt7X3dkEfx80f6NG11M4JVBhrRTNXXXEn2uDzFejr6DXBfr/dDAujmrmo7cp1RFf/eewvOZq6C3CIF9TybhOAlxsUQ5EwrGXwoWFt5ZVk1pHl5+P53cMKlUCZnySNzEUDcFJtxcQl/lBh0SEt9RkoQbeGH5wTD1PR4dwyPS8qSf8u3aTNaKcGJho6YlE5vZQeJrVMvFXsPlZA+8Jw==;Hl3aAhusrJp2x6tR40YfoQ=="
+secured: "wZ5ozRJeovDKYgRatyMKMBCqlcWTqFf9GM6s2oEGYkWfmqkEVy4pyODd+oubiPwSaq6LNaPDumxis72Sa5i09PCxkY06Z+VO2aZj+FuG7lby4HvK82y6StxPXAPWuHpQ3ksWShiAYM77Whf3Ft9i+T/bFsktKtx/KWnafCbk/IFP/aV+D7fwqNEYVxF9QEUf2Mrm6q7CwAey/owDX6fsUKMjfjvqZF0wfNjpzasBq9wGKgNodX/vQwcii97+EgNzA+2LAspZoul2FlhdJZY10QilyDd/XpnzUj6lcCKObs7B2zZ0xc7ZQEEgCUZBUZyfUOm95q8dHZbBuCK6XYfTf8GikyBd8ptiG24udtdFwoo=;OZNVA9cXXdmrOR8ifI7yaQ=="
 ---
 

@@ -89,6 +89,20 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "VP Pence makes campaign stop in Hermon, speaks one-on-one with TV5"
+    excerpt: "HERMON, Maine (WABI) - The road to re-election runs through Northern Maine. That’s what the Vice President said today at a. TV5 was at the rally and spoke with Pence following his remarks. President Trump won Maine’s Second District four years ago,"
+    publishedDateTime: 2020-10-22T03:44:00Z
+    webUrl: "https://www.wabi.tv/2020/10/19/vp-pence-makes-campaign-stop-in-hermon-speak-one-on-one-with-tv5/"
+    type: article
+    provider:
+      name: WABI
+      domain: wabi.tv
+    quality: 55
+    images:
+      - url: "https://gray-wabi-prod.cdn.arcpublishing.com/resizer/-EsS03_JwaWk9BPSw-Qjh6TkMcg=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/WJC7VGNPQ5ARXNJWQ5DOIRH2BE.JPG"
+        width: 980
+        height: 550
+        isCached: true
 
 secured: "ZGcmx/pRuw7mPU3DXTbtvXGUSx2+DrX1SKec8FujY0rO2vzCQVe86ZbfeapRCKwBCkijuvyIb760ptK2J1RIo0eiJkh+xD8ffl8znCarjoxsacjikpKBIPz+wHFoB9V0lDnbSmM/q5D2bhBwXRFaL8ki07TGua6OsnLzB/XZ3tVQ/x9XkHwCLbuLbiJHkechGzP4Xcq12Ii5nBnw6+7c3TkDc83q/bZU+0UHXwcm4hGuwl91VZcF8syPuFGAlrykGa60L27WVt6q5Ti8GbJ2bqVNGeYuNxXzX6f/Nh/4qNBJgHgb4x7rU+dqh9YU52tsL5TzoxU67cjSco3FAjgtMryK4bw0WVzIdxsTs7zZd1U=;lYiOD9DAk2s6/3oHeHsh0Q=="
 ---

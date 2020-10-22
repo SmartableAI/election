@@ -2,54 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-10-17-how-donald-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue.md",
-      "title": "How Donald Trump’s developer dad and a Brooklyn rabbi saved a synagogue",
-      "excerpt": "When congregants enter the Beach Haven Jewish Center in Gravesend, Brooklyn, they pass a small plaque hanging just outside the main sanctuary. “Fred Trump. Humanitarian,” declare the gold",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "originalUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/10/Fred2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/17/how-trumps-developer-dad-and-a-brooklyn-rabbi-saved-a-synagogue/amp/",
-      "publishedDateTime": "2020-10-17T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-trump-heads-to-michigan-wisconsin-in-re-election-campaign-push.md",
       "title": "Trump heads to Michigan, Wisconsin in re-election campaign push",
       "excerpt": "President Donald Trump will take his re-election push to Michigan and Wisconsin on Saturday before launching a tour of western states to shore up political support as he trails Democratic rival Joe Biden in national polls.",
@@ -687,7 +639,7 @@
       "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1304,6 +1256,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-and-biden-and-americas-two-polarized-political-realities-live-on-prime-time.md",
+      "title": "Trump and Biden and America's two, polarized political realities live on prime time",
+      "excerpt": "More than 800 Americans died from Covid-19 Thursday, yet President Donald Trump still played the victim.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MyD4mCRMXps/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MyD4mCRMXps/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 604,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015230410-biden-trump-town-halls-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html",
+      "publishedDateTime": "2020-10-16T04:40:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

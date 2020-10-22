@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-22-trump-campaign-takes-over-youtube-masthead-for-debate-day-with-help-of-ufc-supporters.md",
+      "title": "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters",
+      "excerpt": "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp",
+      "publishedDateTime": "2020-10-21T19:20:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-12-days-out-from-election-day-mike-pence-is-holding-a-rally-in-deeply-red-indiana-why.md",
       "title": "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?",
       "excerpt": "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states.",
@@ -812,7 +868,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1243,
+      "heat": 1283,
       "tags": null,
       "images": [
         {
@@ -1073,7 +1129,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1922,
+      "heat": 1942,
       "tags": null,
       "images": [
         {
@@ -1261,58 +1317,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-lindsey-graham-says-joe-biden-is-in-his-basement-because-he-cant-carry-a-message.md",
-      "title": "Lindsey Graham Says Joe Biden Is 'In His Basement' Because He 'Can't Carry a Message'",
-      "excerpt": "\"President Trump is ... going all over the country with a lot of energy. He has really accomplished a lot in his first time,\" said the Republican senator.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893",
-      "originalUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1656094/joe-biden-campaign.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-joe-biden-basement-cant-carry-message-1540893?amp=1",
-      "publishedDateTime": "2020-10-21T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
