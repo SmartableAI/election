@@ -31,49 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "'Not going to waste a single minute on tweets': GOP Sen. Sasse pushes back after Trump attacks"
-    excerpt: "Trump and GOP Sen. Ben Sasse are publicly feuding as Republicans are working overtime to try keep control of the Senate."
-    publishedDateTime: 2020-10-17T15:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-ben-sasse-feud-over-senators-repeated-attacks-during-election/3693805001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3693805001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3693805001"
+  - title: "Trump grants clemency to five backed by ally Alice Johnson"
+    excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
+    publishedDateTime: 2020-10-22T01:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/USAT/6cf8dfb4-fad7-4cfc-85d5-5db9f4f1c455-GTY_1229069749.jpg?auto=webp&crop=3729,2098,x259,y133&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump Lashes Out at ‘Embarrassment’ Ben Sasse After ‘Leaked’ Audio of Senator Trashing Him"
-    excerpt: "President Donald Trump lashed out at Nebraska Republican Senator Ben Sasse on the heels of an audio recording that featured Sasse thoroughly trashing Trump."
-    publishedDateTime: 2020-10-17T14:15:00Z
-    webUrl: "https://www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/"
-    ampWebUrl: "https://www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/trump-lashes-out-at-embarrassment-ben-sasse-after-leaked-audio-of-senator-trashing-him/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 65
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Ben-sasse-GettyImages-1229069841-1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Lashes Back at Nebraska Sen. Sasse After Criticism"
-    excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state."
-    publishedDateTime: 2020-10-18T01:31:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-17/trump-nebraska-sen-sasse-a-liability-to-republican-party?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "CgJZoc/65eCI0BK2JkGFu9xh3MWWSWG+B9+eEn63cPeiz7F/2OW8QjabMfo5X/JBVaDXoGMVMNPiwQPIGFXoCHeEkeDyC7m3XFVS8XwinLFbODCDgohmsSlu19P1RRrW9zUECr/NYkS2tbROa7sbsjiBX5hziVDvyD6GQyJ5MPrXNhzBrUQ/QKE/PH6+nGkn3RhxpxWVeU+nYRjO5KwOjODPgLVmNogaHEDHZMsJQUU+of61svOTUimo78yisapcFmsBmcIWYEzak95d2z+Dwq5Ch5sE3evMdl4DzrZgmGe+GWZsNHwLdZq9ZhHQLDpnO6WhiFG8ixqLOrbut75/fi78RIJZbCYSie0HU0VOLbw=;8hG82bgTtTIl5QfQP1+c/g=="
 ---

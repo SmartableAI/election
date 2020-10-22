@@ -837,20 +837,20 @@ related:
         height: 340
         isCached: true
   - title: "The Media Officially Becomes the Communications Department for Joe Biden"
-    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was"
-    publishedDateTime: 2020-10-21T04:01:00Z
-    webUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475"
-    ampWebUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
+    excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
+    publishedDateTime: 2020-10-21T09:09:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
     type: article
     provider:
-      name: Townhall
-      domain: townhall.com
+      name: RealClearPolitics
+      domain: realclearpolitics.com
     quality: 84
     images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/274/b8408f0f-20a7-49c2-a381-0a3dece0c9ab.jpg"
-        width: 650
-        height: 340
+      - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "To All Those Biden Supporters Out There, Here's the Bill He Wants to Leave Us as President"
     excerpt: "President Joe Biden will wreck the economy. Are we talking about another depression like Trump says on the stump? Probably not, but it’s not going to be pretty.The Wall Street"

@@ -2,13 +2,13 @@
 category: news
 title: "Obama slams Trump at Biden rally, warns voters ‘we can’t be complacent'"
 excerpt: "Former President Barack Obama took aim at his successor in the White House on Wednesday as he campaigned in-person for the first time for Democratic presidential nominee Joe Biden."
-publishedDateTime: 2020-10-22T01:02:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEmTC1Bf_4o/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEmTC1Bf_4o/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden"
+publishedDateTime: 2020-10-22T01:07:00Z
+originalUrl: "https://www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden"
+webUrl: "https://www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden"
 ampWebUrl: "https://www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden.amp"
 type: article
-quality: 190
+quality: 150
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20295802945154.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -337,6 +338,6 @@ related:
         height: 696
         isCached: true
 
-secured: "QLLyJk3AY9u7Z3EU2kM5VrJkC1amq+8v10LppdhboXQHgrRVuiZhBdQUKNfczA9mZAwX9R1TZSQzsuMVgQhjBDivQpXTRxnvJmkYjdl6ZYbYRz0Yy9yRXkvgK+5I7BsmJXgDtdYY8RtUWVbtuGnQAFgVAgRGpDWNxeljjnBMoE/+ag4ZqgYOL7eB7KUDbXRkTvsWzvgjHNLwPFbv5mNIwvOi1r6q7+GPFl8EHiMIJe9/yL+BGCil+g/bfXm6nsqz3NTflOdEgCfyJeOna7gUqdxSKske1hOc/ryVHfhBlf9gH6ZV56rSfk1atYN364hrnYU5UzbwOc/tWJkTUB7msSqJsNsEj7hNUADTm36VqIw=;/tK52trGjVOzR8wkPYT1ZQ=="
+secured: "1wEQQ1IMm1ZGEEOa6P/JledvJlBcngknTOsFL5uTY31SFkbQgcoJHxdlxllG/ygJEVVmo6T6pE021e6+ctyHZ9JzBbryb5vV09bTSWVbNejl9vrUicAEI7p1J4ijVhHvuesNM1kUklsEnLwdjdsMmmfWZnoYZFiiTKadzvuB98jnOaFffwct1PHxeD5ab/MWKKU2QdB66aLF8O+kxmnZUjvKraQ+zERkOSquQ/HJbu+0BGbCtpRbt0tv1/sYDDR7xD/ghuSJG9uDzGvsFe43sFyYtEcooExTV4VzY8k+olIcDTvSue13FNloLO73zzKPNr5CYKMleqGUREen6ipYF4rELybT/O9jt07dQNtbtxw=;4d6rWXf86bBZ55Y4irJMYA=="
 ---
 

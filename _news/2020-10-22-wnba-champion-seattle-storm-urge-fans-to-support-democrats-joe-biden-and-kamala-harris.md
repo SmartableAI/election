@@ -2,19 +2,19 @@
 category: news
 title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
 excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-publishedDateTime: 2020-10-22T02:35:00Z
-originalUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-ampWebUrl: "https://amp.freep.com/amp/3722503001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
+publishedDateTime: 2020-10-22T02:21:00Z
+originalUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -503,6 +503,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Kamala Harris to NC supporters: You will decide this race"
+    excerpt: "Democratic vice-presidential candidate Kamala Harris heaped pressure on North Carolina voters Wednesday, telling supporters in Asheville they will decide the presidential race and the direction of the nation."
+    publishedDateTime: 2020-10-22T03:42:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/21/kamala-harris-nc-supporters-you-will-decide-race/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/21/kamala-harris-nc-supporters-you-will-decide-race/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/21/kamala-harris-nc-supporters-you-will-decide-race/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/19/Election_2020_Harris_Florida_23635.jpg-db79e_c0-330-2941-2045_s1200x700.jpg?d9394c5196ed85a18a11bc2ef335aa3e6e4be451"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Charlotte Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
     publishedDateTime: 2020-10-21T20:49:00Z
@@ -516,6 +532,22 @@ related:
     quality: 74
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/1e75b5e3-b357-4b02-8c76-a940b6dc3e9c/8a3b25d6-86ec-4b3d-b6ba-d26038094981/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Charlotte Observer"
+    excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
+    publishedDateTime: 2020-10-22T03:59:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article246610668.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -833,6 +865,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris campaigns at Truist baseball field | Charlotte Observer"
+    excerpt: "Vice Presidential candidate Senator Kamala Harris delivers remarks at a campaign event at Truist baseball field."
+    publishedDateTime: 2020-10-21T23:29:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article246622988.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 35
   - title: "Kamala Harris lands in Charlotte | Charlotte Observer"
     excerpt: "Vice presidential nominee Kamala Harris arrives in the Queen City. Harris and Trump will both be in the Charlotte-area Oct. 21, 2020."
     publishedDateTime: 2020-10-21T19:38:00Z
@@ -861,6 +902,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "uGITlvxlBiRhJcwMKNXZpV08BWxmuTzGc33TqoizSMefy+nGBHHLfFZ68yLDm6P2UTG7/NcFZUzK2PeJ+3UJ/O5BDsPd9qknCSqVwv7cLngQBWSWc7INmtb1jN7dZyRhsTtvcqyUo5+AKtajgHAaVZxgsVbslxjof8+/tTc878HZ0eCMAVCmcq5gHYTTKKWshbrFwSznbz95nNmk0zjUt8ittxljqmV3TLXen3zzZM76u63tggUobYiA3XPU6mPf2EwzdZNnsOKfD2PBKvj2TM4Pd7UZzevmC3TF0NmPvt8MoKg0VFWWNhVURDApn+4P2HJL+KUA+dIrZyqU8Isp/h4Ze6sgNdQxOqIRercWAZc=;z+fVYYXApyifJP0tFbGbyA=="
+secured: "wOy+gPcjtU2eMu+dhu/t0amyVOK2KLjdPFsb6MQCqAB4qoAhWxbbMJxBDEJyjToNeoJWpptCowoHIjhZEHQuDv0lH8RREMWb2OQ5pnFuMasiDeWTgzRmWSVjHmAN2nDNIicOYCp0B4+h6kxKRD7bYWiJexqeXl2SnyeHLd6FOaUlB2Nk+/cyuZtI8IZILoEE11IrsgmQfdP2CWEgoHm3LgcJVgM3ilJW9UO8cCp5Yj8ux3ArwPNz5TfJrTb4juChsTgg1bFgFiRqh7vE3KVSC0N+4Pv1moN9tntLCXFQLNAjN7r5C+uyXor1Y1F0c3DhEUIbEkoJiUkaWCNOSYMe7O96A53V+nk+5DoB3x1Tpas=;7QSEyAv1pA1ZUf74pK5QAw=="
 ---
 

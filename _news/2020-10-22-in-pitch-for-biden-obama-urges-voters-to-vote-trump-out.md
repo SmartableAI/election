@@ -3034,6 +3034,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Face to face: Trump and Biden to meet for final debate"
+    excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, are set to square off in their final debate Thursday, one of the last high-profile opportunities for the trailing incumbent to change the trajectory of an increasingly contentious campaign."
+    publishedDateTime: 2020-10-22T01:29:00Z
+    webUrl: "https://www.chron.com/news/article/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
     publishedDateTime: 2020-09-24T21:01:00Z

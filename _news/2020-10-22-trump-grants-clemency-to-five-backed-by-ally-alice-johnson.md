@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Grants Clemency to Five Backed by Ally Alice Johnson"
+title: "Trump grants clemency to five backed by ally Alice Johnson"
 excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
-publishedDateTime: 2020-10-21T23:59:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2020-10-21/trump-grants-clemency-to-five-backed-by-ally-alice-johnson"
-webUrl: "https://www.usnews.com/news/politics/articles/2020-10-21/trump-grants-clemency-to-five-backed-by-ally-alice-johnson"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-21/trump-grants-clemency-to-five-backed-by-ally-alice-johnson?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-21/trump-grants-clemency-to-five-backed-by-ally-alice-johnson?context=amp"
+publishedDateTime: 2020-10-22T01:15:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 125
+heat: 145
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +24,30 @@ topics:
   - Election
   - Donald Trump
 
-secured: "JP7BJwJuXrXsQoS1CM1S8Rcdvs3mKYcpDq+5dyliLQDk6vfPf4QinEw5zZcUEsqHEQ1uU3CmwhwxIvAOj/yP7hhybmfj3K4OHLR0nC6CvVVaCSrpOJqfiqt7ba1XUuJNo59JkNWwUCfFAvJfj4A/DfqPko8ppqNkQKxbvEf2ey45SW9rYZ5+uesheliLIw6wqD6+peG8/l5iNf2zzfZ3of7pCPIZJRijkvKBz9U4AuVORv2k/mkupr7eB7b3Ekd64iDMO36S6xOL2CC14UlsdYWPHTOUn1VKVGpOh9pJcQSSRlY3RXfOI+Bn2jtXWaUyVYlxLIk6y1dFEpJqiTc7wOW0vxkqcJ0txeF6FqTh5TR3aVXAvLCLxQCdCroGt+V+XYfbqF+KGCXTvxNmNOFgfY+dGsXxgtzehyBAUueUhsXLkXp9Ji7ngB9DlH11sZY37vmNPapXkJ2y0uRV1Aqq1ntyuoKh7tFH+eOrDO4rpHaMo67Jx1VBNwmUj72PdThZOR/FhTviWQUZ/iJUpQA+Hw==;M2LC1N1EcR6Qe+CSpTpfHg=="
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
+    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
+    publishedDateTime: 2020-10-17T17:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 71
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
+        width: 800
+        height: 430
+        isCached: true
+
+secured: "7KE5U9e+sEb7GhacIRfKhRP6lvMVYKQtqWrn8T9/4m/IsyZ5qkNVB/kB+1NmaxEbx3P5MjwENlNgBW1p+tbKP1ASc/QkQ78fu+4jgua0sWFgGUPvPqDAREeVkLIky+/8QNtacFFOVWX9LNRZEzZLNtYZk0WYFKkKq2qC51B2/EoWz/ehR1IZDF/iGeUAQVAxymD/apQF0ZWNBxfoEPLfO4coV4KezrRY/0rh4L96tyw50C3ldvVW36X/XrmPezmrnrT+cc8pJk7M8cuNWrK8YiXUyr+VpgV57uL14PIpGcoAYsj79outb4jGuWQkkhMYy1k494s117opF4bOt6Hpk5uftdk80HnDr+N0yjezA/s=;5WW7afc3moV3tzVwWBPrxw=="
 ---
 

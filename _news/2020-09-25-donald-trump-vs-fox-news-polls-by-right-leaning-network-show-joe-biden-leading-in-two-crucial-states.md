@@ -3039,6 +3039,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "Face to face: Trump and Biden to meet for final debate"
+    excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, are set to square off in their final debate Thursday, one of the last high-profile opportunities for the trailing incumbent to change the trajectory of an increasingly contentious campaign."
+    publishedDateTime: 2020-10-22T01:29:00Z
+    webUrl: "https://www.chron.com/news/article/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Face-to-face-Trump-Biden-to-meet-for-final-15665587.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "In pitch for Biden, Obama urges voters to vote Trump out"
     excerpt: "With less than two weeks until Election Day, Obama delivered a sweeping condemnation of Trump while urging Black men, progressives and other voters not to sit out the Nov. 3 election. “This election requires every single one of us to do our part."
     publishedDateTime: 2020-10-21T23:27:00Z

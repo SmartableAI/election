@@ -1,24 +1,20 @@
 ---
 category: news
 title: "The Media Officially Becomes the Communications Department for Joe Biden"
-excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was"
-publishedDateTime: 2020-10-21T04:01:00Z
-originalUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475"
-webUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475"
-ampWebUrl: "https://townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
-cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/benshapiro/2020/10/21/the-media-officially-becomes-the-communications-department-for-joe-biden-n2578475?amp=true"
+excerpt: "This week, the New York Post published a bombshell story. Hunter Biden's laptop was apparently given to a computer repairman in Delaware, and a copy of the hard drive was turned over to the Post."
+publishedDateTime: 2020-10-21T09:09:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/21/the_media_officially_becomes_the_communications_department_for_joe_biden_144500.amp.html"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Townhall
-  domain: townhall.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/townhall.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://media.townhall.com/townhall/reu/ha/2020/274/b8408f0f-20a7-49c2-a381-0a3dece0c9ab.jpg"
-    width: 650
-    height: 340
+  - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -887,6 +883,6 @@ related:
         height: 500
         isCached: true
 
-secured: "XaLfEhpOQp74E96WY5fBTQhRoBSpKjTlv6+/GWaG2oiec2WQdKMgvhU8RNfZjFvGnvv/IB7HQedD/sOyrwK9zo+kNj0Z5qqQLBOefbuFaeMUyluV+2SmJDcMgZhu2reD3My2bd2ooZWwegeNhhGHw5zoE2rssIN/lefmwBdlyRv86XQMgRxZOgMlcfDBt0doPOvajYeSNP6OG/kCXXFhIM4Bta78XIZ9b7cklfEzvw7CE7O7EA7dPKJuJx7Sx+Y5PcrB32S7LCWho1Kw9CqYvJQWe0c9mlcaIvZaVi6eFHLKQ2KqRg2xy0CzALPAL9DPch0LUXazqfCRW/7R/I/ydRatBxsAkTv1cYvtHU9Nmzw2vasXudELpp9PX4YnyLv4B3eX243RliRbps1TiIJKk6aHbh3Hh3xtGbzHVDbNaycbD8dH2eKUWKqefsc2wEpJUsjBs3o30ZkTGlv9C2VEKFwiMAKHC46sA2+UAB6Heg16lEH1d6lRpT5B7tcT5f3IPLjCqSsEs86mMu+yYXN06g==;B9AYMFA3+/zJuZCX4tutsw=="
+secured: "lX/VjHbFXP9HsreLt5heREpW7rGwqEfIAFDoheDHmPBc2+iLJFIiY94J0xQYLlUMaunO+1yXMJuu0QXEQ+9/YgaQR5bkNWuPB4xqoTt6bRaYVr5O9EVhi1tZIxnBPA7CGizLn+MsQPWgbK/3JbTWp6rv/izBC+o/sYC0NWyxc7E17CvHWi1GKvTeLjTWDP7meEyOchA6wlRS7iPf4Y/JN2Dh32hlvax+6YsRXn1gPL+y3f+mgDxbQTBOiWJZwE7sYaQFWTEH1s0+Sl0l/hIdlaAQotFfIkeMu1TXstWlMcQRhzb9IPU/00HAotjuVeFGaZS2F6FPihcR8HtvTODLMPPcV9ckk/KU5uHiq672eMg=;vs75FHSbtZZ0O+KzkUYyeA=="
 ---
 
