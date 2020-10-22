@@ -600,6 +600,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
+    excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
+    publishedDateTime: 2020-10-22T18:22:00Z
+    webUrl: "https://www.bbc.co.uk/news/election-us-2020-54631308"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/election-us-2020-54631308"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/election-us-2020-54631308"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13242/production/_115020487_ek3is4owaaehs6e.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Raleigh News & Observer"
     excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
     publishedDateTime: 2020-10-21T19:26:00Z
@@ -811,6 +827,31 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In a rare move, the Seattle Storm endorses Joe Biden and Kamala Harris: ‘These are not typical times’"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-21T23:29:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 55
+  - title: "What’s in a name? Identity, pride and love. Ask Kamala Harris"
+    excerpt: "When David Perdue mocked Kamala Harris’ name, he wasn’t just mimicking Donald Trump, he also evoked a painful history of racist othering."
+    publishedDateTime: 2020-10-22T10:07:00Z
+    webUrl: "https://www.rollcall.com/2020/10/22/whats-in-a-name-identity-pride-and-love-ask-kamala-harris/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 55
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/10/22CURTISCOLUMN.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Kamala Harris Cancels Travel After Staff Members Test Positive For Covid-19"
     excerpt: "Kamala Harris canceling all campaign travel through this weekend, after two people involved with the campaign test positive for Covid-19. Veuer's Elizabeth Keatinge has more."
     publishedDateTime: 2020-10-19T09:50:00Z
@@ -871,6 +912,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kamala Harris’ cultural background will make her a player on the global stage | Opinion"
+    excerpt: "California is waiting to be welcomed back into the national conversation after four years of disrespect and neglect from the White House. In a Joe Biden-Kamala Harris administration, not only will California’s favorite daughter bridge the widened — and widening — federal-state divide,"
+    publishedDateTime: 2020-10-22T20:02:00Z
+    webUrl: "https://www.miamiherald.com/opinion/op-ed/article246641698.html"
+    ampWebUrl: "https://amp.miamiherald.com/opinion/op-ed/article246641698.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/opinion/op-ed/article246641698.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 47
   - title: "Kamala Harris suspends travel after two associated with campaign test positive for COVID-19"
     excerpt: "Senator Kamala Harris's travel has been canceled through Sunday after two people associated with the campaign tested positive for coronavirus."
     publishedDateTime: 2020-10-15T23:38:00Z

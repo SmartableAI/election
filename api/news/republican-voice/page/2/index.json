@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-20-trump-urges-barr-to-act-fast-appoint-somebody-to-probe-hunter-biden-business-dealings.md",
+      "title": "Trump urges Barr to 'act fast,' 'appoint somebody' to probe Hunter Biden business dealings",
+      "excerpt": "President Trump on Tuesday said Attorney General William Barr needs to “act” and “appoint somebody” after nearly a dozen House Republicans urged him to tap a special counsel to investigate alleged revelations coming from a laptop purported to have belonged to Joe Biden’s son Hunter.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TLQAi5Mrcl4/trump-william-barr-act-hunter-biden-business-dealings",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-william-barr-act-hunter-biden-business-dealings.amp",
+      "publishedDateTime": "2020-10-20T05:44:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-trump-to-speak-to-fox-friends-two-weeks-from-election-day.md",
+      "title": "Trump to speak to 'Fox & Friends,' two weeks from Election Day",
+      "excerpt": "President Trump will join “Fox & Friends” for an exclusive interview Tuesday at 8 a.m. ET, two weeks out from Election Day.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f6djMKrte9k/trump-fox-friends-interview-two-weeks-election-day",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/f6djMKrte9k/trump-fox-friends-interview-two-weeks-election-day",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-fox-friends-interview-two-weeks-election-day.amp",
+      "publishedDateTime": "2020-10-20T04:45:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-biden-backers-have-looming-sense-of-deja-vu.md",
       "title": "Biden backers have looming sense of deja vu",
       "excerpt": "With multiple polls predicting a clear Biden victory in the November Election, Democrats are getting an uncomfortable sense of déjà vu given that polls in the final weeks of the 2016 election overwhelmingly predicted a victory for Hillary Clinton.",
@@ -184,7 +296,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1419,
+      "heat": 1439,
       "tags": null,
       "images": [
         {
@@ -240,7 +352,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 620,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -782,62 +894,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-18-buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.md",
-      "title": "Buttigieg blasts Trump foreign policy, calls him 'destabilizing force literally everywhere he goes'",
-      "excerpt": "Former South Bend, Ind., Mayor Pete Buttigieg once blasted Democratic presidential nominee Joe Biden for his foreign policy record, but now defends him while claiming that President Trump is a \"disaster\" in that area.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WsSQlhhyJ98/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp",
-      "publishedDateTime": "2020-10-18T06:21:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2020-10-17-ossoff-raises-1-million-in-senate-race-after-perdue-mispronounces-kamala-harriss-name.md",
       "title": "Ossoff raises $1 million in Senate race after Perdue mispronounces Kamala Harris's name",
       "excerpt": "Democratic Georgia Senate candidate Jon Ossoff announced Saturday that his campaign raised $1 million after Sen. David Perdue, R-Ga., appeared to mock the name of democratic vice presidential candidate Kamala Harris at a rally Friday. ",
@@ -907,7 +963,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 1610,
+      "heat": 1630,
       "tags": null,
       "images": [
         {
@@ -1436,7 +1492,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 935,
+      "heat": 955,
       "tags": null,
       "images": [
         {
@@ -1565,62 +1621,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
       "publishedDateTime": "2020-10-15T18:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
-      "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
-      "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0V75ExXRaPQ/biden-absolutely-ok-raise-taxes-economic-downturn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8f66c7a-be69-4034-b3d3-230f8b3654d6/b726d4b2-1d50-4804-9dde-0078e85158ae/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-absolutely-ok-raise-taxes-economic-downturn.amp",
-      "publishedDateTime": "2020-10-15T18:07:12-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -987,6 +987,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
+    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
+    publishedDateTime: 2020-10-22T21:15:00Z
+    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
+        width: 625
+        height: 469
+        isCached: true
   - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
     excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
     publishedDateTime: 2020-10-16T15:37:00Z

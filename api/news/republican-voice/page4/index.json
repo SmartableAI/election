@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-11-biden-sounding-very-much-like-trump-by-warning-of-chicanery-at-the-polls-reporter.md",
+      "title": "Biden 'sounding very much like Trump' by warning of 'chicanery' at the polls: reporter",
+      "excerpt": "Politico's Washington and politics managing editor said Democratic nominee Joe Biden sounded \"very much like Trump\" after Biden said the only way he could lose the 2020 election was through “chicanery.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/fWob78RIhLY/biden-polls-chicanery-trump-election-politico",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/ee41c591-thumb-trump-biden-1219a.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-11T11:56:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-11-trump-packing-supreme-court-would-permanently-destroy-the-court.md",
       "title": "Trump: Packing Supreme Court would 'permanently destroy the Court'",
       "excerpt": "President Trump said Democratic nominee Joe Biden has \"zero chance\" of resisting members of his party who want him to pack the courts and referenced the historial lesson of President Franklin Delano Roosevelt's attempt to expand the Supreme Court.",
@@ -1629,63 +1685,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-06-pence-to-vote-in-indiana-this-week-as-states-early-voting-begins.md",
-      "title": "Pence to vote in Indiana this week as state's early voting begins",
-      "excerpt": "Vice President Mike Pence and second lady Karen Pence are expected to fly to Indiana Friday, to vote in person from the second family’s home state, as early voting kicked off Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nEC6hPcDV3Q/pence-vote-indiana-early-voting-begins",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/26f5f008-69d5-41ad-8f48-c32183c19256/0e9e91f4-e14d-47a0-a9b5-a59f5ba01f77/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp",
-      "publishedDateTime": "2020-10-06T13:12:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

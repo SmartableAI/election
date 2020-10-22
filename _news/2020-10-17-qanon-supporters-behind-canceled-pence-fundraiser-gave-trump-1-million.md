@@ -96,6 +96,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Lesley Stahl says Trump and Pence insulted her and '60 Minutes'"
+    excerpt: "President Donald Trump on Thursday released video footage of the tense interviews he and Vice President Mike Pence had separately with “60 Minutes” correspondent Lesley Stahl, including a particularly combative exchange in which Stahl accuses both men of having \"insulted\" her and the news program."
+    publishedDateTime: 2020-10-22T21:18:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/trump-posts-60-minutes-interview-431218"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/trump-posts-60-minutes-interview-431218"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/trump-posts-60-minutes-interview-431218"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/48/22/54f78c37495fb6d30fd19b619c77/1021guiliani.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Donald Trump's Fake Populism"
     excerpt: "The mess the nation faces is bigger than Donald Trump. If he is voted out in November, the people who cast ballots for him will remain, pining for the policies he promoted. About 40 percent of American voters want tariffs and a border wall."
     publishedDateTime: 2020-10-16T10:00:00Z

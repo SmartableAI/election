@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
+    excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
+    publishedDateTime: 2020-10-22T13:30:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Barr should appoint a special counsel to investigate the Hunter Biden allegations"
     excerpt: "White House Chief of Staff Mark Meadows confirmed to me Wednesday morning that he has discussed the need for such a special counsel with President Trump."
     publishedDateTime: 2020-10-22T15:28:00Z
@@ -212,6 +228,6 @@ related:
       domain: cnsnews.com
     quality: 23
 
-secured: "qbXLJJ2vZhEYHztbj4zAB5v3C26GFGN1YMwT08lQiMVkWFBlFhdM855YSDpccgysCgbHzSL2SDXv9/rxsvhpBfPC4NDgohCqrUxOzOm6EVeItw+72GVI/2U9xx3UhCWQoVZCRVpqHpDTCKUdTa4meTlJDiDGbZUrPx2s4N3AVmIMl/obLPhn4vgpRL4P4brr9WHx6U6LJRn4y87OM0tGY/EIwLgIuWuwlGoNzxSOThQ9WCMjzfITwrNqm41uIJTonNeQO8uvtjPHl1LhQuwIiUXVCwO7HVBJeeONrC9joM0DT85/pOSPBwAWaWOFb67UfeTWNm7Hiz4cNOqw7vVUB3f9jKNKhfVT0/pEBD1PDM8=;fzIGxwSUTr45yiEPn6h77w=="
+secured: "q3bGvv5ijmpQZnfcz1pF96jHBNgkvSgNAxP3U1j5K52pFFsxx6LOZF4Vpbr+oZxadf4+euYEhNjc9sW1GlrsBJ2h/ZbvkGOIrc5pRKdWJuyE3+QWu+3v+mpglcBO/aAIz7cbE8FxIf4PrdoTx1BabvphC9Z3459s9zWxIK0zoeqwXz2IncsgUUTRynPt7vzSNB3DCjxGbie89z0ugMnDhNzcUdjpGrc51YqG81j/xoyF6kiAyF3FmYYeeS6DVk00nbiXi3tjhLc2mGDxxco/GmrkIQQXyuQMJbuZIP8h1xJlvnEW39il3fCuBiahLbvSOMhzi/TZYK6TdEI+2EhkalDvhsqtT+lA2mnC9YSOF2drIZDndwGJ467CDDa899FH6yvBGNyNVhbMP5xdq7qnDCSnS5PpSiFu1N8C+tC/J5ht+YA7UUHCMx2+1R8xU2aH8iJO0IrkOtORh9Xo61a/197pBxhVsEFc2K53iINBYL285SKJoIxyJmPkEG1Nvv/XFlDWCvv6T6Rd8wPGJjah+A==;yn3b3/IEKVXZri37Do46SA=="
 ---
 

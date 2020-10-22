@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump grants clemency to former Gary boxer Charles ‘Duke’ Tanner imprisoned for drug crimes"
+    excerpt: "Charles “Duke” Tanner, a former Gary boxer serving a 30-year sentence on federal drug and conspiracy convictions, was granted clemency Wednesday by President Donald Trump."
+    publishedDateTime: 2020-10-22T20:57:00Z
+    webUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/suburbs/post-tribune/ct-ptb-tanner-trump-clemency-st-1023-20201022-b4f2vcqmqng5nbm3pvic7qu4su-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 115
+    images:
+      - url: "https://www.chicagotribune.com/resizer/Pm-aHlFSnssyVo3j_nF3vTocN34=/630x630/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/75BMD65FYJBY7BZZN4SN7Z6BYE.jpg"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
     excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
     publishedDateTime: 2020-10-17T17:40:00Z

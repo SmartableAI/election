@@ -2,6 +2,258 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-22-biden-endorses-texas-democratic-house-candidate-julie-oliver.md",
+      "title": "Biden endorses Texas Democratic House candidate Julie Oliver",
+      "excerpt": "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
+      "originalUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp",
+      "publishedDateTime": "2020-10-21T12:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-maryland-man-charged-with-threatening-biden-harris-in-letter-on-supporters-doorstep.md",
+      "title": "Maryland man charged with threatening Biden, Harris in letter on supporter's doorstep",
+      "excerpt": "Federal prosecutors on Wednesday charged a Maryland man with threatening Democratic presidential candidate Joe Biden and running mate Kamala Harris in a letter left on the doorstep of a someone with a yard sign supporting their campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
+      "originalUrl": "https://www.reuters.com/article/us-usa-election-threat-idUSKBN2762NM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1483,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538350209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1MS",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2762NM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM",
+      "publishedDateTime": "2020-10-21T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-does-appearing-at-trump-rallies-help-martha-mcsally-in-arizonas-us-senate-race.md",
+      "title": "Does appearing at Trump rallies help Martha McSally in Arizona's US Senate race?",
+      "excerpt": "Sen. Martha McSally was on hand at President Donald Trump's rallies in Prescott and Tucson. Does campaigning with Trump help her Senate candidacy?",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/20/does-appearing-trump-rallies-help-martha-mcsally-senate-race-mark-kelly/5996029002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/8c7afcd6-2234-42b0-8b21-951d432f9480-AP20293744710077.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/5996029002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5996029002",
+      "publishedDateTime": "2020-10-21T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-trump-wants-to-cut-democrat-cities-covid-fundingduring-a-surge-in-cases.md",
+      "title": "Trump Wants to Cut Democrat Cities’ COVID Funding—During a Surge In Cases",
+      "excerpt": "The proposed cuts come as apparent retribution for Democratic mayors not “dominating” their citizens protesting this summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases",
+      "originalUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/5f9041e5936b35581b460cdf/master/pass/Trump10.21.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp",
+      "cdnAmpWebUrl": "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-cut-democrat-cities-covid-funding-surge-in-cases/amp",
+      "publishedDateTime": "2020-10-21T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanity Fair",
+        "domain": "vanityfair.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-husband-likes-biden-wife-likes-trump-how-the-2020-election-is-testing-families-and-friendships.md",
+      "title": "Husband likes Biden, wife likes Trump. How the 2020 election is testing families and friendships",
+      "excerpt": "While this isn’t new – the troupe of an opinionated uncle at the Thanksgiving table does exist for a reason – the fallout families face over these differences has worsened as the discourse around modern American politics has intensified.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2322,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/20/NTFO/ac36ccb8-e54a-4e9e-8514-6e08cee36123-Terry_and_Regan.jpg?auto=webp&crop=1221,687,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6004687002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004687002",
+      "publishedDateTime": "2020-10-21T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-trump-envoy-traveled-to-syria-for-talks-on-missing-americans.md",
       "title": "Trump envoy traveled to Syria for talks on missing Americans",
       "excerpt": "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w",
@@ -998,7 +1250,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 393,
+      "heat": 413,
       "tags": null,
       "images": [
         {
@@ -1040,266 +1292,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ben-shapiro-explains-why-hell-vote-for-trump-this-time-around-democrats-have-lost-their-f-ing-minds.md",
-      "title": "Ben Shapiro explains why he'll vote for Trump this time around: 'Democrats have lost their f---ing minds'",
-      "excerpt": "Conservative commentator Ben Shapiro revealed Monday that he plans to vote for President Trump in the upcoming election after declining to support his 2016 presidential bid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020",
-      "originalUrl": "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4284e8ac-4bba-4f37-827e-83cfc7b6b39f/32e33807-bba9-4a35-8092-3c75f6e1dcde/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp",
-      "publishedDateTime": "2020-10-20T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-activist-group-plans-widespread-disruptive-election-activities-to-thwart-potential-trump-coup.md",
-      "title": "Activist group plans widespread, ‘disruptive’ election activities to thwart potential Trump ‘coup’",
-      "excerpt": "'Trump will not leave office without mass mobilization and direct action,' the group says on its website.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqI-lfacqow/activist-group-election-protests-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7786f99-ad7f-4cdb-bd56-8793a0d5fd0b/505220a6-fdbe-42af-9fb5-742193594d08/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/activist-group-election-protests-trump.amp",
-      "publishedDateTime": "2020-10-20T13:39:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-call-the-proposed-probe-of-trump-and-his-enablers-what-it-really-is-mccarthyism.md",
-      "title": "Call the proposed probe of Trump and his ‘enablers’ what it really is: McCarthyism",
-      "excerpt": "It’s one thing to investigate whether Trump officials broke any laws during their service; that’s appropriate and should be handled by the Justice Department. Reich’s goal is much broader: “name every official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "originalUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6TSBQMARNQI6XISYMFFM6K4QNU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/20/call-proposed-probe-trump-his-enablers-what-it-really-is-mccarthyism/?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-incoming-sarasota-school-board-member-getting-backlash-for-calling-trump-supporters-nazis.md",
-      "title": "Incoming Sarasota School Board member getting backlash for calling Trump supporters ‘Nazis’",
-      "excerpt": "The newest member of the Sarasota County School Board is facing backlash for calling Trump supporters Nazis in a 2017 Facebook post.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/",
-      "originalUrl": "https://www.usatoday.com/story/news/education/2020/10/19/sarasota-school-board-member-called-trump-supporters-nazis-2017/3710042001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/19/NSHT/c84afe4c-edcb-4ae9-946f-328495ddf94e-EdwardsTom_01.jpg?auto=webp&crop=4149,2334,x0,y399&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3710042001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3710042001",
-      "publishedDateTime": "2020-10-20T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.md",
-      "title": "Watch: Trail Blazers’ CJ McCollum interviews VP nominee Kamala Harris during Remaking America",
-      "excerpt": "The Blazers' starting shooting guard interviewed the democratic candidate for Vice President in his new show, Remaking America.",
-      "sourceUrl": null,
-      "webUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
-      "originalUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/OIANM34RPNFNJD6AY4FG5OBJQM.JPG",
-          "width": 2968,
-          "height": 2220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/blazers/2020/10/watch-trail-blazers-cj-mccollum-interviews-vp-nominee-kamala-harris-during-remaking-america.html?outputType=amp",
-      "publishedDateTime": "2020-10-20T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Oregonian",
-        "domain": "oregonlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

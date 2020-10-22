@@ -558,6 +558,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gowdy rips media silence on Hunter Biden scandal: 'It's relevant whether Joe Biden took any money'"
+    excerpt: "S.C., blasted the mainstream media Thursday for downplaying confirmation by Hunter Biden's former business partner that an email published by the New York Post last week is \"genuine."
+    publishedDateTime: 2020-10-22T21:51:00Z
+    webUrl: "https://www.foxnews.com/media/gowdy-media-double-standard-hunter-biden-email"
+    ampWebUrl: "https://www.foxnews.com/media/gowdy-media-double-standard-hunter-biden-email.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/gowdy-media-double-standard-hunter-biden-email.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 121
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/80bfa8ca-884d-4392-8b02-578a70f1d4f5/3f9d2eb0-e4cb-4b1c-a229-c3e2802d53fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Giuliani: You've Only Seen Five Percent of What's on Hunter Biden's Hard Drive"
     excerpt: "Former New York City Major, Trump campaign advisor and former U.S. Attorney Rudy Giuliani is warning Americans they haven't seen anything yet when it comes to the corruption of the"
     publishedDateTime: 2020-10-15T18:00:00Z

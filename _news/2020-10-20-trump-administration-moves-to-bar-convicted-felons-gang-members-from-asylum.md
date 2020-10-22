@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump to vote early in Florida this weekend"
+    excerpt: "Early voting in the Sunshine State kicked off to a record-breaking start this week."
+    publishedDateTime: 2020-10-22T21:23:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GuSh8BVW1gs/trump-vote-early-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-vote-early-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vote-early-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e588b390-e18a-4922-b5ef-934a422f0ab6/3da60228-cd3e-4220-b890-76aedbf8ec74/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "An Ex-Liberal Reluctantly Supports Trump"
     excerpt: "How historian Fred Siegel came to appreciate the president’s defense of ‘bourgeois values’ against the ‘clerisy.’"
     publishedDateTime: 2020-10-16T19:32:00Z

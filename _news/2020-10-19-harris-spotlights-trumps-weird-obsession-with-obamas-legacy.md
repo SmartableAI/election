@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 620
+heat: 640
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 200
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d85c33c-fea2-4bbc-a1f1-9578a319a0c0/72586bf0-f0a2-4f0c-a8fa-aa49a54900b3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris reschedules Cleveland trip as Trump gains in Ohio polls"
+    excerpt: "President Trump’s campaign is also scheduled to make stops in Ohio this weekend."
+    publishedDateTime: 2020-10-22T21:19:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mvRbNZtt_4o/kamala-harris-cleveland-trip-trump-gains-ohio-polls"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-cleveland-trip-trump-gains-ohio-polls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 200
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4e8ff0d-d9db-4626-b9da-37b669934c72/90e950f7-e76b-4303-9f45-717cf17942b1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

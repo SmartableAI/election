@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
+    excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
+    publishedDateTime: 2020-10-22T13:30:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 121
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
     excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
     publishedDateTime: 2020-10-15T10:14:00Z

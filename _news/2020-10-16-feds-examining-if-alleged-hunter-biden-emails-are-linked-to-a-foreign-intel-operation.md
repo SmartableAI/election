@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden's court 'punt' gets lukewarm response"
+    excerpt: "And Republicans continued alleging that Biden will pack the court and is just being disingenuous about his real intentions. Brian Fallon, a former Senate Democratic leadership aide who now runs the progressive group Demand Justice,"
+    publishedDateTime: 2020-10-22T20:31:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/biden-supreme-court-commission-response-431302"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/biden-supreme-court-commission-response-431302"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/biden-supreme-court-commission-response-431302"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/45/8c/7ce35fa9415996cb63ec8487b5b2/gettyimages-1229155015.jpg"
+        width: 4692
+        height: 3126
+        isCached: true
   - title: "How Biden would use trade agreements to fight global warming"
     excerpt: "The former vice president and key Democrats in Congress want to use trade agreements to fight global warming, but reversing four years of Trump's \"energy dominance\" is no easy task."
     publishedDateTime: 2020-10-14T23:19:00Z

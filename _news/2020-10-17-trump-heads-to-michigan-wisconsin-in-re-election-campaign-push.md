@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27206X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X"
 type: article
 quality: 140
-heat: 1580
+heat: 1600
 published: true
 
 provider:
@@ -970,6 +970,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/02/20/PPHX/a63c4d05-d9d8-426f-93a5-18f4242a63af-DW1_2561.JPG?auto=webp&crop=3676,2068,x0,y524&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
+    excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
+    publishedDateTime: 2020-10-22T21:15:00Z
+    webUrl: "https://www.nhpr.org/post/vp-mike-pence-campaigns-trump-portsmouth"
+    type: article
+    provider:
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 70
+    images:
+      - url: "https://www.nhpr.org/sites/nhpr/files/styles/medium/public/202010/PencePorts_102120_JRogers_0.jpg"
+        width: 625
+        height: 469
         isCached: true
   - title: "Trump Still Feuding With Dr. Fauci, Lashes Out At Pandemic Expert In Dispute Over Campaign Ad"
     excerpt: "President Trump lashed out at Dr. Anthony Fauci on Tuesday after the nation’s top infectious disease expert criticized the president’s reelection campaign for featuring him in a political advertisement."

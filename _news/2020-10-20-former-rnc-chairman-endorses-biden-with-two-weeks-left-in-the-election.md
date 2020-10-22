@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 890
+heat: 910
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/15/business/21daily-promo/21daily-promo-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden's court 'punt' gets lukewarm response"
+    excerpt: "And Republicans continued alleging that Biden will pack the court and is just being disingenuous about his real intentions. Brian Fallon, a former Senate Democratic leadership aide who now runs the progressive group Demand Justice,"
+    publishedDateTime: 2020-10-22T20:31:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/biden-supreme-court-commission-response-431302"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/biden-supreme-court-commission-response-431302"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/biden-supreme-court-commission-response-431302"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/45/8c/7ce35fa9415996cb63ec8487b5b2/gettyimages-1229155015.jpg"
+        width: 4692
+        height: 3126
         isCached: true
   - title: "Feds examining if alleged Hunter Biden emails are linked to a foreign intel operation"
     excerpt: "One email, which has not been confirmed to be authentic, suggested a meeting between Joe Biden and a rep from a Ukraine firm that once paid his son Hunter."

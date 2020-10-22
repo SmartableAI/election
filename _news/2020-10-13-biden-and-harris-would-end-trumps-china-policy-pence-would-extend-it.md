@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/international/520673-biden-and-harris-wo
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp"
 type: article
 quality: 180
-heat: 10380
+heat: 10400
 published: true
 
 provider:
@@ -2687,6 +2687,22 @@ related:
       - url: "https://i.insider.com/5f8d5a17c21cfb0019468acf?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Ohio in play: Trump, Pence, Harris head to bellwether state"
+    excerpt: "President Donald Trump will campaign Saturday in central Ohio while Democratic vice presidential candidate Sen. Kamala Harris will head to Cleveland, as the traditional bellwether state appears to be a toss-up for Nov."
+    publishedDateTime: 2020-10-22T21:09:00Z
+    webUrl: "https://www.chron.com/news/article/Ohio-in-play-Trump-Pence-Harris-head-to-15668352.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Ohio-in-play-Trump-Pence-Harris-head-to-15668352.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Ohio-in-play-Trump-Pence-Harris-head-to-15668352.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 125
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Kamala Harris is not a radical, but her rise may herald progressive change"
     excerpt: "Radical change is the work of ordinary people, and yet we only demand it when representation makes it thinkable."

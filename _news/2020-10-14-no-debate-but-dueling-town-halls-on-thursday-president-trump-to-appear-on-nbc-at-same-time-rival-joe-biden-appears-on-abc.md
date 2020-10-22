@@ -192,6 +192,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump guaranteed the election would be all about him"
+    excerpt: "Gallup on Thursday summed up his opponent’s fundamental problem: “The majority of U.S. registered voters, 56%, believe  Donald Trump does not deserve to be reelected, while 43% say he does.” That is a seven-point drop in his “deserves reelection” number taken in January."
+    publishedDateTime: 2020-10-22T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DC3E2ZAUN4I6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -287,6 +303,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91c175646512a0bc5fe5c7%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Poll: Biden leads Trump by 10 nationally, with majority saying COVID-19 is 'out of control'"
+    excerpt: "Former vice president Joe Biden holds a 51-41 lead among likely voters against President Donald Trump in a new Quinnipiac University national poll released Thursday."
+    publishedDateTime: 2020-10-22T20:49:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/2020-poll-joe-biden-leading-donald-trump-double-digits-nationally/3731514001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3731514001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731514001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 130
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/f5875d30-42f4-42db-985e-183604fb35aa-VPC_EARLY_VOTING.00_00_03_13.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump Touts His Coronavirus 'China Ban' To Bash Biden And Fauci. Here’s Why That’s A Problem."
     excerpt: "President Trump has claimed repeatedly that the disease expert was against his decision to implement travel restrictions on China back in January and that Biden called the restrictions “xenophobic.”"
@@ -729,6 +761,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9083ca421548d89e4a00ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5562%26cropY1%3D58%26cropY2%3D3187"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Plexiglass partitions to separate Trump, Biden as they face off in final 2020 debate"
+    excerpt: "President Donald Trump and former Vice President Joe Biden face off in the final presidential debate of the 2020 election from Belmont University in Nashville Thursday."
+    publishedDateTime: 2020-10-22T19:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/debate-campaign-election-2020/?id=73746917"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 113
+    images:
+      - url: "https://s.abcnews.com/images/Politics/debate-barriers-gty-ps-201022_1603372308209_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "At Least 23 Billionaires Made Six-Figure Donations To Committees Supporting Donald Trump Since July"
     excerpt: "Big money donors from Bass Pro Shops, Ashley Furniture, Apollo Global Management and more donated to Trump in recent months."

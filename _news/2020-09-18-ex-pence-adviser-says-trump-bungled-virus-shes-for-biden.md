@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 5895
+heat: 5915
 published: true
 
 provider:
@@ -878,6 +878,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/295354e6032ea5e6a7e14bbdfc7a5c527c1e9bb9/c=0-106-2128-1303/local/-/media/2020/09/29/USATODAY/usatsports/gettyimages-1156281124.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump expected to bring Hunter Biden's former business partner to debate"
+    excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
+    publishedDateTime: 2020-10-22T21:48:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522333-trump-expected-to-bring-hunter-bidens-former-business-partner-to-debate"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522333-trump-expected-to-bring-hunter-bidens-former-business-partner-to-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522333-trump-expected-to-bring-hunter-bidens-former-business-partner-to-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_rally_101920getty_budowsky.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time"
     excerpt: "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent."

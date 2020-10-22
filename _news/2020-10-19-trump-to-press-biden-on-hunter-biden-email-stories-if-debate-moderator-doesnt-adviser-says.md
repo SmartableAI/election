@@ -224,6 +224,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden campaign says Trump’s likely debate attacks on Hunter Biden will backfire"
+    excerpt: "Hours before the second and final debate between Democratic presidential nominee Joe Biden and President Trump, it was pretty clear that the president would press the accelerator at the face-off in Nashville, Tenn., over the latest controversy surrounding the former vice president’s son Hunter Biden."
+    publishedDateTime: 2020-10-22T21:24:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1dNBUS2j05c/biden-campaign-trump-debate-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-campaign-trump-debate-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-campaign-trump-debate-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/biden-trump-debate-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump traveling to NC as Biden fundraises ahead of candidates' dueling town halls"
     excerpt: "With the November election less than three weeks away and millions of Americans already casting their ballots, President Trump and Democratic rival Joe Biden will make one of their final appeals to voters during dueling town halls on Thursday night. "
     publishedDateTime: 2020-10-15T11:35:00Z

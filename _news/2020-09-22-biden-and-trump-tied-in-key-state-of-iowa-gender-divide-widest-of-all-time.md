@@ -895,6 +895,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump expected to bring Hunter Biden's former business partner to debate"
+    excerpt: "President Trump is expected to bring Hunter Biden’s former business partner to the presidential debate on Thursday night in Nashville, as the president seeks to make Democratic nominee Joe Biden’s pri"
+    publishedDateTime: 2020-10-22T21:48:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522333-trump-expected-to-bring-hunter-bidens-former-business-partner-to-debate"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522333-trump-expected-to-bring-hunter-bidens-former-business-partner-to-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522333-trump-expected-to-bring-hunter-bidens-former-business-partner-to-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 139
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_rally_101920getty_budowsky.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Pence says Trump has an \"obligation\" to quickly name Supreme Court nominee"
     excerpt: "The vice president told Norah O'Donnell that confirming a new justice to the Supreme Court during an election year is not without precedent."
     publishedDateTime: 2020-09-21T22:34:00Z

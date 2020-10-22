@@ -2,6 +2,231 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-02-trump-team-thinks-nevada-is-in-play-is-it.md",
+      "title": "Trump team thinks Nevada is in play. Is it?",
+      "excerpt": "The Trump campaign has been hitting Nevada harder than ever this election season, and they seem certain the state might be President Trump’s for the taking this November. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/85pFVFkLklI/trump-team-thinks-nevada-is-in-play-is-it",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/donald-trump-nevada-2-AP.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-team-thinks-nevada-is-in-play-is-it.amp",
+      "publishedDateTime": "2020-10-02T13:04:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-trumps-campaign-may-be-more-focused-and-disciplined-without-in-person-events-karl-rove.md",
+      "title": "Trump’s campaign ‘may be more focused and disciplined’ without in-person events: Karl Rove",
+      "excerpt": "President Trump being forced to hold virtual campaign events after testing positive for coronavirus may cause him to be more \"focused and disciplined\" in his messaging, Fox News contributor Karl Rove suggested on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/k2m261kicyA/trump-coronavirus-virtual-campaign-karl-rove",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-virtual-campaign-karl-rove.amp",
+      "publishedDateTime": "2020-10-02T11:49:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-03-this-was-avoidable-trump-has-been-downplaying-the-virus-from-the-start.md",
+      "title": "'This was avoidable': Trump has been downplaying the virus from the start",
+      "excerpt": "In recent weeks, Trump has put himself and others at risk by holding mass gatherings, some indoors, and shunning mask use while claiming the end of the virus was just around the corner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
+      "originalUrl": "https://www.nbcnews.com/politics/white-house/was-avoidable-trump-falls-victim-his-own-false-messaging-coronavirus-n1241775",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2020_40/3416883/201002-donald-trump-melania-trump-ew-202a_2aef1d6bb1b9e1b977edd6d985618f74.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241775",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241775",
+      "publishedDateTime": "2020-10-02T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-02-pelosi-trump-diagnosis-tragic-hopefully-leads-to-saner-approach-to-pandemic.md",
+      "title": "Pelosi: Trump diagnosis 'tragic,' hopefully leads to 'saner approach' to pandemic",
+      "excerpt": "Speaker Nancy Pelosi said that President Trump’s COVID-19 diagnosis is “tragic” and “very sad,” but predictable, given his frequent contact with crowds. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bRzKYb_-f_M/pelosi-trump-saner-approach-coronavirus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-trump-saner-approach-coronavirus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-trump-saner-approach-coronavirus.amp",
+      "publishedDateTime": "2020-10-02T10:16:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-02-trump-has-covid-what-could-it-mean-for-the-economy.md",
       "title": "Trump Has COVID. What Could It Mean For The Economy?",
       "excerpt": "President Donald Trump and First Lady Melania Trump have tested positive for Covid-19, the president announced on Twitter early Friday morning. Here's what to watch out for when it comes to the economy.",
@@ -1114,222 +1339,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-trump-shows-his-first-allegiance-is-not-to-the-united-states-of-america.amp",
       "publishedDateTime": "2020-10-01T12:01:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says.md",
-      "title": "Trump 'Will Not Accept Any Result That Is Not A Victory,' 'Atlantic' Writer Says",
-      "excerpt": "Atlantic writer Barton Gellman says the 2020 election could trigger a constitutional crisis: \"This is not going to be a normal election. ... Preserving its legitimacy is going to take extra effort.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "originalUrl": "https://www.npr.org/2020/10/01/919023364/trump-will-not-accept-any-result-that-is-not-a-victory-atlantic-writer-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/assets/img/2020/10/01/gettyimages-1273384685_wide-e24471991c8648589f4ed71dda06062f7b5c082f.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-pelosi-warns-trump-aint-no-light-at-the-end-of-the-tunnel-should-election-be-decided-in-house.md",
-      "title": "Pelosi warns Trump 'ain't no light at the end of the tunnel' should election be decided in House",
-      "excerpt": "Speaker Nancy Pelosi spelled out a dire prediction for President Trump should the election come down to the House to be decided.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qb-3-3Bn6Ek/pelosi-election-outcome-no-light-for-trump-in-house",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/2f2219a9-AP20268562631818.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-election-outcome-no-light-for-trump-in-house.amp",
-      "publishedDateTime": "2020-10-01T10:50:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-02-donald-trump-made-an-unsuccessful-push-to-cash-out-his-800-million-stake-in-2-valuable-office-skyscrapers.md",
-      "title": "Donald Trump made an unsuccessful push to cash out his $800 million stake in 2 valuable office skyscrapers",
-      "excerpt": "The New York Times found Trump erased nearly all his federal taxes in the 15 years prior to the 2016 election. But he could be on the hook for an upcoming $100 million tax bill.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-tried-sell-stake-manhattan-san-francisco-offices-vornado-taxes-2020-9",
-      "originalUrl": "https://www.businessinsider.com/trump-tried-sell-stake-manhattan-san-francisco-offices-vornado-taxes-2020-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f75f48374fe5b0018a8e7b3?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-01T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-biden-schumer-pelosi-would-do-more-damage-in-2-years-than-obama-did-in-8-ted-cruz.md",
-      "title": "Biden-Schumer-Pelosi would do more damage in 2 years than Obama did in 8: Ted Cruz",
-      "excerpt": "A “Biden-Schumer-Pelosi government” would be a “nightmare,” Sen. Ted Cruz, R-Texas, said on Thursday as he encouraged Republicans to vote in the upcoming elections.  ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/G0Yg0vMNs00/biden-schumer-pelosi-damage-obama-cruz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-schumer-pelosi-damage-obama-cruz.amp",
-      "publishedDateTime": "2020-10-01T10:22:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

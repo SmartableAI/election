@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Democratic senators call on FBI not to investigate Biden family before election"
+    excerpt: "Sens. Ron Wyden, D-Ore., and Chuck Schumer, D-N.Y. wrote a letter to FBI Director Christopher Wray demanding the FBI “reject pressure” to investigate the Biden family after the Hunter Biden email story from the New York Post. "
+    publishedDateTime: 2020-10-22T20:59:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uhdM5RGtwuk/democratic-senators-call-fbi-not-to-investigate-biden-family-before-election"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-senators-call-fbi-not-to-investigate-biden-family-before-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-senators-call-fbi-not-to-investigate-biden-family-before-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Hunter-Biden-Getty.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tara Reade penning memoir on coming forward as a Biden accuser, will be released before election"
     excerpt: "Tara Reade is writing a memoir about the turbulent journey she has taken since coming forward with her 1993 sexual assault allegation against her former boss Joe Biden."
     publishedDateTime: 2020-10-13T19:55:10Z

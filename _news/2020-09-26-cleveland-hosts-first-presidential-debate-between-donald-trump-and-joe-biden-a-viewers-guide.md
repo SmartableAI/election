@@ -2138,6 +2138,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
+    excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former Vice President Joe Biden and U.S. Senator Kamala Harris for the 2020 presidential election."
+    publishedDateTime: 2020-10-22T20:47:00Z
+    webUrl: "https://www.chron.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 79
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/67/21/20149336/3/rawImage.jpg"
+        width: 2048
+        height: 1395
+        isCached: true
   - title: "Read the full transcript from the first presidential debate between Joe Biden and Donald Trump"
     excerpt: "This is the full transcript from Tuesday night's first presidential debate between Republican President Donald Trump and Democrat Joe Biden."
     publishedDateTime: 2020-09-30T17:15:00Z

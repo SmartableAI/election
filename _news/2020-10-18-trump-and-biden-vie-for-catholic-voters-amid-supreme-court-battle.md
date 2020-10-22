@@ -223,6 +223,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "John King: The map gives Trump and Biden these options"
+    excerpt: "CNN's John King breaks down the latest electoral college projections ahead of the final presidential debate.\n    \n"
+    publishedDateTime: 2020-10-22T17:15:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nVtx-tIWQcQ/2020-us-election-electoral-college-projection-john-king-magic-wall-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/22/2020-us-election-electoral-college-projection-john-king-magic-wall-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/22/2020-us-election-electoral-college-projection-john-king-magic-wall-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022131036-john-king-10222020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Debate commission announces topics for final debate between Trump and Biden"
     excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
     publishedDateTime: 2020-10-16T19:25:46Z
@@ -277,6 +293,22 @@ related:
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gfRTfLg16FE/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-2020-debate/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022110005-05-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump in need of a game-changing moment as he meets Joe Biden for final debate"
+    excerpt: "President Donald Trump enters the final presidential debate on Thursday in need of a major shakeup that will change the trajectory of the race as he trails Joe Biden in both national polls and key swing states that will determine whether he has a path to victory in the Electoral College.\n    \n"
+    publishedDateTime: 2020-10-22T21:44:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xHUrb7OarVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/2020-election-final-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/2020-election-final-presidential-debate/index.html"
     type: article
     provider:
       name: CNN

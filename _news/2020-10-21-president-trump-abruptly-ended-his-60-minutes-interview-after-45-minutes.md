@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jason Whitlock’s Friendly Interview With Donald Trump Shows Our New Media Ecosystem"
+    excerpt: "Donald Trump has given friendly interviews to Jason Whitlock and Barstool Sports founder Dave Portnoy in the closing months of the highly fraught presidential campaign."
+    publishedDateTime: 2020-10-22T18:21:00Z
+    webUrl: "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/"
+    ampWebUrl: "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 119
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2dc10b6772ea895493de%2F0x0.jpg"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
     excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
     publishedDateTime: 2020-10-20T22:38:00Z
@@ -140,6 +156,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
         width: 4981
         height: 3321
+        isCached: true
+  - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
+    excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-22T20:20:00Z
+    webUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408"
+    ampWebUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 52
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/us-president-donald-trump-questions-the-coronavirus-figures.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "xMe+mOphRiIYM5TIN+XFzbEGI5BTahIPmlHLSkHUk/Cs3YeEb2RZKUDfljlpke78tlqeaegT5GOW24jpKUdu1qvSzfcPOzBcYZz6C9PSah01NxsYyG7O4t0Uhsd98JltVMgE5XcQxu1gzCoE7QPJLECbCugVZTTcSpQCccotckX5xxxvp7P8iYh9pDRoYXccpYkz9AmtiJ57RRWSaAT9wiM+cwN0c6mvXJWcj75OVenLOAJ4Xep4lxyhT+m2sjsAbqciRq8QTyZAHA+3psb8SBwwjrSPVEmTeb0wH4NNDpJyzrbfOc4TngRvN+2OjqmIi9dZsLQrfVAWXp12nr03er5F0WuDxp1sys6I8RWQyOKJlLNEkF7C7eHSd5y7L3txW3lZUApteu2oh/aVf6Er+jtxMe3JaAHmQnVMEek7A9V3aUmdbzovEk7UpVUzdVoEchD3SVYu9m09rrZEVx8bP7O1xdbv/g8RB4lFQ+bjWdiiYQdplOZiqivkHVBM0Rrie/bdX8MkKZ2boObpLwUJ4w==;LZuaty6MeATTbzFw3ZlZpQ=="
