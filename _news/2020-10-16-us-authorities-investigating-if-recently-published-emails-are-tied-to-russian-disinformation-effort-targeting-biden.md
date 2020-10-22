@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says if elected he will form bipartisan commission to recommend changes to Supreme Court "
+    excerpt: "Democratic presidential nominee Joe Biden said that if he is elected, he will form a bipartisan commission to recommend changes to the Supreme Court.\n    \n"
+    publishedDateTime: 2020-10-22T13:53:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlIYyqlgWCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/biden-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/biden-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Is Not Out of the Woods"
     excerpt: "Recent headlines reflect the widespread view that Biden is poised to prevail: Washington Post: “As Trump stumbles, voters finalize their choices, and Biden’s lead grows”;: “Virus Pulls Down Trump, Poll Shows,"
     publishedDateTime: 2020-10-14T09:14:00Z

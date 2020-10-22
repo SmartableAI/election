@@ -111,6 +111,22 @@ related:
         width: 1199
         height: 782
         isCached: true
+  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
+    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
+    publishedDateTime: 2020-10-16T01:20:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
+    images:
+      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Beijing May Want To Keep Trump In The White House"
     excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
     publishedDateTime: 2020-10-20T07:16:00Z

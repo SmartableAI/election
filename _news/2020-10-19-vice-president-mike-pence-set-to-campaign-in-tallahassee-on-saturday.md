@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/08/PPHX/9e77f718-2a68-4075-94d5-e7360a7f5a9b-VicePresidentPence_Peoria_Oct8_4.JPG?auto=webp&crop=2999,1687,x0,y100&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Mike Pence to visit Oakland County on Thursday"
+    excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
+    publishedDateTime: 2020-10-21T05:46:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/20/vice-president-mike-pence-vsit-oakland-county-thursday/3708766001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/3708766001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3708766001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTN/ed9d6f3f-e47c-4dec-ad0d-c99eac40fd8c-2020-1014-dm-pence-grandrapids0723.jpg?auto=webp&crop=1854,1043,x0,y125&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

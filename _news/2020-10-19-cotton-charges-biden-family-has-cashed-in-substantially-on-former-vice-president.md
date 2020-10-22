@@ -31,21 +31,133 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-White House doctor questions Biden's 'mental capacity' to be president"
-    excerpt: "“I’m concerned, like so many other people in this country are right now, that he is not up for the job,\" Jackson said."
-    publishedDateTime: 2020-10-13T21:48:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tvR-lQXJkr4/white-house-doctor-ronny-jackson-biden-mental-capacity-president"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-doctor-ronny-jackson-biden-mental-capacity-president.amp"
+  - title: "Harris, prominent Democrats listed as 'key contacts' for Biden family business venture projects"
+    excerpt: "EXCLUSIVE: A list of “key domestic contacts” for a joint venture involving Jim and Hunter Biden and now-bankrupt CEFC China Energy Co. included former Vice President Joe Biden's current running mate Sen. Kamala Harris, among other prominent Democrats, Fox News has learned."
+    publishedDateTime: 2020-10-22T13:44:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQEBp1uFlJQ/jim-hunter-biden-china-joint-venture-key-contacts"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 188
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/048f5479-3edc-4e43-8155-6c4f45a2c149/af8ff7d7-6b5c-4ce2-a9be-4ad5bb46b196/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'"
+    excerpt: "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth."
+    publishedDateTime: 2020-10-17T01:07:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8QeiazV-e-M/facebook-sba-list-abortion-ad"
+    ampWebUrl: "https://www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sba-list-abortion-ad.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Screen-Shot-2020-10-16-at-5.03.33-PM.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Maryland man charged after note discovered threatening televised execution of 'Grandpa Biden,' Harris"
+    excerpt: "A Maryland man is facing a federal charge for allegedly threatening the lives of Democratic presidential nominee Joe Biden and his running mate Sen. Kamala Harris, D-Calif., in a handwritten note left at the home of a Biden/Harris supporter."
+    publishedDateTime: 2020-10-21T19:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VEuVON5F1a0/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris"
+    ampWebUrl: "https://www.foxnews.com/politics/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maryland-man-charged-after-note-discovered-threatening-televised-execution-of-grandpa-biden-harris.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/600f2c8e-4145-4869-b692-bda1beee0577/3edf21f2-94b7-4936-8ade-adcf5f57fd92/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:11:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNAu_6K7AUw/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Documents show alleged Hunter Biden signature, FBI contacts with computer repair store owner"
+    excerpt: "The document allegedly signed by Biden details repair work that was to be performed on three MacBook Pro laptops at “The Mac Shop” in Wilmington, Delaware."
+    publishedDateTime: 2020-10-19T23:10:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K2INPc9xd3M/hunter-biden-emails-documents-alleged-signature-fbi-paperwork"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hunter Biden business partner calls email 'genuine,' says Hunter sought dad's advice on deals"
+    excerpt: "Tony Bobulinski, who was listed as the recipient of an email published by the New York Post that appeared to detail a business arrangement involving a Chinese company and members of the Biden family, has confirmed that the email is \"genuine\" and provided more information regarding the Bidens' role in"
+    publishedDateTime: 2020-10-22T12:43:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mOb93KBqwH0/hunter-biden-business-partner-email-genuine-joe-biden-advice"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-partner-email-genuine-joe-biden-advice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-partner-email-genuine-joe-biden-advice.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
+    excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
+    publishedDateTime: 2020-10-16T18:58:00Z
+    webUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president"
+    ampWebUrl: "https://www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/is-pelosi-laying-the-groundwork-to-make-kamala-harris-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/83b45cb8-2387-4c13-a353-9fb24f790716/b8672818-fe53-4a19-8b9f-3e780e4cb30d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:16:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
     excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
@@ -63,47 +175,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
-    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
-    publishedDateTime: 2020-10-10T02:38:00Z
-    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-court-packing-certain-biden-harris"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 105
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18014665-571f-4e7f-adfc-f5a4a9f7b9be/edb37719-8de4-40d1-be5c-d7568711c7b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Joe Biden Wants to Be ‘President of All Americans’?"
-    excerpt: "It’s a meaningless platitude in a sea of meaningless platitudes. In fact, most of what Joe Biden says is a bunch of meaningless platitudes. But one sticks out, to me"
-    publishedDateTime: 2020-10-08T04:01:00Z
-    webUrl: "https://townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632"
-    ampWebUrl: "https://townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/derekhunter/2020/10/08/joe-biden-wants-to-be-president-of-all-americans-n2577632?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 85
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/99737bff-a3b3-4fda-8f05-edaaafd875d3.jpg"
-        width: 650
-        height: 340
-        isCached: true
-  - title: "George Floyd would still be dead if Joe Biden were president"
-    excerpt: "Did you know that if only Joe Biden were president back in May that the sainted George Floyd would still be alive today?"
-    publishedDateTime: 2020-10-08T03:44:00Z
-    webUrl: "https://www.washingtonexaminer.com/opinion/george-floyd-would-still-be-dead-if-joe-biden-were-president"
-    ampWebUrl: "https://www.washingtonexaminer.com/opinion/george-floyd-would-still-be-dead-if-joe-biden-were-president?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/george-floyd-would-still-be-dead-if-joe-biden-were-president?_amp=true"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 65
 
 secured: "evkbz5Sf/VFJAxGciZjtIWv0B2FpTA33p477Uf0l8eqOgB3QQ1pHqQmiuD4q68Ie8G7xtjYZAN1K90e/xEJFBeIK6/uZorUDxI72E4qafdpSgjE9zSVdMw3i83MUovo6ngOUbtLfJRdQdiC/otkSdXYWxBDksVAH1NZxklVci/sCTbknyIr83SBAK/Phlrw+M8ImM6PMfp3xqzauksI4uWoIpVTokR8MW6aEvoes5hwUuadyiEam+Vagr6C4pdTXNIb56o2U0uteIwmVoEfI9Y9aEWBCRgvp6ndqeOj6Cx1fTOK4B+Y/G0nqv4hpnnNb06xiMUgW6trMCHMOaZ7hPIrnqx75wtNR0L23N3cA1Ds=;+2FM40WA2Ua5zsqfw9VgWw=="
 ---

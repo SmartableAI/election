@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6004687002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6004687002"
 type: article
 quality: 142
-heat: 2122
+heat: 2142
 published: true
 
 provider:
@@ -1246,6 +1246,22 @@ related:
       - url: "https://images.theweek.com/sites/default/files/styles/tw_image_9_4/public/trump_debate_lies.jpg?itok=gbMHZ9zc"
         width: 1260
         height: 560
+        isCached: true
+  - title: "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe"
+    excerpt: "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham."
+    publishedDateTime: 2020-10-22T11:39:00Z
+    webUrl: "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-04-at-7.15.10-AM.png"
+        width: 800
+        height: 430
         isCached: true
   - title: "Did you see a photo of Joe Biden supposedly kneeling during the national anthem? Not so"
     excerpt: "Biden was kneeling to pose for a photo with dancers during an event at the Little Haiti Cultural Complex in Miami, according to captions of AP photos taken at the scene."

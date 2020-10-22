@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-13-vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.md",
+      "title": "VP Mike Pence, in Ohio, criticizes removal of statues in Columbus, elsewhere",
+      "excerpt": "Vice President Mike Pence, campaigning in Ohio on Monday, suggested that America is on the edge of a cultural precipice, denouncing the removal of statues of controversial explorer Christopher Columbus in his namesake city and around the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html",
+      "originalUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/S4BXECN44NDVXCLNI2LJLQNEQM.jpg",
+          "width": 1024,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/politics/2020/10/vp-mike-pence-in-ohio-criticizes-removal-of-statues-in-columbus-elsewhere.html?outputType=amp",
+      "publishedDateTime": "2020-10-12T15:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-ex-ohio-state-qb-cardale-jones-says-pence-rally-appearance-had-no-political-or-social-attachment.md",
       "title": "Ex-Ohio State QB Cardale Jones says Pence rally appearance had 'no political or social attachment'",
       "excerpt": "In tweets after the event, Jones said he declined to be interviewed at the event because he was there to support a local business, not endorse a political candidate.",
@@ -504,7 +547,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/08/mike-pence-cancels-appearance-vote-friday-indy/5911905002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 642,
+      "heat": 622,
       "tags": null,
       "images": [
         {
@@ -1569,58 +1612,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-mike-pence-gets-a-rare-moment-in-the-national-spotlight.md",
-      "title": "Mike Pence Gets A Rare Moment In The National Spotlight",
-      "excerpt": "Vice President Mike Pence takes the stage for a debate with Kamala Harris in Salt Lake City Wednesday night. The debate comes amid President Trump's treatment for COVID-19. Pence has tested negative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight",
-      "originalUrl": "https://www.npr.org/2020/10/07/921055053/mike-pence-gets-a-rare-moment-in-the-national-spotlight",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

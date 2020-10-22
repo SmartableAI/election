@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Press: Trump's colossal missed opportunity on COVID-19"
+    excerpt: "The tragedy is that this could have been the turning point. Instead, the virus will rage on as before, with health officials saying one thing, and the president of the United States saying just the opposite."
+    publishedDateTime: 2020-10-13T11:43:00Z
+    webUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19"
+    ampWebUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_101020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Why Ross Douthat is right about Trump"
     excerpt: "For the past four years the New York Times’ Ross Douthat has been consistently advocating the incompetence argument. In the wake of rising fears that Trump intends to launch a s"
     publishedDateTime: 2020-10-13T11:19:00Z
@@ -121,6 +137,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump officials, while painting a rosy picture in public, warned conservative allies that coronavirus could harm economy"
     excerpt: "On television, Larry Kudlow was optimistic. \"We have contained this,\" President Donald Trump's top economic advisor said of the coronavirus."
     publishedDateTime: 2020-10-15T03:00:00Z
@@ -152,6 +179,22 @@ related:
       - url: "https://i.insider.com/5f7cb1ff94fce90018f7b6dc?width=750&format=jpeg&auto=webp"
         width: 750
         height: 563
+        isCached: true
+  - title: "First lady unseen as Trump restarts campaign after COVID-19"
+    excerpt: "President Donald Trump and his wife received their positive COVID-19 tests on the same day. He's already returned to campaigning, but there's been no public sighting yet of the first lady. Melania Trump last provided a health update over a week ago after saying her symptoms were mild,"
+    publishedDateTime: 2020-10-15T07:22:00Z
+    webUrl: "https://www.chron.com/news/article/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    ampWebUrl: "https://www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Collins: Maskless Trump Set a Poor Example at White House"
     excerpt: "Republican U.S. Sen. Susan Collins of Maine says she was “shocked” to see President Donald Trump discharged from the hospital so soon."

@@ -89,22 +89,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Election 2020: Obama Denounces Trump For Not 'Helping Anybody But Himself'"
-    excerpt: "Former President Barack Obama, in Philadelphia at his first drive-in rally of the 2020 presidential race, again broke with tradition among former presidents by publicly denouncing Donald Trump."
-    publishedDateTime: 2020-10-22T02:44:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-obama-denounces-trump-not-helping-anybody-himself-3066444"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-obama-denounces-trump-not-helping-anybody-himself-3066444?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-obama-denounces-trump-not-helping-anybody-himself-3066444?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 88
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/21/former-president-barack-obama-obama-remained-on-the.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "Barack Obama holds first in-person rally for Joe Biden Wednesday"
     excerpt: "Obama will be speaking to a crowd at a drive-in rally in Philadelphia, where supporters will listen to him over the radio inside their cars."
     publishedDateTime: 2020-10-21T05:30:00Z

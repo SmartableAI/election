@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/top-us-official-s
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
 type: article
 quality: 125
-heat: 166
+heat: 186
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Obama reminds voters of a Trump-less America"
+    excerpt: "In a reminder of better times, former president Barack Obama traveled to Philadelphia on Wednesday and delivered a stemwinder for the Democratic ticket. His topic was deadly serious — the need to rescue America — but he was joyous,"
+    publishedDateTime: 2020-10-22T13:47:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVFJJHQT6AI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
   - title: "Poll: Most Americans Don’t Think What Trump Says Is Based In Fact"
     excerpt: "Only 22% believe Trump’s campaign statements are always or often based in fact, including 45% of Republicans, while nearly a quarter of Republicans believe his statements are rarely or never factual."
     publishedDateTime: 2020-10-21T14:31:00Z

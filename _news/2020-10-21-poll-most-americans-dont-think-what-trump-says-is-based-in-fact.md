@@ -45,6 +45,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Obama reminds voters of a Trump-less America"
+    excerpt: "In a reminder of better times, former president Barack Obama traveled to Philadelphia on Wednesday and delivered a stemwinder for the Democratic ticket. His topic was deadly serious — the need to rescue America — but he was joyous,"
+    publishedDateTime: 2020-10-22T13:47:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/obama-skewers-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVFJJHQT6AI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 962
+        isCached: true
   - title: "Mike Pence: Reelect President Donald Trump to renew America’s promise"
     excerpt: "When Donald Trump announced his candidacy for president, he launched a movement to restore the promise of America. Since taking office, President Trump has delivered record-breaki"
     publishedDateTime: 2020-10-20T13:34:00Z

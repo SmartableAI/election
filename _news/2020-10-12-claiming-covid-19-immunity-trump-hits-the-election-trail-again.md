@@ -859,6 +859,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Mike Pence to host campaign rally in Michigan today"
+    excerpt: "PM, You can watch it here live on wlns.com WATERFORD TOWNSHIP, Mich. (WLNS)– Proving the road to the White House runs through Michigan, for the second"
+    publishedDateTime: 2020-10-22T13:01:00Z
+    webUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/"
+    ampWebUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/thumbnail_Image-2-1.jpg?w=1280"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Vice President Mike Pence stops in Michigan, tomorrow"
     excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
     publishedDateTime: 2020-10-21T21:40:00Z

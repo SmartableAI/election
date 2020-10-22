@@ -41,6 +41,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Trump says Senate Republicans will go along with COVID aid deal"
+    excerpt: "President Donald Trump predicted on Tuesday that his fellow Republicans in the U.S. Senate would go along if the White House reaches a coronavirus relief deal with Democratic House Speaker Nancy Pelosi,"
+    publishedDateTime: 2020-10-20T13:04:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-trump-idUKKBN2751R2"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2751R2"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2751R2"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538163874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J111"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "hk+l+YzdQwFdGMkdPrDXMQfsVWOZ2fZMW1rXr4UjDOh9IMdV9wEeWy3mELBpf+POiE70nj1cYy6QCBNXi2T8n/72SCbfFTmMYL7wzSZVu3YnFTnlVn/bmuLqifQBymUGvZ66DqH4vvR5GQNA/A92c8pmef0nN9uB0dVjw5S8W7BOocAT3LTTE1cHTgSztstPw7FZHGtEIJTCdJp3RjzCfgF5tumAkNbgVt1o6FrNJxhlLnE9hBHPuKh3EzxAfPAaxKhrqLtbNolVbDcNYq+/RCkB7CMGSLKq8mn5uOeeMTtoiNwOp6LqemiTOdiUcCQiQiEJYrx78YZ9+XqPaMPbCwAv/ztm/f9Kckq77ZWknBE=;Ra3zZtx9zEgg3QT/UtpYzA=="
 ---

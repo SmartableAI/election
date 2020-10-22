@@ -42,38 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
-    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
-    publishedDateTime: 2020-10-19T18:49:27Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WiuLQdaQLsM/cotton-interview-new-hampshire-biden-family-cashed-in"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
-    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
-    publishedDateTime: 2020-10-19T18:55:00Z
-    webUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in"
-    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 129
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Tucker Carlson: Expanding Supreme Court the one thing President Joe Biden is certain to do"
     excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 9, 2020 edition of \"Tucker Carlson Tonight.\" For a guy who's been in politics all of his life, Joe Biden has never learned to lie very well."
     publishedDateTime: 2020-10-10T02:38:00Z

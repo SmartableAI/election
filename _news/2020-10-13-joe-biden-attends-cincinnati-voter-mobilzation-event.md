@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President"
+    excerpt: "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3."
+    publishedDateTime: 2020-10-21T21:19:00Z
+    webUrl: "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/"
+    ampWebUrl: "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/"
+    cdnAmpWebUrl: "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/"
+    type: article
+    provider:
+      name: Hollywood Life
+      domain: hollywoodlife.com
+    quality: 74
+    images:
+      - url: "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "2kpcECG1GSJwf+mVQU8diUufuMBAQw+2BE1m/hQdGQ7Nj85J6jE9mEc4/DAX5okjqI3MBlLz2imSRSQE86fnEA/7kQbs20zWMsfmd89Wc/kmChy3+PRzOrT4TpTrePivqeHZ3h+FlMmZbjSD5umLMWP99ZAaMQ5Q4iHZEnOpDaCJglms6pxahRdUhMvdGvR99Ngf1mejupSyFOhBXE4tIpa90dIzlJ8FjxzTS0/IDMPT/ZFRxA+8YUxkSph9p1a1qXwSa3zmrD6UuCBRoPixhAONMZzvaGDrMk9PfPb4/KlPDbkcdiXtZvwutJIjLBVtTZH2q11c/gQsSNs+0ls0fgvIvEySVIdwteq/0TJ2f0ZSEu4VFHBSfvOY0i1AXYZvnJCPWCtunKuAHxHNFlZmmTvvq6VSCkOrTSY/HYi5v/domMVwZgDElar60ovdIGIZJsXR3YVeQuhetMvMIVAgpvKEo0knt+UdiRLzhvqX7D86Tkrt2Gpn9pq13LmC7HLw3H6bkLNhE9ul+vj7+dl12Q==;ow/9PtWOs7uOPiFU2q/FkQ=="
 ---

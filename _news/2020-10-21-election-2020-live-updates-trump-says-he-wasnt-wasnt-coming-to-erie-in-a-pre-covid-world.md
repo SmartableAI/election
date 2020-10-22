@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
 type: article
 quality: 129
-heat: 429
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Press: Trump's colossal missed opportunity on COVID-19"
-    excerpt: "The tragedy is that this could have been the turning point. Instead, the virus will rage on as before, with health officials saying one thing, and the president of the United States saying just the opposite."
-    publishedDateTime: 2020-10-13T11:43:00Z
-    webUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19"
-    ampWebUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
+  - title: "Election 2020 updates: 'I think the mute is very unfair': Trump on debate mics"
+    excerpt: "President Donald Trump has a rally in Gastonia, North Carolina, and former Vice President Joe Biden is prepping for Thursday's debate from Wilmington, Delaware."
+    publishedDateTime: 2020-10-22T11:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73722328"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-1-rt-er-201021_1603316702002_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "2020 Watch: Debate a chance for Trump to generate momentum"
+    excerpt: "President Donald Trump is openly contemplating the prospect of losing, while Democratic challenger Joe Biden is warning his supporters against overconfidence as the 2020 presidential election speeds i"
+    publishedDateTime: 2020-10-19T18:35:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-debate-trumps-chance-save-73690826"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_101020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e4fa8f48a4c14da3800f79b576156370_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "LIVE updates: President Donald Trump addresses voters in Prescott"
     excerpt: "President Donald Trump's return to Arizona comes as polls show Democratic presidential nominee Joe Biden leading Trump in most statewide polls."
@@ -63,102 +79,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Trump says Senate Republicans will go along with COVID aid deal"
-    excerpt: "President Donald Trump predicted on Tuesday that his fellow Republicans in the U.S. Senate would go along if the White House reaches a coronavirus relief deal with Democratic House Speaker Nancy Pelosi,"
-    publishedDateTime: 2020-10-20T13:04:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-trump-idUKKBN2751R2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2751R2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2751R2"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538163874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J111"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Thousands protest Trump's Supreme Court pick at Washington Women's March"
-    excerpt: "Thousands marched to the U.S. Supreme Court in Washington on Saturday to commemorate the late Justice Ruth Bader Ginsburg and protest President Donald Trump's rush to push through Amy Coney Barrett as her replacement."
-    publishedDateTime: 2020-10-18T08:57:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-protest-idINKBN273036"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN273036"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN273036"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537901655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9H01U"
-        width: 847
-        height: 545
-        isCached: true
-  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
-    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
-    publishedDateTime: 2020-10-20T17:37:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
-    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
-    publishedDateTime: 2020-10-16T01:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
-  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
-    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
-    publishedDateTime: 2020-10-13T12:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
-    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
-    publishedDateTime: 2020-10-19T20:12:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
     excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
     publishedDateTime: 2020-10-20T12:41:00Z
@@ -175,17 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
-    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
-    publishedDateTime: 2020-10-19T01:36:00Z
-    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
+    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
+    publishedDateTime: 2020-10-18T19:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump says he will test for COVID-19 before next presidential debate"
     excerpt: "U.S. President Donald Trump said on Monday he would test for the coronavirus before the next presidential debate with Democratic candidate Joe Biden this week."
     publishedDateTime: 2020-10-19T19:16:00Z
@@ -197,12 +122,28 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "First lady unseen as Trump restarts campaign after COVID-19"
-    excerpt: "President Donald Trump and his wife received their positive COVID-19 tests on the same day. He's already returned to campaigning, but there's been no public sighting yet of the first lady. Melania Trump last provided a health update over a week ago after saying her symptoms were mild,"
-    publishedDateTime: 2020-10-15T07:22:00Z
-    webUrl: "https://www.chron.com/news/article/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
-    ampWebUrl: "https://www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
+  - title: "Election 2020: Obama Denounces Trump For Not 'Helping Anybody But Himself'"
+    excerpt: "Former President Barack Obama, in Philadelphia at his first drive-in rally of the 2020 presidential race, again broke with tradition among former presidents by publicly denouncing Donald Trump."
+    publishedDateTime: 2020-10-22T02:44:00Z
+    webUrl: "https://www.ibtimes.com/election-2020-obama-denounces-trump-not-helping-anybody-himself-3066444"
+    ampWebUrl: "https://www.ibtimes.com/election-2020-obama-denounces-trump-not-helping-anybody-himself-3066444?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-obama-denounces-trump-not-helping-anybody-himself-3066444?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 88
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/21/former-president-barack-obama-obama-remained-on-the.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
+    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
+    publishedDateTime: 2020-10-18T05:09:00Z
+    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
     type: article
     provider:
       name: Houston Chronicle
@@ -213,52 +154,17 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
-    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
-    publishedDateTime: 2020-10-16T01:20:00Z
-    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+  - title: "Trump Rails Against Muted Microphones at Presidential Debate"
+    excerpt: "The fact that Trump is willing to debate Biden again without being able to interrupt him at will is an indicator of how much the president needs to change the trajectory of the campaign."
+    publishedDateTime: 2020-10-20T15:05:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
     type: article
     provider:
-      name: TMZ
-      domain: tmz.com
-    quality: 75
-    images:
-      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
-    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
-    publishedDateTime: 2020-10-13T17:55:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
-        width: 800
-        height: 403
-        isCached: true
-  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
-    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
-    publishedDateTime: 2020-10-18T04:50:00Z
-    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 55
-    images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
-        width: 928
-        height: 523
-        isCached: true
 
 secured: "I26ygCoZboH3rU+ifsDJBB2e5nq5NnN9JkbyQo4Z5AdjSVzrhqGofY1v4BnDfQafKvtsPwpXTIVWeusjFNzbWNlR6lEHLJB6J/Xu7EcGfUXuB/A+dbiNPLXqQeObWg8zmalzsD70vMotBmk5ZTtiOfTep5KEBwGfaz2q+2hWIOvaSYWIK/tkmjbtPcrKXWeb5s+rCMWy+27BK8rN8cjVp79wTVl8PesqfmZms9Cy9ZvEB7RugTNd5yXTBTrZiPCsgsqjE0ebuysHJn1tQNmi6IIvlhHQOmzMnV9wQMgGkxf34CnkeZ1VB0bF/gBZW3ZIaXFxEN/fcul/LUhRcvAE4Ll0ePdHLy040AdH8m2743AGC992O8IB4Hk2oqvofTgqGLMjwmdfYmyb0T+nnnWPX3K/wgp+MbSJbg+gZYUqYgLZeCGhTVrsgzyuYfBMZwr/gRzd4Yqqi1yUt81bXF94IJ+CxdottmXwb5trJtPX3OnkBhMpnyfDszBTFTAsqVU64IZKYymNVrhPEUsxM+w40g==;2Sc1ORCs9cblSRxPRc552w=="
 ---

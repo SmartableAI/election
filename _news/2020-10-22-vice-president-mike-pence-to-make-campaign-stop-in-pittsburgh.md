@@ -188,15 +188,15 @@ related:
         height: 675
         isCached: true
   - title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
-    excerpt: "In yet another confirmation of Ohio's status as an unexpected battleground state, Vice President Mike Pence is returning for a visit Friday afternoon. The appearance at the Toledo Airport comes just two days after he appeared in Cincinnati. It also will ..."
-    publishedDateTime: 2020-10-22T11:01:00Z
-    webUrl: "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
-    ampWebUrl: "https://amp.dispatch.com/amp/3725007001"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3725007001"
+    excerpt: "President Donald Trump and Democrat Joe Biden clash in their final debate, Vice President Mike Pence is returning to battleground Ohio."
+    publishedDateTime: 2020-10-22T12:31:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3725007001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3725007001"
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/NCOD/46f0cddc-0a11-4474-8fa6-b921fa59ef6b-Mike_Pence_in_Cincy.JPG?auto=webp&crop=3899,2194,x0,y0&format=pjpg&width=1200"
@@ -305,6 +305,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Eq452bl8xD55aNLUyVhU75L5VuqFKEMbmgxU6jegzlXd+JWz7TcmXNKGeou1YpQQF3hO8GyRhUzHmMx0sPUy7f5Epdf13PEqAMRy2/a6ARYuUMly+QDgdgq1KqydrlbT640XZ7V4XszqQ0l2WBXVl/0FJ5PRewcMmNlMXO1AkhtAh1rnbqaE5kjDe6n+4c8N+rJ/PrundCUV63KObVPavZ9W4dZ1Qj46/jclLXaXVPDUSoAXvA+mh2t2gToOrWeyCuxDvWNdDvoDdlAatQ6yaHZq8IoknXnmk70fceX0OXkAzfCBV8q0wEBL6uQAPzna9yr7pzled1g37/9vzFomayomPKBwsJpHRtSF94YDxSA=;kXADkF2GW4rTrbtCr6lLFw=="
+secured: "ORj/n80h4kAttinEaArRbxCIpyw+cRM7UsAD8ar3mhwOdoBxt3tuznab/iPjTVhmFnaF56VCs2aL89puMkl34/wO4vAVEugiufi58nLglOHXN1XdD+qJEgU0SnzpBsMhQcWZ1npRnlYe1Ij2XOpGoodwkuBBnFsiiJLJbn8qyesDeau30U3YWmeFGGde3eFwG33lCzQneghDt46PW8LsI6GTxHDp42xXrCyhy++c2GqczI4L77vala0Ra6sEM0Cp+NqMhsLvJgTUxgTcJ1nGYd7VV5drWWrLGI4QJT4tpI/1dPD+unkCCoZnIWtmvLzZl6NJGbAJPpSF3aVhC0S3XjTIIIfc983mv1DF4MZnZYSQuUy4cWltRNmrUIu1wkxZNVY0tqCMdQQ6uHS9V6ZAjQXJEI2JK1pmWF3g5rCYaX+KdNwJlHY3iTuf0ir1YhKZAA5c2DmChAHZ4uAoPARb1HJVSpe85JDdVgMXcf8jU7338Dx+vSVlulY+slMVT58yN2u8qumr5FmOG+BZ5nUUlg==;MGSRlEn68N6ABu8VnzWSrg=="
 ---
 

@@ -31,233 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
-    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
-    publishedDateTime: 2020-10-21T03:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
+  - title: "Trump Asks Supreme Court To Block Tax Records From NY Prosecutor—Again"
+    excerpt: "President Donald Trump has filed an emergency request with the Supreme Court to block a prosecutor from obtaining his tax records, after a federal Appeals Court ruled last week that the Manhattan District Attorney could retrieve the highly sought after records as part of an investigation into the president’s financial history."
+    publishedDateTime: 2020-10-13T18:42:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/13/trump-asks-supreme-court-to-block-tax-records-from-ny-prosecutor-again/amp/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 129
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/0459a32d-74c8-4f53-92c8-21a217e8b8ed-AP_Election_2020_Trump_5.jpg?auto=webp&crop=3232,1818,x1,y114&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Press: Trump's colossal missed opportunity on COVID-19"
-    excerpt: "The tragedy is that this could have been the turning point. Instead, the virus will rage on as before, with health officials saying one thing, and the president of the United States saying just the opposite."
-    publishedDateTime: 2020-10-13T11:43:00Z
-    webUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19"
-    ampWebUrl: "https://thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/white-house/520698-press-trumps-colossal-missed-opportunity-on-covid-19?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
+      name: Forbes
+      domain: forbes.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_101020getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85f2bdb9f4e00cf0b32ef3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D205%26cropY2%3D1893"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "LIVE updates: President Donald Trump addresses voters in Prescott"
-    excerpt: "President Donald Trump's return to Arizona comes as polls show Democratic presidential nominee Joe Biden leading Trump in most statewide polls."
-    publishedDateTime: 2020-10-19T20:17:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/19/trump-live-updates-president-donald-trump-battleground-arizona/3686632001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3686632001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3686632001"
+  - title: "Supreme Court to review Trump's 'Remain in Mexico' policy"
+    excerpt: "The Supreme Court is agreeing to review a Trump administration policy that makes asylum-seekers wait in Mexico for U.S. court hearings"
+    publishedDateTime: 2020-10-19T13:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/supreme-court-review-trumps-remain-mexico-policy-73694573"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/PPHX/51c3ff9b-0ec4-4680-8924-4e057ce9a7c7-AP20293837215722.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://s.abcnews.com/images/Politics/WireAP_baedd00b2d3c4ea3a5162698b8a957e7_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Trump says Senate Republicans will go along with COVID aid deal"
-    excerpt: "President Donald Trump predicted on Tuesday that his fellow Republicans in the U.S. Senate would go along if the White House reaches a coronavirus relief deal with Democratic House Speaker Nancy Pelosi,"
-    publishedDateTime: 2020-10-20T13:04:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-trump-idUKKBN2751R2"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2751R2"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2751R2"
+  - title: "Trump Loses Latest Fight To Keep Tax Returns From Manhattan D.A., Supreme Court Battle Looms"
+    excerpt: "A federal appeals court rejected Donald Trump’s latest attempt to keep eight years of tax returns from Manhattan’s district attorney."
+    publishedDateTime: 2020-10-07T15:45:00Z
+    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/"
+    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/07/trump-loses-latest-fight-to-keep-tax-returns-from-manhattan-da-supreme-court-battle-looms/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Forbes
+      domain: forbes.com
+    quality: 114
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538163874&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J111"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
-    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
-    publishedDateTime: 2020-10-20T17:37:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
-    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
-    publishedDateTime: 2020-10-16T01:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
-  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
-    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
-    publishedDateTime: 2020-10-13T12:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 116
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
-    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
-    publishedDateTime: 2020-10-19T20:12:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Election 2020 live updates: 2 weeks until Election Day, Trump in Pennsylvania as Democrats try to win over Cuban American voters"
-    excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
-    publishedDateTime: 2020-10-20T12:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/20/election-2020-updates-trump-rally-pa-biden-up-florida/3679700001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3679700001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3679700001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 111
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/20/USAT/2568520a-0391-4b0b-a87d-5d04c5a5eae7-AFP_AFP_8TE9PJ.jpg?auto=webp&crop=4114,2315,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
-    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
-    publishedDateTime: 2020-10-19T01:36:00Z
-    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump says he will test for COVID-19 before next presidential debate"
-    excerpt: "U.S. President Donald Trump said on Monday he would test for the coronavirus before the next presidential debate with Democratic candidate Joe Biden this week."
-    publishedDateTime: 2020-10-19T19:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-test-idUSKBN2742MA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742MA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742MA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "First lady unseen as Trump restarts campaign after COVID-19"
-    excerpt: "President Donald Trump and his wife received their positive COVID-19 tests on the same day. He's already returned to campaigning, but there's been no public sighting yet of the first lady. Melania Trump last provided a health update over a week ago after saying her symptoms were mild,"
-    publishedDateTime: 2020-10-15T07:22:00Z
-    webUrl: "https://www.chron.com/news/article/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
-    ampWebUrl: "https://www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/First-lady-lies-low-Trump-back-on-the-trail-15645137.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
-    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
-    publishedDateTime: 2020-10-16T01:20:00Z
-    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
-    type: article
-    provider:
-      name: TMZ
-      domain: tmz.com
-    quality: 75
-    images:
-      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
-    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
-    publishedDateTime: 2020-10-13T17:55:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
-        width: 800
-        height: 403
-        isCached: true
-  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
-    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
-    publishedDateTime: 2020-10-18T04:50:00Z
-    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 55
-    images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
-        width: 928
-        height: 523
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7de0dd33fa87183df1ec42%2F0x0.jpg%3FcropX1%3D28%26cropX2%3D2971%26cropY1%3D0%26cropY2%3D1963"
+        width: 1199
+        height: 800
         isCached: true
 
 secured: "5J7ObNI8R8G+bmN2QEPQSUu+jNEcMqt+q44Py2qp21sdSJgj8t74grCAO6jv577v9RgFgKTn9lUgByToa6+0TQC0EFKbbXXtzFs4mDI+xPk18oI55/U97RBb3sjEWmH6F1mKPHBfSB66XqqlE0fT1eEjGDg6Tq7BLBPXw55UDzE8TL4t4XaoAhm3UUpY/ajrb9RrXvhzBnFW84hLxT92nDawcPbJzioIasxBpMaUctqpfQMHNkJYt3JI24BDUbzKXN7kEk1tAS87Pg00JjJptkHHntDrbAzwQrjArA7leH+9EZBJEnvkEaj2aePmQABCtqQsCCfaQkCowQb354pW5NnIwl0wKh2+7YlCcZgcM/I=;zerA/Xtr3TFSkXreXJ7i/Q=="

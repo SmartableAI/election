@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ratcliffe-hunter-biden-laptop-email
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ratcliffe-hunter-biden-laptop-emails-not-russian-disinformation-campaign.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Jordan says Twitter's move to 'stop the dissemination' of material 'helps' Biden, biased against conservatives"
+    excerpt: "EXCLUSIVE: Republican Rep. Jim Jordan on Thursday slammed Twitter for intervening to “stop the dissemination of election-related information in a way that helps Vice President Biden’s candidacy,” saying it “raises serious questions” about election interference, while claiming it reinforces that “Big"
+    publishedDateTime: 2020-10-15T19:19:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LF1-mkzRZmE/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives"
+    ampWebUrl: "https://www.foxnews.com/politics/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Ni99AeGKZrzPIRyJzWsjzVdHmQ/ZlMtbIJ+KciV1P+BmiSKFCQAi46oG+wZfQzHzXwCARUxhy43LnuUMKQ7LsmJAMWzUFc1qtRRzA7P3sw3JgBoelZHmwtnN3p0LhGiZIDGIzTqQjoOZ3IRZ65oyBNE0dIEAsERg7Yj4bovam43lqoNXT0Gg3akQ9hRiKbtktbwSP6EvRFFVN5fWJBYEHeRT6VM1uu9NEaluiJnjFnkuq6hM/+eOjg7sASFzWNtddwMX+qNV42yIStEyT7QNuEWFNTpz8FCfBWDlAH6kHFoNwjrp7HYQoGXK7xG7GqJXZ9dL3SdEKgAvyQPMDOfLCjRph1SAOrclSJeOyby1rpg=;etba3nuzDg4DpqtUCzHLZA=="
 ---

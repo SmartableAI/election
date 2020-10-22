@@ -5889,13 +5889,13 @@ related:
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
     publishedDateTime: 2020-10-21T18:16:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
+    webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 82
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"

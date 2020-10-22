@@ -2,19 +2,23 @@
 category: news
 title: "12 days out from Election Day, Mike Pence is holding a rally in deeply red Indiana. Why?"
 excerpt: "Vice President Mike Pence will collect some much-needed campaign dollars from his home state during a trip sandwiched between battleground states."
-publishedDateTime: 2020-10-22T01:08:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
-webUrl: "https://www.indystar.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
-ampWebUrl: "https://amp.indystar.com/amp/3720360001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3720360001"
+publishedDateTime: 2020-10-22T12:31:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
+webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/heres-why-vice-president-mike-pence-campaigning-his-home-state/3720360001/"
+ampWebUrl: "https://amp.usatoday.com/amp/3720360001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001"
 type: article
-quality: 81
-heat: 101
+quality: 131
+heat: 191
 published: true
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -27,6 +31,33 @@ images:
     isCached: true
 
 related:
+  - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
+    excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
+    publishedDateTime: 2020-10-19T17:01:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/19/mike-pence-campaign-fort-wayne-thursday-vote-indy-friday/3712193001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3712193001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3712193001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 71
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/12/13/PIND/6a3cea32-76b2-4065-a952-5e01b33388c3-pence_RS07.JPG?auto=webp&crop=2081,1171,x0,y240&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
+    excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
+    publishedDateTime: 2020-10-20T18:27:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246579118.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246579118.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246579118.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 47
   - title: "OPINION: Indiana’s first openly gay senator is right. A vote for Mike Pence is one for homophobia"
     excerpt: "From the Indiana Statehouse to the White House, Vice President Mike Pence has remained consistent in his blatant homophobia. Demonstrated by a career of anti-LGBTQ+ rhetoric and legislation disguised as a dedication to religious liberty,"
     publishedDateTime: 2020-10-20T23:38:00Z
@@ -42,6 +73,6 @@ related:
         height: 510
         isCached: true
 
-secured: "udb3fLeZk3W0Aj+8S7/zdiZdNOa8pR7fQU+s100OMpI7+Z4ufbWuCyewk/JwzZpzUPBqh8xIspGSyzvKct3WXwkzXZSorCAahDFmz8sKKVzW2bfJapkMvvKPHFrDNUQ5gJq4Lnei5EcehMMZs9nX/QhjLmUhev7QSY9vczFcuouw7E6cm9Ezj/ZHHXnAq/pPz3IxkyzDby2Fiue69M4RLCNvSglFbIU9dTIV70N996QLwzY7oN7/Xms9pvq9284urB35+lr2/pTC+Lrk+260zAqOAQlyktDjhfHXoJlwvuExoTPCwKPPxV0e9G8iqMdxfRezLViTFBPJc2wodi1CsI/pP/pnoaAMwmBQz6sfzThdxnm2rfEihMnRhSunRN7QymCBzu5MkGnOD8rV7OSxxCAPwJ+EN7ELbvHhWVh+twHxRDlNhRoUl5Cuw8w1iRTE1dab3pRIu9qQygS04iNZ0eHsfEkhteXI1eGd/Q0yCZEm8ahZJ4ffrjw8yoU4KEUpCdI6rcdvR+T0dk4XUEgBoQ==;sQ9mAiMmQ9XyfqRoHVAgjg=="
+secured: "Yqb0io0X6zOcUK0XEGy0xnBU/jDQUhZM6uRy0TRK1STb2V+rphhVs2RqXmT6gqH6aSAsbIcC3lg9aViNRRd81uCS22cJC3JHomhbOiLk0TT3GTJpu0ihkV7THaX0qGL+s88cVVP78B5wTI+ospaeD+CX8qIb140/9ieLlGy8F/7ioTJ1AlQeIDadXGeBLnhNl+Bi2Fhok+3jOUgGm1rsNgKugVAcLn5LxleRDevRuYF4zpXHUEqWRpuDigup1CE9Q57eTAv7gPM/16tnj9P99YXp4isAAVE/3+htJg8DSTj5xbS9D1YSDJ4Hx/nQ7nSqh9rff5ZDuX5CWKJsz/Mz417ztTKKQt5UVi7jzXYUv74=;KO90alZUfFpxVXvEObzO/w=="
 ---
 

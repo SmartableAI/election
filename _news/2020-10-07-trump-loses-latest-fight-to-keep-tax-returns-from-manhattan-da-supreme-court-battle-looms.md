@@ -63,17 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump Rails Against Muted Microphones at Presidential Debate"
-    excerpt: "The fact that Trump is willing to debate Biden again without being able to interrupt him at will is an indicator of how much the president needs to change the trajectory of the campaign."
-    publishedDateTime: 2020-10-20T15:05:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
+  - title: "Thousands protest Trump's Supreme Court pick at Washington Women's March"
+    excerpt: "Thousands marched to the U.S. Supreme Court in Washington on Saturday to commemorate the late Justice Ruth Bader Ginsburg and protest President Donald Trump's rush to push through Amy Coney Barrett as her replacement."
+    publishedDateTime: 2020-10-18T08:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-protest-idINKBN273036"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN273036"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN273036"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537901655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9H01U"
+        width: 847
+        height: 545
+        isCached: true
 
 secured: "7VrisZlgZZ1dOUME+EZA4V7F6HrQlK0Zldds//bHGCF8LnSwCoEzzJW2SV9Yl7jTCuyEwuEJQhZWWmbNH8BIqFIKp8EpYbhDTYaDErar3PRobRIdvxcLuX1bv3bd+6//RVlB1CmGHLRscEppknpGB1HS8N/1xB6XiIyqv1WcdtfuJcHah7T5hY4PNK/17yToJqAFOjhb4GwobZ27pIX5ivEc5cYp685d1xCl8M+N12MYtmIZOQK1mSOHwNCBihjHMd8Bt3ss75KzMOsL2QQlu9axTmnt952RXAM6KH/YjONFahuvAey2qdinLPfB37K4eVkPhZ17j17uRZ8i22umWlmYeJd6vK85wYthcw/DcgQ=;AVliFWfuYre5mP2wySC5Kg=="
 ---

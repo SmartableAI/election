@@ -5874,13 +5874,13 @@ related:
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
     publishedDateTime: 2020-10-21T18:16:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
+    webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 82
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
@@ -7778,6 +7778,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "zX6s8cUxabf6evZw7OH5yEb/w9bsIZarix+bOmSAOHtEFsfZlUS1BDJEslP+63/ZFcrYX/um8zLv+psAkT3iuy2k2yTkToBDoXmhvs0RS91+Ks+TedThW7y6KawT2xfu8UcCOhF+rIMu7QukXlSCktOJXXHh60tJulIEmpEXLQ8cfTc5beWBoH8HmUZ2jq+RzyoFkaZByGb3lPc1h3BroUsy0GYmOoQmm9iBsEzGaB+MwHlplgUKKR3kV/7rCCiWdgAMNZQGTU5VAXXiLHbYNY4ezm2smUvp9J26GqtgMYWFkJMqEmlufIiM33rp18qELg9vF0kRaqI7ZcAxTeZpZg8L47eB7sZa+iNqXkokVJ8=;9GlbwonrVY6zFCX9SKaacg=="
+secured: "ZF105OrN2SCd2d20K0eIUAqjcet7asyk8zwMz6WpvhQVqc69W7rp0PA3omwE1VL4E+BQRQTLjPrMc5VVzDqoWn4IDfUzEzJQCKuPmYquCmt3mQoZVBfft23zUpbTU7q7KhUgl6cJxzBOqBnLDypxsQ35ad5DcweWhaEhiMoXrGvqnju9NobAUOjxpre6WddDEpCUKV+T3EtXumfYFQaS4sVuK0AJdzX20t53vUHGLo71zKeCropyVc6U/uIiJMUG/TTW54zEH1t4s6SLr5KCfSkaN/Ebef531N5jkeirNFOp9CXwF83Qwwl1WOuNaRjHuQ+WOPpQAK6hwDlyFC2RbAS5OvkDzBnB8tgM53LD2vfx9zHRy8zdGq/iRJlQu/Fa0mZ/owDpU78aHCaliYZu4JvxAoXLHFOAKEAOawkd6cnMmgREEA8nQYpeW8blcXMhvmUHtxpSR7ckE3y2FBeeObfF5yZUXpXgwzkzwn78yBMCp7CUrlnCc6UphQFIW8+UNgU/TsYG4A0LdpcsRYwEEQ==;/ZCw5u99xHjdVc4qvWIgPw=="
 ---
 

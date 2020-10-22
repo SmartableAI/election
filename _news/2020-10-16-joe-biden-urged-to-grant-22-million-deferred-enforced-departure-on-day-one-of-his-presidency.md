@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urg
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
 type: article
 quality: 113
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President"
+    excerpt: "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3."
+    publishedDateTime: 2020-10-21T21:19:00Z
+    webUrl: "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/"
+    ampWebUrl: "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/"
+    cdnAmpWebUrl: "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/"
+    type: article
+    provider:
+      name: Hollywood Life
+      domain: hollywoodlife.com
+    quality: 74
+    images:
+      - url: "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
     publishedDateTime: 2020-10-12T23:00:00Z

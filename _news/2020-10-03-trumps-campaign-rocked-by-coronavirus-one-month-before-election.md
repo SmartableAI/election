@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/ind
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/03/politics/trump-campaign-chaos/index.html"
 type: article
 quality: 190
-heat: 2270
+heat: 2290
 published: true
 
 provider:
@@ -1308,6 +1308,22 @@ related:
       - url: "https://media3.s-nbcnews.com/i/newscms/2020_42/3419326/201012-trump-campaign-mc-1310_9b5e6eee9246dce37e30ba25345bd50e.JPG"
         width: 2500
         height: 1651
+        isCached: true
+  - title: "Three-quarters of Latino voters disapprove of Trump's coronavirus response in poll"
+    excerpt: "\"After seven weeks of tracking Latino sentiments leading up to the election, it is difficult to overstate the impact that COVID-19 has had on the Latino electorate,\" writes pollster Stephen Nuño-Perez."
+    publishedDateTime: 2020-10-22T12:48:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/three-quarters-latino-voters-disapprove-trump-s-coronavirus-response-poll-n1244072"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244072"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244072"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 129
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_41/3418083/201006-donald-trump-face-mask-ac-959p_1b3321239400e6b3c742ea617772ba65.jpg"
+        width: 2500
+        height: 1619
         isCached: true
   - title: "On Monday, Trump Updated the Nation on Virus Strategy. By Friday, He Tested Positive"
     excerpt: "President Trump has interacted with scores of staff, donors and supporters this week. Early Friday morning, it was still unclear how many other aides who had come into close contact with him had tested positive."

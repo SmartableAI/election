@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
-excerpt: "In yet another confirmation of Ohio's status as an unexpected battleground state, Vice President Mike Pence is returning for a visit Friday afternoon. The appearance at the Toledo Airport comes just two days after he appeared in Cincinnati. It also will ..."
-publishedDateTime: 2020-10-22T11:01:00Z
-originalUrl: "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
-webUrl: "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
-ampWebUrl: "https://amp.dispatch.com/amp/3725007001"
-cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3725007001"
+excerpt: "President Donald Trump and Democrat Joe Biden clash in their final debate, Vice President Mike Pence is returning to battleground Ohio."
+publishedDateTime: 2020-10-22T12:31:00Z
+originalUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
+webUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
+ampWebUrl: "https://amp.cincinnati.com/amp/3725007001"
+cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3725007001"
 type: article
 quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Columbus Dispatch
-  domain: dispatch.com
+  name: Cincinnati Enquirer
+  domain: cincinnati.com
 
 topics:
   - Election
@@ -305,6 +305,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "lNzJGkrJTdbf6CsCDOe8qpka8A8W0tOkcyPwjXiq+s4xua/L2VXdRZGhDeQRJKK+UceF/SStGUtatqAefrfLlKv6bNvRRvbwZxo2uLP3vKmTOYPN3hDy+YBpINqq2kd7fIgRnZm2ZPxP3DYA1w0LkGJ8shxhdBSLQoZf+nbSvSpOinO2COENrqzfivz6Vb9yFF25pd0/i7VC6txOTmxKOtCcNeiNlP1lOa+W0RVFDXI9M77TI0BQWgED7Yyowh4GjmPKj9br29//wSc63Y10ZvWxHBXBJr8/9LugIKa1/oaJw7jvng2i4W40/7KcHCCO5cFADqqpAvxhHXapk4MYOps2yxyo/jYM7G5vFH4w0J8=;S5Epj2HZ7sKsAwWJD3RB7w=="
+secured: "gGOIxwQ8vi+TW5Sq68SbN06cEuQBATazvvaZlnKOKJNvP64jzwULFR6MyWkEBobDSQsN8ksNrcKAct2I6paF431YCvMXJJxnqgPbBAV52HL+beK6ue3wyHmgcbt2fbPPuo6OjN32JEVqK6ReAGZ19oHhfjAE4VCn6x5O+9to8esPKp1JjA432ECRDI1GGtyxbuyWdBjUltIlCY00Wn3NGhUP9+xb56Q+K33DzzIxmdisATSVSIYsqX9Cu/1uRmrchs6sJ8LG4ggcCG4jQ3R5EK+exx1fo4pBmEma8cLirHc9xATTHhtGKbdus4LYECgQoZ3puGKiK0uB0a0R0CNoT6woP/23dJc8+gGrSwgMrEU=;aRJSQB/mC/1J2Eqf8NdJcw=="
 ---
 

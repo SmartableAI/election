@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-10-22-bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.md",
-      "title": "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations",
-      "excerpt": "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign.",
+      "path": "_news/2020-10-22-harris-prominent-democrats-listed-as-key-contacts-for-biden-family-business-venture-projects.md",
+      "title": "Harris, prominent Democrats listed as 'key contacts' for Biden family business venture projects",
+      "excerpt": "EXCLUSIVE: A list of “key domestic contacts” for a joint venture involving Jim and Hunter Biden and now-bankrupt CEFC China Energy Co. included former Vice President Joe Biden's current running mate Sen. Kamala Harris, among other prominent Democrats, Fox News has learned.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQEBp1uFlJQ/jim-hunter-biden-china-joint-venture-key-contacts",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQEBp1uFlJQ/jim-hunter-biden-china-joint-venture-key-contacts",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 167,
+      "heat": 368,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
-      "publishedDateTime": "2020-10-22T02:09:55-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp",
+      "publishedDateTime": "2020-10-22T06:44:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,6 +54,120 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true.md",
+      "title": "Trump, Stahl spar over 'best economy ever' claim, with '60 Minutes' host saying 'that's not true'",
+      "excerpt": "President Trump and CBS News' \"60 Minutes\" correspondent Lesley Stahl spar over the president's claims that the U.S. economy was \"the greatest economy in the history of our country\" before the outbreak of the coronavirus pandemic, in a short clip released by the weekly news magazine show ahead of its",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jWUQye9Rl94/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jWUQye9Rl94/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-stahl-spar-over-best-economy-ever-claim-with-60-minutes-host-saying-thats-not-true.amp",
+      "publishedDateTime": "2020-10-22T05:50:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.md",
+      "title": "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations",
+      "excerpt": "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp",
+      "publishedDateTime": "2020-10-22T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
         "Republican Voice"
       ]
     },
@@ -1540,119 +1654,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp",
       "publishedDateTime": "2020-10-19T13:59:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-harris-spotlights-trumps-weird-obsession-with-obamas-legacy.md",
-      "title": "Harris spotlights Trump’s ‘weird obsession’ with Obama's legacy",
-      "excerpt": "Democratic vice presidential nominee Sen. Kamala Harris – campaigning in Florida on the first day of in-person early voting in the largest of the traditional general election battleground states – is taking aim once again at President Trump over his repeated moves to repeal the national health care law",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5j2_XJOFMJs/harris-trumps-weird-obsession-obama-legacy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 600,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20293628165220.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp",
-      "publishedDateTime": "2020-10-19T12:21:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.md",
-      "title": "Sarah Sanders says Trump should ‘hammer home’ these 2 issues at last debate",
-      "excerpt": "President Trump has two issues he needs to \"hammer home” at the next presidential debate, Fox News contributor Sarah Sanders said on Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/mfb3BPew3FI/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/jqn.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sarah-sanders-says-trump-should-hammer-home-these-2-issues-at-last-debate.amp",
-      "publishedDateTime": "2020-10-19T11:24:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

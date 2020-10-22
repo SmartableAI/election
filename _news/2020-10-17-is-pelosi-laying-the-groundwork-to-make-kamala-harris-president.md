@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris, prominent Democrats listed as 'key contacts' for Biden family business venture projects"
+    excerpt: "EXCLUSIVE: A list of “key domestic contacts” for a joint venture involving Jim and Hunter Biden and now-bankrupt CEFC China Energy Co. included former Vice President Joe Biden's current running mate Sen. Kamala Harris, among other prominent Democrats, Fox News has learned."
+    publishedDateTime: 2020-10-22T13:44:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WQEBp1uFlJQ/jim-hunter-biden-china-joint-venture-key-contacts"
+    ampWebUrl: "https://www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-hunter-biden-china-joint-venture-key-contacts.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 188
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Facebook reversing ban on ad that claimed Biden-Harris supports 'abortion up to the moment of birth'"
     excerpt: "Facebook is reinstating advertising it previously blocked from an anti-abortion organization claiming that former Vice President Joe Biden and his running mate, Sen. Kamala Harris, D-Calif., supported abortion up until the moment of birth."
     publishedDateTime: 2020-10-17T01:07:17Z
@@ -64,191 +80,101 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Harris tells Barrett that Ginsburg was ‘far more forthcoming' about abortion views"
-    excerpt: "Sen. Kamala Harris hit Judge Amy Coney Barrett for citing the “Ginsburg Rule” in refusing to reveal her views on hot-button Supreme Court cases, noting that the late justice was “far more forthcoming at her hearing about the essential rights of women.\""
-    publishedDateTime: 2020-10-14T01:52:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VO16TvudxFM/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-tells-barrett-ginsburg-far-more-forthcoming-abortion-views.amp"
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:11:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNAu_6K7AUw/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 179
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7fe1b608-f011-4a25-8ce0-630bc39c0be6/06de38c4-0483-4d6c-b470-3605a92e0835/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
-    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
-    publishedDateTime: 2020-10-16T13:31:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Graham considers subpoenas for Twitter, Facebook execs over Hunter Biden emails"
-    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., is considering subpoenaing social media executives over their platforms' role in suppressing news about the explosive, alleged emails involving the former Vice President Joe Biden's son Hunter."
-    publishedDateTime: 2020-10-19T22:26:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LuAQZD6buNM/graham-subpoena-twitter-facebook-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b248eb-9792-4412-9b00-fb894179f113/d012e81f-4403-4a19-bf7b-657194a73d60/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Sen. Hawley demands answers from Facebook for ‘censoring a news report’ on Hunter Biden"
-    excerpt: "Sen. Josh Hawley, R-Mo., is demanding to know why Facebook is “censoring a news report” on Hunter Biden after the platform admitted it was limiting distribution of the story until independent fact-checkers could verify its accuracy."
-    publishedDateTime: 2020-10-14T18:53:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bztySLKHUo0/hawley-facebook-for-censoring-nypost-hunter-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/hawley.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Harris has been open to packing Supreme Court, NY Times reporter says"
-    excerpt: "New York Times reporter Alex Burns revealed the highly anticipated opinion of the Biden-Harris ticket on packing the Supreme Court. "
-    publishedDateTime: 2020-10-09T17:19:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbyP_z5lbDg/harris-open-packing-supreme-court-ny-times-reporter"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/17eb6749-AP20282098478486.jpg"
-        width: 1024
-        height: 695
-        isCached: true
-  - title: "Jordan says Twitter's move to 'stop the dissemination' of material 'helps' Biden, biased against conservatives"
-    excerpt: "EXCLUSIVE: Republican Rep. Jim Jordan on Thursday slammed Twitter for intervening to “stop the dissemination of election-related information in a way that helps Vice President Biden’s candidacy,” saying it “raises serious questions” about election interference, while claiming it reinforces that “Big"
-    publishedDateTime: 2020-10-15T19:19:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LF1-mkzRZmE/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives"
-    ampWebUrl: "https://www.foxnews.com/politics/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jordan-says-twitters-move-to-stop-the-dissemination-of-material-helps-biden-biased-against-conservatives.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee Amy Coney Barrett. "
-    publishedDateTime: 2020-10-11T17:18:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fg91IhTV_c0/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 153
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
-    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
-    publishedDateTime: 2020-10-12T09:56:00Z
-    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
-    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
-    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
-    publishedDateTime: 2020-10-15T02:16:00Z
-    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
-    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
+    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son, Hunter Biden."
+    publishedDateTime: 2020-10-19T18:49:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WiuLQdaQLsM/cotton-interview-new-hampshire-biden-family-cashed-in"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Documents show alleged Hunter Biden signature, FBI contacts with computer repair store owner"
+    excerpt: "The document allegedly signed by Biden details repair work that was to be performed on three MacBook Pro laptops at “The Mac Shop” in Wilmington, Delaware."
+    publishedDateTime: 2020-10-19T23:10:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K2INPc9xd3M/hunter-biden-emails-documents-alleged-signature-fbi-paperwork"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Buttigieg still supports expanding Supreme Court, defends Biden claim that Barrett nom is 'unconstitutional'"
-    excerpt: "Former South Bend, Ind., Mayor Pete Buttigieg, who now serves on Joe Biden's transition team, said he continues to support the concept of increasing the size of the Supreme Court, and defended the Democratic presidential nominee's claim that the nomination of Judge Amy Coney Barrett is unconstitutional."
-    publishedDateTime: 2020-10-18T23:24:00Z
-    webUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes"
-    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+  - title: "Hunter Biden business partner calls email 'genuine,' says Hunter sought dad's advice on deals"
+    excerpt: "Tony Bobulinski, who was listed as the recipient of an email published by the New York Post that appeared to detail a business arrangement involving a Chinese company and members of the Biden family, has confirmed that the email is \"genuine\" and provided more information regarding the Bidens' role in"
+    publishedDateTime: 2020-10-22T12:43:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mOb93KBqwH0/hunter-biden-business-partner-email-genuine-joe-biden-advice"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-business-partner-email-genuine-joe-biden-advice.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-business-partner-email-genuine-joe-biden-advice.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 116
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c1c3d19-6f88-4dbb-9430-c2c6b5efab4c/065de9c2-ece5-4333-8359-abe2c838c0c5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris claims the Barrett hearings are putting lives at risk, will participate remotely"
-    excerpt: "Democratic vice presidential nominee Kamala Harris on Sunday slammed Republicans for \"endangering\" people's lives by moving forward with confirmation hearings for Supreme Court nominee."
-    publishedDateTime: 2020-10-11T17:42:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-cbarrett-hearings-putting-lives-risk-participate-remotely"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 103
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20284817421307.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
-    excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
-    publishedDateTime: 2020-10-13T04:01:00Z
-    webUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920"
-    ampWebUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
-    type: article
-    provider:
-      name: Townhall
-      domain: townhall.com
-    quality: 81
-    images:
-      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
-        width: 650
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/john-roberts.png?ve=1&tl=1"
+        width: 340
         height: 340
+        isCached: true
+  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
+    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
+    publishedDateTime: 2020-10-21T19:16:00Z
+    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Cotton charges Biden family 'has cashed in substantially' on former vice president"
+    excerpt: "Sen. Tom Cotton, campaigning in the battleground state of New Hampshire on behalf of Republicans, took aim at Joe Biden and his family over a much-publicized story in the New York Post regarding the Democratic presidential nominee’s son,"
+    publishedDateTime: 2020-10-19T18:55:00Z
+    webUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in"
+    ampWebUrl: "https://www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-interview-new-hampshire-biden-family-cashed-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 129
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/TomCotton-Derry-Oct.2020.jpeg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "EPZljd9b7AKJlqNOr5IXclmYZd6NkqOvO++frMcV+LiXgt3vIUNyN9Vof59TJ5Mm/t9xHDbaBjo5M79syN3WEOpOw+d7hXJUoSn32sOJWEnfaJKSufNic4hKd/buDxSOF7Lm7BCAuGInCSkiqw5VeYWkR4Vrf/I/CxGCnwjDEOd8uTF9vyz4lhI1GmLYIC81+XETSaQ9jHIAsUDlgWGaYVUZz33x0ocQI7KGitDRjlbmjohfTOvuo4LrZuYZheaWyA7fxoEGHeci754Ij3Zcy+z3ZJWf2LsNREF80dQ/rfZSruPoPk6E1HSN7OJxBB41xDdLKqlsrcK84Sr/JSsLekBafXBtFSv207F1zf5e3Ha0gTJbhmymLMfXto2ObUxrF2y4R59Eu0YMHuCAEnZUpIOGjtyG7DERSCuS7PBbWEoOYlcniCBspKpsOeBRGNKJMH1Q9PN1R4urrg6NeFOBizcJTY3bfWj1MZAkHXYWFqta3m8tutNrykJ26n6Qspp3GIUTQA7c7prpuVN27D+0IQ==;TdREcs2kaDSqexUVoBgOvQ=="

@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
+    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
+    publishedDateTime: 2020-10-20T17:37:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 122
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
     publishedDateTime: 2020-10-20T00:34:00Z
@@ -91,6 +107,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
+    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
+    publishedDateTime: 2020-10-16T01:47:00Z
+    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+    images:
+      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
+    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
+    publishedDateTime: 2020-10-13T12:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
     excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
     publishedDateTime: 2020-10-19T16:25:00Z
@@ -106,6 +154,22 @@ related:
       - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
+    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
+    publishedDateTime: 2020-10-19T20:12:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
     excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
@@ -282,6 +346,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
+    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
+    publishedDateTime: 2020-10-13T17:55:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
+        width: 800
+        height: 403
         isCached: true
   - title: "Raw Story‘Vote these monsters out’: Trump officials weigh deep funding cuts to COVID-19 relief, newborn screenings in Democratic-led cities"
     excerpt: "Documents obtained by Politico reveal that the Trump White House is weighing millions of dollars in federal funding cuts to Covid-19 relief, newborn screenings, and other crucial healthcare programs in Democrat-led cities,"

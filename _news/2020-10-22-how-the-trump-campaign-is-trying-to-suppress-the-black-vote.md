@@ -1247,6 +1247,22 @@ related:
         width: 1260
         height: 560
         isCached: true
+  - title: "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe"
+    excerpt: "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham."
+    publishedDateTime: 2020-10-22T11:39:00Z
+    webUrl: "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/gop-voters-know-this-election-is-between-a-good-man-and-a-bad-man-and-theyve-backing-trump-anyway-morning-joe/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Screen-Shot-2020-09-04-at-7.15.10-AM.png"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Did you see a photo of Joe Biden supposedly kneeling during the national anthem? Not so"
     excerpt: "Biden was kneeling to pose for a photo with dancers during an event at the Little Haiti Cultural Complex in Miami, according to captions of AP photos taken at the scene."
     publishedDateTime: 2020-10-18T22:49:00Z
@@ -1543,6 +1559,6 @@ related:
         height: 682
         isCached: true
 
-secured: "BMHNZ5qbIwmQ22PjlrwygeCkt6y8wU5Mrkzhns9ImAh086jfHvlryesbs+kRM21OupUKOggWg+64UHWRCDfRfrNRhee/2pSyZqC0d+tMkJNqR7regkusIm7z3lbmmwslmL3I6I2f5PLg6WWFq3gCSlFFJJv6oLsN8RB/7eDBHQY4v6pcgkw9GOSIVg5yASCJH1kCUju5cUaYdkWsaXa+9FndWJcuIodWKDuTLJdDYz70IWhQ3UL6DsmON0pILUP+bGU9kWNfx4cE4+diMB8uyfew6nm+fAfZWPo8H9bpSJFadzRHa5dxSclL8P2Y6NYBw+XstSt0lm07T0tlIMF1heMO7qpBvTrH7LrFoVlOBSY=;oFIvEobcQXI0zYWGmSV9mA=="
+secured: "F1IFXun/iHm4EqvtzQZQlhtmnY8Fwi3L+TlZMR6Na0W4TD7X31uAy3ZhlI18OZB7lvCLI6Kh35lnUIZ7Gpc5ohs8dm9OGrUIl8BMYHXoLoHuBS6UiAEnF4R1GTLUZnQVSPTcWkY1mE+PquqmcAt9SV1ZylHsToXJXKxjTIOml6+QL55XZYI4odLcr+HcnyWXUOrBYEZVWNyphQ/2yTabekQm4Facj6F0NSeUFnKt0vjMQm4M8rDiP6Sgu8aXd0qxCZ5dtRuEblWcf2wK7je62rzAtxifUcweo+8II5b3oOEK/6VFASkaRnJEvEa/9G6ncDE9+aeBZh7I7fNQodmVTlUHQYfyp8CmUsstUz0XBBKINfh86V2Y2yc6yT8y1ZAPTFHI3D5VMpbG9+RijzqjXR3GrnvFlOe+yoCSCPvadle8Hkbt1S5vT8V8Tfya7RXDxNBNDc/9FN7DS4gNHbKmenB2GLux0D6MAhuLCV9cegW7Hj9GnDiQnrUgCDW6DjASHkz0FJZGUtw23QC8D8AaSw==;CGpw9vu+9c1hzfwmi2QzPw=="
 ---
 

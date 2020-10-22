@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/ossoff-raises.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ossoff-raises.amp"
 type: article
 quality: 177
-heat: 197
+heat: 177
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Sen. Kamala Harris Questions Supreme Court Nominee Amy Coney Barrett"
-    excerpt: "Calif., questioned Judge Amy Coney Barrett on the second day of the Senate Judiciary Committee’s Supreme Court confirmation hearing. Harris laid out the stakes surrounding the survival of the Affordable Care Act,"
-    publishedDateTime: 2020-10-13T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/13/sen_kamala_harris_questions_supreme_court_nominee_amy_coney_barrett.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/52/524015.jpg"
-        width: 750
-        height: 562
-        isCached: true
 
 secured: "HE9EgWfc4c4G7GTNHHSJrNqxzXMiUGJsm97UtmwhMHeFpd3hzRK/XLF79He6FmEk/lNY5m17zCg0LGvKyL36lg5inbCpIg7sNY0PwkzNf9RpaSOH7jy9P1OVHRfXeajeZeRH5pPlNWbn62nTeP74rL+mLddVFcoTWfnMe2VzCUV6N6i90tqacQ9QxeyH66wMjTrmXV+u6KFNrmd54NV5D5EyiwL3T/KhXA5xS2A1xPluGn2YCm6bIZrsfbP2ZteTNDw4CnYSfJgtlhH5VL6X6zeZ5etU6K3xulsXA5ZqbqvSRRVg7qaBKiYzBXs+p0jDr2KryapFyDJbbEzheBAbF1XYUYfFWuKzRf2iMohiF9o=;ZVqBxsazjx4/xYiLlfjQ4g=="
 ---

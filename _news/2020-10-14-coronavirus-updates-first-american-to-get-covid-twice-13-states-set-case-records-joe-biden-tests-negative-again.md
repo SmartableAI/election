@@ -251,22 +251,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Coronavirus updates: Trump, Pelosi, McConnell face deadline for stimulus deal; Sturgis rally linked to cases"
-    excerpt: "The NFL hopes to play all its scheduled games today. President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest COVID news."
-    publishedDateTime: 2020-10-18T19:43:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump: Barron 'free' of coronavirus"
     excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
     publishedDateTime: 2020-10-15T01:40:00Z
@@ -567,6 +551,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
+    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
+    publishedDateTime: 2020-10-18T04:50:00Z
+    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
+    type: article
+    provider:
+      name: The Hollywood Reporter
+      domain: hollywoodreporter.com
+    quality: 55
+    images:
+      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
+        width: 928
+        height: 523
+        isCached: true
   - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
     excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
     publishedDateTime: 2020-10-13T10:03:00Z

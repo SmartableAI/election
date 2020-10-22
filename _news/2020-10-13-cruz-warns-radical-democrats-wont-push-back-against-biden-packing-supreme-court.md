@@ -63,6 +63,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden calls supporting 1994 crime bill a 'mistake' during ABC town hall"
+    excerpt: "Democratic presidential nominee Joe Biden conceded Thursday it was a \"mistake\" to support the controversial crime bill that critics say laid the groundwork for mass incarceration but defended parts of the 1994 legislation.  "
+    publishedDateTime: 2020-10-16T13:31:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/79q3EQ_02G0/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-concedes-elements-1994-crime-bill-were-mistake-during-town-hall.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/31e403fb-eb33-4078-9bef-323b6035789e/5645e143-8891-469a-b48e-8364d65ddffd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to look at court-packing 'alternatives,' form commission to 'reform' court system"
+    excerpt: "Democratic presidential nominee Joe Biden said, if elected, he would form a commission to examine \"how to reform the court system.\""
+    publishedDateTime: 2020-10-22T13:50:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ga-sgS2j8jA/joe-biden-on-court-packing-60-minutes"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-on-court-packing-60-minutes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP-barrett.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden will 'make clear' his position on court packing after Senate votes on Amy Coney Barrett"
     excerpt: "Democratic nominee Joe Biden, in an interview published Friday, said he will “make clear” his position on court packing when the Senate votes on the nomination of Amy Coney Barrett -- as he continued to avoid taking a clear stance on the extreme move of adding justices to the Supreme Court."
     publishedDateTime: 2020-10-17T15:12:54Z
@@ -167,6 +199,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden remains mum on packing Supreme Court, but took different stance in 1983"
+    excerpt: "Biden continues silence on court-packing stance, but in 1983 he certainly had an opinion Democratic presidential nominee Joe Biden and his running mate, Sen. Kamala Harris of California, have been mum on the question of court-packing should they win the November election,"
+    publishedDateTime: 2020-10-12T09:56:00Z
+    webUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him"
+    ampWebUrl: "https://www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/biden-remains-mum-on-packing-supreme-court-but-1983-video-may-come-back-to-hurt-him.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/jbiden-NEWSLETTER-xx.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Tim Graham: Biden's ABC town hall reveals 2 questioners' ties to Democrats – networks keep stacking the deck"
     excerpt: "The Hill media reporter Joe Concha reacts to ABC & NBC's town halls and Steve Scully admitting he was not hacked. The dueling “town hall” events on ABC and NBC on Thursday night featuring the two 2020 presidential candidates,"
     publishedDateTime: 2020-10-17T14:41:00Z
@@ -180,6 +228,22 @@ related:
     quality: 116
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97b570de-e9d9-443a-87ef-32f26759a6eb/31a729dc-4d6f-4a88-9afa-2582edd94b70/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Buttigieg still supports expanding Supreme Court, defends Biden claim that Barrett nom is 'unconstitutional'"
+    excerpt: "Former South Bend, Ind., Mayor Pete Buttigieg, who now serves on Joe Biden's transition team, said he continues to support the concept of increasing the size of the Supreme Court, and defended the Democratic presidential nominee's claim that the nomination of Judge Amy Coney Barrett is unconstitutional."
+    publishedDateTime: 2020-10-18T23:24:00Z
+    webUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes"
+    ampWebUrl: "https://www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/buttigieg-blasts-trump-foreign-policy-calls-him-destabilizing-force-literally-everywhere-he-goes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c1c3d19-6f88-4dbb-9430-c2c6b5efab4c/065de9c2-ece5-4333-8359-abe2c838c0c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -260,6 +324,22 @@ related:
       - url: "https://assets.realclear.com/images/52/524046_5_.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "Court-Packing Controversy Reveals How Terrified Biden Is of His Left-Wing Base"
+    excerpt: "Democratic presidential nominee Joe Biden doesn’t want to pack the Supreme Court. He really doesn’t. In fact, he’s said so for the past 40 years. “President [Franklin D.] Roosevelt clearly had"
+    publishedDateTime: 2020-10-13T04:01:00Z
+    webUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920"
+    ampWebUrl: "https://townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
+    cdnAmpWebUrl: "https://townhall-com.cdn.ampproject.org/c/s/townhall.com/columnists/danodonnell/2020/10/13/courtpacking-controversy-reveals-how-terrified-biden-is-of-his-leftwing-base-n2577920?amp=true"
+    type: article
+    provider:
+      name: Townhall
+      domain: townhall.com
+    quality: 81
+    images:
+      - url: "https://media.townhall.com/townhall/reu/ha/2020/273/e8618c85-64ba-4006-8172-05f2a3caf1e2.jpg"
+        width: 650
+        height: 340
         isCached: true
   - title: "To defend Biden, media and Democrats simply redefine ‘court-packing’"
     excerpt: "Democratic nominee Joe Biden and his allies in Congress have hit on a new strategy to distract from the fact that he refuses to say whether he supports packing the Supreme Court."

@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Thousands protest Trump's Supreme Court pick at Washington Women's March"
+    excerpt: "Thousands marched to the U.S. Supreme Court in Washington on Saturday to commemorate the late Justice Ruth Bader Ginsburg and protest President Donald Trump's rush to push through Amy Coney Barrett as her replacement."
+    publishedDateTime: 2020-10-18T08:57:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-court-barrett-protest-idINKBN273036"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN273036"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN273036"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201018&t=2&i=1537901655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9H01U"
+        width: 847
+        height: 545
+        isCached: true
   - title: "Trump Loses Latest Fight To Keep Tax Returns From Manhattan D.A., Supreme Court Battle Looms"
     excerpt: "A federal appeals court rejected Donald Trump’s latest attempt to keep eight years of tax returns from Manhattan’s district attorney."
     publishedDateTime: 2020-10-07T15:45:00Z
@@ -63,17 +79,6 @@ related:
         width: 1199
         height: 800
         isCached: true
-  - title: "Trump Rails Against Muted Microphones at Presidential Debate"
-    excerpt: "The fact that Trump is willing to debate Biden again without being able to interrupt him at will is an indicator of how much the president needs to change the trajectory of the campaign."
-    publishedDateTime: 2020-10-20T15:05:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-20/trump-rails-against-muted-microphones-at-presidential-debate?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "II50t8HG0DA1hWARcMzOf01RgAYnT5lF+CR4Jq+ml3nk1WE/BgdhdpcgYBND30yH+xN0scC+/YDRSGiuHXzeSL0VGwooyLwq2wE2ZC8nyk5JdCeKhzlDKDeqj+C8/FmoLxUBy3B8OKGlSBQBai6NWvRUxNM63YVH2UsUNlDTYZmI2167j5npL3KLu8nnJ2Pfifi3J5tLe6UMO5cyoAjet0mcdAB+tHPm7c1BTuvzFvY+g5OidanP8jxggktywOLb6ok5U1gptMUuVM/lybmhfKeR1eetarbSKq3+ago90AFd6nTM6++uJTrs1CvoXi9zEqgFm1/QTjI8PrybOW3TOgDXZW/+SyLnB+K+2A39ciE=;Xh8fpwZSKJFM6KZMhsA1MQ=="
 ---

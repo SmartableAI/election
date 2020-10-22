@@ -95,6 +95,22 @@ related:
         width: 1199
         height: 782
         isCached: true
+  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
+    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
+    publishedDateTime: 2020-10-16T01:20:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
+    images:
+      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
     excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
     publishedDateTime: 2020-10-18T13:35:00Z

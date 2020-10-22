@@ -2,14 +2,14 @@
 category: news
 title: "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations"
 excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
-publishedDateTime: 2020-10-22T09:09:55Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RQNKC2MkPCg/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations"
+publishedDateTime: 2020-10-22T09:16:00Z
+originalUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations"
+webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations"
 ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
 type: article
-quality: 167
-heat: 167
+quality: 127
+heat: 127
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Kj6y2pmHONWc3v7OhgxFPSs+zdYkBcl870o4TYeZfnLqyp/gbeIbcKCr/X5gqTLxSTaEmA7ev81fQlOeltppKSDzsX80GrNz3OQe7N7UPhBbES+HNDB874Oclis9NNsIPq8bDopWYr3Y7vwY/luY2HwmCXZl4YoYh5xFvzXiKBs5hPmBN9xnGEOD990lT5x5JhDEx8U3UVgcXviCHYGHIaE1tdrDcIdaMXs8Wl4jnCfb/BGbQPI35AiuPh1gdRUh3piqF7zPiqREiipi6cxIA8W3sYdv7T1WkApuBcWinSEuVkg7H8AOJbx+DEtDVJwKm6qQnVHgGBGA+lP9RvdKiBrZlOiL0z47EnEbMrXD0YQ=;+yhVYZuudd+RJ53jrUgS4w=="
+secured: "4hP7xgU9DQwLXTZSAFkwQoannmOKD6WcCn/olHKpjgqU6p0SDJ23xtzJzzicYPsNTXRDiKfdUkN6wiDusPPUK8MAOhCzYDFvMYd09OWIhfvb0XzFpLGw3SLDd2E5P7XgEw4xGqatmHAcaP5wz233Z2jErCndXL2k/QQ/VWdrY42iiaDxX7xz7uSYlnc7YJaMGoLds8ezJuPQ/Ona4XJM2zTUHaxCfrGzoYmqWShO+jdNCP8wH7KY9m24AdkOaNzVo0Yh+MSvro7h8hX5kXsTK/ZUyN1c8wE17NGmc+K0R+AnIXBKauOlGTeirY4lcYjeA0VAqRjca7GGsmkhnJcYCpqf0Zj6ldJCYr6yVbXs9Y8=;coPFvFrS64/ex4QjiqofTQ=="
 ---
 

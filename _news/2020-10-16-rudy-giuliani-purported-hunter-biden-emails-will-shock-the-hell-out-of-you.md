@@ -95,21 +95,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
-    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
-    publishedDateTime: 2020-10-21T19:11:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FNAu_6K7AUw/joe-biden-hunter-laptop-emails-ny-post"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
+  - title: "Graham considers subpoenas for Twitter, Facebook execs over Hunter Biden emails"
+    excerpt: "Senate Judiciary Committee Chairman Lindsey Graham, R-S.C., is considering subpoenaing social media executives over their platforms' role in suppressing news about the explosive, alleged emails involving the former Vice President Joe Biden's son Hunter."
+    publishedDateTime: 2020-10-19T22:26:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LuAQZD6buNM/graham-subpoena-twitter-facebook-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-subpoena-twitter-facebook-hunter-biden.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54b248eb-9792-4412-9b00-fb894179f113/d012e81f-4403-4a19-bf7b-657194a73d60/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Sen. Ron Johnson: Hunter Biden traded on his last name 'to make millions of dollars'"
     excerpt: "Hunter Biden and other members of the Biden family used their last name \"to make millions of dollars\" in shady overseas deals, Senate Homeland Security Committee Chairman Ron Johnson, R-Wis., told “Hannity” Wednesday."
@@ -124,6 +124,22 @@ related:
     quality: 168
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcb003c3-e3a7-4513-b2e7-72d1c127a808/2114a245-7a5d-4b63-89c6-6867bfd64cea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sen. Hawley demands answers from Facebook for ‘censoring a news report’ on Hunter Biden"
+    excerpt: "Sen. Josh Hawley, R-Mo., is demanding to know why Facebook is “censoring a news report” on Hunter Biden after the platform admitted it was limiting distribution of the story until independent fact-checkers could verify its accuracy."
+    publishedDateTime: 2020-10-14T18:53:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bztySLKHUo0/hawley-facebook-for-censoring-nypost-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-facebook-for-censoring-nypost-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/09/hawley.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -268,22 +284,6 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dcdd0a17-7cca-4683-ad66-cbeadfae5e18/51e282ec-b6ff-4cee-bbd6-2afda26de534/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Documents show alleged Hunter Biden signature, FBI contacts with computer repair store owner"
-    excerpt: "The document allegedly signed by Biden details repair work that was to be performed on three MacBook Pro laptops at “The Mac Shop” in Wilmington, Delaware."
-    publishedDateTime: 2020-10-19T23:10:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K2INPc9xd3M/hunter-biden-emails-documents-alleged-signature-fbi-paperwork"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-documents-alleged-signature-fbi-paperwork.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d6a46028-f3c3-4be2-9d43-54f48ffdfdbb/c6a46efd-f929-44a8-8804-82814e2e51dc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -445,6 +445,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Tucker Carlson: The Joe Biden story Twitter and Facebook don't want you to read"
+    excerpt: "This article is adapted from Tucker Carlson's opening commentary on the Oct. 14, 2020 edition of \"Tucker Carlson Tonight.\" Most of us never imagined it could happen in this country, and yet Wednesday,"
+    publishedDateTime: 2020-10-15T02:16:00Z
+    webUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook"
+    ampWebUrl: "https://www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/tucker-carlson-hunter-biden-twitter-facebook.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf3d8318-01df-43f5-a84d-c91789b28881/b3303b7d-d7a8-41e9-9f13-46444c5da6fc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "FBI holding laptop allegedly containing Hunter Biden business emails: officials"
     excerpt: "FBI in possession of Hunter Biden's purported laptop, sources say The FBI is in possession of the laptop purportedly belonging to Hunter Biden which allegedly contained emails revealing details of his foreign business dealings,"
     publishedDateTime: 2020-10-21T09:21:00Z
@@ -458,22 +474,6 @@ related:
     quality: 131
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Joe-Hunter-Biden-FBI-THUMB.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden denies family profited from his name, says 'no basis' to Hunter Biden story"
-    excerpt: "Democratic presidential nominee Joe Biden denied that his son Hunter Biden profited because of his ties to the former vice president and said Sen. Ron Johnson, R-Wis., should be \"ashamed of himself\" for saying Hunter Biden used his last name \"to make millions of dollars\" in shady overseas deals."
-    publishedDateTime: 2020-10-21T19:16:00Z
-    webUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-hunter-laptop-emails-ny-post.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Hunter-Biden-Getty.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
@@ -540,6 +540,22 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/289/ad5ed7d9-d644-4c3a-9934-2d0be5614beb.png"
         width: 650
         height: 340
+        isCached: true
+  - title: "Byron York's Daily Memo: Joe Biden (sort of) addresses Hunter Biden accusation"
+    excerpt: "ADDRESSES HUNTER BIDEN ACCUSATION. The Democratic presidential nominee isn't campaigning in person this week -- an odd choice in the final days of a hard-fought campaign. But Joe Biden did do a video interview Wednesday with a Wisconsin television station,"
+    publishedDateTime: 2020-10-22T12:27:00Z
+    webUrl: "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation"
+    ampWebUrl: "https://www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/byron-yorks-daily-memo-joe-biden-sort-of-addresses-hunter-biden-accusation?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 81
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/9f02367/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F1b%2Fdd%2F5520d8a2407eb68282a5cf5f8e59%2Fdaily-memo-default-1060x600.png"
+        width: 1060
+        height: 600
         isCached: true
   - title: "New Poll Reveals How Damaging Revelations Are Impacting Biden's Favorability with Voters"
     excerpt: "Polls continue to show Joe Biden with a sizeable lead over incumbent President Donald Trump, but a new poll shows that lead may be narrowing as revelations about Joe Biden's"

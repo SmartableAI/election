@@ -198,15 +198,15 @@ related:
         height: 675
         isCached: true
   - title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
-    excerpt: "In yet another confirmation of Ohio's status as an unexpected battleground state, Vice President Mike Pence is returning for a visit Friday afternoon. The appearance at the Toledo Airport comes just two days after he appeared in Cincinnati. It also will ..."
-    publishedDateTime: 2020-10-22T11:01:00Z
-    webUrl: "https://www.dispatch.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
-    ampWebUrl: "https://amp.dispatch.com/amp/3725007001"
-    cdnAmpWebUrl: "https://amp-dispatch-com.cdn.ampproject.org/c/s/amp.dispatch.com/amp/3725007001"
+    excerpt: "President Donald Trump and Democrat Joe Biden clash in their final debate, Vice President Mike Pence is returning to battleground Ohio."
+    publishedDateTime: 2020-10-22T12:31:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/elections/presidential/2020/10/22/mike-pence-returning-battleground-ohio-friday-day-after-debate-donald-trump-campaign-vs-joe-biden/3725007001/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/3725007001"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3725007001"
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
     quality: 67
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/NCOD/46f0cddc-0a11-4474-8fa6-b921fa59ef6b-Mike_Pence_in_Cincy.JPG?auto=webp&crop=3899,2194,x0,y0&format=pjpg&width=1200"

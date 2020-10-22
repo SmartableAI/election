@@ -30,67 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Harris says she is a person of faith, 'insulting' to suggest she would knock anyone for religion"
-    excerpt: "Sen. Kamala Harris invoked her faith during the vice presidential debate to insist that Judge Amy Coney Barrett would be treated fairly on account of her faith during her upcoming confirmation hearings. "
-    publishedDateTime: 2020-10-08T02:50:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OTRgzrV6qlo/harris-person-of-faith-supreme-court"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-person-of-faith-supreme-court.amp"
+  - title: "Judge rules Texas' Harris County can't send mail-in ballot applications to all 2.4M residents there"
+    excerpt: "The Texas Supreme Court ruled that Harris County cannot send ballot applications to all 2.4 million of its registered voters."
+    publishedDateTime: 2020-10-07T15:31:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vXGtcnbP7gA/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there"
+    ampWebUrl: "https://www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/judge-rules-texas-harris-county-cant-send-mail-in-ballot-applications-to-all-2-4m-residents-there.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 171
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54282b21-79e8-4f9e-9a11-ab0b14268515/27144894-3b23-4f59-8afa-0869f46d8c93/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11c3a614-9e59-4101-a0ee-1ba70ee3980c/5ec3e47b-4951-42b4-8649-77df6ec63756/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Harris asks Barrett if COVID-19 is infectious and if smoking causes cancer to make climate change point"
-    excerpt: "Sen. Kamala Harris asked Judge Amy Coney Barrett if smoking causes cancer and if coronavirus is infectious, in an effort to reveal the Supreme Court nominee’s thoughts on climate change. "
-    publishedDateTime: 2020-10-14T22:43:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nm7nawF0J1w/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change"
-    ampWebUrl: "https://www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-barrett-covid-19-infectious-smoking-causes-cance-climate-change.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b27d54d-d1e8-49f4-8043-ff2b67b8a139/8bb45b05-f697-4419-8c4a-6adb8d684dc2/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris’s American Example"
-    excerpt: "Her family is an immigrant success story. So why does she prefer to play victim?"
-    publishedDateTime: 2020-10-06T23:38:00Z
-    webUrl: "https://www.wsj.com/articles/kamala-harriss-american-example-11602026030"
-    ampWebUrl: "https://www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/kamala-harriss-american-example-11602026030"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-240957/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Graham challenger Jaime Harrison reacts to Barrett fight with slavery comparison"
-    excerpt: "Democratic South Carolina Senate Candidate Jaime Harrison reacted to a question about the political fight to confirm Trump-backed Judge Amy Coney Barrett to the U.S. Supreme Court with a comment about the hypothetical reintroduction of racial segregation."
-    publishedDateTime: 2020-10-09T19:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9zEReD9fDo/graham-challenger-jaime-harrison-slavery-comparison"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20278047890829.jpg"
-        width: 5472
-        height: 3648
         isCached: true
   - title: "Flashback: Here's How Kamala Harris Has Proven Time and Again She Is a Radical Leftist"
     excerpt: "Sen. Kamala Harris will debate Vice President Pence in Salt Lake City, Utah. It is difficult to conjure a modern contest between two politicians so diametrically opposed"
@@ -107,20 +61,6 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2020/230/2f2e7b41-d430-4169-a4a8-5b7c01cc6cd9.jpg"
         width: 650
         height: 340
-        isCached: true
-  - title: "Kamala Harris Blasts Barrett Confirmation Hearing For Violating Quarantine: \"This Should Have Been Postponed\""
-    excerpt: "Sen. Kamala Harris, the Democratic vice presidential nominee, attended Judge Amy Coney Barrett's Supreme Court confirmation hearings remotely, and when she spoke she denounced those in attendance for breaking the COVID-19 quarantine,"
-    publishedDateTime: 2020-10-12T20:16:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/12/kamala_harris_blasts_barrett_confirmation_hearing_for_violating_quarantine_this_should_have_been_postponed.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 46
-    images:
-      - url: "https://assets.realclear.com/images/52/523854.jpg"
-        width: 750
-        height: 562
         isCached: true
 
 secured: "SYyjM0+JNDERHt7lhqTybBUw7L+z+5q1/ESkr+ll6v8+eWtR7ct6fdDeInpe1RAmK0lI/lFpHpCa4fM2BaAdFuhVYT5vwM7PsxInugIhLaxPlp/kMTH9l0l6V/1c/xssdDPrkFTK29X0mvmgCtn5fkx02fOs7Cr2i2IOqDa782H5tTPM8hDJkF1tFHoXp7Iokvg5LRukG08GqQezBw6L9AyxRj/BnO/3aqgLrYWR0LTkjTT2LqnVrCMvQba0JLOOQAo2yAa+t8KQpmDdtBcpjr84sdGp7hpTX7nYsag4QwtRUYLchZfaATZQUOTfEt8IQAq6SURJ6L95UflNI1Mldy2tRR3xTWRBt19QWq1Tp8k=;EdYh6Z/x8DLBRjtsiKIsDg=="

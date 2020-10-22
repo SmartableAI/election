@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 163
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201013092125-07-barrett-hearing-1013-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says if elected he will form bipartisan commission to recommend changes to Supreme Court "
+    excerpt: "Democratic presidential nominee Joe Biden said that if he is elected, he will form a bipartisan commission to recommend changes to the Supreme Court.\n    \n"
+    publishedDateTime: 2020-10-22T13:53:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nlIYyqlgWCs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/biden-supreme-court/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/biden-supreme-court/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153807-205-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
