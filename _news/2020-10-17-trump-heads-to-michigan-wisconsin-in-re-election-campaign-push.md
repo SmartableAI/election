@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27206X"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X"
 type: article
 quality: 140
-heat: 1480
+heat: 1500
 published: true
 
 provider:
@@ -812,6 +812,22 @@ related:
       - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Vice President Mike Pence stops in Michigan, tomorrow"
+    excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
+    publishedDateTime: 2020-10-21T21:40:00Z
+    webUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/"
+    ampWebUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/pence-1.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Confused Trump tells Michigan voters ‘Minnesota, you better vote for me!’"
     excerpt: "In a moment of confusion, President Donald Trump appeared to forget where he was speaking Saturday night. Flying into Muskegon, Michigan, Trump cautiously walked down the steps of his airplane to take the stage before a large “make America great again,"

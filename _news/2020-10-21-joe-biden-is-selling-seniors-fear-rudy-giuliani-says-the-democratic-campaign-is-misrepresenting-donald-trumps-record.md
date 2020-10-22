@@ -519,6 +519,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "With N.C. rated a tossup, Biden running mate Kamala Harris campaigns in Charlotte | Raleigh News & Observer"
+    excerpt: "Her first stop was at Social Status, a Plaza Midwood shoe store where the owner encourages his young Black customers to vote."
+    publishedDateTime: 2020-10-21T19:26:00Z
+    webUrl: "https://www.newsobserver.com/latest-news/article246576558.html"
+    ampWebUrl: "https://amp.newsobserver.com/latest-news/article246576558.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/latest-news/article246576558.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 72
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/2992b715-045d-48f6-bddb-ab1e2bc9bf7b/80add951-1771-42d7-8de7-29ba87bf123f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "WATCH: Vice President nominee Kamala Harris speaks at Orlando 'drive-in rally'"
     excerpt: "Democratic vice presidential nominee Kamala Harris will be encouraging early voting during campaign stops in Orlando and Jacksonville."
     publishedDateTime: 2020-10-20T14:18:00Z
@@ -551,6 +567,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris praises 'late, great' John McCain for thumbs down on health care bill"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris praised the late Sen. John McCain of Arizona for helping sink a GOP health care bill in 2017 at a campaign stop in North Carolina on Wednesday."
+    publishedDateTime: 2020-10-22T00:49:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/21/kamala-harris-praises-john-mccain-thumbs-down-heal/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/21/kamala-harris-praises-john-mccain-thumbs-down-heal/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/21/kamala-harris-praises-john-mccain-thumbs-down-heal/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 69
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/21/Election_2020_Harris_84708.jpg-280bb_c0-93-6564-3922_s1200x700.jpg?34dac7a7ec81beb929c78b1ce14bc009b5d67d72"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say | Raleigh News & Observer"
+    excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
+    publishedDateTime: 2020-10-21T17:16:00Z
+    webUrl: "https://www.newsobserver.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/nation-world/national/article246610668.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 69
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris cancels travel through Sunday after staffer tests positive for COVID-19"
     excerpt: "Democratic vice presidential nominee Kamala D. Harris is canceling travel plans through Sunday after her communications director tested positive for the coronavirus."
     publishedDateTime: 2020-10-16T03:53:00Z
@@ -567,6 +615,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "‘These are not typical times’: In rare move, Seattle Storm endorses Joe Biden and Kamala Harris"
+    excerpt: "In a move rarely seen by professional sports teams, the Seattle Storm voiced its support for the 2020 Democratic ticket of Joe Biden and Kamala Harris on Wednesday."
+    publishedDateTime: 2020-10-21T23:29:00Z
+    webUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/"
+    ampWebUrl: "https://www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/sports/storm/these-are-not-typical-times-in-rare-move-seattle-storm-endorses-joe-biden-and-kamala-harris/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 68
   - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
     excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
     publishedDateTime: 2020-10-18T04:46:00Z
@@ -743,6 +802,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris lands in Charlotte | Charlotte Observer"
+    excerpt: "Vice presidential nominee Kamala Harris arrives in the Queen City. Harris and Trump will both be in the Charlotte-area Oct. 21, 2020."
+    publishedDateTime: 2020-10-21T19:38:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246611373.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
     quality: 35
   - title: "Senator Kamala Harris Comments to Reporters in North Carolina"
     excerpt: "Senator Kamala Harris (D-CA) responds to reporters' questions about President Trump’s criticism of Hunter Biden and whether she and Joe Biden think they need to win North Carolina on election day to secure the White House."

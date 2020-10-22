@@ -112,22 +112,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
-    excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
-    publishedDateTime: 2020-10-18T19:06:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
     excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."
     publishedDateTime: 2020-10-15T10:12:00Z

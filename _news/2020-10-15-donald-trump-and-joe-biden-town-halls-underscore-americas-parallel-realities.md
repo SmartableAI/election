@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden swamps Trump on the airwaves ahead of final debate"
+    excerpt: "Joe Biden is off the campaign trail as he prepares for Thursday night's debate, but his campaign is pressing its advantage on the airwaves, where he is vastly outspending President Donald Trump across the map in the presidential race's final two weeks.\n    \n"
+    publishedDateTime: 2020-10-21T21:48:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zd74MtNSMfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/biden-tv-ads-final-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/biden-tv-ads-final-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Debate commission announces topics for final debate between Trump and Biden"
     excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
     publishedDateTime: 2020-10-16T19:25:46Z
@@ -302,6 +318,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201007145328-donald-trump-0930-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump and Harris head to North Carolina today, and Pence speaks in New Hampshire and Ohio."
+    excerpt: "Holds a rally in Gastonia, N.C. Former Vice President Joseph R. Biden Jr. No events scheduled; preparing for Thursday’s debate. Vice President Mike Pence 1:30 p.m.: Holds a rally in Portsmouth, N.H. 6 p."
+    publishedDateTime: 2020-10-21T17:53:00Z
+    webUrl: "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/us/elections/trump-and-harris-head-to-north-carolina-today-and-pence-speaks-in-new-hampshire-and-ohio.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 165
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/21/multimedia/21elections-briefing-kamala/21elections-briefing-kamala-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Election live updates: Trump, Biden presidential campaigns in final push"
     excerpt: "President Donald Trump and Joe Biden are heading into the final stretch of the 2020 presidential campaign. Sahil Kapur Republican senators are increasingly voicing fears that Trump could lose the election,"
@@ -734,6 +766,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/25/magazine/25mag-harris-1/25mag-harris-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Rudy Giuliani gives alleged Hunter Biden hard drive to Delaware authorities"
+    excerpt: "Giuliani visited the New Castle County Police Department in Delaware on Monday and handed over a copy of what he says was Hunter Biden’s hard drive, according to a spokesperson for the Delaware Department of Justice."
+    publishedDateTime: 2020-10-21T23:23:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/rudy-giuliani-gives-alleged-hunter-biden-hard-drive-delaware-authorities-n1244223"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244223"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244223"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421944/201021-rudy-giuliani-2018-ac-525p_4116787e0e156c4353b10ae9bf4c8e17.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden campaign halts Kamala Harris' travel after two people in campaign's orbit test positive for coronavirus"
     excerpt: "Joe Biden's campaign is halting the travel of his running mate, California Sen. Kamala Harris, through this weekend after two people -- a flight crew member and Harris' communications director, Liz Allen -- tested positive for coronavirus."

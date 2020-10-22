@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
 type: article
 quality: 174
-heat: 374
+heat: 354
 published: true
 
 provider:
@@ -108,22 +108,6 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "The Facebook-Twitter-Trump Wars Are Actually About Something Else"
-    excerpt: "Much of the outrage around the Trump era and social media platforms — like, most recently, the decision by Facebook and Twitter to reduce the reach of a highly questionabl Post story about Hunter Biden — is actually about government power and accountability."
-    publishedDateTime: 2020-10-18T19:06:00Z
-    webUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.html"
-    ampWebUrl: "https://www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/18/opinion/ny-post-biden-twitter.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2020/10/18/opinion/18warzel/18warzel-facebookJumbo-v3.jpg"
         width: 1050
         height: 550
         isCached: true

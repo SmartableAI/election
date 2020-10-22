@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Democrats to boycott Senate panel vote on Trump Supreme Court pick, source says"
+    excerpt: "Democrats will boycott a U.S. Senate Judiciary Committee vote scheduled for Thursday on President Donald Trump's nomination of Amy Coney Barrett to the Supreme Court, a Senate Democratic aide said on Wednesday."
+    publishedDateTime: 2020-10-21T22:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-barrett-idUSKBN27635O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27635O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27635O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538372807&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1YA"
+        width: 817
+        height: 545
+        isCached: true
 
 secured: "veyfhcbFf4USVVFw5N9jpTUgbFJzeREecs7kFVQ+NoFr/rhulMmM9WHkg1R+R1M2mCeuJ/FhargD2W+VgMHO+vmnpTC4TmGfL7Iw4vdEeP0eFf9yCe19w82LTuDAZUeJXyr8z6RXfgfirsuOCDm0AbDFFKNM4+xUoUof/JRHECJkBM/6XtIwyttXPVrcjTCda14vTMMxvbJNZLjD288PEoeeyA1VVmoknppI+JJR4f93OHorMBBh5quMKMOXiRywkd1e+Tscm3LoXaNlejxkX+yMUdce0vgeBDy5IFkHJ9Njqj3dHGcXRAEQ2khj7QodtBoAQ1R8/xgxorl2FRO+fT/XUfDjMNJSYT3wRn0zXJE=;AR3evwq0VI5p9nQOrljm9w=="
 ---

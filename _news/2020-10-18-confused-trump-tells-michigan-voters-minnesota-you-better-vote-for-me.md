@@ -829,6 +829,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence stops in Michigan, tomorrow"
+    excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
+    publishedDateTime: 2020-10-21T21:40:00Z
+    webUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/"
+    ampWebUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    type: article
+    provider:
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
+    images:
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/pence-1.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "President Donald Trump takes aim at Gov. Whitmer at campaign stop in Michigan"
     excerpt: "President Donald Trump took aim at Gov. Gretchen Whitmer when he visited Michigan Saturday. During his 90 minute speech in Muskegon, Trump mentioned the domestic terrorism plot to kidnap Whitmer and how she has been handling the COVID-19 outbreak."
     publishedDateTime: 2020-10-18T07:12:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-emails-giuliani-attorn
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-emails-giuliani-attorney-fbi.amp"
 type: article
 quality: 163
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/hollie_headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Joe Biden Dismisses Hunter Biden Claims: \"Same Garbage From Rudy Giuliani, Trump's Henchmen\""
+    excerpt: "Joe Biden addressed the allegations about his son Hunter Monday during an interview with WISN-12 in Wisconsin, saying Senate Homeland Security Chairman Ron Johnson \"should be ashamed of himself\" for taking serious allegations from \"Trump's henchman Rudy Giuliani."
+    publishedDateTime: 2020-10-21T23:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/biden_dismisses_hunter_biden_claims_same_garbage_from_rudy_giuliani_trumps_henchmen.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/52/524768.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "YGx4P0z1bXvjI9+DypxikNepvWxiXlwJTOa5N0XzdMOcBHim2ZvhUkvuG30iqU9KV/NPaRuZztZbcyLeYwqcWkXL+oKhxfWppMp7Fw1YyWIRfMalu8vSpgNacK/cj/B8vJJEj/4EFQcGGxBP3d+PgjQX7hdCAKNoY+KGkuOygjUinjAd52+BvhSJwIQmgLBpI2iCfR/Bm1NaHIxHYrrXTbg54ChG1ijE0N6U+e4E/zediz3DV+isAo6IgqLEkk+RDaoMYxQExWulvJbQXQHrakEPmwkb9BsjdMywCtpBgkkxTloqiewxmDWaz5BbkSZS55jBO8eeC+xmrnbNaF9oNtBXWz7bSnB4IowPx/O7euE=;z+zXx4aGKxmPOf4/I7jRag=="

@@ -955,6 +955,22 @@ related:
         width: 2476
         height: 1238
         isCached: true
+  - title: "The news media helps Trump avoid the stench of death"
+    excerpt: "As President Donald Trump heads into his final sprint to Election Day, nearly every news report notes that he is running behind in the polls. Journalists aren’t shying away from describing his wilder rhetoric as “studded with lies and falsehoods."
+    publishedDateTime: 2020-10-21T19:55:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-coverage-media-430982"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-coverage-media-430982"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-coverage-media-430982"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/71/6d/56057d504e00a73f3d468d6a4818/201021-trump-media-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump chief of staff Mark Meadows refuses to speak to reporters with mask on"
     excerpt: "Meadows has been inside the White House interacting with President Donald Trump over the last week while the president was recovering from the disease."
     publishedDateTime: 2020-10-12T17:31:00Z

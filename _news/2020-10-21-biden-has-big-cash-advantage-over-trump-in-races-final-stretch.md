@@ -2005,6 +2005,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Face to face: Trump, Biden to meet for final debate"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden are set to square off in their final debate Thursday, one of the last high-profile opportunities for the trailing incumbent to change the trajectory of an increasingly contentious campaign."
+    publishedDateTime: 2020-10-22T00:16:00Z
+    webUrl: "https://www.businessinsider.com/face-to-face-trump-biden-to-meet-for-final-debate-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/face-to-face-trump-biden-to-meet-for-final-debate-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/face-to-face-trump-biden-to-meet-for-final-debate-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
     publishedDateTime: 2020-09-24T01:18:00Z
@@ -3021,6 +3032,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "In pitch for Biden, Obama urges voters to vote Trump out"
+    excerpt: "With less than two weeks until Election Day, Obama delivered a sweeping condemnation of Trump while urging Black men, progressives and other voters not to sit out the Nov. 3 election. “This election requires every single one of us to do our part."
+    publishedDateTime: 2020-10-21T23:27:00Z
+    webUrl: "https://www.chron.com/news/article/Barack-Obama-to-hold-first-in-person-event-for-15663135.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Barack-Obama-to-hold-first-in-person-event-for-15663135.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Barack-Obama-to-hold-first-in-person-event-for-15663135.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
     publishedDateTime: 2020-09-24T21:01:00Z
@@ -3876,6 +3903,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-05/the-latest-biden-is-game-for-in-person-debate-if-its-safe?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "In Rebuke of Trump, Obama Urges Voters to Show up for Biden"
+    excerpt: "Former President Barack Obama is blasting President Donald Trump’s handling of the coronavirus pandemic, his response to racial unrest and his fundamental unfitness for the job in his first in-person campaign pitch for Joe Biden."
+    publishedDateTime: 2020-10-22T01:07:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-21/barack-obama-to-hold-first-in-person-event-for-biden"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-21/barack-obama-to-hold-first-in-person-event-for-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-21/barack-obama-to-hold-first-in-person-event-for-biden?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

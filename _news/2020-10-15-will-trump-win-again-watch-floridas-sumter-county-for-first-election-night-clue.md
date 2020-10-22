@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1243497"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1243497"
 type: article
 quality: 144
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://static.politico.com/41/86/94af27cc4b74a93b78d2798e7dcc/apbloomberg.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "'Vote for Trump or else!': Feds review threatening emails sent to Florida voters"
+    excerpt: "Local officials in five Florida counties told POLITICO they have turned the emails over to the FBI, which declined to offer specifics."
+    publishedDateTime: 2020-10-21T22:01:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2020/10/21/vote-for-trump-or-else-feds-review-threatening-emails-sent-to-florida-voters-1328913"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
+    images:
+      - url: "https://static.politico.com/5d/4f/08ad183c44b1b72837846f0a0d3e/190816-votingmachine-getty-773.jpg"
+        width: 3000
+        height: 1999
         isCached: true
 
 secured: "OCSgoaj6SKZJ9XjMkqcr1ZaP6JiSg2fCvnOywFaOTOt9o1mt3RujqU6ew/jwBfw5+WyNbQQ589UrcLNq4FYM60bYHw/fgu6JMshgjY/FdBAC20k7XCJXPnQiXqgPbzbGGo4WHG0DS3k2pTfEUitis0hQE1wag9VFt1vvKNNriMYAXMuZ6X2tBuDYSaEG5vYRelH8arzj0vf6xv/3SB4DeFuuQzf93NRTkwlKT192s3nMf4ZOKk0gHskmKT6Y26KIME2XDgGTifKhm3sLP8EO05qEyUuVCsEr8OXmz8CtBvraHW/RNp0TJEF9LCVC3btok6FLOx+6rutI0uFA8BXfsRq28yN9chMMuoDSdN5+n+0=;YpH4bXOQcOW/ARCapT0s9w=="

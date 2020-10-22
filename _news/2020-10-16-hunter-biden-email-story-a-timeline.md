@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Laptop connected to Hunter Biden linked to FBI money laundering probe"
+    excerpt: "The FBI’s subpoena of a laptop and hard drive purportedly belonging to Hunter Biden came in connection with a money laundering investigation in late 2019, according to documents obtained by Fox News and verified by multiple federal law enforcement officials who reviewed them. "
+    publishedDateTime: 2020-10-22T01:08:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUeMnEB3iH4/laptop-hunter-biden-linked-fbi-money-laundering-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC, House progressives call for ban on corporate executives in a Biden cabinet"
     excerpt: "House progressives and liberal groups Friday called for corporate lobbyists and executives to be shut out from a Biden Administration, drawing a clear line on what they expect if Democrats win the election."
     publishedDateTime: 2020-10-16T16:59:20Z
@@ -764,6 +780,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9810bc4e-f9a2-4907-9eb6-21f85a4165c7/b8b9b429-1b1c-4cf0-8b6e-165b5af3d67e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Man arrested for allegedly threatening to kidnap and execute Joe Biden and Kamala Harris"
+    excerpt: "A Maryland man has been arrested after authorities said he threatened to torture and kill Joe Biden and Kamala Harris."
+    publishedDateTime: 2020-10-21T20:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 91
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/31cc251/2147483647/strip/true/crop/398x593+0+0/resize/398x593!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fbb%2Fe3%2F0d25c54448cb8d616a290b8e33bc%2Freed-1.png"
+        width: 398
+        height: 593
         isCached: true
   - title: "How the Biden Campaign Responded to the Hunter Email Story"
     excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"

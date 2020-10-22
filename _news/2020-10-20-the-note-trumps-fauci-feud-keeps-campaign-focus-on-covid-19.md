@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Obama Tears Into Trump for ‘Completely Screwing Up’ Covid Response: ‘Tweeting at the Television Doesn’t Fix Things’"
+    excerpt: "Former President Barack Obama tore into President Donald Trump's failures on the coronavirus during a drive-in rally for Joe Biden in Philadelphia Wednesday."
+    publishedDateTime: 2020-10-21T22:41:00Z
+    webUrl: "https://www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/obama-2.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Raw Story‘Vote these monsters out’: Trump officials weigh deep funding cuts to COVID-19 relief, newborn screenings in Democratic-led cities"
     excerpt: "Documents obtained by Politico reveal that the Trump White House is weighing millions of dollars in federal funding cuts to Covid-19 relief, newborn screenings, and other crucial healthcare programs in Democrat-led cities,"

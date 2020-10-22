@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/19/politics/scott-atlas-deborah-birx-task-force/index.html"
 type: article
 quality: 159
-heat: 180
+heat: 179
 published: true
 
 provider:

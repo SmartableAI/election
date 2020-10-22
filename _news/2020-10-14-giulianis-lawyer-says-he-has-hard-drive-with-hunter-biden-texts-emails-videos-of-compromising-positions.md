@@ -47,6 +47,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Joe Biden Dismisses Hunter Biden Claims: \"Same Garbage From Rudy Giuliani, Trump's Henchmen\""
+    excerpt: "Joe Biden addressed the allegations about his son Hunter Monday during an interview with WISN-12 in Wisconsin, saying Senate Homeland Security Chairman Ron Johnson \"should be ashamed of himself\" for taking serious allegations from \"Trump's henchman Rudy Giuliani."
+    publishedDateTime: 2020-10-21T23:36:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/21/biden_dismisses_hunter_biden_claims_same_garbage_from_rudy_giuliani_trumps_henchmen.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 69
+    images:
+      - url: "https://assets.realclear.com/images/52/524768.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "oqRFj+i0al1ANcMWcKFbtwGFeVGV9aC1GwQqO0kwMQ5jxp7hVXFlq3DsY0ZccpYbWG0HM/aQv4RzBouOd8RYxV4kVFzpX2d05gg+vI/Eyv37zll2S++tS0DCyRI7RUb0/s4EnwKHv6u1hB5pgF/4+6Gx5KBbdXMJfxzjm1vm5p9vaJLif2kHu43x9eeCSXBl9m/hE0KHM6AR+Asj174UZ+F8WunzS1wih1GABfFVxaH5l8eriKHBZo/oa/8vwEk2brNTCjhOy8gLcHqsH8S5KhmTdpNNk30unxh1s3X6HJ3U6Q405GvERHg9J6BoZS1E4gbIWVgf1yiXhvvrm5SpXHIy4UcopLuT1Wu9KhJwwT0=;i8kWVlGuiIuE/6hmsyFcTQ=="
 ---

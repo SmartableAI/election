@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-california-gop-ballot-boxes-f
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-california-gop-ballot-boxes-fight-hard.amp"
 type: article
 quality: 161
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "California Republicans refuse to remove ballot boxes, slam state's $35 million 'Team Biden' contract"
-    excerpt: "The California Republican Party responded Monday to criticism over unofficial ballot drop-off boxes in counties with highly competitive U.S. House races, arguing that state law allows “ballot harvesting,” and also slamming a $35 million contract the state’s top election official awarded to a “Team Biden”"
-    publishedDateTime: 2020-10-13T13:28:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCbnv6AVC9k/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract"
-    ampWebUrl: "https://www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-republicans-unofficial-ballot-boxes-35-million-team-biden-contract.amp"
+  - title: "Trump campaign, Nevada GOP threaten to sue Clark County over attempts to ‘obstruct’ election observation"
+    excerpt: "The campaign and state Republicans claim that observers have been banned from certain areas where ballots are handled."
+    publishedDateTime: 2020-10-21T23:17:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vh2lB-nwdTU/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-nevada-gop-complaint-clark-county-ballot-observation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 173
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/10/340/340/headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52e7c038-31e9-41ca-b866-bc48a70fc439/b27add3f-3eae-4088-beb9-957a3678512b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "WP+/sLwWYWU8IWQS4zrc20VrYVB1M18lwxW3+33wrer03S30HpXyCj4VkW5L4xN9d2jpxQsn3zuzu6vww3bi2rndV0wkd535uG3T8ws77cKEY1c9OHRFzs8UK2uKuAFONUN3pCprNIHCAQPIEcQfM+eBnTOdRZRlGMPWzX8AJfjsZQkEaifKihX9z7tdf4clMbMGePjcCp9RHnitywxVa8RTCzfo4sQyTtAIAv/DvIfdwD0imC148lZP40fxoB1zHorLG4JCNy11QJ4/p2zyIMbqZ/m+1zteNF+LYkRcMxlUWUzCHfS76txXahynxEQGgXAr444ypwD1S8Q3A1JvkBwu+jsJ+HRePU8B3EFKK/M=;3DCYycT6R9rcUFrKMIZiow=="

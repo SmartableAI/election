@@ -111,6 +111,38 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "A debate question for Trump: Keep interrupting or let Biden talk?"
+    excerpt: "President Donald Trump has done little in the way of formal preparation ahead of Thursday's face-off with former Vice President Joe Biden."
+    publishedDateTime: 2020-10-21T22:02:00Z
+    webUrl: "https://abcnews.go.com/Politics/debate-question-trump-interrupting-biden-talk/story?id=73744192"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/debate-question-trump-interrupting-biden-talk/story?id=73744192"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/debate-question-trump-interrupting-biden-talk/story?id=73744192"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-debate-1-gty-ps-200929_1601429206441_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump And Biden Will Debate Suburbs’ Future To Persuade Women Voters"
+    excerpt: "Trump's pleas to suburban women to \"please like me\" aren't working. Women voters don't fear Biden's policies and are angry at the continuing pandemic, closed schools, and inadequate economic and family assistance."
+    publishedDateTime: 2020-10-22T00:58:00Z
+    webUrl: "https://www.forbes.com/sites/richardmcgahey/2020/10/21/trump-and-biden-will-debate-suburbs-future-to-persuade-women-voters/"
+    ampWebUrl: "https://www.forbes.com/sites/richardmcgahey/2020/10/21/trump-and-biden-will-debate-suburbs-future-to-persuade-women-voters/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardmcgahey/2020/10/21/trump-and-biden-will-debate-suburbs-future-to-persuade-women-voters/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 140
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90cf5d30eb97973c797dee%2F0x0.jpg"
+        width: 1200
+        height: 833
+        isCached: true
   - title: "Trump Falsely Claims Biden Would Take Away Most Americans’ Healthcare"
     excerpt: "President Donald Trump has repeatedly suggested in recent weeks that most Americans would lose their private health insurance if Joe Biden is elected president, an inaccurate claim that attempts to link Biden to single-payer healthcare even though the former vice president has consistently criticized the idea."
     publishedDateTime: 2020-10-21T17:18:00Z
@@ -126,6 +158,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f906b4b26a4c7fe56555d76%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2900%26cropY1%3D147%26cropY2%3D1779"
         width: 1199
         height: 675
+        isCached: true
+  - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
+    excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
+    publishedDateTime: 2020-10-22T00:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-battlegrounds-poll-idUKKBN276324"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN276324"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN276324"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538368029&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1VV"
+        width: 942
+        height: 545
         isCached: true
   - title: "Donald Trump has 87% chance of winning the election, stock market researcher says"
     excerpt: "History suggests the rise of the stock market in the past three years bodes well for the president's reelection chances."
@@ -366,6 +414,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FRLZVLQSMYI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "If Trump wins, here are the states that will deliver him the victory"
+    excerpt: "Over 41 million early and mail votes have already been cast and Trump is lagging in four swing states that are critical to his reelection chances."
+    publishedDateTime: 2020-10-21T22:07:00Z
+    webUrl: "https://www.businessinsider.com/here-are-the-states-that-will-deliver-trump-a-victory-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/here-are-the-states-that-will-deliver-trump-a-victory-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/here-are-the-states-that-will-deliver-trump-a-victory-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 125
+    images:
+      - url: "https://i.insider.com/5f909edf212113001874006c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "No debate, but dueling town halls on Thursday: President Trump to appear on NBC at same time rival Joe Biden appears on ABC"
     excerpt: "President Donald Trump will appear at a town hall event hosted by NBC News’ Savannah Guthrie on Thursday at 8 p.m. EST., the network announced Wednesday."
@@ -1330,6 +1394,6 @@ related:
         height: 682
         isCached: true
 
-secured: "JYC3RK0NmLuwDAB+/UIHNx07NcrL+iemJnS80+KaeSg/ywC3LsyDwK7IWSJtCUfSFS6jLdGVnyjIvqK3gINjzMdXAsUQXfNKiYy6R5EpXU4d+eg1m9ElN2HB2c+Y8MJEku1+T69ShsiECUhlRJYlHKN3fBjyvFqS0n/ZgpaFDOFHN5Sj1N1SUh2+yaouhgQc78Khc/1HYBZ2c0k7IE6cp4fKx4PJoHIP2cE8wlNpfYyGvGlVjHvrHh3NrTL+Ui+mid27BMLZSqvbDlId7LRKkmwTLAFeV8dLuJYIGccLM36BvmR+uOrZvzAWjIhSloqeX6Sk8uC5DzVUQ0W7UrXRNpY8CozWtl7SVOA9daQi/O0=;4fCyVZ4S94EBPgzAESNLTQ=="
+secured: "vW7jQAeW30vLBEnAcPCCyzUO0OK05SKVJWJt+VcoWaSRQGi1Of+PAwjUcfS0EeWd1Z9vOC6CkQS5euz1V7hnMYks8QBpwFTrxcdfL6mVigA94pPzf8P7L+91YjFDZNeElEQu2rI9cAyK13bS2cS0VXYyPmqM9Ik3DEm1gpTjPf7ICfOwYMj/RbHDYHUHPWJjdwDzZS/B0GmclnxyUu1bEMYOcmFFzVSagT7uGa8Q2s65y0vSArXvpxGtaGMXYRCq4qGIXoeqnoPdwN65+qvm/bjZxSHQxiYlYBeO/2G329JO0vvvUGpDh0pot81FPQdmupRcxZk3ZCCEbBLiTJmYW5P3OVSHE1mOG4TgZtP+jJCUZZQT4t22DRBRZ7lJAfZ1P3Fc5GCCuH40HI/DED6EkQl9PanHGAWehT6Nv5VTkGy4sBAKoJ4FJ1dACpstbpP1LSGDIWKjDOyV+IadIOtz+vZQyM8f+rFXLJ+ctMfX+rrPHsCHNevmybEZgP/7FN4L9hMe1uLyL261dohOtlqw2w==;HDt2WcsGEhtp8V9P+OtQxg=="
 ---
 

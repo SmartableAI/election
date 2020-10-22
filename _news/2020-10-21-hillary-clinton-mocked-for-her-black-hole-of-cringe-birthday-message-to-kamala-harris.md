@@ -110,6 +110,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump downplays Obama's return to campaign trail, says he was 'all over the place' for Hillary Clinton"
+    excerpt: "Trump: “There is nobody that campaigned harder for “Crooked” Hillary Clinton than Obama.\""
+    publishedDateTime: 2020-10-22T01:36:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rsRA27UQlM8/trump-obama-return-campaign-speech-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-obama-return-campaign-speech-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-obama-return-campaign-speech-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5c7f9ff4-65e4-4165-9aa4-5efe700736a5/b71debd9-2387-43bb-9caa-7bf76d7cb037/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Miami Herald defends Kamala Harris from comparison to Clinton, claims she's been labeled the 'Black Hilary'"
     excerpt: "The Miami Herald published an article on Sunday defending Democratic vice presidential candidate Sen. Kamala Harris, D-Calif., from comparisons to Hillary Clinton, after the hashtag #BlackHillary began trending on social media,"
     publishedDateTime: 2020-10-11T22:42:00Z

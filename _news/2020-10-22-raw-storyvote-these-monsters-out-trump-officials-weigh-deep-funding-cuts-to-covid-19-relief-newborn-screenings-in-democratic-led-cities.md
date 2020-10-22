@@ -287,6 +287,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Obama Tears Into Trump for ‘Completely Screwing Up’ Covid Response: ‘Tweeting at the Television Doesn’t Fix Things’"
+    excerpt: "Former President Barack Obama tore into President Donald Trump's failures on the coronavirus during a drive-in rally for Joe Biden in Philadelphia Wednesday."
+    publishedDateTime: 2020-10-21T22:41:00Z
+    webUrl: "https://www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/"
+    ampWebUrl: "https://www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 53
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/obama-2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fAnEme8E/bIF71+zQfxun1Y1BcSQCl3C7Uup0FEROMFm5LWHN5S/+/M4w2iEC/mIc6kZyGEBxCc7zJRKx8FbR0rVOZxPFYc12P6fSl8cifO5SyIpy9erVX338gnmn9fDU/ppnfVCzhOA+pJAXWOPk1ndOuhevq1XZyMwprzy9N1JZmRt8Ptf7iy0j4LDYoYFIDPClVMyR/utcltyoq2anUZREBeQwCiARtXm//usjJNaDUgvpIt75TRU5VtqgQAoDdhiPMWkYkg53C7jaCjW+wHq0fv+JUXPiCeHvVS134VIDQUvSFcyaGJLgj/jGxe3YHI1pkloRGYn6fbx5E2HawfhHgttSXwaIuIDIApNbrw=;qk0nhcLEYb6cnwYBvc7Dww=="
 ---

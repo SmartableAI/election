@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
 type: article
 quality: 175
-heat: 216
+heat: 215
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/cnn-polls-pennsylvania-florida/index.html"
 type: article
 quality: 174
-heat: 174
+heat: 175
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "RDjopkIVuCK/AQkEFZeaBhFMRv7mCMfxW7vAQl/+Dim53zjn7eyzo7TYUDft6ZPlMfXLhVYXXNYH8MLN0Jj3birSdR08YIm+aIpM3Ypx8S70m9hlKPUtM0Iu4SjdaDO71pMTq5e1fyWREHrHhfCtx+FYgXlxU2vt0kp9xe1FC7+GPK1UI/3jOYV5sTvsaZopSM1881mz3mE/EACAjyCFtZPWhP73cbMQlzt+klbQ+S6tsh2/q04chOx5ChoBXp74+dSsUSupQTTw+xBHxB+les7g5tQRbsN28t3Mm4zy0OKfdjXFU2007WC206li+7mvClErjZXJyG+f4ycy7/CHPN6BlP0YAwz3PGHTqT+xNHY=;vDRVZLQabMZ8UlFMYINA2Q=="
+secured: "pwtq+9RfM5eChh/gPNaDld28Ou3DdzwsfNQrxTuWq6kttbGxyM+miQmEyrUgdy1KSQeFk6kkG1q14rjJNKFl/IVSfeiftyNyph2vSB/Aq3j+k0W1Jrj4IiIfMqqmD3n2ZjMUWxlDRuN40z0e9UoHM2O5h6oRz/gOBH+PUSMbtDq33wTDHohsapjQduIIZ2DLzCtDx2hkXXXxT4HihJagr8h8svv7J3LWHqTkDIdKfLnO77DgvaNLTuCP6P8LFBySUHBv17EzGkSbjZXA6CQsEyo1TI0kHPMZ7Qp8BJhOzj3CCbeM6ldBKJNKQITbI22C0GYNF1EB+sEVZmRXcL/C8kaKXQAjROirWQoqQGOf1cQ=;Z/lEfNOSrKyhh9Mx6kW5xQ=="
 ---
 

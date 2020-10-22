@@ -115,6 +115,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE: Vice President Mike Pence delivers remarks in Cincinnati"
+    excerpt: "Vice President Mike Pence is making a campaign stop in Cincinnati on Wednesday.Pence is hosting a Make America Great Again event at Lunken Airport.Doors opened at 4 p.m. and Pence"
+    publishedDateTime: 2020-10-21T21:58:00Z
+    webUrl: "https://www.wlwt.com/article/live-vice-president-mike-pence-delivers-remarks-in-cincinnati/34441966"
+    ampWebUrl: "https://www.wlwt.com/amp/article/live-vice-president-mike-pence-delivers-remarks-in-cincinnati/34441966"
+    cdnAmpWebUrl: "https://www-wlwt-com.cdn.ampproject.org/c/s/www.wlwt.com/amp/article/live-vice-president-mike-pence-delivers-remarks-in-cincinnati/34441966"
+    type: article
+    provider:
+      name: WLWT
+      domain: wlwt.com
+    quality: 75
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pence-visit-1534269090.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 600
+        height: 338
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z
@@ -199,6 +215,20 @@ related:
       - url: "https://cdn.citybeat.com/files/base/scomm/cb/image/2020/10/16x9/960w/864px_Mike_Pence_official_Vice_Presidential_portrait.5f8e12a4955ae.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "VP Mike Pence speaks from Lunken Airport in Cincinnati"
+    excerpt: "VP Mike Pence speaks from Lunken Airport in Cincinnati"
+    publishedDateTime: 2020-10-22T00:36:00Z
+    webUrl: "https://www.fox19.com/video/2020/10/21/vp-mike-pence-speaks-lunken-airport-cincinnati-2/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 55
+    images:
+      - url: "https://www.fox19.com/resizer/_Nn_Ob3VKukizy52QAXFEBeL06o=/1200x0/d1acid63ghtydj.cloudfront.net/10-22-2020/t_1e45801ada51478b9733a50d519920ee_name_file_1280x720_2000_v3_1_.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Joe Biden Attends Cincinnati Voter Mobilization Event"
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."

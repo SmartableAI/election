@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Obama slams Trump at Biden rally, warns voters ‘we can’t be complacent'"
+    excerpt: "Former President Barack Obama took aim at his successor in the White House on Wednesday as he campaigned in-person for the first time for Democratic presidential nominee Joe Biden."
+    publishedDateTime: 2020-10-22T01:02:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dEmTC1Bf_4o/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/obama-slams-trump-warns-voters-we-cant-be-complacent-in-first-campaign-trail-appearance-for-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/12/340/340/Allie_Raffa-e1545230310214.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "NJ Attorney General is suing Trump administration over Tweet"
     excerpt: "New Jersey Attorney General Gurbir Grewal is suing the Trump administration over claims the president made earlier this year on social media, regarding low-income housing and its connection to rises in crime. "
     publishedDateTime: 2020-10-20T04:55:37Z

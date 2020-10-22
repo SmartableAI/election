@@ -2,19 +2,19 @@
 category: news
 title: "Maryland man arrested after threatening to kidnap, kill Joe Biden and Kamala Harris"
 excerpt: "A Maryland man charged with threatening to kidnap and kill Democratic presidential nominee Joe Biden and his running mate Kamala Harris has been arrested, according to published reports citing law enforcement officials."
-publishedDateTime: 2020-10-21T20:36:00Z
-originalUrl: "https://www.freep.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
-webUrl: "https://www.freep.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
-ampWebUrl: "https://amp.freep.com/amp/3717293001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3717293001"
+publishedDateTime: 2020-10-21T20:25:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
+webUrl: "https://www.azcentral.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3717293001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3717293001"
 type: article
 quality: 84
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -5836,13 +5836,13 @@ related:
   - title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
     excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
     publishedDateTime: 2020-10-21T18:16:00Z
-    webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 82
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998035001/5311e374-a278-448f-b4da-bfe3b9da93b7/fd59144c-ce2b-4a62-8319-43988abba87a/1280x720/match/image.jpg"
@@ -7740,6 +7740,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "aTjsQCQthgN1xxABXLcABoEu9PYNgshN+J7dvJZ82tfpZ3SN6g94EdeFL3EHu3G0iInthKM1jrNLZ7wRxx7xv9FR3IFbOXUjBpjtQVf0XIHJpMV9LMBGeXvgTjxU5punNAgl3dkGN69oqLXGtGRtdHypFxAKI2fm+NafWzUoyPgRna5XTDgG3QDic2x+IbCXceLQerNjAOVyu86DMxbOdmJ7bVy6I994AzBNJdM6x+xa/RS+NuK5BRrcRHUVuEiqn/VCH1ikNSrqVao8TMam6tOdTMHZEeLgQyFpM1PdJlrs8ceTXXQEgFd0PLkTpsMVAyTXi92g2Fu/VXGN1KFVkvvAlRZMMGUUZTOqnn07llM=;qASjbx1zbVRla/jbmRxhcg=="
+secured: "AZRCw2zk02S6arGvdsx2BJ4baAG5EvcD0E+LKSVNG122a1U8eez4yyaojfzvqWlElkxYNsKg1gx+5fHuGfDYAcJ4ptfzBWyFTgNWJHQS6CTHyuIcBpZExa+OiLRVtkk2suPi118t5UGF88dyUitJXbXIeUVQ2K6YtXJaVyWs7bsHmm1ZZVrpR129bPrdduvtQmMx73m6PLUA668oFLR0T1lyNGEG4CxY+/nFBMsxiG4G4JeKMhxr3wziP4Yd9npIGPCkxWAz3yGi7aMMHoJPGJ1zlCmfbuX01urgzQocI1/aKYeIKykTnzacoqr4dTNrhpePMrNYy3IN7aXe51m6iDG5IOlnHGGhkDIgCVj8eSQ=;QMnAqZHpH392jeZKaGlfvQ=="
 ---
 

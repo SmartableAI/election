@@ -320,6 +320,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fox News Poll: Trump gains in Ohio, Biden ahead in Michigan, Pennsylvania, Wisconsin"
+    excerpt: "Donald Trump holds a narrow advantage in Ohio, while voters in the three battleground states that put him over the top in 2016 prefer Joe Biden"
+    publishedDateTime: 2020-10-21T22:01:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zqXVRJCXz-M/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin"
+    ampWebUrl: "https://www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fox-news-poll-trump-gains-in-ohio-biden-ahead-in-michigan-pennsylvania-wisconsin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/dana-blanton-master.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "'Mistake' for Trump to focus so much on Hunter Biden allegations, says Mike Huckabee"
     excerpt: "President Trump leading with the Hunter Biden email story at the next presidential debate \"is a mistake,\" Fox News contributor Mike Huckabee said on Wednesday."
     publishedDateTime: 2020-10-21T17:00:06Z
@@ -855,6 +871,6 @@ related:
         height: 500
         isCached: true
 
-secured: "KhPQoLN5uRh7W+jgmGApIyu2UZ04dGWJ7pbnCvyx507hhxbLnexerGJJPCsIHneG+r17dWsrK0HQi1tadkd8ms2ixNMUTzu0mrKoEYGYpn90TLXqOti1j1n/2cfrkjkzsMaFjR59BX5xAwVLxZSyQgmv/KeeTxF16ZhGxEJpjOlmwRH/wjt6MMNDsAGEqCmnYjmoWyBEn2MV/XuQRvEUrqHNT5V2VQgT91KeFI8U+YgAD6Yqw9iIDQ8Um/a848xnMDLPxaspQw7IcyeAr8PHgszX83ofWLLZYdu+In1CQRaI+yHiTRt5l7tFBmOtKTSv9HXBrGYPjKGVBRR+/3xRtW/XB/qtCe2lqufC9X256qY=;RQVwo/Vu94GH1xk7YDMD7A=="
+secured: "bCzrvRIFni/50KurPgqFhbHMEu56dX3618atKLOV886LUuHUrH+ayYoK39BcAKKD295Gp0UJrhifkEM0edaQdhXRzIVOoIR80FsMbDgjGxz86YFL6jL8cBPf3qZPStNDAnPzIlJvMyb0lnI5BBeYcmTtNaILhG5lAv/0/ha7Rok2Hx9gplUJ6MjmppjOaxVpKpyZ+zx6WQ1MPnT3mhaFkWY8ZGFRGZWucr5yTDDAFditRRmCt/7FxFDPfa8GWT3UyWuVwWmpUcJCHz+6chQugJ78nmwTNLJ47Z0kHlwzmfkmB2WhyUFSW/CYG3Fjo4K35MhoGhzQB1PN8DTkX//q7udQ4rs81aEhLoeR4YvpHCA=;p0S3SS/tkQX0WkWtg/eZkQ=="
 ---
 

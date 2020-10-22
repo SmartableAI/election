@@ -272,6 +272,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Laptop connected to Hunter Biden linked to FBI money laundering probe"
+    excerpt: "The FBI’s subpoena of a laptop and hard drive purportedly belonging to Hunter Biden came in connection with a money laundering investigation in late 2019, according to documents obtained by Fox News and verified by multiple federal law enforcement officials who reviewed them. "
+    publishedDateTime: 2020-10-22T01:08:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUeMnEB3iH4/laptop-hunter-biden-linked-fbi-money-laundering-probe"
+    ampWebUrl: "https://www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laptop-hunter-biden-linked-fbi-money-laundering-probe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "AOC, House progressives call for ban on corporate executives in a Biden cabinet"
     excerpt: "House progressives and liberal groups Friday called for corporate lobbyists and executives to be shut out from a Biden Administration, drawing a clear line on what they expect if Democrats win the election."
     publishedDateTime: 2020-10-16T16:59:20Z
@@ -765,6 +781,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Man arrested for allegedly threatening to kidnap and execute Joe Biden and Kamala Harris"
+    excerpt: "A Maryland man has been arrested after authorities said he threatened to torture and kill Joe Biden and Kamala Harris."
+    publishedDateTime: 2020-10-21T20:30:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/man-arrested-for-allegedly-threatening-to-kidnap-and-execute-joe-biden-and-kamala-harris?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 91
+    images:
+      - url: "https://mediadc.brightspotcdn.com/dims4/default/31cc251/2147483647/strip/true/crop/398x593+0+0/resize/398x593!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fbb%2Fe3%2F0d25c54448cb8d616a290b8e33bc%2Freed-1.png"
+        width: 398
+        height: 593
+        isCached: true
   - title: "How the Biden Campaign Responded to the Hunter Email Story"
     excerpt: "The Biden campaign pushed back on the New York Post's bombshell report Wednesday about Hunter’s recovered emails, which include one allegedly showing that he arranged a meeting between his father"
     publishedDateTime: 2020-10-15T11:30:00Z
@@ -998,6 +1030,6 @@ related:
       domain: realclearpolitics.com
     quality: 33
 
-secured: "60NR4c3fd4Zi4cVXYM8BMUrTj33Abt/5+UyGr+xS5syxI3zJXJEkoYzQLRTieF7ScKrGIYJWFYEM+xjvgPDNZLcLNmwlBAXGBs355LXANEQ9tsK4Bz3qZQNY3DxUeroyAtRMUGQlx92UFqcPvKmJovzDNw2UHgiNZHxprWXkhk5K0dGhfmhkVIFKU1duUrwaoga/lmxz1xp/Q4HwTJn4Fmk0EQpENmCLHo6BRxNDmcbrhLoznleM86yfXI0bG1SNkKspqiYd7wXGdILLyQz3K8mx7LpxlzGFVv8KkJdrR5s2agCil7VZREPNKDn55I6HkLF43ruDo5jT8jm4wUcFfaF61HoYMyHcu+WuYC2BSRo=;K3OWERASt6S1Pd9cs9otzg=="
+secured: "VafeDd1djP7qiv/XZ5tD12bGhuhFTn6ovAONdju4qapye9aD0dcI8HYe5tTPlqnshiEQJqSRO+hPxPYe4i1QkF5py0LXft+GO3yKi6srT6Je/7I/junuB+LtoZ2sI+FUMkfGRWGNx0bm3QUo8qDM18dyGW/uXIWwKO/HzEKB2fSOTUWr69258zpnTEM4gDUyCbx+3wEGLpTb/XoUz0rnB+sgWq4A3nzoDVWR9tD7ETNudChd3vnCxJjQO1Qu0DKVzlKKLe81QIkWuPusRlAdjhM4OEmKecxVS0VsOFlkPh2NkVIPVqhAmjZyWg/uDQVZaAfY58L7uy3CtN3mgqxc77umJ44mVZhIAs6taZKjI2qw0DDiK2btZgUZyqrmRCV+LfaLon6PYrTFJ6Ey+m5D6RdDHxdlfMMjKzB7vccpN/fU1/cox++M8xtcSEg+uYN/CTIdCC3wmecSKP92XYSY0lyi+wgwGiYOF2qfLGeoRhFw7kdOuUlK3KwwPuUymbhXSPlYDq80tXk/dJEVpauVLg==;OSUwoZ/wl9iI8T5zTdBflA=="
 ---
 

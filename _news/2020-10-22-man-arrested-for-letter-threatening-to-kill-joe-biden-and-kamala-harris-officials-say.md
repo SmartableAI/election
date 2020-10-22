@@ -3,18 +3,18 @@ category: news
 title: "Man arrested for letter threatening to kill Joe Biden and Kamala Harris, officials say"
 excerpt: "A Maryland man was arrested and charged after federal officials said he left a letter on the doorstep of a Frederick home threatening the lives of former Vice President Joe Biden and Sen. Kamala Harris."
 publishedDateTime: 2020-10-21T18:16:00Z
-originalUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
-webUrl: "https://www.thenewstribune.com/news/nation-world/national/article246610668.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/nation-world/national/article246610668.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/nation-world/national/article246610668.html"
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article246610668.html"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246610668.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246610668.html"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -5707,14 +5707,14 @@ related:
         isCached: true
   - title: "Maryland man arrested after threatening to kidnap, kill Joe Biden and Kamala Harris"
     excerpt: "A Maryland man charged with threatening to kidnap and kill Democratic presidential nominee Joe Biden and his running mate Kamala Harris has been arrested, according to published reports citing law enforcement officials."
-    publishedDateTime: 2020-10-21T20:36:00Z
-    webUrl: "https://www.freep.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
-    ampWebUrl: "https://amp.freep.com/amp/3717293001"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3717293001"
+    publishedDateTime: 2020-10-21T20:25:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2020/10/21/man-arrested-after-threatening-kill-joe-biden-and-kamala-harris/3717293001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3717293001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3717293001"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: The Arizona Republic
+      domain: azcentral.com
     quality: 84
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/08/12/USAT/86e41e32-558e-4f2b-b835-7d9703b77fda-desk_thumb.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
@@ -7740,6 +7740,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "cb/XwdFMGNpnVZR0MjAf7fhyKBU6puN781z8LEDiesa52R0G21KkguAG35GYAkj+GgRB354VsOu4pPT4xrAz1uSs/37LePMi8WV5mW7XTNZfUcfOFPKj46E87lS6K7rn6zPyv3quzsjYZne9RyD3tHHnYC1uxrPpVOA5YmLFWJL83/hQM/9GOH1ilr91/xFnrlWjqMCUfzv6khoppJqcS6g5fAxpFHpbfSNeqvQDLVCIpOvimeorLnrpdQCD5BnGxh5/THjaSz4W/rU7AVmJbH96ZdZxDA9KHdIm9FySW1qxcRbJKBDo6OgRMXqktgJvam1J1EjHag5PBodDwTYKukdeHB894eVyzd205RERuAY=;+h3ogkLPCzAoZBxoHOqrZg=="
+secured: "/VrqnDyvEXnHVJa/DbYKz5zQdvuqd0wtrHHaHOPnHGR8Ge32YQv4ivHMHqS/8KLnzJQVaQCuPmOuQXu04qwsuRQNFvOd3bm5UtAjpQZTE0A1Te+4vXX0ukR12UtoK4l42bV0+PnkS/Qo4vD5hgr+MTaPgw8zQCzKd6daTlA9bOz1H7xqajEezIQEj702dbrNhwscEfEdXvvVG4IJO2JotssjY/OM3vIk+bKeN2InG9zhm77Cr76UwKUqbUzC1nWxroTCYy5WY3BVwdOZBifx/8q2M0MntEhEtlB+XD5QYdvHPan9u8+3tmZmj8cEB5NA2dO+Cydlbg1axGmHk8Te0SHTGPBnD+LfdvOlen4vXu4AuQLcIi4E6xFeWBx5i3AxHcxwka18yZTrA/EcXQqvTl5A6/5xpQ39PklJyIZr7zuldUBJ04In1Z7J5QEe5WThN/VttDbbul2HurI4AK35sWdrb6907YB8PWc/LPVoS2PMiE78kBsPcWbvhS5/k1lD999hGMbUASXUpPYCdwM95w==;5Upb2mZL/JwxKFSfq3L7uQ=="
 ---
 

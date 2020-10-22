@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama delivers a blistering rebuke of Trump in his return to the campaign trail"
+    excerpt: "Former President Barack Obama delivered an often-incredulous and blistering account of his successor's first four years in office on Wednesday in Philadelphia, making his most direct attacks on President Donald Trump to date both on substance and on a personal level.\n    \n"
+    publishedDateTime: 2020-10-21T23:32:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HIMoqJObzjw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/obama-philadelphia-speech-biden-harris-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/obama-philadelphia-speech-biden-harris-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021180850-02-obama-pa-1021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fearing a loss, GOP senators keep distance from Trump and begin to ponder party's future"
     excerpt: "For four years, Republican senators have shrugged off President Donald Trump's constant string of controversies and scandals. They've ignored his Twitter outbursts and endless grievances. And they've avoided confronting him, while voting mostly in lockstep for his agenda and protecting him during his"
     publishedDateTime: 2020-10-20T19:12:30Z
@@ -319,6 +335,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/25/magazine/25mag-screenland/25mag-screenland-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Obama skewers Trump as former president hits campaign trail"
+    excerpt: "Former President Barack Obama unloaded on his successor Wednesday in Philadelphia as Democrats’ biggest luminary hit the campaign trail in support of his vice president. Obama lambasted Trump’s handling of the coronavirus pandemic,"
+    publishedDateTime: 2020-10-22T00:05:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/barack-obama-skewers-trump-431047"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/barack-obama-skewers-trump-431047"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/barack-obama-skewers-trump-431047"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/59/09/4c7906714252a1aec7cd085f42e0/201021-obama-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump personnel office weighs asking appointees to offer their resignations"
     excerpt: "The potential plan is angering officials who fear it will cause chaos in their personal lives as they plot their next moves."
