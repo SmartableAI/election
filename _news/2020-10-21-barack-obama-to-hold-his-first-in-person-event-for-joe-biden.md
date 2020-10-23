@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-pers
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/barack-obama-hold-person-event-biden-73729555"
 type: article
 quality: 125
-heat: 425
+heat: 465
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is America ready to return to the Obama-Biden foreign policy?"
+    excerpt: "The Obama/Biden reset policy with Russia backfired as Russia annexed Crimea from Ukraine in 2014 and entered the Syria civil war in 2015,"
+    publishedDateTime: 2020-10-23T19:30:00Z
+    webUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy"
+    ampWebUrl: "https://thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/522480-is-america-ready-to-return-to-the-obama-biden-foreign-policy?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/obamabarack_110916getty.jpg"
+        width: 646
+        height: 363
+        isCached: true
   - title: "Biden reiterates in Philadelphia town hall that he does not want to ban fracking"
     excerpt: "Democratic presidential contender and former Vice President Joe Biden on Thursday again said he won't ban fracking"
     publishedDateTime: 2020-10-16T02:54:00Z
@@ -154,6 +170,22 @@ related:
     quality: 69
     images:
       - url: "https://cdn.abcotvs.com/dip/images/7107373_101720-wpvi-vote-2020-7am-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Why Florida’s Treasure Coast could back Joe Biden but elect a Republican to Congress"
+    excerpt: "While Florida’s Treasure Coast backed Donald Trump in 2016, four years later Joe Biden has a chance to flip it. But the partisan dynamics at the top of the ticket in what was once Florida’s most competitive congressional district aren’t likely to topple incumbent Republican Rep."
+    publishedDateTime: 2020-10-23T19:27:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/election/article246650928.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/election/article246650928.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/election/article246650928.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/c7732d23-e2ae-4dbb-b1fc-f59e3e74be61/f2e1bfc2-be57-4900-b234-0d0dbced69fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

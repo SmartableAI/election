@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cbs-news-john-dickerson-hunter-biden-laptop-news-cycle.amp"
 type: article
 quality: 121
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Gregg Jarrett: Hunter Biden laptop scandal — Even if Joe Biden wins, there's no way out now"
+    excerpt: "In the Hunter Biden laptop scandal, the unresolved and trenchant questions are: how much did Joe Biden know and to what extent was he involved"
+    publishedDateTime: 2020-10-23T18:43:00Z
+    webUrl: "https://www.foxnews.com/opinion/hunter-biden-joe-biden-gregg-jarrett"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 105
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "9hPwq4JUOWNjBACBhlVFaO3JhmS4F3vQDrY9p0LP4iZkxgQcPFdFB2kCp2UlW6Y3H+6K83vCHnuETIdWC5rC6BJqgtwxdylgUTWgoBTxvShj1EiddNYd9vaJtxbxR/g06GoHk0rTsnNzF/SzzmpUz2C9Nn+LWtiS9WfJbUVV2bkbHFGCqOTQVZGiLCkK37fUaKTImvrg+VjQZyD5Sfw+HMQ2eU3E4nz1eAoWm/9jUN8Zna88jgAPIW0yVhzCdk72ifpMcb46WsOnYtraurjXdnEvFwyJ3HhabZ7yX/yInKpgqNz09yri3Lav1hCUi/PQLwMpq4gbaUU8G/dn6MfSVinH3gUbKjTeKlXchAkCiro=;n6+s7MFSputaDhC9iay0+g=="
 ---

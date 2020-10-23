@@ -267,6 +267,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Mike Pence rally in Lakeland: What to know about the vice president's visit"
+    excerpt: "Vice President Mike Pence will hold a \"Make America Great Again Victory Rally\" Saturday afternoon at Lakeland Linder International Airport. This will be the first official rally in Polk by either presidential campaign in the 2020 election. Pence made an ..."
+    publishedDateTime: 2020-10-23T19:36:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/elections/2020/10/23/mike-pence-rally-lakeland-what-know-vice-presidents-visit/3743864001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3743864001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3743864001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/NLED/db4b2e3c-9890-4f25-9471-2df0ec376927-AP20297635071213.jpg?auto=webp&crop=4971,2796,x0,y127&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
     excerpt: "President Donald Trump and Democrat Joe Biden clash in their final debate, Vice President Mike Pence is returning to battleground Ohio."
     publishedDateTime: 2020-10-22T12:31:00Z

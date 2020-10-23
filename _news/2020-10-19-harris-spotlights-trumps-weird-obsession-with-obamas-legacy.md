@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20295013465553.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump claims Biden disrespected Obama with immigration answer at debate"
+    excerpt: "President Trump claimed that Joe Biden was “very disrespectful” to his former running mate President Obama. "
+    publishedDateTime: 2020-10-23T19:42:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCugzB21ueE/trump-biden-disrespected-obama-immigration-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-disrespected-obama-immigration-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-disrespected-obama-immigration-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297083042965-e1603466224157.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden vs. Trump: ObamaCare, access to health care in rural US impacts voters' decisions"
     excerpt: "With only days until the 2020 presidential election, the topic of health care access, insurance and affordability is front and center in the minds of millions of Americans."

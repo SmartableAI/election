@@ -1084,6 +1084,15 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 33
+  - title: "Senator Kamala Harris Remarks to Spelman College Students in Atlanta, Georgia"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to students at Spelman College in Atlanta, Georgia. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee,"
+    publishedDateTime: 2020-10-23T19:04:00Z
+    webUrl: "https://www.c-span.org/video/?477326-1/senator-kamala-harris-remarks-spelman-college-students-atlanta-georgia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 32
 
 secured: "guQzvrZc7UAUB2b33clXPP//ZaEQ4s8hUclZmgVMzMOVEK4d/DZ9sVOMwlAflP2vFw0BTLsrQB+yBLFBEoVDxTmaA+zGmGt7aHmwZ8RvlYPebl+/UfI5w0YkMgPf1c/yy5NRVGK9eYwZrml04rm2qQGLsnRVdA3NDP05p2QpQ6nPuFOF7iTSs2OPU0CH4nQqyQGZFpnGtTH17Ti0NuCqzkmX6Fc3+nXS+JZYHp885EpFPPaVJ26rN1eXDw8J2Qke30/FViozRJP30H/Uv2WIZVMVBn2eKGHucwVS+enOvTwQZto+l45riXlx1TUWbKIg70hQihksyptTvp5VERzTZtDbGDw5t3YMoxVwMh46jbl6alTcXV7gR1dh5HnIwxaphfG8Pn85dFU+qwDHHQBRyL6TRZaX7f9kApx0epR0l+7ttyiwbczfAME1khjLTKDrFB79+P9Iko3h+5gXfX8tiIVp2DNEXsnlekvpaI3rjH4ZrY1umsm/7ppwNcOfEErHaro6x9Ny10mDGAL+X8nXFQ==;EmwHUQ84M/1bRp4Pik/UhA=="
 ---

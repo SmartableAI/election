@@ -251,6 +251,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mike Pence rally in Lakeland: What to know about the vice president's visit"
+    excerpt: "Vice President Mike Pence will hold a \"Make America Great Again Victory Rally\" Saturday afternoon at Lakeland Linder International Airport. This will be the first official rally in Polk by either presidential campaign in the 2020 election. Pence made an ..."
+    publishedDateTime: 2020-10-23T19:36:00Z
+    webUrl: "https://www.theledger.com/story/news/politics/elections/2020/10/23/mike-pence-rally-lakeland-what-know-vice-presidents-visit/3743864001/"
+    ampWebUrl: "https://amp.theledger.com/amp/3743864001"
+    cdnAmpWebUrl: "https://amp-theledger-com.cdn.ampproject.org/c/s/amp.theledger.com/amp/3743864001"
+    type: article
+    provider:
+      name: The Ledger
+      domain: theledger.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/NLED/db4b2e3c-9890-4f25-9471-2df0ec376927-AP20297635071213.jpg?auto=webp&crop=4971,2796,x0,y127&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z
@@ -394,6 +410,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "rsoa2MITdsQ9/HMeM4FzBEsUNZCYATCIv80ofjXyXD9uWwNRbygfonXvDpglWzOrrAksLimHWT19HbCUl73dUTuunn2btUKUFZfJp9iLfHmvjOnYYXAvuzqGSaK/lP6Ut3xTT8VJHtCzt5UKDLH11X4TH/dJdSFuFMC8Qy8FLIgUUMCkpmMxf+/6jrYTmyBz2cHbalz4TWE9l6yDBc7juvLFdlCQnXFEd0k/bPA6TBTUQIluKYhnMOhHguD+zCqn9YSHmxY7s7E+9S5HL35h+XlHB9KuJDKsY3/b8MN3zv1cUsSkuj1+xmI8yhAAUcmIRcVe6ClgYOOLg7oRHXbn9036jxIylaZv44cYml2C5Bg=;lL1xXmfWpoNcX8a/iIiWfw=="
+secured: "9u3QtYh9vlxAUine8/ShR+JQ4tjjUsyBe7x2ghFYTtrvPnU0KBm5cltauAYs5hzqF+jo403DGx17SmmWI9iHPYLhhOoNId/dnyc4Ohp8kOodd8MWwscsuYb6bun1rA3zI0eDPI/WxU5HZ9NYmUFsNYhS2x0bcjMr9sfGsj482pTxjRnw+l3hjQvs1gLZY+wCm7nHByUzmKFUKekHe4ZVinrsZ7EkZ6NRreCADcO9bDwSNho9z5bSe2B5578b0E4neP0Eg/7kdBaiBmmhZIIOYrfS3yjbjPn8dFUEdBCeg2cWAqpwZ/T4mJgZJsIFWQTTdrDNnIM1Plgfv1jDjMhfMAePZ/52VBgrnqPj2INZvIhk59nJxqitgP0MwI2PfuKQG5uBcDl3wSSXqhfaPFghUhdaThwF+cRXkoCMwVGWNLH6+vPrzGez7UqjXucoolY0a+CRjLl+BPJN4hhEK/y2z1POKbkxbkKW+5Z4T2B6ISQGVJoFxxXbR+LaS+YYTx4oyD7ARoMBLEdARdZRN0FdRA==;cf3zn6Xivra7k6beDnOxOg=="
 ---
 

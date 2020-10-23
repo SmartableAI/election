@@ -73,6 +73,20 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "VP Mike Pence headed back to Minnesota as Trump campaign revives TV ads"
+    excerpt: "Vice President Mike Pence will return to Minnesota on Monday as President Donald Trump’s campaign bolsters its advertising on state airwaves after pulling back in recent weeks. Pence is scheduled to hold a rally at the regional airport in Hibbing ..."
+    publishedDateTime: 2020-10-23T17:53:00Z
+    webUrl: "https://www.startribune.com/vp-mike-pence-headed-back-to-minnesota-as-trump-campaign-revives-tv-ads/572845222/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 70
+    images:
+      - url: "https://stmedia.stimg.co/ows_9babe6fb-0a7f-420a-9f48-8d32d2cfad36.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hrg/GaevpfVnVO+MEdhlJ58R/dvd8pFPUJl3hmoebgjpcwvT2fyfdKrHbFDkIFIfCrwM7IiF/vNkGXJckp4xRC+ZTQdAUOSaynOqba6/m1SUHFOk0+YK9tII6J93kOvEzdP0qHO4I/oEVivjLOKyjnosay4+f/IqifPztB/MyP8AgDMGdrKbS5TWHgMivjV4PX0H4iR1CAwWmZioWOQsVxg0RctVV3b/SKDJ6p3xot8efKWOZf341e/gj95o+ux8tDkWjkMewgArPr/IgbEBOrs3hr8aLwu1YtH7fuKlGHd8JzVV58WHOeM8yGou4l9tkCpQ7Y59yYdacFsk6V36glyMw19/VXCd4ObLWf49o+8=;ukybcO3r/kvtqxcPDk7NeQ=="
 ---

@@ -215,6 +215,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "The Latest: Trump Says Final Debate Went 'Really Well'"
+    excerpt: "President Donald Trump is reviewing his debate against Democrat Joe Biden, saying he thought it went “really well” and was an “exciting night.”."
+    publishedDateTime: 2020-10-23T19:33:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-23/the-latest-harris-insists-biden-wont-ban-fracking?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ZmaagPekFMafMKy6o6ecNO7QCEEK+RVT+qoHgKi4yNDmMCes4S+MY15i/aU/f5w6vFWYeltfFbI7TB9g1WqRBJ1dXh03Yhj9njn7m1wY3Abcaq+OmjEAhKUVVDEOe4mrkXmBRKqpSFjkHhloAYR+iH9gn20Xo3iA9Zo1YsK1t+G6eovBlFWhERtTgiXcONrB3tHeiX4JIxdUAWSgF9rj4mfTwXKAO2fGdVJLggetznq601Q+pmATyBT3sa+UlPtEHFdK0xNV2VPsQIZo+m28spVQ9b4YZapS0NJQ+f4awT1SYX/iY/tLabgGPMB3J/q/4Vt4xIQsI6PGbUPusvTlesEFWJeRK60E8YU4pem0sBwPkqGxkJRmpe78hLIZsEkaHR7SINiICYE9s9onebUDEmXph4+Bz0QYX9F7zslkgU0/PCqJJVDtwj+cwPuXbIOHRfQjROKZohjis4ChVZGke2dTysbe9hdWVdq8RLKgFQWV9rZ2xB4VF5HjGGpdRImsmtKQmVIglylglXlEel6JHg==;WgzyEZHglNQY77DDBwljIw=="
 ---

@@ -896,6 +896,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, Biden lawyer up, brace for White House legal battle"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden’s campaigns are assembling armies of powerful lawyers as they prepare for the possibility that the race for the White House is decided not at the"
+    publishedDateTime: 2020-10-23T14:23:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-biden-lawyer-up-brace-for-white-house-legal-battle/2020/10/23/345f9730-1539-11eb-a258-614acf2b906d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-biden-lawyer-up-brace-for-white-house-legal-battle/2020/10/23/345f9730-1539-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-biden-lawyer-up-brace-for-white-house-legal-battle/2020/10/23/345f9730-1539-11eb-a258-614acf2b906d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -991,6 +1007,22 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_rally_101920getty_budowsky.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Final presidential Trump-Biden debate scores more than 55 million viewers"
+    excerpt: "The final number for the first debate on Sept. 29 was 73.1 million viewers. Second presidential debates typically draw a smaller audience than the first."
+    publishedDateTime: 2020-10-23T19:42:00Z
+    webUrl: "https://www.chicagotribune.com/entertainment/tv/ct-ent-trump-biden-debate-ratings-20201023-m6lc2qpqgvh3dpzehxr6vhux5u-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/entertainment/tv/ct-ent-trump-biden-debate-ratings-20201023-m6lc2qpqgvh3dpzehxr6vhux5u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/tv/ct-ent-trump-biden-debate-ratings-20201023-m6lc2qpqgvh3dpzehxr6vhux5u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 139
+    images:
+      - url: "https://www.chicagotribune.com/resizer/PI3dVKsd9tflWm4agQJAmqFiKBc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZEFBGORMZP2C4Z2NXIDNWJCC4I.aspx"
+        width: 1200
+        height: 805
         isCached: true
   - title: "Biden and Trump Tied in Key State of Iowa, Gender Divide Widest of All Time"
     excerpt: "Trump holds a 21 percent advantage over Biden among Iowa men, 57 to 36 percent. But Biden holds a 20 percent lead over Trump among women voters, 57 to 37 percent."
@@ -2305,6 +2337,20 @@ related:
     quality: 119
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/02/66c18c8f-f33e-43eb-b4f3-072f8a93b410/thumbnail/1200x630/68dfe38371d3afb5bef37872cb4dff62/cbsn-fusion-joe-biden-trump-covid-19-praying-for-recovery-thumbnail-558707-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump and Biden return to campaign trail after final presidential debate"
+    excerpt: "President Trump and Joe Biden are back on the campaign trail following last night's final presidential debate. CBSN political reporter Caitlin Huey-Burns joined us from Nashville to break it down."
+    publishedDateTime: 2020-10-23T19:45:00Z
+    webUrl: "https://www.cbsnews.com/video/trump-and-biden-return-to-campaign-trail-after-final-presidential-debate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/23/4b72fb2f-be24-43a4-b5af-a36cf8af22ad/thumbnail/1200x630/74cd19511a4afc70948fabb3e3c2325b/cbsn-fusion-trump-and-biden-return-to-campaign-trail-after-final-presidential-debate-thumbnail-573213-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -1,0 +1,53 @@
+---
+category: news
+title: "Biden's early White House transition plans negotiate pressure from both ends of political spectrum"
+excerpt: "Democratic presidential nominee Joe Biden has not yet been elected to the office, but he's planning his transition as though he has been. "
+publishedDateTime: 2020-10-23T19:24:44Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RYo8m8FLfzU/joe-biden-transition-woes-come-from-both-sides-of-the-aisle"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RYo8m8FLfzU/joe-biden-transition-woes-come-from-both-sides-of-the-aisle"
+ampWebUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
+type: article
+quality: 161
+heat: 181
+published: true
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/640/320/AP19236040982936.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
+
+related:
+  - title: "Biden's Amtrak trips prompt House GOP questions on costs, impact on railroad operations"
+    excerpt: "Some House Republicans on Tuesday requested an inquiry into Democratic presidential nominee Joe Biden’s use of Amtrak during his campaign."
+    publishedDateTime: 2020-10-22T09:16:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-amtrak-trips-prompt-house-gop-questions-on-costs-impact-on-railroad-operations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+
+secured: "iysqIfMxGpqYb5NDiYyq+ke/1/PqzlL4rg3np1fhooymBoaY5ioayclx4wPYaKX+3rnDEjVlNLwizmhpjeQPSneinCfPShKOkZgiWWw59qP8WrDQAXUw85lIhn0MmBZKga9H/W8VZ7iBIpND/UnCJuxOzIyvj+lgPMHWw05I0isSjrqFKC5s5DuUNafQ47NahXHot3KUmiBX9x3+BpoNsfGTVELqNEQ3eL6CUoS/c8ec5asogdcMc7D10fuz1pxbQ+JLkFx8lU3hzJrffkYNwrV1+HH6KwgWBGNHdgEBMLjCMb95Q2I3CaDtZRV6pDYTdD+8/tGRGZ3Tleu+2PkwTIG741J2TjLvJMwJCA/VXvc=;zMB0bOKZtS9jCYP3rZAL7g=="
+---
+

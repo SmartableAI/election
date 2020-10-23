@@ -157,6 +157,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How Trump's Foreign Policy Confounds the Old Guard"
+    excerpt: "President Donald Trump's approach to foreign policy has been subjected to harsh criticism since before he took office. His emphasis on criticizing past American interventions in foreign conflicts and his decision to employ the term He didn't dismiss the claims,"
+    publishedDateTime: 2020-10-23T19:42:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/23/how_trumps_foreign_policy_confounds_the_old_guard_527245.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/52/525015_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "DdACnf7mdlAHSSYWdxv6JM4fyR8c8ip9iPCcqMxfPGrOx9hOnMaPno1IQz39QTYtXf322nbi5t+RTWpi2KH4Fnw/qTFN4BlcSHNaxdzLlidii3sJNQp5DoVoYNaD4pM0NcdloqNshY6rjwQZiOKHWbAXWt5M8qlxps7ZiqWGyr88mNgvzZ+tYcsbBNLnLSNiOI1rt/ru74M0JJnX4nWqUxenbKwOrBFeqPdVe+uuSqMN/MbqvrBMGfDMm6NpVRhPxcFJZVfGbRu0oBtpLgfd5gJ2GA8o/Ll2TTNqwm2N3A4t3Zfq7jMGuTx+XW9VqNqQ+fRwT+b4PkdgXMWSBUvHCY/oyXKCh4ebXqcabHLzewg=;724tMjEIT/4Bflgp7u09sA=="
 ---
