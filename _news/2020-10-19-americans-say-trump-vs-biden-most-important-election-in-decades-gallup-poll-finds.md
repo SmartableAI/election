@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1619
+heat: 1659
 published: true
 
 provider:
@@ -476,6 +476,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03cb1b2-34d0-400f-aef3-8c5579dcb03d/078e74c4-17eb-4448-bd04-e155eba2d17d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump heads to Florida as Biden stumps in Delaware following final presidential debate"
+    excerpt: "With the November election just 11 days away and the final presidential debate over, President Trump and Democratic challenger Joe Biden have entered the final stretch of the 2020 campaign."
+    publishedDateTime: 2020-10-23T11:39:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GrSOnrzGX0I/trump-biden-florida-delaware-campaign-trail"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-florida-delaware-campaign-trail.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-florida-delaware-campaign-trail.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b43e550-96b1-4cb8-a50d-ef262c0b526a/6c7be324-7c90-4ba3-ac98-bbcd58e14bb1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -1062,6 +1078,22 @@ related:
       - url: "https://media.townhall.com/townhall/reu/ha/2018/252/4a2e7c97-7d4f-4565-a80d-d2dbb95ac05e.jpg"
         width: 650
         height: 340
+        isCached: true
+  - title: "Questions Joe Biden Should Answer About Hunter's Emails"
+    excerpt: "First, Joe Biden's Praetorian Guard in the media argued that the New York Post's Hunter Biden scoop was \"Russian disinformation.\" The DOJ, FBI and DNI each publicly disagreed. No one in the Biden camp has denied the veracity of a single email thus far."
+    publishedDateTime: 2020-10-23T11:26:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2020/10/23/questions_joe_biden_should_answer_about_hunters_emails_144516.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/52/524942_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "RNC Chair Asks Some Important Questions Ahead of Biden's Town Hall Event"
     excerpt: "Democratic candidate Joe Biden will appear for a town hall event on ABC this evening, and RNC Chair Ronna McDaniel has a few questions for the candidate the media has"

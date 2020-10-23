@@ -59,21 +59,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Debate: Biden says he'd create 'Bidencare' if Supreme Court strikes down Affordable Care Act"
-    excerpt: "Former Vice President Joe Biden cast aside attacks from President Donald Trump over what health care could look like under a Democratic president."
-    publishedDateTime: 2020-10-23T06:41:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-bidencare-replace-aca-if-supreme-court-strikes-down/3737892001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3737892001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3737892001"
+  - title: "The most illuminating answer Biden gave in his town hall"
+    excerpt: "One answer during his Thursday night town hall appearance crystallized why former vice president Joe Biden may be exactly the right person for this moment in American history. It wasn’t a particularly eloquent answer."
+    publishedDateTime: 2020-10-16T19:05:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-most-illuminating-answer-biden-gave-in-his-town-hall/2020/10/16/8b69f0d4-0fc1-11eb-8a35-237ef1eb2ef7_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-most-illuminating-answer-biden-gave-in-his-town-hall/2020/10/16/8b69f0d4-0fc1-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-most-illuminating-answer-biden-gave-in-his-town-hall/2020/10/16/8b69f0d4-0fc1-11eb-8a35-237ef1eb2ef7_story.html?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/083659c1-add0-4dbf-a87f-92cb969eb738-XXX__AN55804.JPG?auto=webp&crop=4660,2621,x0,y55&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3D6WNQP3MI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work"
     excerpt: "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate."
@@ -152,38 +152,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/03/25/savannah-guthrie-twitter.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Savannah Guthrie Is Being Praised for How She Handled Donald Trump at NBC’s Town Hall"
-    excerpt: "Today show cohost Savannah Guthrie moderated a town hall with President Donald Trump on NBC October 15 and is garnering a fair amount of praise for her handling of the situation, which once again saw POTUS avoiding answering questions and going off on rambling tangents."
-    publishedDateTime: 2020-10-16T23:35:00Z
-    webUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall"
-    ampWebUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
-    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
-    type: article
-    provider:
-      name: Glamour
-      domain: glamour.com
-    quality: 68
-    images:
-      - url: "https://media.glamour.com/photos/5f899352a927d2469afbc1dc/master/pass/GettyImages-1208231958.jpg"
-        width: 3000
-        height: 2000
-        isCached: true
-  - title: "‘Donald Trump Town Hall with Savannah Guthrie’ free live stream: How to watch online without cable"
-    excerpt: "Donald Trump is attending a Town Hall event hosted by Savannah Guthrie on Thursday, Oct. 15 at 8 p.m. There are several ways to watch with a free live stream."
-    publishedDateTime: 2020-10-15T20:59:00Z
-    webUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html"
-    ampWebUrl: "https://www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/tv/2020/10/donald-trump-town-hall-with-savannah-guthrie-free-live-stream-how-to-watch-online-without-cable.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 61
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ONOBVVRKZZCKRHGETSQ7SZCHCQ.jpg"
-        width: 3591
-        height: 2394
         isCached: true
   - title: "Savannah Guthrie Praised by 'Today' Show Team After President Donald Trump's Controversial Town Hall"
     excerpt: "Savannah Guthrie moderated a controversial town hall with the President Donald Trump on Thursday, and her Today show team is supporting her all the way. The journalist received praise from co-hosts Hoda Kotb and Al Rocker for how she handled her conversation with Trump,"

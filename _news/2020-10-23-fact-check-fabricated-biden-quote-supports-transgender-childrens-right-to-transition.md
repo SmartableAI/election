@@ -31,218 +31,214 @@ images:
     isCached: true
 
 related:
-  - title: "Column: Big Tech slaps The New York Post to shield Joe Biden"
-    excerpt: "We were always told it would come from the right, but now we see that it comes from Big Tech, which has interfered with a news organization’s coverage of a Joe Biden campaign issue. Social media giants Twitter and Facebook on Wednesday limited the sharing on their platforms of a story from The New York Post about questionable business dealings of Joe Biden’s son Hunter in Ukraine."
-    publishedDateTime: 2020-10-16T10:06:00Z
-    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
+  - title: "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'"
+    excerpt: "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\""
+    publishedDateTime: 2020-10-15T20:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
     images:
-      - url: "https://www.chicagotribune.com/resizer/P2hqGpWjNVftSNcBqXQMwth4Lbs=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H2RW7ZNH7DBS77JXMSLEEFLGFI.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
         width: 1200
-        height: 797
+        height: 675
         isCached: true
-  - title: "Joe Biden pressed whether he would take a COVID-19 vaccine"
-    excerpt: "Joe Biden says his mandate on vaccine distribution and consumption would depend on the \"nature\" of it and how it would be distributed."
-    publishedDateTime: 2020-10-16T01:14:00Z
-    webUrl: "https://abcnews.go.com/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/joe-biden-pressed-covid-19-vaccine/story?id=73645662"
+  - title: "AP FACT CHECK: Trump's shaky claims on virus, Dem misfires"
+    excerpt: "Impatient to return to the campaign trail, President Donald Trump made a series of claims over the weekend about his health and the course of the pandemic"
+    publishedDateTime: 2020-10-12T16:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/201015_abc_biden_th_Q2_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "How come we never talk about Joe Biden’s health care plan?"
-    excerpt: "We're preoccupied with Trump's attack on Obamacare, but Biden's plan could produce the most intense fight of his presidency."
-    publishedDateTime: 2020-10-22T19:31:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/how-come-we-never-talk-about-joe-bidens-health-care-plan/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NFPHNGAROEI6XISYMFFM6K4QNU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Progressives blast Biden plan to form panel on Supreme Court reform"
-    excerpt: "Progressive groups are blasting Democratic nominee Joe Biden’s plan to form a commission to study judiciary reforms and whether justices should be added to the Supreme Court."
-    publishedDateTime: 2020-10-22T19:37:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522319-progressives-blast-biden-plan-to-form-panel-on-supreme-court-reform?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
-    excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
-    publishedDateTime: 2020-10-22T13:30:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522209-biden-proposes-commission-to-study-supreme-court-if-elected?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden, squeezed on the Supreme Court, promises a commission to consider changes"
-    excerpt: "Joe Biden tells CBS’s “60 Minutes” that he would create a bipartisan commission to tackle a system that’s “out of whack.” He hopes to thread the needle between liberals demanding more justices and swing voters who show little interest in that idea."
-    publishedDateTime: 2020-10-23T01:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZCQ57AUOUI6XOSC5RVFQCBW5U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Barr should appoint a special counsel to investigate the Hunter Biden allegations"
-    excerpt: "White House Chief of Staff Mark Meadows confirmed to me Wednesday morning that he has discussed the need for such a special counsel with President Trump."
-    publishedDateTime: 2020-10-22T15:28:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/barr-should-appoint-special-counsel-investigate-hunter-biden-allegations/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WNDO7AQOQQI6XNAERUPGOXWHAE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
-    excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
-    publishedDateTime: 2020-10-15T10:14:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/15/joe-biden-supreme-court-federalist-society-amy-barrett-column/3640970001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3640970001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3640970001"
+  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
+    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
+    publishedDateTime: 2020-10-16T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 118
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/47a2b65a-0c84-45b1-af3d-3dc09e5f4d28-GTY_1229033254.jpg?auto=webp&crop=5297,2980,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
-    excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
-    publishedDateTime: 2020-10-16T21:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/16/hunter-biden-fbi-probing-if-new-york-post-story-tied-russia/3684342001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3684342001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3684342001"
+  - title: "Fact-check: Is Chris Pratt a Donald Trump Supporter?"
+    excerpt: "The 'Guardians of the Galaxy' star began trending over the weekend due to a poll posted on social media which asked Twitter users to ditch one of the famous Chris A-listers; Chris Pine, Chris Evans, Chris Hemsworth and Chris Pratt."
+    publishedDateTime: 2020-10-19T12:48:00Z
+    webUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240"
+    ampWebUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1620141/chris-pratt.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-17T16:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 109
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/a7e1e9c5-cc73-4ba8-94df-4a843104fb36-GTY_1228757046.jpg?auto=webp&crop=4648,2615,x0,y28&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Impatient Democrats want Biden to do more in Texas"
-    excerpt: "The whispers about Texas are picking up again."
-    publishedDateTime: 2020-10-16T19:22:00Z
-    webUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impatient-democrats-want-biden-to-do-more-in-texas-2020-10?amp"
+  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
+    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
+    publishedDateTime: 2020-10-16T02:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "How Joe Biden - yes, Joe Biden - could revolutionize American politics"
-    excerpt: "Joe Biden may be running a safe and centrist campaign, but beneath the methodical calm is a genuinely innovative ideological appeal. The former vice president is updating and bringing back the long-dormant Democratic tradition of labor liberalism."
-    publishedDateTime: 2020-10-17T10:07:00Z
-    webUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html"
-    ampWebUrl: "https://www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/opinion/hc-op-dionne-biden-could-revolutionize-politics-1019-20201017-llx7jdpdrnfidj2gt5sdx4kyeq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Hartford Courant
-      domain: courant.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://www.courant.com/resizer/62fGLeSoK1c5uUgQIK_MTD4KU9o=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/W3IYWI2YR5HIZOY2R6EEU5HYOU.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 799
+        height: 675
         isCached: true
-  - title: "CAL THOMAS: Can Joe Biden be trusted?"
-    excerpt: "It was President Richard Nixon who said in the midst of the enveloping Watergate scandal: “People have got to know whether or not their president is a crook. Well, I’m"
-    publishedDateTime: 2020-10-21T06:00:00Z
-    webUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.html"
-    ampWebUrl: "https://starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
-    cdnAmpWebUrl: "https://starherald-com.cdn.ampproject.org/c/s/starherald.com/opinion/columnists/syndicated/cal-thomas-can-joe-biden-be-trusted/article_d4711f9c-4939-5627-8d7c-f75ea66edb2f.amp.html"
+  - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
+    excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/22/fact-check-post-misquotes-joe-biden-court-packing/3713908001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713908001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713908001"
     type: article
     provider:
-      name: Scottsbluff Star Herald
-      domain: starherald.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Biden leveraged $1B in aid to Ukraine to oust corrupt prosecutor, not to help his son"
+    excerpt: "Despite a Senate GOP investigation that found no wrongdoing by Joe Biden on foreign policy in Ukraine, claims to the contrary continue to circulate."
+    publishedDateTime: 2020-10-21T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/21/fact-check-joe-biden-leveraged-ukraine-aid-oust-corrupt-prosecutor/5991434002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991434002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991434002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/27/USAT/dadf01aa-eb70-4664-bb52-7c5b64523d76-EPA_FILE_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.JPG?auto=webp&crop=3499,1969,x0,y219&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
+    excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
+    publishedDateTime: 2020-10-15T12:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vaccine/fact-check-the-recovery-of-trump-and-johnson-from-covid-19-does-not-prove-vaccines-are-unnecessary-idUSKBN2701GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537572406&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0WX"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
+    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
+    publishedDateTime: 2020-10-09T17:43:00Z
+    webUrl: "https://heavy.com/news/biden-taxes/"
+    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
     quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/starherald.com/content/tncms/assets/v3/editorial/c/4c/c4c50070-b312-11e8-a5a2-574bfb12c724/5b9322aedfd4a.image.jpg"
-        width: 900
-        height: 1217
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
-  - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
-    excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
-    publishedDateTime: 2020-10-16T18:22:00Z
-    webUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting"
-    ampWebUrl: "https://www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/news/20201016/in-context-look-behind-ny-post-headline-about-joe-biden-and-ukraine-meeting?template=ampart"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-19T15:48:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
     type: article
     provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 68
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
     images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=NEWS&ArtNo=201019455&Ref=AR"
-        width: 3543
-        height: 2364
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
-    excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."
-    publishedDateTime: 2020-10-22T09:43:00Z
-    webUrl: "https://www.cnsnews.com/article/national/susan-jones/ny-post-ex-biden-business-partner-says-joe-was-family-deal-make"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-20T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
     type: article
     provider:
-      name: CNSNews.com
-      domain: cnsnews.com
-    quality: 23
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
+    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
+    publishedDateTime: 2020-10-12T00:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 65
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "jZr01FVvzbugSKm2+SsPbAeGMCJfcJKg4MXB9tuqO3kLmj6UW/c56QyqqV90Ul3wL3Uqjo+33TcJnk5Q+OZn3v9bkl/Hc91HKIoOupy4LX+YUATkA35vtYlN7i3QAvHMlqDsWsuzd84L7dDkvpN1dwxbiRt+7sZ2IlFiu9zQkfgy2OgpfI1r1hz0Ws+RtxKwiOOxE1ms7FuviF5R+bYhogyvaPbotLDCJwN/RUI//ll7DkjfCi2He3E5BBlRZU/6BWaGsQ7sfq3nTeZezzkHs2b3ubaA0P/Yl9VjawJdOc33pf0rH5+noHd1IUJQTE8FVHxF89VEhitctoeZDkHNGN4u8KqIybrHsrTXpht3g6o=;AxLNDtQHDwyni/ewmYHP3g=="
 ---

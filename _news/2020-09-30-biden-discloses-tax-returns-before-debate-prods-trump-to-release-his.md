@@ -799,6 +799,54 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "In final Trump-Biden showdown, less chaos but plenty of clashes"
+    excerpt: "U.S. President Donald Trump and Democratic challenger Joe Biden offered sharply contrasting views on the still-raging coronavirus pandemic at Thursday's final presidential debate, seeking to persuade the few remaining undecided voters 12 days before their Nov."
+    publishedDateTime: 2020-10-23T11:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate/with-time-running-out-trump-again-forced-to-defend-coronavirus-approach-at-debate-idUSKBN2770HB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2770HB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2770HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538543577&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M05P"
+        width: 826
+        height: 545
+        isCached: true
+  - title: "The Note: Trump still searching for Biden who isn’t"
+    excerpt: "President Donald Trump still needs his Joe Biden to be someone and something that he isn't quite -- or hasn't yet been."
+    publishedDateTime: 2020-10-23T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-searching-biden-isnt/story?id=73769850"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-searching-biden-isnt/story?id=73769850"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-searching-biden-isnt/story?id=73769850"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-biden-debate-nashville-49-gty-jc-201022_1603424586139_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump-Biden clash over climate change adds to cloud over oil stocks"
+    excerpt: "U.S. Democratic presidential challenger Joe Biden's clean energy plans put the spotlight on oil companies and stocks during Thursday's final debate with President Donald Trump, even though crude oil futures fell very marginally after the statements."
+    publishedDateTime: 2020-10-23T10:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-climate-change/trump-biden-clash-over-climate-oil-industry-in-final-debate-idUSKBN2780HW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780HW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780HW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538584814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0AY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump, Biden clash over climate, oil industry in final debate"
     excerpt: "Republican President Donald Trump and Democratic challenger Joe Biden clashed over the country's response to climate change in their final presidential debate on Thursday, which included a stark disagreement over the future of the oil industry."
     publishedDateTime: 2020-10-23T05:02:00Z
@@ -814,6 +862,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538558962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0AY"
         width: 817
         height: 545
+        isCached: true
+  - title: "Trump, Biden fight over the raging virus, climate and race"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus in Thursday’s final 2020 debate"
+    publishedDateTime: 2020-10-23T08:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_17ff38b208ca43e9ac9dca1524bf4814_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
@@ -3216,22 +3280,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/67/60/20151357/19/375x250.jpg"
         width: 375
         height: 249
-        isCached: true
-  - title: "Trump, Biden fight over the raging virus, climate and race"
-    excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus during the campaign's closing debate, largely shelving the rancor that overshadowed their previous face-off in favor of a more substantive exchange that highlighted their vastly different approaches to the major domestic and foreign challenges facing the nation."
-    publishedDateTime: 2020-10-23T05:10:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 90
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"

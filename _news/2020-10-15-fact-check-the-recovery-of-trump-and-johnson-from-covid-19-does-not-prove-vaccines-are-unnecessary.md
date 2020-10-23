@@ -31,373 +31,213 @@ images:
     isCached: true
 
 related:
-  - title: "The Note: Trump's Fauci feud keeps campaign focus on COVID-19"
-    excerpt: "It takes head-spinning logic to cast Trump's feud with Fauci as a winning campaign message for an incumbent who is down in the polls. The campaign is continuing to air ads that feature Fauci -- out of context -- appearing to applaud the president's decisions on COVID-19,"
-    publishedDateTime: 2020-10-20T10:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trumps-fauci-feud-campaign-focus-covid-19/story?id=73698469"
+  - title: "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'"
+    excerpt: "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\""
+    publishedDateTime: 2020-10-15T20:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 126
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AP FACT CHECK: Trump's shaky claims on virus, Dem misfires"
+    excerpt: "Impatient to return to the campaign trail, President Donald Trump made a series of claims over the weekend about his health and the course of the pandemic"
+    publishedDateTime: 2020-10-12T16:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump-2-rt-er-201019_1603145312156_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
-    excerpt: "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov."
-    publishedDateTime: 2020-10-20T08:27:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2742AD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
+  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
+    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
+    publishedDateTime: 2020-10-16T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Fact-check: Is Chris Pratt a Donald Trump Supporter?"
+    excerpt: "The 'Guardians of the Galaxy' star began trending over the weekend due to a poll posted on social media which asked Twitter users to ditch one of the famous Chris A-listers; Chris Pine, Chris Evans, Chris Hemsworth and Chris Pratt."
+    publishedDateTime: 2020-10-19T12:48:00Z
+    webUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240"
+    ampWebUrl: "https://www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chris-pratt-trump-supporter-politics-fact-check-1540240?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1620141/chris-pratt.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-17T16:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
+    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
+    publishedDateTime: 2020-10-16T02:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Fabricated Biden quote supports transgender children’s right to transition"
+    excerpt: "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,"
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772PM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538074915&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1MX"
-        width: 799
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7"
+        width: 818
         height: 545
         isCached: true
-  - title: "Melania Trump says son Barron tested positive for COVID-19, had no symptoms"
-    excerpt: "Melania Trump said Wednesday that after an initial negative test, 14-year-old Barron Trump tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T05:39:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2020/10/14/melania-trump-says-son-barron-trump-tested-positive-covid-19/3656978001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3656978001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656978001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Melania Trump stays off campaign trail, citing lingering cough from COVID-19"
-    excerpt: "Her chief of staff, Stephanie Grisham, said Tuesday that Mrs. Trump continues to feel better every day following her recent recovery from COVID-19 but has a lingering cough."
-    publishedDateTime: 2020-10-20T17:37:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-melania-trump-coronavirus-20201020-hhfvw3ckvrccdom3wjankn466a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 122
-    images:
-      - url: "https://www.chicagotribune.com/resizer/bDNI1j5k_1DG5GgrK4SLSz0RhxQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZCKJEZH6IBC6NLSLAG2Z4VMMCM.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump reportedly slammed Anthony Fauci as 'a disaster' on a campaign phone call"
-    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said on a call, CNN reported. \"People are tired of hearing Fauci and all these idiots.\""
-    publishedDateTime: 2020-10-20T00:34:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 121
-    images:
-      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump says he's not tested for COVID-19 every day but claims he is 'tested a lot'"
-    excerpt: "\"I was really tested a lot after I got rid of it because they wanted to make sure,\" Trump said on Fox Business. \"I said, 'How many tests do I have to take?'\""
-    publishedDateTime: 2020-10-16T01:47:00Z
-    webUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-says-hes-not-tested-for-coronavirus-every-day-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f8861b42a400c0019debd93?width=1200&format=jpeg"
-        width: 911
-        height: 455
-        isCached: true
-  - title: "2020 election live updates: Amy Coney Barrett hearings enter question phase; Trump settles into campaigning post-COVID"
-    excerpt: "Just one more debate, a Supreme Court confirmation fight and millions of votes to go before we know who will be in the White House come Jan. 20."
-    publishedDateTime: 2020-10-13T12:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/13/2020-election-updates-barrett-hearings-continue-trump-campaigns/5969097002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5969097002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5969097002"
+  - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
+    excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/22/fact-check-post-misquotes-joe-biden-court-packing/3713908001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713908001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713908001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/cb0f835d-0cd4-4d8c-89a8-98dd45a0198f-AFP_8RX7E8.jpg?auto=webp&crop=5471,3078,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "President Trump reportedly slammed Anthony Fauci as \"a disaster\" in a campaign phone call"
-    excerpt: "\"If I listened to him, we'd have 500,000 deaths,\" Trump said. \"People are saying whatever. Just leave us alone.\""
-    publishedDateTime: 2020-10-19T16:25:00Z
-    webUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/anthony-fauci-donald-trump-coronavirus-restrictions-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5f8db6bb9e9fe4001900a18f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump's poor COVID messaging was disservice to my brother, other young people who have died"
-    excerpt: "Mario Auguste, younger than me by three years, died less than 12 hours after being released from the emergency room to self-quarantine on July 7th. It must have been during the early morning hours, after his roommates checked on him around midnight."
-    publishedDateTime: 2020-10-19T20:12:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/voices/2020/10/19/trump-poor-covid-messaging-disservice-my-brother-others-who-have-died/3592598001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592598001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592598001"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/81a82e33-0067-48ee-84fd-3c9822bfc663-mario_costume.jpeg?auto=webp&crop=2879,1619,x0,y144&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Why do Republicans still work for Trump? Especially when the White House is a COVID hotspot?"
-    excerpt: "When I left the Republican Party and lost my network, I fell into debt. I understand financial obligations. But now Trump is putting lives at risk."
-    publishedDateTime: 2020-10-14T07:37:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/14/trump-aides-risk-lives-white-house-covid-19-hotspot-column/3639042001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3639042001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3639042001"
+  - title: "Fact check: Biden leveraged $1B in aid to Ukraine to oust corrupt prosecutor, not to help his son"
+    excerpt: "Despite a Senate GOP investigation that found no wrongdoing by Joe Biden on foreign policy in Ukraine, claims to the contrary continue to circulate."
+    publishedDateTime: 2020-10-21T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/21/fact-check-joe-biden-leveraged-ukraine-aid-oust-corrupt-prosecutor/5991434002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991434002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991434002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 114
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/13/USAT/7385b54a-975b-40ee-bde4-adc23355f2c7-AFP_AFP_8RY3ZW.jpg?auto=webp&crop=4480,2520,x226,y95&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/09/27/USAT/dadf01aa-eb70-4664-bb52-7c5b64523d76-EPA_FILE_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.JPG?auto=webp&crop=3499,1969,x0,y219&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "After Fauci said he's not surprised Trump got COVID-19, president calls top disease expert a 'disaster'"
-    excerpt: "\"I think deep down, he believes in science,\" Fauci said of Trump. \"If he didn't, he would not have entrusted his health\" to the Walter Reed doctors."
-    publishedDateTime: 2020-10-19T23:45:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/19/anthony-fauci-trump-getting-covid-19-absolutely-not-surprise/3709244001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3709244001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3709244001"
+  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
+    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
+    publishedDateTime: 2020-10-09T17:43:00Z
+    webUrl: "https://heavy.com/news/biden-taxes/"
+    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/a30fa486-0dc7-4676-b4eb-19203fc74e96-AP_APTOPIX_Virus_Outbreak_Congress_1.jpg?auto=webp&crop=2831,1592,x1,y248&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'Get the kids back to school': Donald Trump uses son's COVID-19 diagnosis to push for reopening classrooms"
-    excerpt: "Barron Trump’s positive COVID-19 test has become part of his father's push to physically reopen schools. The 14-year-old has since tested negative."
-    publishedDateTime: 2020-10-16T04:09:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-uses-barrons-coronavirus-test-push-school-reopen/3667827001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3667827001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667827001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/3dc87869-9f3f-46b6-b415-5ef7c5e0d02d-GTY_1266673748.jpg?auto=webp&crop=3706,2085,x0,y188&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
-    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
-    publishedDateTime: 2020-10-20T23:23:00Z
-    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Iowa, the 4th-highest state for rate of COVID-19 infections, surpasses 100,000 cases as Trump plans rally there this week"
-    excerpt: "As Iowa surpassed 100,000 confirmed coronavirus cases, the mayor of Des Moines expressed concern that President Trump’s rally this week could become a super-spreader event."
-    publishedDateTime: 2020-10-13T12:03:00Z
-    webUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/ct-nw-iowa-coronavirus-20201013-6iahhvulwbfdrda5jfsae33zvm-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 100
-    images:
-      - url: "https://www.chicagotribune.com/resizer/xinGqbBIwRodW65Xg19hND5rako=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/H3DGSVUANNB6BKO3FFXIS7V3UM"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Analysis: 7 takeaways from the final 2020 debate, including Trump’s continued difficulty defending his handling of COVID-19"
-    excerpt: "For Trump, the matchup was perhaps the final opportunity to change the dynamics of a race. For Biden, it was 90 minutes to solidify an apparent lead."
-    publishedDateTime: 2020-10-23T05:22:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 99
-    images:
-      - url: "https://www.chicagotribune.com/resizer/97kzAR_nGPDHLZC-Q7Oo7-zKNaE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NHEONEAJQMOIGPKKWVGV5BFYLM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Fauci says Trump campaign 'in effect harassing' him after using a clip of him praising the US COVID-19 response out of context in a campaign ad"
-    excerpt: "Dr. Anthony Fauci told CNN over the weekend that his words were taken out of context from a press conference in March and without his consent."
-    publishedDateTime: 2020-10-13T14:41:00Z
-    webUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-trump-campaign-harassment-clip-out-of-context-in-ad-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/5f850341c255d800190b97bf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
-    excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
-    publishedDateTime: 2020-10-15T09:42:00Z
-    webUrl: "https://www.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    ampWebUrl: "https://amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-uk.cdn.ampproject.org/c/s/amp.ibtimes.co.uk/donald-melania-trumps-son-barron-had-tested-positive-covid-19-1684567"
-    type: article
-    provider:
-      name: IBTimes UK
-      domain: ibtimes.co.uk
+      name: Heavy.com
+      domain: heavy.com
     quality: 75
     images:
-      - url: "https://d.ibtimes.co.uk/en/full/1600176/barron-trump-melania-trump.jpg"
-        width: 1600
-        height: 1099
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
-  - title: "Dr. Fauci Says He Is \"Absolutely Not\" Surprised Donald Trump Contracted COVID-19"
-    excerpt: "Dr. Fauci says he was 'absolutely not' surprised when Donald Trump contracted COVID-19. Dr. Anthony Fauci says he is 'absolutely not' surprised President Donald Trump tested positive for COVID-19, after seeing him not follow safety guidelines."
-    publishedDateTime: 2020-10-19T02:45:00Z
-    webUrl: "https://www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/dr-fauci-says-he-is-absolutely-not-surprised-donald-trump-contracted-covid-19-news.119843.html?_amp"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-19T15:48:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
     type: article
     provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 70
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
     images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603074875_79594a1cccfcca5b2fe1eb37a854852d.jpg/2275496a769e107a023dfcf84a404d29/1603074875_795eae86f187d7863bd541172bb14f0b.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Trump is lashing out at Fauci — and is ‘clearly in a place of desperation’: CNN political analyst"
-    excerpt: "President Donald Trump on Tuesday lashed out at Dr. Anthony Fauci after America’s top infectious disease expert objected to the Trump campaign taking his past statements out of context and using them in an election ad."
-    publishedDateTime: 2020-10-13T15:03:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-lashing-out-at-fauci-and-is-clearly-in-a-place-of-desperation-cnn-political-analyst/amp/"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-20T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/03/trumpfauci.jpeg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Melania Trump Cancels Campaign Rally Attendance Due To ‘Lingering Cough’ After COVID-19 Diagnosis"
-    excerpt: "Melania Trump decided to cancel her attendance at a campaign rally for her husband, President Donald Trump, due to a lingering cough. The POTUS and FLOTUS tested positive for coronavirus earlier this month."
-    publishedDateTime: 2020-10-21T01:37:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-cancels-campaign-rally-attendance-due-lingering-cough-after-covid-19-3065649?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Trump continues his COVID-19 blunders as he resorts to pathetic ploys to shore up his sagging image"
-    excerpt: "Jackie Anklam realized that Donald Trump was failing the American people when her father died of complications of COVID-19 in a Michigan hospital that ran short of personal protective equipment (PPE) for its workers."
-    publishedDateTime: 2020-10-13T17:55:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-continues-his-19-blunders-as-he-resorts-to-pathetic-ploys-to-shore-up-his-sagging-image/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/09/Donald-Trump-Screen-Grab-8-800x403.jpg"
-        width: 800
-        height: 403
-        isCached: true
-  - title: "Obama Tears Into Trump for ‘Completely Screwing Up’ Covid Response: ‘Tweeting at the Television Doesn’t Fix Things’"
-    excerpt: "Former President Barack Obama tore into President Donald Trump's failures on the coronavirus during a drive-in rally for Joe Biden in Philadelphia Wednesday."
-    publishedDateTime: 2020-10-21T22:41:00Z
-    webUrl: "https://www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/obama-tears-into-trump-for-completely-screwing-up-covid-response-tweeting-at-the-television-doesnt-fix-things/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 53
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/obama-2.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Raw Story‘Vote these monsters out’: Trump officials weigh deep funding cuts to COVID-19 relief, newborn screenings in Democratic-led cities"
-    excerpt: "Documents obtained by Politico reveal that the Trump White House is weighing millions of dollars in federal funding cuts to Covid-19 relief, newborn screenings, and other crucial healthcare programs in Democrat-led cities,"
-    publishedDateTime: 2020-10-21T18:11:00Z
-    webUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/vote-these-monsters-out-trump-officials-weigh-deep-funding-cuts-to-19-relief-newborn-screenings-in-democratic-led-cities/amp/"
+  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
+    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
+    publishedDateTime: 2020-10-12T00:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
     type: article
     provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 41
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 65
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/WUSA_05-17-2020_10.37.29-0002-796x430.jpg"
-        width: 796
-        height: 430
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "JKv5ClgFDGV+QhZB2xL9Up/5HIG+i8YtP3oUcBnXjdw85KB9Eej3HvOWa/XxbXGPvJDnEcrtcjCE7xP3ZU9qBb0lr8sesGSW5amleVP1lJvLH8iNFFNhDPiJyEC1y7C9MakeEH0BGbvKkWzL/N+mZHETtjz2tjxJl6ABRisKovvgM/AxmsT/FGvXHMgw8NqrcBmSU/rAfGZiLeEqIyAMudPZbc3CwdJl47GZoLDAooXd7iMPV+vgfASkOZE/Y8F25BV/o++qS/RZnAysCw/+3DJgw67uzfAZ0r0aCuj4b4ZpSVPW6veLpVJDMedy0NGIC1+OxeBm+GuEuwr2T7gX8RB2Rw4QHBw1zba9SzPh6pE=;aIrgOnmqChIjYKDkySD6yg=="

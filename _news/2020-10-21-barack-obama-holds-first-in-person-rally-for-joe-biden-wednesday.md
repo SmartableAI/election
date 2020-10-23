@@ -91,6 +91,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Democratic presidential nominee Joe Biden takes questions from voters at ABC town hall"
+    excerpt: "Joe Biden defended his record amid a wide variety of questions during his town hall on ABC. Ed O'Keefe reports."
+    publishedDateTime: 2020-10-16T12:41:00Z
+    webUrl: "https://www.cbsnews.com/video/democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 97
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/7da6feff-35ad-459e-a4f3-719d800900f6/thumbnail/1200x630/0ee680c81d086467d3596858c2b98876/cbsn-fusion-democratic-presidential-nominee-joe-biden-takes-questions-from-voters-at-abc-town-hall-thumbnail-567096-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Will Joe Biden Bring Republicans Into His Cabinet? It Seems Possible."
     excerpt: "Although appointing GOP members to top cabinet positions is a way to reward those who have endorsed Biden’s presidential candidacy, it could worry or demobilize Democratic voters who see a Biden-led party as one that neglects progressive and far-left concerns."
     publishedDateTime: 2020-10-20T23:12:00Z
@@ -106,6 +120,22 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-20T100035Z_581827861_RC2AMJ9873X7_RTRMADP_3_USA-ELECTION-ECONOMY-BIDEN%20copy.jpg"
         width: 1700
         height: 1133
+        isCached: true
+  - title: "Barack Obama Disses Donald Trump, Waka Flocka Thinks Trump Is A Better President"
+    excerpt: "The rapper weighed in with his opinion and people can't stop talking about it. Former President Barack Obama seemed as if he was having a grand time throwing jabs at President Donald Trump. Obama spoke at a drive-in rally for former Vice President Joe Biden and his running mate Kamala Harris and"
+    publishedDateTime: 2020-10-22T06:25:00Z
+    webUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html"
+    ampWebUrl: "https://www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
+    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/barack-obama-disses-donald-trump-waka-flocka-thinks-trump-is-a-better-president-news.120040.html?_amp"
+    type: article
+    provider:
+      name: HotNewHipHop
+      domain: hotnewhiphop.com
+    quality: 70
+    images:
+      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603347710_7b987da563e06aa13399873c4d3427f3.jpg/9e63961120160ca0c8457438ae717356/1603347710_25e8d958f46e8b87c3a5d322492457c0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Fmr. President Barack Obama to campaign for Joe Biden in Philadelphia on Wednesday"
     excerpt: "Former President Barack Obama will campaign for Joe Biden in Philadelphia this upcoming week. The Biden campaign announced Friday that Obama will travel to Philly on Oct. 21 to campaign on behalf of the former vice president and Senator Kamala Harris."
@@ -214,15 +244,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 47
-  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
-    publishedDateTime: 2020-10-16T13:13:00Z
-    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
 
 secured: "GqNB68MydFe/GaOXQk3OpFoYcJGgZcumbAtPyt9NKCOKeumwLuPjm5HtmklKteh1IAnz4yiQD8vyY/9AjHQmCqcU93j7pzr0cRAF2BqTCussvfTv1OPOV9mlPrSPN/QmX/1SLkt3eveBdh4s8iRfuNUReu3Oe/F9OxwP8K8ixZRzBnVa21+CI3te+wnPDdNYePZ1xRQzk3NLAQtNX+M4gfH+gH8gOFU8ST+2UdINB1A+uq/atMh1yTHGT0/0ij7BTmMRHFp4v0eOxqZkpemnNB0YFxXQf5EwFuspJmdeikRxPhK7ECB4rmwZKHmkhE4074wavB75HIBLWyQuM9p/avzJv5V1znn9W8Xsg/uas+Am5TRqbjt/HiSga/GVkOgDQvkV/VpY2Ww7hGFZhQzxMafs5TCsDsjpmHDa5NTAf4qlWYPCi5ZzvjFD8dmNuqy9fA/XY4REz8nD5SvpmzxdZexYNI0SKy6Xf8zWz2RvSFV179xCqheHfqF/o47f/LEU2ePebGq6a5vAxdiaAWzyJA==;MKOy4TfY2PecMjdFF7pTmw=="
 ---

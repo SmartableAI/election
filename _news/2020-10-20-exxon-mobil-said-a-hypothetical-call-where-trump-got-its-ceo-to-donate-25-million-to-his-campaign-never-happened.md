@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-c
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
 type: article
 quality: 103
-heat: 123
+heat: 163
 published: true
 
 provider:
@@ -44,6 +44,38 @@ related:
       - url: "https://i.insider.com/5f8603ee91aa9e001880b6a2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump Jr. is scheduled to visit in Kernersville Monday to campaign for his father"
+    excerpt: "Donald Trump Jr., the son of the Republican president, is scheduled to visit Kernersville on Monday to campaign for his father who is running for re-election."
+    publishedDateTime: 2020-10-17T22:54:00Z
+    webUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.html"
+    ampWebUrl: "https://journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    cdnAmpWebUrl: "https://journalnow-com.cdn.ampproject.org/c/s/journalnow.com/news/elections/donald-trump-jr-is-scheduled-to-visit-in-kernersville-monday-to-campaign-for-his-father/article_bb8db27c-10cb-11eb-97e7-4f9d5336cb95.amp.html"
+    type: article
+    provider:
+      name: Winston-Salem Journal
+      domain: journalnow.com
+    quality: 66
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
+    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
+    publishedDateTime: 2020-10-20T11:37:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 64
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
+        width: 800
+        height: 430
         isCached: true
 
 secured: "DRqN6kPU7uvL4jLdx/k1vrBEDl89irZd81lMl3UBLT2BcaqclP19I2r3K/98aGI6Y/8ro2a8tLzJwoYHm6DdG0sRxmuiIxjW0v9ZrAksg2kHwU0pJs5h0GmaBwiKWLVYmndqx+cpAz1PvUsGgz7cbKcYTtQnNtZxg7PBRGCxthWDxY05H72z9XWQ1RCeDBXs14jHNR4Bx1sh+kqxpOrW5HxMoDqh704dc3OjY7v944kKmojsszOsGgYVmNMbBZiC2aqrlolsM664y+OLUKWMCNo2DO2NOQDTC8nSvVZTyZS/eS1uKk+Dtfq818xwFP5GlHVvsobinyUCFWHTbdYfIWlFXVHMOdQulQ7aGVdLMOY=;tCvfBPfKYVZSUmKtsMolcw=="

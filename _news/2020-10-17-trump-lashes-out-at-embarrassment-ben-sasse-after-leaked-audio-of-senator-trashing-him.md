@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump: Nebraska Sen. Sasse 'a liability to Republican Party'"
+    excerpt: "President Donald Trump pushed back Saturday at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment\" to the state. The president's Twitter attack came after Sasse told constituents in a telephone town hall Wednesday that Trump has “flirted with white supremacists,"
+    publishedDateTime: 2020-10-17T16:39:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+        isCached: true
   - title: "Trump Lashes Back at Nebraska Sen. Sasse After Criticism"
     excerpt: "President Donald Trump is pushing back at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment” to the state."
     publishedDateTime: 2020-10-18T01:31:00Z

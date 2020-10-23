@@ -235,6 +235,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence cites importance of NH voters"
+    excerpt: "Pence ticket in the presidential election are arriving at Portsmouth International Airport at Pease Wednesday for a rally featuring Vice President Mike Pence."
+    publishedDateTime: 2020-10-23T11:18:00Z
+    webUrl: "https://www.seacoastonline.com/story/news/politics/elections/2020/10/21/supporters-gather-vice-president-mike-pence-portsmouth/6004836002/"
+    ampWebUrl: "https://amp.seacoastonline.com/amp/6004836002"
+    cdnAmpWebUrl: "https://amp-seacoastonline-com.cdn.ampproject.org/c/s/amp.seacoastonline.com/amp/6004836002"
+    type: article
+    provider:
+      name: Seacoastonline.com
+      domain: seacoastonline.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/NPOH/f0752e45-b799-47c5-87f5-2e0923d784af-NHPOR-102220-Pease_Pence1.jpg?auto=webp&crop=2820,1587,x0,y94&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
     excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
     publishedDateTime: 2020-10-22T22:33:00Z
@@ -283,17 +299,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "As COVID-19 hospitalizations set Ohio record, Vice President Mike Pence in Cincinnati today to hold rally for Trump re-election"
-    excerpt: "Attendees will be admitted to the Lunken event between 4 and 5:30 p.m. Temperature checks will be conducted and attendees will be given masks."
-    publishedDateTime: 2020-10-20T19:39:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2020/10/20/ohio-election-2020-vp-mike-pence-visits-cincinnati-stump-trump/3711735001/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/3711735001"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3711735001"
-    type: article
-    provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 57
   - title: "VP Mike Pence set to visit North Carolina Friday for campaign event"
     excerpt: "Vice President Mike Pence is set to visit North Carolina on Friday for another campaign event, WTVD reported. The event will be held at The Farm at 95 in Selma at 1:30 p.m., but doors will open at 11:30 a."
     publishedDateTime: 2020-10-16T15:08:00Z
@@ -365,6 +370,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
     webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
     type: article
     provider:
       name: C-SPAN

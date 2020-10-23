@@ -27,143 +27,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump said he 'did not like' FBI Director Wray's testimony on Russia election meddling"
-    excerpt: "In congressional testimony on Thursday, Wray said that, as in 2016, Russia remains \"very active\" in efforts to \"influence our election.\""
-    publishedDateTime: 2020-09-18T23:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/09/18/trump-attacks-fbi-director-wray-over-russia-election-testimony/5826614002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5826614002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5826614002"
+  - title: "President Trump weighing firing of FBI Director Christopher Wray after election"
+    excerpt: "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions."
+    publishedDateTime: 2020-10-23T10:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3731576001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 132
+    quality: 136
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/48a93345-7fbc-4130-a883-ca458266e10b-AP_Trump_FBI.JPG?auto=webp&crop=4199,2362,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump's Swift Response to Iran Plot Claim Contrasts With Russia Bounties"
-    excerpt: "President Donald Trump's response to allegations that Iran plotted to kill a U.S. ambassador comes as he continues to face pressure over tackling claims Russia placed bounties on troops in Afghanistan. Commenting on reports of a planned retaliatory attack ..."
-    publishedDateTime: 2020-09-15T10:00:00Z
-    webUrl: "https://www.newsweek.com/trump-iran-response-russia-bounties-1531901"
-    ampWebUrl: "https://www.newsweek.com/trump-iran-response-russia-bounties-1531901?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-iran-response-russia-bounties-1531901?amp=1"
+  - title: "Presidential debate: Trump history shows Kristen Welker has her work cut out for her"
+    excerpt: "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3718392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718392001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1636234/trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Fact check: Trump extends wildfire aid to California, offers help to Russia"
-    excerpt: "President Trump did not follow through on threats to withhold aid to California, and did offer firefighting assistance to Russia's Vladimir Putin."
-    publishedDateTime: 2020-09-23T01:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/09/22/fact-check-trump-oks-fire-aid-california-offers-help-russia/5825547002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5825547002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5825547002"
-    type: article
-    provider:
-      name: USA Today
+      name: The Arizona Republic
       domain: usatoday.com
-    quality: 123
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/18/USAT/e9a379b1-f47a-4690-914e-4d9c2534c051-CAFires.jpg?auto=webp&crop=1023,576,x0,y16&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Donald Trump Uses U.N. to Attack China, Which Joins Russia to Bash U.S. Unilateralism"
-    excerpt: "Chinese President Xi Jinping and Russian President Vladimir Putin championed the principle of multilateralism in their U.N. remarks but U.S. President Donald Trump weaponized his speech against Beijing and the WHO."
-    publishedDateTime: 2020-09-22T21:52:00Z
-    webUrl: "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689"
-    ampWebUrl: "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
     quality: 118
     images:
-      - url: "https://d.newsweek.com/en/full/1640934/donald-trump-united-nations-general-assembly.jpg"
-        width: 3360
-        height: 1872
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8d742268-bae4-414c-98ce-7376ea3bcff5-XXX_NUP_189887_0045_dcb.JPG?auto=webp&crop=6191,3482,x0,y314&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Donald Trump Uses U.N. Attack China, Which Joins Russia, Others to Bash U.S. Unilateralism"
-    excerpt: "Chinese President Xi Jinping and Russian President Vladimir Putin championed the principle of multilateralism in their U.N. remarks but U.S. President Donald Trump weaponized his speech against Beijing and the WHO."
-    publishedDateTime: 2020-09-22T21:52:00Z
-    webUrl: "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689"
-    ampWebUrl: "https://www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-use-un-attack-china-russia-bash-us-unilateralism-1533689?amp=1"
+  - title: "FBI director Chris Wray and top US intelligence officials release video countering Trump's conspiracies about election integrity"
+    excerpt: "The video will likely enrage the president and his allies as they claim the election is \"rigged\" and that mail-in voting leads to a fraudulent result."
+    publishedDateTime: 2020-10-07T17:02:00Z
+    webUrl: "https://businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fbi-chris-wray-intelligence-officials-video-election-security-trump-2020-10?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
     images:
-      - url: "https://d.newsweek.com/en/full/1640934/donald-trump-united-nations-general-assembly.jpg"
-        width: 3360
-        height: 1872
-        isCached: true
-  - title: "Trump says Wrays testimony on antifa bothered him"
-    excerpt: "President Donald Trump says he is bothered by FBI Director Chris Wray's testimony this week that antifa is an ideology, not an organization. (Sept. 18)"
-    publishedDateTime: 2020-09-18T21:56:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/09/18/trump-says-wrays-testimony-antifa-bothered-him/5830444002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/61f8d765-5044-4e43-9049-ff8fa8816058_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "The unanswered question of our time: Is Trump an agent of Russia?"
-    excerpt: "Neither former special counsel Robert S. Mueller III nor the FBI took it on. It’s crucial someone does. This is a case for super-secret mole hunters."
-    publishedDateTime: 2020-09-21T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/09/21/russian-agent-trump-counterintelligence/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PYUA6CV3KII6VF6BNTYRN77CNQ.jpg&w=1440"
-        width: 1440
-        height: 971
-        isCached: true
-  - title: "Is the CIA Suppressing Russia Intel To Protect Trump's Precious Feelings?"
-    excerpt: "A new report suggests CIA Director Gina Haspel is withholding critical information about Russia to avoid a tantrum from the president."
-    publishedDateTime: 2020-09-23T17:48:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/09/cia-suppressing-russia-intel-protect-trumps-feelings/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
-    quality: 74
-    images:
-      - url: "https://media.vanityfair.com/photos/5f6b5966ff5dee9bb494a5ac/master/pass/Haspel9.23.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Trump Attacks His FBI Chief Over Russia Assessment"
-    excerpt: "President Donald Trump on Friday attacked his FBI director, Christopher Wray, for highlighting the threat posed by Russia and right-wing militias to the US election, rather than focusing on China and left-wing groups."
-    publishedDateTime: 2020-09-19T01:44:00Z
-    webUrl: "https://www.ibtimes.com/trump-attacks-his-fbi-chief-over-russia-assessment-3048332"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/18/us-president-donald-trump-attacks-his-fbi-director.jpg"
-        width: 1024
-        height: 680
+      - url: "https://i.insider.com/5a7492c8ec1ade4d2d707e98?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "lNvkWARZYOSJeJD47Qx7Szpj7/pB6x85ee3aztrdpQSpLRXvgZxKDXq2qC/RuJfrdIBxaF2xjKhRAqK57OPocZeFc5Va973B1gT38So318sumbrF0bp/QtPyIOGFKqXGiwCDPVdmGTlbFtO4/5SJYF7brMTZ/lADhSUofOP21PJbACRi28kJJdYohj+VmbjQ5uTmU2WyFQ51ecql8jBZKqhopPFbWVsSy7h8eF2YpVwdd1s3hf/jfSpK5lf0CVu2mmhXQPOkQ7/Icz9H89MDLt+TW4bqUj9+hcfWRgxh9Uw4DUw14RFAMYQpBrPAhGrwiF76iW1UmkuaPea2hWWWdDT5JTbRKNgcu9bmS7fFD4s=;NAE9ePntdmICAjUj02hcyg=="

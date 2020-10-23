@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's debate mic appeared to cut off during health care answer"
+    excerpt: "President Trump appeared to have his microphone cut off for a brief moment while he was explaining his health care plan during the final presidential debate in Nashville, Tenn., on Thursday night."
+    publishedDateTime: 2020-10-23T08:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BN8bezH_Lhs/trumps-debate-mic-appeared-to-cut-off-during-health-care-answer"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-debate-mic-appeared-to-cut-off-during-health-care-answer.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-debate-mic-appeared-to-cut-off-during-health-care-answer.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86281d8f-e9c3-4a3d-a1f3-d473875c28de/cf4c9bbb-e36b-4d3a-bd8f-b30b2df15a91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Government sues Melania Trump’s former best friend over ‘scathing tell-all’"
     excerpt: "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’"
     publishedDateTime: 2020-10-13T23:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supre
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/if-joe-biden-wins-will-democrats-pack-supreme-court-1533914?amp=1"
 type: article
 quality: 125
-heat: 625
+heat: 605
 published: true
 
 provider:
@@ -405,17 +405,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
-    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
-    publishedDateTime: 2020-10-22T13:22:00Z
-    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
-    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "9IqS0Dv/LmwYeby5LeHLWWiqJF6XrTdJX61djOgL7O0hnZkqrYK9JYFR05J18C7ZO2rYxxumNxUKHboDP7olXXZ2m3bpWyUfSIaG9kXDyaXvCye1lPfKDspQYai0aBIQnrvhvybgzXzL5iKNy2ghX8e3QsrumIfB/YixxLU2K6XGbxZwR6QQRPMnWk7Dl4YA28UritMvnjtQPKGg2hMrO2IAEE9FCj8vvCzDXau1qpgguk2jse69Ax6wWSJ8P8feYjqNzsGgjzxtk7IMUGTvkYqw/QMfkr/swuW2nHmQFaIwr1sndN78I660D7UXvwhU8JD99LIwPRU25Rj9l5VIPw7tdj87hugFPBW/4h0Wly5qUSFBgihbrF9saT21Sa6qkYQ+2405aRuyh/Xcyj9ayT/tkxoLvK6o89WWC8jcmKAt7tCt6PePzBno5vbPoA86lSninAlSkec4h3U/AtKVW0a29I31c4sX6XNaVX0ikVb055NC6LEogLlch18J6COGY9kdqqm4VfxIhXBJPUnbjA==;/jFa/SvjZHnHq3I4dk3Odg=="
 ---

@@ -119,6 +119,20 @@ related:
         width: 980
         height: 550
         isCached: true
+  - title: "Vice President Mike Pence speaks at Fort Wayne rally"
+    excerpt: "Vice President Mike Pence held a \"Make America Great Again!\" rally at 4:30 p.m. Thursday at the Fort Wayne Aero Center. Pence was originally supposed to visit Indiana for some events and to vote on Oct."
+    publishedDateTime: 2020-10-23T04:19:00Z
+    webUrl: "https://www.idsnews.com/article/2020/10/vice-president-mike-pence-speaks-at-fort-wayne-rally"
+    type: article
+    provider:
+      name: Indiana Daily Student
+      domain: idsnews.com
+    quality: 55
+    images:
+      - url: "https://snworksceo.imgix.net/ids/7f9101a9-b3e1-4dad-88e4-27a90a110a1b.sized-1000x1000.png?w=800&h=600"
+        width: 774
+        height: 600
+        isCached: true
 
 secured: "PdGqCKKhEJhJL1ECgUwVYJwcGCaaRVelyDQ50SGLpNVyCZZtwaj+XmwkuYNKY+qqwr6DanRr1tnFjM5AnlRxOWa3V6GSwP+BNu3nx6UW7h6WMB986lN7wcE4jwsIzM3IMPmEAmoCLc9eCmcvuYEEW0jP3VmBcNf7OTr/pIEuWs1wE5OFtih0szh9WzSIOoDuvBmW1vBVetvQqGnT5Ap8QK8742e7ZRETZVOnSNccxmcC4sX1Ylf1PacsgUaftIFudRkZ4Q7ayrsnt1Lqvi4s7U0XWAvpn6ecQ3vp4PU0ldcS77FNeALWN8pawsNR0qaBStKDBH8ERRZRGhhluAJ8kkOtAganFN1FQkt2h84HS9fJPfnyot/ZBc9TS2rZQOpLxwBop3Fs4+mANEsctFIpZ0sS5F1gxRiHxMyxx8KX89techW+p0cbItCh+ovWQfsvHCraqQTOmPoxVEalqF/EoFpH3rzKCcxnaKLm5Nr9oaZFjvkLo0P6aB2xiOuThFDBiNx2omyYfUfzXIqcvhPQNg==;5yakApLdlzlTzEqrX5OGlg=="
 ---

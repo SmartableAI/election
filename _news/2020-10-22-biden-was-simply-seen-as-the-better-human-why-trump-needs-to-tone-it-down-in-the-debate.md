@@ -816,6 +816,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Live updates: Trump, Biden campaign after final debate"
+    excerpt: "President Donald Trump and Joe Biden are heading back to the trail on Friday after Thursday night's final presidential debate. The candidates will deliver speeches from their respective home states. Biden will deliver remarks on Covid-19 in Wilmington,"
+    publishedDateTime: 2020-10-23T10:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-23-trump-biden-election-n1244355"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244355"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244355"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Trump and Biden clash in final debate over federal Covid-19 response"
     excerpt: "With less than two weeks until Election Day, debated federal response to the pandemic in the final scheduled major event of the 2020 campaign."
     publishedDateTime: 2020-10-23T01:42:00Z

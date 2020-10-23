@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Ohio county officials shoot down Trump claim of 'rigged election' after wrong ballots sent to 50K voters"
-    excerpt: "Trump saw something nefarious in what local officials say was an inadvertent error, tweeting: \" Out of control. A Rigged Election!!!\""
-    publishedDateTime: 2020-10-10T14:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/10/franklin-county-ohio-voters-wrong-absentee-ballots/5952701002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5952701002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952701002"
+  - title: "President Trump weighing firing of FBI Director Christopher Wray after election"
+    excerpt: "President Trump regards FBI Director Christopher Wray as having gone out of his way to separate himself from the president on multiple occasions."
+    publishedDateTime: 2020-10-23T10:10:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/president-trump-weighing-firing-fbi-director-wray-after-election/3731576001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3731576001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3731576001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 123
+    quality: 136
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/08/NCOD/2f646a74-70e0-414a-a2e4-df3092f9c439-pb_bad_ballots_ac_01.jpg?auto=webp&crop=3672,2066,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2019/12/10/USAT/35138d1c-09b6-47ee-9233-e39128c5332c-XXX__JG24825.JPG?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Presidential debate: Trump history shows Kristen Welker has her work cut out for her"
+    excerpt: "Trump clearly does not think well of nor respect Black women. Moderator Kristen Welker of NBC News must be tough and in command from start to finish."
+    publishedDateTime: 2020-10-22T09:13:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/trump-faces-moderator-kristen-welker-biden-final-debate-column/3718392001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3718392001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3718392001"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/8d742268-bae4-414c-98ce-7376ea3bcff5-XXX_NUP_189887_0045_dcb.JPG?auto=webp&crop=6191,3482,x0,y314&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud"
+    excerpt: "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud."
+    publishedDateTime: 2020-09-24T15:51:00Z
+    webUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/"
+    ampWebUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 75
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-51-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
 
 secured: "+F7KxeU+fG1+ZpjvswMakxuThn5OcX/NgiWJL6aYo43VCLMgPFiBeOQfeJNL9y/IFwZYcYPAQoOyuushujO1NHAEj6Mz3dLFxZSxPFsjxAdUK2masigzBlkaDaKyN6V9dkJ3NGG85cbSta5lJ2AGwfclvJrBFVLo2cDoiRr0/6B9JsGXq2XxmLaWyJtVFyfa7+RV9R1zGyWiWRc1GP+iGAY+TRvOW7dRbjDW1/7w8zT2ycuCFB567JUE8YgMqB/7p1kJOd7zJAyPirDmHDbqUxHVSVk7AzD9Zo7DCCoh57PCZtz0LLIQtm9wCUXM2WuELGigEKRdGT3k1R4F6AlS65GyLSFZXHT8P5+dO9RqV18=;j+PCfSjsvoPGel1dIJSWHg=="

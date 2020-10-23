@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-the-improv-presidency-20201020-bvjzv6ka35bxnazou24btkqzmm-story.html?outputType=amp"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "RNC chairwoman say Republicans who distance themselves from Trump are 'hurting themselves in the long run'"
+    excerpt: "Her comments came after Trump lashed out at Nebraska Sen. Ben Sasse for leaked audio from a constituent town hall where he criticized the president."
+    publishedDateTime: 2020-10-18T18:14:00Z
+    webUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/rnc-chair-republicans-who-distance-from-trump-hurting-themselves-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5f8c7e90c21cfb0019468a88?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "HdDeooMAxyRFdiWqTjFXXmnW+JrV6f7/RWG5Qh4t3EcnVMTIjYEh3lImalIOjvIr2565zrp1aOFdhNFtPXEPF9EX8UIGU3PRCuCk0go5YODLAc85vk9zKyqg4HouhKRgLDnGHGMwG2k4BFUvuHBgMaNjrseD9+mJQ9BNuVJ6Fmd5YBIyt5ROkDdgtMjErahDQWGjQqAvbaK9MdtlSBN18M3ZnSmLvNZ+UHoE5w7n31/WJPxpZU0N27fJIyIZBN9LzOIAIRC2gAraxWROu845dOkTk/tfxUkgqBHMD3jxFSL4OmDHboJWcpvmUVZ2+1qqF0yPLhuACqF+MALtlVfCwzMMgMs+fRCBpyEXWusOmEo=;6sNOtOHFAqp0RPdGS5g0/A=="
 ---

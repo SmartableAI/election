@@ -816,6 +816,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "Live updates: Trump, Biden campaign after final debate"
+    excerpt: "President Donald Trump and Joe Biden are heading back to the trail on Friday after Thursday night's final presidential debate. The candidates will deliver speeches from their respective home states. Biden will deliver remarks on Covid-19 in Wilmington,"
+    publishedDateTime: 2020-10-23T10:59:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-23-trump-biden-election-n1244355"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244355"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244355"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "Voters favor Biden over Trump on almost all major issues, a new poll shows."
     excerpt: "Voters favor Biden over Trump on almost all major issues, a New York Times/Siena College poll found. By Alexander Burns and Jonathan Martin Joseph R. Biden Jr. holds a nine-point lead over President Trump amid widespread public alarm about the trajectory of the coronavirus pandemic and demand among voters for large-scale government action to right the economy,"
     publishedDateTime: 2020-10-20T21:51:00Z
@@ -1164,6 +1180,6 @@ related:
       domain: thedailybeast.com
     quality: 36
 
-secured: "2D1WvkA8n4Rgdhe1AqeK+8W6rcU9UKWFyynCDUiIV0QmAXffgE+xoegHuZhmo+OKOpHGBj+TAwlY18BfHEKL2b6uLGVVcjg07khvmZmfX34O0truQnMA4j1yGh1N3tgZakCREBSBDu2tJaJ/uQdewV07Wx4WAnx99s9nU+HpDvoUstE96bISXRZEffICzMHCtTvByVwv7aJq0VPyTkJ8aQB1SOc9CNkgC4i2JFYeoT8Z6xHEl8LCXZCjOOrSlIdQ9IrhcBEwNnx3R7+gs59K6rSYAZAlKmL0e2zvBoE50S73r6beu60Sz4S81idV4Iqdljm7sW9f/Ud2Ynl+aGLIie4kj0mTKj8x5kwoErjiVQY=;adlPpy11MCEoYQzE2oZDOw=="
+secured: "VReBgSCB9c4VV/WNnfMEpaMmaWRLKOO60vyRoTunH2VBUmWm4khlSO3YkK0yWLBHoRjGmhDEEL3O1pIhxVIVvdsVClos2J5RnaMCBa+uwQPqggoUKx7H+FLx4zeHWbLTjLgojP3fCreoGvKAf0sy9aiNougAUVjl3zMYAymzVwojwnFE0g5IIhsrN4bdQxa3huw8l2PSFaDzzD3xXcW5AAEfSvdQby3GvdAZj6OftsNgkSJsKhUImGvqWoX5qxA2ebHV98hXhMmCWHY3YHMt6lKHEibUFOhhJDAPOeGxEO/fMq5epf3EYUZka5ZspqWF2nf0+2Gy1/uSQthx0o67P0Gmts+wdmuSJIWrSwQF2wIuT79rbaBRfQcVjEKGDOS3nVkI/NVGgwmBMSxT1OSXb35Bt5B2mPMV35Rupesa2ZtQ1KHyIUReS0smmRDy332CqvAeCO+IzF3FyvHT4L6+3mFe8jQhyBlloPSEIVkmS/xoc2uVHQRpEnLLu1j/gSx9bWSplDvAIvA1YgwFsadgsg==;QzYZBUpqYnCpB3lBrcOo3g=="
 ---
 

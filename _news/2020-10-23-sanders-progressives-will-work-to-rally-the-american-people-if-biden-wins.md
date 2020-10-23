@@ -47,6 +47,31 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
+    excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
+    publishedDateTime: 2020-10-22T17:37:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CYIB5TI7JFBXBD2CNQUQJFKTN4.png"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden Remarks in Michigan on Health Care"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
+    publishedDateTime: 2020-10-19T06:17:00Z
+    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "bu6fS1L3GYzVYdt3ztjtBl0NuW0HVvj3UWYmiDCPDrmYB00jywAHXIN+NVHEulVY0s8ATjhxy6JOSFDXwXFY81LDsMCJNFSFZQ70zvE6pc9UadiUPQfZyLG6ClffXu5OWXJ5PWd1ssEeE1CyacyyFyhZmUjRRPFs/20lAZyu239ZHyvRacvdpN+rKkm7bwIv+4FVvr/krP4JIEwW/KUXr/NtstuBrzQU4G3TwtVa6Q2KFt//czysXXUX2qSswkWt16KwIXeIGh/i8SS6GKcrI3m6nqYM2FatOgAClh9uAhUGfUlv48zb6yRYaSCD+9kYo2Y3cdlE+HsWuWOfgH/7PL5exRUH7mwRud+Qj0IQp6w9MmuvRTW/88ec7k4nkem7EI8XFxEjdbbTQWKmheLbwiTK2ybRPqsLZYCS6PfZcMaaT/pOFspV978ute2E9uU/8pGlcjJemWEpaosutlJvZCxAPc+I8JHPOop9Z2Fh1VNwniap9JUp1bzPHXWsy2Z2PVWqtUrguFFeVy0DKccwOQ==;m7FMF31f9UvGCVrDjxxTJQ=="
 ---

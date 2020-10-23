@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democrat
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
 type: article
 quality: 125
-heat: 145
+heat: 185
 published: true
 
 provider:
@@ -47,6 +47,31 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
+    excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
+    publishedDateTime: 2020-10-22T17:37:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 90
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CYIB5TI7JFBXBD2CNQUQJFKTN4.png"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Joe Biden Remarks in Michigan on Health Care"
+    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
+    publishedDateTime: 2020-10-19T06:17:00Z
+    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "i/2xWSwX2xrNrQ1yIOu7ghbmuxNg1OsxuAKOZAeIqCcmd9FUham6BVHa0b8bk/5QQDSRzdFhsLujS4cykU2j8hQN0JMxgfi4roD4AystKbrSMito9vE9MR7hwULp8o3JcjzjqjEZxgAGKKsrfxgKWuFiFqh+xUkXFEN+DsRDxr4pVXS7nHOthwXOmHWaFqCBRyBR4bdUHx8jw0kbtzLSs9vmZzLWUG/ALPUMBTqLGbisOXC8v911ImnBIYxv/Oo+j4pqPeIbwom7wkIU8lKkDEvikVlfMiVWD6ouHvbnKxqG7sk8SxcuiCcH9mWNhXEIwz/v7VArMGxbFfN9sfjO0Gkx51ezORWI9NVok7NzpDxC7YSk4/Ak0BCxw4tfcaV3cN/VM7JtptpWSWakci8XzMFkWcQ/MZemki0z95oN93/qoJEtdRld3gk3uE9g7QpVZotYhnDG2tuOzgth4YW6LUuN0Lq9E+9SzvpnhceARSclUx3wbyQA0XJhH9TuweSkTdpJIvdZ3HXPzKuCmOqmSg==;Gpa64dvWtL3nbY0kOG+q4g=="
 ---

@@ -43,6 +43,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden leaves door open to adding Supreme Court justices"
+    excerpt: "Democratic nominee Joe Biden on Thursday kept the door open to adding justices to the Supreme Court if Republicans push ahead with confirming President Trump’s nominee Amy Coney Barrett."
+    publishedDateTime: 2020-10-16T01:24:00Z
+    webUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices"
+    ampWebUrl: "https://thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/521330-biden-leaves-door-open-to-adding-supreme-court-justices?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_100820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump-Biden town halls, Amy Coney Barrett hearings, Medicare open enrollment begins: 5 things to know Thursday"
+    excerpt: "NBC and ABC host dueling town halls with Trump and Biden, final day of hearings in Amy Coney Barrett's nomination and more things to know Thursday."
+    publishedDateTime: 2020-10-15T08:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/2020/10/15/trump-biden-amy-coney-barrett-medicare-tony-awards-nominations/5937774002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5937774002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5937774002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/15/USAT/5367e695-6738-4cef-96d1-f787a8071922-AP_Election_2020_Trump_Biden_Debate.jpg?auto=webp&crop=5432,3056,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Senate hearing for Trump's Supreme Court nominee Amy Coney Barrett kicks off Monday"
     excerpt: "The high-stakes confirmation hearing for Judge Amy Coney Barrett, President Donald Trump’s Supreme Court nominee, gets underway Monday in the Senate Judiciary Committee."
     publishedDateTime: 2020-10-12T09:58:00Z
@@ -58,6 +90,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/amy-coney-barrett-confirmation-01-ap-llr-201009_1602276556016_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Joe Biden Would Be a Sea Change For the Oil Industry"
+    excerpt: "A reversion to a less in-your-face style of U.S. leadership would lead to a steadier, albeit duller, oil market."
+    publishedDateTime: 2020-10-18T06:10:00Z
+    webUrl: "https://www.washingtonpost.com/business/energy/joe-biden-would-be-a-sea-change-for-theoil-industry/2020/10/18/f5eff0c4-1107-11eb-b404-8d1e675ec701_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5XABZUARA4I6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pressure on Kamala Harris, Dianne Feinstein at Amy Coney Barrett’s confirmation hearing"
     excerpt: "When Judge Amy Coney Barrett is seated Monday for her Supreme Court confirmation hearing, California Sens. Dianne Feinstein and Kamala Harris will be in focus and facing different pressures in one of the biggest moments of each of their careers."

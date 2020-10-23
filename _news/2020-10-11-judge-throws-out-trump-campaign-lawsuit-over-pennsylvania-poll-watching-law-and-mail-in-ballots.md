@@ -31,94 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump targets Pennsylvania women, but will do so without wife Melania"
-    excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
-    publishedDateTime: 2020-10-20T21:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump targets Pennsylvania women, but will need do so without wife Melania"
-    excerpt: "President Trump hoped to bring his wife Melania Trump to a Pennsylvania rally to help him attract women voters, but she will not go because of a 'lingering cough.\""
-    publishedDateTime: 2020-10-20T19:23:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-20-rt-er-190618_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Evangelicals at base of Trump hopes for Pennsylvania repeat"
-    excerpt: "President Donald Trump’s homestretch push to repeat his razor thin victory in Pennsylvania four years ago won't happen without white evangelicals, and there are signs that critical component of his coalition hasn't lost the faith."
-    publishedDateTime: 2020-09-19T13:55:00Z
-    webUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9"
-    ampWebUrl: "https://www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelicals-at-base-of-trump-hopes-for-pennsylvania-repeat-2020-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trump pleas with suburban women: 'Please like me'"
-    excerpt: "President Donald Trump has anchored his second rally since contracting the coronavirus, telling voters in Pennsylvania that a vote for him is a vote to protect the suburbs. He also issued an appeal to suburban women: \"Will you please like me?"
-    publishedDateTime: 2020-10-14T02:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/trump-pleas-suburban-women-please-like-me/3647442001/"
+  - title: "Judge rejects Trump campaign request for access to Philadelphia voter offices"
+    excerpt: "A Philadelphia judge has rejected a lawsuit filed by President Donald Trump's campaign seeking poll watcher access to satellite voter offices in the city. The campaign last week said its poll watchers were denied entry to areas where voters were casting ballots,"
+    publishedDateTime: 2020-10-09T20:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/09/judge-rejects-trump-campaign-lawsuit-over-philadelphia-voter-office-access/5942236002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5942236002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5942236002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/999762f7-db8f-45b1-bb6f-e87ec522a0c5_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Pence tells Reading crowd the path to victory ‘runs through Pennsylvania’"
-    excerpt: "Vice President Mike Pence returned to the critical battleground state of Pennsylvania on Saturday, declaring President Donald Trump a champion of the “forgotten men and women of America” and blasting Joe Biden as a “Trojan Horse for the radical left."
-    publishedDateTime: 2020-10-17T19:32:00Z
-    webUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html"
-    ampWebUrl: "https://www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/news/elections/mc-nws-pa-pence-reading-20201017-ahdudycw4bdw5n4rkc7suxb3kq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 74
-    images:
-      - url: "https://www.mcall.com/resizer/b2hiFAaesVrzFrCtokD2xh0M_5M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/RLJBBLSJDFRVOHOFAZPDRV7UW4.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/NBCC/0e511ae2-ec6b-4120-95a7-6ce0441de12d-biden_and_trump.jpg?auto=webp&crop=659,371,x0,y36&format=pjpg&width=1200"
         width: 1200
-        height: 823
+        height: 676
         isCached: true
-  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
-    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
-    publishedDateTime: 2020-10-17T21:41:00Z
-    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
-    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+  - title: "Trump administration rejects California's request for wildfire disaster assistance"
+    excerpt: "The federal government has denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-16T10:11:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
     type: article
     provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 68
+      name: ABC
+      domain: abcnews.go.com
+    quality: 119
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
-        width: 1024
-        height: 616
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump administration reverses course on California's request for wildfire disaster assistance"
+    excerpt: "The federal government had denied California's request for a disaster declaration for wildfires that have burned swathes of land across the Golden State."
+    publishedDateTime: 2020-10-17T02:33:00Z
+    webUrl: "https://abcnews.go.com/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-administration-rejects-californias-request-wildfire-disaster-assistance/story?id=73650086"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 114
+    images:
+      - url: "https://s.abcnews.com/images/US/los-angeles-county-firefighters-bobcat-fire-califo_hpMain_20201016-051056_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "BLFPUPV05qU1peSlFlcaXwuMNCl+vrQwBjBnrKMH8wiVLO2P+7u2eWzwyzBLBogJHqopQSlNOE4HAra360QY2Dft88H2S7Uu7drwtd09i8+bb9t5imAoyyl+zAW130nhhDvV3k+COIFFpdyA1+J9B/bAJ1oeMtEzLXLl+DCnE1dtTnMflspCcrldX2oavEI4eeNJe0Zi5UH5lXETNvD0Sk4PYg7bmUWJpDU9lm66x8FpZKDWH/cQBUc0lTFdTnMY3IBLW3LCpuR0oBe+ywpQ9G1W+dUHGbgxBSQxa0euMcxZhP1NThi/Kqv6LoU85R35Ba1rYJ+3oAEtxKES+VnpRgwrOwJ+1+a9N+AbC09uC9uf40woYgQlPaQqacUo0PmrNHiSlJVLL/5YVpdEBbO72d5lc+LnhlNqGy3MV/1VePlucx4gcxoutWt2pZrH3E2UJ08UFJWMfyJSitmYTpNJKQaXdmbsQ92LqJi4V8gDiPDXfRp2xsgJa+vZf1KZjqKwm2w6llnACRDJNXjHH50gZQ==;1CJ30fOLOU+9zd01iWaCzQ=="

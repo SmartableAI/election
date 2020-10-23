@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump dials back his anger, but his debate performance doesn't change the facts"
+    excerpt: "Everybody showed up for a brawl Thursday night and a debate broke out.\n    \n"
+    publishedDateTime: 2020-10-23T10:42:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XXNm3OM9V2k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-biden-final-2020-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022224516-25-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "98CkW0S9A8Kdw3x9462NBCqBrQVuH4XDKUBLqRF/HllRg4Zw+6We8EeNCEQDmUIfRgRKRmpaVTjlEyan4nEQfKZ0SHD+2hfHzVwZyhJaoF+sPZxQZks1tZ2nWFy9wgHNtsWdkkQiva1FWo1NNZRcduMXc+SFTqijhZMcpgRjvxfTennJga3DeItYK+GpPloc+qtC9kVpRiKs8CS7/8/+d68aT4aoYU9YFV7ohPiGdHeG6UqjdV1331JiJnwozD86XN8xl2bSzblgER1ialfrcV6n3g+PXVQWOnwHSRrL5WTDU64Dm4JkaCOAtUzXwnepbOxnY31E0K3p1dDO4U+XYGPtC9yXSZx7SsgNdAbEcPo=;TAdUkmULOvMk4+oVPzyrgQ=="
 ---

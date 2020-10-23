@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/5913031002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5913031002"
 type: article
 quality: 125
-heat: 365
+heat: 265
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AP FACT CHECK: Trump's shaky claims on virus, Dem misfires"
-    excerpt: "Impatient to return to the campaign trail, President Donald Trump made a series of claims over the weekend about his health and the course of the pandemic"
-    publishedDateTime: 2020-10-12T16:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Fact check: Viral post is fake Trump quote about Amy Coney Barrett"
     excerpt: "A post claims the president said he picked the Supreme Court nominee based on her looks. He never said that. We rate this claim false."
     publishedDateTime: 2020-10-14T18:18:00Z
@@ -111,22 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Column: Upon his release from hospital, President Trump is denounced as a heretic by media high priests"
-    excerpt: "Estimates released in September show a death rate that is low across the board, especially among the young and healthy, but the drumbeat in politics and media has been all about fear. The high priests of the Washington establishment media who have thrown their lot in with the Democratic Party and Joe Biden for the 2020 campaign were outraged by Trump."
-    publishedDateTime: 2020-10-07T10:03:00Z
-    webUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-trump-coronavirus-white-house-kass-20201007-2ovb2s5lxbfvhltsrwrdefj7be-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/70JOGZkj3argNBh0CWW4_Jqf2AY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/UFHVOGS3GFKFB7CNA27ZYEPPXM.jpg"
-        width: 1200
-        height: 777
-        isCached: true
   - title: "Fact check: Trump's antibody therapy not made from fetal stem cells but fetal-derived cells used during testing"
     excerpt: "A post online falsely claims the antibody therapy received by President Donald Trump to treat COVID-19 is made from fetal stem cells."
     publishedDateTime: 2020-10-10T04:24:00Z
@@ -157,38 +125,6 @@ related:
         width: 2062
         height: 1154
         isCached: true
-  - title: "Trump promised to bring China to heel. He didn’t and the result is a pitched conflict between the world’s two major powers."
-    excerpt: "Aides say the president is standing up to Beijing. But critics warn he’s created a dangerously tense relationship born out of a chaotic and undisciplined style that has defined many aspects of his presidency."
-    publishedDateTime: 2020-10-12T00:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-china-xi-biden/2020/10/11/9c6e3146-0270-11eb-a2db-417cddf4816a_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 99
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R476SQQKSUI6XBYZBXYVTUKHSQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump reportedly wanted to rip open his button-down to reveal a Superman T-shirt to surprise people when he left the hospital"
-    excerpt: "Upon leaving the hospital, Trump would rip open a button-down dress shirt to reveal a t-shirt with the Superman logo."
-    publishedDateTime: 2020-10-10T23:07:00Z
-    webUrl: "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-superman-shirt-hospital-coronavirus-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 98
-    images:
-      - url: "https://i.insider.com/5f822f5dbab422001979a9fe?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "An actual clown on the debate: 'I hope we can set the record straight on what clowns actually are, and they are not Donald Trump'"
     excerpt: "Actual clown Tim Cunningham told Business Insider that clowns are virtuosos, not at all like Donald Trump. 'When I heard it, I laughed out loud.'"
     publishedDateTime: 2020-10-01T01:09:00Z
@@ -205,15 +141,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Supreme Court Allows Trump to Wind Down Census Early"
-    excerpt: "The U.S. Supreme Court on Tuesday allowed President Donald Trump's administration to wind down population counting for the 2020 U.S. census earlier than planned, in a blow to civil rights groups concerned about an undercount,"
-    publishedDateTime: 2020-10-14T07:22:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-13/us-supreme-court-allows-trump-to-wind-down-census-early"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "UMvGe4mJRNvO1uv4onPdueCE7rarsrgkDxIZgqZfNRR5vlV/MzD6bjXSNcTVfzi8biTA6XZn9imWUrYVEQifM7LBMYQzdCfRiwPpnW45i8TmXo9ulgxOIkOOy/sAq0SFV1P6Tv5HoYFdCnTielj8IHxZVo2rdYg4wxwpjj63Ce2bYf7cTGPuSlI160K3j1YgoPxqpXH+zqbJxKstlowbB6GWByqjknaxtR6EvuAOzHpvLtht/MFBkPhYjWDLjvdI7ZQAyAY6aa7gkRmSpajdVnFAg3hwX3y7bxhs0XRp7WTdDk8Vva34MiK7zlJ2M4KhgyOGzpW2dqucS3Y/HAmQnzypzUIF2RqewbfNFwvJdsU=;VQ51Ov4YILz9nJY1DsJK0A=="
 ---

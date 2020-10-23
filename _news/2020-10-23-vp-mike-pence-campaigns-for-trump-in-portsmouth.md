@@ -25,229 +25,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump heads to Michigan, Wisconsin in re-election campaign push"
-    excerpt: "President Donald Trump will take his re-election push to Michigan and Wisconsin on Saturday before launching a tour of western states to shore up political support as he trails Democratic rival Joe Biden in national polls."
-    publishedDateTime: 2020-10-17T10:09:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN27206X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27206X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27206X"
+  - title: "Trump guaranteed the election would be all about him"
+    excerpt: "Gallup on Thursday summed up his opponent’s fundamental problem: “The majority of U.S. registered voters, 56%, believe  Donald Trump does not deserve to be reelected, while 43% say he does.” That is a seven-point drop in his “deserves reelection” number taken in January."
+    publishedDateTime: 2020-10-22T21:07:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/trump-guaranteed-election-would-be-all-about-him/?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201017&t=2&i=1537831308&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9G06C"
-        width: 816
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DC3E2ZAUN4I6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Trump's payments to farmers hit all-time high ahead of election"
-    excerpt: "U.S. President Donald Trump is assuring a bumper year for farmers as the Nov. 3 election approaches, with record government subsidies projected to make up more than a third of farm income in 2020."
-    publishedDateTime: 2020-10-19T11:17:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-farmers-aid-idUSL1N2GT1C8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2741D4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2741D4"
+  - title: "Trump posts full ’60 Minutes’ interview: US Elections news"
+    excerpt: "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,"
+    publishedDateTime: 2020-10-22T17:44:00Z
+    webUrl: "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Al Jazeera English
+      domain: aljazeera.com
     quality: 140
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538019256&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I0VH"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump Campaign Confirms Election Night Party to be Held at His Washington D.C. Hotel"
-    excerpt: "The site will be one of the President's most used and most profitable venues since he came into power in 2016."
-    publishedDateTime: 2020-10-22T04:12:00Z
-    webUrl: "https://www.newsweek.com/trump-campaign-confirms-election-night-party-held-his-washington-dc-hotel-1541196"
-    ampWebUrl: "https://www.newsweek.com/trump-campaign-confirms-election-night-party-held-his-washington-dc-hotel-1541196?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-campaign-confirms-election-night-party-held-his-washington-dc-hotel-1541196?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1656864/donald-trump-election-night-party-washington-dc.jpg"
-        width: 2207
-        height: 1657
-        isCached: true
-  - title: "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week"
-    excerpt: "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters."
-    publishedDateTime: 2020-10-14T23:48:00Z
-    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
+      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630"
         width: 1200
         height: 630
         isCached: true
-  - title: "2020 election live updates: Trump returns to campaigning with Florida stop, Barrett hearings begin"
-    excerpt: "President Donald Trump returns to the campaign trail Monday with a stop in Florida. Meanwhile, his Supreme Court nominee faces senators."
-    publishedDateTime: 2020-10-12T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/12/2020-election-updates-trump-campaigns-barrett-hearings-begin/5938648002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5938648002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5938648002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 126
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/07/USAT/19a95346-760c-40e6-ab6b-db9aa8513214-Barrett_family.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "WATCH LIVE: President Donald Trump holds Wisconsin rally"
-    excerpt: "President is slated to hold a rally in Mosinee, Wis., on Thursday evening. The event is scheduled to begin at 9 p.m. EDT. Watch the live video above.  Tags Wisconsin Trump rally 2020 campaign 2020 ele"
-    publishedDateTime: 2020-09-18T01:06:00Z
-    webUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally"
-    ampWebUrl: "https://thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/517004-watch-live-president-donald-trump-holds-wisconsin-rally?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald2_09112020.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump claims he's free of virus, ready for campaign trail"
-    excerpt: "President Donald Trump says he is ready to return to the campaign trail, a declaration that comes despite unanswered questions about his health on the eve of a Florida rally kicking off the final week"
-    publishedDateTime: 2020-10-11T21:09:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-insists-free-virus-ready-campaign-trail-73550966"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b359d4e42260491db174b54d30b232cb_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Betting on the 'base' — can Trump win again?"
-    excerpt: "President Trump has said he intends to win the 2020 election the same way he won the 2016 election. Not with a popular vote strategy. With an electoral vote strategy. He expects his vaunted “base” — concentrated in a few crucial states — to deliver an electoral vote majority for him just as it did four years ago."
-    publishedDateTime: 2020-10-13T15:45:00Z
-    webUrl: "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again"
-    ampWebUrl: "https://thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/520733-betting-on-the-base-can-trump-win-again?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_supporter_rally_101020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump returns to the campaign trail in critical Florida region"
-    excerpt: "President Donald Trump returns Monday night to Central Florida, a region that political operatives say will prove critical this fall in the battleground state."
-    publishedDateTime: 2020-10-12T20:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-begins-return-campaign-trail-critical-florida-region/story?id=73374112"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/trump-rally-orlando-file-gty-jef-201011_1602440223003_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Twitter briefly restricts Trump campaign account amid Republican outcry"
-    excerpt: "U.S. President Donald Trump's re-election campaign's Twitter account was briefly restricted from tweeting on Thursday, spurring an outcry from Republican lawmakers who accused social media companies of acting like \"speech police\" and vowing to hold Twitter responsible."
-    publishedDateTime: 2020-10-15T19:29:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-twitter-idUSKBN2702C4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702C4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702C4"
+  - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
+    excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-drilling-offshore-idUSKBN2702SX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2702SX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2702SX"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537613928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1G7"
-        width: 828
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537642428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1PZ"
+        width: 908
         height: 545
         isCached: true
-  - title: "Blessing for Trump: a campaign devoid of foreign policy"
-    excerpt: "With Americans’ focus squarely at home with the ongoing pandemic and economic collapse, foreign policy has been virtually absent from this year’s presidential campaign. Donald Trump should be grateful."
-    publishedDateTime: 2020-10-18T15:34:00Z
-    webUrl: "https://thehill.com/opinion/campaign/521576-blessing-for-trump-a-campaign-devoid-of-foreign-policy"
-    ampWebUrl: "https://thehill.com/opinion/campaign/521576-blessing-for-trump-a-campaign-devoid-of-foreign-policy?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521576-blessing-for-trump-a-campaign-devoid-of-foreign-policy?amp"
+  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
+    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
+    publishedDateTime: 2020-10-15T23:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald2_10172020_gettyimages.jpg"
-        width: 980
-        height: 551
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
+        width: 816
+        height: 545
         isCached: true
-  - title: "Headwinds for Trump in bid to repeat Upper Midwest victories"
-    excerpt: "President Donald Trump is making a late reelection pitch to voters Saturday in Michigan and Wisconsin, states in the Upper Midwest that were instrumental to his 2016 victory but may now be slipping fr"
-    publishedDateTime: 2020-10-17T20:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-struggling-retain-upper-midwest-win-column-73672397"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-struggling-retain-upper-midwest-win-column-73672397"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-struggling-retain-upper-midwest-win-column-73672397"
+  - title: "From QAnon to dictators, Trump embraces those who embrace him back"
+    excerpt: "Throughout his presidency, Trump has struggled to condemn white supremacists and other extremists who show support for him, no matter their views or actions."
+    publishedDateTime: 2020-10-17T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-election-conspiracy-theory-republicans/2020/10/16/a056e97c-0fc4-11eb-b1e8-16b59b92b36d_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_268d661de45d40d297b0b660a773c5b3_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWRT55AP5AI6XADUB2KDVEN7BA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "'Indigenous Peoples Day' Booed at Michigan Rally for Donald Trump"
-    excerpt: "Biden, he attacked Christopher Columbus by refusing to recognize Columbus Day, and he wants to change the name of Columbus Day to Indigenous Peoples Day.... Not as long as I'm president,\" Donald Trump said."
-    publishedDateTime: 2020-10-18T00:46:00Z
-    webUrl: "https://www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069"
-    ampWebUrl: "https://www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069?amp=1"
+  - title: "The crazy uncle: Trump puts right-wing extremism on the ballot"
+    excerpt: "What if the result of the 2016 election was primarily the product of a flawed electoral-college system, the mistaken assumption of too many voters and pundits that Donald Trump couldn’t win, and a last-minute intervention by an FBI director?"
+    publishedDateTime: 2020-10-18T16:41:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-crazy-uncle-trump-puts-right-wing-extremism-on-the-ballot/2020/10/18/55988d8c-0fe2-11eb-8074-0e943a91bf08_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1654827/donald-trump-michigan-rally.jpg"
-        width: 3387
-        height: 2630
-        isCached: true
-  - title: "Every Celebrity to Speak Out in Support of Donald Trump"
-    excerpt: "This week actress Kirstie Alley faced intense backlash when she voiced her support for Trump and tweeted about her intentions to vote for the Republican on November 3. Here are the president's other famous supporters."
-    publishedDateTime: 2020-10-19T16:29:00Z
-    webUrl: "https://www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320"
-    ampWebUrl: "https://www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-celebrity-supporters-kirstie-alley-2020-election-1540320?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1654848/kirstie-alley.jpg"
-        width: 2500
-        height: 1671
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CD6BW7QP5EI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Michigan governor pushes back against Trump rally chants"
     excerpt: "Michigan Gov. Gretchen Whitmer says President Donald Trump is inciting “domestic terrorism” following “lock her up” chants at his rally in the state"
@@ -265,295 +137,485 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Final debate offers Trump a late chance to reshape presidential race"
-    excerpt: "President Donald Trump gets a final chance to make his case for re-election before a vast audience of Americans when he squares off against Democratic rival Joe Biden on Thursday in their last debate before the Nov."
-    publishedDateTime: 2020-10-22T05:34:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-debate-idUSKBN2770H1"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2770H1"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2770H1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538409171&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L0AU"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "'Panicked' Sen. Ron Johnson touts Trump to Wisconsin leaders"
-    excerpt: "A “panicked” Sen. Ron Johnson is urging members of the state chamber of commerce in battleground Wisconsin to vote for President Donald Trump"
-    publishedDateTime: 2020-10-21T18:54:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/panicked-sen-ron-johnson-touts-trump-wisconsin-leaders-73742980"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0ebf4b9746484c1c86c0e2d61e5e0069_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "'We reject their support': Trump campaign strongly declines Taliban endorsement for his 2020 reelection"
-    excerpt: "\"We reject their support and ... the President will always protect American interests,\" Tim Murtaugh said in a statement to Insider."
-    publishedDateTime: 2020-10-10T22:08:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-declines-taliban-endorsement-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/5f82146b642e9400180b530d?width=1200&format=jpeg"
-        width: 941
-        height: 470
-        isCached: true
-  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
-    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
-    publishedDateTime: 2020-10-12T14:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26X0GN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X0GN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X0GN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537087640&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B09C"
-        width: 830
-        height: 545
-        isCached: true
-  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
-    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-13T08:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int-idUSKBN26X2PY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
-    excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
-    publishedDateTime: 2020-10-12T19:05:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-idUKKBN26X0GH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN26X0GH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN26X0GH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201012&t=2&i=1537092866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9B08V"
-        width: 861
-        height: 545
-        isCached: true
-  - title: "Back on campaign trail, Trump says he feels 'powerful' after COVID recovery"
-    excerpt: "President Donald Trump returned to the campaign trail on Monday for the first time since he announced his COVID-19 diagnosis, touting his management of the pandemic as opinion polls showed him losing more ground to Democratic rival Joe Biden."
-    publishedDateTime: 2020-10-13T20:55:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-int/back-on-campaign-trail-trump-says-he-feels-powerful-after-covid-recovery-idUSKBN26X2PY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26X2PY"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201013&t=2&i=1537208296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9C02O"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
-    excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."
-    publishedDateTime: 2020-10-14T23:35:00Z
-    webUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers"
-    ampWebUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+  - title: "Trump lost the ratings battle: What that really means"
+    excerpt: "Thursday night, of course, pitted the president against rival Joe Biden in dueling town halls on competing mainstream networks: Biden on ABC, Trump on NBC. Biden won the ratings battle, even when Trump town hall numbers from NBC cable channels were included."
+    publishedDateTime: 2020-10-18T17:30:00Z
+    webUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means"
+    ampWebUrl: "https://thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/521584-trump-lost-the-ratings-battle-what-that-really-means?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
+      - url: "https://thehill.com/sites/default/files/trumpbidensplit10152020.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Trump says US will remove sanctions on Sudan in historic new chapter in relations"
-    excerpt: "Trump tweeted that he will remove Sudan from the state sponsors of terrorism list in a historic move that marks a new chapter in relations between the two countries."
-    publishedDateTime: 2020-10-20T01:02:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-us-remove-sanctions-sudan-historic-chapter-relations/story?id=73701963"
+  - title: "Donald Trump keeps begging women to like him. They keep saying no."
+    excerpt: "I paid $14.95 to hear a cadre of women who love President Trump explain why women should love President Trump. This 96-minute education came in the form of “The Trump I Know,” a new documentary available for download,"
+    publishedDateTime: 2020-10-21T03:24:00Z
+    webUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/trump-women-vote-polls-2020/2020/10/20/277cf21a-08af-11eb-a166-dc429b380d10_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MK6GEMQPFUI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
+  - title: "Photo altered to Ice Cube, 50 Center in 'Trump 2020' hats"
+    excerpt: "An altered photo of rappers Ice Cube and 50 Cent in hats that appear to show support for President Donald Trump circulated widely on social media Tuesday, fueled in part by a tweet by Eric Trump"
+    publishedDateTime: 2020-10-20T18:51:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/pompeo-sudan-ap-jc-201019_1603141774822_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_81e131d935a94eb8b2511404169cbee9_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "UPDATE 1-Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
-    excerpt: "U.S. President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday and sought to reassure campaign workers he still has a path to victory on Election Day 15 days away despite slipping opinion poll numbers."
-    publishedDateTime: 2020-10-19T17:38:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-trump-idUSL1N2HA15G"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2742AD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2742AD"
+  - title: "Trump envoy traveled to Syria for talks on missing Americans"
+    excerpt: "A senior White House official made an unusual, secret visit to Syria for high-level talks aimed at securing the release of two Americans who have been missing for years amid the country’s long civil w"
+    publishedDateTime: 2020-10-21T14:39:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_efc880968da349c0a4dc41b8f6155a29_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump grants clemency to five backed by ally Alice Johnson"
+    excerpt: "President Donald Trump on Wednesday granted clemency to five people convicted of committing drug and financial crimes, all of them cases that were pushed by prison reform advocate and Trump ally Alice Johnson."
+    publishedDateTime: 2020-10-22T01:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-grants-clemency-backed-ally-alice-johnson-73751441"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_daedaf4ef0704080945b2d81dc4a9a01_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Will senior citizens finally abandon Trump?"
+    excerpt: "Poll after poll shows Biden with a growing lead among the senior set. Some of that is almost certainly due to the coronavirus pandemic. Trump was cavalier about the threat the virus posed to this portion of his base,"
+    publishedDateTime: 2020-10-22T15:46:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/2020/10/22/op-olen-seniors1022/"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/2020/10/22/op-olen-seniors1022/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/2020/10/22/op-olen-seniors1022/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/43DA7LQNXAI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Analysis: A newly restrained Trump faces the same old problems"
+    excerpt: "President Donald Trump turned in the restrained and consistent performance his advisers said he needed in his final debate with Democratic challenger Joe Biden, but it was unlikely to alter the U.S. presidential race in any fundamental way."
+    publishedDateTime: 2020-10-23T06:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-analysis-idUSKBN2780M0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780M0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780M0"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538059176&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9I1FP"
-        width: 817
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538560388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0D0"
+        width: 703
         height: 545
         isCached: true
-  - title: "Trump seeks to energize rural voters key to 2016 success in Wisconsin campaign rally"
-    excerpt: "Kicking off three days of campaigning, Trump will speak to supporters at an airport in Mosinee, Wisconsin, a state he won by less than 1 point in 2016."
-    publishedDateTime: 2020-09-18T03:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/17/trump-looks-energize-rural-voters-wisconsin-campaign-rally/3488284001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3488284001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3488284001"
+  - title: "Betting markets give Trump slightly improved chances after debate"
+    excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
+    publishedDateTime: 2020-10-23T09:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27812E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27812E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27812E"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 118
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/09/08/USAT/54d92870-8e8d-4892-8f4d-a87270cb1420-AP_Election_2020_Trump.jpg?auto=webp&crop=3497,1968,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538576756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0MP"
+        width: 873
+        height: 545
         isCached: true
-  - title: "Michigan Governor Whitmer Fires Back at Trump After Rally Crowd Chants 'Lock Her Up'"
-    excerpt: "\"This is exactly the rhetoric that has put me, my family, and other government officials' lives in danger,\" Whitmer said after Trump called for her to be locked up."
-    publishedDateTime: 2020-10-18T00:31:00Z
-    webUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067"
-    ampWebUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+  - title: "Trump posts unedited '60 Minutes' interview before it airs"
+    excerpt: "President Donald Trump has posted full, unedited interviews that he and the vice president did with “60 Minutes” on Facebook before the show’s scheduled broadcast this weekend"
+    publishedDateTime: 2020-10-23T00:42:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_0b7ad05b91a84368812520cf3bcff18f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
+    excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
+    publishedDateTime: 2020-10-15T19:00:00Z
+    webUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408"
+    ampWebUrl: "https://www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/how-watch-live-stream-donald-trumps-nbc-town-hall-place-debate-1539408?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 118
+    quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1654830/whitmer.jpg"
+      - url: "https://d.newsweek.com/en/full/1652864/donald-trump-10-14.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
-    excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
-    publishedDateTime: 2020-10-18T05:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3697599001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3697599001"
+  - title: "Donald Trump Has Promoted QAnon-Linked Twitter Accounts More Than 250 Times"
+    excerpt: "The president previously said \"is that supposed to be a bad thing?\" when asked about theory that he is taking down satanic pedophiles."
+    publishedDateTime: 2020-10-16T12:47:00Z
+    webUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698"
+    ampWebUrl: "https://www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-twitter-conspiracy-town-hall-pedophiles-1539698?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1653787/trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Conservative group head: Trump loss would not vindicate 'the old GOP formula'"
+    excerpt: "Oren Cass, executive director of the conservative think tank American Compass, said Thursday that if President Trump loses his reelection bid, the Republican Party’s takeaway should not be that “the o"
+    publishedDateTime: 2020-10-15T19:24:00Z
+    webUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula"
+    ampWebUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
+        width: 797
+        height: 551
+        isCached: true
+  - title: "Feds investigating scam emails threatening voters if they don't vote for Trump"
+    excerpt: "These emails are meant to intimidate and undermine American voters’ confidence in our elections,” said Christopher Krebs, DHS cybersecurity director."
+    publishedDateTime: 2020-10-21T18:43:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/21/election-2020-feds-investigating-voter-email-threats-purportedly-from-proud-boys/3713840001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713840001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713840001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 110
+    quality: 121
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/46ad6857-0b81-4d72-b742-1a6f11b3be15-AFP_AFP_8TB9GN.jpg?auto=webp&crop=4499,2531,x0,y172&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2018/11/06/USAT/7c0ccccb-0363-499d-b1b3-c8b2156822f0-14_XXX__JG_Georgia_Vote_11_6_2018_jmg_39800.JPG?auto=webp&crop=4175,2348,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "'I shouldn't be here': Wisconsin bar owner in ICU with COVID-19 blames Trump for out-of-control pandemic"
-    excerpt: "The owner of a beloved Oshkosh bar is in the ICU with COVID-19 and blames the president for an out-of-control pandemic that has infected his family."
-    publishedDateTime: 2020-10-10T14:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/10/oshkosh-bar-owner-icu-coronavirus-blames-trump-crisis-covid-19-oblio/5952206002/?ref=hvper.com"
-    ampWebUrl: "https://amp.usatoday.com/amp/5952206002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5952206002"
+  - title: "\"I Don't Know Anything\": Trump Feigns Ignorance About Plot To Kidnap Gov. Whitmer"
+    excerpt: "President Trump, during a contentious interview with 60 Minutes he leaked on Facebook, claimed he doesn't \"know anything about the plot\" to kidnap Michigan's Democratic governor, Gretchen Whitmer, but later looked to take credit for potentially saving Gov."
+    publishedDateTime: 2020-10-22T18:25:00Z
+    webUrl: "https://www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/"
+    ampWebUrl: "https://www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 120
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91cd36a2aa7465f7f43767%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5316%26cropY1%3D201%26cropY2%3D3192"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why faith voters should stick with Trump: Christian leaders of character surround him"
+    excerpt: "Trump seldom reflects the desired fruits of the Spirit. But he kept his promises to the faith community and surrounded himself with key leaders from it."
+    publishedDateTime: 2020-10-22T07:39:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/christians-vote-trump-faith-leaders-surround-him-column/5984383002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5984383002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5984383002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 108
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/media/Oshkosh/2014/08/11/-030509schlitzbeeroblioanw01.jpg20090306.jpg?auto=webp&crop=3872,2178,x0,y207&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/c5f96609-ba4c-4d45-8d44-5cd061817507-AP_Election_2020_Pence_wave.jpg?auto=webp&crop=5482,3084,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches"
-    excerpt: "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance."
-    publishedDateTime: 2020-10-10T19:06:00Z
-    webUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+  - title: "The Justice Department lets itself be used to bully critics of Donald and Melania Trump"
+    excerpt: "EXACTLY WHICH detail in the tell-all book by a former adviser and confidant of first lady Melania Trump prompted the Justice Department to take the extraordinary action of suing the author? Was it Ms."
+    publishedDateTime: 2020-10-16T02:36:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/the-justice-department-lets-itself-be-used-to-bully-critics-of-donald-and-melania-trump/2020/10/15/6dcd471a-0f0d-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y5SYA7XHV4I6VP2EBUY4QWBYUU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump warns of backlash if the EU levies around $4 billion in tariffs after WTO ruling"
+    excerpt: "If they strike back, then we'll strike much harder than they'll strike. They don't want to do anything.\""
+    publishedDateTime: 2020-10-16T11:35:00Z
+    webUrl: "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-tariffs-eu-wto-ruling-4-billion-airbus-boeing-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 106
+    quality: 117
     images:
-      - url: "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://i.insider.com/5f8916f1d260780019341bf5?format=jpeg"
+        width: 2500
+        height: 1249
         isCached: true
-  - title: "Trump to resume campaigning; second debate canceled"
-    excerpt: "U.S. President Donald Trump will resume in-person campaigning on Saturday after being sidelined by a case of COVID-19, but a debate next week against his presidential election opponent Joe Biden was canceled because Trump refused to participate."
-    publishedDateTime: 2020-10-10T08:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-idUSKBN26U0F5"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN26U0F5"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26U0F5"
+  - title: "Exxon Mobil, after Trump's fundraising remarks, says its CEO and Trump had no phone call"
+    excerpt: "Exxon Mobil Corp said there had been no phone call between its chief executive, Darren Woods, and President Donald Trump after the president invoked the company's name at a rally in Arizona on Monday when he said he could raise more money than his Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-20T02:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-trump-exxon-mobil/exxon-mobil-after-trumps-fundraising-remarks-says-its-ceo-and-trump-had-no-phone-call-idUSKBN2750CN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2750CN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2750CN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
-  - title: "Trump insists he's free of virus, ready for campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the , a day after the White House doctor said he was no longer at risk of transmitting but did not say explicitly whether Trump had tested negative for it."
-    publishedDateTime: 2020-10-12T09:16:00Z
-    webUrl: "https://www.businessinsider.com/trump-insists-hes-free-of-virus-ready-for-campaign-trail-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-insists-hes-free-of-virus-ready-for-campaign-trail-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-insists-hes-free-of-virus-ready-for-campaign-trail-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Black voters explain support for Trump"
-    excerpt: "Weeks before the election, three Black supporters of President Donald Trump sit down with the Associated Press to discuss their allegiance to the President. They know their opinions may be in the minority within their community."
-    publishedDateTime: 2020-10-14T05:36:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/14/black-voters-explain-support-trump/3648789001/"
+    quality: 116
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201020&t=2&i=1538108580&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9J06F"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Half of Trump supporters believe in QAnon conspiracy theory's baseless claims, poll finds"
+    excerpt: "Half of Trump supporters — whether they'd heard of QAnon or not — said they believe the core tenets of the conspiracy."
+    publishedDateTime: 2020-10-22T15:06:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/qanon-poll-finds-half-trump-supporters-believe-baseless-claims/3725567001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3725567001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3725567001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/d80e50a0-6811-477e-abfb-01a812a17f98_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/08/31/USAT/01de4803-719f-48f8-ac3c-873cfe894844-AFP_AFP_1WO5H1.jpg?auto=webp&crop=3474,1955,x0,y192&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Joe Biden speaks on health care in Michigan"
-    excerpt: "Watch \"Joe Biden speaks on health care in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2020-10-16T20:56:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20201016200018-joe-biden-speaks-on-health-care-in-michigan/"
+  - title: "Romney Slams Trump For Refusing To Denounce QAnon, But Says Left Should Condemn Antifa, Too"
+    excerpt: "As parties rush down a rabbit hole, they may be opening the door to a political movement that could eventually eclipse them both,” he said."
+    publishedDateTime: 2020-10-16T17:21:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/10/16/romney-slams-trump-for-refusing-to-denounce-qanon-but-says-left-should-condemn-antifa-too/amp/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
+      name: Forbes
+      domain: forbes.com
+    quality: 115
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07294060_1602880564.jpg"
-        width: 1280
-        height: 720
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89d386eeaf66f5cfa918a6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5226%26cropY1%3D265%26cropY2%3D3205"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why Donald Trump releasing his full '60 Minutes' interview is a major media miscalculation"
+    excerpt: "Donald Trump released his upcoming '60 Minutes' interview early. It's a big mistake. He whined that Lesley Stahl treated him unfairly. She didn't."
+    publishedDateTime: 2020-10-22T22:41:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/donald-trump-60-minutes-interview-column/3735272001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3735272001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3735272001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/41992c04-00f3-4434-8b96-1f42ed6e045f-VPC_TRUMP_ON_LESLEY_STAHL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Early votes in Texas have already surpassed all the statewide ballots cast for Trump in 2016"
+    excerpt: "A Texas victory is not a preference for President Donald Trump's reelection campaign — it's a necessity."
+    publishedDateTime: 2020-10-21T05:26:00Z
+    webUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/early-voters-texas-exceed-states-total-trump-turnout-2016-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/5f8f09659e9fe4001900a59a?width=1200&format=jpeg"
+        width: 911
+        height: 455
+        isCached: true
+  - title: "President Trump claimed during the debate the GOP will take back the House. That is unlikely."
+    excerpt: "\"I think we're going to win the House,\" Trump said during the debate. That is contrary to what most election experts think."
+    publishedDateTime: 2020-10-23T03:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/president-trump-claimed-gop-take-back-house-unlikely/3738018001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3738018001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3738018001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/61a04f09-915d-4eaa-9561-f18c06b3efdd-XXX__AN55555.JPG?auto=webp&crop=5003,2814,x1,y112&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump issues order for some career federal employees to lose their civil service protections"
+    excerpt: "Career federal employees whose work involves making policy would no longer be hired under competitive procedures."
+    publishedDateTime: 2020-10-22T21:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-order-federal-civil-service/2020/10/22/c73783f0-1481-11eb-bc10-40b25382f1be_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SYLKOEQUQQI6XPAQICZFHAXRXY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
+    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
+    publishedDateTime: 2020-10-16T04:42:00Z
+    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Trump joked that he'll 'find a way' to fire Florida Gov. Ron DeSantis if he loses the state in November"
+    excerpt: "The president sees Florida as a must-win state in his electoral coalition if he is to be reelected to a second term."
+    publishedDateTime: 2020-10-17T14:38:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-ron-densantis-florida-biden-electoral-college-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f8afa23c21cfb00194689f7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump got 81% of the evangelical vote in 2016. Meet the conservatives who are working to vote him out."
+    excerpt: "Trump rallies in swing states to convince fellow evangelical Christians not to vote for Donald Trump."
+    publishedDateTime: 2020-10-22T17:39:00Z
+    webUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/conservatives-against-trump-pastor-doug-pagitt-evangelical-christians-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/5f90995c2121130018740043?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Donald Trump threatened Facebook and Twitter again after they throttled the spread of a dubious New York Post story about Hunter Biden"
+    excerpt: "President Trump tweeted it was \"so terrible\" that Facebook and Twitter \"took down\" the New York Post article, which they did not do."
+    publishedDateTime: 2020-10-15T09:30:00Z
+    webUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-york-post-hunter-biden-trump-facebook-twitter-section-230-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/5f858b68c255d800190b983e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
+    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
+    publishedDateTime: 2020-10-20T00:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 107
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
+    excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
+    publishedDateTime: 2020-10-20T23:23:00Z
+    webUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-keeps-messing-up-name-of-hypersonic-missiles-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/5b74902142e1cc5b777140d9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump: Democrats' win will put US economy in peril"
     excerpt: "US President Donald Trump is making a late reelection pitch to voters Saturday in Michigan and Wisconsin, states in the Upper Midwest that were instrumental to his 2016 victory but may now be slipping from his grasp."
@@ -583,560 +645,411 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Western Michigan, a longtime GOP stronghold, is now a battleground: \"We see all that's developed in the Trump era\""
-    excerpt: "President Trump narrowly won the pivotal state in 2016. Western Michigan has long been a Republican stronghold, but Democrats have had success in recent elections, making the region a premier battleground."
-    publishedDateTime: 2020-10-12T14:01:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-biden-election-2020-michigan/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
+    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
+    publishedDateTime: 2020-10-19T01:36:00Z
+    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 103
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "GOP's Romney, long a Trump critic, voted — but not for Trump"
+    excerpt: "Republican Sen. Mitt Romney said Wednesday that he's voted in the Nov. 3 election — but not for the leader of his party."
+    publishedDateTime: 2020-10-22T00:16:00Z
+    webUrl: "https://www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/gops-romney-long-a-trump-critic-voted-but-not-for-trump-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "How the Trump Campaign is Trying to Suppress the Black Vote"
+    excerpt: "Trump has a tendency to say the quiet part out loud, but in Wilmington, he was practically shouting that not all votes are created equal. And in North Carolina in particular, that means one thing: suppress Black voters."
+    publishedDateTime: 2020-10-22T11:42:00Z
+    webUrl: "https://time.com/5902729/black-voter-suppression-2020/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/47c08c1c-39cb-46e7-88f4-80ae1669c548/thumbnail/1200x630/5b23c924c7d2c9513b8263d4dea9e0fc/1602510920768.png"
+      - url: "https://api.time.com/wp-content/uploads/2020/10/black-voter-suppression-2020.jpg"
+        width: 2400
+        height: 1482
+        isCached: true
+  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
+    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
+    publishedDateTime: 2020-10-16T01:43:00Z
+    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
+    images:
+      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "2 arrested for stealing Trump-Pence campaign signs in Tucson"
-    excerpt: "Authorities in Tucson have arrested two people for allegedly stealing signs supporting President Donald Trump’s campaign. The Pima County Sheriff’s Department said the arrests were made Sunday night after someone called into 911 to report the taking of a Trump-Pence sign."
-    publishedDateTime: 2020-10-14T11:43:00Z
-    webUrl: "https://www.12news.com/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    ampWebUrl: "https://www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
-    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/crime/2-arrested-for-stealing-trump-pence-campaign-signs-in-tucson/75-02d50363-44f0-4377-9c95-4accbe4149f0"
+  - title: "Pat Robertson predicts Trump re-election will usher in apocalypse: ‘By all means get out and vote!’"
+    excerpt: "Televangelist Pat Robertson predicted President Donald Trump would win re-election, and that would usher in the long-promised End Times. The 90-year-old broadcaster, who has consistently supported the president who is backed by white evangelicals,"
+    publishedDateTime: 2020-10-20T17:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/pat-robertson-predicts-trump-re-election-will-usher-in-apocalypse-by-all-means-get-out-and-vote/amp/"
     type: article
     provider:
-      name: KPNX
-      domain: 12news.com
-    quality: 100
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 76
     images:
-      - url: "https://media.12news.com/assets/KPNX/images/601274649/601274649_750x422.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-20-at-12.29.29-PM.png"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Mike Pence touts Donald Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:47:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/mike-pence-touts-donald-trumps-supreme-court-pick-at-wisconsin-rally/article_39c577b0-df92-5d85-89d5-057445123ffd.amp.html"
+  - title: "Does Trump merit the hatred? Let us count the ways"
+    excerpt: "The passion many feel for removing Donald Trump from the presidency is so intense that some of his partisans mock it as derangement. The hatred is unprecedented in recent history, far exceeding anything suffered by also-reviled predecessors Barack Obama,"
+    publishedDateTime: 2020-10-16T09:03:00Z
+    webUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html"
+    ampWebUrl: "https://www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/ny-oped-does-trump-merit-the-hatred-20201016-qdjp2wfkbbb5vcya356mhqvjjm-story.html?outputType=amp"
     type: article
     provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 100
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 75
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/84/08445a8c-87a2-5c8a-9a36-c7fcbd793e7e/5f8603fe6cff5.image.jpg"
-        width: 512
-        height: 360
+      - url: "https://www.nydailynews.com/resizer/zu5dOeILTQN1THIDC55cMjaLS3c=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/TBS2A52SQBDSNM34IRTYEOKYHI.jpg"
+        width: 1200
+        height: 815
         isCached: true
-  - title: "Pence touts Trump's Supreme Court pick at Wisconsin rally"
-    excerpt: "Vice President Mike Pence defended President Donald Trump's nominee for the U.S. Supreme Court and his response to the coronavirus pandemic at an outdoor rally Tuesday in a conservative Milwaukee suburb before a crowd of supporters,"
-    publishedDateTime: 2020-10-13T19:22:00Z
-    webUrl: "https://www.chron.com/news/article/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-touts-Trump-s-Supreme-Court-pick-at-15644793.php"
+  - title: "Donald Trump Says He Doesn't Know Anything About QAnon, Won't Denounce"
+    excerpt: "Donald Trump says he doesn't know enough about QAnon to denounce the conspiracy theory, claiming he's always denounced white supremacy."
+    publishedDateTime: 2020-10-16T01:20:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/donald-trump-wont-denounce-qanon-conspiracy-theory-white-supremacy-town-hall/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 75
+    images:
+      - url: "https://imagez.tmz.com/image/fe/16by9/2020/10/16/fe0137835da5443eb5d62ee3f032ec4e_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Why Are Ben Sasse and other Republicans Trying to Cancel Donald Trump?"
+    excerpt: "Sasse and others avoided criticizing Trump when he was up. Now that he’s down, they’re turning on him. The hypocrisy is rich."
+    publishedDateTime: 2020-10-16T20:07:00Z
+    webUrl: "https://nationalinterest.org/blog/2020-election/why-are-ben-sasse-and-other-republicans-trying-cancel-donald-trump-170869"
+    ampWebUrl: "https://nationalinterest.org/blog/2020-election/why-are-ben-sasse-and-other-republicans-trying-cancel-donald-trump-170869?amp"
+    cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/2020-election/why-are-ben-sasse-and-other-republicans-trying-cancel-donald-trump-170869?amp"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 75
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/2020-10-12T151726Z_1902732187_RC23HJ9V5YBP_RTRMADP_3_USA-COURT-BARRETT.JPG"
+        width: 1200
+        height: 823
+        isCached: true
+  - title: "Lewis' hopes for Senate upset may turn on Trump's fate"
+    excerpt: "Jason Lewis' strategy for knocking off Democratic U.S. Sen. Tina Smith has been clear for over a year: For better or worse, the former congressman is all in for President Donald Trump. Lewis, a one-term former congressman best known from his days as a conservative talk radio host known as “Minnesota's Mr."
+    publishedDateTime: 2020-10-18T05:09:00Z
+    webUrl: "https://www.chron.com/news/article/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Lewis-hopes-for-Senate-upset-may-turn-on-Trump-s-15650271.php"
     type: article
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 100
+    quality: 75
     images:
-      - url: "https://s.hdnux.com/photos/01/14/53/75/20102983/5/rawImage.jpg"
-        width: 1527
-        height: 2048
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
-  - title: "Mike Pence, Donald Trump Jr. to hold campaign rallies in Michigan Thursday"
-    excerpt: "The Trump campaign is continuing a busy schedule of events in Michigan with two high-profile surrogates visits planned for Thursday. Vice President Mike Pence is scheduled to hold a campaign rally at Barnstormers Aviation in Waterford Township before departing for another rally in Fort Wayne,"
-    publishedDateTime: 2020-10-21T01:20:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-donald-trump-jr-to-hold-campaign-rallies-in-michigan-thursday.html?outputType=amp"
+  - title: "Trump goes after Fauci, tries to buck up his campaign team"
+    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
+    publishedDateTime: 2020-10-19T19:17:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
-    quality: 98
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7GTM7PSQJVDMFHZUIMZUDUAVXY.JPG"
-        width: 1300
-        height: 903
+      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
+        width: 375
+        height: 249
         isCached: true
-  - title: "Election 2020: Trump Tweets Democratic States Are 'Going To Hell'"
-    excerpt: "Trump's tweets come amid new national polls indicated that he is trailing Democratic challenger Joe Biden by double-digits."
-    publishedDateTime: 2020-10-13T01:15:00Z
-    webUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041"
-    ampWebUrl: "https://www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/election-2020-trump-tweets-democratic-states-are-going-hell-3061041?amp=1"
+  - title: "Melania Trump's Fashion Choices Don't Mean Anything, Source Says"
+    excerpt: "Melania Trump's dresses don't mean anything including her pink dress that many thought was a nod to gay pride."
+    publishedDateTime: 2020-10-23T05:25:00Z
+    webUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703"
+    ampWebUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 90
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/us-president-donald-trump-is-embarking-on-a.jpg"
-        width: 1024
-        height: 651
-        isCached: true
-  - title: "VP Mike Pence, Donald Trump Jr. to campaign in Michigan this week"
-    excerpt: "Vice President Mike Pence and Donald Trump Jr. will both be campaigning in Michigan on Thursday, Oct. 22. Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township."
-    publishedDateTime: 2020-10-21T02:54:00Z
-    webUrl: "https://www.ksdk.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    type: article
-    provider:
-      name: KSDK
-      domain: ksdk.com
-    quality: 90
-    images:
-      - url: "https://media.ksdk.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
-    excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
-    publishedDateTime: 2020-10-22T17:37:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/mike-pence-attacks-biden-economic-policies-at-michigan-campaign-rally.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 90
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CYIB5TI7JFBXBD2CNQUQJFKTN4.png"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Damage control? Trump hints at leaving the country if he loses the election"
-    excerpt: "President Donald Trump is already hinting at how he would react to being defeated by Democratic presidential nominee Joe Biden. On Friday, Trump traveled to Macon, Ga., where he held a crowded campaign rally filled with maskless supporters and no social distancing."
-    publishedDateTime: 2020-10-17T19:07:00Z
-    webUrl: "https://www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/damage-control-trump-hints-at-leaving-the-country-if-he-loses-the-election/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 88
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Fauci Says He Isn't Endorsing Trump's Reelection Despite Being Included In POTUS Ad"
-    excerpt: "The Trump campaign released a 30-second ad Saturday that shows Fauci praising the administration's handling of the coronavirus pandemic."
-    publishedDateTime: 2020-10-12T02:01:00Z
-    webUrl: "https://www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461"
-    ampWebUrl: "https://www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/fauci-says-he-isnt-endorsing-trumps-reelection-despite-being-included-potus-ad-3060461?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 84
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/top-government-scientist-anthony-fauci-said-he-has.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "The Trump Campaign’s Big Plan to Save Itself: More Trump"
-    excerpt: "The president is reportedly looking to reset the race at the last minute — by doubling down on the very approach that has brought his reelection bid to the brink."
-    publishedDateTime: 2020-10-12T16:20:00Z
-    webUrl: "https://www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump"
-    ampWebUrl: "https://www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump/amp"
-    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/news/2020/10/trump-campaign-plan-save-itself-more-trump/amp"
-    type: article
-    provider:
-      name: Vanity Fair
-      domain: vanityfair.com
     quality: 75
     images:
-      - url: "https://media.vanityfair.com/photos/5f846f48b13a7bb1006f7180/master/pass/Trump10.12.jpg"
-        width: 2000
-        height: 1332
-        isCached: true
-  - title: "President Donald Trump to visit Muskegon for campaign rally Saturday"
-    excerpt: "President Donald Trump will hold a campaign rally in Muskegon Saturday, Oct. 17. The president’s reelection campaign announced he will deliver a speech focused on “supporting law enforcement” at a West Michigan charter airport."
-    publishedDateTime: 2020-10-14T10:40:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/10/president-donald-trump-to-visit-muskegon-for-campaign-rally-saturday.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2DPE722DAJAGDKSZZ7NP7452WE.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "More than a third of Michigan Trump voters don’t even like him"
-    excerpt: "A new poll out of Michigan doesn’t just show Democratic presidential nominee Joe Biden beating President Donald Trump — it also shows that a large chunk of Trump’s own voters don’t like his behavior."
-    publishedDateTime: 2020-10-14T17:02:00Z
-    webUrl: "https://www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/more-than-a-third-of-michigan-trump-voters-dont-even-like-him/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Trump-supporter.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Donald Trump to campaign Wednesday in Gastonia"
-    excerpt: "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign."
-    publishedDateTime: 2020-10-16T21:46:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
-    type: article
-    provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 75
-    images:
-      - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "President Donald Trump campaigns in Michigan"
-    excerpt: "President Donald Trump is holding a campaign event in Muskegon on Saturday, Oct. 17. Here is what you need to know about the event: WHEN: The rally is at 5 p.m. on Saturday, Oct. 17. Doors open at 2 p."
-    publishedDateTime: 2020-10-18T01:00:00Z
-    webUrl: "https://www.wusa9.com/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
-    ampWebUrl: "https://www.wusa9.com/amp/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
-    cdnAmpWebUrl: "https://www-wusa9-com.cdn.ampproject.org/c/s/www.wusa9.com/amp/article/news/politics/donald-trump-muskegon-rally/69-70bc768e-1097-4d20-8551-6bff2c9121ae"
-    type: article
-    provider:
-      name: WUSA9
-      domain: wusa9.com
-    quality: 75
-    images:
-      - url: "https://media.wusa9.com/assets/WZZM/images/6df0a71d-53ee-4809-86eb-7c899be3eea1/6df0a71d-53ee-4809-86eb-7c899be3eea1_750x422.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "WATCH LIVE: President Trump Holds Campaign Rally in Michigan"
-    excerpt: "President Donald Trump is holding another big campaign rally in Muskegon, Michigan Saturday afternoon. The rally comes on the heels of Trump publicly going after Republican Senator Ben Sasse for his comments trashing the president in comments made public this week."
-    publishedDateTime: 2020-10-17T21:14:00Z
-    webUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-michigan/"
-    ampWebUrl: "https://www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-michigan/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/election-2020/watch-live-president-trump-holds-campaign-rally-in-michigan/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 75
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/trump-rally-2.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Brian Wilson Disavows Mike Love For Headlining Donald Trump Rally"
-    excerpt: "Brian Wilson and Al Jardine of the Beach Boys have released a statement disavowing Mike Love for performing at Donald Trump's rally, Sunday. Beach Boys' Brian Wilson and Al Jardine have disavowed the current touring group,"
-    publishedDateTime: 2020-10-18T23:12:00Z
-    webUrl: "https://www.hotnewhiphop.com/brian-wilson-disavows-mike-love-for-headlining-donald-trump-rally-news.119834.html"
-    ampWebUrl: "https://www.hotnewhiphop.com/brian-wilson-disavows-mike-love-for-headlining-donald-trump-rally-news.119834.html?_amp"
-    cdnAmpWebUrl: "https://www-hotnewhiphop-com.cdn.ampproject.org/c/s/www.hotnewhiphop.com/brian-wilson-disavows-mike-love-for-headlining-donald-trump-rally-news.119834.html?_amp"
-    type: article
-    provider:
-      name: HotNewHipHop
-      domain: hotnewhiphop.com
-    quality: 75
-    images:
-      - url: "https://ssla.ulximg.com/image/amp_article_crop/cover/1603062493_092b3bbfbd8f1fdf19cb512cde40f057.jpg/d447723e310ce64733fd2f385afc93a2/1603062493_297a25ec3dacb85b1d8c0331927d78ca.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "VP Mike Pence to campaign in Michigan again this week"
-    excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
-    publishedDateTime: 2020-10-21T02:14:00Z
-    webUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    ampWebUrl: "https://www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 75
-    images:
-      - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Mike Pence to host campaign rally in Michigan today"
-    excerpt: "PM, You can watch it here live on wlns.com WATERFORD TOWNSHIP, Mich. (WLNS)– Proving the road to the White House runs through Michigan, for the second"
-    publishedDateTime: 2020-10-22T13:01:00Z
-    webUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/"
-    ampWebUrl: "https://www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/mike-pence-to-host-campaign-rally-in-michigan-today/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 75
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/thumbnail_Image-2-1.jpg?w=1280"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Vice President Mike Pence stops in Michigan, tomorrow"
-    excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
-    publishedDateTime: 2020-10-21T21:40:00Z
-    webUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/"
-    ampWebUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 75
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/pence-1.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Confused Trump tells Michigan voters ‘Minnesota, you better vote for me!’"
-    excerpt: "In a moment of confusion, President Donald Trump appeared to forget where he was speaking Saturday night. Flying into Muskegon, Michigan, Trump cautiously walked down the steps of his airplane to take the stage before a large “make America great again,"
-    publishedDateTime: 2020-10-17T23:42:00Z
-    webUrl: "https://www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 74
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/06/Donald-Trump-pointing-to-his-hair.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "President Donald Trump takes aim at Gov. Whitmer at campaign stop in Michigan"
-    excerpt: "President Donald Trump took aim at Gov. Gretchen Whitmer when he visited Michigan Saturday. During his 90 minute speech in Muskegon, Trump mentioned the domestic terrorism plot to kidnap Whitmer and how she has been handling the COVID-19 outbreak."
-    publishedDateTime: 2020-10-18T07:12:00Z
-    webUrl: "https://www.clickondetroit.com/decision-2020/2020/10/18/president-donald-trump-takes-aim-at-gov-whitmer-at-campaign-stop-in-michigan/"
-    ampWebUrl: "https://www.clickondetroit.com/decision-2020/2020/10/18/president-donald-trump-takes-aim-at-gov-whitmer-at-campaign-stop-in-michigan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/decision-2020/2020/10/18/president-donald-trump-takes-aim-at-gov-whitmer-at-campaign-stop-in-michigan/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 72
-    images:
-      - url: "https://www.clickondetroit.com/resizer/5SzxHlB621uDwsG-jPDOFrGiuGU=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-18-2020/t_407f879d15d94627b6641fc29d0e16f7_name_image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "She ‘Truly Hates Our Country’: Trump Attacks Rep. Ilhan Omar at Michigan Rally"
-    excerpt: "President Donald Trump went after Minnesota Congresswoman Ilhan Omar during his Saturday Michigan rally claiming the Somalia born lawmaker hated the U.S."
-    publishedDateTime: 2020-10-17T22:59:00Z
-    webUrl: "https://www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/"
-    ampWebUrl: "https://www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 71
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1058470920-1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Claiming Covid-19 Immunity, Trump Hits The Election Trail Again"
-    excerpt: "US President Donald Trump will launch a campaign marathon Monday, holding rallies in three key swing states over the next few days as his White House race against surging rival Joe Biden enters its critical final weeks."
-    publishedDateTime: 2020-10-12T05:40:00Z
-    webUrl: "https://www.ibtimes.com/claiming-covid-19-immunity-trump-hits-election-trail-again-3060417"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/11/president-donald-trump-rallied-hundreds-of-supporters-for-AFP_8RV9UG.jpg"
-        width: 1024
-        height: 688
-        isCached: true
-  - title: "Donald Trump Jr. in Arizona this week for campaign event, pigeon shoot fundraiser"
-    excerpt: "Donald Trump Jr., the eldest son of President Donald Trump, will campaign on behalf of his father and the Republican ticket at a Wednesday event in Tucson.  A day later, the president's son, an avid hunter,"
-    publishedDateTime: 2020-10-13T07:25:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/12/donald-trump-jr-tucson-campaign-event-early-voting-has-begun/5970974002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5970974002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5970974002"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 70
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/02/20/PPHX/a63c4d05-d9d8-426f-93a5-18f4242a63af-DW1_2561.JPG?auto=webp&crop=3676,2068,x0,y524&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump Still Feuding With Dr. Fauci, Lashes Out At Pandemic Expert In Dispute Over Campaign Ad"
-    excerpt: "President Trump lashed out at Dr. Anthony Fauci on Tuesday after the nation’s top infectious disease expert criticized the president’s reelection campaign for featuring him in a political advertisement."
-    publishedDateTime: 2020-10-13T20:48:00Z
-    webUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595"
-    ampWebUrl: "https://www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-still-feuding-dr-fauci-lashes-out-pandemic-expert-dispute-over-campaign-ad-3061595?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/13/us-president-donald-trump-at-his-first-campaign.jpg"
-        width: 1024
-        height: 643
-        isCached: true
-  - title: "Rick Wilson: ‘Trump reeked of desperation’ in NBC town hall — and proved his campaign is ‘broken’"
-    excerpt: "President Donald Trump’s one-man town hall showed he’s “broke, broken and unmoored” as his re-election campaign hits rock bottom, according to former Republican strategist Rick Wilson. The president backed out of a town hall debate with Joe Biden because the event was supposed to be virtual because of his COVID-19 infection,"
-    publishedDateTime: 2020-10-16T15:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/rick-wilson-trump-reeked-of-desperation-in-nbc-town-hall-and-proved-his-campaign-is-broken/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 62
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/07/trump-shutterstock.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Trump lies about reports of a ‘red wave’ — then touts nonexistent Michigan ‘man of the year’ award"
-    excerpt: "President Donald Trump ticked off several lies in just under 60 seconds while visiting his supporters in Michigan on Saturday. He told his supporters that the press was predicting an astounding “red wave” in November,"
-    publishedDateTime: 2020-10-17T23:42:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 61
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-6.01.52-PM.png"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Trump Aims to Boost Rural Turnout in Critical Wisconsin"
-    excerpt: "President Donald Trump is stepping up his rhetoric on cultural issues, aiming to boost enthusiasm among rural Wisconsin voters."
-    publishedDateTime: 2020-09-18T02:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-09-17/trump-aims-to-boost-rural-turnout-in-critical-wisconsin?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Court Nominee Fends Off Questions On Abortion, Health Care"
-    excerpt: "US President Donald Trump's Supreme Court nominee Amy Coney Barrett told lawmakers Tuesday she would put personal and religious beliefs aside when deciding landmark cases but stopped short of revealing how she would rule on hot-button issues like abortion."
-    publishedDateTime: 2020-10-14T03:27:00Z
-    webUrl: "https://www.ibtimes.com/trump-court-nominee-fends-questions-abortion-health-care-3060657"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/12/judge-amy-coney-barrett-a-practicing-catholic-is.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Trump on Defense, Courting Voters in Two Must-Win States"
-    excerpt: "President Donald Trump is fighting to defend his sagging reelection chances in a state Republicans haven’t lost in nearly three decades — and his campaign is confronting new financial strains."
-    publishedDateTime: 2020-10-16T17:44:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-16/trump-biden-go-at-it-from-a-distance-in-town-halls?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Sets Hectic Campaign Pace As His Party Frets"
-    excerpt: "President Donald Trump pushed on with a hectic series of rallies across the United States on Saturday, as he seeks to avert a potentially humiliating defeat at the ballot box in only 17 days. Trump was storming through the battleground states of Michigan and Wisconsin before overnighting in Nevada,"
-    publishedDateTime: 2020-10-17T16:50:00Z
-    webUrl: "https://www.ibtimes.com/trump-sets-hectic-campaign-pace-his-party-frets-3063775"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/donald-trump-on-the-campaign-trail-in-florida.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump is ‘going to get absolutely crushed’: GOP campaign consultant paints grim portrait of president’s future"
-    excerpt: "Appearing on MSNBC on Saturday afternoon with host Alex Witt, noted Republican campaign consultant Stuart Stevens left no doubt about what he thinks is going to happen on election day, saying Donald Trump is going to “get crushed” and former Vice President Joe Biden will become the next president."
-    publishedDateTime: 2020-10-17T19:15:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
+  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
+    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
+    publishedDateTime: 2020-10-15T12:32:00Z
+    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
+    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Kirstie Alley Slammed On Twitter After Revealing She's Voting For Donald Trump"
+    excerpt: "\"Cheers\" star Kirstie Alley said that she's voting for President Donald Trump this presidential election once more because she believes he \"will turn the economy around quickly.\""
+    publishedDateTime: 2020-10-18T12:07:00Z
+    webUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002"
+    ampWebUrl: "https://www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kirstie-alley-slammed-twitter-after-revealing-shes-voting-donald-trump-3064002?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 71
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/10/03/kirstie-alley.jpg"
+        width: 600
+        height: 917
+        isCached: true
+  - title: "Trump trashed by ex-GOP chair in op-ed calling for him to be driven from office"
+    excerpt: "In a scorching op-ed for USA TODAY, former New Hampshire Republican Party Chairwoman Jennifer Horn excoriated her party for its loyalty to President Donald Trump — and urged her colleagues to be rid of him."
+    publishedDateTime: 2020-10-17T17:40:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-trashed-by-ex-gop-chair-in-op-ed-calling-for-him-to-be-driven-from-office/amp/"
     type: article
     provider:
       name: The Raw Story
       domain: rawstory.com
-    quality: 55
+    quality: 71
     images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/Donald-Trump-Mandel-NganAFP-2-736x430.jpg"
-        width: 736
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-9.png"
+        width: 800
         height: 430
         isCached: true
-  - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
-    excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
-    publishedDateTime: 2020-10-20T07:10:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-20/trump-seeks-campaign-boost-in-battleground-pennsylvania-with-two-weeks-to-go?context=amp"
+  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
+    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
+    publishedDateTime: 2020-10-20T00:57:00Z
+    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
+    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
-  - title: "Palestinian Premier: 'God Help Us' if Trump Wins Re-Election"
-    excerpt: "The Palestinian prime minister says it will be disastrous for his people and the world at large if President Donald Trump wins re-election next month."
-    publishedDateTime: 2020-10-13T17:53:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-10-13/palestinian-premier-god-help-us-if-trump-wins-re-election"
+      name: Law360
+      domain: law360.com
+    quality: 70
+  - title: "Savannah Guthrie Is Being Praised for How She Handled Donald Trump at NBC’s Town Hall"
+    excerpt: "Today show cohost Savannah Guthrie moderated a town hall with President Donald Trump on NBC October 15 and is garnering a fair amount of praise for her handling of the situation, which once again saw POTUS avoiding answering questions and going off on rambling tangents."
+    publishedDateTime: 2020-10-16T23:35:00Z
+    webUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall"
+    ampWebUrl: "https://www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
+    cdnAmpWebUrl: "https://www-glamour-com.cdn.ampproject.org/c/s/www.glamour.com/story/savannah-guthrie-is-being-praised-for-how-she-handled-donald-trump-at-nbcs-town-hall/amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
-  - title: "Pence uses outdated numbers to tout Wisconsin job gains and unemployment numbers"
-    excerpt: "In a statement, Pence’s office boasted of a series of job-related gains in Wisconsin, saying they covered the time to the present. But the numbers -- from March -- are outdated and ignore the picture since the coronavirus pandemic took hold."
-    publishedDateTime: 2020-10-20T19:13:00Z
-    webUrl: "https://www.politifact.com/factchecks/2020/oct/20/mike-pence/pence-uses-outdated-numbers-tout-wisconsin-job-gai/"
-    type: article
-    provider:
-      name: Politifact
-      domain: politifact.com
-    quality: 50
+      name: Glamour
+      domain: glamour.com
+    quality: 68
     images:
-      - url: "https://static.politifact.com/politifact/rulings/meter-false.jpg"
-        width: 438
-        height: 392
+      - url: "https://media.glamour.com/photos/5f899352a927d2469afbc1dc/master/pass/GettyImages-1208231958.jpg"
+        width: 3000
+        height: 2000
         isCached: true
-  - title: "Joe Biden Remarks in Michigan on Health Care"
-    excerpt: "Democratic presidential nominee Joe Biden delivered remarks on health care and the economy at a campaign event in Southfield, Michigan, a suburb of Detroit."
-    publishedDateTime: 2020-10-19T06:17:00Z
-    webUrl: "https://www.c-span.org/video/?477057-1/joe-biden-campaigns-southfield-michigan"
+  - title: "Paranoid Trump compiling enemies list of conservatives who are turning on him: report"
+    excerpt: "According to a report from the Daily Beast, Donald Trump is building up an enemies list of GOP lawmakers and other conservatives who have been critical of him as his re-election campaign staggers to the finish line,"
+    publishedDateTime: 2020-10-18T13:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/paranoid-trump-compiling-enemies-list-of-conservatives-who-are-turning-on-him-report/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 68
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/12/Donald-Trump-.jpg"
+        width: 640
+        height: 414
+        isCached: true
+  - title: "Women in key state have ‘wised up’ to Trump — and it could cost him everything: report"
+    excerpt: "On Monday, the Philadelphia Inquirer reported that President Donald Trump is bleeding support from white women in Pennsylvania — and it could be the fatal blow that costs him the entire election. “President Donald Trump recently pitched suburban women with a plea at a rally in Johnstown,"
+    publishedDateTime: 2020-10-19T15:14:00Z
+    webUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/women-in-key-state-have-wised-up-to-trump-and-it-could-cost-him-everything-report/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/08/trump-flickr.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Brian Wilson, Al Jardine speak out against the Beach Boys playing Donald Trump fundraiser"
+    excerpt: "Brian Wilson and Al Jardine were upset to learn Mike Love's version of the Beach Boys played a Donald Trump event. The group is in Phoenix on Oct. 25."
+    publishedDateTime: 2020-10-19T07:30:00Z
+    webUrl: "https://www.freep.com/story/entertainment/music/2020/10/18/brian-wilson-beach-boys-donald-trump-campaign-fundraiser/3707305001/"
+    ampWebUrl: "https://amp.freep.com/amp/3707305001"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3707305001"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 66
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/a32386b6bac5c295498643ae58b0767c6d8bb7e1/c=0-0-5348-3022/local/-/media/2018/03/15/Phoenix/Phoenix/636566945352746891-GettyImages-655073850-1-.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Evangelicals went all in on Trump and he played them like ‘suckers’: ex-White House advisor"
+    excerpt: "In a column for the Atlantic, a former adviser to Republican President George W. Bush made the charge that evangelical Christians sold their souls to support Donald Trump while he secretly held them in contempt and used them to advance his political ambitions."
+    publishedDateTime: 2020-10-19T13:41:00Z
+    webUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/evangelicals-went-all-in-on-trump-and-he-played-them-like-suckers-ex-white-house-advisor/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 65
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Donald-Trump-and-Franklin-Graham.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Calls for armed guards, 'Army for Trump' volunteers alarm Minnesota election officials"
+    excerpt: "Amid preparations complicated by the pandemic, state and federal officials are monitoring new reports of private security contractors advertising jobs that would — illegally — dispatch armed guards at Minnesota polling places."
+    publishedDateTime: 2020-10-21T18:25:00Z
+    webUrl: "https://www.startribune.com/calls-for-armed-guards-army-for-trump-volunteers-vex-minnesota-election-officials/572817002/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 62
+    images:
+      - url: "https://stmedia.stimg.co/ows_91b2211b-6349-4455-95a4-d8520a19bc00.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Gun-Toting ‘Guards’ at Florida Polls Claim They Were Hired By Trump Campaign — Trump Campaign Denies"
+    excerpt: "Two armed men dressed as security guards told cops they were hired by the Trump campaign to set up near a Florida early voting location — a claim that President Donald Trump's campaign denied through a spokesperson."
+    publishedDateTime: 2020-10-22T13:24:00Z
+    webUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/"
+    ampWebUrl: "https://www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/news/gun-toting-guards-at-florida-polls-claim-they-were-hired-by-trump-campaign-trump-campaign-denies/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 60
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Florida-Early-Voting.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The Latest: Trump Works Barron's Virus Diagnosis Into Speech"
+    excerpt: "President Donald Trump has added new material to his campaign rally speech: his teenage son Barron’s recent coronavirus infection."
+    publishedDateTime: 2020-10-15T19:21:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-15/the-latest-biden-thanks-gop-donors-after-record-fundraising?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Despite Past Democratic Wins, Trump Making a Play for Nevada"
+    excerpt: "Democrats have kept Nevada in their column in every presidential election since 2004. But political strategists and organizers on the ground warn Nevada is still a swing state. (Steve Marcus/Las Vegas Sun via AP,"
+    publishedDateTime: 2020-10-18T20:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Why Beijing May Want To Keep Trump In The White House"
+    excerpt: "Donald Trump has frustrated and enraged China during a tumultuous first term, but Beijing may welcome his re-election as it scans the horizon for the decline of its superpower rival. Relations are as icy as at any time since formal ties were established four decades ago,"
+    publishedDateTime: 2020-10-20T07:16:00Z
+    webUrl: "https://www.ibtimes.com/why-beijing-may-want-keep-trump-white-house-3065107"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/a-significant-worry-for-beijing-is-that-biden.jpg"
+        width: 1024
+        height: 681
+        isCached: true
+  - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
+    excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
+    publishedDateTime: 2020-10-21T03:37:00Z
+    webUrl: "https://www.ibtimes.com/trump-strongmen-how-us-leader-fell-autocrats-3065738"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/20/donald-trump-has-described-his-russian-counterpart-vladimir.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "How Donald Trump threatens the retirement of every American worker"
+    excerpt: "Tom Michels worked 31 years at LTV's iron ore mine in northern Minnesota — and had already started making retirement plans — when the company's bankruptcy wiped out his job and most of his hard-earned pension."
+    publishedDateTime: 2020-10-23T08:43:00Z
+    webUrl: "https://www.salon.com/2020/10/23/how-donald-trump-threatens-the-retirement-of-every-american-worker_partner/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 55
+    images:
+      - url: "https://media.salon.com/2018/08/trump-fox-and-friends2.jpg"
+        width: 846
+        height: 571
+        isCached: true
+  - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
+    excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
+    publishedDateTime: 2020-10-15T18:30:00Z
+    webUrl: "https://www.usnews.com/news/best-states/north-carolina/articles/2020-10-15/trump-gop-leaders-will-appeal-north-carolina-ballot-ruling"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "FuxltVzMEsP2DkIMvly9cDFGc4nPop6Z52lQtlhZXhHkczRARTZt2f4QIHkzqAZWplq078jDd7fyGxZkfksMWFzQ8niqSn0qFYOW6OAfrd17bBW0Wz3cw51okO0hYjs/AL+IRCT13r37gwv9Dyb9f1KEyNoSVaO6taVQakyi5LwIMJehzFgPtGNYa72BPVlc4B8ShqGRQ9LGKdL0+7B9mE0vkSag5CNI7O9XqgaoC2sKRwXtDN0Xs0wHqAFqT2r14YRlFDjFltNyWRrlc25jFiGJf6qSBs7tHVjthHO6kvGBnhcXP18zcFbyia4vpqAM9semRVTqarFTV0o4IibngZ3l+0cOUrPS89aRgIBOjV+0STWJuXilai7sx8fZVhElaQjVjDokSQvPcxX7eyBWF63NKoFsSqr3VmLo4Lt1jt7doR17TA8/oeOfBFglTUjgPrBbYCY3LLfBXvUqwPvXEmT7pHA0fy11lVPSqcEdmaJwA6Bw83kI0yYyHfBNlEElkE92ZO7GayV2iENjQIIVUg==;BWykXI2sQX1XnwMI0SgBgw=="

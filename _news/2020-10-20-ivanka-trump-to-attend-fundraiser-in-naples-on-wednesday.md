@@ -63,19 +63,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "President Trump, Donald Trump Jr., Ivanka Trump to visit North Carolina this week"
-    excerpt: "Donald J. Trump for President, Inc. has announced Donald Trump Jr. will host 'Make America Great Again!' events in Arden and Kernersville North Carolina on Monday. The first stop for Trump Jr. in North Carolina will be at the Emery Seal Co."
-    publishedDateTime: 2020-10-18T21:37:00Z
-    webUrl: "https://www.wfmynews2.com/article/news/politics/trump-jr-to-visit-nc/83-3df2fce2-c62c-4390-ad8e-0e7c98b9f839"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/trump-jr-to-visit-nc/83-3df2fce2-c62c-4390-ad8e-0e7c98b9f839"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/trump-jr-to-visit-nc/83-3df2fce2-c62c-4390-ad8e-0e7c98b9f839"
+  - title: "Donald Trump to campaign Wednesday in Gastonia"
+    excerpt: "The president will be at the Gastonia Municipal Airport Wednesday to campaign for his 2020 reelection campaign."
+    publishedDateTime: 2020-10-16T21:46:00Z
+    webUrl: "https://www.wcnc.com/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
+    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/north-carolina-politics/president-donald-trump-gastonia-airport-election-campaign-event/275-80a99ac8-73bf-439d-8c5c-c7edddcb78c8"
     type: article
     provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 70
+      name: WCNC
+      domain: wcnc.com
+    quality: 75
     images:
-      - url: "https://media.wfmynews2.com/assets/WFMY/images/d420b010-22e1-46d0-bed9-f1c54a73fae9/d420b010-22e1-46d0-bed9-f1c54a73fae9_750x422.jpg"
+      - url: "https://media.wcnc.com/assets/WZZM/images/d11f7245-6d50-49bc-81d7-092cae6f06dd/d11f7245-6d50-49bc-81d7-092cae6f06dd_750x422.jpg"
         width: 750
         height: 422
         isCached: true

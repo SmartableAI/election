@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 4428
+heat: 4448
 published: true
 
 provider:
@@ -727,6 +727,22 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/K20TIlelzjA/trump-biden-what-to-know-about-the-final-presidential-debate"
     ampWebUrl: "https://www.foxnews.com/politics/trump-biden-what-to-know-about-the-final-presidential-debate.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-what-to-know-about-the-final-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Final Trump-Biden presidential debate: Top 5 moments"
+    excerpt: "The final debate of the 2020 presidential election between President Trump and Democratic nominee Joe Biden was a much more orderly affair than the first, with heated but substantive exchanges on issues from the coronavirus to the economy."
+    publishedDateTime: 2020-10-23T08:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/12ldQcPWFQI/trump-biden-final-debate-top-5-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-final-debate-top-5-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-final-debate-top-5-moments.amp"
     type: article
     provider:
       name: Fox News

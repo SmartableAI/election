@@ -31,317 +31,214 @@ images:
     isCached: true
 
 related:
-  - title: "Bipartisan Christian group forms super PAC to oppose Trump"
-    excerpt: "A group of prominent Christians from both sides of the aisle, including a past faith adviser to former President Barack Obama, is forming a political action committee designed to chip away at Christia"
-    publishedDateTime: 2020-10-13T11:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bipartisan-christian-group-forms-super-pac-oppose-trump-73581491"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_31b82ad74ee34ba98f415b10c89ac659_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump tries to shore up support from big business, Iowans"
-    excerpt: "President Donald Trump is trying to shore up support from constituencies that not so long ago he thought he had in the bag: big business and voters in the red state of Iowa"
-    publishedDateTime: 2020-10-15T01:38:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/fighting-swing-states-trump-forced-play-defense-73600137"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d47b702268724e7b9f1ab4a4522bab57_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump ex-fundraiser to plead guilty in 1MDB foreign lobbying case"
-    excerpt: "A former fundraiser for U.S. President Donald Trump is expected to plead guilty next week to charges of illegally lobbying Trump to drop an investigation into a massive Malaysian embezzlement scandal,"
-    publishedDateTime: 2020-10-15T23:09:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-trump-broidy-idUSKBN27033J"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27033J"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27033J"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537663613&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E1W0"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "‘It needs to stop’: Whitmer slams Donald Trump for rally attack"
-    excerpt: "Trump’s barbs at Michigan Governor Gretchen Whitmer, the target of a kidnapping plot, prompted chants of ‘lock her up’."
-    publishedDateTime: 2020-10-18T16:05:00Z
-    webUrl: "https://www.aljazeera.com/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/18/trump-campaign-adviser-defends-whitmer-attack-as-having-fun"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 125
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/AP_20290786790341.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC"
-    excerpt: "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election."
-    publishedDateTime: 2020-10-13T15:26:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 123
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Conservative group head: Trump loss would not vindicate 'the old GOP formula'"
-    excerpt: "Oren Cass, executive director of the conservative think tank American Compass, said Thursday that if President Trump loses his reelection bid, the Republican Party’s takeaway should not be that “the o"
-    publishedDateTime: 2020-10-15T19:24:00Z
-    webUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula"
-    ampWebUrl: "https://thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521228-american-compass-director-a-trump-loss-would-not-vindicate-the-old-gop-formula?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump101220.jpg"
-        width: 797
-        height: 551
-        isCached: true
-  - title: "Christian group launching ads charging Trump 'used Christianity for his own purposes'"
-    excerpt: "A bipartisan coalition of Christians is forming a political action committee that aims to weaken President Trump’s standing with evangelical voters."
-    publishedDateTime: 2020-10-13T15:33:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520750-christian-group-launching-ads-charging-trump-used-christianity-for-his-own?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 118
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonaldbible.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Supreme Court will rule on Trump's plan to exclude undocumented immigrants from House apportionment"
-    excerpt: "Excluding undocumented immigrants likely would reduce the number of House seats in states such as California, Texas, Florida and New York."
-    publishedDateTime: 2020-10-16T21:40:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/16/justices-hear-census-dispute-over-counting-undocumented-immigrants/3671433001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3671433001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671433001"
+  - title: "Fact check: Joe Biden called 'forces of intolerance,' not Trump supporters, the 'dregs of society'"
+    excerpt: "Accounts linked to President Donald Trump and his family claim that Joe Biden called Trump supporters the \"dregs of society.\" In reality, he said that about \"forces of intolerance.\""
+    publishedDateTime: 2020-10-15T20:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-biden-never-called-trump-supporters-dregs-society/5966195002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5966195002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5966195002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 111
+    quality: 126
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/8e31a862-4134-4922-9fca-78e6f3e441ef-AP_2020_Census.jpg?auto=webp&crop=2593,1459,x6,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/022b4b6b-80ee-4401-b5ba-0f79b707c41f-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5799,3262,x1,y207&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "'Suburban women, will you please like me?': Trump attempts to appeal to voter group he has struggled to reach"
-    excerpt: "\"Suburban women, will you please like me? Please. Please. I saved your damn neighborhood, OK?\" Trump said at a rally Tuesday."
-    publishedDateTime: 2020-10-14T04:45:00Z
-    webUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-addresses-voter-group-struggled-to-reach-suburban-women-2020-10?amp"
+  - title: "AP FACT CHECK: Trump's shaky claims on virus, Dem misfires"
+    excerpt: "Impatient to return to the campaign trail, President Donald Trump made a series of claims over the weekend about his health and the course of the pandemic"
+    publishedDateTime: 2020-10-12T16:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trumps-shaky-claims-virus-dem-73557354"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 106
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f8644e9fd1f49001964d784?width=1200&format=jpeg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9d6e66d6924445e48427c1746568a45b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Fact check: Fake quote says Biden wants to 'lock down' US"
+    excerpt: "Does Democratic presidential candidate Joe Biden want to \"lock down our nation until we have a vaccine ready,\" like one Facebook meme claims?"
+    publishedDateTime: 2020-10-16T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/16/fact-check-fake-quote-says-joe-biden-wants-lock-down-us/3671196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3671196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3671196001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/11/PCIN/60f72b56-0dfd-42f8-8ab1-75b7160a1665-0930_Biden_train_tour.jpg?auto=webp&crop=1023,576,x0,y68&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
-  - title: "Is Trump Really That Racist?"
-    excerpt: "We know his rhetoric has been described as boundary-breaking when it comes to race. But U.S. presidents have been enacting racist policies forever. So as President Trump wraps up his first (and maybe only) term in office,"
-    publishedDateTime: 2020-10-21T05:37:00Z
-    webUrl: "https://www.npr.org/2020/10/19/925385389/is-trump-really-that-racist"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-17T16:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3667187001"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
     images:
-      - url: "https://media.npr.org/assets/img/2020/10/20/trump-vs-others_wide-af1f9fc7e2b9af4b6adbcdbb774bfc015333d92a.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Watchdog claims Trump campaign illegally coordinated with a Super PAC in 2016 through its work with Cambridge Analytica"
-    excerpt: "The Campaign Legal Center claimed newly published emails showed Cambridge Analytica's overlapping work for the campaign and PAC violated federal law."
-    publishedDateTime: 2020-10-17T07:08:00Z
-    webUrl: "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-illegally-coordinated-with-super-pac-2016-watchdog-says-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 101
-    images:
-      - url: "https://i.insider.com/5f58a80ce6ff30001d4e7a9a?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "President Trump Says Sudan to Be Removed From U.S. List of State Sponsors of Terrorism"
-    excerpt: "The move would open the door for the country to get international loans and aid needed to revive its battered economy"
-    publishedDateTime: 2020-10-19T21:10:00Z
-    webUrl: "https://time.com/5901546/us-terrorism-list-sudan/"
+  - title: "Fact check: Clip of Biden's statement on 'some Black woman' is missing context"
+    excerpt: "Commentary on clips of Biden discussing how a \"Black woman\" stocked his grocery shelves is missing context. Full video shows he was not being racist."
+    publishedDateTime: 2020-10-16T02:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/15/fact-check-joe-biden-clips-some-black-woman-stocking-shelves-lack-context/3656186001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3656186001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3656186001"
     type: article
     provider:
-      name: Time
-      domain: time.com
-    quality: 97
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
     images:
-      - url: "https://api.time.com/wp-content/uploads/2020/10/us-terrorism-list-sudan.jpg"
-        width: 5399
-        height: 3599
+      - url: "https://www.gannett-cdn.com/presto/2020/09/15/NLED/2f18dbc3-9b54-4e8b-a5ca-327dc34cf452-AP20259675695247.jpg?auto=webp&crop=2933,1650,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Did The Taliban Really Endorse Trump For Presidency?"
-    excerpt: "The claims were made by a WGA-awarded screenwriter and author Bess Kalb, whose work was featured on \"Jimmy Kimmel Live\" for eight years."
-    publishedDateTime: 2020-10-15T04:12:00Z
-    webUrl: "https://www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386"
-    ampWebUrl: "https://www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/did-taliban-really-endorse-trump-presidency-3062386?amp=1"
+  - title: "Fact check: Fabricated Biden quote supports transgender children’s right to transition"
+    excerpt: "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,"
+    publishedDateTime: 2020-10-22T18:38:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772PM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Fact check: Post misquotes Biden on court-packing amid debate over size of Supreme Court"
+    excerpt: "Joe Biden never said the “day after” he’s elected, people will “know what he stands for.” A Google search of the exact quote turned up no results."
+    publishedDateTime: 2020-10-22T16:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/22/fact-check-post-misquotes-joe-biden-court-packing/3713908001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3713908001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3713908001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/7e6fa779-ec61-40aa-bee2-2cf20a135ca7-AP20290022134268.jpg?auto=webp&crop=3732,2099,x674,y914&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: Biden leveraged $1B in aid to Ukraine to oust corrupt prosecutor, not to help his son"
+    excerpt: "Despite a Senate GOP investigation that found no wrongdoing by Joe Biden on foreign policy in Ukraine, claims to the contrary continue to circulate."
+    publishedDateTime: 2020-10-21T21:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2020/10/21/fact-check-joe-biden-leveraged-ukraine-aid-oust-corrupt-prosecutor/5991434002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5991434002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5991434002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2019/09/27/USAT/dadf01aa-eb70-4664-bb52-7c5b64523d76-EPA_FILE_USA_UKRAINE_WHISTLEBLOWER_COMPLAINT_TRUMP_BIDEN.JPG?auto=webp&crop=3499,1969,x0,y219&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fact check: The recovery of Trump and Johnson from COVID-19 does not prove vaccines are unnecessary"
+    excerpt: "A post has been shared on Facebook saying that the recovery of U.S. President Donald Trump and British Prime Minister Boris Johnson from COVID-19 “proves” there is no need for a vaccine. This claim is false."
+    publishedDateTime: 2020-10-15T12:36:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-vaccine/fact-check-the-recovery-of-trump-and-johnson-from-covid-19-does-not-prove-vaccines-are-unnecessary-idUSKBN2701GY"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2701GY"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GY"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537572406&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E0WX"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Fact Check: Would Biden Raise Your Taxes? It Depends on Your Income"
+    excerpt: "The Committee for a Responsible Federal Budget (CRFB) reported that Biden's plan would create revenue of \"$3.35 trillion and $3.67 trillion over a decade if enacted in full starting in 2021.\""
+    publishedDateTime: 2020-10-09T17:43:00Z
+    webUrl: "https://heavy.com/news/biden-taxes/"
+    ampWebUrl: "https://heavy.com/news/biden-taxes/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/biden-taxes/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/11/the-taliban-declared-victory-after-signing-the-deal.jpg"
-        width: 1024
-        height: 681
+      - url: "https://heavy.com/wp-content/uploads/2020/10/pjimage-36-1.jpg?quality=65&strip=all"
+        width: 780
+        height: 439
         isCached: true
-  - title: "Trump: Nebraska Sen. Sasse 'a liability to Republican Party'"
-    excerpt: "President Donald Trump pushed back Saturday at Sen. Ben Sasse on Twitter, calling the Nebraska senator “a liability to the Republican Party, and an embarrassment\" to the state. The president's Twitter attack came after Sasse told constituents in a telephone town hall Wednesday that Trump has “flirted with white supremacists,"
-    publishedDateTime: 2020-10-17T16:39:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Nebraska-Sen-Sasse-a-liability-to-15655393.php"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-19T15:48:00Z
+    webUrl: "https://www.indystar.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3667187001"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 72
     images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
-        isCached: true
-  - title: "Alleged China-Fighter Donald Trump Has Secret Chinese Bank Account"
-    excerpt: "Another big scandal — and huge conflict of interest — has surfaced from the tax returns obtained by the New York Times."
-    publishedDateTime: 2020-10-21T03:03:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/10/trump-secret-chinese-bank-account-hunter-biden-tax-returns.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/a51/9c0/644d15d0ac07c959530778ef6a92348a81-president-trump-in-China.1x.rsocial.w1200.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 632
+        height: 675
         isCached: true
-  - title: "Man Dangles From Roof Of Chicago's Trump Tower For 13 Hours, Demanding To Speak With President"
-    excerpt: "The man identified himself as a member of the Black Lives Matter movement. Reports say authorities have talked him down."
-    publishedDateTime: 2020-10-19T13:17:00Z
-    webUrl: "https://www.ibtimes.com/man-dangles-roof-chicagos-trump-tower-13-hours-demanding-speak-president-3064591"
-    ampWebUrl: "https://www.ibtimes.com/man-dangles-roof-chicagos-trump-tower-13-hours-demanding-speak-president-3064591?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/man-dangles-roof-chicagos-trump-tower-13-hours-demanding-speak-president-3064591?amp=1"
+  - title: "Fact check: Joe Biden never said he would have prevented all COVID-19 deaths"
+    excerpt: "A social media post claims Joe Biden said that if he had been president, \"not one person\" would have died from COVID-19. The claim is false."
+    publishedDateTime: 2020-10-20T10:27:00Z
+    webUrl: "https://www.azcentral.com/story/news/factcheck/2020/10/17/fact-check-joe-biden-never-said-he-would-have-prevented-all-covid-deaths/3667187001/"
+    ampWebUrl: "https://amp.azcentral.com/amp/3667187001"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3667187001"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 63
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 72
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/11/30/trump-tower.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/97db18d8-440c-4db9-93af-d38dd81dd39b-GTY_1279821427.jpg?auto=webp&crop=2370,1334,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "John Paulson and Donald Trump at Economic Club Luncheon"
-    excerpt: "American hedge fund manager John Paulson speaks with Republican Candidate for President Donald Trump at the Economic Club of New York Luncheon on September 15, 2016 at the Waldorf Astoria in New York City."
-    publishedDateTime: 2020-10-13T20:03:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/3dea318fcc4751b3003889c6ef766bd9/John-Paulson-and-Donald-Trump-at-Economic-Club-Luncheon/"
+  - title: "Fact check: Yes, Joe Biden took a knee in Miami. No, it wasn’t during the national anthem."
+    excerpt: "A Miami Herald photo of former vice president and Democratic presidential nominee Joe Biden taken during a campaign event in Miami’s Little Haiti neighborhood is being recirculated in social media with a false narrative that the national anthem was playing when the photo was taken."
+    publishedDateTime: 2020-10-12T00:40:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article246385535.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article246385535.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article246385535.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 65
     images:
-      - url: "https://cdnph.upi.com/pv/upi/3dea318fcc4751b3003889c6ef766bd9/TRUMP-ECONOMIC-CLUB.jpg"
-        width: 650
-        height: 429
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/f0193b67-c79f-4001-8a27-6109bd7bb30d/de4342bb-06c5-4dde-98b1-4c8915f4b177/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Mass. middle schooler who supports Trump asks for staff training"
-    excerpt: "The student's family hired an attorney and wrote to administrators in early October asking for the teacher to apologize and for the school to train staff to respect the views of students"
-    publishedDateTime: 2020-10-14T11:48:00Z
-    webUrl: "https://bangordailynews.com/2020/10/14/news/new-england/mass-middle-schooler-who-supports-trump-asks-for-staff-training/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 55
-    images:
-      - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2020/10/APTOPIX-Election-2020-Trump.jpg?fit=1024%2C683&#038;ssl=1"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Supreme Court TV? Trump Nominee Has Open Mind on Cameras"
-    excerpt: "Neither video nor still cameras are allowed in the Supreme Court chamber. But the court, in a break with precedent, allowed live audio of its oral arguments at the end of its most"
-    publishedDateTime: 2020-10-14T15:36:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-14/supreme-court-tv-trump-nominee-has-open-mind-on-cameras?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Despite Past Democratic Wins, Trump Making a Play for Nevada"
-    excerpt: "Democrats have kept Nevada in their column in every presidential election since 2004. But political strategists and organizers on the ground warn Nevada is still a swing state. (Steve Marcus/Las Vegas Sun via AP,"
-    publishedDateTime: 2020-10-18T20:19:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-18/despite-past-democratic-wins-trump-making-a-play-for-nevada?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "Trump Says Sudan to Be Removed From Terrorism List"
-    excerpt: "President Donald Trump says Sudan will be removed from the U.S. list of state sponsors of terrorism, a move that would open the door for the African country to get the international loans and aid that are essential for reviving its battered economy and rescuing the country’s transition to democracy."
-    publishedDateTime: 2020-10-20T01:21:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2020-10-19/trump-says-sudan-will-be-removed-from-terrorism-list"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "/Y9s6K8Ry6z2CtARGufxj4/b3xHfOt3q7gReSxsCE7zetaRPyEn7VFM9ExNqmeMXYOY3a2wgEFm0VOjjL6GMk/zAzVU9swSVG9pq8Q3HQo6wHDwCVVzX4Sq4rZzwdzvrD/ewk2euo/oF9KSKpbk5SdRY8NyZ6F7LNIMyxyiKlSIRGUkrp4XQ7i1UOUo9rvvhhuWGAKNl+vVHDOqDk5lYvbFZGOrv08JWIUv+BN3SId4k+Y0D9DG4AbbKvno954v7nLlYf2VVuIQ56uuVNAgHcCdmWKisazNNmr0UzcMn0FFxUosf8MY2TLwBVkkXnqHudb3Le1X/kggy0zTGL9P2cKGQxeRmepdssQE38JnGI4Fbp98tRBzY74f+cto00/P7lRBYSlEQkGvi2PgsA8ppOGf7Gzk+xrfOAxMh0OXBDJgMz4U2GOxNKsL5MZn7HNhtQG7Trf59MfZTrwCnnWItJ3vB02Wlf+NCneqcXPneKj+JR62DMmpBEyx36b1aGhFVIsMhX9nzptPmVVbPi7R7Hw==;k2d52SFSmXZKrJR2QYRNqA=="
 ---

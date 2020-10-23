@@ -25,93 +25,155 @@ images:
     isCached: true
 
 related:
-  - title: "Watch live: Biden gives remarks from Duluth, Minnesota"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-18T19:16:00Z
-    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
-    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+  - title: "Pence, Ivanka visit salon damaged by Minneapolis unrest"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop Thursday at a hair salon left in rubble by the violence that followed George Floyd's death, part of a campaign visit aimed at driving home President Donald Trump's law-and-order message in a key swing state."
+    publishedDateTime: 2020-09-25T05:52:00Z
+    webUrl: "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9"
+    ampWebUrl: "https://www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pence-ivanka-visit-salon-damaged-by-minneapolis-unrest-2020-9?amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
-        width: 580
-        height: 391
-        isCached: true
-  - title: "Watch live: Biden gives remarks from Duluth, Minnesotta"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to give remarks in Duluth, Minn., on Friday after touring a local union training center.The event is scheduled to begin at 3:45 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-09-18T19:16:00Z
-    webUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta"
-    ampWebUrl: "https://thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/517093-watch-live-biden-gives-remarks-from-duluth-minnesotta?amp"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Pence and Ivanka Trump visit metro, pushing law-and-order message. Dems: What about the pandemic?"
+    excerpt: "Vice President Mike Pence and Ivanka Trump swung through the metro Thursday with a law-and-order message, seeking to frame the civil unrest following George Floyd’s killing as most notably"
+    publishedDateTime: 2020-09-25T01:23:00Z
+    webUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/"
+    ampWebUrl: "https://www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2020/09/24/pence-and-ivanka-trump-visit-metro-pushing-law-and-order-message-dems-what-about-the-pandemic/amp/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 77
     images:
-      - url: "https://thehill.com/sites/default/files/newsletter-biden_091020getty.jpg"
-        width: 580
-        height: 391
-        isCached: true
-  - title: "Watch live: Biden holds town hall event"
-    excerpt: "Democratic presidential nominee Joe Biden is slated to hold a town hall event Thursday evening on ABC.The event is scheduled to begin at 8 p.m. EDT.Watch the live video above."
-    publishedDateTime: 2020-10-15T22:46:00Z
-    webUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event"
-    ampWebUrl: "https://thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/campaign/521288-watch-live-biden-holds-town-hall-event?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Hunter Biden Received a $3.5 Million Payment From Ex-Moscow Mayor's Wife, Republican Report Says"
-    excerpt: "A new report from Senate Republicans alleges that Democratic presidential nominee Joe Biden's son Hunter Biden received a $3.5 million payment from the wealthy wife of Moscow's former mayor, amid a slew of other financial transactions and entanglements that federal government officials warned presented conflicts of interest as the former vice president spearheaded the Obama administration's Ukraine policy."
-    publishedDateTime: 2020-09-23T14:41:00Z
-    webUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834"
-    ampWebUrl: "https://www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunter-biden-received-35-million-payment-ex-moscow-mayors-wife-republican-report-says-1533834?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 112
-    images:
-      - url: "https://d.newsweek.com/en/full/1641168/hunter-biden.jpg"
+      - url: "https://www.twincities.com/wp-content/uploads/2020/09/Election_2020_Pence_Minnesota_19239.jpg?w=1024&h=683"
         width: 1024
-        height: 576
+        height: 683
         isCached: true
-  - title: "President Donald Trump to return to Minnesota next week, visit Duluth"
-    excerpt: "President Donald Trump will visit Minnesota once again next week, making a campaign appearance in Duluth. The president has made multiple campaign stops in the state this year. Trump and former Vice President Joe Biden made appearances on the same day in northern Minnesota last week."
-    publishedDateTime: 2020-09-26T03:10:00Z
-    webUrl: "https://www.startribune.com/president-trump-to-return-to-minnesota-next-week/572542951/"
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T21:39:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/Pence-brings-law-and-order-tour-to-city-where-15591569.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 75
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/24/02/20005034/17/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump's law-and-order message to Minneapolis, the city where George Floyd's death set off a worldwide protest movement"
+    publishedDateTime: 2020-09-24T09:43:00Z
+    webUrl: "https://www.wsoctv.com/news/politics/pence-ivanka-bring/3KET4EULBN5V2CPVIYXFKL5TEY/"
+    type: article
+    provider:
+      name: WSOC-TV
+      domain: wsoctv.com
+    quality: 55
+    images:
+      - url: "https://www.wsoctv.com/resizer/OfjKAtgntrfUZoAA-Ah1H6xylh8=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/Z6Y2IMATLM3FKG2DWL2WVOLAZE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Gov. Tim Walz calls out National Guard for Pence visit in Minneapolis"
+    excerpt: "Gov. Tim Walz activated the Minnesota National Guard Thursday in anticipation of protests surrounding Vice President Mike Pence’s campaign stop in Minneapolis. “Out of an abundance of caution for the safety of Minnesotans,"
+    publishedDateTime: 2020-09-24T19:38:00Z
+    webUrl: "https://www.startribune.com/gov-tim-walz-calls-out-national-guard-for-pence-visit-in-minneapolis/572523491/"
     type: article
     provider:
       name: StarTribune
       domain: startribune.com
     quality: 55
     images:
-      - url: "https://stmedia.stimg.co/1601076390_19535581+1mndt092620.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://stmedia.stimg.co/ows_ec17e486-cf54-4450-9fb6-8c5049d29283.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden Carpenter Union Training Center Tour in Duluth, Minnesota"
-    excerpt: "T15:01:02-04:00 presidential candidate Joe Biden tours a carpenter union training center in Duluth, Minnesota, and meets with some of the trainees. Democratic presidential candidate Joe Biden tours a carpenter union training center in Duluth,"
-    publishedDateTime: 2020-09-21T01:58:00Z
-    webUrl: "https://www.c-span.org/video/?476025-1/joe-biden-tours-carpenter-union-training-center-duluth-minnesota"
+  - title: "Gov. Walz Activates National Guard For Pence Visit"
+    excerpt: "Minnesota's governor called in the National Guard on Thursday to help provide security and keep the peace during a visit by Vice President Mike Pence and Ivanka Trump to the city where George Floyd's death sparked angry protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/24/gov-walz-activates-national-guard-for-pence-visit/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
+  - title: "Minnesota governor activates National Guard for Pence visit"
+    excerpt: "Vice President Mike Pence and Ivanka Trump made an unannounced stop at a Minneapolis hair salon left in rubble by the violence that followed George Floyd’s death. The campaign visit Thursday was aimed at driving home President Donald Trump’s law-and-order message."
+    publishedDateTime: 2020-09-25T03:59:00Z
+    webUrl: "https://ktiv.com/2020/09/24/minnesota-governor-activates-national-guard-for-pence-visit/"
+    type: article
+    provider:
+      name: KTIV
+      domain: ktiv.com
+    quality: 55
+    images:
+      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/4/2018/08/21141516/AP.jpg"
+        width: 950
+        height: 534
+        isCached: true
+  - title: "VP Pence, Ivanka Bring Law-And-Order Tour To Minneapolis"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-24T23:33:00Z
+    webUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/"
+    ampWebUrl: "https://minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/09/23/vp-pence-ivanka-bring-law-and-order-tour-to-city-of-floyd/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 55
+  - title: "Pence, Ivanka bring law-and-order tour to city of Floyd"
+    excerpt: "Vice President Mike Pence and Ivanka Trump are bringing President Donald Trump’s law-and-order campaign message to Minneapolis on Thursday, showing support for law enforcement in the city where George Floyd's death sparked angry and sometimes violent protests that spread around the world."
+    publishedDateTime: 2020-09-25T21:57:00Z
+    webUrl: "https://www.wfmj.com/story/42672370/pence-ivanka-bring-law-and-order-tour-to-city-of-floyd"
+    type: article
+    provider:
+      name: WFMJ
+      domain: wfmj.com
+    quality: 55
+    images:
+      - url: "https://APPREMIUM.images.worldnow.com/images/19914411_G.jpg?lastEditedDate=1600872460000"
+        width: 512
+        height: 341
+        isCached: true
+  - title: "Pence to cops in Minneapolis: 'We’re with you'"
+    excerpt: "The vice president and President Donald Trump’s daughter came to Minneapolis Thursday with a clear message: They’re with the cops."
+    publishedDateTime: 2020-09-25T21:24:00Z
+    webUrl: "https://www.southernminn.com/le_sueur_county_news/news/state/article_7d64bf72-c8e3-58a7-bbee-f06530a97ff1.html"
+    type: article
+    provider:
+      name: Southern Minn
+      domain: southernminn.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/southernminn.com/content/tncms/assets/v3/editorial/0/e0/0e0b753f-a8f6-59aa-b4a6-82fc4965a2f2/5f4985a7a9b51.image.jpg?crop=1721%2C968%2C0%2C117&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Vice President Mike Pence highlights Minneapolis destruction in wake of George Floyd's killing"
+    excerpt: "Vice President Mike Pence invited all the police officers in the audience to stand and be recognized with applause. Vice President Mike Pence and Ivanka Trump are holding a 'Cops for Trump' listening session in Minneapolis,"
+    publishedDateTime: 2020-09-25T03:57:00Z
+    webUrl: "https://www.startribune.com/pence-uses-visit-to-highlight-minneapolis-destruction-in-wake-of-george-floyd-s-killing/572523491/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 43
+    images:
+      - url: "https://stmedia.stimg.co/1600987531_19469741+2pence092520.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zHku5QTDSG5DH/ySzcsGhUOGrPY+ro8ctI1SMWIUNzytfsUfp4vG8XDs76TlHXvD0lwoIad9Ve/Vfu2vO8BPWe4d6cG3SeRlfemNsN2sh3iJUSLk2FYld6GCug6ZtusRsa6HlT2FWSaKO4dNugE5upn9f6YozyZ4VFT8UeSBXqe1av7gE99qJBCcQEq5mcGP4qAJlW8KOPfrMtPgw+OBYLRC91gf3JEGXSGcc7PI1EkDIP1P5XCoGsb0nFn45xJzehbWXLUMGU0JhyoaDRcXWE728bt0evx3kE0ndS+en73c/cXs8+rzwYhLBkCRChENq5jTHfMWZ6TLsomMhEa2ORkljaS5ps+9EL04NvRmHK4=;Di8lvukyyVVydwZ2pnq4Qg=="
 ---

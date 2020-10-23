@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "A conservative’s case for Biden"
+    excerpt: "There are many conservative reasons to vote against Trump — but what about positive reasons to vote for Biden?"
+    publishedDateTime: 2020-10-15T19:27:00Z
+    webUrl: "https://www.washingtonpost.com/opinions/conservative-case-for-biden/2020/10/15/270bc17a-0f13-11eb-8074-0e943a91bf08_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/opinions/conservative-case-for-biden/2020/10/15/270bc17a-0f13-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/conservative-case-for-biden/2020/10/15/270bc17a-0f13-11eb-8074-0e943a91bf08_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2IIZCAAOKMI6XCRVEN7PD2ZO64.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Progressives warn Biden: No corporate lobbyists"
     excerpt: "And progressives want to make sure Joe Biden doesn’t forget it: Left-wing House members including Reps. Alexandria Ocasio-Cortez, Katie Porter, Ayanna Pressley, Raúl Grijalva and candidate Jamaal Bowman along with 39 progressive groups signed a letter,"
     publishedDateTime: 2020-10-16T20:07:00Z
@@ -139,6 +155,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Takeaways from Joe Biden's town hall"
+    excerpt: "Watch \"Takeaways from Joe Biden's town hall\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-16T17:38:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201016171146-takeaways-from-joe-bidens-town-hall/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/16/story_07290477_1602868745.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden's socially distanced campaign"
     excerpt: "Deanna White of Durham looks on from her vehicle as Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event at Riverside High School in Durham, North Carolina, Octob"
     publishedDateTime: 2020-10-19T20:41:00Z
@@ -152,6 +182,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201019&t=2&i=1538082264&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-19T202713Z_37091_MRPRC26LJ9NSXSX_RTRMADP_0_USA-ELECTION-BIDEN"
         width: 810
         height: 611
+        isCached: true
+  - title: "Biden town hall: Win or lose on Election Day, Joe Biden calls for unity and dignity"
+    excerpt: "Democratic presidential nominee Joe Biden, in a primetime town hall Thursday, made the case that Americans want more inclusion and dignity across the board, an outlook at odds with what Biden described as President Donald Trump ’s “divide and conquer” strategy."
+    publishedDateTime: 2020-10-16T02:42:00Z
+    webUrl: "https://www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html"
+    ampWebUrl: "https://www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/biden-town-hall-win-or-lose-on-election-day-joe-biden-calls-for-unity-and-dignity.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XQT4UASQ2VBOBMNUIHHH6G56NY.jpg"
+        width: 4017
+        height: 2678
+        isCached: true
+  - title: "The real Joe Biden is far from the one you endorsed"
+    excerpt: "If Joe Biden wins but is unable to carry out his duties, then it is likely to be the far left progressives who will actually be running things. Is that really what The Plain Dealer is endorsing, asks Jim Johnston of Avon Lake in a letter to the editor."
+    publishedDateTime: 2020-10-19T17:11:00Z
+    webUrl: "https://www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html"
+    ampWebUrl: "https://www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2020/10/the-real-joe-biden-is-far-from-the-one-you-endorsed.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/V6YIY2S4QJDWJLC3VGTNZA3T5Q.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Joe Biden The Overwhelming Favorite In Mock Election Held By California Students"
     excerpt: "If California students had their say, Joe Biden would be elected the next President of the United States. Last week, a total of 181 schools across the state participated in a mock election where students got to vote on the presidential race and California ballot measures that will be on the real ballot come November."

@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Vice President Mike Pence to vote Friday morning in Indianapolis"
+    excerpt: "Vice President Mike Pence will vote in Indianapolis Friday morning. Pence had been scheduled to cast his ballot at the City-County Building Oct. 10 but abruptly canceled the trip without explanation."
+    publishedDateTime: 2020-10-23T10:15:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2020/10/23/vice-president-mike-pence-vote-friday-morning-indianapolis/3728765001/"
+    ampWebUrl: "https://amp.indystar.com/amp/3728765001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/3728765001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/fb21da3d-bf78-41a9-a554-80a704625016-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-74.JPG?auto=webp&crop=2597,1461,x0,y132&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vice President Pence in Indy to vote"
+    excerpt: "Some 13News viewers asked about Pence's eligibility to vote in Indiana, given his residency in Washington. Since Pence is temporarily living in government-provided housing, his re"
+    publishedDateTime: 2020-10-23T11:47:00Z
+    webUrl: "https://www.wthr.com/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
+    ampWebUrl: "https://www.wthr.com/amp/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
+    cdnAmpWebUrl: "https://www-wthr-com.cdn.ampproject.org/c/s/www.wthr.com/amp/article/news/politics/vice-president-pence-in-indianapolis-to-vote/531-3cc8203c-525c-4660-b0a9-b9e6e0f0d95f"
+    type: article
+    provider:
+      name: WTHR
+      domain: wthr.com
+    quality: 75
+    images:
+      - url: "https://media.tegna-media.com/assets/WTHR/images/d32e7964-2e7a-4fae-b5e8-5289cc0b8420/d32e7964-2e7a-4fae-b5e8-5289cc0b8420_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
     excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
     publishedDateTime: 2020-10-20T18:27:00Z

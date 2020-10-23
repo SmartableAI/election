@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Trump, Biden fight over the raging virus, climate and race"
-excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus during the campaign's closing debate, largely shelving the rancor that overshadowed their previous face-off in favor of a more substantive exchange that highlighted their vastly different approaches to the major domestic and foreign challenges facing the nation."
-publishedDateTime: 2020-10-23T05:10:00Z
-originalUrl: "https://www.chron.com/news/article/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
-webUrl: "https://www.chron.com/news/article/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
-ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
+excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus in Thursday’s final 2020 debate"
+publishedDateTime: 2020-10-23T08:08:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-biden-fight-raging-virus-climate-race-73781575"
 type: article
-quality: 90
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: ABC
+  domain: abcnews.go.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
+  - url: "https://s.abcnews.com/images/Politics/WireAP_17ff38b208ca43e9ac9dca1524bf4814_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -810,6 +814,54 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90695c6ddfc07a9dd340f1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1687"
         width: 1200
         height: 675
+        isCached: true
+  - title: "In final Trump-Biden showdown, less chaos but plenty of clashes"
+    excerpt: "U.S. President Donald Trump and Democratic challenger Joe Biden offered sharply contrasting views on the still-raging coronavirus pandemic at Thursday's final presidential debate, seeking to persuade the few remaining undecided voters 12 days before their Nov."
+    publishedDateTime: 2020-10-23T11:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate/with-time-running-out-trump-again-forced-to-defend-coronavirus-approach-at-debate-idUSKBN2770HB"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2770HB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2770HB"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538543577&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M05P"
+        width: 826
+        height: 545
+        isCached: true
+  - title: "The Note: Trump still searching for Biden who isn’t"
+    excerpt: "President Donald Trump still needs his Joe Biden to be someone and something that he isn't quite -- or hasn't yet been."
+    publishedDateTime: 2020-10-23T10:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/note-trump-searching-biden-isnt/story?id=73769850"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/note-trump-searching-biden-isnt/story?id=73769850"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/note-trump-searching-biden-isnt/story?id=73769850"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-biden-debate-nashville-49-gty-jc-201022_1603424586139_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump-Biden clash over climate change adds to cloud over oil stocks"
+    excerpt: "U.S. Democratic presidential challenger Joe Biden's clean energy plans put the spotlight on oil companies and stocks during Thursday's final debate with President Donald Trump, even though crude oil futures fell very marginally after the statements."
+    publishedDateTime: 2020-10-23T10:13:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-climate-change/trump-biden-clash-over-climate-oil-industry-in-final-debate-idUSKBN2780HW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780HW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780HW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538584814&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0AY"
+        width: 817
+        height: 545
         isCached: true
   - title: "Trump, Biden clash over climate, oil industry in final debate"
     excerpt: "Republican President Donald Trump and Democratic challenger Joe Biden clashed over the country's response to climate change in their final presidential debate on Thursday, which included a stark disagreement over the future of the oil industry."
@@ -4549,6 +4601,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "vxYfqkLaAdI1UdUwZvD8WVSAHzZjzrMB/won9rX6Y2SnasNt60xkDDib7AUogmfwaWh3LDZ3NZM3AwTqgXQVyigYNfobMf2TlRbzRTX4ciaCA7RVVui82h10XqemHI1381JXn/D51GejoUzNOw6EH59DdXKc5/uD6Alm2+2bOBaevnmNvwKEVqBQY9PmnZasGBk+nVhnL4cocU+oRuawBUmdSVN1rt30ncN8qVLpZVLogxAKdOLv8AGBy6Wtql0TMaeDWr6Ka8rAsAdYnRnn+Qxs9ecrY31RGhYuo0n1bQXoxebFyRphfidbcCfw2s+WTmAELemlpi9/U5UfhsnSap8iVKAtGtP04iY8XjgYEp0=;B+Dg+XFAIvhP6DrdF5OLHA=="
+secured: "Wk+P9KWnfhhbOSYPyl+N21A5Fs4MCZA7vQVoq55GW3/3u5JnyjJj1XtxSM0369j/5FNvtnVO/I0KdMct7dpts2ZW43VWan5CakI2R+zNeCrKxgJ+OwQKvEoVoA0TWAZlEqrKqLTS0p35FCsRziRSUEnoJSHBDuRiktKEATBLKomraU1N1yslmd/jc63wfv7azGrmNc7b68OjilvUI8Bm/+6aS0gHJlfCAca45iv8AQadG/4BZIwlB/28MGkPomQu2OZX5w46erTu4k6VyYRoKOjOZaOsQTllM8jOVZCOIsVk60KKL9nO4HPvVexnBQvFJfNifRXH5CguVcdgfRuDQiZaosh03GAePY4uNRI6UkI=;TaEoOns6N7x4VaoggEja5g=="
 ---
 

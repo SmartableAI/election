@@ -754,6 +754,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Final Trump-Biden presidential debate: Top 5 moments"
+    excerpt: "The final debate of the 2020 presidential election between President Trump and Democratic nominee Joe Biden was a much more orderly affair than the first, with heated but substantive exchanges on issues from the coronavirus to the economy."
+    publishedDateTime: 2020-10-23T08:50:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/12ldQcPWFQI/trump-biden-final-debate-top-5-moments"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-final-debate-top-5-moments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-final-debate-top-5-moments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden clashes with Trump over Antifa: 'It's an idea, not an organization'"
     excerpt: "President Trump and former Vice President Joe Biden had a heated exchange over extremist violence with each facing questions over their stances towards them."
     publishedDateTime: 2020-09-30T10:38:45Z

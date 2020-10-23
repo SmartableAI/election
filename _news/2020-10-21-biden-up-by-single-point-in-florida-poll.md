@@ -31,117 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "George Floyd's sister calls for change in new Biden ad"
-    excerpt: "In a new ad released by Democratic nominee Joe Biden's campaign on Wednesday, Bridgett Floyd, sister of George Floyd, calls for change and discusses the importance of voting after her brother was killed by police officers in Minneapolis,"
-    publishedDateTime: 2020-10-14T16:00:00Z
-    webUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad"
-    ampWebUrl: "https://thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/520979-george-floyds-sister-calls-for-change-in-new-biden-ad?amp"
+  - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
+    excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
+    publishedDateTime: 2020-10-22T00:28:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-election-battlegrounds-poll-idUKKBN276324"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN276324"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN276324"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Reuters
+      domain: reuters.com
+    quality: 137
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538368029&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K1VV"
+        width: 942
+        height: 545
+        isCached: true
+  - title: "Florida county suspends worker who flew Trump flag on government truck"
+    excerpt: "Palm Beach County officials accuse Randall Williams of violating county rules that ban politicking on county time or on county vehicles."
+    publishedDateTime: 2020-10-14T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/state/2020/10/14/florida-palm-beach-county-employee-suspended-flying-trump-flag-work-vehicle/3651693001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3651693001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3651693001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/georgefloyd063020.jpg"
-        width: 780
-        height: 551
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/NPPP/3253e320-e0cc-4691-951e-4e6f07e850ec-thumbnail_IMG_20201008_165418.jpg?auto=webp&crop=787,443,x34,y482&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Who Is George Stephanopoulous, Moderator of Biden Town Hall?"
-    excerpt: "Stephanopoulous, 59, leads breaking news and major special events coverage for ABC, a position he's held since 2014."
-    publishedDateTime: 2020-10-15T19:00:00Z
-    webUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523"
-    ampWebUrl: "https://www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/who-george-stephanopoulous-moderator-biden-town-hall-1539523?amp=1"
+  - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
+    excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
+    publishedDateTime: 2020-10-15T02:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising/biden-and-democrats-raised-record-383-million-in-sept-for-white-house-bid-idUSKBN27004S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27004S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27004S"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1653288/george-stephanopoulos.jpg"
-        width: 3606
-        height: 2549
-        isCached: true
-  - title: "Biden campaign removing retired general from ad after his complaint"
-    excerpt: "The Biden campaign will remove images of a former commander of the U.S.-led anti-ISIS military coalition from an ad after he called out the campaign for including him without his permission, a spokesman said Monday."
-    publishedDateTime: 2020-10-19T21:32:00Z
-    webUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint"
-    ampWebUrl: "https://thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/521760-biden-campaign-removing-retired-general-from-ad-after-his-complaint?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "The best case against a Biden presidency: Him"
-    excerpt: "When you take a clear-eyed look at Biden, there is no meaningful case for his candidacy. His biggest argument is that he is the “good guy” in this election, which he describes as a “battle for the soul of the nation."
-    publishedDateTime: 2020-10-21T16:45:00Z
-    webUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him"
-    ampWebUrl: "https://thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522050-the-best-case-against-a-biden-presidency-him?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden endorses Democratic challenger in Texas House district"
-    excerpt: "Democratic presidential nominee Joe Biden has thrown his support behind progressive congressional candidate Julie Oliver in her race for a House seat in central Texas."
-    publishedDateTime: 2020-10-21T19:20:00Z
-    webUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district"
-    ampWebUrl: "https://thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522086-biden-endorses-democratic-challenger-in-texas-house-district?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "A person who has flown with Biden in recent days tests positive for COVID-19"
-    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T20:45:00Z
-    webUrl: "https://abcnews.go.com/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/person-flown-biden-tests-positive-covid-19/story?id=73639218"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "George Floyd's sister says Biden is 'the change that we need' in new campaign ad"
-    excerpt: "The Democratic presidential nominee released the ad on what would have been George Floyd's 47th birthday, in an appeal to Black voters."
-    publishedDateTime: 2020-10-14T18:44:00Z
-    webUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/george-floyd-civil-rights-joe-biden-ad-election-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
-    images:
-      - url: "https://i.insider.com/5f871fa52a400c0019deba3a?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537515404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E033"
+        width: 817
+        height: 545
         isCached: true
   - title: "Joe Biden Opens Up Lead in Florida, Has Increased Chance of Winning With Bookmakers"
     excerpt: "\"It seems that the books believe Biden is hitting stride at just the right time,\" said betting comparison website Oddschecker."
@@ -159,159 +95,130 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Aviation staffer who has flown with Biden in recent days tests positive for COVID-19"
-    excerpt: "The Biden campaign has announced someone who flew with the former vice president to Ohio on Monday and Florida on Tuesday has tested positive for COVID-19."
-    publishedDateTime: 2020-10-15T23:46:00Z
-    webUrl: "https://abcnews.go.com/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/aviation-staffer-flown-biden-recent-days-tests-positive/story?id=73639218"
+  - title: "Joe Biden is making a late push for Cuban American voters in Florida. Will it matter?"
+    excerpt: "The Biden campaign made what one pollster called \"night and day difference\" in its outreach to Hispanic voters in Florida, which lifted its support."
+    publishedDateTime: 2020-10-21T01:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/world/2020/10/20/election-2020-biden-making-inroads-cuban-american-voters/5884192002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5884192002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5884192002"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: USA Today
+      domain: usatoday.com
     quality: 118
     images:
-      - url: "https://s.abcnews.com/images/US/joe-biden-florida-flight-boarding-03-ap-jc-201015_1602794730255_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Georgetown University report finds Joe Biden's free public college plan would pay off within 10 years"
-    excerpt: "To address such concerns, Democratic nominees former Vice President Joe Biden and Senator Kamala Harris have proposed a lengthy education plan that includes an eye-catching proposal: tuition-free public college for all families with incomes below $125,"
-    publishedDateTime: 2020-10-14T14:17:00Z
-    webUrl: "https://www.cnbc.com/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/13/report-finds-bidens-free-college-play-would-pay-off-within-10-years.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 110
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106742672-1602619695489-Former_Vice_President_and_presidential_nominee_Joe_Biden.jpg?v=1602619788"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Joe Biden prepares for final debate as Obama hits the campaign trail"
-    excerpt: "Democratic nominee Joe Biden has no public events scheduled Wednesday as he prepares for Thursday's second and final presidential debate. Meanwhile, former President Barack Obama will make his first in-person campaign appearance on Biden's behalf in Philadelphia."
-    publishedDateTime: 2020-10-21T15:43:00Z
-    webUrl: "https://www.cbsnews.com/video/joe-biden-campaign-prepare-debate-obama-philadelphia/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/21/a429cbc0-5775-483b-87d7-24f0a697b41d/thumbnail/1200x630/e72afb088e1d6bd07f186c30bf1ae09c/cbsn-fusion-joe-biden-takes-break-from-campaign-trail-to-prepare-for-last-debate-before-election-thumbnail-571471-640x360.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/19/USAT/c5107522-4dbb-4bb7-bc07-5a9025a578a7-AFP_AFP_8T24WG.jpg?auto=webp&crop=5567,3132,x0,y0&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Insiders at the NY Post are griping about the Hunter Biden coverage, highlighting a political divide in the tabloid newsroom"
-    excerpt: "The publication of the story so close to the election quickly stirred questions and conspiracy theories among some Post rank-and-file."
-    publishedDateTime: 2020-10-16T23:49:00Z
-    webUrl: "https://www.businessinsider.com/ny-post-insiders-gripe-about-biden-coverage-2020-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 78
-    images:
-      - url: "https://i.insider.com/5f8a00499e9fe40019009e3b?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Harry Dunn death: Mum appeals to US candidate Joe Biden"
-    excerpt: "The mother of Harry Dunn has called on the US presidential candidate Joe Biden to help bring her son's alleged killer to justice if he wins the election. Charlotte Charles's 19-year-old son was killed when his motorbike and a car driven by American Anne Sacoolas crashed outside a US military base."
-    publishedDateTime: 2020-10-18T12:44:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-england-northamptonshire-54589802?intlink_from_url=&link_location=live-reporting-story"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-england-northamptonshire-54589802"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 75
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/6A72/production/_109205272_harry_dunn.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "The good and bad of Joe Biden’s $2 trillion climate change plan: Bjorn Lomborg"
-    excerpt: "We are not sustainably going to fix climate change with expensive policies that are hundreds or thousands of times more costly than what people are willing to pay."
-    publishedDateTime: 2020-10-13T22:05:00Z
-    webUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/"
-    ampWebUrl: "https://www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
-    cdnAmpWebUrl: "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2020/10/13/the-good-and-bad-of-joe-bidens-2-trillion-climate-change-plan-bjorn-lomborg/amp/"
-    type: article
-    provider:
-      name: Los Angeles Daily News
-      domain: dailynews.com
-    quality: 71
-    images:
-      - url: "https://www.dailynews.com/wp-content/uploads/2020/10/OCR-L-VIRUS-CLIMATECHANGE-0403-02-1.jpg?w=1024&h=662"
-        width: 1024
-        height: 662
-        isCached: true
-  - title: "Massachusetts Gov. Charlie Baker floated as possible Cabinet member for Joe Biden"
-    excerpt: "Baker finds himself among a handful of Republicans currently under consideration for Cabinet posts should Biden beat Trump."
-    publishedDateTime: 2020-10-20T20:42:00Z
-    webUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html"
-    ampWebUrl: "https://www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/10/massachusetts-gov-charlie-baker-floated-as-possible-cabinet-member-for-joe-biden.html?outputType=amp"
-    type: article
-    provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 70
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SCABQQT6OZCHVNUUEPFM2KFSZM.JPG"
-        width: 3000
-        height: 2187
-        isCached: true
-  - title: "Twitter erupts over Sam Elliott TV ad for Joe Biden during World Series"
-    excerpt: "Actor Sam Elliott lent his voice to a Joe Biden campaign video that aired during the World Series Tuesday and became a Twitter magnet. See the ad and responses to"
-    publishedDateTime: 2020-10-21T03:45:00Z
-    webUrl: "https://tulsaworld.com/article_0346b718-cd6f-56a1-b748-63e502647644.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/0/34/0346b718-cd6f-56a1-b748-63e502647644/5f8facfc3043c.preview.jpg?crop=1763%2C992%2C0%2C92&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Charlie Baker Reportedly Under Consideration For Potential Joe Biden Cabinet Position"
-    excerpt: "Massachusetts Republican Gov. Charlie Baker is reportedly being considered for a spot in a potential Joe Biden cabinet."
-    publishedDateTime: 2020-10-21T01:11:00Z
-    webUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/10/20/joe-biden-transition-team-cabinet-positions-massachusetts-gov-charlie-baker/amp/"
-    type: article
-    provider:
-      name: CBS Boston
-      domain: cbslocal.com
-    quality: 48
-  - title: "Rep. Ruben Gallego is a top campaigner for Joe Biden. Is a Biden administration post in his future?"
-    excerpt: "Rep. Ruben Gallego has been a national surrogate for Joe Biden's campaign, raising questions about whether he might join a Biden administration."
-    publishedDateTime: 2020-10-20T00:32:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/arizona/2020/10/19/biden-administration-post-rep-ruben-gallego-future/3668502001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3668502001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3668502001"
+  - title: "USA TODAY/Suffolk Poll: Joe Biden leading Donald Trump by 7 points in pivotal Pennsylvania"
+    excerpt: "Democratic presidential nominee Joe Biden is leading President Donald Trump by 7 percentage points in the key battleground state of Pennsylvania, according to a new USA TODAY/Suffolk University poll."
+    publishedDateTime: 2020-10-21T10:55:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/elections/2020/10/21/pennsylvania-poll-joe-biden-leads-donald-trump-usa-today-suffolk-poll/5990219002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/5990219002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5990219002"
     type: article
     provider:
       name: The Arizona Republic
       domain: azcentral.com
-    quality: 41
-  - title: "Joe Biden Campaigns in Durham, NC"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham, NC, where early voting is already underway. 2020 Democratic presidential candidate Joe Biden delivers remarks at a voter mobilization event in Durham,"
-    publishedDateTime: 2020-10-17T11:10:00Z
-    webUrl: "https://www.c-span.org/video/?477106-1/joe-biden-campaigns-durham-nc"
+    quality: 80
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "South Florida Worker Suspended for Flying Trump Flag From Government Truck"
+    excerpt: "A Florida municipal worker was suspended without pay for flying a flag supporting President Donald Trump’s re-election from his government truck"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/"
+    ampWebUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 73
+    images:
+      - url: "https://media.nbcmiami.com/2020/09/Trump-flag.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UFC's Jorge Masvidal Greets Donald Trump In Florida, POTUS Not Wearing Mask"
+    excerpt: "Forget the Secret Service, the \"Baddest MF\" on the planet has Donald Trump's back in Miami ... Jorge Masvidal."
+    publishedDateTime: 2020-10-15T23:03:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 73
+    images:
+      - url: "https://imagez.tmz.com/image/a3/16by9/2020/10/15/a340707788644b41a3921524902d3208_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence and Eric Trump events in South Florida on Thursday | PHOTOS"
+    excerpt: "Multiple events around South Florida featuring Vice President Mike Pence and Eric Trump that lead up to a televised town hall with President Donald Trump in Miami."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-trump-events-south-florida-101520-20201015-5fjpafihovbopaiaksxtpc6eeu-photogallery.html"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 70
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Pe_TMvDNtVnUiRg_Ok0FbraCXtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNJEX3DDIFHYFNW5Q7PLRAJMIU.jpg"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "Legendary Florida State coach Bobby Bowden says he beat coronavirus to vote for Donald Trump"
+    excerpt: "The Florida State coaching legend added another win to his career total, it just didn’t come on a football field. Bowden, 91, beat coronavirus. His motivation? He says it was so he could participate in the presidential election in November."
+    publishedDateTime: 2020-10-22T14:44:00Z
+    webUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html"
+    ampWebUrl: "https://www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/sports/college/ny-college-football-trump-20201022-x5he5sfrvvb63afyd6cksdgxfa-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 64
+    images:
+      - url: "https://www.nydailynews.com/resizer/n86PgTsxzNsdGCH3r9bUqsW9kQo=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7VS5ZK3VDHRSTYX6YFC7QYAD7A.aspx"
+        width: 1200
+        height: 816
+        isCached: true
+  - title: "Pence and Trump Campaign Drum Up South Florida Support With Sunshine State Up For Grabs"
+    excerpt: "With the battle for Florida intensifying and votes already being cast in record numbers, President Donald Trump’s campaign fired up a solid source of support on Thursday — Cuban Americans and evangelicals."
+    publishedDateTime: 2020-10-15T21:39:00Z
+    webUrl: "https://www.wlrn.org/2020-10-15/pence-and-trump-campaign-drum-up-south-florida-support-with-sunshine-state-up-for-grabs"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 62
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4474692/2147483647/strip/true/crop/415x218+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6a%2Fa148154f479689adf537b69afc9d%2Fpencevisit-20201015.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
+    excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
+    publishedDateTime: 2020-10-14T18:50:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 59
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Ryan-Dennistonindian-river-sheriffs-office-.jpeg"
+        width: 800
+        height: 430
+        isCached: true
 
 secured: "fa3aBycew6TqRKBcYLJ9ue+ukk5SVavyJdLR9Y+vwRHJ/xT6EMOUy5qFul+iQaSOQ4gnbiXcIdibF8enoKDIqrCEXCNEf5OJZvfvsrm6k8XFALFrnNSgQWLyvDADZyovIvd5n6rfLdva1jeV6HCdbqXkBg1ESFr5l/9K2hRQkodhHMjLmpD6ENgr7ZFRPiNom0Dy6sj+6+csvrv4MqZJ8SEZTX7xjrW5ItThUYUmW2vF7pY7o8ggJEBhsgPl0q6GGRYPfSVT6QDUD8gRyQh9v9IuYJeDyHJW7xEoo6ErQZvrgtGOkEOnzm3oPf7tMsMHJ8r3u7Jm0mTrLvAbplr89X0RGjVSm0Y5lWBEgrGEjIRSaJt3XUPL5XOG35BtVXfrtbTd3HSQ8gh2W1uyk/61jl3fdbGUhBIaTJOrr3ZxkXbLj+tyxM8YD37YaXIe9u+EubeeFBMN3SiOjXu5rYviehZ4IfeNBkUakzeIqj3GIBiZnDHB2hG2VchfdkjWHnZDdpuYBTbBx4ODLflGTx3/2Q==;iv9z3Ks98YoB9waAMIYhDw=="
 ---

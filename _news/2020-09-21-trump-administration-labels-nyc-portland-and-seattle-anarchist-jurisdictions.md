@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/09/21/trump-administr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/09/21/trump-administration-labels-nyc-portland-and-seattle-anarchist-jurisdictions/amp/"
 type: article
 quality: 121
-heat: 121
+heat: 141
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Seattle, Portland, New York Sue Over Trump's 'Anarchy' Label"
+    excerpt: "New York, Seattle and Portland — three cities recently labeled “anarchist jurisdictions” by the U.S. Justice Department — are suing to to invalidate the designation and to fight off the Trump administration’s efforts to withhold federal dollars."
+    publishedDateTime: 2020-10-22T22:55:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-22/nyc-to-join-seattle-portland-in-suit-over-federal-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "U/o6NFK5ZuXiDgPTnlk2GmTpxlm50+AJtXZv9JH9H36VqWMJFrhs0amb6XfEZCTnybjg6ixP6kawUULi0CgX292hQsZ89VgDZENmY8/6V9YqJdGE6Cxcn29bR3Y5DUZW9TwIIwV7yfEAs73xpNmZPxS9x+xjhy20mzC+B4oWa17f8uwuqEwi/gTWj2P6bnWqfx55C2hmyi/Gnfhwjl7VSlmvR9yGLHpLSTfXFbywy92q3/BZg6HqFd2X6orBuC+lKXlL1VFzgFTtMvN+tWF0n1zMNWN7o/sY6Vzd8O0Y1M+5TZUm/G3GlysFUaUoheaVWkKVtFJNgRYAUuzo5tJJJ8fWboHiSLl1RG2HJC/a1ec=;AFTIUHmhCiVQHPsDj9gDXw=="
 ---

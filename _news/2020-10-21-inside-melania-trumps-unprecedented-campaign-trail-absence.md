@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 395
 published: true
 
 provider:
@@ -94,6 +94,38 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201012191335-02-trump-rally-sanford-fl-1012-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "That’s the Last We Need to Hear From Trump"
+    excerpt: "It’s funny that everybody talks about Joe Biden as the old jalopy in this race, because on Thursday night in Nashville, it was Donald Trump who seemed to be running on fumes. I don’t mean physically: He had his full repertoire of facial expressions (cocky,"
+    publishedDateTime: 2020-10-23T09:04:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/opinion/debate-trump-biden-.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/opinion/23bruni1/23bruni1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump's sideshow fizzles out"
+    excerpt: "The president tried to turn debate day into a trial of the Biden family's allegedly shady business dealings. It didn't go smoothly."
+    publishedDateTime: 2020-10-23T11:39:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/hunter-biden-wins-the-debate-431558"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/hunter-biden-wins-the-debate-431558"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/hunter-biden-wins-the-debate-431558"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/2f/24/7c30b9bf4e0fb1fa0ae19d3ecec2/102120-trump-gty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
     excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."

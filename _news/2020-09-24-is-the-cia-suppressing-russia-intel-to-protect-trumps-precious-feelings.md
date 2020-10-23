@@ -135,22 +135,6 @@ related:
         width: 1440
         height: 971
         isCached: true
-  - title: "Christopher Ray: FBI Director Contradicts Trump on Vote by Mail Fraud"
-    excerpt: "FBI Director Christopher Wray appeared to throw cold water on President Trump's repeated claims that mail-in voting will be tainted by massive voter fraud."
-    publishedDateTime: 2020-09-24T15:51:00Z
-    webUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/"
-    ampWebUrl: "https://heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/christopher-wray-no-evidence-voter-fraud/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2020/09/pjimage-51-1.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
-        isCached: true
   - title: "Trump Attacks His FBI Chief Over Russia Assessment"
     excerpt: "President Donald Trump on Friday attacked his FBI director, Christopher Wray, for highlighting the threat posed by Russia and right-wing militias to the US election, rather than focusing on China and left-wing groups."
     publishedDateTime: 2020-09-19T01:44:00Z

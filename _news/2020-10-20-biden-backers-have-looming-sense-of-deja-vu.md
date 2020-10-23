@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-backers-have-looming-sense-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-backers-have-looming-sense-of-deja-vu.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bernie Sanders eyeing potential Biden Cabinet role: report"
+    excerpt: "U.S. Sen. Bernie Sanders is reportedly interested in serving in Joe Biden’s Cabinet if the Democrat wins the presidency -- with plans to push for more “progressive voices” in the nation's leadership."
+    publishedDateTime: 2020-10-23T09:19:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iA4JqSIJgms/bernie-sanders-eyeing-potential-biden-cabinet-role-report"
+    ampWebUrl: "https://www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/451a825a-4bce-48ca-ae30-4802571fc1db/63d6daa7-1718-4ae9-9181-044df4ee0013/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Plurality of Catholics Back Barrett; Biden Lead Holds Steady"
     excerpt: "As public opinion polls show Joe Biden handily ahead in his quest to become the second Roman Catholic candidate elected president of the United States, Catholic voters have emerged as perhaps the"
     publishedDateTime: 2020-10-20T14:35:00Z

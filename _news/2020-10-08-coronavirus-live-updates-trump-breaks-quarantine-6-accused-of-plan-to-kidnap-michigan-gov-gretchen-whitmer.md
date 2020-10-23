@@ -31,572 +31,280 @@ images:
     isCached: true
 
 related:
-  - title: "After independent coronavirus test, NBC sets Trump town hall"
-    excerpt: "NBC News says it'll host President Donald Trump for a town hall-styled event on Thursday, after the president submitted to a coronavirus test administered by the National Institutes of Health"
-    publishedDateTime: 2020-10-15T01:29:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/independent-coronavirus-test-nbc-sets-trump-town-hall-73607748"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_d5338d783c104a49bf0323d01a4f68d6_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "A closing argument: Why voters cannot trust Trump on healthcare"
-    excerpt: "Trump knowingly downplayed the threat of the virus and failed to execute an effective national strategy in response to the pandemic."
-    publishedDateTime: 2020-10-18T15:00:00Z
-    webUrl: "https://thehill.com/opinion/campaign/521561-a-closing-argument-why-voters-cannot-trust-trump-on-healthcare"
-    ampWebUrl: "https://thehill.com/opinion/campaign/521561-a-closing-argument-why-voters-cannot-trust-trump-on-healthcare?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/521561-a-closing-argument-why-voters-cannot-trust-trump-on-healthcare?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_101420getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Moore: Trump has to be on 'best behavior' for final presidential debate"
-    excerpt: "Stephen Moore, an economist and adviser to President Trump, said Sunday that the president needed to be \"on his best behavior\" going into the final presidential debate Thursday against former Vice President Joe Biden."
-    publishedDateTime: 2020-10-18T12:00:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/521549-moore-trump-has-to-be-on-best-behavior-for-final-presidential?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/moorestephen_08032020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Photo altered to Ice Cube, 50 Center in 'Trump 2020' hats"
-    excerpt: "An altered photo of rappers Ice Cube and 50 Cent in hats that appear to show support for President Donald Trump circulated widely on social media Tuesday, fueled in part by a tweet by Eric Trump"
-    publishedDateTime: 2020-10-20T18:51:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/photo-altered-ice-cube-50-center-trump-2020-73719756"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_81e131d935a94eb8b2511404169cbee9_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump Sued Over Alleged Voter Intimidation By Rights Group"
-    excerpt: "President Donald Trump is being sued by a voting rights group who claim that his statements around the legitimacy of the 2020 presidential election and his lack of commitment to a peaceful transfer of power amount to voter intimidation,"
-    publishedDateTime: 2020-10-21T21:11:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/21/trump-sued-over-alleged-voter-intimidation-by-rights-group/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/21/trump-sued-over-alleged-voter-intimidation-by-rights-group/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/21/trump-sued-over-alleged-voter-intimidation-by-rights-group/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a16aa8514995245bf026%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5568%26cropY1%3D94%26cropY2%3D3226"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump To Take Part In NBC Town Hall Thursday, Fauci Says He’s Not Infectious"
-    excerpt: "President Donald Trump will participate in a town hall event on NBC Thursday night on what should have been the evening of the second presidential debate, the network announced Wednesday, with the nation’s top health officials reportedly clearing the president to make the public appearance amid his recovery from Covid-19."
-    publishedDateTime: 2020-10-14T12:39:00Z
-    webUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/"
-    ampWebUrl: "https://www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisondurkee/2020/10/14/trump-to-take-part-in-nbc-town-hall-thursday-fauci-says-hes-not-infectious/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 122
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f86ece3cc8558aa5e09dc5e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5500%26cropY1%3D344%26cropY2%3D3438"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "President Trump and his staff defied CDC coronavirus guidelines 23 times since Sept. 1"
-    excerpt: "Trump and other key White House officials have violated CDC coronavirus guidance at least 23 times, according to a USA TODAY analysis."
-    publishedDateTime: 2020-10-07T10:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2020/10/06/trump-covid-19-24-times-trump-administration-violated-cdc-guidelines/3636834001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3636834001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3636834001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/997b0c17-27a3-45d2-9801-822e233fa697-TRUMP_POSITIVE_CORONAVIRUS_05.JPG?auto=webp&crop=3488,1962,x0,y119&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Coronavirus updates: Trump can return to 'public engagements' on Saturday, doctor says"
-    excerpt: "A pandemic of the novel coronavirus has now killed more than 1 million people worldwide. Over 36.4 million people across the globe have been diagnosed with COVID-19, the disease caused by the new respiratory virus,"
-    publishedDateTime: 2020-10-10T07:35:00Z
-    webUrl: "https://abcnews.go.com/Health/live-updates/coronavirus/?id=73493745"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/live-updates/coronavirus/?id=73493745"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/US/donald-trump-taxes-01-ap-llr-201007_1602087324181_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Meadows says Trump didn't intend to order declassification of all Russia probe documents"
-    excerpt: "The White House chief of staff said Trump's tweets about the Russia probe this month \"were not self-executing declassification orders.\""
-    publishedDateTime: 2020-10-21T11:30:00Z
-    webUrl: "https://www.cbsnews.com/news/mark-meadows-trump-russia-probe-declassification-clarification/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mark-meadows-trump-russia-probe-declassification-clarification/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mark-meadows-trump-russia-probe-declassification-clarification/"
+  - title: "2020 Daily Trail Markers: Trump and Pence return to critical battleground Michigan this week"
+    excerpt: "CBS News Battleground Tracker poll shows Democratic presidential nominee Joe Biden leading Mr. Trump in the state, 52% to 46% among likely voters."
+    publishedDateTime: 2020-10-14T23:48:00Z
+    webUrl: "https://www.cbsnews.com/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/2020-daily-trail-markers-trump-and-pence-return-to-critical-battleground-michigan-this-week-2020-10-14/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 116
+    quality: 129
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/26/e0ecf7e2-43b9-4b3c-9339-ea3d3b973755/thumbnail/1200x630g6/951daf6478e682cffb94fe069044a768/gettyimages-1228156937.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2019/09/14/0458c21c-c9e7-478c-9478-413eed67a1e5/thumbnail/1200x630/383f6ada006b2ab9baf5b7ff249c7262/trail-markers-newsletter-620x254-v2.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Why Trump's illness probably won't persuade anti-maskers to take the coronavirus seriously"
-    excerpt: "Data show more people may wear masks after Trump's coronavirus diagnosis, but some will be anti-mask regardless of evidence. Psychologists explain why"
-    publishedDateTime: 2020-10-11T09:16:00Z
-    webUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/why-anti-maskers-ignore-risks-after-trumps-covid-19-diagnosis-2020-10?amp"
+  - title: "2020 Watch: Is it too late for Trump to turn things around?"
+    excerpt: "President Donald Trump returns to the campaign trail this week after an 11-day absence in what is likely his last opportunity to reset his beleaguered presidential reelection bid"
+    publishedDateTime: 2020-10-12T10:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/2020-watch-late-trump-turn-things-73558786"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://i.insider.com/5f7c9266282c500018c78d96?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dc848f2a282549838d00c86ee377f467_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Hurricane Delta, Trump's coronavirus battle, Nobel Peace Prize, Lakers: 5 things to know Friday"
-    excerpt: "Louisiana braces for Hurricane Delta, the Nobel Peace Prize is awarded, Lakers seek their 17th NBA title and more things to start your Friday."
-    publishedDateTime: 2020-10-09T17:29:00Z
-    webUrl: "https://www.usatoday.com/story/news/2020/10/09/hurricane-delta-nba-finals-lakers-heart-trump-coronavirus/3592077001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
+  - title: "'Indigenous Peoples Day' Booed at Michigan Rally for Donald Trump"
+    excerpt: "Biden, he attacked Christopher Columbus by refusing to recognize Columbus Day, and he wants to change the name of Columbus Day to Indigenous Peoples Day.... Not as long as I'm president,\" Donald Trump said."
+    publishedDateTime: 2020-10-18T00:46:00Z
+    webUrl: "https://www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069"
+    ampWebUrl: "https://www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/indigenous-peoples-day-booed-michigan-rally-donald-trump-1540069?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1654827/donald-trump-michigan-rally.jpg"
+        width: 3387
+        height: 2630
+        isCached: true
+  - title: "Michigan lt. governor: Trump is 'antithetical' to what Michigan voters want"
+    excerpt: "Michigan Lt. Governor Garlin Gilchrist (D) on Wednesday said that President Donald Trump's actions are \"antithetical\" to what Michiganders want."
+    publishedDateTime: 2020-10-14T23:35:00Z
+    webUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers"
+    ampWebUrl: "https://thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/521060-michigan-lt-governor-people-in-michigan-want-problem-solvers?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101220getty_budowsky.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Michigan Governor Whitmer Fires Back at Trump After Rally Crowd Chants 'Lock Her Up'"
+    excerpt: "\"This is exactly the rhetoric that has put me, my family, and other government officials' lives in danger,\" Whitmer said after Trump called for her to be locked up."
+    publishedDateTime: 2020-10-18T00:31:00Z
+    webUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067"
+    ampWebUrl: "https://www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/michigan-governor-whitmer-fires-back-trump-after-rally-crowd-chants-lock-her-1540067?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1654830/whitmer.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump rally crowd chants 'lock her up' about Michigan Gov. Whitmer, target of alleged kidnapping plot"
+    excerpt: "Gov. Whitmer responded to Trump's criticism during a rally in Michigan, posting that his was the kind of rhetoric that had put her family in danger."
+    publishedDateTime: 2020-10-18T05:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/17/trump-slams-michigan-gov-gretchen-whitmer-amid-lock-her-up-chants/3697599001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3697599001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3697599001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 113
+    quality: 110
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/e6664b80-fe7d-4dad-9b2c-c09c701add86-AFP_8RH3J6.jpg?auto=webp&crop=1999,1124,x0,y42&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/46ad6857-0b81-4d72-b742-1a6f11b3be15-AFP_AFP_8TB9GN.jpg?auto=webp&crop=4499,2531,x0,y172&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Watch Trump's reaction when a voter tells him he has a 'great smile' during NBC News town hall"
-    excerpt: "During an NBC News town hall, one Florida voter told the president he's \"so handsome when he smiles\" before asking an immigration-related question."
-    publishedDateTime: 2020-10-16T04:42:00Z
-    webUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-watch-trump-react-to-a-voter-telling-him-he-has-a-great-smile-2020-10?amp"
+  - title: "Trump yard sign taped with razor blades sliced a Michigan town worker's hand and left him needing 13 stitches"
+    excerpt: "The razor blades were taped to the bottom edge of the sign, cutting three of the worker's fingers when he attempted to move it for violating a city ordinance."
+    publishedDateTime: 2020-10-10T19:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-yard-sign-taped-razor-blades-sliced-michigan-workers-hand-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 113
+    quality: 106
     images:
-      - url: "https://i.insider.com/5f8909c09e9fe40019009ab8?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
+      - url: "https://i.insider.com/5f81ffb5bab422001979a9d7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Trump: Barron 'free' of coronavirus"
-    excerpt: "The president was using his son to underscore his frequent argument that kids have less serious cases of the coronavirus and should be back in school. (Oct. 14)"
-    publishedDateTime: 2020-10-15T01:40:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2020/10/15/trump-barron-free-coronavirus/3660232001/"
+  - title: "New poll shows Joe Biden ahead in Michigan"
+    excerpt: "Watch \"New CBS News Battleground Tracker poll shows Joe Biden ahead of Pres. Trump in Michigan\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2020-10-12T18:55:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20201012204220-new-cbs-news-battleground-tracker-poll-shows-joe-biden-ahead-of-pres-trump-in-michigan/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fc79aa69-ab33-42c5-8465-fe58960ba183_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://images-cbsn.cbsnews.com/prod/2020/10/12/story_07220436_1602535744.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Trump rallies in Nevada ahead of final debate"
-    excerpt: "World Trump rallies in Nevada ahead of final debate. Posted . President Donald Trump implored supporters in Nevada on Sunday to cast ballots early in a state he narrowly lost in 2"
-    publishedDateTime: 2020-10-19T11:41:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-rallies-in-nevada-ahead-of-final-d-id720970154"
+  - title: "Western Michigan, a longtime GOP stronghold, is now a battleground: \"We see all that's developed in the Trump era\""
+    excerpt: "President Trump narrowly won the pivotal state in 2016. Western Michigan has long been a Republican stronghold, but Democrats have had success in recent elections, making the region a premier battleground."
+    publishedDateTime: 2020-10-12T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-biden-election-2020-michigan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-election-2020-michigan/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20201019&i=OVD0SU1RF&r=OVD0SU1RF&t=2"
-        width: 960
-        height: 540
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/12/47c08c1c-39cb-46e7-88f4-80ae1669c548/thumbnail/1200x630/5b23c924c7d2c9513b8263d4dea9e0fc/1602510920768.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump claims he is now immune to the coronavirus and has 'a protective glow' — but the science is not that simple"
-    excerpt: "The president said on Sunday he now has \"a protective glow\" — a concept which does not appear in medical or scientific research about the coronavirus."
-    publishedDateTime: 2020-10-12T02:11:00Z
-    webUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-claims-coronavirus-immunity-but-science-is-unclear-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 104
-    images:
-      - url: "https://i.insider.com/5f83204cbab422001979aa7c?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 563
-        isCached: true
-  - title: "Mitch McConnell says Senate Republicans will vote on a slim coronavirus relief plan as Trump presses them to 'go big'"
-    excerpt: "Senate Republicans and Trump may be on a collision course as the president seeks another large stimulus package ahead of Election Day."
-    publishedDateTime: 2020-10-14T01:12:00Z
-    webUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mcconnell-senate-gop-targeted-relief-trump-stimulus-plan-vote-big-2020-10?amp"
+  - title: "Michigan's attorney general talks Trump, far-right violence, the role of Facebook, and the alleged plot to kidnap Gov. Whitmer"
+    excerpt: "Michigan Attorney General Dana Nessel spoke to Business Insider about members of a paramiltitary group accused of plotting to kidnap the governor."
+    publishedDateTime: 2020-10-09T07:16:00Z
+    webUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/michigan-attorney-general-dana-nessel-discusses-trump-far-right-violence-2020-10?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 102
+    quality: 97
     images:
-      - url: "https://i.insider.com/5f5a676fe6ff30001d4e819e?width=1200&format=jpeg"
+      - url: "https://i.insider.com/5f76599c74fe5b0018a8e9e0?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump Will Have $900 Million Of Loans Coming Due In His Second Term If He’s Reelected"
-    excerpt: "The president would likely have to engage in a series of high-stakes transactions that could produce unfathomable conflicts of interest."
-    publishedDateTime: 2020-10-19T20:32:00Z
-    webUrl: "https://www.forbes.com/sites/danalexander/2020/10/19/trump-will-have-900-million-of-loans-coming-due-in-his-second-term-if-hes-reelected/"
+  - title: "VP Mike Pence, Donald Trump Jr. to campaign in Michigan this week"
+    excerpt: "Vice President Mike Pence and Donald Trump Jr. will both be campaigning in Michigan on Thursday, Oct. 22. Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township."
+    publishedDateTime: 2020-10-21T02:54:00Z
+    webUrl: "https://www.ksdk.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
+      name: KSDK
+      domain: ksdk.com
+    quality: 90
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cea5d5a6a761648d0c88f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1920%26cropY1%3D0%26cropY2%3D1080"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Kamala Harris suspends campaign travel after aide, crew member test positive for coronavirus"
-    excerpt: "California Sen. Kamala Harris has suspended her vice presidential campaign travel through Sunday after two members of her staff and crew tested positive for the coronavirus."
-    publishedDateTime: 2020-10-16T11:49:00Z
-    webUrl: "https://www.houstonchronicle.com/politics/article/Kamala-Harris-cancels-campaign-travel-after-aide-15649875.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 94
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/56/25/20112734/5/rawImage.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
-    excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
-    publishedDateTime: 2020-10-16T01:43:00Z
-    webUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-praises-refuses-to-condemn-qanon-at-nbc-town-hall-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
-    images:
-      - url: "https://i.insider.com/5c466437dde8673e9b7805e1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Coronavirus updates: Donald Trump, Nancy Pelosi, Mitch McConnell face stimulus deal deadline; Sturgis rally linked to cases; 219K US deaths"
-    excerpt: "Monday talks could determine the fate of a stimulus package President Trump wants Wisconsin, Michigan to open up despite surge in cases. Latest news."
-    publishedDateTime: 2020-10-18T23:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2020/10/18/covid-19-trump-lobbies-wisconsin-michigan-open-up-nfl/3695793001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3695793001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3695793001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 91
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/d4b49953-b35e-4a36-869f-258095f8f614-vatican_pope.jpg?auto=webp&crop=5471,3078,x0,y278&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mike Pence touts coronavirus vaccine, knocks Joe Biden in New Hampshire rally"
-    excerpt: "PORTSMOUTH, N.H. — Vice President Mike Pence knocked Democratic nominee Joe Biden’s health and tax plans and touted the economic gains under the Trump administration as he rallied voters just 13 days before Election Day in a swing state where the ..."
-    publishedDateTime: 2020-10-21T19:58:00Z
-    webUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/"
-    ampWebUrl: "https://www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
-    cdnAmpWebUrl: "https://www-bostonherald-com.cdn.ampproject.org/c/s/www.bostonherald.com/2020/10/21/mike-pence-touts-coronavirus-vaccine-knocks-joe-biden-in-new-hampshire-rally/amp/"
-    type: article
-    provider:
-      name: Boston Herald
-      domain: bostonherald.com
-    quality: 87
-    images:
-      - url: "https://www.bostonherald.com/wp-content/uploads/2020/10/pencems01.jpg?w=1024&h=755"
-        width: 1024
-        height: 755
-        isCached: true
-  - title: "Mike Pence campaigns in Johnston County just a day after President Trump visits NC"
-    excerpt: "Vice President Mike Pence campaigned in Johnston County Friday one day after President Donald Trump visited North Carolina, underscoring the state’s role as a crucial"
-    publishedDateTime: 2020-10-16T22:29:00Z
-    webUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/"
-    ampWebUrl: "https://www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/your-local-election-hq/mike-pence-campaigns-in-johnston-county-just-a-day-after-president-trump-visits-nc/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 84
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2020/10/pence-selma.jpg?w=1280"
-        width: 960
-        height: 552
-        isCached: true
-  - title: "Trump says he’s now ‘immune’ from the coronavirus – a claim that’s impossible to prove – and ready to return to the campaign trail"
-    excerpt: "President Donald Trump on Sunday declared he was healthy enough to return to the campaign trail, a day after the White House doctor said he was no longer at risk of transmitting the coronavirus."
-    publishedDateTime: 2020-10-11T16:13:00Z
-    webUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-nw-trump-coronavirus-campaigning-20201011-uxh3ivc6d5gnnaemz7fwva34pq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 75
-  - title: "Kamala Harris blasts Senate GOP for ignoring coronavirus safety, relief"
-    excerpt: "Sen. Kamala Harris blasted Senate Republicans Monday for holding a confirmation hearing for Supreme Court nominee Amy Coney Barrett, saying they are ignoring the safety issues related to COVID-19."
-    publishedDateTime: 2020-10-12T19:06:00Z
-    webUrl: "https://www.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/12/kamala-harris-blasts-senate-gop-ignoring-coronavir/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 75
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/11/supreme_court_barrett_senators_to_watch_21307_c0-228-5472-3420_s1200x700.jpg?f89739662670662341638fe34403095f75f3e118"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Do you read me? President Trump barely reads"
-    excerpt: "To understand the wide range of challenges facing the nation and adapt to always changing facts on the ground, a president should listen carefully."
-    publishedDateTime: 2020-10-15T12:49:00Z
-    webUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-do-you-read-me-20201015-lo2ipspvxbdlvh432ooku4nvme-story.html"
-    ampWebUrl: "https://www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-do-you-read-me-20201015-lo2ipspvxbdlvh432ooku4nvme-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/opinion/99-reasons-to-dump-trump/ny-edit-do-you-read-me-20201015-lo2ipspvxbdlvh432ooku4nvme-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 75
-    images:
-      - url: "https://www.nydailynews.com/resizer/28zBwsJEkMJx9mLvxR7fiQ9uFfk=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/FLWYPVITYFBG5IR5DGAK6B55CQ.jpg"
-        width: 1200
-        height: 816
-        isCached: true
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Donald Trump brings his 'Spit Venom/Spread Virus' tour to Arizona"
-    excerpt: "Donald Trump will be welcomed in Prescott by just the type of crowd who are most emboldened by his hateful rhetoric."
-    publishedDateTime: 2020-10-20T16:35:00Z
-    webUrl: "https://www.azcentral.com/story/opinion/op-ed/ej-montini/2020/10/18/donald-trump-brings-his-spit-venom-spread-virus-tour-arizona/3705170001/"
-    ampWebUrl: "https://amp.azcentral.com/amp/3705170001"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3705170001"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/NLED/fa75bc9d-102c-4af6-8965-d14257a84419-AP20291791315079.jpg?auto=webp&crop=3546,1995,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Report: Trump Tipped Off Republican Donors Coronavirus Would Crash Economy"
-    excerpt: "Economic aides met privately with the Hoover Institution and told them the economic risks of the virus, allowing them to sell off stocks before most investors"
-    publishedDateTime: 2020-10-15T12:32:00Z
-    webUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625"
-    ampWebUrl: "https://www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/report-trump-tipped-republican-donors-coronavirus-would-crash-economy-3062625?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/trump-received-a-single-dose-of-regenerons-antibody.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Alec Baldwin, Mariska Hargitay And More Protest NBC’s Trump Town Hall Air Time"
-    excerpt: "\"Law & Order,\" \"SNL\" and \"This Is Us\" stars called out the network’s decision to air Trump Town Hall at the same time as Joe Biden’s event."
-    publishedDateTime: 2020-10-15T18:13:00Z
-    webUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746"
-    ampWebUrl: "https://www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/alec-baldwin-mariska-hargitay-more-protest-nbcs-trump-town-hall-air-time-3062746?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 71
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/08/president-donald-trump-threw-talks-on-new-us.jpg"
-        width: 1024
-        height: 664
-        isCached: true
-  - title: "Kamala Harris' Charlotte event goes virtual after campaign staffers test positive for coronavirus"
-    excerpt: "Kamala Harris' trip to North Carolina has been canceled after two campaign staffers tested positive for COVID-19, the Joe Biden-Kamala Harris campaign announced Thursday. Instead, Harris is planning to hold a virtual event in North Carolina on the first day of early vote Thursday."
-    publishedDateTime: 2020-10-16T08:07:00Z
-    webUrl: "https://www.wcnc.com/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    ampWebUrl: "https://www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    cdnAmpWebUrl: "https://www-wcnc-com.cdn.ampproject.org/c/s/www.wcnc.com/amp/article/news/politics/kamala-harris-charlotte-campaign-cancel-coronavirus/275-8068523e-bf30-4bc3-ae1c-4e76f207dddf"
-    type: article
-    provider:
-      name: WCNC
-      domain: wcnc.com
-    quality: 62
-    images:
-      - url: "https://media.wcnc.com/assets/WCNC/images/648fddce-80bd-4ba4-b4a3-0a14d91c24b8/648fddce-80bd-4ba4-b4a3-0a14d91c24b8_750x422.jpg"
+      - url: "https://media.ksdk.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_750x422.jpg"
         width: 750
         height: 422
         isCached: true
-  - title: "Joe Biden tests negative for coronavirus sixth time since debate"
-    excerpt: "Former Vice President Joe Biden tested negative for the coronavirus a sixth time since President Donald Trump announced he was infected."
-    publishedDateTime: 2020-10-10T19:43:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/joe-biden-tests-negative-coronavirus-sixth-time-since-debate/KGAR6JZ5MJC75FKPQQLF4BWRVI/"
+  - title: "VP Mike Pence to campaign in Michigan again this week"
+    excerpt: "Vice President Mike Pence will be making a campaign stop in Michigan this week, following a rally in Grand Rapids last Wednesday. This time, Pence will be on the east side of the state holding a 'Make America Great Again' event in Waterford Township on Thursday,"
+    publishedDateTime: 2020-10-21T02:14:00Z
+    webUrl: "https://www.khou.com/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    ampWebUrl: "https://www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/politics/vp-mike-pence-campaign-michigan/69-c8bccd3f-d8b9-4503-a006-e9febe509077"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
-    quality: 55
+      name: KHOU 11
+      domain: khou.com
+    quality: 75
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/3SW4HJJRWJGFRNND2PYZ7IJ3SQ.jpg"
-        width: 769
-        height: 433
+      - url: "https://media.khou.com/assets/WZZM/images/b71e020d-2cdf-404a-9a89-906c432d5c6d/b71e020d-2cdf-404a-9a89-906c432d5c6d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
-    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
-    publishedDateTime: 2020-10-14T12:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+  - title: "Vice President Mike Pence stops in Michigan, tomorrow"
+    excerpt: "Vice President Mike Pence is set to host a “Make America Great” rally in Oakland County tomorrow afternoon. The Vice President is hitting the campaign trail hard with less than two weeks to go before the election."
+    publishedDateTime: 2020-10-21T21:40:00Z
+    webUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/"
+    ampWebUrl: "https://www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/news/local/vice-president-mike-pence-stops-in-michigan-tomorrow/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
-  - title: "'SNL': Weekend Update Tackles Trump Town Hall, COVID-19 and QAnon"
-    excerpt: "Live’s Weekend Update touched on Trump’s COVID-19 diagnosis and recent town hall event, including the moment when Trump claimed he didn’t know what QAnon was"
-    publishedDateTime: 2020-10-18T04:50:00Z
-    webUrl: "https://www.hollywoodreporter.com/live-feed/snl-weekend-update-tackles-trump-town-hall-covid-19-and-qanon"
-    type: article
-    provider:
-      name: The Hollywood Reporter
-      domain: hollywoodreporter.com
-    quality: 55
+      name: WLNS.com
+      domain: wlns.com
+    quality: 75
     images:
-      - url: "https://static.hollywoodreporter.com/wp-content/uploads/2020/10/Michael-Che-Weekend-Update-SNL-H-2020-1602994848-928x523.png"
-        width: 928
-        height: 523
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2020/10/pence-1.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-13T10:03:00Z
-    webUrl: "https://www.tennessean.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5966027002"
+  - title: "Confused Trump tells Michigan voters ‘Minnesota, you better vote for me!’"
+    excerpt: "In a moment of confusion, President Donald Trump appeared to forget where he was speaking Saturday night. Flying into Muskegon, Michigan, Trump cautiously walked down the steps of his airplane to take the stage before a large “make America great again,"
+    publishedDateTime: 2020-10-17T23:42:00Z
+    webUrl: "https://www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/confused-trump-tells-michigan-voters-minnesota-you-better-vote-for-me/amp/"
     type: article
     provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 53
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 74
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/06/Donald-Trump-pointing-to-his-hair.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "She ‘Truly Hates Our Country’: Trump Attacks Rep. Ilhan Omar at Michigan Rally"
+    excerpt: "President Donald Trump went after Minnesota Congresswoman Ilhan Omar during his Saturday Michigan rally claiming the Somalia born lawmaker hated the U.S."
+    publishedDateTime: 2020-10-17T22:59:00Z
+    webUrl: "https://www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/"
+    ampWebUrl: "https://www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/she-truly-hates-our-country-trump-attacks-rep-ilhan-omar-at-michigan-rally/amp/"
+    type: article
+    provider:
+      name: Mediaite
+      domain: mediaite.com
+    quality: 71
+    images:
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1058470920-1200x800.jpg"
         width: 1200
-        height: 674
+        height: 800
         isCached: true
-  - title: "Coronavirus updates: First American to get COVID twice; 13 states set case records; Joe Biden tests negative again"
-    excerpt: "Thirteen states set new case records over seven days. An anti-lockdown protest leader in New York has been arrested. More COVID-19 news."
-    publishedDateTime: 2020-10-14T06:03:00Z
-    webUrl: "https://www.azcentral.com/story/news/health/2020/10/12/covid-news-states-set-case-records-nyc-protest-leader-arrested/5966027002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/5966027002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/5966027002"
+  - title: "Trump lies about reports of a ‘red wave’ — then touts nonexistent Michigan ‘man of the year’ award"
+    excerpt: "President Donald Trump ticked off several lies in just under 60 seconds while visiting his supporters in Michigan on Saturday. He told his supporters that the press was predicting an astounding “red wave” in November,"
+    publishedDateTime: 2020-10-17T23:42:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-lies-about-reports-about-a-red-wave-then-touts-nonexistent-michigan-man-of-the-year-award/amp/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 53
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 61
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/12/USAT/4286a288-cd07-4025-9c0e-790197b80254-AFP_AFP_8RX686.jpg?auto=webp&crop=1023,575,x0,y59&format=pjpg&width=1200"
-        width: 1200
-        height: 674
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-17-at-6.01.52-PM.png"
+        width: 800
+        height: 430
         isCached: true
-  - title: "U.S. President Donald J. Trump Travels to FL for a Live NBC News Town Hall Event"
-    excerpt: "U.S. President Donald J. Trump walks to Marine One on the South Lawn of the White House on Thursday, October 15, 2020. Trump will deliver remarks at a Fundraising Committee Reception in Doral, FL.and participate in a Live NBC News Town Hall Event."
-    publishedDateTime: 2020-10-15T17:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/ba90f6105c13dbf9aa54f7965a40678e/US-President-Donald-J-Trump-Travels-to-FL-for-a-Live-NBC-News-Town-Hall-Event/"
+  - title: "Vice President Mike Pence to visit Michigan on Thursday"
+    excerpt: "Vice President Mike Pence will be in Michigan on Thursday, Oct. 22. Pence will host a \"Make America Great Again\" event in Waterford Township at 12:30 p.m. The event will take place at Barnstormers. Doors open at 10:30 a."
+    publishedDateTime: 2020-10-20T21:38:00Z
+    webUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.html"
+    ampWebUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
+    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 50
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/ba90f6105c13dbf9aa54f7965a40678e/TRUMP-ELECTIONS.jpg"
-        width: 650
-        height: 433
-        isCached: true
-  - title: "President Donald Trump asked about maskless White House ceremony during NBC town hall"
-    excerpt: "Moderator Savannah Guthrie asks President Donald Trump about a White House event where multiple attendees were seen without masks."
-    publishedDateTime: 2020-10-16T02:03:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/trump-town-hall-president-asked-maskless-white-house-ceremony/3673086001/"
+      name: WNEM-TV
+      domain: wnem.com
+    quality: 55
+  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
+    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
+    publishedDateTime: 2020-10-14T21:18:00Z
+    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 48
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/55c6714a-d5b5-4daf-a91f-377d57570ac8-TRUMP_MASK_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "y3UPO/QWhbRln+DSXR4Lcdd6QPg18VVS+v4Za9o6tcdDFeWWZgi+QYL0BDAkbfch/HiJdUBNZ9l1u5sh/oqim5o02c86IKg92akNkKlBOZqh/7xGA4fGf2rKIPk9LxNzm6JSOmmqCDdqQx68jw8Kw7x0J8pDqt4kdW5VcO6NFtMQlwFMdduIDwVhnDbKYAiAVfb0Jc4c5IY4VaEJOAdfnGdFg1sPem9YQ78dgcj8DjwNPYg6/Nqm48jhp9VNpdHlEexhzyTWq4jLI9iGmpxtXYm20B5L+3sWEKaMCmFN/9N4qHYnXeo5ynyTW2FDavUVvLhtEzezYKxRk5TbL6za7/Vh0ZgZjfGxpI7Arfvhluc=;0K/ADeFe9Wixp+tJaU0Q1w=="
 ---

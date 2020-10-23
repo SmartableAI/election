@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victor
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Pence-in-Michigan-says-road-to-victory-runs-15648291.php"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -27,26 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Vice President Mike Pence to visit Michigan on Thursday"
-    excerpt: "Vice President Mike Pence will be in Michigan on Thursday, Oct. 22. Pence will host a \"Make America Great Again\" event in Waterford Township at 12:30 p.m. The event will take place at Barnstormers. Doors open at 10:30 a."
-    publishedDateTime: 2020-10-20T21:38:00Z
-    webUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.html"
-    ampWebUrl: "https://www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
-    cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/news/vice-president-mike-pence-to-visit-michigan-on-thursday/article_320a12d2-131b-11eb-810b-136b99f096ac.amp.html"
+  - title: "‘The road to victory runs right through Pennsylvania,’ VP Mike Pence tells Pa. crowd"
+    excerpt: "On a stage outside a hangar near Reading, Pence credited Trump for \"unleashing American energy,\" and having \"ended the war on coal.\""
+    publishedDateTime: 2020-10-17T21:41:00Z
+    webUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html"
+    ampWebUrl: "https://www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/news/2020/10/the-road-to-victory-runs-right-through-pennsylvania-vp-mike-pence-tells-pa-crowd.html?outputType=amp"
     type: article
     provider:
-      name: WNEM-TV
-      domain: wnem.com
-    quality: 55
-  - title: "Vice President Pence Delivers Remarks at Rally in Michigan"
-    excerpt: "President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Vice President Pence delivers remarks at a campaign rally in Grand Rapids, Michigan. Javascript must be enabled in order to access C-SPAN videos."
-    publishedDateTime: 2020-10-14T21:18:00Z
-    webUrl: "https://www.c-span.org/video/?476980-1/vice-president-pence-delivers-remarks-rally-michigan"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
+      name: Penn Live
+      domain: pennlive.com
+    quality: 68
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RBM2JH3LDBC2HKB56RTAQ3HSEY.jpg"
+        width: 1024
+        height: 616
+        isCached: true
 
 secured: "c/Rsc1kPzS3XWiBJBxXH/AUx2cA/ng8BdLxEqp+G0c49Jp5iDZQbqatHzn1jdejwB6lEQQXgrnVVO7mpDKV7V/EhoJz4xTaPtOccN01gQRVuVKL/t08e7TNHcSP2yOHj/+ifw83IXR03RAYdPe88BiXLoNWUnKLv+joVrWFSHItSuff17ax2UuWGR/G8Ir+8CD8XGuJJY1zFXSjEVqmerI3Tsga0s1W/iRrCLLyf/gHHvG29Aw7Tyjy5Qe9XaxXciDpq8n1QpraAm4l+OYYBH6GxHq1dDXVj9ua1HDEBEnX/RxYny23i424DqfFpKd9bJ19yApL542+w7FzSJpEeWcUOqxQMQMnKy+FZvkYNnBw=;ZuzdyPRkA5PCSfZpDd3mfQ=="
 ---

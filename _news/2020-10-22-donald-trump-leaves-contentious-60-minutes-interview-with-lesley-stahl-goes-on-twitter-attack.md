@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump posts full ’60 Minutes’ interview: US Elections news"
-    excerpt: "President Donald Trump posts entire CBS interview ahead of its scheduled air time, showing him walking out. After last month’s chaotic debate, President Donald Trump and his Democratic rival, Joe Biden,"
-    publishedDateTime: 2020-10-22T17:44:00Z
-    webUrl: "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
-    ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 140
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2020/10/2020-10-22T121407Z_1438368857_RC2ONJ97NGLC_RTRMADP_3_USA-ELECTION-GLOBAL-CLIMATECHANGE.jpg?resize=1200%2C630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Latest: Trump abruptly ends '60 Minutes' interview"
     excerpt: "President Donald Trump on Tuesday abruptly ended an interview with CBS’ “60 Minutes” that is set to air this Sunday"
     publishedDateTime: 2020-10-22T06:41:00Z
@@ -60,22 +44,6 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_4f10d43eec564a0eabbb3fb9f0919b8c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Trump posts unedited '60 Minutes' interview before it airs"
-    excerpt: "President Donald Trump has posted full, unedited interviews that he and the vice president did with “60 Minutes” on Facebook before the show’s scheduled broadcast this weekend"
-    publishedDateTime: 2020-10-23T00:42:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Entertainment/WireAP_0b7ad05b91a84368812520cf3bcff18f_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -111,37 +79,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Jason Whitlock’s Friendly Interview With Donald Trump Shows Our New Media Ecosystem"
-    excerpt: "Donald Trump has given friendly interviews to Jason Whitlock and Barstool Sports founder Dave Portnoy in the closing months of the highly fraught presidential campaign."
-    publishedDateTime: 2020-10-22T18:21:00Z
-    webUrl: "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/"
-    ampWebUrl: "https://www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexreimer/2020/10/22/jason-whitlocks-friendly-interview-with-donald-trump-shows-our-new-media-ecosystem/amp/"
+  - title: "\"60 Minutes\" preview: Biden plans commission to study Supreme Court; Trump wants U.S. \"to get back to normal\""
+    excerpt: "The separate interviews on CBS News' \"60 Minutes\" are set to air Sunday – just nine days before the U.S. election."
+    publishedDateTime: 2020-10-22T11:16:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-60-minutes-biden-supreme-court/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-60-minutes-biden-supreme-court/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 119
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f6a2dc10b6772ea895493de%2F0x0.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/22/b42ef257-1a7e-4996-a3e3-b1323f2ef66c/thumbnail/1200x630/821cd8fe35737239e88b468fad9722e8/bidentrump-new.jpg"
         width: 1200
-        height: 738
-        isCached: true
-  - title: "Why Donald Trump releasing his full '60 Minutes' interview is a major media miscalculation"
-    excerpt: "Donald Trump released his upcoming '60 Minutes' interview early. It's a big mistake. He whined that Lesley Stahl treated him unfairly. She didn't."
-    publishedDateTime: 2020-10-22T22:41:00Z
-    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/donald-trump-60-minutes-interview-column/3735272001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3735272001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3735272001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/41992c04-00f3-4434-8b96-1f42ed6e045f-VPC_TRUMP_ON_LESLEY_STAHL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
     excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
@@ -190,20 +142,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L6GBNYQTEUI6XISYMFFM6K4QNU.jpg&w=1440"
         width: 1440
         height: 1024
-        isCached: true
-  - title: "Trump cannot count on last-minute deciders to save him"
-    excerpt: "Politics Trump cannot count on last-minute deciders to save him. Posted . Four years ago, U.S. President Donald Trump rode a wave of late-deciding voters to a shocking election vi"
-    publishedDateTime: 2020-10-15T23:30:00Z
-    webUrl: "https://www.reuters.com/video/watch/trump-cannot-count-on-last-minute-decide-idRCV008V1O?chan=6g5ka85"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
-        width: 4981
-        height: 3321
         isCached: true
   - title: "Trump posts raw footage of '60 Minutes' interview"
     excerpt: "Posted [NFA] The White House on Thursday released raw footage from an interview that U.S. President Donald Trump did"
@@ -267,22 +205,44 @@ related:
         width: 6000
         height: 4000
         isCached: true
-  - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
-    excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-22T20:20:00Z
-    webUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408"
-    ampWebUrl: "https://www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-important-final-debate-trump-after-poor-showing-first-debate-president-may-need-3066408?amp=1"
+  - title: "Lesley Stahl to Mike Pence: 'You have both insulted 60 Minutes'"
+    excerpt: "Reporter Lesley Stahl of “60 Minutes” told Vice President Mike Pence that he and President Trump “insulted” her program by not answering her questions to her satisfaction. “I feel that you both have insulted ‘60 Minutes’ by not answering any ..."
+    publishedDateTime: 2020-10-22T19:52:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/22/lesley-stahl-mike-pence-you-have-both-insulted-60-/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 52
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/29/us-president-donald-trump-questions-the-coronavirus-figures.jpg"
-        width: 1024
-        height: 682
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/22/Election_2020_Pence_05076.jpg-220a6_c0-0-4026-2348_s1200x700.jpg?7d40882c60682ddff6ace7ac60a6e1b790e33187"
+        width: 1200
+        height: 700
         isCached: true
+  - title: "The Latest: Trump to Face Voters' Questions in NBC Town Hall"
+    excerpt: "In lieu of a formal debate, President Donald Trump has agreed to answer voters’ questions during an outdoors NBC News town hall Thursday in Miami."
+    publishedDateTime: 2020-10-14T12:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-14/the-latest-trump-to-face-voters-questions-in-nbc-town-hall?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
+    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "m07/xm43q5HuKaBwgLGtgHQ62Ww/iveS5i91SDu4azjO2KRyVRw3P4+0em3gBoLrTWIrnJxj6ZTMzCZBgTxUXvgWTPmftc38+NT3fwVKk2/jrITDL0oGJn+bRp5/GrvFzIXFv3DAaxN+DIMbYl+hz3xb8cOJBG1ulefd40uJsz38fgNQ9JedkoZEAiOVMHz02RG9/HOOW0/9XDHK7nuEBO031AubXmCN0xASs4yTh4kp8W9hgX0l1YqSV2BkFrtDBa39x5W7bxy4/+vPmL0jvqRYo6xaAUpd0msIKkbTBaVOQvoZ2Uh3fULNHmh/doeaIFCQD85C8WgD513CdrISZxe9cUr9jR/fCWB5Lo7SFdE=;4XNeTXwFXKWLMz5ZrWOCOA=="
 ---

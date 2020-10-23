@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "More than 300 military family members endorse Biden"
+    excerpt: "More than 300 military family members are endorsing Democratic nominee Joe Biden for president. In an open letter released Friday, the spouses, parents, siblings and children of service members endorsed Biden as a “man of integrity with a lifelong record of public service and leadership."
+    publishedDateTime: 2020-10-23T09:38:00Z
+    webUrl: "https://thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden"
+    ampWebUrl: "https://thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/522366-more-than-300-military-family-members-endorse-biden?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty_webb.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Progressives blast Biden plan to form panel on Supreme Court reform"
     excerpt: "Progressive groups are blasting Democratic nominee Joe Biden’s plan to form a commission to study judiciary reforms and whether justices should be added to the Supreme Court."
     publishedDateTime: 2020-10-22T19:37:00Z
@@ -143,22 +159,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Fact check: Fabricated Biden quote supports transgender children’s right to transition"
-    excerpt: "Posts on social media falsely attribute a quote to Joe Biden in which he says that transgender children have a right to transition and there is no reason to deny them this right. In his recent town hall,"
-    publishedDateTime: 2020-10-22T18:38:00Z
-    webUrl: "https://www.reuters.com/article/uk-factcheck-biden-quote-transgender-chi-idUSKBN2772PM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2772PM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2772PM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538497787&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L1J7"
-        width: 818
-        height: 545
-        isCached: true
   - title: "FBI probing whether emails in New York Post story about Hunter Biden are tied to Russian disinformation"
     excerpt: "The FBI is investigating whether emails published by the New York Post about Hunter Biden are linked to a Russian effort to spread disinformation."
     publishedDateTime: 2020-10-16T21:44:00Z
@@ -174,6 +174,36 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/06/USAT/a7e1e9c5-cc73-4ba8-94df-4a843104fb36-GTY_1228757046.jpg?auto=webp&crop=4648,2615,x0,y28&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The New York Post's Hunter Biden Stories Raise Questions About Joe Biden and It's Reporting — Here Are 9"
+    excerpt: "The emails and photos included in the report came from a Trump-supporting computer store owner in Delaware via Rudy Giuliani."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463"
+    ampWebUrl: "https://www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/new-york-posts-hunter-biden-stories-raise-questions-about-joe-biden-its-reporting-here-are-9-1539463?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 108
+    images:
+      - url: "https://d.newsweek.com/en/full/1653127/hunter-biden.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden faces voters' questions during town hall"
+    excerpt: "Democratic presidential nominee Joe Biden is back on the campaign trail after facing tough questions on issues including the COVID-19 pandemic and the Supreme Court in a televised town hall last night."
+    publishedDateTime: 2020-10-16T18:29:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-voter-questions-town-hall-covid-supreme-court/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/16/9e09baf2-69d3-4666-86a4-cb3eaa8ead88/thumbnail/1200x630/4d81d2ae682b8536e03b5acfb35cc04b/cbsn-fusion-biden-back-on-campaign-trail-after-facing-tough-voter-questions-during-town-hall-thumbnail-567322-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Impatient Democrats want Biden to do more in Texas"
     excerpt: "The whispers about Texas are picking up again."
@@ -218,6 +248,22 @@ related:
         width: 900
         height: 1217
         isCached: true
+  - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
+    excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
+    publishedDateTime: 2020-10-15T11:07:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-54552101"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54552101"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-54552101"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 73
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7AB4/production/_114921413_biden-mails.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
     excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
     publishedDateTime: 2020-10-16T18:22:00Z
@@ -233,6 +279,36 @@ related:
       - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20201016&Category=NEWS&ArtNo=201019455&Ref=AR"
         width: 3543
         height: 2364
+        isCached: true
+  - title: "Did you see a photo of Joe Biden supposedly kneeling during the national anthem? Not so"
+    excerpt: "Biden was kneeling to pose for a photo with dancers during an event at the Little Haiti Cultural Complex in Miami, according to captions of AP photos taken at the scene."
+    publishedDateTime: 2020-10-18T22:49:00Z
+    webUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2020/10/did-you-see-a-photo-of-joe-biden-supposedly-kneeling-during-the-national-anthem-not-so.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 67
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/L2AB4K5PPBECLAFEWAHMYUMV64.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Is This a Photograph of Joe Biden’s House?"
+    excerpt: "A little background research can go a long way towards avoiding the making of embarrassingly inaccurate accusations."
+    publishedDateTime: 2020-10-17T21:36:00Z
+    webUrl: "https://www.snopes.com/fact-check/biden-mansion-tweet/"
+    type: article
+    provider:
+      name: Snopes.com
+      domain: snopes.com
+    quality: 55
+    images:
+      - url: "https://www.snopes.com/tachyon/2020/10/biden_home.jpg"
+        width: 1122
+        height: 748
         isCached: true
   - title: "NY Post: Ex-Biden Business Partner Says Joe Was In On Family Deal 'to Make Millions' From China"
     excerpt: "A former business partner of Hunter Biden issued a statement to The New York Post overnight, asserting that the Biden family, including Joe, Hunter and Joe's brother James, \"aggressively leveraged the Biden family name to make millions of dollars from foreign entities even though some were from communist controlled China."

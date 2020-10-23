@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/trump-didnt-deny-million-debt-presse
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-didnt-deny-million-debt-pressed-during-town-hall-2020-10?amp"
 type: article
 quality: 109
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: Business Insider
@@ -31,85 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Report: Trump Paid Nearly $200,000 In Taxes To China"
-    excerpt: "A report from the New York Times reveals a decade of Donald Trump’s unsuccessful business activities in China, including an undisclosed bank account that paid nearly $200,000 in taxes, undermining his own exaggerated claims of Hunter Biden’s business dealings there,"
-    publishedDateTime: 2020-10-21T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/"
-    ampWebUrl: "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/amp/"
+  - title: "Trump Explains That Part of His $400 Million Debt Were ‘Favors to Institutions That Wanted to Loan Me Money’"
+    excerpt: "President Donald Trump explained the $400 million dollars of debt he currently owes, saying that \"some of it, I did as favors to institutions that wanted to loan me money.\""
+    publishedDateTime: 2020-10-16T10:27:00Z
+    webUrl: "https://www.mediaite.com/trump/trump-explains-that-part-of-his-400-million-debt-were-favors-to-institutions-that-wanted-to-loan-me-money/"
+    ampWebUrl: "https://www.mediaite.com/trump/trump-explains-that-part-of-his-400-million-debt-were-favors-to-institutions-that-wanted-to-loan-me-money/amp/"
+    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/trump/trump-explains-that-part-of-his-400-million-debt-were-favors-to-institutions-that-wanted-to-loan-me-money/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 125
+      name: Mediaite
+      domain: mediaite.com
+    quality: 56
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9011cc4e3fc4181ce3e597%2F0x0.jpg%3FcropX1%3D7%26cropX2%3D3000%26cropY1%3D0%26cropY2%3D1994"
-        width: 1199
-        height: 799
-        isCached: true
-  - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
-    excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
-    publishedDateTime: 2020-10-22T22:53:00Z
-    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/"
-    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 111
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9203f9fec3f6d2522ff281%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D53%26cropY2%3D2585"
+      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-16-at-5.41.53-AM-1200x701.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Trump is letting it slip that he knows he is losing badly: report"
-    excerpt: "According to a report at Politico, the normally self-assured Donald Trump has assumed a defensive posture in his recent rally speeches, openly begging for votes because he knows deep down that he will not be re-elected on Nov."
-    publishedDateTime: 2020-10-17T13:47:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-letting-it-slip-that-he-knows-he-is-losing-badly-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 75
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/11/Donald-Trump-4.jpg"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Trump ‘is hemorrhaging support’ and is flailing badly to win it back: reporter"
-    excerpt: "President Donald Trump is trailing Democratic rival Joe Biden in the polls, and one veteran journalist said that he seems clueless about how to stop the bleeding. Journalist Alex Wagner, the host of Showtime’s “The Circus,"
-    publishedDateTime: 2020-10-21T12:30:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-hemorrhaging-support-and-is-flailing-badly-to-win-it-back-reporter/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 71
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/01/Trump-Justin-Follett-2-e1552430064870-764x430.jpg"
-        width: 764
-        height: 430
-        isCached: true
-  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
-    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
-    publishedDateTime: 2020-10-20T11:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
-        width: 800
-        height: 430
+        height: 701
         isCached: true
 
 secured: "qP1akoHeMHagMMCjWGjDrn4Qjpx/mpDbsS2xSktBLZE8bQmjnVmNyYXIE2a6UtWcVuKCgIU5lLv4M63Grw0Ulhm59qM7dysto2UAKWldNk3rVwRVn4/ygk3HIZqNihqxkPh3aspS3CtnbkV2ENrOpvAJdS6gKuSRiqGd/XVpF43aySfXv5WoqwqQ+B6dSQuAJVFsBOIHZnxKSs/lOhyweEwjMqAdax3K4NlPMd+QD+RiQk07VIx7r5Yd2nAYrm3/1ubBy+MusOZzocwgYW3+xW4Yz82oKbFJIfDRaVWLsnk+coNCNCwBY+4CgF6kdkxDKmilfJxYwuoC3bgRNHPOBUiDHukAGtPABf4CPl7dWl4n23Xb7ywA62NjwQ/Kv6jqw21pop3nOjTDUeHLAVmFkN4N8GA2hkSkqfgyp0sVw22CXfjlGJXfh1afzzQyCjJh6h0rqS4JkKxo2nX9ebPgO5izGXI8OQP0DLKLZIG77ytkUe1YoVK0B4AEGt7hDWE2dGIzEEmHQd2xc6Gba15DLg==;cRf9ppSCGfQe5dmK6GsTBQ=="

@@ -29,53 +29,97 @@ images:
     isCached: true
 
 related:
-  - title: "White House Says Republicans Will ‘Come Along With’ What Trump Wants On Stimulus"
-    excerpt: "I believe Senate Republicans will ultimately come along with what the president wants,” White House Press Secretary Kayleigh McEnany said Monday."
-    publishedDateTime: 2020-10-12T14:26:00Z
-    webUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/"
-    ampWebUrl: "https://www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackbrewster/2020/10/12/white-house-says-republicans-will-come-along-with-what-trump-wants-on-stimulus/amp/"
+  - title: "Trump Calls for Big Stimulus Proposal, Contradicting GOP Leaders"
+    excerpt: "President Donald Trump told Congress to “Go big or go home!!” on a coronavirus stimulus package, directly contradicting Senate Majority Leader Mitch McConnell’s plan to put a narrow bill on the Senate floor next week."
+    publishedDateTime: 2020-10-13T15:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/trump-calls-for-big-stimulus-proposal-contradicting-gop-leaders/2020/10/13/bd76637a-0d67-11eb-b404-8d1e675ec701_story.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 120
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8465264f2e188304012e3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5438%26cropY1%3D0%26cropY2%3D3057"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ST5XQNMQI6XNAERUPGOXWHAE.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Reince Priebus ‘Not at All’ Concerned Trump Will Lose, But Election ‘Will Come Down to the Wire’"
-    excerpt: "Former RNC Chairman Reince Priebus says he remains confident in President Donald Trump's re-election, though the the 2020 contest \"will come down to the wire.\""
-    publishedDateTime: 2020-10-18T20:20:00Z
-    webUrl: "https://www.mediaite.com/tv/reince-priebus-not-at-all-concerned-trump-will-lose-but-election-will-come-down-to-the-wire/"
-    ampWebUrl: "https://www.mediaite.com/tv/reince-priebus-not-at-all-concerned-trump-will-lose-but-election-will-come-down-to-the-wire/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/reince-priebus-not-at-all-concerned-trump-will-lose-but-election-will-come-down-to-the-wire/amp/"
+  - title: "What Trump's comments about ceasing stimulus-package negotiations mean for future $1,200 payments — in one minute or less"
+    excerpt: "Confused on all the news around the stimulus talks and Trump's tweets? Catch up on what it all means for the chances of another stimulus check here."
+    publishedDateTime: 2020-10-08T09:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-stimulus-negotiations-comments-impact-stimulus-checks-direct-payments-explained-2020-10?amp"
     type: article
     provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 77
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-18-at-3.52.35-PM-1200x658.jpg"
-        width: 1200
-        height: 658
+      - url: "https://i.insider.com/5f63d42757b7da001ee125e3?width=1200&format=jpeg"
+        width: 1024
+        height: 512
         isCached: true
-  - title: "Stimulus Bill 2: Trump Says Mnuchin Hasn’t ‘Come Home With the Bacon’"
-    excerpt: "As stimulus talks for more coronavirus relief remain halted, President Donald Trump is throwing Treasury Secretary Steven Mnuchin under the bus."
-    publishedDateTime: 2020-10-18T13:33:00Z
-    webUrl: "https://heavy.com/news/stimulus-2-trump-mnuchin/"
-    ampWebUrl: "https://heavy.com/news/stimulus-2-trump-mnuchin/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/news/stimulus-2-trump-mnuchin/amp/"
+  - title: "WATCH: Maddow has exclusive new video of former top GOP official trashing Donald Trump"
+    excerpt: "The host of “The Rachel Maddow Show” on Tuesday released exclusive new video from the group Republican Voters Against Trump. The ad features Michael Hayden, the retired four-star Air Force general who served as the director of both the the National Security Agency (NSA) and Director of the Central Intelligence Agency (CIA) during the George"
+    publishedDateTime: 2020-10-07T02:35:00Z
+    webUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/watch-maddow-has-exclusive-new-video-of-former-top-gop-official-trashing-donald-trump/amp/"
     type: article
     provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 75
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 67
     images:
-      - url: "https://heavy.com/wp-content/uploads/2020/10/stimulus-2-Trump-Mnuchin.jpg?quality=65&strip=all"
-        width: 780
-        height: 439
+      - url: "https://www.rawstory.com/wp-content/uploads/2019/02/Rachel-Maddow-2-800x430.jpg"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "‘Where are the surrogates?’ Fox News corners White House aide on GOP lawmakers refusing to campaign for Trump"
+    excerpt: "White House Communications Director Alyssa Farah on Wednesday faced questions from Fox News about why Republican lawmakers have been absent from President Donald Trump’s re-election campaign. “If you look at the polls,"
+    publishedDateTime: 2020-10-14T16:00:00Z
+    webUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/where-are-the-surrogates-fox-news-corners-white-house-aide-on-gop-lawmakers-refusing-to-campaign-for-trump/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 56
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Kilmeade-Farah-2-787x430.jpg"
+        width: 787
+        height: 430
+        isCached: true
+  - title: "Trump is ‘going to get absolutely crushed’: GOP campaign consultant paints grim portrait of president’s future"
+    excerpt: "Appearing on MSNBC on Saturday afternoon with host Alex Witt, noted Republican campaign consultant Stuart Stevens left no doubt about what he thinks is going to happen on election day, saying Donald Trump is going to “get crushed” and former Vice President Joe Biden will become the next president."
+    publishedDateTime: 2020-10-17T19:15:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-is-going-to-get-absolutely-crushed-gop-campaign-consultant-paints-grim-portrait-of-presidents-future/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 55
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/05/Donald-Trump-Mandel-NganAFP-2-736x430.jpg"
+        width: 736
+        height: 430
+        isCached: true
+  - title: "New Trump Golf Course In Scotland Gets Go-head Despite Environmental Fears"
+    excerpt: "President Donald Trump's company has been given permission by Scottish authorities to build a second golf course in northeast Scotland despite local objections. Plans for a new 18-hole golf course have been approved by Aberdeenshire council."
+    publishedDateTime: 2020-10-17T20:34:00Z
+    webUrl: "https://www.ibtimes.com/new-trump-golf-course-scotland-gets-go-head-despite-environmental-fears-3063804"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 53
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/17/president-donald-trump-pictured-during-construction-of-his.jpg"
+        width: 1024
+        height: 689
         isCached: true
 
 secured: "sXhhNoAa43c8W09dMCEFjJJAcmpFSS/JYHyu9aly77OEGSXhNTe5gsa1izt28V/ayQOqHQOt3JpaOOUVrlYT/Ukj3haJ/iD2FwkWkFddrdSkMDSykyfI9CRW/GzUydUH7ECagsL9neC5T4NT/QpdCdK93tnpm5T7FLkDbRC4vkKJfTbKO9v5uxKjhPjzs33v3l8TZqKKgPHwQPJDsMlbY9A1h0yCj8VC1SkEUUQbDecxXG/fyLo8jJSTSg+ZDXJpLSFjkEdau9f0BYV0y4EqEHxMVB50D6e+yk2eE036t4mapcLEgtpAPi67rooMxvZnvnvNidjT+49jSEuYt+QlVlmZ0SwrHL+iErxu13xjRn4=;5MZu6bBl155tjW4senWxtg=="
