@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Analysis: 7 takeaways from the final 2020 debate, including Trump’s continued difficulty defending his handling of COVID-19"
+    excerpt: "For Trump, the matchup was perhaps the final opportunity to change the dynamics of a race. For Biden, it was 90 minutes to solidify an apparent lead."
+    publishedDateTime: 2020-10-23T05:22:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-final-debate-takeaways-20201023-sunjbxxs5rbvdidymcl3znwuby-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/97kzAR_nGPDHLZC-Q7Oo7-zKNaE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NHEONEAJQMOIGPKKWVGV5BFYLM.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald and Melania Trump's son Barron had tested positive for Covid-19"
     excerpt: "The first lady revealed that the 14-year-old had first tested negative for coronavirus but was found positive in a subsequent test."
     publishedDateTime: 2020-10-15T09:42:00Z

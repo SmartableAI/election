@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New Jersey judge throws out Trump campaign mail-in ballot lawsuit"
+    excerpt: "A federal judge in New Jersey Thursday threw out an August lawsuit filed by the Trump campaign in relation to mail-in voting.  "
+    publishedDateTime: 2020-10-23T04:26:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sv9BGKAUejY/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit"
+    ampWebUrl: "https://www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-jersey-judge-throws-out-trump-campaign-mail-in-ballot-lawsuit.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1963c64d-d3e7-4868-9a06-8939df701d4d/347f5a13-791d-4178-a0ba-6670d52fead8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meadows says Trump tweets to declassify Russia probe docs 'were not' direct orders"
     excerpt: "White House chief of staff Mark Meadows rejected suggestions this week that President Trump’s tweets earlier this month calling for the “total declassification” of all documents related to the Russia investigation and the FBI’s probe into Hillary Clinton’s private email server were an explicit order"
     publishedDateTime: 2020-10-21T14:48:12Z

@@ -235,6 +235,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump walks out on ‘60 Minutes’ interview: Watch what happened"
+    excerpt: "Are you ready for some tough questions?” CBS correspondent Lesley Stahl asks President Donald Trump seconds before they began rolling for an exclusive “60 Minutes\" interview set to air on CBS this Sunday."
+    publishedDateTime: 2020-10-22T21:46:00Z
+    webUrl: "https://www.al.com/news/2020/10/donald-trump-walks-out-on-60-minutes-interview-watch-what-happened.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/donald-trump-walks-out-on-60-minutes-interview-watch-what-happened.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/donald-trump-walks-out-on-60-minutes-interview-watch-what-happened.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PL6QK4BHPNEEVKJ4FB4EG5ZZFU.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-22T20:20:00Z
@@ -252,6 +268,6 @@ related:
         height: 682
         isCached: true
 
-secured: "QbX6Tu7mH+ZJ2R00edlN38H8LhiaVXAv+Rv09soQxVqqa2XDTKifE4tQU8OHIMWqZRU9gYhu0V7M+yV9/yMql7rlvEP4St9SvziBJ/Wrh9YJiU1ndiCCWurBHh53UQNWKbUvnpstNjDzWEeFind+wGQrxCDDm8Lyq+5SlP74KhIFNmagxA71pdqTy6BeKlw+UO6Bgem+y5om2uTT6X/tMJKMhmzTVetFp/wTPj/5//BNY+Zut+xOONCNrMUiEtbTs2U7Na0qVCyzz2Sr/t85KvGbHurJqm8ja0zESufZHlR9L8VjCcexOjTYvci+zR2X/yIaxIMSPOu6zewPhoXZ4gywyfVkWU2S5qt9jvLX+tQ=;UMySO2PknydcQzOkq7p80w=="
+secured: "fslgT5Z0egnKJN0PHLhYSdch2KGzQDaXkhjwYAEM1+6nzMf0zCfl+pEJG3ihYKm4G0DqZUHpSIipivr50Skm8Elun7BK8aP2r1cHGLpekBwxwDDHHwiM3MPZuUpKRkBq7rpe8qT8JXIgLTcWrihyQ1kS+TOiFhvgm9SuYWpoXcSbA2ckF1CZJhJMkAd86bYNaWtu1RKEXHK+UFP8wrthXj39W3DiqWIrFtxG1OBr/ZrMLm2s/PSQcpyexVHJi2HzRoSTUYSAg8SDwzon8BfBsdfIB0hCzEuKyf/NbG1CFiOtN7BQm1ZyDuJT6xVRalHyAixa/8u9nag+G5pSaG/7J1fnRxiJUeFI7MrkpU+WJldzTyfPSMNwCEiNaRVL5bASziesJktwq+4WhmSRvB/nZOvClI8HpZimmjyhqhfvMV1IEDLRk7lpNCxdi8XrIXyIP0+6svFc6md+ufEixoK5kZ0qKYlYt31vveUP32CXB/SI+pB235h8+I7CMPk2DP1snDUmjhZdmupWL1YkQY8ruA==;L5CumT5gjzU23nDdqyrn1w=="
 ---
 

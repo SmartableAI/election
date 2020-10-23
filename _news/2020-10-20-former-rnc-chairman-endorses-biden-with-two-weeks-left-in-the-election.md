@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 950
+heat: 970
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/190409160459-sam-elliott-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "CNN Poll: Biden wins final presidential debate"
+    excerpt: "Joe Biden did a better job in the final debate on Thursday according to a CNN Instant Poll of debate watchers. Overall, 53% of voters who watched the debate said that Biden won the matchup, while 39% said that President Donald Trump did.\n    \n"
+    publishedDateTime: 2020-10-23T05:30:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U4XHjrWY4U4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/cnn-poll-final-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/cnn-poll-final-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022213239-02-final-debate-1022-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

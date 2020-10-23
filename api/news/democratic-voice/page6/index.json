@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-09-21-barbara-lagoa-one-of-trumps-top-contenders-for-the-supreme-court.md",
+      "title": "Barbara Lagoa, one of Trump's top contenders for the Supreme Court",
+      "excerpt": "President Donald Trump said he plans to select a woman to replace the late Justice Ruth Bader Ginsburg, a feminist icon who helped lead the Supreme Court's liberal wing for years. Among the people on his short list is Barbara Lagoa, a 52-year-old conservative judge he appointed to the 11th US Circuit",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qjM7TpC-7To/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qjM7TpC-7To/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 555,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200919073912-01-barbara-lagoa-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supreme-court/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/21/politics/barbara-lagoa-trump-supreme-court/index.html",
+      "publishedDateTime": "2020-09-21T13:51:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-former-trump-national-security-adviser-says-withdrawal-of-us-troops-from-afghanistan-and-germany-is-a-mistake.md",
       "title": "Former Trump national security adviser says withdrawal of US troops from Afghanistan and Germany is a mistake",
       "excerpt": "President Donald Trump's former national security adviser H.R. McMaster on Sunday said the withdrawal of US troops from places like Afghanistan and Germany are \"mistakes\" from a long-term national security perspective and called for a sustained commitment to assisting the Afghan government and its security",
@@ -1632,63 +1688,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-15-pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.md",
-      "title": "Pence cancels a plan to attend a fund-raiser hosted by QAnon supporters.",
-      "excerpt": "Vice President Mike Pence has called off plans to attend a fund-raiser in Bozeman, Mont., on Monday evening hosted by a couple who have shown support for QAnon, the convoluted conspiracy theory built around the notion of a deep-state cabal of Satan-worshiping pedophiles and their powerful Democratic backers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.html",
-      "originalUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/09/14/us/14live-pence/14live-pence-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/09/14/us/elections/pence-cancels-a-plan-to-attend-a-fund-raiser-hosted-by-qanon-supporters.amp.html",
-      "publishedDateTime": "2020-09-14T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

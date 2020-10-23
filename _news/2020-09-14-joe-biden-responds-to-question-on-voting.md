@@ -803,6 +803,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump, Biden clash over climate, oil industry in final debate"
+    excerpt: "Republican President Donald Trump and Democratic challenger Joe Biden clashed over the country's response to climate change in their final presidential debate on Thursday, which included a stark disagreement over the future of the oil industry."
+    publishedDateTime: 2020-10-23T05:02:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate-climate-change-idUSKBN2780HW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780HW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780HW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538558962&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0AY"
+        width: 817
+        height: 545
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -1278,6 +1294,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 132
+  - title: "Amid a year of debate over inequity and police violence, Trump and Biden spar over race"
+    excerpt: "Trump asserted that ‘nobody has done more for the Black community’ since Lincoln — including the nation’s first African American president."
+    publishedDateTime: 2020-10-23T05:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/race-debate-trump-biden/2020/10/23/9897847a-14d9-11eb-ad6f-36c93e6e94fb_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 132
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VXXV5QQU2YI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Ask Trump and Biden how they'd fix gross inadequacies of US health care: Medical students"
     excerpt: "We hope Trump and Biden discuss health care in the first presidential debate. We're medical students who already see it's chaotic, costly and unequal."
     publishedDateTime: 2020-09-21T09:23:00Z
@@ -3188,6 +3220,22 @@ related:
       - url: "https://s.hdnux.com/photos/01/14/67/60/20151357/19/375x250.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Trump, Biden fight over the raging virus, climate and race"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus during the campaign's closing debate, largely shelving the rancor that overshadowed their previous face-off in favor of a more substantive exchange that highlighted their vastly different approaches to the major domestic and foreign challenges facing the nation."
+    publishedDateTime: 2020-10-23T05:10:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-fight-over-the-raging-virus-climate-15669213.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"

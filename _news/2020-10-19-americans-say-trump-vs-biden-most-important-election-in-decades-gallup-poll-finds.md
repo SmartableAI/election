@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1579
+heat: 1599
 published: true
 
 provider:
@@ -460,6 +460,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/40241d64-a7f5-4845-ac9e-033d6ed293ba/d8286a5d-e3f4-4445-8624-bd0f99c4d418/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Donald Trump Jr.: Joe Biden is 'corrupted and compromised and America has to know it'"
+    excerpt: "Trump Organization Executive Vice President Donald Trump Jr., described Democratic nominee Joe Biden as \"corrupted and compromised\" following the latest revelations about Hunter Biden's overseas business dealings. "
+    publishedDateTime: 2020-10-23T04:36:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sa5W1eTOMnE/trump-jr-joe-biden-corrupted-compromised"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-joe-biden-corrupted-compromised.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-joe-biden-corrupted-compromised.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e03cb1b2-34d0-400f-aef3-8c5579dcb03d/078e74c4-17eb-4448-bd04-e155eba2d17d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

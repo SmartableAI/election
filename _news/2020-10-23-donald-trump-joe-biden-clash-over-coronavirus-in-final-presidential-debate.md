@@ -448,6 +448,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump, Biden final presidential debate in the books"
+    excerpt: "President Trump and Democratic nominee Joe Biden debated about the coronavirus, immigration, the economy and other issues during Thursday evening's final presidential debate."
+    publishedDateTime: 2020-10-23T05:12:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ib2wp9IM9Gs/live-updates-trump-biden-final-presidenital-debate-in-the-books"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-final-presidenital-debate-in-the-books.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-final-presidenital-debate-in-the-books.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/886c1845-34a6-41a3-9949-1596ed3bf60d/721bd5a4-a237-48a1-b871-52d837afb882/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden marks grim coronavirus milestone, says ‘Trump panicked’ on pandemic"
     excerpt: "As the national death toll from the coronavirus pandemic passes 200,000 people, Democratic presidential nominee Joe Biden cautioned that Americans must avoid “becoming numb to the toll that is taken.”"
     publishedDateTime: 2020-09-21T23:07:53Z
@@ -2547,6 +2563,6 @@ related:
         height: 375
         isCached: true
 
-secured: "eQcazkoPVqERIWr7QYZU/nvNxSlbD6lgF4sio3uDCH4bYS8sWecD/P7wze6VAgydDMmQsnQ96jEu2pUhZu+okjKwBOWdyJzgGqaY4elYpDAEvspCVgHznff6Enc+tTzUUznHXfBtq9RkYbQjaickWEdHvn++7CuAQ3Io/mjVHHLRwCnbLZQKdhTOVdOLpI9aM/i8QpXRoDwDsyWkNyXiGShBI1bARR0iqaH7Ek3RyzYwnHMUSlPieOPBWlcydd5OWCgJRIlAF0N2mxU0yqOpYd9Drhea9Q91W7iXfvgD9cFm910oLxqThijqd1LoVMVY4a9qSvXxn2wn+Du1RvtutuWRIR33Lz7sdZwGw75R2Mk=;BPAEoY171BP5uS3jkB5csw=="
+secured: "dBMn+zxbstBCu9EVAGA3PRo9k69zkEMxGZXVnduZOG644hwYOoMqqJaYO2LM7qQAxkp7ta5g13depfZph7LBQMOKAMu3UuysQxT477tvjIKpaz0WGjN/z2taCibFM12+QvtqEqbhsxSAlYVnL/DMfIlvEX8t7VbJv/PatzBDVEKQxJVDeuEc0FIyUbGLakQzF/NRMmsKuTbyphsJ/1jowv8XRKwmmB5EWAxZi33h0ph4FG0GgNAU8eHl27v4dGj4uPD7r7obqt1eAnSmWFK8LHXTrJJ2xq32DFlaj0MimMpOFR2atHGdpuqbHXAQXdlXbcGAr0HAdTTCBJxPQKROfSB8IvkNHuqo5vOygE1H8a874Px4VnQyjUE5zdWl81uaTtkO7DohlDhoEJSgfqhG1qBinaFz2RMT8YeovC7o60/UgN+V47bCWHmmsOCixrLcXqz0aeARuzFL7BEGBnqOqF0NKUa6Y+w0guHODROHS5FCfs7erXVc2u4IntUume3ZtZHSEThIAkvVPCLBlHirrg==;AMsoa8w2pxCp/qvgLCGg4g=="
 ---
 

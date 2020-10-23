@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Van Jones calls Trump's response 'inhuman' and sparks fiery debate"
+    excerpt: "CNN's Van Jones and Rick Santorum discuss President Trump and Joe Biden's immigration arguments during the final presidential debate.  Check out more CNN debate coverage here.\n    \n"
+    publishedDateTime: 2020-10-23T03:16:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M3nmaaUXvUo/van-jones-rick-santorum-trump-biden-immigration-moment-sot-dbx-2020-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/22/van-jones-rick-santorum-trump-biden-immigration-moment-sot-dbx-2020-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/22/van-jones-rick-santorum-trump-biden-immigration-moment-sot-dbx-2020-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022225229-van-jones-rick-santorum-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "In deep-blue New York City, a gated beachfront haven where Trump flags fly."
     excerpt: "Trump’s hometown, New York City, has not exactly been hospitable to him as a politician. In the 2016 election, Hillary Clinton outpolled him here more than four to one. His home borough within the city,"
     publishedDateTime: 2020-10-20T20:25:00Z

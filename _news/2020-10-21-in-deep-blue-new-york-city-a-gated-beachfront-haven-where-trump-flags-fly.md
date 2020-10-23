@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Van Jones calls Trump's response 'inhuman' and sparks fiery debate"
+    excerpt: "CNN's Van Jones and Rick Santorum discuss President Trump and Joe Biden's immigration arguments during the final presidential debate.  Check out more CNN debate coverage here.\n    \n"
+    publishedDateTime: 2020-10-23T03:16:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/M3nmaaUXvUo/van-jones-rick-santorum-trump-biden-immigration-moment-sot-dbx-2020-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2020/10/22/van-jones-rick-santorum-trump-biden-immigration-moment-sot-dbx-2020-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2020/10/22/van-jones-rick-santorum-trump-biden-immigration-moment-sot-dbx-2020-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022225229-van-jones-rick-santorum-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "New York Times: Trump paid no income taxes in 10 out of 15 years beginning in 2000"
     excerpt: "Donald Trump has paid no income taxes whatsoever in 10 of the past 15 years since 2017 as a result of reporting that he was losing significantly more than he made, according to an explosive report released Sunday by the New York Times.\n    \n"
     publishedDateTime: 2020-09-27T23:22:13Z

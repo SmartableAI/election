@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-administration-d
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-administration-denies-california-relief-fires-73657293"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -186,6 +186,22 @@ related:
       - url: "https://patch.com/img/cdn20/ap/22920172/20201014/090933/styles/patch_image/public/ap20288063475161___14084417630.jpg?width=984"
         width: 984
         height: 738
+        isCached: true
+  - title: "Melania Trump's Fashion Choices Don't Mean Anything, Source Says"
+    excerpt: "Melania Trump's dresses don't mean anything including her pink dress that many thought was a nod to gay pride."
+    publishedDateTime: 2020-10-23T05:25:00Z
+    webUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703"
+    ampWebUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump administration to face more lawsuits challenging H-1B rules close to two weeks before elections"
     excerpt: "B workers and also made qualifying for H-1B visa tougher. First of the lawsuit filed by US IT companies on October 16 was against the wage hike rule. Two more are likely to follow in the coming days,"

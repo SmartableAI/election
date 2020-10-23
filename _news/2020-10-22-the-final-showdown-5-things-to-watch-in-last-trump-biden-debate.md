@@ -272,6 +272,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "7 takeaways from the final Trump-Biden debate"
+    excerpt: "The second and final showdown between President Donald Trump and Democratic challenger Joe Biden looked much more like a normal debate than their first meeting.\n    \n"
+    publishedDateTime: 2020-10-23T04:52:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RSZ1MLWIy_8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/takeaways-final-biden-trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/takeaways-final-biden-trump-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022212510-28-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and Biden focus on coronavirus as last presidential debate begins"
     excerpt: "President Donald Trump enters the final presidential debate on Thursday in need of a major shakeup that will change the trajectory of the race as he trails Joe Biden in both national polls and key swing states that will determine whether he has a path to victory in the Electoral College.\n    \n"
     publishedDateTime: 2020-10-23T01:42:27Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-slams-debate-moderator-kriste
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-debate-moderator-kristen-welker.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 127
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/745c01a0-6b66-4bcf-84cc-80436d1ac538/f6ffaf80-861f-4362-9b46-57f0baededd7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dan Gainor: At presidential debate, Trump interrupted by Welker all night but he still manages to do this"
+    excerpt: "At the presidential debate moderator Kristen Welker spent all night interrupting Trump. But despite that, the evening didn’t go anywhere near as she planned."
+    publishedDateTime: 2020-10-23T05:17:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82d4f01d-11f1-4c7a-a121-24b4a06cbaf5/023358d8-3978-4abe-a487-ee1a3403408a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: World reduced to 'friends,' 'thugs' and 'filthy' countries in Trump-Biden foreign policy debate"
+    excerpt: "\"We had a good relationship with Hitler before he invaded the rest of Europe.\"\n    \n"
+    publishedDateTime: 2020-10-23T05:36:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K4wivtNKljE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022232347-29-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Trump administration official met with Assad regime over imprisoned Americans"
     excerpt: "A top Trump administration official met with the Assad regime in Damascus this fall in an effort to secure the release of American prisoners believed to be held by the Syrian dictator, two administration officials confirmed to CNN.\n    \n"
     publishedDateTime: 2020-10-19T02:20:11Z

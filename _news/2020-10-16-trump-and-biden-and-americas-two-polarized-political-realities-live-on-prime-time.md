@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 604
+heat: 624
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201011152609-file-donald-trump-anthony-fauci-0317-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: World reduced to 'friends,' 'thugs' and 'filthy' countries in Trump-Biden foreign policy debate"
+    excerpt: "\"We had a good relationship with Hitler before he invaded the rest of Europe.\"\n    \n"
+    publishedDateTime: 2020-10-23T05:36:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/K4wivtNKljE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-trump-foreign-policy-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022232347-29-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

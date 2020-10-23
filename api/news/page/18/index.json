@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-10-05-trumps-infection-shows-officials-must-take-virus-seriously-germanys-altmaier.md",
+      "title": "Trump's infection shows officials must take virus seriously - Germany's Altmaier",
+      "excerpt": "German Economy Minister Peter Altmaier said on Sunday that U.S. President Donald Trump's coronavirus infection showed that politicians must take the COVID-19 pandemic more seriously and stop minimizing its health risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ",
+      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-trump-germany-idUSKBN26P0ZQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201004&t=2&i=1536144246&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG930U5",
+          "width": 812,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN26P0ZQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN26P0ZQ",
+      "publishedDateTime": "2020-10-04T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-04-pence-to-maintain-aggressive-schedule-as-trump-remains-in-hospital-campaign-adviser-says.md",
       "title": "Pence to maintain 'aggressive schedule' as Trump remains in hospital, campaign adviser says",
       "excerpt": "A senior Trump campaign adviser said on Sunday that Vice President Mike Pence will maintain “a very full aggressive schedule” while the president is being treated in the hospital for COVID-19.",
@@ -1314,58 +1366,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-03-donald-trump-should-be-better-in-a-week-after-taking-experimental-drug-regeneron-ceo-says.md",
-      "title": "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says",
-      "excerpt": "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146",
-      "originalUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg",
-          "width": 2500,
-          "height": 1535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1",
-      "publishedDateTime": "2020-10-02T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

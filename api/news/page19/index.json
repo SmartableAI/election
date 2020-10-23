@@ -2,6 +2,58 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-10-03-donald-trump-should-be-better-in-a-week-after-taking-experimental-drug-regeneron-ceo-says.md",
+      "title": "Donald Trump Should Be Better in a Week After Taking Experimental Drug, Regeneron CEO Says",
+      "excerpt": "During the interview, it was asked whether it's wise to place the president on an experimental drug that could have adverse side effects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146",
+      "originalUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1645713/donald-trump-coronavirus-covid-19-drugs-regeron-recovery.jpg",
+          "width": 2500,
+          "height": 1535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-should-better-week-after-taking-experimental-drug-regeneron-ceo-says-1536146?amp=1",
+      "publishedDateTime": "2020-10-02T19:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-03-the-real-nightmare-scenario-a-sick-mike-pence.md",
       "title": "The Real Nightmare Scenario: A Sick Mike Pence",
       "excerpt": "The U.S. government knows how to handle an incapacitated commander in chief, but has no idea how to deal with a very sick vice president.",
@@ -1280,62 +1332,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/herschel-walker-claps-back-at-bidens-antifa-is-an-idea-comment.amp",
       "publishedDateTime": "2020-10-01T13:53:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-01-comey-blatantly-accused-trump-of-horrible-things-without-evidence-sen-mike-lee.md",
-      "title": "Comey 'blatantly accused' Trump of 'horrible things' without evidence: Sen. Mike Lee",
-      "excerpt": "Former FBI Director James Comey “blatantly accused the president of the United States” of “horrible things without any evidence,” Sen. Mike Lee, R-Utah, told “Fox & Friends” on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5FiBXSLRZP8/comey-testimony-trump-sen-mike-lee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/talia.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/comey-testimony-trump-sen-mike-lee.amp",
-      "publishedDateTime": "2020-10-01T12:51:58-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

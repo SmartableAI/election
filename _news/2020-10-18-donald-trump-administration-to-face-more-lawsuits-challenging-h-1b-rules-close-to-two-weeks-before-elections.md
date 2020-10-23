@@ -199,6 +199,22 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "Melania Trump's Fashion Choices Don't Mean Anything, Source Says"
+    excerpt: "Melania Trump's dresses don't mean anything including her pink dress that many thought was a nod to gay pride."
+    publishedDateTime: 2020-10-23T05:25:00Z
+    webUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703"
+    ampWebUrl: "https://www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trumps-fashion-choices-dont-mean-anything-source-says-3067703?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/04/in-a-rare-public-statement-us-first-lady.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump And The Strongmen: How US Leader Fell For Autocrats"
     excerpt: "He \"fell in love\" with Kim Jong Un, praises Vladimir Putin and calls Recep Tayyip Erdogan \"a friend\": President Donald Trump's flattery of autocrats has confounded US allies and raised questions about his regard for democratic norms."
     publishedDateTime: 2020-10-21T03:37:00Z

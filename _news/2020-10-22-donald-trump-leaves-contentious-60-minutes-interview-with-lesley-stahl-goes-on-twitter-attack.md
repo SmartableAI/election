@@ -235,6 +235,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Donald Trump walks out on ‘60 Minutes’ interview: Watch what happened"
+    excerpt: "Are you ready for some tough questions?” CBS correspondent Lesley Stahl asks President Donald Trump seconds before they began rolling for an exclusive “60 Minutes\" interview set to air on CBS this Sunday."
+    publishedDateTime: 2020-10-22T21:46:00Z
+    webUrl: "https://www.al.com/news/2020/10/donald-trump-walks-out-on-60-minutes-interview-watch-what-happened.html"
+    ampWebUrl: "https://www.al.com/news/2020/10/donald-trump-walks-out-on-60-minutes-interview-watch-what-happened.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2020/10/donald-trump-walks-out-on-60-minutes-interview-watch-what-happened.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PL6QK4BHPNEEVKJ4FB4EG5ZZFU.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."
     publishedDateTime: 2020-10-22T20:20:00Z

@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Dan Gainor: At presidential debate, Trump interrupted by Welker all night but he still manages to do this"
+    excerpt: "At the presidential debate moderator Kristen Welker spent all night interrupting Trump. But despite that, the evening didn’t go anywhere near as she planned."
+    publishedDateTime: 2020-10-23T05:17:00Z
+    webUrl: "https://www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor"
+    ampWebUrl: "https://www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/presidential-debate-trump-welker-dan-gainor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82d4f01d-11f1-4c7a-a121-24b4a06cbaf5/023358d8-3978-4abe-a487-ee1a3403408a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MQoGu9UoogvQgu63+nZy5kU6y9MNdYEKEV39a+TmYSl6u1IWz5XrzP90hDk85A5yDOfBx/ESw6RWC9FBd/uMch5B20V9jukhY8no/HGn5EkFBEAvUTnsMVVpFiMYuMfny8OoMDud8fED+sio8kVqst2uuJneEuJfnB4+orgs3vaEAzHnMctfe1wWQwxrsnEBy8ZRYuo8t08QHcBHTMFaK90DTQVtxA4Q665v6y3i8Q7Hqdo2Iv2TeLSCYtu3kftveLuAwVV//AAXuBZiKLykS9L45oKS2YaoGSfyxoAOlkeK12V21WRGw0EGnsdRGcamixMebDkC3BQuzcKPrOS3ioaWD0bNIWKz8tELbfWCTFI=;3WKXSLw7iJwPsjpkQJLR4w=="
 ---

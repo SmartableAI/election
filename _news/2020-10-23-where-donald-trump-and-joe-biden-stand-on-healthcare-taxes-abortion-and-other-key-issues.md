@@ -827,6 +827,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mute buttons, Lincoln and a watch: Six takeaways from the Trump-Biden debate"
+    excerpt: "Democratic U.S. presidential nominee Joe Biden speaks during the third and final presidential debate with U.S. President Donald Trump at Belmont University in Nashville, Tennessee, U.S., October 22, 2"
+    publishedDateTime: 2020-10-23T05:29:00Z
+    webUrl: "https://www.reuters.com/news/picture/mute-buttons-lincoln-and-a-watch-six-tak-idUSKBN27802K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538549244&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9M07S"
+        width: 810
+        height: 540
+        isCached: true
   - title: "How the US has voted in every presidential election from George Washington to Donald Trump — and what it means for today"
     excerpt: "The US political map hasn't always looked the way it does today. See how the map has changed over 58 presidential elections."
     publishedDateTime: 2020-10-16T18:59:00Z
@@ -1469,6 +1483,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Top Donald Trump Quotes During The Final Presidential Debate 2020"
+    excerpt: "The second and final presidential debate saw Joe Biden and Donald Trump in a series of sharp exchanges over topics such as COVID-19, national security, and racism in America."
+    publishedDateTime: 2020-10-23T04:49:00Z
+    webUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793"
+    ampWebUrl: "https://www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/top-donald-trump-quotes-during-final-presidential-debate-2020-3067793?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
     publishedDateTime: 2020-10-15T11:07:00Z
@@ -1859,6 +1889,6 @@ related:
         height: 682
         isCached: true
 
-secured: "DZStsPpRRkCMV9/c38rP/XBiB2OL2r7dMT4s3WpVjMSYo8vhb+l6qNfeeD0k2WvxrNG2fu1gMR81Y8wDPqN/3RotMGa4p7gdm0oA/wPWyDNQ13V9L0148s/l7Qtw0cR30UEXmwsgomjQEnvRD5QAzMaG6hmOXzdEnP26Nn+Kaq5q24OaSHwU66eYFF0ZCcFqvBcv05iBoqySop50MBMJzIdgntgRAYVKWZ6I451jtaNqf8j6vsga2Jjv01gTZGOAOzFNFnpPUKFt3s5EvOJ6p7p1mhkwHudAiadF5BRDHYjlm/K4v34/wBNVa8M2ydpqPEAQpvtJlOyi+7zdXijJQ2T8NFAGLe0Brq/egNdXDs4=;QzSpdeRngks9BvEsKwnMTg=="
+secured: "XNPSM0l/ttJRmyBIzvM2nz9823+XDnan3iDdCwe/h9gZXM8A1OpU4wyf40bGbPtgFZkQxC41oBsBeh3o5TJ3eI4NGi0lfeCqhBnFcQWFE2WDfBSjuA1USPD4Bl6oNh6AnXJg3UcCsgzxcwscju90PYFMAKEZNFOFeyN8Yh3orFzqsnCdkWdB5Cmqzc5ARscsA01z+B/gjqRUL1S/VeMLqZX99yUOzXSEltUD6hnxPaGn0HsCiaBAb5IWRQo79+GG7xEViLac5Hd0QUjTkP9t89qMhkMPL3VNtPZyh/KJVdcBK9pVsHMOzaKKtSsxESjQlQuvW0NN+nv1gafCd8DT25X+d5cikagVBh9dxhXzRsS/A0OgPlMavj/z4yfoElCG++6QjgrgK2rKEUKDHygU1NwRACdvJOigeNLD0w8WRa/x7QPIm6OJv6gJjCPGXcF9HWvD5E2CGbY7WQVUSBaZriwJdlSKEB0IVjR/PamN2/DUYK+MgaJi/8JYywUjU404ijrcr4WbS2N1rfOeidHFbA==;2hn6oSLeWhQGs/u5DmIg+g=="
 ---
 

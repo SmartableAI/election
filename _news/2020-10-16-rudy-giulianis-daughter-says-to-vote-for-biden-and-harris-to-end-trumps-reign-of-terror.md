@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1665
+heat: 1685
 published: true
 
 provider:
@@ -253,6 +253,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022105820-01-first-debate-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "7 takeaways from the final Trump-Biden debate"
+    excerpt: "The second and final showdown between President Donald Trump and Democratic challenger Joe Biden looked much more like a normal debate than their first meeting.\n    \n"
+    publishedDateTime: 2020-10-23T04:52:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RSZ1MLWIy_8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/takeaways-final-biden-trump-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/takeaways-final-biden-trump-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022212510-28-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
