@@ -223,6 +223,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "With time running out, Trump to launch attacks on Biden's family at debate"
+    excerpt: "U.S. President Donald Trump is expected to come out swinging in Thursday's final presidential debate with Democratic rival Joe Biden to try to close a gap in opinion polls before an election 12 days away."
+    publishedDateTime: 2020-10-23T01:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-debate-int/with-time-running-out-trump-to-launch-attacks-on-bidens-family-at-debate-idUSKBN278026"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278026"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278026"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 138
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538537555&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M023"
+        width: 848
+        height: 545
+        isCached: true
   - title: "Biden appears to pull slightly ahead of Trump in Florida - Reuters/Ipsos poll"
     excerpt: "Democratic presidential candidate Joe Biden appeared to take the lead over President Donald Trump in Florida, where the race had been a statistical tie a week earlier, Reuters/Ipsos opinion polls showed on Wednesday."
     publishedDateTime: 2020-10-22T00:28:00Z
@@ -654,6 +670,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/10/22/b42ef257-1a7e-4996-a3e3-b1323f2ef66c/thumbnail/1200x630/821cd8fe35737239e88b468fad9722e8/bidentrump-new.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "A striking new poll out of Texas shows Biden tied with Trump in a state that's been a GOP mainstay since 1976"
+    excerpt: "A new poll found President Donald Trump and former Vice President Joe Biden tied at 47% in Texas, which most recently turned blue with Jimmy Carter."
+    publishedDateTime: 2020-10-23T01:23:00Z
+    webUrl: "https://www.businessinsider.com/texas-poll-shows-biden-and-trump-currently-neck-and-neck-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/texas-poll-shows-biden-and-trump-currently-neck-and-neck-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/texas-poll-shows-biden-and-trump-currently-neck-and-neck-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.com
+    quality: 121
+    images:
+      - url: "https://i.insider.com/5f91589aabcd0c0018d68f9a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump-Biden town halls, Amy Coney Barrett hearings, Medicare open enrollment begins: 5 things to know Thursday"
     excerpt: "NBC and ABC host dueling town halls with Trump and Biden, final day of hearings in Amy Coney Barrett's nomination and more things to know Thursday."
@@ -1164,6 +1196,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/05/19/USAT/0f75391f-4ad5-498c-ba20-941754553f5c-AP_Election_2020_Trump-Biden.JPG?auto=webp&crop=4770,2683,x1,y98&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Presidential Debate Facts: What To Know About Trump, Biden, Welker And More In Final Showdown"
+    excerpt: "President Donald Trump and Democratic presidential nominee Joe Biden meet Thursday at Belmont University in Nashville, Tennessee, in the final debate of the 2020 campaign. In a big change from past debates,"
+    publishedDateTime: 2020-10-23T01:08:00Z
+    webUrl: "https://www.ibtimes.com/presidential-debate-facts-what-know-about-trump-biden-welker-more-final-showdown-3067521"
+    ampWebUrl: "https://www.ibtimes.com/presidential-debate-facts-what-know-about-trump-biden-welker-more-final-showdown-3067521?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/presidential-debate-facts-what-know-about-trump-biden-welker-more-final-showdown-3067521?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 79
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/gettyimages-1281728481.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Donald Trump, NBC News Set Town Hall Event For Thursday, Competing With ABC News’ Joe Biden Event"
     excerpt: "Donald Trump will do a town hall for NBC News on Thursday, after an agreement was reached between the network and his presidential campaign on the details for the event. That means that Trump and"

@@ -117,17 +117,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gunfire, racist threats reported against Indiana candidate challenging Pence’s brother"
-    excerpt: "AP An Indiana congressional candidate had just parked her car in downtown Muncie, where she was set to meet with other Democrats for a virtual call on Oct. 15. Then, there was what sounded like gunfire,"
-    publishedDateTime: 2020-10-20T18:27:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article246579118.html"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article246579118.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article246579118.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 47
 
 secured: "MYnZD2dbi4VAYo2b+7fGcoAUWJpahmrXsGB2Pipj10CmLNW+ESCCqp5y0b8glCDlCy6x+N31m5J1kejjyuy1ZzmUpXTmaKiqwI5cF8TghWvYY8dISWpohINR1rdIzgtpnbFzYN1fJy2ZKRdbeePox9UXN8rAEoR0pxeg9BHIF3vLnBkpEeYIkRE4bxF0/w2H3tf2KhGzX8MLeJnN6l8Bxgvzl3lGs/MGDMgu1gg0yBFSzcy+/pPVBib3WjDmMloYeW2ucguhHKWqyBC9b3RcsdXDdNFcgU2DzVFho77KwOa/E9WVI4ij4fg0AQHZ0td6F5DAcK5y/sS83Tw++t8h2yTmCvMsbbR84nUG8dTUlMYnvnRT9kR5rM5PCGlubJd2uxVH2SQ+qz8ixzhLk9A9W6WSD1mVJl8w4k7VAOi5Qbeo6KXl0BfHVk5PR5n2PQ/5l8c1ZdS2uQS/T9bjxL2zFXtkOtK17e549ZeKoriJOVRI5z2svngJ2fwXAZiddmqllssQ0I4vKt+xUIMWEdHjyA==;q9ucIaj5bMO5h3ZUvHXZGg=="
 ---

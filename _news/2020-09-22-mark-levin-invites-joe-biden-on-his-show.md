@@ -1923,6 +1923,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
+    excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
+    publishedDateTime: 2020-10-22T17:19:00Z
+    webUrl: "https://www.wsj.com/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 148
+    images:
+      - url: "https://images.wsj.net/im-248760/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Eric Trump rips ‘coordinated’ tax report: NYT is ‘carrying Joe Biden’s water’"
     excerpt: "Eric Trump previews President Trump's first presidential debate Tuesday night against Joe Biden and rips the New York Times report on the president's taxes on \"Fox & Friends.\""
     publishedDateTime: 2020-09-29T16:50:00Z

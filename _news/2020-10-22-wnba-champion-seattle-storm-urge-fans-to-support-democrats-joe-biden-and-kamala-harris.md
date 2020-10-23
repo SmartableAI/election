@@ -2,19 +2,19 @@
 category: news
 title: "WNBA champion Seattle Storm urge fans to support Democrats Joe Biden and Kamala Harris"
 excerpt: "As sports organizations have urged fans to register and vote, the reigning WNBA champion Seattle Storm took that a step further Wednesday."
-publishedDateTime: 2020-10-22T02:35:00Z
-originalUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-webUrl: "https://www.freep.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
-ampWebUrl: "https://amp.freep.com/amp/3722503001"
-cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/3722503001"
+publishedDateTime: 2020-10-22T02:21:00Z
+originalUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+webUrl: "https://www.azcentral.com/story/sports/wnba/storm/2020/10/21/joe-biden-kamala-harris-get-support-wnba-champion-seattle-storm/3722503001/"
+ampWebUrl: "https://amp.azcentral.com/amp/3722503001"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/3722503001"
 type: article
 quality: 82
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
@@ -1014,6 +1014,6 @@ related:
       domain: miamiherald.com
     quality: 33
 
-secured: "9QjafS4bHmVWJy/TAHEfy0BWKGRp4mz1T6r7hfnI9r0eKKNApr00VS56VSIARK9W5kDLGTCWFvljOgidhAfb3fB4Xc3Ee+h33sPlwKq7pHSBMAZ8ELGO+t2aplWFi6btq4qR4hsGh/RA223lqn8CgWl2y5F9gTCLWbFBNQJ8FTdUZG/jnmKmxgNtQHIADByzm4Q2tNGDczwEbs+9OFVv9ECOhQlOcXyNyPHW5w6zQuh073qAE7AhMXlij1iKw0hnm0ZRBmId7u0uo0UftRC+RvxW2ub3/71PP/j62d3DSbzzIRG/p9OAtjII2Sm1+tAAEL3rp8FFGwAG+0g0MfTVvv+CeNjcHb7x2yh/z3o84eVHEfcd/SyVe8IyuwSiZ6F/pVFa7fWofHds7Ug78+44vmYCIKVGh6lFnvDVR3ruHxnZ9x3hOLgyb2nTE6JaImQAYIvHTdTS2AtBb0PRfbfSJ4JYYABItxhQJ/q6IDXyO7KT7m968AX5iJn7NdEOZUirQjFxBrj2DiaQLWp/ppTUjg==;nd9a1pQ1uICEbkKIpSrz2g=="
+secured: "762JY0bkso3cUR0yf+Lpqja2mFhxwXyB59wk0ICNqtIdjuZLi1sVjIbTdVrImBhe/5mEGmuH0nwWaKzjjWbLnPiN8SDU8sb+ZpIPR5SuDIVrY+Xajps0Juspak+vsQQVTp9pJPNl/vEObhR0rcSs/Www/8WpCeOfye2H4TgzTTZE10TLeVcGaCXIcXWuSR2y5lvny9ecJGNCU3Yp/iwvJ+dDtn5JNdp5xrS+Rl16ysAwBNfw5p+vtGVy1HvxUF7Xz/0nYGYdUafkFVtUWBlyLKkOCkkkJFTy6gdov5yVWBQknuGyxx8yzvtBL+1QQmBtMOkMTNFUaGk5vUsbQw21ohJqd1Ey5kw/DaQexNiO3Oo=;JuBm5efYC8VRfvW8ryoJaQ=="
 ---
 

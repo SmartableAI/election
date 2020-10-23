@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-t
 cdnAmpWebUrl: "https://www-wtxl-com.cdn.ampproject.org/c/s/www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday?_amp=true"
 type: article
 quality: 75
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -201,6 +201,17 @@ related:
         width: 800
         height: 528
         isCached: true
+  - title: "VP Mike Pence To Campaign In Lakeland, Tallahassee On Saturday"
+    excerpt: "Vice President Mike Pence will campaign Saturday in Lakeland and Tallahassee, a day after President Donald Trump also rallies voters in the state."
+    publishedDateTime: 2020-10-22T23:52:00Z
+    webUrl: "https://miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 55
 
 secured: "pn28PBKfE2ifTUS0E15fFXSP+gCy+NDEUnS18lc0FP4VMFWzv38fTswvTRCAP8R7s56aN0oEIdPfwIbxZcQnF0gaBig7Bhh7C1+mV1s6vG4HtKV0QyYQyzJjly+pG2x6pc3pArrf4P35wN1TIb2LxOaZ7RxaJ1fLV/mf1Tm3tuxWET1VriO/inkm+xPfSJfsLlPkS9ibmp7JdJFc9ssuhxRKohP8sakrj3sG4gDPn5GcZC03KubngppizLkvQvPMPYoeHlJdh+lHvBgVDOXypt/rtyqr1qgQs3YHJC2bx/xRWjXP11bKvTQoS+z+DmXpB0TgdfyB3OpoPk9WSyHAUifnRCuUbnM9OvhSYvYy4Tc=;uj5Z8Bme+9js0AqQcHCemA=="
 ---

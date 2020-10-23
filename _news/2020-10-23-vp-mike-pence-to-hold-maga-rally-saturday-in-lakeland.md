@@ -201,6 +201,17 @@ related:
         width: 800
         height: 528
         isCached: true
+  - title: "VP Mike Pence To Campaign In Lakeland, Tallahassee On Saturday"
+    excerpt: "Vice President Mike Pence will campaign Saturday in Lakeland and Tallahassee, a day after President Donald Trump also rallies voters in the state."
+    publishedDateTime: 2020-10-22T23:52:00Z
+    webUrl: "https://miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/"
+    ampWebUrl: "https://miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/2020/10/22/mike-pence-campaign-lakeland-tallahassee-saturday/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 55
 
 secured: "2AMUQs/hSBsUX2HBHNuDmuSEnePrORff78Jj4F6bW7XU8jhn23UCjmc1HB/rhLm+duqTdLFbXRI/BsIUqfHXODVrB4x2RYsAQWIlT0L4pjd8gy8um2wOn1dRHe8cReIn4LrD5ceYxWxz5C/1jAnWNra1RPH1C8/4KJjep7ManGBwMG9U0aU81qoRiLYWwAj4U18rI4jW6gUn5Gu98utHh5dkfhU0A/FwUzs0SVySFgGUwK8d6+RHukzFtbebRm0V4OTIQu9A0GPbzcObV/BsLQElfHYX7Ri9y7s4Usg7V8JnQdV5gCoeNuU1JZokDEwsLSGhFxBSlGC84f9+7W4+EY/Te1hUM5fwWeDgo8IQ7fR4ljuZIbT/VI/4u96icHym+rOUqgIQu5+4m748T5PPaY09HkmfApZaXtY4hem7EF6Y4+FFmfGm8b4dhmeeS7gRjfcWoXKG0r/KYX2GSElYq5vXNDcifL9v8AaxzuK2Kb+zoRyqWyFP9sU/mtrix13rzRIKavedyX4k185x2mxWtw==;3ku/9dbT/YTgEdYPgGkV9w=="
 ---

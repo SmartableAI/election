@@ -383,6 +383,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cruz blasts media for not 'even pretending to do their job' on Hunter Biden story"
+    excerpt: "Sen. Ted Cruz, R-Texas slammed the mainstream media on Thursday for ignoring the ongoing scandal surrounding Hunter Biden’s overseas business interests, saying they were \"not even pretending to do their job\" to address the story. "
+    publishedDateTime: 2020-10-23T00:51:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1N4NXmg6nU/cruz-media-hunter-biden-story-not-doing-job"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-media-hunter-biden-story-not-doing-job.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-media-hunter-biden-story-not-doing-job.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aac24991-ce67-4b55-aa14-e4fb7598b45f/e886a4a3-d92f-4c25-99dc-85f4d88cb546/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says 'chicanery' at polls is the only way he could lose U.S. election"
     excerpt: "Democratic nominee Joe Biden said the only way he could lose the 2020 election was through “chicanery,” before later adding he would accept the results of the election. "
     publishedDateTime: 2020-10-11T01:30:14Z

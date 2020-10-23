@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump posts unedited '60 Minutes' interview before it airs"
+    excerpt: "President Donald Trump has posted full, unedited interviews that he and the vice president did with “60 Minutes” on Facebook before the show’s scheduled broadcast this weekend"
+    publishedDateTime: 2020-10-23T00:42:00Z
+    webUrl: "https://abcnews.go.com/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
+    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-posts-unedited-60-minutes-interview-airs-73764646"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Entertainment/WireAP_0b7ad05b91a84368812520cf3bcff18f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Trump abruptly ended his '60 Minutes' interview after 45 minutes"
     excerpt: "The news came shortly after President Donald Trump tweeted a video of '60 Minutes' host Lesley Stahl not wearing a mask inside the White House."
     publishedDateTime: 2020-10-20T20:55:00Z
@@ -157,6 +173,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Publishes ‘60 Minutes’ Interview Filled With Complaints Of ‘Negative Attitude,’ ‘Tough Questions’"
+    excerpt: "President Trump is seen growing increasingly angry about “tough questions” from CBS News correspondent Lesley Stahl before walking out in footage of the 60 Minutes interview he published without the network’s permission on Thursday."
+    publishedDateTime: 2020-10-23T01:26:00Z
+    webUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/22/trump-publishes-60-minutes-interview-complains-of-negative-attitude-tough-questions/"
+    ampWebUrl: "https://www.forbes.com/sites/jemimamcevoy/2020/10/22/trump-publishes-60-minutes-interview-complains-of-negative-attitude-tough-questions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jemimamcevoy/2020/10/22/trump-publishes-60-minutes-interview-complains-of-negative-attitude-tough-questions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 109
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91abb67d88939386ecbc2f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D78%26cropY2%3D2610"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump, unhappy with questions from ‘60 Minutes’ host Lesley Stahl, threatens to release interview himself"
     excerpt: "President Trump lashed out at “60 Minutes” host Lesley Stahl and threatened to release their interview after he cut off their conversation at the White House on Tuesday because he didn’t like the aggressive tone of her questions."
     publishedDateTime: 2020-10-21T01:10:00Z
@@ -184,6 +216,22 @@ related:
     quality: 105
     images:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5f920641e4b04f7ff7c2b8c5-1603405377343?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence Challenged By Leslie Stahl After Trump Bailed, 'You've Insulted '60 Minutes''"
+    excerpt: "President Trump just released video of his failed \"60 Minutes\" interview where he just walked out and never came back, and when Leslie Stahl challenged Mike Pence as to why the Prez walked out and didn't get an answer,"
+    publishedDateTime: 2020-10-22T20:02:00Z
+    webUrl: "https://www.tmz.com/2020/10/22/mike-pence-explains-why-trump-walked-out-on-60-minutes/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/22/mike-pence-explains-why-trump-walked-out-on-60-minutes/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/22/mike-pence-explains-why-trump-walked-out-on-60-minutes/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 81
+    images:
+      - url: "https://imagez.tmz.com/image/6f/16by9/2020/10/22/6f92a8ba674a4187a5df9bf545daca5f_xl.jpg"
         width: 1200
         height: 675
         isCached: true

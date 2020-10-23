@@ -526,6 +526,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
+    excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."
+    publishedDateTime: 2020-10-23T01:50:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xpfHNJHTUA8/trump-says-good-chance-coronavirus-vaccine-ready-in-weeks-as-biden-predicts-dark-winter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-good-chance-coronavirus-vaccine-ready-in-weeks-as-biden-predicts-dark-winter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-good-chance-coronavirus-vaccine-ready-in-weeks-as-biden-predicts-dark-winter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1e7e263-c47a-4806-adeb-362bea3235a1/ad72107a-c53f-4f28-8d21-229f9c3fdd73/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
     excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
     publishedDateTime: 2020-10-16T13:13:45Z
@@ -555,6 +571,22 @@ related:
     quality: 175
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202900221342681.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Landlord threatens tenants with rent hike if Biden wins: reports"
+    excerpt: "A group of trailer park tenants in Colorado received an alleged letter from their landlord telling them their rents would “most likely” double if Joe Biden beats President Trump on Election Day, according to local reports."
+    publishedDateTime: 2020-10-23T01:33:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cwUD3TaWcX0/landlord-threatens-rent-hike-biden-wins"
+    ampWebUrl: "https://www.foxnews.com/politics/landlord-threatens-rent-hike-biden-wins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/landlord-threatens-rent-hike-biden-wins.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20296696561482.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -1925,6 +1925,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
+    excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
+    publishedDateTime: 2020-10-22T17:19:00Z
+    webUrl: "https://www.wsj.com/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 148
+    images:
+      - url: "https://images.wsj.net/im-248760/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Fox News Poll: Tight race in Ohio, Biden tops Trump in Nevada and Pennsylvania"
     excerpt: "Democratic presidential candidate Joe Biden leads President Donald Trump in the battleground states of Nevada, Ohio, and Pennsylvania, according to Fox News statewide likely voter surveys."
     publishedDateTime: 2020-09-24T22:14:00Z

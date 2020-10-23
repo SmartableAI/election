@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden, squeezed on the Supreme Court, promises a commission to consider changes"
+    excerpt: "Joe Biden tells CBS’s “60 Minutes” that he would create a bipartisan commission to tackle a system that’s “out of whack.” He hopes to thread the needle between liberals demanding more justices and swing voters who show little interest in that idea."
+    publishedDateTime: 2020-10-23T01:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-promises-commission-on-overhauling-supreme-court/2020/10/22/4465ead6-121d-11eb-ba42-ec6a580836ed_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RZCQ57AUOUI6XOSC5RVFQCBW5U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "How would Joe Biden handle a Supreme Court dangerously out of touch with the people?"
     excerpt: "The pertinent question is not whether Biden believes in court packing but if or how he'd correct for some 40 years of blatant conservative activism."
     publishedDateTime: 2020-10-15T10:14:00Z

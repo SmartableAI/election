@@ -397,6 +397,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz blasts media for not 'even pretending to do their job' on Hunter Biden story"
+    excerpt: "Sen. Ted Cruz, R-Texas slammed the mainstream media on Thursday for ignoring the ongoing scandal surrounding Hunter Biden’s overseas business interests, saying they were \"not even pretending to do their job\" to address the story. "
+    publishedDateTime: 2020-10-23T00:51:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/o1N4NXmg6nU/cruz-media-hunter-biden-story-not-doing-job"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-media-hunter-biden-story-not-doing-job.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-media-hunter-biden-story-not-doing-job.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aac24991-ce67-4b55-aa14-e4fb7598b45f/e886a4a3-d92f-4c25-99dc-85f4d88cb546/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Meadows teases Biden family connection with Romania to surface 'in the days to come'"
     excerpt: "Hunter Biden's overseas business interests extended to Romania as well as China and Ukraine, and Americans can expect to learn more \"in the days to come,\" White House chief of staff Mark Meadows suggested on Fox Business Network's “The Evening Edit\" Monday. "
     publishedDateTime: 2020-10-20T00:14:56Z

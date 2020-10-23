@@ -270,6 +270,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump and Biden focus on coronavirus as last presidential debate begins"
+    excerpt: "President Donald Trump enters the final presidential debate on Thursday in need of a major shakeup that will change the trajectory of the race as he trails Joe Biden in both national polls and key swing states that will determine whether he has a path to victory in the Electoral College.\n    \n"
+    publishedDateTime: 2020-10-23T01:42:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xHUrb7OarVE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/2020-election-final-presidential-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/2020-election-final-presidential-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022110005-05-trump-biden-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Debate commission announces topics for final debate between Trump and Biden"
     excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
     publishedDateTime: 2020-10-16T19:25:46Z
@@ -779,6 +795,22 @@ related:
     quality: 150
     images:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
+  - title: "Trump and Biden clash in final debate over federal Covid-19 response"
+    excerpt: "With less than two weeks until Election Day, debated federal response to the pandemic in the final scheduled major event of the 2020 campaign."
+    publishedDateTime: 2020-10-23T01:42:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/trump-biden-prepare-final-bout-debate-focus-covid-19-race-n1244360"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244360"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244360"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421567/201020-presidential-debate-main-bar-cs_0d3f2497cd6524135c5b27e46d8662a1.jpg"
         width: 2500
         height: 1250
         isCached: true

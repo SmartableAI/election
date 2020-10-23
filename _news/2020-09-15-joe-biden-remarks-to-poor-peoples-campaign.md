@@ -3127,6 +3127,22 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "The Latest: Final Trump-Biden presidential debate begins"
+    excerpt: "The second and final presidential debate of the 2020 election has begun. President Donald Trump and his Democratic challenger, Joe Biden, are facing off Thursday night in Nashville, Tennessee, more than three weeks after their first debate."
+    publishedDateTime: 2020-10-23T01:13:00Z
+    webUrl: "https://www.chron.com/news/article/The-Latest-Biden-won-t-rule-out-studying-court-15666819.php"
+    ampWebUrl: "https://www.chron.com/news/amp/The-Latest-Biden-won-t-rule-out-studying-court-15666819.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/The-Latest-Biden-won-t-rule-out-studying-court-15666819.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/67/60/20151357/19/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Two new polls show Donald Trump with slight lead over Joe Biden in Texas"
     excerpt: "Two new polls released on Wednesday show President Donald Trump leading former Vice President Joe Biden in the Lone Star State, though"
     publishedDateTime: 2020-09-24T21:01:00Z

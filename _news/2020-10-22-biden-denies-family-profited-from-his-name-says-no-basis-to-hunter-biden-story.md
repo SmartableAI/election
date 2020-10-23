@@ -144,6 +144,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Hunter's ex-partner recounts meeting Joe Biden, claims family 'paranoid' about hiding former VP's involvement"
+    excerpt: "Hunter Biden's ex-business partner Tony Bobulinski confirmed on Thursday that he met with former Vice President Joe Biden regarding his son's business dealings and alleged that someone involved with the controversy had warned him about coming forward."
+    publishedDateTime: 2020-10-23T00:09:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/209iSArU2E8/hunters-ex-partner-meeting-joe-biden-family-paranoid"
+    ampWebUrl: "https://www.foxnews.com/politics/hunters-ex-partner-meeting-joe-biden-family-paranoid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunters-ex-partner-meeting-joe-biden-family-paranoid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f5b8641-6112-4207-91ad-f5925d830cf8/0c91a2f5-df18-4bf5-b360-85e103034ea2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Is Pelosi laying the groundwork to make Kamala Harris president?"
     excerpt: "Nancy Pelosi made it official today, she no longer believes that our system of government is a good idea. REP. NANCY PELOSI (D-CA): Congress has a constitutional duty to lay out the process by which a president's incapacity and the president of any party is determined."
     publishedDateTime: 2020-10-16T18:58:00Z
