@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-debate-trump-hunter-email-con
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-trump-hunter-email-controversy-donna-brazile.amp"
 type: article
 quality: 167
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0a4e50fd-4c23-439d-80f7-49e52e97e38f/a9329981-36ac-41e7-ba5e-003e86bcdb76/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pressure builds for NBC's Kristen Welker to address Hunter Biden at debate: ‘This is a moment of truth'"
+    excerpt: "Pressure is building for NBC News’ Kristen Welker to address the ongoing scandal surrounding a laptop purportedly belonging to Hunter Biden during Thursday night’s final presidential debate as the mainstream media has essentially dismissed the story."
+    publishedDateTime: 2020-10-22T18:19:00Z
+    webUrl: "https://www.foxnews.com/media/kristen-welker-hunter-biden-debate-question"
+    ampWebUrl: "https://www.foxnews.com/media/kristen-welker-hunter-biden-debate-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kristen-welker-hunter-biden-debate-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Kristen-Welker-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "oVIdjopa7kXBvnBj9ADX2qtRPBmStInE5x75Hbi0G9HwPDGEMJtcPGTQ51KQxDzUuxZnkjQWKjarVj4fs1ZUN7HNb5M0m6QLN4l7tg7kjL8M3t4YFWsKMGDwHEU9WFMiGHthqNsQRlM+AN3tgrLqiGWI0IbPz4nciW55jV21S3xDC0g8CGQMteWTDTCMScRKo7xmbv/4C96cy+YnN41Q9y8whJdGsgCDrTXBEEhHn2zlv3JsdwjcwMYC0jgS7clmC9vHPWCwpYqNXg6BmN4s406gvykALQfnIJCe/ogfwKyKkgVs4UspANNvFJjo/CWYXs6ACs1oH3Am7eTMc8iT7sg9v2bBS8eWTC7CxXXLRUs=;SufHyQfbsOugUygnmfZuSA=="

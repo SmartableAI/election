@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Election 2020 updates: Trump delivers shorter-than-usual speech in chilly Pennsylvania"
+    excerpt: "With 14 days to go until Election Day, and President Donald Trump and former Vice President Joe Biden racing toward Nov. 3, voters are turning out in record numbers to cast their ballots early. Roughly 31 million Americans have already voted in the 2020 election,"
+    publishedDateTime: 2020-10-22T23:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73702022"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73702022"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/2020-election-campaign/?id=73702022"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 132
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-pa-rally_hpMain_20201020-214116_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Election 2020 live updates: Trump says he wasn't 'wasn't coming to Erie' in a pre-COVID world"
     excerpt: "Election Day is two weeks from today as President Donald Trump travels to Pennsylvania and Democrats make a late push to win over Cuban Americans."
     publishedDateTime: 2020-10-21T03:08:00Z
@@ -164,6 +180,17 @@ related:
         width: 375
         height: 211
         isCached: true
+  - title: "The Latest: Aide: Trump Tests Negative for Virus Pre-Debate"
+    excerpt: "The White House chief of staff says President Donald Trump tested negative for the coronavirus before Thursday night’s final presidential debate."
+    publishedDateTime: 2020-10-22T22:29:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/the-latest-biden-wont-rule-out-studying-court-packing?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "XAiGp71hf7ihtCzddX08ZtExB4VZeEX+ZD/LXiPmXBVDvFpWgecfKyeDgqT5E0HhH2d2rp1uGnDoaIpTYTfURaMRbOAF9+YOPvOrfWZvaAkvDJXiu2ofqQvU/ImF5yN6LH+cKqpkRo7IRy1oXScdQQ2OMc8OXmDvMPDlzfi9ILgVXc1ap7jUNC+rFmit2SAKvk9b0mwzG8QiAWFw8SigDNtD+EiPqcg/e+6yt/jXHRG+GF0hSZCEj7ucr8CNkrscaoNg9gyOG4z0fNYCrJB2sMFtNgUTP4s4ar+L637bIoI1viHj/gV54t/aA9uNJfTKR49mokdjVa7vcNEuZ57B3CVARXV12HU+GAgsmRQFirCd2N2BELzQAyjOfea00dkQuwDXMxLDFPSz1I9JoJ5bAYSQV7meiwzH3wyIyKYm9rSwpoANF7waw/3F7n9rN21iqAsgP1aZN0DkE6eiixC8v71zfJaW2nrYvoAbPwoiQ3bgEQp/PCNzKbvN6xW7yXQYRZxZEptZtxGYLDxgHIrh6g==;j5hKMqqrKZeNBIHp0E7BlA=="
 ---

@@ -240,6 +240,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Trump just handed Biden a devastating debate attack"
+    excerpt: "Hours before Donald Trump is set to face off for the last time against Joe Biden on the debate stage, the President handed his challenger an attack on a silver platter.\n    \n"
+    publishedDateTime: 2020-10-22T23:06:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOQympIU184/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-debate-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-debate-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022105820-01-first-debate-trump-0929-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Debate commission announces topics for final debate between Trump and Biden"
     excerpt: "The Commission on Presidential debates announced on Friday the six topics for the second and final debate between President Donald Trump and Democratic nominee Joe Biden set to take place next week.\n    \n"
     publishedDateTime: 2020-10-16T19:25:46Z

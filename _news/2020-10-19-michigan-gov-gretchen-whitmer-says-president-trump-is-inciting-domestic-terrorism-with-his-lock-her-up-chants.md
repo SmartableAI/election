@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-michigan-governor-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-michigan-governor-kidnapping-trump-20201018-bjv7p3gkg5de3e22onb5mst6vq-story.html?outputType=amp"
 type: article
 quality: 103
-heat: 123
+heat: 103
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Trump Casts Doubt on Gov. Whitmer Kidnapping Plot, Tells Crowd: ‘Lock Them All Up’"
-    excerpt: "President Donald Trump appeared to cast speculation on the foiled plot to kidnap Michigan Gov. Gretchen Whitmer during his rally in the state on Saturday."
-    publishedDateTime: 2020-10-17T23:42:00Z
-    webUrl: "https://www.mediaite.com/donald-trump/trump-casts-doubt-on-gov-whitmer-kidnapping-plot-tells-crowd-lock-them-all-up/"
-    ampWebUrl: "https://www.mediaite.com/donald-trump/trump-casts-doubt-on-gov-whitmer-kidnapping-plot-tells-crowd-lock-them-all-up/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/donald-trump/trump-casts-doubt-on-gov-whitmer-kidnapping-plot-tells-crowd-lock-them-all-up/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
-    quality: 69
-    images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/GettyImages-1013360990-1-1200x810.jpg"
-        width: 1200
-        height: 810
-        isCached: true
 
 secured: "EFKwA/0k8B33wbfvjFN+HZIodZU42NGq5t1uucVv5nplgl+iJTA/ir6+Rtu3IhY+99Uc+1b+cmla2SIK79FnVBC9FfOt3qBiNXyGgXGSk1LxDWqZvkoH+Xx66zyNvkPFbHiwhrpTe8w2MH5rhZJCsne/b5kPyWia+hguQPboEK22A2HfFXjTg9fTmcamlN/DXPIvtkkIjtL9IF+oq1xPU8iR0mFrbjm3Mq5LzrOJ7wG0uczfvofSeNsVUDLS/V4EprWoISjyY6GRisse4rkCmViP0d7kknICVLgsLNy5Z0GL+paCwp/rBzeMiThjDfMj7NfzrkkVUjGWzx+SX5QK+yWwj3mPe5NRQLCHIOkUepEY8GQaajIACZoF2CDRaR8CaUB+4TJp3NJHStLrX0rmt6ayi+EqOzTxlCJiAEG+gXGQJ/AH0Q1ZpGxu3SlFlO7zG68viKCZ7Um7x0nw7ciCMbyJafYHMb2W4TTbXaWo+iojkWDZeHlGdoGh8hFgUgTAZVX5WwC8yftulLD3ps/cdw==;pG72LQm/rovqWe2FDhQ9rg=="
 ---

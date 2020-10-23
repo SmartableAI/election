@@ -437,6 +437,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "VP Mike Pence in Fort Wayne, Sen. Kamala Harris in virtual event Thursday"
+    excerpt: "Pence on Thursday night arrived at Indianapolis International Airport in preparation for voting Friday morning at the City-County Building in Indianapolis."
+    publishedDateTime: 2020-10-22T23:45:00Z
+    webUrl: "https://www.wishtv.com/news/election/vp-mike-pence-in-fort-wayne-sen-kamala-harris-in-virtual-event-thursday/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 79
+    images:
+      - url: "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2020/10/BACKGROUND-Mike-Pence-Kamala-Harris.jpg?fit=1280%2C720&#038;ssl=1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "BREAKING: Kamala Harris to campaign in Florida Monday"
     excerpt: "Harris' Florida swing comes after busy week of campaigning that saw President Trump and Democratic rival Joe Biden make stops in Florida."
     publishedDateTime: 2020-10-17T16:14:00Z

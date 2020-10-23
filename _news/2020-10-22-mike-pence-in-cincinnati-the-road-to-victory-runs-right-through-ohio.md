@@ -203,6 +203,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
+    excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
+    publishedDateTime: 2020-10-22T22:33:00Z
+    webUrl: "https://www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/"
+    ampWebUrl: "https://www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/politics/2020/10/22/vice-president-mike-pence-makes-campaign-stop-in-metro-detroit/?outputType=amp"
+    type: article
+    provider:
+      name: clickondetroit.com
+      domain: clickondetroit.com
+    quality: 75
+    images:
+      - url: "https://www.clickondetroit.com/resizer/npY4eCLoZPl0ZNqZScty_Y3m7xY=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-22-2020/t_e146ea240b75447f91e717762a8c5a61_name_image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z

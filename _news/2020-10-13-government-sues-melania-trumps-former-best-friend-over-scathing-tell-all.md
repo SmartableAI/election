@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet"
+    excerpt: "EXCLUSIVE: The Trump campaign’s national press secretary had his Twitter account suspended Thursday, just hours before the presidential debate, after he tweeted about his experience of being sent absentee ballot materials intended for someone else."
+    publishedDateTime: 2020-10-22T22:51:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJNqKKZE_tc/trump-press-secretary-suspended-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/gidley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump campaign says Whitmer 'encouraging assassination attempts' against president with discreet TV message"
     excerpt: "Michigan Gov. Gretchen Whitmer has been accused of encouraging assassination attempts on President Trump after displaying “8645” in the background of a national television interview Sunday."
     publishedDateTime: 2020-10-19T13:00:36Z

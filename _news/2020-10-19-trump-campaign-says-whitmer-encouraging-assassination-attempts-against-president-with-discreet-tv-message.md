@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet"
+    excerpt: "EXCLUSIVE: The Trump campaign’s national press secretary had his Twitter account suspended Thursday, just hours before the presidential debate, after he tweeted about his experience of being sent absentee ballot materials intended for someone else."
+    publishedDateTime: 2020-10-22T22:51:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJNqKKZE_tc/trump-press-secretary-suspended-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/gidley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Florida worker suspended for flying Trump flag from government truck"
     excerpt: "The 61-year-old, who has been with the town government for over two decades, was accused of flying a blue Trump flag out the driver side window of the truck earlier this month."
     publishedDateTime: 2020-10-15T21:23:00Z

@@ -890,6 +890,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Donald Trump may be the most pro-Jewish president ever"
+    excerpt: "This election, there is no subgroup for whom the stakes are higher than my Jewish co-religionists. That’s because, for starters, Donald Trump is quite possibly the most pro-Jewish president ever —"
+    publishedDateTime: 2020-10-22T12:20:00Z
+    webUrl: "https://nypost.com/2020/10/22/donald-trump-may-be-the-most-pro-jewish-president-ever/"
+    ampWebUrl: "https://nypost.com/2020/10/22/donald-trump-may-be-the-most-pro-jewish-president-ever/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/22/donald-trump-may-be-the-most-pro-jewish-president-ever/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/10541711c.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Why Biden stays quiet as Trump slams Lesley Stahl and other targets"
     excerpt: "The Biden campaign declared a lid at 10:41 a.m. yesterday--telling reporters that no more news would be made that day. There have been a lot of early lids lately. The former VP has been off the trail for several days as he prepares for tonight’s second and final debate against President Trump,"
     publishedDateTime: 2020-10-22T07:19:00Z
@@ -965,6 +981,20 @@ related:
     quality: 84
     images:
       - url: "https://assets.realclear.com/images/52/524544_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Will Anti-Biden Attacks Boomerang Against Trump?"
+    excerpt: "RealClearPolitics"
+    publishedDateTime: 2020-10-22T19:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2020/10/22/will_anti-biden_attacks_boomerang_against_trump_527205.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/47/477943_5_.jpg"
         width: 750
         height: 500
         isCached: true

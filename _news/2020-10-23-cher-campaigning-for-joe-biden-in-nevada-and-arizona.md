@@ -769,6 +769,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "ABC News has completely ignored Hunter Biden laptop scandal, study says"
+    excerpt: "ABC News completely ignored the ongoing scandal surrounding a laptop and hard drive purportedly belonging to Hunter Biden, according to the Media Research Center."
+    publishedDateTime: 2020-10-22T20:31:00Z
+    webUrl: "https://www.foxnews.com/media/abc-news-ignored-hunter-biden-laptop"
+    ampWebUrl: "https://www.foxnews.com/media/abc-news-ignored-hunter-biden-laptop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/abc-news-ignored-hunter-biden-laptop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef3d8e70-1210-4846-9c7c-5e01d7921066/f1c47198-22fe-4887-9644-ecbc6356e1e5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Cal Thomas: Can Joe Biden be trusted? Hunter Biden scandal begs the question"
     excerpt: "Joe Biden should be pressed before Nov. 3 to explain his son Hunter's financial dealings in Ukraine and Beijing."
     publishedDateTime: 2020-10-20T11:05:00Z

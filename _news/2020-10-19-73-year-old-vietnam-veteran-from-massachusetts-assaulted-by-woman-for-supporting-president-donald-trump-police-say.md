@@ -9,8 +9,8 @@ ampWebUrl: "https://www.masslive.com/worcester/2020/10/73-year-old-vietnam-veter
 cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/worcester/2020/10/73-year-old-vietnam-veteran-from-massachusetts-assaulted-by-woman-for-supporting-president-donald-trump-police-say.html?outputType=amp"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: MassLive
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "What Does ‘86 45’ Mean? Trump Campaign Claims Whitmer Is ‘Encouraging Assassination Attempts’"
-    excerpt: "Governor Gretchen Whitmer has a small “86 45” sign in her office, and now President Donald Trump’s campaign claims she’s advocating for his assassination. A tweet from the Trump War Room, which is an officially verified account with a bio stating that it is “managed by the #TeamTrump 2020 campaign,"
-    publishedDateTime: 2020-10-18T21:12:00Z
-    webUrl: "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200"
-    ampWebUrl: "https://www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/what-does-86-45-mean-trump-campaign-claims-whitmer-encouraging-assassination-attempts-3064200?amp=1"
+  - title: "Massachusetts' Republican governor 'cannot support Donald Trump for president'"
+    excerpt: "Massachusetts' Republican governor is diverging from his party this election cycle. In a Wednesday statement, Gov. Charlie Baker declared through a spokesperson that he \"cannot support Donald Trump for president\" and will \"leave the election analysis to the pundits."
+    publishedDateTime: 2020-10-14T22:05:00Z
+    webUrl: "https://theweek.com/speedreads/943775/massachusetts-republican-governor-cannot-support-donald-trump-president"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 64
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/16/president-donald-trump-pictured-in-the-oval-office.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Lara Trump Defends President Going After Gov. Whitmer: He Wasn’t Provoking People, ‘He Was Having Fun at a Trump Rally’"
-    excerpt: "CNn's Jake Tapper opened his interview with Trump 2020 campaign senior adviser Lara Trump Sunday confronting her over President Donald Trump continuing to attack Michigan Governor Gretchen Whitme"
-    publishedDateTime: 2020-10-18T14:04:00Z
-    webUrl: "https://www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/"
-    ampWebUrl: "https://www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/amp/"
-    cdnAmpWebUrl: "https://www-mediaite-com.cdn.ampproject.org/c/s/www.mediaite.com/tv/lara-trump-defends-president-going-after-gov-whitmer-he-wasnt-provoking-people-he-was-having-fun-at-a-trump-rally/amp/"
-    type: article
-    provider:
-      name: Mediaite
-      domain: mediaite.com
+      name: THE WEEK
+      domain: theweek.com
     quality: 51
     images:
-      - url: "https://www.mediaite.com/wp-content/uploads/2020/10/tapper-lara-trump.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-861048400.jpg?itok=1JI_xk-v"
+        width: 840
+        height: 560
         isCached: true
 
 secured: "/TRs7M+KaxMtFO6MpFx4kQKg5+dBQfXhMBFMVSfR58Af6PKweL0uyZhRq0aJpRTRYbmzr5y3/SEz6bOzyr8Uf4SZNkqmydyhdLRp/IJ4ctgo9/EWGpXIEf0qBWTfzctphjCoLc/KT1KBrYt9osQuLl0tipw9XDZl73ibSVC2YLGLp0wouPcpjwWGXw7336jhg7bYlcqTJRTczCa1ZKfA0N+4wjRYg78vuEuiEpr8dabEujDnvTFRCyQiaTDC12HRzbjjdZH3A/Ha8u6o26HEKgAmMMhw4+qe7yeII4P8eRN/vZVhO6K4JCHBgqHOSwZSrgkKORZ/bGnrc+5O1PdJZZvkmdR5LlVY0wp39+gywqA=;Qi0b9EWIfIKuEgZpylE/mQ=="

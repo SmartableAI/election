@@ -480,6 +480,22 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "After dodging questions about court packing, Biden floats commission to study judicial reforms"
+    excerpt: "Democratic presidential nominee Joe Biden said that if elected he will convene a bipartisan commission of constitutional scholars to examine judicial reforms, asserting there are “a number of alternatives” that go “well beyond” expanding the Supreme Court."
+    publishedDateTime: 2020-10-22T13:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/joe-biden-court-packing-judicial-reforms-commission-431157"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/joe-biden-court-packing-judicial-reforms-commission-431157"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/joe-biden-court-packing-judicial-reforms-commission-431157"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 123
+    images:
+      - url: "https://static.politico.com/12/6b/764bbf7e4831babf0f032d36c406/201022-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "How Biden would use trade agreements to fight global warming"
     excerpt: "The former vice president and key Democrats in Congress want to use trade agreements to fight global warming, but reversing four years of Trump's \"energy dominance\" is no easy task."
     publishedDateTime: 2020-10-14T23:19:00Z
@@ -578,6 +594,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "LYH7aWPUsQFmznZBbU0SSMN8Dr8pB0Hv+aqkHpqklTTsiRCgMKCODdaTKhLJTwYzIg6McWTqXw5n4qAV0jMf3+NSHfE7VKTyosAUl/y6FcXhtO/sTYfiWp3ahkDU3tm3LqAxpu5upDwaZqaQr7v/sx98+UFN6oofsm8iR6Qy6hcuc6xMb+LeWfJsngLK8OvrPc9u49EafU78brDhjle+Vt4ZBfbxrv8fLQe+FrXkv2dZgV+x/3gxQZg0ULak3vix8TrpzwVOw+EQRHwyobJXPIjouAEKt6xwmBwvTW59x8K0D2wIEimc3C0HZtSSNxnhh6wyZB1yRRFSPZltUJnBVzepjPn0jdL63lfq9N26ClM=;3rx1auZvfcaUDxgP5l5tVQ=="
+secured: "NXjyynZFObvihHYy5D8xV1AoTmCV9KNjYGL8n0Q1ZTPpLEJaXoghUcMcKcURfP22BYY6CkV0gyUxFeLUsNxJ4yOMHSFucvQ8t9u8bMnIYSoYR7z+wPb4gf3vvEtj+07SnPrPLl8uKt+XpZb1B9b8/aD38Kr9JouXAGMTl6UejBHk76/BZW8uDHH1f7FQV3CpLL/KCkKH18X6FWV51pOLv+A5n9EDgxeO3vEabe8Sgmoi4bSH7aYgLFbiAWhNUu+/mM7rxJ8HJcQia/f2cEuPwp+qgCh+rMyNI7oimjdb21GFxbY38NQOSWt2Mzdo+rm7KULXFHzkRKxXKtO0wOX9RroUANw2yTiA0wfnrw3A906jLzkhxFz4nlG8BE+wmqrCRXfVSH08N5Oh/35Sxn5PO6yv3z1aDudBsbifW2v0OD2nT1Oumr4DtO7A1fXaL8GUi9QzrYjUwTCL6VY63gfawmDzBLhH0weR0u7i7LUtVZashLATIdZw9DNG7nVnAXxbqyWziB23rl8bQ4suV//VZw==;ZiWnIacHRjDfD0u1e+gdUQ=="
 ---
 

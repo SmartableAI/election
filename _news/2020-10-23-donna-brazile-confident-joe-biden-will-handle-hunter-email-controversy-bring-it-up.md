@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pressure builds for NBC's Kristen Welker to address Hunter Biden at debate: ‘This is a moment of truth'"
+    excerpt: "Pressure is building for NBC News’ Kristen Welker to address the ongoing scandal surrounding a laptop purportedly belonging to Hunter Biden during Thursday night’s final presidential debate as the mainstream media has essentially dismissed the story."
+    publishedDateTime: 2020-10-22T18:19:00Z
+    webUrl: "https://www.foxnews.com/media/kristen-welker-hunter-biden-debate-question"
+    ampWebUrl: "https://www.foxnews.com/media/kristen-welker-hunter-biden-debate-question.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/kristen-welker-hunter-biden-debate-question.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Kristen-Welker-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "6/gNvaBURtNYVdoMFx6okdW7BK8WQvB+vDmjjUP8znCHRjgiZ4O7fgOc4ZG5cdkwAObkXx5ieJ3M2qrE0s9l9ktDeK7ImOou4DLZRlEctmz0xZiEjSPEg+ZgV44OddtmI4dxEYy19akl02UIsYiojYYHHeKjXFLnLeie49dHWYu91K6Bj+e95pjo0xC7G2TuIy1aWBSi7BhA2GCtB4BUOGyZ0sHxSaaBzo9kIYoZXswGxxlQKaDWRK5RJtFzvqpRfELM1qjSbL2b1rQg7LhaANtRe7UUime8x0rxi0oLe3pGxnCy5b6DyYHFtFx4lwe01NPUE1HVRD5FSGtQjVXJwuJUy+0e9E4IgW/jdQqltvk=;tWYsxkDxhPH5PSg8Td2Pcw=="
 ---

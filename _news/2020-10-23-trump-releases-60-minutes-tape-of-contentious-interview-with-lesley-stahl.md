@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "Why Donald Trump releasing his full '60 Minutes' interview is a major media miscalculation"
+    excerpt: "Donald Trump released his upcoming '60 Minutes' interview early. It's a big mistake. He whined that Lesley Stahl treated him unfairly. She didn't."
+    publishedDateTime: 2020-10-22T22:41:00Z
+    webUrl: "https://www.usatoday.com/story/opinion/2020/10/22/donald-trump-60-minutes-interview-column/3735272001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3735272001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3735272001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/21/USAT/41992c04-00f3-4434-8b96-1f42ed6e045f-VPC_TRUMP_ON_LESLEY_STAHL_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump leaves contentious '60 Minute' interview with Lesley Stahl, goes on Twitter attack"
     excerpt: "Trump abruptly ended his '60 Minutes' interview and skipped a joint interview with Vice President Mike Pence; he also tweeted an attack on Lesley Stahl"
     publishedDateTime: 2020-10-20T22:38:00Z
@@ -156,6 +172,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201015&i=RCV008V1O&r=RCV008V1O&t=2"
         width: 4981
         height: 3321
+        isCached: true
+  - title: "Trump posts raw footage of '60 Minutes' interview"
+    excerpt: "Posted [NFA] The White House on Thursday released raw footage from an interview that U.S. President Donald Trump did"
+    publishedDateTime: 2020-10-22T23:12:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPTMJ?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/5f920641e4b04f7ff7c2b8c5-1603405377343?location=LANDSCAPE"
+        width: 1200
+        height: 675
         isCached: true
   - title: "How Important Is The Final Debate For Trump? After Poor Showing In First Debate, President May Need A 'Game Changer'"
     excerpt: "With his poll numbers lagging and Election Day less than two weeks away, President Donald Trump may need to make a compelling case for reelection Thursday in the final presidential debate. Over 35 million Americans have already voted in the presidential election but Trump may seek to sway some undecided voters and boost conservative turnout by outshining Democratic nominee Joe Biden."

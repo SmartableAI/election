@@ -47,6 +47,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Leslie Stahl to Trump: Can You Characterize Your Supporters?; Trump: \"People Who Love Our Country\""
+    excerpt: "President Donald Trump released the footage of his interview with Leslie Stahl to the public on Thursday. In this video, Stahl questions Trump about his supporters. \"Can you characterize your supporters?"
+    publishedDateTime: 2020-10-22T23:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/22/leslie_stahl_to_trump_can_you_characterize_your_supporters_trump_people_who_love_our_country.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/52/524929.jpg"
+        width: 1036
+        height: 776
+        isCached: true
 
 secured: "nmZYEZPqHBmWWGQ3yLZOXkgkGuPl2Fsq2GErh4sjkFVMZbeUnigk7rnxL9sdLu3FV7h0N2OPGQB4Cf0T765GNdnHnmsFOEbTkeDsXCS0X/XWr2wyGdJtVUS9+paurw5Bszck6pOuyh5tiuKcRUvXdJcVdnYCorfHplpPfEwPJTyUNMrZRU21RLBF6GTsBuD3Xg3nRZfXguYBcv7MUCuL0NSctuDtw8WForfEmAadmomsi5fNLTlWA+G4x+CXGBak43AUEpVQN+sgKKjT9wVRt/IVipedB5Qx+uh6+1SJgYqEJoadbOcmu6PcpW/dk/tB8N2yPf2hiIqw6afHTDKId9okxLcNY8rON15/qkcf8oE=;geBW2pVeqcz62THOfSCpdg=="
 ---

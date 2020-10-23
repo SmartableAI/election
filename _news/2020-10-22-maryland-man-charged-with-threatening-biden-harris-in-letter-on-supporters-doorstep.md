@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 1483
+heat: 1503
 published: true
 
 provider:
@@ -425,6 +425,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/USAT/be09d52d-94af-4df5-a2c3-f74c5433144e-USATSI_15031289.jpg?auto=webp&crop=1999,1124,x0,y33&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "VP Mike Pence in Fort Wayne, Sen. Kamala Harris in virtual event Thursday"
+    excerpt: "Pence on Thursday night arrived at Indianapolis International Airport in preparation for voting Friday morning at the City-County Building in Indianapolis."
+    publishedDateTime: 2020-10-22T23:45:00Z
+    webUrl: "https://www.wishtv.com/news/election/vp-mike-pence-in-fort-wayne-sen-kamala-harris-in-virtual-event-thursday/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 79
+    images:
+      - url: "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2020/10/BACKGROUND-Mike-Pence-Kamala-Harris.jpg?fit=1280%2C720&#038;ssl=1"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris Remarks On George Floyd's 47th Birthday"
     excerpt: "Kamala Harris Wednesday remarked on what would have been George Floyd's 47th birthday. The Vice Presidential candidate said on Twitter that Floyd \"should still be alive today celebrating another year with his family and friends."

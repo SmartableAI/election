@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2020-10-23-i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer.md",
+      "title": "\"I Don't Know Anything\": Trump Feigns Ignorance About Plot To Kidnap Gov. Whitmer",
+      "excerpt": "President Trump, during a contentious interview with 60 Minutes he leaked on Facebook, claimed he doesn't \"know anything about the plot\" to kidnap Michigan's Democratic governor, Gretchen Whitmer, but later looked to take credit for potentially saving Gov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/",
+      "originalUrl": "https://www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f91cd36a2aa7465f7f43767%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5316%26cropY1%3D201%26cropY2%3D3192",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tommybeer/2020/10/22/i-dont-know-anything-trump-feigns-ignorance-about-plot-to-kidnap-gov-whitmer/amp/",
+      "publishedDateTime": "2020-10-22T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-ap-explains-whats-next-for-trumps-supreme-court-nominee.md",
       "title": "AP Explains: What's next for Trump's Supreme Court nominee",
       "excerpt": "S.C., said in a statement after the Democrats' announcement that Barrett “deserves to be on the Supreme Court and she will be confirmed.\" In a statement Wednesday with Senate Democratic Leader Chuck Schumer,",
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.aljazeera.com/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news",
       "featuredContent": null,
       "highlight": null,
-      "heat": 320,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -545,7 +597,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/live-updates/2020-election-campaign/?id=73722328",
       "featuredContent": null,
       "highlight": null,
-      "heat": 316,
+      "heat": 356,
       "tags": null,
       "images": [
         {
@@ -1000,7 +1052,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/21/trump-vs-biden-how-2020-election-testing-families-friendships/6004687002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2322,
+      "heat": 2342,
       "tags": null,
       "images": [
         {
@@ -1052,7 +1104,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/top-us-official-secret-syria-visit-talks-missing-73699561",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1156,7 +1208,7 @@
       "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/21/report-trump-paid-nearly-200000-in-taxes-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -1514,63 +1566,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ben-shapiro-explains-why-hell-vote-for-trump-this-time-around-democrats-have-lost-their-f-ing-minds.md",
-      "title": "Ben Shapiro explains why he'll vote for Trump this time around: 'Democrats have lost their f---ing minds'",
-      "excerpt": "Conservative commentator Ben Shapiro revealed Monday that he plans to vote for President Trump in the upcoming election after declining to support his 2016 presidential bid.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020",
-      "originalUrl": "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4284e8ac-4bba-4f37-827e-83cfc7b6b39f/32e33807-bba9-4a35-8092-3c75f6e1dcde/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/ben-shapiro-why-voting-trump-in-2020.amp",
-      "publishedDateTime": "2020-10-20T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

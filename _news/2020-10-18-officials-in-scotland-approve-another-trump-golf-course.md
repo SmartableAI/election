@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/officials-scotlan
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/officials-scotland-approve-trump-golf-73672305"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -173,6 +173,15 @@ related:
         width: 1024
         height: 689
         isCached: true
+  - title: "Seattle, Portland, New York Sue Over Trump's 'Anarchy' Label"
+    excerpt: "New York, Seattle and Portland — three cities recently labeled “anarchist jurisdictions” by the U.S. Justice Department — are suing to to invalidate the designation and to fight off the Trump administration’s efforts to withhold federal dollars."
+    publishedDateTime: 2020-10-22T22:55:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-22/nyc-to-join-seattle-portland-in-suit-over-federal-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "qw+3RdD/HGpmZ0XTfVKT1byeoq/2rM27Teqg9zDvMuW2HegHYf6gC2UGggLYWOvgoxjWmIpkEvQHs6a//I+1t0UztS9B0ast/8/jw+8lsWT371tPC4CYew9Eh1aR2L9v07JgGSFVNDVqJXSVDCteVqFk/otguo2jww35by9gF/+oucQF9Eue40dWLx4YfvT+hos7Ng0mWozwxqyn8CX5r7gfnNcYgahEC7Inw8zwKFJSLjrmk8ajMCwdJJIrwpDxoWUVs5mH6U3/T7TVqQ96bOC2iknnA5GLco7aYhmuGPRZKOqyKf5rVFM48l+RGO6ZAmxu99N11jPINn5AstTZwGqENt7zLx9F5CELHsaqLUY=;/AGSQwzLPjlCDe2d9BxNaQ=="
 ---

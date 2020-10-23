@@ -173,6 +173,15 @@ related:
         width: 1024
         height: 689
         isCached: true
+  - title: "Seattle, Portland, New York Sue Over Trump's 'Anarchy' Label"
+    excerpt: "New York, Seattle and Portland — three cities recently labeled “anarchist jurisdictions” by the U.S. Justice Department — are suing to to invalidate the designation and to fight off the Trump administration’s efforts to withhold federal dollars."
+    publishedDateTime: 2020-10-22T22:55:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2020-10-22/nyc-to-join-seattle-portland-in-suit-over-federal-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "ykeuC17+MxhHHxdvq4PQGvFF1AYttvfQDmwNQAhH9AiiHvaQDAzCSVA69cxILT7Y3HzEilj5/o3SzXPGUfqKnQfGDuG0pZkFklzDAQfbRLJEmMjxuoI1/9oVVkhK2V1iv3LoBy/xyDluwafOZoret+iDWq+AEPobzbPD5qIcMxtnHgbSVoo4l3XDyMJT+rcjFK3ZE9yd02B81NNM4TT7g6EmTarIDktgN7tR2lj3P+iiQGJdO9S7lQajlMQqXJV/s+tKwRpMItAl14sWBIMrLDQ+nsnhEBpdlY8Tj5mZExuoS5BZS4o3Uq+7YCOi1LqKJTSQDmA7Nvz++Gj4UxXVieNV2BHkKxYgNDph6H+x1lc=;OwTUArU26mB2T72RPhLHiA=="
 ---

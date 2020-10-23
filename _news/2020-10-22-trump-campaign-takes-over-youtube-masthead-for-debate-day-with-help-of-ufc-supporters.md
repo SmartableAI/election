@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
 type: article
 quality: 168
-heat: 188
+heat: 208
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Leslie Stahl to Trump: Can You Characterize Your Supporters?; Trump: \"People Who Love Our Country\""
+    excerpt: "President Donald Trump released the footage of his interview with Leslie Stahl to the public on Thursday. In this video, Stahl questions Trump about his supporters. \"Can you characterize your supporters?"
+    publishedDateTime: 2020-10-22T23:46:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/22/leslie_stahl_to_trump_can_you_characterize_your_supporters_trump_people_who_love_our_country.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 51
+    images:
+      - url: "https://assets.realclear.com/images/52/524929.jpg"
+        width: 1036
+        height: 776
         isCached: true
 
 secured: "8XxmVX+xI0WjEfESxP2SDCVaZ5XwwqzbldhpYtLZBQddlzwfMY50K/YG0e2BLMLxlgv7xndMYpQK3sEvNGead348mh+CVdsfWwGXYxJI0ZmyXUlF1f6pm40ZbeR8SsTNpMK7RqPKttlq5YehlXwzWaencQXQyevoMogTA0yqjGtsnGxMTbGOmyUmYnKb9hIZdullv39ptXFNVuYTXsLTERkw2YrvlljVthE4ghEuShPUm74rtLGmwD0BA2SVleDpOURGb2vHX1Oxi2Bew6ZIGqtVtz7Rogf0puyDNTe8CVqDtOIl1UBkHkt79exqYnEYr2Rn9ZyFRtchNDQq64Qtfc6NZzTihvZnyt010vVkBQ0=;GKVBGwZpvcNvTf2Qni5YsQ=="

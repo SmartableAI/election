@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1605
+heat: 1625
 published: true
 
 provider:
@@ -237,6 +237,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022131036-john-king-10222020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "The Point: Trump just handed Biden a devastating debate attack"
+    excerpt: "Hours before Donald Trump is set to face off for the last time against Joe Biden on the debate stage, the President handed his challenger an attack on a silver platter.\n    \n"
+    publishedDateTime: 2020-10-22T23:06:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOQympIU184/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-debate-2020/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/22/politics/trump-biden-final-debate-2020/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022105820-01-first-debate-trump-0929-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

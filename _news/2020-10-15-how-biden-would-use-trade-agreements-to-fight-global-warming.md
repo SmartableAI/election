@@ -494,6 +494,22 @@ related:
         width: 2500
         height: 1563
         isCached: true
+  - title: "After dodging questions about court packing, Biden floats commission to study judicial reforms"
+    excerpt: "Democratic presidential nominee Joe Biden said that if elected he will convene a bipartisan commission of constitutional scholars to examine judicial reforms, asserting there are “a number of alternatives” that go “well beyond” expanding the Supreme Court."
+    publishedDateTime: 2020-10-22T13:28:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/joe-biden-court-packing-judicial-reforms-commission-431157"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/joe-biden-court-packing-judicial-reforms-commission-431157"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/joe-biden-court-packing-judicial-reforms-commission-431157"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 123
+    images:
+      - url: "https://static.politico.com/12/6b/764bbf7e4831babf0f032d36c406/201022-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Wall Street starts to move on to President Biden"
     excerpt: "The wide Biden lead in polls and online markets points to Trump needing to overturn multiple state results for serious uncertainty to emerge, a much less likely outcome than if the results are extremely close” Ryan Detrick,"
     publishedDateTime: 2020-10-15T12:05:00Z

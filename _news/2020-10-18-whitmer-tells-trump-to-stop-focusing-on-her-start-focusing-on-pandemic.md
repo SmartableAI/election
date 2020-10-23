@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e80b0076-79fc-45e5-a4d4-5a6dcc5d5b2a/8b3ed7b7-806e-4f84-8b34-88666e876b21/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump campaign press secretary temporarily suspended on Twitter over mail-in voting tweet"
+    excerpt: "EXCLUSIVE: The Trump campaign’s national press secretary had his Twitter account suspended Thursday, just hours before the presidential debate, after he tweeted about his experience of being sent absentee ballot materials intended for someone else."
+    publishedDateTime: 2020-10-22T22:51:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJNqKKZE_tc/trump-press-secretary-suspended-twitter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-press-secretary-suspended-twitter.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/gidley.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump campaign says Whitmer 'encouraging assassination attempts' against president with discreet TV message"
     excerpt: "Michigan Gov. Gretchen Whitmer has been accused of encouraging assassination attempts on President Trump after displaying “8645” in the background of a national television interview Sunday."

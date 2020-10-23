@@ -47,6 +47,22 @@ related:
         width: 1199
         height: 799
         isCached: true
+  - title: "Report: Trump Campaign Has Videotaped Philadelphia Voters In Potentially Illegal Voter Intimidation"
+    excerpt: "Members of President Donald Trump’s re-election campaign have been filming Philadelphia voters as they put their ballots in drop boxes, which poll watchers are not permitted to do in Pennsylvania and could be an act of illegal voter intimidation,"
+    publishedDateTime: 2020-10-22T22:53:00Z
+    webUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/"
+    ampWebUrl: "https://www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasreimann/2020/10/22/report-trump-campaign-has-videotaped-philadelphia-voters-in-potentially-illegal-voter-intimidation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 111
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9203f9fec3f6d2522ff281%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4500%26cropY1%3D53%26cropY2%3D2585"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is letting it slip that he knows he is losing badly: report"
     excerpt: "According to a report at Politico, the normally self-assured Donald Trump has assumed a defensive posture in his recent rally speeches, openly begging for votes because he knows deep down that he will not be re-elected on Nov."
     publishedDateTime: 2020-10-17T13:47:00Z
