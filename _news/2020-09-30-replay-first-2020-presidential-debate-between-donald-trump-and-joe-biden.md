@@ -1701,6 +1701,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
+    excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
+    publishedDateTime: 2020-10-22T17:19:00Z
+    webUrl: "https://www.wsj.com/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    ampWebUrl: "https://www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 158
+    images:
+      - url: "https://images.wsj.net/im-248760/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump camp seeks extra debate rule: Third party inspectors to look for electronic devices in candidates' ears"
     excerpt: "President Trump is asking for an additional ground rule ahead of Tuesday night’s first presidential debate between himself and Democratic presidential nominee Joe Biden."
     publishedDateTime: 2020-09-29T14:36:00Z
@@ -1933,22 +1949,6 @@ related:
     quality: 149
     images:
       - url: "https://images.wsj.net/im-237203/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Donald Trump, Joe Biden Clash Over Coronavirus in Final Presidential Debate"
-    excerpt: "The debate presents President Trump and Democrat Joe Biden with a final chance to lay out competing arguments side by side before a huge audience."
-    publishedDateTime: 2020-10-22T17:19:00Z
-    webUrl: "https://www.wsj.com/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
-    ampWebUrl: "https://www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 148
-    images:
-      - url: "https://images.wsj.net/im-248760/social"
         width: 1280
         height: 640
         isCached: true

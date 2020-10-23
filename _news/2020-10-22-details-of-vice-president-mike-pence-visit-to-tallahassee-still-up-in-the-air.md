@@ -155,6 +155,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Vice President Mike Pence to rally in Kinston, NC on Sunday"
+    excerpt: "Pence's schedule has him in Minnesota the next day. Doors open at 4 p.m. and close at 5:30 p.m. Campaign officials said both rallies will feature remarks from Vice President Mike Pence and Republican candidates. The news release said President Trump and ..."
+    publishedDateTime: 2020-10-23T17:23:00Z
+    webUrl: "https://www.wfmynews2.com/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/news/politics/vice-president-mike-pence-to-rally-in-kinston-north-carolina/83-98289de4-1c07-46e9-bab1-072cb72b1699"
+    type: article
+    provider:
+      name: WFMY News2
+      domain: wfmynews2.com
+    quality: 75
+    images:
+      - url: "https://media.wfmynews2.com/assets/WFMY/images/794c1d9a-9c3c-427b-87bf-d848c521490a/794c1d9a-9c3c-427b-87bf-d848c521490a_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "VP Mike Pence in Pa. Saturday: Here's what to know about tickets, schedule"
     excerpt: "Vice President Mike Pence is once again making his way to central Pennsylvania, but this time the campaign trail is taking him to Berks County. Pence, who was last in Pennsylvania"
     publishedDateTime: 2020-10-16T02:52:00Z

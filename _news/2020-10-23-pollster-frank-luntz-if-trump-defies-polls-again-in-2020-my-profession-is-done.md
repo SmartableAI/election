@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/media/522405-pollster-frank-luntz-if-tr
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/522405-pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done?amp"
 type: article
 quality: 119
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 980
     height: 551
     isCached: true
+
+related:
+  - title: "Trump Campaign Loses Again in Suit Over Philly Voter Offices"
+    excerpt: "A Pennsylvania appeals court is delivering another defeat to efforts by President Donald Trump’s campaign to let its campaign representatives monitor people registering to vote or filling out mail-in ballots in election offices in the battleground state."
+    publishedDateTime: 2020-10-23T16:24:00Z
+    webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices"
+    ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-10-23/trump-campaign-loses-again-in-suit-over-philly-voter-offices?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Xve/oA8IkTvq1Mg0ClyA4qxDRV+oqdjFSj6kFo9HKzo33ChfhRRd71JlGgXtzsioBnpx8TIuKtVVk0Yoq4BbbjlgJHWAUH/NVBXG3IzW1DLeY65PrYG89w2G+0Foyfn8UYpz+hNqHdDhnbK7XgJ2sZk7oyc9c5Kk1VWrTMYbdumUkazWhSNMf5DBw5iFA58+6pqW7shNsc2m5QIeXJWENaaaHccrQmVEPxdmF1W/pf9gjhdju2MH8C2Tt9WKOBblc6/7F+fP04ciyPFaXZoWstywHx4urMVs0htaKifNRwIwNtkQqtcZfezsHWa6W4g/UFaT/SyRetQkzIzTaHHWYM2zl4eMxvhAgomVz3O5dNA=;DseSWa13FXV+nGytejB5ew=="
 ---

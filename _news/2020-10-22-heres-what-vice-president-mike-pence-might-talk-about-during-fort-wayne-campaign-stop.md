@@ -91,6 +91,22 @@ related:
         width: 724
         height: 483
         isCached: true
+  - title: "Vice President Mike Pence will host rally in Kinston on Sunday"
+    excerpt: "KINSTON, N.C. (WTVD) -- With a little more than a week before the election, Vice President Mike Pence will visit the Tar Heel state for a planned rally one day after President Donald Trump."
+    publishedDateTime: 2020-10-23T17:14:00Z
+    webUrl: "https://abc11.com/politics/vice-president-pence-will-host-rally-in-kinston-on-sunday/7275528/"
+    ampWebUrl: "https://abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    cdnAmpWebUrl: "https://abc11-com.cdn.ampproject.org/c/s/abc11.com/amp/mike-pence-vice-president-rally-kinston-nc/7275528/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 75
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/7085685_101620-wtvd-pence-one-on-one-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Pence speaks at Reading Regional Airport"
     excerpt: "BERN TWP., Pa. -- Hundreds of supporters of President Trump gathered at Reading Regional Airport Saturday to hear from Vice President Mike Pence. It's the first time a sitting Vice President has come to Berks County since 2002 when Dick Cheney visited ..."
     publishedDateTime: 2020-10-18T01:33:00Z

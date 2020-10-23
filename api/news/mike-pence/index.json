@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-10-23-vp-mike-pence-returns-to-minnesota-monday.md",
+      "title": "VP Mike Pence returns to Minnesota Monday",
+      "excerpt": "Vice President Mike Pence will lead a rally on Minnesota's Iron Range Monday, as Republicans continue in their quest to capture key states in the Midwest. The Trump campaign announced that Pence will touch down in Hibbing at 1 p.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kare11.com/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
+      "originalUrl": "https://www.kare11.com/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.kare11.com/assets/KARE/images/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63/fcf0b6ba-7165-48e7-9ee6-e6a45f488a63_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kare11.com/amp/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
+      "cdnAmpWebUrl": "https://www-kare11-com.cdn.ampproject.org/c/s/www.kare11.com/amp/article/news/politics/vp-mike-pence-returns-to-minnesota-monday/89-63b7402a-be4f-48f7-8ff3-cfc17cf315da",
+      "publishedDateTime": "2020-10-23T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KARE 11",
+        "domain": "kare11.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-pence-votes-early-in-indiana.md",
       "title": "Pence votes early in Indiana",
       "excerpt": "Vice President Mike Pence voted early in his home state of Indiana on Friday, 11 days before Election Day. Pence and his wife, second lady Karen Pence, cast their absentee ballots in a drop-off ballot box at the Indianapolis City-County Building Friday morning.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1893,
+      "heat": 1913,
       "tags": null,
       "images": [
         {
@@ -691,7 +734,7 @@
       "originalUrl": "https://www.wtxl.com/news/local-news/vice-president-mike-pence-set-to-campaign-in-tallahassee-on-saturday",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -777,7 +820,7 @@
       "originalUrl": "https://www.cincinnati.com/story/news/2020/10/19/mike-pence-cincinnati-vice-president-campaign-lunken-airport/3708424001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 570,
+      "heat": 590,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1049,7 @@
       "originalUrl": "https://nbc-2.com/news/2020/10/15/exclusive-nbc2-speaks-one-on-one-with-vice-president-mike-pence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -1348,59 +1391,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it.md",
-      "title": "Biden and Harris would end Trump's China policy — Pence would extend it",
-      "excerpt": "Pence’s clear-eyed vision on the China threat matches Trump’s instincts and would make for a seamless presidential transition, if necessary.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
-      "originalUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 10400,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/pencemike_100820getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/international/520673-biden-and-harris-would-end-trumps-china-policy-pence-would-extend-it?amp",
-      "publishedDateTime": "2020-10-13T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Kamala Harris"
       ]
     }
   ],

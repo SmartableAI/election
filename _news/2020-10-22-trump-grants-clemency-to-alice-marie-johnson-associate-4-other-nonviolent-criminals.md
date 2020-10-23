@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-grants-clemency-alice-marie-j
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-grants-clemency-alice-marie-johnson-associate-four-nonviolent-criminals.amp"
 type: article
 quality: 168
-heat: 168
+heat: 188
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Alice Marie Johnson on why Trump will get 'larger percentage' of Black vote than expected"
+    excerpt: "Alice Marie Johnson praised President Trump for criminal justice reform action and said Joe Biden cannot 'undo' the harm caused to Black families by the 1994 crime bill he championed."
+    publishedDateTime: 2020-10-23T16:56:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W00GG3H3olQ/trump-election-vote-biden-black-alice-marie-johnson-criminal-justice-reform"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-election-vote-biden-black-alice-marie-johnson-criminal-justice-reform.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-election-vote-biden-black-alice-marie-johnson-criminal-justice-reform.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "ansNb9vasGAT6XpyFuVg5lngfP2qp5zih7yW/7ewodZvbEx+f2ua29iYIpd+vg1csjWB1HmexIHGHZl4+ghBpIOIaTUKlCi54g4sWN1HKaSfjOfKXrekH1bIAK/Ml7DC320+oMFuv3KeS1iDQVoBEQUXbWSjB9vaKErZDIHPn3hu/mUmCSmhcI0XmJQHnlQ0XHGoNzYrd7/sq9bg/dlgFTmtPTm6sjs2QqPHJdQjQP7dGg0Hs3Jf+CN7SdMLM5OWeBT+eYUdbaG0X0QrEak00a6jIExSYORsBCfWiNo7t1zetIfbR8oEF//dOgOenDcQ3N7nQ1EE0UlqZmOnHI/Q6eMiLYfNGcH8Dt/P3ihk1qk=;cKYrOv6yxTGDRFoEbJ/k1g=="
 ---

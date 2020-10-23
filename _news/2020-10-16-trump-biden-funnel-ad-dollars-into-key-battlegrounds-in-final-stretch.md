@@ -143,6 +143,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden slams Trump ally Rudy Giuliani as ‘Russian pawn’ in 2nd debate"
+    excerpt: "Democratic presidential nominee Joe Biden fended off questions over his son Hunter's business dealings in Russia and said President Trump's associate, Rudy Giuliani, is a \"Russian pawn\" engaged in a disinformation campaign."
+    publishedDateTime: 2020-10-23T16:48:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C8dAgY4LcqI/biden-debate-giuliani-russian-pawn-hunter-biden-story"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-debate-giuliani-russian-pawn-hunter-biden-story.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-debate-giuliani-russian-pawn-hunter-biden-story.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53c5bd67-5e0e-45c5-bf8d-6d99eff60090/fc5e7bac-df8d-4b30-9726-44e921fed04b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lara Trump calls out Joe Biden's 'dismal' coronavirus warning at debate"
+    excerpt: "The two presidential candidates gave contrasting messages about the coronavirus, Trump 2020 campaign adviser Lara Trump said on Friday."
+    publishedDateTime: 2020-10-23T16:31:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/A28qEwLTUW0/lara-trump-joe-biden-debate-dismal-coronavirus-message"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-joe-biden-debate-dismal-coronavirus-message.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-joe-biden-debate-dismal-coronavirus-message.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump, Biden clash again over fracking, oil industry at final debate"
     excerpt: "President Trump and Democratic nominee Joe Biden clashed again Thursday night over energy policy and how reform would impact American workers."
     publishedDateTime: 2020-10-23T03:12:09Z

@@ -1433,6 +1433,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why the Biden and Trump campaigns both claim they won the final 2020 presidential debate"
+    excerpt: "\"I felt terrible after the first debate, to be honest with you,\" said Sen. Lindsey Graham, R-S.C., after the last debate. \"I feel great tonight.\""
+    publishedDateTime: 2020-10-23T16:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/presidential-debate-trump-and-biden-campaigns-both-say-they-won/3740185001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3740185001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3740185001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/cd97a61a-3bcf-4634-9286-7d0edfcd9ce4-AFP_AFP_8TN76E.jpg?auto=webp&crop=3199,1799,x1,y117&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden prepares to debate Donald Trump"
     excerpt: "Watch \"Joe Biden prepares to debate Donald Trump in Cleveland\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2020-09-30T01:14:00Z

@@ -244,6 +244,22 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Would Joe Biden Transition To Clean Energy Destroy The Oil Industry?"
+    excerpt: "Biden's energy plan calls for net-zero emissions by 2050, saying the oil industry has to go because of pollution Biden denies he would eliminate fracking, an issue in the key swing state of Pennsylvania The oil industry lobbying group API calls Biden's proposed leasing ban \"extreme\" President Donald Trump and the oil industry tried to gin up fears of a Democratic victory in energy producing swing states with Election Day little more than a week away,"
+    publishedDateTime: 2020-10-23T17:06:00Z
+    webUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445"
+    ampWebUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/01/the-decision-to-halt-fracking-comes-weeks-before.jpg"
+        width: 1024
+        height: 611
+        isCached: true
   - title: "Twitter and Facebook's action over Joe Biden article reignites bias claims"
     excerpt: "The way Twitter communicated its handling of a controversial article about US presidential hopeful Joe Biden was \"unacceptable\", its chief has said. On Wednesday, Twitter prevented people from posting links to a New York Post story,"
     publishedDateTime: 2020-10-15T11:07:00Z

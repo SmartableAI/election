@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump, Mnuchin say Pelosi must compromise to reach COVID-19 deal"
+    excerpt: "U.S. President Donald Trump and U.S. Treasury Secretary Steven Mnuchin of Friday said they would back the right deal for more COVID-19 relief but that House Speaker Nancy Pelosi must compromise in order to reach a final agreement."
+    publishedDateTime: 2020-10-23T16:53:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-white-house-idUSW1N2G500I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2G500I"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2G500I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538628823&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M1DN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump calls Fauci a 'disaster' and seeks to reassure his team he can win"
     excerpt: "President Donald Trump called coronavirus expert Anthony Fauci a \"disaster\" on Monday, airing his frustration with the scientist during a call meant to reassure campaign staff he has a path to victory on Nov."
     publishedDateTime: 2020-10-20T08:27:00Z

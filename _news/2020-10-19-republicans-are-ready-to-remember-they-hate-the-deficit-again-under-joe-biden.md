@@ -630,6 +630,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Booming suburbs boost Biden in North Carolina"
+    excerpt: "The former vice president's path through North Carolina is different than the one Barack Obama took to flip the state in 2008."
+    publishedDateTime: 2020-10-23T15:58:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/biden-north-carolina-430953"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3e/da/f059887f45c6a3ae198dec81d6cd/201021-biden-nc-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Rupert Murdoch Predicts a Landslide Win for Biden"
     excerpt: "The Australian mogul is disgusted by Trump’s handling of COVID-19, remarking that the president is his own worst enemy and telling associates “people are ready for Sleepy Joe.”"
     publishedDateTime: 2020-10-15T13:00:00Z

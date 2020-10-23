@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 1010
+heat: 1030
 published: true
 
 provider:
@@ -614,6 +614,20 @@ related:
       - url: "https://media3.s-nbcnews.com/j/newscms/2018_47/2651946/181119-bill-mcraven-bin-laden-raid-cs-346p_6c1152a6118e48d78078afdd1fbb9522.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Booming suburbs boost Biden in North Carolina"
+    excerpt: "The former vice president's path through North Carolina is different than the one Barack Obama took to flip the state in 2008."
+    publishedDateTime: 2020-10-23T15:58:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/biden-north-carolina-430953"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/3e/da/f059887f45c6a3ae198dec81d6cd/201021-biden-nc-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Republicans are ready to remember they hate the deficit again under Joe Biden"
     excerpt: "GOP deficit hawks hobbled the recovery from the Great Recession, dragging down an entire generation. And they're ready to do it all again if Biden wins."

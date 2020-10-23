@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Trailer: Trump is Trump. Biden is not Clinton."
+    excerpt: "Thursday's debate, and the nine months of campaigning that preceded it, suggest that Trump was telling the truth. He invited a man accusing Biden of scandalous behavior to Nashvil"
+    publishedDateTime: 2020-10-23T17:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/23/trailer-trump-is-trump-biden-is-not-clinton/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/trailer-trump-is-trump-biden-is-not-clinton/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/trailer-trump-is-trump-biden-is-not-clinton/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KUQHS6QU4AI6XISYMFFM6K4QNU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "In Pennsylvania, Trump touts the economy and warns of 'Biden depression'"
     excerpt: "President Donald Trump campaigned in the crucial battleground state of Pennsylvania on Tuesday, telling supporters he needed a second term in the White House to ensure a successful recovery from the novel coronavirus pandemic and its economic fallout."
     publishedDateTime: 2020-10-22T06:50:00Z
@@ -1352,6 +1368,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "ZMmLIj19eireqeAJv1UTa2BFgtrAa16A3cIxcqkX0h9MZEkHrwtIh5Rnns8CN+pNy8AxxpbKJRAZXtNS8Y6kpAQi5bDUyzVFHV8juGwz0WIrAo3v+Fy7NLOTN1W8G+GlEhz2Ev0IOhqW0SBjZPf3sGoJt8zSAKLRwo7I9uAtZ7HYBJWKU0dzwbUnG6EPlB2iG9hNKOSb+Z+0f6AeXGaqmQxeleXb+K8D/jmc7B8+SA00lDpBIjlKuBdwOlmuF8W6xYyQasqqiYOwEtZ5Wi44ZYLruvF6Hq6Mp6IUKmh798ZsQC3A6whCW5faRzIGKgC1/YPRPEJ+vHN+jKrGJdX+Nz2kl7GnHjQa3edkbLgrjmQ=;Lg5pL+iXKshhcNTElr+JOw=="
+secured: "GrDPLxI0lpwRTvoND8RQvUY2zuCvfROHhIzpqeJRX6Z7WzSkU67bP3FHEaGbKiIIPhVNHZP+1h/+QIrXY4hF7DmubpI74OS/kDpHUcr2HAkWt3M1wXYoUxSCNY/DCSx9u0QBJzBQJJePhgTWimbhEsdqSD9Q/ORwpxW2/gQLjhfgvjAT6rrHf0DI6aw+CZBZLyLjrX67w0q8fMaiubp17ZP6fKURz3vjsvNaAkTN4gNd7IBcAtjnXLanfSZ516C4/8E+aamu6U3FUrP6bSfws6cYuxJoAVywniIrOdEplEw5mEh5/QsfDLqYxVmUykEZDuoZn/bUBJUYrUBAfDrSOtRdZ/L1mAtctG0H6IZqfyhgeK4UcH8MUnWyuvsIvhyHu06DoqOAEjnaZN1UaMS4KzjikgtIQiNImJ8yIymylOZdGg4i7KPaq6E4wH8wLQjhWKkhfEuSbr5rTBRx6oiXxZFhGSqqkelwoOTueZ+DmX4FJ9vTQiVNbQQ8xQtFCIoJhtgz9IwFAGb+wGDybNYckg==;ROu0BGxrPEJK9lmcMzp7qg=="
 ---
 

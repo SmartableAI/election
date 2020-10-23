@@ -168,6 +168,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
+    excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."
+    publishedDateTime: 2020-10-23T16:59:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://static.politico.com/94/b2/7e105d334425912d7ec299f03499/ap18205813712792-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
     excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."
     publishedDateTime: 2020-10-20T09:14:00Z

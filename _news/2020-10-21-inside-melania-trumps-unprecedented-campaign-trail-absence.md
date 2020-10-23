@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-t
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/melania-trump-campaign-trail-election-2020/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 135
     images:
       - url: "https://static.politico.com/2f/24/7c30b9bf4e0fb1fa0ae19d3ecec2/102120-trump-gty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump campaign spokesperson claims parents of separated children don't want them back"
+    excerpt: "Multiple media outlets reported this week that the federal government remains unable to find the parents of more than 500 children who were separated from their families."
+    publishedDateTime: 2020-10-23T16:59:00Z
+    webUrl: "https://www.politico.com/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/23/trump-campaign-spox-claims-parents-of-separated-migrants-dont-want-children-back-431595"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 128
+    images:
+      - url: "https://static.politico.com/94/b2/7e105d334425912d7ec299f03499/ap18205813712792-1.jpg"
         width: 1160
         height: 773
         isCached: true

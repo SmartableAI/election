@@ -1056,6 +1056,20 @@ related:
         width: 846
         height: 571
         isCached: true
+  - title: "Who Is Trump Debate Guest Tony Bobulinski?"
+    excerpt: "The man alleges he has proof of improper business connections between China and Biden, but will not release them or provide any information"
+    publishedDateTime: 2020-10-23T17:34:00Z
+    webUrl: "https://www.ibtimes.com/who-trump-debate-guest-tony-bobulinski-3068105"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/democratic-presidential-candidate-joe-biden-has-dismissed-donald.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
     excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
     publishedDateTime: 2020-10-15T18:30:00Z

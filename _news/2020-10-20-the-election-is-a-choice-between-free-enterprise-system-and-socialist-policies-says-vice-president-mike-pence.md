@@ -251,6 +251,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Mike Pence to hold campaign rally in Kinston"
+    excerpt: "Vice President Mike Pence will make a stop in Kinston this weekend for a campaign rally. The rally will be held at the Kinston Jet Center, 2860 Jetport Road on Sunday, October"
+    publishedDateTime: 2020-10-23T16:44:00Z
+    webUrl: "https://www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/"
+    ampWebUrl: "https://www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/amp/"
+    type: article
+    provider:
+      name: WNCT
+      domain: wnct.com
+    quality: 75
+    images:
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2020/05/pence.jpg?w=1280"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
     excerpt: "President Donald Trump and Democrat Joe Biden clash in their final debate, Vice President Mike Pence is returning to battleground Ohio."
     publishedDateTime: 2020-10-22T12:31:00Z

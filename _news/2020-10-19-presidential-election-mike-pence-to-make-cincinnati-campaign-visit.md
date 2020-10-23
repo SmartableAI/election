@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cincinnati.com/amp/3708424001"
 cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3708424001"
 type: article
 quality: 90
-heat: 570
+heat: 590
 published: true
 
 provider:
@@ -234,6 +234,22 @@ related:
       - url: "https://www.clickondetroit.com/resizer/npY4eCLoZPl0ZNqZScty_Y3m7xY=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/10-22-2020/t_e146ea240b75447f91e717762a8c5a61_name_image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vice President Mike Pence to hold campaign rally in Kinston"
+    excerpt: "Vice President Mike Pence will make a stop in Kinston this weekend for a campaign rally. The rally will be held at the Kinston Jet Center, 2860 Jetport Road on Sunday, October"
+    publishedDateTime: 2020-10-23T16:44:00Z
+    webUrl: "https://www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/"
+    ampWebUrl: "https://www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/amp/"
+    cdnAmpWebUrl: "https://www-wnct-com.cdn.ampproject.org/c/s/www.wnct.com/your-local-election-headquarters/vice-president-mike-pence-to-hold-campaign-rally-in-kinston/amp/"
+    type: article
+    provider:
+      name: WNCT
+      domain: wnct.com
+    quality: 75
+    images:
+      - url: "https://www.wnct.com/wp-content/uploads/sites/99/2020/05/pence.jpg?w=1280"
+        width: 1024
+        height: 683
         isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."

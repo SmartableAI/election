@@ -260,6 +260,22 @@ related:
         width: 900
         height: 1217
         isCached: true
+  - title: "Would Joe Biden Transition To Clean Energy Destroy The Oil Industry?"
+    excerpt: "Biden's energy plan calls for net-zero emissions by 2050, saying the oil industry has to go because of pollution Biden denies he would eliminate fracking, an issue in the key swing state of Pennsylvania The oil industry lobbying group API calls Biden's proposed leasing ban \"extreme\" President Donald Trump and the oil industry tried to gin up fears of a Democratic victory in energy producing swing states with Election Day little more than a week away,"
+    publishedDateTime: 2020-10-23T17:06:00Z
+    webUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445"
+    ampWebUrl: "https://www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/would-joe-biden-transition-clean-energy-destroy-oil-industry-3068445?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/01/the-decision-to-halt-fracking-comes-weeks-before.jpg"
+        width: 1024
+        height: 611
+        isCached: true
   - title: "In context: A look behind the NY Post headline about Joe Biden and a Ukraine meeting"
     excerpt: "For weeks, conservatives have tried to attack Democratic presidential nominee Joe Biden by raising what they portray as sketchy business dealings by his"
     publishedDateTime: 2020-10-16T18:22:00Z

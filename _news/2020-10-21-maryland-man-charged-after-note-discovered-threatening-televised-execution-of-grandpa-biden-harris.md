@@ -128,6 +128,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ex-Hunter Biden associate's records don't show proof of Biden business relationship amid unanswered questions"
+    excerpt: "Hunter Biden's former business partner Tony Bobulinski claimed this week that former Vice President Joe Biden was allegedly involved in discussions about his son's business dealings, something the Democratic presidential nominee has repeatedly denied."
+    publishedDateTime: 2020-10-23T17:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/V7e1P0CqlCQ/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions"
+    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-tony-bobulinski-joe-biden-unanswered-questions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/14c6c177-ccc4-47c6-9fbf-485f487ec528/b5302b02-24f1-40fb-b8e8-eb7c4f06c209/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter's ex-partner recounts meeting Joe Biden, claims family 'paranoid' about hiding former VP's involvement"
     excerpt: "Hunter Biden's ex-business partner Tony Bobulinski confirmed on Thursday that he met with former Vice President Joe Biden regarding his son's business dealings and alleged that someone involved with the controversy had warned him about coming forward."
     publishedDateTime: 2020-10-23T00:09:38Z

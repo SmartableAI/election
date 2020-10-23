@@ -8,7 +8,7 @@ webUrl: "https://www.wsj.com/articles/final-trump-biden-debate-marks-start-of-sp
 ampWebUrl: "https://www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/final-trump-biden-debate-marks-start-of-sprint-to-election-11603386976"
 type: article
-quality: 148
+quality: 158
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Donald Trump
   - Republican Voice
+  - Joe Biden
 
 images:
   - url: "https://images.wsj.net/im-248760/social"
