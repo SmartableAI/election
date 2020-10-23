@@ -938,6 +938,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "David Bossie: Top takeaways from Trump-Biden debate — one candidate exceeds expectations"
+    excerpt: "President Trump gave a very different debate performance from his last face-off with Joe Biden. Trump had clearly learned his lesson; poor post-debate polling made it clear that browbeating his rival would not win over any votes."
+    publishedDateTime: 2020-10-23T07:13:00Z
+    webUrl: "https://www.foxnews.com/opinion/trump-biden-final-debate-david-bossie"
+    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-final-debate-david-bossie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-final-debate-david-bossie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6eea3295-662e-4dec-b0eb-a26ef9785083/7a5f3f14-f6e4-4bc2-be5b-d8c89863e0ce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Joe Biden’s polling lead slips in wake of Post report on Hunter"
     excerpt: "Joe Biden’s polling edge over President Trump eroded this week amid The Post’s scandalous revelations about his son Hunter’s foreign dealings — but the Democratic candidate"
     publishedDateTime: 2020-10-17T08:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-fac
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2020/10/22/trump-and-biden-to-face-off-in-final-debate-us-elections-news"
 type: article
 quality: 140
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -216,6 +216,22 @@ related:
     quality: 105
     images:
       - url: "https://ajo.prod.reuters.tv/api/v2/img/5f920641e4b04f7ff7c2b8c5-1603405377343?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "‘Are you ready for tough questions?’ Top moments from Trump's combative interview with Lesley Stahl of 60 Minutes"
+    excerpt: "Trump has used the interview, which he abruptly cut short, to continue attacks on the media ahead of the final presidential debate Thursday."
+    publishedDateTime: 2020-10-23T06:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/trumps-60-minutes-interview-lesley-stahl-top-moments/3729999001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3729999001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3729999001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

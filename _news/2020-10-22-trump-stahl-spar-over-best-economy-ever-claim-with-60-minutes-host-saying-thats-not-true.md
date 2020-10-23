@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Lesley Stahl says she felt 'insulted' by Trump and Pence"
+    excerpt: "Lesley Stahl of CBS News told Vice President Mike Pence during a \"60 Minutes\" interview this week that she felt he and President Trump had \"insulted\" her -- as well as the news program."
+    publishedDateTime: 2020-10-23T06:53:00Z
+    webUrl: "https://www.foxnews.com/media/lesley-stahl-says-she-felt-insulted-by-trump-and-pence"
+    ampWebUrl: "https://www.foxnews.com/media/lesley-stahl-says-she-felt-insulted-by-trump-and-pence.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lesley-stahl-says-she-felt-insulted-by-trump-and-pence.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20282817811272.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "MG4cd5oJFoUpTHZttAI1/uFV2/WDn0aaqpYS2lTxr8tfhjmQg2xHaO+Pis7+PC/ALRsJATSrJFWlnrbwznURXdLaG5DKFK/oqRAPLyKJU1LyJ7FXZB5S4zbtZMSVz9rqMMppy1+b77AmqDipbsNLtK0pfnowvg2W8+/EzHUexizhpkAZgJ4svZc8BSwkKFRPQrnCrgwLePVmw4EYHaPZzr7mWu+8iLvauSDEOwepAmGiQStFElT0cNpJ5Lv7PFuuuKPXCiTPZcqbhk+ezgTJkylREMGlpIw8D06E5GnvA4Uu09SgNa5rAuOL3PXBqKxLEUqHerJT6fxTv80B0ukqmK9IFJyxS9c2FWHUSbC9HtE=;H9e3kUAW67TE7M8Rxae+iQ=="
 ---

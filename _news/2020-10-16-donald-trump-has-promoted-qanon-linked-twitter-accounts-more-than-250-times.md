@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Analysis: A newly restrained Trump faces the same old problems"
+    excerpt: "President Donald Trump turned in the restrained and consistent performance his advisers said he needed in his final debate with Democratic challenger Joe Biden, but it was unlikely to alter the U.S. presidential race in any fundamental way."
+    publishedDateTime: 2020-10-23T06:14:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-debate-analysis-idUSKBN2780M0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2780M0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2780M0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538560388&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0D0"
+        width: 703
+        height: 545
+        isCached: true
   - title: "Trump critics who embraced Hogan are baffled by his vote for long-dead Reagan"
     excerpt: "Larry Hogan’s decision to repudiate President Trump by casting a write-in vote for Ronald Reagan has drawn swift and sustained backlash from many Democratic supporters and some anti-Trump Republicans who had admired Hogan’s willingness to break with the White House."
     publishedDateTime: 2020-10-20T21:55:00Z

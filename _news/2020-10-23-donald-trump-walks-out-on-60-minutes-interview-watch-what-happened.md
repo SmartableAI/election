@@ -231,6 +231,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘Are you ready for tough questions?’ Top moments from Trump's combative interview with Lesley Stahl of 60 Minutes"
+    excerpt: "Trump has used the interview, which he abruptly cut short, to continue attacks on the media ahead of the final presidential debate Thursday."
+    publishedDateTime: 2020-10-23T06:11:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2020/10/22/trumps-60-minutes-interview-lesley-stahl-top-moments/3729999001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3729999001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3729999001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/17/USAT/97002dcd-7070-4982-9ad3-30e569d61a73-AP20291795126974.jpg?auto=webp&crop=4458,2508,x0,y226&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mike Pence Challenged By Leslie Stahl After Trump Bailed, 'You've Insulted '60 Minutes''"
     excerpt: "President Trump just released video of his failed \"60 Minutes\" interview where he just walked out and never came back, and when Leslie Stahl challenged Mike Pence as to why the Prez walked out and didn't get an answer,"
     publishedDateTime: 2020-10-22T20:02:00Z
@@ -264,6 +280,6 @@ related:
         height: 682
         isCached: true
 
-secured: "Kly4+uFI8PDKvWN9n8NoNX+0MoK/nQ3TNrWJBYbUh9ukhedztnFQ0ZclCvtgQ8GOoaYU2ydzDiY2L5tkcVfljsjpUfv+I3acql+Ww78hgQBfgqVb9+y1PINMAHec7drEluW4xJZJ+DJZb615HAuiQvRpqmKg32SxWPMWbcqqkYfOx3jc5K2PXK8IBhZ99wMbo73glWTj2iub6f1qf1rI+WwXIJnzDdRIkz9lcnbKl5qUmd2X7GJcmTYSvG0KrSdlSkt7YrQgR2FR7PNAsOWyWAmlhX2SDAZ3atxtJxD865BPH6QjXjHlrfIYAMEOdfhBUoHR16aMm3EwO91nIF5forUtorZc/ct1GMQKldnZhxg=;Zp9lKVU4030Pgm6NPAYKLA=="
+secured: "1kOhWV4n3E63KA33utbpbAMa7G7D7WCCwaZolcls/K/k7I8RwJ7AGP1kecpPAOWLGZFOAerGwDBZHmYxTJR8ShK48y0aC8c5C2oXeC/YprQlxco+w7KAp5JiMuBA7DFJaoiHrPb+wuQ7zYDV5xp3w9bSweQgLBeA2lShd6VIkJfBvE3TD70pueRV5yqvdo65oveLV5ncB3FMUvE6wiqWCmzOOzMZ22rkBrqCkn/CtZ0NETgiKNp7kmf+LhBaDZwBDyYpt753HyD1WUPbv+lZO/eItOaXUf4FMMqowjqVsi0oCQD2Tzpo+etrqqYMN+E1Z2mTmNq5gbFsIHUNPUGSBLaBWKBcxPIzXVR5QtH7KWsDXPuUm2RJ0Dhy2IWCS9yzH4q2eXKJqbjwOQwi1RS5OeIsEqpdEgKtd0HHe0Kvj8Opn8IfWCkDCbV/zbNQez4rjRDjwkmZ2Hok6DENo9emNTXcLRB+qLGMVPtum0OSOjjkonWNdFtgQGR43eWq6te2UV7LQU0Xl536ze5ogq1CQQ==;/w7PSydxUTKqQ+2BhJLXvw=="
 ---
 

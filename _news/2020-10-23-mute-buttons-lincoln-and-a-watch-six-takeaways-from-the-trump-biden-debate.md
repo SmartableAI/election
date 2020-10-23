@@ -981,6 +981,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "No evidence for Trump claim that Joe Biden earned money in China, according to the Wall Street Journal, contradicting its editorial section"
+    excerpt: "Reviewing corporate records and text messages, The Wall Street Journal uncovered no evidence that Joe Biden did business in China."
+    publishedDateTime: 2020-10-23T07:25:00Z
+    webUrl: "https://www.businessinsider.com/no-evidence-trump-claim-joe-biden-earned-money-in-china-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/no-evidence-trump-claim-joe-biden-earned-money-in-china-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/no-evidence-trump-claim-joe-biden-earned-money-in-china-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/5f925773abcd0c0018d6940c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden faces voters' questions during town hall"
     excerpt: "Democratic presidential nominee Joe Biden is back on the campaign trail after facing tough questions on issues including the COVID-19 pandemic and the Supreme Court in a televised town hall last night."
     publishedDateTime: 2020-10-16T18:29:00Z
@@ -1577,6 +1593,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump-Biden Final Debate: Covid, Wind And Hitler"
+    excerpt: "President Donald Trump and challenger Joe Biden's final debate on Thursday was a starkly more civil affair than their messy first showdown. But that did not prevent the pair from clashing on everything from immigration to racism and even Adolf Hitler."
+    publishedDateTime: 2020-10-23T06:21:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-final-debate-covid-wind-hitler-3067845"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-and-democratic-challenger-joe.jpg"
+        width: 1024
+        height: 710
+        isCached: true
   - title: "GOP voters know ‘this election is between a good man and a bad man’ — and they’ve backing Trump anyway: Morning Joe"
     excerpt: "Even his supporters agree that President Donald Trump is a bad man, according to MSNBC’s Joe Scarborough, and believe Joe Biden is basically a good man. So why are they voting for Trump, anyway, the “Morning Joe” host asked historian Jon Meacham."
     publishedDateTime: 2020-10-22T11:39:00Z
@@ -1889,6 +1919,6 @@ related:
         height: 682
         isCached: true
 
-secured: "NmDIroZttU/SNsaFZoihxq8oEKeai5PdEfG4bFllzunACi6Ydu3p9ErytOqPL3aBrwlXy2LSUwk3pmKxHV3Qj7uI3bl27TzlSQ6u1LXac/sY6K+uQSuYj0qlGrtgRIEe78pEMgWlAkUCm7l/1+HBI+767M8VTveom4/PnoLDN4jbqL1HAlL+hPIzae9fUWBFgc3YKEoWk+DDYKIty2oiXXxRjL2Sy/0G2j/hsURe1Xdu2tFH4sX86kiqnc6gTZeNKuVPiyDsuGv/ceNaExp3bhjGvfh+JgsFDu1wGx+zGG1qbnNt2bCX8nz+b6k+z3BMSktQjIwPi8Y0rKBSlNWh4m7PqsIl3nWWOiOPOb1gWQk=;3FZt/jZAu7s3TCjHXGV5HA=="
+secured: "zO0eG6IgBMH9on+m38svWqsYIkMkPIzw/a8v2xKE9xuaRw2jO/GG4AW5Jne/Xj0Aqf6nTsFJDSVPAsFR0tStidWwHKQW/aF3v+/AmCwtrq5CO/taPBGtNYDh3WQlFJihIXfQJC6yuD29XnSX/BqvsE6NazocgScQidWlnaW+wnqiB/5elxsKbcDqmnZMs4Qvds88BY2Gt2JQhRPS4Jlg3+TTAPnCLqwjAKNUXdUTUdGttlo68wT+/sDZ845Q4TY+vsgYKFt2MhkwZp/so376Um6+fy0xdI+538qF7kRb2JD4DPGnWGoxcNuwpR1LVoZCrNbUyIudmNxlfl9dbO6MRi6vANY7I+nS5AJLsZVZUpCJcRwwtGA5MViz/yid2Rq3ec3rT3hjAiF5OwrrcKpC5ksj42imgt8gz4/qH/5gZAM8lrWC4uJHhycziJjtOa9zzWgqGBkYAfauinCZAvSBfJqftMT6hTHSwdBuViz1bKTSt2RJCe41i2VZJgs7zTFHsFOwCbbtP8KRcBKi774Gig==;4BKPu/s8e98SUloLUdEvmQ=="
 ---
 

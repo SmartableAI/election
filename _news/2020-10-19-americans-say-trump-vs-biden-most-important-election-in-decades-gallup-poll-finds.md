@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1599
+heat: 1619
 published: true
 
 provider:
@@ -920,6 +920,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/doug-schoen.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "David Bossie: Top takeaways from Trump-Biden debate — one candidate exceeds expectations"
+    excerpt: "President Trump gave a very different debate performance from his last face-off with Joe Biden. Trump had clearly learned his lesson; poor post-debate polling made it clear that browbeating his rival would not win over any votes."
+    publishedDateTime: 2020-10-23T07:13:00Z
+    webUrl: "https://www.foxnews.com/opinion/trump-biden-final-debate-david-bossie"
+    ampWebUrl: "https://www.foxnews.com/opinion/trump-biden-final-debate-david-bossie.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/trump-biden-final-debate-david-bossie.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6eea3295-662e-4dec-b0eb-a26ef9785083/7a5f3f14-f6e4-4bc2-be5b-d8c89863e0ce/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to press Biden on Hunter Biden email stories if debate moderator doesn't, adviser says"
     excerpt: "Trump campaign adviser Jason Miller said on Monday that the president in Thursday's debate will bring up allegations that Democratic presidential nominee Joe Biden met with a Ukrainian business associate of his son,"

@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Debate: Biden says he'd create 'Bidencare' if Supreme Court strikes down Affordable Care Act"
+    excerpt: "Former Vice President Joe Biden cast aside attacks from President Donald Trump over what health care could look like under a Democratic president."
+    publishedDateTime: 2020-10-23T06:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/22/presidential-debate-bidencare-replace-aca-if-supreme-court-strikes-down/3737892001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3737892001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3737892001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/083659c1-add0-4dbf-a87f-92cb969eb738-XXX__AN55804.JPG?auto=webp&crop=4660,2621,x0,y55&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sean Hannity Attacks Joe Biden's Mental Fitness Despite Tucker Carlson Saying Tactic Won't Work"
     excerpt: "This morning, the President took aim at his opponent's mental stability once again in a tweet lambasting Biden for mistakingly saying he was running for senate."
     publishedDateTime: 2020-10-13T11:21:00Z
