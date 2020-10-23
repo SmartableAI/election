@@ -255,6 +255,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden, under pressure on 'court packing,' says he would convene commission on reform"
+    excerpt: "Democratic presidential nominee Joe Biden, under pressure on 'court packing,' told CBS' \"60 Minutes\" he would appoint a bipartisan commission on court reform."
+    publishedDateTime: 2020-10-23T01:56:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-convene-bipartisan-commission-court-reform-elected/story?id=73760039"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-convene-bipartisan-commission-court-reform-elected/story?id=73760039"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-convene-bipartisan-commission-court-reform-elected/story?id=73760039"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-file-rt-jef-201022_1603380696459_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Detroit pastor wants Biden to reach out more to Black community"
     excerpt: "Rev. Charles Williams of Detroit's King Solomon Baptist Church believes Democratic presidential nominee Joe Biden needs to offer more outreach to the Black community in his city. CBSN political reporter Caitlin Huey-Burns spoke with Rev."
     publishedDateTime: 2020-10-01T19:52:00Z

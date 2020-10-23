@@ -48,6 +48,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden pressed on Hunter Biden business questions at debate, insists 'nothing was unethical’"
+    excerpt: "Vice President Joe Biden denied taking money from foreign actors on Thursday as President Trump took him to task over details surrounding his son's business dealings in Russia."
+    publishedDateTime: 2020-10-23T01:57:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1OdDBtIAhf0/biden-pressed-on-hunter-biden-business-questions-at-debate-insists-nothing-was-unethical"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-pressed-on-hunter-biden-business-questions-at-debate-insists-nothing-was-unethical.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pressed-on-hunter-biden-business-questions-at-debate-insists-nothing-was-unethical.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53c5bd67-5e0e-45c5-bf8d-6d99eff60090/fc5e7bac-df8d-4b30-9726-44e921fed04b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Pressure builds for NBC's Kristen Welker to address Hunter Biden at debate: ‘This is a moment of truth'"
     excerpt: "Pressure is building for NBC News’ Kristen Welker to address the ongoing scandal surrounding a laptop purportedly belonging to Hunter Biden during Thursday night’s final presidential debate as the mainstream media has essentially dismissed the story."
     publishedDateTime: 2020-10-22T18:19:00Z

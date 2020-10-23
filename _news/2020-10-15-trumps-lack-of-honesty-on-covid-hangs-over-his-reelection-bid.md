@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-coronavirus-election-2020/index.html"
 type: article
 quality: 190
-heat: 2110
+heat: 2130
 published: true
 
 provider:
@@ -1391,6 +1391,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/79/90/90a7115d4bb5854038db7f5798cf/trump-immunity-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump comes out strong. But is it too late?"
+    excerpt: "In their last face-off before the election, Donald Trump tried to flip the script on Joe Biden and avoid controversy."
+    publishedDateTime: 2020-10-23T03:37:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/presidential-debate-what-to-watch-431301"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/06/db/03bb0a544ca0a74f2520648d7b42/201022-biden-trump-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

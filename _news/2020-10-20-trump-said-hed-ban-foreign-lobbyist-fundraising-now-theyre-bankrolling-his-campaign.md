@@ -132,6 +132,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Needed a Big Break. His Fox News Brain Got in the Way."
+    excerpt: "There’s no way to spin it. Trump’s in trouble. But Thursday night’s debate didn’t appear to give him the lifeline he needed."
+    publishedDateTime: 2020-10-23T03:36:00Z
+    webUrl: "https://www.thedailybeast.com/trump-tripped-up-by-his-fox-news-brain-at-the-second-presidential-debate"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
   - title: "The Trump Campaign Is Mysteriously Sending Money Back and Forth to State Parties"
     excerpt: "The president, like Joe Biden, is taking advantage of loopholes in campaign finance laws to score huge checks. From there, however, the money trail gets bizarre."
     publishedDateTime: 2020-10-22T09:02:00Z

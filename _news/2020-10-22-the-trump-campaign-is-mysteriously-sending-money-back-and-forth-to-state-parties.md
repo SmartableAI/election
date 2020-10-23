@@ -132,6 +132,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Needed a Big Break. His Fox News Brain Got in the Way."
+    excerpt: "There’s no way to spin it. Trump’s in trouble. But Thursday night’s debate didn’t appear to give him the lifeline he needed."
+    publishedDateTime: 2020-10-23T03:36:00Z
+    webUrl: "https://www.thedailybeast.com/trump-tripped-up-by-his-fox-news-brain-at-the-second-presidential-debate"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 45
   - title: "Trump Said He'd Ban Foreign Lobbyist Fundraising. Now They’re Bankrolling His Campaign."
     excerpt: "Lobbyists representing foreign governments have bundled nearly 2 million dollars for the president’s re-elect."
     publishedDateTime: 2020-10-20T08:42:00Z

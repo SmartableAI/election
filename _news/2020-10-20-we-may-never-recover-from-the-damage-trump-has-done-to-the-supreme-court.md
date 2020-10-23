@@ -1409,6 +1409,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump comes out strong. But is it too late?"
+    excerpt: "In their last face-off before the election, Donald Trump tried to flip the script on Joe Biden and avoid controversy."
+    publishedDateTime: 2020-10-23T03:37:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/presidential-debate-what-to-watch-431301"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/06/db/03bb0a544ca0a74f2520648d7b42/201022-biden-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "At indoor Florida event, Trump urges seniors to shield themselves from Covid"
     excerpt: "The president added that he perhaps would have remained indoors to avoid possible infection, were it not for the office he held."
     publishedDateTime: 2020-10-16T19:39:00Z

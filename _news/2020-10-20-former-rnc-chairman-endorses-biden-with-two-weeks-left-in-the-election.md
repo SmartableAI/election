@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 930
+heat: 950
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/15/business/21daily-promo/21daily-promo-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden says he will be a president for all Americans in debate closer"
+    excerpt: "In his closing address at the final presidential debate, Joe Biden says he would be an American president, “I represent all of you whether you voted for me or against me.”"
+    publishedDateTime: 2020-10-23T03:00:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-he-will-be-a-president-for-all-americans-in-debate-closer-94451781513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94451781513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94451781513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/video-tease-biden-ac-1128p.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Biden's court 'punt' gets lukewarm response"
     excerpt: "And Republicans continued alleging that Biden will pack the court and is just being disingenuous about his real intentions. Brian Fallon, a former Senate Democratic leadership aide who now runs the progressive group Demand Justice,"

@@ -802,7 +802,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 200,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -914,7 +914,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 930,
+      "heat": 950,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3720360001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3720360001"
 type: article
 quality: 131
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -72,7 +72,16 @@ related:
         width: 800
         height: 510
         isCached: true
+  - title: "Briggs: Mike Pence's surprise rally could be Indiana's MAGA farewell tour"
+    excerpt: "But Indiana might have just hosted its farewell stop on the Make America Great Again tour. Indiana has been the land of MAGA for so long that it’s hard to remember what it was like before the nation’s attention descended on the Conrad Hotel in downtown Indianapolis,"
+    publishedDateTime: 2020-10-22T23:21:00Z
+    webUrl: "https://www.indystar.com/story/opinion/columnists/james-briggs/2020/10/22/mike-pences-fort-wayne-rally-could-indianas-maga-farewell-tour/3730331001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 34
 
-secured: "ZyatiCrRVfTQbZno8CNrRwC/cu/47g5kUDh5R2S/I8Vo/J/Vu2ZTKgRzTprel0sdg3h84B/c3o9J1pOdYwxcAjttl49yuh5UzklK7Cnda+Cv7blolDn/oOH1UQnmr9+u/AhhS5wDS9n7U59W0drnZzrustfgVjDvRNp1hSuAJ6sCGSiS89oa1nT2DvteHetq31cUcECfIE2mETVA3T0XB7Ptm9Mhr7PI7HBsrdWCQc9bMo5BgYnqoFDX7X1+Sz5XOS8ZrDQIYjxRQmBaQsFvINXyRDudCaq9/UOb3i8biokGQ4jOUziY2MiR+POxQLrhXrGDOynhNCw5Wxd+9azIyK7l0hlb+OD0QGBEH33KM50=;XHM9YME7p+CWEk1BIGf0vQ=="
+secured: "2HHo56hOebhDOAcM9bMyChp0dtC0YAuHKJLXvnCrC4VGUyTpGVa32D85nckDxRVmnEjGvOTkJVeVqwAkJDsnzk25HvwntAjhApp1eY3jaU7VcvIS99rzAOqLDbmhm2oihNBNlzsJSJg9FPNEinsaPvdwvV9W1O5EkQNEBxobknXTQeah5H/fNXS2H9C5Nw3g9Ge9ndFRGCJ6hUR/73+KRVQU+oGxvFjYtBEL3npJu7Jr8bjFZx8oTjEaudBbd0OD6AiPihl+1MU9dLnFEqAUFz1Dc3D4XJBokJMo2KE9UUw63lkWvlF3pms2u29kHzDO+0GJ3ZVrGuJrWkWNgp+jceiY0fwxQdYL3ZuYEeJn7BCyPLWE3m6YJVLkm9yO3wn2CCM4u/1XOM+FCGI72PoFaPXwt7/+EGp/eeKvJuVoW0YU4SCQq4RLSXEIXfVXCDXh8mrC5a0i/bmTwLxZa5rW+/s7/4enqoI9wwZG+gkYGhsVksQC4KKUkQnXwEi7ilkmLDIc3oTa/dN2kJzMLo9Pgg==;HMZAdBb+d/AvE3tpMJsctg=="
 ---
 

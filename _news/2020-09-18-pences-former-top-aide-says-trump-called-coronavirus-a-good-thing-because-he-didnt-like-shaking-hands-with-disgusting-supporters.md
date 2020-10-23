@@ -1072,6 +1072,22 @@ related:
         width: 2529
         height: 1686
         isCached: true
+  - title: "For Trump and Biden, debate fuels allegations of improper family foreign deals"
+    excerpt: "President Donald Trump leveled new attacks at the son of former Vice President Joe Biden at Thursday night’s debate."
+    publishedDateTime: 2020-10-23T03:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-biden-debate-fuels-allegations-improper-family-foreign/story?id=73778317"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 136
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump-biden-debate-nashville-24-rtr-jc-201022_1603416146080_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump randomly agrees to an extra debate with Biden if Joe Rogan is the moderator"
     excerpt: "The Commission on Presidential Debates has already chosen its moderators, but President Donald Trump tweeted support for one hosted by Rogan anyway."
     publishedDateTime: 2020-09-14T14:09:00Z
@@ -1151,6 +1167,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/XygkKfIhH5_Nh57eQqs-U45lBg4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/XLCZZSB6RRDNKTJPTMP7MWSLX4.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump campaign trots out former business associate of Hunter Biden ahead of debate"
+    excerpt: "The move resembled Trump’s 2016 news conference with women who had accused President Bill Clinton of sexual misconduct ahead of a debate with Democratic nominee Hillary Clinton."
+    publishedDateTime: 2020-10-23T03:19:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/tony-bobulinski-hunter-biden-debate/2020/10/22/12f05dea-14b3-11eb-82af-864652063d61_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/tony-bobulinski-hunter-biden-debate/2020/10/22/12f05dea-14b3-11eb-82af-864652063d61_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/tony-bobulinski-hunter-biden-debate/2020/10/22/12f05dea-14b3-11eb-82af-864652063d61_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 134
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USC6UJQU24I6XPAQICZFHAXRXY.jpg&w=1440"
+        width: 1440
+        height: 950
         isCached: true
   - title: "Will Biden visit? Dem rival's absence raises the question after flurry of stops by Trump, Pence and family members"
     excerpt: "Democrat Joe Biden has yet to commit to stopping in a state that some believe could settle the election. But do candidate visits really matter, especially in a first-in-a-lifetime pandemic?"
@@ -2075,6 +2107,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20201021&i=OVD12U7OR&r=OVD12U7OR&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Trump and Biden clash on pandemic, trade personal jabs at final debate"
+    excerpt: "U.S. President Donald Trump and Democratic presidential nominee Joe Biden are reflected in the plexiglass protecting a tv camera operator from covid as they participate in their second 2020 presidenti"
+    publishedDateTime: 2020-10-23T03:26:00Z
+    webUrl: "https://www.reuters.com/news/picture/trump-and-biden-clash-on-pandemic-trade-idUSKBN2770H1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538543577&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9M05P"
+        width: 810
+        height: 534
         isCached: true
   - title: "American suburbs are tilting for Joe Biden. But not Milwaukee’s, which could be a key part of President Trump’s narrowing path to re-election."
     excerpt: "As many suburban Americans reject President Trump, the suburbs outside Milwaukee, among the most racially segregated in the country, remain a bulwark of support."
@@ -4062,6 +4108,45 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/us-president-donald-trump-l-and-former-vice.jpg"
         width: 1024
         height: 690
+        isCached: true
+  - title: "No Knockouts At Biden, Trump Debate 12 Days Before Vote"
+    excerpt: "President Donald Trump and challenger Joe Biden traded accusations of graft and clashed on the Covid-19 pandemic Thursday but without landing a knockout blow 12 days before the election in a final debate that many saw as Trump's last big chance to change the narrative."
+    publishedDateTime: 2020-10-23T03:39:00Z
+    webUrl: "https://www.ibtimes.com/no-knockouts-biden-trump-debate-12-days-vote-3067397"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/us-president-donald-trump-and-democratic-nominee-joe.jpg"
+        width: 1024
+        height: 690
+        isCached: true
+  - title: "Trump, Biden Go After Each Other on Coronavirus, Taxes"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden offered sharply different visions of how to handle the surging pandemic and fought over how much Trump pays in taxes during their final debate of a tumultuous campaign."
+    publishedDateTime: 2020-10-23T03:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/face-to-face-trump-and-biden-to-meet-for-final-debate"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-22/face-to-face-trump-and-biden-to-meet-for-final-debate?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-22/face-to-face-trump-and-biden-to-meet-for-final-debate?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
+  - title: "Trump, Biden participate in much more civilized debate"
+    excerpt: "In an event that remained much more civilized than the first presidential debate, President Donald Trump and former Vice President Joe Biden took to the stage to make a final pitch to the American electorate."
+    publishedDateTime: 2020-10-23T03:26:00Z
+    webUrl: "https://www.chron.com/news/article/WATCH-LIVE-Trump-and-Biden-face-off-in-final-15668864.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 70
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/67/63/20151499/13/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."

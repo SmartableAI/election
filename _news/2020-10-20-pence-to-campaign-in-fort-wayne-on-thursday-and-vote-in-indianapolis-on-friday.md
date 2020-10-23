@@ -68,6 +68,15 @@ related:
         width: 800
         height: 510
         isCached: true
+  - title: "Briggs: Mike Pence's surprise rally could be Indiana's MAGA farewell tour"
+    excerpt: "But Indiana might have just hosted its farewell stop on the Make America Great Again tour. Indiana has been the land of MAGA for so long that it’s hard to remember what it was like before the nation’s attention descended on the Conrad Hotel in downtown Indianapolis,"
+    publishedDateTime: 2020-10-22T23:21:00Z
+    webUrl: "https://www.indystar.com/story/opinion/columnists/james-briggs/2020/10/22/mike-pences-fort-wayne-rally-could-indianas-maga-farewell-tour/3730331001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 34
 
 secured: "DalOdB/Qoe2Xaqa57DZ8sQQjpzehVqoIQzhQJR+yJdmJhwBtBBcqx3BbFEbqH0ywoXWg03hPuTtmdE5V/+JxwUvmEjlVoJY+N6oJbbWAtFkEf2vGPcFlmQv8GdlfFbqx2OPpOR+hGANP8pX550+Trx1jxumaPE+9/O5t6wkS4XtX0sOykmqQQ0rsBXhDDHr9DfJvlHID6OEK25SiyY2fCRi0TFMgUnzlQ+sdz4KafkHmz3CSPkFWTuVJ5xkRQT01gPrYn3Nw1y0q88aqK1NDgANs3Wbeg97kIRgwteSNvjkW0vyd24TOOBulKrM0stmPTRoT+9gC9WtW9E4cQIw4KIE741l+a1q7qE73EL7R5+8=;93yjmCU2C1CuouOG3jHtAw=="
 ---

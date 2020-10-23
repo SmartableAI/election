@@ -219,6 +219,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
+    excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
+    publishedDateTime: 2020-10-23T02:43:00Z
+    webUrl: "https://www.thestarpress.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+    ampWebUrl: "https://amp.thestarpress.com/amp/3731210001"
+    cdnAmpWebUrl: "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/3731210001"
+    type: article
+    provider:
+      name: The Star Press
+      domain: thestarpress.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/98202212-847e-4cfe-8846-6a63bfc8ce9b-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-89.JPG?auto=webp&crop=3809,2143,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z
@@ -364,6 +380,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "QTd4lQxYWM18DVBQAvSXd5YKGe0xusTB7Cs/+Qxa9lHkucKkHmou7iN7zd6G4FblIFUfhru5JaOqEwv+/B+znQUMc/0VDjbTjLYzgFHjK9EzbvfaQwq2wQexF0K7+Fa0aVOcqpmskColavri0iBVjW6ec/H6ho1R9c686VJ3Mox89NtSWTQeKfzEnpNHtAOLmHt95N22JMR/oIysk1ckYqKO2fOJSwY/e5jT4iFLEgIdLXi5hv1gDjig2N+4RHpQHXAj3LUQXemJekWBDQcvmwrm9pvGiMitEZJ1TOQbNlF1ZVWfnYqu59ZRkXpvCJq7Ua4GKA4AZgV0COT2KcS/YjGq+t1MpEUHm9DefDfafXw=;RZMg49qsRUSLc9BJnpML+g=="
+secured: "AjAJxCB0JdTEO1ZVv6nUBWo3AkERj8M8jLBKIz0mCZpdTnXUW6MCrCu/TvsJhb09aXkp0NZ5bCKVmm1KhqZm5kAi94aKhj3cjonwiE9vYNaAgwfgpyAqT2boTRLPEKqY4BNM0BFZhHqTouZ7jouNb50GPTCf8IPibKl4TtL6rlyJ8M6e6ijgY9A87g6v0J6eUMIPC7S9IZEaY/BbJTTWHsxIlSeM2Ex57ZNyJ4aohLiTn9BXAyIMHFo6Yt88LYr8XXs5gS7SVD0wSgjpQnlMDB/a6pr08M/Aao/H18KxiYp11uYqCgv689uon4lqWS2xy1ggu92iRrcb8AZ1F9Wdj6ISL3JH4bzKpNFIRRVS+GRvVPb6nGKSdzSYEFKjRtwFUhIf04YLSkRvJsrqIkx8+IEOjYt3C5Kn9tyhAy316W4C4GVT7uFDnMlvVT5TnABT41diNUAo9Pu/OfvyiJx4kvuM0m//rjN1pUC5+RFOsWpCAtBQMuMeqJaZC4StwYHj5CulBGuHskS90Wm5WuD8CA==;iuBLHW6tApz3HenXZ+LYzA=="
 ---
 

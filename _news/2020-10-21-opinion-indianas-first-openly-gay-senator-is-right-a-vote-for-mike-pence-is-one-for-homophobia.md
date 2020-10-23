@@ -68,6 +68,15 @@ related:
       name: Sacramento Bee
       domain: sacbee.com
     quality: 47
+  - title: "Briggs: Mike Pence's surprise rally could be Indiana's MAGA farewell tour"
+    excerpt: "But Indiana might have just hosted its farewell stop on the Make America Great Again tour. Indiana has been the land of MAGA for so long that it’s hard to remember what it was like before the nation’s attention descended on the Conrad Hotel in downtown Indianapolis,"
+    publishedDateTime: 2020-10-22T23:21:00Z
+    webUrl: "https://www.indystar.com/story/opinion/columnists/james-briggs/2020/10/22/mike-pences-fort-wayne-rally-could-indianas-maga-farewell-tour/3730331001/"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 34
 
 secured: "fTYYQzeSzV2jT+LWsiF0rFd681T9quR0HtT6qdSG05qhHVBD2EeUZWhPK6Cv/B69bnLm2nocmxydPyTFLSh7Fwh0pMpwhDp++NbXJpa8zRzeQ17ZuxsVajoTNprVlnZWlesIarzoQ2FstEdHPDcvq/GHfAOLoxGpG5oELSqLQklHq63Xpo6pASgD6h8kDhc1YxDnO1FeZdfzLofbB595w3vfwtF+bAwepUI3Ifrvp462o0g1vuCPGlxkfINv7UCr3e0yQKmIT/LjqCyLzAZSEqT+fMv2GIylseUpIXJ5S5Z0VwhzEjXA0R0oJ1VqWCpWxf6Q7nx2kK8iHVX0jUUVoCvwEWqqsqnMr2JMh6PulU3d0+ohakiNwKkUe6sZOfUXYB56bdAKHkz9Nr0S65Gui8haBdFLEoWf/m4Juw4tweetGWb7YISgG2sB6eQXePd7SrPf5+gbmaffdqboHi2EzXNFW0vE7MpWYalZByBBxPwfgiOXNY/Cr5vbOeH/F+Nv5xFwZ0+r+zpq51UXweu4rg==;H2ZwhavyuVvHg5hemDstkw=="
 ---

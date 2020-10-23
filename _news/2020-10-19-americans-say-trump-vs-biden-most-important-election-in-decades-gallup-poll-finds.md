@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1519
+heat: 1579
 published: true
 
 provider:
@@ -143,6 +143,38 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump, Biden clash again over fracking, oil industry at final debate"
+    excerpt: "President Trump and Democratic nominee Joe Biden clashed again Thursday night over energy policy and how reform would impact American workers."
+    publishedDateTime: 2020-10-23T03:12:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5K8Q6c3ABCI/biden-trump-final-debate-fracking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-final-debate-fracking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-final-debate-fracking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f995fd09-8565-4e10-b719-634a6f6a1cc4/73bb155e-d199-49ac-9706-624f5cc08796/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump, Biden refrain from interrupting each other"
+    excerpt: "At the second and final presidential debate Thursday night in Nashville, Tenn., both candidates mostly played nice and avoided interrupting each other."
+    publishedDateTime: 2020-10-23T02:20:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9M-6fjsagSg/trump-and-biden-refrain-from-interrupting-each-other"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-and-biden-refrain-from-interrupting-each-other.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-and-biden-refrain-from-interrupting-each-other.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP202970612992621.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z
@@ -236,6 +268,22 @@ related:
     quality: 185
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/55fa5d1d-f2dc-4dad-ad5e-12cc3fc901cc/67ca0bb6-f143-4037-9e0f-08b4a0a236cd/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump, Biden clash over reopening plans, former VP won't rule out more shutdowns"
+    excerpt: "Democratic presidential nominee Joe Biden indicated on Thursday that he was open to implementing more economic shutdowns to combat the coronavirus pandemic."
+    publishedDateTime: 2020-10-23T02:14:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/sLz4LWIdl_Y/biden-open-to-more-coronavirus-shutdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-more-coronavirus-shutdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-more-coronavirus-shutdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/da4eca33-79e6-42ab-8d9d-1005f2df2e60/40447b11-2332-413c-b1e1-e90b031d7930/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -514,9 +562,9 @@ related:
   - title: "Trump says 'good chance' coronavirus vaccine ready in weeks, as Biden predicts 'dark winter'"
     excerpt: "President Donald Trump and Democratic candidate Joe Biden met for their second and final presidential debate before the Nov. 3 election, immediately jumping into the impact of the coronavirus."
     publishedDateTime: 2020-10-23T01:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xpfHNJHTUA8/trump-says-good-chance-coronavirus-vaccine-ready-in-weeks-as-biden-predicts-dark-winter"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-good-chance-coronavirus-vaccine-ready-in-weeks-as-biden-predicts-dark-winter.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-good-chance-coronavirus-vaccine-ready-in-weeks-as-biden-predicts-dark-winter.amp"
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c8PWo-kuYM8/trump-coronavirus-vaccine-ready-biden-dark-winter"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-coronavirus-vaccine-ready-biden-dark-winter.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-coronavirus-vaccine-ready-biden-dark-winter.amp"
     type: article
     provider:
       name: Fox News

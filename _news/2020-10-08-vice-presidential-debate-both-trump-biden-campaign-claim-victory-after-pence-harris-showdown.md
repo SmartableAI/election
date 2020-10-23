@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/vice-presidential-debate-both-trump
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown.amp"
 type: article
 quality: 228
-heat: 4408
+heat: 4428
 published: true
 
 provider:
@@ -1104,6 +1104,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82f532fd-66e7-4031-86f3-241a87b3c93e/3482ecb1-8578-440c-b78b-2e94e0884344/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump, Biden clash over Hunter Biden business questions at final presidential debate"
+    excerpt: "President Trump and Democratic presidential nominee Joe Biden clashed over alleged foreign financial entanglements in the final presidential debate on Thursday night."
+    publishedDateTime: 2020-10-23T02:11:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Trx6_e5EuMU/biden-trump-final-debate-presidential-election-hunter-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trump-final-debate-presidential-election-hunter-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trump-final-debate-presidential-election-hunter-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Democrats press Biden to resume negative campaign ads, despite Trump's hospitalization"
     excerpt: "With the election less than one month away and early voting begun in some states, Democratic strategists have argued that Biden should resume his critiques of the president."

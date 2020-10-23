@@ -464,6 +464,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden says he will be a president for all Americans in debate closer"
+    excerpt: "In his closing address at the final presidential debate, Joe Biden says he would be an American president, “I represent all of you whether you voted for me or against me.”"
+    publishedDateTime: 2020-10-23T03:00:00Z
+    webUrl: "https://www.nbcnews.com/video/biden-says-he-will-be-a-president-for-all-americans-in-debate-closer-94451781513"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94451781513"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94451781513"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202010/video-tease-biden-ac-1128p.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Feds examining if alleged Hunter Biden emails are linked to a foreign intel operation"
     excerpt: "One email, which has not been confirmed to be authentic, suggested a meeting between Joe Biden and a rep from a Ukraine firm that once paid his son Hunter."
     publishedDateTime: 2020-10-16T00:45:00Z

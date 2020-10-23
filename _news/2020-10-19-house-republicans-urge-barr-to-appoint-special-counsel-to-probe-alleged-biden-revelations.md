@@ -45,6 +45,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden slams Trump as he distances himself from progressives: 'He thinks he's running against somebody else'"
+    excerpt: "The heated exchange occurred after Biden was asked to address Americans who are concerned about a shift toward socialized medicine."
+    publishedDateTime: 2020-10-23T02:56:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uuD2zqAfQow/biden-slams-trump-health-care-progressives"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-health-care-progressives.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e21bc17-5c77-4fd8-8ff7-78461bebe7f4/80e892b7-3477-42a9-aed0-ebaeadcafe7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "0LTJdGu6s/Rr/Is1Z9pNrhyWuijdUnY4ly8Ma6UBX3QnOjLWuUK9v4eSD/dqxBh2aclfsv0BA6w0SWw4a3J8/JyZmSTI569PegWtlWjnRr7xmyFJsP4q6VA+5OVDBy5J2Ao0TN8i2jivRUQ86SjAkQU0Pakp2MFLMz8FRLaH5kEpwOyiEeLf8EWogaFfFLHjHMsRszbehQeRGDKlXTuarHJe2JeWsiaLjItD9H0aqBwWlax8WVU79QusFTJLdGi1yU7cAgch+ePISFAnGtf9jtYfrVO7OmWxo1fB3/dQMIXmdlSRP79Ei3QgQOIdue8Vjx9bU4uDSHpbjvjv3UpzTHQ7szzQIzKkCyRlHsZEf1Q=;APE6MRPcZS3/7vix3DxCbg=="
 ---

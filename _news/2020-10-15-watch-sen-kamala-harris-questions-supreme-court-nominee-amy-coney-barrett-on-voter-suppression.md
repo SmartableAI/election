@@ -271,6 +271,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Video of Joe Biden Comforting Parkland School Shooting Families Watched Over 7 Million Times"
+    excerpt: "Footage of Joe Biden comforting the families of victims of the 2018 Parkland shooting has resurfaced and is being shared widely on social media. Arun Chaudhary, a political operative and filmmaker who served on President Barack Obama 's presidential 2008 campaign,"
+    publishedDateTime: 2020-10-22T10:22:00Z
+    webUrl: "https://www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245"
+    ampWebUrl: "https://www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-joe-biden-parkland-shooting-victims-families-1541245?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1656915/joe-biden.jpg"
+        width: 3000
+        height: 1941
+        isCached: true
   - title: "Kamala Harris cancels events after flying with two people who tested positive for Covid – live"
     excerpt: "Harris’s communications director and a ‘non-staff flight crew member’ tested positive after she was in contact with them while wearing an N95 mask"
     publishedDateTime: 2020-10-15T18:52:00Z
@@ -314,6 +330,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/10/16/f5232d35-12a8-4058-8f65-4a63922f4d16/thumbnail/1200x630/b0d15f3cd593a7247ff342ec1f1ffa68/cbsn-fusion-senator-kamala-harris-questions-amy-coney-barrett-on-climate-change-thumbnail-567264-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "'He's running against Joe Biden': Biden on healthcare"
+    excerpt: "Biden on healthcare. Posted . During Thursday's final presidential debate, Democratic presidential nominee Joe Biden and President Donal"
+    publishedDateTime: 2020-10-23T03:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVD17UBJ3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20201023&i=OVD17UBJ3&r=OVD17UBJ3&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Watch Kamala Harris corner Amy Coney Barrett into sharing her view on climate change"
     excerpt: "Supreme Court nominee Amy Coney Barrett has repeatedly dodged questions from Democrats and refrained from revealing her opinion on hot-button issues such as abortion in this week's hearing."
@@ -738,6 +768,22 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 68
+  - title: "Fact Check: Is Kamala Harris ‘more liberal than Bernie Sanders’? | Charlotte Observer"
+    excerpt: "President Donald Trump said during Thursday’s debate that Kamala Harris is “more liberal than Bernie Sanders” and is eager to see government-run health care."
+    publishedDateTime: 2020-10-23T02:19:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/election/article246645198.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/election/article246645198.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/election/article246645198.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154292001/b428e196-612e-452c-83b9-15d61114f11b/dcd15672-7f2e-445a-b020-202ff75ee139/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Outrage Over Mispronunciation of Kamala Harris’ Name, Supporters Launch Online Campaign"
     excerpt: "The mispronunciation outraged a large number of Harris' supporters and her spokesperson Sabrina Singh said, I'll keep it simple: If you can pronounce 'former' Senator David Perdue, you can pronounce 'future' Vice President Kamala Harris."
     publishedDateTime: 2020-10-18T04:46:00Z

@@ -217,6 +217,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
+    excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
+    publishedDateTime: 2020-10-23T02:43:00Z
+    webUrl: "https://www.thestarpress.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+    ampWebUrl: "https://amp.thestarpress.com/amp/3731210001"
+    cdnAmpWebUrl: "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/3731210001"
+    type: article
+    provider:
+      name: The Star Press
+      domain: thestarpress.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/98202212-847e-4cfe-8846-6a63bfc8ce9b-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-89.JPG?auto=webp&crop=3809,2143,x0,y30&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Vice President Mike Pence makes campaign stop in Metro Detroit"
     excerpt: "Vice President Mike Pence made a campaign stop in Metro Detroit on Thursday. Pence held a rally at the Oakland County International Airport. Pence hailed the appointment, and what he believes will be the swearing in,"
     publishedDateTime: 2020-10-22T22:33:00Z
