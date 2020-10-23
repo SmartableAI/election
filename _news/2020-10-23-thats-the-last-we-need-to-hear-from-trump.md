@@ -112,6 +112,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Potential courtroom showdown in Trump defamation case fizzles"
+    excerpt: "A lawyer for the Justice Department, which is seeking to intervene in the suit brought by E. Jean Carroll, couldn’t enter the New York courthouse because of Covid restrictions."
+    publishedDateTime: 2020-10-23T13:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f6/03/8d472d7649c7a1624b507015167b/gettyimages-1281524978-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump's immersion in a far-right bubble does him no favors"
+    excerpt: "It was the first presidential debate I've ever seen in which I thought the audience would benefit from some kind of decoder ring."
+    publishedDateTime: 2020-10-23T13:08:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-immersion-far-right-bubble-does-him-no-favors-ncna1244499"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244499"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244499"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422322/201022-donald-trump-ew-1034p_ee5f4bdb1def6612393a5d369ea1b369.jpg"
+        width: 1494
+        height: 1494
+        isCached: true
   - title: "Trump's sideshow fizzles out"
     excerpt: "The president tried to turn debate day into a trial of the Biden family's allegedly shady business dealings. It didn't go smoothly."
     publishedDateTime: 2020-10-23T11:39:00Z

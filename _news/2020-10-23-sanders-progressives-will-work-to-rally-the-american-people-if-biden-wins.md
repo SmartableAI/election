@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Texas Governor Says Biden 'Just Killed' Family Paychecks With Oil Comments"
+    excerpt: "The former vice president said he planned to \"transition\" away from oil should he be elected president on November 3."
+    publishedDateTime: 2020-10-23T08:58:00Z
+    webUrl: "https://www.newsweek.com/texas-governor-biden-killed-paychecks-oil-comments-debate-1541588"
+    ampWebUrl: "https://www.newsweek.com/texas-governor-biden-killed-paychecks-oil-comments-debate-1541588?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/texas-governor-biden-killed-paychecks-oil-comments-debate-1541588?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1657654/texas-governor-greg-abbott.jpg"
+        width: 1024
+        height: 696
+        isCached: true
   - title: "Mike Pence attacks Biden’s economic policies at Michigan campaign rally"
     excerpt: "Vice President Mike Pence said the economic policies of Democratic presidential nominee Joe Biden will harm Michigan jobs during a campaign rally in Oakland County Thursday. Pence held an outdoor rally attended by more than 200 supporters at Contact Aviation in Waterford Township."
     publishedDateTime: 2020-10-22T17:37:00Z

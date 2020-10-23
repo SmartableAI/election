@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden falsely claims he never opposed fracking  "
+    excerpt: "Former Vice President Joe Biden claimed that he \"never said I oppose fracking\" when pressed by President Donald Trump on the issue during Thursday night's presidential debate.\n    \n"
+    publishedDateTime: 2020-10-23T12:57:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UTOR1EfET3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-fracking-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-fracking-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022212519-32-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign to remove retired general's image from ad after he objects "
     excerpt: "Joe Biden's presidential campaign will remove the image of a retired Army general from an ad after the general objected to his inclusion.\n    \n"
     publishedDateTime: 2020-10-19T20:02:16Z
@@ -626,6 +642,6 @@ related:
       domain: thedailybeast.com
     quality: 34
 
-secured: "OpxKJvA1rJHDVaIzTx1Ctmjb2KYGqUqMpxTbAckLy9ENvXY0Rkh83iMZZLCjUzBKdf5EtGqmJjwLl2dIoL/kj6inGR7PaczShWQ5EXfxm1wn+9Lqt7Zwv4t4yBzkK1A7R2MbKBwNcpPAQJ1if9T1tq6THEucjp00CyrKIH1QTOaX3Y1wOlLlXFkvUex4ByvZ4V0aGBP8WmZgdMX5mSaJDsRDdibrg+4uzW1PVumVdAVYYfIHt50wBzrXcIBQ0kcOqNMNJoeaaUaU6l1K3tfxXi3P45WjxzGeEbJSo3et8LNn12xZQHjeGBViIgfsX1KnHU1Q9EPO1HNtVevMD9clzNpS45Bf9fY+e+cVEARgrms=;P5VzoIEj7OjJVokxoS7jmw=="
+secured: "OjNiKZ//ZW0NoZTF0NGqQ9zXcwUGUW9G8bKyWhsynH4iL1agnTzGWjERbwJ7HUu3qR0miSRSvpAoCt6Ce/fOHZcbdrHHPLkhvUq+xXr4IPui89dHR5JXiyRyAFUF1EeDQ8NuZ4prkYYs3PDfZAUVf9KV7DgUg/3kDWseA8npq9ePB7ZCIAzplaVDf33t6/rKPGKpx1ALC6gpQeNjMHrLvW9q39Ko6iPwpl++9QhmRMYyEiLwbcgQqOwRiDqj05wwa8dGJTAOl17UwV8QR6BRv1oeQQosaZJb9FrNFSHYWgo2vVbmkMuQoySD/IbK8hm67fC4leUVBdyKDJ2meYh91Mi5huvUvjmFYaW6IX7lRi3V7rVwtWI/47eT38Sz/+7haZfC1zfAtr6/vVwQmRVIOQ3vAltViF6W3Zzntpe897Q4zevOBFlTavc0cGFxWKkS2ZPmCisjqkafoX0FI7uuc7oDG+Z9YzWbrF5SUuHiMspmIVT6Y4VsU5YfqRGCBwKsJjSAy9yjuZHrkbGMHaAMtg==;qobNKLm7mBInQhpMcmKk1w=="
 ---
 

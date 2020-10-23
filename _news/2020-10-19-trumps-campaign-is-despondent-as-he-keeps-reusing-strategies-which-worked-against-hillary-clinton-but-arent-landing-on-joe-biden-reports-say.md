@@ -288,6 +288,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
+    excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
+    publishedDateTime: 2020-10-23T13:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92c4e68f086b2e58c8d983"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 136
+    images:
+      - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
+        width: 600
+        height: 360
+        isCached: true
   - title: "What and where to watch as Trump and Biden meet in Ohio for tonight’s first debate"
     excerpt: "Here's what to watch for (and how to watch) when President Donald Trump and Joe Biden meet in their first debate Tuesday."
     publishedDateTime: 2020-09-29T14:54:00Z
@@ -728,17 +744,6 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
-    excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
-    publishedDateTime: 2020-10-23T11:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92b2c88f08c62805b132e2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
   - title: "Debate: Biden says he'd create 'Bidencare' if Supreme Court strikes down Affordable Care Act"
     excerpt: "Former Vice President Joe Biden cast aside attacks from President Donald Trump over what health care could look like under a Democratic president."
     publishedDateTime: 2020-10-23T06:41:00Z

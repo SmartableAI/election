@@ -215,14 +215,14 @@ related:
         isCached: true
   - title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
     excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
-    publishedDateTime: 2020-10-23T02:43:00Z
-    webUrl: "https://www.thestarpress.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
-    ampWebUrl: "https://amp.thestarpress.com/amp/3731210001"
-    cdnAmpWebUrl: "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/3731210001"
+    publishedDateTime: 2020-10-23T12:21:00Z
+    webUrl: "https://www.jconline.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+    ampWebUrl: "https://amp.jconline.com/amp/3731210001"
+    cdnAmpWebUrl: "https://amp-jconline-com.cdn.ampproject.org/c/s/amp.jconline.com/amp/3731210001"
     type: article
     provider:
-      name: The Star Press
-      domain: thestarpress.com
+      name: Journal & Courier
+      domain: jconline.com
     quality: 75
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/PIND/98202212-847e-4cfe-8846-6a63bfc8ce9b-102220-Mike_Pence_in_Fort_Wayne_Ind-cb-89.JPG?auto=webp&crop=3809,2143,x0,y30&format=pjpg&width=1200"
@@ -369,15 +369,6 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden attended a voter mobilization event in Cincinnati."
     publishedDateTime: 2020-10-12T23:47:00Z
     webUrl: "https://www.c-span.org/event/?476874/c2020-joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
     type: article
     provider:
       name: C-SPAN

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1705
+heat: 1725
 published: true
 
 provider:
@@ -799,6 +799,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3421201/201019-election-live-blog-main-cover-cs_496f96f43b2e146e6cba5a56348a152f.jpg"
         width: 2500
         height: 1250
+        isCached: true
+  - title: "At final debate, Biden shows Trump what it means to be a politician"
+    excerpt: "In the final two weeks before Election Day, President Donald Trump is placing an awfully big bet on the premise that casting his opponent as an insider has the same value it did four years ago. He repeatedly hurled the \"politician\" charge at Democratic nominee Joe Biden in their final debate Thursday night."
+    publishedDateTime: 2020-10-23T13:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/final-debate-biden-shows-trump-what-it-means-be-politician-n1244498"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244498"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244498"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/nbc_mash_debate_201022.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Live updates: Trump, Biden campaign after final debate"
     excerpt: "President Donald Trump and Joe Biden are heading back to the trail on Friday after Thursday night's final presidential debate. The candidates will deliver speeches from their respective home states. Biden will deliver remarks on Covid-19 in Wilmington,"

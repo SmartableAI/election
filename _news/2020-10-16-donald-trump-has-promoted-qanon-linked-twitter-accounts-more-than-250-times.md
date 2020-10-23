@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump is considering firing FBI director Christopher Wray after the election, report says"
+    excerpt: "Trump is reportedly furious that Wray and Attorney General Barr have not launched investigations targeting his Democratic rival Joe Biden."
+    publishedDateTime: 2020-10-23T13:06:00Z
+    webUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-considering-firing-fbi-director-chris-wray-after-election-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 131
+    images:
+      - url: "https://i.insider.com/5eab11f9204ad303cc23aeb3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
     excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
     publishedDateTime: 2020-10-15T19:24:00Z
@@ -783,6 +799,22 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "Colbert Slams Trump for “Insane” Attempt to Defend Child Separation"
+    excerpt: "The final debate was relatively muted compared—but Stephen Colbert, Jimmy Fallon, and Jimmy Kimmel still found plenty of Trump lines to tear apart."
+    publishedDateTime: 2020-10-23T12:50:00Z
+    webUrl: "https://www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate"
+    ampWebUrl: "https://www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate/amp"
+    cdnAmpWebUrl: "https://www-vanityfair-com.cdn.ampproject.org/c/s/www.vanityfair.com/hollywood/2020/10/colbert-fallon-kimmel-trump-final-debate/amp"
+    type: article
+    provider:
+      name: Vanity Fair
+      domain: vanityfair.com
+    quality: 75
+    images:
+      - url: "https://media.vanityfair.com/photos/5f92cb45faf1b82d3425a802/master/pass/Screenshot%202020-10-23%20at%208.17.54%20AM.png"
+        width: 1919
+        height: 927
+        isCached: true
   - title: "Melania Trump's Fashion Choices Don't Mean Anything, Source Says"
     excerpt: "Melania Trump's dresses don't mean anything including her pink dress that many thought was a nod to gay pride."
     publishedDateTime: 2020-10-23T05:25:00Z
@@ -1046,6 +1078,17 @@ related:
         width: 846
         height: 571
         isCached: true
+  - title: "Obama Blasts Trump's Tweets, Track Record in 2020 Campaign Trail Debut"
+    excerpt: "Former President Barack Obama returned to the campaign trail on Wednesday with a blistering attack on Donald Trump with less than two weeks to go before the Republican president's Election Day face-off with Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-23T12:53:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
     excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
     publishedDateTime: 2020-10-15T18:30:00Z

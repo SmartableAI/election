@@ -816,6 +816,22 @@ related:
         width: 2500
         height: 1250
         isCached: true
+  - title: "At final debate, Biden shows Trump what it means to be a politician"
+    excerpt: "In the final two weeks before Election Day, President Donald Trump is placing an awfully big bet on the premise that casting his opponent as an insider has the same value it did four years ago. He repeatedly hurled the \"politician\" charge at Democratic nominee Joe Biden in their final debate Thursday night."
+    publishedDateTime: 2020-10-23T13:21:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/final-debate-biden-shows-trump-what-it-means-be-politician-n1244498"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244498"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244498"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202010/nbc_mash_debate_201022.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump and Biden clash in final debate over federal Covid-19 response"
     excerpt: "With less than two weeks until Election Day, debated federal response to the pandemic in the final scheduled major event of the 2020 campaign."
     publishedDateTime: 2020-10-23T01:42:00Z

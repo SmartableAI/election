@@ -175,6 +175,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden pitches 'BidenCare' as he spars with Trump on health care at debate"
+    excerpt: "President Trump and 2020 Democratic nominee Joe Biden went head-to-head on health care during Thursday's debate, with Biden promoting an updated version of ObamaCare called BidenCare."
+    publishedDateTime: 2020-10-23T12:12:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwLqZb5i7p8/bidencare-trump-biden-health-care"
+    ampWebUrl: "https://www.foxnews.com/politics/bidencare-trump-biden-health-care.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidencare-trump-biden-health-care.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/1a6eaf29-THUMB-trumps-425A.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Twitter employees openly rip Trump, praise Biden: 'Trump must be defeated'"
     excerpt: "Twitter’s senior executives have a long history of anti-Trump hatred, a review of dozens of accounts of top employees found."
     publishedDateTime: 2020-10-18T02:33:14Z

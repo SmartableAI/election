@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 1463
+heat: 1483
 published: true
 
 provider:
@@ -974,6 +974,15 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) responds to reporters' questions about President Trump’s criticism of Hunter Biden and whether she and Joe Biden think they need to win North Carolina on election day to secure the White House."
     publishedDateTime: 2020-10-21T18:26:00Z
     webUrl: "https://www.c-span.org/video/?477189-1/senator-harris-democrats-win-north-carolina"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Atlanta"
+    excerpt: "Senator Kamala Harris (D-CA) campaigns at an early voting mobilization event in Atlanta. 2020 vice presidential candidate Senator Kamala Harris (D-CA) delivered remarks at an early voter mobilization event"
+    publishedDateTime: 2020-10-23T12:49:00Z
+    webUrl: "https://www.c-span.org/video/?477306-1/senator-kamala-harris-campaigns-atlanta"
     type: article
     provider:
       name: C-SPAN

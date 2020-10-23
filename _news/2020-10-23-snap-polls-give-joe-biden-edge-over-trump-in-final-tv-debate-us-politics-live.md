@@ -2,13 +2,13 @@
 category: news
 title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
 excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
-publishedDateTime: 2020-10-23T11:36:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92b2c88f08c62805b132e2"
-webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92b2c88f08c62805b132e2"
+publishedDateTime: 2020-10-23T13:22:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92c4e68f086b2e58c8d983"
+webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92c4e68f086b2e58c8d983"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
 type: article
-quality: 116
+quality: 136
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
+    width: 600
+    height: 360
+    isCached: true
 
 related:
   - title: "Immigration Makes It Into Election Debate For First Time —Here Is Where Trump And Biden Stand"
@@ -1252,6 +1258,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "0L/NsPp/PEcHFG9U1B93rH2/oBIcaOGIUANNAXlO7nOisppyafOpofL30U4GtqPzDOtwFyPBJkNdoawS3POKDrqikGS1BUq0/P48RouWXYTvjihIEaC+yUJl1xvEXAGsU5EZGDB5A76fFq2Jl3+fCpzoemsktiXSgwE2TzWb5/HlHH3EwWbbsLR0WTjY7SycG9kSu9Ww/ccv70t0dbc5f69RjduBldUALEbcYE2VAZRfeaU4yooAnB4xj9e19Poj7C8y/7y7jTLOppSrTk3jQdE16BmTfPkemzK+NaTpR2EBXt2vS3jIJSo+XM/lD6jWWzFNDe5yInK44E8ytDbWYtLoARwrKWDiN47tCFr7gTOj//WIRhBOEW1z4x1Z14CBmrUhlbeQxhPAuu8ZUQw+56qWjvuliLdaS5TnT0QLi3/bvHEGWF/ST+qc7eXQiiGzib/UBX0g1/dGvGakk2JX1BQc9fiYKmLRqh0T6FceCfMQpRx3Tmq0kO6zjDt15QyOXEW8viZcNC7Sn0vYMVXN9g==;IN6UOcrfCiZyb86o+fsG/g=="
+secured: "yPXvBsr+qRa0luHy9SYqWnvUE3cR1dhQnS3UhI9BxhOQGsOp+7aDOifJPCP8l/JCIFs2ffEK2llL7t3460lkFAZjJ8rA3Dg4KR7Y0nBYOGAtyZpjY4h52Wb0zoeVc0iVuhdC27k6yDzEHRO05WOVkr01XQAjq/q3/eTyRhvwQT9lbiXVlo+fIfYOKWzqOcpTh9ogHffaNLRZdpHgcgWe+upbsqByguOxa5FCKJXM4oMtBI2g+aelJr/TDwsjHSV2BuXDjIuxysUYo/T9R0kEi/aIGboP0LEuuOAlg/RgXR+crYU3LptBt4r/8nDSMGdzO8rVpvxgr/G32O97VZOZDLlRS11JSTIq/879C7+L+xg=;AnyrWlrFQDJgkKufok98yw=="
 ---
 

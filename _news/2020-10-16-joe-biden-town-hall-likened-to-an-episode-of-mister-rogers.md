@@ -300,6 +300,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden says he and Obama 'made a mistake' on immigration policy"
+    excerpt: "Democratic presidential nominee Joe Biden said he and former President Barack Obama \"made a mistake\" by failing to achieve comprehensive immigration reform during their eight years in office. "
+    publishedDateTime: 2020-10-23T12:54:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FQPiqCfOHQ0/biden-calls-his-and-obamas-immigration-policy-a-mistake-during-presidential-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-calls-his-and-obamas-immigration-policy-a-mistake-during-presidential-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-calls-his-and-obamas-immigration-policy-a-mistake-during-presidential-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b47ea41b-82aa-4802-bc90-d22a3e9cf8cf/32778a69-9684-4068-8821-fc6227b6442b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "AOC, House progressives call for ban on corporate executives in a Biden cabinet"
     excerpt: "House progressives and liberal groups Friday called for corporate lobbyists and executives to be shut out from a Biden Administration, drawing a clear line on what they expect if Democrats win the election."
     publishedDateTime: 2020-10-16T16:59:20Z

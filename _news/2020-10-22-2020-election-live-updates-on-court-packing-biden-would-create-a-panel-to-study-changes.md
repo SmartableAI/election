@@ -209,6 +209,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden falsely claims he never opposed fracking  "
+    excerpt: "Former Vice President Joe Biden claimed that he \"never said I oppose fracking\" when pressed by President Donald Trump on the issue during Thursday night's presidential debate.\n    \n"
+    publishedDateTime: 2020-10-23T12:57:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UTOR1EfET3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-fracking-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-fracking-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022212519-32-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden campaign to remove retired general's image from ad after he objects "
     excerpt: "Joe Biden's presidential campaign will remove the image of a retired Army general from an ad after the general objected to his inclusion.\n    \n"
     publishedDateTime: 2020-10-19T20:02:16Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-vote-indiana-early-voting-beg
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-vote-indiana-early-voting-begins.amp"
 type: article
 quality: 185
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Vice President Mike Pence cast his early vote in Indiana"
+    excerpt: "Friday morning. Pence was accompanied by second lady Karen Pence at the City-County Building in downtown Indianapolis, where they voted just after 8:15 a.m., WTHR reported. The couple dropped off their absentee ballots,"
+    publishedDateTime: 2020-10-23T13:29:00Z
+    webUrl: "https://nypost.com/2020/10/23/vice-president-mike-pence-cast-his-early-vote-in-indiana/"
+    ampWebUrl: "https://nypost.com/2020/10/23/vice-president-mike-pence-cast-his-early-vote-in-indiana/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/10/23/vice-president-mike-pence-cast-his-early-vote-in-indiana/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/10/201023-pence-voting.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "B8XFk3TI7FYwaqkXkDdVe2lGWbOp8bm5h3dlQ1rYSE51YwpdonFCYbxKtT6qeb+THTKrSwn3uVMQP/zlZt1LUUh9i4h1OoKSef2vpZ8Qf15k90FCBlQ5NdTwzAG27tCIXPYg+fgMspINYGSXeFmM33BkK1l7ZJBqa+UYFnadQWvtymCeZ5o/S4314VX9RfrteSYjcccRjMSLfqa/tUt65Tt0kN9UlV0aC7jwkKQWnboajAC5jMoC/pRU4P+FUNqB0egymOG6yblPb+mux3r7C77q4033NBsKfDXfdN39Ijre5XaUYGESorNWBP9Ry5RL81HYKaztch7evG439VzYemCvtrOrO+uJ4M4kfs/yJnQ=;jrAYPrGUaFq9jo+Jy5Njxg=="
 ---

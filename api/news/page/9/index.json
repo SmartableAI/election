@@ -2,6 +2,119 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-15-fact-checking-the-dangerous-bin-laden-conspiracy-theory-that-trump-touted.md",
+      "title": "Fact-checking the dangerous bin Laden conspiracy theory that Trump touted",
+      "excerpt": "President Donald Trump is no stranger to conspiracy theories. Before Trump was even elected, he spent years pushing birther lies about President Barack Obama, the first Black president of the United States.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/x28x7rqW1Mg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015070220-02-donald-trump-iowa-1014-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html",
+      "publishedDateTime": "2020-10-15T12:28:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-ted-cruz-slams-twitter-ceo-jack-dorsey-behaving-as-joe-bidens-press-secretary.md",
+      "title": "Ted Cruz slams Twitter CEO: Jack Dorsey 'behaving as Joe Biden's press secretary'",
+      "excerpt": "Twitter CEO Jack Dorsey will be subpoenaed by Senate Republicans next week and questioned on why the social media company blocked two New York Post articles alleging Hunter Biden corruption while his fahter was vice president,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/twitter-biden-story-censor-facebook-senate-ted-cruz-subpoena",
+      "originalUrl": "https://www.foxnews.com/politics/twitter-biden-story-censor-facebook-senate-ted-cruz-subpoena",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/08fa9e71-dd05-4ee0-acda-760c3c30f015/b34245b7-75f9-42ae-8144-3378e6d40cda/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/twitter-biden-story-censor-facebook-senate-ted-cruz-subpoena.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/twitter-biden-story-censor-facebook-senate-ted-cruz-subpoena.amp",
+      "publishedDateTime": "2020-10-15T11:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-biden-campaign-ramping-up-outreach-to-arizona-latinos.md",
       "title": "Biden campaign ramping up outreach to Arizona Latinos",
       "excerpt": "2020 Democratic presidential nominee Joe Biden's campaign urged Latino supporters to cast their ballots early on Wednesday.",
@@ -1195,115 +1308,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit.md",
-      "title": "‘Socialist Nightmare’: Trump Casts Democratic Plans As Apocalyptic Amid Polling Deficit",
-      "excerpt": "In a speech to a consortium of economic clubs, the president warned of a ‘catastrophe of unimaginable proportions’ under Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/",
-      "originalUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87300c45fb6fbb5e859664%2F0x0.jpg%3FcropX1%3D127%26cropX2%3D4299%26cropY1%3D192%26cropY2%3D2538",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewsolender/2020/10/14/socialist-nightmare-trump-casts-democratic-plans-as-apocalyptic-amid-polling-deficit/amp/",
-      "publishedDateTime": "2020-10-14T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.md",
-      "title": "Turley: Court-packing would be a 'blunder of the first order' by Biden",
-      "excerpt": "The Democrats, as usual, looking small and petty in comparison, but with just 22 days until you're the ultimate jury and the election takes place, let's turn back to the campaign trail where Joe Biden has finally mustered up the courage to leave his basement bunker for a few hours.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
-      "originalUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/826bf8c5-7513-4888-b950-2911d89eb94e/d73bb5e3-e212-48a4-980d-7dbc454e86bd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/turley-court-packing-would-be-a-blunder-of-the-first-order-by-biden.amp",
-      "publishedDateTime": "2020-10-14T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

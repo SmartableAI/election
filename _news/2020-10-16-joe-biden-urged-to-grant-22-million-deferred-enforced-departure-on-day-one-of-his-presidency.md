@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urg
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chantaldasilva/2020/10/16/joe-biden-urged-to-grant-22-million-deferred-enforced-departure-on-day-one-of-his-presidency/amp/"
 type: article
 quality: 113
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Biden proposes panel to study reforming 'out of whack' U.S. judiciary"
-    excerpt: "Democratic U.S. presidential nominee Joe Biden said that if elected he would put together a bipartisan commission of scholars to examine reforming a federal judiciary he called \"out of whack,\" noting that there are alternatives to consider besides expanding the Supreme"
-    publishedDateTime: 2020-10-22T14:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-biden-court-idUSKBN277238"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN277238"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN277238"
+  - title: "Tyler Perry, Jennifer Lopez & More Stars Endorse Joe Biden For President"
+    excerpt: "Joe Biden and Kamala Harris have gained endorsements from plenty of powerful celebrities, like Tyler Perry, Jennifer Lopez and Taylor Swift. Here’s who else is voting for them on November 3."
+    publishedDateTime: 2020-10-21T21:19:00Z
+    webUrl: "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/"
+    ampWebUrl: "https://hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/"
+    cdnAmpWebUrl: "https://hollywoodlife-com.cdn.ampproject.org/c/s/hollywoodlife.com/feature/joe-biden-celebrity-endorsements-president-4224471/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Hollywood Life
+      domain: hollywoodlife.com
+    quality: 74
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201022&t=2&i=1538470114&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9L175"
-        width: 817
-        height: 545
+      - url: "https://pmchollywoodlife.files.wordpress.com/2020/10/joe-biden-celebs-endorse-vote-ftr.jpg"
+        width: 620
+        height: 349
         isCached: true
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "UJMlLY1zKzPc/Me2evO5hRs5ymEQzxxKJkBsp2w6TMAJFluDVbL9hR21WagoUNdzNwREiK+ZE9anbmlat2NMTjXXCoizF9BBKGB5wRreRNU5kyZUysPzYF9JuslFV2pWOJ8o7gYmCJLcM1xxK8HTkaJXDhVhWmldj0s+akGf7ZPhHgFZ+agzbbDl0/ufDPyNnfEcX1j6HI7J6nd9G6jM0JICxd1/pRYiR432G20rm4fDpvihuu2HbraOKV9XmyWF4EFwrrmPdO+B7eglcpW37otPec6CzlwzHu1bduvlDds8d0tvUkCocEooSP4XNbRSHcdXozIKgfEAY46DAwz0ys6MFkZtn/7JNduIzEQbKtw=;usOmBcGpj3/qP9EL7BJoeg=="
 ---

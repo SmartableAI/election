@@ -287,6 +287,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
+    excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
+    publishedDateTime: 2020-10-23T13:22:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92c4e68f086b2e58c8d983"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 136
+    images:
+      - url: "https://i.guim.co.uk/img/media/e168c91b2013bd6b210aea3b6d06321cebd33388/0_56_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b9e0f3db31c62f7d03657b8f843bed68"
+        width: 600
+        height: 360
+        isCached: true
   - title: "What and where to watch as Trump and Biden meet in Ohio for tonight’s first debate"
     excerpt: "Here's what to watch for (and how to watch) when President Donald Trump and Joe Biden meet in their first debate Tuesday."
     publishedDateTime: 2020-09-29T14:54:00Z
@@ -711,17 +727,6 @@ related:
         width: 810
         height: 540
         isCached: true
-  - title: "Snap polls give Joe Biden edge over Trump in final TV debate – US politics live"
-    excerpt: "Biden accused Trump of pouring fuel ‘on every single racist fire’ as pair clashed over coronavirus, Obamacare and fossil fuels"
-    publishedDateTime: 2020-10-23T11:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates?page=with:block-5f92b2c88f08c62805b132e2"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2020/oct/23/donald-trump-joe-biden-tv-debate-reaction-us-election-coronavirus-covid-19-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 116
   - title: "Trump's campaign is despondent as he keeps reusing strategies which worked against Hillary Clinton but aren't landing on Joe Biden, reports say"
     excerpt: "The New York Times and The Associated Press reported that Trump's team worry that he has failed to adapt his strategy to his opponent."
     publishedDateTime: 2020-10-19T10:40:00Z
@@ -1253,6 +1258,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "hOnWQez6xdWgf/nK277GcztenefXd1e18RSla9kfOANlhmZQ9hYlLZ8OnmAp5buYOHaB/lVr+/jZaYhdoTxdWl+wrkDcOGVgjOWtCFvwnYVw1v42FZKtT80K5MhJMCRFchle1VA8dadrH4fw1A/WDZzvQMkFGINSdANyTjUxGiJ4/PHlr8UNuxG1MJRm7G9JqrybKeuPygksCPUFSWqUTVHp/fhRxT/k8so/D7i/JDwG9wjqp/H0tnhmwWV203iPUGLL8aCgkxu1CMQGIgxx/bCr2bP/UQUsES7lsadOB2LEifwE8+BVlHhlms55N2oBVrieLIMVo/o2VpuBlNwkGe9GMxvt2oeCi5kJg1z3X9E=;03hILIqaZoVB76garqbICQ=="
+secured: "ou0TRcGSFKRr782pQHbIVCy0AFH/hljSd47/fnB1iULYN/NYIHCxzl7uaigmDmAHYCDBJ4IApqmBv/kE7CUJHzMSjQ08gOFBQ7EvuK0ZTnkO5LzS9X6NHkrw4Ba0n6TQJ/D6mgxT+eUaSIpoi7jhnVMSaJJ/gjyOhvCeocIEtsBl91jOo0d09LSeACWfxN5MUWp/5aN2wnyF9G8Ed4zEnwVd05uCnANXgYWfYOcif4ooM6BANbq/zyu21U4PUoRc2yAiIJrcomIz+hL1MnO+WOsHSYQJpuZwkWNErEGfBA5ByKsRYti9Uku8WzUsY5UZj1mSIt50FUA+qSfAQDv0bcbS8gigiqwrKBZ69n46z+o+uTJPnU6ws7wzRAqZd2mwg5Z8pzik8OvMBQb1Ba9kq63bE13uW9xz4eD/ClHMQcm9gjx9AAQZFMEPq8NSqWjiUv8FzQ8LnsQ9V1U6qfxG4Q5iuRyEioyoyvqRxLMiem0VL6k/UUwe34onsDu1E1eegvnBOKfPV0mAnICzBXQDCw==;ql4eQ2XrWba/boOOUJ0lhQ=="
 ---
 

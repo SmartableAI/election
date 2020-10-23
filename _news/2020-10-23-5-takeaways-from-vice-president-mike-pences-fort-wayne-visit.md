@@ -2,19 +2,19 @@
 category: news
 title: "5 takeaways from Vice President Mike Pence's Fort Wayne visit"
 excerpt: "On the night of the second presidential debate, Vice President Mike Pence stumped for President Donald Trump in Fort Wayne."
-publishedDateTime: 2020-10-23T02:43:00Z
-originalUrl: "https://www.thestarpress.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
-webUrl: "https://www.thestarpress.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
-ampWebUrl: "https://amp.thestarpress.com/amp/3731210001"
-cdnAmpWebUrl: "https://amp-thestarpress-com.cdn.ampproject.org/c/s/amp.thestarpress.com/amp/3731210001"
+publishedDateTime: 2020-10-23T12:21:00Z
+originalUrl: "https://www.jconline.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+webUrl: "https://www.jconline.com/story/news/politics/2020/10/22/mike-pence-fort-wayne-visit-5-takeaways-his-campaign-speech/3731210001/"
+ampWebUrl: "https://amp.jconline.com/amp/3731210001"
+cdnAmpWebUrl: "https://amp-jconline-com.cdn.ampproject.org/c/s/amp.jconline.com/amp/3731210001"
 type: article
 quality: 75
 heat: -1
 published: false
 
 provider:
-  name: The Star Press
-  domain: thestarpress.com
+  name: Journal & Courier
+  domain: jconline.com
 
 topics:
   - Election
@@ -375,15 +375,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
-    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
-    publishedDateTime: 2020-10-12T23:00:00Z
-    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Vice President Pence Campaigns in Maine"
     excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
     publishedDateTime: 2020-10-19T13:34:00Z
@@ -394,6 +385,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "9+BqataD/eVEhEnKCEls7+yb73MPfeeHXs5WvJXT3sCx7GIEHh4O/qDzXySa8yIIXwlgVETbq3+UmWhSMGySWmcZnqiWIWzE84kX0c23cA6m/nu2X5kQhom4fy4fpNE9HHanQ+zdH98q1RtJrBijjUzEPHVYUZoi1O+37XyDjCEMAOo/SFf7gR4v4p52HBgudwmf6ScecxILcybeYx9g4JYI0BOaPLVMqOttAjvJZwgqDWmmJxRHJAgs010o0l2odjEdBo9bSvRk+VaCIj2ihlrfkuY6X64Fi9KoO14GiLgMeaMZrDscKET1utOy1Pqkmd2Fj7zoyloyJo84jxMu8PS/X9tuUeFZy3gYkgjMSCeAOE1gImEeMGfKWwFEKm6GbUWXy0sYp5vQ9HhF4tQ31pWpc/U0BgPCsYybKO3HtvXzwgx0xcI0P77f7k+tD7zLAL1dqq7LFzkq3pOUByIig528azHcrIT39lB6x//J7bxD2Haa+ZDihF5WpPyQoDfDb23S61RvyztnKRDjKsxQmg==;oq6EIujMJt/iAX3VfGTcBw=="
+secured: "/6OUan901Yl1AibcEqALfmQKDtIZ97dMm3pI2slCpW1wJfOSfrUfKlMQA2kF4eqQnSPhHVrBaQXlD1RYtecA3byLycYtZ28O/JVgakMYV55nrHZV5liT6xQKXMgGFX/1Jwaj9rgz3ub5DjpM87tvEWZhoimV7IZC0J+PxESOuMYmYiok1589V4JyIr8eDltS9jmS7we9vrDKQTX29G8H71FiAa2XfJCBL1cPt19tRSvrhKn8i+vRvvqxSVZ7/ZKn/kisb6ZUNIN8if/M3OynjnCm17/7vhxVRmtnfvYPevGOYUolS067NkE5VzIv4E41mnCfnAKVCAw6UeiDRYfhqJJ33EPmvmULfdlOfx7aGZY=;nvEAYd00H7sEfJ3Y/aIBPA=="
 ---
 

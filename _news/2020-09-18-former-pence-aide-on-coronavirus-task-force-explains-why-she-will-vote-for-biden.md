@@ -845,6 +845,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump and Biden fight for Black male voters"
+    excerpt: "President Trump and Former Vice President Biden defended their records on race during Thursday night's debate."
+    publishedDateTime: 2020-10-23T13:07:00Z
+    webUrl: "https://www.cbsnews.com/news/election-2020-trump-biden-black-voters/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/election-2020-trump-biden-black-voters/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/election-2020-trump-biden-black-voters/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/10/23/75f1ca5b-a1dd-4a9e-afb6-8b5230c19beb/thumbnail/1200x630/0cb7d69474f1d8e6e784e4326c872882/cbsn-fusion-some-black-male-voters-say-they-feel-disenfranchised-by-both-political-parties-thumbnail-573003-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump-Biden clash over climate change adds to cloud over oil stocks"
     excerpt: "U.S. Democratic presidential challenger Joe Biden's clean energy plans put the spotlight on oil companies and stocks during Thursday's final debate with President Donald Trump, even though crude oil futures fell very marginally after the statements."
     publishedDateTime: 2020-10-23T10:13:00Z
@@ -2212,6 +2228,20 @@ related:
     quality: 120
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538543577&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG9M05P"
+        width: 810
+        height: 534
+        isCached: true
+  - title: "Trump and Biden face off in final presidential debate"
+    excerpt: "Democratic presidential nominee Joe Biden and U.S. President Donald Trump arrive to participate in their second 2020 presidential campaign debate at Belmont University in Nashville, Tennessee, O"
+    publishedDateTime: 2020-10-23T12:25:00Z
+    webUrl: "https://www.reuters.com/news/picture/key-moments-in-trump-and-bidens-final-pr-idUSRTX84BA3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538555141&w=&fh=545&fw=810&ll=&pl=&sq=&r=2020-10-23T044407Z_37146_MRPRC22OJ93ZBZQ_RTRMADP_0_USA-ELECTION-DEBATE"
         width: 810
         height: 534
         isCached: true

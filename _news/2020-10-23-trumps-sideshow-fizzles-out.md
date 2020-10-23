@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Potential courtroom showdown in Trump defamation case fizzles"
+    excerpt: "A lawyer for the Justice Department, which is seeking to intervene in the suit brought by E. Jean Carroll, couldn’t enter the New York courthouse because of Covid restrictions."
+    publishedDateTime: 2020-10-23T13:36:00Z
+    webUrl: "https://www.politico.com/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/21/trump-defamation-case-showdown-fizzles-430954"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/f6/03/8d472d7649c7a1624b507015167b/gettyimages-1281524978-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "That’s the Last We Need to Hear From Trump"
     excerpt: "It’s funny that everybody talks about Joe Biden as the old jalopy in this race, because on Thursday night in Nashville, it was Donald Trump who seemed to be running on fumes. I don’t mean physically: He had his full repertoire of facial expressions (cocky,"
     publishedDateTime: 2020-10-23T09:04:00Z
@@ -127,6 +143,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/23/opinion/23bruni1/23bruni1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump's immersion in a far-right bubble does him no favors"
+    excerpt: "It was the first presidential debate I've ever seen in which I thought the audience would benefit from some kind of decoder ring."
+    publishedDateTime: 2020-10-23T13:08:00Z
+    webUrl: "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-immersion-far-right-bubble-does-him-no-favors-ncna1244499"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244499"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244499"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3422322/201022-donald-trump-ew-1034p_ee5f4bdb1def6612393a5d369ea1b369.jpg"
+        width: 1494
+        height: 1494
         isCached: true
   - title: "Trump campaign's 2020 shot-for-shot remake of 2016 is flopping hard"
     excerpt: "Trump's attempts to manufacture the wild moments that led to his victory four years ago are keeping the sequel from catching on with audiences."

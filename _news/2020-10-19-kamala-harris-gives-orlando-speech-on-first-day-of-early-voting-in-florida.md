@@ -982,6 +982,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Atlanta"
+    excerpt: "Senator Kamala Harris (D-CA) campaigns at an early voting mobilization event in Atlanta. 2020 vice presidential candidate Senator Kamala Harris (D-CA) delivered remarks at an early voter mobilization event"
+    publishedDateTime: 2020-10-23T12:49:00Z
+    webUrl: "https://www.c-span.org/video/?477306-1/senator-kamala-harris-campaigns-atlanta"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "EyWxVX0hH396M8ghgjkFkdc6QDXQtBtOKL8GfoqVDVBBBplZVAPrTnGdkrB+tKW9kKSi0DkBc1T06HGV4OM6qlH9GAzo5gfTJjE/SdJGnDyw+9rj9FnVcVtPFmjdwSiQmllTZ0jvpnBIA7VhpWgbg7DUPY4nw/nw+mHyBW3Lz/s+8opZRtzgBla5Lvqw0sjvPy4sm19RhDYJwKfey4hxVbVV9e+VT5lD/LMo7xvFIxqJX1hAJNrKTAercQgMLuqrtWlqM+uST/tTuWdEXTMIE6EQZYE2jWJwka3n7agHOCvRTLKzt9Hj5KNsmiwx5sERzvnuHUDPf8C1nU+fX1iIoz5unNWV3Erw0VDe7iQolKEm5Hnh/iRhxCaFacdxOBKR/X4E9VVf950THagXlJHe8YV4usjILWPvNLCI5NdP2kxrXYVbSWSuMKpllhVpbeBqljPoD3p6mnrC5342Glu/mfRreXTni5MBRFZZyA6y4occ+T3/j4KtVHxCbN+heZ07NckExxcW7m2CT329u7oupw==;60a4bxn0PPUrSwVWAFIR1g=="
 ---
