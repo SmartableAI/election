@@ -319,6 +319,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump Announces That Sudan Will Israel Normalize Relations"
+    excerpt: "President Donald Trump announced Friday that Sudan had agreed to establish diplomatic ties with Israel, making it the third Arab state to do so under the Trump Administration-brokered peace deals, known as the “Abraham Accords."
+    publishedDateTime: 2020-10-23T21:40:00Z
+    webUrl: "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/"
+    ampWebUrl: "https://www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielcassady/2020/10/23/trump-announces-that-sudan-will-israel-normalize-relations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 125
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f934ca4eb1b5edb9d90d708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4618%26cropY1%3D97%26cropY2%3D2694"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
     excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
     publishedDateTime: 2020-10-15T19:00:00Z
@@ -1080,6 +1096,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9Oj/wHY89Z7DLfHIw6+15cYbK1vfv4SCD5aYM1WrgSFUMI0murWNYv22AROEP5S51aYG2RyK3qwaAstAEhTzNkAfjYpnaLpn3kPLzzn7Xini67aRbsw9d4kF/p7PbqExTPzNsKlpdBoIiEDRmjxFU8+dE4XN65koLp4eoJF9laK2MBAY0Df/QPbFmO+MwfsJPAJjTQA2WzH1shat3NaJ9mlqaZyJFfyqAz5YAunVNNehuXQ3HI3bIQrPT1ByyW/w95pQ8p7lfSsTrFXOjSyfZE8liwoP+1I+XRbIUkf2aBebR3XvEBY0ViYavkCnv3yFM4+bDP5Nnlpd0neMc1W9xiG/rGYoRA9lh8O9py1J1o4=;2IryG/whyyI0x0XnClp5xA=="
+secured: "nhH5PACHCvZa8ZZSIuOZVaMxsyDgVndokX4ztZzZVZrnv/7PrsSV2lbvTANnDGq82fY5nSiEdnHrXHUez8vUjesDQWAyifoP6dSEmjw7QS5lKR4fixyzJXsCpbezUGEO2PDjZemgMCW9KrvYX2w3Mc7uReXQVAjPh7NQdGNfoaCjTasKHxffTK2hhva1btk1dshXOlRN0u0bKZRSCoOXIEZTaBOYIuwiBLuY3X49BVq9NQjMsj0L31jjbitxCJpxYXkdBkT8iKl+upQ+Z9U9gMf3mEFyCiqAYETAPB9xq7YYXduefwU9iQSapFDiWlEE/s1CVFpCzjLhTRiLgtPiP3ZU/hdxYlPbV7IQ0mjXuKYZaU4fec26bAJ8YJcxA7v4EnNGrhPvnTjh7fOS09XUy8RIYr3YZukUj2OJIeyUTlehFOHxt1cH+CcnL3rrvFW3Wk/P+11csye2Tl+6MfYCDK/4V9Nd/OHBBbF/4GeHtmcjwpMNw5NBDIzDyRKHPvlohaEjiUDTlGOZy/dPresgMg==;giOLGbrXY5eDMkIi0AAIPA=="
 ---
 

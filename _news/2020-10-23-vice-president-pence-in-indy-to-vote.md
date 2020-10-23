@@ -123,6 +123,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Hoosiers react to VP Mike Pence’s visit to Indy"
+    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
+    publishedDateTime: 2020-10-23T21:18:00Z
+    webUrl: "https://fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/"
+    ampWebUrl: "https://fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/amp/"
+    cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/politics/hoosiers-react-to-vp-mike-pences-visit-to-indy/amp/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 75
+    images:
+      - url: "https://fox59.com/wp-content/uploads/sites/21/2020/10/IMG_2048.jpg?w=1280"
+        width: 1280
+        height: 749
+        isCached: true
+  - title: "Vice President Mike Pence delivers absentee ballot in Indy"
+    excerpt: "Vice President Mike Pence is now one of more than 62,000 people in Marion County who have turned in their absentee ballot. The VP and Second Lady dropped theirs off in person at the"
+    publishedDateTime: 2020-10-23T21:18:00Z
+    webUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/"
+    ampWebUrl: "https://cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
+    cdnAmpWebUrl: "https://cbs4indy-com.cdn.ampproject.org/c/s/cbs4indy.com/news/vice-president-mike-pence-delivers-absentee-ballot-in-indy/amp/"
+    type: article
+    provider:
+      name: WTTV
+      domain: cbs4indy.com
+    quality: 75
+    images:
+      - url: "https://cbs4indy.com/wp-content/uploads/sites/22/2020/10/IMG_2047.jpg?w=1280"
+        width: 1280
+        height: 851
+        isCached: true
   - title: "Pence to campaign in Fort Wayne on Thursday and vote in Indianapolis on Friday"
     excerpt: "Vice President Mike Pence has rescheduled his trip to vote in Indianapolis to Friday. He also will campaign in Fort Wayne on Thursday."
     publishedDateTime: 2020-10-19T17:01:00Z
@@ -139,6 +171,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "WEB EXTRA: VP Mike Pence and Karen Pence Vote In 2020 Election"
+    excerpt: "Vice President Mike Pence and Second Lady Karen Pence voted in the 2020 general election in Indianapolis, IN on Friday. The Pences submitted their absentee ballots in person."
+    publishedDateTime: 2020-10-23T20:52:00Z
+    webUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/"
+    ampWebUrl: "https://miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
+    cdnAmpWebUrl: "https://miami-cbslocal-com.cdn.ampproject.org/c/s/miami.cbslocal.com/video/4815970-web-extra-vp-mike-pence-and-karen-pence-vote-in-2020-election/amp/"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 70
   - title: "Vice PResident Pence, Second Lady Vote Early in Home State of Indiana"
     excerpt: "INDIANAPOLIS — Vice President Mike Pence and Second Lady Karen Pence have voted early in their home state of Indiana. Just eleven days before the election, Pence and his wife cast their absentee ballots Friday morning in a drop-off box at the Marion ..."
     publishedDateTime: 2020-10-23T13:49:00Z

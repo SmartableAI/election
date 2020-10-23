@@ -1027,6 +1027,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
+    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
+    publishedDateTime: 2020-10-23T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Threatens To Leave U.S. If He Loses Election"
     excerpt: "Donald Trump would consider losing the election as an embarrassment. On November 3rd, Americans will be heading to the polls to vote for the next President of the United States. There are two viable options for President,"
     publishedDateTime: 2020-10-17T14:47:00Z
@@ -1363,6 +1379,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
+    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
+    publishedDateTime: 2020-10-23T20:22:00Z
+    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "mQrNmqj8r+OiIldOn8Iu3eN6ZOTVbespAaWmMQsa5xXFp09rH18R5T/sLtmq2wZGWTAomk5nAvhvNHqeLuiplFswnLaUq/ZdMrr7dEKaOX8B6JzEZJq3A/sHM8E6b53ZVB8JsUCWY4Z1CErJE7b6Y9HH5eTA++1cioozBo5QR9vCfQYUDB9vF6Ez75hA58RXdoyWPwFtP6YJTdEXZXLl3NXazTS3K3MNaw/sInllfWsmsfrPpIj4SQZfBTB0+xhGIsCi2YRqB9dQfhhXOTkvD3d+m8Sehvn5CBdCl1xBh5rpPmsMfF/VdKM6C5syFpT9PLDRxU9wfnh9d71z/3/FFLM0Z+RNSNzMANW+57aTYNlVifUyCInJyZZ/MpkQhlyu0k4WIECeBm3TPiGwCCJYW5LUP9BPVK8C32dGpwOqvOvdemA7Wj66ijRqLtATpkTOwkv/0joax7s8tPoqoGpbQnFaAOMbOtdMDgSGWnw5j7v7lkKie9NoHYwPuPLRfpvzuokgPfP1m5F7hf0geXY9TA==;M/KKhCS2aeaVMW0uuJYZLw=="
 ---

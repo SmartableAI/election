@@ -971,6 +971,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris’ cultural background will make her a player on the global stage"
+    excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
+    publishedDateTime: 2020-10-23T10:00:00Z
+    webUrl: "https://www.miamiherald.com/article246646338.html"
+    ampWebUrl: "https://amp.miamiherald.com/article246646338.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246646338.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 52
   - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
     excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
     publishedDateTime: 2020-10-14T20:00:00Z
@@ -1075,6 +1086,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Remarks in Atlanta, Georgia"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to a group of community leaders in Atlanta, Georgia."
+    publishedDateTime: 2020-10-23T20:38:00Z
+    webUrl: "https://www.c-span.org/event/?477330/"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
     excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
     publishedDateTime: 2020-10-19T16:53:00Z
@@ -1094,6 +1114,6 @@ related:
       domain: c-span.org
     quality: 32
 
-secured: "oqjb/1PPryV92AVhcQmkTLaLAWOEpcRXT9RkOSCXlDg39L9CdLwts20AX0xF5tTAWEGCXrfsvFQ0iVuyShDjiNxUt1vsIYMSwXHNJ6KSkeGja66WQxBTW0ikyjR+ncqn99iOH7Ep+6co0HNAG5tlwoKO3TnCDQrMf0mxqUe8op9tY+M0JmYtrx7hrjks6ZHUlp4VG0zxNxakykmcLq/93ePAHA86oCIxQxf3m5oKaeOu1BVsPcpQK17CShlGpmmSOnklNDCmK2Ydd8QtQubmatDmwccVj+e23aELWt1i1JJ6YMZvCSIeTWROUxXEkXT5O/J1eeyr55lDd2OB6kOvWsOymBfqkQsAYtfLAOmKuNc=;ujnJ/ihqcaZbaGBz1kjc4A=="
+secured: "Swpc1y7sLHEUgT/Ksl7uC8Bo2rDneBUKMlFfDNoFXJLXEg+/b0KQwpMWdaDM+39CjmFvAixpctbpEvkF/s/cys/YX5ilOSRiSwVzDGze8lzHM4kn7Pn71PfZYI1inPjpfT3G2LuWduc/nY0uCyJS8Z6mDGXkhoMOsEKqkKSEWGA7/T32vNxjDQfr4yv2gquKViajgVcT2bty4hHd1UnshJ9oEgDjirSV4h74beK7Fu4WdEyMLguSj/JqH3ReuME3uDLlQ0i73hlBaS5bz6duJZ1aAv9KTdLFIe9Q5LQHTIer0uc3JXJtvlqHDIR0v/qE8wLC8OgxQ487qnUDPEunNUyc30Z0qNfJ4VIAKLB/q6QaOTXnIn2QNSRyp/058CQK4lzYBxsLZ5UIMDVvtuiJRStoT5v7Dia+rr8Cd/9aIAP01pScCEAFGhcitDy76fYdGTht38+wK/yGHigSu7rmxPVg9qO9co/jXlxHeg3WJwwAccVvxngwFOSnAix1qTCuRLzDWX9V4c3p4PWeQ/Fgqw==;wNytq+EQqnGp2mRJ3BUIzQ=="
 ---
 

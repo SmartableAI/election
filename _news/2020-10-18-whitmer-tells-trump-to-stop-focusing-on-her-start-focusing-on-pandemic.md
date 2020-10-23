@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusin
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/whitmer-tells-trump-to-stop-focusing-on-her-start-focusing-on-pandemic.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86281d8f-e9c3-4a3d-a1f3-d473875c28de/cf4c9bbb-e36b-4d3a-bd8f-b30b2df15a91/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pollster Frank Luntz: If Trump defies polls again 'my profession is done'"
+    excerpt: "Republican pollster Frank Luntz told Fox News’ Bret Baier on Thursday night, that his \"profession is done\" if President Trump wins re-election come Nov. 3, and proves the national polls wrong yet again."
+    publishedDateTime: 2020-10-23T21:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCF-h7bsK_s/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
+    ampWebUrl: "https://www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/10/23/990505083001_6204035840001_6204035992001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

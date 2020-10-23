@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
-excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former Vice President Joe Biden and U.S. Senator Kamala Harris for the 2020 presidential election."
-publishedDateTime: 2020-10-22T20:47:00Z
-originalUrl: "https://www.chron.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
-webUrl: "https://www.chron.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
+excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former vice president Joe Biden and U.S. senator Kamala Harris for the 2020 presidential election."
+publishedDateTime: 2020-10-23T05:40:00Z
+originalUrl: "https://www.houstonchronicle.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
+webUrl: "https://www.houstonchronicle.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
 type: article
-quality: 79
+quality: 129
 heat: -1
 published: false
 
 provider:
   name: Houston Chronicle
-  domain: chron.com
+  domain: houstonchronicle.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -3139,6 +3143,6 @@ related:
       domain: miamiherald.com
     quality: 35
 
-secured: "+89ce7/cAT+iWuRjIN1q6f8jmB5maLE5pK1NfNza5Z/DMaqbO3WPvxWD3aL/nWmSUh3AGS+8mWG1eGJoDRsOMhw4o4eMVnY1upYiQlWMCP5+wdxmSmwAEBkNHAjziUDe7wTXNKsr+F1VYrPbzJIydl/NxJ6QI2GZAm9yjyX2t2QUbYDYlrMGpP/B4+w3QFaqYhZJqjb5f5w6a2Q1Vb35AykGDxuc58MG38F7KkrC9gIc/e++RqV//ubJcACy55ey/KMNRQtKiNwTleI97lLRC35OTlxGrYyLorW9fUVTYb6BJUMBjyZ2otXRihKLfXo9t/MXALycw89oj701fPN+o1038UjY+rbLgOabqkWqnBM=;85JImG+DlzSQnJgfL2+K1w=="
+secured: "CidC+U99fxnS0z6/ayaGnMg8YhX2Tup1XKtCcKDHytBM6FW2Kfq5EQt6UVfoC4YWMUHAjrPGZA8AeO6fTio8REIlxXsTG6SvmdxCuSKNxZaNI75tXIFABGvvHIz1J8bCsAPZyM5yauPqbpUP9stP3CANmVFWgUMXH3VU8yGlxvAaHWdjbICqFyHcfrbXBeIu1N+E5BGZlp/AGPedMu5KRIzeNmr+5rOrfdYHzKgx+qBdmt39fEV6MAqvpl/1UtxUtlDAC1tN3kB7Ka4TGGphAkQUmsvdWxhIWpP2fuhKWNC/4GUxLrQnqRAh/F1vuE305w4SFnk83hsTFwAaGZ6mEUXibX046XMeLNbBG+rm2xc=;RYcPm/95nIWdlFFWbne3NQ=="
 ---
 

@@ -979,6 +979,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris’ cultural background will make her a player on the global stage"
+    excerpt: "In fact, Harris could be key to building new strategic global relationships and alliances. (Disclosure: My wife and I are Harris’ longtime friends.) While Biden shores up NATO, reaffirms multilateral agreements and Zoom calls his close foreign-leader friends,"
+    publishedDateTime: 2020-10-23T10:00:00Z
+    webUrl: "https://www.miamiherald.com/article246646338.html"
+    ampWebUrl: "https://amp.miamiherald.com/article246646338.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/article246646338.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 52
   - title: "Kamala Harris Grilling Amy Coney Barrett On The Affordable Care Act Is Everything"
     excerpt: "Donald Trump's third Supreme Court nominee, Amy Coney Barrett, commences day three of her Senate confirmation hearings on Oct. 14, in the midst of one of the most contentious presidential elections of the decade."
     publishedDateTime: 2020-10-14T20:00:00Z
@@ -1069,6 +1080,15 @@ related:
     excerpt: "Senator Kamala Harris (D-CA) campaigns at an early voting mobilization event in Atlanta. 2020 vice presidential candidate Senator Kamala Harris (D-CA) delivered remarks at an early voter mobilization event"
     publishedDateTime: 2020-10-23T12:49:00Z
     webUrl: "https://www.c-span.org/video/?477306-1/senator-kamala-harris-campaigns-atlanta"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Remarks in Atlanta, Georgia"
+    excerpt: "Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to a group of community leaders in Atlanta, Georgia."
+    publishedDateTime: 2020-10-23T20:38:00Z
+    webUrl: "https://www.c-span.org/event/?477330/"
     type: article
     provider:
       name: C-SPAN

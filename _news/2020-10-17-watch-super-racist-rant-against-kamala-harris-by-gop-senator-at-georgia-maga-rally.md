@@ -109,6 +109,22 @@ related:
         width: 1300
         height: 794
         isCached: true
+  - title: "Kamala Harris' Dancing In Rain Video Goes Viral; Netizens Applaud Her Moves"
+    excerpt: "Social media users were in awe of the Democratic vice-presidential nominee Kamala Harris after a video of her dancing in the rain went viral on the internet."
+    publishedDateTime: 2020-10-23T03:43:00Z
+    webUrl: "https://ibtimes.com/kamala-harris-dancing-rain-video-goes-viral-netizens-applaud-her-moves-3067616"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-dancing-rain-video-goes-viral-netizens-applaud-her-moves-3067616?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-dancing-rain-video-goes-viral-netizens-applaud-her-moves-3067616?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/kamala-harris.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Georgia GOP Sen. Perdue faces criticism after purposefully mispronouncing Kamala Harris' name"
     excerpt: "John Burke, communications director for Perdue’s campaign, insisted the senator \"simply mispronounced\" her name \"didn't mean anything by it.\""
     publishedDateTime: 2020-10-17T02:47:00Z
@@ -187,6 +203,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Senator Kamala Harris Remarks to HBCU Student Leaders at Spelman College in Atlanta, Georgia"
+    excerpt: "T14:32:19-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta, Georgia. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta,"
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.c-span.org/video/?477326-1/senator-kamala-harris-remarks-hbcu-student-leaders-spelman-college-atlanta-georgia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 24
 
 secured: "EwByrrZI0kjpJPvVSM6+/U4bQoCd1Tw3E4z9gymdN/++h8iBm0YV/PQKI/HDFdOe5gS8Pfeg54/0b1UKmxTJ0OTfWL3GNPZkljuU5R8loyO/duhmXQ0OL6NLJ+F9H6sxHMqFNBURsU8zVlZ0HOlLlfWTddhFcVseFZdS8+ah2D20N8uiSkW8jppPP5YHBMEOLUBPC6agNQ/s/RjQA27zvTLCM5p8W9K+fcwOX+Fw+26kXVtGJydXYoJE81HpIBclHMuWLgMuOOfVwuW8i+gslWxdZ94w0+/oxQr1rIGUZR7uFoSaDgz7I1khcbIMPbcpOcjUMDAmW3yYghKPqFi+O4/TOgA2HJVyvbEeohRUiQA=;gZ9+Sck0ziEiSHsLpe4FjA=="
 ---

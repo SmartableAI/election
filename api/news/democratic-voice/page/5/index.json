@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-09-29-trump-administration-warns-iraq-it-plans-to-shut-us-embassy-in-baghdad-after-rocket-attacks.md",
+      "title": "Trump administration warns Iraq it plans to shut U.S. Embassy in Baghdad after rocket attacks",
+      "excerpt": "In an interview with NBC News, a top U.S. general recently praised the work of Iraqi security forces protecting American interests in Iraq.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
+      "originalUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3415403/200928-embassy-iraq-mc-913_e987c429836f08e91000280c86a42f76.JPG",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241226",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241226",
+      "publishedDateTime": "2020-09-29T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-09-28-trump-announces-plan-to-deploy-150-million-covid-rapid-tests-previously-touted.md",
       "title": "Trump announces plan to deploy 150 million Covid rapid tests previously touted",
       "excerpt": "President Donald Trump formally announced a plan on Monday to disperse the 150 million rapid coronavirus tests first promoted by the White House in August.\n    \n",
@@ -1612,62 +1669,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/joe-biden-cindy-mccain-endorse/index.html",
       "publishedDateTime": "2020-09-22T17:32:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-trumps-ex-russia-adviser-fiona-hill-us-increasingly-seen-as-object-of-pity.md",
-      "title": "Trump's ex-Russia adviser Fiona Hill: US increasingly seen as 'object of pity'",
-      "excerpt": "President Donald Trump's former top Russia adviser said Tuesday that the United States is increasingly seen as \"an object of pity\" and its standing on the world stage is eroding.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WVsX2ejtE44/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200922133737-fiona-hill-citizen-9-22-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-of-us/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/09/22/politics/fiona-hill-foreign-view-of-us/index.html",
-      "publishedDateTime": "2020-09-22T12:02:50-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

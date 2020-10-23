@@ -65,6 +65,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump, Biden banking on job recovery plans to win election bid"
+    excerpt: "As the United States hits the home stretch toward Election Day, the biggest hot-button issue among voters is jobs and the economy. Both President Trump and former Vice President Joe Biden have put their recovery plans at the forefront of their respective campaigns. Both candidates say that they know"
+    publishedDateTime: 2020-10-23T21:40:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/c_XN5DeSKhI/trump-biden-bank-on-job-recovery-plan-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 205
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/perry_chiaramonte_aem-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Live updates: Trump, Biden to meet in final presidential debate before election"
     excerpt: "The new debate format follows the first presidential debate, which was marred by Trump speaking over Democratic nominee Joe Biden and insulting his intelligence while Biden told Trump to “shut up” and called him a “clown.”"
     publishedDateTime: 2020-10-22T07:37:22Z
@@ -2404,6 +2420,20 @@ related:
       name: Washington Examiner
       domain: washingtonexaminer.com
     quality: 79
+  - title: "Full Replay: Trump And Biden Go Head-To-Head In Final 2020 Presidential Debate"
+    excerpt: "President Donald Trump and his Democratic challenger, Joe Biden, meet Thursday night for the final presidential debate of the 2020 election. Thursday's debate, starting at 9 p.m. EDT, from Nashville,"
+    publishedDateTime: 2020-10-23T20:11:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2020/10/22/watch_live_trump_and_biden_go_head-to-head_in_final_2020_presidential_debate.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 76
+    images:
+      - url: "https://assets.realclear.com/images/52/524939.jpg"
+        width: 1476
+        height: 1106
+        isCached: true
   - title: "Biden: Coronavirus Was Too Big For Trump, Required \"Serious Presidential Leadership\""
     excerpt: "Democratic presidential nominee Joe Biden held a campaign event in Manitowoc, Wisconsin on Monday and called the coronavirus \"too big\" for President Donald Trump to have handled. \"Trump panicked, the virus was too big for him,"
     publishedDateTime: 2020-09-22T03:40:00Z

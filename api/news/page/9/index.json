@@ -2,6 +2,230 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-16-savannah-guthrie-grills-trump-at-nbcs-town-hall.md",
+      "title": "Savannah Guthrie grills Trump at NBC's town hall",
+      "excerpt": "Savannah Guthrie used her skills as a former litigator to interrogate President Trump during NBC's town hall.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8av37VQVra0/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201015222513-06-deuling-town-halls-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2020/10/16/trump-town-hall-nbc-guthrie-coronavirus-qanon-masks-orig.cnn-business",
+      "publishedDateTime": "2020-10-15T20:07:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-presses-nbc-anchor-to-ask-more-about-antifa-left-wing-violence.md",
+      "title": "Trump presses NBC anchor to ask more about Antifa, left-wing violence",
+      "excerpt": "President Trump and NBC anchor Savannah Guthrie had a testy exchange at Thursday's presidential town hall, with the former wondering she didn't ask him about left-wing actors like Antifa.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8fYBW1ZbqXI/trump-guthrie-nbc-antifa",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c32226e3-077e-4b0c-bece-647d2ac28283/d083186b-e89b-4dc9-8426-0900432df432/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-guthrie-nbc-antifa.amp",
+      "publishedDateTime": "2020-10-15T19:06:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-washington-post-white-house-was-warned-that-giuliani-was-being-used-by-russians-to-feed-misinformation-to-trump.md",
+      "title": "Washington Post: White House was warned that Giuliani was being used by Russians to 'feed misinformation' to Trump",
+      "excerpt": "The White House was warned in 2019 that President Donald Trump's personal attorney Rudy Giuliani was \"was being used to feed Russian misinformation\" to the President, The Washington Post reported Thursday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SIP9r0KvtkU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SIP9r0KvtkU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200911215635-rudy-giuliani-0701-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/15/politics/rudy-giuliani-russian-intelligence-misinformation-operation-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/rudy-giuliani-russian-intelligence-misinformation-operation-trump/index.html",
+      "publishedDateTime": "2020-10-15T18:48:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2020-10-16-trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.md",
+      "title": "Trump says if he and Pelosi agree on stimulus package, Senate GOP will get on board",
+      "excerpt": "President Trump said Thursday that he is “ready to sign” a fourth coronavirus stimulus package, and said that if he and House Speaker Nancy Pelosi are able to come to an agreement, he believes Senate Republicans will get on board.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVprY0SMOGk/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 269,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/06/340/340/bbd30841-brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-if-he-and-pelosi-agree-on-stimulus-package-senate-gop-will-get-on-board.amp",
+      "publishedDateTime": "2020-10-15T18:14:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-biden-said-its-absolutely-ok-to-raise-taxes-during-economic-downturn.md",
       "title": "Biden said it's 'absolutely' OK to raise taxes during economic downturn",
       "excerpt": "Former Vice President Joe Biden defended his plan to repeal President Trump's tax cuts on the wealthy and said it's \"absolutely\" appropriate to raise taxes during a struggling economy.",
@@ -536,7 +760,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 354,
+      "heat": 334,
       "tags": null,
       "images": [
         {
@@ -1111,226 +1335,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-melania-trump-said-she-chose-to-go-a-more-natural-route-relying-on-vitamins-and-healthy-food-to-treat-her-covid-19.md",
-      "title": "Melania Trump said she 'chose to go a more natural route,' relying on 'vitamins and healthy food' to treat her COVID-19",
-      "excerpt": "The First Lady didn't specify the supplements she used in her \"natural route\" to treat the coronavirus. Here's what we know about vitamins and COVID.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10",
-      "originalUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f7bc7b2282c500018c78bd1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/melanie-trump-used-vitamins-health-food-to-treat-coronavirus-2020-10?amp",
-      "publishedDateTime": "2020-10-14T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.md",
-      "title": "Biden once again shatters fundraising record with eyepopping $383 million haul last month",
-      "excerpt": "Joe Biden shattered the monthly record for fundraising during a presidential campaign when he hauled in a massive $364.5 million in August.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/9mVUIhIpzMk/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06b14781-f33c-443a-a085-173614e85293/ed765b78-069f-429b-8d8b-85fbc0065ecc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-once-again-shatters-fundraising-record-with-eyepopping-383-million-haul-last-month.amp",
-      "publishedDateTime": "2020-10-14T19:43:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-obama-trumps-lack-of-patience-and-focus-hold-back-his-foreign-policy.md",
-      "title": "Obama: Trump's lack of 'patience' and 'focus' hold back his foreign policy",
-      "excerpt": "Former President Barack Obama said Wednesday that President Donald Trump lacks the needed \"patience\" and \"focus\" to make substantial changes to American foreign policy, previewing a possible attack line as the former President prepares to return to the campaign trail for Democratic nominee Joe Biden.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sQOQPv3AN8U/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sQOQPv3AN8U/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201014210916-barack-obama-10142020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/obama-podcast-trump-foreign-policy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/obama-podcast-trump-foreign-policy/index.html",
-      "publishedDateTime": "2020-10-14T19:42:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-biden-announces-record-383-million-fundraising-haul-for-september.md",
-      "title": "Biden announces record $383 million fundraising haul for September",
-      "excerpt": "Democratic presidential nominee Joe Biden announced Wednesday evening that his campaign raised a record-breaking $383 million in September, its second straight historic monthly fundraising haul as the campaign nears Election Day.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w2IeKqn-ptE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201010202418-joe-biden-pennsylvania-1010-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/14/politics/biden-september-fundraising/index.html",
-      "publishedDateTime": "2020-10-14T19:30:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

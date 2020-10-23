@@ -71,6 +71,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pollster Frank Luntz: If Trump defies polls again 'my profession is done'"
+    excerpt: "Republican pollster Frank Luntz told Fox News’ Bret Baier on Thursday night, that his \"profession is done\" if President Trump wins re-election come Nov. 3, and proves the national polls wrong yet again."
+    publishedDateTime: 2020-10-23T21:02:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LCF-h7bsK_s/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done"
+    ampWebUrl: "https://www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pollster-frank-luntz-if-trump-defies-polls-again-in-2020-my-profession-is-done.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://secure.media.foxnews.com/BrightCove/990505083001/990505083001/2020/10/23/990505083001_6204035840001_6204035992001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Government sues Melania Trump’s former best friend over ‘scathing tell-all’"
     excerpt: "The Department of Justice has requested that all profits be directed to a ‘constructive trust.’"
     publishedDateTime: 2020-10-13T23:25:00Z

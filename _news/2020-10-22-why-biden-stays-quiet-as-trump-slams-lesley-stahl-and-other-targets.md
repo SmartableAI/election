@@ -174,6 +174,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden slams Trump on coronavirus, says president’s ‘quit on America’"
+    excerpt: "Joe Biden warned that coronavirus “isn’t showing any signs of slowing down” as the Democratic presidential nominee once again criticized President Trump’s handling of the federal response to the pandemic."
+    publishedDateTime: 2020-10-23T21:21:35Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tDSrgUOrKpc/biden-slams-trump-on-coronavirus-says-presidents-quit-on-america"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-slams-trump-on-coronavirus-says-presidents-quit-on-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-slams-trump-on-coronavirus-says-presidents-quit-on-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297716827486.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Lara Trump calls out Joe Biden's 'dismal' coronavirus warning at debate"
     excerpt: "The two presidential candidates gave contrasting messages about the coronavirus, Trump 2020 campaign adviser Lara Trump said on Friday."
     publishedDateTime: 2020-10-23T16:31:41Z
@@ -189,6 +205,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "McEnany: Trump hasn't asked DOJ to investigate Bidens"
+    excerpt: "President Trump has not asked Attorney General Bill Barr to open an investigation into the Bidens, according to White House press secretary Kayleigh McEnany."
+    publishedDateTime: 2020-10-23T20:19:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7ew6SdMq2O8/mcenany-trump-hasnt-asked-doj-investigate-bidens"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-trump-hasnt-asked-doj-investigate-bidens.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-trump-hasnt-asked-doj-investigate-bidens.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/08/mcenany.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump, Biden clash again over fracking, oil industry at final debate"
     excerpt: "President Trump and Democratic nominee Joe Biden clashed again Thursday night over energy policy and how reform would impact American workers."
@@ -885,6 +917,22 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e8e713b-d564-442f-9b6d-4661d7e3b86b/1f57816c-f95b-4731-be37-e5968981c4b8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden's claim Americans didn't lose private health insurance under ObamaCare debunked by fact-checkers"
+    excerpt: "Fact-checkers described Biden's debate remarks “a variation of a claim that earned President Barack Obama our Lie of the Year in 2013.”"
+    publishedDateTime: 2020-10-23T20:13:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5gk3AZqHl0I/biden-claim-americans-private-health-insurance-obamacare-debunked"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-claim-americans-private-health-insurance-obamacare-debunked.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-claim-americans-private-health-insurance-obamacare-debunked.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8b50c7bc-2ac4-4f67-94b4-3a3d18299dff/8c4ad6ca-3cd8-4995-aa6f-b7e444651c0e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

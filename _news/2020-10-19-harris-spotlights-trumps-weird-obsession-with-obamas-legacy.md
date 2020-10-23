@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/harris-trumps-weird-obsession-obama
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-trumps-weird-obsession-obama-legacy.amp"
 type: article
 quality: 200
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -285,6 +285,22 @@ related:
       - url: "https://images.wsj.net/im-244852/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "In Rust Belt states, data could make the difference for Trump"
+    excerpt: "With now just 11 days until the presidential election, incumbent Republican President Trump is increasingly focused on presenting his case to Rust Belt voters drifting towards Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-23T20:01:00Z
+    webUrl: "https://www.foxnews.com/politics/rust-belt-states-data-president-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/rust-belt-states-data-president-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rust-belt-states-data-president-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292007915773.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Kamala Harris halts travel after 2 involved in campaign test positive for coronavirus"
     excerpt: "Democratic vice presidential nominee Sen. Kamala Harris' communications director and a \"non-staff flight crew member\" involved in the campaign have tested positive for the coronavirus, Joe Biden's presidential campaign announced Thursday morning."

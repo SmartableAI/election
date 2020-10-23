@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bu
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/pence-adviser-trump-bungled-virus-shes-biden-73081758"
 type: article
 quality: 155
-heat: 6295
+heat: 6375
 published: true
 
 provider:
@@ -911,6 +911,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Ratings drop to 55M for final Trump-Biden debate"
+    excerpt: "More than 55 million viewers tuned in for the second and final presidential debate between President Trump and Democratic nominee Joe Biden on Thursday night, according to overnight ratings data by Nielsen Media Research."
+    publishedDateTime: 2020-10-23T20:50:00Z
+    webUrl: "https://thehill.com/homenews/media/522503-ratings-drop-to-55m-for-final-trump-biden-debate"
+    ampWebUrl: "https://thehill.com/homenews/media/522503-ratings-drop-to-55m-for-final-trump-biden-debate?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/522503-ratings-drop-to-55m-for-final-trump-biden-debate?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/presidential_debate_nashville_102220pool3_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Trump and Biden lawyer up as they brace for White House legal battle"
+    excerpt: "President Donald Trump's and Democratic rival Joe Biden's campaigns are assembling armies of powerful lawyers for the possibility that the race for the White House is decided not at the ballot box but in court."
+    publishedDateTime: 2020-10-23T21:40:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-white-house-legal-battle-20201023-u4iq352vxfbcjeq735zpzoks6y-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-trump-biden-white-house-legal-battle-20201023-u4iq352vxfbcjeq735zpzoks6y-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-trump-biden-white-house-legal-battle-20201023-u4iq352vxfbcjeq735zpzoks6y-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/fmOSl1LyXGD9NfqMvz4I-urOD70=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/VY6HVYJCTJHRBWHQXUQ7NG6DRE.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -1326,6 +1358,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200925&t=2&i=1534891778&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG8O0UH"
         width: 817
         height: 545
+        isCached: true
+  - title: "Social media says Trump, Biden debate was less negative and declared Biden the winner"
+    excerpt: "Fewer people watched and tweeted than the first time around, and thus were less engaged, with fewer negative tweets, say researchers."
+    publishedDateTime: 2020-10-23T20:15:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/10/23/who-won-last-nights-debate-social-media-gave-biden-winning-edge/6009398002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6009398002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6009398002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 133
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/30/USAT/82625214-0504-4b7d-b8f3-432b58e23727-TRUMP_BIDEN_DEBATE.jpg?auto=webp&crop=4698,2643,x582,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Over 200 Retired Senior Military Leaders Endorse Donald Trump, Criticize Biden's Record"
     excerpt: "The endorsement comes after it was reported that Trump disparaged American soldiers killed in combat as \"losers\" and \"suckers.\""
@@ -4309,6 +4357,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/us-president-donald-trump-and-democratic-nominee-joe.jpg"
         width: 1024
         height: 690
+        isCached: true
+  - title: "Trump, Biden Battle For Swing States After Final Debate"
+    excerpt: "US President Donald Trump was more even-keeled during his debate but he's back on the campaign trail with time running out to catch Democrat Joe Biden Photo: AFP / JIM WATSON. Wit"
+    publishedDateTime: 2020-10-23T16:33:00Z
+    webUrl: "https://www.ibtimes.com/trump-biden-battle-swing-states-after-final-debate-3068360"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/us-president-donald-trump-was-more-even-keeled.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Trump, Biden Go After Each Other on Coronavirus, Taxes"
     excerpt: "President Donald Trump and Democratic challenger Joe Biden offered sharply different visions of how to handle the surging pandemic and fought over how much Trump pays in taxes during their final debate of a tumultuous campaign."

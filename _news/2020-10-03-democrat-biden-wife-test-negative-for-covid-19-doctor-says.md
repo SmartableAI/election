@@ -533,6 +533,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
+    excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former vice president Joe Biden and U.S. senator Kamala Harris for the 2020 presidential election."
+    publishedDateTime: 2020-10-23T05:40:00Z
+    webUrl: "https://www.houstonchronicle.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 129
+    images:
+      - url: "https://s.hdnux.com/photos/01/14/67/21/20149336/3/rawImage.jpg"
+        width: 2048
+        height: 1395
+        isCached: true
   - title: "Jim Carrey and Maya Rudolph Transform into Joe Biden and Kamala Harris - SNL"
     excerpt: "Matt Brennan joined the Los Angeles Times as television editor in 2019. Previously, he served as Paste Magazine’s TV editor, and has written for Indiewire, Slate, Deadspin and LA Weekly, among others."
     publishedDateTime: 2020-10-04T05:23:00Z
@@ -2124,20 +2138,6 @@ related:
       - url: "https://imgix.bustle.com/uploads/image/2020/10/5/fd8319bd-a69f-41e5-bdb9-379d19c5fe4b-untitled-design-2020-10-05t114458422.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Seattle Storm endorse Joe Biden-Kamala Harris ticket in 2020 presidential election"
-    excerpt: "In a rare move for a U.S. professional sports team, the Seattle Storm on Wednesday endorsed the Democratic ticket of former Vice President Joe Biden and U.S. Senator Kamala Harris for the 2020 presidential election."
-    publishedDateTime: 2020-10-22T20:47:00Z
-    webUrl: "https://www.chron.com/sports/storm/article/seattle-storm-endorse-joe-biden-kamala-harris-15668155.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 79
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/67/21/20149336/3/rawImage.jpg"
-        width: 2048
-        height: 1395
         isCached: true
   - title: "Cleveland hosts first presidential debate between Donald Trump and Joe Biden: a viewer’s guide"
     excerpt: "The gloves finally come off Tuesday in Cleveland – if they were ever on – in the 2020 presidential election as"

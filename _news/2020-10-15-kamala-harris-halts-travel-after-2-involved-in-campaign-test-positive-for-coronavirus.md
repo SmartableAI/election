@@ -302,6 +302,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "In Rust Belt states, data could make the difference for Trump"
+    excerpt: "With now just 11 days until the presidential election, incumbent Republican President Trump is increasingly focused on presenting his case to Rust Belt voters drifting towards Democratic challenger Joe Biden."
+    publishedDateTime: 2020-10-23T20:01:00Z
+    webUrl: "https://www.foxnews.com/politics/rust-belt-states-data-president-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/rust-belt-states-data-president-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rust-belt-states-data-president-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292007915773.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Graham rebuts Kamala Harris' attack on Barrett’s candor, as Dems clash with nominee over ObamaCare"
     excerpt: "The Supreme Court confirmation hearings for Judge Amy Coney Barrett heated up Wednesday afternoon with more tense exchanges over the Affordable Care Act (ACA), specifically with Sen. Amy Klobuchar, D-Minn."
     publishedDateTime: 2020-10-14T23:47:00Z

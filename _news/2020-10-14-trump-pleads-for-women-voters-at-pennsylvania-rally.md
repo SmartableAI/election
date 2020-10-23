@@ -159,6 +159,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 52
+  - title: "VP Mike Pence holds campaign event in Pennsylvania"
+    excerpt: "Vice President Mike Pence is making his last stops before the general election. Pence is holding a campaign event in West Mifflin, Pennsylvania. He will be addressing the crowd. This is the first major renovation the MLK Center has seen since it was built in 1968."
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.wilx.com/2020/10/23/vp-mike-pence-holds-campaign-event-in-pennsylvania/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
+    quality: 35
 
 secured: "V/98XX6LZaszaIeQGW9XrYsUEwHQ+MZqGJLALA/w+ScNw4OWD+4BEpulzKd4oJtFOZpUiwowIOBgR4jJ7Tte6HNrH4yeISWrH4IrlHloxGPjOT/qF0hpiG2PnD+BFLYkb1NNIv/oFsrnECSy9U1vAC8xcg/i8/SsN/Av9b28DA+axgVwOsBm0dQubunzfLzcX+5lad/AOglCnWbAUDhIOVXsU1FrY0JfSQZ2VppWDdQFhu0LCdbGznpNwhzLUetl2FwlAI0YDmOMMYQ8SC8xS8Y3ggoI5C3NoRitBWXdlywsMNdjCb7XkR5f/PJheZgAz8wN94tyRR/krB4dhuO/0M/RuPT9qLlw8Vol3a4OTM8=;5sxQYa4OIz7KIuARr5mUkA=="
 ---

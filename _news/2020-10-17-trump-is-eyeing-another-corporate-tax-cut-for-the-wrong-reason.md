@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's pursuit of coronavirus vaccine comes at the expense of therapies he now claims as a 'cure'"
-    excerpt: "When President Donald Trump huddled with vaccine makers last spring, the CEO of Regeneron -- who landed an audience with the President after a private call to a well-placed White House adviser -- made the most of the chance to plug his company's coronavirus treatment.\n    \n"
-    publishedDateTime: 2020-10-16T15:13:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mR48M6o2_fA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/trump-regeneron-antibody-treatments/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201015154516-102-trump-lead-image-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Former White House chief of staff tells friends that Trump 'is the most flawed person' he's ever met"
     excerpt: "Former White House chief of staff, retired Marine Gen. John Kelly, has told friends that President Donald Trump \"is the most flawed person\" he's ever known.\n    \n"
     publishedDateTime: 2020-10-16T21:32:13Z

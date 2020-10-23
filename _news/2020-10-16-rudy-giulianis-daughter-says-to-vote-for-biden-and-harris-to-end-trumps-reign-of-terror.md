@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/rudy-giuliani-daughter-caroline-joe-biden-2020/index.html"
 type: article
 quality: 205
-heat: 1745
+heat: 1765
 published: true
 
 provider:
@@ -959,6 +959,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421261/201019-think-donald-trump-ew-1225p_1364a403a6f1c56d2ab624f22fdac683.jpg"
         width: 2500
         height: 1743
+        isCached: true
+  - title: "Trump's attacks on Hunter Biden and Ukraine aren't surprising. Joe Biden's defense is."
+    excerpt: "The Biden campaign and Democratic pundits are still foolishly engaging in their own brand of disinformation instead of admitting past mistakes and moving on."
+    publishedDateTime: 2020-10-23T21:19:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-attacks-hunter-biden-ukraine-aren-t-surprising-joe-ncna1244554"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244554"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422573/201023-hunter-joe-biden-al-1440_a7d06a2a0b73cfb7c21d4034180d9cd1.jpg"
+        width: 2500
+        height: 1656
         isCached: true
   - title: "‘Biden was simply seen as the better human’: Why Trump needs to tone it down in the debate"
     excerpt: "Four years ago, as he took the stage in the final debate, Donald Trump was similarly backed into a corner. His performance that night offers clues to his approach this time around."

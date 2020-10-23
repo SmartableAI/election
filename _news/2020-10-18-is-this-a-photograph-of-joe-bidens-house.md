@@ -105,6 +105,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden gets late boost with key union endorsement"
+    excerpt: "Democratic presidential nominee Joe Biden got a late boost in the White House race Friday when he scored the endorsement of a prominent alliance of construction unions."
+    publishedDateTime: 2020-10-23T21:31:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_10222020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden says he'll set up commission to study reforming Supreme Court if elected"
     excerpt: "Democratic presidential nominee Joe Biden said that he would form a commission to \"study\" the Supreme Court when asked by CBS's Norah O'Donnell whether he would consider adding justices past the current nine seats."
     publishedDateTime: 2020-10-22T13:30:00Z

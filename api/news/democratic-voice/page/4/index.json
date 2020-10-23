@@ -2,6 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-05-trumps-latest-political-theatrics-described-as-insanity.md",
+      "title": "Trump's latest political theatrics described as 'insanity'",
+      "excerpt": "Even in the midst of a national crisis, the nation's reality-show president was preoccupied with putting on a little show for the cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
+      "originalUrl": "https://www.nbcnews.com/msnbc/rachel-maddow-show/trump-s-latest-political-theatrics-described-insanity-ncna1242106",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/j/newscms/2020_40/3417409/201004-trump-drive-walter-reed-rd-541p_236d25083945c388acde5b25f325446f.nbcnews-fp-1200-630.JPG",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-05T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-trump-told-woodward-in-march-he-didnt-have-a-lot-of-time-to-meet-with-fauci-in-newly-released-audio.md",
       "title": "Trump told Woodward in March he didn't have 'a lot of time' to meet with Fauci in newly released audio",
       "excerpt": "President Donald Trump in March said he didn't have \"a lot of time\" to meet with Dr. Anthony Fauci as the coronavirus pandemic surged across the US, according to newly released audio from an interview with journalist Bob Woodward.\n    \n",
@@ -1639,63 +1696,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-09-29-trump-administration-warns-iraq-it-plans-to-shut-us-embassy-in-baghdad-after-rocket-attacks.md",
-      "title": "Trump administration warns Iraq it plans to shut U.S. Embassy in Baghdad after rocket attacks",
-      "excerpt": "In an interview with NBC News, a top U.S. general recently praised the work of Iraqi security forces protecting American interests in Iraq.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
-      "originalUrl": "https://www.nbcnews.com/news/world/trump-admin-warns-iraq-it-plans-shut-u-s-embassy-n1241226",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2020_40/3415403/200928-embassy-iraq-mc-913_e987c429836f08e91000280c86a42f76.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1241226",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1241226",
-      "publishedDateTime": "2020-09-29T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

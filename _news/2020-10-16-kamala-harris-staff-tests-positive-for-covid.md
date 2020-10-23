@@ -93,6 +93,22 @@ related:
         width: 1300
         height: 794
         isCached: true
+  - title: "Kamala Harris' Dancing In Rain Video Goes Viral; Netizens Applaud Her Moves"
+    excerpt: "Social media users were in awe of the Democratic vice-presidential nominee Kamala Harris after a video of her dancing in the rain went viral on the internet."
+    publishedDateTime: 2020-10-23T03:43:00Z
+    webUrl: "https://ibtimes.com/kamala-harris-dancing-rain-video-goes-viral-netizens-applaud-her-moves-3067616"
+    ampWebUrl: "https://www.ibtimes.com/kamala-harris-dancing-rain-video-goes-viral-netizens-applaud-her-moves-3067616?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-dancing-rain-video-goes-viral-netizens-applaud-her-moves-3067616?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/22/kamala-harris.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Watch ‘super racist’ rant against Kamala Harris by GOP senator at Georgia MAGA rally"
     excerpt: "Republicans are playing political defense in the once reliably-red state of Georgia. President Donald Trump is holding a Friday night campaign rally despite the coronavirus pandemic and had Sen. David Perdue (R-GA) warm up the crowd."
     publishedDateTime: 2020-10-17T04:13:00Z
@@ -187,6 +203,15 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Senator Kamala Harris Remarks to HBCU Student Leaders at Spelman College in Atlanta, Georgia"
+    excerpt: "T14:32:19-04:00 vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta, Georgia. Democratic vice presidential candidate Senator Kamala Harris (D-CA) speaks to HBCU student leaders at Spelman College in Atlanta,"
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.c-span.org/video/?477326-1/senator-kamala-harris-remarks-hbcu-student-leaders-spelman-college-atlanta-georgia"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 24
 
 secured: "ZhzOYbDqnqt9pBX7rRjnJ7LeyS72TF6b+loGATbLfM8RmH02MYMkzDCbAg4U6cv7EOzbrrHK/htt/xw9pRRWxgvi2GvFDrFnKerdKHPJb0PPowyvkUNKrcBY8H+8VUz1mQoBVlsa9Er+/OSwLrqqNa3Mc1BfwBvpFp4DzlVEDbF01IywZ4oJQAbmxyNOBT7X1aghAtV9ioG5GDAMiqMfbNbi9XD2IF+fxpdVYqllt95JDekVtwlQJ5ybpgn9n3fnWRq+3EDzLRI/1mje+4Z9BxAPUqWBghgv6SNuac4+1CyN8XAp1Rw/GsJy/ERt3QOYWLvtWNiBtar+yOobrq+ymnONXmXiafKVRBM0G/0+U5o=;cnGX+HEFFPty9G5p2mYJiw=="
 ---

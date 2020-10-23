@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-13-not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac.md",
+      "title": "‘Not Our Faith’: Bipartisan Christian Group Take On Trump In New Super PAC",
+      "excerpt": "The new super PAC plans to roll out six-figure ads to erode Christian support for President Donald Trump in the last few weeks before the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
+      "originalUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f85c2a88dba2d2dc167bd3b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3705%26cropY1%3D126%26cropY2%3D2596",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthart/2020/10/13/not-our-faith-bipartisan-christian-group-take-on-trump-in-new-super-pac/amp/",
+      "publishedDateTime": "2020-10-13T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-trump-says-hell-kiss-everyone-in-crowd-at-rally.md",
       "title": "Trump says he'll 'kiss everyone' in crowd at rally",
       "excerpt": "President Donald Trump returned to the campaign trail Monday night, holding his first rally in Florida after contracting the coronavirus. He declared himself in \"great shape\" and said he felt well enough \"to kiss everyone\" in the audience.",
@@ -1529,63 +1581,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-the-relief-deal-blowup-what-are-pelosi-and-trump-thinking.md",
-      "title": "The Relief Deal Blowup: What are Pelosi and Trump Thinking?",
-      "excerpt": "It’s not just the president’s wild back-and-forth on Twitter. Both sides are looking irrational on a deal that the economy is going to need soon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "originalUrl": "https://www.politico.com/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/c9/e8e560a740a4b2b2ff92c74bec33/gettyimages-1277802613-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/magazine/2020/10/07/relief-stimulus-bill-election-427196",
-      "publishedDateTime": "2020-10-07T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

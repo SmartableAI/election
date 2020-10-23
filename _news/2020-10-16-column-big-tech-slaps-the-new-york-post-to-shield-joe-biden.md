@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-yo
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/columns/john-kass/ct-joe-biden-new-york-post-kass-20201016-qm7tr4uag5hcnlpihn7ovj6bse-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/bidenjoe_101820getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden gets late boost with key union endorsement"
+    excerpt: "Democratic presidential nominee Joe Biden got a late boost in the White House race Friday when he scored the endorsement of a prominent alliance of construction unions."
+    publishedDateTime: 2020-10-23T21:31:00Z
+    webUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement"
+    ampWebUrl: "https://thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/522515-biden-gets-late-boost-with-key-union-endorsement?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe3_10222020getty.jpg"
         width: 980
         height: 551
         isCached: true

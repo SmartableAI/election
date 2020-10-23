@@ -976,6 +976,22 @@ related:
         width: 2500
         height: 1743
         isCached: true
+  - title: "Trump's attacks on Hunter Biden and Ukraine aren't surprising. Joe Biden's defense is."
+    excerpt: "The Biden campaign and Democratic pundits are still foolishly engaging in their own brand of disinformation instead of admitting past mistakes and moving on."
+    publishedDateTime: 2020-10-23T21:19:00Z
+    webUrl: "https://www.nbcnews.com/think/opinion/trump-s-attacks-hunter-biden-ukraine-aren-t-surprising-joe-ncna1244554"
+    ampWebUrl: "https://www.nbcnews.com/think/amp/ncna1244554"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1244554"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3422573/201023-hunter-joe-biden-al-1440_a7d06a2a0b73cfb7c21d4034180d9cd1.jpg"
+        width: 2500
+        height: 1656
+        isCached: true
   - title: "Donald Trump and Joe Biden town halls underscore America's parallel realities"
     excerpt: "In some other dimension, some other timeline, President Donald Trump and former Vice President Joe Biden square off against each other Thursday night in their second of three debates. In this universe,"
     publishedDateTime: 2020-10-15T09:13:00Z

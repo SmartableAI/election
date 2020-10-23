@@ -1027,6 +1027,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Voting 2020 live updates: Trump campaign loses appeal on satellite offices; Ohio's legal battle over drop boxes is officially over"
+    excerpt: "As Trump plans to early vote in Florida, Pence cast his ballot in Indianapolis. 52M have already voted. Latest voting news from across the U.S."
+    publishedDateTime: 2020-10-23T19:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/23/voting-2020-problems-and-news-how-vote-court-battles-russia/3728419001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3728419001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3728419001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 95
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/73823eae-9c73-41f8-ae97-15b449bec90b-AFP_AFP_8T79DM.jpg?auto=webp&crop=5920,3330,x0,y300&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Donald Trump Says He May Leave U.S. if He Loses Presidential Election"
     excerpt: "President Trump and Tommy Lee now have something in common ... they've both said goodbye to America if their candidate loses the presidential election."
     publishedDateTime: 2020-10-17T23:34:00Z
@@ -1363,6 +1379,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Live updates: VP Mike Pence visits Allegheny County Airport"
+    excerpt: "Vice President Mike Pence is headed to the Allegheny County Airport to stump for President Trump down the home stretch for the General Election on Nov 3. His visit comes a day after Trump and ..."
+    publishedDateTime: 2020-10-23T20:22:00Z
+    webUrl: "https://triblive.com/local/live-updates-vp-mike-pence-visits-allegheny-county-airport/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 35
 
 secured: "YINg4fq1QP8Wq9IFVNUoZRejFvlE7TUoD9mXedD9Hh7xEMEsDofIC74hTDxgpoJ2nErh8k8GIXax4x4WfQBR3KMEqQ5xOMsTH2FUaF6qY+YtX+MHAYOgzDAITel5RZ/ysI0XHHZKRN4FcH3OdV6qoTpjXZ/3E2HAGWyHlp/9wQIk99iof34n8CtqfmhiGuePi9GPzfNp5FFC/lN1SAksEcdoTfxNe3fHpMmQxg0LcKfFOKlfWxefEIC5LuKEMy3tHF73QGOPWyuzi/8xRvC/g3/W7SV0igehosSijJHJfBGATESJVAfyKw24/MSX3nFxYTKDeTSEzR/+f4c+FyyrEf4gjcxwLch6jARk8DjvgmA=;gqyhi92vwRLVREQLkHXimQ=="
 ---

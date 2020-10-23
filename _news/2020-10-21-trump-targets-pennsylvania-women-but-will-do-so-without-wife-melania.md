@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-targets-pennsylvania-women-wife-melania/story?id=73718716"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -163,6 +163,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 52
+  - title: "VP Mike Pence holds campaign event in Pennsylvania"
+    excerpt: "Vice President Mike Pence is making his last stops before the general election. Pence is holding a campaign event in West Mifflin, Pennsylvania. He will be addressing the crowd. This is the first major renovation the MLK Center has seen since it was built in 1968."
+    publishedDateTime: 2020-10-23T20:32:00Z
+    webUrl: "https://www.wilx.com/2020/10/23/vp-mike-pence-holds-campaign-event-in-pennsylvania/"
+    type: article
+    provider:
+      name: WILX-TV
+      domain: wilx.com
+    quality: 35
 
 secured: "VmC2ZSKN1GpZ2xVlrlbT9BZwmitgVDth2fDlt0wMXwz8JdliKTyz5PdImgSwn+lpw2mdjXHMC8b87NkeTDDV4JPkqNx/bUHiFslNT85InW17HXxS7Xa+at5GZT6NqqxisdJnb0ukY/EB8VPbazXoACUQOdipCrnRDT0rNb+SNfzyUKwcnYgQ3Rg7Bv79CeRGT+CdIY+6t5H2/Sl6SY/vQISLDrEoXkSYcpECQ3OIc/VHQ5Esu9qLkjy4tmVvFjDTks/U1YgZoPxzDRtQH/xkbErw95q1M58ZB/jFZDBrqhf0PVSrcI2OLX1y7who4WM7yJgGzoUxoc9D9vv98fpxLAXhyAwsK9VqLN48Jbae1kk8ILTkAezPh3AuLjPHh/lMp7+tVrVWYianIB0TsQjzI1uJ5gRlCZW0UWccHVO5xU+Rb8CwqOH/URY48Oq+vm1SIYN6ld2ctpxN4moJktA/Lcp5hnMsuB9TEzSs4rrippESjo61cnzBXJoJtASmUDv6Vw0fMkNyPGS/LbpZ5lWoKg==;RQJKMPshTK72J1MBYI9IPA=="
 ---
