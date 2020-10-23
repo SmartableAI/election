@@ -229,20 +229,15 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "YMKynrUo4u6WYldJ/Fs+RpmixrxguCdzr9axNF7ZEAO3h8uBZAYgR3A974w6I8FCdpOvbVOH5KBZKpZlze0AvglXOKGBfnYUX7cy8jTLS3L0QQC3Jsx3KDCeisCgWu4vqdt9vEJqkPEtiI63y1iurTELvpTaOy6qjmoYadTlGu1gIh/uQrJMXxZ+g4Kh5I4l4n9INYOCnzFrrHAuYEM4+QRcq1iTfbXv0oSau18pumj7ZYGF4xK99PzG2zGXaqWy4DX2MlssZW0cAB5r5fcMYXQwoyO0W2nT+1OhkgmIZ+PJ6Pf2kDWFy5Hg8N0sSpRUQ4ugE4ywb6LBbUiQAgbUNh00DiTUEetVWKVQNyHxlriMP94y+z9jdJBob4NpjsnM/NLJaeqGmHNUhq7E6IL6iLG8v/uv/wXoZa8wI0Duk00R8Hm5ilDgoAsqV7fCGuSZQa7bvnRy8hcBeU24LPRBDMrgruC8mFVQki5/FbOLncJcidH/5vwCMGIZV3+QPuTJ9kcivWR7xgqPNEPUJDTqAw==;ZXoSig39YCT1m3YLW4/i8g=="
 ---

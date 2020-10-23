@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Florida county suspends worker who flew Trump flag on government truck"
+    excerpt: "Palm Beach County officials accuse Randall Williams of violating county rules that ban politicking on county time or on county vehicles."
+    publishedDateTime: 2020-10-14T20:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/state/2020/10/14/florida-palm-beach-county-employee-suspended-flying-trump-flag-work-vehicle/3651693001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3651693001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3651693001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/13/NPPP/3253e320-e0cc-4691-951e-4e6f07e850ec-thumbnail_IMG_20201008_165418.jpg?auto=webp&crop=787,443,x34,y482&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump resumes campaign with Florida rally 10 days after COVID-19 disclosure"
     excerpt: "President Donald Trump will try to put his bout with COVID-19 behind him when he returns to the campaign trail on Monday, beginning a three-week sprint to the Nov. 3 U.S. election with a rally in the battleground state of Florida."
     publishedDateTime: 2020-10-12T14:43:00Z
@@ -472,6 +488,52 @@ related:
         width: 4432
         height: 2497
         isCached: true
+  - title: "South Florida Worker Suspended for Flying Trump Flag From Government Truck"
+    excerpt: "A Florida municipal worker was suspended without pay for flying a flag supporting President Donald Trump’s re-election from his government truck"
+    publishedDateTime: 2020-10-14T13:41:00Z
+    webUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/"
+    ampWebUrl: "https://www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/local/south-florida-worker-suspended-for-flying-trump-flag-from-government-truck/2306687/?amp"
+    type: article
+    provider:
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
+    quality: 73
+    images:
+      - url: "https://media.nbcmiami.com/2020/09/Trump-flag.jpg?fit=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "UFC's Jorge Masvidal Greets Donald Trump In Florida, POTUS Not Wearing Mask"
+    excerpt: "Forget the Secret Service, the \"Baddest MF\" on the planet has Donald Trump's back in Miami ... Jorge Masvidal."
+    publishedDateTime: 2020-10-15T23:03:00Z
+    webUrl: "https://www.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    ampWebUrl: "https://amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    cdnAmpWebUrl: "https://amp-tmz-com.cdn.ampproject.org/c/s/amp.tmz.com/2020/10/15/jorge-masvidal-donald-trump-miami-mask-greets/"
+    type: article
+    provider:
+      name: TMZ
+      domain: tmz.com
+    quality: 73
+    images:
+      - url: "https://imagez.tmz.com/image/a3/16by9/2020/10/15/a340707788644b41a3921524902d3208_xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Mike Pence and Eric Trump events in South Florida on Thursday | PHOTOS"
+    excerpt: "Multiple events around South Florida featuring Vice President Mike Pence and Eric Trump that lead up to a televised town hall with President Donald Trump in Miami."
+    publishedDateTime: 2020-10-15T17:16:00Z
+    webUrl: "https://www.sun-sentinel.com/news/politics/elections/fl-ne-trump-events-south-florida-101520-20201015-5fjpafihovbopaiaksxtpc6eeu-photogallery.html"
+    type: article
+    provider:
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 70
+    images:
+      - url: "https://www.sun-sentinel.com/resizer/Pe_TMvDNtVnUiRg_Ok0FbraCXtc=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MNJEX3DDIFHYFNW5Q7PLRAJMIU.jpg"
+        width: 1200
+        height: 802
+        isCached: true
   - title: "Trump has induced a dissociative mental state that is eroding America’s sense of self"
     excerpt: "Americans teeter on the brink of a state of collective fugue. A psychiatric state of mind, the fugue is caused by extreme distress in the aftermath of one or more cataclysmic events. The fugue state causes a person to fail to recall intrinsic identifying personal characteristics and to no longer remember what they believed in"
     publishedDateTime: 2020-10-16T21:20:00Z
@@ -517,6 +579,36 @@ related:
     quality: 67
     images:
       - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Donald-Trump-14.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Pence and Trump Campaign Drum Up South Florida Support With Sunshine State Up For Grabs"
+    excerpt: "With the battle for Florida intensifying and votes already being cast in record numbers, President Donald Trump’s campaign fired up a solid source of support on Thursday — Cuban Americans and evangelicals."
+    publishedDateTime: 2020-10-15T21:39:00Z
+    webUrl: "https://www.wlrn.org/2020-10-15/pence-and-trump-campaign-drum-up-south-florida-support-with-sunshine-state-up-for-grabs"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 62
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/4474692/2147483647/strip/true/crop/415x218+0+29/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F21%2F6a%2Fa148154f479689adf537b69afc9d%2Fpencevisit-20201015.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "‘Bizarre’: Trump supporter busted for political vandalism in Florida – against a fellow Trump supporter"
+    excerpt: "A Florida man was arrested to going into people’s property and destroying Donald Trump campaign signs, actually turned out to be a Trump supporter who was upset about seeing a Confederate flag next to a Trump campaign sign — saying that he didn’t want anyone sending the impression that Trump is racist,"
+    publishedDateTime: 2020-10-14T18:50:00Z
+    webUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/"
+    ampWebUrl: "https://www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-supporter-vandalizes-residents-home-because-he-thought-campaign-signs-made-trump-look-racist/amp/"
+    type: article
+    provider:
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 59
+    images:
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/10/Ryan-Dennistonindian-river-sheriffs-office-.jpeg"
         width: 800
         height: 430
         isCached: true

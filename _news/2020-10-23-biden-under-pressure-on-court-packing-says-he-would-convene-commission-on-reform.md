@@ -207,6 +207,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden and Democrats raised record $383 million in Sept for White House bid"
+    excerpt: "Democratic presidential nominee Joe Biden and his party raised a record-shattering $383 million in September for his presidential bid, likely bolstering his financial advantage over President Donald Trump ahead of the Nov."
+    publishedDateTime: 2020-10-15T02:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-fundraising/biden-and-democrats-raised-record-383-million-in-sept-for-white-house-bid-idUSKBN27004S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27004S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27004S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537515404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E033"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden campaign co-chair says Supreme Court packing question is 'hypothetical'"
     excerpt: "\"I think it's a legitimate question for you to ask, but it is a distraction with 22 days before the election,\" Richmond said on ABC's \"This Week.\" Speaking with guest host Jon Karl, the congressman was asked where Biden stood on the issue of court-packing."
     publishedDateTime: 2020-10-11T15:26:00Z
@@ -641,6 +657,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BOzu1yhAy/f/uoXW7cAkHErT1NMXO4IYlKgNjWqNDhvgudX2LKiRySUppqgei6jqpad+hvTm5Vs+lROjgKKH/aGCGyXsLz6mxbdTzsTNrohfpehXJcDqO9ayUHkFTWwb8BczC4s+cpscvEboqwGXJUP+etDivrGS4RNrreRUd8E5V4TvjDex9INHEHgaZN1Fm7tKDK/7eDicdgYy0ZegC8nbpKaj5NzkqLzq5aw2Xpv02DCeyczwSzPsxxZxe1E/Qa2zRSSO9IvmLICJ9qnnGlzoUQLy4cAezXUxF0dIX6RJ5MJ3NBxFn4ncVoIqzknjA/rmt3g8sOU7zlNRqWg3mSjzAFhlrG4Y9EXNkwKG1tU=;2AQYhFHB+Y/Sw4PohHhdOQ=="
+secured: "OaTIikBfI7/BTv/LLfsKvtJOq3QV9QWvAavecY7lryoMXIYlTQImBk/Nrj8HHG56jtHZxNgO9MC2dV1E/d6DbH7xCbguTAmVOYXXZRgGcDWPNMe9Vxxa8oV+DQXBRu/g84PY1QvFCVWJhOZivP/Rr/+qF4/xbKziy0GW5wGA/7+xgYQ3mZLyK8iqfG6hxDLaonAaSfTbdFNRYQYV/VQCWiD3MrERCjOXECBA6LDQx9i8lci9yc5uEZO6sD/GWexXLmwV6Op+PxUWc+797PJAMVDh+RIQcTO7w8o4opaEARxYrs+bSsokHdmW2MAYaCVoGNnC32Steai1TQhEX45N+EbjBdQpoHF66YzdNhT8cNIa3ZMSpx5py+KG0LENFUcPQ+Hd83Td81NBmCxirkx17L3Kr4JpwVD8OWCmMT972QmgIrWU6uyN9OG8Ea/UK/EofY84Iz30nw0sH0YfJ8qs8jD2ggNkTOM9Orb/+bDRMs9ZBSECRrMRnEP6LJcW+cd+UVIrurtresvpS6emz0U7eg==;O9jQNreHW003/Z0Oa4S8jg=="
 ---
 

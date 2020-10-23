@@ -101,22 +101,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Mike Pence to visit Oakland County on Thursday"
-    excerpt: "Vice President Mike Pence will be back in Michigan on Thursday as a string of high-profile visits to the state continues ahead of the Nov. 3 election."
-    publishedDateTime: 2020-10-21T05:46:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2020/10/20/vice-president-mike-pence-vsit-oakland-county-thursday/3708766001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/3708766001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/3708766001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/14/PDTN/ed9d6f3f-e47c-4dec-ad0d-c99eac40fd8c-2020-1014-dm-pence-grandrapids0723.jpg?auto=webp&crop=1854,1043,x0,y125&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "VP Mike Pence set to visit Jacksonville, Florida, on Saturday"
     excerpt: "Vice President Mike Pence will be coming to Jacksonville and Tallahassee this Saturday, according to a tweet from his communications director."
     publishedDateTime: 2020-10-20T20:42:00Z
@@ -196,20 +180,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/22/NLED/a08dfe20-2642-4ea0-bbb3-324a0a1f78a2-AP20289725478868.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Pence to visit Fort Wayne on Thursday"
-    excerpt: "Vice President Mike Pence is scheduled to campaign Thursday in Fort Wayne, according to a tweet by his communications director."
-    publishedDateTime: 2020-10-19T18:10:00Z
-    webUrl: "https://journalgazette.net/news/local/local-politics/20201019/pence-to-visit-fort-wayne-on-thursday"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 55
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20201019/WEB/310199788/AR/0/AR-310199788.jpg"
-        width: 800
-        height: 528
         isCached: true
 
 secured: "SshC0H3EDkXESLa7kVOu9Jnc8cq2YMxTI3bw2vp6QIMCjFA5ONxu5BsQ7HEDRlKHkFitjT4RskMILXpPtUo42yONhI2sXpSSmoGpHH8tvhK5HY0zfsflMO0XBbHufRwSlmu3xCLmOBzJG2uVjBWVjRyQWD4sXy+rYfM6wldv44CqGDzhYTCwaNoNXjjpklQIg4X3lXfNGifhdyhUkwMLl3rxg3J+70mFBI3wonrvFRIQ81wPKkTqRNENEdLR/TmI0TCswUlVsaTy+am9buQgV1d8inY55Imykio+/JQegT7UFHDu0DJ545qXVztUBNeOZKhS4zkjjQeRmDS49H3urKWFzOMs8CoG7oliGJaLdj4UNWZEsQm7KxQz4ON13CltXXmsLbMVov7wcxffzCrjXRLtr7bDS1iYxxsmPNbVjLSEHDCzWIfVIAGmMjjlQQIWamKD3CBQjMtYPHbTbTz+nS82pKtlHjxA8OBuldJDQ8npSwQN8ZvGZku2VfnSMQXSRkw4DygnvPa0sAQLNhX8qg==;/kxZreR7AxJ0DicXutVA7g=="

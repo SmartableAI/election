@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/3592077001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3592077001"
 type: article
 quality: 113
-heat: 253
+heat: 233
 published: true
 
 provider:
@@ -120,22 +120,6 @@ related:
       name: Chicago Tribune
       domain: chicagotribune.com
     quality: 75
-  - title: "Melania Trump Reveals Son Barron Also Tested Positive For Coronavirus"
-    excerpt: "Melania Trump penned an essay to share her personal experience with coronavirus and revealed that her son Barron also tested positive for COVID-19. But Melania, Barron and President Donald Trump have already recovered and have since tested negative."
-    publishedDateTime: 2020-10-15T01:57:00Z
-    webUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313"
-    ampWebUrl: "https://www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-reveals-son-barron-also-tested-positive-coronavirus-3062313?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/02/donald-and-melania-trump-have-tested-positive-for.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "W4ozN4nm5f85fBX1fF9vW1gozG2aQ6sUeWu1gYpp0g4H3vS9PpXbe4zMoDVVMl+m6QYhmjVBOdjUU0KCUQsKtRS+6hn/vxnmY+HWhW6qZoMtqG7Aw50a3IxlijM5vTQUf3mEdPplUfNoAMfE2Z3YQWQRL4Qy/ZhUQwxA8McKdMf84lsrpIZNsWX00+iIsyefPj5DuUZrXE1NnYV2pUnXWZWV7dcrlGoQryWKTU4EzKdSQY9w3WFb+ShEHanKaRDWd/oipYoTHhxW12bKc5UBDCKk5mpaJO9lUN/fpK+ickRUlzzM25zcuMuuiVkwcGiYgtmNleWq/zXmz5iu+gsyJFlLw1hGz24ZCndULMDzc7Q=;PaoZWLswYPWD+oiYVxLHUA=="
 ---

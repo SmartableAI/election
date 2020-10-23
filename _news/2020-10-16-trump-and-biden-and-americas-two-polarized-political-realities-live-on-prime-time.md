@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-tru
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/16/politics/election-2020-donald-trump-joe-biden-town-halls/index.html"
 type: article
 quality: 184
-heat: 624
+heat: 664
 published: true
 
 provider:
@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump signs executive order that critics warn politicizes federal career civil service"
+    excerpt: "President Donald Trump signed an executive order that appears to provide him and his agency appointees more leeway in the hiring and firing of federal employees deemed disloyal, a move that critics say politicizes civil service and could lead to career officials being pushed out for political reasons.\n"
+    publishedDateTime: 2020-10-23T15:16:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OPvyGX68EFk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/trump-executive-order-federal-employees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201021013009-white-house-1002-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Federal judge strikes down Trump rule that could have cut food stamps for nearly 700,000 unemployed Americans "
     excerpt: "A federal judge Sunday struck down a Trump administration rule that could have stripped food stamps from nearly 700,000 people, saying the US Department of Agriculture has been \"icily silent\" about how many Americans would have been denied benefits had the changes been in effect during the pandemic.\n"
     publishedDateTime: 2020-10-19T01:48:01Z
@@ -222,6 +238,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2020_43/3421332/201019-old-san-juan-puerto-rico-ew-416p_ac7be00ac0901364061d0b8ef3b41513.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Fact check: Biden suggests Trump could deplete Social Security by 2023. Needs context."
+    excerpt: "The Biden campaign has alleged that Trump was arguing for a de facto gutting of Social Security, since it is funded by payroll taxes Trump has said he wants to eliminate."
+    publishedDateTime: 2020-10-23T13:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/2020-election/live-blog/2020-10-22-trump-biden-election-n1244210/ncrd1244437"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/live-blog/ncna1244210"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2020_43/3421559/201020-presidential-debate-live-blog-main-cover-cs_97eba60c21532ff26e07ed835ba571b0.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "Watch live: Joe Biden delivers remarks on vision for older Americans"
     excerpt: "Watch live coverage as former Vice President Joe Biden delivers remarks on his vision for older Americans in Pembroke Pines, Fla."

@@ -219,20 +219,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
     excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
     publishedDateTime: 2020-10-22T08:50:00Z
@@ -244,6 +230,15 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 47
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "GqNB68MydFe/GaOXQk3OpFoYcJGgZcumbAtPyt9NKCOKeumwLuPjm5HtmklKteh1IAnz4yiQD8vyY/9AjHQmCqcU93j7pzr0cRAF2BqTCussvfTv1OPOV9mlPrSPN/QmX/1SLkt3eveBdh4s8iRfuNUReu3Oe/F9OxwP8K8ixZRzBnVa21+CI3te+wnPDdNYePZ1xRQzk3NLAQtNX+M4gfH+gH8gOFU8ST+2UdINB1A+uq/atMh1yTHGT0/0ij7BTmMRHFp4v0eOxqZkpemnNB0YFxXQf5EwFuspJmdeikRxPhK7ECB4rmwZKHmkhE4074wavB75HIBLWyQuM9p/avzJv5V1znn9W8Xsg/uas+Am5TRqbjt/HiSga/GVkOgDQvkV/VpY2Ww7hGFZhQzxMafs5TCsDsjpmHDa5NTAf4qlWYPCi5ZzvjFD8dmNuqy9fA/XY4REz8nD5SvpmzxdZexYNI0SKy6Xf8zWz2RvSFV179xCqheHfqF/o47f/LEU2ePebGq6a5vAxdiaAWzyJA==;MKOy4TfY2PecMjdFF7pTmw=="
 ---

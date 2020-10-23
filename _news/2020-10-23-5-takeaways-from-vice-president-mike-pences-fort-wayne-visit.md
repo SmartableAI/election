@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Vice President Pence to campaign in Waterford Thursday"
-    excerpt: "Vice President Mike Pence is scheduled to hold a “Make America Great Again” rally in Michigan on Thursday, Oct. 22."
-    publishedDateTime: 2020-10-21T01:32:00Z
-    webUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/"
-    ampWebUrl: "https://www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/michigan/2020/10/20/vice-president-pence-to-campaign-in-waterford-thursday/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 75
-    images:
-      - url: "https://www.clickondetroit.com/resizer/VC9YfWLy9HeJe-EysXd4Zgl3g5Y=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/Q6W35VUWDNFGLOOIQX4ZAQQTGE.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "LIVE: Vice President Mike Pence delivers remarks in Cincinnati"
     excerpt: "Vice President Mike Pence is making a campaign stop in Cincinnati on Wednesday.Pence is hosting a Make America Great Again event at Lunken Airport.Doors opened at 4 p.m. and Pence"
     publishedDateTime: 2020-10-21T21:58:00Z
@@ -375,6 +359,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe Biden Attends Cincinnati Voter Mobilzation Event"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Toledo, Ohio, on the nation's economy."
+    publishedDateTime: 2020-10-12T23:00:00Z
+    webUrl: "https://www.c-span.org/video/?476874-1/joe-biden-attends-cincinnati-voter-mobilzation-event"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Vice President Pence Campaigns in Maine"
     excerpt: "President Pence delivers remarks at a campaign rally in Hermon, Maine. Vice President Pence delivers remarks at a campaign rally in Hermon, Maine. President Trump delivered remarks at a campaign rally in Macon,"
     publishedDateTime: 2020-10-19T13:34:00Z
@@ -385,6 +378,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "/6OUan901Yl1AibcEqALfmQKDtIZ97dMm3pI2slCpW1wJfOSfrUfKlMQA2kF4eqQnSPhHVrBaQXlD1RYtecA3byLycYtZ28O/JVgakMYV55nrHZV5liT6xQKXMgGFX/1Jwaj9rgz3ub5DjpM87tvEWZhoimV7IZC0J+PxESOuMYmYiok1589V4JyIr8eDltS9jmS7we9vrDKQTX29G8H71FiAa2XfJCBL1cPt19tRSvrhKn8i+vRvvqxSVZ7/ZKn/kisb6ZUNIN8if/M3OynjnCm17/7vhxVRmtnfvYPevGOYUolS067NkE5VzIv4E41mnCfnAKVCAw6UeiDRYfhqJJ33EPmvmULfdlOfx7aGZY=;nvEAYd00H7sEfJ3Y/aIBPA=="
+secured: "HmmdwFbc13148rdauKv/rwiqUZNjmcwMD+iw2cW65ebhWszqOtrIjJ0FCpIn+56qLz63btJ550kVbpqtQxg9M31BDWi5dktTuhZKZgC15bxI2fjaf64XRydkK+4kYdGYFLRT4VRDAPWja0ZNmP9Jk2HMV8J27uF2rF1Qv/Hkf63wyjOWipv7kNNueTKYrtlRn0Con9TQ0DpHqpkIfO19DpUQmZeB8P/aF8s+tBgTb70XY/RV88BaInG9ZjQE+XHn6vcTjjyp8FLGmhdJxPuYaadNqBpB8GHbGazd2opvUxgptexLasuFeorGeeCGmZLIX+5c+5tUTVtdGZCZtpYYmFKh386dpmPaXVHo70qtJ5oRfOUXo9+K9U+RXKQUyJBsl0pA104eg/MW62NQIX/eR0H6r1H2SmPe0rNuX18Dpqm4yd57Otf7zUhGtF4pz/6AVXctxvXGl4buSEmwj1c7ahoJaGJi5WB712/DioEZd/fKeXDLpZPxR3ockSQEUuC7Bbufr26SHrQI9ky1tUla5A==;bk/nperKnRqJZGYDqYBDgQ=="
 ---
 

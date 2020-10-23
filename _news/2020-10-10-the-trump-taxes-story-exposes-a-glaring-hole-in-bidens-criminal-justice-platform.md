@@ -896,6 +896,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Young Latino voters in Pennsylvania, Florida could tilt race for Trump, Biden"
+    excerpt: "Yumaira Saavedra of Allentown, Pennsylvania, will join the hundreds of thousands of first-time young Latinos who have already voted."
+    publishedDateTime: 2020-10-23T15:28:00Z
+    webUrl: "https://www.nbcnews.com/news/latino/young-latino-voters-pennsylvania-florida-could-tilt-race-trump-biden-n1244492"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1244492"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1244492"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_43/3422503/201023-early-voting-pennsylvania-se-1109a_8d69b8f5671363ce1efa71255ae4f8b5.jpg"
+        width: 2500
+        height: 1686
+        isCached: true
   - title: "Trump's 2020 polls prove Democrats need to start planning for a Biden White House"
     excerpt: "It feels like the majority of people who believe Trump can win again in 2020 are Democrats, for better or for worse."
     publishedDateTime: 2020-10-11T06:13:00Z

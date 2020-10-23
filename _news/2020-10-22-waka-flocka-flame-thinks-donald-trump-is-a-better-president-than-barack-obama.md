@@ -219,20 +219,6 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 52
-  - title: "Former Vice President Joe Biden discusses COVID and young Black voters at ABC Town Hall"
-    excerpt: "Former Vice President Joe Biden discussed COVID, the Supreme Court and how he planned to sway young Black voters."
-    publishedDateTime: 2020-10-16T13:14:00Z
-    webUrl: "https://www.azcentral.com/videos/news/politics/elections/2020/10/16/joe-biden-tackles-tough-issues-abc-town-hall/3676337001/"
-    type: article
-    provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 47
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/87bcbe73-aab7-4ac2-9750-967703e56d5a-VPC_BIDEN_TOWN_HALL_WRAP_DESK_THUMB.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Former President Barack Obama Fires Up Crowd At South Philadelphia Rally For Joe Biden"
     excerpt: "Striking a personal tone, the former president implored voters to support the Biden-Harris ticket, calling this the most important election in our lifetime."
     publishedDateTime: 2020-10-22T08:50:00Z
@@ -244,6 +230,15 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 47
+  - title: "Joe Biden Speaks at Voter Mobilization Event in Detroit"
+    excerpt: "Democratic presidential candidate Joe Biden delivers remarks at a get-out-the-vote event in Detroit. 2020 Democratic presidential nominee Joe Biden attended a voter mobilization event in Cincinnati. 2020 Democratic presidential nominee Joe Biden spoke at a campaign event in Las Vegas,"
+    publishedDateTime: 2020-10-16T13:13:00Z
+    webUrl: "https://www.c-span.org/video/?477058-1/joe-biden-speaks-voter-mobilization-event-detroit"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "lkXdQSxojxqGC2BJH5Wf4GLEfBscg4YbgtHbqnLWwcJDzUwpS8xl7A2B4qefJSBhyX1mjbzEJRRTL2Ec2Wqk0QNYhf1HY6iSKmuZx9Thn/olWIlXL1/PUXNyxxQq9YU+ba+NO4aXyp2adjH1IrMNObg7Wn+GRsRsQ1ojP0/1KKsLuThcCGWgvJ9nBBXYDtZvtlwCyqDz/zF1ymG5nLnwbyntdorSnM7/R9V+Tio84HLSBXOv7JXZISFzqzF2qX5wDF2V4bE06yDuzp0edR4WHZaegB3N+FZFUMl0aUnaVvxM5s5XqbdRWmLWkSPGitaOSUZR0QZ7LF99cK/qhXQ/+K6Il6YYFf+e7NAjManmqPw=;28vKlI3SxF/dKOLtTc0Znw=="
 ---

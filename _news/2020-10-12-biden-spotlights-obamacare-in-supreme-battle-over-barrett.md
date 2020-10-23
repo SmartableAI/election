@@ -175,6 +175,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump addresses addiction, depression due to COVID-19 lockdowns"
+    excerpt: "President Trump on Friday warned of depression and addiction, which health professionals says is on the rise amid coronavirus lockdowns, during the final 2020 presidential debate. "
+    publishedDateTime: 2020-10-23T15:33:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ey26iAP4UW8/trump-addiction-depression-covid-19-lockdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-addiction-depression-covid-19-lockdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-addiction-depression-covid-19-lockdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20297131258514-e1603453165786.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Latino vote crucial as Democrats try to turn North Carolina away from Trump"
     excerpt: "Democratic nominee Joe Biden appears to be ahead of President Trump by double digits among Latino registered voters in battleground states."
     publishedDateTime: 2020-10-19T13:25:29Z

@@ -405,6 +405,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Joe Biden Will Create Commission on Supreme Court Reforms if Elected"
+    excerpt: "The Democratic presidential nominee has been repeatedly pressed to give his position on ‘court packing’ but said his commission would study options ‘well beyond’ court expansion."
+    publishedDateTime: 2020-10-22T13:22:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2020-10-22/joe-biden-will-create-commission-on-supreme-court-reforms-if-elected?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Ca1PX+dmLHBscn+xm+orsPPKsExe4+DxmXuTIEk9aWNLLSaQyM6CWw59+jDmTZh4VAVNubwj9FTCdFX/xnDxrXspwFV9ClcImLltFPYXjAYXO03ZWesnTKGjL8vmAIPfxfq5/Zv/UZ52o8+lIwRWHdnl3KOQTmWpOVELadFE2nvaZph+Noc9+td7jnLpCrjotxy1EWAEjDWAPQxZqVtbOSsS21B++m4BagxWuh2jqvzTYulskiXKYLjlb1Syv3iKkEkOzroCOai2QmvQrXT56fa3fIFgorydKb46uwfZVJpaedNZqyLofIAmNYT3mImt788t58Ywr+v/KjXexLFN2caHXC3U/gf0nhkdOu0oPyjhrnPdIAVY3nYmVes17lC9G13GVMWamlh9cPoGyCwgWCT+lYSBft7/gIUjQeBhTQKyCgPKaCVK+e1U6kYtkNBNH2uXJEH2FHJB8bSZ/hLvNo8sdIt4KTHa5uTuM/dHibpuuLOsOSn9+JOGyOyTUlONNxGQ9jvE664zXAldZY6WYg==;YfqDr7KLRAfj4KkDiESQ/g=="
 ---

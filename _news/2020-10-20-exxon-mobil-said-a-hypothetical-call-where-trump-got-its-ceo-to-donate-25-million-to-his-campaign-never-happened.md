@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-exxon-mobil-fundraising-call-c
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-exxon-mobil-fundraising-call-claim-never-happened-2020-10?amp"
 type: article
 quality: 103
-heat: 163
+heat: 143
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/9/3f/93f90a3a-974a-5aa9-82d3-a392afd2d0db/5f8b7e7bbb587.image.jpg?resize=1024%2C683"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Trump claims he is ‘not running scared’ — but says he may have to do 5 rallies a day: report"
-    excerpt: "President Donald Trump said he may increase the amount of time he spends campaigning before his second event of the day in Arizona. CBS News White House correspondent Mark Knoller reported on Trump’s comments to reporters."
-    publishedDateTime: 2020-10-20T11:37:00Z
-    webUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/"
-    ampWebUrl: "https://www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/10/trump-claims-he-is-not-running-scared-but-says-he-may-have-to-do-5-rallies-a-day-report/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 64
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-18-at-5.11.31-PM.png"
-        width: 800
-        height: 430
         isCached: true
 
 secured: "DRqN6kPU7uvL4jLdx/k1vrBEDl89irZd81lMl3UBLT2BcaqclP19I2r3K/98aGI6Y/8ro2a8tLzJwoYHm6DdG0sRxmuiIxjW0v9ZrAksg2kHwU0pJs5h0GmaBwiKWLVYmndqx+cpAz1PvUsGgz7cbKcYTtQnNtZxg7PBRGCxthWDxY05H72z9XWQ1RCeDBXs14jHNR4Bx1sh+kqxpOrW5HxMoDqh704dc3OjY7v944kKmojsszOsGgYVmNMbBZiC2aqrlolsM664y+OLUKWMCNo2DO2NOQDTC8nSvVZTyZS/eS1uKk+Dtfq818xwFP5GlHVvsobinyUCFWHTbdYfIWlFXVHMOdQulQ7aGVdLMOY=;tCvfBPfKYVZSUmKtsMolcw=="

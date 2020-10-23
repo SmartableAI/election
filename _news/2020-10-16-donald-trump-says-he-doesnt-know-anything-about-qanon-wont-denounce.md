@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facebook pulled 48 Trump election campaign ads which told people 'your vote has not been counted'"
+    excerpt: "Some 399,000 saw the ads from the Trump campaign before Facebook pulled it, which was potentially misleading to some voters."
+    publishedDateTime: 2020-10-23T15:44:00Z
+    webUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-pulled-48-trump-ads-saying-votes-have-not-counted-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 127
+    images:
+      - url: "https://i.insider.com/5f92f8b4212113001874071a?width=1200&format=jpeg"
+        width: 780
+        height: 390
+        isCached: true
   - title: "Trump administration sets Gulf of Mexico drilling auction for Nov. 18"
     excerpt: "The Trump administration on Thursday said it would offer all available areas in the Gulf of Mexico for auction to oil and gas drillers on Nov. 18, the first major test of the offshore sector's appetite for investment since early this year."
     publishedDateTime: 2020-10-15T19:24:00Z
@@ -267,21 +283,21 @@ related:
         width: 703
         height: 545
         isCached: true
-  - title: "Betting markets give Trump slightly improved chances after debate"
-    excerpt: "U.S. President Donald Trump's probability of getting re-elected gained slightly on online betting markets following Thursday's final presidential debate."
-    publishedDateTime: 2020-10-23T09:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-gambling-idUSKBN27812E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27812E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27812E"
+  - title: "Frank Bruni column: That’s the last we need to hear from Trump"
+    excerpt: "It’s funny that everybody talks about Joe Biden as the old jalopy in this race, because on Thursday night in Nashville, Tennessee, it was President Donald Trump who seemed to be running on fumes."
+    publishedDateTime: 2020-10-23T14:53:00Z
+    webUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-presidential-debate-trump-running-on-fumes-20201023-mhkjpvf5a5eivjfjv4w6zdddcu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/featured/sns-nyt-op-presidential-debate-trump-running-on-fumes-20201023-mhkjpvf5a5eivjfjv4w6zdddcu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/featured/sns-nyt-op-presidential-debate-trump-running-on-fumes-20201023-mhkjpvf5a5eivjfjv4w6zdddcu-story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201023&t=2&i=1538576756&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9M0MP"
-        width: 873
-        height: 545
+      - url: "https://www.chicagotribune.com/resizer/mRvxJ7qfTKtJnOi7GWgrW3GLonA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/DOEMDVZDDVC4HA4DPWDEWCIR3I.jpg"
+        width: 1200
+        height: 843
         isCached: true
   - title: "Trump posts unedited '60 Minutes' interview before it airs"
     excerpt: "President Donald Trump has posted full, unedited interviews that he and the vice president did with “60 Minutes” on Facebook before the show’s scheduled broadcast this weekend"
@@ -298,6 +314,22 @@ related:
       - url: "https://s.abcnews.com/images/Entertainment/WireAP_0b7ad05b91a84368812520cf3bcff18f_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "‘What’s happening out there’ with Black men and Trump?"
+    excerpt: "Tens of thousands of Black men, mostly, in jail. And you know what? They remember it because if you look at what’s happening with the voting right now, they remember that you treated them very, very badly."
+    publishedDateTime: 2020-10-23T15:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2020/10/23/whats-happening-out-there-with-black-men-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PMR5PFALTUI6XBYZBXYVTUKHSQ.jpg&w=1440"
+        width: 1440
+        height: 935
         isCached: true
   - title: "How to Watch, Live Stream Donald Trump's NBC Town Hall in Place of Debate"
     excerpt: "The event will be moderated by Today co-host Savannah Guthrie, who will direct a conversation between Trump and Florida voters."
@@ -603,22 +635,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The final debate could be Trump's last chance to turn the race around: He's already attacking the moderator"
-    excerpt: "Trump praised Welker in the past, complementing her in January for landing a gig on NBC's \"Today\" show. \"They made a very wise decision,\" Trump said."
-    publishedDateTime: 2020-10-20T00:25:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/18/trump-attack-third-debate-moderator-kristen-welker-unfair/3704010001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3704010001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3704010001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 107
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/18/USAT/a2b11f88-7c73-4171-9166-a5534fdcbde3-XXX_Welker_Kristen_2_dcb.JPG?auto=webp&crop=2999,1687,x1,y128&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Trump keeps confusing the name of new hard-to-kill missiles the US military is working on with a toothbrush"
     excerpt: "Not only does Trump keep getting the name wrong, but he has also provided conflicting information on what the weapon actually does."
     publishedDateTime: 2020-10-20T23:23:00Z
@@ -663,17 +679,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Twitter raps Trump COVID-19 adviser as U.S. cases rise"
-    excerpt: "Twitter on Sunday removed a \"misleading\" tweet downplaying the efficacy of masks posted by a top coronavirus adviser to President Donald Trump, while U.S. cases surged before the Nov. 3 election."
-    publishedDateTime: 2020-10-19T01:36:00Z
-    webUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10"
-    ampWebUrl: "https://www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/twitter-raps-trump-covid-19-adviser-as-us-cases-rise-2020-10?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "GOP's Romney, long a Trump critic, voted — but not for Trump"
     excerpt: "Republican Sen. Mitt Romney said Wednesday that he's voted in the Nov. 3 election — but not for the leader of his party."
     publishedDateTime: 2020-10-22T00:16:00Z
@@ -779,22 +784,6 @@ related:
         width: 375
         height: 211
         isCached: true
-  - title: "Trump goes after Fauci, tries to buck up his campaign team"
-    excerpt: "President Donald Trump sought Monday to buck up his campaign staff two weeks from Election Day, dismissing the cautionary coronavirus advice of his scientific experts as well as polling showing him trailing Democratic rival Joe Biden across key battleground states."
-    publishedDateTime: 2020-10-19T19:17:00Z
-    webUrl: "https://www.chron.com/news/article/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-Biden-go-on-offense-in-states-they-re-15657351.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://s.hdnux.com/photos/01/14/61/52/20126397/73/375x250.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "Colbert Slams Trump for “Insane” Attempt to Defend Child Separation"
     excerpt: "The final debate was relatively muted compared—but Stephen Colbert, Jimmy Fallon, and Jimmy Kimmel still found plenty of Trump lines to tear apart."
     publishedDateTime: 2020-10-23T12:50:00Z
@@ -875,17 +864,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "Trump Elevates Former Pence Counsel To Lead Claims Court"
-    excerpt: "President Donald Trump appointed Judge Eleni Roumel to chief judge of the U.S. Court of Federal Claims on Monday, just nine months after her confirmation to the court."
-    publishedDateTime: 2020-10-20T00:57:00Z
-    webUrl: "https://www.law360.com/articles/1320975/trump-elevates-former-pence-counsel-to-lead-claims-court"
-    ampWebUrl: "https://www.law360.com/amp/articles/1320975"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1320975"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 70
   - title: "VP Mike Pence Campaigns for Trump in Portsmouth"
     excerpt: "After Vice President Mike Pence touched down for a rally at the Pease International Tradeport in Portsmouth, he stressed core conservative issues – and the"
     publishedDateTime: 2020-10-22T21:15:00Z
@@ -1074,17 +1052,6 @@ related:
         width: 846
         height: 571
         isCached: true
-  - title: "Obama Blasts Trump's Tweets, Track Record in 2020 Campaign Trail Debut"
-    excerpt: "Former President Barack Obama returned to the campaign trail on Wednesday with a blistering attack on Donald Trump with less than two weeks to go before the Republican president's Election Day face-off with Democratic nominee Joe Biden."
-    publishedDateTime: 2020-10-23T12:53:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-21/after-keeping-low-profile-on-campaign-trail-obama-makes-debut-for-biden?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
   - title: "Trump, GOP Leaders Will Appeal North Carolina Ballot Ruling"
     excerpt: "President Donald Trump’s campaign says it will ask a federal appeals court to force North Carolina to revert to stricter absentee ballot rules."
     publishedDateTime: 2020-10-15T18:30:00Z

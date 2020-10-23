@@ -412,6 +412,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What and where to watch as Trump and Biden meet in Ohio for tonight’s first debate"
+    excerpt: "Here's what to watch for (and how to watch) when President Donald Trump and Joe Biden meet in their first debate Tuesday."
+    publishedDateTime: 2020-09-29T14:54:00Z
+    webUrl: "https://www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/election-2020/ct-debate-donald-trump-joe-biden-20200929-i3327hsuj5d4rlbert5fevr7rq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 134
+    images:
+      - url: "https://www.chicagotribune.com/resizer/lQ7f90Dem0Z5CM0jOksOmGwuBn4=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KYX7UR7W5JBIZBUKIFUJDCU4LE.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden says 'it's hard to get a word in with this clown' after Trump interrupts him"
     excerpt: "Biden turned his exasperation at Trump cutting him off and going after his family into a plea for the debate to focus on American families."
     publishedDateTime: 2020-09-30T10:46:00Z
@@ -778,19 +794,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "2020 election updates: Trump signs bill to avert shutdown, COVID-19 stimulus talks find life, Trump and Biden campaign after first debate"
-    excerpt: "Trump signed a bill early Thursday to avert a government shutdown, stimulus talks continue and Biden and Trump campaign after the first debate."
-    publishedDateTime: 2020-10-01T12:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/01/2020-election-updates-trump-biden-campaign-stimulus-bill-stalled/3549579001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/3549579001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3549579001"
+  - title: "Trump and Biden will share the stage at the presidential debate. Here are other times were in the same room"
+    excerpt: "The candidates have not been spotted in the same place recently, though there have been a few times over the years they've been at the same event."
+    publishedDateTime: 2020-09-29T23:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/09/29/presidential-debate-times-trump-biden-were-same-place/3579445001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/3579445001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3579445001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 122
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/01/USAT/2996b61d-468a-4144-96ce-e50fef429864-AFP_AFP_8R48HV.jpg?auto=webp&crop=5801,3264,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/29/USAT/045de2ed-c185-4793-8524-7551ec5897dd-XXX_IMG_XXX_JG_137685_BUSH_F_1_1_87NI1U22.JPG?auto=webp&crop=5263,2961,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

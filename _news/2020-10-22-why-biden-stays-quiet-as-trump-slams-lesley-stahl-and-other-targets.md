@@ -780,6 +780,20 @@ related:
         width: 996
         height: 560
         isCached: true
+  - title: "Top pro-Trump super PAC takes aim at Biden in $10M final push"
+    excerpt: "EXCLUSIVE: The leading outside group supporting President Trump's re-election bid is launching a final ad blitz starting Saturday that takes aim at Democratic presidential nominee Joe Biden in TV ads to run in some of the crucial battleground states that will decide the winner of the White House race."
+    publishedDateTime: 2020-10-23T14:56:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2tVTluZ0ZZo/pro-trump-super-pac-final-ad-blitz-biden"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297054891763-e1603463644972.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jon Voight slams Biden, says Trump 'must win' election"
     excerpt: "Jon Voight shared a passionate video Friday in which he declares his support for President Trump and attacks former Vice President Joe Biden. In the two-minute video posted to his Twitter account, Voight takes shots at the left,"
     publishedDateTime: 2020-10-17T14:54:00Z
@@ -1063,6 +1077,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20283447506915.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Liz Peek: Winners and losers at final presidential debate – What the Trump, Biden scorecard looks like now"
+    excerpt: "At the final presidential debate, Trump came prepared to show the country that he could be civil, stay (mostly) on topic, and still beat Biden."
+    publishedDateTime: 2020-10-23T15:38:00Z
+    webUrl: "https://www.foxnews.com/opinion/winners-and-losers-presidential-debate-trump-biden-liz-peek"
+    ampWebUrl: "https://www.foxnews.com/opinion/winners-and-losers-presidential-debate-trump-biden-liz-peek.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/winners-and-losers-presidential-debate-trump-biden-liz-peek.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/340/340/liz_peek_headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Another former Republican National Committee chairman endorses Joe Biden for president"
     excerpt: "Michael Steele, who became the first Black chairman of the Republican National Committee a decade ago, has endorsed Democratic nominee and former Vice President Joe Biden in the 2020 presidential race."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 990
+heat: 1010
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022212519-32-debate-nashville-1022-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Joe Biden maintains big cash advantage in campaign's waning days"
+    excerpt: "Former Vice President Joe Biden and aligned Democratic committees maintained a substantial cash advantage of more than $107 million over President Donald Trump and his political operation in the final weeks of the campaign, according to a new round of filings that capture last-minute fundraising and"
+    publishedDateTime: 2020-10-23T15:03:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/W6UUK409UcI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/23/politics/biden-trump-cash-on-hand/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/23/politics/biden-trump-cash-on-hand/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201022212514-30-debate-nashville-1022-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
