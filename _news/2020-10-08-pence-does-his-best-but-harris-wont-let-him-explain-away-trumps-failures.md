@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/08/politics/kamala-harris-mike-pence-trump-debate/index.html"
 type: article
 quality: 223
-heat: 2503
+heat: 2523
 published: true
 
 provider:
@@ -1006,6 +1006,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_41/3418154/201007-mike-pence-jm-0811_53cb1cc218306b128f4dbfc7d99b0ddb.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Fact check: Pence echoes Trump's false claims at vice presidential debate"
+    excerpt: "(CNN)Vice President Mike Pence echoed some of President Donald Trump's most common falsehoods and misleading statements during the lone vice presidential debate with Sen. Kamala Harris on ..."
+    publishedDateTime: 2020-10-08T04:27:00Z
+    webUrl: "https://www.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 149
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201006150934-01-kamala-harris-mike-pence-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Best and Worst Moments of the Kamala Harris-Mike Pence Debate: ‘Most Bizarre Moment Was the Fly’"
     excerpt: "Welcome to Opinion’s commentary for the vice-presidential debate between Kamala Harris and Mike Pence. In this special feature, Times Opinion writers pick the winner and then rank the victory on a scale of 1 to 10: 1 means it was a very narrow win;"

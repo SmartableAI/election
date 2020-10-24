@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/15/politics/donald-trump-osama-bin-laden-conspiracy-theory-fact-check/index.html"
 type: article
 quality: 174
-heat: 334
+heat: 354
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Chuck Todd: “This path is more treacherous by the day for Donald Trump”"
+    excerpt: "To win re-election, Chuck Todd shows that President Trump would have to win in all four of the following close states: Arizona, Pennsylvania, North Carolina and Florida."
+    publishedDateTime: 2020-10-23T00:06:00Z
+    webUrl: "https://www.nbcnews.com/now/video/chuck-todd-this-path-is-more-treacherous-by-the-day-for-donald-trump-94442053697"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94442053697"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94442053697"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/ott_now_debate_trumppath_201022_1603413994454.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Trump's MAGA rally messaging is as erratic as he is. No wonder he's sinking in the polls."
     excerpt: "Trump’s message this go around is, quite simply, as all over the place as Trump is. And it seems likely that this chaos is contributing to Trump trailing Democratic opponent Joe Biden nationally by 14 points in a recent NBC/WSJ poll."

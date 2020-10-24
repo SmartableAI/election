@@ -198,6 +198,15 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 55
+  - title: "Vice President Mike Pence rallies base during MAGA rally in Fort Wayne"
+    excerpt: "The Hoosier state is a stronghold for Republicans, which experts say, raises the question of why the vice president is campaigning here in the critical two weeks prior to the election. Political science associate professor Doctor Laura Wilson told us this is about supporting other Republicans on the ballot and getting as many Hoosiers to the polls as possible."
+    publishedDateTime: 2020-10-23T22:43:00Z
+    webUrl: "https://fox59.com/video/vice-president-mike-pence-rallies-bese-during-maga-rally-in-fort-wayne/5962269/"
+    type: article
+    provider:
+      name: FOX59 News
+      domain: fox59.com
+    quality: 35
 
 secured: "HSGyCO+5eozbV/IpDh2yrZ7RA7l9kZHovZjPfMKlSPxYyTS7wI/WpzMlMQjR84Ox/3rerHcxKzOpe576pLk1p96QDLetcWufp9UW98UL0eU0DO8Hbs7XEARmqKVfJQoLTrreunourMmEOrG4rhW+QIXa+Ma+PX+wAXXHDiIsQn7oPbeAxvgaRIhqPyKNmfaU6d8A5JyDCJFMl4ztlSCk2cOwT7Tl46NdvpGsCUKw5WfPSl4SpWmu4Q0KoKmJmWrzooInMfxN/epxN+blu+52dvk8NjrauoSaLTdyL61w75qmFiSMURZmp2cYbOzZda+Gw/nD/2tshXWg/J0S/NAATMxlfsG1PYAG+YuhOoJLGizm21TiSsHnIsPudXCN+zAQrvhIU97v/JNiQQPl+vrG7v/VxACpoWyZmjEycOd1wIKM/NHVIIwfiOVHfdF+58AZcdvUjbpByh8YCkuAr26Q2L2W6ZouHPbIwVUnidK2SEqSt5RX83eBt1lSVd4Ijp2TgbZsEhcPKAyDKipIVs4fug==;KDefg+Q1J5cpqcNuG+0Z/Q=="
 ---

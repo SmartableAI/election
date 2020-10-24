@@ -215,58 +215,6 @@
       ]
     },
     {
-      "path": "_news/2020-10-23-presidential-historian-meacham-describes-trump-supporters-as-anguished-white-guys-with-a-lizard-brain.md",
-      "title": "Presidential historian Meacham describes Trump supporters as 'anguished' white guys with 'a lizard brain'",
-      "excerpt": "Presidential historian Jon Meacham referred to President Trump's supporters as \"anguished, nervous\" white men with a \"lizard brain\" during post-debate coverage of the second and final showdown between",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white",
-      "originalUrl": "https://thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumprally8_06202020_gettyimages.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/522428-presidential-historian-meacham-describes-trump-supporters-as-anguished-white?amp",
-      "publishedDateTime": "2020-10-23T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2020-10-23-election-2020-live-updates-after-a-more-civil-final-debate-trump-and-pence-head-to-battleground-states-biden-to-talk-covid.md",
       "title": "Election 2020 live updates: After a more civil final debate, Trump and Pence head to battleground states, Biden to talk COVID",
       "excerpt": "The final presidential debate between Joe Biden and Donald Trump was more civil Thursday. Now the two camps hit the campaign trail in final 11 days.",
@@ -275,7 +223,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2020/10/23/election-2020-updates-trump-pence-head-battlegrounds-after-debate/3679810001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1953,
+      "heat": 2053,
       "tags": null,
       "images": [
         {
@@ -456,6 +404,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-donald-trumps-abraham-lincoln-comparison-at-debate-sparks-wave-of-memes.md",
+      "title": "Donald Trump's Abraham Lincoln Comparison at Debate Sparks Wave of Memes",
+      "excerpt": "Joe Biden mocked the comparison and called Trump \"one of the most racist presidents we've had in modern history,\" in the final presidential debate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
+      "originalUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1657664/donald-trump.jpg",
+          "width": 2500,
+          "height": 1563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-abraham-lincoln-comparison-memes-1541593?amp=1",
+      "publishedDateTime": "2020-10-23T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

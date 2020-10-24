@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cincinnati.com/amp/3708424001"
 cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/3708424001"
 type: article
 quality: 90
-heat: 610
+heat: 630
 published: true
 
 provider:
@@ -266,6 +266,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/23/NLED/db4b2e3c-9890-4f25-9471-2df0ec376927-AP20297635071213.jpg?auto=webp&crop=4971,2796,x0,y127&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "FOX 8 goes one-on-one with Vice President Mike Pence as he campaigns here in Ohio"
+    excerpt: "With 11 days until the election, Vice President Mike Pence made one more campaign stop here in Ohio. Vice President Mike Pence holds rally in Swanton, Ohio He addressed supporters at an airport near Toledo,"
+    publishedDateTime: 2020-10-23T22:18:00Z
+    webUrl: "https://fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/"
+    ampWebUrl: "https://fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/amp/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 70
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/10/CE7793DD42C84403A9EA28D45D016595.jpg?w=1280"
+        width: 800
+        height: 450
         isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."

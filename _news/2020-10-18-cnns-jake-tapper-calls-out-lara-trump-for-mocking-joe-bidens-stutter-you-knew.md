@@ -698,6 +698,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump calls Biden's 'transition from' oil comments 'perhaps most shocking admission ever made'"
+    excerpt: "President Trump said Democratic nominee Joe Biden’s remarks on transitioning away from the oil industry were “perhaps the most shocking admission ever made during a debate.”"
+    publishedDateTime: 2020-10-23T22:11:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wbEiQnQfFMA/trump-biden-transition-from-oil-shocking-admission"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-transition-from-oil-shocking-admission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-transition-from-oil-shocking-admission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20297083042965-e1603466224157.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump campaign rakes in massive $247.8M in September, though still short of Biden fundraising haul"
     excerpt: "The Trump campaign and the Republican National Committee (RNC) raised a massive $247.8 million in September, an impressive haul as the 2020 cycle hit its final stretch -- though still short of his Democratic rival Joe Biden who raked in $383 million in the same time period."
     publishedDateTime: 2020-10-16T13:13:45Z
@@ -1087,6 +1103,22 @@ related:
     quality: 139
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/519d1dce-d470-4ec6-8e31-2cc28ea5750b/3f026495-75f6-4585-a64c-271e52683b7a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mike Huckabee: Trump will move America forward, Biden would return US to disastrous Obama era"
+    excerpt: "The final debate Thursday night between President Trump and former Vice President Joe Biden showed the American people exactly what is at stake in this election."
+    publishedDateTime: 2020-10-23T23:37:00Z
+    webUrl: "https://www.foxnews.com/opinion/biden-trump-final-debate-mike-huckabee"
+    ampWebUrl: "https://www.foxnews.com/opinion/biden-trump-final-debate-mike-huckabee.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/biden-trump-final-debate-mike-huckabee.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/963f5bf2-9335-4886-a3c9-1ee87dfa8459/f344b739-f3d5-4279-925c-6f9f7b6ed52f/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

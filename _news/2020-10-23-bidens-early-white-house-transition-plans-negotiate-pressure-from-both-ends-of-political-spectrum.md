@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-transition-woes-come-from
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-transition-woes-come-from-both-sides-of-the-aisle.amp"
 type: article
 quality: 161
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20292546371996-e1603120143918.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Democratic Rep. Xochitl Torres Small slams Biden over oil remarks at debate, says policy is 'out of touch'"
+    excerpt: "N.M., pushed back Thursday night after her party’s presidential nominee, Joe Biden, said he would pursue policies that would “transition from the oil industry” if elected to office. When asked about his approach to energy policy during the final presidential debate,"
+    publishedDateTime: 2020-10-23T21:59:00Z
+    webUrl: "https://www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks"
+    ampWebUrl: "https://www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-rep-xochitl-torres-small-biden-oil-remarks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/62eb375b-2614-452e-a194-9b9665c58ee5/4bd50378-6878-40f5-aec4-aefdb644aaf6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "iysqIfMxGpqYb5NDiYyq+ke/1/PqzlL4rg3np1fhooymBoaY5ioayclx4wPYaKX+3rnDEjVlNLwizmhpjeQPSneinCfPShKOkZgiWWw59qP8WrDQAXUw85lIhn0MmBZKga9H/W8VZ7iBIpND/UnCJuxOzIyvj+lgPMHWw05I0isSjrqFKC5s5DuUNafQ47NahXHot3KUmiBX9x3+BpoNsfGTVELqNEQ3eL6CUoS/c8ec5asogdcMc7D10fuz1pxbQ+JLkFx8lU3hzJrffkYNwrV1+HH6KwgWBGNHdgEBMLjCMb95Q2I3CaDtZRV6pDYTdD+8/tGRGZ3Tleu+2PkwTIG741J2TjLvJMwJCA/VXvc=;zMB0bOKZtS9jCYP3rZAL7g=="

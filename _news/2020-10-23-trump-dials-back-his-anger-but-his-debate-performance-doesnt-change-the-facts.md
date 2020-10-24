@@ -63,6 +63,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Tried to Blur Responsibility for His Family Separation Policy in Final Debate"
+    excerpt: "President Trump repeatedly hurled the phrase “They built the cages” at his debate opponent Thursday, but separating children from parents was a policy all his own."
+    publishedDateTime: 2020-10-23T23:27:00Z
+    webUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/23/us/politics/trump-child-separation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "w5VIIG/vHxEn8pPXhB169iC54lmpKHiehStoFA9BRANdj+oqoF3IRyCUm1OBc4/mftGhW/uVmb38HU59lUJRsGoba15BA6bmc7/Ilg/gJy2ceDTvNltcSRS8NZwX36urC4SvOoa2o2GlXpobiLRmCbBHBnvC8iweFrsePTWi3BtX0ethFrXsvuk2LdLWSTKIPEeZv3RJb1V+WErWy+VvT11uBp4GcQTPJbfId3fd9aBeW6cNgRxNdXDwg2WlLIAQ2xqubU8tK8qtzQDKNrzcyzbcNP5dOSCGCPucPTTJZbPUKXI3KCmzc+rtQeyxAIFAmRp9ulxBRyiD6u2XcE0PYeoGvu3HBedsMvDfAbtjfcE=;NRVTHYzzhLXy5w+NfTqQKA=="
 ---

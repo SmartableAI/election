@@ -542,6 +542,38 @@ related:
         width: 4692
         height: 3126
         isCached: true
+  - title: "Left-wing groups seek to pressure Biden on chief of staff pick"
+    excerpt: "The poll is part of a larger progressive pressure campaign to limit the presence of business-friendly Democrats in a Biden White House."
+    publishedDateTime: 2020-10-23T21:38:00Z
+    webUrl: "https://www.politico.com/news/2020/10/22/left-wing-groups-poll-biden-chiefs-of-staff-430923"
+    ampWebUrl: "https://www.politico.com/amp/news/2020/10/22/left-wing-groups-poll-biden-chiefs-of-staff-430923"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/10/22/left-wing-groups-poll-biden-chiefs-of-staff-430923"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/13/e1/9fa3902e4149881a8b620943a673/gettyimages-1229225863-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Suspect accused of plotting to assassinate Joe Biden"
+    excerpt: "Officials allege a man from Washington state took steps toward plotting to kill Joe Biden this spring, but may have been intent on carrying out a mass attack. The man only faces child pornography charges and has pleaded not guilty."
+    publishedDateTime: 2020-10-23T22:56:00Z
+    webUrl: "https://www.nbcnews.com/nightly-news/video/suspect-accused-of-plotting-to-assassinate-joe-biden-94515269593"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo94515269593"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo94515269593"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_pwi_nc_man_plot_against_biden_201023_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Feds examining if alleged Hunter Biden emails are linked to a foreign intel operation"
     excerpt: "One email, which has not been confirmed to be authentic, suggested a meeting between Joe Biden and a rep from a Ukraine firm that once paid his son Hunter."
     publishedDateTime: 2020-10-16T00:45:00Z

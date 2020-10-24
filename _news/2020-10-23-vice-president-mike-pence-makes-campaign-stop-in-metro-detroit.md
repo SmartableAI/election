@@ -267,6 +267,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FOX 8 goes one-on-one with Vice President Mike Pence as he campaigns here in Ohio"
+    excerpt: "With 11 days until the election, Vice President Mike Pence made one more campaign stop here in Ohio. Vice President Mike Pence holds rally in Swanton, Ohio He addressed supporters at an airport near Toledo,"
+    publishedDateTime: 2020-10-23T22:18:00Z
+    webUrl: "https://fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/"
+    ampWebUrl: "https://fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/amp/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 70
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/10/CE7793DD42C84403A9EA28D45D016595.jpg?w=1280"
+        width: 800
+        height: 450
+        isCached: true
   - title: "\"The election is a choice between free enterprise system and socialist policies,\" says Vice President Mike Pence"
     excerpt: "EXTENSION WINDOW BEGINS TO CLOSE. >> WITH TWO WEEKS UNTIL THE PRESIDENTIAL ELECTION VICE PRESIDENT MIKE PENCE TALKED TO SUPPORTERS AT THE CAPITAL CITY AIRPORT IN NEW CUMBERLAND TODAY. GOOD EVENING. >> WGAL NEWS 8 BARBARA SPOKE TO HIM IN A ONE-ON-ONE ..."
     publishedDateTime: 2020-10-20T02:49:00Z

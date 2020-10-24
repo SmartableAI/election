@@ -1108,6 +1108,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris knocks Trump multiple times for questioning Obama's birthplace"
+    excerpt: "Democratic vice presidential nominee Sen. Kamala D. Harris knocked President Trump multiple times on Friday for questioning whether former President Barack Obama was born in the United States."
+    publishedDateTime: 2020-10-23T22:53:00Z
+    webUrl: "https://www.washingtontimes.com/news/2020/oct/23/kamala-harris-knocks-trump-multiple-times-for-ques/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2020/oct/23/kamala-harris-knocks-trump-multiple-times-for-ques/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2020/oct/23/kamala-harris-knocks-trump-multiple-times-for-ques/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 87
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/23/Election_2020_Harris_67523.jpg-ffc7d_c0-75-1792-1120_s1200x700.jpg?8157d32486336fcd9b727fe5d5751534d97aa3fc"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Election 2020 Polls: Trump Is Losing White Voters' Support In Key Swing States"
     excerpt: "Recent polls indicates Democratic presidential nominee Joe Biden leads Trump among white voters in predominantly white swing states."
     publishedDateTime: 2020-09-22T03:44:00Z

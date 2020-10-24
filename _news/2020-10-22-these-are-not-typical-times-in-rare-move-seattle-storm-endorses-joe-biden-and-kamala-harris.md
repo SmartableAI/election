@@ -150,6 +150,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Watch live: Biden participates in HBCU homecoming"
+    excerpt: "Democratic presidential candidate Joe Biden and and his running mate, Kamala Harris, on Friday evening are slated to participate in a HBCU Homecoming rally hosted by actor and comedian Tiffany Hadish."
+    publishedDateTime: 2020-10-23T23:09:00Z
+    webUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming"
+    ampWebUrl: "https://thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/522531-watch-live-biden-participates-in-hbcu-homecoming?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Countdown: Avengers stars quiz Kamala Harris and what to wear to vote"
     excerpt: "Thirteen days left and we look at what you can wear when you go vote and who gets to question Kamala Harris. It was Democrat vice-presidential pick Kamala Harris's birthday yesterday and the cast of the Avengers held a fundraiser over Zoom where they got to question her."
     publishedDateTime: 2020-10-21T17:26:00Z
@@ -229,6 +245,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201015&t=2&i=1537597034&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9E18Q"
         width: 780
         height: 545
+        isCached: true
+  - title: "Florida man says he was fired for revealing company warned of layoffs if Biden wins"
+    excerpt: "A worker in central Florida was allegedly fired for revealing a letter from his boss to company employees warning of layoffs if Democratic presidential candidate Joe Biden wins the election."
+    publishedDateTime: 2020-10-23T23:27:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/522541-florida-man-says-he-was-fired-for-revealing-company-warned-of-layoffs-if?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 119
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenyardsign_092220getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Kamala Harris tests negative for COVID-19 after 2 associated with campaign test positive"
     excerpt: "Sen. Kamala Harris will not return to in-person campaigning until Monday after her communications director tested positive for COVID-19 Wednesday night."

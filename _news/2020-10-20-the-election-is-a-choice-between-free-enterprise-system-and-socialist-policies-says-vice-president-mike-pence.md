@@ -283,6 +283,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FOX 8 goes one-on-one with Vice President Mike Pence as he campaigns here in Ohio"
+    excerpt: "With 11 days until the election, Vice President Mike Pence made one more campaign stop here in Ohio. Vice President Mike Pence holds rally in Swanton, Ohio He addressed supporters at an airport near Toledo,"
+    publishedDateTime: 2020-10-23T22:18:00Z
+    webUrl: "https://fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/"
+    ampWebUrl: "https://fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/amp/"
+    cdnAmpWebUrl: "https://fox8-com.cdn.ampproject.org/c/s/fox8.com/news/fox-8-goes-one-on-one-with-vice-president-mike-pence-as-he-campaigns-here-in-ohio/amp/"
+    type: article
+    provider:
+      name: FOX8 Cleveland
+      domain: fox8.com
+    quality: 70
+    images:
+      - url: "https://fox8.com/wp-content/uploads/sites/12/2020/10/CE7793DD42C84403A9EA28D45D016595.jpg?w=1280"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Vice President Mike Pence returning to Ohio on Friday, two days after Cincinnati visit"
     excerpt: "President Donald Trump and Democrat Joe Biden clash in their final debate, Vice President Mike Pence is returning to battleground Ohio."
     publishedDateTime: 2020-10-22T12:31:00Z
