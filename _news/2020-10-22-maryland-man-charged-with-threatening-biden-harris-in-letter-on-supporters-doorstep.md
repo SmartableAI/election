@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2762NM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2762NM"
 type: article
 quality: 143
-heat: 1803
+heat: 1823
 published: true
 
 provider:
@@ -1185,6 +1185,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden delivers remarks in Wilmington, Delaware, on the coronavirus pandemic and his campaign’s plan to combat the virus. 2020 Democratic presidential candidate Joe Biden delivers remarks in Wilmington,"
     publishedDateTime: 2020-10-23T18:00:00Z
     webUrl: "https://www.c-span.org/video/?477287-1/joe-biden-unveils-coronavirus-pandemic-recovery-plan"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Campaigns in Cleveland, Ohio"
+    excerpt: "Democratic vice presidential nominee Senator Kamala Harris (D-CA) campaigns in Cleveland, Ohio. Senator Kamala Harris (D-CA) responded to reporters' questions about President Trump’s criticism of Hunter Biden"
+    publishedDateTime: 2020-10-24T07:53:00Z
+    webUrl: "https://www.c-span.org/video/?477337-1/senator-kamala-harris-campaigns-cleveland-ohio"
     type: article
     provider:
       name: C-SPAN

@@ -1193,6 +1193,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Senator Kamala Harris Campaigns in Cleveland, Ohio"
+    excerpt: "Democratic vice presidential nominee Senator Kamala Harris (D-CA) campaigns in Cleveland, Ohio. Senator Kamala Harris (D-CA) responded to reporters' questions about President Trump’s criticism of Hunter Biden"
+    publishedDateTime: 2020-10-24T07:53:00Z
+    webUrl: "https://www.c-span.org/video/?477337-1/senator-kamala-harris-campaigns-cleveland-ohio"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
     excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
     publishedDateTime: 2020-10-19T16:53:00Z

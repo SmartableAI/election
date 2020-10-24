@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-calls-trump-debate-perform
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-calls-trump-debate-performance-national-embarrassment-kicks-off-train-tour/story?id=73340823"
 type: article
 quality: 133
-heat: 513
+heat: 533
 published: true
 
 provider:
@@ -292,6 +292,15 @@ related:
     excerpt: "Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. 2020 Democratic presidential candidate Joe Biden campaigns in Erie, Pennsylvania. Joe Biden, a 2020 Democratic presidential candidate,"
     publishedDateTime: 2020-10-10T13:05:00Z
     webUrl: "https://www.c-span.org/video/?476864-1/joe-biden-campaigns-erie-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Joe and Jill Biden Campaign in Bucks County, Pennsylvania"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Erie, Pennsylvania. He talked about the economy,… 2020 Democratic presidential nominee Joe Biden and his wife Jill Biden toured eastern Ohio and western Pennsylvania by train the day after Mr."
+    publishedDateTime: 2020-10-24T08:02:00Z
+    webUrl: "https://www.c-span.org/video/?477335-1/joe-jill-biden-campaign-bucks-county-pennsylvania"
     type: article
     provider:
       name: C-SPAN

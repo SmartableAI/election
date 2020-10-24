@@ -959,22 +959,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Viewership for 2nd Trump-Biden debate drops to 63 million"
-    excerpt: "The final presidential debate between President Donald Trump and his Democratic opponent Joe Biden drew much less viewers than their first meeting"
-    publishedDateTime: 2020-10-24T00:53:00Z
-    webUrl: "https://abcnews.go.com/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
-    ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_e6841cc1f3f646468133c33ea1c0711f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
     publishedDateTime: 2020-09-18T23:29:00Z
@@ -2375,6 +2359,17 @@ related:
         width: 810
         height: 534
         isCached: true
+  - title: "Trump, Biden fight over the raging virus, climate and race"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus during the campaign's closing debate, largely shelving the rancor that overshadowed their previous face-off in favor of a more substantive exchange that highlighted their vastly different approaches to the major domestic and foreign challenges facing the nation."
+    publishedDateTime: 2020-10-24T08:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "U.S. stock futures dip, yen gains after final Trump-Biden debate"
     excerpt: "U.S. stock futures dipped and the Japanese yen ticked up on Friday after a final debate between U.S. President Donald Trump and Democratic challenger Joe Biden merely hardened investors' caution heading into the election."
     publishedDateTime: 2020-10-24T01:29:00Z
@@ -4456,6 +4451,17 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Viewership for 2nd Trump-Biden Debate Drops to 63 Million"
+    excerpt: "The final presidential debate between President Donald Trump and his Democratic opponent Joe Biden drew much less viewers than their first meeting."
+    publishedDateTime: 2020-10-24T08:11:00Z
+    webUrl: "https://www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers"
+    ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Vice President Mike Pence speaks at Workers for Trump event in Zanesville"
     excerpt: "Just 48 days before Election Day, Vice President Mike Pence spoke Wednesday at a Workers for Trump event in Zanesville Wednesday. Caption: Vice President Mike Pence speaks at Workers for Trump event in Zanesville."
     publishedDateTime: 2020-09-20T14:56:00Z

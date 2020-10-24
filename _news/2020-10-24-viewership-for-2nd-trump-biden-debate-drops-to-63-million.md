@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Viewership for 2nd Trump-Biden debate drops to 63 million"
-excerpt: "The final presidential debate between President Donald Trump and his Democratic opponent Joe Biden drew much less viewers than their first meeting"
-publishedDateTime: 2020-10-24T00:53:00Z
-originalUrl: "https://abcnews.go.com/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
-webUrl: "https://abcnews.go.com/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
-ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/final-trump-biden-presidential-debate-draws-63m-viewers-73796391"
+title: "Viewership for 2nd Trump-Biden Debate Drops to 63 Million"
+excerpt: "The final presidential debate between President Donald Trump and his Democratic opponent Joe Biden drew much less viewers than their first meeting."
+publishedDateTime: 2020-10-24T08:11:00Z
+originalUrl: "https://www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers"
+webUrl: "https://www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers"
+ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2020-10-23/final-trump-biden-presidential-debate-draws-63m-viewers?context=amp"
 type: article
-quality: 140
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_e6841cc1f3f646468133c33ea1c0711f_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Ex-Pence adviser says Trump bungled virus; she's for Biden"
@@ -2375,6 +2369,17 @@ related:
         width: 810
         height: 534
         isCached: true
+  - title: "Trump, Biden fight over the raging virus, climate and race"
+    excerpt: "President Donald Trump and Democratic challenger Joe Biden fought over how to tame the raging coronavirus during the campaign's closing debate, largely shelving the rancor that overshadowed their previous face-off in favor of a more substantive exchange that highlighted their vastly different approaches to the major domestic and foreign challenges facing the nation."
+    publishedDateTime: 2020-10-24T08:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "U.S. stock futures dip, yen gains after final Trump-Biden debate"
     excerpt: "U.S. stock futures dipped and the Japanese yen ticked up on Friday after a final debate between U.S. President Donald Trump and Democratic challenger Joe Biden merely hardened investors' caution heading into the election."
     publishedDateTime: 2020-10-24T01:29:00Z
@@ -4814,6 +4819,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Wm8ACvrewuj3qRc/PxxbeXKtn8vR1LOXTMOvkAtIV/8SaQr29By7psOY6cf+smuerFVXG+Ipbx1bIIx1sJH1lGJ0QVzvLPz+iC4nY7itiLWQ8/tQf2z8y88of13Kx86MQJ77m0M80PrO+T/XzKaC3kNouDJq220Bz4ccakkY30h1k62HfYU5+bMEsEZZzoWnFV9cXxMNXsB16lLbgkzBvjRaxHKNLMhjoCPOqfa/XXcAu0/yiGyYsWYJi3jRInSmNzosZXbur6YVelUrlwLfI4tiD/Bm+7XYkr8sbpCgtszDIVLqMYTArPJfsHr2cDjsqKfBzd1TEvJ3oxPKwEha4fv4MR4GdbLQLjCYIOMl9NQ=;tqtkYh1qDqOL/4ipnbHXTQ=="
+secured: "c5ANvsVjf2JSMw+CIMRXQSixZSJX7k/XUgcJwyeWe92WN82N/V3jiObEsx3IE/ZFFbcr+q3uKPmAzYuWp0E9H+rJArhXw65+TxrkX/cgiRU6hfUvRsa26YwheZ6OegflNf9uvD9Z/4RHZ/lVzqn5MpAraoyK/jMFoWVPNoSl7OlXax8Z8RCbe42WRaPBGL7mfBSPGuSHnur5t2QFgbOldysG63xwpWibaugJTIqCp0+1c1dwet1YifvCT99IgLlwHFkU9RtCI0tRzi4ohrH/UzR9G6Za+gv2ptVMw/JkHEVNI+A+6jI1gcwcwBddaC/qjCc6YQpRtdd1BKMulpvgF/ZP4k/5pyoq+bca+SgsuNWUuEeAhrqmvGMqiiQfzwXbBpYKjnsg8O1X7orYAdfm5Np8NBvdlAP5R2sHUy7ZlhId/PWhRQhQzp2eDaYZjkG61R8MiuI7PPqz+Qq/+jC+bGxM8obmpZmvr/Y1bDCz1Hwi2QqGOpf1fsGIY3h6q96uygLl19Pt/IATB9mD9mn8Bw==;8c9qigbgHj1TvcksZfG/sg=="
 ---
 

@@ -292,6 +292,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Joe and Jill Biden Campaign in Bucks County, Pennsylvania"
+    excerpt: "Democratic presidential nominee Joe Biden spoke at a campaign event in Erie, Pennsylvania. He talked about the economy,… 2020 Democratic presidential nominee Joe Biden and his wife Jill Biden toured eastern Ohio and western Pennsylvania by train the day after Mr."
+    publishedDateTime: 2020-10-24T08:02:00Z
+    webUrl: "https://www.c-span.org/video/?477335-1/joe-jill-biden-campaign-bucks-county-pennsylvania"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "PM6uB2O21VyJiENDowl+GfH7FX8G1+3xVHn9VLzgOxJRuW23HgroZRyNFY0jJySuvNxOpdwbaZr1RZUhjFQhz32EMAwtVLQVfQAFpznpSdSsUZ97TMTMwHrhEcsAB6QrH4xyhJ6CY0TbQLopj7ATWx65lS8Z0y8xZI2dvFHnW1ykzqPGtK0KvcT9qHrNNZs81Wmx9/qT7cmMIyI17hGBGauBdUMpdHALk0lPO/6SNIjDUChR5OyejaeCtf/iWFAxtv8WFHtuclE8tmltdYPqLg6yLvRFywPqcFgpTdEhAuw+luk7oOSd43q1CqjhmgtjcEVp0WOUnTOT5Sre63FCNgCECWo//KzGiwYX5s/sqUWjiT1KLTzFmmYTlvhj0Xro3wIUAVZPwIPHWPreCLW9ut7dlSKXwuUZ+BE+npvsuE4sVGXp/18Q8HT8Wz7PNMqwc2Y3vhaUGiFo+KhWt8vkIr1wh4GEtFBLKHVSqaNKwxGeVdih3YX016QSyW4Zs/RVTjavF+r5lnqWzox0KtSW0Q==;p11sPas0eq67CErXIdYhrA=="
 ---

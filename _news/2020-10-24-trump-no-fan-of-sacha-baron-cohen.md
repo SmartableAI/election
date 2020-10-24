@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As Trump casts doubt on election, new agency contradicts him"
+    excerpt: "As President Donald Trump sows doubts about the election, an obscure government agency he created is working behind the scenes to inspire confidence in the vote amid unprecedented challenges"
+    publishedDateTime: 2020-10-24T08:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-casts-doubt-election-agency-contradicts-73801127"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump is considering firing FBI director Christopher Wray after the election, report says"
     excerpt: "Trump is reportedly furious that Wray and Attorney General Barr have not launched investigations targeting his Democratic rival Joe Biden."
     publishedDateTime: 2020-10-23T13:06:00Z
@@ -738,6 +754,17 @@ related:
         width: 2400
         height: 1482
         isCached: true
+  - title: "Trump campaign tapes voters at drop boxes, threatens lawsuit"
+    excerpt: "The Trump campaign has been videotaping people as they deposit ballots in drop boxes in Philadelphia in what it says is an attempt to catch violations, surveillance that the battleground state’s Democratic attorney general suggested could amount to illegal intimidation."
+    publishedDateTime: 2020-10-24T08:27:00Z
+    webUrl: "https://www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-campaign-tapes-voters-at-drop-boxes-threatens-lawsuit-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Trump repeatedly refused to condemn QAnon and said he agreed with part of the far-right conspiracy movement during his NBC town hall"
     excerpt: "The president alternated between claiming he had no idea what QAnon was and expressing support for the conspiracy movement."
     publishedDateTime: 2020-10-16T01:43:00Z
@@ -1126,6 +1153,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "jdoVm4ftA46RfbSTcCsCC4IOhNQ98r7kNv9QVXDh2iV7dwe6MwEKD1p8HvxDJ1iXu3oj8FvabUO+imAhX/YXc01DRUaLtxjMkEG8HoxjfM2fvoGo0uwKqyLyFMDtiB6v3IHQUrCnoPbQMmRgN/rv2NbUws18Ogv1ZyL1/VQn3t3ROxE3EwuuHAdf34VmG2+0rKfa4LK1tFlJp10+XlVIBMn2VhSTNaOflg0ccfowvyh+d7AyHvbzTztyu2jBUGK1lGatO+FrR1cOQyBsms+ZXlkpA7ZugmXKkDkYW2DaY4iGWYWz7gZJeg7IkVt9NTXgjYrxp970zWpKutbbvV5LQEDhKSdKn2+x9SojsIHxJ5w=;pn+Xw66U4qbvQKPGLDAtdQ=="
+secured: "xJ5dqt0QijA7vwY3lnIOUTTY9uxy0VsXM7IfLY9nSkuV+EKd9sOItISFUrCYMNm1mem++Zekf3uq92TcJymSBLz53o0pwZE4vC0xbYP9+G51r9Og6P4hsx6YL4vPZMPX1WsgTwFQ0p8gpvyJRapqyxIr7Z7gVQalOYA0fhnxirq3Ht0Eed9IhYlHWQSDriP/MiTpz+YOYVaKFrkxeFDdmFuLGQ4AXUd5zFnQramasejybAIdQ+WebQeAg3V8BWCpPNl8Ym8Rw76EFc4JWrd4v/DL8SGOM4T3lpy9qx91dcHd4KKF1HzlQakWtvTmmDLR+CgccGzJHQlCaa2zV9AUsLzQmFysniuWzBDMm5gpKsh5f2FuPENiBcB7fQ+24Wk9EWoD/RMrWr5Eedce/qzMvfA6Ij7z/iJE6Ml+d9iS13zComj9b4Fqx8C9k4ZuEBCD+V/Clpf9g4Z0Aq4bzym0Dc3jReyNg9yRanH0uWmrqGTclzwQTGG9+MsKekd8MzZ79qg0GQAiTd2FGWHw7r9sNA==;zq+R9/AbDFu5rncw3WEaEg=="
 ---
 
