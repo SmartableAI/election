@@ -527,6 +527,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
+    excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
+    publishedDateTime: 2020-10-24T07:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGIxjnbnvqQ/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a44df52c-9d4d-4b1f-ab3f-5a7190356331/052050e8-4c6d-4054-8ebe-903d8e34a65d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump battling Biden, liberal media at presidential debates: Sarah Sanders"
     excerpt: "President Trump will not only be battling Democratic presidential nominee Joe Biden during the presidential debates but also the liberal media, former White House press secretary Sarah Sanders said Thursday."
     publishedDateTime: 2020-09-24T17:20:40Z

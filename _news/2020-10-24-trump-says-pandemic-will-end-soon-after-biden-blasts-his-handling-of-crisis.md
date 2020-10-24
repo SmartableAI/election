@@ -3,8 +3,8 @@ category: news
 title: "Trump says pandemic will end soon after Biden blasts his handling of crisis"
 excerpt: "President Donald Trump promised supporters in Florida on Friday that the coronavirus pandemic would end soon and accused Democratic rival Joe Biden of overstating the health crisis to scare Americans into voting for him."
 publishedDateTime: 2020-10-24T03:25:00Z
-originalUrl: "https://www.reuters.com/article/usa-election/trump-says-pandemic-will-end-soon-after-biden-blasts-his-handling-of-crisis-idUSKBN27902D"
-webUrl: "https://www.reuters.com/article/usa-election/trump-says-pandemic-will-end-soon-after-biden-blasts-his-handling-of-crisis-idUSKBN27902D"
+originalUrl: "https://www.reuters.com/article/usa-election-idUSKBN27902D"
+webUrl: "https://www.reuters.com/article/usa-election-idUSKBN27902D"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27902D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27902D"
 type: article
@@ -4814,6 +4814,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "0gyDj+C/U1OlZlEpcGs2czum396tbC+4sAZOEdInv821gbWtYgykFdIUt1DEsr5j7rI2fClaxGIsOPwqwUNZMrhBjcL7QSDdafLO/XAGic8aR0eL5QJA+95BJuSFeeUE0NoIg+w14HZ4AI8G5v2D07uDx5Z5JNorLRQuvluFcZAYCzXHOqlnrpG/F/17J2lL6oMVtBO6clAZZp7CqSu+fycl/aB+F7I5sPh1oyufsOJY3feeyOZqwhhbZxl5k4F0tworFG9Cfr9hzd4yNTAH5x3TVMrlc9oJD1AtHFvvcgkjf/7N21Iyj006WSPNYXn3WA9LK8YvrCcppeg1jzcpkQuD4dOm6cuY5CzgfwNW1io=;47Evj3WdzB/GaKvELMIXoA=="
+secured: "c6O7hkMlTRfFF1lRDD8EnvOIEIef2sL7ZU0hOSUkZxt1Ruaii5zg0kXX167FSamU7SrQSpuvS2WdAsvyNZsUgOn3OL5xEeM3ahm8L2UQ97AjDuJDEELLduBNKcp3iZPMrFnJYkfVN2yHM1mpj3sJjmlZa9+TW6bk+0HYkGCuTmD9e6VSdreD2emnhwbk3qpePyC8ucGGzJ31LN8mVKcIafQXxlMycLetpAVfXK7XlhYJPiHY86N804P7J/FZPFH2woLIwlasThaP6YBQ3UyA9xQsFvtFADaYmhKG3yz72mWwLs0UR2t39r/qVSkhbVwUImdyHVty6wjf4c/t/9cUCKma7LhloKQlHLUxNTPzx80=;QesMiIMh7ejQfKXd0+4h7A=="
 ---
 

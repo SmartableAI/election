@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/live-updates-presidential-election-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-presidential-election-2020-biden-vs-trump.amp"
 type: article
 quality: 205
-heat: 3505
+heat: 3525
 published: true
 
 provider:
@@ -524,6 +524,22 @@ related:
     quality: 189
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e4437cb-0d36-451a-b468-2bbc6d8a692b/e4d6775b-df07-4815-b8a0-9992ebc2a759/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
+    excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
+    publishedDateTime: 2020-10-24T07:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGIxjnbnvqQ/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a44df52c-9d4d-4b1f-ab3f-5a7190356331/052050e8-4c6d-4054-8ebe-903d8e34a65d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

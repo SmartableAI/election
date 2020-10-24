@@ -861,10 +861,10 @@ related:
         isCached: true
   - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
     excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
-    publishedDateTime: 2020-10-24T01:25:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
+    publishedDateTime: 2020-10-24T00:10:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN27825Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27825Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27825Y"
     type: article
     provider:
       name: Reuters
@@ -1209,17 +1209,17 @@ related:
         isCached: true
   - title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
     excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
-    publishedDateTime: 2020-10-24T03:06:00Z
-    webUrl: "https://www.12newsnow.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    ampWebUrl: "https://www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-    cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    publishedDateTime: 2020-10-24T06:09:00Z
+    webUrl: "https://www.12news.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    ampWebUrl: "https://www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+    cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
     type: article
     provider:
-      name: 12 NEWS
-      domain: 12newsnow.com
+      name: KPNX
+      domain: 12news.com
     quality: 86
     images:
-      - url: "https://media.12newsnow.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
+      - url: "https://media.12news.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -1542,6 +1542,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "NCap42L9fJ9YYi8zDqov0r1qsZNGJmw5GuKfjY9C06PbAOlmSKe/cf4fz25oWeBNNs1ojMNneRL1Ig0Pw34dHj5FlTphdOhKCzYkkUxAErKqLWepUQ8qu/TH/N81be2DWzzoB8297qznLNSVGshtV+/HjWvglZ6EybhXEZLu1VrzDeClGNGaP0kcr474naw2ZZ3W9T57z3KyDo6m5FrSirwqo8DWM5ZBKxwONJEyTnvhZkK2zoqSo9/FTxVSi1urREX9FpSWRKKCGRbRxyoD7HsVFLt4HjOxPc2kK0KOyoWarPi9cDSpWBuEVushYJLyUMkchPtk2TFYrU5gviQBQMnjU4KVol8PCKzGgm1p4Ko=;yYW5CArVXk91MsIkUk4Wtg=="
+secured: "WaRVw1T9ewmafieE1MzGvzq3aX8ExfXG0NADN7ir3eAfjt5Cf0WJpLoP7sTH/gFpE1ymhD+r4uKjUd1VbfCQqebdukrRTP4wvtA7gb+atGuxTc6bSXf8qXAEbchbDLebgqvHziqVTFP2ju6a83guA0hsAhCE3rfG1tse2NDB+jHrfBq9pb/1sGSBepowMrT6gcBir68INUcmDfSL85V4gTTY2Gc+CKnyqciuaLAYjAbsBubN+iiWTwrnDECfzAwRHMaueRsR5mvRGSHi7VejuMBFV5wdtcqVoD8JQW0X3bQXK1+XTI6hYY393JB7fFXrMYRXjj0NiOhzDDUaxpi1CXHJlmTsZm+xhX7mApEykujxj+ZT/pnlvg4tEpYcwhkST3diKYP1ZBs7eTKn2mi1HUMUBP8cbuD6hKusKTwd5lb+zVAS6PR5yrnV5kEh+h1pJjakt3tjBFCNxW2T5TgbZkBPffYmEAzWeXJrWwxzeSg3qpnyiKwg9ya1COspBB83OoHiewOHhdBVT98kfhoEEQ==;vnSzJYr1qWmHpH/rJXr9KQ=="
 ---
 

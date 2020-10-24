@@ -543,6 +543,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Live updates: Trump, Biden campaigns move into final stretch after debate"
+    excerpt: "Following a slightly more subdued final presidential debate in Nashville, Tenn., on Thursday evening, President Trump traveled to Florida on Friday to rally support in the crucial swing state. "
+    publishedDateTime: 2020-10-24T07:12:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/YGIxjnbnvqQ/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-trump-biden-campaigns-move-into-final-stretch-after-debate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a44df52c-9d4d-4b1f-ab3f-5a7190356331/052050e8-4c6d-4054-8ebe-903d8e34a65d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Karl Rove breaks down Trump, Biden's pursuit of Midwest working-class voters"
     excerpt: "President Trump and Joe Biden spent Monday making campaign appearances in different Midwestern states to court the working-class vote, former George W. Bush adviser Karl Rove explained on \"Bill Hemmer Reports\" Tuesday."
     publishedDateTime: 2020-09-22T22:05:49Z

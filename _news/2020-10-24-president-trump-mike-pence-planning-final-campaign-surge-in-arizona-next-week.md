@@ -2,26 +2,26 @@
 category: news
 title: "President Trump, Mike Pence planning final campaign surge in Arizona next week"
 excerpt: "In the final days before the November 3 election, President Trump’s campaign is planning a final surge in Arizona."
-publishedDateTime: 2020-10-24T03:06:00Z
-originalUrl: "https://www.12newsnow.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-webUrl: "https://www.12newsnow.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-ampWebUrl: "https://www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
-cdnAmpWebUrl: "https://www-12newsnow-com.cdn.ampproject.org/c/s/www.12newsnow.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+publishedDateTime: 2020-10-24T06:09:00Z
+originalUrl: "https://www.12news.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+webUrl: "https://www.12news.com/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+ampWebUrl: "https://www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
+cdnAmpWebUrl: "https://www-12news-com.cdn.ampproject.org/c/s/www.12news.com/amp/article/news/politics/president-trump-mike-pence-planning-final-campaign-surge-in-arizona-next-week/75-c436d834-9b87-4066-92b8-41cdd23048f4"
 type: article
 quality: 86
 heat: -1
 published: false
 
 provider:
-  name: 12 NEWS
-  domain: 12newsnow.com
+  name: KPNX
+  domain: 12news.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://media.12newsnow.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
+  - url: "https://media.12news.com/assets/KPNX/images/e69a5aaf-deb1-4018-b269-ea0ff7282f31/e69a5aaf-deb1-4018-b269-ea0ff7282f31_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -873,10 +873,10 @@ related:
         isCached: true
   - title: "Pelosi, Trump trade blame on COVID-19 stimulus talks; Senate Republicans on sidelines"
     excerpt: "U.S. House Speaker Nancy Pelosi said on Friday it still was possible to get another round of COVID-19 aid before the Nov. 3 general election, but that it was up to President Donald Trump to act, including bringing along reluctant Senate Republicans."
-    publishedDateTime: 2020-10-24T01:25:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN278252"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN278252"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN278252"
+    publishedDateTime: 2020-10-24T00:10:00Z
+    webUrl: "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN27825Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN27825Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN27825Y"
     type: article
     provider:
       name: Reuters
@@ -1538,6 +1538,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "+AWQAL8VuC+FSLRkPZPnU48or/XOY1VcvF9cNkVbn/eQ0WXaSjx5oBbjf1aYQleydSPpzQURdhXYSz3bi7V/xAUd/haNvJ+gZnBdIWdqiCOxUauyTCEEUEqMtfXi0x+mR3GVzLr6GVEZvyXB7AH2LFhdSiikV//mwPjjtq452NCcGJh6j3RhX6OWXjVl1FgMbt5Sshg2DLFBXfE9da0OtXn736ZtAibYkePP1yLf83i91+2LnmpThDXDn5jkl10gLYtj193w5SHIQ8CJWhUPOcwjtoClheABYnKvMXkXYHar/CkWAwUWQA3eD/wCdwlfACFMWRmV5pgyKmfm7jEjN09tahYQkjEKxzmcvCRaZYGihfCNf8e54N2z58AckoE2AgE+Cud2KOgV/Q5mVDcJz4bZg32TBC0JvdJN/wI0D4Ao7W0uTQ67bVZk3z6EKKYFPWDH1xwBNhqtpU9YvMU5i5RBxXmMkIHacPaGO6xvNtcjnpTJhkStAVeVzmxCsaFJLUtcqeOYu/rqmsfJ8kLxbA==;xebi9RndW6571qRRXZy8nw=="
+secured: "70Jofn+iZhn2Dhy6CFFEny2yvX7Y8cxHXxUGqmLL5Lx32kKZMKqEqwnbK+c+5aTEa+7d2m/Vzvnd6enS97wfXm3cStAHqGKa343+b83vqfvMe4168W3GJTzUp2FLkN4JUQ1lAdYXnU2CIEfTIP8BcV7UMoMv1EQG9Tk7ctl/eqGFEYBqBQNtCsbMMS5VP7tpMa5sesNWqhQj0b5q+N8n44L030jh+8TZWpriSLRx/rbfwGD0teqVfpJVuFH6udJy/V1QEkImdgQnGbkg0i6xJlyNgL01OSovUygSo384Q9pBNx67ATGl/E4x9xa8wDadqw3PNoY0xa5YL/k2z4L0MyjN+hU5vQDPxfdcTtItQaU=;umI3qn3LWJcMv4/AOXrFRQ=="
 ---
 
