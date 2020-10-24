@@ -80,6 +80,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump tells journalist he's 'a criminal' for ignoring story Trump likes"
+    excerpt: "Trump believes journalists are \"criminals\" unless they report discredited allegations that may be part of a hostile foreign influence operation."
+    publishedDateTime: 2020-10-24T19:47:00Z
+    webUrl: "https://www.nbcnews.com/rachel-maddow-show/trump-tells-journalist-he-s-criminal-ignoring-story-trump-likes-n1244011"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421171/201019-donald-trump-mc-1316_52f5de8f365585da12f9105402dbdecd.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "98CkW0S9A8Kdw3x9462NBCqBrQVuH4XDKUBLqRF/HllRg4Zw+6We8EeNCEQDmUIfRgRKRmpaVTjlEyan4nEQfKZ0SHD+2hfHzVwZyhJaoF+sPZxQZks1tZ2nWFy9wgHNtsWdkkQiva1FWo1NNZRcduMXc+SFTqijhZMcpgRjvxfTennJga3DeItYK+GpPloc+qtC9kVpRiKs8CS7/8/+d68aT4aoYU9YFV7ohPiGdHeG6UqjdV1331JiJnwozD86XN8xl2bSzblgER1ialfrcV6n3g+PXVQWOnwHSRrL5WTDU64Dm4JkaCOAtUzXwnepbOxnY31E0K3p1dDO4U+XYGPtC9yXSZx7SsgNdAbEcPo=;TAdUkmULOvMk4+oVPzyrgQ=="
 ---

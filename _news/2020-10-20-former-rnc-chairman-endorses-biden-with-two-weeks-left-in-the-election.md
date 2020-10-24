@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/20/politics/michael-steele-joe-biden-endorsement/index.html"
 type: article
 quality: 190
-heat: 1090
+heat: 1110
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202010/nn_pwi_nc_man_plot_against_biden_201023_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Joe Biden Had Close Ties With Police Leaders. Will They Help Him Now?"
+    excerpt: "His proposed solution to addressing both urgent calls for police reform and animosity from law enforcement toward Democrats is one he’s long relied on: He’ll just get everyone in the same room."
+    publishedDateTime: 2020-10-24T18:23:00Z
+    webUrl: "https://www.nytimes.com/2020/10/24/us/politics/joe-biden-police.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/24/us/politics/joe-biden-police.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/24/us/politics/joe-biden-police.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/us/politics/00biden-cops1/00biden-cops1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Feds examining if alleged Hunter Biden emails are linked to a foreign intel operation"
     excerpt: "One email, which has not been confirmed to be authentic, suggested a meeting between Joe Biden and a rep from a Ukraine firm that once paid his son Hunter."

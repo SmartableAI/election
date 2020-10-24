@@ -576,6 +576,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Joe Biden Had Close Ties With Police Leaders. Will They Help Him Now?"
+    excerpt: "His proposed solution to addressing both urgent calls for police reform and animosity from law enforcement toward Democrats is one he’s long relied on: He’ll just get everyone in the same room."
+    publishedDateTime: 2020-10-24T18:23:00Z
+    webUrl: "https://www.nytimes.com/2020/10/24/us/politics/joe-biden-police.html"
+    ampWebUrl: "https://www.nytimes.com/2020/10/24/us/politics/joe-biden-police.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/24/us/politics/joe-biden-police.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2020/10/20/us/politics/00biden-cops1/00biden-cops1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "After dodging questions about court packing, Biden floats commission to study judicial reforms"
     excerpt: "Democratic presidential nominee Joe Biden said that if elected he will convene a bipartisan commission of constitutional scholars to examine judicial reforms, asserting there are “a number of alternatives” that go “well beyond” expanding the Supreme Court."
     publishedDateTime: 2020-10-22T13:28:00Z

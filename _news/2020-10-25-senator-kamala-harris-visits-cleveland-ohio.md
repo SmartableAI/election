@@ -1211,6 +1211,24 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Former President Obama Campaigns for Joe Biden in Miami"
+    excerpt: "Former President Obama delivers remarks at a drive-in campaign rally in North Miami, FL, in support of Democrat Joe Biden ’s 2020 presidential campaign. Former President Obama campaigned in Philadelphia on behalf of 2020 Democratic presidential candidate Joe Biden."
+    publishedDateTime: 2020-10-24T17:56:00Z
+    webUrl: "https://www.c-span.org/video/?477346-1/president-obama-campaigns-joe-biden-miami"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
+  - title: "Senator Kamala Harris Greets Voters in Cleveland"
+    excerpt: "Democratic vice presidential nominee and Senator Kamala Harris (CA) greets voters and supporters in Cleveland, Ohio. Senator Kamala Harris (D-CA), the 2020 Democratic vice presidential nominee, met with voters on a walkabout in Raleigh,"
+    publishedDateTime: 2020-10-24T18:07:00Z
+    webUrl: "https://www.c-span.org/video/?477345-101/senator-kamala-harris-greets-voters-cleveland"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Kamala Harris gives Orlando speech on first day of early voting in Florida"
     excerpt: "On her first stop in Florida, Kamala Harris gave a speech encouraging voters to go to the polls on the first day of early voting in Florida. Harris attacked President Trump's coronavirus response while assuring viewers that change was coming."
     publishedDateTime: 2020-10-19T16:53:00Z

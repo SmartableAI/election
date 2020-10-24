@@ -303,6 +303,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden claims Amy Coney Barrett wants to overturn Obamacare"
+    excerpt: "2020 Democratic nominee Joe Biden on Saturday said Supreme Court nominee Amy Coney Barrett wants to overturn ObamaCare."
+    publishedDateTime: 2020-10-24T19:12:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jTkDtPXuVWQ/biden-amy-coney-barrett-overturn-obamacare"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-amy-coney-barrett-overturn-obamacare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-amy-coney-barrett-overturn-obamacare.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298563325734-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "AOC, House progressives call for ban on corporate executives in a Biden cabinet"
     excerpt: "House progressives and liberal groups Friday called for corporate lobbyists and executives to be shut out from a Biden Administration, drawing a clear line on what they expect if Democrats win the election."
     publishedDateTime: 2020-10-16T16:59:20Z

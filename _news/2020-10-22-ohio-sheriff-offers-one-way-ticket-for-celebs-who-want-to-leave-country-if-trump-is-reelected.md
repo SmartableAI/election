@@ -32,21 +32,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump prays for 'wisdom and grace' to lead country in call with evangelical leaders"
-    excerpt: "President Trump thanked everyone who prayed for him after recovering from the coronavirus on a campaign prayer call with evangelical leaders."
-    publishedDateTime: 2020-10-14T17:42:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dTFNFuuJpe8/trump-prayer-call-evangelical-christian-leaders"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-prayer-call-evangelical-christian-leaders.amp"
+  - title: "Trump rallies North Carolina on jam-packed Saturday"
+    excerpt: "President Trump rallied the critical swing state of North Carolina, making the pitch that he's the person to lead an economic comeback and stand with American workers, whereas Joe Biden would hold back progress. "
+    publishedDateTime: 2020-10-24T16:30:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gz-mknSm03U/trump-north-carolina-rally-jam-packed-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202010/427/854081161001_6204325784001_6204325515001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump campaign takes over YouTube masthead for debate day with help of UFC supporters"
+    excerpt: "EXCLUSIVE: President Trump's campaign Thursday will take over YouTube's masthead for 24 hours, controlling the prime internet real estate on the day of final debate between Trump and Democratic nominee Joe Biden, Fox News has learned."
+    publishedDateTime: 2020-10-22T02:20:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/z0bruodusTk/trump-campaign-takes-over-youtube-masthead-for-debate-day"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/132eea53-bb94-4b13-93ef-c6a6a8ab7815/04064df6-658d-4a1a-af5d-912d15036630/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Nd3dXY0JgzntoRne+VWTH/LHVLvCRBoneEFXG93c6XJbVlAWbobz424FmRq3No+nJnH5KzvLaTyeJyM54WMxo0URPu3fTPqfWO/UzccLUtUZPojQCbaZeli1vwwZYYuBZfqbAbsu/pj1icrgVIWAunnu4bjtwyY6dudLNFkFe830NOv4FKITcEjw3v7quTiAX7kkPqB+DcFNLgBiLfTqdc9p7aRs6LNJE40OmIeUrhZEaqFYZso8Q6q2fHdRq+8askv/da6mCggBDzdJwl1mHrDlRYUGgcutQw0qv7U78QgBn8s4CdAWagdMykyGzYy8eqEENpZFFevUwPv/+W1f8fleGfRwgrA40heOXh5qHMo=;3Db5FjuZomXiOekotedIng=="

@@ -3,8 +3,8 @@ category: news
 title: "3 Important Social Security Changes That Joe Biden Wants to Make"
 excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
 publishedDateTime: 2020-10-24T11:36:00Z
-originalUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
-webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+originalUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+webUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
 ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
 type: article
@@ -288,6 +288,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "Nl1zB+QpZIsI10dcONw7TEvsxeqi+ndAElRpXJzsW9qAuegGPKopn2HE0eEOu/WBBXh4EXZFOviY42ls39csJ+QWr/vDG9egndtyI4kalV6IsUKXEFRyPi7EG5UPdWbe2/dUd8sbfAuRDATikDgS34K7qpo8aPuI23hFJbp77GkEeEEcDlh/iPemz93MT302UZ5R7mFW2Q1T+BMfYPyrWE1+2d1Ey+ad1C952H2PX3n6DUdRADBcSxykhsU9Qn/mUbxgcOBCLAvyHUsm7BH1XCPf7IlRNpa0NdHqMNOA+xyaOOp4dXcrfZs2/rleBGacPZ4UX/LB4Tg0CGQQemwlCvcZtfI2lMP3y7GUTku8mDE=;bsapeULmgqJ0jl09DfJgpA=="
+secured: "AG6Ig9KlqywhAFOdXMwoyP0sT7algnMnGvGUYlpIzwVIwd8nRkIhIHZCmsX9Pe5JNJR7FyKmflmEvwPVQcFVS6J5sRBA5yA6LCTTmPzIqoVqKyKZbC60OMXCo09DYho0lzIypJXPJIWPOdpic50bkULJZub7zlSGVcmG/8cwnLWCbTutivD41ZtBU/eds8QN+SE5oXyHxNaJD4uV4MxlgRhb3FMm/QPXTS/7Hb5e89FgR0sbWptss0uiaAoQYgmgDNIp3nX/x2CId/BkoB7fQtBkVkJMoxRliPsH7XVnsPfa3N2M6BiNTNUGuk5eihMWvZdnz0kfy8puTN+6Jlzk17FhAuwudNORk1dbmH+ZOD4=;NZKuTiP1JbSL7DWBKyhWvA=="
 ---
 

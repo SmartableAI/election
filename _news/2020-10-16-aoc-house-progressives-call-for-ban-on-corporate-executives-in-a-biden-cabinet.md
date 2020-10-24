@@ -319,6 +319,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden claims Amy Coney Barrett wants to overturn Obamacare"
+    excerpt: "2020 Democratic nominee Joe Biden on Saturday said Supreme Court nominee Amy Coney Barrett wants to overturn ObamaCare."
+    publishedDateTime: 2020-10-24T19:12:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jTkDtPXuVWQ/biden-amy-coney-barrett-overturn-obamacare"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-amy-coney-barrett-overturn-obamacare.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-amy-coney-barrett-overturn-obamacare.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/AP20298563325734-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden counting on press, Big Tech to protect him from answering questions: Cruz"
     excerpt: "Sen. Ted Cruz, R-Texas, slammed Big Tech and the mainstream media on \"America's Newsroom\" Wednesday for covering for Joe Biden amid bombshell reports of Hunter Biden's international business dealings."
     publishedDateTime: 2020-10-21T16:06:15Z

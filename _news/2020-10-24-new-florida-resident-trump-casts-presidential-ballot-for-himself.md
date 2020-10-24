@@ -1,34 +1,28 @@
 ---
 category: news
-title: "New Florida resident Trump casts presidential ballot for himself"
-excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs."
-publishedDateTime: 2020-10-24T15:19:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2790MP"
-webUrl: "https://www.reuters.com/article/us-usa-election-trump-idUSKBN2790MP"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2790MP"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2790MP"
+title: "New Florida Resident Trump Casts Presidential Ballot for Himself"
+excerpt: "U.S. President Donald Trump voted in his new home state of Florida on Saturday, casting his ballot for his re-election at a public library across the street from one of his golf clubs. Trump, wearing a mask to prevent the spread of coronavirus,"
+publishedDateTime: 2020-10-24T16:02:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
+webUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2020-10-24/new-florida-resident-trump-casts-presidential-ballot-for-himself?context=amp"
 type: article
-quality: 125
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201024&t=2&i=1538695845&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9N0DO"
-    width: 814
-    height: 545
-    isCached: true
 
 related:
   - title: "Trump guaranteed the election would be all about him"
@@ -78,6 +72,22 @@ related:
       - url: "https://s.abcnews.com/images/US/200907_vod_notified_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump casts a 'very secure vote' for himself in Florida: 2020 election updates"
+    excerpt: "Trump cast his ballot at the West Palm Beach library near his private Mar-a-Lago club. The president told reporters after leaving the library it was \"an honor\" to be voting and that he cast a \"very secure vote."
+    publishedDateTime: 2020-10-24T21:08:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2020/10/24/2020-election-updates-trump-votes-himself-florida/6021545002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6021545002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6021545002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 136
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/24/USAT/0338551a-28f6-4df2-8161-d2acb8fb8d2f-AP_Election_2020_Trump_5.jpg?auto=webp&crop=2911,1637,x0,y2308&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Trump is considering firing FBI director Christopher Wray after the election, report says"
     excerpt: "Trump is reportedly furious that Wray and Attorney General Barr have not launched investigations targeting his Democratic rival Joe Biden."
@@ -428,6 +438,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/International/WireAP_e8ab5ff369224d3fa5c863ea6681009a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Minority pushes Trump agenda largely unpopular among tribes"
+    excerpt: "The Navajo Nation vice president is part of a vocal minority pushing Donald Trump's agenda in areas long considered Democratic territory"
+    publishedDateTime: 2020-10-24T17:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/minority-pushes-trump-agenda-largely-unpopular-tribes-73805731"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_23d275ca72c845dbb990b4fab407e173_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -1281,6 +1307,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "l3m3VmPQgHhCS1C8uoIinW/pi4gBwXfAnEiXQ3PmI/yhkulhkjVfidUAVzB9gYx04Jzf1BNqThVH+W2dRrZVhUTQdzRgrBiZnetlZRu4NzYBagzPPpVpvNwhDXy8lJopZF/DXQhKGDeCSkN3LjhkO7vuOJYagWIeeCgnus0Rh9Ss3X3PCjn2kh7qs9RL/Bqq524iXY+qrLgAQIMwSjXf9hcqWkmR8vZHYaRKqWZIlYTYgTCkGoPYjQi0otEyinrxs7kP8GkkMG0F9He9XU6Jchu4F19F0z0B5Au/jK4N1dFcPcWhT4c4DncQ4d3HOJkGKkNzFyl2zccJ/dgpFvSdOSozHLTyFWUgLBVz2XpXwx0=;w4vQAC6DKx27EWntAYDVOw=="
+secured: "cj+IuoEl3I2pct2V3wr3aiXnxLVU1iKHVATCKJOgBPli2TohDCGujS9BcGlQRp7w3cMsvhA3IU3es3kA3e2GE1reMUb0gyn3rkWu0gtrCDjt268n6mWogr+JwY8dp88zsAHunqAPqfk92ZEkLpfDQ7OqBSWggvSDyX0KriLO+EZk0BHa3Qa/BRH5ozN+M8avtaHhz5lmDHTS1fToXztsIk1Z0X9o3duO3fsPZ2XOrJDKEKJy0d0hD86B3SRzYQ27PbRUoYTz+DY2HQ8XfNdkwbRX2yMG3EkA8DzAKdlOpcqlAWiVRH1zhiYXnFJO7Bi5Suae0SWT+zcFVlDcMkHOaGTYXsGF7Qrh0Fe4TVYy9WDy9/NGri+AMumpQh2P9jpQd3UDSwc1c3fbq9PRCt4BKZ1euDqtQ+0HsgGwczos6JFSNylmmbumZYgVSsuz8BsTIy+IUIABEAPuMxiwpRVnOcUoueTb5RwnCnPX2+K+brZD3nw+XpJUN21GJmCXzEblQFVO+19DOhKJrYKPt0E3+w==;lTYWHwPhf6DLFI7YMODhFw=="
 ---
 

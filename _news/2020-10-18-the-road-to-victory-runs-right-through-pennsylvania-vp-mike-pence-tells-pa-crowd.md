@@ -148,6 +148,22 @@ related:
         width: 1200
         height: 823
         isCached: true
+  - title: "Joe Biden courts swing voters in Pennsylvania with a plea to ‘choose hope over fear’"
+    excerpt: "Biden entered the final 10 days before Election Day with a hopeful message not unlike the one that lifted Barack Obama to the White House."
+    publishedDateTime: 2020-10-24T21:14:00Z
+    webUrl: "https://www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html"
+    ampWebUrl: "https://www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/politics/election/joe-biden-pennsylvania-bucks-luzerne-counties-20201024.html?outputType=amp"
+    type: article
+    provider:
+      name: Philadelphia Inquirer
+      domain: inquirer.com
+    quality: 68
+    images:
+      - url: "https://www.inquirer.com/resizer/RwhEDTA6JTY5C9HGwEw89WjplfA=/1200x0/center/middle/www.inquirer.com/resizer/xpAGF81YnuyAt_DddLAhqTNQOFQ=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/pmn/URLTGFMVFZA5LLC2GC6V7NBOWQ.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Seeks Campaign Boost in Battleground Pennsylvania With Two Weeks to Go"
     excerpt: "U.S. President Donald Trump heads to the battleground state of Pennsylvania on Tuesday with hopes of rekindling the 11th-hour surge of support that powered his surprise 2016 victory. But with more than 30 million early ballots already cast with two weeks to go before voting ends on Election Day Nov."
     publishedDateTime: 2020-10-20T07:10:00Z

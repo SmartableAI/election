@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-campaign-takes-over-youtube-m
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-campaign-takes-over-youtube-masthead-for-debate-day.amp"
 type: article
 quality: 168
-heat: 208
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pollster who predicted 2016 result says Trump on track to win again with help of 'hidden' support"
-    excerpt: "With two weeks left until Election Day, 35 million Americans having already voted, and most polls showing Joe Biden leading President Trump, Trafalgar Group chief pollster Robert Cahaly told “Hannity” Tuesday the incumbent is likely to be reelected."
-    publishedDateTime: 2020-10-21T03:53:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9GoVbc_gSPQ/robert-cahaly-trafalgar-group-2020-election-polls"
-    ampWebUrl: "https://www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/robert-cahaly-trafalgar-group-2020-election-polls.amp"
+  - title: "Trump rallies North Carolina on jam-packed Saturday"
+    excerpt: "President Trump rallied the critical swing state of North Carolina, making the pitch that he's the person to lead an economic comeback and stand with American workers, whereas Joe Biden would hold back progress. "
+    publishedDateTime: 2020-10-24T16:30:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gz-mknSm03U/trump-north-carolina-rally-jam-packed-saturday"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5b3568cb-18e7-4d67-a16b-76fb5ff90b60/5a562e06-b9f3-41fc-b1b1-7004ce012eae/1280x720/match/image.jpg"
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202010/427/854081161001_6204325784001_6204325515001-vs.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Leslie Stahl to Trump: Can You Characterize Your Supporters?; Trump: \"People Who Love Our Country\""
-    excerpt: "President Donald Trump released the footage of his interview with Leslie Stahl to the public on Thursday. In this video, Stahl questions Trump about his supporters. \"Can you characterize your supporters?"
-    publishedDateTime: 2020-10-22T23:46:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2020/10/22/leslie_stahl_to_trump_can_you_characterize_your_supporters_trump_people_who_love_our_country.html"
+  - title: "Ohio sheriff offers one-way ticket for celebs who want to leave country if Trump is reelected"
+    excerpt: "An Ohio sheriff with a history of making bold statements is calling out Hollywood liberals -- offering to buy them a one-way ticket out of the country if President Trump wins reelection and that makes them upset."
+    publishedDateTime: 2020-10-22T02:18:00Z
+    webUrl: "https://www.foxnews.com/us/ohio-sheriff-one-way-ticket-celebs-trump-reelected"
+    ampWebUrl: "https://www.foxnews.com/us/ohio-sheriff-one-way-ticket-celebs-trump-reelected.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/ohio-sheriff-one-way-ticket-celebs-trump-reelected.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 51
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
     images:
-      - url: "https://assets.realclear.com/images/52/524929.jpg"
-        width: 1036
-        height: 776
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/Richard-Jones-FOX-Interview.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "8XxmVX+xI0WjEfESxP2SDCVaZ5XwwqzbldhpYtLZBQddlzwfMY50K/YG0e2BLMLxlgv7xndMYpQK3sEvNGead348mh+CVdsfWwGXYxJI0ZmyXUlF1f6pm40ZbeR8SsTNpMK7RqPKttlq5YehlXwzWaencQXQyevoMogTA0yqjGtsnGxMTbGOmyUmYnKb9hIZdullv39ptXFNVuYTXsLTERkw2YrvlljVthE4ghEuShPUm74rtLGmwD0BA2SVleDpOURGb2vHX1Oxi2Bew6ZIGqtVtz7Rogf0puyDNTe8CVqDtOIl1UBkHkt79exqYnEYr2Rn9ZyFRtchNDQq64Qtfc6NZzTihvZnyt010vVkBQ0=;GKVBGwZpvcNvTf2Qni5YsQ=="

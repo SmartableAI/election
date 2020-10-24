@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/10/21/politics/trump-debate/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://static01.nyt.com/images/2020/10/23/us/politics/23dc-immig-1/merlin_170399304_c643ceba-6ed3-4880-a096-cc0d4642bcf6-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Trump tells journalist he's 'a criminal' for ignoring story Trump likes"
+    excerpt: "Trump believes journalists are \"criminals\" unless they report discredited allegations that may be part of a hostile foreign influence operation."
+    publishedDateTime: 2020-10-24T19:47:00Z
+    webUrl: "https://www.nbcnews.com/rachel-maddow-show/trump-tells-journalist-he-s-criminal-ignoring-story-trump-likes-n1244011"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2020_43/3421171/201019-donald-trump-mc-1316_52f5de8f365585da12f9105402dbdecd.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "uLkQTACXTFa+NxySkXCDTalTtSc9Zf8MTTPMZ04oBDhhxr8ZE1ensEarrYjDhqO+sg+zh4m8tZZwvN0s5Vsitbm5f84RBDcLfd7dra7+D38X56Ciyf1oa+dzfCPff+Gqd2Nk/F3Pkxa8jU+XT02A22H0NjY5ayovGylqr4+g8jbz+gjrH1b3YybfnuBfmYV2S4/nOueZq/PFMiRxobe41kOyZbp/Fn7GOst1i5sr+duZLG7rXSJ2E1z59amIPqxZTeM5SMJMvdbGOmaHghcccREfMExFyONgTPBIRHe8e+YGeZ+9HwXFPVuJ3L8t36zIz6q35sCdzL6A7w7xKivTDp924yNooVIz+2qMEqZ/zZM=;SIGZDe0SI+sYPM6U1Q6CZg=="

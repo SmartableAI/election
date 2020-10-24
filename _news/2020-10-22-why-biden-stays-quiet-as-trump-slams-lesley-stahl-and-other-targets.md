@@ -254,6 +254,54 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden nixes reciprocation in Trump's attacks on family: 'It's crass'"
+    excerpt: "Democratic nominee Joe Biden called attacks on a candidate's family \"crass\" during an interview with \"Pod Save America\" published Saturday."
+    publishedDateTime: 2020-10-24T18:55:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zRX5rAr2ym4/biden-hunter-trump-crass-family"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hunter-trump-crass-family.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hunter-trump-crass-family.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/09/640/320/GettyImages-520751670.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Netanyahu skirts Trump's attempted condemnation of Joe Biden"
+    excerpt: "In a phone conversation with Israeli Prime Minister Benjamin Netanyahu Friday, President Trump pivoted a discussion on the Israel-Sudan peace agreement to knock his Democratic opponent Joe Biden."
+    publishedDateTime: 2020-10-24T21:45:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2EmX4XbobPE/netanyahu-skirts-trumps-condemnation-joe-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/netanyahu-skirts-trumps-condemnation-joe-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d324f611-449f-4cce-b9d9-0f7603f88888/e95f1d00-27d6-42ed-8614-2ddce9364233/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pro-Trump group crashes Biden drive-in rally in Pennsylvania"
+    excerpt: "A parade of Trump supporters on Saturday interrupted a drive-in rally for 2020 Democratic nominee Joe Biden."
+    publishedDateTime: 2020-10-24T19:01:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PuSg_A5qcsU/trump-parade-crashes-biden-rally-bristol-pennsylvania"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-parade-crashes-biden-rally-bristol-pennsylvania.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-parade-crashes-biden-rally-bristol-pennsylvania.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/811ca535-be57-4b71-adc1-4fe7047b47b8/85e13a02-9e52-4c03-8d4d-1e3635b6692c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden pitches 'BidenCare' as he spars with Trump on health care at debate"
     excerpt: "President Trump and 2020 Democratic nominee Joe Biden went head-to-head on health care during Thursday's debate, with Biden promoting an updated version of ObamaCare called BidenCare."
     publishedDateTime: 2020-10-23T12:12:57Z
