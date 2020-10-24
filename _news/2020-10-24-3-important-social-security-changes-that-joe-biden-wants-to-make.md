@@ -3,8 +3,8 @@ category: news
 title: "3 Important Social Security Changes That Joe Biden Wants to Make"
 excerpt: "The Democratic presidential candidate has big plans for Social Security. Here are a few key points all voters should know about."
 publishedDateTime: 2020-10-24T11:36:00Z
-originalUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
-webUrl: "https://tulsaworld.com/business/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+originalUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
+webUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.html"
 ampWebUrl: "https://tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
 cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/business/investment/personal-finance/3-important-social-security-changes-that-joe-biden-wants-to-make/article_7d9a2b7a-26a6-51f4-85f0-a61a74759171.amp.html"
 type: article
@@ -288,6 +288,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "QVjrvDOHxvu8Ung6DYmttvJ13eFBGhmeUMnXGSO1u7F+OiREpBEbjP6kbcfG/NlXG6vEeCgiBZVMJ/SD5+Ig4GgXofQ1SoB65CF+RPE+L3AMLtGwA1rRReCv55nKaOjZHSUJq7C7H9uX8/vD8OXE9H+/n2q0V4HEVc4kD9LRSU6Dj3CEUSIt0SRHOU9uzgQ1Cp5zYydP3ImpAHh4ic95k/CSLd+UfNjqLvpzY0OAvGg5yUvZkhRiPm085TTC4zhwBqEqAPSvlNOgYV/iK7vKAOOcNRyCZYt7y87uQ748WhT6WI+PtBPrXqWY7++j3ECcjSTXNj4INUhkWRK6CzL3GpDA29uQa5XvsPID0f85sm0=;KeiMX66AXejcO1Au6nmMUA=="
+secured: "Nl1zB+QpZIsI10dcONw7TEvsxeqi+ndAElRpXJzsW9qAuegGPKopn2HE0eEOu/WBBXh4EXZFOviY42ls39csJ+QWr/vDG9egndtyI4kalV6IsUKXEFRyPi7EG5UPdWbe2/dUd8sbfAuRDATikDgS34K7qpo8aPuI23hFJbp77GkEeEEcDlh/iPemz93MT302UZ5R7mFW2Q1T+BMfYPyrWE1+2d1Ey+ad1C952H2PX3n6DUdRADBcSxykhsU9Qn/mUbxgcOBCLAvyHUsm7BH1XCPf7IlRNpa0NdHqMNOA+xyaOOp4dXcrfZs2/rleBGacPZ4UX/LB4Tg0CGQQemwlCvcZtfI2lMP3y7GUTku8mDE=;bsapeULmgqJ0jl09DfJgpA=="
 ---
 

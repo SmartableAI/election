@@ -1428,6 +1428,17 @@ related:
         width: 1024
         height: 710
         isCached: true
+  - title: "The Latest: Trump Voting in Florida; Bon Jovi Joining Biden"
+    excerpt: "President Donald Trump is casting his ballot Saturday morning, taking advantage of Florida’s early voting system."
+    publishedDateTime: 2020-10-24T13:51:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2020-10-24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2020-10-24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2020-10-24/the-latest-trump-voting-in-florida-bon-jovi-joining-biden?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
   - title: "Did The Donald Trump - Joe Biden Debate Get Better Ratings Than The 2016 Debate With Hillary Clinton?"
     excerpt: "The second and final debate between President Donald Trump and Democratic nominee Joe Biden drew a much smaller audience than the first debate. According to early Nielsen ratings, more than 55 million people watched compared to the 73."
     publishedDateTime: 2020-10-23T22:58:00Z
@@ -1590,6 +1601,6 @@ related:
       domain: triblive.com
     quality: 35
 
-secured: "FdS1gv2G+rfZwRuWGyKhE6dTy6yIlkrAu3b5k0dI4n7SBFTvRM/L365zrgYE88TyL1NoFt6ca0ojR96Z6a1O8Rlt+/HYl7F1LnqDV90UWpt3DOujdGF12kqgU/OUb3+R5p6DKdATA5tsO4HuVs/+T2p9N/v8ouJSxM42ERJxg6W9dk5pkKWlGj/H9ED1KoEfxYejIrDyk4iBdmzzqRaoeuW0Z/oMBT1ojjhbAzQ8QhPzl9x4OGOLgv3qhtvrD+hZ/WkVfVfV/38RNoe/aLgNrsWxp+sP4GAQj5cQJnaGRP2eUoXhNVrxRHS5hr+Wz4kt7ba+9ccYrTGBL71qsiyRG4CCSK806q+JmHjQ5IRTTfs=;S8bAM4gxrGvs6mDnD+kRBQ=="
+secured: "Neq5zbBtJJxjYk1QAbmsn7eZaKAsQyGsaKyq2iRf5CyasJui1SGerzgo1UH0PUStl9vLRDmU2BzJGjVCgHgovhMFVfxYjcXsSlb19qEgxwA7vt9UqgtlDw+xSm/tYVo1Q1+HULak2NO1edxrknuHTJm9EZ45VKFd7oG2CkalCuUFWBlT08u6NPrYLPPxtysmwVHqpQ5QaAyJvDyy5VRgNRwhSOun3wdKp3PexFxXzEWiwRzam4E1wUZTCXVa+HP9UbxhygVi3Gzn0SsO58/nPzvYbk8FduzRCudxcL0Z5roecErGinfqv3RZU9jmcnnhDIjTdNyf13ip+kAI4Xg8y9KjDM6q33VAsxsX5XwxUZuSVs2l+5/K5cBG12fuwI/07zGEN6GGUwMa99rtxJXnOkY0dX8perwnlb2Y9/tAcKadfieANW0oZ0Nyc6USdX/sPqP4TGq4GTvqpAOUpzd/qjyNh3dp5MM/GjTqXiafIj9+pGaRnaYVRtJMDknM6uqJ+UT2EUblvEH5EWx2Ud+N7A==;BASU4oVfjR6WC9eLX3iA5w=="
 ---
 

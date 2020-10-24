@@ -933,6 +933,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Shaken by Trump, automakers weigh what Biden win would mean"
+    excerpt: "Detroit knows a Biden administration would be likely to restore aggressive Obama-era emission targets that Trump has tried to roll back. In addition, the former vice president would likely focus on electric and autonomous cars."
+    publishedDateTime: 2020-10-24T12:26:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-automakers-trump-biden-climate-20201023-sj7jtmdhbzcafoabhj4e6ydrre-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-automakers-trump-biden-climate-20201023-sj7jtmdhbzcafoabhj4e6ydrre-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-automakers-trump-biden-climate-20201023-sj7jtmdhbzcafoabhj4e6ydrre-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/bOK16VKXCUvZTQTpsidfvEMFZ00=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BRB6BRXHPFHYVGA6OUT3QJOEVA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump and Biden lawyer up as they brace for White House legal battle"
     excerpt: "President Donald Trump's and Democratic rival Joe Biden's campaigns are assembling armies of powerful lawyers for the possibility that the race for the White House is decided not at the ballot box but in court."
     publishedDateTime: 2020-10-23T21:40:00Z
@@ -964,6 +980,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Trump is losing the TV ad war with Biden, bigly"
+    excerpt: "As guests enter President Trump Donald John Trump Ivanka Trump, Jared Kusher's lawyer threatens to sue Lincoln Project over Times Square billboards Facebook, Twitter CEOs to testi"
+    publishedDateTime: 2020-10-24T16:00:00Z
+    webUrl: "https://thehill.com/opinion/campaign/522205-trump-is-losing-the-tv-ad-war-with-biden-bigly"
+    ampWebUrl: "https://thehill.com/opinion/campaign/522205-trump-is-losing-the-tv-ad-war-with-biden-bigly?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/campaign/522205-trump-is-losing-the-tv-ad-war-with-biden-bigly?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald5_08032020getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "2020 Daily Trail Markers: Trump and Biden both battle it out in Minnesota"
     excerpt: "The first voters began casting ballots in person in Minnesota on Friday, along with three other states, including Virginia, which saw long, packed lines at a Northern Virginia polling place."
@@ -2371,6 +2403,17 @@ related:
     webUrl: "https://www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10"
     ampWebUrl: "https://www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10?amp"
     cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-fight-over-the-raging-virus-climate-and-race-2020-10?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
+  - title: "Trump, Biden lawyer up, brace for White House legal battle"
+    excerpt: "President Donald Trump and Democratic rival Joe Biden's campaigns are assembling armies of powerful lawyers for the possibility that the race for the White House is decided not at the ballot box but in court."
+    publishedDateTime: 2020-10-24T15:11:00Z
+    webUrl: "https://www.businessinsider.com/trump-biden-lawyer-up-brace-for-white-house-legal-battle-2020-10"
+    ampWebUrl: "https://www.businessinsider.com/trump-biden-lawyer-up-brace-for-white-house-legal-battle-2020-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-biden-lawyer-up-brace-for-white-house-legal-battle-2020-10?amp"
     type: article
     provider:
       name: Business Insider

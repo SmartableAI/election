@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-vs-biden-most-important-elect
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-vs-biden-most-important-election-in-decades-gallup-poll-claims.amp"
 type: article
 quality: 199
-heat: 1899
+heat: 1919
 published: true
 
 provider:
@@ -1030,6 +1030,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pennsylvania Trump supporters blast Joe Biden's fracking flip-flop"
+    excerpt: "Breaking, a senior law enforcement official is telling FOX News that the FBI and the DOJ both concur that Hunter Biden's laptops and emails allegedly retrieved from that laptop are not part of any Russian disinformation campaign."
+    publishedDateTime: 2020-10-24T12:32:00Z
+    webUrl: "https://www.foxnews.com/transcript/pennsylvania-trump-supporters-blast-joe-bidens-fracking-flip-flop"
+    ampWebUrl: "https://www.foxnews.com/transcript/pennsylvania-trump-supporters-blast-joe-bidens-fracking-flip-flop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/pennsylvania-trump-supporters-blast-joe-bidens-fracking-flip-flop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f6322353-7ffe-42d9-ad49-8d966125d51a/13f4199b-1924-4bff-b673-d6c132749746/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trailer park threatens to double rent if Joe Biden wins election"
     excerpt: "A Colorado trailer park landlord is warning tenants of huge rent increases if Joe Biden is elected president, telling them that “everything you do and have to pay for will change completely,”"
